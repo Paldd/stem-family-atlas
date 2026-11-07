@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 6918,
-    "competition_cards": 2931,
-    "event_cards": 265,
-    "camp_cards": 3722,
+    "cards": 6930,
+    "competition_cards": 2932,
+    "event_cards": 266,
+    "camp_cards": 3732,
     "league_profiles": 256,
-    "major_exhibition_cards": 173,
+    "major_exhibition_cards": 174,
     "vex_cards": 518,
     "countries_with_records": 158,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2527,
+      "total": 2537,
       "countries_with_records": 23,
-      "competitions": 1417,
-      "events": 61,
-      "major_exhibitions": 22,
-      "camps": 1049,
+      "competitions": 1418,
+      "events": 62,
+      "major_exhibitions": 23,
+      "camps": 1057,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 1724,
+      "total": 1726,
       "countries_with_records": 42,
       "competitions": 394,
       "events": 76,
       "major_exhibitions": 55,
-      "camps": 1254,
+      "camps": 1256,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -7601,7 +7601,7 @@
       "region": "Северная Америка",
       "start": "2026-11-18",
       "end": "2026-11-20",
-      "visitor_policy": "confirm_children",
+      "visitor_policy": "adults_only",
       "source": "https://smarttechnologyexpo.mx/",
       "new": false
     },
@@ -8736,6 +8736,17 @@
       "end": "2027-06-24",
       "visitor_policy": "family",
       "source": "https://2027summit.aiforgood.itu.int/",
+      "new": false
+    },
+    {
+      "id": "E266",
+      "name": "Universum UNAM · STEM Week",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/e/393/stem-week",
       "new": false
     },
     {
@@ -11013,14 +11024,14 @@
       }
     ],
     "counts": {
-      "records": 3722,
-      "holiday": 3463,
-      "regular": 108,
+      "records": 3732,
+      "holiday": 3465,
+      "regular": 114,
       "self_paced_materials": 2,
       "boarding": 1026,
-      "en_es_instruction": 1075,
+      "en_es_instruction": 1077,
       "en_es_support": 12,
-      "family_instruction": 1075,
+      "family_instruction": 1077,
       "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 408,

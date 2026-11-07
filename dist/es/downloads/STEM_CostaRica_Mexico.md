@@ -957,15 +957,15 @@ Comprobado: 2026-09-30
 ### E097 · Smart Technology Expo 2026
 
 Fecha: 2026-11-18 国 2026-11-20
-Edad: La fuente que se lee no permite expresamente a los niños 6/9; obtener la respuesta del organizador antes de comprar los billetes.
-Matway: Condicionalmente, permitir a los niños aclarar
-Oscar: Condicionalmente, permitir a los niños aclarar
-Idioma: Idioma de la etapa específica y juez de primera instancia
-Entrada: Visitor registration / ticket del organizador; especificar las condiciones de la categoría de visitante.
-Costo: El equipo, el registro y el viaje se calculan por separado
+edad: Acceso exclusivo para mayores de edad según la sede.
+Matvey: No, exposición exclusiva para adultos.
+Oscar: No, exposición exclusiva para adultos.
+Idioma: Confirmar idioma de demostraciones con expositores.
+Acceso: Entrada gratuita con registro previo. Registro en el recinto de pago, importe sin publicar.
+Precio: Entrada gratuita con registro previo. Registro en el recinto de pago, importe sin publicar.
 Limitaciones: El nombre/ fechas de ITM de los catálogos antiguos no se equiparan automáticamente a esta actividad.
 Fuente: https://smarttechnologyexpo.mx/
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-06
 
 ### E128 · ExpoCENFO Costa Rica · Tecnología y VisionRover · 2026
 
@@ -2592,6 +2592,123 @@ Limitaciones: Los límites de la capacidad de los carteles no se definen en el n
 Fuente: https://www.wromexico.org/regionales/quintana_roo/01-Imagentablaeventos.png
 Se ha comprobado: 2026-11-06
 
+### L636 · Makerland Talenttec · B-Finder
+
+Fecha: Elegir grupo. Mar o mié 16:00–17:30, sáb 13:00–14:30 o 15:00–16:30.
+Edad: 6–8 años
+Matvey: No por edad para este grupo.
+Oscar: Sí por edad; inscripción separada
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Acceso: La plaza requiere confirmación del organizador.
+Precio: 26000 CRC al mes por menor.
+Limitaciones: Elegir grupo. Mar o mié 16:00–17:30, sáb 13:00–14:30 o 15:00–16:30. Los grupos del sábado son consecutivos. 55000 CRC al mes por ambos grupos según las tarifas publicadas. Confirmar suplementos.
+Fuente: https://makerland.talenttec.net/
+Se ha comprobado: 2026-11-06
+
+### L637 · Makerland Talenttec · B-Maker
+
+Fecha: Elegir grupo. Vie 16:00–17:30 o sáb 10:30–12:00.
+Edad: 9 a 12 años
+Matway: Sí, por edad; inscripción separada
+Oscar: No por edad para este grupo.
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Acceso: La plaza requiere confirmación del organizador.
+Precio: 29000 CRC al mes por menor.
+Limitaciones: Elegir grupo. Vie 16:00–17:30 o sáb 10:30–12:00. Los grupos del sábado son consecutivos. 55000 CRC al mes por ambos grupos según las tarifas publicadas. Confirmar suplementos.
+Fuente: https://makerland.talenttec.net/
+Se ha comprobado: 2026-11-06
+
+### L638 · Inspire Robotics · Santa Cruz Atoyac · 6-8
+
+Fecha: Sáb 09:00–10:30.
+Edad: 6–8 años
+Matvey: No por edad para este grupo.
+Oscar: Sí por edad; inscripción separada
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Acceso: La plaza requiere confirmación del organizador.
+Precio: La tarifa de este programa no está publicada.
+Limitaciones: Sáb 09:00–10:30.
+Fuente: https://www.inspirerobotics.com.mx/casa-de-cultura
+Se ha comprobado: 2026-11-06
+
+### L639 · Inspire Robotics · Santa Cruz Atoyac · 9-11
+
+Fecha: Sáb 10:30–12:00.
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Oscar: No por edad para este grupo.
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Acceso: La plaza requiere confirmación del organizador.
+Precio: La tarifa de este programa no está publicada.
+Limitaciones: Sáb 10:30–12:00.
+Fuente: https://www.inspirerobotics.com.mx/casa-de-cultura
+Se ha comprobado: 2026-11-06
+
+### L640 · Inspire Robotics · Santa Cruz Atoyac · 12-17
+
+Fecha: Sáb 12:00–13:30.
+Edad: 12*17 años
+Matvey: No por edad para este grupo.
+Oscar: No por edad para este grupo.
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Acceso: La plaza requiere confirmación del organizador.
+Precio: La tarifa de este programa no está publicada.
+Limitaciones: Sáb 12:00–13:30.
+Fuente: https://www.inspirerobotics.com.mx/casa-de-cultura
+Se ha comprobado: 2026-11-06
+
+### L641 · Tech & Science Kids · CreateLab
+
+Fecha: En vacaciones, 5–7 horas al día. Sin fechas exactas publicadas para el siguiente turno.
+edad: 4–12 años, grupos por edades.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Acceso: La plaza requiere confirmación del organizador.
+Precio: La tarifa de este programa no está publicada.
+Limitaciones: En vacaciones, 5–7 horas al día. Sin fechas exactas publicadas para el siguiente turno. Confirmar con el operador el idioma del grupo concreto. Confirmar plazo de pago, devolución y disponibilidad.
+Fuente: https://www.techandsciencekids.com/createlab
+Se ha comprobado: 2026-11-06
+
+### L642 · Tech & Science Kids · Robominds BIOGLOW
+
+Fecha: El inicio de temporada figura como agosto de 2026. Confirmar día exacto, horario y admisión tardía.
+edad: 4–12 años, grupos por edades.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Acceso: La plaza requiere confirmación del organizador.
+Precio: 1497 MXN por 4 clases al mes y 1497 MXN de matrícula. Con 6 mensualidades y matrícula, el cálculo es 10479 MXN por menor.
+Limitaciones: El inicio de temporada figura como agosto de 2026. Confirmar día exacto, horario y admisión tardía. Confirmar con el operador el idioma del grupo concreto. Confirmar plazo de pago, devolución y disponibilidad.
+Fuente: https://www.techandsciencekids.com/robomindsbioglow
+Se ha comprobado: 2026-11-06
+
+### E266 · Universum UNAM · STEM Week
+
+Fecha: 2026-11-07 — 2026-11-07
+edad: Visita al museo con entrada. Edad y aforo dependen del taller.
+Matvey: Sí por edad para demostración 5+. Confirmar grupo escolar y plazas.
+Oscar: Sí por edad para demostración 5+. Confirmar grupo escolar y plazas.
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Acceso: Visita al museo con entrada. Edad y aforo dependen del taller.
+Precio: 90 MXN adulto, 80 MXN menor, menores de 2 años gratis. La entrada de 1 adulto y 2 menores a estas tarifas cuesta 250 MXN.
+Limitaciones: Talleres accesibles con entrada del museo. Aforo limitado y programa sujeto a cambios.
+Fuente: https://www.universum.unam.mx/actividades/e/393/stem-week
+Se ha comprobado: 2026-11-06
+
+### C2933 · ExpoCiencias Nacional 2026 · Nuevo León
+
+Fecha: 2026-11-11 — 2026-11-14
+edad: Vía mexicana por grado. PP — preescolar y 1–2 de primaria, PK — 3–6 de primaria. Siguen PJ, MS y S. Delegaciones internacionales desde 12 años cumplidos al registrarse.
+Matvey: Condicional por vía mexicana con grado, institución educativa y acreditación exigidos. Venció el plazo de esta edición. Para delegación internacional la edad es inferior a 12 años.
+Oscar: Condicional por vía mexicana con grado, institución educativa y acreditación exigidos. Venció el plazo de esta edición. Para delegación internacional la edad es inferior a 12 años.
+Idioma: Las bases mexicanas permiten evaluación oral en EN o ES según nivel de inglés declarado en el registro. El idioma concreto se asigna por separado.
+Acceso: Para la final mexicana se exige proyecto en institución educativa del país y acreditación de ExpoCiencias estatal, Pandillas Científicas o certamen afiliado 2026. Venció el plazo de registro del 9 de octubre de 2026. El registro internacional cerró el 28 de agosto de 2026.
+Precio: Vía mexicana 940 MXN por persona. En PP, PK y PJ el acompañante también paga 940 MXN previa autorización. Paquete internacional 545 USD por estudiante o asesor, 700 USD por acompañante. El paquete internacional incluye 4 noches y comidas indicadas. Vuelo por separado.
+Limitaciones: 11 de noviembre registro presencial e instalación de stands. 12–13 de noviembre exposición y evaluación. 14 de noviembre premiación. La convocatoria indica GTM-5, CDMX para la hora límite. Confirmar zona con el organizador.
+Fuente: https://expocienciasnacional.laredmex.org/wp-content/uploads/2026/06/Convocatoria-ECN-2026-NL.pdf
+Se ha comprobado: 2026-11-06
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -2955,6 +3072,19 @@ Costo: 2027 · Regular7800 /early6200; día entero no se conoce el precio de los
 Limitaciones: Matvey: a Matvey 9–10 en 2027, Entra 7–15; Idioma/lugar/La disposición a pasar la noche confirmando. Oscar: Oscar no hasta después de 7-verano a 2027; antes 7 No se ha aplicado el mínimo. Gastos adicionales: Anticipo de precio, Pago no separado. Un paquete completo de comida/kit/Transmisores/Impuestos y el contrato de abolición no se ha publicado. FAQ: accident major-medical GNP durante el período stay; tamaño/de las excepciones a verificar. ICF affiliation — su propia declaración; ACA Sólo «Pronto.», RNT pending, no confirmada ACA Acreditación. Pago: MXN1200 a la tarifa; Cancelación por escrito desconocida.
 Fuente: https://berkana.camp/tyrskamp
 Comprobado: 2026-10-06
+
+### CP944-20270118-20270121 · UCR CIMM · Mat’enCiAr Summer · Matenciar · 2027-01-18–2027-01-21
+
+Fecha: 2027-01-18 — 2027-01-21
+edad: 10–12 años. Las bases 2027 indican la edad. Confirmar grado equivalente y fecha de comprobación de edad.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Acceso: Completar solicitud hasta el 18 de diciembre de 2026. UCR comprueba requisitos y confirma la plaza al tutor por correo.
+Precio: 2027 · 5000 CRC por turno, incluido seguro INS. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Año de nacimiento 2017. Confirmar cuándo UCR verifica que tiene 10 años y si exige constancia de grado. Oscar: Nació en 2020. Este turno requiere tener al menos 10 años. Suplementos: El menor trae su merienda. Transporte por separado. Pago: Tras verificar requisitos, UCR envía al tutor confirmación de plaza y datos de pago.
+Fuente: https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html
+Se ha comprobado: 2026-11-06
 
 ### CP1080-20261207-20261211 · CENFOTEC · Explorador IA · El IE de la adolescencia · 2026-12-07–2026-12-11
 

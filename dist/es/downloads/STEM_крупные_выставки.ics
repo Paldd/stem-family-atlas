@@ -811,21 +811,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E097@family-stem.local
-DTSTAMP:20261006T205843Z
-SUMMARY:[Exposición · confirmar admisión de menores] Smart Technology 
- Expo 2026
+DTSTAMP:20261107T055014Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] Smart Technolog
+ y Expo 2026
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261121
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. No hay una 
- autorización clara para los niños 6/9 en la fuente que se lee\; obtene
- r la respuesta del organizador antes de comprar los boletos. Entrada de 
- adultos: Visitor registration / boleto del organizador\; especificar las
-  condiciones de la categoría del visitante.. El nombre / fecha de ITM d
- e los catálogos antiguos no se equiparan automáticamente a este evento
- . Empresas: la presencia de industrias / expo confirmada. la lista separ
- ada de las empresas de esta edición no se ha comprobado\; la participac
- ión de los expositores pasados no se garantiza.. Fuente verificada el 2
- 026-09-30.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Acceso excl
+ usivo para mayores de edad según la sede. Entrada de adultos: Entrada g
+ ratuita con registro previo. Registro en el recinto de pago\, importe si
+ n publicar.. El nombre / fecha de ITM de los catálogos antiguos no se e
+ quiparan automáticamente a este evento. Empresas: la presencia de indus
+ trias / expo confirmada. la lista separada de las empresas de esta edici
+ ón no se ha comprobado\; la participación de los expositores pasados n
+ o se garantiza.. Fuente verificada el 2026-11-06.
 LOCATION:Guadalajara · Expo Guadalajara\, México
 URL:https://smarttechnologyexpo.mx/
 STATUS:TENTATIVE
@@ -2561,6 +2559,24 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. 21–24 de
  verificada el 2026-11-06.
 LOCATION:Palexpo · Route François-Peyrot 30 · Geneva\, Suiza
 URL:https://2027summit.aiforgood.itu.int/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E266@family-stem.local
+DTSTAMP:20261107T055014Z
+SUMMARY:[Exposición · visita en familia] Universum UNAM · STEM Week
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Visita al m
+ useo con entrada. Edad y aforo dependen del taller. Entrada de adultos: 
+ 90 MXN adulto\, 80 MXN menor\, menores de 2 años gratis. La entrada de 
+ 1 adulto y 2 menores a estas tarifas cuesta 250 MXN.. Talleres accesible
+ s con entrada del museo. Aforo limitado y programa sujeto a cambios. Emp
+ resas: Talleres y demostraciones de museo.. Fuente verificada el 2026-11
+ -06.
+LOCATION:Universum\, UNAM · Coyoacán\, CDMX\, México
+URL:https://www.universum.unam.mx/actividades/e/393/stem-week
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

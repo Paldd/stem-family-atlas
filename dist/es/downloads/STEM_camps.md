@@ -8950,6 +8950,150 @@ Limitaciones: Fecha formativa tomada de General information, no de campos de tor
 Fuente: https://recfevents.org/Events/Details/159
 Se ha comprobado: 2026-11-06
 
+### L636 · Makerland Talenttec · B-Finder
+
+Lugar: Costa Rica Talenttec · Los Parques, San Ramón
+Fecha: Elegir grupo. Mar o mié 16:00–17:30, sáb 13:00–14:30 o 15:00–16:30.
+Edad: 6–8 años
+Matvey: No por edad para este grupo.
+Oscar: Sí por edad; inscripción separada
+Formato: regular
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 26000 CRC al mes por menor.
+Acceso: La plaza requiere confirmación del organizador.
+Limitaciones: Elegir grupo. Mar o mié 16:00–17:30, sáb 13:00–14:30 o 15:00–16:30. Los grupos del sábado son consecutivos. 55000 CRC al mes por ambos grupos según las tarifas publicadas. Confirmar suplementos.
+Fuente: https://makerland.talenttec.net/
+Se ha comprobado: 2026-11-06
+
+### L637 · Makerland Talenttec · B-Maker
+
+Lugar: Costa Rica Talenttec · Los Parques, San Ramón
+Fecha: Elegir grupo. Vie 16:00–17:30 o sáb 10:30–12:00.
+Edad: 9 a 12 años
+Matway: Sí, por edad; inscripción separada
+Oscar: No por edad para este grupo.
+Formato: regular
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 29000 CRC al mes por menor.
+Acceso: La plaza requiere confirmación del organizador.
+Limitaciones: Elegir grupo. Vie 16:00–17:30 o sáb 10:30–12:00. Los grupos del sábado son consecutivos. 55000 CRC al mes por ambos grupos según las tarifas publicadas. Confirmar suplementos.
+Fuente: https://makerland.talenttec.net/
+Se ha comprobado: 2026-11-06
+
+### L638 · Inspire Robotics · Santa Cruz Atoyac · 6-8
+
+Lugar: México Casa de Cultura Santa Cruz Atoyac · CDMX
+Fecha: Sáb 09:00–10:30.
+Edad: 6–8 años
+Matvey: No por edad para este grupo.
+Oscar: Sí por edad; inscripción separada
+Formato: regular
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa de este programa no está publicada.
+Acceso: La plaza requiere confirmación del organizador.
+Limitaciones: Sáb 09:00–10:30.
+Fuente: https://www.inspirerobotics.com.mx/casa-de-cultura
+Se ha comprobado: 2026-11-06
+
+### L639 · Inspire Robotics · Santa Cruz Atoyac · 9-11
+
+Lugar: México Casa de Cultura Santa Cruz Atoyac · CDMX
+Fecha: Sáb 10:30–12:00.
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Oscar: No por edad para este grupo.
+Formato: regular
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa de este programa no está publicada.
+Acceso: La plaza requiere confirmación del organizador.
+Limitaciones: Sáb 10:30–12:00.
+Fuente: https://www.inspirerobotics.com.mx/casa-de-cultura
+Se ha comprobado: 2026-11-06
+
+### L640 · Inspire Robotics · Santa Cruz Atoyac · 12-17
+
+Lugar: México Casa de Cultura Santa Cruz Atoyac · CDMX
+Fecha: Sáb 12:00–13:30.
+Edad: 12*17 años
+Matvey: No por edad para este grupo.
+Oscar: No por edad para este grupo.
+Formato: regular
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa de este programa no está publicada.
+Acceso: La plaza requiere confirmación del organizador.
+Limitaciones: Sáb 12:00–13:30.
+Fuente: https://www.inspirerobotics.com.mx/casa-de-cultura
+Se ha comprobado: 2026-11-06
+
+### L641 · Tech & Science Kids · CreateLab
+
+Lugar: México Diamante 87 · Col. Estrella, GAM · CDMX
+Fecha: En vacaciones, 5–7 horas al día. Sin fechas exactas publicadas para el siguiente turno.
+edad: 4–12 años, grupos por edades.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa de este programa no está publicada.
+Acceso: La plaza requiere confirmación del organizador.
+Limitaciones: En vacaciones, 5–7 horas al día. Sin fechas exactas publicadas para el siguiente turno. Confirmar con el operador el idioma del grupo concreto. Confirmar plazo de pago, devolución y disponibilidad.
+Fuente: https://www.techandsciencekids.com/createlab
+Se ha comprobado: 2026-11-06
+
+### L642 · Tech & Science Kids · Robominds BIOGLOW
+
+Lugar: México Diamante 87 · Col. Estrella, GAM · CDMX
+Fecha: El inicio de temporada figura como agosto de 2026. Confirmar día exacto, horario y admisión tardía.
+edad: 4–12 años, grupos por edades.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: regular
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 1497 MXN por 4 clases al mes y 1497 MXN de matrícula. Con 6 mensualidades y matrícula, el cálculo es 10479 MXN por menor.
+Acceso: La plaza requiere confirmación del organizador.
+Limitaciones: El inicio de temporada figura como agosto de 2026. Confirmar día exacto, horario y admisión tardía. Confirmar con el operador el idioma del grupo concreto. Confirmar plazo de pago, devolución y disponibilidad.
+Fuente: https://www.techandsciencekids.com/robomindsbioglow
+Se ha comprobado: 2026-11-06
+
+### L643 · TechLab Kids Academy · Scratch
+
+lugar: España · En línea desde Latinoamérica · operador Barcelona
+Fecha: Para Latinoamérica y EE. UU. se anuncia febrero de 2027. Mié 17:30–19:00 hora local según ficha. Calendario exacto tras formar grupo.
+edad: 7–9 años según la descripción del curso.
+Matway: Sí, por edad; inscripción separada
+Oscar: No por edad para este grupo.
+Formato: online
+Idioma: Clases en directo en español por videollamada. El operador indica acceso desde Latinoamérica.
+Marca de idioma: primary; soporte: no declarado
+Precio: 320 EUR por curso completo en dos pagos del 50% o 378 EUR a plazos. El fraccionamiento incluye 42 EUR al inscribirse y otros 8 pagos de 42 EUR.
+Acceso: La plaza requiere confirmación del organizador.
+Limitaciones: Para Latinoamérica y EE. UU. se anuncia febrero de 2027. Mié 17:30–19:00 hora local según ficha. Calendario exacto tras formar grupo.
+Fuente: https://academy.techlabkids.com/curso/programacion-con-scratch/
+Se ha comprobado: 2026-11-06
+
+### L644 · TechLab Kids Academy · Programación y Creación Digital
+
+lugar: España · En línea desde Latinoamérica · operador Barcelona
+Fecha: La ficha del curso digital indica febrero de 2026 para Latinoamérica. Confirmar próxima convocatoria y horario.
+edad: 8–12 años según la descripción del curso.
+Matway: Sí, por edad; inscripción separada
+Oscar: No por edad para este grupo.
+Formato: online
+Idioma: Clases en directo en español por videollamada. El operador indica acceso desde Latinoamérica.
+Marca de idioma: primary; soporte: no declarado
+Precio: La ficha indica 320 EUR en dos pagos o 378 EUR a plazos. Confirmar tarifa del próximo grupo en Latinoamérica.
+Acceso: La plaza requiere confirmación del organizador.
+Limitaciones: La ficha del curso digital indica febrero de 2026 para Latinoamérica. Confirmar próxima convocatoria y horario.
+Fuente: https://academy.techlabkids.com/programacion-y-creacion-digital/
+Se ha comprobado: 2026-11-06
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -39941,6 +40085,22 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Limitaciones: Matvey: No se ha establecido la edad mínima en la página de lectura; Los participantes extranjeros no confirman la inscripción de este niño. Oscar: No se ha establecido la edad mínima en la página de lectura; Los participantes extranjeros no confirman la inscripción de este niño. Gastos adicionales: Golf/riding/tennisplus hasta 500; Vestido especial/UM/vuelos/Seniortrips Por separado. Pago: Earlycredit antes 01.10.2026 Ya se había terminado en la fecha de la verificación 06.10; tamaño/depósito/No se ha determinado su cancelación.
 Fuente: https://www.campwatitoh.com/about-watitoh/dates-fees-faqs/
 Comprobado: 2026-10-06
+
+### CP944-20270118-20270121 · UCR CIMM · Mat’enCiAr Summer · Matenciar · 2027-01-18–2027-01-21
+
+Lugar: Costa Rica Instalaciones Deportivas UCR · Montes de Oca
+Fecha: 2027-01-18 — 2027-01-21
+edad: 10–12 años. Las bases 2027 indican la edad. Confirmar grado equivalente y fecha de comprobación de edad.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Confirmar con el operador el idioma del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 5000 CRC por turno, incluido seguro INS. · suplementos y condiciones en el dossier
+Acceso: Completar solicitud hasta el 18 de diciembre de 2026. UCR comprueba requisitos y confirma la plaza al tutor por correo.
+Limitaciones: Matvey: Año de nacimiento 2017. Confirmar cuándo UCR verifica que tiene 10 años y si exige constancia de grado. Oscar: Nació en 2020. Este turno requiere tener al menos 10 años. Suplementos: El menor trae su merienda. Transporte por separado. Pago: Tras verificar requisitos, UCR envía al tutor confirmación de plaza y datos de pago.
+Fuente: https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html
+Se ha comprobado: 2026-11-06
 
 ### CP950-20270104-20270110 · Movimento Manque Chile · International Summer2027 · Manque Chile/IFM-SEI · autorización para aclarar · 2027-01-04________________2027-01-10
 

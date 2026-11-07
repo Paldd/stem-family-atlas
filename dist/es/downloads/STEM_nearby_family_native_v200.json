@@ -1,0 +1,150 @@
+{
+  "version": 200,
+  "checked": "2026-11-06",
+  "learning_event_ids": [
+    "L636",
+    "L637",
+    "L638",
+    "L639",
+    "L640",
+    "L641",
+    "L642",
+    "L643",
+    "L644"
+  ],
+  "camp_session_id": "CP944-20270118-20270121",
+  "competition_id": "C2933",
+  "museum_event_id": "E266",
+  "corrected_visitor_event_id": "E097",
+  "museum_slots": [
+    "Zumbamental, 7+ y desde primaria. 10:00–17:00, 40 min, 30–40 participantes.",
+    "Retransmisión de lectura, 8–12 y primaria. 11:00–16:00, 40 min, 10 participantes.",
+    "Modelo de célula, 10+ y desde primaria. 11:00–13:00 y 14:00–16:00, 30 min, 10 participantes.",
+    "Agronomía espacial, 12+ y desde secundaria. 11:00–16:00, 15 min, 6 participantes.",
+    "Experimentos «Ciencia o truco», 5+ y preescolar o primaria. 13:00–16:00, 20 min, 10 participantes."
+  ],
+  "previous_smart_policy": {
+    "visitor_policy": "confirm_children",
+    "checked": "2026-09-30",
+    "proof": "Se ha leído la fuente primaria; las fechas exactas y las condiciones desconocidas se dividen."
+  },
+  "related_route_checks": [
+    {
+      "id": "C1208",
+      "status": "unchanged_exact_current_edition",
+      "source": "https://infomatrix.lat/iberoamericana/"
+    },
+    {
+      "id": "E191",
+      "status": "provider_current_rules_unavailable",
+      "source": "https://www.bajabot.com/",
+      "reported_date": "2027-04-18",
+      "confirmed_date": false,
+      "reporting_source": "https://afntijuana.info/informacion_general/183720_sera_el_trompo_sede_de_torneos_de_robotica_bajabot_e_infomatrix_iberoamerica"
+    },
+    {
+      "id": "L141",
+      "status": "conflicting_duration_retained_undated",
+      "source": "https://liota.mx/"
+    },
+    {
+      "id": "C2933",
+      "status": "no_general_public_visitor_rules_verified",
+      "source": "https://expocienciasnacional.laredmex.org/wp-content/uploads/2026/10/Programa-General-ECN2026-Nuevo-Leon.pdf"
+    }
+  ],
+  "family_timetables": [
+    {
+      "provider": "Makerland Talenttec",
+      "iso": "CRI",
+      "day": "SA",
+      "timezone": "America/Costa_Rica",
+      "same_venue": true,
+      "confirmed_enrollment": false,
+      "combined_monthly_tuition": 55000,
+      "currency": "CRC",
+      "matvey": {
+        "profile_id": "CP1499",
+        "start_time": "10:30",
+        "end_time": "12:00"
+      },
+      "oscar": {
+        "profile_id": "CP1498",
+        "start_time": "13:00",
+        "end_time": "14:30"
+      },
+      "gap_minutes": 60
+    },
+    {
+      "provider": "Inspire Robotics",
+      "iso": "MEX",
+      "day": "SA",
+      "timezone": "America/Mexico_City",
+      "same_venue": true,
+      "confirmed_enrollment": false,
+      "matvey": {
+        "profile_id": "CP1501",
+        "start_time": "10:30",
+        "end_time": "12:00"
+      },
+      "oscar": {
+        "profile_id": "CP1500",
+        "start_time": "09:00",
+        "end_time": "10:30"
+      },
+      "gap_minutes": 0
+    }
+  ],
+  "final_routes": {
+    "domestic": {
+      "min_students": 1,
+      "max_students": 3,
+      "advisers": 1,
+      "fee_per_person": 940,
+      "currency": "MXN",
+      "school_in_mexico_required": true,
+      "regional_accreditation_required": true,
+      "deadline": "2026-10-09",
+      "deadline_zone_resolved": false,
+      "language_options": [
+        "EN",
+        "ES"
+      ],
+      "categories": {
+        "PP": [
+          "preescolar",
+          "primaria-1",
+          "primaria-2"
+        ],
+        "PK": [
+          "primaria-3",
+          "primaria-4",
+          "primaria-5",
+          "primaria-6"
+        ],
+        "PJ": [
+          "secundaria"
+        ],
+        "MS": [
+          "media-superior"
+        ],
+        "S": [
+          "superior"
+        ]
+      },
+      "pp_international_accreditation": false
+    },
+    "international": {
+      "min_age": 12,
+      "min_students": 1,
+      "max_students": 3,
+      "advisers": 1,
+      "fee_student": 545,
+      "fee_adviser": 545,
+      "fee_accompanying": 700,
+      "currency": "USD",
+      "deadline": "2026-08-28",
+      "hotel_nights": 4
+    }
+  }
+}

@@ -580,14 +580,14 @@
       }
     ],
     "counts": {
-      "records": 3722,
-      "holiday": 3463,
-      "regular": 108,
+      "records": 3732,
+      "holiday": 3465,
+      "regular": 114,
       "self_paced_materials": 2,
       "boarding": 1026,
-      "en_es_instruction": 1075,
+      "en_es_instruction": 1077,
       "en_es_support": 12,
-      "family_instruction": 1075,
+      "family_instruction": 1077,
       "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 408,
@@ -32103,6 +32103,544 @@
         "C2903"
       ],
       "workshop_code": "PRO20263223"
+    },
+    {
+      "id": "L636",
+      "title": "Makerland Talenttec · B-Finder",
+      "country": "Коста-Рика",
+      "region": "Центральная Америка",
+      "city": "Talenttec · Los Parques, San Ramón",
+      "block": "Лагеря",
+      "source": "https://makerland.talenttec.net/",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "iso": [
+        "CRI"
+      ],
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Выбор группы. Вт или Ср 16:00–17:30, Сб 13:00–14:30 или 15:00–16:30.",
+      "date_status": "Уточнить",
+      "age": "6–8 лет",
+      "mat": "Нет по возрасту этой группы.",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Регулярные очные занятия по возрастным группам.",
+      "entry": "Место требует подтверждения организатора.",
+      "gear": "Проектная робототехника. Дети исследуют, собирают и программируют проекты, испытывают их и представляют результаты. В некоторых модулях есть внутренние турниры.",
+      "language": "Язык конкретной группы уточнить у оператора.",
+      "cost": "26000 CRC в месяц за ребёнка.",
+      "level": "D — обучение",
+      "reward": "Практические проекты и знакомство с инженерным циклом.",
+      "priority": "P2 — уточнить места и допуск",
+      "action": "Уточнить места, действующий месяц тарифа, язык занятий и условия акции на регистрацию.",
+      "proof": "Официальная программа и условия прочитаны.",
+      "note": "Выбор группы. Вт или Ср 16:00–17:30, Сб 13:00–14:30 или 15:00–16:30. Субботние группы идут последовательно. 55000 CRC в месяц за обе группы по опубликованным тарифам. Доплаты уточнить.",
+      "scope": "local",
+      "importance_reason": "Практические проекты и знакомство с инженерным циклом.",
+      "references": [
+        {
+          "url": "https://makerland.talenttec.net/",
+          "label": "Makerland · возраст, группы и месячные тарифы"
+        },
+        {
+          "url": "https://talenttecschool.com/servicios/",
+          "label": "Talenttec · приём внешних учеников"
+        }
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык конкретной группы уточнить у оператора.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "programme",
+      "camp_programme_id": "CP1498",
+      "camp_dossier_slug": "makerland-b-finder"
+    },
+    {
+      "id": "L637",
+      "title": "Makerland Talenttec · B-Maker",
+      "country": "Коста-Рика",
+      "region": "Центральная Америка",
+      "city": "Talenttec · Los Parques, San Ramón",
+      "block": "Лагеря",
+      "source": "https://makerland.talenttec.net/",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "iso": [
+        "CRI"
+      ],
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Выбор группы. Пт 16:00–17:30 или Сб 10:30–12:00.",
+      "date_status": "Уточнить",
+      "age": "9–12 лет",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет по возрасту этой группы.",
+      "format": "Регулярные очные занятия по возрастным группам.",
+      "entry": "Место требует подтверждения организатора.",
+      "gear": "Проектная робототехника. Дети исследуют, собирают и программируют проекты, испытывают их и представляют результаты. В некоторых модулях есть внутренние турниры.",
+      "language": "Язык конкретной группы уточнить у оператора.",
+      "cost": "29000 CRC в месяц за ребёнка.",
+      "level": "D — обучение",
+      "reward": "Практические проекты и знакомство с инженерным циклом.",
+      "priority": "P2 — уточнить места и допуск",
+      "action": "Уточнить места, действующий месяц тарифа, язык занятий и условия акции на регистрацию.",
+      "proof": "Официальная программа и условия прочитаны.",
+      "note": "Выбор группы. Пт 16:00–17:30 или Сб 10:30–12:00. Субботние группы идут последовательно. 55000 CRC в месяц за обе группы по опубликованным тарифам. Доплаты уточнить.",
+      "scope": "local",
+      "importance_reason": "Практические проекты и знакомство с инженерным циклом.",
+      "references": [
+        {
+          "url": "https://makerland.talenttec.net/",
+          "label": "Makerland · возраст, группы и месячные тарифы"
+        },
+        {
+          "url": "https://talenttecschool.com/servicios/",
+          "label": "Talenttec · приём внешних учеников"
+        }
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык конкретной группы уточнить у оператора.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "programme",
+      "camp_programme_id": "CP1499",
+      "camp_dossier_slug": "makerland-b-maker"
+    },
+    {
+      "id": "L638",
+      "title": "Inspire Robotics · Santa Cruz Atoyac · 6-8",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Casa de Cultura Santa Cruz Atoyac · CDMX",
+      "block": "Лагеря",
+      "source": "https://www.inspirerobotics.com.mx/casa-de-cultura",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "iso": [
+        "MEX"
+      ],
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Сб 09:00–10:30.",
+      "date_status": "Уточнить",
+      "age": "6–8 лет",
+      "mat": "Нет по возрасту этой группы.",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Регулярные очные занятия по возрастным группам.",
+      "entry": "Место требует подтверждения организатора.",
+      "gear": "Интегрированная платформа для первых роботов, логики и блочного мышления.",
+      "language": "Язык конкретной группы уточнить у оператора.",
+      "cost": "Тариф на эту программу не опубликован.",
+      "level": "D — обучение",
+      "reward": "Практические проекты и знакомство с инженерным циклом.",
+      "priority": "P2 — уточнить места и допуск",
+      "action": "Страница приглашает записываться. Уточнить наличие места, сроки цикла, стоимость и язык занятий.",
+      "proof": "Официальная программа и условия прочитаны.",
+      "note": "Сб 09:00–10:30.",
+      "scope": "local",
+      "importance_reason": "Практические проекты и знакомство с инженерным циклом.",
+      "references": [
+        {
+          "url": "https://www.inspirerobotics.com.mx/casa-de-cultura",
+          "label": "Inspire Robotics · курсы в Casa de Cultura"
+        }
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык конкретной группы уточнить у оператора.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "programme",
+      "camp_programme_id": "CP1500",
+      "camp_dossier_slug": "inspire-robotics-atoyac-6-8"
+    },
+    {
+      "id": "L639",
+      "title": "Inspire Robotics · Santa Cruz Atoyac · 9-11",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Casa de Cultura Santa Cruz Atoyac · CDMX",
+      "block": "Лагеря",
+      "source": "https://www.inspirerobotics.com.mx/casa-de-cultura",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "iso": [
+        "MEX"
+      ],
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Сб 10:30–12:00.",
+      "date_status": "Уточнить",
+      "age": "9–11 лет",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет по возрасту этой группы.",
+      "format": "Регулярные очные занятия по возрастным группам.",
+      "entry": "Место требует подтверждения организатора.",
+      "gear": "Интерактивные проекты с отдельными компонентами и структурированным программированием.",
+      "language": "Язык конкретной группы уточнить у оператора.",
+      "cost": "Тариф на эту программу не опубликован.",
+      "level": "D — обучение",
+      "reward": "Практические проекты и знакомство с инженерным циклом.",
+      "priority": "P2 — уточнить места и допуск",
+      "action": "Страница приглашает записываться. Уточнить наличие места, сроки цикла, стоимость и язык занятий.",
+      "proof": "Официальная программа и условия прочитаны.",
+      "note": "Сб 10:30–12:00.",
+      "scope": "local",
+      "importance_reason": "Практические проекты и знакомство с инженерным циклом.",
+      "references": [
+        {
+          "url": "https://www.inspirerobotics.com.mx/casa-de-cultura",
+          "label": "Inspire Robotics · курсы в Casa de Cultura"
+        }
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык конкретной группы уточнить у оператора.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "programme",
+      "camp_programme_id": "CP1501",
+      "camp_dossier_slug": "inspire-robotics-atoyac-9-11"
+    },
+    {
+      "id": "L640",
+      "title": "Inspire Robotics · Santa Cruz Atoyac · 12-17",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Casa de Cultura Santa Cruz Atoyac · CDMX",
+      "block": "Лагеря",
+      "source": "https://www.inspirerobotics.com.mx/casa-de-cultura",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "iso": [
+        "MEX"
+      ],
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Сб 12:00–13:30.",
+      "date_status": "Уточнить",
+      "age": "12–17 лет",
+      "mat": "Нет по возрасту этой группы.",
+      "osc": "Нет по возрасту этой группы.",
+      "format": "Регулярные очные занятия по возрастным группам.",
+      "entry": "Место требует подтверждения организатора.",
+      "gear": "Инженерные проекты с открытой платформой и текстовым кодом.",
+      "language": "Язык конкретной группы уточнить у оператора.",
+      "cost": "Тариф на эту программу не опубликован.",
+      "level": "D — обучение",
+      "reward": "Практические проекты и знакомство с инженерным циклом.",
+      "priority": "P4 — будущий возраст",
+      "action": "Страница приглашает записываться. Уточнить наличие места, сроки цикла, стоимость и язык занятий.",
+      "proof": "Официальная программа и условия прочитаны.",
+      "note": "Сб 12:00–13:30.",
+      "scope": "local",
+      "importance_reason": "Практические проекты и знакомство с инженерным циклом.",
+      "references": [
+        {
+          "url": "https://www.inspirerobotics.com.mx/casa-de-cultura",
+          "label": "Inspire Robotics · курсы в Casa de Cultura"
+        }
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык конкретной группы уточнить у оператора.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "programme",
+      "camp_programme_id": "CP1502",
+      "camp_dossier_slug": "inspire-robotics-atoyac-12-17"
+    },
+    {
+      "id": "L641",
+      "title": "Tech & Science Kids · CreateLab",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Diamante 87 · Col. Estrella, GAM · CDMX",
+      "block": "Лагеря",
+      "source": "https://www.techandsciencekids.com/createlab",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "iso": [
+        "MEX"
+      ],
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "На каникулах 5–7 часов в день. Точные даты следующей смены не опубликованы.",
+      "date_status": "Уточнить",
+      "age": "4–12 лет, группы по возрасту.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневная каникулярная программа.",
+      "entry": "Место требует подтверждения организатора.",
+      "gear": "Каникулярные недели с тематическими STEAM-задачами. В меню эксперименты, проектирование, программирование, робототехника и LEGO. Тему конкретной недели уточнить.",
+      "language": "Язык конкретной группы уточнить у оператора.",
+      "cost": "Тариф на эту программу не опубликован.",
+      "level": "D — обучение",
+      "reward": "Практические проекты и знакомство с инженерным циклом.",
+      "priority": "P2 — уточнить места и допуск",
+      "action": "Точные даты следующей группы и доступные места уточнить.",
+      "proof": "Официальная программа и условия прочитаны.",
+      "note": "На каникулах 5–7 часов в день. Точные даты следующей смены не опубликованы. Язык конкретной группы уточнить у оператора. Срок оплаты, возврат и наличие мест уточнить.",
+      "scope": "local",
+      "importance_reason": "Практические проекты и знакомство с инженерным циклом.",
+      "references": [
+        {
+          "url": "https://www.techandsciencekids.com/createlab",
+          "label": "CreateLab · содержание каникулярных мастерских"
+        },
+        {
+          "url": "https://www.techandsciencekids.com/nuestros-servicios",
+          "label": "Tech & Science Kids · возраст и длительность каникулярного дня"
+        },
+        {
+          "url": "https://www.techandsciencekids.com/calendario-y-avisos",
+          "label": "Tech & Science Kids · календарь анонсов"
+        }
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "science",
+        "technology",
+        "art"
+      ],
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык конкретной группы уточнить у оператора.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "programme",
+      "camp_programme_id": "CP1503",
+      "camp_dossier_slug": "tech-science-kids-createlab"
+    },
+    {
+      "id": "L642",
+      "title": "Tech & Science Kids · Robominds BIOGLOW",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Diamante 87 · Col. Estrella, GAM · CDMX",
+      "block": "Лагеря",
+      "source": "https://www.techandsciencekids.com/robomindsbioglow",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "iso": [
+        "MEX"
+      ],
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Начало сезона указано как август 2026. Точный день, расписание и поздний приём уточнить.",
+      "date_status": "Уточнить",
+      "age": "4–12 лет, группы по возрасту.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Регулярные очные занятия по возрастным группам.",
+      "entry": "Место требует подтверждения организатора.",
+      "gear": "Проекты по биоразнообразию с робототехникой и кодом. 24 занятия по 1.5 часа за 6 месяцев. Уточнить, предполагает ли выбранная группа участие в конкретном официальном турнире.",
+      "language": "Язык конкретной группы уточнить у оператора.",
+      "cost": "1497 MXN за 4 занятия в месяц и 1497 MXN за регистрацию. При 6 месячных платежах и регистрации расчёт 10479 MXN на ребёнка.",
+      "level": "D — обучение",
+      "reward": "Практические проекты и знакомство с инженерным циклом.",
+      "priority": "P2 — уточнить места и допуск",
+      "action": "Точные даты следующей группы и доступные места уточнить.",
+      "proof": "Официальная программа и условия прочитаны.",
+      "note": "Начало сезона указано как август 2026. Точный день, расписание и поздний приём уточнить. Язык конкретной группы уточнить у оператора. Срок оплаты, возврат и наличие мест уточнить.",
+      "scope": "local",
+      "importance_reason": "Практические проекты и знакомство с инженерным циклом.",
+      "references": [
+        {
+          "url": "https://www.techandsciencekids.com/robomindsbioglow",
+          "label": "Robominds BIOGLOW · сезон, нагрузка и цены"
+        },
+        {
+          "url": "https://www.techandsciencekids.com/calendario-y-avisos",
+          "label": "Tech & Science Kids · календарь анонсов"
+        }
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "science",
+        "technology"
+      ],
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык конкретной группы уточнить у оператора.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "programme",
+      "camp_programme_id": "CP1504",
+      "camp_dossier_slug": "tech-science-kids-robominds-bioglow"
+    },
+    {
+      "id": "L643",
+      "title": "TechLab Kids Academy · Scratch",
+      "country": "Испания",
+      "region": "Европа",
+      "city": "Онлайн из Латинской Америки · оператор Barcelona",
+      "block": "Лагеря",
+      "source": "https://academy.techlabkids.com/curso/programacion-con-scratch/",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "iso": [
+        "ESP"
+      ],
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Для Латинской Америки и США объявлен февраль 2027. Ср 17:30–19:00 по местному времени по карточке. Точный календарь после формирования группы.",
+      "date_status": "Уточнить",
+      "age": "7–9 лет по описанию курса.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет по возрасту этой группы.",
+      "format": "Индивидуальная заявка на групповое онлайн-обучение.",
+      "entry": "Место требует подтверждения организатора.",
+      "gear": "32 живых занятия в группе 3–6. Scratch с нуля, интерактивные истории, анимация и игры. Записи доступны.",
+      "language": "Живые занятия на испанском по видеосвязи. Оператор указывает доступ из Латинской Америки.",
+      "cost": "320 EUR за полный курс двумя платежами по 50% или 378 EUR в рассрочку. Рассрочка включает 42 EUR при записи и ещё 8 платежей по 42 EUR.",
+      "level": "D — обучение",
+      "reward": "Практические проекты и знакомство с инженерным циклом.",
+      "priority": "P2 — уточнить места и допуск",
+      "action": "Запросить время в часовом поясе семьи, полную цену и требования к устройству.",
+      "proof": "Официальная программа и условия прочитаны.",
+      "note": "Для Латинской Америки и США объявлен февраль 2027. Ср 17:30–19:00 по местному времени по карточке. Точный календарь после формирования группы.",
+      "scope": "local",
+      "importance_reason": "Практические проекты и знакомство с инженерным циклом.",
+      "references": [
+        {
+          "url": "https://academy.techlabkids.com/curso/programacion-con-scratch/",
+          "label": "TechLab Kids · Scratch для Америки, график и оплата"
+        },
+        {
+          "url": "https://academy.techlabkids.com/programacion-con-scratch/",
+          "label": "TechLab Kids · содержание и возраст курса"
+        },
+        {
+          "url": "https://academy.techlabkids.com/",
+          "label": "TechLab Kids · онлайн-формат и испанский язык"
+        }
+      ],
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Живые занятия на испанском по видеосвязи. Оператор указывает доступ из Латинской Америки.",
+      "participation": "online",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "programme",
+      "camp_programme_id": "CP1505",
+      "camp_dossier_slug": "techlabkids-online-scratch"
+    },
+    {
+      "id": "L644",
+      "title": "TechLab Kids Academy · Programación y Creación Digital",
+      "country": "Испания",
+      "region": "Европа",
+      "city": "Онлайн из Латинской Америки · оператор Barcelona",
+      "block": "Лагеря",
+      "source": "https://academy.techlabkids.com/programacion-y-creacion-digital/",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "iso": [
+        "ESP"
+      ],
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "В карточке цифрового курса для Латинской Америки указан февраль 2026. Следующий набор и расписание уточнить.",
+      "date_status": "Уточнить",
+      "age": "8–12 лет по описанию курса.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет по возрасту этой группы.",
+      "format": "Индивидуальная заявка на групповое онлайн-обучение.",
+      "entry": "Место требует подтверждения организатора.",
+      "gear": "Блочный код в MakeCode и Scratch, дизайн 2D и 3D в Tinkercad, интерактивные VR-среды в CoSpaces.",
+      "language": "Живые занятия на испанском по видеосвязи. Оператор указывает доступ из Латинской Америки.",
+      "cost": "На карточке 320 EUR двумя платежами или 378 EUR в рассрочку. Тариф следующей группы в Латинской Америке уточнить.",
+      "level": "D — обучение",
+      "reward": "Практические проекты и знакомство с инженерным циклом.",
+      "priority": "P2 — уточнить места и допуск",
+      "action": "Запросить время в часовом поясе семьи, полную цену и требования к устройству.",
+      "proof": "Официальная программа и условия прочитаны.",
+      "note": "В карточке цифрового курса для Латинской Америки указан февраль 2026. Следующий набор и расписание уточнить.",
+      "scope": "local",
+      "importance_reason": "Практические проекты и знакомство с инженерным циклом.",
+      "references": [
+        {
+          "url": "https://academy.techlabkids.com/programacion-y-creacion-digital/",
+          "label": "TechLab Kids · содержание и возраст курса"
+        },
+        {
+          "url": "https://academy.techlabkids.com/",
+          "label": "TechLab Kids · онлайн-формат и испанский язык"
+        },
+        {
+          "url": "https://academy.techlabkids.com/curso/curso-anual-programacion-y-creacion-digital/",
+          "label": "TechLab Kids · отдельный календарь и цены цифрового курса"
+        }
+      ],
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Живые занятия на испанском по видеосвязи. Оператор указывает доступ из Латинской Америки.",
+      "participation": "online",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "programme",
+      "camp_programme_id": "CP1506",
+      "camp_dossier_slug": "techlabkids-online-digital"
     },
     {
       "id": "CP001-20270606-20270619",
@@ -169903,6 +170441,107 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "watitoh-2027",
       "camp_programme_id": "CP932"
+    },
+    {
+      "id": "CP944-20270118-20270121",
+      "block": "Лагеря",
+      "title": "UCR CIMM · Mat’enCiAr Summer · Matenciar · 2027-01-18–2027-01-21",
+      "country": "Коста-Рика",
+      "region": "Центральная Америка",
+      "city": "Instalaciones Deportivas UCR · Montes de Oca",
+      "start": "2027-01-18",
+      "end": "2027-01-21",
+      "period": "18–21 января 2027, ежедневно 08:00–11:30. Заявка до 18 декабря 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "2026-12-18",
+      "age": "10–12 лет. В правилах 2027 указан возраст. Эквивалент класса и дату проверки возраста уточнить.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневная университетская смена.",
+      "entry": "Заполнить заявку до 18 декабря 2026. UCR проверяет условия и подтверждает место письмом опекуну.",
+      "gear": "Дневные практические занятия по математике, дизайну и искусству. Участник посещает все 4 дня по 3.5 часа.",
+      "language": "Язык конкретной группы уточнить у оператора.",
+      "cost": "2027 · 5000 CRC за смену, включая страховку INS. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Уточнить возраст на нужную дату, язык занятий, места и точку встречи.",
+      "source": "https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html",
+      "references": [
+        {
+          "url": "https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html",
+          "label": "UCR · Matenciar 2027 и сроки"
+        },
+        {
+          "url": "https://www.ucr.ac.cr/medios/documentos/2026/campamento-de-verano-matenciar-informacion-adicional-6aecb44cc352a.docx",
+          "label": "UCR · условия допуска и подтверждения места"
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "Матвей: Год рождения 2017. Уточнить, когда UCR проверяет достижение 10 лет и нужен ли документ о классе. Оскар: Рождён в 2020. Для этой смены нужен возраст от 10 лет. Доплаты: Ребёнок приносит перекус. Дорога оплачивается отдельно. Оплата: После проверки условий UCR присылает опекуну подтверждение места и реквизиты.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "science",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык конкретной группы уточнить у оператора.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "ucr-cimm-matenciar",
+      "camp_programme_id": "CP944",
+      "sessions": [
+        {
+          "date": "2027-01-18",
+          "topic": "Matenciar · практическая математика в науке и искусстве",
+          "start_time": "08:00",
+          "end_time": "11:30",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2027-01-18T14:00:00Z",
+          "end_utc": "2027-01-18T17:30:00Z"
+        },
+        {
+          "date": "2027-01-19",
+          "topic": "Matenciar · практическая математика в науке и искусстве",
+          "start_time": "08:00",
+          "end_time": "11:30",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2027-01-19T14:00:00Z",
+          "end_utc": "2027-01-19T17:30:00Z"
+        },
+        {
+          "date": "2027-01-20",
+          "topic": "Matenciar · практическая математика в науке и искусстве",
+          "start_time": "08:00",
+          "end_time": "11:30",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2027-01-20T14:00:00Z",
+          "end_utc": "2027-01-20T17:30:00Z"
+        },
+        {
+          "date": "2027-01-21",
+          "topic": "Matenciar · практическая математика в науке и искусстве",
+          "start_time": "08:00",
+          "end_time": "11:30",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T14:00:00Z",
+          "end_utc": "2027-01-21T17:30:00Z"
+        }
+      ]
     },
     {
       "id": "CP950-20270104-20270110",

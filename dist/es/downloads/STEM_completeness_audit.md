@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 6918; competiciones: 2931; eventos: 265; campamentos / programas: 3722. Perfiles de ligas y programas: 256. Fichas de exposiciones grandes y especializadas: 173 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 6930; competiciones: 2932; eventos: 266; campamentos / programas: 3732. Perfiles de ligas y programas: 256. Fichas de exposiciones grandes y especializadas: 174 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos de 158 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Todas las fichas anteriores se conservan.
 
@@ -14,16 +14,16 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 1417 | 22 | 1049 |
+| América del Norte | 23 | 1418 | 23 | 1057 |
 | América del Sur | 10 | 164 | 7 | 113 |
-| Europa | 42 | 394 | 55 | 1254 |
+| Europa | 42 | 394 | 55 | 1256 |
 | África | 34 | 114 | 15 | 68 |
 | Asia | 44 | 634 | 71 | 1113 |
 | Oceanía | 5 | 118 | 3 | 114 |
 
 Fichas interregionales / globales sin asignar a un solo continente: 106. América del Norte incluye Centroamérica y el Caribe. Las cifras muestran inventario de la base, no porcentaje de exhaustividad.
 
-VEX: 518 de 2931 fichas de competiciones (17.7%). La cobertura presenta un sesgo evidente.
+VEX figura en 518 de 2932 fichas de competición (17.7%). La cobertura tiene un sesgo marcado.
 
 ## Lo que queda
 
@@ -406,7 +406,7 @@ VEX: 518 de 2931 fichas de competiciones (17.7%). La cobertura presenta un sesgo
 - **Canton Fair 140 ° Fase 1, Service Robots / Advanced Manufacturing** ♫ China; 2026-10-15 ♫ 2026-10-19. https://www.cantonfair.org.cn/en-US
 - **Automate 2027 — robotics / automation** — Estados Unidos; 2027-05-10 – 2027-05-13. Niños 6/9 No puedes.. https://www.automateshow.com/
 - **Expo Manufactura 2027** — México; 2027-02-23 – 2027-02-25. Niños 6/9 No puedes.. https://expomanufactura.com.mx/
-- **Smart Technology Expo 2026** México; 2026-11-18 2026-11-20. https://smarttechnologyexpo.mx/
+- **Smart Technology Expo 2026** — México; 2026-11-18 – 2026-11-20. Los niños del 6/9 no pueden. https://smarttechnologyexpo.mx/
 - **EXPOMAFE 2027** 国 Brazil; 2027-05-04 国 2027-05-08; los niños 6/9 no pueden. https://www.expomafe.com.br/
 - **Australian Manufacturing Week 2027** — Australia; 2027-05-11 – 2027-05-14. el permiso de entrada de niños. https://australianmanufacturingweek.com.au/visit2027/
 - **Africa Tech Festival 2026** Sudáfrica; 2026-11-17 2026-11-19. https://africatechfestival.com/
@@ -510,6 +510,7 @@ VEX: 518 de 2931 fichas de competiciones (17.7%). La cobertura presenta un sesgo
 - **Infomatrix World Finals · public exhibition watch** — Rumanía; fecha desconocida. Confirmar acceso infantil. https://infomatrix.ro/
 - **ROBOTICA + ROBOFIRST Ukraine · next festival watch** — Ucrania; fecha desconocida. Confirmar acceso infantil. http://robotica.in.ua/
 - **AI for Good Global Summit · Innovation Expo 2027** — Suiza; 2027-06-21 – 2027-06-24. con un adulto; condiciones de admisión adulta por separado. https://2027summit.aiforgood.itu.int/
+- **Universum UNAM · STEM Week** — México; 2026-11-07. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/393/stem-week
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

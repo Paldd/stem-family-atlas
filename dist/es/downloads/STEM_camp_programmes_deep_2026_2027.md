@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-06. 1497 fichas en 91 países. Fechas de verificación de fuentes individuales indicadas en cada ficha.
+Estado de la base a 2026-11-06. 1506 fichas en 91 países. Cada ficha indica la fecha de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -67344,41 +67344,61 @@ Costa Rica · IAC, Sede Central UTN · Alajuela; oficina exacta y recepción ext
 
 ## CP944 · UCR CIMM · Mat’enCiAr Summer
 
-Costa Rica · Aula15, Instalaciones Deportivas UCR · Sabanilla, Montes de Oca
+Costa Rica · Instalaciones Deportivas UCR · Montes de Oca
 
-**Comprobado:** 2026-10-06
+**Se ha comprobado:** 2026-11-06
 
-* Edad:** 9 ° 12 y matriculado4, 5° o 6° prima
+**edad:** 10–12 años. Las bases 2027 indican la edad. Confirmar grado equivalente y fecha de comprobación de edad.
 
-** Idioma: La versión del sitio web** ES/EN no define el idioma del profesor; el idioma de un grupo determinado y el apoyo de un niño extranjero no se han confirmado; el número de clases no se ha demostrado aún.
+**Idioma:** Confirmar con el operador el idioma del grupo concreto.
 
-**Programa:** Archivo 27–30.01.2026, 08–11:30: Geometría, Caleidoscopios, Luz/y rompecabezas. Matemáticas en la ciencia y el arte; No se ha declarado ningún robot físico.
+**Programa:** Clases diurnas prácticas de matemáticas, diseño y arte. El participante asiste los 4 días, 3.5 horas por día.
 
-** Vivienda: ** Programa universitario de día.
+**Alojamiento:** Turno universitario diurno.
 
-** Fechas / status:** Enero 2026 pasó; no hay siguiente 2027.
+**Fechas / estado:** 18–21 de enero de 2027, diariamente 08:00–11:30. Solicitud hasta el 18 de diciembre de 2026.
 
-**Cabe/año** 2026 · Archivo de 5000 CRC; unidad de pago y 2027 tasas de verificación.
+**Precio / año:** 2027 · 5000 CRC por turno, incluido seguro INS.
 
-** Incluida:** Curso descrito; no se ha incluido una lista precisa de materiales.
+**Incluido:** Clases y seguro INS.
 
-** Pagadero:** Nutrición, entrega/vivienda de la familia no se conoce.
+**Suplementos:** El menor trae su merienda. Transporte por separado.
 
-** Paga: ** No se ha publicado el calendario ni se ha suprimido el nuevo conjunto.
+**Pago:** Tras verificar requisitos, UCR envía al tutor confirmación de plaza y datos de pago.
 
-*Matwey: ** Necesito 9 a 12 años de edad y el curso actual 4 a 6 años no sustituyen a la admisión en la escuela.
+**Matvey:** Año de nacimiento 2017. Confirmar cuándo UCR verifica que tiene 10 años y si exige constancia de grado.
 
-**Oscar:** a Oscar 5–6 en 2026/6–7 en 2027; La edad mínima de este programa es mayor que.
+**Oscar:** Nació en 2020. Este turno requiere tener al menos 10 años.
 
 ** Por qué en la selección:** candidato de redacción para el contenido y la edad: no se ha establecido una clasificación mundial independiente ni un lugar accesible; no se ha obtenido un certificado de cambio de victoria internacional.
 
 ### Antes de solicitar plaza
 
-- El nuevo equipo, las fechas y el lugar exacto, la edad/clase, la lengua de enseñanza, la recepción externa, el lugar, la cuenta completa y el contrato de cancelación en vigor requieren una verificación.
+- Confirmar edad en la fecha requerida, idioma, plazas y punto de encuentro.
+
+### Matenciar
+
+**Fechas / estado:** 2027-01-18 — 2027-01-21
+
+**Precio:** 5000 CRC por turno, incluido seguro INS.
+
+**condiciones de participación:** Completar solicitud hasta el 18 de diciembre de 2026. UCR comprueba requisitos y confirma la plaza al tutor por correo.
+
+- 2027-01-18 · 08:00–11:30 · America/Costa_Rica · Matenciar · matemáticas prácticas en ciencia y arte
+
+- 2027-01-19 · 08:00–11:30 · America/Costa_Rica · Matenciar · matemáticas prácticas en ciencia y arte
+
+- 2027-01-20 · 08:00–11:30 · America/Costa_Rica · Matenciar · matemáticas prácticas en ciencia y arte
+
+- 2027-01-21 · 08:00–11:30 · America/Costa_Rica · Matenciar · matemáticas prácticas en ciencia y arte
+
+[fuente](https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html)
 
 ### Fuentes
 
-- [UCR: edad y clase, horas, fecha y costo](https://www.ucr.ac.cr/actividades/2025/12/02/campamento-de-verano-construye-crea-y-descubre-la-magia-de-la-matematica.html) · 2026-10-06
+- [UCR · Matenciar 2027 y fechas](https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html) · 2026-11-06
+
+- [UCR · requisitos y confirmación de plaza](https://www.ucr.ac.cr/medios/documentos/2026/campamento-de-verano-matenciar-informacion-adicional-6aecb44cc352a.docx) · 2026-11-06
 
 ## CP945 · Parque La Libertad × ColibrIA · AI for Good Boot Camp
 
@@ -111015,6 +111035,376 @@ Israel · Technion · Canada Building · Haifa
 ### Fuentes
 
 - [Technion · Cyber Camp official programme](https://cont-edu.technion.ac.il/programs/cyber/cyber-camp-2/) · 2026-11-06
+
+## CP1498 · Makerland Talenttec · B-Finder
+
+Costa Rica · Talenttec · Los Parques, San Ramón
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** 6 años y 8 años
+
+**Idioma:** Confirmar con el operador el idioma del grupo concreto.
+
+**Programa:** Robótica por proyectos. Los niños investigan, construyen y programan proyectos, los prueban y presentan resultados. Algunos módulos incluyen torneos internos.
+
+**Alojamiento:** Clases presenciales regulares por edades.
+
+**Fechas / estado:** Elegir grupo. Mar o mié 16:00–17:30, sáb 13:00–14:30 o 15:00–16:30.
+
+**Precio / año:** sin establecer · 26000 CRC al mes por menor.
+
+**Incluido:** Clases presenciales regulares por edades.
+
+**Suplementos:** Confirmar materiales, comida, transporte y demás gastos.
+
+**Pago:** La web anuncia matrícula gratuita en promoción. Confirmar condiciones y vigencia.
+
+**Matvey:** No por edad para este grupo.
+
+**Oscar:** Edad adecuada. Confirmar admisión y horario.
+
+**Motivo de selección:** Proyectos prácticos y aprendizaje del ciclo de ingeniería.
+
+### Antes de solicitar plaza
+
+- Confirmar plazas, mes de vigencia de la tarifa, idioma y condiciones de la promoción de matrícula.
+
+- Los grupos del sábado son consecutivos. 55000 CRC al mes por ambos grupos según las tarifas publicadas. Confirmar suplementos.
+
+### Fuentes
+
+- [Makerland · edad, grupos y tarifas mensuales](https://makerland.talenttec.net/) · 2026-11-06
+
+- [Talenttec · acceso para alumnado externo](https://talenttecschool.com/servicios/) · 2026-11-06
+
+## CP1499 · Makerland Talenttec · B-Maker
+
+Costa Rica · Talenttec · Los Parques, San Ramón
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** 9–12 años
+
+**Idioma:** Confirmar con el operador el idioma del grupo concreto.
+
+**Programa:** Robótica por proyectos. Los niños investigan, construyen y programan proyectos, los prueban y presentan resultados. Algunos módulos incluyen torneos internos.
+
+**Alojamiento:** Clases presenciales regulares por edades.
+
+**Fechas / estado:** Elegir grupo. Vie 16:00–17:30 o sáb 10:30–12:00.
+
+**Precio / año:** sin establecer · 29000 CRC al mes por menor.
+
+**Incluido:** Clases presenciales regulares por edades.
+
+**Suplementos:** Confirmar materiales, comida, transporte y demás gastos.
+
+**Pago:** La web anuncia matrícula gratuita en promoción. Confirmar condiciones y vigencia.
+
+**Matvey:** Edad adecuada. Confirmar admisión y horario.
+
+**Oscar:** No por edad para este grupo.
+
+**Motivo de selección:** Proyectos prácticos y aprendizaje del ciclo de ingeniería.
+
+### Antes de solicitar plaza
+
+- Confirmar plazas, mes de vigencia de la tarifa, idioma y condiciones de la promoción de matrícula.
+
+- Los grupos del sábado son consecutivos. 55000 CRC al mes por ambos grupos según las tarifas publicadas. Confirmar suplementos.
+
+### Fuentes
+
+- [Makerland · edad, grupos y tarifas mensuales](https://makerland.talenttec.net/) · 2026-11-06
+
+- [Talenttec · acceso para alumnado externo](https://talenttecschool.com/servicios/) · 2026-11-06
+
+## CP1500 · Inspire Robotics · Santa Cruz Atoyac · 6-8
+
+México · Casa de Cultura Santa Cruz Atoyac · CDMX
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** 6 años y 8 años
+
+**Idioma:** Confirmar con el operador el idioma del grupo concreto.
+
+**Programa:** Plataforma integrada para primeros robots, lógica y pensamiento por bloques.
+
+**Alojamiento:** Clases presenciales regulares por edades.
+
+**Fechas / estado:** Sáb 09:00–10:30.
+
+**Precio / año:** sin establecer · La tarifa de este programa no está publicada.
+
+**Incluido:** Materiales disponibles para trabajar durante las clases.
+
+**Suplementos:** Confirmar materiales, comida, transporte y demás gastos.
+
+**Pago:** Confirmar plazo de pago, devolución y disponibilidad.
+
+**Matvey:** No por edad para este grupo.
+
+**Oscar:** Edad adecuada. Confirmar admisión y horario.
+
+**Motivo de selección:** Proyectos prácticos y aprendizaje del ciclo de ingeniería.
+
+### Antes de solicitar plaza
+
+- La página invita a inscribirse. Confirmar plaza, fechas del ciclo, precio e idioma.
+
+### Fuentes
+
+- [Inspire Robotics · cursos en Casa de Cultura](https://www.inspirerobotics.com.mx/casa-de-cultura) · 2026-11-06
+
+## CP1501 · Inspire Robotics · Santa Cruz Atoyac · 9-11
+
+México · Casa de Cultura Santa Cruz Atoyac · CDMX
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** 9–11 años
+
+**Idioma:** Confirmar con el operador el idioma del grupo concreto.
+
+**Programa:** Proyectos interactivos con distintos componentes y programación estructurada.
+
+**Alojamiento:** Clases presenciales regulares por edades.
+
+**Fechas / estado:** Sáb 10:30–12:00.
+
+**Precio / año:** sin establecer · La tarifa de este programa no está publicada.
+
+**Incluido:** Materiales disponibles para trabajar durante las clases.
+
+**Suplementos:** Confirmar materiales, comida, transporte y demás gastos.
+
+**Pago:** Confirmar plazo de pago, devolución y disponibilidad.
+
+**Matvey:** Edad adecuada. Confirmar admisión y horario.
+
+**Oscar:** No por edad para este grupo.
+
+**Motivo de selección:** Proyectos prácticos y aprendizaje del ciclo de ingeniería.
+
+### Antes de solicitar plaza
+
+- La página invita a inscribirse. Confirmar plaza, fechas del ciclo, precio e idioma.
+
+### Fuentes
+
+- [Inspire Robotics · cursos en Casa de Cultura](https://www.inspirerobotics.com.mx/casa-de-cultura) · 2026-11-06
+
+## CP1502 · Inspire Robotics · Santa Cruz Atoyac · 12-17
+
+México · Casa de Cultura Santa Cruz Atoyac · CDMX
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** 12–17 años
+
+**Idioma:** Confirmar con el operador el idioma del grupo concreto.
+
+**Programa:** Proyectos de ingeniería con plataforma abierta y código textual.
+
+**Alojamiento:** Clases presenciales regulares por edades.
+
+**Fechas / estado:** Sáb 12:00–13:30.
+
+**Precio / año:** sin establecer · La tarifa de este programa no está publicada.
+
+**Incluido:** Materiales disponibles para trabajar durante las clases.
+
+**Suplementos:** Confirmar materiales, comida, transporte y demás gastos.
+
+**Pago:** Confirmar plazo de pago, devolución y disponibilidad.
+
+**Matvey:** No por edad para este grupo.
+
+**Oscar:** No por edad para este grupo.
+
+**Motivo de selección:** Proyectos prácticos y aprendizaje del ciclo de ingeniería.
+
+### Antes de solicitar plaza
+
+- La página invita a inscribirse. Confirmar plaza, fechas del ciclo, precio e idioma.
+
+### Fuentes
+
+- [Inspire Robotics · cursos en Casa de Cultura](https://www.inspirerobotics.com.mx/casa-de-cultura) · 2026-11-06
+
+## CP1503 · Tech & Science Kids · CreateLab
+
+México · Diamante 87 · Col. Estrella, GAM · CDMX
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** 4–12 años, grupos por edades.
+
+**Idioma:** Confirmar con el operador el idioma del grupo concreto.
+
+**Programa:** Semanas vacacionales con retos STEAM temáticos. El menú incluye experimentos, diseño, programación, robótica y LEGO. Confirmar tema de la semana concreta.
+
+**Alojamiento:** Programa vacacional diurno.
+
+**Fechas / estado:** En vacaciones, 5–7 horas al día. Sin fechas exactas publicadas para el siguiente turno.
+
+**Precio / año:** sin establecer · La tarifa de este programa no está publicada.
+
+**Suplementos:** Confirmar materiales, comida, transporte y demás gastos.
+
+**Pago:** Confirmar plazo de pago, devolución y disponibilidad.
+
+**Matvey:** Edad adecuada. Confirmar admisión y horario.
+
+**Oscar:** Edad adecuada. Confirmar admisión y horario.
+
+**Motivo de selección:** Proyectos prácticos y aprendizaje del ciclo de ingeniería.
+
+### Antes de solicitar plaza
+
+- Confirmar fechas exactas del siguiente grupo y plazas disponibles.
+
+- Confirmar con el operador el idioma del grupo concreto.
+
+- Confirmar plazo de pago, devolución y disponibilidad.
+
+### Fuentes
+
+- [CreateLab · contenido de talleres vacacionales](https://www.techandsciencekids.com/createlab) · 2026-11-06
+
+- [Tech & Science Kids · edad y duración de jornada vacacional](https://www.techandsciencekids.com/nuestros-servicios) · 2026-11-06
+
+- [Tech & Science Kids · calendario de anuncios](https://www.techandsciencekids.com/calendario-y-avisos) · 2026-11-06
+
+## CP1504 · Tech & Science Kids · Robominds BIOGLOW
+
+México · Diamante 87 · Col. Estrella, GAM · CDMX
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** 4–12 años, grupos por edades.
+
+**Idioma:** Confirmar con el operador el idioma del grupo concreto.
+
+**Programa:** Proyectos de biodiversidad con robótica y código. 24 clases de 1.5 horas en 6 meses. Confirmar si el grupo concreto participa en un torneo oficial específico.
+
+**Alojamiento:** Clases presenciales regulares por edades.
+
+**Fechas / estado:** El inicio de temporada figura como agosto de 2026. Confirmar día exacto, horario y admisión tardía.
+
+**Precio / año:** 2026 · 1497 MXN por 4 clases al mes y 1497 MXN de matrícula. Con 6 mensualidades y matrícula, el cálculo es 10479 MXN por menor.
+
+**Incluido:** Clases presenciales regulares por edades.
+
+**Suplementos:** Confirmar materiales, comida, transporte y demás gastos.
+
+**Pago:** La web menciona descuento por temporada. Confirmar precio final, plazas y conceptos incluidos.
+
+**Matvey:** Edad adecuada. Confirmar admisión y horario.
+
+**Oscar:** Edad adecuada. Confirmar admisión y horario.
+
+**Motivo de selección:** Proyectos prácticos y aprendizaje del ciclo de ingeniería.
+
+### Antes de solicitar plaza
+
+- Confirmar fechas exactas del siguiente grupo y plazas disponibles.
+
+- Confirmar con el operador el idioma del grupo concreto.
+
+- Confirmar plazo de pago, devolución y disponibilidad.
+
+### Fuentes
+
+- [Robominds BIOGLOW · temporada, carga y precios](https://www.techandsciencekids.com/robomindsbioglow) · 2026-11-06
+
+- [Tech & Science Kids · calendario de anuncios](https://www.techandsciencekids.com/calendario-y-avisos) · 2026-11-06
+
+## CP1505 · TechLab Kids Academy · Scratch
+
+España · En línea desde Latinoamérica · operador Barcelona
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** 7–9 años según la descripción del curso.
+
+**Idioma:** Clases en directo en español por videollamada. El operador indica acceso desde Latinoamérica.
+
+**Programa:** 32 clases en directo en grupo de 3–6. Scratch desde cero, historias interactivas, animación y juegos. Grabaciones disponibles.
+
+**Alojamiento:** Solicitud individual para formación en grupo por internet.
+
+**Fechas / estado:** Para Latinoamérica y EE. UU. se anuncia febrero de 2027. Mié 17:30–19:00 hora local según ficha. Calendario exacto tras formar grupo.
+
+**Precio / año:** 2027 · 320 EUR por curso completo en dos pagos del 50% o 378 EUR a plazos. El fraccionamiento incluye 42 EUR al inscribirse y otros 8 pagos de 42 EUR.
+
+**Incluido:** 32 clases en directo, grabaciones y certificados por unidades.
+
+**Suplementos:** Confirmar materiales, comida, transporte y demás gastos.
+
+**Pago:** Reserva previa gratuita y no vinculante. Pagos en moneda local. Confirmar importe y condiciones de devolución.
+
+**Matvey:** Edad adecuada. Confirmar admisión y horario.
+
+**Oscar:** No por edad para este grupo.
+
+**Motivo de selección:** Proyectos prácticos y aprendizaje del ciclo de ingeniería.
+
+### Antes de solicitar plaza
+
+- Solicitar horario en la zona de la familia, precio completo y requisitos de dispositivo.
+
+### Fuentes
+
+- [TechLab Kids · Scratch para América, horario y pago](https://academy.techlabkids.com/curso/programacion-con-scratch/) · 2026-11-06
+
+- [TechLab Kids · contenido y edad del curso](https://academy.techlabkids.com/programacion-con-scratch/) · 2026-11-06
+
+- [TechLab Kids · formato en línea e idioma español](https://academy.techlabkids.com/) · 2026-11-06
+
+## CP1506 · TechLab Kids Academy · Programación y Creación Digital
+
+España · En línea desde Latinoamérica · operador Barcelona
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** 8–12 años según la descripción del curso.
+
+**Idioma:** Clases en directo en español por videollamada. El operador indica acceso desde Latinoamérica.
+
+**Programa:** Código por bloques en MakeCode y Scratch, diseño 2D y 3D en Tinkercad y entornos interactivos de VR en CoSpaces.
+
+**Alojamiento:** Solicitud individual para formación en grupo por internet.
+
+**Fechas / estado:** La ficha del curso digital indica febrero de 2026 para Latinoamérica. Confirmar próxima convocatoria y horario.
+
+**Precio / año:** 2026 · La ficha indica 320 EUR en dos pagos o 378 EUR a plazos. Confirmar tarifa del próximo grupo en Latinoamérica.
+
+**Incluido:** 32 clases en directo, grabaciones y certificados por unidades.
+
+**Suplementos:** Confirmar materiales, comida, transporte y demás gastos.
+
+**Pago:** Reserva previa gratuita y no vinculante. Pagos en moneda local. Confirmar importe y condiciones de devolución.
+
+**Matvey:** Edad adecuada. Confirmar admisión y horario.
+
+**Oscar:** No por edad para este grupo.
+
+**Motivo de selección:** Proyectos prácticos y aprendizaje del ciclo de ingeniería.
+
+### Antes de solicitar plaza
+
+- Solicitar horario en la zona de la familia, precio completo y requisitos de dispositivo.
+
+### Fuentes
+
+- [TechLab Kids · contenido y edad del curso](https://academy.techlabkids.com/programacion-y-creacion-digital/) · 2026-11-06
+
+- [TechLab Kids · formato en línea e idioma español](https://academy.techlabkids.com/) · 2026-11-06
+
+- [TechLab Kids · calendario y tarifas separados del curso digital](https://academy.techlabkids.com/curso/curso-anual-programacion-y-creacion-digital/) · 2026-11-06
 
 ## ~ Comprobaciones no cerradas
 
