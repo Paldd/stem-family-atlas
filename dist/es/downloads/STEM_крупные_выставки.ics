@@ -247,26 +247,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E020@family-stem.local
-DTSTAMP:20261105T091951Z
+DTSTAMP:20261107T135209Z
 SUMMARY:[Exposición · niños de 6/9 años no admitidos] TAIREX 2027
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270322
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Reglas vige
  ntes de 2027: entrada prohibida a menores de 12. Matvey y Oscar no admit
  idos\; registro profesional adulto no cambia esta regla. Entrada de adul
- tos: registro de visitantes profesionales\; los niños no se adaptan. la
-  compatibilidad de edad no es igual a la admisión a un torneo concreto 
+ tos: QR personal tras el registro previo. En la sede hay un pase de un d
+ ía por TWD 300.. Horario 10:00–18:00\, último día hasta las 17:00. 
  Empresas: TAIREX 2027  nuevo formato de perfil. lista completa actual de
   los expositores comprobar en el organizador\; el alcance de la primera 
  edición aún no se ha demostrado.. Fuente verificada el 2026-11-05.
-LOCATION:Taipei\, Nangang Hall1\, Taiwán
+LOCATION:Taipei Nangang Exhibition Center · Hall 1\, Taiwán
 URL:https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E021@family-stem.local
-DTSTAMP:20261105T091951Z
+DTSTAMP:20261107T135209Z
 SUMMARY:[Exposición · niños de 6/9 años no admitidos] TAIROS / Automa
  tion Taipei 2027
 DTSTART;VALUE=DATE:20270804
@@ -276,12 +276,12 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Reglas vige
  idos\; registro profesional adulto no cambia esta regla. Entrada de adul
  tos: QR separado por persona\; 4–6 de agosto 10:00–17:00\, 7 de agos
  to hasta 16:00. Entrada NT$300 vía VIP counter es opción según condic
- iones publicadas sobre datos. Menores de 12 no admitidos.. la compatibil
- idad de edad no es igual a la admisión a un torneo concreto Empresas: c
- atálogos TAIROS y Automation Taipei pertenecen a dos exposiciones conju
- ntas\; Es un viaje a la plaza común.. lista de los que se encuentran 20
- 27 comprobar por separado.. Fuente verificada el 2026-11-05.
-LOCATION:Taipei\, Nangang1&2\, Taiwán
+ iones publicadas sobre datos. Menores de 12 no admitidos.. Horario 10:00
+ –17:00\, último día hasta las 16:00. Empresas: catálogos TAIROS y A
+ utomation Taipei pertenecen a dos exposiciones conjuntas\; Es un viaje a
+  la plaza común.. lista de los que se encuentran 2027 comprobar por sep
+ arado.. Fuente verificada el 2026-11-05.
+LOCATION:Taipei Nangang Exhibition Center · Halls 1 & 2\, Taiwán
 URL:https://www.chanchao.com.tw/expoDetail.asp?id=ROBOT2027
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -1258,22 +1258,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E117@family-stem.local
-DTSTAMP:20261107T115245Z
+DTSTAMP:20261107T135209Z
 SUMMARY:[Exposición · confirmar admisión de menores] Taipei Game Show 
  2027 · B2C public zone
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270125
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Ruta famili
- ar: B2C del 21 al 24 de enero de 2027. B2B y Asia Pacific Game Summit de
- l 21 al 22 de enero con acceso separado. Confirmar tarifas 2027 y acceso
-  infantil por zonas. Entrada de adultos: de la misma B2C ticket\; confir
- mar la entrada de los niños. B2B / APGS 21–22 enero — otra categor
- ía.. días públicos 21–24 enero confirmado\; Reglas de edad 2023 o o
- tros programas de Taiwán no se han trasladado a 2027. Empresas: Los nom
- bres de las compañías de la edición seleccionada no han sido verifica
- dos\; la lista anterior no garantiza la participación en la nueva tempo
- rada.. Fuente verificada el 2026-11-07.
-LOCATION:Taipei · TaiNEX 1\, Nangang Exhibition Center Hall 1\, Taiwán
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Zona públi
+ ca B2C y Board Game Wonderland con juegos de mesa familiares y mesas de 
+ demostración. Confirmar admisión por edad y precios de entradas 2027. 
+ Entrada de adultos: de la misma B2C ticket\; confirmar la entrada de los
+  niños. B2B / APGS 21–22 enero — otra categoría.. días públicos 
+ 21–24 enero confirmado\; Reglas de edad 2023 o otros programas de Taiw
+ án no se han trasladado a 2027. Empresas: Zona pública B2C y Board Gam
+ e Wonderland con juegos de mesa familiares y mesas de demostración. Con
+ firmar admisión por edad y precios de entradas 2027.. Fuente verificada
+  el 2026-11-07.
+LOCATION:Taipei Nangang Exhibition Center · Hall 1\, Taiwán
 URL:https://tgs.tca.org.tw/?p=event_info_e
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -4108,6 +4108,26 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. El exposito
  026-11-07.
 LOCATION:Museo Interactivo Mirador · La Granja\, Chile
 URL:https://cursos.mcielectronics.cl/eventos/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E363@family-stem.local
+DTSTAMP:20261107T135240Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] Taipei Game Sho
+ w 2027 · B2B business zone
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270123
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Solo para v
+ isitantes profesionales desde los 18 años. Acceso infantil no permitido
+ . Entrada de adultos: Solo para visitantes profesionales desde los 18 a
+ ños. Acceso infantil no permitido.. Zona profesional para editores\, de
+ sarrolladores y profesionales de videojuegos. La zona pública B2C se ce
+ lebra por separado. Empresas: Zona profesional para editores\, desarroll
+ adores y profesionales de videojuegos. La zona pública B2C se celebra p
+ or separado.. Fuente verificada el 2026-11-07.
+LOCATION:Taipei Nangang Exhibition Center · Hall 1\, Taiwán
+URL:https://tgs.tca.org.tw/b2bzone_e.php?lang=e&m=2026
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

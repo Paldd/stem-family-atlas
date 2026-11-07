@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7701; competiciones: 3204; eventos: 362; campamentos / programas: 4135. Perfiles de ligas y programas: 268. Fichas de exposiciones grandes y especializadas: 274 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7826; competiciones: 3212; eventos: 363; campamentos / programas: 4251. Perfiles de ligas y programas: 268. Fichas de exposiciones grandes y especializadas: 275 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros para 159 de 249 países y territorios. Países con auditoría completa: 0. La revisión histórica v51 agregó 21 fichas y 3 perfiles. Se conservaron las fichas previas.
 
@@ -18,12 +18,12 @@ Hay registros para 159 de 249 países y territorios. Países con auditoría comp
 | América del Sur | 10 | 204 | 19 | 142 |
 | Europa | 42 | 433 | 82 | 1298 |
 | África | 34 | 115 | 15 | 68 |
-| Asia | 44 | 778 | 89 | 1409 |
+| Asia | 44 | 786 | 90 | 1525 |
 | Oceanía | 6 | 128 | 19 | 134 |
 
 Fichas interregionales o globales sin un solo continente asignado: 115. América del Norte incluye Centroamérica y el Caribe. Las cifras cuentan las fichas del catálogo.
 
-VEX: 518 de 3204 fichas de competiciones (16.2%). La cobertura está sesgada hacia este circuito.
+VEX: 518 de 3212 fichas de competiciones (16.1%). La cobertura está claramente desequilibrada.
 
 ## Lo que queda
 
@@ -610,6 +610,7 @@ VEX: 518 de 3204 fichas de competiciones (16.2%). La cobertura está sesgada hac
 - **ExpoInnova 2026 · SLEP Gabriela Mistral** — Chile; 2026-12-04. el permiso de entrada de niños. https://cursos.mcielectronics.cl/eventos/
 - **IA Fest Chile 2027 · ACHIAG** — Chile; fecha desconocida. Confirmar acceso infantil. https://achiag.cl/fest/
 - **IA Summit Chile 2027 · ACHIAG** — Chile; fecha desconocida. Confirmar acceso infantil. https://achiag.cl/summit/
+- **Taipei Game Show 2027 · B2B business zone** — Taiwán; 2027-01-21 – 2027-01-22. Los niños del 6/9 no pueden. https://tgs.tca.org.tw/b2bzone_e.php?lang=e&m=2026
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

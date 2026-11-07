@@ -1,0 +1,65 @@
+{
+  "version": 220,
+  "checked": "2026-11-07",
+  "previous_goal_turn_classification": "progress",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_competitions": 8,
+  "new_exhibitions": 1,
+  "new_workshops": 2,
+  "new_camp_dossiers": 16,
+  "new_dated_camp_variants": 114,
+  "updated_dossiers": [
+    "CP337"
+  ],
+  "updated_events": [
+    "E020",
+    "E021",
+    "E117"
+  ],
+  "new_budget_offers": 5,
+  "cobo_campus_time_candidates": 16,
+  "big_bang_common_dates_by_campus": 21,
+  "new_events": [
+    "C3206",
+    "C3207",
+    "L653",
+    "L654",
+    "C3208",
+    "C3209",
+    "C3210",
+    "C3211",
+    "C3212",
+    "C3213",
+    "E363"
+  ],
+  "programme_ids": {
+    "big-bang-hk-winter-spider-man-ai": "CP1698",
+    "big-bang-hk-winter-ice-age": "CP1699",
+    "big-bang-hk-winter-grinch-ai": "CP1700",
+    "big-bang-hk-winter-pokemon-engineer": "CP1701",
+    "cobo-hk-winter-wan-chai-4d-junior": "CP1702",
+    "cobo-hk-winter-wan-chai-4d-senior": "CP1703",
+    "cobo-hk-winter-wan-chai-5d-junior": "CP1704",
+    "cobo-hk-winter-wan-chai-5d-senior": "CP1705",
+    "cobo-hk-winter-kowloon-tong-4d-junior": "CP1706",
+    "cobo-hk-winter-kowloon-tong-4d-senior": "CP1707",
+    "cobo-hk-winter-kowloon-tong-5d-junior": "CP1708",
+    "cobo-hk-winter-kowloon-tong-5d-senior": "CP1709",
+    "huhu-taiwan-winter-2027-island": "CP1710",
+    "huhu-taiwan-winter-2027-weird-lab": "CP1711",
+    "encode-hk-christmas-junior": "CP1712",
+    "encode-hk-christmas-senior": "CP1713"
+  },
+  "source_requests": 35,
+  "limits": [
+    "Cobo operator lists English, age groups and fees. KidsClub corroborates specific site/time blocks based on the public programme; selected classes and seats are unconfirmed. No double counting tuition discounts.",
+    "Big Bang English age-specific courses have exact dates and sites, but starting times remain unconfirmed. No timed sibling matches asserted.",
+    "Encode season window is kept separate from actual lesson days. English instruction and tuition require confirmation.",
+    "HUHU grade 1–6 and two schedules are published. English and Spanish groups unconfirmed. No review-conditional discount assumed.",
+    "LT Brown bilingual fair only, 8 weekdays rendered individually. Foreign school equivalence, placement, and language of instruction unresolved.",
+    "Hong Kong unplugged contest admits local students. CityU family workshop is Cantonese and requires one adult per child.",
+    "Taiwan Robofest junior discipline dates are the festival window. Local admission, session times and progression to Worlds require verification.",
+    "TAIROS/TAIREX thresholds confirmed at 12. Taipei Game Show public ticket prices and child admission remain pending; separate business zone 18+."
+  ]
+}

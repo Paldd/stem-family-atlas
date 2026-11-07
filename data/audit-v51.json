@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7701,
-    "competition_cards": 3204,
-    "event_cards": 362,
-    "camp_cards": 4135,
+    "cards": 7826,
+    "competition_cards": 3212,
+    "event_cards": 363,
+    "camp_cards": 4251,
     "league_profiles": 268,
-    "major_exhibition_cards": 274,
+    "major_exhibition_cards": 275,
     "vex_cards": 518,
     "countries_with_records": 159,
     "fully_audited_countries": 0
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 2288,
+      "total": 2413,
       "countries_with_records": 44,
-      "competitions": 778,
-      "events": 101,
-      "major_exhibitions": 89,
-      "camps": 1409,
+      "competitions": 786,
+      "events": 102,
+      "major_exhibitions": 90,
+      "camps": 1525,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -10109,6 +10109,17 @@
       "new": false
     },
     {
+      "id": "E363",
+      "name": "Taipei Game Show 2027 · B2B business zone",
+      "country": "Тайвань",
+      "region": "Азия",
+      "start": "2027-01-21",
+      "end": "2027-01-22",
+      "visitor_policy": "adults_only",
+      "source": "https://tgs.tca.org.tw/b2bzone_e.php?lang=e&m=2026",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -12526,14 +12537,14 @@
       }
     ],
     "counts": {
-      "records": 4135,
-      "holiday": 3861,
+      "records": 4251,
+      "holiday": 3977,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1026,
-      "en_es_instruction": 1291,
+      "en_es_instruction": 1399,
       "en_es_support": 12,
-      "family_instruction": 1291,
+      "family_instruction": 1399,
       "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 410,

@@ -1,0 +1,463 @@
+{
+  "captures": [
+    {
+      "key": "cobo-winter",
+      "url": "https://www.coboacademy.com/holiday-camps/index.asp",
+      "checked_at": "2026-11-07T13:36:04.680924+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.coboacademy.com/holiday-camps/index.asp",
+      "content_type": "text/html; Charset=utf-8",
+      "file": "cobo-winter.html",
+      "bytes": 90931,
+      "sha256": "cd839c05093712e231c28d28cc50f6fc5d4afe8d06cddc3835b3260d0bda720f"
+    },
+    {
+      "key": "encode-winter",
+      "url": "https://www.encode-world.com/stem-christmas-camp-hk-2026-coding-ai-camps-encode-education",
+      "checked_at": "2026-11-07T13:36:04.682705+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.encode-world.com/stem-christmas-camp-hk-2026-coding-ai-camps-encode-education",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "encode-winter.html",
+      "bytes": 100679,
+      "sha256": "653990eb4e0949c6a34ecb6632250bf1503dd8fc6784c990b3bcd5938718ba05"
+    },
+    {
+      "key": "bigbang-winter",
+      "url": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+      "checked_at": "2026-11-07T13:36:04.685193+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.bigbangacademyhk.com/events/camps/2026-winter-programme",
+      "content_type": "text/html; charset=utf-8",
+      "file": "bigbang-winter.html",
+      "bytes": 266021,
+      "sha256": "45df093b0895760ac1225ed48762c0900f51b7da8da5a7679378d775901b2202"
+    },
+    {
+      "key": "huhu-island",
+      "url": "https://www.huhu.com.tw/tw/course/show.aspx?num=90",
+      "checked_at": "2026-11-07T13:36:04.685799+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.huhu.com.tw/tw/course/show.aspx?num=90",
+      "content_type": "text/html; charset=utf-8",
+      "file": "huhu-island.html",
+      "bytes": 126287,
+      "sha256": "17a96747e32974aafa7c9c3749bd454980ca27add06e6fe6fa7971c33e166475"
+    },
+    {
+      "key": "huhu-promotions",
+      "url": "https://www.huhu.com.tw/tw/news/show.aspx?num=100",
+      "checked_at": "2026-11-07T13:36:04.687841+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.huhu.com.tw/tw/news/show.aspx?num=100",
+      "content_type": "text/html; charset=utf-8",
+      "file": "huhu-promotions.html",
+      "bytes": 81311,
+      "sha256": "d8ce1b2e6fd4704ad1a6a40add7f3a113466f54a31c45bb2f4cf5386959e3699"
+    },
+    {
+      "key": "taiwan-brown-ai",
+      "url": "https://elementaryschool.ltbrown.hcc.edu.tw/announcement-detail/44/",
+      "checked_at": "2026-11-07T13:36:04.689348+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://elementaryschool.ltbrown.hcc.edu.tw/announcement-detail/44/",
+      "content_type": "text/html; charset=utf-8",
+      "file": "taiwan-brown-ai.html",
+      "bytes": 88390,
+      "sha256": "e4dff39a6c131f0852075fe666b3603cebe634ebbfc0c04f45a4dd7ef37d4b09"
+    },
+    {
+      "key": "huhu-weird",
+      "url": "https://www.huhu.com.tw/tw/course/show.aspx?num=91&kind=26&page=1",
+      "checked_at": "2026-11-07T13:45:54.799189+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.huhu.com.tw/tw/course/show.aspx?num=91&kind=26&page=1",
+      "content_type": "text/html; charset=utf-8",
+      "file": "huhu-weird.html",
+      "bytes": 124115,
+      "sha256": "a863b2afe124d93e0ec450e31cf0e0ade5e94cd7f46d1de44eb1f91811a3c47f"
+    },
+    {
+      "key": "tairos-visitor",
+      "url": "https://tairos.chanchao.com.tw/en/VisitorInfo",
+      "checked_at": "2026-11-07T13:45:54.799523+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://tairos.chanchao.com.tw/en/VisitorInfo",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "key": "tairos-exhibitors",
+      "url": "https://tairos.chanchao.com.tw/en/VisitorExhibitor",
+      "checked_at": "2026-11-07T13:45:54.799612+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://tairos.chanchao.com.tw/en/VisitorExhibitor",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "key": "tairex-visitor",
+      "url": "https://tairex.chanchao.com.tw/VisitorInfo",
+      "checked_at": "2026-11-07T13:45:54.802716+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://tairex.chanchao.com.tw/VisitorInfo",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "key": "robofest-tw",
+      "url": "https://robofest.me/",
+      "checked_at": "2026-11-07T13:45:54.806730+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://robofest.me/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "robofest-tw.html",
+      "bytes": 170675,
+      "sha256": "94bc2cad549d66523a0a905a56c128d708e0dadd8256c391018ed14f36bc4aed"
+    },
+    {
+      "key": "eduperience-unplug",
+      "url": "https://eduperience.org/hk-unplug-competition/",
+      "checked_at": "2026-11-07T13:45:54.807305+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://eduperience.org/hk-unplug-competition/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "eduperience-unplug.html",
+      "bytes": 156204,
+      "sha256": "7cd8aefa35a3e78666b4c4bca887786ec9d49e9f7623e58d625d295ea9135bd2"
+    },
+    {
+      "key": "cityu-hub",
+      "url": "https://www.cityu.edu.hk/ceng/local-outreach/bright-future-engineering-talent-hub/hubs-activities",
+      "checked_at": "2026-11-07T13:45:54.808471+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.cityu.edu.hk/ceng/local-outreach/bright-future-engineering-talent-hub/hubs-activities",
+      "content_type": "text/html",
+      "file": "cityu-hub.html",
+      "bytes": 212,
+      "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+    },
+    {
+      "key": "cityu-bot",
+      "url": "https://www.cityu.edu.hk/en/ceng/local-outreach/bright-future-engineering-talent-hub/hubs-activities/build-a-bot-family-challenge_2027",
+      "checked_at": "2026-11-07T13:45:54.813201+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.cityu.edu.hk/en/ceng/local-outreach/bright-future-engineering-talent-hub/hubs-activities/build-a-bot-family-challenge_2027",
+      "content_type": "text/html",
+      "file": "cityu-bot.html",
+      "bytes": 212,
+      "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+    },
+    {
+      "key": "cobo-kowloon-jan",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-4-8-jan-1000/",
+      "checked_at": "2026-11-07T13:45:54.816783+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-4-8-jan-1000/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "cobo-kowloon-jan.html",
+      "bytes": 238060,
+      "sha256": "60de9d506920c9007e095564a2324e6f3d4c8d94bd7a1a1d28af74e22ccf9f75"
+    },
+    {
+      "key": "cobo-wan-chai-1-am",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-7-11-dec-1000/",
+      "checked_at": "2026-11-07T13:46:55.499169+00:00",
+      "transport": "curl",
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "key": "cobo-wan-chai-2-am",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-14-18-dec-1000/",
+      "checked_at": "2026-11-07T13:46:55.499438+00:00",
+      "transport": "curl",
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "key": "cobo-wan-chai-2-pm",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-wan-chai-14-18-dec-1400/",
+      "checked_at": "2026-11-07T13:46:55.501770+00:00",
+      "transport": "curl",
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "key": "cobo-wan-chai-3-am",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-21-24-dec-1000/",
+      "checked_at": "2026-11-07T13:46:55.503346+00:00",
+      "transport": "curl",
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "key": "cobo-wan-chai-3-pm",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-wan-chai-21-24-dec-1400/",
+      "checked_at": "2026-11-07T13:46:55.503750+00:00",
+      "transport": "curl",
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "key": "cobo-wan-chai-4-am",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-28-31-dec-1000/",
+      "checked_at": "2026-11-07T13:46:55.506149+00:00",
+      "transport": "curl",
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "key": "cobo-wan-chai-4-pm",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-wan-chai-28-31-dec-1400/",
+      "checked_at": "2026-11-07T13:46:55.506571+00:00",
+      "transport": "curl",
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "key": "cobo-wan-chai-5-am",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-4-8-jan-1000/",
+      "checked_at": "2026-11-07T13:46:55.509148+00:00",
+      "transport": "curl",
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "key": "cobo-kowloon-tong-1-am",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-7-11-dec-1000/",
+      "checked_at": "2026-11-07T13:46:55.511012+00:00",
+      "transport": "curl",
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "key": "cobo-kowloon-tong-2-am",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-14-18-dec-1000/",
+      "checked_at": "2026-11-07T13:46:55.512626+00:00",
+      "transport": "curl",
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "key": "cobo-kowloon-tong-2-pm",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-kowloon-tong-14-18-dec-1400/",
+      "checked_at": "2026-11-07T13:47:01.522531+00:00",
+      "transport": "curl",
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "key": "cobo-kowloon-tong-3-am",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-21-24-dec-1000/",
+      "checked_at": "2026-11-07T13:47:01.522859+00:00",
+      "transport": "curl",
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "key": "cobo-kowloon-tong-3-pm",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-kowloon-tong-21-24-dec-1400/",
+      "checked_at": "2026-11-07T13:47:01.526524+00:00",
+      "transport": "curl",
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "key": "cobo-kowloon-tong-4-am",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-28-31-dec-1000/",
+      "checked_at": "2026-11-07T13:47:01.527103+00:00",
+      "transport": "curl",
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "key": "cobo-kowloon-tong-4-pm",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-kowloon-tong-28-31-dec-1400/",
+      "checked_at": "2026-11-07T13:47:01.528038+00:00",
+      "transport": "curl",
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "key": "cobo-kowloon-tong-5-am",
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-4-8-jan-1000/",
+      "checked_at": "2026-11-07T13:47:01.531985+00:00",
+      "transport": "curl",
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "key": "tgs-b2c",
+      "url": "https://tgs.tca.org.tw/method_e.php",
+      "checked_at": "2026-11-07T13:47:01.535918+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://tgs.tca.org.tw/method_e.php",
+      "content_type": "text/html",
+      "file": "tgs-b2c.html",
+      "bytes": 25432,
+      "sha256": "70c5d850055e6ced0c771188d16497469f2b77c79b232cacf03e52ef6b770a63"
+    },
+    {
+      "key": "tgs-board",
+      "url": "https://tgs.tca.org.tw/boardgame_wonderland.php",
+      "checked_at": "2026-11-07T13:47:01.537837+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://tgs.tca.org.tw/boardgame_wonderland.php",
+      "content_type": "text/html",
+      "file": "tgs-board.html",
+      "bytes": 40022,
+      "sha256": "fa547d784c18c2d6153f64e331091729f17c5032d2035d3bdd16ff5d34f8833a"
+    },
+    {
+      "key": "tgs-b2b",
+      "url": "https://tgs.tca.org.tw/b2bzone_e.php?lang=e&m=2026",
+      "checked_at": "2026-11-07T13:47:01.538015+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://tgs.tca.org.tw/b2bzone_e.php?lang=e&m=2026",
+      "content_type": "text/html",
+      "file": "tgs-b2b.html",
+      "bytes": 34913,
+      "sha256": "14a817b0c9b6854b6d95e7949062b167253047f585d3240f8c18511e203f2361"
+    },
+    {
+      "key": "tgs-news",
+      "url": "https://tgs.tca.org.tw/news.php?a=1&b=e&n=b8b12f949378552c21f28deff8ba8eb6",
+      "checked_at": "2026-11-07T13:47:01.542730+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://tgs.tca.org.tw/news.php?a=1&b=e&n=b8b12f949378552c21f28deff8ba8eb6",
+      "content_type": "text/html",
+      "file": "tgs-news.html",
+      "bytes": 32050,
+      "sha256": "694bd57919f556a6497b6904a05025876d2cfedc188b1ad4e5396473d1927731"
+    }
+  ],
+  "public_web_observations": [
+    {
+      "url": "https://tairex.chanchao.com.tw/VisitorInfo",
+      "evidence": "Official current visitor page: Mar 18–21; under 12 excluded; registration QR, NT$300 onsite one-day option; 10–18, last day to 17.",
+      "checked": "2026-11-07",
+      "type": "official_web_readback"
+    },
+    {
+      "url": "https://tairos.chanchao.com.tw/en/VisitorInfo",
+      "evidence": "Official current visitor page: Aug 4–7; under 12 excluded; registration QR, NT$300 onsite option; 10–17, last day to 16.",
+      "checked": "2026-11-07",
+      "type": "official_web_readback"
+    },
+    {
+      "url": "https://tairos.chanchao.com.tw/en/VisitorExhibitor",
+      "evidence": "Organizer exhibitor directory page; list may change.",
+      "checked": "2026-11-07",
+      "type": "official_web_readback"
+    },
+    {
+      "url": "https://www.cityu.edu.hk/en/ceng/local-outreach/bright-future-engineering-talent-hub/hubs-activities/build-a-bot-family-challenge_2027",
+      "evidence": "University published public workshop page: March 6, 2027, two times, P1–P3, Cantonese, free, one adult per child, registration Dec 10–Jan 22.",
+      "checked": "2026-11-07",
+      "type": "official_web_readback"
+    },
+    {
+      "url": "https://www.cityu.edu.hk/ceng/local-outreach/bright-future-engineering-talent-hub/hubs-activities",
+      "evidence": "University outreach index corroborates date and lists programming for local primary and secondary students.",
+      "checked": "2026-11-07",
+      "type": "official_web_readback"
+    },
+    {
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-7-11-dec-1000/",
+      "checked": "2026-11-07",
+      "type": "calendar_corroboration",
+      "evidence": "KidsClub listed this campus and time block for ages 4–16. Organizer confirms tuition, English and age bands separately. Course and seat availability pending."
+    },
+    {
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-14-18-dec-1000/",
+      "checked": "2026-11-07",
+      "type": "calendar_corroboration",
+      "evidence": "KidsClub listed this campus and time block for ages 4–16. Organizer confirms tuition, English and age bands separately. Course and seat availability pending."
+    },
+    {
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-wan-chai-14-18-dec-1400/",
+      "checked": "2026-11-07",
+      "type": "calendar_corroboration",
+      "evidence": "KidsClub listed this campus and time block for ages 4–16. Organizer confirms tuition, English and age bands separately. Course and seat availability pending."
+    },
+    {
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-21-24-dec-1000/",
+      "checked": "2026-11-07",
+      "type": "calendar_corroboration",
+      "evidence": "KidsClub listed this campus and time block for ages 4–16. Organizer confirms tuition, English and age bands separately. Course and seat availability pending."
+    },
+    {
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-wan-chai-21-24-dec-1400/",
+      "checked": "2026-11-07",
+      "type": "calendar_corroboration",
+      "evidence": "KidsClub listed this campus and time block for ages 4–16. Organizer confirms tuition, English and age bands separately. Course and seat availability pending."
+    },
+    {
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-28-31-dec-1000/",
+      "checked": "2026-11-07",
+      "type": "calendar_corroboration",
+      "evidence": "KidsClub listed this campus and time block for ages 4–16. Organizer confirms tuition, English and age bands separately. Course and seat availability pending."
+    },
+    {
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-wan-chai-28-31-dec-1400/",
+      "checked": "2026-11-07",
+      "type": "calendar_corroboration",
+      "evidence": "KidsClub listed this campus and time block for ages 4–16. Organizer confirms tuition, English and age bands separately. Course and seat availability pending."
+    },
+    {
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-4-8-jan-1000/",
+      "checked": "2026-11-07",
+      "type": "calendar_corroboration",
+      "evidence": "KidsClub listed this campus and time block for ages 4–16. Organizer confirms tuition, English and age bands separately. Course and seat availability pending."
+    },
+    {
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-7-11-dec-1000/",
+      "checked": "2026-11-07",
+      "type": "calendar_corroboration",
+      "evidence": "KidsClub listed this campus and time block for ages 4–16. Organizer confirms tuition, English and age bands separately. Course and seat availability pending."
+    },
+    {
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-14-18-dec-1000/",
+      "checked": "2026-11-07",
+      "type": "calendar_corroboration",
+      "evidence": "KidsClub listed this campus and time block for ages 4–16. Organizer confirms tuition, English and age bands separately. Course and seat availability pending."
+    },
+    {
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-kowloon-tong-14-18-dec-1400/",
+      "checked": "2026-11-07",
+      "type": "calendar_corroboration",
+      "evidence": "KidsClub listed this campus and time block for ages 4–16. Organizer confirms tuition, English and age bands separately. Course and seat availability pending."
+    },
+    {
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-21-24-dec-1000/",
+      "checked": "2026-11-07",
+      "type": "calendar_corroboration",
+      "evidence": "KidsClub listed this campus and time block for ages 4–16. Organizer confirms tuition, English and age bands separately. Course and seat availability pending."
+    },
+    {
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-kowloon-tong-21-24-dec-1400/",
+      "checked": "2026-11-07",
+      "type": "calendar_corroboration",
+      "evidence": "KidsClub listed this campus and time block for ages 4–16. Organizer confirms tuition, English and age bands separately. Course and seat availability pending."
+    },
+    {
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-28-31-dec-1000/",
+      "checked": "2026-11-07",
+      "type": "calendar_corroboration",
+      "evidence": "KidsClub listed this campus and time block for ages 4–16. Organizer confirms tuition, English and age bands separately. Course and seat availability pending."
+    },
+    {
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-kowloon-tong-28-31-dec-1400/",
+      "checked": "2026-11-07",
+      "type": "calendar_corroboration",
+      "evidence": "KidsClub listed this campus and time block for ages 4–16. Organizer confirms tuition, English and age bands separately. Course and seat availability pending."
+    },
+    {
+      "url": "https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-4-8-jan-1000/",
+      "checked": "2026-11-07",
+      "type": "calendar_corroboration",
+      "evidence": "KidsClub listed this campus and time block for ages 4–16. Organizer confirms tuition, English and age bands separately. Course and seat availability pending."
+    }
+  ]
+}

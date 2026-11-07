@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1697 fichas en 96 países. Cada ficha indica la fecha de comprobación de sus fuentes.
+Estado de la base: 2026-11-07. 1713 fichas en 96 países y territorios. Cada ficha incluye las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -29488,13 +29488,13 @@ Ingeniería de vuelo y lectura en inglés en un grupo de ocho; sin programación
 
 Taiwán · Qionglin · No.1 Dahua Road, Hsinchu County; Cuerpo de confirmación
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-07
 
 **Edad:** G1–G3, Grupo no universal 6–12.
 
 ** Idioma:** El futuro final de la ciencia fair se describe como Chinese/English; no se ha demostrado el idioma de todo el curso ni la participación en EN-only.
 
-** Programa:** 8 días: IA exploration, estudios científicos, design thinking, prototipos y tareas de mando; presentación bilingüe final.
+**Programa:** 8 días hábiles de clase. Exploración de IA, experimentos, pensamiento de diseño, prototipos y proyecto en equipo. Presentación final en chino e inglés. Confirmar dispositivos y herramientas de IA.
 
 ** Vivienda:** Días completos; no hay pensión en el anuncio.
 
@@ -29518,19 +29518,43 @@ Taiwán · Qionglin · No.1 Dahua Road, Hsinchu County; Cuerpo de confirmación
 
 - Confirmar G1G3, admisión extranjera, EN teaching, devices, alimentación/materiales, plazo de tarifa temprana y cancelación.
 
-### 8 días de semana
+### 8 días hábiles de clase
 
 **Fechas / estado:** 2027-01-25 — 2027-02-03
 
 **lugar:** Qionglin · No.1 Dahua Road, Hsinchu County; el cuerpo confirme
 
+**Edad:** G1–G3, Grupo no universal 6–12.
+
 **Precio:** NT$23 900 regular; el plazo del precio temprano no se conoce
+
+- 2027-01-25 · 09:00–17:00 · Asia/Taipei · IA, experimento científico y proyecto de ingeniería
+
+- 2027-01-26 · 09:00–17:00 · Asia/Taipei · IA, experimento científico y proyecto de ingeniería
+
+- 2027-01-27 · 09:00–17:00 · Asia/Taipei · IA, experimento científico y proyecto de ingeniería
+
+- 2027-01-28 · 09:00–17:00 · Asia/Taipei · IA, experimento científico y proyecto de ingeniería
+
+- 2027-01-29 · 09:00–17:00 · Asia/Taipei · IA, experimento científico y proyecto de ingeniería
+
+- 2027-02-01 · 09:00–17:00 · Asia/Taipei · IA, experimento científico y proyecto de ingeniería
+
+- 2027-02-02 · 09:00–17:00 · Asia/Taipei · IA, experimento científico y proyecto de ingeniería
+
+- 2027-02-03 · 09:00–17:00 · Asia/Taipei · IA, experimento científico y proyecto de ingeniería
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+** Matwey:** a menos que la clase G1-G3 sea la actual, si en enero de 2027 ya es G4 no corresponde a la categoría normal.
+
+*Oscar: **Necesitamos un G1 y una cita en la escuela/sistema del país, para aclarar el idioma del curso.
 
 [fuente](https://elementaryschool.ltbrown.hcc.edu.tw/announcement-detail/44/)
 
 ### Fuentes
 
-- [anuncio escolar 2027, publicado 16.09.2026](https://elementaryschool.ltbrown.hcc.edu.tw/announcement-detail/44/) · 2026-10-05
+- [anuncio escolar 2027, publicado 16.09.2026](https://elementaryschool.ltbrown.hcc.edu.tw/announcement-detail/44/) · 2026-11-07
 
 ## CP338 · iROBO · SPIKE + EV3 / Frozen Code
 
@@ -131173,6 +131197,3166 @@ Chile · Av. Virginia Subercaseaux · Pirque · Región Metropolitana
 - [Página oficial del organizador](https://www.summercampirque.cl/programas/) · 2026-11-07
 
 - [Página oficial del organizador](https://www.summercampirque.cl/) · 2026-11-07
+
+## CP1698 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab
+
+Hong Kong · Wan Chai / Tsim Sha Tsui / Sha Tin / Tseung Kwan O / Tsuen Wan
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6 años y 8 años
+
+**Idioma:** El organizador confirma que las clases se imparten en inglés.
+
+**Programa:** IA generativa para imágenes y música, modelo 3D en Tinkercad, impresión de una figura y libro interactivo con módulo de sonido. Hay coincidencias de días y sede entre los grupos menor y mayor. Confirmar horarios y plazas en ambos grupos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Dos fechas por turno, 2,5 horas al día. La hora de inicio no figura en el horario por sedes.
+
+**Precio / año:** 2026 · HKD 1950 por 2 días
+
+**Incluido:** Dos clases de 2,5 horas y el proyecto del programa.
+
+**Suplementos:** Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, horario del grupo concreto, precio final y condiciones de reembolso.
+
+### Spider-Man AI Creator Lab · Wan Chai
+
+**Fechas / estado:** 2026-12-14 — 2026-12-15
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Wan Chai
+
+**Fechas / estado:** 2026-12-16 — 2026-12-17
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Wan Chai
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Wan Chai
+
+**Fechas / estado:** 2026-12-23 — 2026-12-24
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Wan Chai
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Wan Chai
+
+**Fechas / estado:** 2026-12-30 — 2026-12-31
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tsim Sha Tsui
+
+**Fechas / estado:** 2026-12-14 — 2026-12-15
+
+**lugar:** 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tsim Sha Tsui
+
+**Fechas / estado:** 2026-12-16 — 2026-12-17
+
+**lugar:** 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tsim Sha Tsui
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tsim Sha Tsui
+
+**Fechas / estado:** 2026-12-23 — 2026-12-24
+
+**lugar:** 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tsim Sha Tsui
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**lugar:** 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tsim Sha Tsui
+
+**Fechas / estado:** 2026-12-30 — 2026-12-31
+
+**lugar:** 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Shatin
+
+**Fechas / estado:** 2026-12-14 — 2026-12-15
+
+**lugar:** Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Shatin
+
+**Fechas / estado:** 2026-12-16 — 2026-12-17
+
+**lugar:** Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Shatin
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Shatin
+
+**Fechas / estado:** 2026-12-23 — 2026-12-24
+
+**lugar:** Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Shatin
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**lugar:** Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Shatin
+
+**Fechas / estado:** 2026-12-30 — 2026-12-31
+
+**lugar:** Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tseung Kwan O
+
+**Fechas / estado:** 2026-12-14 — 2026-12-15
+
+**lugar:** Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tseung Kwan O
+
+**Fechas / estado:** 2026-12-16 — 2026-12-17
+
+**lugar:** Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tseung Kwan O
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tseung Kwan O
+
+**Fechas / estado:** 2026-12-23 — 2026-12-24
+
+**lugar:** Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tseung Kwan O
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**lugar:** Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tseung Kwan O
+
+**Fechas / estado:** 2026-12-30 — 2026-12-31
+
+**lugar:** Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tsuen Wan
+
+**Fechas / estado:** 2026-12-14 — 2026-12-15
+
+**lugar:** Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tsuen Wan
+
+**Fechas / estado:** 2026-12-16 — 2026-12-17
+
+**lugar:** Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tsuen Wan
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tsuen Wan
+
+**Fechas / estado:** 2026-12-23 — 2026-12-24
+
+**lugar:** Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tsuen Wan
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**lugar:** Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Spider-Man AI Creator Lab · Tsuen Wan
+
+**Fechas / estado:** 2026-12-30 — 2026-12-31
+
+**lugar:** Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme) · 2026-11-07
+
+## CP1699 · Big Bang Academy Hong Kong · Ice Age Rescue Mission
+
+Hong Kong · Wan Chai / Tsim Sha Tsui / Sha Tin / Tseung Kwan O / Tsuen Wan
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6 años y 8 años
+
+**Idioma:** El organizador confirma que las clases se imparten en inglés.
+
+**Programa:** Experimentos de intercambio térmico y aislamiento, base invernal neumática y pruebas de mecanismos. Hay coincidencias de días y sede entre los grupos menor y mayor. Confirmar horarios y plazas en ambos grupos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Dos fechas por turno, 2,5 horas al día. La hora de inicio no figura en el horario por sedes.
+
+**Precio / año:** 2026 · HKD 1950 por 2 días
+
+**Incluido:** Dos clases de 2,5 horas y el proyecto del programa.
+
+**Suplementos:** Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, horario del grupo concreto, precio final y condiciones de reembolso.
+
+### Ice Age Rescue Mission · Wan Chai
+
+**Fechas / estado:** 2026-12-14 — 2026-12-15
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Wan Chai
+
+**Fechas / estado:** 2026-12-18 — 2026-12-19
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Wan Chai
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Wan Chai
+
+**Fechas / estado:** 2026-12-23 — 2026-12-24
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Wan Chai
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Tsim Sha Tsui
+
+**Fechas / estado:** 2026-12-14 — 2026-12-15
+
+**lugar:** 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Tsim Sha Tsui
+
+**Fechas / estado:** 2026-12-18 — 2026-12-19
+
+**lugar:** 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Tsim Sha Tsui
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Tsim Sha Tsui
+
+**Fechas / estado:** 2026-12-23 — 2026-12-24
+
+**lugar:** 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Tsim Sha Tsui
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**lugar:** 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Shatin
+
+**Fechas / estado:** 2026-12-14 — 2026-12-15
+
+**lugar:** Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Shatin
+
+**Fechas / estado:** 2026-12-18 — 2026-12-19
+
+**lugar:** Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Shatin
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Shatin
+
+**Fechas / estado:** 2026-12-23 — 2026-12-24
+
+**lugar:** Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Shatin
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**lugar:** Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Tseung Kwan O
+
+**Fechas / estado:** 2026-12-14 — 2026-12-15
+
+**lugar:** Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Tseung Kwan O
+
+**Fechas / estado:** 2026-12-18 — 2026-12-19
+
+**lugar:** Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Tseung Kwan O
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Tseung Kwan O
+
+**Fechas / estado:** 2026-12-23 — 2026-12-24
+
+**lugar:** Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Tseung Kwan O
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**lugar:** Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Tsuen Wan
+
+**Fechas / estado:** 2026-12-14 — 2026-12-15
+
+**lugar:** Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Tsuen Wan
+
+**Fechas / estado:** 2026-12-18 — 2026-12-19
+
+**lugar:** Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Tsuen Wan
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Tsuen Wan
+
+**Fechas / estado:** 2026-12-23 — 2026-12-24
+
+**lugar:** Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Ice Age Rescue Mission · Tsuen Wan
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**lugar:** Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme) · 2026-11-07
+
+## CP1700 · Big Bang Academy Hong Kong · Grinch vs Santa: AI Showdown
+
+Hong Kong · Wan Chai / Tsim Sha Tsui / Sha Tin / Tseung Kwan O / Tsuen Wan
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9–11 años
+
+**Idioma:** El organizador confirma que las clases se imparten en inglés.
+
+**Programa:** Entrenamiento de modelos de reconocimiento de poses y sonidos, aplicación web, generación musical y Papá Noel cantante con microchip. Hay coincidencias de días y sede entre los grupos menor y mayor. Confirmar horarios y plazas en ambos grupos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Dos fechas por turno, 2,5 horas al día. La hora de inicio no figura en el horario por sedes.
+
+**Precio / año:** 2026 · HKD 1950 por 2 días
+
+**Incluido:** Dos clases de 2,5 horas y el proyecto del programa.
+
+**Suplementos:** Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, horario del grupo concreto, precio final y condiciones de reembolso.
+
+### Grinch vs Santa: AI Showdown · Wan Chai
+
+**Fechas / estado:** 2026-12-16 — 2026-12-17
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Grinch vs Santa: AI Showdown · Wan Chai
+
+**Fechas / estado:** 2026-12-23 — 2026-12-24
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Grinch vs Santa: AI Showdown · Wan Chai
+
+**Fechas / estado:** 2026-12-30 — 2026-12-31
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Grinch vs Santa: AI Showdown · Tsim Sha Tsui
+
+**Fechas / estado:** 2026-12-16 — 2026-12-17
+
+**lugar:** 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Grinch vs Santa: AI Showdown · Tsim Sha Tsui
+
+**Fechas / estado:** 2026-12-23 — 2026-12-24
+
+**lugar:** 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Grinch vs Santa: AI Showdown · Shatin
+
+**Fechas / estado:** 2026-12-16 — 2026-12-17
+
+**lugar:** Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Grinch vs Santa: AI Showdown · Shatin
+
+**Fechas / estado:** 2026-12-23 — 2026-12-24
+
+**lugar:** Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Grinch vs Santa: AI Showdown · Tsuen Wan
+
+**Fechas / estado:** 2026-12-16 — 2026-12-17
+
+**lugar:** Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Grinch vs Santa: AI Showdown · Tsuen Wan
+
+**Fechas / estado:** 2026-12-23 — 2026-12-24
+
+**lugar:** Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Grinch vs Santa: AI Showdown · Tseung Kwan O
+
+**Fechas / estado:** 2026-12-23 — 2026-12-24
+
+**lugar:** Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme) · 2026-11-07
+
+## CP1701 · Big Bang Academy Hong Kong · Pokémon Engineer Mission
+
+Hong Kong · Wan Chai / Tsim Sha Tsui / Sha Tin / Tseung Kwan O / Tsuen Wan
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9–11 años
+
+**Idioma:** El organizador confirma que las clases se imparten en inglés.
+
+**Programa:** Modelado de una insignia en 3D, diseño de un puente en ASCE Bridge Designer, pruebas de carga y presentación del proyecto. Hay coincidencias de días y sede entre los grupos menor y mayor. Confirmar horarios y plazas en ambos grupos.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Dos fechas por turno, 2,5 horas al día. La hora de inicio no figura en el horario por sedes.
+
+**Precio / año:** 2026 · HKD 1950 por 2 días
+
+**Incluido:** Dos clases de 2,5 horas y el proyecto del programa.
+
+**Suplementos:** Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, horario del grupo concreto, precio final y condiciones de reembolso.
+
+### Pokémon Engineer Mission · Wan Chai
+
+**Fechas / estado:** 2026-12-14 — 2026-12-15
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Pokémon Engineer Mission · Wan Chai
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Pokémon Engineer Mission · Wan Chai
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**lugar:** 18/F Henan Building · 90 Jaffe Road · Wan Chai
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Pokémon Engineer Mission · Tsim Sha Tsui
+
+**Fechas / estado:** 2026-12-14 — 2026-12-15
+
+**lugar:** 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Pokémon Engineer Mission · Tsim Sha Tsui
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Pokémon Engineer Mission · Tsim Sha Tsui
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**lugar:** 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Pokémon Engineer Mission · Shatin
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Pokémon Engineer Mission · Shatin
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**lugar:** Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Pokémon Engineer Mission · Tsuen Wan
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Pokémon Engineer Mission · Tsuen Wan
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**lugar:** Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Pokémon Engineer Mission · Tseung Kwan O
+
+**Fechas / estado:** 2026-12-21 — 2026-12-22
+
+**lugar:** Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+
+**edad:** 9–11 años
+
+**Precio:** HKD 1950 por 2 días
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.bigbangacademyhk.com/events/camps/2026-winter-programme) · 2026-11-07
+
+## CP1702 · Cobo Academy · Junior · Wan Chai
+
+Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6 años y 8 años
+
+**Idioma:** El organizador confirma que las clases se imparten en inglés.
+
+**Programa:** LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo. El operador publica el horario del programa y la oferta de temas por edades. Confirmar el tema elegido en la franja concreta.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** HKD 7200 por dos niños y un turno antes de descuentos. Confirmar temas, plazas, materiales y tarifa final.
+
+**Precio / año:** 2026 · HKD 3600 por 4 días
+
+**Incluido:** 4 días de clases, 2 horas al día. Los materiales concretos dependen del curso elegido.
+
+**Suplementos:** 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+- Confirmar plaza, horario del grupo concreto, precio final y condiciones de reembolso.
+
+### Junior · Wan Chai · AM
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 3600 por 4 días
+
+- 2026-12-21 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-22 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-23 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-24 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Junior · Wan Chai · PM
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 3600 por 4 días
+
+- 2026-12-21 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-22 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-23 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-24 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Junior · Wan Chai · AM
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 3600 por 4 días
+
+- 2026-12-28 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-29 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-30 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-31 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Junior · Wan Chai · PM
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 3600 por 4 días
+
+- 2026-12-28 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-29 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-30 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-31 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-21-24-dec-1000/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-wan-chai-21-24-dec-1400/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-28-31-dec-1000/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-wan-chai-28-31-dec-1400/) · 2026-11-07
+
+## CP1703 · Cobo Academy · Senior · Wan Chai
+
+Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9–11 años
+
+**Idioma:** El organizador confirma que las clases se imparten en inglés.
+
+**Programa:** VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo. El operador publica el horario del programa y la oferta de temas por edades. Confirmar el tema elegido en la franja concreta.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** HKD 7200 por dos niños y un turno antes de descuentos. Confirmar temas, plazas, materiales y tarifa final.
+
+**Precio / año:** 2026 · HKD 3600 por 4 días
+
+**Incluido:** 4 días de clases, 2 horas al día. Los materiales concretos dependen del curso elegido.
+
+**Suplementos:** 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+- Confirmar plaza, horario del grupo concreto, precio final y condiciones de reembolso.
+
+### Senior · Wan Chai · AM
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**edad:** 9–11 años
+
+**Precio:** HKD 3600 por 4 días
+
+- 2026-12-21 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-22 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-23 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-24 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Senior · Wan Chai · PM
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**edad:** 9–11 años
+
+**Precio:** HKD 3600 por 4 días
+
+- 2026-12-21 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-22 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-23 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-24 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Senior · Wan Chai · AM
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**edad:** 9–11 años
+
+**Precio:** HKD 3600 por 4 días
+
+- 2026-12-28 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-29 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-30 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-31 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Senior · Wan Chai · PM
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**edad:** 9–11 años
+
+**Precio:** HKD 3600 por 4 días
+
+- 2026-12-28 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-29 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-30 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-31 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-21-24-dec-1000/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-wan-chai-21-24-dec-1400/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-28-31-dec-1000/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-wan-chai-28-31-dec-1400/) · 2026-11-07
+
+## CP1704 · Cobo Academy · Junior · Wan Chai
+
+Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6 años y 8 años
+
+**Idioma:** El organizador confirma que las clases se imparten en inglés.
+
+**Programa:** LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo. El operador publica el horario del programa y la oferta de temas por edades. Confirmar el tema elegido en la franja concreta.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** HKD 9000 por dos niños y un turno antes de descuentos. Confirmar temas, plazas, materiales y tarifa final.
+
+**Precio / año:** 2026 · HKD 4500 por 5 días
+
+**Incluido:** 5 días de clases, 2 horas al día. Los materiales concretos dependen del curso elegido.
+
+**Suplementos:** 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+- Confirmar plaza, horario del grupo concreto, precio final y condiciones de reembolso.
+
+### Junior · Wan Chai · AM
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 4500 por 5 días
+
+- 2026-12-07 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-08 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-09 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-10 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-11 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Junior · Wan Chai · AM
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 4500 por 5 días
+
+- 2026-12-14 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-15 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-16 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-17 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-18 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Junior · Wan Chai · PM
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 4500 por 5 días
+
+- 2026-12-14 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-15 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-16 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-17 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-18 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Junior · Wan Chai · AM
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**lugar:** 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 4500 por 5 días
+
+- 2027-01-04 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2027-01-05 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2027-01-06 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2027-01-07 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2027-01-08 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-7-11-dec-1000/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-14-18-dec-1000/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-wan-chai-14-18-dec-1400/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-4-8-jan-1000/) · 2026-11-07
+
+## CP1705 · Cobo Academy · Senior · Wan Chai
+
+Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9–11 años
+
+**Idioma:** El organizador confirma que las clases se imparten en inglés.
+
+**Programa:** VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo. El operador publica el horario del programa y la oferta de temas por edades. Confirmar el tema elegido en la franja concreta.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** HKD 9000 por dos niños y un turno antes de descuentos. Confirmar temas, plazas, materiales y tarifa final.
+
+**Precio / año:** 2026 · HKD 4500 por 5 días
+
+**Incluido:** 5 días de clases, 2 horas al día. Los materiales concretos dependen del curso elegido.
+
+**Suplementos:** 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+- Confirmar plaza, horario del grupo concreto, precio final y condiciones de reembolso.
+
+### Senior · Wan Chai · AM
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**edad:** 9–11 años
+
+**Precio:** HKD 4500 por 5 días
+
+- 2026-12-07 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-08 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-09 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-10 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-11 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Senior · Wan Chai · AM
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**edad:** 9–11 años
+
+**Precio:** HKD 4500 por 5 días
+
+- 2026-12-14 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-15 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-16 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-17 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-18 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Senior · Wan Chai · PM
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**edad:** 9–11 años
+
+**Precio:** HKD 4500 por 5 días
+
+- 2026-12-14 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-15 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-16 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-17 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-18 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Senior · Wan Chai · AM
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**lugar:** 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+
+**edad:** 9–11 años
+
+**Precio:** HKD 4500 por 5 días
+
+- 2027-01-04 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2027-01-05 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2027-01-06 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2027-01-07 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2027-01-08 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-7-11-dec-1000/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-14-18-dec-1000/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-wan-chai-14-18-dec-1400/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-wan-chai-4-8-jan-1000/) · 2026-11-07
+
+## CP1706 · Cobo Academy · Junior · Kowloon Tong
+
+Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6 años y 8 años
+
+**Idioma:** El organizador confirma que las clases se imparten en inglés.
+
+**Programa:** LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo. El operador publica el horario del programa y la oferta de temas por edades. Confirmar el tema elegido en la franja concreta.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** HKD 7200 por dos niños y un turno antes de descuentos. Confirmar temas, plazas, materiales y tarifa final.
+
+**Precio / año:** 2026 · HKD 3600 por 4 días
+
+**Incluido:** 4 días de clases, 2 horas al día. Los materiales concretos dependen del curso elegido.
+
+**Suplementos:** 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+- Confirmar plaza, horario del grupo concreto, precio final y condiciones de reembolso.
+
+### Junior · Kowloon Tong · AM
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 3600 por 4 días
+
+- 2026-12-21 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-22 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-23 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-24 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Junior · Kowloon Tong · PM
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 3600 por 4 días
+
+- 2026-12-21 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-22 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-23 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-24 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Junior · Kowloon Tong · AM
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 3600 por 4 días
+
+- 2026-12-28 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-29 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-30 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-31 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Junior · Kowloon Tong · PM
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 3600 por 4 días
+
+- 2026-12-28 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-29 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-30 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-31 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-21-24-dec-1000/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-kowloon-tong-21-24-dec-1400/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-28-31-dec-1000/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-kowloon-tong-28-31-dec-1400/) · 2026-11-07
+
+## CP1707 · Cobo Academy · Senior · Kowloon Tong
+
+Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9–11 años
+
+**Idioma:** El organizador confirma que las clases se imparten en inglés.
+
+**Programa:** VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo. El operador publica el horario del programa y la oferta de temas por edades. Confirmar el tema elegido en la franja concreta.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** HKD 7200 por dos niños y un turno antes de descuentos. Confirmar temas, plazas, materiales y tarifa final.
+
+**Precio / año:** 2026 · HKD 3600 por 4 días
+
+**Incluido:** 4 días de clases, 2 horas al día. Los materiales concretos dependen del curso elegido.
+
+**Suplementos:** 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+- Confirmar plaza, horario del grupo concreto, precio final y condiciones de reembolso.
+
+### Senior · Kowloon Tong · AM
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**edad:** 9–11 años
+
+**Precio:** HKD 3600 por 4 días
+
+- 2026-12-21 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-22 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-23 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-24 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Senior · Kowloon Tong · PM
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**edad:** 9–11 años
+
+**Precio:** HKD 3600 por 4 días
+
+- 2026-12-21 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-22 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-23 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-24 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Senior · Kowloon Tong · AM
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**edad:** 9–11 años
+
+**Precio:** HKD 3600 por 4 días
+
+- 2026-12-28 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-29 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-30 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-31 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Senior · Kowloon Tong · PM
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**edad:** 9–11 años
+
+**Precio:** HKD 3600 por 4 días
+
+- 2026-12-28 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-29 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-30 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-31 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-21-24-dec-1000/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-kowloon-tong-21-24-dec-1400/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-28-31-dec-1000/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-kowloon-tong-28-31-dec-1400/) · 2026-11-07
+
+## CP1708 · Cobo Academy · Junior · Kowloon Tong
+
+Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6 años y 8 años
+
+**Idioma:** El organizador confirma que las clases se imparten en inglés.
+
+**Programa:** LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo. El operador publica el horario del programa y la oferta de temas por edades. Confirmar el tema elegido en la franja concreta.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** HKD 9000 por dos niños y un turno antes de descuentos. Confirmar temas, plazas, materiales y tarifa final.
+
+**Precio / año:** 2026 · HKD 4500 por 5 días
+
+**Incluido:** 5 días de clases, 2 horas al día. Los materiales concretos dependen del curso elegido.
+
+**Suplementos:** 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+- Confirmar plaza, horario del grupo concreto, precio final y condiciones de reembolso.
+
+### Junior · Kowloon Tong · AM
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 4500 por 5 días
+
+- 2026-12-07 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-08 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-09 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-10 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-11 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Junior · Kowloon Tong · AM
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 4500 por 5 días
+
+- 2026-12-14 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-15 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-16 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-17 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-18 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Junior · Kowloon Tong · PM
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 4500 por 5 días
+
+- 2026-12-14 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-15 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-16 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-17 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-18 · 14:00–16:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Junior · Kowloon Tong · AM
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**lugar:** 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**edad:** 6 años y 8 años
+
+**Precio:** HKD 4500 por 5 días
+
+- 2027-01-04 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2027-01-05 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2027-01-06 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2027-01-07 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2027-01-08 · 10:00–12:00 · Asia/Hong_Kong · LEGO SPIKE Prime, LEGO WeDo, Codey Rocky, Scratch, Minecraft, TinkerCAD, MakeCode Arcade y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-7-11-dec-1000/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-14-18-dec-1000/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-kowloon-tong-14-18-dec-1400/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-4-8-jan-1000/) · 2026-11-07
+
+## CP1709 · Cobo Academy · Senior · Kowloon Tong
+
+Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 9–11 años
+
+**Idioma:** El organizador confirma que las clases se imparten en inglés.
+
+**Programa:** VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo. El operador publica el horario del programa y la oferta de temas por edades. Confirmar el tema elegido en la franja concreta.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** HKD 9000 por dos niños y un turno antes de descuentos. Confirmar temas, plazas, materiales y tarifa final.
+
+**Precio / año:** 2026 · HKD 4500 por 5 días
+
+**Incluido:** 5 días de clases, 2 horas al día. Los materiales concretos dependen del curso elegido.
+
+**Suplementos:** 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+- Confirmar plaza, horario del grupo concreto, precio final y condiciones de reembolso.
+
+### Senior · Kowloon Tong · AM
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**edad:** 9–11 años
+
+**Precio:** HKD 4500 por 5 días
+
+- 2026-12-07 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-08 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-09 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-10 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-11 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Senior · Kowloon Tong · AM
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**edad:** 9–11 años
+
+**Precio:** HKD 4500 por 5 días
+
+- 2026-12-14 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-15 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-16 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-17 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-18 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Senior · Kowloon Tong · PM
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**edad:** 9–11 años
+
+**Precio:** HKD 4500 por 5 días
+
+- 2026-12-14 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-15 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-16 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-17 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2026-12-18 · 14:00–16:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Senior · Kowloon Tong · AM
+
+**Fechas / estado:** 2027-01-04 — 2027-01-08
+
+**lugar:** 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+
+**edad:** 9–11 años
+
+**Precio:** HKD 4500 por 5 días
+
+- 2027-01-04 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2027-01-05 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2027-01-06 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2027-01-07 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+- 2027-01-08 · 10:00–12:00 · Asia/Hong_Kong · VEX IQ, LEGO SPIKE Prime, Python, Roblox Lua, Minecraft Java, MakeCode Arcade, VR y fundamentos de IA forman parte de la oferta del grupo.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+- Confirmar el tema elegido y la plaza de cada grupo de edad en esta sede y franja.
+
+[fuente](https://www.coboacademy.com/holiday-camps/index.asp)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.coboacademy.com/holiday-camps/index.asp) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-7-11-dec-1000/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-14-18-dec-1000/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-afternoon-camp-kowloon-tong-14-18-dec-1400/) · 2026-11-07
+
+- [Página oficial del organizador](https://www.kidsclub.hk/event/cobo-academy-robotics-coding-winter-morning-camp-kowloon-tong-4-8-jan-1000/) · 2026-11-07
+
+## CP1710 · HUHU · Mystery Island STEAM
+
+Taiwán · Taipei / Zhubei / Taichung
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+
+**Idioma:** Grupo en inglés o español sin confirmar. La descripción y el horario se publican en chino.
+
+**Programa:** 11 actividades prácticas y 10 proyectos para llevar, experimentos científicos y desafíos de ingeniería.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Días lectivos según calendario del organizador.
+
+**Precio / año:** 2027 · TWD 8680 tarifa normal. TWD 7880 en noviembre de 2026, TWD 8280 en diciembre de 2026.
+
+**Incluido:** Programa lectivo, materiales individuales y proyectos para llevar.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Encaja en el rango escolar si se confirman grado e idioma.
+
+**Oscar:** Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Mystery Island STEAM · Taipei
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** National Taipei University of Business · Taipei
+
+**edad:** Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+
+**Precio:** TWD 8680 tarifa normal. TWD 7880 en noviembre de 2026, TWD 8280 en diciembre de 2026.
+
+- 2027-01-25 · 09:00–17:00 · Asia/Taipei · 11 actividades prácticas y 10 proyectos para llevar, experimentos científicos y desafíos de ingeniería.
+
+- 2027-01-26 · 09:00–17:00 · Asia/Taipei · 11 actividades prácticas y 10 proyectos para llevar, experimentos científicos y desafíos de ingeniería.
+
+- 2027-01-27 · 09:00–17:00 · Asia/Taipei · 11 actividades prácticas y 10 proyectos para llevar, experimentos científicos y desafíos de ingeniería.
+
+- 2027-01-28 · 09:00–17:00 · Asia/Taipei · 11 actividades prácticas y 10 proyectos para llevar, experimentos científicos y desafíos de ingeniería.
+
+- 2027-01-29 · 09:00–17:00 · Asia/Taipei · 11 actividades prácticas y 10 proyectos para llevar, experimentos científicos y desafíos de ingeniería.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Encaja en el rango escolar si se confirman grado e idioma.
+
+**Oscar:** Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma.
+
+[fuente](https://www.huhu.com.tw/tw/course/show.aspx?num=90)
+
+### Mystery Island STEAM · Zhubei
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** Dongxing Elementary School · Zhubei, Hsinchu
+
+**edad:** Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+
+**Precio:** TWD 8680 tarifa normal. TWD 7880 en noviembre de 2026, TWD 8280 en diciembre de 2026.
+
+- 2027-01-25 · 09:00–17:00 · Asia/Taipei · 11 actividades prácticas y 10 proyectos para llevar, experimentos científicos y desafíos de ingeniería.
+
+- 2027-01-26 · 09:00–17:00 · Asia/Taipei · 11 actividades prácticas y 10 proyectos para llevar, experimentos científicos y desafíos de ingeniería.
+
+- 2027-01-27 · 09:00–17:00 · Asia/Taipei · 11 actividades prácticas y 10 proyectos para llevar, experimentos científicos y desafíos de ingeniería.
+
+- 2027-01-28 · 09:00–17:00 · Asia/Taipei · 11 actividades prácticas y 10 proyectos para llevar, experimentos científicos y desafíos de ingeniería.
+
+- 2027-01-29 · 09:00–17:00 · Asia/Taipei · 11 actividades prácticas y 10 proyectos para llevar, experimentos científicos y desafíos de ingeniería.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Encaja en el rango escolar si se confirman grado e idioma.
+
+**Oscar:** Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma.
+
+[fuente](https://www.huhu.com.tw/tw/course/show.aspx?num=90)
+
+### Mystery Island STEAM · Taichung
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**lugar:** National Taichung University of Science and Technology · Sanmin campus · Taichung
+
+**edad:** Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+
+**Precio:** TWD 8680 tarifa normal. TWD 7880 en noviembre de 2026, TWD 8280 en diciembre de 2026.
+
+- 2027-01-25 · 09:00–17:00 · Asia/Taipei · 11 actividades prácticas y 10 proyectos para llevar, experimentos científicos y desafíos de ingeniería.
+
+- 2027-01-26 · 09:00–17:00 · Asia/Taipei · 11 actividades prácticas y 10 proyectos para llevar, experimentos científicos y desafíos de ingeniería.
+
+- 2027-01-27 · 09:00–17:00 · Asia/Taipei · 11 actividades prácticas y 10 proyectos para llevar, experimentos científicos y desafíos de ingeniería.
+
+- 2027-01-28 · 09:00–17:00 · Asia/Taipei · 11 actividades prácticas y 10 proyectos para llevar, experimentos científicos y desafíos de ingeniería.
+
+- 2027-01-29 · 09:00–17:00 · Asia/Taipei · 11 actividades prácticas y 10 proyectos para llevar, experimentos científicos y desafíos de ingeniería.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Encaja en el rango escolar si se confirman grado e idioma.
+
+**Oscar:** Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma.
+
+[fuente](https://www.huhu.com.tw/tw/course/show.aspx?num=90)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.huhu.com.tw/tw/course/show.aspx?num=90) · 2026-11-07
+
+- [Página oficial del organizador](https://www.huhu.com.tw/tw/news/show.aspx?num=100) · 2026-11-07
+
+## CP1711 · HUHU · Weird Science Lab
+
+Taiwán · Taipei / Zhubei / Taichung
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+
+**Idioma:** Grupo en inglés o español sin confirmar. La descripción y el horario se publican en chino.
+
+**Programa:** 8 experimentos y proyectos para llevar. Magnetismo, presión, transferencia térmica, equilibrio y reacciones en cadena.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Días lectivos según calendario del organizador.
+
+**Precio / año:** 2027 · TWD 5880 tarifa normal. TWD 5480 en noviembre de 2026, TWD 5680 en diciembre de 2026.
+
+**Incluido:** Programa lectivo, materiales individuales y proyectos para llevar.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Encaja en el rango escolar si se confirman grado e idioma.
+
+**Oscar:** Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Weird Science Lab · Taipei
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Taipei University of Business · Taipei
+
+**edad:** Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+
+**Precio:** TWD 5880 tarifa normal. TWD 5480 en noviembre de 2026, TWD 5680 en diciembre de 2026.
+
+- 2027-02-01 · 09:00–17:00 · Asia/Taipei · 8 experimentos y proyectos para llevar. Magnetismo, presión, transferencia térmica, equilibrio y reacciones en cadena.
+
+- 2027-02-02 · 09:00–17:00 · Asia/Taipei · 8 experimentos y proyectos para llevar. Magnetismo, presión, transferencia térmica, equilibrio y reacciones en cadena.
+
+- 2027-02-03 · 09:00–17:00 · Asia/Taipei · 8 experimentos y proyectos para llevar. Magnetismo, presión, transferencia térmica, equilibrio y reacciones en cadena.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Encaja en el rango escolar si se confirman grado e idioma.
+
+**Oscar:** Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma.
+
+[fuente](https://www.huhu.com.tw/tw/course/show.aspx?num=91&kind=26&page=1)
+
+### Weird Science Lab · Zhubei
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** Dongxing Elementary School · Zhubei, Hsinchu
+
+**edad:** Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+
+**Precio:** TWD 5880 tarifa normal. TWD 5480 en noviembre de 2026, TWD 5680 en diciembre de 2026.
+
+- 2027-02-01 · 09:00–17:00 · Asia/Taipei · 8 experimentos y proyectos para llevar. Magnetismo, presión, transferencia térmica, equilibrio y reacciones en cadena.
+
+- 2027-02-02 · 09:00–17:00 · Asia/Taipei · 8 experimentos y proyectos para llevar. Magnetismo, presión, transferencia térmica, equilibrio y reacciones en cadena.
+
+- 2027-02-03 · 09:00–17:00 · Asia/Taipei · 8 experimentos y proyectos para llevar. Magnetismo, presión, transferencia térmica, equilibrio y reacciones en cadena.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Encaja en el rango escolar si se confirman grado e idioma.
+
+**Oscar:** Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma.
+
+[fuente](https://www.huhu.com.tw/tw/course/show.aspx?num=91&kind=26&page=1)
+
+### Weird Science Lab · Taichung
+
+**Fechas / estado:** 2027-02-01 — 2027-02-03
+
+**lugar:** National Taichung University of Science and Technology · Sanmin campus · Taichung
+
+**edad:** Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+
+**Precio:** TWD 5880 tarifa normal. TWD 5480 en noviembre de 2026, TWD 5680 en diciembre de 2026.
+
+- 2027-02-01 · 09:00–17:00 · Asia/Taipei · 8 experimentos y proyectos para llevar. Magnetismo, presión, transferencia térmica, equilibrio y reacciones en cadena.
+
+- 2027-02-02 · 09:00–17:00 · Asia/Taipei · 8 experimentos y proyectos para llevar. Magnetismo, presión, transferencia térmica, equilibrio y reacciones en cadena.
+
+- 2027-02-03 · 09:00–17:00 · Asia/Taipei · 8 experimentos y proyectos para llevar. Magnetismo, presión, transferencia térmica, equilibrio y reacciones en cadena.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Encaja en el rango escolar si se confirman grado e idioma.
+
+**Oscar:** Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma.
+
+[fuente](https://www.huhu.com.tw/tw/course/show.aspx?num=91&kind=26&page=1)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.huhu.com.tw/tw/course/show.aspx?num=91&kind=26&page=1) · 2026-11-07
+
+- [Página oficial del organizador](https://www.huhu.com.tw/tw/news/show.aspx?num=100) · 2026-11-07
+
+## CP1712 · Encode Education · Junior Christmas STEM
+
+Hong Kong · G26B Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 3–7 años
+
+**Idioma:** Página del programa en inglés. Idioma de clase y precio sin publicar.
+
+**Programa:** 10:00–12:00 impresión 3D, 12:00–14:00 laboratorio, 14:00–16:00 Coding Lego.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Temporada del 14 de diciembre de 2026 al 2 de enero de 2027. Días del curso concreto y número de clases sin publicar.
+
+**Precio / año:** 2026 · Precio sin publicar.
+
+**Incluido:** Precio sin publicar.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Junior
+
+**Fechas / estado:** 2026-12-14 — 2027-01-02
+
+**Precio:** Precio sin publicar.
+
+[fuente](https://www.encode-world.com/stem-christmas-camp-hk-2026-coding-ai-camps-encode-education)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.encode-world.com/stem-christmas-camp-hk-2026-coding-ai-camps-encode-education) · 2026-11-07
+
+## CP1713 · Encode Education · Senior Christmas STEM
+
+Hong Kong · G26B Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 8+ años
+
+**Idioma:** Página del programa en inglés. Idioma de clase y precio sin publicar.
+
+**Programa:** 10:00–12:00 impresión 3D, 12:00–14:00 Roblox o modding de Minecraft, 14:00–16:00 IA generativa.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Temporada del 14 de diciembre de 2026 al 2 de enero de 2027. Días del curso concreto y número de clases sin publicar.
+
+**Precio / año:** 2026 · Precio sin publicar.
+
+**Incluido:** Precio sin publicar.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Senior
+
+**Fechas / estado:** 2026-12-14 — 2027-01-02
+
+**Precio:** Precio sin publicar.
+
+[fuente](https://www.encode-world.com/stem-christmas-camp-hk-2026-coding-ai-camps-encode-education)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.encode-world.com/stem-christmas-camp-hk-2026-coding-ai-camps-encode-education) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

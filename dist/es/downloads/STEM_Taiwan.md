@@ -109,26 +109,26 @@ Comprobado: 2026-10-01
 ### E020 · TAIREX 2027
 
 Fecha: 2027-03-18 - 2027-03-21
-Edad: No se permite a los niños menores de 12 años
+edad: Entrada desde los 12 años. El organizador no admite a menores de 12 años.
 Matway: No
 Oscar: No
 Idioma: ZH / EN
-Entrada: Visitante profesional de registro; los niños no encajan
-Costo: No publicado / Comprobar la edición actual
-Limitaciones: La compatibilidad por edades no es igual a la admisión a un determinado torneo
+Acceso: Entrada desde los 12 años. El organizador no admite a menores de 12 años.
+Precio: QR personal tras el registro previo. En la sede hay un pase de un día por TWD 300.
+Limitaciones: Horario 10:00–18:00, último día hasta las 17:00.
 Fuente: https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027
 Se ha comprobado: 2026-11-05
 
 ### E021 · TAIROS / Automation Taipei 2027
 
 Fecha: 2027-08-04 — 2027-08-07
-Edad: No se permite a los niños menores de 12 años
+edad: Entrada desde los 12 años. El organizador no admite a menores de 12 años.
 Matway: No
 Oscar: No
 Idioma: ZH / EN
-Entrada: Trade visitor registration
+Acceso: Entrada desde los 12 años. El organizador no admite a menores de 12 años.
 Precio: QR personal tras visitor registration; alternativa presencial publicada de NT$300 si no se desea formulario de miembro. Comprobar condiciones de registro anticipado gratuito para opción elegida.
-Limitaciones: La compatibilidad por edades no es igual a la admisión a un determinado torneo
+Limitaciones: Horario 10:00–17:00, último día hasta las 16:00.
 Fuente: https://www.chanchao.com.tw/expoDetail.asp?id=ROBOT2027
 Se ha comprobado: 2026-11-05
 
@@ -717,6 +717,97 @@ Restricciones: Acceso familiar solo el 25 de septiembre. Las condiciones para pr
 Fuente: https://www.tadte.com.tw/zh-tw/menu/9BC8A4C92D674714D0636733C6861689/info.html
 Se ha comprobado: 2026-11-07
 
+### C3208 · Taiwan Robofest 2027 · Exhibition · Taiwan Beginner
+
+Fecha: 2027-03-06 — 2027-03-07
+edad: Grados 1–4. Equipo de 1–5 personas.
+Matvey: Condicional si se confirman grado 1–4, idioma y admisión local.
+Oscar: Condicional si se confirman grado 1–4, idioma y admisión local.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Comprobar equivalencia del grado y reglas de la etapa nacional. El pase a la final mundial depende de la categoría.
+Precio: Precio sin publicar.
+Limitaciones: 6–7 de marzo de 2027 es el intervalo general del festival. Confirmar día y sede de la disciplina, cuota, idioma y admisión desde una escuela extranjera.
+Fuente: https://robofest.me/
+Se ha comprobado: 2026-11-07
+
+### C3209 · Taiwan Robofest 2027 · RoboArts · Junior
+
+Fecha: 2027-03-06 — 2027-03-07
+edad: Grados 3–8. Equipo de 1–5 personas.
+Matvey: Condicional si se confirman grado 3–8, idioma y admisión local.
+Oscar: Categoría futura desde el grado 3. Confirmar grado y condiciones de admisión.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Comprobar equivalencia del grado y reglas de la etapa nacional. El pase a la final mundial depende de la categoría.
+Precio: Precio sin publicar.
+Limitaciones: 6–7 de marzo de 2027 es el intervalo general del festival. Confirmar día y sede de la disciplina, cuota, idioma y admisión desde una escuela extranjera.
+Fuente: https://robofest.me/
+Se ha comprobado: 2026-11-07
+
+### C3210 · Taiwan Robofest 2027 · RoboMed · Junior
+
+Fecha: 2027-03-06 — 2027-03-07
+edad: Grados 3–8. Equipo de 1–5 personas.
+Matvey: Condicional si se confirman grado 3–8, idioma y admisión local.
+Oscar: Categoría futura desde el grado 3. Confirmar grado y condiciones de admisión.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Comprobar equivalencia del grado y reglas de la etapa nacional. El pase a la final mundial depende de la categoría.
+Precio: Precio sin publicar.
+Limitaciones: 6–7 de marzo de 2027 es el intervalo general del festival. Confirmar día y sede de la disciplina, cuota, idioma y admisión desde una escuela extranjera.
+Fuente: https://robofest.me/
+Se ha comprobado: 2026-11-07
+
+### C3211 · Taiwan Robofest 2027 · Unknown Mission Challenge · Junior
+
+Fecha: 2027-03-06 — 2027-03-07
+edad: Grados 3–8. Equipo de 1–4 personas.
+Matvey: Condicional si se confirman grado 3–8, idioma y admisión local.
+Oscar: Categoría futura desde el grado 3. Confirmar grado y condiciones de admisión.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Comprobar equivalencia del grado y reglas de la etapa nacional. El pase a la final mundial depende de la categoría.
+Precio: Precio sin publicar.
+Limitaciones: 6–7 de marzo de 2027 es el intervalo general del festival. Confirmar día y sede de la disciplina, cuota, idioma y admisión desde una escuela extranjera.
+Fuente: https://robofest.me/
+Se ha comprobado: 2026-11-07
+
+### C3212 · Taiwan Robofest 2027 · Pet Care Theme Challenge · Junior
+
+Fecha: 2027-03-06 — 2027-03-07
+edad: Grados 3–8. Equipo de 1–5 personas.
+Matvey: Condicional si se confirman grado 3–8, idioma y admisión local.
+Oscar: Categoría futura desde el grado 3. Confirmar grado y condiciones de admisión.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Comprobar equivalencia del grado y reglas de la etapa nacional. El pase a la final mundial depende de la categoría.
+Precio: Precio sin publicar.
+Limitaciones: 6–7 de marzo de 2027 es el intervalo general del festival. Confirmar día y sede de la disciplina, cuota, idioma y admisión desde una escuela extranjera.
+Fuente: https://robofest.me/
+Se ha comprobado: 2026-11-07
+
+### C3213 · Taiwan Robofest 2027 · BottleSumo · Junior
+
+Fecha: 2027-03-06 — 2027-03-07
+edad: Grados 3–8. Equipo de 1–3 personas.
+Matvey: Condicional si se confirman grado 3–8, idioma y admisión local.
+Oscar: Categoría futura desde el grado 3. Confirmar grado y condiciones de admisión.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Comprobar equivalencia del grado y reglas de la etapa nacional. El pase a la final mundial depende de la categoría.
+Precio: Precio sin publicar.
+Limitaciones: 6–7 de marzo de 2027 es el intervalo general del festival. Confirmar día y sede de la disciplina, cuota, idioma y admisión desde una escuela extranjera.
+Fuente: https://robofest.me/
+Se ha comprobado: 2026-11-07
+
+### E363 · Taipei Game Show 2027 · B2B business zone
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: Solo para visitantes profesionales desde los 18 años. Acceso infantil no permitido.
+Matway: No
+Oscar: No
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Solo para visitantes profesionales desde los 18 años. Acceso infantil no permitido.
+Precio: Precio sin publicar.
+Limitaciones: Zona profesional para editores, desarrolladores y profesionales de videojuegos. La zona pública B2C se celebra por separado.
+Fuente: https://tgs.tca.org.tw/b2bzone_e.php?lang=e&m=2026
+Se ha comprobado: 2026-11-07
+
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
 
 Fecha: 2027-07-05 2027-07-10
@@ -860,7 +951,7 @@ Limitaciones: Matvey: Edad 9–10 se incluye en las recomendaciones 8–12. Osca
 Fuente: https://steamsquad.io/en/camps/expedition27
 Se ha comprobado: 2026-11-05
 
-### CP337-20270125-20270203 · LT Brown · Edison AI Scientific Camp · 8 días de semana · 2027-01-25 CLAIM2027-02-03
+### CP337-20270125-20270203 · LT Brown · Edison AI Scientist Camp · 8 días hábiles de clase · 2027-01-25–2027-02-03
 
 Fecha: 2027-01-25 国 2027-02-03
 Edad: G1-G3, grupo no universal 6-12.
@@ -871,7 +962,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · NT$23 900 regular; Fecha límite de vencimiento de la tarifa temprana desconocida · y condiciones del expediente
 Limitaciones: Matvey: Solo si la clase actual G1–G3; en enero 2027 Ya. G4, Categoría normal no corresponde. Oscar: Lo necesito. G1 y la recepción escolar/sistema nacional, :: El idioma del curso. Gastos adicionales: Early bird deadline Desconocido; precio de la escuela 19 800 No prometemos a la familia.. Transporte/Viviendas separadas. Pago: Condiciones del anticipo, suprimidas/No se conoce el número mínimo de solicitudes ni la admisión externa en el extranjero.
 Fuente: https://elementaryschool.ltbrown.hcc.edu.tw/announcement-detail/44/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-07
 
 ### CP338-20270128-20270129-banqiao-2days · iROBO · SPIKE + EV3 / Frozen Code · Banqiao·2 días · 2027-01-28–2027-01-29
 
@@ -2990,6 +3081,84 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · TWD 7990 por menor durante 2 días. Hasta el 16 de noviembre de 2026 la página inglesa muestra TWD 6240 y la china TWD 6490. Confirmar el precio aplicable antes de pagar. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Adecuado si se confirma grado escolar y plaza. Oscar: Confirmar equivalencia al grado 1. Las preguntas frecuentes prevén una excepción para preescolar con buen inglés y presencia de un progenitor todo el día. Confirmar que aplica al turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.sparkleandshinekids.com/
+Se ha comprobado: 2026-11-07
+
+### CP1710-20270125-20270129-taipei · HUHU · Mystery Island STEAM · Mystery Island STEAM · Taipei · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Grupo en inglés o español sin confirmar. La descripción y el horario se publican en chino.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 8680 tarifa normal. TWD 7880 en noviembre de 2026, TWD 8280 en diciembre de 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Encaja en el rango escolar si se confirman grado e idioma. Oscar: Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.huhu.com.tw/tw/course/show.aspx?num=90
+Se ha comprobado: 2026-11-07
+
+### CP1710-20270125-20270129-zhubei · HUHU · Mystery Island STEAM · Mystery Island STEAM · Zhubei · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Grupo en inglés o español sin confirmar. La descripción y el horario se publican en chino.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 8680 tarifa normal. TWD 7880 en noviembre de 2026, TWD 8280 en diciembre de 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Encaja en el rango escolar si se confirman grado e idioma. Oscar: Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.huhu.com.tw/tw/course/show.aspx?num=90
+Se ha comprobado: 2026-11-07
+
+### CP1710-20270125-20270129-taichung · HUHU · Mystery Island STEAM · Mystery Island STEAM · Taichung · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Grupo en inglés o español sin confirmar. La descripción y el horario se publican en chino.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 8680 tarifa normal. TWD 7880 en noviembre de 2026, TWD 8280 en diciembre de 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Encaja en el rango escolar si se confirman grado e idioma. Oscar: Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.huhu.com.tw/tw/course/show.aspx?num=90
+Se ha comprobado: 2026-11-07
+
+### CP1711-20270201-20270203-taipei · HUHU · Weird Science Lab · Weird Science Lab · Taipei · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Grupo en inglés o español sin confirmar. La descripción y el horario se publican en chino.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 5880 tarifa normal. TWD 5480 en noviembre de 2026, TWD 5680 en diciembre de 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Encaja en el rango escolar si se confirman grado e idioma. Oscar: Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.huhu.com.tw/tw/course/show.aspx?num=91&kind=26&page=1
+Se ha comprobado: 2026-11-07
+
+### CP1711-20270201-20270203-zhubei · HUHU · Weird Science Lab · Weird Science Lab · Zhubei · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Grupo en inglés o español sin confirmar. La descripción y el horario se publican en chino.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 5880 tarifa normal. TWD 5480 en noviembre de 2026, TWD 5680 en diciembre de 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Encaja en el rango escolar si se confirman grado e idioma. Oscar: Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.huhu.com.tw/tw/course/show.aspx?num=91&kind=26&page=1
+Se ha comprobado: 2026-11-07
+
+### CP1711-20270201-20270203-taichung · HUHU · Weird Science Lab · Weird Science Lab · Taichung · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Grupo en inglés o español sin confirmar. La descripción y el horario se publican en chino.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 5880 tarifa normal. TWD 5480 en noviembre de 2026, TWD 5680 en diciembre de 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Encaja en el rango escolar si se confirman grado e idioma. Oscar: Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.huhu.com.tw/tw/course/show.aspx?num=91&kind=26&page=1
 Se ha comprobado: 2026-11-07
 
 ## ~ Comprobar de nuevo

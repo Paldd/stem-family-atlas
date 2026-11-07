@@ -9222,6 +9222,38 @@ Restricciones: La ficha indica 22, 23, 26, 29, 30 de diciembre y 2, 5, 7 de ener
 Fuente: https://pulediamante.es/navidades-tecnologicas-valladolid
 Se ha comprobado: 2026-11-07
 
+### L653 · CityUHK · Build-A-Bot Family Challenge · AM
+
+lugar: RAE de Hong Kong (China) · City University of Hong Kong · Kowloon Tong
+Fecha: 2027-03-06 — 2027-03-06
+edad: P1–P3. Se requiere un padre, madre o tutor por participante.
+Matvey: La universidad describe el programa para estudiantes locales. Confirmar admisión desde una escuela extranjera y plaza.
+Oscar: La universidad describe el programa para estudiantes locales. Confirmar admisión desde una escuela extranjera y plaza.
+Formato: holiday_workshop
+Idioma: El cantonés está confirmado por la universidad.
+Marca de idioma: primary; soporte: no declarado
+Precio: Gratuito.
+Acceso: La universidad describe el programa para estudiantes locales. Confirmar admisión desde una escuela extranjera y plaza.
+Limitaciones: La universidad describe el programa para estudiantes locales. Confirmar admisión desde una escuela extranjera y plaza.
+Fuente: https://www.cityu.edu.hk/en/ceng/local-outreach/bright-future-engineering-talent-hub/hubs-activities/build-a-bot-family-challenge_2027
+Se ha comprobado: 2026-11-07
+
+### L654 · CityUHK · Build-A-Bot Family Challenge · PM
+
+lugar: RAE de Hong Kong (China) · City University of Hong Kong · Kowloon Tong
+Fecha: 2027-03-06 — 2027-03-06
+edad: P1–P3. Se requiere un padre, madre o tutor por participante.
+Matvey: La universidad describe el programa para estudiantes locales. Confirmar admisión desde una escuela extranjera y plaza.
+Oscar: La universidad describe el programa para estudiantes locales. Confirmar admisión desde una escuela extranjera y plaza.
+Formato: holiday_workshop
+Idioma: El cantonés está confirmado por la universidad.
+Marca de idioma: primary; soporte: no declarado
+Precio: Gratuito.
+Acceso: La universidad describe el programa para estudiantes locales. Confirmar admisión desde una escuela extranjera y plaza.
+Limitaciones: La universidad describe el programa para estudiantes locales. Confirmar admisión desde una escuela extranjera y plaza.
+Fuente: https://www.cityu.edu.hk/en/ceng/local-outreach/bright-future-engineering-talent-hub/hubs-activities/build-a-bot-family-challenge_2027
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -22438,7 +22470,7 @@ Limitaciones: Matvey: 9–10 corresponde al grupo; Para seleccionar la complejid
 Fuente: https://www.thelab.sg/the-lab-program/holiday-camp-for-ages-8-10/
 Comprobado: 2026-10-05
 
-### CP337-20270125-20270203 · LT Brown · Edison AI Scientific Camp · 8 días de semana · 2027-01-25 CLAIM2027-02-03
+### CP337-20270125-20270203 · LT Brown · Edison AI Scientist Camp · 8 días hábiles de clase · 2027-01-25–2027-02-03
 
 Lugar: Taiwán · Qionglin · No.1 Dahua Road, Hsinchu County; cuerpo de confirmación
 Fecha: 2027-01-25 国 2027-02-03
@@ -22452,7 +22484,7 @@ Precio: 2027 · NT$23 900 regular; Fecha límite de vencimiento de la tarifa tem
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Solo si la clase actual G1–G3; en enero 2027 Ya. G4, Categoría normal no corresponde. Oscar: Lo necesito. G1 y la recepción escolar/sistema nacional, :: El idioma del curso. Gastos adicionales: Early bird deadline Desconocido; precio de la escuela 19 800 No prometemos a la familia.. Transporte/Viviendas separadas. Pago: Condiciones del anticipo, suprimidas/No se conoce el número mínimo de solicitudes ni la admisión externa en el extranjero.
 Fuente: https://elementaryschool.ltbrown.hcc.edu.tw/announcement-detail/44/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-07
 
 ### CP338-20270128-20270129-banqiao-2days · iROBO · SPIKE + EV3 / Frozen Code · Banqiao·2 días · 2027-01-28–2027-01-29
 
@@ -64948,6 +64980,1830 @@ Precio: 2027 · CLP 200000 por jornada completa en febrero más inscripción CLP
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para el programa menor. Oscar: Condicional. Adecuado si tiene 6 años al iniciar el ciclo. Suplementos: Camiseta incluida con inscripción de enero o ambos periodos. Solo en febrero cuesta CLP 15000 por separado. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://jardininfantilrukantu.cl/taller-de-verano-rukantu/
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261214-20261215-wan-chai-20261214 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Wan Chai · 2026-12-14–2026-12-15
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-14 — 2026-12-15
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261216-20261217-wan-chai-20261216 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Wan Chai · 2026-12-16–2026-12-17
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-16 — 2026-12-17
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261221-20261222-wan-chai-20261221 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Wan Chai · 2026-12-21–2026-12-22
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-21 — 2026-12-22
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261223-20261224-wan-chai-20261223 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Wan Chai · 2026-12-23–2026-12-24
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261228-20261229-wan-chai-20261228 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Wan Chai · 2026-12-28–2026-12-29
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-28 — 2026-12-29
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261230-20261231-wan-chai-20261230 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Wan Chai · 2026-12-30–2026-12-31
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-30 - 2026-12-31
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261214-20261215-tsim-sha-tsui-20261214 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tsim Sha Tsui · 2026-12-14–2026-12-15
+
+lugar: Hong Kong · 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+Fecha: 2026-12-14 — 2026-12-15
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261216-20261217-tsim-sha-tsui-20261216 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tsim Sha Tsui · 2026-12-16–2026-12-17
+
+lugar: Hong Kong · 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+Fecha: 2026-12-16 — 2026-12-17
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261221-20261222-tsim-sha-tsui-20261221 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tsim Sha Tsui · 2026-12-21–2026-12-22
+
+lugar: Hong Kong · 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+Fecha: 2026-12-21 — 2026-12-22
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261223-20261224-tsim-sha-tsui-20261223 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tsim Sha Tsui · 2026-12-23–2026-12-24
+
+lugar: Hong Kong · 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261228-20261229-tsim-sha-tsui-20261228 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tsim Sha Tsui · 2026-12-28–2026-12-29
+
+lugar: Hong Kong · 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+Fecha: 2026-12-28 — 2026-12-29
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261230-20261231-tsim-sha-tsui-20261230 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tsim Sha Tsui · 2026-12-30–2026-12-31
+
+lugar: Hong Kong · 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+Fecha: 2026-12-30 - 2026-12-31
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261214-20261215-sha-tin-20261214 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Shatin · 2026-12-14–2026-12-15
+
+lugar: Hong Kong · Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+Fecha: 2026-12-14 — 2026-12-15
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261216-20261217-sha-tin-20261216 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Shatin · 2026-12-16–2026-12-17
+
+lugar: Hong Kong · Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+Fecha: 2026-12-16 — 2026-12-17
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261221-20261222-sha-tin-20261221 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Shatin · 2026-12-21–2026-12-22
+
+lugar: Hong Kong · Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+Fecha: 2026-12-21 — 2026-12-22
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261223-20261224-sha-tin-20261223 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Shatin · 2026-12-23–2026-12-24
+
+lugar: Hong Kong · Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261228-20261229-sha-tin-20261228 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Shatin · 2026-12-28–2026-12-29
+
+lugar: Hong Kong · Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+Fecha: 2026-12-28 — 2026-12-29
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261230-20261231-sha-tin-20261230 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Shatin · 2026-12-30–2026-12-31
+
+lugar: Hong Kong · Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+Fecha: 2026-12-30 - 2026-12-31
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261214-20261215-tseung-kwan-o-20261214 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tseung Kwan O · 2026-12-14–2026-12-15
+
+lugar: Hong Kong · Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+Fecha: 2026-12-14 — 2026-12-15
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261216-20261217-tseung-kwan-o-20261216 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tseung Kwan O · 2026-12-16–2026-12-17
+
+lugar: Hong Kong · Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+Fecha: 2026-12-16 — 2026-12-17
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261221-20261222-tseung-kwan-o-20261221 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tseung Kwan O · 2026-12-21–2026-12-22
+
+lugar: Hong Kong · Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+Fecha: 2026-12-21 — 2026-12-22
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261223-20261224-tseung-kwan-o-20261223 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tseung Kwan O · 2026-12-23–2026-12-24
+
+lugar: Hong Kong · Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261228-20261229-tseung-kwan-o-20261228 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tseung Kwan O · 2026-12-28–2026-12-29
+
+lugar: Hong Kong · Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+Fecha: 2026-12-28 — 2026-12-29
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261230-20261231-tseung-kwan-o-20261230 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tseung Kwan O · 2026-12-30–2026-12-31
+
+lugar: Hong Kong · Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+Fecha: 2026-12-30 - 2026-12-31
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261214-20261215-tsuen-wan-20261214 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tsuen Wan · 2026-12-14–2026-12-15
+
+lugar: Hong Kong · Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+Fecha: 2026-12-14 — 2026-12-15
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261216-20261217-tsuen-wan-20261216 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tsuen Wan · 2026-12-16–2026-12-17
+
+lugar: Hong Kong · Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+Fecha: 2026-12-16 — 2026-12-17
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261221-20261222-tsuen-wan-20261221 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tsuen Wan · 2026-12-21–2026-12-22
+
+lugar: Hong Kong · Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+Fecha: 2026-12-21 — 2026-12-22
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261223-20261224-tsuen-wan-20261223 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tsuen Wan · 2026-12-23–2026-12-24
+
+lugar: Hong Kong · Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261228-20261229-tsuen-wan-20261228 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tsuen Wan · 2026-12-28–2026-12-29
+
+lugar: Hong Kong · Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+Fecha: 2026-12-28 — 2026-12-29
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1698-20261230-20261231-tsuen-wan-20261230 · Big Bang Academy Hong Kong · Spider-Man AI Creator Lab · Spider-Man AI Creator Lab · Tsuen Wan · 2026-12-30–2026-12-31
+
+lugar: Hong Kong · Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+Fecha: 2026-12-30 - 2026-12-31
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261214-20261215-wan-chai-20261214 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Wan Chai · 2026-12-14–2026-12-15
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-14 — 2026-12-15
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261218-20261219-wan-chai-20261218 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Wan Chai · 2026-12-18–2026-12-19
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-18 — 2026-12-19
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261221-20261222-wan-chai-20261221 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Wan Chai · 2026-12-21–2026-12-22
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-21 — 2026-12-22
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261223-20261224-wan-chai-20261223 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Wan Chai · 2026-12-23–2026-12-24
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261228-20261229-wan-chai-20261228 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Wan Chai · 2026-12-28–2026-12-29
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-28 — 2026-12-29
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261214-20261215-tsim-sha-tsui-20261214 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Tsim Sha Tsui · 2026-12-14–2026-12-15
+
+lugar: Hong Kong · 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+Fecha: 2026-12-14 — 2026-12-15
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261218-20261219-tsim-sha-tsui-20261218 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Tsim Sha Tsui · 2026-12-18–2026-12-19
+
+lugar: Hong Kong · 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+Fecha: 2026-12-18 — 2026-12-19
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261221-20261222-tsim-sha-tsui-20261221 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Tsim Sha Tsui · 2026-12-21–2026-12-22
+
+lugar: Hong Kong · 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+Fecha: 2026-12-21 — 2026-12-22
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261223-20261224-tsim-sha-tsui-20261223 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Tsim Sha Tsui · 2026-12-23–2026-12-24
+
+lugar: Hong Kong · 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261228-20261229-tsim-sha-tsui-20261228 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Tsim Sha Tsui · 2026-12-28–2026-12-29
+
+lugar: Hong Kong · 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+Fecha: 2026-12-28 — 2026-12-29
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261214-20261215-sha-tin-20261214 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Shatin · 2026-12-14–2026-12-15
+
+lugar: Hong Kong · Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+Fecha: 2026-12-14 — 2026-12-15
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261218-20261219-sha-tin-20261218 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Shatin · 2026-12-18–2026-12-19
+
+lugar: Hong Kong · Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+Fecha: 2026-12-18 — 2026-12-19
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261221-20261222-sha-tin-20261221 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Shatin · 2026-12-21–2026-12-22
+
+lugar: Hong Kong · Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+Fecha: 2026-12-21 — 2026-12-22
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261223-20261224-sha-tin-20261223 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Shatin · 2026-12-23–2026-12-24
+
+lugar: Hong Kong · Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261228-20261229-sha-tin-20261228 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Shatin · 2026-12-28–2026-12-29
+
+lugar: Hong Kong · Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+Fecha: 2026-12-28 — 2026-12-29
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261214-20261215-tseung-kwan-o-20261214 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Tseung Kwan O · 2026-12-14–2026-12-15
+
+lugar: Hong Kong · Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+Fecha: 2026-12-14 — 2026-12-15
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261218-20261219-tseung-kwan-o-20261218 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Tseung Kwan O · 2026-12-18–2026-12-19
+
+lugar: Hong Kong · Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+Fecha: 2026-12-18 — 2026-12-19
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261221-20261222-tseung-kwan-o-20261221 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Tseung Kwan O · 2026-12-21–2026-12-22
+
+lugar: Hong Kong · Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+Fecha: 2026-12-21 — 2026-12-22
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261223-20261224-tseung-kwan-o-20261223 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Tseung Kwan O · 2026-12-23–2026-12-24
+
+lugar: Hong Kong · Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261228-20261229-tseung-kwan-o-20261228 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Tseung Kwan O · 2026-12-28–2026-12-29
+
+lugar: Hong Kong · Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+Fecha: 2026-12-28 — 2026-12-29
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261214-20261215-tsuen-wan-20261214 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Tsuen Wan · 2026-12-14–2026-12-15
+
+lugar: Hong Kong · Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+Fecha: 2026-12-14 — 2026-12-15
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261218-20261219-tsuen-wan-20261218 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Tsuen Wan · 2026-12-18–2026-12-19
+
+lugar: Hong Kong · Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+Fecha: 2026-12-18 — 2026-12-19
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261221-20261222-tsuen-wan-20261221 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Tsuen Wan · 2026-12-21–2026-12-22
+
+lugar: Hong Kong · Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+Fecha: 2026-12-21 — 2026-12-22
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261223-20261224-tsuen-wan-20261223 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Tsuen Wan · 2026-12-23–2026-12-24
+
+lugar: Hong Kong · Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1699-20261228-20261229-tsuen-wan-20261228 · Big Bang Academy Hong Kong · Ice Age Rescue Mission · Ice Age Rescue Mission · Tsuen Wan · 2026-12-28–2026-12-29
+
+lugar: Hong Kong · Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+Fecha: 2026-12-28 — 2026-12-29
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1700-20261216-20261217-wan-chai-20261216 · Big Bang Academy Hong Kong · Grinch vs Santa: AI Showdown · Grinch vs Santa: AI Showdown · Wan Chai · 2026-12-16–2026-12-17
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-16 — 2026-12-17
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1700-20261223-20261224-wan-chai-20261223 · Big Bang Academy Hong Kong · Grinch vs Santa: AI Showdown · Grinch vs Santa: AI Showdown · Wan Chai · 2026-12-23–2026-12-24
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1700-20261230-20261231-wan-chai-20261230 · Big Bang Academy Hong Kong · Grinch vs Santa: AI Showdown · Grinch vs Santa: AI Showdown · Wan Chai · 2026-12-30–2026-12-31
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-30 - 2026-12-31
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1700-20261216-20261217-tsim-sha-tsui-20261216 · Big Bang Academy Hong Kong · Grinch vs Santa: AI Showdown · Grinch vs Santa: AI Showdown · Tsim Sha Tsui · 2026-12-16–2026-12-17
+
+lugar: Hong Kong · 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+Fecha: 2026-12-16 — 2026-12-17
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1700-20261223-20261224-tsim-sha-tsui-20261223 · Big Bang Academy Hong Kong · Grinch vs Santa: AI Showdown · Grinch vs Santa: AI Showdown · Tsim Sha Tsui · 2026-12-23–2026-12-24
+
+lugar: Hong Kong · 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1700-20261216-20261217-sha-tin-20261216 · Big Bang Academy Hong Kong · Grinch vs Santa: AI Showdown · Grinch vs Santa: AI Showdown · Shatin · 2026-12-16–2026-12-17
+
+lugar: Hong Kong · Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+Fecha: 2026-12-16 — 2026-12-17
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1700-20261223-20261224-sha-tin-20261223 · Big Bang Academy Hong Kong · Grinch vs Santa: AI Showdown · Grinch vs Santa: AI Showdown · Shatin · 2026-12-23–2026-12-24
+
+lugar: Hong Kong · Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1700-20261216-20261217-tsuen-wan-20261216 · Big Bang Academy Hong Kong · Grinch vs Santa: AI Showdown · Grinch vs Santa: AI Showdown · Tsuen Wan · 2026-12-16–2026-12-17
+
+lugar: Hong Kong · Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+Fecha: 2026-12-16 — 2026-12-17
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1700-20261223-20261224-tsuen-wan-20261223 · Big Bang Academy Hong Kong · Grinch vs Santa: AI Showdown · Grinch vs Santa: AI Showdown · Tsuen Wan · 2026-12-23–2026-12-24
+
+lugar: Hong Kong · Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1700-20261223-20261224-tseung-kwan-o-20261223 · Big Bang Academy Hong Kong · Grinch vs Santa: AI Showdown · Grinch vs Santa: AI Showdown · Tseung Kwan O · 2026-12-23–2026-12-24
+
+lugar: Hong Kong · Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+Fecha: 2026-12-23 国 2026-12-24
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1701-20261214-20261215-wan-chai-20261214 · Big Bang Academy Hong Kong · Pokémon Engineer Mission · Pokémon Engineer Mission · Wan Chai · 2026-12-14–2026-12-15
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-14 — 2026-12-15
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1701-20261221-20261222-wan-chai-20261221 · Big Bang Academy Hong Kong · Pokémon Engineer Mission · Pokémon Engineer Mission · Wan Chai · 2026-12-21–2026-12-22
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-21 — 2026-12-22
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1701-20261228-20261229-wan-chai-20261228 · Big Bang Academy Hong Kong · Pokémon Engineer Mission · Pokémon Engineer Mission · Wan Chai · 2026-12-28–2026-12-29
+
+lugar: Hong Kong · 18/F Henan Building · 90 Jaffe Road · Wan Chai
+Fecha: 2026-12-28 — 2026-12-29
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1701-20261214-20261215-tsim-sha-tsui-20261214 · Big Bang Academy Hong Kong · Pokémon Engineer Mission · Pokémon Engineer Mission · Tsim Sha Tsui · 2026-12-14–2026-12-15
+
+lugar: Hong Kong · 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+Fecha: 2026-12-14 — 2026-12-15
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1701-20261221-20261222-tsim-sha-tsui-20261221 · Big Bang Academy Hong Kong · Pokémon Engineer Mission · Pokémon Engineer Mission · Tsim Sha Tsui · 2026-12-21–2026-12-22
+
+lugar: Hong Kong · 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+Fecha: 2026-12-21 — 2026-12-22
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1701-20261228-20261229-tsim-sha-tsui-20261228 · Big Bang Academy Hong Kong · Pokémon Engineer Mission · Pokémon Engineer Mission · Tsim Sha Tsui · 2026-12-28–2026-12-29
+
+lugar: Hong Kong · 13/F Cameron Centre · 57–59 Chatham Road · Tsim Sha Tsui
+Fecha: 2026-12-28 — 2026-12-29
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1701-20261221-20261222-sha-tin-20261221 · Big Bang Academy Hong Kong · Pokémon Engineer Mission · Pokémon Engineer Mission · Shatin · 2026-12-21–2026-12-22
+
+lugar: Hong Kong · Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+Fecha: 2026-12-21 — 2026-12-22
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1701-20261228-20261229-sha-tin-20261228 · Big Bang Academy Hong Kong · Pokémon Engineer Mission · Pokémon Engineer Mission · Shatin · 2026-12-28–2026-12-29
+
+lugar: Hong Kong · Rm 1312 · 13/F · Tower 1 · Grand Central Plaza · Sha Tin
+Fecha: 2026-12-28 — 2026-12-29
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1701-20261221-20261222-tsuen-wan-20261221 · Big Bang Academy Hong Kong · Pokémon Engineer Mission · Pokémon Engineer Mission · Tsuen Wan · 2026-12-21–2026-12-22
+
+lugar: Hong Kong · Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+Fecha: 2026-12-21 — 2026-12-22
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1701-20261228-20261229-tsuen-wan-20261228 · Big Bang Academy Hong Kong · Pokémon Engineer Mission · Pokémon Engineer Mission · Tsuen Wan · 2026-12-28–2026-12-29
+
+lugar: Hong Kong · Room C · 25/F Plaza 88 · 88 Yeung Uk Road · Tsuen Wan
+Fecha: 2026-12-28 — 2026-12-29
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1701-20261221-20261222-tseung-kwan-o-20261221 · Big Bang Academy Hong Kong · Pokémon Engineer Mission · Pokémon Engineer Mission · Tseung Kwan O · 2026-12-21–2026-12-22
+
+lugar: Hong Kong · Shop G15A · Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+Fecha: 2026-12-21 — 2026-12-22
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1950 por 2 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Hasta 5% al inscribirse antes del 27 de noviembre. 10% adicional con hermano, amigo o en varios programas, sujeto a las condiciones del operador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.bigbangacademyhk.com/events/camps/2026-winter-programme
+Se ha comprobado: 2026-11-07
+
+### CP1702-20261221-20261224-wan-chai-2026-12-21-am · Cobo Academy · Junior · Wan Chai · Junior · Wan Chai · AM · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1702-20261221-20261224-wan-chai-2026-12-21-pm · Cobo Academy · Junior · Wan Chai · Junior · Wan Chai · PM · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1702-20261228-20261231-wan-chai-2026-12-28-am · Cobo Academy · Junior · Wan Chai · Junior · Wan Chai · AM · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1702-20261228-20261231-wan-chai-2026-12-28-pm · Cobo Academy · Junior · Wan Chai · Junior · Wan Chai · PM · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1703-20261221-20261224-wan-chai-2026-12-21-am · Cobo Academy · Senior · Wan Chai · Senior · Wan Chai · AM · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1703-20261221-20261224-wan-chai-2026-12-21-pm · Cobo Academy · Senior · Wan Chai · Senior · Wan Chai · PM · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1703-20261228-20261231-wan-chai-2026-12-28-am · Cobo Academy · Senior · Wan Chai · Senior · Wan Chai · AM · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1703-20261228-20261231-wan-chai-2026-12-28-pm · Cobo Academy · Senior · Wan Chai · Senior · Wan Chai · PM · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1704-20261207-20261211-wan-chai-2026-12-07-am · Cobo Academy · Junior · Wan Chai · Junior · Wan Chai · AM · 2026-12-07–2026-12-11
+
+lugar: Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+Fecha: 2026-12-07 — 2026-12-11
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1704-20261214-20261218-wan-chai-2026-12-14-am · Cobo Academy · Junior · Wan Chai · Junior · Wan Chai · AM · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1704-20261214-20261218-wan-chai-2026-12-14-pm · Cobo Academy · Junior · Wan Chai · Junior · Wan Chai · PM · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1704-20270104-20270108-wan-chai-2027-01-04-am · Cobo Academy · Junior · Wan Chai · Junior · Wan Chai · AM · 2027-01-04–2027-01-08
+
+lugar: Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1705-20261207-20261211-wan-chai-2026-12-07-am · Cobo Academy · Senior · Wan Chai · Senior · Wan Chai · AM · 2026-12-07–2026-12-11
+
+lugar: Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+Fecha: 2026-12-07 — 2026-12-11
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1705-20261214-20261218-wan-chai-2026-12-14-am · Cobo Academy · Senior · Wan Chai · Senior · Wan Chai · AM · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1705-20261214-20261218-wan-chai-2026-12-14-pm · Cobo Academy · Senior · Wan Chai · Senior · Wan Chai · PM · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1705-20270104-20270108-wan-chai-2027-01-04-am · Cobo Academy · Senior · Wan Chai · Senior · Wan Chai · AM · 2027-01-04–2027-01-08
+
+lugar: Hong Kong · 6/F Yam Tze Commercial Building · 23 Thomson Road · Wan Chai
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1706-20261221-20261224-kowloon-tong-2026-12-21-am · Cobo Academy · Junior · Kowloon Tong · Junior · Kowloon Tong · AM · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1706-20261221-20261224-kowloon-tong-2026-12-21-pm · Cobo Academy · Junior · Kowloon Tong · Junior · Kowloon Tong · PM · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1706-20261228-20261231-kowloon-tong-2026-12-28-am · Cobo Academy · Junior · Kowloon Tong · Junior · Kowloon Tong · AM · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1706-20261228-20261231-kowloon-tong-2026-12-28-pm · Cobo Academy · Junior · Kowloon Tong · Junior · Kowloon Tong · PM · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1707-20261221-20261224-kowloon-tong-2026-12-21-am · Cobo Academy · Senior · Kowloon Tong · Senior · Kowloon Tong · AM · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1707-20261221-20261224-kowloon-tong-2026-12-21-pm · Cobo Academy · Senior · Kowloon Tong · Senior · Kowloon Tong · PM · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1707-20261228-20261231-kowloon-tong-2026-12-28-am · Cobo Academy · Senior · Kowloon Tong · Senior · Kowloon Tong · AM · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1707-20261228-20261231-kowloon-tong-2026-12-28-pm · Cobo Academy · Senior · Kowloon Tong · Senior · Kowloon Tong · PM · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3600 por 4 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1708-20261207-20261211-kowloon-tong-2026-12-07-am · Cobo Academy · Junior · Kowloon Tong · Junior · Kowloon Tong · AM · 2026-12-07–2026-12-11
+
+lugar: Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+Fecha: 2026-12-07 — 2026-12-11
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1708-20261214-20261218-kowloon-tong-2026-12-14-am · Cobo Academy · Junior · Kowloon Tong · Junior · Kowloon Tong · AM · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1708-20261214-20261218-kowloon-tong-2026-12-14-pm · Cobo Academy · Junior · Kowloon Tong · Junior · Kowloon Tong · PM · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1708-20270104-20270108-kowloon-tong-2027-01-04-am · Cobo Academy · Junior · Kowloon Tong · Junior · Kowloon Tong · AM · 2027-01-04–2027-01-08
+
+lugar: Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 6–8 años
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1709-20261207-20261211-kowloon-tong-2026-12-07-am · Cobo Academy · Senior · Kowloon Tong · Senior · Kowloon Tong · AM · 2026-12-07–2026-12-11
+
+lugar: Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+Fecha: 2026-12-07 — 2026-12-11
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1709-20261214-20261218-kowloon-tong-2026-12-14-am · Cobo Academy · Senior · Kowloon Tong · Senior · Kowloon Tong · AM · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1709-20261214-20261218-kowloon-tong-2026-12-14-pm · Cobo Academy · Senior · Kowloon Tong · Senior · Kowloon Tong · PM · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1709-20270104-20270108-kowloon-tong-2027-01-04-am · Cobo Academy · Senior · Kowloon Tong · Senior · Kowloon Tong · AM · 2027-01-04–2027-01-08
+
+lugar: Hong Kong · 1/F Hong Kong Productivity Council Building · 78 Tat Chee Avenue · Kowloon Tong
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 9 a 11 años
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El organizador confirma que las clases se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · HKD 4500 por 5 días · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad de 9 años está dentro del rango. Confirmar plaza. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: 10% por inscripción anticipada antes del 30 de noviembre y oferta del 10% al inscribirse con un amigo. Confirmar el descuento final y la compatibilidad de condiciones. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.coboacademy.com/holiday-camps/index.asp
+Se ha comprobado: 2026-11-07
+
+### CP1710-20270125-20270129-taipei · HUHU · Mystery Island STEAM · Mystery Island STEAM · Taipei · 2027-01-25–2027-01-29
+
+lugar: Taiwán · National Taipei University of Business · Taipei
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Grupo en inglés o español sin confirmar. La descripción y el horario se publican en chino.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 8680 tarifa normal. TWD 7880 en noviembre de 2026, TWD 8280 en diciembre de 2026. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja en el rango escolar si se confirman grado e idioma. Oscar: Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.huhu.com.tw/tw/course/show.aspx?num=90
+Se ha comprobado: 2026-11-07
+
+### CP1710-20270125-20270129-zhubei · HUHU · Mystery Island STEAM · Mystery Island STEAM · Zhubei · 2027-01-25–2027-01-29
+
+lugar: Taiwán · Dongxing Elementary School · Zhubei, Hsinchu
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Grupo en inglés o español sin confirmar. La descripción y el horario se publican en chino.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 8680 tarifa normal. TWD 7880 en noviembre de 2026, TWD 8280 en diciembre de 2026. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja en el rango escolar si se confirman grado e idioma. Oscar: Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.huhu.com.tw/tw/course/show.aspx?num=90
+Se ha comprobado: 2026-11-07
+
+### CP1710-20270125-20270129-taichung · HUHU · Mystery Island STEAM · Mystery Island STEAM · Taichung · 2027-01-25–2027-01-29
+
+lugar: Taiwán · National Taichung University of Science and Technology · Sanmin campus · Taichung
+Fecha: 2027-01-25 国 2027-01-29
+edad: Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Grupo en inglés o español sin confirmar. La descripción y el horario se publican en chino.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 8680 tarifa normal. TWD 7880 en noviembre de 2026, TWD 8280 en diciembre de 2026. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja en el rango escolar si se confirman grado e idioma. Oscar: Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.huhu.com.tw/tw/course/show.aspx?num=90
+Se ha comprobado: 2026-11-07
+
+### CP1711-20270201-20270203-taipei · HUHU · Weird Science Lab · Weird Science Lab · Taipei · 2027-02-01–2027-02-03
+
+lugar: Taiwán · National Taipei University of Business · Taipei
+Fecha: 2027-02-01 国 2027-02-03
+edad: Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Grupo en inglés o español sin confirmar. La descripción y el horario se publican en chino.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 5880 tarifa normal. TWD 5480 en noviembre de 2026, TWD 5680 en diciembre de 2026. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja en el rango escolar si se confirman grado e idioma. Oscar: Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.huhu.com.tw/tw/course/show.aspx?num=91&kind=26&page=1
+Se ha comprobado: 2026-11-07
+
+### CP1711-20270201-20270203-zhubei · HUHU · Weird Science Lab · Weird Science Lab · Zhubei · 2027-02-01–2027-02-03
+
+lugar: Taiwán · Dongxing Elementary School · Zhubei, Hsinchu
+Fecha: 2027-02-01 国 2027-02-03
+edad: Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Grupo en inglés o español sin confirmar. La descripción y el horario se publican en chino.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 5880 tarifa normal. TWD 5480 en noviembre de 2026, TWD 5680 en diciembre de 2026. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja en el rango escolar si se confirman grado e idioma. Oscar: Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.huhu.com.tw/tw/course/show.aspx?num=91&kind=26&page=1
+Se ha comprobado: 2026-11-07
+
+### CP1711-20270201-20270203-taichung · HUHU · Weird Science Lab · Weird Science Lab · Taichung · 2027-02-01–2027-02-03
+
+lugar: Taiwán · National Taichung University of Science and Technology · Sanmin campus · Taichung
+Fecha: 2027-02-01 国 2027-02-03
+edad: Grados 1–6 de primaria. Confirmar equivalencia del grado extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Grupo en inglés o español sin confirmar. La descripción y el horario se publican en chino.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 5880 tarifa normal. TWD 5480 en noviembre de 2026, TWD 5680 en diciembre de 2026. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja en el rango escolar si se confirman grado e idioma. Oscar: Admisión desde el grado 1. Confirmar escolarización, equivalencia de grado e idioma. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.huhu.com.tw/tw/course/show.aspx?num=91&kind=26&page=1
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
