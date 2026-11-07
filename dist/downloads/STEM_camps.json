@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 4091,
-      "holiday": 3817,
+      "records": 4098,
+      "holiday": 3824,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1026,
@@ -591,7 +591,7 @@
       "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 408,
-      "camp_life_language": 226,
+      "camp_life_language": 228,
       "language_unclassified": 137,
       "countries": 98
     },
@@ -43353,13 +43353,13 @@
     {
       "id": "CP047-20270103-20270108",
       "block": "Лагеря",
-      "title": "Camp Mákemáke · 2027-01-03–2027-01-08",
+      "title": "Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08",
       "country": "Чили",
       "region": "Южная Америка",
       "city": "Pelarco / Maule",
       "start": "2027-01-03",
       "end": "2027-01-08",
-      "period": "2027: 03–08, 10–15, 17–22, 24–29.01; 31.01–05.02; 07–12, 14–19.02.",
+      "period": "Англоязычный пансион для поступающих во 2–8 классы. Смены 10–15 и 17–22 января заполнены. В остальных статус автобуса и фактическое место проверять отдельно.",
       "date_status": "Подтверждено",
       "deadline": "",
       "age": "Homepage 6–17; Classic 2027 указывает entering 2nd–8th básico — школьный класс имеет приоритет",
@@ -43369,12 +43369,12 @@
       "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
       "gear": "6 дней природы/командных задач/спорта/фермы/творчества; строгий screen-free. Никакого робототехнического интенсива не обещает. Ночёвки в палатках на платформах; примерно шесть детей одного возраста/пола. Classic Grade7–8 автоматически LIT, не отдельнаяпокупка. Датированный page24/7 supervisionratio1:4/residentnurse, English-speakingcounselors, teamgames/leadership. FAQforeigncampers историческивтомчисле Mexico/US/Canada; exactpassportintake ещёне подтверждён. Teen/Junior Counselor Grade9–11 отдельныеформаты, не младшимпообщему 6–17 age.",
       "language": "Все активности на английском; перевод при необходимости, bilingual counselors, все уровни EN.",
-      "cost": "2027 · CLP 535 000 за шесть дней, включая VAT.",
+      "cost": "2027 · CLP 535000 с налогом. При самостоятельном трансфере туда и обратно опубликован вычет CLP 20000. · доплаты и условия в досье",
       "level": "D — обучение",
       "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
       "priority": "P2 — поездка после подтверждения допуска",
       "action": "Согласовать класс Оскара, транспорт, правила отмены, готовность к палаткам и связи.; Уточнить bus место/точный stop La Reinavs Las Condes, границу 20 Decemberrefund и foreign документы; онлайн campplaces непредставлятькакгарантированнуюбронь.",
-      "source": "https://www.campmakemake.com/",
+      "source": "https://www.campmakemake.com/dates-and-rates",
       "references": [
         {
           "url": "https://www.campmakemake.com/",
@@ -43382,7 +43382,7 @@
         },
         {
           "url": "https://www.campmakemake.com/dates-and-rates",
-          "label": "Dates & rates 2027"
+          "label": "Официальная страница организатора"
         },
         {
           "url": "https://www.campmakemake.com/everything-you-need-to-know",
@@ -43391,10 +43391,14 @@
         {
           "url": "https://www.campmakemake.com/refund-policy",
           "label": "Конкретная2027refundpolicy"
+        },
+        {
+          "url": "https://es.campmakemake.com/general-6",
+          "label": "Официальная страница организатора"
         }
       ],
       "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-07",
       "status": "Идея",
       "note": "Матвей: Возраст подходит; проверить entering Grade2–8. Оскар: Возраст homepage 6+ подходит, но Classic требует Grade2+: без подтверждения класса/исключения не считать допущенным. Доплаты: Перелёт/дорога до места посадки; семейное жильё не включено. Оплата: Refund2027: до 20 Dec2026 возвратминус 21%tax/bank; после 20 Dec только seriousillness/injury/familyemergency минус 30%, илизамена campers. Ровно 20 Dec не разъяснено. Operatorcancelbeforestartfullrefund, emergencyearlyend посленачала 0/futurediscount0. Месторезервируюттолькопослеформы+payment, Страница говорит, что обычных скидок нет; отдельно опубликован вычет 20 000 CLP при самостоятельной доставке в обе стороны — исключение нужно согласовать.",
       "iso": [
@@ -43418,18 +43422,22 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "makemake",
-      "camp_programme_id": "CP047"
+      "camp_programme_id": "CP047",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Обе версии показывают места. Английская страница указывает 16 мест, испанская 26. В автобусе обе указывают 10."
+      }
     },
     {
       "id": "CP047-20270110-20270115",
       "block": "Лагеря",
-      "title": "Camp Mákemáke · 2027-01-10–2027-01-15",
+      "title": "Camp Mákemáke · Classic Summer Camp · 2027-01-10–2027-01-15",
       "country": "Чили",
       "region": "Южная Америка",
       "city": "Pelarco / Maule",
       "start": "2027-01-10",
       "end": "2027-01-15",
-      "period": "2027: 03–08, 10–15, 17–22, 24–29.01; 31.01–05.02; 07–12, 14–19.02.",
+      "period": "Англоязычный пансион для поступающих во 2–8 классы. Смены 10–15 и 17–22 января заполнены. В остальных статус автобуса и фактическое место проверять отдельно.",
       "date_status": "Подтверждено",
       "deadline": "",
       "age": "Homepage 6–17; Classic 2027 указывает entering 2nd–8th básico — школьный класс имеет приоритет",
@@ -43439,12 +43447,12 @@
       "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
       "gear": "6 дней природы/командных задач/спорта/фермы/творчества; строгий screen-free. Никакого робототехнического интенсива не обещает. Ночёвки в палатках на платформах; примерно шесть детей одного возраста/пола. Classic Grade7–8 автоматически LIT, не отдельнаяпокупка. Датированный page24/7 supervisionratio1:4/residentnurse, English-speakingcounselors, teamgames/leadership. FAQforeigncampers историческивтомчисле Mexico/US/Canada; exactpassportintake ещёне подтверждён. Teen/Junior Counselor Grade9–11 отдельныеформаты, не младшимпообщему 6–17 age.",
       "language": "Все активности на английском; перевод при необходимости, bilingual counselors, все уровни EN.",
-      "cost": "2027 · CLP 535 000 за шесть дней, включая VAT.",
+      "cost": "2027 · CLP 535000 с налогом. При самостоятельном трансфере туда и обратно опубликован вычет CLP 20000. · доплаты и условия в досье",
       "level": "D — обучение",
       "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
       "priority": "P2 — поездка после подтверждения допуска",
       "action": "Согласовать класс Оскара, транспорт, правила отмены, готовность к палаткам и связи.; Уточнить bus место/точный stop La Reinavs Las Condes, границу 20 Decemberrefund и foreign документы; онлайн campplaces непредставлятькакгарантированнуюбронь.",
-      "source": "https://www.campmakemake.com/",
+      "source": "https://www.campmakemake.com/dates-and-rates",
       "references": [
         {
           "url": "https://www.campmakemake.com/",
@@ -43452,7 +43460,7 @@
         },
         {
           "url": "https://www.campmakemake.com/dates-and-rates",
-          "label": "Dates & rates 2027"
+          "label": "Официальная страница организатора"
         },
         {
           "url": "https://www.campmakemake.com/everything-you-need-to-know",
@@ -43461,10 +43469,14 @@
         {
           "url": "https://www.campmakemake.com/refund-policy",
           "label": "Конкретная2027refundpolicy"
+        },
+        {
+          "url": "https://es.campmakemake.com/general-6",
+          "label": "Официальная страница организатора"
         }
       ],
       "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-07",
       "status": "Идея",
       "note": "Матвей: Возраст подходит; проверить entering Grade2–8. Оскар: Возраст homepage 6+ подходит, но Classic требует Grade2+: без подтверждения класса/исключения не считать допущенным. Доплаты: Перелёт/дорога до места посадки; семейное жильё не включено. Оплата: Refund2027: до 20 Dec2026 возвратминус 21%tax/bank; после 20 Dec только seriousillness/injury/familyemergency минус 30%, илизамена campers. Ровно 20 Dec не разъяснено. Operatorcancelbeforestartfullrefund, emergencyearlyend посленачала 0/futurediscount0. Месторезервируюттолькопослеформы+payment, Страница говорит, что обычных скидок нет; отдельно опубликован вычет 20 000 CLP при самостоятельной доставке в обе стороны — исключение нужно согласовать.",
       "iso": [
@@ -43488,18 +43500,22 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "makemake",
-      "camp_programme_id": "CP047"
+      "camp_programme_id": "CP047",
+      "availability": {
+        "status": "closed",
+        "label": "Обе версии отмечают смену как заполненную."
+      }
     },
     {
       "id": "CP047-20270117-20270122",
       "block": "Лагеря",
-      "title": "Camp Mákemáke · 2027-01-17–2027-01-22",
+      "title": "Camp Mákemáke · Classic Summer Camp · 2027-01-17–2027-01-22",
       "country": "Чили",
       "region": "Южная Америка",
       "city": "Pelarco / Maule",
       "start": "2027-01-17",
       "end": "2027-01-22",
-      "period": "2027: 03–08, 10–15, 17–22, 24–29.01; 31.01–05.02; 07–12, 14–19.02.",
+      "period": "Англоязычный пансион для поступающих во 2–8 классы. Смены 10–15 и 17–22 января заполнены. В остальных статус автобуса и фактическое место проверять отдельно.",
       "date_status": "Подтверждено",
       "deadline": "",
       "age": "Homepage 6–17; Classic 2027 указывает entering 2nd–8th básico — школьный класс имеет приоритет",
@@ -43509,12 +43525,12 @@
       "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
       "gear": "6 дней природы/командных задач/спорта/фермы/творчества; строгий screen-free. Никакого робототехнического интенсива не обещает. Ночёвки в палатках на платформах; примерно шесть детей одного возраста/пола. Classic Grade7–8 автоматически LIT, не отдельнаяпокупка. Датированный page24/7 supervisionratio1:4/residentnurse, English-speakingcounselors, teamgames/leadership. FAQforeigncampers историческивтомчисле Mexico/US/Canada; exactpassportintake ещёне подтверждён. Teen/Junior Counselor Grade9–11 отдельныеформаты, не младшимпообщему 6–17 age.",
       "language": "Все активности на английском; перевод при необходимости, bilingual counselors, все уровни EN.",
-      "cost": "2027 · CLP 535 000 за шесть дней, включая VAT.",
+      "cost": "2027 · CLP 535000 с налогом. При самостоятельном трансфере туда и обратно опубликован вычет CLP 20000. · доплаты и условия в досье",
       "level": "D — обучение",
       "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
       "priority": "P2 — поездка после подтверждения допуска",
       "action": "Согласовать класс Оскара, транспорт, правила отмены, готовность к палаткам и связи.; Уточнить bus место/точный stop La Reinavs Las Condes, границу 20 Decemberrefund и foreign документы; онлайн campplaces непредставлятькакгарантированнуюбронь.",
-      "source": "https://www.campmakemake.com/",
+      "source": "https://www.campmakemake.com/dates-and-rates",
       "references": [
         {
           "url": "https://www.campmakemake.com/",
@@ -43522,7 +43538,7 @@
         },
         {
           "url": "https://www.campmakemake.com/dates-and-rates",
-          "label": "Dates & rates 2027"
+          "label": "Официальная страница организатора"
         },
         {
           "url": "https://www.campmakemake.com/everything-you-need-to-know",
@@ -43531,10 +43547,14 @@
         {
           "url": "https://www.campmakemake.com/refund-policy",
           "label": "Конкретная2027refundpolicy"
+        },
+        {
+          "url": "https://es.campmakemake.com/general-6",
+          "label": "Официальная страница организатора"
         }
       ],
       "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-07",
       "status": "Идея",
       "note": "Матвей: Возраст подходит; проверить entering Grade2–8. Оскар: Возраст homepage 6+ подходит, но Classic требует Grade2+: без подтверждения класса/исключения не считать допущенным. Доплаты: Перелёт/дорога до места посадки; семейное жильё не включено. Оплата: Refund2027: до 20 Dec2026 возвратминус 21%tax/bank; после 20 Dec только seriousillness/injury/familyemergency минус 30%, илизамена campers. Ровно 20 Dec не разъяснено. Operatorcancelbeforestartfullrefund, emergencyearlyend посленачала 0/futurediscount0. Месторезервируюттолькопослеформы+payment, Страница говорит, что обычных скидок нет; отдельно опубликован вычет 20 000 CLP при самостоятельной доставке в обе стороны — исключение нужно согласовать.",
       "iso": [
@@ -43558,18 +43578,22 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "makemake",
-      "camp_programme_id": "CP047"
+      "camp_programme_id": "CP047",
+      "availability": {
+        "status": "closed",
+        "label": "Обе версии отмечают смену как заполненную."
+      }
     },
     {
       "id": "CP047-20270124-20270129",
       "block": "Лагеря",
-      "title": "Camp Mákemáke · 2027-01-24–2027-01-29",
+      "title": "Camp Mákemáke · Classic Summer Camp · 2027-01-24–2027-01-29",
       "country": "Чили",
       "region": "Южная Америка",
       "city": "Pelarco / Maule",
       "start": "2027-01-24",
       "end": "2027-01-29",
-      "period": "2027: 03–08, 10–15, 17–22, 24–29.01; 31.01–05.02; 07–12, 14–19.02.",
+      "period": "Англоязычный пансион для поступающих во 2–8 классы. Смены 10–15 и 17–22 января заполнены. В остальных статус автобуса и фактическое место проверять отдельно.",
       "date_status": "Подтверждено",
       "deadline": "",
       "age": "Homepage 6–17; Classic 2027 указывает entering 2nd–8th básico — школьный класс имеет приоритет",
@@ -43579,12 +43603,12 @@
       "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
       "gear": "6 дней природы/командных задач/спорта/фермы/творчества; строгий screen-free. Никакого робототехнического интенсива не обещает. Ночёвки в палатках на платформах; примерно шесть детей одного возраста/пола. Classic Grade7–8 автоматически LIT, не отдельнаяпокупка. Датированный page24/7 supervisionratio1:4/residentnurse, English-speakingcounselors, teamgames/leadership. FAQforeigncampers историческивтомчисле Mexico/US/Canada; exactpassportintake ещёне подтверждён. Teen/Junior Counselor Grade9–11 отдельныеформаты, не младшимпообщему 6–17 age.",
       "language": "Все активности на английском; перевод при необходимости, bilingual counselors, все уровни EN.",
-      "cost": "2027 · CLP 535 000 за шесть дней, включая VAT.",
+      "cost": "2027 · CLP 535000 с налогом. При самостоятельном трансфере туда и обратно опубликован вычет CLP 20000. · доплаты и условия в досье",
       "level": "D — обучение",
       "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
       "priority": "P2 — поездка после подтверждения допуска",
       "action": "Согласовать класс Оскара, транспорт, правила отмены, готовность к палаткам и связи.; Уточнить bus место/точный stop La Reinavs Las Condes, границу 20 Decemberrefund и foreign документы; онлайн campplaces непредставлятькакгарантированнуюбронь.",
-      "source": "https://www.campmakemake.com/",
+      "source": "https://www.campmakemake.com/dates-and-rates",
       "references": [
         {
           "url": "https://www.campmakemake.com/",
@@ -43592,7 +43616,7 @@
         },
         {
           "url": "https://www.campmakemake.com/dates-and-rates",
-          "label": "Dates & rates 2027"
+          "label": "Официальная страница организатора"
         },
         {
           "url": "https://www.campmakemake.com/everything-you-need-to-know",
@@ -43601,10 +43625,14 @@
         {
           "url": "https://www.campmakemake.com/refund-policy",
           "label": "Конкретная2027refundpolicy"
+        },
+        {
+          "url": "https://es.campmakemake.com/general-6",
+          "label": "Официальная страница организатора"
         }
       ],
       "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-07",
       "status": "Идея",
       "note": "Матвей: Возраст подходит; проверить entering Grade2–8. Оскар: Возраст homepage 6+ подходит, но Classic требует Grade2+: без подтверждения класса/исключения не считать допущенным. Доплаты: Перелёт/дорога до места посадки; семейное жильё не включено. Оплата: Refund2027: до 20 Dec2026 возвратминус 21%tax/bank; после 20 Dec только seriousillness/injury/familyemergency минус 30%, илизамена campers. Ровно 20 Dec не разъяснено. Operatorcancelbeforestartfullrefund, emergencyearlyend посленачала 0/futurediscount0. Месторезервируюттолькопослеформы+payment, Страница говорит, что обычных скидок нет; отдельно опубликован вычет 20 000 CLP при самостоятельной доставке в обе стороны — исключение нужно согласовать.",
       "iso": [
@@ -43628,18 +43656,22 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "makemake",
-      "camp_programme_id": "CP047"
+      "camp_programme_id": "CP047",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "На обеих страницах 4 места, мест в автобусе 0."
+      }
     },
     {
       "id": "CP047-20270131-20270205",
       "block": "Лагеря",
-      "title": "Camp Mákemáke · 2027-01-31–2027-02-05",
+      "title": "Camp Mákemáke · Classic Summer Camp · 2027-01-31–2027-02-05",
       "country": "Чили",
       "region": "Южная Америка",
       "city": "Pelarco / Maule",
       "start": "2027-01-31",
       "end": "2027-02-05",
-      "period": "2027: 03–08, 10–15, 17–22, 24–29.01; 31.01–05.02; 07–12, 14–19.02.",
+      "period": "Англоязычный пансион для поступающих во 2–8 классы. Смены 10–15 и 17–22 января заполнены. В остальных статус автобуса и фактическое место проверять отдельно.",
       "date_status": "Подтверждено",
       "deadline": "",
       "age": "Homepage 6–17; Classic 2027 указывает entering 2nd–8th básico — школьный класс имеет приоритет",
@@ -43649,12 +43681,12 @@
       "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
       "gear": "6 дней природы/командных задач/спорта/фермы/творчества; строгий screen-free. Никакого робототехнического интенсива не обещает. Ночёвки в палатках на платформах; примерно шесть детей одного возраста/пола. Classic Grade7–8 автоматически LIT, не отдельнаяпокупка. Датированный page24/7 supervisionratio1:4/residentnurse, English-speakingcounselors, teamgames/leadership. FAQforeigncampers историческивтомчисле Mexico/US/Canada; exactpassportintake ещёне подтверждён. Teen/Junior Counselor Grade9–11 отдельныеформаты, не младшимпообщему 6–17 age.",
       "language": "Все активности на английском; перевод при необходимости, bilingual counselors, все уровни EN.",
-      "cost": "2027 · CLP 535 000 за шесть дней, включая VAT.",
+      "cost": "2027 · CLP 535000 с налогом. При самостоятельном трансфере туда и обратно опубликован вычет CLP 20000. · доплаты и условия в досье",
       "level": "D — обучение",
       "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
       "priority": "P2 — поездка после подтверждения допуска",
       "action": "Согласовать класс Оскара, транспорт, правила отмены, готовность к палаткам и связи.; Уточнить bus место/точный stop La Reinavs Las Condes, границу 20 Decemberrefund и foreign документы; онлайн campplaces непредставлятькакгарантированнуюбронь.",
-      "source": "https://www.campmakemake.com/",
+      "source": "https://www.campmakemake.com/dates-and-rates",
       "references": [
         {
           "url": "https://www.campmakemake.com/",
@@ -43662,7 +43694,7 @@
         },
         {
           "url": "https://www.campmakemake.com/dates-and-rates",
-          "label": "Dates & rates 2027"
+          "label": "Официальная страница организатора"
         },
         {
           "url": "https://www.campmakemake.com/everything-you-need-to-know",
@@ -43671,10 +43703,14 @@
         {
           "url": "https://www.campmakemake.com/refund-policy",
           "label": "Конкретная2027refundpolicy"
+        },
+        {
+          "url": "https://es.campmakemake.com/general-6",
+          "label": "Официальная страница организатора"
         }
       ],
       "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-07",
       "status": "Идея",
       "note": "Матвей: Возраст подходит; проверить entering Grade2–8. Оскар: Возраст homepage 6+ подходит, но Classic требует Grade2+: без подтверждения класса/исключения не считать допущенным. Доплаты: Перелёт/дорога до места посадки; семейное жильё не включено. Оплата: Refund2027: до 20 Dec2026 возвратминус 21%tax/bank; после 20 Dec только seriousillness/injury/familyemergency минус 30%, илизамена campers. Ровно 20 Dec не разъяснено. Operatorcancelbeforestartfullrefund, emergencyearlyend посленачала 0/futurediscount0. Месторезервируюттолькопослеформы+payment, Страница говорит, что обычных скидок нет; отдельно опубликован вычет 20 000 CLP при самостоятельной доставке в обе стороны — исключение нужно согласовать.",
       "iso": [
@@ -43698,18 +43734,22 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "makemake",
-      "camp_programme_id": "CP047"
+      "camp_programme_id": "CP047",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "В английской версии 6 мест, в испанской 2, в автобусе 0 по обеим версиям."
+      }
     },
     {
       "id": "CP047-20270207-20270212",
       "block": "Лагеря",
-      "title": "Camp Mákemáke · 2027-02-07–2027-02-12",
+      "title": "Camp Mákemáke · Classic Summer Camp · 2027-02-07–2027-02-12",
       "country": "Чили",
       "region": "Южная Америка",
       "city": "Pelarco / Maule",
       "start": "2027-02-07",
       "end": "2027-02-12",
-      "period": "2027: 03–08, 10–15, 17–22, 24–29.01; 31.01–05.02; 07–12, 14–19.02.",
+      "period": "Англоязычный пансион для поступающих во 2–8 классы. Смены 10–15 и 17–22 января заполнены. В остальных статус автобуса и фактическое место проверять отдельно.",
       "date_status": "Подтверждено",
       "deadline": "",
       "age": "Homepage 6–17; Classic 2027 указывает entering 2nd–8th básico — школьный класс имеет приоритет",
@@ -43719,12 +43759,12 @@
       "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
       "gear": "6 дней природы/командных задач/спорта/фермы/творчества; строгий screen-free. Никакого робототехнического интенсива не обещает. Ночёвки в палатках на платформах; примерно шесть детей одного возраста/пола. Classic Grade7–8 автоматически LIT, не отдельнаяпокупка. Датированный page24/7 supervisionratio1:4/residentnurse, English-speakingcounselors, teamgames/leadership. FAQforeigncampers историческивтомчисле Mexico/US/Canada; exactpassportintake ещёне подтверждён. Teen/Junior Counselor Grade9–11 отдельныеформаты, не младшимпообщему 6–17 age.",
       "language": "Все активности на английском; перевод при необходимости, bilingual counselors, все уровни EN.",
-      "cost": "2027 · CLP 535 000 за шесть дней, включая VAT.",
+      "cost": "2027 · CLP 535000 с налогом. При самостоятельном трансфере туда и обратно опубликован вычет CLP 20000. · доплаты и условия в досье",
       "level": "D — обучение",
       "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
       "priority": "P2 — поездка после подтверждения допуска",
       "action": "Согласовать класс Оскара, транспорт, правила отмены, готовность к палаткам и связи.; Уточнить bus место/точный stop La Reinavs Las Condes, границу 20 Decemberrefund и foreign документы; онлайн campplaces непредставлятькакгарантированнуюбронь.",
-      "source": "https://www.campmakemake.com/",
+      "source": "https://www.campmakemake.com/dates-and-rates",
       "references": [
         {
           "url": "https://www.campmakemake.com/",
@@ -43732,7 +43772,7 @@
         },
         {
           "url": "https://www.campmakemake.com/dates-and-rates",
-          "label": "Dates & rates 2027"
+          "label": "Официальная страница организатора"
         },
         {
           "url": "https://www.campmakemake.com/everything-you-need-to-know",
@@ -43741,10 +43781,14 @@
         {
           "url": "https://www.campmakemake.com/refund-policy",
           "label": "Конкретная2027refundpolicy"
+        },
+        {
+          "url": "https://es.campmakemake.com/general-6",
+          "label": "Официальная страница организатора"
         }
       ],
       "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-07",
       "status": "Идея",
       "note": "Матвей: Возраст подходит; проверить entering Grade2–8. Оскар: Возраст homepage 6+ подходит, но Classic требует Grade2+: без подтверждения класса/исключения не считать допущенным. Доплаты: Перелёт/дорога до места посадки; семейное жильё не включено. Оплата: Refund2027: до 20 Dec2026 возвратминус 21%tax/bank; после 20 Dec только seriousillness/injury/familyemergency минус 30%, илизамена campers. Ровно 20 Dec не разъяснено. Operatorcancelbeforestartfullrefund, emergencyearlyend посленачала 0/futurediscount0. Месторезервируюттолькопослеформы+payment, Страница говорит, что обычных скидок нет; отдельно опубликован вычет 20 000 CLP при самостоятельной доставке в обе стороны — исключение нужно согласовать.",
       "iso": [
@@ -43768,18 +43812,22 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "makemake",
-      "camp_programme_id": "CP047"
+      "camp_programme_id": "CP047",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Обе страницы показывают 28 мест и 20 мест в автобусе."
+      }
     },
     {
       "id": "CP047-20270214-20270219",
       "block": "Лагеря",
-      "title": "Camp Mákemáke · 2027-02-14–2027-02-19",
+      "title": "Camp Mákemáke · Classic Summer Camp · 2027-02-14–2027-02-19",
       "country": "Чили",
       "region": "Южная Америка",
       "city": "Pelarco / Maule",
       "start": "2027-02-14",
       "end": "2027-02-19",
-      "period": "2027: 03–08, 10–15, 17–22, 24–29.01; 31.01–05.02; 07–12, 14–19.02.",
+      "period": "Англоязычный пансион для поступающих во 2–8 классы. Смены 10–15 и 17–22 января заполнены. В остальных статус автобуса и фактическое место проверять отдельно.",
       "date_status": "Подтверждено",
       "deadline": "",
       "age": "Homepage 6–17; Classic 2027 указывает entering 2nd–8th básico — школьный класс имеет приоритет",
@@ -43789,12 +43837,12 @@
       "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
       "gear": "6 дней природы/командных задач/спорта/фермы/творчества; строгий screen-free. Никакого робототехнического интенсива не обещает. Ночёвки в палатках на платформах; примерно шесть детей одного возраста/пола. Classic Grade7–8 автоматически LIT, не отдельнаяпокупка. Датированный page24/7 supervisionratio1:4/residentnurse, English-speakingcounselors, teamgames/leadership. FAQforeigncampers историческивтомчисле Mexico/US/Canada; exactpassportintake ещёне подтверждён. Teen/Junior Counselor Grade9–11 отдельныеформаты, не младшимпообщему 6–17 age.",
       "language": "Все активности на английском; перевод при необходимости, bilingual counselors, все уровни EN.",
-      "cost": "2027 · CLP 535 000 за шесть дней, включая VAT.",
+      "cost": "2027 · CLP 535000 с налогом. При самостоятельном трансфере туда и обратно опубликован вычет CLP 20000. · доплаты и условия в досье",
       "level": "D — обучение",
       "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
       "priority": "P2 — поездка после подтверждения допуска",
       "action": "Согласовать класс Оскара, транспорт, правила отмены, готовность к палаткам и связи.; Уточнить bus место/точный stop La Reinavs Las Condes, границу 20 Decemberrefund и foreign документы; онлайн campplaces непредставлятькакгарантированнуюбронь.",
-      "source": "https://www.campmakemake.com/",
+      "source": "https://www.campmakemake.com/dates-and-rates",
       "references": [
         {
           "url": "https://www.campmakemake.com/",
@@ -43802,7 +43850,7 @@
         },
         {
           "url": "https://www.campmakemake.com/dates-and-rates",
-          "label": "Dates & rates 2027"
+          "label": "Официальная страница организатора"
         },
         {
           "url": "https://www.campmakemake.com/everything-you-need-to-know",
@@ -43811,10 +43859,14 @@
         {
           "url": "https://www.campmakemake.com/refund-policy",
           "label": "Конкретная2027refundpolicy"
+        },
+        {
+          "url": "https://es.campmakemake.com/general-6",
+          "label": "Официальная страница организатора"
         }
       ],
       "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-07",
       "status": "Идея",
       "note": "Матвей: Возраст подходит; проверить entering Grade2–8. Оскар: Возраст homepage 6+ подходит, но Classic требует Grade2+: без подтверждения класса/исключения не считать допущенным. Доплаты: Перелёт/дорога до места посадки; семейное жильё не включено. Оплата: Refund2027: до 20 Dec2026 возвратминус 21%tax/bank; после 20 Dec только seriousillness/injury/familyemergency минус 30%, илизамена campers. Ровно 20 Dec не разъяснено. Operatorcancelbeforestartfullrefund, emergencyearlyend посленачала 0/futurediscount0. Месторезервируюттолькопослеформы+payment, Страница говорит, что обычных скидок нет; отдельно опубликован вычет 20 000 CLP при самостоятельной доставке в обе стороны — исключение нужно согласовать.",
       "iso": [
@@ -43838,7 +43890,11 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "makemake",
-      "camp_programme_id": "CP047"
+      "camp_programme_id": "CP047",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Обе страницы показывают 36 мест, в автобусе 32 по английской и 33 по испанской версии."
+      }
     },
     {
       "id": "CP051-20270620-20270703",
@@ -86408,6 +86464,252 @@
         "TH",
         "FR"
       ]
+    },
+    {
+      "id": "CP304-20270118-20270122",
+      "block": "Лагеря",
+      "title": "La Llanada Panamá · Day Camp · Ciudad · Дневная мастерская. · 2027-01-18–2027-01-22",
+      "country": "Панама",
+      "region": "Центральная Америка",
+      "city": "Club Ecuestre Castilla del Oro · Ciudad de Panamá",
+      "start": "2027-01-18",
+      "end": "2027-01-22",
+      "period": "18–22 января и 15–19 февраля 2027. Смены на июль и август ещё уточняются.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–12",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа; жильё семьи, дорога и время вне занятий отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Городской дневной лагерь: плавание, игры, лошади, творчество, кухня и опыты.",
+      "language": "Все занятия и игры на испанском. Вожатые могут помочь на английском.",
+      "cost": "2027 · USD 290 за ребёнка за неделю, ITBMS включён. Скидка для брата или бывшего участника USD 20 за неделю. При посещении двух недель одним ребёнком скидка USD 50 без других скидок. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Точный адрес, новые документы 2027, свободное место, иностранный допуск, связь/страхование и полный счёт.",
+      "source": "https://pty.lallanada.com/wp-content/uploads/2026/10/%F0%9F%92%9ABrochure-Day-Camp-Ciudad-Enero-2027.pdf",
+      "references": [
+        {
+          "url": "https://pty.lallanada.com/wp-content/uploads/2026/10/%F0%9F%92%9ABrochure-Day-Camp-Ciudad-Enero-2027.pdf",
+          "label": "Официальная страница организатора"
+        },
+        {
+          "url": "https://pty.lallanada.com/campamento-de-verano/daycamp-ciudad/",
+          "label": "Официальная страница организатора"
+        },
+        {
+          "url": "https://pty.lallanada.com/",
+          "label": "Официальная страница организатора"
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы. Оскар: Условно, если к началу уже исполнилось 6 лет. Доплаты: Подтвердить место, язык конкретной группы, оплату и возврат у организатора. Оплата: Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+      "iso": [
+        "PAN"
+      ],
+      "themes": [
+        "general",
+        "sport",
+        "art",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "camp_life",
+      "language_certainty": "Все занятия и игры на испанском. Вожатые могут помочь на английском.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "llanada-panama-city",
+      "camp_programme_id": "CP304",
+      "sessions": [
+        {
+          "date": "2027-01-18",
+          "topic": "Городской дневной лагерь: плавание, игры, лошади, творчество, кухня и опыты.",
+          "start_time": "08:30",
+          "end_time": "16:30",
+          "timezone": "America/Panama",
+          "ical_timed": true,
+          "start_utc": "2027-01-18T13:30:00Z",
+          "end_utc": "2027-01-18T21:30:00Z"
+        },
+        {
+          "date": "2027-01-19",
+          "topic": "Городской дневной лагерь: плавание, игры, лошади, творчество, кухня и опыты.",
+          "start_time": "08:30",
+          "end_time": "16:30",
+          "timezone": "America/Panama",
+          "ical_timed": true,
+          "start_utc": "2027-01-19T13:30:00Z",
+          "end_utc": "2027-01-19T21:30:00Z"
+        },
+        {
+          "date": "2027-01-20",
+          "topic": "Городской дневной лагерь: плавание, игры, лошади, творчество, кухня и опыты.",
+          "start_time": "08:30",
+          "end_time": "16:30",
+          "timezone": "America/Panama",
+          "ical_timed": true,
+          "start_utc": "2027-01-20T13:30:00Z",
+          "end_utc": "2027-01-20T21:30:00Z"
+        },
+        {
+          "date": "2027-01-21",
+          "topic": "Городской дневной лагерь: плавание, игры, лошади, творчество, кухня и опыты.",
+          "start_time": "08:30",
+          "end_time": "16:30",
+          "timezone": "America/Panama",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T13:30:00Z",
+          "end_utc": "2027-01-21T21:30:00Z"
+        },
+        {
+          "date": "2027-01-22",
+          "topic": "Городской дневной лагерь: плавание, игры, лошади, творчество, кухня и опыты.",
+          "start_time": "08:30",
+          "end_time": "16:30",
+          "timezone": "America/Panama",
+          "ical_timed": true,
+          "start_utc": "2027-01-22T13:30:00Z",
+          "end_utc": "2027-01-22T21:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      }
+    },
+    {
+      "id": "CP304-20270215-20270219",
+      "block": "Лагеря",
+      "title": "La Llanada Panamá · Day Camp · Ciudad · Дневная мастерская. · 2027-02-15–2027-02-19",
+      "country": "Панама",
+      "region": "Центральная Америка",
+      "city": "Club Ecuestre Castilla del Oro · Ciudad de Panamá",
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "period": "18–22 января и 15–19 февраля 2027. Смены на июль и август ещё уточняются.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "4–12",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа; жильё семьи, дорога и время вне занятий отдельно.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Городской дневной лагерь: плавание, игры, лошади, творчество, кухня и опыты.",
+      "language": "Все занятия и игры на испанском. Вожатые могут помочь на английском.",
+      "cost": "2027 · USD 290 за ребёнка за неделю, ITBMS включён. Скидка для брата или бывшего участника USD 20 за неделю. При посещении двух недель одним ребёнком скидка USD 50 без других скидок. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Точный адрес, новые документы 2027, свободное место, иностранный допуск, связь/страхование и полный счёт.",
+      "source": "https://pty.lallanada.com/wp-content/uploads/2026/10/%F0%9F%92%9ABrochure-Day-Camp-Ciudad-Enero-2027.pdf",
+      "references": [
+        {
+          "url": "https://pty.lallanada.com/wp-content/uploads/2026/10/%F0%9F%92%9ABrochure-Day-Camp-Ciudad-Enero-2027.pdf",
+          "label": "Официальная страница организатора"
+        },
+        {
+          "url": "https://pty.lallanada.com/campamento-de-verano/daycamp-ciudad/",
+          "label": "Официальная страница организатора"
+        },
+        {
+          "url": "https://pty.lallanada.com/",
+          "label": "Официальная страница организатора"
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы. Оскар: Условно, если к началу уже исполнилось 6 лет. Доплаты: Подтвердить место, язык конкретной группы, оплату и возврат у организатора. Оплата: Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+      "iso": [
+        "PAN"
+      ],
+      "themes": [
+        "general",
+        "sport",
+        "art",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "camp_life",
+      "language_certainty": "Все занятия и игры на испанском. Вожатые могут помочь на английском.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "llanada-panama-city",
+      "camp_programme_id": "CP304",
+      "sessions": [
+        {
+          "date": "2027-02-15",
+          "topic": "Городской дневной лагерь: плавание, игры, лошади, творчество, кухня и опыты.",
+          "start_time": "08:30",
+          "end_time": "16:30",
+          "timezone": "America/Panama",
+          "ical_timed": true,
+          "start_utc": "2027-02-15T13:30:00Z",
+          "end_utc": "2027-02-15T21:30:00Z"
+        },
+        {
+          "date": "2027-02-16",
+          "topic": "Городской дневной лагерь: плавание, игры, лошади, творчество, кухня и опыты.",
+          "start_time": "08:30",
+          "end_time": "16:30",
+          "timezone": "America/Panama",
+          "ical_timed": true,
+          "start_utc": "2027-02-16T13:30:00Z",
+          "end_utc": "2027-02-16T21:30:00Z"
+        },
+        {
+          "date": "2027-02-17",
+          "topic": "Городской дневной лагерь: плавание, игры, лошади, творчество, кухня и опыты.",
+          "start_time": "08:30",
+          "end_time": "16:30",
+          "timezone": "America/Panama",
+          "ical_timed": true,
+          "start_utc": "2027-02-17T13:30:00Z",
+          "end_utc": "2027-02-17T21:30:00Z"
+        },
+        {
+          "date": "2027-02-18",
+          "topic": "Городской дневной лагерь: плавание, игры, лошади, творчество, кухня и опыты.",
+          "start_time": "08:30",
+          "end_time": "16:30",
+          "timezone": "America/Panama",
+          "ical_timed": true,
+          "start_utc": "2027-02-18T13:30:00Z",
+          "end_utc": "2027-02-18T21:30:00Z"
+        },
+        {
+          "date": "2027-02-19",
+          "topic": "Городской дневной лагерь: плавание, игры, лошади, творчество, кухня и опыты.",
+          "start_time": "08:30",
+          "end_time": "16:30",
+          "timezone": "America/Panama",
+          "ical_timed": true,
+          "start_utc": "2027-02-19T13:30:00Z",
+          "end_utc": "2027-02-19T21:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      }
     },
     {
       "id": "CP315-20270627-20270703",
@@ -318301,6 +318603,1089 @@
           "ical_timed": true,
           "start_utc": "2027-03-19T13:00:00Z",
           "end_utc": "2027-03-19T19:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      }
+    },
+    {
+      "id": "CP1667-20270105-20270211",
+      "block": "Лагеря",
+      "title": "Summer Camp SIR · Roblox · Roblox · 2027-01-05–2027-02-11",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "Colegio San Ignacio de Recalde · Huachipa · Lima",
+      "start": "2027-01-05",
+      "end": "2027-02-11",
+      "period": "5 января–11 февраля 2027. По вторникам, средам и четвергам с 09:20 до 12:20 по текущей карточке.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+      "language": "Язык занятий конкретной группы организатор явно не указал.",
+      "cost": "2027 · PEN 1680 за 6 недель на актуальной странице. Опубликована скидка 10% до 11 декабря 2026 по условиям школы. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+      "source": "https://www.sir.edu.pe/landings/summer-camp/",
+      "references": [
+        {
+          "url": "https://www.sir.edu.pe/landings/summer-camp/",
+          "label": "Официальная страница организатора"
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Матвей: Нет по возрасту для младшей группы. Оскар: Условно, если к началу уже исполнилось 6 лет. Доплаты: Подтвердить место, язык конкретной группы, оплату и возврат у организатора. Оплата: Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+      "iso": [
+        "PER"
+      ],
+      "themes": [
+        "general",
+        "games",
+        "sport",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык занятий конкретной группы организатор явно не указал.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sir-peru-summer-2027-6",
+      "camp_programme_id": "CP1667",
+      "sessions": [
+        {
+          "date": "2027-01-05",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T14:20:00Z",
+          "end_utc": "2027-01-05T17:20:00Z"
+        },
+        {
+          "date": "2027-01-06",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-06T14:20:00Z",
+          "end_utc": "2027-01-06T17:20:00Z"
+        },
+        {
+          "date": "2027-01-07",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-07T14:20:00Z",
+          "end_utc": "2027-01-07T17:20:00Z"
+        },
+        {
+          "date": "2027-01-12",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T14:20:00Z",
+          "end_utc": "2027-01-12T17:20:00Z"
+        },
+        {
+          "date": "2027-01-13",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T14:20:00Z",
+          "end_utc": "2027-01-13T17:20:00Z"
+        },
+        {
+          "date": "2027-01-14",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T14:20:00Z",
+          "end_utc": "2027-01-14T17:20:00Z"
+        },
+        {
+          "date": "2027-01-19",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-19T14:20:00Z",
+          "end_utc": "2027-01-19T17:20:00Z"
+        },
+        {
+          "date": "2027-01-20",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-20T14:20:00Z",
+          "end_utc": "2027-01-20T17:20:00Z"
+        },
+        {
+          "date": "2027-01-21",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T14:20:00Z",
+          "end_utc": "2027-01-21T17:20:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T14:20:00Z",
+          "end_utc": "2027-01-26T17:20:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T14:20:00Z",
+          "end_utc": "2027-01-27T17:20:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T14:20:00Z",
+          "end_utc": "2027-01-28T17:20:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T14:20:00Z",
+          "end_utc": "2027-02-02T17:20:00Z"
+        },
+        {
+          "date": "2027-02-03",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-03T14:20:00Z",
+          "end_utc": "2027-02-03T17:20:00Z"
+        },
+        {
+          "date": "2027-02-04",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-04T14:20:00Z",
+          "end_utc": "2027-02-04T17:20:00Z"
+        },
+        {
+          "date": "2027-02-09",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-09T14:20:00Z",
+          "end_utc": "2027-02-09T17:20:00Z"
+        },
+        {
+          "date": "2027-02-10",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-10T14:20:00Z",
+          "end_utc": "2027-02-10T17:20:00Z"
+        },
+        {
+          "date": "2027-02-11",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-11T14:20:00Z",
+          "end_utc": "2027-02-11T17:20:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      }
+    },
+    {
+      "id": "CP1668-20270105-20270211",
+      "block": "Лагеря",
+      "title": "Summer Camp SIR · Roblox · Roblox · 2027-01-05–2027-02-11",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "Colegio San Ignacio de Recalde · Huachipa · Lima",
+      "start": "2027-01-05",
+      "end": "2027-02-11",
+      "period": "5 января–11 февраля 2027. По вторникам, средам и четвергам с 09:20 до 12:20 по текущей карточке.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "7–8",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+      "language": "Язык занятий конкретной группы организатор явно не указал.",
+      "cost": "2027 · PEN 1680 за 6 недель на актуальной странице. Опубликована скидка 10% до 11 декабря 2026 по условиям школы. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+      "source": "https://www.sir.edu.pe/landings/summer-camp/",
+      "references": [
+        {
+          "url": "https://www.sir.edu.pe/landings/summer-camp/",
+          "label": "Официальная страница организатора"
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Матвей: Нет по возрасту для младшей группы. Оскар: Условно, если к началу мастерской уже исполнится 7 лет. Доплаты: Подтвердить место, язык конкретной группы, оплату и возврат у организатора. Оплата: Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+      "iso": [
+        "PER"
+      ],
+      "themes": [
+        "general",
+        "games",
+        "sport",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык занятий конкретной группы организатор явно не указал.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sir-peru-summer-2027-7-8",
+      "camp_programme_id": "CP1668",
+      "sessions": [
+        {
+          "date": "2027-01-05",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T14:20:00Z",
+          "end_utc": "2027-01-05T17:20:00Z"
+        },
+        {
+          "date": "2027-01-06",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-06T14:20:00Z",
+          "end_utc": "2027-01-06T17:20:00Z"
+        },
+        {
+          "date": "2027-01-07",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-07T14:20:00Z",
+          "end_utc": "2027-01-07T17:20:00Z"
+        },
+        {
+          "date": "2027-01-12",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T14:20:00Z",
+          "end_utc": "2027-01-12T17:20:00Z"
+        },
+        {
+          "date": "2027-01-13",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T14:20:00Z",
+          "end_utc": "2027-01-13T17:20:00Z"
+        },
+        {
+          "date": "2027-01-14",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T14:20:00Z",
+          "end_utc": "2027-01-14T17:20:00Z"
+        },
+        {
+          "date": "2027-01-19",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-19T14:20:00Z",
+          "end_utc": "2027-01-19T17:20:00Z"
+        },
+        {
+          "date": "2027-01-20",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-20T14:20:00Z",
+          "end_utc": "2027-01-20T17:20:00Z"
+        },
+        {
+          "date": "2027-01-21",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T14:20:00Z",
+          "end_utc": "2027-01-21T17:20:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T14:20:00Z",
+          "end_utc": "2027-01-26T17:20:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T14:20:00Z",
+          "end_utc": "2027-01-27T17:20:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T14:20:00Z",
+          "end_utc": "2027-01-28T17:20:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T14:20:00Z",
+          "end_utc": "2027-02-02T17:20:00Z"
+        },
+        {
+          "date": "2027-02-03",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-03T14:20:00Z",
+          "end_utc": "2027-02-03T17:20:00Z"
+        },
+        {
+          "date": "2027-02-04",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-04T14:20:00Z",
+          "end_utc": "2027-02-04T17:20:00Z"
+        },
+        {
+          "date": "2027-02-09",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-09T14:20:00Z",
+          "end_utc": "2027-02-09T17:20:00Z"
+        },
+        {
+          "date": "2027-02-10",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-10T14:20:00Z",
+          "end_utc": "2027-02-10T17:20:00Z"
+        },
+        {
+          "date": "2027-02-11",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-11T14:20:00Z",
+          "end_utc": "2027-02-11T17:20:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      }
+    },
+    {
+      "id": "CP1669-20270105-20270211",
+      "block": "Лагеря",
+      "title": "Summer Camp SIR · Minecraft · Minecraft · 2027-01-05–2027-02-11",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "Colegio San Ignacio de Recalde · Huachipa · Lima",
+      "start": "2027-01-05",
+      "end": "2027-02-11",
+      "period": "5 января–11 февраля 2027. По вторникам, средам и четвергам с 09:20 до 12:20 по текущей карточке.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "9–10",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневная программа без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+      "language": "Язык занятий конкретной группы организатор явно не указал.",
+      "cost": "2027 · PEN 1680 за 6 недель на актуальной странице. Опубликована скидка 10% до 11 декабря 2026 по условиям школы. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+      "source": "https://www.sir.edu.pe/landings/summer-camp/",
+      "references": [
+        {
+          "url": "https://www.sir.edu.pe/landings/summer-camp/",
+          "label": "Официальная страница организатора"
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы. Оскар: Возраст выше текущего. Проверить возраст на первый день смены. Доплаты: Подтвердить место, язык конкретной группы, оплату и возврат у организатора. Оплата: Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+      "iso": [
+        "PER"
+      ],
+      "themes": [
+        "general",
+        "games",
+        "sport",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык занятий конкретной группы организатор явно не указал.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sir-peru-summer-2027-9-10",
+      "camp_programme_id": "CP1669",
+      "sessions": [
+        {
+          "date": "2027-01-05",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T14:20:00Z",
+          "end_utc": "2027-01-05T17:20:00Z"
+        },
+        {
+          "date": "2027-01-06",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-06T14:20:00Z",
+          "end_utc": "2027-01-06T17:20:00Z"
+        },
+        {
+          "date": "2027-01-07",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-07T14:20:00Z",
+          "end_utc": "2027-01-07T17:20:00Z"
+        },
+        {
+          "date": "2027-01-12",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T14:20:00Z",
+          "end_utc": "2027-01-12T17:20:00Z"
+        },
+        {
+          "date": "2027-01-13",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T14:20:00Z",
+          "end_utc": "2027-01-13T17:20:00Z"
+        },
+        {
+          "date": "2027-01-14",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T14:20:00Z",
+          "end_utc": "2027-01-14T17:20:00Z"
+        },
+        {
+          "date": "2027-01-19",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-19T14:20:00Z",
+          "end_utc": "2027-01-19T17:20:00Z"
+        },
+        {
+          "date": "2027-01-20",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-20T14:20:00Z",
+          "end_utc": "2027-01-20T17:20:00Z"
+        },
+        {
+          "date": "2027-01-21",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T14:20:00Z",
+          "end_utc": "2027-01-21T17:20:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T14:20:00Z",
+          "end_utc": "2027-01-26T17:20:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T14:20:00Z",
+          "end_utc": "2027-01-27T17:20:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T14:20:00Z",
+          "end_utc": "2027-01-28T17:20:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T14:20:00Z",
+          "end_utc": "2027-02-02T17:20:00Z"
+        },
+        {
+          "date": "2027-02-03",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-03T14:20:00Z",
+          "end_utc": "2027-02-03T17:20:00Z"
+        },
+        {
+          "date": "2027-02-04",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-04T14:20:00Z",
+          "end_utc": "2027-02-04T17:20:00Z"
+        },
+        {
+          "date": "2027-02-09",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-09T14:20:00Z",
+          "end_utc": "2027-02-09T17:20:00Z"
+        },
+        {
+          "date": "2027-02-10",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-10T14:20:00Z",
+          "end_utc": "2027-02-10T17:20:00Z"
+        },
+        {
+          "date": "2027-02-11",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-11T14:20:00Z",
+          "end_utc": "2027-02-11T17:20:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      }
+    },
+    {
+      "id": "CP1670-20270105-20270211",
+      "block": "Лагеря",
+      "title": "Summer Camp SIR · Minecraft · Minecraft · 2027-01-05–2027-02-11",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "Colegio San Ignacio de Recalde · Huachipa · Lima",
+      "start": "2027-01-05",
+      "end": "2027-02-11",
+      "period": "5 января–11 февраля 2027. По вторникам, средам и четвергам с 09:20 до 12:20 по текущей карточке.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "11–12",
+      "mat": "Нет сейчас; будущая возрастная ступень",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневная программа без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+      "language": "Язык занятий конкретной группы организатор явно не указал.",
+      "cost": "2027 · PEN 1680 за 6 недель на актуальной странице. Опубликована скидка 10% до 11 декабря 2026 по условиям школы. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P4 — будущий возраст",
+      "action": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+      "source": "https://www.sir.edu.pe/landings/summer-camp/",
+      "references": [
+        {
+          "url": "https://www.sir.edu.pe/landings/summer-camp/",
+          "label": "Официальная страница организатора"
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Матвей: Возраст выше текущего. Проверить возраст на первый день смены. Оскар: Возраст выше текущего. Проверить возраст на первый день смены. Доплаты: Подтвердить место, язык конкретной группы, оплату и возврат у организатора. Оплата: Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+      "iso": [
+        "PER"
+      ],
+      "themes": [
+        "general",
+        "games",
+        "sport",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык занятий конкретной группы организатор явно не указал.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sir-peru-summer-2027-11-12",
+      "camp_programme_id": "CP1670",
+      "sessions": [
+        {
+          "date": "2027-01-05",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T14:20:00Z",
+          "end_utc": "2027-01-05T17:20:00Z"
+        },
+        {
+          "date": "2027-01-06",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-06T14:20:00Z",
+          "end_utc": "2027-01-06T17:20:00Z"
+        },
+        {
+          "date": "2027-01-07",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-07T14:20:00Z",
+          "end_utc": "2027-01-07T17:20:00Z"
+        },
+        {
+          "date": "2027-01-12",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T14:20:00Z",
+          "end_utc": "2027-01-12T17:20:00Z"
+        },
+        {
+          "date": "2027-01-13",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T14:20:00Z",
+          "end_utc": "2027-01-13T17:20:00Z"
+        },
+        {
+          "date": "2027-01-14",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T14:20:00Z",
+          "end_utc": "2027-01-14T17:20:00Z"
+        },
+        {
+          "date": "2027-01-19",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-19T14:20:00Z",
+          "end_utc": "2027-01-19T17:20:00Z"
+        },
+        {
+          "date": "2027-01-20",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-20T14:20:00Z",
+          "end_utc": "2027-01-20T17:20:00Z"
+        },
+        {
+          "date": "2027-01-21",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T14:20:00Z",
+          "end_utc": "2027-01-21T17:20:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T14:20:00Z",
+          "end_utc": "2027-01-26T17:20:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T14:20:00Z",
+          "end_utc": "2027-01-27T17:20:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T14:20:00Z",
+          "end_utc": "2027-01-28T17:20:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T14:20:00Z",
+          "end_utc": "2027-02-02T17:20:00Z"
+        },
+        {
+          "date": "2027-02-03",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-03T14:20:00Z",
+          "end_utc": "2027-02-03T17:20:00Z"
+        },
+        {
+          "date": "2027-02-04",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-04T14:20:00Z",
+          "end_utc": "2027-02-04T17:20:00Z"
+        },
+        {
+          "date": "2027-02-09",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-09T14:20:00Z",
+          "end_utc": "2027-02-09T17:20:00Z"
+        },
+        {
+          "date": "2027-02-10",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-10T14:20:00Z",
+          "end_utc": "2027-02-10T17:20:00Z"
+        },
+        {
+          "date": "2027-02-11",
+          "topic": "Многопрофильная программа с играми, творчеством, спортом и кухней. В расписании этой возрастной группы есть Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-11T14:20:00Z",
+          "end_utc": "2027-02-11T17:20:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Уточнить наличие мест и допуск."
+      }
+    },
+    {
+      "id": "CP1671-20270111-20270115",
+      "block": "Лагеря",
+      "title": "Barça Academy · San José · Дневная мастерская. · 2027-01-11–2027-01-15",
+      "country": "Коста-Рика",
+      "region": "Центральная Америка",
+      "city": "Blue Valley School · San José",
+      "start": "2027-01-11",
+      "end": "2027-01-15",
+      "period": "11–15 января 2027. Группа 6–11 лет 08:00–10:00. Для 12–14 и 15–18 опубликованы другие часы.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–11",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Футбольная программа с тренерами Barça Academy. Общая программа каникул для любого уровня подготовки.",
+      "language": "Язык занятий конкретной группы организатор явно не указал.",
+      "cost": "2027 · Цена не опубликована. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+      "source": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+      "references": [
+        {
+          "url": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+          "label": "Официальная страница организатора"
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы. Оскар: Условно, если к началу уже исполнилось 6 лет. Доплаты: Подтвердить место, язык конкретной группы, оплату и возврат у организатора. Оплата: Подтвердить место, язык конкретной группы, оплату и возврат у организатора.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "sport",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык занятий конкретной группы организатор явно не указал.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "barca-academy-san-jose-jan-2027",
+      "camp_programme_id": "CP1671",
+      "sessions": [
+        {
+          "date": "2027-01-11",
+          "topic": "Футбольная программа с тренерами Barça Academy. Общая программа каникул для любого уровня подготовки.",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2027-01-11T14:00:00Z",
+          "end_utc": "2027-01-11T16:00:00Z"
+        },
+        {
+          "date": "2027-01-12",
+          "topic": "Футбольная программа с тренерами Barça Academy. Общая программа каникул для любого уровня подготовки.",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T14:00:00Z",
+          "end_utc": "2027-01-12T16:00:00Z"
+        },
+        {
+          "date": "2027-01-13",
+          "topic": "Футбольная программа с тренерами Barça Academy. Общая программа каникул для любого уровня подготовки.",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T14:00:00Z",
+          "end_utc": "2027-01-13T16:00:00Z"
+        },
+        {
+          "date": "2027-01-14",
+          "topic": "Футбольная программа с тренерами Barça Academy. Общая программа каникул для любого уровня подготовки.",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T14:00:00Z",
+          "end_utc": "2027-01-14T16:00:00Z"
+        },
+        {
+          "date": "2027-01-15",
+          "topic": "Футбольная программа с тренерами Barça Academy. Общая программа каникул для любого уровня подготовки.",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "timezone": "America/Costa_Rica",
+          "ical_timed": true,
+          "start_utc": "2027-01-15T14:00:00Z",
+          "end_utc": "2027-01-15T16:00:00Z"
         }
       ],
       "availability": {

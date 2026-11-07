@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 7568; competiciones: 3151; eventos: 326; campamentos / programas: 4091. Perfiles de ligas y programas: 265. Fichas de exposiciones grandes y especializadas: 238 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 7593; competiciones: 3165; eventos: 330; campamentos / programas: 4098. Perfiles de ligas y programas: 265. Fichas de exposiciones grandes y especializadas: 242 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos de 158 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: se añadieron 21 fichas y 3 perfiles. Todas las fichas anteriores se conservan.
 
@@ -14,8 +14,8 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 23 | 1442 | 44 | 1069 |
-| América del Sur | 10 | 195 | 11 | 132 |
+| América del Norte | 23 | 1448 | 48 | 1072 |
+| América del Sur | 10 | 203 | 11 | 136 |
 | Europa | 42 | 432 | 80 | 1298 |
 | África | 34 | 115 | 15 | 68 |
 | Asia | 44 | 752 | 84 | 1398 |
@@ -23,7 +23,7 @@ Hay registros concretos de 158 de 249 países y territorios; países auditados p
 
 Fichas interregionales o globales sin un único continente asignado: 114. América del Norte incluye Centroamérica y el Caribe. Las cifras muestran el inventario del atlas y no un porcentaje de exhaustividad.
 
-VEX: 518 de 3151 fichas de competiciones (16.4%). Hay un claro desequilibrio en la cobertura.
+VEX: 518 de 3165 fichas de competiciones (16.4%). Hay un claro desequilibrio en la cobertura.
 
 ## Lo que queda
 
@@ -95,7 +95,7 @@ VEX: 518 de 3151 fichas de competiciones (16.4%). Hay un claro desequilibrio en 
 
 - **WRO**: 115 tarjetas, 6 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://wro-association.org/competition/categories/
 - **FIRST**: 312 fichas, 205 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
-- **VEX Robotics**. 518 fichas, 418 con fechas futuras exactas. Hay perfil y fichas con cobertura local parcial. https://www.vexrobotics.com/official-path
+- **VEX Robotics**: 518 fichas, 417 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexrobotics.com/official-path
 - **RoboCupJunior**: 7 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://junior.robocup.org/
 - **MakeX**: 15 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.makex.cc/en/2026-makex
 - **RECF Robotics**. 624 fichas, 527 con fechas futuras exactas. Hay perfil y fichas con cobertura local parcial. https://recf.org/teams/recf-robotics-competition/
@@ -571,6 +571,10 @@ VEX: 518 de 3151 fichas de competiciones (16.4%). Hay un claro desequilibrio en 
 - **FAN EXPO Vancouver 2027 · Gaming** — Canadá; 2027-02-13 – 2027-02-15. con un adulto; condiciones de admisión adulta por separado. https://fanexpohq.com/fanexpovancouver/buy-tickets/
 - **FAN EXPO Canada 2027 · Gaming** — Canadá; 2027-08-26 – 2027-08-29. con un adulto; condiciones de admisión adulta por separado. https://fanexpohq.com/fanexpocanada/
 - **TADTE 2027 · Taipei Aerospace & Defense Technology Exhibition** — Taiwán; 2027-09-25. Con un adulto; condiciones de admisión adulta por separado. https://www.tadte.com.tw/zh-tw/menu/9BC8A4C92D674714D0636733C6861689/info.html
+- **AnimaCon Costa Rica 2027 · Gaming Zone** — Costa Rica; 2027-01-31. con un adulto; condiciones de admisión adulta por separado. https://animaconcr.com/
+- **The Draw Card Show · Gaming & TCG** — Costa Rica; 2026-11-15. el permiso de entrada de niños. https://www.yokaicr.com/evento.php?slug=the-draw
+- **Animecon Obregón 2026 · Gaming** — México; 2026-12-20. con un adulto; condiciones de admisión adulta por separado. https://www.animecon.mx/
+- **Never Ending Evolution 2027 · AI & Technology** — México; 2027-04-21 – 2027-04-22. el permiso de entrada de niños. https://needed.education/nevo2027/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

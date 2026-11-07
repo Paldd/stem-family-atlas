@@ -2982,6 +2982,136 @@ Limitaciones: Sede presencial. Confirmar horario local, admisión y plaza dispon
 Fuente: https://www.spaceappschallenge.org/2026/local-events/chihuahua/
 Se ha comprobado: 2026-11-07
 
+### E327 · AnimaCon Costa Rica 2027 · Gaming Zone
+
+Fecha: 2027-01-31 ♫ 2027-01-31
+edad: Festival el 31 de enero, de 10:00 a 19:00. Entrada gratuita de 0–6 años inclusive. Confirmar precio desde los 7 años y condiciones del juego concreto.
+Matvey: Sí para visita familiar siguiendo las reglas de acceso.
+Oscar: Sí para visita familiar siguiendo las reglas de acceso.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Festival el 31 de enero, de 10:00 a 19:00. Entrada gratuita de 0–6 años inclusive. Confirmar precio desde los 7 años y condiciones del juego concreto.
+Precio: Precio sin publicar.
+Limitaciones: Zona de videojuegos de 10:00 a 18:00 con demostraciones de estudios locales. Los reglamentos de torneos se publican por separado.
+Fuente: https://animaconcr.com/
+Se ha comprobado: 2026-11-07
+
+### E328 · The Draw Card Show · Gaming & TCG
+
+Fecha: 2026-11-15 — 2026-11-15
+edad: Acceso con Experience Card. Confirmar entrada infantil e inclusión de otras zonas del museo.
+Matvey: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
+Oscar: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Acceso con Experience Card. Confirmar entrada infantil e inclusión de otras zonas del museo.
+Precio: CRC 8500 por Experience Card. La ficha no publica descuentos por edad.
+Limitaciones: 15 de noviembre de 2026, de 10:00 a 17:00. Juegos coleccionables, actividades de juego y taller. Los torneos se inscriben por separado.
+Fuente: https://www.yokaicr.com/evento.php?slug=the-draw
+Se ha comprobado: 2026-11-07
+
+### C3161 · The Draw · One Piece TCG
+
+Fecha: 2026-11-15 — 2026-11-15
+edad: Confirmar admisión por edad, mazo permitido y plaza.
+Matvey: Confirmar admisión por edad, mazo permitido y plaza.
+Oscar: Confirmar admisión por edad, mazo permitido y plaza.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Confirmar admisión por edad, mazo permitido y plaza.
+Precio: CRC 15000 por jugador, incluye acceso a The Draw.
+Limitaciones: Registro en sede desde las 09:30 e inicio del torneo a las 10:00. La página no indica edad mínima.
+Fuente: https://www.yokaicr.com/evento.php?slug=the-draw
+Se ha comprobado: 2026-11-07
+
+### C3162 · The Draw · Gundam Card Game
+
+Fecha: 2026-11-15 — 2026-11-15
+edad: Confirmar admisión por edad, mazo permitido y plaza.
+Matvey: Confirmar admisión por edad, mazo permitido y plaza.
+Oscar: Confirmar admisión por edad, mazo permitido y plaza.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Confirmar admisión por edad, mazo permitido y plaza.
+Precio: CRC 20000 por jugador, incluye acceso a The Draw.
+Limitaciones: Registro en sede desde las 09:30 e inicio del torneo a las 10:00. La página no indica edad mínima.
+Fuente: https://www.yokaicr.com/evento.php?slug=the-draw
+Se ha comprobado: 2026-11-07
+
+### C3163 · The Draw · Riftbound · Skirmish Radiance
+
+Fecha: 2026-11-15 — 2026-11-15
+edad: Confirmar admisión por edad, mazo permitido y plaza.
+Matvey: Confirmar admisión por edad, mazo permitido y plaza.
+Oscar: Confirmar admisión por edad, mazo permitido y plaza.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Confirmar admisión por edad, mazo permitido y plaza.
+Precio: CRC 15000 por jugador, incluye acceso a The Draw.
+Limitaciones: Registro en sede desde las 09:30 e inicio del torneo a las 10:00. La página no indica edad mínima.
+Fuente: https://www.yokaicr.com/evento.php?slug=the-draw
+Se ha comprobado: 2026-11-07
+
+### C3164 · The Draw · Digimon TCG
+
+Fecha: 2026-11-15 — 2026-11-15
+edad: Confirmar admisión por edad, mazo permitido y plaza.
+Matvey: Confirmar admisión por edad, mazo permitido y plaza.
+Oscar: Confirmar admisión por edad, mazo permitido y plaza.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Confirmar admisión por edad, mazo permitido y plaza.
+Precio: CRC 15000 por jugador, incluye acceso a The Draw.
+Limitaciones: Registro en sede desde las 09:30 e inicio del torneo a las 10:00. La página no indica edad mínima.
+Fuente: https://www.yokaicr.com/evento.php?slug=the-draw
+Se ha comprobado: 2026-11-07
+
+### E329 · Animecon Obregón 2026 · Gaming
+
+Fecha: 2026-12-20 国 2026-12-20
+edad: Menores de 8 años gratis con un adulto. Los demás necesitan entrada. Admisión independiente para torneos.
+Matvey: Sí para visita familiar siguiendo las reglas de acceso.
+Oscar: Sí para visita familiar siguiendo las reglas de acceso.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Menores de 8 años gratis con un adulto. Los demás necesitan entrada. Admisión independiente para torneos.
+Precio: Precio sin publicar.
+Limitaciones: Zona de videojuegos y torneos de videojuegos y cartas coleccionables. Confirmar el requisito de edad de cada torneo.
+Fuente: https://www.animecon.mx/
+Se ha comprobado: 2026-11-07
+
+### C3165 · Animecon Obregón · The King of Fighters XV
+
+Fecha: 2026-12-20 国 2026-12-20
+edad: Confirmar edad mínima del torneo y consentimiento parental en el reglamento del juego concreto.
+Matvey: Confirmar edad mínima del torneo y consentimiento parental en el reglamento del juego concreto.
+Oscar: Confirmar edad mínima del torneo y consentimiento parental en el reglamento del juego concreto.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Preinscripción por Challonge o en sede. Check-in final como máximo 30 minutos antes del inicio. Entrada a la feria por separado.
+Precio: Precio sin publicar.
+Limitaciones: Confirmar edad mínima del torneo y consentimiento parental en el reglamento del juego concreto.
+Fuente: https://animecon.mx/pages/participa_videojuegos_snk.php
+Se ha comprobado: 2026-11-07
+
+### C3166 · Animecon Obregón · Fatal Fury: City of the Wolves
+
+Fecha: 2026-12-20 国 2026-12-20
+edad: Confirmar edad mínima del torneo y consentimiento parental en el reglamento del juego concreto.
+Matvey: Confirmar edad mínima del torneo y consentimiento parental en el reglamento del juego concreto.
+Oscar: Confirmar edad mínima del torneo y consentimiento parental en el reglamento del juego concreto.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Preinscripción por Challonge o en sede. Check-in final como máximo 30 minutos antes del inicio. Entrada a la feria por separado.
+Precio: Precio sin publicar.
+Limitaciones: Confirmar edad mínima del torneo y consentimiento parental en el reglamento del juego concreto.
+Fuente: https://animecon.mx/pages/participa_videojuegos_snk.php
+Se ha comprobado: 2026-11-07
+
+### E330 · Never Ending Evolution 2027 · AI & Technology
+
+Fecha: 2027-04-21 — 2027-04-22
+edad: Festival profesional para directivos. Las entradas presencial y en línea son distintas. Admisión de menores sin confirmar.
+Matvey: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
+Oscar: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Festival profesional para directivos. Las entradas presencial y en línea son distintas. Admisión de menores sin confirmar.
+Precio: Tarifa anticipada hasta el 31 de diciembre de 2026: presencial desde MXN 17010, en línea desde MXN 4500, más IVA.
+Limitaciones: Festival profesional para directivos. Las entradas presencial y en línea son distintas. Admisión de menores sin confirmar.
+Fuente: https://needed.education/nevo2027/
+Se ha comprobado: 2026-11-07
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -3956,6 +4086,19 @@ Precio: 2026/27 · MXN 850 / 6 × 2 h · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Matvey tiene 9 años y cumple edad; inscripción cerrada impide considerar plaza disponible. Oscar: Oscar tiene 6 años, por debajo de edad mínima de 9 años. Suplementos: Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer. Pago: Precio completo publicado; devolución sin detallar, formulario cerrado.
 Fuente: https://dimexideas.com/club-de-robotica/
 Se ha comprobado: 2026-11-06
+
+### CP1671-20270111-20270115 · Barça Academy · San José · Taller diurno. · 2027-01-11–2027-01-15
+
+Fecha: 2027-01-11 — 2027-01-15
+edad: 6–11
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: La organización no indica expresamente el idioma de enseñanza del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Precio sin publicar. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://barcaacademycampscostarica.com/camps-costa-rica/
+Se ha comprobado: 2026-11-07
 
 ### C1155 · XVIII Campeonato Nacional de Robótica y STEM · VEX IQ Middle
 

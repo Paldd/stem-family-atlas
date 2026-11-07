@@ -1345,26 +1345,25 @@
       "country": "Ecuador",
       "region": "América del Sur",
       "city": "Quito",
-      "start": "2027-01-21",
-      "end": "2027-01-22",
-      "period": "",
-      "date_status": "Confirmado",
-      "deadline": "2026-12-11",
+      "start": "",
+      "end": "",
+      "period": "La ficha VEX indicaba 21–22 de enero de 2027, USD 300, pago hasta el 4 de diciembre e inscripción hasta el 11 de diciembre de 2026. La página de la organización indica 22–23 de enero, USD 500 por equipo o USD 250 para la red, inscripción y pago hasta el 4 de diciembre. Las condiciones IQ y los días concretos requieren cotejo.",
+      "date_status": "Confirmar",
+      "deadline": "",
       "deadline_label": "Registro",
-      "deadline_note": "11.12.2026 12:00 EST en el portal; Costa Rica: 11.12.2026 11:00.",
-      "deadline_utc": "2026-12-11T17:00:00Z",
+      "deadline_note": "",
       "age": "VEX IQ All: Elementary / Middle; Elementary hasta 12 inclusive para el 01.06.2027",
       "mat": "si por edad; división y entrada extranjera confirmar",
       "osc": "si por edad; división y entrada extranjera confirmar",
-      "format": "equipo VEX IQ 2+ y adulto registrado; máximo 4 registros para la organización",
-      "entry": "VEX Events: Open Tournament, selección específica no se indica en la descripción. especificar la solicitud internacional y la división; la palabra Nacional en el nombre no prueba la prohibición o admisión de extranjeros.",
+      "format": "La página de la organización indica un equipo de 6–8 participantes. Confirmar cómo se relaciona con la inscripción en VEX.",
+      "entry": "La ficha VEX indicaba 21–22 de enero de 2027, USD 300, pago hasta el 4 de diciembre e inscripción hasta el 11 de diciembre de 2026. La página de la organización indica 22–23 de enero, USD 500 por equipo o USD 250 para la red, inscripción y pago hasta el 4 de diciembre. Las condiciones IQ y los días concretos requieren cotejo.",
       "gear": "VEX IQ Level Up; un físico de ingeniería Notebook para jueces de día; Robot Skills se ofrece",
       "language": "ES  candidato; lengua de entrevista / notebook para acordar",
       "languages": [
         "ES"
       ],
       "language_certainty": "La descripción en español y los campos en inglés del portal no confirman la lengua del juez.",
-      "cost": "USD300 por equipo en VEX Events; pago hasta el 04.12.2026 por tarjeta, es decir, hasta el final de la inscripción",
+      "cost": "La ficha VEX indicaba 21–22 de enero de 2027, USD 300, pago hasta el 4 de diciembre e inscripción hasta el 11 de diciembre de 2026. La página de la organización indica 22–23 de enero, USD 500 por equipo o USD 250 para la red, inscripción y pago hasta el 4 de diciembre. Las condiciones IQ y los días concretos requieren cotejo.",
       "scope": "national",
       "level": "C  etapa nacional",
       "importance_reason": "Valoración editorial basada en el formato y el nombre. Pertenece a la red internacional VEX, pero este torneo no es un campeonato mundial.",
@@ -1380,12 +1379,16 @@
         {
           "label": "catálogo — la temporada 2026–27, Elementary",
           "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=*&seasonId=203&grade_level_id=1&from_date=2026-09-30&page=20"
+        },
+        {
+          "url": "https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/",
+          "label": "Página oficial del organizador"
         }
       ],
-      "proof": "se ha leído una tarjeta oficial separada: 21–22.01.2027, All, USD300, apertura de la inscripción 28.09, deadline, el pago 04.12, de la noche notebook y agenda.",
-      "checked": "2026-09-30",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "checked": "2026-11-07",
       "status": "Idea",
-      "note": "el registro y el pago tienen diferentes plazos. el reembolso en caso de cancelación propia hasta el 20.12.2026 menos 15%; desde el 21.12 no. el reembolso organizador: experiencia@roboticminds.com.ec. el público no es igual a la participación del equipo.",
+      "note": "La ficha VEX indicaba 21–22 de enero de 2027, USD 300, pago hasta el 4 de diciembre e inscripción hasta el 11 de diciembre de 2026. La página de la organización indica 22–23 de enero, USD 500 por equipo o USD 250 para la red, inscripción y pago hasta el 4 de diciembre. Las condiciones IQ y los días concretos requieren cotejo.",
       "iso": [
         "ECU"
       ],
@@ -1402,7 +1405,14 @@
       "admission_kind": "open_application",
       "evidence_level": "event_page",
       "registration_status": "registro abierto desde el 28.09.2026; en el 30.09 en la tarjeta 50% + de los 40 lugares",
-      "event_type": "Open Tournament"
+      "event_type": "Open Tournament",
+      "date_scope": "season_window",
+      "reported_start": "2027-01-21",
+      "reported_end": "2027-01-22",
+      "reported_deadline": "2026-12-11",
+      "parent_event_id": "C3153",
+      "event_group": "IX Torneo Nacional de Robótica · Robotic Minds",
+      "date_conflict": "La ficha VEX indicaba 21–22 de enero de 2027, USD 300, pago hasta el 4 de diciembre e inscripción hasta el 11 de diciembre de 2026. La página de la organización indica 22–23 de enero, USD 500 por equipo o USD 250 para la red, inscripción y pago hasta el 4 de diciembre. Las condiciones IQ y los días concretos requieren cotejo."
     },
     {
       "block": "Competiciones",
@@ -12114,15 +12124,412 @@
       }
     },
     {
+      "id": "C3153",
+      "block": "Competiciones",
+      "title": "IX Torneo Nacional de Robótica · Robotic Minds",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Centro de Convenciones Metropolitano · Quito",
+      "start": "2027-01-22",
+      "end": "2027-01-23",
+      "deadline": "2026-12-04",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/",
+      "references": [],
+      "age": "Cinco formatos desde grado 1 EGB hasta grado 3 BGU en categorías de edad separadas.",
+      "mat": "Condicional por grado. Confirmar equivalencia EGB y admisión de equipo extranjero.",
+      "osc": "Condicional. Edad adecuada, se necesita grado compatible y equipo según reglamento.",
+      "format": "Cinco formatos desde grado 1 EGB hasta grado 3 BGU en categorías de edad separadas.",
+      "entry": "Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.",
+      "gear": "",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "La tarifa depende de la categoría. Las tarifas reducidas corresponden a Red Robotic Minds.",
+      "level": "Programa nacional",
+      "reward": "Premios del torneo según acta final. Una clasificación posterior depende de la disciplina y de la plaza oficial.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "event_group": "IX Torneo Nacional de Robótica · Robotic Minds"
+    },
+    {
+      "id": "C3154",
+      "block": "Competiciones",
+      "title": "Robotic Minds Quito · VEX 123 · Think Fast",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Centro de Convenciones Metropolitano · Quito",
+      "start": "2027-01-22",
+      "end": "2027-01-23",
+      "deadline": "2026-12-04",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/",
+      "references": [],
+      "age": "Grados 1–2 EGB, 6–7 años.",
+      "mat": "No por ahora. La organización indica 6–7 años y grados 1–2 EGB.",
+      "osc": "Condicional. Edad adecuada, se necesita grado compatible y equipo según reglamento.",
+      "format": "Equipo de 2–4 participantes.",
+      "entry": "Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.",
+      "gear": "Dos VEX 123: uno programado con botones, otro con Coder y tarjetas. Un intento de 4 minutos.",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "USD 220 por equipo, impuestos incluidos. USD 110 para Red Robotic Minds al inscribirse a tiempo.",
+      "level": "Programa nacional",
+      "reward": "Premios del torneo según acta final. Una clasificación posterior depende de la disciplina y de la plaza oficial.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "assigned_day_window",
+      "parent_event_id": "C3153",
+      "event_group": "IX Torneo Nacional de Robótica · Robotic Minds"
+    },
+    {
+      "id": "C3155",
+      "block": "Competiciones",
+      "title": "Robotic Minds Quito · VEX GO · City Technology Rebuild · All Stars",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Centro de Convenciones Metropolitano · Quito",
+      "start": "2027-01-22",
+      "end": "2027-01-23",
+      "deadline": "2026-12-04",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/",
+      "references": [],
+      "age": "Grados 3–4 EGB.",
+      "mat": "Condicional por grado. Confirmar equivalencia EGB y admisión de equipo extranjero.",
+      "osc": "Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.",
+      "format": "Dos robots, un máximo de 2 participantes por robot.",
+      "entry": "Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.",
+      "gear": "Dos robots VEX GO. Cuatro misiones de rescate con control autónomo y cooperativo. Póster de ingeniería hasta el 10 de enero de 2027.",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "USD 220 por equipo, impuestos incluidos. USD 110 para Red Robotic Minds al inscribirse a tiempo.",
+      "level": "Programa nacional",
+      "reward": "Premios del torneo según acta final. Una clasificación posterior depende de la disciplina y de la plaza oficial.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "assigned_day_window",
+      "parent_event_id": "C3153",
+      "event_group": "IX Torneo Nacional de Robótica · Robotic Minds"
+    },
+    {
+      "id": "C3156",
+      "block": "Competiciones",
+      "title": "Robotic Minds Quito · VEX GO · City Technology Rebuild · Super Champs",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Centro de Convenciones Metropolitano · Quito",
+      "start": "2027-01-22",
+      "end": "2027-01-23",
+      "deadline": "2026-12-04",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/",
+      "references": [],
+      "age": "Grados 5–7 EGB.",
+      "mat": "Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.",
+      "osc": "Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.",
+      "format": "Dos robots, un máximo de 2 participantes por robot.",
+      "entry": "Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.",
+      "gear": "Dos robots VEX GO. Cuatro misiones de rescate con control autónomo y cooperativo. Póster de ingeniería hasta el 10 de enero de 2027.",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "USD 220 por equipo, impuestos incluidos. USD 110 para Red Robotic Minds al inscribirse a tiempo.",
+      "level": "Programa nacional",
+      "reward": "Premios del torneo según acta final. Una clasificación posterior depende de la disciplina y de la plaza oficial.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "assigned_day_window",
+      "parent_event_id": "C3153",
+      "event_group": "IX Torneo Nacional de Robótica · Robotic Minds"
+    },
+    {
+      "id": "C3157",
+      "block": "Competiciones",
+      "title": "Robotic Minds Quito · Free Mind Project · STEAM Basic",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Centro de Convenciones Metropolitano · Quito",
+      "start": "2027-01-22",
+      "end": "2027-01-23",
+      "deadline": "2026-12-04",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/",
+      "references": [],
+      "age": "Hasta grado 7 EGB inclusive. El grado mínimo para postular no se indica.",
+      "mat": "Condicional por grado. Confirmar equivalencia EGB y admisión de equipo extranjero.",
+      "osc": "Condicional por grado. Confirmar equivalencia EGB y admisión de equipo extranjero.",
+      "format": "Hasta 4 proyectos por categoría e institución. Confirmar composición del equipo o acceso individual.",
+      "entry": "Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.",
+      "gear": "Videojuego educativo o prototipo STEAM sobre los ODS. Robótica, IA, electrónica o impresión 3D. Proyecto y video hasta el 5 de enero de 2027, finalistas el 8 de enero. La organización limita el aporte de IA al 15%.",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "USD 160 por equipo, impuestos incluidos. USD 80 para Red Robotic Minds al inscribirse a tiempo.",
+      "level": "Programa nacional",
+      "reward": "Premios del torneo según acta final. Una clasificación posterior depende de la disciplina y de la plaza oficial.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa regional",
+      "participation": "project",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "assigned_day_window",
+      "parent_event_id": "C3153",
+      "event_group": "IX Torneo Nacional de Robótica · Robotic Minds"
+    },
+    {
+      "id": "C3158",
+      "block": "Competiciones",
+      "title": "Robotic Minds Quito · Free Mind Project · STEAM Pro",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Centro de Convenciones Metropolitano · Quito",
+      "start": "2027-01-22",
+      "end": "2027-01-23",
+      "deadline": "2026-12-04",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/",
+      "references": [],
+      "age": "Grado 8 EGB a grado 3 BGU.",
+      "mat": "Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.",
+      "osc": "Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.",
+      "format": "Hasta 4 proyectos por categoría e institución. Confirmar composición del equipo o acceso individual.",
+      "entry": "Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.",
+      "gear": "Videojuego educativo o prototipo STEAM sobre los ODS. Robótica, IA, electrónica o impresión 3D. Proyecto y video hasta el 5 de enero de 2027, finalistas el 8 de enero. La organización limita el aporte de IA al 15%.",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "USD 160 por equipo, impuestos incluidos. USD 80 para Red Robotic Minds al inscribirse a tiempo.",
+      "level": "Programa nacional",
+      "reward": "Premios del torneo según acta final. Una clasificación posterior depende de la disciplina y de la plaza oficial.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa regional",
+      "participation": "project",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "assigned_day_window",
+      "parent_event_id": "C3153",
+      "event_group": "IX Torneo Nacional de Robótica · Robotic Minds"
+    },
+    {
+      "id": "C3159",
+      "block": "Competiciones",
+      "title": "Robotic Minds Quito · M4RK · Smart City · Middle",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Centro de Convenciones Metropolitano · Quito",
+      "start": "2027-01-22",
+      "end": "2027-01-23",
+      "deadline": "2026-12-04",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/",
+      "references": [],
+      "age": "Grados 5–7 EGB.",
+      "mat": "Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.",
+      "osc": "Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.",
+      "format": "Hasta 2 participantes, cada uno con su robot.",
+      "entry": "Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.",
+      "gear": "M4RK Robot 2.0. Misiones autónomas en ciudad inteligente y un reto sorpresa revelado en el torneo.",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "USD 220 por equipo, impuestos incluidos. USD 88 para Red Robotic Minds al inscribirse a tiempo.",
+      "level": "Programa nacional",
+      "reward": "Premios del torneo según acta final. Una clasificación posterior depende de la disciplina y de la plaza oficial.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "assigned_day_window",
+      "parent_event_id": "C3153",
+      "event_group": "IX Torneo Nacional de Robótica · Robotic Minds"
+    },
+    {
+      "id": "C3160",
+      "block": "Competiciones",
+      "title": "Robotic Minds Quito · M4RK · Smart City · Superior",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Centro de Convenciones Metropolitano · Quito",
+      "start": "2027-01-22",
+      "end": "2027-01-23",
+      "deadline": "2026-12-04",
+      "period": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-07",
+      "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
+      "status": "Idea",
+      "source": "https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/",
+      "references": [],
+      "age": "Grados 8–10 EGB.",
+      "mat": "Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.",
+      "osc": "Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.",
+      "format": "Hasta 2 participantes, cada uno con su robot.",
+      "entry": "Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.",
+      "gear": "M4RK Robot 2.0. Misiones autónomas en ciudad inteligente y un reto sorpresa revelado en el torneo.",
+      "language": "Confirmar el idioma del grupo o sede concretos.",
+      "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "cost": "USD 220 por equipo, impuestos incluidos. USD 88 para Red Robotic Minds al inscribirse a tiempo.",
+      "level": "Programa nacional",
+      "reward": "Premios del torneo según acta final. Una clasificación posterior depende de la disciplina y de la plaza oficial.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
+      "note": "Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "assigned_day_window",
+      "parent_event_id": "C3153",
+      "event_group": "IX Torneo Nacional de Robótica · Robotic Minds"
+    },
+    {
       "id": "CP047-20270103-20270108",
       "block": "Campamentos",
-      "title": "Camp Mákemáke · 2027-01-03–2027-01-08",
+      "title": "Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08",
       "country": "Chile",
       "region": "América del Sur",
       "city": "Pelarco / Maule",
       "start": "2027-01-03",
       "end": "2027-01-08",
-      "period": "2027: 03–08, 10–15, 17–22, 24–29.01; 31.01–05.02; 07–12, 14–19.02.",
+      "period": "Campamento residencial en inglés para quienes entran a grados 2–8. Los turnos 10–15 y 17–22 de enero están completos. En los demás, confirmar autobús y plaza por separado.",
       "date_status": "Confirmado",
       "deadline": "",
       "age": "Homepage 6–17; Classic 2027 indican entering 2nd–8th básico — la clase escolar tiene prioridad",
@@ -12132,12 +12539,12 @@
       "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
       "gear": "6 días de la naturaleza/tareas de equipo/de los deportes/las granjas/de la creatividad; de la misma screen-free. no promete ninguna intensidad robótica. Noches en tiendas en plataformas; aproximadamente seis niños de una misma edad/de sexo. Classic Grade7–8 automáticamente LIT, No es una compra por separado. fechado page24/7 supervisionratio1:4/residentnurse, English-speakingcounselors, teamgames/leadership. FAQforeigncampers Históricamente , Mexico/US/Canada; exactpassportintake No está confirmado.. Teen/Junior Counselor Grade9–11 formaciones separadas, no a los menores 6–17 age.",
       "language": "Todas las actividades en inglés; traducción si es necesario, consejeros bilingües, todos los niveles EN.",
-      "cost": "2027 · CLP 535 000 en seis días, incluido VAT.",
+      "cost": "2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
       "priority": "P2  viaje después de confirmar el permiso",
       "action": "Concordar con la clase de Oscar, el transporte, las reglas de cancelación, la preparación para las tiendas de campaña y la comunicación.; especificar el bus lugar/stop exacto de La Reinavs Las Condes, la frontera 20 de diciembrerefund y documentos extranjeros; campplaces en línea no presentar como una reserva garantizada.",
-      "source": "https://www.campmakemake.com/",
+      "source": "https://www.campmakemake.com/dates-and-rates",
       "references": [
         {
           "url": "https://www.campmakemake.com/",
@@ -12145,7 +12552,7 @@
         },
         {
           "url": "https://www.campmakemake.com/dates-and-rates",
-          "label": "Dates & rates 2027"
+          "label": "Página oficial del organizador"
         },
         {
           "url": "https://www.campmakemake.com/everything-you-need-to-know",
@@ -12154,10 +12561,14 @@
         {
           "url": "https://www.campmakemake.com/refund-policy",
           "label": "política de financiación específica del 2027."
+        },
+        {
+          "url": "https://es.campmakemake.com/general-6",
+          "label": "Página oficial del organizador"
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "Matvey: La edad es adecuada; para comprobar entering Grade2–8. Oscar: Edad homepage 6+ Es muy bueno., Pero ... Classic requiere Grade2+: sin confirmación de clase/excepciones no se consideran admitidas. Gastos adicionales: el vuelo/camino hasta el lugar de aterrizaje; vivienda familiar no incluida. el pago: Refund2027: hasta 20 Dec2026 - ¡Vale menos ! 21%tax/bank; después de 20 Dec Sólo que seriousillness/injury/familyemergency menos 30%, o sustitución campers. Es decir, 20 Dec No se ha explicado. Operatorcancelbeforestartfullrefund, emergencyearlyend - ¿Por qué no? 0/futurediscount0. reservan el lugar sólo los últimos formularios+payment, página dice, que no hay descuentos habituales; el cuento se publicó por separado 20 000 CLP en la entrega independiente a ambos lados — la excepción debe ser acordada.",
       "iso": [
@@ -12181,18 +12592,22 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "makemake",
-      "camp_programme_id": "CP047"
+      "camp_programme_id": "CP047",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Ambas versiones muestran plazas. La página inglesa indica 16 y la española 26. Ambas indican 10 plazas de autobús."
+      }
     },
     {
       "id": "CP047-20270110-20270115",
       "block": "Campamentos",
-      "title": "Camp Mákemáke · 2027-01-10–2027-01-15",
+      "title": "Camp Mákemáke · Classic Summer Camp · 2027-01-10–2027-01-15",
       "country": "Chile",
       "region": "América del Sur",
       "city": "Pelarco / Maule",
       "start": "2027-01-10",
       "end": "2027-01-15",
-      "period": "2027: 03–08, 10–15, 17–22, 24–29.01; 31.01–05.02; 07–12, 14–19.02.",
+      "period": "Campamento residencial en inglés para quienes entran a grados 2–8. Los turnos 10–15 y 17–22 de enero están completos. En los demás, confirmar autobús y plaza por separado.",
       "date_status": "Confirmado",
       "deadline": "",
       "age": "Homepage 6–17; Classic 2027 indican entering 2nd–8th básico — la clase escolar tiene prioridad",
@@ -12202,12 +12617,12 @@
       "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
       "gear": "6 días de la naturaleza/tareas de equipo/de los deportes/las granjas/de la creatividad; de la misma screen-free. no promete ninguna intensidad robótica. Noches en tiendas en plataformas; aproximadamente seis niños de una misma edad/de sexo. Classic Grade7–8 automáticamente LIT, No es una compra por separado. fechado page24/7 supervisionratio1:4/residentnurse, English-speakingcounselors, teamgames/leadership. FAQforeigncampers Históricamente , Mexico/US/Canada; exactpassportintake No está confirmado.. Teen/Junior Counselor Grade9–11 formaciones separadas, no a los menores 6–17 age.",
       "language": "Todas las actividades en inglés; traducción si es necesario, consejeros bilingües, todos los niveles EN.",
-      "cost": "2027 · CLP 535 000 en seis días, incluido VAT.",
+      "cost": "2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
       "priority": "P2  viaje después de confirmar el permiso",
       "action": "Concordar con la clase de Oscar, el transporte, las reglas de cancelación, la preparación para las tiendas de campaña y la comunicación.; especificar el bus lugar/stop exacto de La Reinavs Las Condes, la frontera 20 de diciembrerefund y documentos extranjeros; campplaces en línea no presentar como una reserva garantizada.",
-      "source": "https://www.campmakemake.com/",
+      "source": "https://www.campmakemake.com/dates-and-rates",
       "references": [
         {
           "url": "https://www.campmakemake.com/",
@@ -12215,7 +12630,7 @@
         },
         {
           "url": "https://www.campmakemake.com/dates-and-rates",
-          "label": "Dates & rates 2027"
+          "label": "Página oficial del organizador"
         },
         {
           "url": "https://www.campmakemake.com/everything-you-need-to-know",
@@ -12224,10 +12639,14 @@
         {
           "url": "https://www.campmakemake.com/refund-policy",
           "label": "política de financiación específica del 2027."
+        },
+        {
+          "url": "https://es.campmakemake.com/general-6",
+          "label": "Página oficial del organizador"
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "Matvey: La edad es adecuada; para comprobar entering Grade2–8. Oscar: Edad homepage 6+ Es muy bueno., Pero ... Classic requiere Grade2+: sin confirmación de clase/excepciones no se consideran admitidas. Gastos adicionales: el vuelo/camino hasta el lugar de aterrizaje; vivienda familiar no incluida. el pago: Refund2027: hasta 20 Dec2026 - ¡Vale menos ! 21%tax/bank; después de 20 Dec Sólo que seriousillness/injury/familyemergency menos 30%, o sustitución campers. Es decir, 20 Dec No se ha explicado. Operatorcancelbeforestartfullrefund, emergencyearlyend - ¿Por qué no? 0/futurediscount0. reservan el lugar sólo los últimos formularios+payment, página dice, que no hay descuentos habituales; el cuento se publicó por separado 20 000 CLP en la entrega independiente a ambos lados — la excepción debe ser acordada.",
       "iso": [
@@ -12251,18 +12670,22 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "makemake",
-      "camp_programme_id": "CP047"
+      "camp_programme_id": "CP047",
+      "availability": {
+        "status": "closed",
+        "label": "Ambas versiones indican turno completo."
+      }
     },
     {
       "id": "CP047-20270117-20270122",
       "block": "Campamentos",
-      "title": "Camp Mákemáke · 2027-01-17–2027-01-22",
+      "title": "Camp Mákemáke · Classic Summer Camp · 2027-01-17–2027-01-22",
       "country": "Chile",
       "region": "América del Sur",
       "city": "Pelarco / Maule",
       "start": "2027-01-17",
       "end": "2027-01-22",
-      "period": "2027: 03–08, 10–15, 17–22, 24–29.01; 31.01–05.02; 07–12, 14–19.02.",
+      "period": "Campamento residencial en inglés para quienes entran a grados 2–8. Los turnos 10–15 y 17–22 de enero están completos. En los demás, confirmar autobús y plaza por separado.",
       "date_status": "Confirmado",
       "deadline": "",
       "age": "Homepage 6–17; Classic 2027 indican entering 2nd–8th básico — la clase escolar tiene prioridad",
@@ -12272,12 +12695,12 @@
       "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
       "gear": "6 días de la naturaleza/tareas de equipo/de los deportes/las granjas/de la creatividad; de la misma screen-free. no promete ninguna intensidad robótica. Noches en tiendas en plataformas; aproximadamente seis niños de una misma edad/de sexo. Classic Grade7–8 automáticamente LIT, No es una compra por separado. fechado page24/7 supervisionratio1:4/residentnurse, English-speakingcounselors, teamgames/leadership. FAQforeigncampers Históricamente , Mexico/US/Canada; exactpassportintake No está confirmado.. Teen/Junior Counselor Grade9–11 formaciones separadas, no a los menores 6–17 age.",
       "language": "Todas las actividades en inglés; traducción si es necesario, consejeros bilingües, todos los niveles EN.",
-      "cost": "2027 · CLP 535 000 en seis días, incluido VAT.",
+      "cost": "2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
       "priority": "P2  viaje después de confirmar el permiso",
       "action": "Concordar con la clase de Oscar, el transporte, las reglas de cancelación, la preparación para las tiendas de campaña y la comunicación.; especificar el bus lugar/stop exacto de La Reinavs Las Condes, la frontera 20 de diciembrerefund y documentos extranjeros; campplaces en línea no presentar como una reserva garantizada.",
-      "source": "https://www.campmakemake.com/",
+      "source": "https://www.campmakemake.com/dates-and-rates",
       "references": [
         {
           "url": "https://www.campmakemake.com/",
@@ -12285,7 +12708,7 @@
         },
         {
           "url": "https://www.campmakemake.com/dates-and-rates",
-          "label": "Dates & rates 2027"
+          "label": "Página oficial del organizador"
         },
         {
           "url": "https://www.campmakemake.com/everything-you-need-to-know",
@@ -12294,10 +12717,14 @@
         {
           "url": "https://www.campmakemake.com/refund-policy",
           "label": "política de financiación específica del 2027."
+        },
+        {
+          "url": "https://es.campmakemake.com/general-6",
+          "label": "Página oficial del organizador"
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "Matvey: La edad es adecuada; para comprobar entering Grade2–8. Oscar: Edad homepage 6+ Es muy bueno., Pero ... Classic requiere Grade2+: sin confirmación de clase/excepciones no se consideran admitidas. Gastos adicionales: el vuelo/camino hasta el lugar de aterrizaje; vivienda familiar no incluida. el pago: Refund2027: hasta 20 Dec2026 - ¡Vale menos ! 21%tax/bank; después de 20 Dec Sólo que seriousillness/injury/familyemergency menos 30%, o sustitución campers. Es decir, 20 Dec No se ha explicado. Operatorcancelbeforestartfullrefund, emergencyearlyend - ¿Por qué no? 0/futurediscount0. reservan el lugar sólo los últimos formularios+payment, página dice, que no hay descuentos habituales; el cuento se publicó por separado 20 000 CLP en la entrega independiente a ambos lados — la excepción debe ser acordada.",
       "iso": [
@@ -12321,18 +12748,22 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "makemake",
-      "camp_programme_id": "CP047"
+      "camp_programme_id": "CP047",
+      "availability": {
+        "status": "closed",
+        "label": "Ambas versiones indican turno completo."
+      }
     },
     {
       "id": "CP047-20270124-20270129",
       "block": "Campamentos",
-      "title": "Camp Mákemáke · 2027-01-24–2027-01-29",
+      "title": "Camp Mákemáke · Classic Summer Camp · 2027-01-24–2027-01-29",
       "country": "Chile",
       "region": "América del Sur",
       "city": "Pelarco / Maule",
       "start": "2027-01-24",
       "end": "2027-01-29",
-      "period": "2027: 03–08, 10–15, 17–22, 24–29.01; 31.01–05.02; 07–12, 14–19.02.",
+      "period": "Campamento residencial en inglés para quienes entran a grados 2–8. Los turnos 10–15 y 17–22 de enero están completos. En los demás, confirmar autobús y plaza por separado.",
       "date_status": "Confirmado",
       "deadline": "",
       "age": "Homepage 6–17; Classic 2027 indican entering 2nd–8th básico — la clase escolar tiene prioridad",
@@ -12342,12 +12773,12 @@
       "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
       "gear": "6 días de la naturaleza/tareas de equipo/de los deportes/las granjas/de la creatividad; de la misma screen-free. no promete ninguna intensidad robótica. Noches en tiendas en plataformas; aproximadamente seis niños de una misma edad/de sexo. Classic Grade7–8 automáticamente LIT, No es una compra por separado. fechado page24/7 supervisionratio1:4/residentnurse, English-speakingcounselors, teamgames/leadership. FAQforeigncampers Históricamente , Mexico/US/Canada; exactpassportintake No está confirmado.. Teen/Junior Counselor Grade9–11 formaciones separadas, no a los menores 6–17 age.",
       "language": "Todas las actividades en inglés; traducción si es necesario, consejeros bilingües, todos los niveles EN.",
-      "cost": "2027 · CLP 535 000 en seis días, incluido VAT.",
+      "cost": "2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
       "priority": "P2  viaje después de confirmar el permiso",
       "action": "Concordar con la clase de Oscar, el transporte, las reglas de cancelación, la preparación para las tiendas de campaña y la comunicación.; especificar el bus lugar/stop exacto de La Reinavs Las Condes, la frontera 20 de diciembrerefund y documentos extranjeros; campplaces en línea no presentar como una reserva garantizada.",
-      "source": "https://www.campmakemake.com/",
+      "source": "https://www.campmakemake.com/dates-and-rates",
       "references": [
         {
           "url": "https://www.campmakemake.com/",
@@ -12355,7 +12786,7 @@
         },
         {
           "url": "https://www.campmakemake.com/dates-and-rates",
-          "label": "Dates & rates 2027"
+          "label": "Página oficial del organizador"
         },
         {
           "url": "https://www.campmakemake.com/everything-you-need-to-know",
@@ -12364,10 +12795,14 @@
         {
           "url": "https://www.campmakemake.com/refund-policy",
           "label": "política de financiación específica del 2027."
+        },
+        {
+          "url": "https://es.campmakemake.com/general-6",
+          "label": "Página oficial del organizador"
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "Matvey: La edad es adecuada; para comprobar entering Grade2–8. Oscar: Edad homepage 6+ Es muy bueno., Pero ... Classic requiere Grade2+: sin confirmación de clase/excepciones no se consideran admitidas. Gastos adicionales: el vuelo/camino hasta el lugar de aterrizaje; vivienda familiar no incluida. el pago: Refund2027: hasta 20 Dec2026 - ¡Vale menos ! 21%tax/bank; después de 20 Dec Sólo que seriousillness/injury/familyemergency menos 30%, o sustitución campers. Es decir, 20 Dec No se ha explicado. Operatorcancelbeforestartfullrefund, emergencyearlyend - ¿Por qué no? 0/futurediscount0. reservan el lugar sólo los últimos formularios+payment, página dice, que no hay descuentos habituales; el cuento se publicó por separado 20 000 CLP en la entrega independiente a ambos lados — la excepción debe ser acordada.",
       "iso": [
@@ -12391,18 +12826,22 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "makemake",
-      "camp_programme_id": "CP047"
+      "camp_programme_id": "CP047",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Ambas páginas indican 4 plazas y 0 en autobús."
+      }
     },
     {
       "id": "CP047-20270131-20270205",
       "block": "Campamentos",
-      "title": "Camp Mákemáke · 2027-01-31–2027-02-05",
+      "title": "Camp Mákemáke · Classic Summer Camp · 2027-01-31–2027-02-05",
       "country": "Chile",
       "region": "América del Sur",
       "city": "Pelarco / Maule",
       "start": "2027-01-31",
       "end": "2027-02-05",
-      "period": "2027: 03–08, 10–15, 17–22, 24–29.01; 31.01–05.02; 07–12, 14–19.02.",
+      "period": "Campamento residencial en inglés para quienes entran a grados 2–8. Los turnos 10–15 y 17–22 de enero están completos. En los demás, confirmar autobús y plaza por separado.",
       "date_status": "Confirmado",
       "deadline": "",
       "age": "Homepage 6–17; Classic 2027 indican entering 2nd–8th básico — la clase escolar tiene prioridad",
@@ -12412,12 +12851,12 @@
       "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
       "gear": "6 días de la naturaleza/tareas de equipo/de los deportes/las granjas/de la creatividad; de la misma screen-free. no promete ninguna intensidad robótica. Noches en tiendas en plataformas; aproximadamente seis niños de una misma edad/de sexo. Classic Grade7–8 automáticamente LIT, No es una compra por separado. fechado page24/7 supervisionratio1:4/residentnurse, English-speakingcounselors, teamgames/leadership. FAQforeigncampers Históricamente , Mexico/US/Canada; exactpassportintake No está confirmado.. Teen/Junior Counselor Grade9–11 formaciones separadas, no a los menores 6–17 age.",
       "language": "Todas las actividades en inglés; traducción si es necesario, consejeros bilingües, todos los niveles EN.",
-      "cost": "2027 · CLP 535 000 en seis días, incluido VAT.",
+      "cost": "2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
       "priority": "P2  viaje después de confirmar el permiso",
       "action": "Concordar con la clase de Oscar, el transporte, las reglas de cancelación, la preparación para las tiendas de campaña y la comunicación.; especificar el bus lugar/stop exacto de La Reinavs Las Condes, la frontera 20 de diciembrerefund y documentos extranjeros; campplaces en línea no presentar como una reserva garantizada.",
-      "source": "https://www.campmakemake.com/",
+      "source": "https://www.campmakemake.com/dates-and-rates",
       "references": [
         {
           "url": "https://www.campmakemake.com/",
@@ -12425,7 +12864,7 @@
         },
         {
           "url": "https://www.campmakemake.com/dates-and-rates",
-          "label": "Dates & rates 2027"
+          "label": "Página oficial del organizador"
         },
         {
           "url": "https://www.campmakemake.com/everything-you-need-to-know",
@@ -12434,10 +12873,14 @@
         {
           "url": "https://www.campmakemake.com/refund-policy",
           "label": "política de financiación específica del 2027."
+        },
+        {
+          "url": "https://es.campmakemake.com/general-6",
+          "label": "Página oficial del organizador"
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "Matvey: La edad es adecuada; para comprobar entering Grade2–8. Oscar: Edad homepage 6+ Es muy bueno., Pero ... Classic requiere Grade2+: sin confirmación de clase/excepciones no se consideran admitidas. Gastos adicionales: el vuelo/camino hasta el lugar de aterrizaje; vivienda familiar no incluida. el pago: Refund2027: hasta 20 Dec2026 - ¡Vale menos ! 21%tax/bank; después de 20 Dec Sólo que seriousillness/injury/familyemergency menos 30%, o sustitución campers. Es decir, 20 Dec No se ha explicado. Operatorcancelbeforestartfullrefund, emergencyearlyend - ¿Por qué no? 0/futurediscount0. reservan el lugar sólo los últimos formularios+payment, página dice, que no hay descuentos habituales; el cuento se publicó por separado 20 000 CLP en la entrega independiente a ambos lados — la excepción debe ser acordada.",
       "iso": [
@@ -12461,18 +12904,22 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "makemake",
-      "camp_programme_id": "CP047"
+      "camp_programme_id": "CP047",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La versión inglesa indica 6 plazas, la española 2 y ambas indican 0 en autobús."
+      }
     },
     {
       "id": "CP047-20270207-20270212",
       "block": "Campamentos",
-      "title": "Camp Mákemáke · 2027-02-07–2027-02-12",
+      "title": "Camp Mákemáke · Classic Summer Camp · 2027-02-07–2027-02-12",
       "country": "Chile",
       "region": "América del Sur",
       "city": "Pelarco / Maule",
       "start": "2027-02-07",
       "end": "2027-02-12",
-      "period": "2027: 03–08, 10–15, 17–22, 24–29.01; 31.01–05.02; 07–12, 14–19.02.",
+      "period": "Campamento residencial en inglés para quienes entran a grados 2–8. Los turnos 10–15 y 17–22 de enero están completos. En los demás, confirmar autobús y plaza por separado.",
       "date_status": "Confirmado",
       "deadline": "",
       "age": "Homepage 6–17; Classic 2027 indican entering 2nd–8th básico — la clase escolar tiene prioridad",
@@ -12482,12 +12929,12 @@
       "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
       "gear": "6 días de la naturaleza/tareas de equipo/de los deportes/las granjas/de la creatividad; de la misma screen-free. no promete ninguna intensidad robótica. Noches en tiendas en plataformas; aproximadamente seis niños de una misma edad/de sexo. Classic Grade7–8 automáticamente LIT, No es una compra por separado. fechado page24/7 supervisionratio1:4/residentnurse, English-speakingcounselors, teamgames/leadership. FAQforeigncampers Históricamente , Mexico/US/Canada; exactpassportintake No está confirmado.. Teen/Junior Counselor Grade9–11 formaciones separadas, no a los menores 6–17 age.",
       "language": "Todas las actividades en inglés; traducción si es necesario, consejeros bilingües, todos los niveles EN.",
-      "cost": "2027 · CLP 535 000 en seis días, incluido VAT.",
+      "cost": "2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
       "priority": "P2  viaje después de confirmar el permiso",
       "action": "Concordar con la clase de Oscar, el transporte, las reglas de cancelación, la preparación para las tiendas de campaña y la comunicación.; especificar el bus lugar/stop exacto de La Reinavs Las Condes, la frontera 20 de diciembrerefund y documentos extranjeros; campplaces en línea no presentar como una reserva garantizada.",
-      "source": "https://www.campmakemake.com/",
+      "source": "https://www.campmakemake.com/dates-and-rates",
       "references": [
         {
           "url": "https://www.campmakemake.com/",
@@ -12495,7 +12942,7 @@
         },
         {
           "url": "https://www.campmakemake.com/dates-and-rates",
-          "label": "Dates & rates 2027"
+          "label": "Página oficial del organizador"
         },
         {
           "url": "https://www.campmakemake.com/everything-you-need-to-know",
@@ -12504,10 +12951,14 @@
         {
           "url": "https://www.campmakemake.com/refund-policy",
           "label": "política de financiación específica del 2027."
+        },
+        {
+          "url": "https://es.campmakemake.com/general-6",
+          "label": "Página oficial del organizador"
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "Matvey: La edad es adecuada; para comprobar entering Grade2–8. Oscar: Edad homepage 6+ Es muy bueno., Pero ... Classic requiere Grade2+: sin confirmación de clase/excepciones no se consideran admitidas. Gastos adicionales: el vuelo/camino hasta el lugar de aterrizaje; vivienda familiar no incluida. el pago: Refund2027: hasta 20 Dec2026 - ¡Vale menos ! 21%tax/bank; después de 20 Dec Sólo que seriousillness/injury/familyemergency menos 30%, o sustitución campers. Es decir, 20 Dec No se ha explicado. Operatorcancelbeforestartfullrefund, emergencyearlyend - ¿Por qué no? 0/futurediscount0. reservan el lugar sólo los últimos formularios+payment, página dice, que no hay descuentos habituales; el cuento se publicó por separado 20 000 CLP en la entrega independiente a ambos lados — la excepción debe ser acordada.",
       "iso": [
@@ -12531,18 +12982,22 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "makemake",
-      "camp_programme_id": "CP047"
+      "camp_programme_id": "CP047",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Ambas páginas muestran 28 plazas y 20 en autobús."
+      }
     },
     {
       "id": "CP047-20270214-20270219",
       "block": "Campamentos",
-      "title": "Camp Mákemáke · 2027-02-14–2027-02-19",
+      "title": "Camp Mákemáke · Classic Summer Camp · 2027-02-14–2027-02-19",
       "country": "Chile",
       "region": "América del Sur",
       "city": "Pelarco / Maule",
       "start": "2027-02-14",
       "end": "2027-02-19",
-      "period": "2027: 03–08, 10–15, 17–22, 24–29.01; 31.01–05.02; 07–12, 14–19.02.",
+      "period": "Campamento residencial en inglés para quienes entran a grados 2–8. Los turnos 10–15 y 17–22 de enero están completos. En los demás, confirmar autobús y plaza por separado.",
       "date_status": "Confirmado",
       "deadline": "",
       "age": "Homepage 6–17; Classic 2027 indican entering 2nd–8th básico — la clase escolar tiene prioridad",
@@ -12552,12 +13007,12 @@
       "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
       "gear": "6 días de la naturaleza/tareas de equipo/de los deportes/las granjas/de la creatividad; de la misma screen-free. no promete ninguna intensidad robótica. Noches en tiendas en plataformas; aproximadamente seis niños de una misma edad/de sexo. Classic Grade7–8 automáticamente LIT, No es una compra por separado. fechado page24/7 supervisionratio1:4/residentnurse, English-speakingcounselors, teamgames/leadership. FAQforeigncampers Históricamente , Mexico/US/Canada; exactpassportintake No está confirmado.. Teen/Junior Counselor Grade9–11 formaciones separadas, no a los menores 6–17 age.",
       "language": "Todas las actividades en inglés; traducción si es necesario, consejeros bilingües, todos los niveles EN.",
-      "cost": "2027 · CLP 535 000 en seis días, incluido VAT.",
+      "cost": "2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
       "priority": "P2  viaje después de confirmar el permiso",
       "action": "Concordar con la clase de Oscar, el transporte, las reglas de cancelación, la preparación para las tiendas de campaña y la comunicación.; especificar el bus lugar/stop exacto de La Reinavs Las Condes, la frontera 20 de diciembrerefund y documentos extranjeros; campplaces en línea no presentar como una reserva garantizada.",
-      "source": "https://www.campmakemake.com/",
+      "source": "https://www.campmakemake.com/dates-and-rates",
       "references": [
         {
           "url": "https://www.campmakemake.com/",
@@ -12565,7 +13020,7 @@
         },
         {
           "url": "https://www.campmakemake.com/dates-and-rates",
-          "label": "Dates & rates 2027"
+          "label": "Página oficial del organizador"
         },
         {
           "url": "https://www.campmakemake.com/everything-you-need-to-know",
@@ -12574,10 +13029,14 @@
         {
           "url": "https://www.campmakemake.com/refund-policy",
           "label": "política de financiación específica del 2027."
+        },
+        {
+          "url": "https://es.campmakemake.com/general-6",
+          "label": "Página oficial del organizador"
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "Matvey: La edad es adecuada; para comprobar entering Grade2–8. Oscar: Edad homepage 6+ Es muy bueno., Pero ... Classic requiere Grade2+: sin confirmación de clase/excepciones no se consideran admitidas. Gastos adicionales: el vuelo/camino hasta el lugar de aterrizaje; vivienda familiar no incluida. el pago: Refund2027: hasta 20 Dec2026 - ¡Vale menos ! 21%tax/bank; después de 20 Dec Sólo que seriousillness/injury/familyemergency menos 30%, o sustitución campers. Es decir, 20 Dec No se ha explicado. Operatorcancelbeforestartfullrefund, emergencyearlyend - ¿Por qué no? 0/futurediscount0. reservan el lugar sólo los últimos formularios+payment, página dice, que no hay descuentos habituales; el cuento se publicó por separado 20 000 CLP en la entrega independiente a ambos lados — la excepción debe ser acordada.",
       "iso": [
@@ -12601,7 +13060,11 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "makemake",
-      "camp_programme_id": "CP047"
+      "camp_programme_id": "CP047",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Ambas páginas muestran 36 plazas, en autobús 32 en la versión inglesa y 33 en la española."
+      }
     },
     {
       "id": "CP097-20270104-20270106",
@@ -21505,6 +21968,978 @@
       "availability": {
         "status": "unconfirmed",
         "label": "Se publican turnos y contacto de solicitud. Confirmar plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP1667-20270105-20270211",
+      "block": "Campamentos",
+      "title": "Summer Camp SIR · Roblox · Roblox · 2027-01-05–2027-02-11",
+      "country": "Perú",
+      "region": "América del Sur",
+      "city": "Colegio San Ignacio de Recalde · Huachipa · Lima",
+      "start": "2027-01-05",
+      "end": "2027-02-11",
+      "period": "Del 5 de enero al 11 de febrero de 2027. Martes, miércoles y jueves de 09:20 a 12:20 según la ficha vigente.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+      "language": "La organización no indica expresamente el idioma de enseñanza del grupo concreto.",
+      "cost": "2027 · PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.sir.edu.pe/landings/summer-camp/",
+      "references": [
+        {
+          "url": "https://www.sir.edu.pe/landings/summer-camp/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "PER"
+      ],
+      "themes": [
+        "general",
+        "games",
+        "sport",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "La organización no indica expresamente el idioma de enseñanza del grupo concreto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sir-peru-summer-2027-6",
+      "camp_programme_id": "CP1667",
+      "sessions": [
+        {
+          "date": "2027-01-05",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T14:20:00Z",
+          "end_utc": "2027-01-05T17:20:00Z"
+        },
+        {
+          "date": "2027-01-06",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-06T14:20:00Z",
+          "end_utc": "2027-01-06T17:20:00Z"
+        },
+        {
+          "date": "2027-01-07",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-07T14:20:00Z",
+          "end_utc": "2027-01-07T17:20:00Z"
+        },
+        {
+          "date": "2027-01-12",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T14:20:00Z",
+          "end_utc": "2027-01-12T17:20:00Z"
+        },
+        {
+          "date": "2027-01-13",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T14:20:00Z",
+          "end_utc": "2027-01-13T17:20:00Z"
+        },
+        {
+          "date": "2027-01-14",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T14:20:00Z",
+          "end_utc": "2027-01-14T17:20:00Z"
+        },
+        {
+          "date": "2027-01-19",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-19T14:20:00Z",
+          "end_utc": "2027-01-19T17:20:00Z"
+        },
+        {
+          "date": "2027-01-20",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-20T14:20:00Z",
+          "end_utc": "2027-01-20T17:20:00Z"
+        },
+        {
+          "date": "2027-01-21",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T14:20:00Z",
+          "end_utc": "2027-01-21T17:20:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T14:20:00Z",
+          "end_utc": "2027-01-26T17:20:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T14:20:00Z",
+          "end_utc": "2027-01-27T17:20:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T14:20:00Z",
+          "end_utc": "2027-01-28T17:20:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T14:20:00Z",
+          "end_utc": "2027-02-02T17:20:00Z"
+        },
+        {
+          "date": "2027-02-03",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-03T14:20:00Z",
+          "end_utc": "2027-02-03T17:20:00Z"
+        },
+        {
+          "date": "2027-02-04",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-04T14:20:00Z",
+          "end_utc": "2027-02-04T17:20:00Z"
+        },
+        {
+          "date": "2027-02-09",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-09T14:20:00Z",
+          "end_utc": "2027-02-09T17:20:00Z"
+        },
+        {
+          "date": "2027-02-10",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-10T14:20:00Z",
+          "end_utc": "2027-02-10T17:20:00Z"
+        },
+        {
+          "date": "2027-02-11",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-11T14:20:00Z",
+          "end_utc": "2027-02-11T17:20:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1668-20270105-20270211",
+      "block": "Campamentos",
+      "title": "Summer Camp SIR · Roblox · Roblox · 2027-01-05–2027-02-11",
+      "country": "Perú",
+      "region": "América del Sur",
+      "city": "Colegio San Ignacio de Recalde · Huachipa · Lima",
+      "start": "2027-01-05",
+      "end": "2027-02-11",
+      "period": "Del 5 de enero al 11 de febrero de 2027. Martes, miércoles y jueves de 09:20 a 12:20 según la ficha vigente.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–8",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+      "language": "La organización no indica expresamente el idioma de enseñanza del grupo concreto.",
+      "cost": "2027 · PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.sir.edu.pe/landings/summer-camp/",
+      "references": [
+        {
+          "url": "https://www.sir.edu.pe/landings/summer-camp/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 7 años al comenzar el taller. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "PER"
+      ],
+      "themes": [
+        "general",
+        "games",
+        "sport",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "La organización no indica expresamente el idioma de enseñanza del grupo concreto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sir-peru-summer-2027-7-8",
+      "camp_programme_id": "CP1668",
+      "sessions": [
+        {
+          "date": "2027-01-05",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T14:20:00Z",
+          "end_utc": "2027-01-05T17:20:00Z"
+        },
+        {
+          "date": "2027-01-06",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-06T14:20:00Z",
+          "end_utc": "2027-01-06T17:20:00Z"
+        },
+        {
+          "date": "2027-01-07",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-07T14:20:00Z",
+          "end_utc": "2027-01-07T17:20:00Z"
+        },
+        {
+          "date": "2027-01-12",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T14:20:00Z",
+          "end_utc": "2027-01-12T17:20:00Z"
+        },
+        {
+          "date": "2027-01-13",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T14:20:00Z",
+          "end_utc": "2027-01-13T17:20:00Z"
+        },
+        {
+          "date": "2027-01-14",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T14:20:00Z",
+          "end_utc": "2027-01-14T17:20:00Z"
+        },
+        {
+          "date": "2027-01-19",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-19T14:20:00Z",
+          "end_utc": "2027-01-19T17:20:00Z"
+        },
+        {
+          "date": "2027-01-20",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-20T14:20:00Z",
+          "end_utc": "2027-01-20T17:20:00Z"
+        },
+        {
+          "date": "2027-01-21",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T14:20:00Z",
+          "end_utc": "2027-01-21T17:20:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T14:20:00Z",
+          "end_utc": "2027-01-26T17:20:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T14:20:00Z",
+          "end_utc": "2027-01-27T17:20:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T14:20:00Z",
+          "end_utc": "2027-01-28T17:20:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T14:20:00Z",
+          "end_utc": "2027-02-02T17:20:00Z"
+        },
+        {
+          "date": "2027-02-03",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-03T14:20:00Z",
+          "end_utc": "2027-02-03T17:20:00Z"
+        },
+        {
+          "date": "2027-02-04",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-04T14:20:00Z",
+          "end_utc": "2027-02-04T17:20:00Z"
+        },
+        {
+          "date": "2027-02-09",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-09T14:20:00Z",
+          "end_utc": "2027-02-09T17:20:00Z"
+        },
+        {
+          "date": "2027-02-10",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-10T14:20:00Z",
+          "end_utc": "2027-02-10T17:20:00Z"
+        },
+        {
+          "date": "2027-02-11",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-11T14:20:00Z",
+          "end_utc": "2027-02-11T17:20:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1669-20270105-20270211",
+      "block": "Campamentos",
+      "title": "Summer Camp SIR · Minecraft · Minecraft · 2027-01-05–2027-02-11",
+      "country": "Perú",
+      "region": "América del Sur",
+      "city": "Colegio San Ignacio de Recalde · Huachipa · Lima",
+      "start": "2027-01-05",
+      "end": "2027-02-11",
+      "period": "Del 5 de enero al 11 de febrero de 2027. Martes, miércoles y jueves de 09:20 a 12:20 según la ficha vigente.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–10",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+      "language": "La organización no indica expresamente el idioma de enseñanza del grupo concreto.",
+      "cost": "2027 · PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.sir.edu.pe/landings/summer-camp/",
+      "references": [
+        {
+          "url": "https://www.sir.edu.pe/landings/summer-camp/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "PER"
+      ],
+      "themes": [
+        "general",
+        "games",
+        "sport",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "La organización no indica expresamente el idioma de enseñanza del grupo concreto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sir-peru-summer-2027-9-10",
+      "camp_programme_id": "CP1669",
+      "sessions": [
+        {
+          "date": "2027-01-05",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T14:20:00Z",
+          "end_utc": "2027-01-05T17:20:00Z"
+        },
+        {
+          "date": "2027-01-06",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-06T14:20:00Z",
+          "end_utc": "2027-01-06T17:20:00Z"
+        },
+        {
+          "date": "2027-01-07",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-07T14:20:00Z",
+          "end_utc": "2027-01-07T17:20:00Z"
+        },
+        {
+          "date": "2027-01-12",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T14:20:00Z",
+          "end_utc": "2027-01-12T17:20:00Z"
+        },
+        {
+          "date": "2027-01-13",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T14:20:00Z",
+          "end_utc": "2027-01-13T17:20:00Z"
+        },
+        {
+          "date": "2027-01-14",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T14:20:00Z",
+          "end_utc": "2027-01-14T17:20:00Z"
+        },
+        {
+          "date": "2027-01-19",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-19T14:20:00Z",
+          "end_utc": "2027-01-19T17:20:00Z"
+        },
+        {
+          "date": "2027-01-20",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-20T14:20:00Z",
+          "end_utc": "2027-01-20T17:20:00Z"
+        },
+        {
+          "date": "2027-01-21",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T14:20:00Z",
+          "end_utc": "2027-01-21T17:20:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T14:20:00Z",
+          "end_utc": "2027-01-26T17:20:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T14:20:00Z",
+          "end_utc": "2027-01-27T17:20:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T14:20:00Z",
+          "end_utc": "2027-01-28T17:20:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T14:20:00Z",
+          "end_utc": "2027-02-02T17:20:00Z"
+        },
+        {
+          "date": "2027-02-03",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-03T14:20:00Z",
+          "end_utc": "2027-02-03T17:20:00Z"
+        },
+        {
+          "date": "2027-02-04",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-04T14:20:00Z",
+          "end_utc": "2027-02-04T17:20:00Z"
+        },
+        {
+          "date": "2027-02-09",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-09T14:20:00Z",
+          "end_utc": "2027-02-09T17:20:00Z"
+        },
+        {
+          "date": "2027-02-10",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-10T14:20:00Z",
+          "end_utc": "2027-02-10T17:20:00Z"
+        },
+        {
+          "date": "2027-02-11",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-11T14:20:00Z",
+          "end_utc": "2027-02-11T17:20:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
+      }
+    },
+    {
+      "id": "CP1670-20270105-20270211",
+      "block": "Campamentos",
+      "title": "Summer Camp SIR · Minecraft · Minecraft · 2027-01-05–2027-02-11",
+      "country": "Perú",
+      "region": "América del Sur",
+      "city": "Colegio San Ignacio de Recalde · Huachipa · Lima",
+      "start": "2027-01-05",
+      "end": "2027-02-11",
+      "period": "Del 5 de enero al 11 de febrero de 2027. Martes, miércoles y jueves de 09:20 a 12:20 según la ficha vigente.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "11–12",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+      "language": "La organización no indica expresamente el idioma de enseñanza del grupo concreto.",
+      "cost": "2027 · PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P4 — edad futura",
+      "action": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "source": "https://www.sir.edu.pe/landings/summer-camp/",
+      "references": [
+        {
+          "url": "https://www.sir.edu.pe/landings/summer-camp/",
+          "label": "Página oficial del organizador"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.",
+      "iso": [
+        "PER"
+      ],
+      "themes": [
+        "general",
+        "games",
+        "sport",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "La organización no indica expresamente el idioma de enseñanza del grupo concreto.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sir-peru-summer-2027-11-12",
+      "camp_programme_id": "CP1670",
+      "sessions": [
+        {
+          "date": "2027-01-05",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T14:20:00Z",
+          "end_utc": "2027-01-05T17:20:00Z"
+        },
+        {
+          "date": "2027-01-06",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-06T14:20:00Z",
+          "end_utc": "2027-01-06T17:20:00Z"
+        },
+        {
+          "date": "2027-01-07",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-07T14:20:00Z",
+          "end_utc": "2027-01-07T17:20:00Z"
+        },
+        {
+          "date": "2027-01-12",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T14:20:00Z",
+          "end_utc": "2027-01-12T17:20:00Z"
+        },
+        {
+          "date": "2027-01-13",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T14:20:00Z",
+          "end_utc": "2027-01-13T17:20:00Z"
+        },
+        {
+          "date": "2027-01-14",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-14T14:20:00Z",
+          "end_utc": "2027-01-14T17:20:00Z"
+        },
+        {
+          "date": "2027-01-19",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-19T14:20:00Z",
+          "end_utc": "2027-01-19T17:20:00Z"
+        },
+        {
+          "date": "2027-01-20",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-20T14:20:00Z",
+          "end_utc": "2027-01-20T17:20:00Z"
+        },
+        {
+          "date": "2027-01-21",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T14:20:00Z",
+          "end_utc": "2027-01-21T17:20:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T14:20:00Z",
+          "end_utc": "2027-01-26T17:20:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T14:20:00Z",
+          "end_utc": "2027-01-27T17:20:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T14:20:00Z",
+          "end_utc": "2027-01-28T17:20:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T14:20:00Z",
+          "end_utc": "2027-02-02T17:20:00Z"
+        },
+        {
+          "date": "2027-02-03",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-03T14:20:00Z",
+          "end_utc": "2027-02-03T17:20:00Z"
+        },
+        {
+          "date": "2027-02-04",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-04T14:20:00Z",
+          "end_utc": "2027-02-04T17:20:00Z"
+        },
+        {
+          "date": "2027-02-09",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-09T14:20:00Z",
+          "end_utc": "2027-02-09T17:20:00Z"
+        },
+        {
+          "date": "2027-02-10",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-10T14:20:00Z",
+          "end_utc": "2027-02-10T17:20:00Z"
+        },
+        {
+          "date": "2027-02-11",
+          "topic": "Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.",
+          "start_time": "09:20",
+          "end_time": "12:20",
+          "timezone": "America/Lima",
+          "ical_timed": true,
+          "start_utc": "2027-02-11T14:20:00Z",
+          "end_utc": "2027-02-11T17:20:00Z"
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Confirmar disponibilidad y admisión."
       }
     },
     {

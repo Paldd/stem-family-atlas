@@ -870,13 +870,13 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 214,
+    "version": 215,
     "status": "implementation_snapshot",
-    "events": 7568,
-    "competitions": 3151,
+    "events": 7593,
+    "competitions": 3165,
     "league_profiles": 265,
-    "camp_dossiers": 1666,
-    "budget_offers": 229,
+    "camp_dossiers": 1671,
+    "budget_offers": 231,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -925,13 +925,13 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 213,
+    "version": 214,
     "status": "implementation_snapshot",
-    "events": 7537,
-    "competitions": 3141,
+    "events": 7568,
+    "competitions": 3151,
     "league_profiles": 265,
-    "camp_dossiers": 1657,
-    "budget_offers": 224,
+    "camp_dossiers": 1666,
+    "budget_offers": 229,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -20805,11 +20805,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 213,
-    "published_version": 213,
-    "latest_source_commit": "4bd8be98024f5b3be38c2254add025fe160165b5",
-    "published_commit": "4bd8be98024f5b3be38c2254add025fe160165b5",
-    "latest_workflow": 42369104020,
+    "latest_source_version": 214,
+    "published_version": 214,
+    "latest_source_commit": "995a1e518e35abc593fff56a4514dddba3f353ae",
+    "published_commit": "995a1e518e35abc593fff56a4514dddba3f353ae",
+    "latest_workflow": 42370418898,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -21923,5 +21923,64 @@
     ],
     "audit": "data/taiwan-canada-audit-v214.json",
     "source_receipts": "data/taiwan-canada-source-receipts-v214.json"
+  },
+  "latin_america_family_v215": {
+    "version": 215,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_competitions": 14,
+    "new_exhibitions": 4,
+    "new_camp_dossiers": 5,
+    "new_camp_calendar_rows": 7,
+    "updated_competitions": [
+      "C083",
+      "C486"
+    ],
+    "updated_dossiers": [
+      "CP047",
+      "CP304"
+    ],
+    "new_budget_offers": 2,
+    "new_events": [
+      "C3153",
+      "C3154",
+      "C3155",
+      "C3156",
+      "C3157",
+      "C3158",
+      "C3159",
+      "C3160",
+      "E327",
+      "E328",
+      "C3161",
+      "C3162",
+      "C3163",
+      "C3164",
+      "E329",
+      "C3165",
+      "C3166",
+      "E330"
+    ],
+    "programme_ids": {
+      "sir-peru-summer-2027-6": "CP1667",
+      "sir-peru-summer-2027-7-8": "CP1668",
+      "sir-peru-summer-2027-9-10": "CP1669",
+      "sir-peru-summer-2027-11-12": "CP1670",
+      "barca-academy-san-jose-jan-2027": "CP1671"
+    },
+    "source_requests": 20,
+    "limits": [
+      "Quito organizer gives 22–23 January and category-specific team rates. The previous VEX IQ listing gives different dates, amount and enrollment deadlines. The IQ record retains its source and reported fields and does not export disputed dates. No foreign entry or qualification assumed.",
+      "Robotic Minds lists the final brochure as a placeholder. Category times, team eligibility and judging language remain open.",
+      "AnimaCon Costa Rica states free access at ages 0–6. Current adult and 7+ amounts remain unknown. Do not infer competitive eligibility from visitor access.",
+      "La Llanada city official brochure confirms both dates, taxes and sibling terms. July and August dates remain unknown.",
+      "SIR organiser current body gives PEN 1680 and 09:20–12:20. Older indexed copy differs. Instruction language not confirmed. Weekday rule used only for published calendar range.",
+      "Mákemáke two sessions full in both editions. Counts diverge for several sessions, including transport. Capacity is a dated snapshot.",
+      "RoboRAVE Guanajuato dates are explicitly tentative. No day exported as confirmed."
+    ],
+    "audit": "data/latin-america-family-audit-v215.json",
+    "source_receipts": "data/latin-america-family-source-receipts-v215.json"
   }
 }

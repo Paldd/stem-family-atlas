@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1666 fichas en 92 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1671 fichas en 92 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -7918,7 +7918,7 @@ Uno de los primeros candidatos técnicos para la prueba del verano sudamericano.
 
 Chile · Pelarco / Maule
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-07
 
 **Edad:** Homepage 6–17; Classic 2027 indica entering 2nd–8th básico — El curso escolar tiene prioridad
 
@@ -7928,9 +7928,9 @@ Chile · Pelarco / Maule
 
 ** Residencia:** Tiendas de campaña, duchas/tuales separadas. Por lo general no hay teléfonos/llamadas de un niño a su hogar; los padres pueden ponerse en contacto con el equipo, con excepciones si es necesario.
 
-**Fechas / situación:** 2027: 03–08, 10–15, 17–22, 24–29.01; 31.01–05.02; 07–12, 14–19.02.
+**Fechas / estado:** Campamento residencial en inglés para quienes entran a grados 2–8. Los turnos 10–15 y 17–22 de enero están completos. En los demás, confirmar autobús y plaza por separado.
 
-**Precio / año:** 2027 · CLP 535 000 Seis días, incluida VAT.
+**Precio / año:** 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta.
 
 **se ha puesto:** 535 000 CLP/6 días inc VAT: camp/foodsnacks, activities/safetyequipment, tents, shirt/photos y round-tripprivatebus de la Santiago En directo included.el operador indica el acompañamiento las veinticuatro horas y ratio1:4. Currentratesbusstop Av.Francisco Bilbao8000 Las Condes; FAQLa Reina más viejo/se desvía. de autobús campplaces, lugar en bus - ¿Qué es ?. Departurefirstday13:00/returnlastday13:00 por rates.
 
@@ -8000,15 +8000,87 @@ La naturaleza y la autonomía anglófonas en América Latina; la categoría esco
 
 - Determine el bus lugar/stop exacto de La Reinavs Las Condes, la frontera 20 de diciembrerefund y documentos extranjeros; campplaces en línea no presentar como una reserva garantizada.
 
+### Classic Summer Camp
+
+**Fechas / estado:** 2027-01-03 — 2027-01-08
+
+**Precio:** CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta.
+
+**Disponibilidad de plazas:** Ambas versiones muestran plazas. La página inglesa indica 16 y la española 26. Ambas indican 10 plazas de autobús.
+
+[fuente](https://www.campmakemake.com/dates-and-rates)
+
+### Classic Summer Camp
+
+**Fechas / estado:** 2027-01-10 — 2027-01-15
+
+**Precio:** CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta.
+
+**Disponibilidad de plazas:** Ambas versiones indican turno completo.
+
+[fuente](https://www.campmakemake.com/dates-and-rates)
+
+### Classic Summer Camp
+
+**Fechas / estado:** 2027-01-17 — 2027-01-22
+
+**Precio:** CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta.
+
+**Disponibilidad de plazas:** Ambas versiones indican turno completo.
+
+[fuente](https://www.campmakemake.com/dates-and-rates)
+
+### Classic Summer Camp
+
+**Fechas / estado:** 2027-01-24 — 2027-01-29
+
+**Precio:** CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta.
+
+**Disponibilidad de plazas:** Ambas páginas indican 4 plazas y 0 en autobús.
+
+[fuente](https://www.campmakemake.com/dates-and-rates)
+
+### Classic Summer Camp
+
+**Fechas / estado:** 2027-01-31 — 2027-02-05
+
+**Precio:** CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta.
+
+**Disponibilidad de plazas:** La versión inglesa indica 6 plazas, la española 2 y ambas indican 0 en autobús.
+
+[fuente](https://www.campmakemake.com/dates-and-rates)
+
+### Classic Summer Camp
+
+**Fechas / estado:** 2027-02-07 — 2027-02-12
+
+**Precio:** CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta.
+
+**Disponibilidad de plazas:** Ambas páginas muestran 28 plazas y 20 en autobús.
+
+[fuente](https://www.campmakemake.com/dates-and-rates)
+
+### Classic Summer Camp
+
+**Fechas / estado:** 2027-02-14 — 2027-02-19
+
+**Precio:** CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta.
+
+**Disponibilidad de plazas:** Ambas páginas muestran 36 plazas, en autobús 32 en la versión inglesa y 33 en la española.
+
+[fuente](https://www.campmakemake.com/dates-and-rates)
+
 ### Fuentes
 
 - [Homepage / edad general](https://www.campmakemake.com/) · 2026-10-04
 
-- [Dates & rates 2027](https://www.campmakemake.com/dates-and-rates) · 2026-10-04
+- [Página oficial del organizador](https://www.campmakemake.com/dates-and-rates) · 2026-11-07
 
 - [English / camp life](https://www.campmakemake.com/everything-you-need-to-know) · 2026-10-04
 
 - [política de financiación específica del 2027.](https://www.campmakemake.com/refund-policy) · 2026-10-05
+
+- [Página oficial del organizador](https://es.campmakemake.com/general-6) · 2026-11-07
 
 ## CP048 · My Robot School · Verano
 
@@ -27032,31 +27104,31 @@ Panamá · El Valle de Antón · Placa Sleepaway
 
 ## CP304 · La Llanada Panamá · Day Camp · Ciudad
 
-Panamá · Club Ecuestre Castilla del Oro - Campamento diurno de la ciudad
+Panamá · Club Ecuestre Castilla del Oro · Ciudad de Panamá
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-07
 
 * Edad:** 4*12
 
-** Idioma: ** Programa Principal 100% en español; EN, ayuda de los líderes, no turno inglés.
+**Idioma:** Todas las actividades y juegos son en español. El personal puede ayudar en inglés.
 
-** Programa:** Deportes, natación, acampada, creatividad, cocina y experimentos; descanso general, curso de ingeniería no declarado, Ciudad:08:30-16:30, puntos de autobús Costa del Este/San Francisco.
+**Programa:** Campamento urbano diurno: natación, juegos, caballos, arte, cocina y experimentos.
 
 ** Vivienda: ** Programa diario; vivienda de la familia, caminos y horas extras.
 
-** Fechas / status: ** En las temporadas de homepage de Jan-Feb y Jul-Aug 2027, pero en la ciudad brochure y fechas detalladas 2026.
+**Fechas / estado:** 18–22 de enero y 15–19 de febrero de 2027. Turnos de julio y agosto pendientes de confirmar.
 
-**Cabe/año:** no se ha instalado Pryce 2027 ciudades; la tarifa El Valle 400 USD no se aplica a la ciudad.
+**Precio / año:** 2027 · USD 290 por menor por semana, ITBMS incluido. Descuento de USD 20 por semana para hermano o excampista. Al asistir dos semanas el mismo menor, descuento de USD 50 sin otros descuentos.
 
-** Incluida:** Almuerzo/almuerzo diario; shirt, foto app, autobús Costa del Este/San Francisco sobre condiciones urbanas.
+**Incluido:** Autobús de ida y vuelta desde Costa del Este o San Francisco, comida, merienda de la tarde, camiseta y fotos. Llevar merienda de la mañana.
 
-** Pagadero: ** Comida matutina, desayuno en casa. Sibling/excamper 20 USD/ned. ○ condición no confirmada por el precio final.
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
-** Paga: ** Abolición urbana/Price 2027; el brochureJul-Aug 2026 no actualiza la temporada.
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
-*Matway: **9*10 es apropiado; aún se necesita un nuevo calendario municipal.
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
 
-**Oscar:** 6–7 Definitiva.; El nuevo calendario de la ciudad aún necesita un poco más de tiempo..
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
 
 **Por qué en la selección:** Español confirmado directamente; Día disponible para los menores, Sólo es una noche. 7+.
 
@@ -27064,11 +27136,69 @@ Panamá · Club Ecuestre Castilla del Oro - Campamento diurno de la ciudad
 
 - dirección exacta, nuevos documentos 2027, un puesto libre, un permiso extranjero, un seguro y una cuenta completa.
 
+### Taller diurno.
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**lugar:** Club Ecuestre Castilla del Oro · Ciudad de Panamá
+
+* Edad:** 4*12
+
+**Precio:** USD 290 por menor por semana, ITBMS incluido. Descuento de USD 20 por semana para hermano o excampista. Al asistir dos semanas el mismo menor, descuento de USD 50 sin otros descuentos.
+
+- 2027-01-18 · 08:30–16:30 · America/Panama · Campamento urbano diurno: natación, juegos, caballos, arte, cocina y experimentos.
+
+- 2027-01-19 · 08:30–16:30 · America/Panama · Campamento urbano diurno: natación, juegos, caballos, arte, cocina y experimentos.
+
+- 2027-01-20 · 08:30–16:30 · America/Panama · Campamento urbano diurno: natación, juegos, caballos, arte, cocina y experimentos.
+
+- 2027-01-21 · 08:30–16:30 · America/Panama · Campamento urbano diurno: natación, juegos, caballos, arte, cocina y experimentos.
+
+- 2027-01-22 · 08:30–16:30 · America/Panama · Campamento urbano diurno: natación, juegos, caballos, arte, cocina y experimentos.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://pty.lallanada.com/wp-content/uploads/2026/10/%F0%9F%92%9ABrochure-Day-Camp-Ciudad-Enero-2027.pdf)
+
+### Taller diurno.
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** Club Ecuestre Castilla del Oro · Ciudad de Panamá
+
+* Edad:** 4*12
+
+**Precio:** USD 290 por menor por semana, ITBMS incluido. Descuento de USD 20 por semana para hermano o excampista. Al asistir dos semanas el mismo menor, descuento de USD 50 sin otros descuentos.
+
+- 2027-02-15 · 08:30–16:30 · America/Panama · Campamento urbano diurno: natación, juegos, caballos, arte, cocina y experimentos.
+
+- 2027-02-16 · 08:30–16:30 · America/Panama · Campamento urbano diurno: natación, juegos, caballos, arte, cocina y experimentos.
+
+- 2027-02-17 · 08:30–16:30 · America/Panama · Campamento urbano diurno: natación, juegos, caballos, arte, cocina y experimentos.
+
+- 2027-02-18 · 08:30–16:30 · America/Panama · Campamento urbano diurno: natación, juegos, caballos, arte, cocina y experimentos.
+
+- 2027-02-19 · 08:30–16:30 · America/Panama · Campamento urbano diurno: natación, juegos, caballos, arte, cocina y experimentos.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://pty.lallanada.com/wp-content/uploads/2026/10/%F0%9F%92%9ABrochure-Day-Camp-Ciudad-Enero-2027.pdf)
+
 ### Fuentes
 
-- [formato y lenguaje concreto](https://pty.lallanada.com/campamento-de-verano/daycamp-ciudad/) · 2026-10-05
+- [Página oficial del organizador](https://pty.lallanada.com/wp-content/uploads/2026/10/%F0%9F%92%9ABrochure-Day-Camp-Ciudad-Enero-2027.pdf) · 2026-11-07
 
-- [2027 las temporadas de todos los formatos](https://pty.lallanada.com/) · 2026-10-05
+- [Página oficial del organizador](https://pty.lallanada.com/campamento-de-verano/daycamp-ciudad/) · 2026-11-07
+
+- [Página oficial del organizador](https://pty.lallanada.com/) · 2026-11-07
 
 ## CP305 · SEK Costa Rica · Space Academy / Vacaciones Activas
 
@@ -128383,6 +128513,440 @@ Canadá · Earl of March Secondary School · 4 The Parkway · Kanata
 ### Fuentes
 
 - [Página oficial del organizador](https://www.scuolarobotics.ca/march-break-camp) · 2026-11-07
+
+## CP1667 · Summer Camp SIR · Roblox
+
+Perú · Colegio San Ignacio de Recalde · Huachipa · Lima
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6
+
+**Idioma:** La organización no indica expresamente el idioma de enseñanza del grupo concreto.
+
+**Programa:** Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Del 5 de enero al 11 de febrero de 2027. Martes, miércoles y jueves de 09:20 a 12:20 según la ficha vigente.
+
+**Precio / año:** 2027 · PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro.
+
+**Incluido:** Traslado de ida y vuelta San Borja–Huachipa, punto de encuentro en calle Géminis 303.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Roblox
+
+**Fechas / estado:** 2027-01-05 — 2027-02-11
+
+**lugar:** Colegio San Ignacio de Recalde · Huachipa · Lima
+
+**edad:** 6
+
+**Precio:** PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro.
+
+- 2027-01-05 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-06 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-07 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-12 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-13 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-14 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-19 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-20 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-21 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-26 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-27 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-28 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-02-02 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-02-03 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-02-04 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-02-09 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-02-10 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-02-11 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://www.sir.edu.pe/landings/summer-camp/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.sir.edu.pe/landings/summer-camp/) · 2026-11-07
+
+## CP1668 · Summer Camp SIR · Roblox
+
+Perú · Colegio San Ignacio de Recalde · Huachipa · Lima
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 7–8
+
+**Idioma:** La organización no indica expresamente el idioma de enseñanza del grupo concreto.
+
+**Programa:** Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Del 5 de enero al 11 de febrero de 2027. Martes, miércoles y jueves de 09:20 a 12:20 según la ficha vigente.
+
+**Precio / año:** 2027 · PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro.
+
+**Incluido:** Traslado de ida y vuelta San Borja–Huachipa, punto de encuentro en calle Géminis 303.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 7 años al comenzar el taller.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Roblox
+
+**Fechas / estado:** 2027-01-05 — 2027-02-11
+
+**lugar:** Colegio San Ignacio de Recalde · Huachipa · Lima
+
+**Edad:** 7–8
+
+**Precio:** PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro.
+
+- 2027-01-05 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-06 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-07 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-12 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-13 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-14 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-19 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-20 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-21 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-26 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-27 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-01-28 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-02-02 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-02-03 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-02-04 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-02-09 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-02-10 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+- 2027-02-11 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Roblox.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** No por edad para el grupo menor.
+
+**Oscar:** Condicional si ya ha cumplido 7 años al comenzar el taller.
+
+[fuente](https://www.sir.edu.pe/landings/summer-camp/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.sir.edu.pe/landings/summer-camp/) · 2026-11-07
+
+## CP1669 · Summer Camp SIR · Minecraft
+
+Perú · Colegio San Ignacio de Recalde · Huachipa · Lima
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 9–10
+
+**Idioma:** La organización no indica expresamente el idioma de enseñanza del grupo concreto.
+
+**Programa:** Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Del 5 de enero al 11 de febrero de 2027. Martes, miércoles y jueves de 09:20 a 12:20 según la ficha vigente.
+
+**Precio / año:** 2027 · PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro.
+
+**Incluido:** Traslado de ida y vuelta San Borja–Huachipa, punto de encuentro en calle Géminis 303.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Minecraft
+
+**Fechas / estado:** 2027-01-05 — 2027-02-11
+
+**lugar:** Colegio San Ignacio de Recalde · Huachipa · Lima
+
+**Edad:** 9–10
+
+**Precio:** PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro.
+
+- 2027-01-05 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-06 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-07 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-12 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-13 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-14 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-19 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-20 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-21 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-26 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-27 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-28 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-02-02 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-02-03 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-02-04 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-02-09 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-02-10 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-02-11 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.sir.edu.pe/landings/summer-camp/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.sir.edu.pe/landings/summer-camp/) · 2026-11-07
+
+## CP1670 · Summer Camp SIR · Minecraft
+
+Perú · Colegio San Ignacio de Recalde · Huachipa · Lima
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 11–12
+
+**Idioma:** La organización no indica expresamente el idioma de enseñanza del grupo concreto.
+
+**Programa:** Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** Del 5 de enero al 11 de febrero de 2027. Martes, miércoles y jueves de 09:20 a 12:20 según la ficha vigente.
+
+**Precio / año:** 2027 · PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro.
+
+**Incluido:** Traslado de ida y vuelta San Borja–Huachipa, punto de encuentro en calle Géminis 303.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Minecraft
+
+**Fechas / estado:** 2027-01-05 — 2027-02-11
+
+**lugar:** Colegio San Ignacio de Recalde · Huachipa · Lima
+
+**Edad:** 11–12
+
+**Precio:** PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro.
+
+- 2027-01-05 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-06 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-07 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-12 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-13 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-14 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-19 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-20 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-21 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-26 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-27 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-01-28 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-02-02 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-02-03 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-02-04 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-02-09 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-02-10 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+- 2027-02-11 · 09:20–12:20 · America/Lima · Programa variado con juegos, creatividad, deporte y cocina. El horario de este grupo de edad incluye Minecraft.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+
+[fuente](https://www.sir.edu.pe/landings/summer-camp/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://www.sir.edu.pe/landings/summer-camp/) · 2026-11-07
+
+## CP1671 · Barça Academy · San José
+
+Costa Rica · Blue Valley School · San José
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6–11
+
+**Idioma:** La organización no indica expresamente el idioma de enseñanza del grupo concreto.
+
+**Programa:** Programa de fútbol con entrenadores de Barça Academy. Actividad general de vacaciones para cualquier nivel.
+
+**Alojamiento:** Programa diurno sin alojamiento.
+
+**Fechas / estado:** 11–15 de enero de 2027. Grupo de 6–11 años de 08:00–10:00. Hay otros horarios para 12–14 y 15–18.
+
+**Precio / año:** 2027 · Precio sin publicar.
+
+**Incluido:** La organización indica 2 uniformes, kit de participante, entrenamientos y diploma.
+
+**Suplementos:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+
+### Taller diurno.
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**lugar:** Blue Valley School · San José
+
+**edad:** 6–11
+
+**Precio:** Precio sin publicar.
+
+- 2027-01-11 · 08:00–10:00 · America/Costa_Rica · Programa de fútbol con entrenadores de Barça Academy. Actividad general de vacaciones para cualquier nivel.
+
+- 2027-01-12 · 08:00–10:00 · America/Costa_Rica · Programa de fútbol con entrenadores de Barça Academy. Actividad general de vacaciones para cualquier nivel.
+
+- 2027-01-13 · 08:00–10:00 · America/Costa_Rica · Programa de fútbol con entrenadores de Barça Academy. Actividad general de vacaciones para cualquier nivel.
+
+- 2027-01-14 · 08:00–10:00 · America/Costa_Rica · Programa de fútbol con entrenadores de Barça Academy. Actividad general de vacaciones para cualquier nivel.
+
+- 2027-01-15 · 08:00–10:00 · America/Costa_Rica · Programa de fútbol con entrenadores de Barça Academy. Actividad general de vacaciones para cualquier nivel.
+
+**Disponibilidad de plazas:** Confirmar disponibilidad y admisión.
+
+**Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+
+[fuente](https://barcaacademycampscostarica.com/camps-costa-rica/)
+
+### Fuentes
+
+- [Página oficial del organizador](https://barcaacademycampscostarica.com/camps-costa-rica/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

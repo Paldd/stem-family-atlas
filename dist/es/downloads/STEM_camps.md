@@ -11478,7 +11478,7 @@ Límites: Matway: La edad es la adecuada. Oscar: La edad es la adecuada. Los pag
 Fuente: https://cloudforestschool.org/camps-cec/
 Comprobado: 2026-10-04
 
-### CP047-20270103-20270108 · Camp Mákemáke · 2027-01-03–2027-01-08
+### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Lugar: Chile · Pelarco / Maule
 Fecha: 2027-01-03 国 2027-01-08
@@ -11488,13 +11488,13 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: residente
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · CLP 535 000 Seis días, incluida VAT.
+Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
-Fuente: https://www.campmakemake.com/
-Comprobado: 2026-10-05
+Fuente: https://www.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-07
 
-### CP047-20270110-20270115 · Camp Mákemáke · 2027-01-10–2027-01-15
+### CP047-20270110-20270115 · Camp Mákemáke · Classic Summer Camp · 2027-01-10–2027-01-15
 
 Lugar: Chile · Pelarco / Maule
 Fecha: 2027-01-10 国 2027-01-15
@@ -11504,13 +11504,13 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: residente
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · CLP 535 000 Seis días, incluida VAT.
+Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
-Fuente: https://www.campmakemake.com/
-Comprobado: 2026-10-05
+Fuente: https://www.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-07
 
-### CP047-20270117-20270122 · Camp Mákemáke · 2027-01-17–2027-01-22
+### CP047-20270117-20270122 · Camp Mákemáke · Classic Summer Camp · 2027-01-17–2027-01-22
 
 Lugar: Chile · Pelarco / Maule
 Fecha: 2027-01-17 国 2027-01-22
@@ -11520,13 +11520,13 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: residente
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · CLP 535 000 Seis días, incluida VAT.
+Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
-Fuente: https://www.campmakemake.com/
-Comprobado: 2026-10-05
+Fuente: https://www.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-07
 
-### CP047-20270124-20270129 · Camp Mákemáke · 2027-01-24–2027-01-29
+### CP047-20270124-20270129 · Camp Mákemáke · Classic Summer Camp · 2027-01-24–2027-01-29
 
 Lugar: Chile · Pelarco / Maule
 Fecha: 2027-01-24 国 2027-01-29
@@ -11536,13 +11536,13 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: residente
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · CLP 535 000 Seis días, incluida VAT.
+Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
-Fuente: https://www.campmakemake.com/
-Comprobado: 2026-10-05
+Fuente: https://www.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-07
 
-### CP047-20270131-20270205 · Camp Mákemáke · 2027-01-31–2027-02-05
+### CP047-20270131-20270205 · Camp Mákemáke · Classic Summer Camp · 2027-01-31–2027-02-05
 
 Lugar: Chile · Pelarco / Maule
 Fecha: 2027-01-31 — 2027-02-05
@@ -11552,13 +11552,13 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: residente
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · CLP 535 000 Seis días, incluida VAT.
+Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
-Fuente: https://www.campmakemake.com/
-Comprobado: 2026-10-05
+Fuente: https://www.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-07
 
-### CP047-20270207-20270212 · Camp Mákemáke · 2027-02-07–2027-02-12
+### CP047-20270207-20270212 · Camp Mákemáke · Classic Summer Camp · 2027-02-07–2027-02-12
 
 Lugar: Chile · Pelarco / Maule
 Fecha: 2027-02-07 国 2027-02-12
@@ -11568,13 +11568,13 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: residente
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · CLP 535 000 Seis días, incluida VAT.
+Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
-Fuente: https://www.campmakemake.com/
-Comprobado: 2026-10-05
+Fuente: https://www.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-07
 
-### CP047-20270214-20270219 · Camp Mákemáke · 2027-02-14–2027-02-19
+### CP047-20270214-20270219 · Camp Mákemáke · Classic Summer Camp · 2027-02-14–2027-02-19
 
 Lugar: Chile · Pelarco / Maule
 Fecha: 2027-02-14 国 2027-02-19
@@ -11584,11 +11584,11 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: residente
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · CLP 535 000 Seis días, incluida VAT.
+Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
-Fuente: https://www.campmakemake.com/
-Comprobado: 2026-10-05
+Fuente: https://www.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-07
 
 ### CP051-20270620-20270703 · Village Camps · Leysin Junior Adventure · Junior Adventure · 7–9 · internado · 2027-06-20–2027-07-03
 
@@ -20965,6 +20965,38 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Limitaciones: Matvey: 9–10 corresponde a ambos límites publicados. Oscar: 6–7 Ajustado; No hay noches.. Gastos adicionales: Desayuno en casa; Los padres traen/Se llevan en el campo. City-bus Del total footer no se puede transportar a El Valle. Sibling/excamper 20 USD especificar. Pago: Asignación de un plazo con tarjeta; contrato aplicable 2027 y la cancelación de la obligación de recibir por separado.
 Fuente: https://pty.lallanada.com/wp-content/uploads/2026/09/%F0%9F%92%9ABrochure-Day-Camp-El-Valle-Enero-2027.pdf
 Comprobado: 2026-10-05
+
+### CP304-20270118-20270122 · La Llanada Panamá · Day Camp · Ciudad · Taller diurno. · 2027-01-18–2027-01-22
+
+lugar: Panamá · Club Ecuestre Castilla del Oro · Ciudad de Panamá
+Fecha: 2027-01-18 国 2027-01-22
+Edad: 4–12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Todas las actividades y juegos son en español. El personal puede ayudar en inglés.
+Marca de idioma: camp_life; soporte: no declarado
+Precio: 2027 · USD 290 por menor por semana, ITBMS incluido. Descuento de USD 20 por semana para hermano o excampista. Al asistir dos semanas el mismo menor, descuento de USD 50 sin otros descuentos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://pty.lallanada.com/wp-content/uploads/2026/10/%F0%9F%92%9ABrochure-Day-Camp-Ciudad-Enero-2027.pdf
+Se ha comprobado: 2026-11-07
+
+### CP304-20270215-20270219 · La Llanada Panamá · Day Camp · Ciudad · Taller diurno. · 2027-02-15–2027-02-19
+
+lugar: Panamá · Club Ecuestre Castilla del Oro · Ciudad de Panamá
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 4–12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Todas las actividades y juegos son en español. El personal puede ayudar en inglés.
+Marca de idioma: camp_life; soporte: no declarado
+Precio: 2027 · USD 290 por menor por semana, ITBMS incluido. Descuento de USD 20 por semana para hermano o excampista. Al asistir dos semanas el mismo menor, descuento de USD 50 sin otros descuentos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://pty.lallanada.com/wp-content/uploads/2026/10/%F0%9F%92%9ABrochure-Day-Camp-Ciudad-Enero-2027.pdf
+Se ha comprobado: 2026-11-07
 
 ### CP315-20270627-20270703 · Aiglon · Classic VEX / internado · A · 1 semana · 2027-06-27 CLAIM2027-07-03
 
@@ -64244,6 +64276,86 @@ Precio: 2027 · CAD 329 en promoción, impuestos incluidos. Cuidado hasta las 17
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Grados 4–7 durante el curso 2026–2027. La línea de admisión en la página March Break dice campamento de verano. Confirmar aplicabilidad. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.scuolarobotics.ca/march-break-camp
+Se ha comprobado: 2026-11-07
+
+### CP1667-20270105-20270211 · Summer Camp SIR · Roblox · Roblox · 2027-01-05–2027-02-11
+
+lugar: Perú · Colegio San Ignacio de Recalde · Huachipa · Lima
+Fecha: 2027-01-05 — 2027-02-11
+edad: 6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: La organización no indica expresamente el idioma de enseñanza del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sir.edu.pe/landings/summer-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1668-20270105-20270211 · Summer Camp SIR · Roblox · Roblox · 2027-01-05–2027-02-11
+
+lugar: Perú · Colegio San Ignacio de Recalde · Huachipa · Lima
+Fecha: 2027-01-05 — 2027-02-11
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: La organización no indica expresamente el idioma de enseñanza del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 7 años al comenzar el taller. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sir.edu.pe/landings/summer-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1669-20270105-20270211 · Summer Camp SIR · Minecraft · Minecraft · 2027-01-05–2027-02-11
+
+lugar: Perú · Colegio San Ignacio de Recalde · Huachipa · Lima
+Fecha: 2027-01-05 — 2027-02-11
+Edad: 9*10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: La organización no indica expresamente el idioma de enseñanza del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sir.edu.pe/landings/summer-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1670-20270105-20270211 · Summer Camp SIR · Minecraft · Minecraft · 2027-01-05–2027-02-11
+
+lugar: Perú · Colegio San Ignacio de Recalde · Huachipa · Lima
+Fecha: 2027-01-05 — 2027-02-11
+Edad: 11*12
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: La organización no indica expresamente el idioma de enseñanza del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sir.edu.pe/landings/summer-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1671-20270111-20270115 · Barça Academy · San José · Taller diurno. · 2027-01-11–2027-01-15
+
+Lugar: Costa Rica Blue Valley School · San José
+Fecha: 2027-01-11 — 2027-01-15
+edad: 6–11
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: La organización no indica expresamente el idioma de enseñanza del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Precio sin publicar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://barcaacademycampscostarica.com/camps-costa-rica/
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

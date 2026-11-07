@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 7568,
-    "competition_cards": 3151,
-    "event_cards": 326,
-    "camp_cards": 4091,
+    "cards": 7593,
+    "competition_cards": 3165,
+    "event_cards": 330,
+    "camp_cards": 4098,
     "league_profiles": 265,
-    "major_exhibition_cards": 238,
+    "major_exhibition_cards": 242,
     "vex_cards": 518,
     "countries_with_records": 158,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 2592,
+      "total": 2605,
       "countries_with_records": 23,
-      "competitions": 1442,
-      "events": 81,
-      "major_exhibitions": 44,
-      "camps": 1069,
+      "competitions": 1448,
+      "events": 85,
+      "major_exhibitions": 48,
+      "camps": 1072,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -48,12 +48,12 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 341,
+      "total": 353,
       "countries_with_records": 10,
-      "competitions": 195,
+      "competitions": 203,
       "events": 14,
       "major_exhibitions": 11,
-      "camps": 132,
+      "camps": 136,
       "status": "Se ha estudiado parcialmente",
       "remaining": "muchos tarjetas de Ecuador y rutas regionales de Chile; Brasil, Perú y otros países requieren etapas, cuotas y calendarios locales."
     },
@@ -1093,7 +1093,7 @@
         "C1158"
       ],
       "cards": 518,
-      "future_dated": 418,
+      "future_dated": 417,
       "linked_card_count": 518,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.vexrobotics.com/official-path",
@@ -9650,6 +9650,50 @@
       "new": false
     },
     {
+      "id": "E327",
+      "name": "AnimaCon Costa Rica 2027 · Gaming Zone",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "start": "2027-01-31",
+      "end": "2027-01-31",
+      "visitor_policy": "family",
+      "source": "https://animaconcr.com/",
+      "new": false
+    },
+    {
+      "id": "E328",
+      "name": "The Draw Card Show · Gaming & TCG",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.yokaicr.com/evento.php?slug=the-draw",
+      "new": false
+    },
+    {
+      "id": "E329",
+      "name": "Animecon Obregón 2026 · Gaming",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-12-20",
+      "end": "2026-12-20",
+      "visitor_policy": "family",
+      "source": "https://www.animecon.mx/",
+      "new": false
+    },
+    {
+      "id": "E330",
+      "name": "Never Ending Evolution 2027 · AI & Technology",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2027-04-21",
+      "end": "2027-04-22",
+      "visitor_policy": "confirm_children",
+      "source": "https://needed.education/nevo2027/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -12067,8 +12111,8 @@
       }
     ],
     "counts": {
-      "records": 4091,
-      "holiday": 3817,
+      "records": 4098,
+      "holiday": 3824,
       "regular": 120,
       "self_paced_materials": 2,
       "boarding": 1026,
@@ -12078,7 +12122,7 @@
       "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 408,
-      "camp_life_language": 226,
+      "camp_life_language": 228,
       "language_unclassified": 137,
       "countries": 98
     },

@@ -349,16 +349,16 @@ Comprobado: 2026-09-30
 
 ### C486 · IX TORNEO NACIONAL DE ROBÓTICA ROBOTIC MINDS - VEX ROBOTICS
 
-Fecha: 2027-01-21 国 2027-01-22
+Fecha: La ficha VEX indicaba 21–22 de enero de 2027, USD 300, pago hasta el 4 de diciembre e inscripción hasta el 11 de diciembre de 2026. La página de la organización indica 22–23 de enero, USD 500 por equipo o USD 250 para la red, inscripción y pago hasta el 4 de diciembre. Las condiciones IQ y los días concretos requieren cotejo.
 Edad: VEX IQ All: Elementary / Middle; Elementary antes 12 hasta 01.06.2027
 Matway: Sí por edad; division y entrada extranjera
 Oscar: Sí por edad; division y entrada extranjera
 Idioma: ES htm candidato; idioma de entrevista / notebook a convenir
-Entrada: VEX Events: Open Tournament, no se especifica la selección en la descripción. Aclarar la solicitud internacional y la division; la palabra Nacional en el título no prueba la prohibición o admisión de extranjeros.
-Costo: USD300 por orden en VEX Events; pago hasta 04.12.2026 por tarjeta, es decir, hasta que termine el registro
-Limitaciones: el registro y el pago varían de un plazo a otro. Devuélvese el plazo de cancelación a 20.12.2026 menos 15%; no hay retorno a 21.12. Organizador: experiencia@roboticminds.com.ec. La publicación no es igual a la participación de la tripulación.
+Acceso: La ficha VEX indicaba 21–22 de enero de 2027, USD 300, pago hasta el 4 de diciembre e inscripción hasta el 11 de diciembre de 2026. La página de la organización indica 22–23 de enero, USD 500 por equipo o USD 250 para la red, inscripción y pago hasta el 4 de diciembre. Las condiciones IQ y los días concretos requieren cotejo.
+Precio: La ficha VEX indicaba 21–22 de enero de 2027, USD 300, pago hasta el 4 de diciembre e inscripción hasta el 11 de diciembre de 2026. La página de la organización indica 22–23 de enero, USD 500 por equipo o USD 250 para la red, inscripción y pago hasta el 4 de diciembre. Las condiciones IQ y los días concretos requieren cotejo.
+Limitaciones: La ficha VEX indicaba 21–22 de enero de 2027, USD 300, pago hasta el 4 de diciembre e inscripción hasta el 11 de diciembre de 2026. La página de la organización indica 22–23 de enero, USD 500 por equipo o USD 250 para la red, inscripción y pago hasta el 4 de diciembre. Las condiciones IQ y los días concretos requieren cotejo.
 Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5321.html
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-07
 
 ### C576 · Torneo Nacional ROBÓTCA EXTREMA ES
 
@@ -2492,7 +2492,111 @@ Limitaciones:
 Fuente: https://bebras.pe/
 Se ha comprobado: 2026-11-07
 
-### CP047-20270103-20270108 · Camp Mákemáke · 2027-01-03–2027-01-08
+### C3153 · IX Torneo Nacional de Robótica · Robotic Minds
+
+Fecha: 2027-01-22 国 2027-01-23
+edad: Cinco formatos desde grado 1 EGB hasta grado 3 BGU en categorías de edad separadas.
+Matvey: Condicional por grado. Confirmar equivalencia EGB y admisión de equipo extranjero.
+Oscar: Condicional. Edad adecuada, se necesita grado compatible y equipo según reglamento.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.
+Precio: La tarifa depende de la categoría. Las tarifas reducidas corresponden a Red Robotic Minds.
+Limitaciones: Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.
+Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
+Se ha comprobado: 2026-11-07
+
+### C3154 · Robotic Minds Quito · VEX 123 · Think Fast
+
+Fecha: 2027-01-22 国 2027-01-23
+edad: Grados 1–2 EGB, 6–7 años.
+Matvey: No por ahora. La organización indica 6–7 años y grados 1–2 EGB.
+Oscar: Condicional. Edad adecuada, se necesita grado compatible y equipo según reglamento.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.
+Precio: USD 220 por equipo, impuestos incluidos. USD 110 para Red Robotic Minds al inscribirse a tiempo.
+Limitaciones: Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.
+Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
+Se ha comprobado: 2026-11-07
+
+### C3155 · Robotic Minds Quito · VEX GO · City Technology Rebuild · All Stars
+
+Fecha: 2027-01-22 国 2027-01-23
+edad: Grados 3–4 EGB.
+Matvey: Condicional por grado. Confirmar equivalencia EGB y admisión de equipo extranjero.
+Oscar: Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.
+Precio: USD 220 por equipo, impuestos incluidos. USD 110 para Red Robotic Minds al inscribirse a tiempo.
+Limitaciones: Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.
+Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
+Se ha comprobado: 2026-11-07
+
+### C3156 · Robotic Minds Quito · VEX GO · City Technology Rebuild · Super Champs
+
+Fecha: 2027-01-22 国 2027-01-23
+edad: Grados 5–7 EGB.
+Matvey: Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.
+Oscar: Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.
+Precio: USD 220 por equipo, impuestos incluidos. USD 110 para Red Robotic Minds al inscribirse a tiempo.
+Limitaciones: Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.
+Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
+Se ha comprobado: 2026-11-07
+
+### C3157 · Robotic Minds Quito · Free Mind Project · STEAM Basic
+
+Fecha: 2027-01-22 国 2027-01-23
+edad: Hasta grado 7 EGB inclusive. El grado mínimo para postular no se indica.
+Matvey: Condicional por grado. Confirmar equivalencia EGB y admisión de equipo extranjero.
+Oscar: Condicional por grado. Confirmar equivalencia EGB y admisión de equipo extranjero.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.
+Precio: USD 160 por equipo, impuestos incluidos. USD 80 para Red Robotic Minds al inscribirse a tiempo.
+Limitaciones: Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.
+Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
+Se ha comprobado: 2026-11-07
+
+### C3158 · Robotic Minds Quito · Free Mind Project · STEAM Pro
+
+Fecha: 2027-01-22 国 2027-01-23
+edad: Grado 8 EGB a grado 3 BGU.
+Matvey: Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.
+Oscar: Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.
+Precio: USD 160 por equipo, impuestos incluidos. USD 80 para Red Robotic Minds al inscribirse a tiempo.
+Limitaciones: Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.
+Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
+Se ha comprobado: 2026-11-07
+
+### C3159 · Robotic Minds Quito · M4RK · Smart City · Middle
+
+Fecha: 2027-01-22 国 2027-01-23
+edad: Grados 5–7 EGB.
+Matvey: Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.
+Oscar: Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.
+Precio: USD 220 por equipo, impuestos incluidos. USD 88 para Red Robotic Minds al inscribirse a tiempo.
+Limitaciones: Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.
+Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
+Se ha comprobado: 2026-11-07
+
+### C3160 · Robotic Minds Quito · M4RK · Smart City · Superior
+
+Fecha: 2027-01-22 国 2027-01-23
+edad: Grados 8–10 EGB.
+Matvey: Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.
+Oscar: Condicional solo si corresponde al grado publicado. Por edad, es más probable que sea una opción futura.
+Idioma: Confirmar el idioma del grupo o sede concretos.
+Acceso: Inscripción y pago hasta el 4 de diciembre de 2026. Confirmar admisión de equipo extranjero, equivalencia del grado y lengua del jurado.
+Precio: USD 220 por equipo, impuestos incluidos. USD 88 para Red Robotic Minds al inscribirse a tiempo.
+Limitaciones: Jornadas generales del torneo 22–23 de enero de 2027, de 08:00–18:30. Confirmar horario de la categoría. El enlace al reglamento completo aún carece de archivo accesible.
+Fuente: https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/
+Se ha comprobado: 2026-11-07
+
+### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08
 Edad: Homepage 6–17; Classic 2027 indica entering 2nd–8th básico — El curso escolar tiene prioridad
@@ -2500,12 +2604,12 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · CLP 535 000 Seis días, incluida VAT.
+Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
-Fuente: https://www.campmakemake.com/
-Comprobado: 2026-10-05
+Fuente: https://www.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-07
 
-### CP047-20270110-20270115 · Camp Mákemáke · 2027-01-10–2027-01-15
+### CP047-20270110-20270115 · Camp Mákemáke · Classic Summer Camp · 2027-01-10–2027-01-15
 
 Fecha: 2027-01-10 国 2027-01-15
 Edad: Homepage 6–17; Classic 2027 indica entering 2nd–8th básico — El curso escolar tiene prioridad
@@ -2513,12 +2617,12 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · CLP 535 000 Seis días, incluida VAT.
+Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
-Fuente: https://www.campmakemake.com/
-Comprobado: 2026-10-05
+Fuente: https://www.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-07
 
-### CP047-20270117-20270122 · Camp Mákemáke · 2027-01-17–2027-01-22
+### CP047-20270117-20270122 · Camp Mákemáke · Classic Summer Camp · 2027-01-17–2027-01-22
 
 Fecha: 2027-01-17 国 2027-01-22
 Edad: Homepage 6–17; Classic 2027 indica entering 2nd–8th básico — El curso escolar tiene prioridad
@@ -2526,12 +2630,12 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · CLP 535 000 Seis días, incluida VAT.
+Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
-Fuente: https://www.campmakemake.com/
-Comprobado: 2026-10-05
+Fuente: https://www.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-07
 
-### CP047-20270124-20270129 · Camp Mákemáke · 2027-01-24–2027-01-29
+### CP047-20270124-20270129 · Camp Mákemáke · Classic Summer Camp · 2027-01-24–2027-01-29
 
 Fecha: 2027-01-24 国 2027-01-29
 Edad: Homepage 6–17; Classic 2027 indica entering 2nd–8th básico — El curso escolar tiene prioridad
@@ -2539,12 +2643,12 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · CLP 535 000 Seis días, incluida VAT.
+Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
-Fuente: https://www.campmakemake.com/
-Comprobado: 2026-10-05
+Fuente: https://www.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-07
 
-### CP047-20270131-20270205 · Camp Mákemáke · 2027-01-31–2027-02-05
+### CP047-20270131-20270205 · Camp Mákemáke · Classic Summer Camp · 2027-01-31–2027-02-05
 
 Fecha: 2027-01-31 — 2027-02-05
 Edad: Homepage 6–17; Classic 2027 indica entering 2nd–8th básico — El curso escolar tiene prioridad
@@ -2552,12 +2656,12 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · CLP 535 000 Seis días, incluida VAT.
+Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
-Fuente: https://www.campmakemake.com/
-Comprobado: 2026-10-05
+Fuente: https://www.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-07
 
-### CP047-20270207-20270212 · Camp Mákemáke · 2027-02-07–2027-02-12
+### CP047-20270207-20270212 · Camp Mákemáke · Classic Summer Camp · 2027-02-07–2027-02-12
 
 Fecha: 2027-02-07 国 2027-02-12
 Edad: Homepage 6–17; Classic 2027 indica entering 2nd–8th básico — El curso escolar tiene prioridad
@@ -2565,12 +2669,12 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · CLP 535 000 Seis días, incluida VAT.
+Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
-Fuente: https://www.campmakemake.com/
-Comprobado: 2026-10-05
+Fuente: https://www.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-07
 
-### CP047-20270214-20270219 · Camp Mákemáke · 2027-02-14–2027-02-19
+### CP047-20270214-20270219 · Camp Mákemáke · Classic Summer Camp · 2027-02-14–2027-02-19
 
 Fecha: 2027-02-14 国 2027-02-19
 Edad: Homepage 6–17; Classic 2027 indica entering 2nd–8th básico — El curso escolar tiene prioridad
@@ -2578,10 +2682,10 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las actividades en inglés; traducción si es necesario, bilingual counselors, todos los niveles EN.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · CLP 535 000 Seis días, incluida VAT.
+Precio: 2027 · CLP 535000 con impuestos. Se anuncia una deducción de CLP 20000 para traslado propio de ida y vuelta. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: La edad es la adecuada; Ver entering Grade2–8. Oscar: Edad homepage 6+ Ajustado, pero Classic Exige Grade2+: sin confirmación de clase/no admitida. Gastos adicionales: Vuelo/carretera hasta el lugar de aterrizaje; Vivienda familiar no incluida. Pago: Refund2027: antes 20 Dec2026 devuelven menos 21%tax/bank; después 20 Dec Sólo seriousillness/injury/familyemergency Menos 30%, o sustitución campers. Exactamente. 20 Dec no se explica. Operatorcancelbeforestartfullrefund, emergencyearlyend después de la primera 0/futurediscount0. La ubicación se reserva sólo después de la fecha+payment, Página dice, No hay descuentos normales.; se publicó por separado 20 000 CLP con entrega independiente a ambos lados — Exclusión que hay que acordar.
-Fuente: https://www.campmakemake.com/
-Comprobado: 2026-10-05
+Fuente: https://www.campmakemake.com/dates-and-rates
+Se ha comprobado: 2026-11-07
 
 ### CP097-20270104-20270106 · Los Pellines · Pioneros · Pioneros · 3 días / 2 noches · 2027-01-04-2027-01-06
 
@@ -3933,6 +4037,58 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · PYG 1200000 por semana completa, 1000000 para el hermano. Tarifa media semana: 850000 / 700000. Día completo: 250000 / 220000. Medio día: 175000 / 150000. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: La edad publicada encaja. Hay que confirmar idioma y plaza. Oscar: El programa requiere 8 años cumplidos al inicio. Considerar el grupo inicial paralelo. Suplementos: Cuidado extendido a solicitud 15:30–17:00, PYG 45000 por hora y menor. Descuento publicado del 10% para inscritos actuales en after school. Confirmar combinación de descuentos, impuestos, comida y alcance exacto de media semana. Pago: Solicitud mediante el contacto del proveedor. Confirmar anticipo, factura final y cancelación.
 Fuente: https://www.mindsoftomorrowparaguay.com/eco-tech-inventores
+Se ha comprobado: 2026-11-07
+
+### CP1667-20270105-20270211 · Summer Camp SIR · Roblox · Roblox · 2027-01-05–2027-02-11
+
+Fecha: 2027-01-05 — 2027-02-11
+edad: 6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: La organización no indica expresamente el idioma de enseñanza del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sir.edu.pe/landings/summer-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1668-20270105-20270211 · Summer Camp SIR · Roblox · Roblox · 2027-01-05–2027-02-11
+
+Fecha: 2027-01-05 — 2027-02-11
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: La organización no indica expresamente el idioma de enseñanza del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 7 años al comenzar el taller. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sir.edu.pe/landings/summer-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1669-20270105-20270211 · Summer Camp SIR · Minecraft · Minecraft · 2027-01-05–2027-02-11
+
+Fecha: 2027-01-05 — 2027-02-11
+Edad: 9*10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Idioma: La organización no indica expresamente el idioma de enseñanza del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sir.edu.pe/landings/summer-camp/
+Se ha comprobado: 2026-11-07
+
+### CP1670-20270105-20270211 · Summer Camp SIR · Minecraft · Minecraft · 2027-01-05–2027-02-11
+
+Fecha: 2027-01-05 — 2027-02-11
+Edad: 11*12
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: La organización no indica expresamente el idioma de enseñanza del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · PEN 1680 por 6 semanas en la página vigente. Se anuncia un 10% de descuento hasta el 11 de diciembre de 2026 según condiciones del centro. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Fuente: https://www.sir.edu.pe/landings/summer-camp/
 Se ha comprobado: 2026-11-07
 
 ### E298 · Brasil Game Show 2027 · public exhibition

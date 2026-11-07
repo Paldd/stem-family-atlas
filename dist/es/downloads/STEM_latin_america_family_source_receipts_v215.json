@@ -1,0 +1,255 @@
+{
+  "captures": [
+    {
+      "key": "cr-animacon",
+      "url": "https://animaconcr.com/",
+      "checked_at": "2026-11-07T11:58:28.035917+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://animaconcr.com/",
+      "content_type": "texto/html; carcasa=utf-8",
+      "file": "cr-animacon.html",
+      "bytes": 16529,
+      "sha256": "057cc52832a29331a1754448e01cf9e6d25a65e601dc9d24c2588c2b402f1ecf"
+    },
+    {
+      "key": "cr-yokai",
+      "url": "https://www.yokaicr.com/",
+      "checked_at": "2026-11-07T11:58:28.037269+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.yokaicr.com/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "cr-yokai.html",
+      "bytes": 28078,
+      "sha256": "64d56207dada0d6e67ef111974227e1850491bd3e0e7f689993d961d20b00f15"
+    },
+    {
+      "key": "mx-nevo",
+      "url": "https://needed.education/nevo2027/",
+      "checked_at": "2026-11-07T11:58:28.039579+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://needed.education/nevo2027/",
+      "content_type": "text/html",
+      "file": "mx-nevo.html",
+      "bytes": 63406,
+      "sha256": "0b0d56b36cfa9a9beba39e2fac354443a5870142c1a28c41928ea8d3329e297d"
+    },
+    {
+      "key": "quito-national",
+      "url": "https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/",
+      "checked_at": "2026-11-07T12:03:27.944393+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "quito-national.html",
+      "bytes": 221099,
+      "sha256": "88f5c1a10bc96fe710bde91d3bf40e7ddacd3e0ad8900e427c6857991b1bf2e8"
+    },
+    {
+      "key": "guanajuato",
+      "url": "https://roboraveinternational.org/eventos/roborave-guanajuato-open-2027",
+      "checked_at": "2026-11-07T12:03:27.945703+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://roboraveinternational.org/eventos/roborave-guanajuato-open-2027",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "guanajuato.html",
+      "bytes": 71245,
+      "sha256": "e46674b85bc0a115eb2b7e0d7918d5d644d6438fa1ec710368da442422335be8"
+    },
+    {
+      "key": "sir-peru",
+      "url": "https://www.sir.edu.pe/landings/summer-camp/",
+      "checked_at": "2026-11-07T12:03:28.179514+00:00",
+      "transport": "curl",
+      "status": 403,
+      "final_url": "https://www.sir.edu.pe/landings/summer-camp/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8"
+    },
+    {
+      "key": "barca-cr",
+      "url": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+      "checked_at": "2026-11-07T12:03:28.697461+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "barca-cr.html",
+      "bytes": 211696,
+      "sha256": "1b101e4cd8d43aa614899859c74620d4bbb786c1e9909a597615bc8d479d168e"
+    },
+    {
+      "key": "camp-makemake",
+      "url": "https://es.campmakemake.com/general-6",
+      "checked_at": "2026-11-07T12:03:29.242649+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://es.campmakemake.com/dates-and-rates",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "camp-makemake.html",
+      "bytes": 920820,
+      "sha256": "4b5f91088c913c927698fefc2e3affe87cbc3784d330387e2a291d9fc85cba0a"
+    },
+    {
+      "key": "pan-la-llanada-alternate",
+      "url": "https://pty.lallanada.com/",
+      "checked_at": "2026-11-07T12:03:29.347423+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://pty.lallanada.com/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "pan-la-llanada-alternate.html",
+      "bytes": 191417,
+      "sha256": "eb9870d7cd336a063d50a041ab77b745b1b9efa6c848bf502c05ac92d5be7608"
+    },
+    {
+      "key": "cr-animacon-schedule",
+      "url": "https://animaconcr.com/schedule",
+      "checked_at": "2026-11-07T12:03:29.802568+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://animaconcr.com/schedule",
+      "content_type": "texto/html; carcasa=utf-8",
+      "file": "cr-animacon-schedule.html",
+      "bytes": 16557,
+      "sha256": "92521d9db1a51474592fb55ed8f56fde5756d75799684ba2b57ec4826f5607e0"
+    },
+    {
+      "key": "llanada-city",
+      "url": "https://pty.lallanada.com/campamento-de-verano/daycamp-ciudad/",
+      "checked_at": "2026-11-07T12:04:45.961040+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://pty.lallanada.com/campamento-de-verano/daycamp-ciudad/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "llanada-city.html",
+      "bytes": 267167,
+      "sha256": "1493dbdc7ceec990be8e984c2fd445e5f127930389473664043a05fed66f4537"
+    },
+    {
+      "key": "mx-animecon-faq",
+      "url": "https://www.animecon.mx/pages/enterate_faq.php",
+      "checked_at": "2026-11-07T12:04:45.963113+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.animecon.mx/pages/enterate_faq.php",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "mx-animecon-faq.html",
+      "bytes": 53751,
+      "sha256": "d8bb211c444c39c8dfc563379c8a2ce3be6293ee5e216a4f85a15f30dafa60d9"
+    },
+    {
+      "key": "mx-animecon-home",
+      "url": "https://www.animecon.mx/",
+      "checked_at": "2026-11-07T12:04:45.965809+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.animecon.mx/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "mx-animecon-home.html",
+      "bytes": 60804,
+      "sha256": "c1d73bee3443a997cb76fd5efcf334a94629874dee21b728b4357e631ebe0eeb"
+    },
+    {
+      "key": "cr-anima-activities",
+      "url": "https://animaconcr.com/activities",
+      "checked_at": "2026-11-07T12:04:45.967428+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://animaconcr.com/activities",
+      "content_type": "texto/html; carcasa=utf-8",
+      "file": "cr-anima-activities.html",
+      "bytes": 16583,
+      "sha256": "26aab80b67a94d58f3aa0ca89e420a8a1c1b34b1941490160022fac5901d602b"
+    },
+    {
+      "key": "cr-anima-stores",
+      "url": "https://animaconcr.com/Stores",
+      "checked_at": "2026-11-07T12:04:45.969230+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://animaconcr.com/Stores",
+      "content_type": "texto/html; carcasa=utf-8",
+      "file": "cr-anima-stores.html",
+      "bytes": 16339,
+      "sha256": "e3bb54eb3e7f8894e4e9d8d940af9a7edeab39d0415e01af30af7caa3d1a63b3"
+    },
+    {
+      "key": "llanada-city-pdf",
+      "url": "https://pty.lallanada.com/wp-content/uploads/2026/10/%F0%9F%92%9ABrochure-Day-Camp-Ciudad-Enero-2027.pdf",
+      "checked_at": "2026-11-07T12:05:34.786239+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://pty.lallanada.com/wp-content/uploads/2026/10/%F0%9F%92%9ABrochure-Day-Camp-Ciudad-Enero-2027.pdf",
+      "content_type": "application/pdf",
+      "file": "llanada-city-pdf.pdf",
+      "bytes": 50974026,
+      "sha256": "2dacda731de8a2a9c3f91ebbad6680b663a8ff0ef32b8f29ff10bf4435586dcd"
+    },
+    {
+      "key": "yokai-draw",
+      "url": "https://www.yokaicr.com/evento.php?slug=the-draw",
+      "checked_at": "2026-11-07T12:05:34.787931+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.yokaicr.com/evento.php?slug=the-draw",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "yokai-draw.html",
+      "bytes": 36185,
+      "sha256": "41bf26ad303839fba377d1c31ab4a6a2b418c99ef90eb0d7eac3b603373ae763"
+    },
+    {
+      "key": "yokai-art",
+      "url": "https://www.yokaicr.com/evento.php?slug=taller-eeveelucionarte",
+      "checked_at": "2026-11-07T12:05:34.788231+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.yokaicr.com/evento.php?slug=taller-eeveelucionarte",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "yokai-art.html",
+      "bytes": 17733,
+      "sha256": "db64fe357a497a3711d110ecfc697a312ec689b4a7627018bf1a335162dd3e4b"
+    },
+    {
+      "key": "makemake-english",
+      "url": "https://www.campmakemake.com/dates-and-rates",
+      "checked_at": "2026-11-07T12:05:34.796569+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://www.campmakemake.com/dates-and-rates",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "makemake-english.html",
+      "bytes": 925633,
+      "sha256": "abce90012cbdbe5bdbdd9a2dbb2ed81a1a6dc8601c0877681ef214787f55700e"
+    },
+    {
+      "key": "mx-animecon-videojuegos_snk",
+      "url": "https://animecon.mx/pages/participa_videojuegos_snk.php",
+      "checked_at": "2026-11-07T12:05:35.000248+00:00",
+      "transport": "curl",
+      "status": 200,
+      "final_url": "https://animecon.mx/pages/participa_videojuegos_snk.php",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "file": "mx-animecon-videojuegos_snk.html",
+      "bytes": 53406,
+      "sha256": "ec12016704dc9c02eff226a704779df59b7ff4782fbb0704f98f5a684af3312b"
+    }
+  ],
+  "public_web_observations": [
+    {
+      "url": "https://www.sir.edu.pe/landings/summer-camp/",
+      "checked": "2026-11-07",
+      "transport": "public webpage rendered by web search",
+      "observed": "Live detail gives six weeks, Jan 5 to Feb 11, Tuesday to Thursday 09:20–12:20, PEN 1680 and 10% early rate through Dec 11. Organizer's indexed text dates the edition to 2027 and shows older PEN 1600 and hours. Age 6 Roblox; 7–8 Roblox; 9–10 Minecraft; 11–12 Minecraft. Return transport San Borja–Huachipa included. Instruction language unstated."
+    },
+    {
+      "url": "https://animaconcr.com/",
+      "checked": "2026-11-07",
+      "transport": "public webpage rendered by web search",
+      "observed": "January 31, 2027, Costa Rica Convention Centre, 10:00–19:00; Gaming Zone 10:00–18:00. Free ages 0–6 inclusive, 65+, certified disability. Exhibitors Sunna Studios, Colorblind Pixel Studios, Fairplay Labs Studios, Hongoneon Studios, Tobeni Studios. No current published general admission amount found."
+    }
+  ]
+}
