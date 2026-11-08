@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 258,
+    "version": 259,
     "status": "implementation_snapshot",
-    "events": 9948,
-    "competitions": 4518,
+    "events": 9964,
+    "competitions": 4523,
     "league_profiles": 298,
-    "camp_dossiers": 1915,
+    "camp_dossiers": 1917,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 505
+    "exhibitions_events": 512
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -927,11 +927,11 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 257,
+    "version": 258,
     "status": "implementation_snapshot",
-    "events": 9914,
-    "competitions": 4484,
-    "league_profiles": 293,
+    "events": 9948,
+    "competitions": 4518,
+    "league_profiles": 298,
     "camp_dossiers": 1915,
     "budget_offers": 312,
     "editorial_reviewed": 71,
@@ -13759,10 +13759,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 258,
+    "prepared_ui_version": 259,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 257,
-    "previous_verified_commit": "32203810a6a1115c56a5899f8f17074fbd4e3556"
+    "previous_verified_ui_version": 258,
+    "previous_verified_commit": "08394dc627e50926bfd987c4555ffaff99989d29"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20809,11 +20809,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 257,
-    "published_version": 257,
-    "latest_source_commit": "32203810a6a1115c56a5899f8f17074fbd4e3556",
-    "published_commit": "32203810a6a1115c56a5899f8f17074fbd4e3556",
-    "latest_workflow": 42447800358,
+    "latest_source_version": 258,
+    "published_version": 258,
+    "latest_source_commit": "08394dc627e50926bfd987c4555ffaff99989d29",
+    "published_commit": "08394dc627e50926bfd987c4555ffaff99989d29",
+    "latest_workflow": 42449154451,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -25930,5 +25930,115 @@
     ],
     "audit": "data/online-scratch-and-coding-leagues-audit-v258.json",
     "source_receipts": "data/online-scratch-and-coding-leagues-source-receipts-v258.json"
+  },
+  "nearby_family_holidays_and_digital_media_v259": {
+    "version": 259,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4520",
+      "C4521",
+      "E506",
+      "E507",
+      "E508",
+      "C4522",
+      "C4523",
+      "C4524",
+      "E509",
+      "E510",
+      "E511",
+      "E512",
+      "L747",
+      "L748",
+      "L749",
+      "L750"
+    ],
+    "new_camp_dossiers": {
+      "young-engineers-conkal-summer": "CP1916",
+      "binario-robotic-merida-intensivos": "CP1917"
+    },
+    "refreshed_event_ids": [
+      "E267",
+      "C2959",
+      "C004",
+      "C005",
+      "C1127",
+      "C1128",
+      "C1129",
+      "C1130",
+      "L141",
+      "L116"
+    ],
+    "refreshed_camp_dossiers": [
+      "CP1124",
+      "CP1125",
+      "CP1126",
+      "CP1127",
+      "CP1128",
+      "CP096",
+      "CP043"
+    ],
+    "source_requests": 36,
+    "ucr_public": "E267",
+    "ucr_final": "C2959",
+    "ucr_public_time": "2026-11-12 08:30–12:00 America/Costa_Rica",
+    "fod_same_venue_mornings": [
+      {
+        "oscar": "CP1124",
+        "matvey": "CP1127",
+        "start": "2026-12-07",
+        "end": "2026-12-11"
+      },
+      {
+        "oscar": "CP1124",
+        "matvey": "CP1127",
+        "start": "2027-01-11",
+        "end": "2027-01-15"
+      },
+      {
+        "oscar": "CP1125",
+        "matvey": "CP1128",
+        "start": "2027-01-18",
+        "end": "2027-01-22"
+      }
+    ],
+    "fod_same_hours": "08:00–12:00 America/Costa_Rica",
+    "fod_course_crc": 60000,
+    "fod_two_children_crc": 120000,
+    "fod_two_places_confirmed": false,
+    "fll_mx_divisions": [
+      "C1127",
+      "C1128",
+      "C1129",
+      "C1130"
+    ],
+    "fll_mx_fixed_tournament_days_published": false,
+    "churumbela_both_deadlines_passed": true,
+    "churumbela_international_age_conflict": true,
+    "liota_schedule_conflict": true,
+    "xmedia_school_restrictions": [
+      "C4522",
+      "C4523",
+      "C4524"
+    ],
+    "universum_workshop_ids": [
+      "E509",
+      "E510",
+      "E511",
+      "E512"
+    ],
+    "notes": [
+      "Утром открыт показ школьных проектов. После 12:00 мастерские по ИИ и робототехнике предназначены для участников и преподавателей. Парковка факультета зарезервирована с 9 по 13 ноября.",
+      "FOD публикует 100% предоплату. Запуск зависит от минимального набора. При неявке или уходе возврат не предусмотрен. Участник не может переносить даты.",
+      "Формальная команда через наставника или учреждение. Допустимы независимые команды и родитель-наставник. Для команды из Коста-Рики уточнить территориальный допуск и назначение этапа.",
+      "Правила фестиваля указывают 6–17 лет. Публикация IMCINE указывает 8–17. Возраст младшей категории перепроверять в следующем выпуске.",
+      "Актуальный PDF указывает максимум 6 команд. Поисковая копия страницы показывала 10. Как действующее правило использован PDF.",
+      "Страница мастерских показывает лето 2026. Даты зимы 2026–2027 и лета 2027 пока не опубликованы.",
+      "Летняя программа указана среди услуг. Год, даты, часы и набор не объявлены."
+    ],
+    "audit": "data/nearby-family-holidays-and-digital-media-audit-v259.json",
+    "source_receipts": "data/nearby-family-holidays-and-digital-media-source-receipts-v259.json"
   }
 }

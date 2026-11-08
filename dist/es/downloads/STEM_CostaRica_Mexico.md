@@ -129,8 +129,8 @@ Edad: Explore 6–10; Challenge 9–16, Normas locales
 Matway: Sí, por edad
 Oscar: Explore
 Idioma: La lengua de la defensa/la judicatura en un emplazamiento mexicano determinado debe ser confirmada por separado.
-Entrada: A través de un socio local; equipos independientes en México permitidos; seleccionar el país de la misión
-Costo: No publicado / Comprobar la edición actual
+Acceso: Equipo formal mediante mentor o institución. Se admiten equipos independientes y progenitores como mentores. Para un equipo de Costa Rica, confirmar acceso territorial y asignación de fase.
+Precio: Cuota anual por categoría. El equipo de LEGO Education, el transporte y el alojamiento se pagan aparte. No se indica el importe público de la cuota.
 Limitaciones: BIOGLOW 2026–27 — Última temporada FIRST LEGO League para el anuncio mundial de una declaración mundial. Temporada 2027–28 No puedes construir con un nombre y reglas viejos.. 2026/27 BIOGLOW: Invierno Diciembre 2026–Febrero 2027; Febrero–Abril 2027 para las redes estatales; verano 2027. El organizador designa un área de estado, Categoría y fecha de inscripción. Son ciclos., No son los días exactos del torneo.. Solicitud sólo por orden formal coach / de la institución; Equipo independiente y padre-Mentor permitido en el programa, pero en particular en el extranjero / Autorización nacional para confirmar.
 Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
 Se ha comprobado: 2026-11-04
@@ -142,8 +142,8 @@ Edad: Mundial 5–7 y 8–16; México Publica 6–9 y 9–16
 Matway: Sí, por edad
 Oscar: Sí por edad
 Idioma: Confirmar el idioma de la defensa/juzgar en un lugar determinado.
-Entrada: Comprobar la solicitud actual y la admisión extranjera del organizador
-Costo: No publicado / Comprobar la edición actual
+Acceso: Equipo formal mediante mentor o institución. Se admiten equipos independientes y progenitores como mentores. Para un equipo de Costa Rica, confirmar acceso territorial y asignación de fase.
+Precio: Cuota anual por categoría. El equipo de LEGO Education, el transporte y el alojamiento se pagan aparte. No se indica el importe público de la cuota.
 Limitaciones: Future y Founders — Conjuntos y formatos diferentes; no comprar un nuevo juego antes de confirmar el torneo seleccionado. 2026/27 BIOGLOW: Invierno Diciembre 2026–Febrero 2027; Febrero–Abril 2027 para las redes estatales; verano 2027. El organizador designa un área de estado, Categoría y fecha de inscripción. Son ciclos., No son los días del torneo.. Solicitud sólo por orden formal coach / de la institución; Equipo independiente y padre-Mentor permitido en el programa, pero en particular en el extranjero / Autorización nacional para confirmar. Future 2026/27 directamente en National; 6–9 formato por el momento por confirmar. Las tareas de capacitación individuales no implican la inscripción individual en un concurso.
 Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
 Se ha comprobado: 2026-11-04
@@ -835,7 +835,7 @@ Entrada: Solicitar semana de hecho, grupos separados para 6 y 9, idioma, costo y
 Costo: No se ha publicado la tarifa actual en la página de lectura
 Limitaciones: Regular Preschool 4–6 / Beginner 7–8 / Basic 9–11 no se han transferido automáticamente a la edad del campamento. Competition route sólo para escolarizado Cursos: Compra holiday camp no promete participar o una medalla.
 Fuente: https://www.ciberbots.com.mx/services
-Comprobado: 2026-10-02
+Se ha comprobado: 2026-11-07
 
 ### L117 · Ciberbots Toluca — Easter / Pascua 2027
 
@@ -1027,10 +1027,10 @@ Matway: Confidencialidad de la admisión de un niño de 9 años
 Oscar: Confidencialidad ________________ Confirmar la admisión de un niño de 6 años
 Idioma: EN / ES candidato; el idioma de Winter Camp no está confirmado
 Entrada: Comprobar el organizador de LIOTA, el campo Winter Camp, 6 / 9, idioma, fechas efectivas y condiciones de devolución antes de que se pague.
-Precio: Proveedor publica MX$3 200 early bird antes 30.11.2026 y MX$4 000 regular; Composición del período / La tarifa debe ser precisa.
+Precio: MXN 3200 por el paquete anunciado hasta el 30.11.2026, luego MXN 4000. Confirmar días, alcance y devoluciones.
 Limitaciones: En la descripción del 17 de diciembre ○ 4 de enero se indican simultáneamente 4 weeks; sin especificarlo, no puede considerarse que haya sido una cuarta semana de estudio. La red general 09:00-13:00, la información sobre bilingüe y otros programas no demuestran la programación/la lengua de turno de invierno. No se ha encontrado la edad de admisión; el FTI Bowl no está incluido como STEM. El período no se descarga en el ICS.
 Fuente: https://liotacamps.com/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-07
 
 ### C789 · FTC México · Regional CDMX · Tec de Monterrey · BIOBUZZ 2026–2027
 
@@ -1273,8 +1273,8 @@ Edad: de 6 a 10 años por FAQ local; fecha de referencia / clase y límite super
 Matway: La edad es adecuada; el nivel y la cuota nacional deben confirmarse.
 Oscar: La edad es adecuada; el equipo y los lugares no están confirmados.
 Idioma: El idioma de la sesión/protección no está confirmado; el sitio en la Web no es una prueba
-Entrada: Seleccione la edición y el team formal; solicite a la Fundación RobotiX el ciclo, el área, las condiciones y el espacio que se le ha asignado.
-Costo: La contribución anual de mando depende de la redacción/categoría; no hay cantidad pública. Hardware, carretera y vivienda.
+Acceso: Equipo formal mediante mentor o institución. Se admiten equipos independientes y progenitores como mentores. Para un equipo de Costa Rica, confirmar acceso territorial y asignación de fase.
+Precio: Cuota anual por categoría. El equipo de LEGO Education, el transporte y el alojamiento se pagan aparte. No se indica el importe público de la cuota.
 Limitaciones: 2026/27 BIOGLOW: Invierno Diciembre 2026–Febrero 2027; Febrero–Abril 2027 para las redes estatales; verano 2027. El organizador designa un área de estado, Categoría y fecha de inscripción. Son ciclos., No son los días del torneo.. Solicitud sólo por orden formal coach / de la institución; Equipo independiente y padre-Mentor permitido en el programa, pero en particular en el extranjero / Autorización nacional para confirmar. Feria de demostración: Medalla de participante y diploma de equipo; Las órdenes seleccionadas pueden seguir adelante. La medalla general no significa que sea el primer puesto competitivo. SPIKE / EV3 Founders y nuevo AI-Equipo Future no intercambiables. Transición mundial después de la crisis 2026/27 y los nuevos cupos nacionales se examinan por separado.
 Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
 Se ha comprobado: 2026-11-04
@@ -1286,8 +1286,8 @@ Edad: 9–16 Años de edad local FAQ; fecha de referencia / Clase y límite supe
 Matway: La edad es adecuada, el equipo, la capacitación y la cuota.
 Oscar: No: por debajo de la edad mínima de 9.
 Idioma: El idioma de la sesión/protección no está confirmado; el sitio en la Web no es una prueba
-Entrada: Seleccione la edición y el team formal; solicite a la Fundación RobotiX el ciclo, el área, las condiciones y el espacio que se le ha asignado.
-Costo: La contribución anual de mando depende de la redacción/categoría; no hay cantidad pública. Hardware, carretera y vivienda.
+Acceso: Equipo formal mediante mentor o institución. Se admiten equipos independientes y progenitores como mentores. Para un equipo de Costa Rica, confirmar acceso territorial y asignación de fase.
+Precio: Cuota anual por categoría. El equipo de LEGO Education, el transporte y el alojamiento se pagan aparte. No se indica el importe público de la cuota.
 Limitaciones: 2026/27 BIOGLOW: Invierno Diciembre 2026–Febrero 2027; Febrero–Abril 2027 para las redes estatales; verano 2027. El organizador designa un área de estado, Categoría y fecha de inscripción. Son ciclos., No son los días del torneo.. Solicitud sólo por orden formal coach / de la institución; Equipo independiente y padre-Mentor permitido en el programa, pero en particular en el extranjero / Autorización nacional para confirmar. Premios Robot Game / Robot Design / Innovation / Core Values y campeón general; Selección del ciclo de asignación. SPIKE / EV3 Founders y nuevo AI-Equipo Future no intercambiables. Transición mundial después de la crisis 2026/27 y los nuevos cupos nacionales se examinan por separado.
 Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
 Se ha comprobado: 2026-11-04
@@ -1299,8 +1299,8 @@ Edad: 6–9 Años de edad local FAQ; fecha de referencia / Clase y límite super
 Matvey: Condicional: Ahora. 9; Clase y amputación por día 2027 confirmar.
 Oscar: La edad es adecuada; Primaria bajá, equipo y evento confirmar.
 Idioma: El idioma de la sesión/protección no está confirmado; el sitio en la Web no es una prueba
-Entrada: Seleccione la edición y el team formal; solicite a la Fundación RobotiX el ciclo, el área, las condiciones y el espacio que se le ha asignado.
-Costo: La contribución anual de mando depende de la redacción/categoría; no hay cantidad pública. Hardware, carretera y vivienda.
+Acceso: Equipo formal mediante mentor o institución. Se admiten equipos independientes y progenitores como mentores. Para un equipo de Costa Rica, confirmar acceso territorial y asignación de fase.
+Precio: Cuota anual por categoría. El equipo de LEGO Education, el transporte y el alojamiento se pagan aparte. No se indica el importe público de la cuota.
 Limitaciones: 2026/27 BIOGLOW: invierno diciembre 2026 a febrero 2027; primavera de febrero a abril 2027 para las redes estatales; verano de junio 2027. El organizador designa un área de estado, categoría y fecha de inscripción: ciclos, no días de torneo. La solicitud sólo es un equipo formal a través de coach/institución; el equipo independiente y el tutor parental son admisibles en el programa, pero el permiso nacional/escuelas extranjeras son confirmados. En 2026/27 es un evento nacional directo, sin promesa de selección mundial. El formato del evento más reciente es por confirmar. SPIKE / EV3 Founders y el nuevo equipo de I-Future no son intercambiables. La transición global después de 2026/27 y los nuevos contingentes nacionales se verifican por separado.
 Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
 Se ha comprobado: 2026-11-04
@@ -1312,8 +1312,8 @@ Edad: 9–16 Años de edad local FAQ; fecha de referencia / Clase y límite supe
 Matway: La edad es adecuada; clase, roles y lugar en el equipo de confirmación.
 Oscar: No: por debajo de la edad mínima de 9.
 Idioma: El idioma de la sesión/protección no está confirmado; el sitio en la Web no es una prueba
-Entrada: Seleccione la edición y el team formal; solicite a la Fundación RobotiX el ciclo, el área, las condiciones y el espacio que se le ha asignado.
-Costo: La contribución anual de mando depende de la redacción/categoría; no hay cantidad pública. Hardware, carretera y vivienda.
+Acceso: Equipo formal mediante mentor o institución. Se admiten equipos independientes y progenitores como mentores. Para un equipo de Costa Rica, confirmar acceso territorial y asignación de fase.
+Precio: Cuota anual por categoría. El equipo de LEGO Education, el transporte y el alojamiento se pagan aparte. No se indica el importe público de la cuota.
 Limitaciones: 2026/27 BIOGLOW: Invierno Diciembre 2026–Febrero 2027; Febrero–Abril 2027 para las redes estatales; verano 2027. El organizador designa un área de estado, Categoría y fecha de inscripción. Son ciclos., No son los días del torneo.. Solicitud sólo por orden formal coach / de la institución; Equipo independiente y padre-Mentor permitido en el programa, pero en particular en el extranjero / Autorización nacional para confirmar. B 2026/27 directamente en un acontecimiento nacional. Proyecto, Entrevistas de ingeniería y misiones conjuntas 3–5 rondas; cuota adicional por separado. SPIKE / EV3 Founders y nuevo AI-Equipo Future no intercambiables. Transición mundial después de la crisis 2026/27 y los nuevos cupos nacionales se examinan por separado.
 Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
 Se ha comprobado: 2026-11-04
@@ -2713,12 +2713,12 @@ Se ha comprobado: 2026-11-06
 
 Fecha: 2026-11-12 — 2026-11-12
 edad: UCR invita al público, incluidos escolares. Exposición pública el 12 de noviembre de 08:30 a 12:00.
-Matvey: Sí para visita familiar. Confirmar condiciones del taller elegido.
-Oscar: Sí para visita familiar. Confirmar condiciones del taller elegido.
+Matvey: Sí para una visita familiar con una persona adulta.
+Oscar: Sí para una visita familiar con una persona adulta.
 Idioma: Confirmar idioma del taller o demostración concretos.
-Acceso: UCR invita al público, incluidos escolares. Exposición pública el 12 de noviembre de 08:30 a 12:00.
+Acceso: La exposición familiar está abierta al público general, incluidos escolares, el 12 de noviembre de 2026 de 08:30 a 12:00.
 Precio: La invitación UCR no indica precio ni requisito de entrada.
-Limitaciones: Por la tarde las actividades de IA y robótica son para participantes y docentes. La exposición pública termina a las 12:00.
+Limitaciones: Por la mañana está abierta la muestra de proyectos escolares. Después de las 12:00 los talleres de IA y robótica son para participantes y docentes. El aparcamiento de la Facultad está reservado del 9 al 13 de noviembre.
 Fuente: https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
 Se ha comprobado: 2026-11-07
 
@@ -4605,6 +4605,214 @@ Acceso: Fecha límite de confirmación de asistencia para finalistas digitales s
 Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
 Limitaciones: Fecha límite de confirmación de asistencia para finalistas digitales seleccionados.
 Fuente: https://innovatiq.education/digitalcup/2027/docs/digital/InnovatiQ_Digital_Cup-Convocatoria_NewsLab.pdf
+Se ha comprobado: 2026-11-07
+
+### C4520 · Churumbela · Minicineastas nacional e internacional · 2026
+
+Fecha: 2026-09-27 — 2026-09-27
+edad: Las bases del festival indican 6–17 años. La publicación de IMCINE indica 8–17. Volver a verificar la edad de la categoría menor en la próxima edición.
+Matvey: Condicional para la próxima edición. La edad entra en ambos rangos publicados de 2026.
+Oscar: Condicional para la próxima edición. El mínimo de 2026 difiere entre las dos fuentes.
+Idioma: Las obras en otro idioma requieren subtítulos separados en español.
+Acceso: Vía internacional abierta. Participación individual o por equipo. La exhibición requiere autorizaciones firmadas de los tutores.
+Precio: Comprobar las condiciones de la plataforma de envío en la próxima convocatoria.
+Limitaciones: Las bases del festival indican 6–17 años. La publicación de IMCINE indica 8–17. Volver a verificar la edad de la categoría menor en la próxima edición.
+Fuente: https://www.churumbelafest.com/convocatoria
+Se ha comprobado: 2026-11-07
+
+### C4521 · Churumbela · Minicineastas Competencia Yucatán · 2026
+
+Fecha: 2026-10-26 — 2026-10-26
+edad: 8–17 años al cierre y residencia acreditada en Yucatán.
+Matvey: No para una familia sin residencia acreditada en Yucatán.
+Oscar: No. Mínimo de 8 años y residencia en Yucatán.
+Idioma: Las obras en otro idioma requieren subtítulos separados en español.
+Acceso: El concurso separado exige acreditar residencia en Yucatán. Inscripción individual o en equipo.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: Las bases vigentes muestran el 26 de octubre. Una publicación anterior de IMCINE indicaba el 11 de octubre. Ambas fechas ya pasaron.
+Fuente: https://www.churumbelafest.com/convocatoria
+Se ha comprobado: 2026-11-07
+
+### E506 · Churumbela 2026 · cine infantil y animación · Ciudad de México
+
+Fecha: 2026-11-18 — 2026-11-22
+edad: Proyecciones familiares de cine infantil, incluida animación. Confirmar acceso y talleres según la sede.
+Matvey: Sí para una visita familiar con una persona adulta.
+Oscar: Sí para una visita familiar con una persona adulta.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Proyecciones familiares de cine infantil, incluida animación. Confirmar acceso y talleres según la sede.
+Precio: El festival anuncia actividades gratuitas. Las entradas y reservas dependen de la sesión.
+Limitaciones:
+Fuente: https://www.churumbelafest.com/seleccion-2026
+Se ha comprobado: 2026-11-07
+
+### E507 · Churumbela 2026 · cine infantil y animación · Mérida
+
+Fecha: 2026-12-04 — 2026-12-06
+edad: Proyecciones familiares de cine infantil, incluida animación. Confirmar acceso y talleres según la sede.
+Matvey: Sí para una visita familiar con una persona adulta.
+Oscar: Sí para una visita familiar con una persona adulta.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Proyecciones familiares de cine infantil, incluida animación. Confirmar acceso y talleres según la sede.
+Precio: El festival anuncia actividades gratuitas. Las entradas y reservas dependen de la sesión.
+Limitaciones:
+Fuente: https://www.churumbelafest.com/seleccion-2026
+Se ha comprobado: 2026-11-07
+
+### E508 · xMedia Fest 2026 · Feria de Vinculación Tecnológica y Creativa
+
+Fecha: 2026-12-04 — 2026-12-04
+edad: La feria y las charlas están abiertas al público. Confirmar edad mínima y acceso de menores a cada zona.
+Matvey: Confirmar edad y acceso con la organización.
+Oscar: Confirmar edad y acceso con la organización.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: La feria y las charlas están abiertas al público. Confirmar edad mínima y acceso de menores a cada zona.
+Precio: Gratuito.
+Limitaciones:
+Fuente: https://2026.xmediafest.com/
+Se ha comprobado: 2026-11-07
+
+### C4522 · xMedia Fest 2026 · GameJam
+
+Fecha: 2026-12-02 国 2026-12-03
+edad: Estudiantes de UNACAR u otras instituciones de educación superior. Equipo de 3–5, docente y constancia del curso ODS para al menos una persona.
+Matvey: No. Se exige ser estudiante de una institución indicada en las bases.
+Oscar: No. Se exige ser estudiante de una institución indicada en las bases.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Estudiantes de UNACAR u otras instituciones de educación superior. Equipo de 3–5, docente y constancia del curso ODS para al menos una persona.
+Precio: Gratuito.
+Limitaciones: El PDF vigente fija un máximo de 6 equipos. La copia del buscador mostraba 10. Se usa el PDF como base vigente.
+Fuente: https://2026.xmediafest.com/convocatorias/gamejam-2026.pdf
+Se ha comprobado: 2026-11-07
+
+### C4523 · xMedia Fest 2026 · LUMIA
+
+Fecha: 2026-11-22 — 2026-11-22
+edad: Alumnado activo de UNACAR. Individual o con colaboradores. El premio corresponde a la dirección.
+Matvey: No. Se exige ser estudiante de una institución indicada en las bases.
+Oscar: No. Se exige ser estudiante de una institución indicada en las bases.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Alumnado activo de UNACAR. Individual o con colaboradores. El premio corresponde a la dirección.
+Precio: Gratuito.
+Limitaciones:
+Fuente: https://2026.xmediafest.com/convocatorias/lumia-2026.pdf
+Se ha comprobado: 2026-11-07
+
+### C4524 · xMedia Fest 2026 · Madi-verso
+
+Fecha: 2026-11-22 — 2026-11-22
+edad: Solo alumnado de bachillerato o educación superior de UNACAR. Una propuesta individual.
+Matvey: No. Se exige ser estudiante de una institución indicada en las bases.
+Oscar: No. Se exige ser estudiante de una institución indicada en las bases.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Solo alumnado de bachillerato o educación superior de UNACAR. Una propuesta individual.
+Precio: Gratuito.
+Limitaciones:
+Fuente: https://2026.xmediafest.com/convocatorias/madiverso-2026.pdf
+Se ha comprobado: 2026-11-07
+
+### E509 · Universum UNAM · Garabateando bichitos
+
+Fecha: 2026-12-12 — 2026-12-12
+edad: Edades de 3 a 6 años.
+Matvey: No por edad. Es posible la visita general al museo.
+Oscar: Sí por edad. Acudir con una persona adulta y confirmar plaza.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.
+Precio: Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas.
+Limitaciones: El horario del museo puede cambiar.
+Fuente: https://www.universum.unam.mx/actividades/index/2026/12/12
+Se ha comprobado: 2026-11-07
+
+### E510 · Universum UNAM · DinoAlebrijes
+
+Fecha: 2026-12-12 — 2026-12-12
+edad: Edades de 4 a 8 años.
+Matvey: No por edad. Es posible la visita general al museo.
+Oscar: Sí por edad. Acudir con una persona adulta y confirmar plaza.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.
+Precio: Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas.
+Limitaciones: El horario del museo puede cambiar.
+Fuente: https://www.universum.unam.mx/actividades/index/2026/12/12
+Se ha comprobado: 2026-11-07
+
+### E511 · Universum UNAM · Átomos brillantes
+
+Fecha: 2026-12-12 — 2026-12-12
+edad: Desde 8 años.
+Matvey: Sí por edad. Acudir con una persona adulta y confirmar plaza.
+Oscar: No por edad. Es posible la visita general al museo.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Acceso con entrada al museo. Grupo de 10 participantes. Confirmar allí cómo inscribirse.
+Precio: Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas.
+Limitaciones: El horario del museo puede cambiar.
+Fuente: https://www.universum.unam.mx/actividades/index/2026/12/12
+Se ha comprobado: 2026-11-07
+
+### E512 · Universum UNAM · Pequenautas al espacio
+
+Fecha: 2026-12-13 — 2026-12-13
+edad: Edades de 3 a 6 años.
+Matvey: No por edad. Es posible la visita general al museo.
+Oscar: Sí por edad. Acudir con una persona adulta y confirmar plaza.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.
+Precio: Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas.
+Limitaciones: El horario del museo puede cambiar.
+Fuente: https://www.universum.unam.mx/actividades/index/2026/12/13
+Se ha comprobado: 2026-11-07
+
+### L747 · Young Engineers · Mérida Poniente & Conkal · Summer
+
+Fecha: El programa de verano figura entre los servicios. No se publican año, fechas, horario ni convocatoria.
+edad: La edad del campamento de verano no está publicada. Los cursos regulares indican grupos de 4–6, 6–10, 7–10, 9–11 y 12–15.
+Matvey: Confirmar edad y acceso con la organización.
+Oscar: Confirmar edad y acceso con la organización.
+Idioma: Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.
+Acceso: Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+Precio: No se publican precio, equipo ni condiciones de devolución del grupo vigente.
+Limitaciones: El programa de verano figura entre los servicios. No se publican año, fechas, horario ni convocatoria.
+Fuente: https://meridaponiente-conkal.youngengineers.org/
+Se ha comprobado: 2026-11-07
+
+### L748 · Binario Robotic · Mérida · Talleres intensivos
+
+Fecha: La página de talleres muestra verano de 2026. Aún no se publican fechas de invierno 2026–2027 ni de verano 2027.
+edad: Escuela regular de 7–18 años. Por edad, Matvey encaja en los grupos 7–9 y 8–10. Confirmar la edad de cada intensivo.
+Matvey: Condicional. Encaja por edad en la escuela regular. Confirmar el turno elegido.
+Oscar: Condicional. La escuela regular exige al menos 7 años. Confirmar las bases de cada turno.
+Idioma: Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.
+Acceso: Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+Precio: No se publican precio, equipo ni condiciones de devolución del grupo vigente.
+Limitaciones: La página de talleres muestra verano de 2026. Aún no se publican fechas de invierno 2026–2027 ni de verano 2027.
+Fuente: https://roboticabinario.com/cursos
+Se ha comprobado: 2026-11-07
+
+### L749 · Binario Robotic · Mérida · Cursos anuales
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Clases regulares los sábados, programa de 11 meses. A los 9 años encajan Exploradores 7–9 y Constructores 8–10.
+Matvey: Sí por edad. Se requieren plaza e inscripción.
+Oscar: No. La edad mínima para las clases regulares es de 7 años.
+Idioma: Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.
+Acceso: Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+Precio: No se publican precio, equipo ni condiciones de devolución del grupo vigente.
+Limitaciones: Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.
+Fuente: https://roboticabinario.com/cursos
+Se ha comprobado: 2026-11-07
+
+### L750 · Young Engineers · Conkal · STEM 6–10
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Edades de 6 a 10 años.
+Matvey: Sí por edad. Se requieren plaza e inscripción.
+Oscar: Sí por edad. Se requieren plaza e inscripción.
+Idioma: Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.
+Acceso: Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+Precio: No se publican precio, equipo ni condiciones de devolución del grupo vigente.
+Limitaciones: Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.
+Fuente: https://meridaponiente-conkal.youngengineers.org/
 Se ha comprobado: 2026-11-07
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02

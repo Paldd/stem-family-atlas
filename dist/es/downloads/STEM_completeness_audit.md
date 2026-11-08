@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 9948; competiciones: 4518; eventos: 505; campamentos / programas: 4925. Perfiles de ligas y programas: 298. Fichas de exposiciones grandes y especializadas: 408 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 9964; competiciones: 4523; eventos: 512; campamentos / programas: 4929. Perfiles de ligas y programas: 298. Fichas de exposiciones grandes y especializadas: 415 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros específicos para 211 de 249 países y territorios; países con auditoría completa: 0. Revisión de archivos v51: se añadieron 21 fichas y 3 perfiles. Se conservan las fichas anteriores.
 
@@ -14,7 +14,7 @@ Hay registros específicos para 211 de 249 países y territorios; países con au
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 37 | 1884 | 85 | 1234 |
+| América del Norte | 37 | 1889 | 92 | 1238 |
 | América del Sur | 13 | 414 | 35 | 199 |
 | Europa | 51 | 575 | 102 | 1425 |
 | África | 48 | 226 | 28 | 80 |
@@ -23,7 +23,7 @@ Hay registros específicos para 211 de 249 países y territorios; países con au
 
 Fichas interregionales o mundiales sin asignar a un continente: 152. América del Norte incluye Centroamérica y el Caribe. Las cifras indican el inventario de la base y no un porcentaje de cobertura.
 
-VEX: 814 de 4518 fichas de competición (18.0%). Hay un claro desequilibrio en la cobertura.
+VEX: 814 de 4523 fichas de competiciones (18.0%). La cobertura se concentra en esta liga.
 
 ## Lo que queda
 
@@ -774,6 +774,13 @@ VEX: 814 de 4518 fichas de competición (18.0%). Hay un claro desequilibrio en l
 - **ARE Dongguan 2027** — China; 2027-03-03 – 2027-03-05. el permiso de entrada de niños. https://www.are-expo.cn/
 - **South China International Industry Fair 2027** — China; 2027-06-16 – 2027-06-18. el permiso de entrada de niños. https://www.sciif.com/
 - **Automation Thailand 2027** — Tailandia; 2027-03-10 – 2027-03-12. Los niños del 6/9 no pueden. https://automation-thailand.tw.messefrankfurt.com/thailand/en/facts-figures/Show-Overview.html
+- **Churumbela 2026 · cine infantil y animación · Ciudad de México** — México; 2026-11-18 – 2026-11-22. con un adulto; condiciones de admisión adulta por separado. https://www.churumbelafest.com/seleccion-2026
+- **Churumbela 2026 · cine infantil y animación · Mérida** — México; 2026-12-04 – 2026-12-06. con un adulto; condiciones de admisión adulta por separado. https://www.churumbelafest.com/seleccion-2026
+- **xMedia Fest 2026 · Feria de Vinculación Tecnológica y Creativa** — México; 2026-12-04. el permiso de entrada de niños. https://2026.xmediafest.com/
+- **Universum UNAM · Garabateando bichitos** — México; 2026-12-12. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/index/2026/12/12
+- **Universum UNAM · DinoAlebrijes** — México; 2026-12-12. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/index/2026/12/12
+- **Universum UNAM · Átomos brillantes** — México; 2026-12-12. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/index/2026/12/12
+- **Universum UNAM · Pequenautas al espacio** — México; 2026-12-13. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/index/2026/12/13
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

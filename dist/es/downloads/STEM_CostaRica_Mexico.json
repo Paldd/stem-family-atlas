@@ -378,10 +378,10 @@
       "mat": "Sí, por edad",
       "osc": "Explore",
       "format": "equipo formal a través de coach / institución; tamaño local Explore / Challenge comprobar.",
-      "entry": "a través de un socio local; equipos independientes en México están autorizados; elegir el país de representación",
+      "entry": "Equipo formal mediante mentor o institución. Se admiten equipos independientes y progenitores como mentores. Para un equipo de Costa Rica, confirmar acceso territorial y asignación de fase.",
       "gear": "Explore SPIKE Essential / WeDo 2; Challenge SPIKE Prime, EV3 en México se permite",
       "language": "la lengua de defensa / juez en una plataforma mexicana específica se confirme por separado.",
-      "cost": "no se publicó / comprobar la actual edición",
+      "cost": "Cuota anual por categoría. El equipo de LEGO Education, el transporte y el alojamiento se pagan aparte. No se indica el importe público de la cuota.",
       "level": "B  el camino nacional hacia las etapas internacionales",
       "reward": "Challenge: premios / selección evaluados; Explore: festival y reconocimiento de los participantes",
       "priority": "P1  base local",
@@ -401,7 +401,14 @@
       "importance_reason": "Clasificación editorial por nombre/formato y fuente.",
       "languages": [],
       "participation": "team",
-      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse.",
+      "references": [
+        {
+          "url": "https://www.firstlegoleagues.mx/como-ser-parte-del-programa/",
+          "label": "Página de la organización o bases de esta edición."
+        }
+      ],
+      "registration_status": "La organización abrió la temporada 2026–2027. Fundación RobotiX confirma plazas y asignación de fase."
     },
     {
       "block": "Competiciones",
@@ -419,10 +426,10 @@
       "mat": "Sí, por edad",
       "osc": "Sí, por edad",
       "format": "Primaria baja 6–9: el equipo 4 + 1–2 coach; 9–16: se recomienda 4–8 + 1–2 coach.",
-      "entry": "comprobar la solicitud actual y el permiso extranjero del organizador",
+      "entry": "Equipo formal mediante mentor o institución. Se admiten equipos independientes y progenitores como mentores. Para un equipo de Costa Rica, confirmar acceso territorial y asignación de fase.",
       "gear": "nuevos kits de LEGO Education Computer Science & AI; EV3 no reemplaza el conjunto",
       "language": "el idioma de la defensa / juez en la plataforma específica.",
-      "cost": "no se publicó / comprobar la actual edición",
+      "cost": "Cuota anual por categoría. El equipo de LEGO Education, el transporte y el alojamiento se pagan aparte. No se indica el importe público de la cuota.",
       "level": "C  torneo abierto o nacional",
       "reward": "Puesto o premio según los resultados oficiales",
       "priority": "P2  Comparar con Founders",
@@ -443,7 +450,14 @@
       "importance_reason": "C  torneo abierto o nacional",
       "languages": [],
       "participation": "team",
-      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse.",
+      "references": [
+        {
+          "url": "https://www.firstlegoleagues.mx/como-ser-parte-del-programa/",
+          "label": "Página de la organización o bases de esta edición."
+        }
+      ],
+      "registration_status": "La organización abrió la temporada 2026–2027. Fundación RobotiX confirma plazas y asignación de fase."
     },
     {
       "block": "Competiciones",
@@ -3640,7 +3654,7 @@
       "action": "antes de la reservación obtener la edad, la lengua, la disponibilidad de lugares y las condiciones de cancelación",
       "source": "https://www.ciberbots.com.mx/services",
       "proof": "los servicios actuales de Ciberbots describen la temporada futura, no las fechas concretas; edad / idioma regular courses no se han trasladado a las vacaciones.",
-      "checked": "2026-10-02",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "Regular Preschool 4–6 / Beginner 7–8 / Basic 9–11 no se transfieren automáticamente a la edad del campamento. Competition route sólo se indica para escolarizado de la escuela: compra holiday camp no promete participar ni medalla.",
       "themes": [
@@ -3652,7 +3666,8 @@
       "evidence_level": "program",
       "iso": [
         "MEX"
-      ]
+      ],
+      "references": []
     },
     {
       "id": "L117",
@@ -4469,7 +4484,7 @@
       "language": "EN / ES candidato; el idioma de Winter Camp no está confirmado",
       "languages": [],
       "language_certainty": "el idioma del sitio web y la traducción automática no confirman el idioma de enseñanza.",
-      "cost": "el proveedor publica MX$3 200 early bird hasta el 30.11.2026 y MX$4 000 regular; el composto del período / tarifa requiere aclaración",
+      "cost": "MXN 3200 por el paquete anunciado hasta el 30.11.2026, luego MXN 4000. Confirmar días, alcance y devoluciones.",
       "scope": "national",
       "level": "evento regional",
       "importance_reason": "evaluación editorial del programa y la geografía; no es un ranking mundial oficial.",
@@ -4479,7 +4494,7 @@
       "source": "https://liotacamps.com/",
       "references": [],
       "proof": "se ha leído la descripción pública del sitio web actual del proveedor: Winter Camp, el período, STEM / arte / deportes / tecnología y el precio. La contradicción 19 días contra 4 weeks Se guardó.",
-      "checked": "2026-10-01",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "en la descripción 17 diciembre – 4 enero del mismo año se indicó 4 weeks; Sin especificar , no se puede considerar que es cuatro semanas de estudio .. red general 09:00–13:00, las opiniones sobre bilingüe y otros programas no prueban el horario / el idioma del turno de invierno. no se ha encontrado la edad numérica; de la ciudad de FTI Bowl no incluido como STEM-el torneo. el período no se descarga en ICS.",
       "themes": [
@@ -5715,12 +5730,12 @@
       "format": "El tamaño local del comando de verificación: la FAQ actual no lo establece.",
       "participation": "team",
       "admission_kind": "open_application",
-      "entry": "elegir una redacción y un equipo formal; solicitar el ciclo, el lugar, las condiciones y el lugar libre de Fundación RobotiX.",
+      "entry": "Equipo formal mediante mentor o institución. Se admiten equipos independientes y progenitores como mentores. Para un equipo de Costa Rica, confirmar acceso territorial y asignación de fase.",
       "gear": "SPIKE Essential o WeDo 2.0; un conjunto por separado. 10 lecciones.",
       "language": "lengua de ocupación / protección no está confirmada; el sitio de la EN no es prueba",
       "languages": [],
       "support_languages": [],
-      "cost": "La contribución anual del equipo depende de la editorial/categoría; no hay cantidad pública. Hardware, carretera y vivienda por separado.",
+      "cost": "Cuota anual por categoría. El equipo de LEGO Education, el transporte y el alojamiento se pagan aparte. No se indica el importe público de la cuota.",
       "scope": "national",
       "level": "el camino nacional FIRST México; el derecho de la siguiente selección depende de la categoría y el ciclo.",
       "importance_reason": "evaluar la escala de un programa concreto; la presencia de un sitio web y un certificado no demuestra su lugar en el ranking mundial.",
@@ -5734,10 +5749,14 @@
         {
           "label": "operador nacional",
           "url": "https://www.firstlegoleagues.mx/"
+        },
+        {
+          "url": "https://www.firstlegoleagues.mx/como-ser-parte-del-programa/",
+          "label": "Página de la organización o bases de esta edición."
         }
       ],
       "note": "2026/27 BIOGLOW: el invierno de diciembre 2026–febrero 2027; primavera febrero–de abril 2027 para las redes públicas; el verano de junio 2027. el organizador designa una plaza por estado, categoría y fecha de registro. Es un ciclo., No los días de la competición.. la solicitud sólo por el comando formal a través de coach / institución; equipo independiente y padre-el tutor es admitido en el programa, pero un colegio extranjero concreto / el permiso nacional para confirmar. la feria de demostración: Medalla al participante y el diploma del equipo; Los equipos seleccionados pueden seguir adelante.. Medalla general no significa el primer lugar de la competición. SPIKE / EV3 Founders y el nuevo AI-el equipo Future No se pueden sustituir entre sí. la transición global después de 2026/27 y las nuevas cuotas nacionales se comprueban por separado.",
-      "registration_status": "No se ha presentado la solicitud de la familia; el programa publicado no confirma el lugar.",
+      "registration_status": "La organización abrió la temporada 2026–2027. Fundación RobotiX confirma plazas y asignación de fase.",
       "language_certainty": "El idioma del sitio no se ha transferido al idioma de enseñanza / juez.",
       "themes": [
         "robotics",
@@ -5768,12 +5787,12 @@
       "format": "El tamaño local del comando de verificación: la FAQ actual no lo establece.",
       "participation": "team",
       "admission_kind": "open_application",
-      "entry": "elegir una redacción y un equipo formal; solicitar el ciclo, el lugar, las condiciones y el lugar libre de Fundación RobotiX.",
+      "entry": "Equipo formal mediante mentor o institución. Se admiten equipos independientes y progenitores como mentores. Para un equipo de Costa Rica, confirmar acceso territorial y asignación de fase.",
       "gear": "SPIKE Prime o EV3; un conjunto separado. 12 clases, robot, proyecto innovador, entrevista.",
       "language": "lengua de ocupación / protección no está confirmada; el sitio de la EN no es prueba",
       "languages": [],
       "support_languages": [],
-      "cost": "La contribución anual del equipo depende de la editorial/categoría; no hay cantidad pública. Hardware, carretera y vivienda por separado.",
+      "cost": "Cuota anual por categoría. El equipo de LEGO Education, el transporte y el alojamiento se pagan aparte. No se indica el importe público de la cuota.",
       "scope": "national",
       "level": "el camino nacional FIRST México; el derecho de la siguiente selección depende de la categoría y el ciclo.",
       "importance_reason": "evaluar la escala de un programa concreto; la presencia de un sitio web y un certificado no demuestra su lugar en el ranking mundial.",
@@ -5787,10 +5806,14 @@
         {
           "label": "operador nacional",
           "url": "https://www.firstlegoleagues.mx/"
+        },
+        {
+          "url": "https://www.firstlegoleagues.mx/como-ser-parte-del-programa/",
+          "label": "Página de la organización o bases de esta edición."
         }
       ],
       "note": "2026/27 BIOGLOW: el invierno de diciembre 2026–febrero 2027; primavera febrero–de abril 2027 para las redes públicas; el verano de junio 2027. el organizador designa una plaza por estado, categoría y fecha de registro. Es un ciclo., No los días de la competición.. la solicitud sólo por el comando formal a través de coach / institución; equipo independiente y padre-el tutor es admitido en el programa, pero un colegio extranjero concreto / el permiso nacional para confirmar. de los premios Robot Game / Robot Design / Innovation / Core Values y campeón general; selección por la línea del ciclo designado. SPIKE / EV3 Founders y el nuevo AI-el equipo Future No se pueden sustituir entre sí. la transición global después de 2026/27 y las nuevas cuotas nacionales se comprueban por separado.",
-      "registration_status": "No se ha presentado la solicitud de la familia; el programa publicado no confirma el lugar.",
+      "registration_status": "La organización abrió la temporada 2026–2027. Fundación RobotiX confirma plazas y asignación de fase.",
       "language_certainty": "El idioma del sitio no se ha transferido al idioma de enseñanza / juez.",
       "themes": [
         "robotics",
@@ -5818,15 +5841,15 @@
       "age": "6–9 años por el local FAQ; la fecha de control / clase y límite superior para el evento para comprobar.",
       "mat": "condicional: ahora 9; clase y sección para el día del evento 2027 confirmar.",
       "osc": "Primaria baja, equipo y evento para confirmar.",
-      "format": "Equipo 4 el alumno + 1–2 coach por el local FAQ.",
+      "format": "4 menores y 1–2 mentores. El formato nacional para el grupo de 6–9 años aún está por confirmar.",
       "participation": "team",
       "admission_kind": "open_application",
-      "entry": "elegir una redacción y un equipo formal; solicitar el ciclo, el lugar, las condiciones y el lugar libre de Fundación RobotiX.",
+      "entry": "Equipo formal mediante mentor o institución. Se admiten equipos independientes y progenitores como mentores. Para un equipo de Costa Rica, confirmar acceso territorial y asignación de fase.",
       "gear": "LEGO Education Tecnología e IA 5+; conjunto por separado. 10 sesiones.",
       "language": "lengua de ocupación / protección no está confirmada; el sitio de la EN no es prueba",
       "languages": [],
       "support_languages": [],
-      "cost": "La contribución anual del equipo depende de la editorial/categoría; no hay cantidad pública. Hardware, carretera y vivienda por separado.",
+      "cost": "Cuota anual por categoría. El equipo de LEGO Education, el transporte y el alojamiento se pagan aparte. No se indica el importe público de la cuota.",
       "scope": "national",
       "level": "el camino nacional FIRST México; el derecho de la siguiente selección depende de la categoría y el ciclo.",
       "importance_reason": "evaluar la escala de un programa concreto; la presencia de un sitio web y un certificado no demuestra su lugar en el ranking mundial.",
@@ -5840,10 +5863,14 @@
         {
           "label": "operador nacional",
           "url": "https://www.firstlegoleagues.mx/"
+        },
+        {
+          "url": "https://www.firstlegoleagues.mx/como-ser-parte-del-programa/",
+          "label": "Página de la organización o bases de esta edición."
         }
       ],
       "note": "2026/27 BIOGLOW: el invierno de diciembre 2026–febrero 2027; primavera febrero–de abril 2027 para las redes públicas; el verano de junio 2027. el organizador designa una plaza por estado, categoría y fecha de registro. Es un ciclo., No los días de la competición.. la solicitud sólo por el comando formal a través de coach / institución; equipo independiente y padre-el tutor es admitido en el programa, pero un colegio extranjero concreto / el permiso nacional para confirmar. en el 2026/27 directamente al evento nacional, sin promesa de selección mundial. el formato de la menor de la historia todavía por confirmar. SPIKE / EV3 Founders y el nuevo AI-el equipo Future No se pueden sustituir entre sí. la transición global después de 2026/27 y las nuevas cuotas nacionales se comprueban por separado.",
-      "registration_status": "No se ha presentado la solicitud de la familia; el programa publicado no confirma el lugar.",
+      "registration_status": "La organización abrió la temporada 2026–2027. Fundación RobotiX confirma plazas y asignación de fase.",
       "language_certainty": "El idioma del sitio no se ha transferido al idioma de enseñanza / juez.",
       "themes": [
         "robotics",
@@ -5852,7 +5879,9 @@
       "date_scope": "season_route",
       "iso": [
         "MEX"
-      ]
+      ],
+      "team_min": 4,
+      "team_max": 4
     },
     {
       "id": "C1130",
@@ -5871,15 +5900,15 @@
       "age": "9–16 años por el local FAQ; la fecha de control / clase y límite superior para el evento para comprobar.",
       "mat": "Es adecuado para la edad; confirma la clase, el papel y el lugar en el equipo.",
       "osc": "No: por debajo de la edad mínima de 9.",
-      "format": "se recomienda 4–8 de los estudiantes + 1–2 coach; en el classpack de los grupos de 4.",
+      "format": "Se recomiendan 4–8 participantes y 1–2 mentores. A los 9 años exactos, la categoría depende de la etapa escolar y de la decisión de la organización.",
       "participation": "team",
       "admission_kind": "open_application",
-      "entry": "elegir una redacción y un equipo formal; solicitar el ciclo, el lugar, las condiciones y el lugar libre de Fundación RobotiX.",
+      "entry": "Equipo formal mediante mentor o institución. Se admiten equipos independientes y progenitores como mentores. Para un equipo de Costa Rica, confirmar acceso territorial y asignación de fase.",
       "gear": "LEGO Education Tecnología e IA 8+ / 11+; conjunto por separado. para 8+ se necesitan componentes adicionales; más de 16 horas, 4 papeles intercambiables.",
       "language": "lengua de ocupación / protección no está confirmada; el sitio de la EN no es prueba",
       "languages": [],
       "support_languages": [],
-      "cost": "La contribución anual del equipo depende de la editorial/categoría; no hay cantidad pública. Hardware, carretera y vivienda por separado.",
+      "cost": "Cuota anual por categoría. El equipo de LEGO Education, el transporte y el alojamiento se pagan aparte. No se indica el importe público de la cuota.",
       "scope": "national",
       "level": "el camino nacional FIRST México; el derecho de la siguiente selección depende de la categoría y el ciclo.",
       "importance_reason": "evaluar la escala de un programa concreto; la presencia de un sitio web y un certificado no demuestra su lugar en el ranking mundial.",
@@ -5893,10 +5922,14 @@
         {
           "label": "operador nacional",
           "url": "https://www.firstlegoleagues.mx/"
+        },
+        {
+          "url": "https://www.firstlegoleagues.mx/como-ser-parte-del-programa/",
+          "label": "Página de la organización o bases de esta edición."
         }
       ],
       "note": "2026/27 BIOGLOW: el invierno de diciembre 2026–febrero 2027; primavera febrero–de abril 2027 para las redes públicas; el verano de junio 2027. el organizador designa una plaza por estado, categoría y fecha de registro. Es un ciclo., No los días de la competición.. la solicitud sólo por el comando formal a través de coach / institución; equipo independiente y padre-el tutor es admitido en el programa, pero un colegio extranjero concreto / el permiso nacional para confirmar. en el 2026/27 directamente al evento nacional. proyecto, entrevistas de ingeniería y misiones conjuntas 3–5 de las rondas; el contingente posterior por separado. SPIKE / EV3 Founders y el nuevo AI-el equipo Future No se pueden sustituir entre sí. la transición global después de 2026/27 y las nuevas cuotas nacionales se comprueban por separado.",
-      "registration_status": "No se ha presentado la solicitud de la familia; el programa publicado no confirma el lugar.",
+      "registration_status": "La organización abrió la temporada 2026–2027. Fundación RobotiX confirma plazas y asignación de fase.",
       "language_certainty": "El idioma del sitio no se ha transferido al idioma de enseñanza / juez.",
       "themes": [
         "robotics",
@@ -12176,10 +12209,10 @@
       "period": "12 de noviembre de 2026, 08:30–12:00 hora local.",
       "date_status": "Confirmado",
       "age": "UCR invita al público, incluidos escolares. Exposición pública el 12 de noviembre de 08:30 a 12:00.",
-      "mat": "Sí para visita familiar. Confirmar condiciones del taller elegido.",
-      "osc": "Sí para visita familiar. Confirmar condiciones del taller elegido.",
-      "format": "Visita a exposición de proyectos. Los talleres pueden exigir reserva aparte.",
-      "entry": "UCR invita al público, incluidos escolares. Exposición pública el 12 de noviembre de 08:30 a 12:00.",
+      "mat": "Sí para una visita familiar con una persona adulta.",
+      "osc": "Sí para una visita familiar con una persona adulta.",
+      "format": "Muestra pública matinal de proyectos escolares en dos edificios de la UCR.",
+      "entry": "La exposición familiar está abierta al público general, incluidos escolares, el 12 de noviembre de 2026 de 08:30 a 12:00.",
       "gear": "Proyectos maker, demostraciones e inventos.",
       "language": "Confirmar idioma del taller o demostración concretos.",
       "languages": [],
@@ -12188,8 +12221,8 @@
       "cost": "La invitación UCR no indica precio ni requisito de entrada.",
       "level": "Exposición familiar o festival maker",
       "reward": "Demostraciones y conocimiento de proyectos.",
-      "priority": "P3 — visita según programa",
-      "action": "Elegir exposición matinal y comprobar ubicación de los proyectos en los dos edificios.",
+      "priority": "P1 — próxima visita para ambos",
+      "action": "Visitar la muestra en la Facultad de Educación y el Edificio de Educación Continua. Tener en cuenta la restricción de aparcamiento.",
       "source": "https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html",
       "references": [
         {
@@ -12199,12 +12232,20 @@
         {
           "url": "https://www.mep.go.cr/sites/default/files/2026-04/ManualFCTI2026.pdf",
           "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://facultadeducacion.ucr.ac.cr/eventos/2026/11/06/dias-del-comienzo-de-la-feria-nacional-de-ciencia-tecnologia-e-innovacion",
+          "label": "Página de la organización o bases de esta edición."
+        },
+        {
+          "url": "https://facultadeducacion.ucr.ac.cr/eventos/2026/11/09/parqueo-reservado",
+          "label": "Página de la organización o bases de esta edición."
         }
       ],
       "proof": "Fecha y condiciones de acceso cotejadas con fuente del organizador.",
       "checked": "2026-11-07",
       "status": "Idea",
-      "note": "Por la tarde las actividades de IA y robótica son para participantes y docentes. La exposición pública termina a las 12:00.",
+      "note": "Por la mañana está abierta la muestra de proyectos escolares. Después de las 12:00 los talleres de IA y robótica son para participantes y docentes. El aparcamiento de la Facultad está reservado del 9 al 13 de noviembre.",
       "themes": [
         "science",
         "technology",
@@ -12217,9 +12258,9 @@
       "admission_kind": "visitor",
       "evidence_level": "event_page",
       "date_scope": "event_day",
-      "adult_entry": "UCR invita al público, incluidos escolares. Exposición pública el 12 de noviembre de 08:30 a 12:00.",
+      "adult_entry": "La exposición familiar está abierta al público general, incluidos escolares, el 12 de noviembre de 2026 de 08:30 a 12:00.",
       "visitor_policy": "family",
-      "visitor_policy_note": "UCR invita al público, incluidos escolares. Exposición pública el 12 de noviembre de 08:30 a 12:00.",
+      "visitor_policy_note": "La exposición familiar está abierta al público general, incluidos escolares, el 12 de noviembre de 2026 de 08:30 a 12:00.",
       "exhibition_tier": "family_alternative",
       "highlights": [
         "Proyectos escolares de computación e ingeniería.",
@@ -12298,7 +12339,7 @@
       "availability": {
         "status": "closed"
       },
-      "registration_status": "Participación en final solo por clasificación 2026.",
+      "registration_status": "Acceso a la final solo para proyectos seleccionados en el ciclo 2026.",
       "related_ids": [
         "E267"
       ]
@@ -21712,6 +21753,989 @@
         "C4466",
         "C4467",
         "C4468"
+      ]
+    },
+    {
+      "id": "C4520",
+      "title": "Churumbela · Minicineastas nacional e internacional · 2026",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Online / México",
+      "start": "2026-09-27",
+      "end": "2026-09-27",
+      "period": "",
+      "deadline": "2026-09-27",
+      "date_status": "Confirmado",
+      "date_scope": "submission_deadline",
+      "checked": "2026-11-07",
+      "source": "https://www.churumbelafest.com/convocatoria",
+      "references": [
+        {
+          "url": "https://www.imcine.gob.mx/nota.php?id=347",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.churumbelafest.com/seleccion-2026",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Las bases del festival indican 6–17 años. La publicación de IMCINE indica 8–17. Volver a verificar la edad de la categoría menor en la próxima edición.",
+      "mat": "Condicional para la próxima edición. La edad entra en ambos rangos publicados de 2026.",
+      "osc": "Condicional para la próxima edición. El mínimo de 2026 difiere entre las dos fuentes.",
+      "format": "Vía internacional abierta. Participación individual o por equipo. La exhibición requiere autorizaciones firmadas de los tutores.",
+      "entry": "Vía internacional abierta. Participación individual o por equipo. La exhibición requiere autorizaciones firmadas de los tutores.",
+      "gear": "Animación, ficción o documental de hasta 25 minutos. El menor idea y dirige, los adultos pueden ayudar en lo técnico.",
+      "language": "Las obras en otro idioma requieren subtítulos separados en español.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "support",
+      "language_certainty": "Las obras en otro idioma requieren subtítulos separados en español.",
+      "cost": "Comprobar las condiciones de la plataforma de envío en la próxima convocatoria.",
+      "level": "Selección internacional de animación y cine infantil",
+      "reward": "Las obras seleccionadas pueden recibir diploma digital, laurel y premio del público. El concurso con trofeo para residentes de Yucatán tiene bases separadas.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Ya pasó el plazo de la edición 2026. La siguiente convocatoria aún no está publicada.",
+      "note": "Las bases del festival indican 6–17 años. La publicación de IMCINE indica 8–17. Volver a verificar la edad de la categoría menor en la próxima edición.",
+      "themes": [
+        "technology",
+        "makers",
+        "culture"
+      ],
+      "scope": "online",
+      "importance_reason": "Vía internacional abierta. Participación individual o por equipo. La exhibición requiere autorizaciones firmadas de los tutores.",
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "deadline_note": "Hasta las 23:59 según las bases. No se indica la zona horaria por separado.",
+      "registration_status": "Ya pasó el plazo de la edición 2026. La siguiente convocatoria aún no está publicada.",
+      "availability": {
+        "status": "closed"
+      },
+      "related_ids": [
+        "C4521",
+        "E506",
+        "E507"
+      ]
+    },
+    {
+      "id": "C4521",
+      "title": "Churumbela · Minicineastas Competencia Yucatán · 2026",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Mérida, Yucatán",
+      "start": "2026-10-26",
+      "end": "2026-10-26",
+      "period": "",
+      "deadline": "2026-10-26",
+      "date_status": "Confirmado",
+      "date_scope": "submission_deadline",
+      "checked": "2026-11-07",
+      "source": "https://www.churumbelafest.com/convocatoria",
+      "references": [
+        {
+          "url": "https://www.imcine.gob.mx/nota.php?id=347",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.churumbelafest.com/seleccion-2026",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "8–17 años al cierre y residencia acreditada en Yucatán.",
+      "mat": "No para una familia sin residencia acreditada en Yucatán.",
+      "osc": "No. Mínimo de 8 años y residencia en Yucatán.",
+      "format": "El concurso separado exige acreditar residencia en Yucatán. Inscripción individual o en equipo.",
+      "entry": "El concurso separado exige acreditar residencia en Yucatán. Inscripción individual o en equipo.",
+      "gear": "Animación, ficción o documental de hasta 25 minutos. El menor idea y dirige, los adultos pueden ayudar en lo técnico.",
+      "language": "Las obras en otro idioma requieren subtítulos separados en español.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "support",
+      "language_certainty": "Las obras en otro idioma requieren subtítulos separados en español.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Fase regional",
+      "reward": "La organización anuncia trofeo para quien gana la categoría. Las edades de los premios difieren de la sección de admisión.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Ya pasó el plazo de la edición 2026. La siguiente convocatoria aún no está publicada.",
+      "note": "Las bases vigentes muestran el 26 de octubre. Una publicación anterior de IMCINE indicaba el 11 de octubre. Ambas fechas ya pasaron.",
+      "themes": [
+        "technology",
+        "makers",
+        "culture"
+      ],
+      "scope": "regional",
+      "importance_reason": "Fase regional",
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "registration_status": "Ya pasó el plazo de la edición 2026. La siguiente convocatoria aún no está publicada.",
+      "availability": {
+        "status": "closed"
+      },
+      "related_ids": [
+        "C4520",
+        "E506",
+        "E507"
+      ]
+    },
+    {
+      "id": "E506",
+      "title": "Churumbela 2026 · cine infantil y animación · Ciudad de México",
+      "block": "Eventos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad de México",
+      "start": "2026-11-18",
+      "end": "2026-11-22",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "exhibition_window",
+      "checked": "2026-11-07",
+      "source": "https://www.churumbelafest.com/seleccion-2026",
+      "references": [
+        {
+          "url": "https://www.churumbelafest.com/convocatoria",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Verificado con el programa de la organización.",
+      "status": "Idea",
+      "age": "Proyecciones familiares de cine infantil, incluida animación. Confirmar acceso y talleres según la sede.",
+      "mat": "Sí para una visita familiar con una persona adulta.",
+      "osc": "Sí para una visita familiar con una persona adulta.",
+      "format": "Proyecciones familiares de cine infantil, incluida animación. Confirmar acceso y talleres según la sede.",
+      "entry": "Proyecciones familiares de cine infantil, incluida animación. Confirmar acceso y talleres según la sede.",
+      "gear": "Proyecciones familiares de cine infantil, incluida animación. Confirmar acceso y talleres según la sede.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "El festival anuncia actividades gratuitas. Las entradas y reservas dependen de la sesión.",
+      "level": "Exposición regional para visitantes",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Elegir una proyección familiar y comprobar la programación de la sede.",
+      "note": "",
+      "themes": [
+        "technology",
+        "culture"
+      ],
+      "scope": "regional",
+      "importance_reason": "Exposición regional para visitantes",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "visitor_policy": "family",
+      "exhibition_tier": "family_alternative",
+      "exhibitors": [],
+      "exhibitor_note": "Confirmar expositores y proyectos en el programa de la sede.",
+      "adult_entry": "Proyecciones familiares de cine infantil, incluida animación. Confirmar acceso y talleres según la sede.",
+      "visitor_policy_note": "Proyecciones familiares de cine infantil, incluida animación. Confirmar acceso y talleres según la sede.",
+      "venue": "Cineteca Nacional de las Artes · Estudios Churubusco · Biblioteca de México · otras sedes",
+      "related_ids": [
+        "C4520",
+        "C4521",
+        "E507"
+      ]
+    },
+    {
+      "id": "E507",
+      "title": "Churumbela 2026 · cine infantil y animación · Mérida",
+      "block": "Eventos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Mérida",
+      "start": "2026-12-04",
+      "end": "2026-12-06",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "exhibition_window",
+      "checked": "2026-11-07",
+      "source": "https://www.churumbelafest.com/seleccion-2026",
+      "references": [
+        {
+          "url": "https://www.churumbelafest.com/convocatoria",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Verificado con el programa de la organización.",
+      "status": "Idea",
+      "age": "Proyecciones familiares de cine infantil, incluida animación. Confirmar acceso y talleres según la sede.",
+      "mat": "Sí para una visita familiar con una persona adulta.",
+      "osc": "Sí para una visita familiar con una persona adulta.",
+      "format": "Proyecciones familiares de cine infantil, incluida animación. Confirmar acceso y talleres según la sede.",
+      "entry": "Proyecciones familiares de cine infantil, incluida animación. Confirmar acceso y talleres según la sede.",
+      "gear": "Proyecciones familiares de cine infantil, incluida animación. Confirmar acceso y talleres según la sede.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "El festival anuncia actividades gratuitas. Las entradas y reservas dependen de la sesión.",
+      "level": "Exposición regional para visitantes",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Elegir una proyección familiar y comprobar la programación de la sede.",
+      "note": "",
+      "themes": [
+        "technology",
+        "culture"
+      ],
+      "scope": "regional",
+      "importance_reason": "Exposición regional para visitantes",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "visitor_policy": "family",
+      "exhibition_tier": "family_alternative",
+      "exhibitors": [],
+      "exhibitor_note": "Confirmar expositores y proyectos en el programa de la sede.",
+      "adult_entry": "Proyecciones familiares de cine infantil, incluida animación. Confirmar acceso y talleres según la sede.",
+      "visitor_policy_note": "Proyecciones familiares de cine infantil, incluida animación. Confirmar acceso y talleres según la sede.",
+      "venue": "UNAY · Centro Cultural Olimpo · Centro Cultural del Sur · Gran Museo del Mundo Maya",
+      "related_ids": [
+        "C4520",
+        "C4521",
+        "E506"
+      ]
+    },
+    {
+      "id": "E508",
+      "title": "xMedia Fest 2026 · Feria de Vinculación Tecnológica y Creativa",
+      "block": "Eventos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad del Carmen",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "period": "4 de diciembre de 2026, 10:00–14:00 hora local.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "exhibition_window",
+      "checked": "2026-11-07",
+      "source": "https://2026.xmediafest.com/",
+      "references": [
+        {
+          "url": "https://2026.xmediafest.com/assets/index-BdorBu4T.js",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://2026.xmediafest.com/feria",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Verificado con el programa de la organización.",
+      "status": "Idea",
+      "age": "La feria y las charlas están abiertas al público. Confirmar edad mínima y acceso de menores a cada zona.",
+      "mat": "Confirmar edad y acceso con la organización.",
+      "osc": "Confirmar edad y acceso con la organización.",
+      "format": "Muestra de proyectos multimedia de estudiantes, estudios creativos y empresas.",
+      "entry": "La feria y las charlas están abiertas al público. Confirmar edad mínima y acceso de menores a cada zona.",
+      "gear": "",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "Gratis.",
+      "level": "Exposición regional para visitantes",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Confirmar la admisión infantil a la feria del 4 de diciembre. Los talleres tienen inscripción separada.",
+      "note": "",
+      "themes": [
+        "technology",
+        "games",
+        "makers"
+      ],
+      "scope": "regional",
+      "importance_reason": "Exposición regional para visitantes",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "visitor_policy": "confirm_children",
+      "exhibition_tier": "family_alternative",
+      "exhibitors": [],
+      "exhibitor_note": "Confirmar expositores y proyectos en el programa de la sede.",
+      "adult_entry": "Gratis.",
+      "visitor_policy_note": "La feria y las charlas están abiertas al público. Confirmar edad mínima y acceso de menores a cada zona.",
+      "venue": "Centro de Tecnologías de la Información · FCI UNACAR · Ciudad del Carmen",
+      "related_ids": [
+        "C4522",
+        "C4523",
+        "C4524"
+      ]
+    },
+    {
+      "id": "C4522",
+      "title": "xMedia Fest 2026 · GameJam",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad del Carmen",
+      "start": "2026-12-02",
+      "end": "2026-12-03",
+      "period": "24 horas, de las 09:00 del 2 de diciembre a las 09:00 del 3 de diciembre.",
+      "deadline": "2026-11-20",
+      "date_status": "Confirmado",
+      "date_scope": "competition",
+      "checked": "2026-11-07",
+      "source": "https://2026.xmediafest.com/convocatorias/gamejam-2026.pdf",
+      "references": [
+        {
+          "url": "https://2026.xmediafest.com/concursos/",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://2026.xmediafest.com/assets/index-BdorBu4T.js",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Estudiantes de UNACAR u otras instituciones de educación superior. Equipo de 3–5, docente y constancia del curso ODS para al menos una persona.",
+      "mat": "No. Se exige ser estudiante de una institución indicada en las bases.",
+      "osc": "No. Se exige ser estudiante de una institución indicada en las bases.",
+      "format": "Estudiantes de UNACAR u otras instituciones de educación superior. Equipo de 3–5, docente y constancia del curso ODS para al menos una persona.",
+      "entry": "Estudiantes de UNACAR u otras instituciones de educación superior. Equipo de 3–5, docente y constancia del curso ODS para al menos una persona.",
+      "gear": "Creación de un videojuego en 24 horas con presentación presencial.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "Gratis.",
+      "level": "Fase regional",
+      "reward": "Puesto o premio según el acta de la fase.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Aún no se publican la próxima convocatoria ni su calendario.",
+      "note": "El PDF vigente fija un máximo de 6 equipos. La copia del buscador mostraba 10. Se usa el PDF como base vigente.",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Fase regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "rules",
+      "venue": "Centro de Tecnologías de la Información · FCI UNACAR · Ciudad del Carmen",
+      "registration_status": "Solicitudes según las bases del concurso y solo para el alumnado indicado.",
+      "deadline_note": "23:59 según las bases.",
+      "team_min": 3,
+      "team_max": 5,
+      "related_ids": [
+        "E508",
+        "C4523",
+        "C4524"
+      ]
+    },
+    {
+      "id": "C4523",
+      "title": "xMedia Fest 2026 · LUMIA",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad del Carmen",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "period": "",
+      "deadline": "2026-11-22",
+      "date_status": "Confirmado",
+      "date_scope": "submission_deadline",
+      "checked": "2026-11-07",
+      "source": "https://2026.xmediafest.com/convocatorias/lumia-2026.pdf",
+      "references": [
+        {
+          "url": "https://2026.xmediafest.com/concursos/",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://2026.xmediafest.com/assets/index-BdorBu4T.js",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Alumnado activo de UNACAR. Individual o con colaboradores. El premio corresponde a la dirección.",
+      "mat": "No. Se exige ser estudiante de una institución indicada en las bases.",
+      "osc": "No. Se exige ser estudiante de una institución indicada en las bases.",
+      "format": "Alumnado activo de UNACAR. Individual o con colaboradores. El premio corresponde a la dirección.",
+      "entry": "Alumnado activo de UNACAR. Individual o con colaboradores. El premio corresponde a la dirección.",
+      "gear": "Corto animado de 2–5 minutos con uso declarado de IA.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "Gratis.",
+      "level": "Fase regional",
+      "reward": "Puesto o premio según el acta de la fase.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Aún no se publican la próxima convocatoria ni su calendario.",
+      "note": "",
+      "themes": [
+        "ai",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Fase regional",
+      "participation": "individual_or_team",
+      "admission_kind": "school",
+      "evidence_level": "rules",
+      "venue": "Centro de Tecnologías de la Información · FCI UNACAR · Ciudad del Carmen",
+      "registration_status": "Solicitudes según las bases del concurso y solo para el alumnado indicado.",
+      "deadline_note": "23:59 según las bases.",
+      "related_ids": [
+        "E508",
+        "C4522",
+        "C4524"
+      ]
+    },
+    {
+      "id": "C4524",
+      "title": "xMedia Fest 2026 · Madi-verso",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad del Carmen",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "period": "",
+      "deadline": "2026-11-22",
+      "date_status": "Confirmado",
+      "date_scope": "submission_deadline",
+      "checked": "2026-11-07",
+      "source": "https://2026.xmediafest.com/convocatorias/madiverso-2026.pdf",
+      "references": [
+        {
+          "url": "https://2026.xmediafest.com/concursos/",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://2026.xmediafest.com/assets/index-BdorBu4T.js",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Solo alumnado de bachillerato o educación superior de UNACAR. Una propuesta individual.",
+      "mat": "No. Se exige ser estudiante de una institución indicada en las bases.",
+      "osc": "No. Se exige ser estudiante de una institución indicada en las bases.",
+      "format": "Solo alumnado de bachillerato o educación superior de UNACAR. Una propuesta individual.",
+      "entry": "Solo alumnado de bachillerato o educación superior de UNACAR. Una propuesta individual.",
+      "gear": "Arte conceptual de personaje y narrativa visual.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "Gratis.",
+      "level": "Fase regional",
+      "reward": "Puesto o premio según el acta de la fase.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Aún no se publican la próxima convocatoria ni su calendario.",
+      "note": "",
+      "themes": [
+        "technology",
+        "makers"
+      ],
+      "scope": "regional",
+      "importance_reason": "Fase regional",
+      "participation": "individual",
+      "admission_kind": "school",
+      "evidence_level": "rules",
+      "venue": "Centro de Tecnologías de la Información · FCI UNACAR · Ciudad del Carmen",
+      "registration_status": "Solicitudes según las bases del concurso y solo para el alumnado indicado.",
+      "deadline_note": "23:59 según las bases.",
+      "related_ids": [
+        "E508",
+        "C4522",
+        "C4523"
+      ]
+    },
+    {
+      "id": "E509",
+      "title": "Universum UNAM · Garabateando bichitos",
+      "block": "Eventos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad de México",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "period": "Hora local 11:00–11:30.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "event_day",
+      "checked": "2026-11-07",
+      "source": "https://www.universum.unam.mx/actividades/index/2026/12/12",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Verificado con el programa de la organización.",
+      "status": "Idea",
+      "age": "Edades de 3 a 6 años.",
+      "mat": "No por edad. Es posible la visita general al museo.",
+      "osc": "Sí por edad. Acudir con una persona adulta y confirmar plaza.",
+      "format": "Programa científico familiar",
+      "entry": "Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.",
+      "gear": "Anatomía de los insectos y dibujo científico.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas.",
+      "level": "Programa científico familiar",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.",
+      "note": "El horario del museo puede cambiar.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Exposición regional para visitantes",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "visitor_policy": "family",
+      "exhibition_tier": "family_alternative",
+      "exhibitors": [],
+      "exhibitor_note": "Confirmar expositores y proyectos en el programa de la sede.",
+      "venue": "Universum UNAM · Ciudad Universitaria, Coyoacán · Vestíbulo · jardín del Espacio Infantil",
+      "visitor_policy_note": "Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.",
+      "adult_entry": "Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas."
+    },
+    {
+      "id": "E510",
+      "title": "Universum UNAM · DinoAlebrijes",
+      "block": "Eventos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad de México",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "period": "Hora local 12:00–12:40.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "event_day",
+      "checked": "2026-11-07",
+      "source": "https://www.universum.unam.mx/actividades/index/2026/12/12",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Verificado con el programa de la organización.",
+      "status": "Idea",
+      "age": "Edades de 4 a 8 años.",
+      "mat": "No por edad. Es posible la visita general al museo.",
+      "osc": "Sí por edad. Acudir con una persona adulta y confirmar plaza.",
+      "format": "Programa científico familiar",
+      "entry": "Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.",
+      "gear": "Diferencias entre dinosaurios y otros animales mediante la creación de un modelo.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas.",
+      "level": "Programa científico familiar",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.",
+      "note": "El horario del museo puede cambiar.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Exposición regional para visitantes",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "visitor_policy": "family",
+      "exhibition_tier": "family_alternative",
+      "exhibitors": [],
+      "exhibitor_note": "Confirmar expositores y proyectos en el programa de la sede.",
+      "venue": "Universum UNAM · Ciudad Universitaria, Coyoacán · Vestíbulo Universum",
+      "visitor_policy_note": "Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.",
+      "adult_entry": "Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas."
+    },
+    {
+      "id": "E511",
+      "title": "Universum UNAM · Átomos brillantes",
+      "block": "Eventos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad de México",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "period": "Hora local 12:00–12:30.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "event_day",
+      "checked": "2026-11-07",
+      "source": "https://www.universum.unam.mx/actividades/index/2026/12/12",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Verificado con el programa de la organización.",
+      "status": "Idea",
+      "age": "Desde 8 años.",
+      "mat": "Sí por edad. Acudir con una persona adulta y confirmar plaza.",
+      "osc": "No por edad. Es posible la visita general al museo.",
+      "format": "Programa científico familiar",
+      "entry": "Acceso con entrada al museo. Grupo de 10 participantes. Confirmar allí cómo inscribirse.",
+      "gear": "Introducción lúdica a los modelos atómicos y al modelo de Bohr.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas.",
+      "level": "Programa científico familiar",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Acceso con entrada al museo. Grupo de 10 participantes. Confirmar allí cómo inscribirse.",
+      "note": "El horario del museo puede cambiar.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Exposición regional para visitantes",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "visitor_policy": "family",
+      "exhibition_tier": "family_alternative",
+      "exhibitors": [],
+      "exhibitor_note": "Confirmar expositores y proyectos en el programa de la sede.",
+      "venue": "Universum UNAM · Ciudad Universitaria, Coyoacán · Mosaico de Física",
+      "visitor_policy_note": "Acceso con entrada al museo. Grupo de 10 participantes. Confirmar allí cómo inscribirse.",
+      "adult_entry": "Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas."
+    },
+    {
+      "id": "E512",
+      "title": "Universum UNAM · Pequenautas al espacio",
+      "block": "Eventos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad de México",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "period": "Hora local 14:00–14:40.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "event_day",
+      "checked": "2026-11-07",
+      "source": "https://www.universum.unam.mx/actividades/index/2026/12/13",
+      "references": [
+        {
+          "url": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Verificado con el programa de la organización.",
+      "status": "Idea",
+      "age": "Edades de 3 a 6 años.",
+      "mat": "No por edad. Es posible la visita general al museo.",
+      "osc": "Sí por edad. Acudir con una persona adulta y confirmar plaza.",
+      "format": "Programa científico familiar",
+      "entry": "Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.",
+      "gear": "Retos de astronauta y recorrido por las exposiciones de matemáticas y del espacio.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas.",
+      "level": "Programa científico familiar",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.",
+      "note": "El horario del museo puede cambiar.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Exposición regional para visitantes",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "visitor_policy": "family",
+      "exhibition_tier": "family_alternative",
+      "exhibitors": [],
+      "exhibitor_note": "Confirmar expositores y proyectos en el programa de la sede.",
+      "venue": "Universum UNAM · Ciudad Universitaria, Coyoacán · Vestíbulo · Imaginario matemático y Universo",
+      "visitor_policy_note": "Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.",
+      "adult_entry": "Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas."
+    },
+    {
+      "id": "L747",
+      "title": "Young Engineers · Mérida Poniente & Conkal · Summer",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Plaza Fora Local 22 · Calle 61 No. 109 x 22 · Conkal, Yucatán",
+      "start": "",
+      "end": "",
+      "period": "El programa de verano figura entre los servicios. No se publican año, fechas, horario ni convocatoria.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://meridaponiente-conkal.youngengineers.org/",
+      "references": [],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "La edad del campamento de verano no está publicada. Los cursos regulares indican grupos de 4–6, 6–10, 7–10, 9–11 y 12–15.",
+      "mat": "Confirmar edad y acceso con la organización.",
+      "osc": "Confirmar edad y acceso con la organización.",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "gear": "Escuela local de construcción, mecánica y robótica. Publica actividades de verano y grupos regulares separados.",
+      "language": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "cost": "No se publican precio, equipo ni condiciones de devolución del grupo vigente.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "note": "El programa de verano figura entre los servicios. No se publican año, fechas, horario ni convocatoria.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "El programa de verano figura entre los servicios. No se publican año, fechas, horario ni convocatoria.",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "related_ids": [
+        "L750"
+      ]
+    },
+    {
+      "id": "L748",
+      "title": "Binario Robotic · Mérida · Talleres intensivos",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Mérida, Yucatán",
+      "start": "",
+      "end": "",
+      "period": "La página de talleres muestra verano de 2026. Aún no se publican fechas de invierno 2026–2027 ni de verano 2027.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://roboticabinario.com/cursos",
+      "references": [
+        {
+          "url": "https://roboticabinario.com/talleres",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://roboticabinario.com/",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Escuela regular de 7–18 años. Por edad, Matvey encaja en los grupos 7–9 y 8–10. Confirmar la edad de cada intensivo.",
+      "mat": "Condicional. Encaja por edad en la escuela regular. Confirmar el turno elegido.",
+      "osc": "Condicional. La escuela regular exige al menos 7 años. Confirmar las bases de cada turno.",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "gear": "Robótica, electrónica y programación. Se anuncian talleres intensivos en primavera, verano e invierno.",
+      "language": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "cost": "No se publican precio, equipo ni condiciones de devolución del grupo vigente.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "note": "La página de talleres muestra verano de 2026. Aún no se publican fechas de invierno 2026–2027 ni de verano 2027.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "La página de talleres muestra verano de 2026. Aún no se publican fechas de invierno 2026–2027 ni de verano 2027.",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "related_ids": [
+        "L749"
+      ]
+    },
+    {
+      "id": "L749",
+      "title": "Binario Robotic · Mérida · Cursos anuales",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Mérida, Yucatán",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://roboticabinario.com/cursos",
+      "references": [
+        {
+          "url": "https://roboticabinario.com/",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Clases regulares los sábados, programa de 11 meses. A los 9 años encajan Exploradores 7–9 y Constructores 8–10.",
+      "mat": "Sí por edad. Se requieren plaza e inscripción.",
+      "osc": "No. La edad mínima para las clases regulares es de 7 años.",
+      "format": "Clases regulares los sábados, programa de 11 meses. A los 9 años encajan Exploradores 7–9 y Constructores 8–10.",
+      "entry": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "gear": "Robótica, electrónica y programación. Se anuncian talleres intensivos en primavera, verano e invierno.",
+      "language": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "cost": "No se publican precio, equipo ni condiciones de devolución del grupo vigente.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "note": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Clases regulares los sábados, programa de 11 meses. A los 9 años encajan Exploradores 7–9 y Constructores 8–10.",
+      "participation": "course",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "related_ids": [
+        "L748"
+      ]
+    },
+    {
+      "id": "L750",
+      "title": "Young Engineers · Conkal · STEM 6–10",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Conkal",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://meridaponiente-conkal.youngengineers.org/",
+      "references": [],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Edades de 6 a 10 años.",
+      "mat": "Sí por edad. Se requieren plaza e inscripción.",
+      "osc": "Sí por edad. Se requieren plaza e inscripción.",
+      "format": "Clases regulares de 75 minutos en grupos de 6–10 años. Confirmar días, programa y plazas.",
+      "entry": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "gear": "Escuela local de construcción, mecánica y robótica. Publica actividades de verano y grupos regulares separados.",
+      "language": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "cost": "No se publican precio, equipo ni condiciones de devolución del grupo vigente.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "note": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Escuela local de construcción, mecánica y robótica. Publica actividades de verano y grupos regulares separados.",
+      "participation": "course",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "venue": "Plaza Fora Local 22 · Calle 61 No. 109 x 22 · Conkal, Yucatán",
+      "related_ids": [
+        "L747"
       ]
     },
     {

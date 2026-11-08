@@ -1,6 +1,6 @@
 # Каникулы 2026–2027: подробные досье
 
-Состояние базы: 2026-11-07. 1915 досье в 125 странах. Даты проверки отдельных источников приведены в каждом досье.
+Состояние базы: 2026-11-07. 1917 досье в 125 странах. Даты проверки отдельных источников приведены в каждом досье.
 
 Приоритетный углублённый проход: общие и тематические лагеря, технические курсы и каникулярные пансионы. Это отдельный реестр программ/операторов, а не количество уникальных лагерей в старой базе смен и занятий.
 
@@ -7604,7 +7604,7 @@ Magic Factory 1–4 классы 25–29 января; Physical Workshop 1–5 �
 
 Мексика · Toluca
 
-**Проверено:** 2026-10-05
+**Проверено:** 2026-11-07
 
 **Возраст:** Числовой campagegate не указан; регулярные уровни школы 4–6/7–8/9–11/11+ не автоматически holidayintake
 
@@ -7670,7 +7670,7 @@ Magic Factory 1–4 классы 25–29 января; Physical Workshop 1–5 �
 
 - [Официальные программы](https://ciberbots.com.mx/inicio) · 2026-10-04
 
-- [Собственные будущие holidayprogrammes и отдельные школьные уровни](https://www.ciberbots.com.mx/services) · 2026-10-05
+- [Собственные будущие holidayprogrammes и отдельные школьные уровни](https://www.ciberbots.com.mx/services) · 2026-11-07
 
 ## CP044 · Camp Valle Verde
 
@@ -12312,7 +12312,7 @@ Arowhon · короткий Mini для первого лесного панси
 
 Мексика · Conkal /Yucatán · зимнюю площадку подтвердить
 
-**Проверено:** 2026-10-04
+**Проверено:** 2026-11-07
 
 **Возраст:** Winter-возраст не объявлен; SummerFAQ 4–18 не переносится автоматически
 
@@ -12344,7 +12344,7 @@ Arowhon · короткий Mini для первого лесного панси
 
 ### Источники
 
-- [Winterwindow /тариф /общий FAQ прочитан в браузере](https://liotacamps.com/) · 2026-10-04
+- [Winterwindow /тариф /общий FAQ прочитан в браузере](https://liotacamps.com/) · 2026-11-07
 
 ## CP097 · Los Pellines · Pioneros
 
@@ -78656,9 +78656,9 @@ FOD · Juguemos a crear Robots · проверенный возраст и ра�
 
 ### Источники
 
-- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
 
-- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
 
 ## CP1125 · FOD Líderes del Futuro · Mis Historias Animadas
 
@@ -78766,9 +78766,9 @@ FOD · Mis Historias Animadas · проверенный возраст и рас
 
 ### Источники
 
-- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
 
-- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
 
 ## CP1126 · FOD Líderes del Futuro · Creatividad y diseño con robótica · 7–9
 
@@ -78876,9 +78876,9 @@ FOD · Creatividad y diseño con robótica · 7–9 · проверенный в
 
 ### Источники
 
-- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
 
-- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
 
 ## CP1127 · FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación
 
@@ -79014,9 +79014,9 @@ FOD · Nivel 1 · Principios de construcción y programación · провере�
 
 ### Источники
 
-- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
 
-- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
 
 ## CP1128 · FOD Líderes del Futuro · Nivel 2 · Sistemas inteligentes: sensores y engranajes
 
@@ -79126,9 +79126,9 @@ FOD · Nivel 2 · Sistemas inteligentes: sensores y engranajes · провере
 
 ### Источники
 
-- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+- [Официальное объявление сезона](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
 
-- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Публичная программа, даты и условия стоимости](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
 
 ## CP1129 · FOD Líderes del Futuro · Nivel 3 · Grados de libertad, sincronización y publicación
 
@@ -154309,6 +154309,86 @@ FOD · Nivel 4 · Líneas de procesamiento y acciones de datos · провере
 - [Официальная страница, регламент или календарь профильной ассоциации.](https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d) · 2026-11-07
 
 - [Официальная страница, регламент или календарь профильной ассоциации.](https://mobile.nstm.gov.tw/Ticket) · 2026-11-07
+
+## CP1916 · Young Engineers · Mérida Poniente & Conkal · Summer
+
+Мексика · Plaza Fora Local 22 · Calle 61 No. 109 x 22 · Conkal, Yucatán
+
+**Проверено:** 2026-11-07
+
+**Возраст:** Возраст летней смены не опубликован. Для регулярных занятий указаны группы 4–6, 6–10, 7–10, 9–11 и 12–15.
+
+**Язык:** Материалы на испанском. Язык инструктора и возможность обучения на английском уточнить.
+
+**Программа:** Локальная школа конструирования, механики и робототехники. Опубликован формат летних активностей и отдельные регулярные группы.
+
+**Проживание:** Дневной формат без проживания.
+
+**Даты / статус:** Летняя программа указана среди услуг. Год, даты, часы и набор не объявлены.
+
+**Цена / год:** не установлен · Цена, комплект техники и условия возврата по текущей группе не опубликованы.
+
+**Включено:** Точный тариф выбранного набора не подтверждён.
+
+**Доплаты:** Цена, комплект техники и условия возврата по текущей группе не опубликованы.
+
+**Матвей:** Возраст и доступ уточнить у организатора.
+
+**Оскар:** Возраст и доступ уточнить у организатора.
+
+**Почему в отборе:** Летняя программа указана среди услуг. Год, даты, часы и набор не объявлены.
+
+### Перед заявкой
+
+- Перед поездкой проверить места, язык занятия и условия сопровождения.
+
+- Цена, комплект техники и условия возврата по текущей группе не опубликованы.
+
+### Источники
+
+- [Официальная страница, регламент или календарь профильной ассоциации.](https://meridaponiente-conkal.youngengineers.org/) · 2026-11-07
+
+## CP1917 · Binario Robotic · Mérida · Talleres intensivos
+
+Мексика · Mérida, Yucatán
+
+**Проверено:** 2026-11-07
+
+**Возраст:** Регулярная школа 7–18 лет. Группы 7–9 и 8–10 доступны по возрасту Матвея. Возраст отдельного интенсива уточнить.
+
+**Язык:** Материалы на испанском. Язык инструктора и возможность обучения на английском уточнить.
+
+**Программа:** Робототехника, электроника и программирование. Интенсивы весной, летом и зимой заявлены как формат.
+
+**Проживание:** Дневной формат без проживания.
+
+**Даты / статус:** Страница мастерских показывает лето 2026. Даты зимы 2026–2027 и лета 2027 пока не опубликованы.
+
+**Цена / год:** не установлен · Цена, комплект техники и условия возврата по текущей группе не опубликованы.
+
+**Включено:** Точный тариф выбранного набора не подтверждён.
+
+**Доплаты:** Цена, комплект техники и условия возврата по текущей группе не опубликованы.
+
+**Матвей:** Условно. Подходит по возрасту регулярной школы. Уточнить выбранную смену.
+
+**Оскар:** Условно. Для регулярной школы минимум 7 лет. Для отдельной смены уточнить правила.
+
+**Почему в отборе:** Страница мастерских показывает лето 2026. Даты зимы 2026–2027 и лета 2027 пока не опубликованы.
+
+### Перед заявкой
+
+- Перед поездкой проверить места, язык занятия и условия сопровождения.
+
+- Цена, комплект техники и условия возврата по текущей группе не опубликованы.
+
+### Источники
+
+- [Официальная страница, регламент или календарь профильной ассоциации.](https://roboticabinario.com/cursos) · 2026-11-07
+
+- [Официальная страница, регламент или календарь профильной ассоциации.](https://roboticabinario.com/talleres) · 2026-11-07
+
+- [Официальная страница, регламент или календарь профильной ассоциации.](https://roboticabinario.com/) · 2026-11-07
 
 ## Не закрытые проверки
 

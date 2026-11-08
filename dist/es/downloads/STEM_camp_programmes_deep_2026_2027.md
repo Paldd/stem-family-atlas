@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1915 fichas en 125 países. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-07. 1917 fichas en 125 países. Cada ficha indica la fecha de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -7604,7 +7604,7 @@ Costa Rica - Ojochal
 
 México · Toluca
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-07
 
 **Edad:** Número campagegate No especificado; Niveles escolares regulares 4–6/7–8/9–11/11+ no automática holidayintake
 
@@ -7670,7 +7670,7 @@ Un candidato técnico mexicano útil, sin autorización de vacaciones demostrada
 
 - [programas oficiales](https://ciberbots.com.mx/inicio) · 2026-10-04
 
-- [sus propios programas de vacaciones futuros y niveles escolares individuales](https://www.ciberbots.com.mx/services) · 2026-10-05
+- [sus propios programas de vacaciones futuros y niveles escolares individuales](https://www.ciberbots.com.mx/services) · 2026-11-07
 
 ## CP044 · Camp Valle Verde
 
@@ -12312,7 +12312,7 @@ México · Naucalpan / Estado de México
 
 México · Conkal /Yucatán · Base de invierno
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-07
 
 ** Edad: ** No se ha anunciado la edad Winter; SummerFAQ 4*18 no se transmite automáticamente
 
@@ -12344,7 +12344,7 @@ México · Conkal /Yucatán · Base de invierno
 
 ### Fuentes
 
-- [Winterwindow /tarifas /FAQ general Leído en el navegador](https://liotacamps.com/) · 2026-10-04
+- [Winterwindow /tarifas /FAQ general Leído en el navegador](https://liotacamps.com/) · 2026-11-07
 
 ## CP097 · Los Pellines · Pioneros
 
@@ -78656,9 +78656,9 @@ FOD · Juguemos a crear Robots · edad y horario comprobados, nivel lectivo por 
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
 
 ## CP1125 · FOD Líderes del Futuro · Mis Historias Animadas
 
@@ -78766,9 +78766,9 @@ FOD · Mis Historias Animadas · edad y horario comprobados, nivel lectivo por a
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
 
 ## CP1126 · FOD Líderes del Futuro · Creatividad y diseño con robótica · 7–9
 
@@ -78876,9 +78876,9 @@ FOD · Creatividad y diseño con robótica · 7–9 · edad y horario comprobado
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
 
 ## CP1127 · FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación
 
@@ -79014,9 +79014,9 @@ FOD · Nivel 1 · Principios de construcción y programación · edad y horario 
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
 
 ## CP1128 · FOD Líderes del Futuro · Nivel 2 · Sistemas inteligentes: sensores y engranajes
 
@@ -79126,9 +79126,9 @@ FOD · Nivel 2 · Sistemas inteligentes: sensores y engranajes · edad y horario
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-06
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-06
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
 
 ## CP1129 · FOD Líderes del Futuro · Nivel 3 · Grados de libertad, sincronización y publicación
 
@@ -154309,6 +154309,86 @@ Taiwán · NSTM North · 3F
 - [Página oficial, reglamento o calendario de la asociación del sector.](https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d) · 2026-11-07
 
 - [Página oficial, reglamento o calendario de la asociación del sector.](https://mobile.nstm.gov.tw/Ticket) · 2026-11-07
+
+## CP1916 · Young Engineers · Mérida Poniente & Conkal · Summer
+
+México · Plaza Fora Local 22 · Calle 61 No. 109 x 22 · Conkal, Yucatán
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** La edad del campamento de verano no está publicada. Los cursos regulares indican grupos de 4–6, 6–10, 7–10, 9–11 y 12–15.
+
+**Idioma:** Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.
+
+**Programa:** Escuela local de construcción, mecánica y robótica. Publica actividades de verano y grupos regulares separados.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El programa de verano figura entre los servicios. No se publican año, fechas, horario ni convocatoria.
+
+**Precio / año:** sin establecer · No se publican precio, equipo ni condiciones de devolución del grupo vigente.
+
+**Incluido:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Suplementos:** No se publican precio, equipo ni condiciones de devolución del grupo vigente.
+
+**Matvey:** Confirmar edad y acceso con la organización.
+
+**Oscar:** Confirmar edad y acceso con la organización.
+
+**Por qué se seleccionó:** El programa de verano figura entre los servicios. No se publican año, fechas, horario ni convocatoria.
+
+### Antes de solicitar plaza
+
+- Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+
+- No se publican precio, equipo ni condiciones de devolución del grupo vigente.
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://meridaponiente-conkal.youngengineers.org/) · 2026-11-07
+
+## CP1917 · Binario Robotic · Mérida · Talleres intensivos
+
+México · Mérida, Yucatán
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Escuela regular de 7–18 años. Por edad, Matvey encaja en los grupos 7–9 y 8–10. Confirmar la edad de cada intensivo.
+
+**Idioma:** Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.
+
+**Programa:** Robótica, electrónica y programación. Se anuncian talleres intensivos en primavera, verano e invierno.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** La página de talleres muestra verano de 2026. Aún no se publican fechas de invierno 2026–2027 ni de verano 2027.
+
+**Precio / año:** sin establecer · No se publican precio, equipo ni condiciones de devolución del grupo vigente.
+
+**Incluido:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Suplementos:** No se publican precio, equipo ni condiciones de devolución del grupo vigente.
+
+**Matvey:** Condicional. Encaja por edad en la escuela regular. Confirmar el turno elegido.
+
+**Oscar:** Condicional. La escuela regular exige al menos 7 años. Confirmar las bases de cada turno.
+
+**Por qué se seleccionó:** La página de talleres muestra verano de 2026. Aún no se publican fechas de invierno 2026–2027 ni de verano 2027.
+
+### Antes de solicitar plaza
+
+- Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+
+- No se publican precio, equipo ni condiciones de devolución del grupo vigente.
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://roboticabinario.com/cursos) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://roboticabinario.com/talleres) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://roboticabinario.com/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

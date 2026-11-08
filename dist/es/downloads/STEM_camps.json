@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 4925,
-      "holiday": 4594,
+      "records": 4929,
+      "holiday": 4596,
       "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1036,
@@ -7738,7 +7738,7 @@
       "action": "antes de la reservación obtener la edad, la lengua, la disponibilidad de lugares y las condiciones de cancelación",
       "source": "https://www.ciberbots.com.mx/services",
       "proof": "los servicios actuales de Ciberbots describen la temporada futura, no las fechas concretas; edad / idioma regular courses no se han trasladado a las vacaciones.",
-      "checked": "2026-10-02",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "Regular Preschool 4–6 / Beginner 7–8 / Basic 9–11 no se transfieren automáticamente a la edad del campamento. Competition route sólo se indica para escolarizado de la escuela: compra holiday camp no promete participar ni medalla.",
       "themes": [
@@ -7750,7 +7750,8 @@
       "evidence_level": "program",
       "iso": [
         "MEX"
-      ]
+      ],
+      "references": []
     },
     {
       "id": "L117",
@@ -9064,7 +9065,7 @@
       "language": "EN / ES candidato; el idioma de Winter Camp no está confirmado",
       "languages": [],
       "language_certainty": "el idioma del sitio web y la traducción automática no confirman el idioma de enseñanza.",
-      "cost": "el proveedor publica MX$3 200 early bird hasta el 30.11.2026 y MX$4 000 regular; el composto del período / tarifa requiere aclaración",
+      "cost": "MXN 3200 por el paquete anunciado hasta el 30.11.2026, luego MXN 4000. Confirmar días, alcance y devoluciones.",
       "scope": "national",
       "level": "evento regional",
       "importance_reason": "evaluación editorial del programa y la geografía; no es un ranking mundial oficial.",
@@ -9074,7 +9075,7 @@
       "source": "https://liotacamps.com/",
       "references": [],
       "proof": "se ha leído la descripción pública del sitio web actual del proveedor: Winter Camp, el período, STEM / arte / deportes / tecnología y el precio. La contradicción 19 días contra 4 weeks Se guardó.",
-      "checked": "2026-10-01",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "en la descripción 17 diciembre – 4 enero del mismo año se indicó 4 weeks; Sin especificar , no se puede considerar que es cuatro semanas de estudio .. red general 09:00–13:00, las opiniones sobre bilingüe y otros programas no prueban el horario / el idioma del turno de invierno. no se ha encontrado la edad numérica; de la ciudad de FTI Bowl no incluido como STEM-el torneo. el período no se descarga en ICS.",
       "themes": [
@@ -38223,6 +38224,225 @@
       "venue": "Taipei World Trade Center · Hall 1",
       "related_ids": [
         "E495"
+      ]
+    },
+    {
+      "id": "L747",
+      "title": "Young Engineers · Mérida Poniente & Conkal · Summer",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Plaza Fora Local 22 · Calle 61 No. 109 x 22 · Conkal, Yucatán",
+      "start": "",
+      "end": "",
+      "period": "El programa de verano figura entre los servicios. No se publican año, fechas, horario ni convocatoria.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://meridaponiente-conkal.youngengineers.org/",
+      "references": [],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "La edad del campamento de verano no está publicada. Los cursos regulares indican grupos de 4–6, 6–10, 7–10, 9–11 y 12–15.",
+      "mat": "Confirmar edad y acceso con la organización.",
+      "osc": "Confirmar edad y acceso con la organización.",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "gear": "Escuela local de construcción, mecánica y robótica. Publica actividades de verano y grupos regulares separados.",
+      "language": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "cost": "No se publican precio, equipo ni condiciones de devolución del grupo vigente.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "note": "El programa de verano figura entre los servicios. No se publican año, fechas, horario ni convocatoria.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "El programa de verano figura entre los servicios. No se publican año, fechas, horario ni convocatoria.",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "related_ids": [
+        "L750"
+      ]
+    },
+    {
+      "id": "L748",
+      "title": "Binario Robotic · Mérida · Talleres intensivos",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Mérida, Yucatán",
+      "start": "",
+      "end": "",
+      "period": "La página de talleres muestra verano de 2026. Aún no se publican fechas de invierno 2026–2027 ni de verano 2027.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://roboticabinario.com/cursos",
+      "references": [
+        {
+          "url": "https://roboticabinario.com/talleres",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://roboticabinario.com/",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Escuela regular de 7–18 años. Por edad, Matvey encaja en los grupos 7–9 y 8–10. Confirmar la edad de cada intensivo.",
+      "mat": "Condicional. Encaja por edad en la escuela regular. Confirmar el turno elegido.",
+      "osc": "Condicional. La escuela regular exige al menos 7 años. Confirmar las bases de cada turno.",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "gear": "Robótica, electrónica y programación. Se anuncian talleres intensivos en primavera, verano e invierno.",
+      "language": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "cost": "No se publican precio, equipo ni condiciones de devolución del grupo vigente.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "note": "La página de talleres muestra verano de 2026. Aún no se publican fechas de invierno 2026–2027 ni de verano 2027.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "La página de talleres muestra verano de 2026. Aún no se publican fechas de invierno 2026–2027 ni de verano 2027.",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "related_ids": [
+        "L749"
+      ]
+    },
+    {
+      "id": "L749",
+      "title": "Binario Robotic · Mérida · Cursos anuales",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Mérida, Yucatán",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://roboticabinario.com/cursos",
+      "references": [
+        {
+          "url": "https://roboticabinario.com/",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Clases regulares los sábados, programa de 11 meses. A los 9 años encajan Exploradores 7–9 y Constructores 8–10.",
+      "mat": "Sí por edad. Se requieren plaza e inscripción.",
+      "osc": "No. La edad mínima para las clases regulares es de 7 años.",
+      "format": "Clases regulares los sábados, programa de 11 meses. A los 9 años encajan Exploradores 7–9 y Constructores 8–10.",
+      "entry": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "gear": "Robótica, electrónica y programación. Se anuncian talleres intensivos en primavera, verano e invierno.",
+      "language": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "cost": "No se publican precio, equipo ni condiciones de devolución del grupo vigente.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "note": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Clases regulares los sábados, programa de 11 meses. A los 9 años encajan Exploradores 7–9 y Constructores 8–10.",
+      "participation": "course",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "related_ids": [
+        "L748"
+      ]
+    },
+    {
+      "id": "L750",
+      "title": "Young Engineers · Conkal · STEM 6–10",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Conkal",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://meridaponiente-conkal.youngengineers.org/",
+      "references": [],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Edades de 6 a 10 años.",
+      "mat": "Sí por edad. Se requieren plaza e inscripción.",
+      "osc": "Sí por edad. Se requieren plaza e inscripción.",
+      "format": "Clases regulares de 75 minutos en grupos de 6–10 años. Confirmar días, programa y plazas.",
+      "entry": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "gear": "Escuela local de construcción, mecánica y robótica. Publica actividades de verano y grupos regulares separados.",
+      "language": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "cost": "No se publican precio, equipo ni condiciones de devolución del grupo vigente.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "note": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Escuela local de construcción, mecánica y robótica. Publica actividades de verano y grupos regulares separados.",
+      "participation": "course",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "venue": "Plaza Fora Local 22 · Calle 61 No. 109 x 22 · Conkal, Yucatán",
+      "related_ids": [
+        "L747"
       ]
     },
     {

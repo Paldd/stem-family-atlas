@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 9948,
-    "competition_cards": 4518,
-    "event_cards": 505,
-    "camp_cards": 4925,
+    "cards": 9964,
+    "competition_cards": 4523,
+    "event_cards": 512,
+    "camp_cards": 4929,
     "league_profiles": 298,
-    "major_exhibition_cards": 408,
+    "major_exhibition_cards": 415,
     "vex_cards": 814,
     "countries_with_records": 211,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3241,
+      "total": 3257,
       "countries_with_records": 37,
-      "competitions": 1884,
-      "events": 123,
-      "major_exhibitions": 85,
-      "camps": 1234,
+      "competitions": 1889,
+      "events": 130,
+      "major_exhibitions": 92,
+      "camps": 1238,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -13130,6 +13130,83 @@
       "new": false
     },
     {
+      "id": "E506",
+      "name": "Churumbela 2026 · cine infantil y animación · Ciudad de México",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-18",
+      "end": "2026-11-22",
+      "visitor_policy": "family",
+      "source": "https://www.churumbelafest.com/seleccion-2026",
+      "new": false
+    },
+    {
+      "id": "E507",
+      "name": "Churumbela 2026 · cine infantil y animación · Mérida",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-12-04",
+      "end": "2026-12-06",
+      "visitor_policy": "family",
+      "source": "https://www.churumbelafest.com/seleccion-2026",
+      "new": false
+    },
+    {
+      "id": "E508",
+      "name": "xMedia Fest 2026 · Feria de Vinculación Tecnológica y Creativa",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "visitor_policy": "confirm_children",
+      "source": "https://2026.xmediafest.com/",
+      "new": false
+    },
+    {
+      "id": "E509",
+      "name": "Universum UNAM · Garabateando bichitos",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/index/2026/12/12",
+      "new": false
+    },
+    {
+      "id": "E510",
+      "name": "Universum UNAM · DinoAlebrijes",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/index/2026/12/12",
+      "new": false
+    },
+    {
+      "id": "E511",
+      "name": "Universum UNAM · Átomos brillantes",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/index/2026/12/12",
+      "new": false
+    },
+    {
+      "id": "E512",
+      "name": "Universum UNAM · Pequenautas al espacio",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/index/2026/12/13",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -15547,8 +15624,8 @@
       }
     ],
     "counts": {
-      "records": 4925,
-      "holiday": 4594,
+      "records": 4929,
+      "holiday": 4596,
       "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1036,

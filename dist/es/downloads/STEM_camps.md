@@ -1988,7 +1988,7 @@ Costo: No se ha publicado la tarifa actual en la página de lectura
 Entrada: Solicitar semana de hecho, grupos separados para 6 y 9, idioma, costo y aceptación extranjera
 Limitaciones: Regular Preschool 4–6 / Beginner 7–8 / Basic 9–11 no se han transferido automáticamente a la edad del campamento. Competition route sólo para escolarizado Cursos: Compra holiday camp no promete participar o una medalla.
 Fuente: https://www.ciberbots.com.mx/services
-Comprobado: 2026-10-02
+Se ha comprobado: 2026-11-07
 
 ### L117 · Ciberbots Toluca — Easter / Pascua 2027
 
@@ -2384,11 +2384,11 @@ Oscar: Confidencialidad ________________ Confirmar la admisión de un niño de 6
 Formato: day_camp
 Idioma: EN / ES candidato; el idioma de Winter Camp no está confirmado
 Marca de idioma: no clasificada; soporte: no declarada
-Precio: Proveedor publica MX$3 200 early bird antes 30.11.2026 y MX$4 000 regular; Composición del período / La tarifa debe ser precisa.
+Precio: MXN 3200 por el paquete anunciado hasta el 30.11.2026, luego MXN 4000. Confirmar días, alcance y devoluciones.
 Entrada: Comprobar el organizador de LIOTA, el campo Winter Camp, 6 / 9, idioma, fechas efectivas y condiciones de devolución antes de que se pague.
 Limitaciones: En la descripción del 17 de diciembre ○ 4 de enero se indican simultáneamente 4 weeks; sin especificarlo, no puede considerarse que haya sido una cuarta semana de estudio. La red general 09:00-13:00, la información sobre bilingüe y otros programas no demuestran la programación/la lengua de turno de invierno. No se ha encontrado la edad de admisión; el FTI Bowl no está incluido como STEM. El período no se descarga en el ICS.
 Fuente: https://liotacamps.com/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-07
 
 ### L142 · STEAM SQUAD · Expedition27 · English winter camp
 
@@ -10724,6 +10724,70 @@ Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
 Acceso: Horario y reserva en la página del programa familiar. Confirmar plazas y tarifa de la actividad concreta.
 Limitaciones: Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.
 Fuente: https://events.tca.org.tw/kid/Index?categoryId=46
+Se ha comprobado: 2026-11-07
+
+### L747 · Young Engineers · Mérida Poniente & Conkal · Summer
+
+Lugar: México Plaza Fora Local 22 · Calle 61 No. 109 x 22 · Conkal, Yucatán
+Fecha: El programa de verano figura entre los servicios. No se publican año, fechas, horario ni convocatoria.
+edad: La edad del campamento de verano no está publicada. Los cursos regulares indican grupos de 4–6, 6–10, 7–10, 9–11 y 12–15.
+Matvey: Confirmar edad y acceso con la organización.
+Oscar: Confirmar edad y acceso con la organización.
+Formato: day_camp
+Idioma: Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: No se publican precio, equipo ni condiciones de devolución del grupo vigente.
+Acceso: Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+Limitaciones: El programa de verano figura entre los servicios. No se publican año, fechas, horario ni convocatoria.
+Fuente: https://meridaponiente-conkal.youngengineers.org/
+Se ha comprobado: 2026-11-07
+
+### L748 · Binario Robotic · Mérida · Talleres intensivos
+
+Lugar: México Mérida, Yucatán
+Fecha: La página de talleres muestra verano de 2026. Aún no se publican fechas de invierno 2026–2027 ni de verano 2027.
+edad: Escuela regular de 7–18 años. Por edad, Matvey encaja en los grupos 7–9 y 8–10. Confirmar la edad de cada intensivo.
+Matvey: Condicional. Encaja por edad en la escuela regular. Confirmar el turno elegido.
+Oscar: Condicional. La escuela regular exige al menos 7 años. Confirmar las bases de cada turno.
+Formato: day_camp
+Idioma: Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: No se publican precio, equipo ni condiciones de devolución del grupo vigente.
+Acceso: Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+Limitaciones: La página de talleres muestra verano de 2026. Aún no se publican fechas de invierno 2026–2027 ni de verano 2027.
+Fuente: https://roboticabinario.com/cursos
+Se ha comprobado: 2026-11-07
+
+### L749 · Binario Robotic · Mérida · Cursos anuales
+
+Lugar: México Mérida, Yucatán
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Clases regulares los sábados, programa de 11 meses. A los 9 años encajan Exploradores 7–9 y Constructores 8–10.
+Matvey: Sí por edad. Se requieren plaza e inscripción.
+Oscar: No. La edad mínima para las clases regulares es de 7 años.
+formato: course
+Idioma: Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: No se publican precio, equipo ni condiciones de devolución del grupo vigente.
+Acceso: Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+Limitaciones: Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.
+Fuente: https://roboticabinario.com/cursos
+Se ha comprobado: 2026-11-07
+
+### L750 · Young Engineers · Conkal · STEM 6–10
+
+Lugar: México Conkal
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Edades de 6 a 10 años.
+Matvey: Sí por edad. Se requieren plaza e inscripción.
+Oscar: Sí por edad. Se requieren plaza e inscripción.
+formato: course
+Idioma: Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: No se publican precio, equipo ni condiciones de devolución del grupo vigente.
+Acceso: Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+Limitaciones: Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.
+Fuente: https://meridaponiente-conkal.youngengineers.org/
 Se ha comprobado: 2026-11-07
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19

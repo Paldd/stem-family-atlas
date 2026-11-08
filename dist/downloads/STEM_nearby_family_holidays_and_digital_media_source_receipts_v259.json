@@ -1,0 +1,364 @@
+{
+  "captures": [
+    {
+      "key": "ucr-fair",
+      "url": "https://facultadeducacion.ucr.ac.cr/eventos/2026/11/06/dias-del-comienzo-de-la-feria-nacional-de-ciencia-tecnologia-e-innovacion",
+      "final_url": "https://facultadeducacion.ucr.ac.cr/eventos/2026/11/06/dias-del-comienzo-de-la-feria-nacional-de-ciencia-tecnologia-e-innovacion",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 58508,
+      "sha256": "8ecb2263ce0cf93430d8194f0b26249df1038b0b25c688af7f2d7927bd413db0",
+      "file": "ucr-fair.html"
+    },
+    {
+      "key": "ucr-parking",
+      "url": "https://facultadeducacion.ucr.ac.cr/eventos/2026/11/09/parqueo-reservado",
+      "final_url": "https://facultadeducacion.ucr.ac.cr/eventos/2026/11/09/parqueo-reservado",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 58969,
+      "sha256": "a4cd12fbdbc53e6da1404b46c2efe5bab518091618c77a146b0d60bd2d01a44c",
+      "file": "ucr-parking.html"
+    },
+    {
+      "key": "ucr-news",
+      "url": "https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html",
+      "final_url": "https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 119815,
+      "sha256": "e3eb8496fbd4fc49fad4a731a9a11a68b1d1a762d31438a4bf2917bfc817b9e9",
+      "file": "ucr-news.html"
+    },
+    {
+      "key": "ucr-program",
+      "url": "https://www.mep.go.cr/sites/default/files/2026-04/ManualFCTI2026.pdf",
+      "final_url": "https://www.mep.go.cr/sites/default/files/2026-04/ManualFCTI2026.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 2947820,
+      "sha256": "a5bbf4f25afcee5be87daf06ae03dccd5e9230742eb918536ab76507cf809b67",
+      "file": "ucr-program.pdf"
+    },
+    {
+      "key": "fod-season",
+      "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+      "final_url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 429313,
+      "sha256": "f1c9294257e43cc5018584143815aa1024804f342178377f699987a5744edc77",
+      "file": "fod-season.html"
+    },
+    {
+      "key": "fod-enroll",
+      "url": "https://survey.zohopublic.com/zs/SjzWbS",
+      "final_url": "https://survey.zohopublic.com/zs/SjzWbS",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 321756,
+      "sha256": "41574d4ff19296f94723a1186b36151cd09f73b570bc6c95c39f5ecd544f8125",
+      "file": "fod-enroll.html"
+    },
+    {
+      "key": "fllmx-faq",
+      "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "final_url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 70282,
+      "sha256": "4dc43f11faec7243ec2a64b6dfa7c01ef650fc73c4a88702671b5cfa30705389",
+      "file": "fllmx-faq.html"
+    },
+    {
+      "key": "fllmx-join",
+      "url": "https://www.firstlegoleagues.mx/como-ser-parte-del-programa/",
+      "final_url": "https://www.firstlegoleagues.mx/como-ser-parte-del-programa/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 33432,
+      "sha256": "c4ae5eaa129b843133a8909b79b7c7b4fe529aeb47ae8720e67b7062e7b19c2f",
+      "file": "fllmx-join.html"
+    },
+    {
+      "key": "liota",
+      "url": "https://liotacamps.com/",
+      "final_url": "https://liotacamps.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 368878,
+      "sha256": "9d3486880f0eb8d9668bafb99cf9da68000a1f3a4977027c4db6fa223987b1c0",
+      "file": "liota.html"
+    },
+    {
+      "key": "ciberbots",
+      "url": "https://www.ciberbots.com.mx/services",
+      "final_url": "https://www.ciberbots.com.mx/services",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 167058,
+      "sha256": "4b633cb6805ff8b75299b09f3f22c6053936522f9acdf1313466df2d586ac48b",
+      "file": "ciberbots.html"
+    },
+    {
+      "key": "churumbela-rules",
+      "url": "https://www.churumbelafest.com/convocatoria",
+      "final_url": "https://www.churumbelafest.com/convocatoria",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1299505,
+      "sha256": "2d60086305c3ce8075154bf4e43aa611fb4c5c06dbf158a481b62db86bdc0d0d",
+      "file": "churumbela-rules.html"
+    },
+    {
+      "key": "imcine",
+      "url": "https://www.imcine.gob.mx/nota.php?id=347",
+      "final_url": "https://www.imcine.gob.mx/nota.php?id=347",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 22065,
+      "sha256": "23cac444366cb88834e7c8713f377653b5bad6659d5c758d7260d3c4da555df0",
+      "file": "imcine.html"
+    },
+    {
+      "key": "churumbela-selection",
+      "url": "https://www.churumbelafest.com/seleccion-2026",
+      "final_url": "https://www.churumbelafest.com/seleccion-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1249431,
+      "sha256": "e23e3279ee8cdf1c6efc1527c34c63e8b2a69ab493463b3076c8227a3dc76ffe",
+      "file": "churumbela-selection.html"
+    },
+    {
+      "key": "xmedia",
+      "url": "https://2026.xmediafest.com/",
+      "final_url": "https://2026.xmediafest.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 5279,
+      "sha256": "ac882beb3371b6d726b464d3d685540b2f2a57e7f8b10cdc97dea208fca907f4",
+      "file": "xmedia.html"
+    },
+    {
+      "key": "xmedia-js",
+      "url": "https://2026.xmediafest.com/assets/index-BdorBu4T.js",
+      "final_url": "https://2026.xmediafest.com/assets/index-BdorBu4T.js",
+      "status": 200,
+      "mime": "text/javascript",
+      "bytes": 719193,
+      "sha256": "c0d1f8d3985649492897de95267ba191641059412f89e0e66351562d1cea5f7f",
+      "file": "xmedia-js.js"
+    },
+    {
+      "key": "xmedia-fair",
+      "url": "https://2026.xmediafest.com/feria",
+      "final_url": "https://2026.xmediafest.com/feria/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 2946,
+      "sha256": "e133b5e06477bd98dba0eb2cbbaa9343b2204cf3663b50d98bef8640260aa903",
+      "file": "xmedia-fair.html"
+    },
+    {
+      "key": "xmedia-gamejam-pdf",
+      "url": "https://2026.xmediafest.com/convocatorias/gamejam-2026.pdf",
+      "final_url": "https://2026.xmediafest.com/convocatorias/gamejam-2026.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1174276,
+      "sha256": "5148c9d0aabc9d8682573b30b5bf93b8c92ed2450582a80d1df0aff9cb272c27",
+      "file": "xmedia-gamejam-pdf.pdf"
+    },
+    {
+      "key": "xmedia-rules",
+      "url": "https://2026.xmediafest.com/concursos/",
+      "final_url": "https://2026.xmediafest.com/concursos/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 2855,
+      "sha256": "ea55294b512d45048c946cdf355a03b0c319805f643dfa5c3b5fe495c7f6d26c",
+      "file": "xmedia-rules.html"
+    },
+    {
+      "key": "xmedia-lumia-pdf",
+      "url": "https://2026.xmediafest.com/convocatorias/lumia-2026.pdf",
+      "final_url": "https://2026.xmediafest.com/convocatorias/lumia-2026.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 980765,
+      "sha256": "8bf9debf85082c4664ac827452c5cc8f86b92bca9f8ef0efb52f10e9f6a221f3",
+      "file": "xmedia-lumia-pdf.pdf"
+    },
+    {
+      "key": "xmedia-madi-pdf",
+      "url": "https://2026.xmediafest.com/convocatorias/madiverso-2026.pdf",
+      "final_url": "https://2026.xmediafest.com/convocatorias/madiverso-2026.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1441665,
+      "sha256": "e402a9b0e1f53cd923bc789ae6fd9fe43123c277daefa13fb90aa73389732fab",
+      "file": "xmedia-madi-pdf.pdf"
+    },
+    {
+      "key": "universum-12",
+      "url": "https://www.universum.unam.mx/actividades/index/2026/12/12",
+      "final_url": "https://www.universum.unam.mx/actividades/index/2026/12/12",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 44126,
+      "sha256": "ffc3bbd86c266cfe411833ae144ec9e34d1b12b60e7f39209ef6ec2c8c180dc5",
+      "file": "universum-12.html"
+    },
+    {
+      "key": "universum",
+      "url": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
+      "final_url": "https://www.universum.unam.mx/actividades/e/381/peques-en-universum-octubre-diciembre-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 191156,
+      "sha256": "2da45b142d74a3881e0827fe758405a3be0185714d02ea25b9fefb84e05b4571",
+      "file": "universum.html"
+    },
+    {
+      "key": "universum-13",
+      "url": "https://www.universum.unam.mx/actividades/index/2026/12/13",
+      "final_url": "https://www.universum.unam.mx/actividades/index/2026/12/13",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 44703,
+      "sha256": "77d16fd53ed29821f359285d4b3b38cf6e96676500e5a791a8127d72902c459f",
+      "file": "universum-13.html"
+    },
+    {
+      "key": "ye-conkal",
+      "url": "https://meridaponiente-conkal.youngengineers.org/",
+      "final_url": "https://meridaponiente-conkal.youngengineers.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 211546,
+      "sha256": "a1fc9f75005922a618f5a57cf9c39574e01ac4908a84582fb5ebdfc09af88ec9",
+      "file": "ye-conkal.html"
+    },
+    {
+      "key": "binario-courses",
+      "url": "https://roboticabinario.com/cursos",
+      "final_url": "https://roboticabinario.com/cursos",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 180913,
+      "sha256": "3a1503ccf79ab87f64ac42805eadc9296e5ee7dbb7a491c28c2e6dffa1c84295",
+      "file": "binario-courses.html"
+    },
+    {
+      "key": "binario-workshops",
+      "url": "https://roboticabinario.com/talleres",
+      "final_url": "https://roboticabinario.com/talleres",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 107257,
+      "sha256": "3bcc0fb027569f59d57bc5ff130e326cf77e573ded8a55f344e84ad07e1e46e3",
+      "file": "binario-workshops.html"
+    },
+    {
+      "key": "binario",
+      "url": "https://roboticabinario.com/",
+      "final_url": "https://roboticabinario.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 349956,
+      "sha256": "eea3fc32b0b846dcc513063dc3fe49fa90cd83589d2e983da7eb85d15580fd41",
+      "file": "binario.html"
+    },
+    {
+      "key": "newhope",
+      "url": "https://complejonewhope.co.cr/quienes-somos/",
+      "final_url": "https://complejonewhope.co.cr/quienes-somos/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 173726,
+      "sha256": "b13fa44fc9e373c226b8d714c38c3c02feb2483f761dd88957f4cc7d1fd1b53d",
+      "file": "newhope.html"
+    },
+    {
+      "key": "museo",
+      "url": "https://www.museocostarica.go.cr/novedades/agenda/talleres/",
+      "final_url": "https://www.museocostarica.go.cr/novedades/agenda/talleres/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1052524,
+      "sha256": "0c3ddd1c7e1ca663cd0a2bd7cc525f255f867586a4d1e0e61a3941c3eb7ac9ae",
+      "file": "museo.html"
+    },
+    {
+      "key": "kipos",
+      "url": "https://kiposcr.com/programas_summer_camp.html",
+      "final_url": "https://kiposcr.com/programas_summer_camp.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 15240,
+      "sha256": "699953fd6fe97de4ab877dc4bd6f2ee77d54453bb8e5c49eec5e55c1a77fc3f3",
+      "file": "kipos.html"
+    },
+    {
+      "key": "ciberbots-home",
+      "url": "https://www.ciberbots.com.mx/",
+      "final_url": "https://www.ciberbots.com.mx/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 63630,
+      "sha256": "b745660b14ab16ab5b433c1c45cd87e11c247d95b6c2c3f3815a5c2407e90ac1",
+      "file": "ciberbots-home.html"
+    },
+    {
+      "key": "fil-kids",
+      "url": "https://fil.com.mx/filninos/info.asp",
+      "final_url": "https://fil.com.mx/filninos/info.asp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 38494,
+      "sha256": "293431ff2cd02f5499c5a34fa4237cc31b1a66fe2f97693e7248cd6592dea2a3",
+      "file": "fil-kids.html"
+    },
+    {
+      "key": "fil-machines",
+      "url": "https://fil.com.mx/prog/resultados.asp?e=2026&f=0&ids=0&idsr=2&r=12",
+      "final_url": "https://fil.com.mx/prog/resultados.asp?e=2026&f=0&ids=0&idsr=2&r=12",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 115790,
+      "sha256": "6fbf191de4b394f825adaf17ba97b2ff612684f649da91c578f76190486e4447",
+      "file": "fil-machines.html"
+    },
+    {
+      "key": "draw",
+      "url": "https://yokaicr.com/evento.php?slug=the-draw",
+      "final_url": "https://yokaicr.com/evento.php?slug=the-draw",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 38047,
+      "sha256": "6b8647e1c7cd0b6372f8b0de06d2a865a53db96effd280d3253e4d2919162f84",
+      "file": "draw.html"
+    },
+    {
+      "key": "kuri-combo",
+      "url": "https://www.eticket.cr/masinformacion.aspx?idevento=9581",
+      "final_url": "https://www.eticket.cr/masinformacion.aspx?idevento=9581",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 65748,
+      "sha256": "288010c468be95d5579d6e5c38a9c9af7d69c2bc793e936de2dd773d0c96a3d1",
+      "file": "kuri-combo.html"
+    },
+    {
+      "key": "tec-modi",
+      "url": "https://tec.ac.cr/hackathon-modi-kit-ia",
+      "final_url": "https://tec.ac.cr/hackathon-modi-kit-ia",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 96236,
+      "sha256": "7ffee481f2a1fae35de4c20cbd726b793636413d8cb0a569ae976209f875fb2d",
+      "file": "tec-modi.html"
+    }
+  ]
+}

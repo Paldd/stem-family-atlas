@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 9948; соревнований: 4518; событий: 505; лагерей / программ: 4925. Профилей лиг и программ: 298. Карточек крупных и профильных выставок: 408 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 9964; соревнований: 4523; событий: 512; лагерей / программ: 4929. Профилей лиг и программ: 298. Карточек крупных и профильных выставок: 415 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 211 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,7 +14,7 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 37 | 1884 | 85 | 1234 |
+| Северная Америка | 37 | 1889 | 92 | 1238 |
 | Южная Америка | 13 | 414 | 35 | 199 |
 | Европа | 51 | 575 | 102 | 1425 |
 | Африка | 48 | 226 | 28 | 80 |
@@ -23,7 +23,7 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 152. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 814 из 4518 карточек соревнований (18.0%). Это явный перекос охвата.
+VEX: 814 из 4523 карточек соревнований (18.0%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -774,6 +774,13 @@ VEX: 814 из 4518 карточек соревнований (18.0%). Это я�
 - **ARE Dongguan 2027** — Китай; 2027-03-03 – 2027-03-05. Детский допуск уточнить. https://www.are-expo.cn/
 - **South China International Industry Fair 2027** — Китай; 2027-06-16 – 2027-06-18. Детский допуск уточнить. https://www.sciif.com/
 - **Automation Thailand 2027** — Таиланд; 2027-03-10 – 2027-03-12. Детям 6/9 нельзя. https://automation-thailand.tw.messefrankfurt.com/thailand/en/facts-figures/Show-Overview.html
+- **Churumbela 2026 · cine infantil y animación · Ciudad de México** — Мексика; 2026-11-18 – 2026-11-22. Со взрослым; условия взрослого входа отдельно. https://www.churumbelafest.com/seleccion-2026
+- **Churumbela 2026 · cine infantil y animación · Mérida** — Мексика; 2026-12-04 – 2026-12-06. Со взрослым; условия взрослого входа отдельно. https://www.churumbelafest.com/seleccion-2026
+- **xMedia Fest 2026 · Feria de Vinculación Tecnológica y Creativa** — Мексика; 2026-12-04. Детский допуск уточнить. https://2026.xmediafest.com/
+- **Universum UNAM · Garabateando bichitos** — Мексика; 2026-12-12. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/index/2026/12/12
+- **Universum UNAM · DinoAlebrijes** — Мексика; 2026-12-12. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/index/2026/12/12
+- **Universum UNAM · Átomos brillantes** — Мексика; 2026-12-12. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/index/2026/12/12
+- **Universum UNAM · Pequenautas al espacio** — Мексика; 2026-12-13. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/index/2026/12/13
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors
