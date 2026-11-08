@@ -259,6 +259,8 @@ def integrate(catalog, dossier_report):
             if variant.get('date_scope')=='session_days':
                 row['sessions']=deepcopy(variant['sessions'])
                 assert row['sessions'] and all(start<=s['date']<=end for s in row['sessions'])
+            if variant.get('delivery_mode'):
+                row['delivery_mode']=variant['delivery_mode']
             if variant.get('availability'):row['availability']=deepcopy(variant['availability'])
             if variant.get('date_precision')=='published_rule':
                 legacy_rule='2027-07-04–2027-08-15; пансион Вс–Вс, дневной Пн–Пт; выбор 1/2/3 недель. Даты вариантов рассчитаны по этому опубликованному правилу.'

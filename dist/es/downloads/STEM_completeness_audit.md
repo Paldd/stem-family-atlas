@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10437; competiciones: 4704; eventos: 614; campamentos / programas: 5119. Perfiles de ligas y programas: 303. Fichas de exposiciones grandes y especializadas: 515 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10465; competiciones: 4705; eventos: 617; campamentos / programas: 5143. Perfiles de ligas y programas: 303. Fichas de exposiciones grandes y especializadas: 518 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros específicos para 234 de 249 países y territorios y 0 países con auditoría completa. Revisión del archivo v51: se añadieron 21 fichas y 3 perfiles. Se conservaron todas las fichas anteriores.
 
@@ -14,7 +14,7 @@ Hay registros específicos para 234 de 249 países y territorios y 0 países con
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1936 | 125 | 1302 |
+| América del Norte | 40 | 1937 | 128 | 1326 |
 | América del Sur | 14 | 433 | 45 | 207 |
 | Europa | 54 | 611 | 124 | 1471 |
 | África | 55 | 245 | 36 | 123 |
@@ -23,7 +23,7 @@ Hay registros específicos para 234 de 249 países y territorios y 0 países con
 
 Fichas interregionales o globales sin continente único: 166. América del Norte incluye América Central y el Caribe. Los recuentos describen el inventario de la base y no miden su exhaustividad.
 
-VEX: 814 de 4704 fichas de competición (17.3%). La cobertura está claramente concentrada.
+VEX: 814 de las 4705 fichas de competiciones (17.3%). Existe un sesgo de cobertura claro.
 
 ## Lo que queda
 
@@ -886,6 +886,9 @@ VEX: 814 de 4704 fichas de competición (17.3%). La cobertura está claramente c
 - **Nedbank rAge Nation 2026** — Sudáfrica; 2026-11-27 – 2026-11-29. con un adulto; condiciones de admisión adulta por separado. https://ragenation.gg/
 - **Africa Games Week 2026 · Exhibition** — Sudáfrica; 2026-12-06 – 2026-12-09. el permiso de entrada de niños. https://gamesweek.africa/faq/
 - **KwaZulu-Natal Industrial Technology Exhibition 2027** — Sudáfrica; 2027-07-27 – 2027-07-29. el permiso de entrada de niños. https://www.kznindustrial.co.za/
+- **Papalote · México STEM Week 2026** — México; 2026-11-10 – 2026-11-12. con un adulto; condiciones de admisión adulta por separado. https://mexicostemweek.org/actividades/
+- **Rally STEAM · Utopía La Heroica** — México; 2026-11-12. con un adulto; condiciones de admisión adulta por separado. https://mexicostemweek.org/actividades/
+- **12.º Simposio de Robótica Educativa · CCH UNAM** — México; 2026-11-13. el permiso de entrada de niños. https://eventos.cch.unam.mx/simposiorobotica/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

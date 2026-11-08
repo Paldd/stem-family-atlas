@@ -5270,6 +5270,110 @@ Limitaciones: Pedir a la fundación horarios por edad, precio y plazas. La radio
 Fuente: https://fod.ac.cr/
 Se ha comprobado: 2026-11-08
 
+### E615 · Papalote · México STEM Week 2026
+
+Fecha: 2026-11-10 — 2026-11-12
+edad: Visita familiar. La edad y las plazas dependen de cada taller.
+Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación.
+Oscar: Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo.
+Idioma: La organización publica el programa en español. Confirmar en el recinto el idioma de cada actividad.
+Acceso: Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+Precio: El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+Limitaciones: El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios.
+Fuente: https://mexicostemweek.org/actividades/
+Se ha comprobado: 2026-11-08
+
+### L815 · Museo de los Niños · Campamentos educativos
+
+Fecha: El museo ofrece campamentos a principios y a mitad de año. Aún no publica fechas, edad, precio, idioma ni modalidad de inscripción individual para 2027.
+edad: Edad escolar. No se publican límites para la nueva edición.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Consultar el ingreso individual de menores y el nuevo horario. La reserva de un grupo escolar se tramita aparte.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: El museo ofrece campamentos a principios y a mitad de año. Aún no publica fechas, edad, precio, idioma ni modalidad de inscripción individual para 2027.
+Fuente: https://museocr.org/ninos/grupos/
+Se ha comprobado: 2026-11-08
+
+### L816 · Atlas de las Niñeces · TEC y Municipalidad
+
+Fecha: 2026-11-14 — 2026-11-14
+Edad: 9*10 años.
+Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación.
+Oscar: No cumple por edad. Actualmente está fuera del rango indicado.
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: La inscripción corresponde a un adulto. Hay 20 plazas e incluye un refrigerio. Confirmar el acompañamiento en el recinto.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: La inscripción corresponde a un adulto. Hay 20 plazas e incluye un refrigerio. Confirmar el acompañamiento en el recinto.
+Fuente: https://munialajuela.go.cr/News/2263
+Se ha comprobado: 2026-11-08
+
+### L817 · Electrobotics · RobotClaus · México STEM Week
+
+Fecha: 2026-11-10 国 2026-11-10
+edad: Primaria, grupos de 6 a 12 años.
+Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación.
+Oscar: Sí por edad. Confirmar las plazas y las condiciones de participación.
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Taller abierto. Confirmar plazas restantes y si el kit está incluido en el precio publicado.
+Precio: 100 MXN según el calendario.
+Limitaciones: Taller abierto. Confirmar plazas restantes y si el kit está incluido en el precio publicado.
+Fuente: https://mexicostemweek.org/actividades/
+Se ha comprobado: 2026-11-08
+
+### L818 · Del laberinto al robot · Universidad de la Cañada
+
+Fecha: 2026-11-10 国 2026-11-10
+edad: De 10 a 12 años, Primaria Fase 5.
+Matvey: No cumple por edad. Actualmente tiene menos de 10 años.
+Oscar: No cumple por edad. Actualmente tiene menos de 10 años.
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: El calendario indica acceso abierto. Confirmar plaza, grado y admisión de menores externos.
+Precio: Gratuito.
+Limitaciones: El calendario indica acceso abierto. Confirmar plaza, grado y admisión de menores externos.
+Fuente: https://mexicostemweek.org/actividades/
+Se ha comprobado: 2026-11-08
+
+### E616 · Rally STEAM · Utopía La Heroica
+
+Fecha: 2026-11-12 — 2026-11-12
+edad: Primaria, grupos de 6 a 12 años.
+Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación.
+Oscar: Sí por edad. Confirmar las plazas y las condiciones de participación.
+Idioma: La organización publica el programa en español. Confirmar en el recinto el idioma de cada actividad.
+Acceso: Programa familiar abierto. Confirmar la capacidad de la estación y la hora de entrada.
+Precio: Gratuito.
+Limitaciones: El calendario también muestra fechas pasadas. Esta ficha muestra la sesión restante.
+Fuente: https://mexicostemweek.org/actividades/
+Se ha comprobado: 2026-11-08
+
+### E617 · 12.º Simposio de Robótica Educativa · CCH UNAM
+
+Fecha: 2026-11-13 — 2026-11-13
+edad: Por confirmar. Las reglas de visitantes no indican la admisión de menores.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+Idioma: La organización publica el programa en español. Confirmar en el recinto el idioma de cada actividad.
+Acceso: Entrada gratuita con registro individual y aforo limitado. Confirmar la admisión y el acompañamiento de menores. Se anuncia transmisión en CCH Sur Oficial.
+Precio: Gratuito.
+Limitaciones: La entrada de asistentes y la selección de proyectos son trámites distintos. Las propuestas de ponentes se reciben hasta el 9 de noviembre de 2026.
+Fuente: https://eventos.cch.unam.mx/simposiorobotica/
+Se ha comprobado: 2026-11-08
+
+### C4706 · REVOLUTION · Hack Club Monterrey
+
+Fecha: 2026-12-05 — 2026-12-06
+edad: De 15 a 18 años, estudiantes de preparatoria. A los 18 años se exige comprobante de estudios.
+Matvey: No cumple por edad actualmente. Guardar para una temporada futura.
+Oscar: No cumple por edad actualmente. Guardar para una temporada futura.
+Idioma: Documentos públicos en español. Confirmar el idioma del jurado y del acompañamiento.
+Acceso: Equipos de 3 a 4 personas. Se puede llegar con equipo o formarlo allí. Se requiere identificación escolar y permiso firmado. Cotejar la admisión con la organización.
+Precio: Gratuito.
+Limitaciones: La organización anunció un formato de 24 horas. La página del evento y las reglas expresan de forma distinta cuándo se forman los equipos. Confirmar la hora y el acceso a la sede.
+Fuente: https://revolution-hackclub.vercel.app/es/
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -6503,6 +6607,266 @@ Acceso: El sitio incluye un formulario. Hay que confirmar grupos de edad, plazas
 Precio: 2027 · No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Confirmar edad, grupo y admisión de estudiantes de otro centro. Oscar: Confirmar edad, grupo y admisión de estudiantes de otro centro. Suplementos: No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://form.jotform.com/252805351014851
+Se ha comprobado: 2026-11-08
+
+### CP2039-20261110-20261110-d10-h14 · Papalote · PlastiBot · 14:00–15:00 · 2026-11-10–2026-11-10
+
+Fecha: 2026-11-10 国 2026-11-10
+Edad: 4–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+Precio: 2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: No cumple por edad. Actualmente está fuera del rango indicado. Oscar: Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg
+Se ha comprobado: 2026-11-08
+
+### CP2039-20261110-20261110-d10-h15 · Papalote · PlastiBot · 15:00–16:00 · 2026-11-10–2026-11-10
+
+Fecha: 2026-11-10 国 2026-11-10
+Edad: 4–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+Precio: 2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: No cumple por edad. Actualmente está fuera del rango indicado. Oscar: Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg
+Se ha comprobado: 2026-11-08
+
+### CP2039-20261112-20261112-d12-h14 · Papalote · PlastiBot · 14:00–15:00 · 2026-11-12–2026-11-12
+
+Fecha: 2026-11-12 — 2026-11-12
+Edad: 4–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+Precio: 2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: No cumple por edad. Actualmente está fuera del rango indicado. Oscar: Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg
+Se ha comprobado: 2026-11-08
+
+### CP2040-20261111-20261111-d11-h14 · Papalote · Fábrica Creativa · 14:00–15:00 · 2026-11-11–2026-11-11
+
+Fecha: 2026-11-11 — 2026-11-11
+Edad: 7–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+Precio: 2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: No cumple por edad. Actualmente está fuera del rango indicado. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg
+Se ha comprobado: 2026-11-08
+
+### CP2040-20261111-20261111-d11-h15 · Papalote · Fábrica Creativa · 15:00–16:00 · 2026-11-11–2026-11-11
+
+Fecha: 2026-11-11 — 2026-11-11
+Edad: 7–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+Precio: 2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: No cumple por edad. Actualmente está fuera del rango indicado. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg
+Se ha comprobado: 2026-11-08
+
+### CP2040-20261111-20261111-d11-h16 · Papalote · Fábrica Creativa · 16:00–17:00 · 2026-11-11–2026-11-11
+
+Fecha: 2026-11-11 — 2026-11-11
+Edad: 7–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+Precio: 2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: No cumple por edad. Actualmente está fuera del rango indicado. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg
+Se ha comprobado: 2026-11-08
+
+### CP2040-20261112-20261112-d12-h14 · Papalote · Fábrica Creativa · 14:00–15:00 · 2026-11-12–2026-11-12
+
+Fecha: 2026-11-12 — 2026-11-12
+Edad: 7–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+Precio: 2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: No cumple por edad. Actualmente está fuera del rango indicado. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg
+Se ha comprobado: 2026-11-08
+
+### CP2041-20261110-20261110-d10-h14 · Papalote · LABerinto · 14:00–15:00 · 2026-11-10–2026-11-10
+
+Fecha: 2026-11-10 国 2026-11-10
+Edad: 7*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+Precio: 2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg
+Se ha comprobado: 2026-11-08
+
+### CP2041-20261110-20261110-d10-h15 · Papalote · LABerinto · 15:00–16:00 · 2026-11-10–2026-11-10
+
+Fecha: 2026-11-10 国 2026-11-10
+Edad: 7*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+Precio: 2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg
+Se ha comprobado: 2026-11-08
+
+### CP2041-20261110-20261110-d10-h16 · Papalote · LABerinto · 16:00–17:00 · 2026-11-10–2026-11-10
+
+Fecha: 2026-11-10 国 2026-11-10
+Edad: 7*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+Precio: 2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg
+Se ha comprobado: 2026-11-08
+
+### CP2041-20261112-20261112-d12-h16 · Papalote · LABerinto · 16:00–17:00 · 2026-11-12–2026-11-12
+
+Fecha: 2026-11-12 — 2026-11-12
+Edad: 7*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+Precio: 2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg
+Se ha comprobado: 2026-11-08
+
+### CP2042-20261111-20261111-d11-h14 · Papalote · VoltCard · 14:00–15:00 · 2026-11-11–2026-11-11
+
+Fecha: 2026-11-11 — 2026-11-11
+edad: 10+
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+Precio: 2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: No cumple por edad. Actualmente tiene menos de 10 años. Oscar: No cumple por edad. Actualmente tiene menos de 10 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg
+Se ha comprobado: 2026-11-08
+
+### CP2042-20261111-20261111-d11-h15 · Papalote · VoltCard · 15:00–16:00 · 2026-11-11–2026-11-11
+
+Fecha: 2026-11-11 — 2026-11-11
+edad: 10+
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+Precio: 2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: No cumple por edad. Actualmente tiene menos de 10 años. Oscar: No cumple por edad. Actualmente tiene menos de 10 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg
+Se ha comprobado: 2026-11-08
+
+### CP2042-20261111-20261111-d11-h16 · Papalote · VoltCard · 16:00–17:00 · 2026-11-11–2026-11-11
+
+Fecha: 2026-11-11 — 2026-11-11
+edad: 10+
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+Precio: 2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: No cumple por edad. Actualmente tiene menos de 10 años. Oscar: No cumple por edad. Actualmente tiene menos de 10 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg
+Se ha comprobado: 2026-11-08
+
+### CP2042-20261112-20261112-d12-h16 · Papalote · VoltCard · 16:00–17:00 · 2026-11-12–2026-11-12
+
+Fecha: 2026-11-12 — 2026-11-12
+edad: 10+
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+Precio: 2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: No cumple por edad. Actualmente tiene menos de 10 años. Oscar: No cumple por edad. Actualmente tiene menos de 10 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg
+Se ha comprobado: 2026-11-08
+
+### CP2043-20261108-20261108-d8-live · Nairda · Robótica con IA · México STEM Week · 16:00–17:00 · 2026-11-08–2026-11-08
+
+Fecha: 2026-11-08 — 2026-11-08
+edad: El operador invita a niñas, niños, jóvenes y adultos. Confirmar la edad mínima y la conexión desde el extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. El operador invita a menores, pero no publica una edad mínima. Oscar: Condicional. El operador invita a menores, pero no publica una edad mínima. Suplementos: Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://nairda.com.mx/taller/
+Se ha comprobado: 2026-11-08
+
+### CP2043-20261109-20261109-d9-live · Nairda · Robótica con IA · México STEM Week · 16:00–17:00 · 2026-11-09–2026-11-09
+
+Fecha: 2026-11-09 — 2026-11-09
+edad: El operador invita a niñas, niños, jóvenes y adultos. Confirmar la edad mínima y la conexión desde el extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. El operador invita a menores, pero no publica una edad mínima. Oscar: Condicional. El operador invita a menores, pero no publica una edad mínima. Suplementos: Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://nairda.com.mx/taller/
+Se ha comprobado: 2026-11-08
+
+### CP2043-20261110-20261110-d10-live · Nairda · Robótica con IA · México STEM Week · 16:00–17:00 · 2026-11-10–2026-11-10
+
+Fecha: 2026-11-10 国 2026-11-10
+edad: El operador invita a niñas, niños, jóvenes y adultos. Confirmar la edad mínima y la conexión desde el extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. El operador invita a menores, pero no publica una edad mínima. Oscar: Condicional. El operador invita a menores, pero no publica una edad mínima. Suplementos: Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://nairda.com.mx/taller/
+Se ha comprobado: 2026-11-08
+
+### CP2043-20261111-20261111-d11-live · Nairda · Robótica con IA · México STEM Week · 16:00–17:00 · 2026-11-11–2026-11-11
+
+Fecha: 2026-11-11 — 2026-11-11
+edad: El operador invita a niñas, niños, jóvenes y adultos. Confirmar la edad mínima y la conexión desde el extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. El operador invita a menores, pero no publica una edad mínima. Oscar: Condicional. El operador invita a menores, pero no publica una edad mínima. Suplementos: Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://nairda.com.mx/taller/
+Se ha comprobado: 2026-11-08
+
+### CP2043-20261112-20261112-d12-live · Nairda · Robótica con IA · México STEM Week · 16:00–17:00 · 2026-11-12–2026-11-12
+
+Fecha: 2026-11-12 — 2026-11-12
+edad: El operador invita a niñas, niños, jóvenes y adultos. Confirmar la edad mínima y la conexión desde el extranjero.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+Acceso: En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. El operador invita a menores, pero no publica una edad mínima. Oscar: Condicional. El operador invita a menores, pero no publica una edad mínima. Suplementos: Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://nairda.com.mx/taller/
 Se ha comprobado: 2026-11-08
 
 ### C1155 · XVIII Campeonato Nacional de Robótica y STEM · VEX IQ Middle

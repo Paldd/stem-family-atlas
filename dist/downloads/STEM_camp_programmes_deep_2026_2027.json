@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2038,
+    "dossiers": 2044,
     "countries": 127,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 289,
       "published_2027": 552,
       "partial_2027": 145,
-      "next_unannounced": 425,
-      "published_2026": 388,
+      "next_unannounced": 426,
+      "published_2026": 393,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1
     },
-    "source_urls": 2936
+    "source_urls": 2944
   },
   "countries": [
     {
@@ -277,7 +277,7 @@
     },
     {
       "country": "Коста-Рика",
-      "count": 59
+      "count": 60
     },
     {
       "country": "Кувейт",
@@ -329,7 +329,7 @@
     },
     {
       "country": "Мексика",
-      "count": 73
+      "count": 78
     },
     {
       "country": "Мозамбик",
@@ -350658,6 +350658,1296 @@
         "L813"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP2039",
+      "slug": "papalote-stem-week-plastibot",
+      "provider": "Papalote · PlastiBot",
+      "country": "Мексика",
+      "iso": "MEX",
+      "place": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "age": "4–6",
+      "programme": "Собрать простую цепь и модель робота из пластилина.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание на испанском. Язык ведущего и помощь выбранной группе уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Афиша перечисляет сеансы по 1 часу и 10 мест на сеанс. В общем календаре указана только первая дата каждой мастерской и более широкие школьные группы. Афиша 4–6 лет, общий каталог 3–5 лет. Для Оскара допуск подтвердить.",
+        "sessions": [
+          [
+            "2026-11-10",
+            "2026-11-10"
+          ],
+          [
+            "2026-11-10",
+            "2026-11-10"
+          ],
+          [
+            "2026-11-12",
+            "2026-11-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "d10-h14",
+            "start": "2026-11-10",
+            "end": "2026-11-10",
+            "label": "14:00–15:00",
+            "price": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+            "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-10",
+                "start_time": "14:00",
+                "end_time": "15:00",
+                "timezone": "America/Mexico_City",
+                "start_utc": "2026-11-10T20:00:00Z",
+                "end_utc": "2026-11-10T21:00:00Z",
+                "topic": "PlastiBot",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего.",
+            "questions": [
+              "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+            ],
+            "proof": "Афиша 4–6 лет, общий каталог 3–5 лет. Для Оскара допуск подтвердить."
+          },
+          {
+            "variant_key": "d10-h15",
+            "start": "2026-11-10",
+            "end": "2026-11-10",
+            "label": "15:00–16:00",
+            "price": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+            "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-10",
+                "start_time": "15:00",
+                "end_time": "16:00",
+                "timezone": "America/Mexico_City",
+                "start_utc": "2026-11-10T21:00:00Z",
+                "end_utc": "2026-11-10T22:00:00Z",
+                "topic": "PlastiBot",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего.",
+            "questions": [
+              "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+            ],
+            "proof": "Афиша 4–6 лет, общий каталог 3–5 лет. Для Оскара допуск подтвердить."
+          },
+          {
+            "variant_key": "d12-h14",
+            "start": "2026-11-12",
+            "end": "2026-11-12",
+            "label": "14:00–15:00",
+            "price": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+            "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-12",
+                "start_time": "14:00",
+                "end_time": "15:00",
+                "timezone": "America/Mexico_City",
+                "start_utc": "2026-11-12T20:00:00Z",
+                "end_utc": "2026-11-12T21:00:00Z",
+                "topic": "PlastiBot",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего.",
+            "questions": [
+              "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+            ],
+            "proof": "Афиша 4–6 лет, общий каталог 3–5 лет. Для Оскара допуск подтвердить."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 280,
+        "currency": "MXN",
+        "unit": "museum_ticket",
+        "label": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+        "included": "Собрать простую цепь и модель робота из пластилина.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту. Сейчас вне указанного диапазона."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "По афише подходит, но в общем каталоге другой возраст. Уточнить у музея."
+        }
+      },
+      "editorial_reason": "Афиша перечисляет сеансы по 1 часу и 10 мест на сеанс. В общем календаре указана только первая дата каждой мастерской и более широкие школьные группы. Афиша 4–6 лет, общий каталог 3–5 лет. Для Оскара допуск подтвердить.",
+      "shortlist": [],
+      "questions": [
+        "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+      ],
+      "sources": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "E615"
+      ],
+      "pairing": {
+        "venue_id": "papalote-chapultepec-cdmx",
+        "verified_source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+        "checked": "2026-11-08"
+      },
+      "calendar_links": [
+        {
+          "start": "2026-11-10",
+          "end": "2026-11-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2039-20261110-20261110-d10-h14"
+          ]
+        },
+        {
+          "start": "2026-11-10",
+          "end": "2026-11-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2039-20261110-20261110-d10-h15"
+          ]
+        },
+        {
+          "start": "2026-11-12",
+          "end": "2026-11-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2039-20261112-20261112-d12-h14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2040",
+      "slug": "papalote-stem-week-fabrica-creativa",
+      "provider": "Papalote · Fábrica Creativa",
+      "country": "Мексика",
+      "iso": "MEX",
+      "place": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "age": "7–9",
+      "programme": "Собрать персонажа и оживить его творческим кодом.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание на испанском. Язык ведущего и помощь выбранной группе уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Афиша перечисляет сеансы по 1 часу и 10 мест на сеанс. В общем календаре указана только первая дата каждой мастерской и более широкие школьные группы. Афиша 7–9 лет. Общий календарь использует более широкие школьные группы.",
+        "sessions": [
+          [
+            "2026-11-11",
+            "2026-11-11"
+          ],
+          [
+            "2026-11-11",
+            "2026-11-11"
+          ],
+          [
+            "2026-11-11",
+            "2026-11-11"
+          ],
+          [
+            "2026-11-12",
+            "2026-11-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "d11-h14",
+            "start": "2026-11-11",
+            "end": "2026-11-11",
+            "label": "14:00–15:00",
+            "price": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+            "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-11",
+                "start_time": "14:00",
+                "end_time": "15:00",
+                "timezone": "America/Mexico_City",
+                "start_utc": "2026-11-11T20:00:00Z",
+                "end_utc": "2026-11-11T21:00:00Z",
+                "topic": "Fábrica Creativa",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего.",
+            "questions": [
+              "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+            ],
+            "proof": "Афиша 7–9 лет. Общий календарь использует более широкие школьные группы."
+          },
+          {
+            "variant_key": "d11-h15",
+            "start": "2026-11-11",
+            "end": "2026-11-11",
+            "label": "15:00–16:00",
+            "price": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+            "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-11",
+                "start_time": "15:00",
+                "end_time": "16:00",
+                "timezone": "America/Mexico_City",
+                "start_utc": "2026-11-11T21:00:00Z",
+                "end_utc": "2026-11-11T22:00:00Z",
+                "topic": "Fábrica Creativa",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего.",
+            "questions": [
+              "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+            ],
+            "proof": "Афиша 7–9 лет. Общий календарь использует более широкие школьные группы."
+          },
+          {
+            "variant_key": "d11-h16",
+            "start": "2026-11-11",
+            "end": "2026-11-11",
+            "label": "16:00–17:00",
+            "price": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+            "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-11",
+                "start_time": "16:00",
+                "end_time": "17:00",
+                "timezone": "America/Mexico_City",
+                "start_utc": "2026-11-11T22:00:00Z",
+                "end_utc": "2026-11-11T23:00:00Z",
+                "topic": "Fábrica Creativa",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего.",
+            "questions": [
+              "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+            ],
+            "proof": "Афиша 7–9 лет. Общий календарь использует более широкие школьные группы."
+          },
+          {
+            "variant_key": "d12-h14",
+            "start": "2026-11-12",
+            "end": "2026-11-12",
+            "label": "14:00–15:00",
+            "price": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+            "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-12",
+                "start_time": "14:00",
+                "end_time": "15:00",
+                "timezone": "America/Mexico_City",
+                "start_utc": "2026-11-12T20:00:00Z",
+                "end_utc": "2026-11-12T21:00:00Z",
+                "topic": "Fábrica Creativa",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего.",
+            "questions": [
+              "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+            ],
+            "proof": "Афиша 7–9 лет. Общий календарь использует более широкие школьные группы."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 280,
+        "currency": "MXN",
+        "unit": "museum_ticket",
+        "label": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+        "included": "Собрать персонажа и оживить его творческим кодом.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Да по возрасту. Подтвердить места и условия участия."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту. Сейчас вне указанного диапазона."
+        }
+      },
+      "editorial_reason": "Афиша перечисляет сеансы по 1 часу и 10 мест на сеанс. В общем календаре указана только первая дата каждой мастерской и более широкие школьные группы. Афиша 7–9 лет. Общий календарь использует более широкие школьные группы.",
+      "shortlist": [],
+      "questions": [
+        "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+      ],
+      "sources": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "makers"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "E615"
+      ],
+      "pairing": {
+        "venue_id": "papalote-chapultepec-cdmx",
+        "verified_source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+        "checked": "2026-11-08"
+      },
+      "calendar_links": [
+        {
+          "start": "2026-11-11",
+          "end": "2026-11-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2040-20261111-20261111-d11-h14"
+          ]
+        },
+        {
+          "start": "2026-11-11",
+          "end": "2026-11-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2040-20261111-20261111-d11-h15"
+          ]
+        },
+        {
+          "start": "2026-11-11",
+          "end": "2026-11-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2040-20261111-20261111-d11-h16"
+          ]
+        },
+        {
+          "start": "2026-11-12",
+          "end": "2026-11-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2040-20261112-20261112-d12-h14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2041",
+      "slug": "papalote-stem-week-laberinto",
+      "provider": "Papalote · LABerinto",
+      "country": "Мексика",
+      "iso": "MEX",
+      "place": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "age": "7–12",
+      "programme": "Спроектировать и построить путь из дерева с помощью пространственной геометрии.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание на испанском. Язык ведущего и помощь выбранной группе уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Афиша перечисляет сеансы по 1 часу и 10 мест на сеанс. В общем календаре указана только первая дата каждой мастерской и более широкие школьные группы. Афиша 7–12 лет. В общем календаре есть группа 6–8 лет. Для Оскара допуск подтвердить.",
+        "sessions": [
+          [
+            "2026-11-10",
+            "2026-11-10"
+          ],
+          [
+            "2026-11-10",
+            "2026-11-10"
+          ],
+          [
+            "2026-11-10",
+            "2026-11-10"
+          ],
+          [
+            "2026-11-12",
+            "2026-11-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "d10-h14",
+            "start": "2026-11-10",
+            "end": "2026-11-10",
+            "label": "14:00–15:00",
+            "price": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+            "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-10",
+                "start_time": "14:00",
+                "end_time": "15:00",
+                "timezone": "America/Mexico_City",
+                "start_utc": "2026-11-10T20:00:00Z",
+                "end_utc": "2026-11-10T21:00:00Z",
+                "topic": "LABerinto",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего.",
+            "questions": [
+              "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+            ],
+            "proof": "Афиша 7–12 лет. В общем календаре есть группа 6–8 лет. Для Оскара допуск подтвердить."
+          },
+          {
+            "variant_key": "d10-h15",
+            "start": "2026-11-10",
+            "end": "2026-11-10",
+            "label": "15:00–16:00",
+            "price": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+            "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-10",
+                "start_time": "15:00",
+                "end_time": "16:00",
+                "timezone": "America/Mexico_City",
+                "start_utc": "2026-11-10T21:00:00Z",
+                "end_utc": "2026-11-10T22:00:00Z",
+                "topic": "LABerinto",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего.",
+            "questions": [
+              "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+            ],
+            "proof": "Афиша 7–12 лет. В общем календаре есть группа 6–8 лет. Для Оскара допуск подтвердить."
+          },
+          {
+            "variant_key": "d10-h16",
+            "start": "2026-11-10",
+            "end": "2026-11-10",
+            "label": "16:00–17:00",
+            "price": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+            "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-10",
+                "start_time": "16:00",
+                "end_time": "17:00",
+                "timezone": "America/Mexico_City",
+                "start_utc": "2026-11-10T22:00:00Z",
+                "end_utc": "2026-11-10T23:00:00Z",
+                "topic": "LABerinto",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего.",
+            "questions": [
+              "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+            ],
+            "proof": "Афиша 7–12 лет. В общем календаре есть группа 6–8 лет. Для Оскара допуск подтвердить."
+          },
+          {
+            "variant_key": "d12-h16",
+            "start": "2026-11-12",
+            "end": "2026-11-12",
+            "label": "16:00–17:00",
+            "price": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+            "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-12",
+                "start_time": "16:00",
+                "end_time": "17:00",
+                "timezone": "America/Mexico_City",
+                "start_utc": "2026-11-12T22:00:00Z",
+                "end_utc": "2026-11-12T23:00:00Z",
+                "topic": "LABerinto",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего.",
+            "questions": [
+              "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+            ],
+            "proof": "Афиша 7–12 лет. В общем календаре есть группа 6–8 лет. Для Оскара допуск подтвердить."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 280,
+        "currency": "MXN",
+        "unit": "museum_ticket",
+        "label": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+        "included": "Спроектировать и построить путь из дерева с помощью пространственной геометрии.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Да по возрасту. Подтвердить места и условия участия."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "По афише подходит, но в общем каталоге другой возраст. Уточнить у музея."
+        }
+      },
+      "editorial_reason": "Афиша перечисляет сеансы по 1 часу и 10 мест на сеанс. В общем календаре указана только первая дата каждой мастерской и более широкие школьные группы. Афиша 7–12 лет. В общем календаре есть группа 6–8 лет. Для Оскара допуск подтвердить.",
+      "shortlist": [],
+      "questions": [
+        "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+      ],
+      "sources": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "makers"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "E615"
+      ],
+      "pairing": {
+        "venue_id": "papalote-chapultepec-cdmx",
+        "verified_source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+        "checked": "2026-11-08"
+      },
+      "calendar_links": [
+        {
+          "start": "2026-11-10",
+          "end": "2026-11-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2041-20261110-20261110-d10-h14"
+          ]
+        },
+        {
+          "start": "2026-11-10",
+          "end": "2026-11-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2041-20261110-20261110-d10-h15"
+          ]
+        },
+        {
+          "start": "2026-11-10",
+          "end": "2026-11-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2041-20261110-20261110-d10-h16"
+          ]
+        },
+        {
+          "start": "2026-11-12",
+          "end": "2026-11-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2041-20261112-20261112-d12-h16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2042",
+      "slug": "papalote-stem-week-voltcard",
+      "provider": "Papalote · VoltCard",
+      "country": "Мексика",
+      "iso": "MEX",
+      "place": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "age": "10+",
+      "programme": "Собрать электрическую цепь и испытать движущийся прототип.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание на испанском. Язык ведущего и помощь выбранной группе уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Афиша перечисляет сеансы по 1 часу и 10 мест на сеанс. В общем календаре указана только первая дата каждой мастерской и более широкие школьные группы. По афише от 10 лет.",
+        "sessions": [
+          [
+            "2026-11-11",
+            "2026-11-11"
+          ],
+          [
+            "2026-11-11",
+            "2026-11-11"
+          ],
+          [
+            "2026-11-11",
+            "2026-11-11"
+          ],
+          [
+            "2026-11-12",
+            "2026-11-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "d11-h14",
+            "start": "2026-11-11",
+            "end": "2026-11-11",
+            "label": "14:00–15:00",
+            "price": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+            "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-11",
+                "start_time": "14:00",
+                "end_time": "15:00",
+                "timezone": "America/Mexico_City",
+                "start_utc": "2026-11-11T20:00:00Z",
+                "end_utc": "2026-11-11T21:00:00Z",
+                "topic": "VoltCard",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего.",
+            "questions": [
+              "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+            ],
+            "proof": "По афише от 10 лет."
+          },
+          {
+            "variant_key": "d11-h15",
+            "start": "2026-11-11",
+            "end": "2026-11-11",
+            "label": "15:00–16:00",
+            "price": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+            "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-11",
+                "start_time": "15:00",
+                "end_time": "16:00",
+                "timezone": "America/Mexico_City",
+                "start_utc": "2026-11-11T21:00:00Z",
+                "end_utc": "2026-11-11T22:00:00Z",
+                "topic": "VoltCard",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего.",
+            "questions": [
+              "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+            ],
+            "proof": "По афише от 10 лет."
+          },
+          {
+            "variant_key": "d11-h16",
+            "start": "2026-11-11",
+            "end": "2026-11-11",
+            "label": "16:00–17:00",
+            "price": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+            "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-11",
+                "start_time": "16:00",
+                "end_time": "17:00",
+                "timezone": "America/Mexico_City",
+                "start_utc": "2026-11-11T22:00:00Z",
+                "end_utc": "2026-11-11T23:00:00Z",
+                "topic": "VoltCard",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего.",
+            "questions": [
+              "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+            ],
+            "proof": "По афише от 10 лет."
+          },
+          {
+            "variant_key": "d12-h16",
+            "start": "2026-11-12",
+            "end": "2026-11-12",
+            "label": "16:00–17:00",
+            "price": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+            "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-12",
+                "start_time": "16:00",
+                "end_time": "17:00",
+                "timezone": "America/Mexico_City",
+                "start_utc": "2026-11-12T22:00:00Z",
+                "end_utc": "2026-11-12T23:00:00Z",
+                "topic": "VoltCard",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего.",
+            "questions": [
+              "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+            ],
+            "proof": "По афише от 10 лет."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 280,
+        "currency": "MXN",
+        "unit": "museum_ticket",
+        "label": "В календаре указано 280 MXN. Мастерская входит в соответствующий музейный билет. Уточнить тариф сопровождающего и нужный пакет.",
+        "included": "Собрать электрическую цепь и испытать движущийся прототип.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту. Сейчас младше 10 лет."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту. Сейчас младше 10 лет."
+        }
+      },
+      "editorial_reason": "Афиша перечисляет сеансы по 1 часу и 10 мест на сеанс. В общем календаре указана только первая дата каждой мастерской и более широкие школьные группы. По афише от 10 лет.",
+      "shortlist": [],
+      "questions": [
+        "Заранее уточнить доступность в форме музея, возраст группы и условия входа для сопровождающего."
+      ],
+      "sources": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "E615"
+      ],
+      "pairing": {
+        "venue_id": "papalote-chapultepec-cdmx",
+        "verified_source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+        "checked": "2026-11-08"
+      },
+      "calendar_links": [
+        {
+          "start": "2026-11-11",
+          "end": "2026-11-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2042-20261111-20261111-d11-h14"
+          ]
+        },
+        {
+          "start": "2026-11-11",
+          "end": "2026-11-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2042-20261111-20261111-d11-h15"
+          ]
+        },
+        {
+          "start": "2026-11-11",
+          "end": "2026-11-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2042-20261111-20261111-d11-h16"
+          ]
+        },
+        {
+          "start": "2026-11-12",
+          "end": "2026-11-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2042-20261112-20261112-d12-h16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2043",
+      "slug": "nairda-stem-week-live-2026",
+      "provider": "Nairda · Robótica con IA · México STEM Week",
+      "country": "Мексика",
+      "iso": "MEX",
+      "place": "Online · México",
+      "age": "Оператор приглашает детей, подростков и взрослых. Минимальный возраст и подключение из-за рубежа уточнить.",
+      "programme": "Онлайн-сборка виртуального робота с ИИ и блочное программирование. Нужны компьютер, браузер и интернет.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Описание на испанском. Язык ведущего и помощь выбранной группе уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "На выбор один день с 5 по 12 ноября. Сеанс длится 40 минут внутри окна 16:00–17:00. Часовой пояс подтвердить.",
+        "sessions": [
+          [
+            "2026-11-08",
+            "2026-11-08"
+          ],
+          [
+            "2026-11-09",
+            "2026-11-09"
+          ],
+          [
+            "2026-11-10",
+            "2026-11-10"
+          ],
+          [
+            "2026-11-11",
+            "2026-11-11"
+          ],
+          [
+            "2026-11-12",
+            "2026-11-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "d8-live",
+            "start": "2026-11-08",
+            "end": "2026-11-08",
+            "label": "16:00–17:00",
+            "price": "Бесплатно.",
+            "source": "https://nairda.com.mx/taller/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "entry": "В публичной форме выбирают удобный день. Общий календарь перечисляет более старшие школьные категории. Приём ребёнка уточнить у ведущего.",
+            "questions": [
+              "В публичной форме выбирают удобный день. Общий календарь перечисляет более старшие школьные категории. Приём ребёнка уточнить у ведущего."
+            ],
+            "delivery_mode": "virtual"
+          },
+          {
+            "variant_key": "d9-live",
+            "start": "2026-11-09",
+            "end": "2026-11-09",
+            "label": "16:00–17:00",
+            "price": "Бесплатно.",
+            "source": "https://nairda.com.mx/taller/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "entry": "В публичной форме выбирают удобный день. Общий календарь перечисляет более старшие школьные категории. Приём ребёнка уточнить у ведущего.",
+            "questions": [
+              "В публичной форме выбирают удобный день. Общий календарь перечисляет более старшие школьные категории. Приём ребёнка уточнить у ведущего."
+            ],
+            "delivery_mode": "virtual"
+          },
+          {
+            "variant_key": "d10-live",
+            "start": "2026-11-10",
+            "end": "2026-11-10",
+            "label": "16:00–17:00",
+            "price": "Бесплатно.",
+            "source": "https://nairda.com.mx/taller/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "entry": "В публичной форме выбирают удобный день. Общий календарь перечисляет более старшие школьные категории. Приём ребёнка уточнить у ведущего.",
+            "questions": [
+              "В публичной форме выбирают удобный день. Общий календарь перечисляет более старшие школьные категории. Приём ребёнка уточнить у ведущего."
+            ],
+            "delivery_mode": "virtual"
+          },
+          {
+            "variant_key": "d11-live",
+            "start": "2026-11-11",
+            "end": "2026-11-11",
+            "label": "16:00–17:00",
+            "price": "Бесплатно.",
+            "source": "https://nairda.com.mx/taller/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "entry": "В публичной форме выбирают удобный день. Общий календарь перечисляет более старшие школьные категории. Приём ребёнка уточнить у ведущего.",
+            "questions": [
+              "В публичной форме выбирают удобный день. Общий календарь перечисляет более старшие школьные категории. Приём ребёнка уточнить у ведущего."
+            ],
+            "delivery_mode": "virtual"
+          },
+          {
+            "variant_key": "d12-live",
+            "start": "2026-11-12",
+            "end": "2026-11-12",
+            "label": "16:00–17:00",
+            "price": "Бесплатно.",
+            "source": "https://nairda.com.mx/taller/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "entry": "В публичной форме выбирают удобный день. Общий календарь перечисляет более старшие школьные категории. Приём ребёнка уточнить у ведущего.",
+            "questions": [
+              "В публичной форме выбирают удобный день. Общий календарь перечисляет более старшие школьные категории. Приём ребёнка уточнить у ведущего."
+            ],
+            "delivery_mode": "virtual"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 0,
+        "currency": "MXN",
+        "unit": "session",
+        "label": "Бесплатно.",
+        "included": "Онлайн-сборка виртуального робота с ИИ и блочное программирование. Нужны компьютер, браузер и интернет.",
+        "extras": "На выбор один день с 5 по 12 ноября. Сеанс длится 40 минут внутри окна 16:00–17:00. Часовой пояс подтвердить.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Онлайн-занятие в прямом эфире.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Оператор приглашает детей, но не публикует нижний возраст."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Оператор приглашает детей, но не публикует нижний возраст."
+        }
+      },
+      "editorial_reason": "На выбор один день с 5 по 12 ноября. Сеанс длится 40 минут внутри окна 16:00–17:00. Часовой пояс подтвердить.",
+      "shortlist": [],
+      "questions": [
+        "В публичной форме выбирают удобный день. Общий календарь перечисляет более старшие школьные категории. Приём ребёнка уточнить у ведущего."
+      ],
+      "sources": [
+        {
+          "url": "https://nairda.com.mx/taller/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://nairda.com.mx/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-08",
+          "end": "2026-11-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2043-20261108-20261108-d8-live"
+          ]
+        },
+        {
+          "start": "2026-11-09",
+          "end": "2026-11-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2043-20261109-20261109-d9-live"
+          ]
+        },
+        {
+          "start": "2026-11-10",
+          "end": "2026-11-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2043-20261110-20261110-d10-live"
+          ]
+        },
+        {
+          "start": "2026-11-11",
+          "end": "2026-11-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2043-20261111-20261111-d11-live"
+          ]
+        },
+        {
+          "start": "2026-11-12",
+          "end": "2026-11-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2043-20261112-20261112-d12-live"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2044",
+      "slug": "museo-ninos-san-jose-holiday-watch",
+      "provider": "Museo de los Niños · Campamentos educativos",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Museo de los Niños · San José",
+      "age": "Школьный возраст. Границы для нового набора не опубликованы.",
+      "programme": "Каникулярная музейная программа с экспериментами, играми и командными занятиями.",
+      "format": "unknown",
+      "formats": [
+        "unknown"
+      ],
+      "language": "Описание на испанском. Язык ведущего и помощь выбранной группе уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Музей проводит лагеря в начале и середине года. Даты, возраст, цена, язык и формат индивидуального набора на 2027 год пока не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "CRC",
+        "unit": "programme",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "",
+        "extras": "Спросить о наборе отдельных детей и новом расписании. Запись школьной группы оформляется отдельно.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Проживание и расписание нового выпуска не описаны.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Условно. Сверить возраст, класс и порядок допуска."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Условно. Сверить возраст, класс и порядок допуска."
+        }
+      },
+      "editorial_reason": "Музей проводит лагеря в начале и середине года. Даты, возраст, цена, язык и формат индивидуального набора на 2027 год пока не опубликованы.",
+      "shortlist": [],
+      "questions": [
+        "Спросить о наборе отдельных детей и новом расписании. Запись школьной группы оформляется отдельно."
+      ],
+      "sources": [
+        {
+          "url": "https://museocr.org/ninos/grupos/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://museocr.org/nuevo/museo_servicios.php",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://museocr.org/ninos/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "general",
+        "makers"
+      ],
+      "programme_type": "unconfirmed_program",
+      "catalog_participation": "unconfirmed_program",
+      "related_event_ids": [
+        "L815",
+        "E559"
+      ],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -355983,7 +357273,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 290,
+  "version": 291,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -369218,7 +370508,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2038,
+      "total_dossiers": 2044,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -392013,6 +393303,136 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP2039",
+      "event_id": "CP2039-20261110-20261110-d10-h14",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2039",
+      "event_id": "CP2039-20261110-20261110-d10-h15",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2039",
+      "event_id": "CP2039-20261112-20261112-d12-h14",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2039",
+      "event_id": "E615",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2040",
+      "event_id": "CP2040-20261111-20261111-d11-h14",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2040",
+      "event_id": "CP2040-20261111-20261111-d11-h15",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2040",
+      "event_id": "CP2040-20261111-20261111-d11-h16",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2040",
+      "event_id": "CP2040-20261112-20261112-d12-h14",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2040",
+      "event_id": "E615",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2041",
+      "event_id": "CP2041-20261110-20261110-d10-h14",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2041",
+      "event_id": "CP2041-20261110-20261110-d10-h15",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2041",
+      "event_id": "CP2041-20261110-20261110-d10-h16",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2041",
+      "event_id": "CP2041-20261112-20261112-d12-h16",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2041",
+      "event_id": "E615",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2042",
+      "event_id": "CP2042-20261111-20261111-d11-h14",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2042",
+      "event_id": "CP2042-20261111-20261111-d11-h15",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2042",
+      "event_id": "CP2042-20261111-20261111-d11-h16",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2042",
+      "event_id": "CP2042-20261112-20261112-d12-h16",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2042",
+      "event_id": "E615",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2043",
+      "event_id": "CP2043-20261108-20261108-d8-live",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2043",
+      "event_id": "CP2043-20261109-20261109-d9-live",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2043",
+      "event_id": "CP2043-20261110-20261110-d10-live",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2043",
+      "event_id": "CP2043-20261111-20261111-d11-live",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2043",
+      "event_id": "CP2043-20261112-20261112-d12-live",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2044",
+      "event_id": "L815",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2044",
+      "event_id": "E559",
+      "relation": "related_track_or_operator"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -396728,10 +398148,30 @@
     "CP2026-20260914-20261019-fall-1",
     "CP2026-20261026-20261207-fall-2",
     "CP2026-20270104-20270222-spring-1",
-    "CP2026-20270301-20270412-spring-2"
+    "CP2026-20270301-20270412-spring-2",
+    "CP2039-20261110-20261110-d10-h14",
+    "CP2039-20261110-20261110-d10-h15",
+    "CP2039-20261112-20261112-d12-h14",
+    "CP2040-20261111-20261111-d11-h14",
+    "CP2040-20261111-20261111-d11-h15",
+    "CP2040-20261111-20261111-d11-h16",
+    "CP2040-20261112-20261112-d12-h14",
+    "CP2041-20261110-20261110-d10-h14",
+    "CP2041-20261110-20261110-d10-h15",
+    "CP2041-20261110-20261110-d10-h16",
+    "CP2041-20261112-20261112-d12-h16",
+    "CP2042-20261111-20261111-d11-h14",
+    "CP2042-20261111-20261111-d11-h15",
+    "CP2042-20261111-20261111-d11-h16",
+    "CP2042-20261112-20261112-d12-h16",
+    "CP2043-20261108-20261108-d8-live",
+    "CP2043-20261109-20261109-d9-live",
+    "CP2043-20261110-20261110-d10-live",
+    "CP2043-20261111-20261111-d11-live",
+    "CP2043-20261112-20261112-d12-live"
   ],
   "integration": {
-    "generated_sessions": 4305,
+    "generated_sessions": 4325,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

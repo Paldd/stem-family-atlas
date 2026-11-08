@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10437,
-    "competition_cards": 4704,
-    "event_cards": 614,
-    "camp_cards": 5119,
+    "cards": 10465,
+    "competition_cards": 4705,
+    "event_cards": 617,
+    "camp_cards": 5143,
     "league_profiles": 303,
-    "major_exhibition_cards": 515,
+    "major_exhibition_cards": 518,
     "vex_cards": 814,
     "countries_with_records": 234,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3404,
+      "total": 3432,
       "countries_with_records": 40,
-      "competitions": 1936,
-      "events": 166,
-      "major_exhibitions": 125,
-      "camps": 1302,
+      "competitions": 1937,
+      "events": 169,
+      "major_exhibitions": 128,
+      "camps": 1326,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -14454,6 +14454,39 @@
       "new": false
     },
     {
+      "id": "E615",
+      "name": "Papalote · México STEM Week 2026",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-10",
+      "end": "2026-11-12",
+      "visitor_policy": "family",
+      "source": "https://mexicostemweek.org/actividades/",
+      "new": false
+    },
+    {
+      "id": "E616",
+      "name": "Rally STEAM · Utopía La Heroica",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "visitor_policy": "family",
+      "source": "https://mexicostemweek.org/actividades/",
+      "new": false
+    },
+    {
+      "id": "E617",
+      "name": "12.º Simposio de Robótica Educativa · CCH UNAM",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "visitor_policy": "confirm_children",
+      "source": "https://eventos.cch.unam.mx/simposiorobotica/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -16871,8 +16904,8 @@
       }
     ],
     "counts": {
-      "records": 5119,
-      "holiday": 4727,
+      "records": 5143,
+      "holiday": 4747,
       "regular": 170,
       "self_paced_materials": 4,
       "boarding": 1038,

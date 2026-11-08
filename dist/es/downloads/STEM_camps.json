@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5119,
-      "holiday": 4727,
+      "records": 5143,
+      "holiday": 4747,
       "regular": 170,
       "self_paced_materials": 4,
       "boarding": 1038,
@@ -33602,7 +33602,7 @@
         "ZH"
       ],
       "language_mode": "primary",
-      "cost": "Gratis.",
+      "cost": "Gratuito.",
       "level": "Etapa regional",
       "reward": "",
       "priority": "P2 — participación según requisitos",
@@ -33670,7 +33670,7 @@
         "ZH"
       ],
       "language_mode": "primary",
-      "cost": "Gratis.",
+      "cost": "Gratuito.",
       "level": "Etapa regional",
       "reward": "",
       "priority": "P2 — participación según requisitos",
@@ -35894,7 +35894,7 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
-      "cost": "Gratis.",
+      "cost": "Gratuito.",
       "level": "Taller o programa formativo",
       "reward": "",
       "priority": "P2 — participación según requisitos",
@@ -36547,7 +36547,7 @@
       "languages": [],
       "language_mode": "materials",
       "language_certainty": "Materiales paso a paso en inglés y español. En el club presencial, el idioma depende de la coordinación.",
-      "cost": "Gratis.",
+      "cost": "Gratuito.",
       "level": "Taller o programa formativo",
       "reward": "",
       "priority": "P2 — participación según requisitos",
@@ -37564,7 +37564,7 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "language_certainty": "Aviso e inscripción en español. Confirmar el idioma de la persona que imparte el taller.",
-      "cost": "Gratis.",
+      "cost": "Gratuito.",
       "level": "Taller o programa formativo",
       "reward": "",
       "priority": "P2 — participación según requisitos",
@@ -37617,7 +37617,7 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "language_certainty": "Aviso e inscripción en español. Confirmar el idioma de la persona que imparte el taller.",
-      "cost": "Gratis.",
+      "cost": "Gratuito.",
       "level": "Taller o programa formativo",
       "reward": "",
       "priority": "P2 — participación según requisitos",
@@ -37670,7 +37670,7 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "language_certainty": "Aviso e inscripción en español. Confirmar el idioma de la persona que imparte el taller.",
-      "cost": "Gratis.",
+      "cost": "Gratuito.",
       "level": "Taller o programa formativo",
       "reward": "",
       "priority": "P2 — participación según requisitos",
@@ -39977,7 +39977,7 @@
       ],
       "language_mode": "materials",
       "language_certainty": "Interfaz e instrucciones del simulador en español. Práctica autónoma.",
-      "cost": "Gratis.",
+      "cost": "Gratuito.",
       "level": "Programa formativo técnico",
       "reward": "",
       "priority": "P2 — participación según requisitos",
@@ -42602,6 +42602,249 @@
       "delivery_mode": "in_person",
       "related_ids": [
         "E234"
+      ]
+    },
+    {
+      "id": "L815",
+      "title": "Museo de los Niños · Campamentos educativos",
+      "block": "Campamentos",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Museo de los Niños · San José",
+      "start": "",
+      "end": "",
+      "period": "El museo ofrece campamentos a principios y a mitad de año. Aún no publica fechas, edad, precio, idioma ni modalidad de inscripción individual para 2027.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://museocr.org/ninos/grupos/",
+      "references": [
+        {
+          "url": "https://museocr.org/nuevo/museo_servicios.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://museocr.org/ninos/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Edad escolar. No se publican límites para la nueva edición.",
+      "mat": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+      "osc": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+      "format": "Programa vacacional del museo con experimentos, juegos y actividades de equipo.",
+      "entry": "Consultar el ingreso individual de menores y el nuevo horario. La reserva de un grupo escolar se tramita aparte.",
+      "gear": "",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Consultar el ingreso individual de menores y el nuevo horario. La reserva de un grupo escolar se tramita aparte.",
+      "note": "El museo ofrece campamentos a principios y a mitad de año. Aún no publica fechas, edad, precio, idioma ni modalidad de inscripción individual para 2027.",
+      "themes": [
+        "science",
+        "general",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "Programa vacacional del museo con experimentos, juegos y actividades de equipo.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E559"
+      ],
+      "camp_dossier_slug": "museo-ninos-san-jose-holiday-watch"
+    },
+    {
+      "id": "L816",
+      "title": "Atlas de las Niñeces · TEC y Municipalidad",
+      "block": "Campamentos",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Ludoteca Estercita Castro · Alajuela",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://munialajuela.go.cr/News/2263",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "De 9 a 10 años.",
+      "mat": "Sí por edad. Confirmar las plazas y las condiciones de participación.",
+      "osc": "No cumple por edad. Actualmente está fuera del rango indicado.",
+      "format": "Mapeo del parque por menores. El proyecto del TEC utiliza software libre y mapeo participativo.",
+      "entry": "La inscripción corresponde a un adulto. Hay 20 plazas e incluye un refrigerio. Confirmar el acompañamiento en el recinto.",
+      "gear": "",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P1 — inicio local para la familia",
+      "action": "La inscripción corresponde a un adulto. Hay 20 plazas e incluye un refrigerio. Confirmar el acompañamiento en el recinto.",
+      "note": "La inscripción corresponde a un adulto. Hay 20 plazas e incluye un refrigerio. Confirmar el acompañamiento en el recinto.",
+      "themes": [
+        "technology",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Mapeo del parque por menores. El proyecto del TEC utiliza software libre y mapeo participativo.",
+      "participation": "workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "start_utc": "2026-11-14T15:00:00Z",
+          "end_utc": "2026-11-14T18:00:00Z",
+          "topic": "Atlas de las Niñeces · TEC y Municipalidad",
+          "ical_timed": true
+        }
+      ]
+    },
+    {
+      "id": "L817",
+      "title": "Electrobotics · RobotClaus · México STEM Week",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "C. Literatura · El Tintero · Santiago de Querétaro",
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://mexicostemweek.org/actividades/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Primaria, grupos de 6 a 12 años.",
+      "mat": "Sí por edad. Confirmar las plazas y las condiciones de participación.",
+      "osc": "Sí por edad. Confirmar las plazas y las condiciones de participación.",
+      "format": "El menor ensambla un robot navideño y explora la electrónica aplicada.",
+      "entry": "Taller abierto. Confirmar plazas restantes y si el kit está incluido en el precio publicado.",
+      "gear": "",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "100 MXN según el calendario.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P1 — inicio local para la familia",
+      "action": "Taller abierto. Confirmar plazas restantes y si el kit está incluido en el precio publicado.",
+      "note": "Taller abierto. Confirmar plazas restantes y si el kit está incluido en el precio publicado.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "El menor ensambla un robot navideño y explora la electrónica aplicada.",
+      "participation": "workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-10",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-10T22:00:00Z",
+          "end_utc": "2026-11-11T00:00:00Z",
+          "topic": "Electrobotics · RobotClaus · México STEM Week",
+          "ical_timed": true
+        }
+      ]
+    },
+    {
+      "id": "L818",
+      "title": "Del laberinto al robot · Universidad de la Cañada",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Teotitlán de Flores Magón · Oaxaca",
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://mexicostemweek.org/actividades/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "De 10 a 12 años, Primaria Fase 5.",
+      "mat": "No cumple por edad. Actualmente tiene menos de 10 años.",
+      "osc": "No cumple por edad. Actualmente tiene menos de 10 años.",
+      "format": "Laberintos, retos en Minecraft y robot LEGO EV3.",
+      "entry": "El calendario indica acceso abierto. Confirmar plaza, grado y admisión de menores externos.",
+      "gear": "",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "Gratuito.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P4 — edad inferior al mínimo",
+      "action": "El calendario indica acceso abierto. Confirmar plaza, grado y admisión de menores externos.",
+      "note": "El calendario indica acceso abierto. Confirmar plaza, grado y admisión de menores externos.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Laberintos, retos en Minecraft y robot LEGO EV3.",
+      "participation": "workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-10",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-10T14:00:00Z",
+          "end_utc": "2026-11-10T18:00:00Z",
+          "topic": "Del laberinto al robot · Universidad de la Cañada",
+          "ical_timed": true
+        }
       ]
     },
     {
@@ -411379,6 +411622,1536 @@
           "ical_timed": true
         }
       ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2039-20261110-20261110-d10-h14",
+      "block": "Campamentos",
+      "title": "Papalote · PlastiBot · 14:00–15:00 · 2026-11-10–2026-11-10",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 4 a 6 años, catálogo general de 3 a 5 años. Confirmar el acceso de Óscar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–6",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "gear": "Armar un circuito sencillo y un modelo de robot de plastilina.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+      "references": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cartel de 4 a 6 años, catálogo general de 3 a 5 años. Confirmar el acceso de Óscar.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: No cumple por edad. Actualmente está fuera del rango indicado. Oscar: Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "papalote-stem-week-plastibot",
+      "camp_programme_id": "CP2039",
+      "sessions": [
+        {
+          "date": "2026-11-10",
+          "start_time": "14:00",
+          "end_time": "15:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-10T20:00:00Z",
+          "end_utc": "2026-11-10T21:00:00Z",
+          "topic": "PlastiBot",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2039-20261110-20261110-d10-h15",
+      "block": "Campamentos",
+      "title": "Papalote · PlastiBot · 15:00–16:00 · 2026-11-10–2026-11-10",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 4 a 6 años, catálogo general de 3 a 5 años. Confirmar el acceso de Óscar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–6",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "gear": "Armar un circuito sencillo y un modelo de robot de plastilina.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+      "references": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cartel de 4 a 6 años, catálogo general de 3 a 5 años. Confirmar el acceso de Óscar.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: No cumple por edad. Actualmente está fuera del rango indicado. Oscar: Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "papalote-stem-week-plastibot",
+      "camp_programme_id": "CP2039",
+      "sessions": [
+        {
+          "date": "2026-11-10",
+          "start_time": "15:00",
+          "end_time": "16:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-10T21:00:00Z",
+          "end_utc": "2026-11-10T22:00:00Z",
+          "topic": "PlastiBot",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2039-20261112-20261112-d12-h14",
+      "block": "Campamentos",
+      "title": "Papalote · PlastiBot · 14:00–15:00 · 2026-11-12–2026-11-12",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "period": "El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 4 a 6 años, catálogo general de 3 a 5 años. Confirmar el acceso de Óscar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–6",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "gear": "Armar un circuito sencillo y un modelo de robot de plastilina.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+      "references": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cartel de 4 a 6 años, catálogo general de 3 a 5 años. Confirmar el acceso de Óscar.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: No cumple por edad. Actualmente está fuera del rango indicado. Oscar: Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "papalote-stem-week-plastibot",
+      "camp_programme_id": "CP2039",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "start_time": "14:00",
+          "end_time": "15:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-12T20:00:00Z",
+          "end_utc": "2026-11-12T21:00:00Z",
+          "topic": "PlastiBot",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2040-20261111-20261111-d11-h14",
+      "block": "Campamentos",
+      "title": "Papalote · Fábrica Creativa · 14:00–15:00 · 2026-11-11–2026-11-11",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "period": "El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 7 a 9 años. El calendario general utiliza grupos escolares más amplios.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–9",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "gear": "Construir un personaje y darle vida con código creativo.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+      "references": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cartel de 7 a 9 años. El calendario general utiliza grupos escolares más amplios.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: No cumple por edad. Actualmente está fuera del rango indicado. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "coding",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "papalote-stem-week-fabrica-creativa",
+      "camp_programme_id": "CP2040",
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "start_time": "14:00",
+          "end_time": "15:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-11T20:00:00Z",
+          "end_utc": "2026-11-11T21:00:00Z",
+          "topic": "Fábrica Creativa",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2040-20261111-20261111-d11-h15",
+      "block": "Campamentos",
+      "title": "Papalote · Fábrica Creativa · 15:00–16:00 · 2026-11-11–2026-11-11",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "period": "El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 7 a 9 años. El calendario general utiliza grupos escolares más amplios.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–9",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "gear": "Construir un personaje y darle vida con código creativo.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+      "references": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cartel de 7 a 9 años. El calendario general utiliza grupos escolares más amplios.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: No cumple por edad. Actualmente está fuera del rango indicado. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "coding",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "papalote-stem-week-fabrica-creativa",
+      "camp_programme_id": "CP2040",
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "start_time": "15:00",
+          "end_time": "16:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-11T21:00:00Z",
+          "end_utc": "2026-11-11T22:00:00Z",
+          "topic": "Fábrica Creativa",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2040-20261111-20261111-d11-h16",
+      "block": "Campamentos",
+      "title": "Papalote · Fábrica Creativa · 16:00–17:00 · 2026-11-11–2026-11-11",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "period": "El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 7 a 9 años. El calendario general utiliza grupos escolares más amplios.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–9",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "gear": "Construir un personaje y darle vida con código creativo.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+      "references": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cartel de 7 a 9 años. El calendario general utiliza grupos escolares más amplios.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: No cumple por edad. Actualmente está fuera del rango indicado. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "coding",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "papalote-stem-week-fabrica-creativa",
+      "camp_programme_id": "CP2040",
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "start_time": "16:00",
+          "end_time": "17:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-11T22:00:00Z",
+          "end_utc": "2026-11-11T23:00:00Z",
+          "topic": "Fábrica Creativa",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2040-20261112-20261112-d12-h14",
+      "block": "Campamentos",
+      "title": "Papalote · Fábrica Creativa · 14:00–15:00 · 2026-11-12–2026-11-12",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "period": "El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 7 a 9 años. El calendario general utiliza grupos escolares más amplios.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–9",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "gear": "Construir un personaje y darle vida con código creativo.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+      "references": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cartel de 7 a 9 años. El calendario general utiliza grupos escolares más amplios.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: No cumple por edad. Actualmente está fuera del rango indicado. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "coding",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "papalote-stem-week-fabrica-creativa",
+      "camp_programme_id": "CP2040",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "start_time": "14:00",
+          "end_time": "15:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-12T20:00:00Z",
+          "end_utc": "2026-11-12T21:00:00Z",
+          "topic": "Fábrica Creativa",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2041-20261110-20261110-d10-h14",
+      "block": "Campamentos",
+      "title": "Papalote · LABerinto · 14:00–15:00 · 2026-11-10–2026-11-10",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 7 a 12 años. El calendario general incluye un grupo de 6 a 8 años. Confirmar el acceso de Óscar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–12",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "gear": "Diseñar y construir un recorrido de madera aplicando geometría espacial.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+      "references": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cartel de 7 a 12 años. El calendario general incluye un grupo de 6 a 8 años. Confirmar el acceso de Óscar.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "engineering",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "papalote-stem-week-laberinto",
+      "camp_programme_id": "CP2041",
+      "sessions": [
+        {
+          "date": "2026-11-10",
+          "start_time": "14:00",
+          "end_time": "15:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-10T20:00:00Z",
+          "end_utc": "2026-11-10T21:00:00Z",
+          "topic": "LABerinto",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2041-20261110-20261110-d10-h15",
+      "block": "Campamentos",
+      "title": "Papalote · LABerinto · 15:00–16:00 · 2026-11-10–2026-11-10",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 7 a 12 años. El calendario general incluye un grupo de 6 a 8 años. Confirmar el acceso de Óscar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–12",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "gear": "Diseñar y construir un recorrido de madera aplicando geometría espacial.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+      "references": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cartel de 7 a 12 años. El calendario general incluye un grupo de 6 a 8 años. Confirmar el acceso de Óscar.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "engineering",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "papalote-stem-week-laberinto",
+      "camp_programme_id": "CP2041",
+      "sessions": [
+        {
+          "date": "2026-11-10",
+          "start_time": "15:00",
+          "end_time": "16:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-10T21:00:00Z",
+          "end_utc": "2026-11-10T22:00:00Z",
+          "topic": "LABerinto",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2041-20261110-20261110-d10-h16",
+      "block": "Campamentos",
+      "title": "Papalote · LABerinto · 16:00–17:00 · 2026-11-10–2026-11-10",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 7 a 12 años. El calendario general incluye un grupo de 6 a 8 años. Confirmar el acceso de Óscar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–12",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "gear": "Diseñar y construir un recorrido de madera aplicando geometría espacial.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+      "references": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cartel de 7 a 12 años. El calendario general incluye un grupo de 6 a 8 años. Confirmar el acceso de Óscar.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "engineering",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "papalote-stem-week-laberinto",
+      "camp_programme_id": "CP2041",
+      "sessions": [
+        {
+          "date": "2026-11-10",
+          "start_time": "16:00",
+          "end_time": "17:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-10T22:00:00Z",
+          "end_utc": "2026-11-10T23:00:00Z",
+          "topic": "LABerinto",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2041-20261112-20261112-d12-h16",
+      "block": "Campamentos",
+      "title": "Papalote · LABerinto · 16:00–17:00 · 2026-11-12–2026-11-12",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "period": "El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 7 a 12 años. El calendario general incluye un grupo de 6 a 8 años. Confirmar el acceso de Óscar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–12",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "gear": "Diseñar y construir un recorrido de madera aplicando geometría espacial.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+      "references": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cartel de 7 a 12 años. El calendario general incluye un grupo de 6 a 8 años. Confirmar el acceso de Óscar.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "engineering",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "papalote-stem-week-laberinto",
+      "camp_programme_id": "CP2041",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "start_time": "16:00",
+          "end_time": "17:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-12T22:00:00Z",
+          "end_utc": "2026-11-12T23:00:00Z",
+          "topic": "LABerinto",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2042-20261111-20261111-d11-h14",
+      "block": "Campamentos",
+      "title": "Papalote · VoltCard · 14:00–15:00 · 2026-11-11–2026-11-11",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "period": "El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Según el cartel, desde los 10 años.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "10+",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "gear": "Armar un circuito eléctrico y probar un prototipo en movimiento.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+      "references": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Según el cartel, desde los 10 años.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: No cumple por edad. Actualmente tiene menos de 10 años. Oscar: No cumple por edad. Actualmente tiene menos de 10 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "papalote-stem-week-voltcard",
+      "camp_programme_id": "CP2042",
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "start_time": "14:00",
+          "end_time": "15:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-11T20:00:00Z",
+          "end_utc": "2026-11-11T21:00:00Z",
+          "topic": "VoltCard",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2042-20261111-20261111-d11-h15",
+      "block": "Campamentos",
+      "title": "Papalote · VoltCard · 15:00–16:00 · 2026-11-11–2026-11-11",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "period": "El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Según el cartel, desde los 10 años.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "10+",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "gear": "Armar un circuito eléctrico y probar un prototipo en movimiento.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+      "references": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Según el cartel, desde los 10 años.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: No cumple por edad. Actualmente tiene menos de 10 años. Oscar: No cumple por edad. Actualmente tiene menos de 10 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "papalote-stem-week-voltcard",
+      "camp_programme_id": "CP2042",
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "start_time": "15:00",
+          "end_time": "16:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-11T21:00:00Z",
+          "end_utc": "2026-11-11T22:00:00Z",
+          "topic": "VoltCard",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2042-20261111-20261111-d11-h16",
+      "block": "Campamentos",
+      "title": "Papalote · VoltCard · 16:00–17:00 · 2026-11-11–2026-11-11",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "period": "El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Según el cartel, desde los 10 años.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "10+",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "gear": "Armar un circuito eléctrico y probar un prototipo en movimiento.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+      "references": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Según el cartel, desde los 10 años.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: No cumple por edad. Actualmente tiene menos de 10 años. Oscar: No cumple por edad. Actualmente tiene menos de 10 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "papalote-stem-week-voltcard",
+      "camp_programme_id": "CP2042",
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "start_time": "16:00",
+          "end_time": "17:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-11T22:00:00Z",
+          "end_utc": "2026-11-11T23:00:00Z",
+          "topic": "VoltCard",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2042-20261112-20261112-d12-h16",
+      "block": "Campamentos",
+      "title": "Papalote · VoltCard · 16:00–17:00 · 2026-11-12–2026-11-12",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Papalote Museo del Niño · Chapultepec · CDMX",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "period": "El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Según el cartel, desde los 10 años.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "10+",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "gear": "Armar un circuito eléctrico y probar un prototipo en movimiento.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.",
+      "source": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+      "references": [
+        {
+          "url": "https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Según el cartel, desde los 10 años.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: No cumple por edad. Actualmente tiene menos de 10 años. Oscar: No cumple por edad. Actualmente tiene menos de 10 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "papalote-stem-week-voltcard",
+      "camp_programme_id": "CP2042",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "start_time": "16:00",
+          "end_time": "17:00",
+          "timezone": "America/Mexico_City",
+          "start_utc": "2026-11-12T22:00:00Z",
+          "end_utc": "2026-11-12T23:00:00Z",
+          "topic": "VoltCard",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2043-20261108-20261108-d8-live",
+      "block": "Campamentos",
+      "title": "Nairda · Robótica con IA · México STEM Week · 16:00–17:00 · 2026-11-08–2026-11-08",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Online · México",
+      "start": "2026-11-08",
+      "end": "2026-11-08",
+      "period": "Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "El operador invita a niñas, niños, jóvenes y adultos. Confirmar la edad mínima y la conexión desde el extranjero.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesión virtual en directo.",
+      "entry": "En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.",
+      "gear": "Montaje en línea de un robot virtual con IA y programación por bloques. Se necesita ordenador, navegador e internet.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.",
+      "source": "https://nairda.com.mx/taller/",
+      "references": [
+        {
+          "url": "https://nairda.com.mx/taller/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://nairda.com.mx/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Condicional. El operador invita a menores, pero no publica una edad mínima. Oscar: Condicional. El operador invita a menores, pero no publica una edad mínima. Suplementos: Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "ai"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nairda-stem-week-live-2026",
+      "camp_programme_id": "CP2043",
+      "delivery_mode": "virtual",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2043-20261109-20261109-d9-live",
+      "block": "Campamentos",
+      "title": "Nairda · Robótica con IA · México STEM Week · 16:00–17:00 · 2026-11-09–2026-11-09",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Online · México",
+      "start": "2026-11-09",
+      "end": "2026-11-09",
+      "period": "Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "El operador invita a niñas, niños, jóvenes y adultos. Confirmar la edad mínima y la conexión desde el extranjero.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesión virtual en directo.",
+      "entry": "En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.",
+      "gear": "Montaje en línea de un robot virtual con IA y programación por bloques. Se necesita ordenador, navegador e internet.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.",
+      "source": "https://nairda.com.mx/taller/",
+      "references": [
+        {
+          "url": "https://nairda.com.mx/taller/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://nairda.com.mx/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Condicional. El operador invita a menores, pero no publica una edad mínima. Oscar: Condicional. El operador invita a menores, pero no publica una edad mínima. Suplementos: Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "ai"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nairda-stem-week-live-2026",
+      "camp_programme_id": "CP2043",
+      "delivery_mode": "virtual",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2043-20261110-20261110-d10-live",
+      "block": "Campamentos",
+      "title": "Nairda · Robótica con IA · México STEM Week · 16:00–17:00 · 2026-11-10–2026-11-10",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Online · México",
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "El operador invita a niñas, niños, jóvenes y adultos. Confirmar la edad mínima y la conexión desde el extranjero.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesión virtual en directo.",
+      "entry": "En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.",
+      "gear": "Montaje en línea de un robot virtual con IA y programación por bloques. Se necesita ordenador, navegador e internet.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.",
+      "source": "https://nairda.com.mx/taller/",
+      "references": [
+        {
+          "url": "https://nairda.com.mx/taller/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://nairda.com.mx/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Condicional. El operador invita a menores, pero no publica una edad mínima. Oscar: Condicional. El operador invita a menores, pero no publica una edad mínima. Suplementos: Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "ai"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nairda-stem-week-live-2026",
+      "camp_programme_id": "CP2043",
+      "delivery_mode": "virtual",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2043-20261111-20261111-d11-live",
+      "block": "Campamentos",
+      "title": "Nairda · Robótica con IA · México STEM Week · 16:00–17:00 · 2026-11-11–2026-11-11",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Online · México",
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "period": "Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "El operador invita a niñas, niños, jóvenes y adultos. Confirmar la edad mínima y la conexión desde el extranjero.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesión virtual en directo.",
+      "entry": "En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.",
+      "gear": "Montaje en línea de un robot virtual con IA y programación por bloques. Se necesita ordenador, navegador e internet.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.",
+      "source": "https://nairda.com.mx/taller/",
+      "references": [
+        {
+          "url": "https://nairda.com.mx/taller/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://nairda.com.mx/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Condicional. El operador invita a menores, pero no publica una edad mínima. Oscar: Condicional. El operador invita a menores, pero no publica una edad mínima. Suplementos: Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "ai"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nairda-stem-week-live-2026",
+      "camp_programme_id": "CP2043",
+      "delivery_mode": "virtual",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2043-20261112-20261112-d12-live",
+      "block": "Campamentos",
+      "title": "Nairda · Robótica con IA · México STEM Week · 16:00–17:00 · 2026-11-12–2026-11-12",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Online · México",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "period": "Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "El operador invita a niñas, niños, jóvenes y adultos. Confirmar la edad mínima y la conexión desde el extranjero.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesión virtual en directo.",
+      "entry": "En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.",
+      "gear": "Montaje en línea de un robot virtual con IA y programación por bloques. Se necesita ordenador, navegador e internet.",
+      "language": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "cost": "2026/27 · Gratis. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.",
+      "source": "https://nairda.com.mx/taller/",
+      "references": [
+        {
+          "url": "https://nairda.com.mx/taller/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mexicostemweek.org/actividades/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://nairda.com.mx/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Condicional. El operador invita a menores, pero no publica una edad mínima. Oscar: Condicional. El operador invita a menores, pero no publica una edad mínima. Suplementos: Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "ai"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nairda-stem-week-live-2026",
+      "camp_programme_id": "CP2043",
+      "delivery_mode": "virtual",
       "availability": {
         "status": "unconfirmed",
         "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."

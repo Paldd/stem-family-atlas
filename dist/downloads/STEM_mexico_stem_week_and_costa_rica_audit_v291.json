@@ -1,0 +1,78 @@
+{
+  "version": 291,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "stem_week_index_rows": 242,
+  "scope": [
+    "MEX",
+    "CRI"
+  ],
+  "new_event_ids": [
+    "E615",
+    "L815",
+    "L816",
+    "L817",
+    "L818",
+    "E616",
+    "E617",
+    "C4706"
+  ],
+  "new_dossiers": [
+    "CP2039",
+    "CP2040",
+    "CP2041",
+    "CP2042",
+    "CP2043",
+    "CP2044"
+  ],
+  "new_dated_variants": 20,
+  "refreshed_event_ids": [
+    "E559"
+  ],
+  "legacy_overlay_event_ids": [
+    "E559"
+  ],
+  "dossier_event_links": {
+    "papalote-stem-week-plastibot": [
+      "E615"
+    ],
+    "papalote-stem-week-fabrica-creativa": [
+      "E615"
+    ],
+    "papalote-stem-week-laberinto": [
+      "E615"
+    ],
+    "papalote-stem-week-voltcard": [
+      "E615"
+    ],
+    "museo-ninos-san-jose-holiday-watch": [
+      "L815",
+      "E559"
+    ]
+  },
+  "source_requests": 16,
+  "papalote_age_conflict": {
+    "PlastiBot": {
+      "poster": "4–6",
+      "festival_catalogue": "3–5"
+    },
+    "LABerinto": {
+      "poster": "7–12",
+      "festival_catalogue_first_band": "6–8"
+    }
+  },
+  "papalote_match": {
+    "date": "2026-11-12",
+    "time": "14:00–15:00",
+    "matvey": "Fábrica Creativa",
+    "oscar": "PlastiBot",
+    "status": "same_venue_and_time_oscar_age_conflict_verify_both_places"
+  },
+  "audience_caveats": {
+    "nairda": "provider_invites_children_no_minimum_age_published",
+    "robotics_symposium": "minors_admission_unconfirmed",
+    "revolution": "15_18_high_school_only",
+    "museo_camp": "no_dated_2027_intake_found_in_reviewed_sources"
+  }
+}

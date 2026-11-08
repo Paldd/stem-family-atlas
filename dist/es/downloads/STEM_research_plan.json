@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 290,
+    "version": 291,
     "status": "implementation_snapshot",
-    "events": 10437,
-    "competitions": 4704,
+    "events": 10465,
+    "competitions": 4705,
     "league_profiles": 303,
-    "camp_dossiers": 2038,
+    "camp_dossiers": 2044,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 614,
+    "exhibitions_events": 617,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 289,
+    "version": 290,
     "status": "implementation_snapshot",
-    "events": 10421,
+    "events": 10437,
     "competitions": 4704,
     "league_profiles": 303,
-    "camp_dossiers": 2026,
+    "camp_dossiers": 2038,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 611,
+    "exhibitions_events": 614,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 290,
+    "prepared_ui_version": 291,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 289,
-    "previous_verified_commit": "be000d6c52d174ea877457d4cfe62513b4a43879"
+    "previous_verified_ui_version": 290,
+    "previous_verified_commit": "f0994590d1c4c31f660e2450e44a562bf0c971a4"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 289,
-    "published_version": 289,
-    "latest_source_commit": "be000d6c52d174ea877457d4cfe62513b4a43879",
-    "published_commit": "be000d6c52d174ea877457d4cfe62513b4a43879",
-    "latest_workflow": 42500891421,
+    "latest_source_version": 290,
+    "published_version": 290,
+    "latest_source_commit": "f0994590d1c4c31f660e2450e44a562bf0c971a4",
+    "published_commit": "f0994590d1c4c31f660e2450e44a562bf0c971a4",
+    "latest_workflow": 42502939937,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -29494,5 +29494,85 @@
     ],
     "audit": "data/africa-family-camps-and-expos-audit-v290.json",
     "source_receipts": "data/africa-family-camps-and-expos-source-receipts-v290.json"
+  },
+  "mexico_stem_week_and_costa_rica_v291": {
+    "version": 291,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "stem_week_index_rows": 242,
+    "scope": [
+      "MEX",
+      "CRI"
+    ],
+    "new_event_ids": [
+      "E615",
+      "L815",
+      "L816",
+      "L817",
+      "L818",
+      "E616",
+      "E617",
+      "C4706"
+    ],
+    "new_dossiers": [
+      "CP2039",
+      "CP2040",
+      "CP2041",
+      "CP2042",
+      "CP2043",
+      "CP2044"
+    ],
+    "new_dated_variants": 20,
+    "refreshed_event_ids": [
+      "E559"
+    ],
+    "legacy_overlay_event_ids": [
+      "E559"
+    ],
+    "dossier_event_links": {
+      "papalote-stem-week-plastibot": [
+        "E615"
+      ],
+      "papalote-stem-week-fabrica-creativa": [
+        "E615"
+      ],
+      "papalote-stem-week-laberinto": [
+        "E615"
+      ],
+      "papalote-stem-week-voltcard": [
+        "E615"
+      ],
+      "museo-ninos-san-jose-holiday-watch": [
+        "L815",
+        "E559"
+      ]
+    },
+    "source_requests": 16,
+    "papalote_age_conflict": {
+      "PlastiBot": {
+        "poster": "4–6",
+        "festival_catalogue": "3–5"
+      },
+      "LABerinto": {
+        "poster": "7–12",
+        "festival_catalogue_first_band": "6–8"
+      }
+    },
+    "papalote_match": {
+      "date": "2026-11-12",
+      "time": "14:00–15:00",
+      "matvey": "Fábrica Creativa",
+      "oscar": "PlastiBot",
+      "status": "same_venue_and_time_oscar_age_conflict_verify_both_places"
+    },
+    "audience_caveats": {
+      "nairda": "provider_invites_children_no_minimum_age_published",
+      "robotics_symposium": "minors_admission_unconfirmed",
+      "revolution": "15_18_high_school_only",
+      "museo_camp": "no_dated_2027_intake_found_in_reviewed_sources"
+    },
+    "audit": "data/mexico-stem-week-and-costa-rica-audit-v291.json",
+    "source_receipts": "data/mexico-stem-week-and-costa-rica-source-receipts-v291.json"
   }
 }

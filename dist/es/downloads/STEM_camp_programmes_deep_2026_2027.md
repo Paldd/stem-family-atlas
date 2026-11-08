@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2038 fichas en 127 países. Cada ficha indica las fechas de revisión de sus fuentes.
+Estado de la base: 2026-11-08. 2044 fichas en 127 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -161839,6 +161839,566 @@ Mauricio · Port Louis / online
 - [Página de la organización o reglamento de la categoría.](https://yuva.info/yuva-academy/school-of-robotics/robotics-for-kids/) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://yuva.info/yuva-academy/school-of-robotics/) · 2026-11-08
+
+## CP2039 · Papalote · PlastiBot
+
+México · Papalote Museo del Niño · Chapultepec · CDMX
+
+**Se ha comprobado:** 2026-11-08
+
+**Edad:** 4–6
+
+**Idioma:** Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+
+**Programa:** Armar un circuito sencillo y un modelo de robot de plastilina.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 4 a 6 años, catálogo general de 3 a 5 años. Confirmar el acceso de Óscar.
+
+**Precio / año:** 2026 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**Incluido:** Armar un circuito sencillo y un modelo de robot de plastilina.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No cumple por edad. Actualmente está fuera del rango indicado.
+
+**Oscar:** Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo.
+
+**Motivo de selección:** El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 4 a 6 años, catálogo general de 3 a 5 años. Confirmar el acceso de Óscar.
+
+### Antes de solicitar plaza
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+### 14:00–15:00
+
+**Fechas / estado:** 2026-11-10 — 2026-11-10
+
+**Precio:** El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**condiciones de participación:** Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+- 2026-11-10 · 14:00–15:00 · America/Mexico_City · PlastiBot
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+[fuente](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg)
+
+### 15:00–16:00
+
+**Fechas / estado:** 2026-11-10 — 2026-11-10
+
+**Precio:** El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**condiciones de participación:** Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+- 2026-11-10 · 15:00–16:00 · America/Mexico_City · PlastiBot
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+[fuente](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg)
+
+### 14:00–15:00
+
+**Fechas / estado:** 2026-11-12 — 2026-11-12
+
+**Precio:** El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**condiciones de participación:** Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+- 2026-11-12 · 14:00–15:00 · America/Mexico_City · PlastiBot
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+[fuente](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://mexicostemweek.org/actividades/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink) · 2026-11-08
+
+## CP2040 · Papalote · Fábrica Creativa
+
+México · Papalote Museo del Niño · Chapultepec · CDMX
+
+**Se ha comprobado:** 2026-11-08
+
+**Edad:** 7–9
+
+**Idioma:** Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+
+**Programa:** Construir un personaje y darle vida con código creativo.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 7 a 9 años. El calendario general utiliza grupos escolares más amplios.
+
+**Precio / año:** 2026 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**Incluido:** Construir un personaje y darle vida con código creativo.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar las plazas y las condiciones de participación.
+
+**Oscar:** No cumple por edad. Actualmente está fuera del rango indicado.
+
+**Motivo de selección:** El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 7 a 9 años. El calendario general utiliza grupos escolares más amplios.
+
+### Antes de solicitar plaza
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+### 14:00–15:00
+
+**Fechas / estado:** 2026-11-11 — 2026-11-11
+
+**Precio:** El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**condiciones de participación:** Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+- 2026-11-11 · 14:00–15:00 · America/Mexico_City · Fábrica Creativa
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+[fuente](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg)
+
+### 15:00–16:00
+
+**Fechas / estado:** 2026-11-11 — 2026-11-11
+
+**Precio:** El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**condiciones de participación:** Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+- 2026-11-11 · 15:00–16:00 · America/Mexico_City · Fábrica Creativa
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+[fuente](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg)
+
+### 16:00–17:00
+
+**Fechas / estado:** 2026-11-11 — 2026-11-11
+
+**Precio:** El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**condiciones de participación:** Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+- 2026-11-11 · 16:00–17:00 · America/Mexico_City · Fábrica Creativa
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+[fuente](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg)
+
+### 14:00–15:00
+
+**Fechas / estado:** 2026-11-12 — 2026-11-12
+
+**Precio:** El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**condiciones de participación:** Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+- 2026-11-12 · 14:00–15:00 · America/Mexico_City · Fábrica Creativa
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+[fuente](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://mexicostemweek.org/actividades/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink) · 2026-11-08
+
+## CP2041 · Papalote · LABerinto
+
+México · Papalote Museo del Niño · Chapultepec · CDMX
+
+**Se ha comprobado:** 2026-11-08
+
+* Edad:** 7*12
+
+**Idioma:** Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+
+**Programa:** Diseñar y construir un recorrido de madera aplicando geometría espacial.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 7 a 12 años. El calendario general incluye un grupo de 6 a 8 años. Confirmar el acceso de Óscar.
+
+**Precio / año:** 2026 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**Incluido:** Diseñar y construir un recorrido de madera aplicando geometría espacial.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar las plazas y las condiciones de participación.
+
+**Oscar:** Cumple según el cartel, pero el catálogo general indica otra edad. Confirmar con el museo.
+
+**Motivo de selección:** El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Cartel de 7 a 12 años. El calendario general incluye un grupo de 6 a 8 años. Confirmar el acceso de Óscar.
+
+### Antes de solicitar plaza
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+### 14:00–15:00
+
+**Fechas / estado:** 2026-11-10 — 2026-11-10
+
+**Precio:** El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**condiciones de participación:** Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+- 2026-11-10 · 14:00–15:00 · America/Mexico_City · LABerinto
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+[fuente](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg)
+
+### 15:00–16:00
+
+**Fechas / estado:** 2026-11-10 — 2026-11-10
+
+**Precio:** El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**condiciones de participación:** Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+- 2026-11-10 · 15:00–16:00 · America/Mexico_City · LABerinto
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+[fuente](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg)
+
+### 16:00–17:00
+
+**Fechas / estado:** 2026-11-10 — 2026-11-10
+
+**Precio:** El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**condiciones de participación:** Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+- 2026-11-10 · 16:00–17:00 · America/Mexico_City · LABerinto
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+[fuente](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg)
+
+### 16:00–17:00
+
+**Fechas / estado:** 2026-11-12 — 2026-11-12
+
+**Precio:** El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**condiciones de participación:** Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+- 2026-11-12 · 16:00–17:00 · America/Mexico_City · LABerinto
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+[fuente](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://mexicostemweek.org/actividades/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink) · 2026-11-08
+
+## CP2042 · Papalote · VoltCard
+
+México · Papalote Museo del Niño · Chapultepec · CDMX
+
+**Se ha comprobado:** 2026-11-08
+
+* Edad:** 10+
+
+**Idioma:** Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+
+**Programa:** Armar un circuito eléctrico y probar un prototipo en movimiento.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Según el cartel, desde los 10 años.
+
+**Precio / año:** 2026 · El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**Incluido:** Armar un circuito eléctrico y probar un prototipo en movimiento.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No cumple por edad. Actualmente tiene menos de 10 años.
+
+**Oscar:** No cumple por edad. Actualmente tiene menos de 10 años.
+
+**Motivo de selección:** El cartel enumera sesiones de 1 hora y 10 plazas por sesión. El calendario general solo indica la primera fecha de cada taller y grupos escolares más amplios. Según el cartel, desde los 10 años.
+
+### Antes de solicitar plaza
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+### 14:00–15:00
+
+**Fechas / estado:** 2026-11-11 — 2026-11-11
+
+**Precio:** El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**condiciones de participación:** Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+- 2026-11-11 · 14:00–15:00 · America/Mexico_City · VoltCard
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+[fuente](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg)
+
+### 15:00–16:00
+
+**Fechas / estado:** 2026-11-11 — 2026-11-11
+
+**Precio:** El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**condiciones de participación:** Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+- 2026-11-11 · 15:00–16:00 · America/Mexico_City · VoltCard
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+[fuente](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg)
+
+### 16:00–17:00
+
+**Fechas / estado:** 2026-11-11 — 2026-11-11
+
+**Precio:** El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**condiciones de participación:** Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+- 2026-11-11 · 16:00–17:00 · America/Mexico_City · VoltCard
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+[fuente](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg)
+
+### 16:00–17:00
+
+**Fechas / estado:** 2026-11-12 — 2026-11-12
+
+**Precio:** El calendario indica 280 MXN. El taller está incluido en la entrada correspondiente al museo. Confirmar tarifa del acompañante y paquete aplicable.
+
+**condiciones de participación:** Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+- 2026-11-12 · 16:00–17:00 · America/Mexico_City · VoltCard
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Consultar con antelación disponibilidad en el formulario del museo, edad del grupo y condiciones de entrada del acompañante.
+
+[fuente](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://brujulafamiliar.com/__l5e/assets-v1/b3840983-4724-4436-8848-e8c9ddefa39b/papalote-stem-week-cartelera.jpg) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://mexicostemweek.org/actividades/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://forms.cloud.microsoft/r/A1s7cHCKNC?origin=lprLink) · 2026-11-08
+
+## CP2043 · Nairda · Robótica con IA · México STEM Week
+
+México · Online · México
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** El operador invita a niñas, niños, jóvenes y adultos. Confirmar la edad mínima y la conexión desde el extranjero.
+
+**Idioma:** Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+
+**Programa:** Montaje en línea de un robot virtual con IA y programación por bloques. Se necesita ordenador, navegador e internet.
+
+**Alojamiento:** Sesión virtual en directo.
+
+**Fechas / estado:** Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria.
+
+**Precio / año:** 2026 · Gratis.
+
+**Incluido:** Montaje en línea de un robot virtual con IA y programación por bloques. Se necesita ordenador, navegador e internet.
+
+**Suplementos:** Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. El operador invita a menores, pero no publica una edad mínima.
+
+**Oscar:** Condicional. El operador invita a menores, pero no publica una edad mínima.
+
+**Motivo de selección:** Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria.
+
+### Antes de solicitar plaza
+
+- En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
+
+### 16:00–17:00
+
+**Fechas / estado:** 2026-11-08 — 2026-11-08
+
+**Precio:** Gratis.
+
+**condiciones de participación:** En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
+
+[fuente](https://nairda.com.mx/taller/)
+
+### 16:00–17:00
+
+**Fechas / estado:** 2026-11-09 — 2026-11-09
+
+**Precio:** Gratis.
+
+**condiciones de participación:** En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
+
+[fuente](https://nairda.com.mx/taller/)
+
+### 16:00–17:00
+
+**Fechas / estado:** 2026-11-10 — 2026-11-10
+
+**Precio:** Gratis.
+
+**condiciones de participación:** En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
+
+[fuente](https://nairda.com.mx/taller/)
+
+### 16:00–17:00
+
+**Fechas / estado:** 2026-11-11 — 2026-11-11
+
+**Precio:** Gratis.
+
+**condiciones de participación:** En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
+
+[fuente](https://nairda.com.mx/taller/)
+
+### 16:00–17:00
+
+**Fechas / estado:** 2026-11-12 — 2026-11-12
+
+**Precio:** Gratis.
+
+**condiciones de participación:** En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
+
+[fuente](https://nairda.com.mx/taller/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://nairda.com.mx/taller/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://mexicostemweek.org/actividades/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://nairda.com.mx/) · 2026-11-08
+
+## CP2044 · Museo de los Niños · Campamentos educativos
+
+Costa Rica · Museo de los Niños · San José
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Edad escolar. No se publican límites para la nueva edición.
+
+**Idioma:** Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.
+
+**Programa:** Programa vacacional del museo con experimentos, juegos y actividades de equipo.
+
+**Alojamiento:** No se describen alojamiento ni horario de la nueva edición.
+
+**Fechas / estado:** El museo ofrece campamentos a principios y a mitad de año. Aún no publica fechas, edad, precio, idioma ni modalidad de inscripción individual para 2027.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Consultar el ingreso individual de menores y el nuevo horario. La reserva de un grupo escolar se tramita aparte.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cotejar edad, grado y requisitos de acceso.
+
+**Oscar:** Condicional. Cotejar edad, grado y requisitos de acceso.
+
+**Motivo de selección:** El museo ofrece campamentos a principios y a mitad de año. Aún no publica fechas, edad, precio, idioma ni modalidad de inscripción individual para 2027.
+
+### Antes de solicitar plaza
+
+- Consultar el ingreso individual de menores y el nuevo horario. La reserva de un grupo escolar se tramita aparte.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://museocr.org/ninos/grupos/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://museocr.org/nuevo/museo_servicios.php) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://museocr.org/ninos/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 
