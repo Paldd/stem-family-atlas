@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 274,
+    "version": 275,
     "status": "implementation_snapshot",
-    "events": 10186,
-    "competitions": 4624,
+    "events": 10198,
+    "competitions": 4625,
     "league_profiles": 299,
-    "camp_dossiers": 1960,
+    "camp_dossiers": 1967,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 556,
+    "exhibitions_events": 559,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,10 +928,10 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 273,
+    "version": 274,
     "status": "implementation_snapshot",
-    "events": 10177,
-    "competitions": 4616,
+    "events": 10186,
+    "competitions": 4624,
     "league_profiles": 299,
     "camp_dossiers": 1960,
     "budget_offers": 312,
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 274,
+    "prepared_ui_version": 275,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 273,
-    "previous_verified_commit": "7cbbfc8145651429d8c22c77689c60d90c1c61c5"
+    "previous_verified_ui_version": 274,
+    "previous_verified_commit": "6bff84082a346c65c1aa4640f266b5cd3afd7861"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 273,
-    "published_version": 273,
-    "latest_source_commit": "7cbbfc8145651429d8c22c77689c60d90c1c61c5",
-    "published_commit": "7cbbfc8145651429d8c22c77689c60d90c1c61c5",
-    "latest_workflow": 42471868828,
+    "latest_source_version": 274,
+    "published_version": 274,
+    "latest_source_commit": "6bff84082a346c65c1aa4640f266b5cd3afd7861",
+    "published_commit": "6bff84082a346c65c1aa4640f266b5cd3afd7861",
+    "latest_workflow": 42473422021,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -27429,5 +27429,91 @@
     "tokyo_humanoids": "E282",
     "audit": "data/robotics-entry-and-space-routes-audit-v274.json",
     "source_receipts": "data/robotics-entry-and-space-routes-source-receipts-v274.json"
+  },
+  "latam_visits_and_winter_tracks_v275": {
+    "version": 275,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4626",
+      "E557",
+      "E558",
+      "E559"
+    ],
+    "new_dossiers": [
+      "CP1961",
+      "CP1962",
+      "CP1963",
+      "CP1964",
+      "CP1965",
+      "CP1966",
+      "CP1967"
+    ],
+    "new_dated_variants": 8,
+    "refreshed_event_ids": [
+      "C1159",
+      "C1160",
+      "C1161",
+      "C1162",
+      "C1163",
+      "C1164",
+      "C1165",
+      "C1166",
+      "C1167",
+      "C1168",
+      "E045"
+    ],
+    "legacy_overlay_event_ids": [
+      "C1159",
+      "C1160",
+      "C1161",
+      "C1162",
+      "C1163",
+      "C1164",
+      "C1165",
+      "C1166",
+      "C1167",
+      "C1168",
+      "E045"
+    ],
+    "legacy_overlay_league_ids": [
+      "robofest-latam"
+    ],
+    "source_requests": 18,
+    "robofest_festival": "C4626",
+    "robofest_visitor": "E557",
+    "robofest_rule_watch": [
+      "C1159",
+      "C1160",
+      "C1161",
+      "C1162",
+      "C1163",
+      "C1164",
+      "C1165",
+      "C1166",
+      "C1167",
+      "C1168"
+    ],
+    "expo_maquina": "E558",
+    "family_museum": "E559",
+    "explora": "E045",
+    "guatemala_online": [
+      "CP1961",
+      "CP1962"
+    ],
+    "canada_sprintmind": "CP1963",
+    "canada_stema": [
+      "CP1196",
+      "CP1197"
+    ],
+    "canada_steamoji": [
+      "CP1964",
+      "CP1965",
+      "CP1966",
+      "CP1967"
+    ],
+    "audit": "data/latam-visits-and-winter-tracks-audit-v275.json",
+    "source_receipts": "data/latam-visits-and-winter-tracks-source-receipts-v275.json"
   }
 }

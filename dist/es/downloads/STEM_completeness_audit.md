@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10186; competiciones: 4624; eventos: 556; campamentos / programas: 5006. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 459 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10198; competiciones: 4625; eventos: 559; campamentos / programas: 5014. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 463 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -14,7 +14,7 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1909 | 104 | 1258 |
+| América del Norte | 40 | 1910 | 108 | 1266 |
 | América del Sur | 14 | 428 | 37 | 204 |
 | Europa | 54 | 597 | 121 | 1447 |
 | África | 53 | 235 | 28 | 92 |
@@ -23,7 +23,7 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 Fichas interregionales o globales sin asignar a un continente: 162. Norteamérica incluye Centroamérica y el Caribe. Los recuentos muestran el inventario de la base, no un porcentaje de exhaustividad.
 
-VEX: 814 de 4624 fichas de competiciones (17.6%). La cobertura está claramente concentrada.
+VEX: 814 de 4625 fichas de competiciones (17.6%). La cobertura está claramente concentrada.
 
 ## Lo que queda
 
@@ -326,7 +326,7 @@ VEX: 814 de 4624 fichas de competiciones (17.6%). La cobertura está claramente 
 - **Code Battle UAE**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://codebattle.tech/
 - **Virtual Xplore League · Firefly IO**: 6 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://xploreleague.com/virtual/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
-- **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
+- **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
 - **FIRST LEGO League · Scandinavia**: 55 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://hjernekraft.org/no
 - **FIRST LEGO League · Hungary · local 2026/27**: 18 fichas, 18 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstlegoleague.hu/bioglow/
@@ -426,6 +426,7 @@ VEX: 814 de 4624 fichas de competiciones (17.6%). La cobertura está claramente 
 - **PAX Aus 2026** Australia; 2026-10-09 2026-10-11. Con un adulto; las condiciones de entrada de un adulto por separado. https://aus.paxsite.com/en-us/info/faq.html
 - **GAMERGY Madrid 2026** htm España; 2026-12-18 2026-12-20. https://www.ifema.es/gamergy
 - **World Science & Technology Expo — Ruta Científica Puerto Vallarta 2027** — México; 2027-02-25 – 2027-02-28. el permiso de entrada de niños. https://www.roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027
+- **Explora Panamá — centro interactivo de ciencia, tecnología y robótica** — Panamá; sin fecha puntual. Con un adulto; condiciones de admisión adulta por separado. https://www.explorapanama.org/
 - **Maker Faire Guangzhou 2026** China; 2026-10-17 2026-10-18. https://guangzhou.makerfaire.com/
 - **Maker Faire Monterrey / ITERA TEC 2026** — México; 2026-11-12. el permiso de entrada de niños. https://luma.com/i5cz5p70
 - **Maker Faire Mittleres Rheinland 2026** — Alemania; 2026-11-07 – 2026-11-08. con un adulto; condiciones de admisión adulta por separado. https://makerspace-myk.de/makerfaire/
@@ -826,6 +827,9 @@ VEX: 814 de 4624 fichas de competiciones (17.6%). La cobertura está claramente 
 - **B’ROBOTICS XXL 2027 · Public & Family Day** — Países Bajos; 2027-05-29. con un adulto; condiciones de admisión adulta por separado. https://b-robotics.eu/en/agenda/brobotics-xxl-event-public-family-day/
 - **B’ROBOTICS XXL 2027 · Business & Student Day** — Países Bajos; 2027-05-26. el permiso de entrada de niños. https://b-robotics.eu/en/agenda/brobotics-xxl-event-business-and-student-day/
 - **B’ROBOTICS XXL 2027 · International Day** — Países Bajos; 2027-05-27. el permiso de entrada de niños. https://b-robotics.eu/en/agenda/brobotics-xxl-event-international-day/
+- **Robofest LATAM 2027 · talleres para visitantes** — México; 2027-03-05 – 2027-03-06. el permiso de entrada de niños. https://www.robofestmexico.org/
+- **Expo Máquina 2027 · The Outdoor Experience** — Panamá; 2027-02-25 – 2027-02-28. con un adulto; condiciones de admisión adulta por separado. https://adimaq.org/expomaquina/
+- **Museo de los Niños · salas STEAM y tecnología espacial** — Costa Rica; sin fecha puntual. Con un adulto; condiciones de admisión adulta por separado. https://museocr.org/ninos/salas-interactivas/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

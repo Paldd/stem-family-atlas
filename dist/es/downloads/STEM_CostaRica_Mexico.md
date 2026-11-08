@@ -5036,6 +5036,45 @@ Limitaciones: Además del código se requiere una presentación PowerPoint: 1 di
 Fuente: https://www.unoosa.org/oosa/en/ourwork/access2space4all/Kibo-RPC/kibo-rpc_7th_round.html
 Se ha comprobado: 2026-11-08
 
+### C4626 · Robofest LATAM 2027 · Atlacomulco
+
+Fecha: 2027-03-05 — 2027-03-06
+edad: Desde 6 años según el anuncio general del festival. Cada prueba tiene sus propias bases de edad y grado.
+Matvey: Condicional. Edad y acceso según las bases de la actividad concreta.
+Oscar: Condicional. Edad y acceso según las bases de la actividad concreta.
+Idioma: Información de la organización en español. Confirmar el idioma del jurado.
+Acceso: El entrenador inscribe al equipo. Los talleres y las conferencias requieren registro separado sujeto a plazas.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Festival del 5 al 6 de marzo de 2027 en Atlacomulco. Día de cada prueba, bases nuevas, tarifa y cupos aún pendientes.
+Fuente: https://www.robofestmexico.org/
+Se ha comprobado: 2026-11-08
+
+### E557 · Robofest LATAM 2027 · talleres para visitantes
+
+Fecha: 2027-03-05 — 2027-03-06
+edad: Condicional. Edad y acceso según las bases de la actividad concreta.
+Matvey: Condicional. Edad y acceso según las bases de la actividad concreta.
+Oscar: Condicional. Edad y acceso según las bases de la actividad concreta.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: El entrenador inscribe al equipo. Los talleres y las conferencias requieren registro separado sujeto a plazas.
+Precio: Se anuncian talleres gratuitos. Consultar aparte el precio de entrada al festival.
+Limitaciones: La organización invita a talleres y conferencias gratuitos también a quienes no compiten. Edad y horario de talleres aún pendientes.
+Fuente: https://www.robofestmexico.org/
+Se ha comprobado: 2026-11-08
+
+### E559 · Museo de los Niños · salas STEAM y tecnología espacial
+
+Fecha: Habitualmente mar–vie 08:30–16:30, sáb–dom 09:00–17:00. Lunes cerrado. El horario puede variar en vacaciones.
+edad: Museo familiar. La tarifa infantil aplica a mayores de 6 meses.
+Matvey: Sí, visita familiar. Cotejar el horario y la entrada antes de ir.
+Oscar: Sí, visita familiar. Cotejar el horario y la entrada antes de ir.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: La entrada se adquiere con antelación en la taquilla del museo. La tarifa básica es la misma para nacionales y extranjeros.
+Precio: CRC 2500 por niño, CRC 3000 por visitante mayor de 15 años. Para 2 adultos y 2 niños, CRC 11000 por la entrada regular. Actividades especiales y estacionamiento aparte.
+Limitaciones: Exposición permanente. En la sala STEAM, los niños investigan un reto y ensayan una solución siguiendo el método científico.
+Fuente: https://museocr.org/ninos/salas-interactivas/
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -6297,22 +6336,22 @@ Limitaciones: Se requiere cuaderno de ingeniería y tres resúmenes preparados p
 Fuente: https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-5435.html
 Se ha comprobado: 2026-11-07
 
-### C1159 · Robofest LATAM · Game · Building Bridges · siguiente serie
+### C1159 · Robofest LATAM · Game · bases de 2027 pendientes
 
-Fecha: No se ha anunciado el siguiente juego / 2027; a continuación sólo se publica la edición 2026.
+Fecha: Festival del 5 al 6 de marzo de 2027 en Atlacomulco. Día de cada prueba, bases nuevas, tarifa y cupos aún pendientes.
 Edad: Local PDF 2026: Junior de 6 a menos 15 años. Ver el sitio está usando 5–8 Clases; El marco varía. Nueva temporada 2027 y la fecha de la amputación aún no ha sido anunciada.
 Matvey: Candidato a título contingente según el marco local 6–14 de las reglas 2026. Para el siguiente juego, confirmar la edad al día, Clase y autoempleo; Esto no es aceptar una solicitud..
 Oscar: Candidato a título contingente según el marco local 6–14 de las reglas 2026. Para el siguiente juego, confirmar la edad de su día., Clase y autoempleo; Esto no es aceptar una solicitud..
 Idioma: El idioma del juez/maestro no es claro. El texto español de las reglas o catálogos no prueba el flujo de la información; se acuerda antes del viaje.
 Entrada: Esperar a una nueva convocatoria, confirmar categoría, país/documento escolar, mentor adulto, idioma, precio y autonomía.
 Costo: No se ha establecido la contribución LATAM. En el antiguo PDF p 34, la contribución mundial de USD 100 + 10 por tramitación, y la p 27 USD 90 corresponde a eventos locales de los Estados Unidos, que no son un precio mexicano ni 2027, ni un robot, ni preparación, vuelo y vivienda.
-Limitaciones: Archivo común marcado 2026, pero contiene footer General Rules 2025 V 2, cuadro RoboParade 2025 Fechas anteriores y anteriores. Marco local 6–14 no se arrastra a LTU World 2027: Ahí. Junior 5–8 y cursos especiales Explorer 1–4. Fecha LATAM 2027 no publicado. Coaches No se recoge un robot ni escribe./editar código de participantes (p 13). Game/Exhibition tienen una trayectoria de calificación; Open de la designación por el Director Regional. En el archivo <3 órdenes: No hay premios, Posible acreditación por escrito de 80%; p 30 contiene cuotas nacionales separadas. Ninguna condición da derecho automático a World 2027.
+Limitaciones: La misión Building Bridges corresponde al archivo de 2026. LTU anunció RoboPetCare para la temporada global de 2027. Cotejar la misión local, la selección y el cupo en las bases de LATAM 2027.
 Fuente: https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-08
 
 ### C1160 · Robofest LATAM · Exhibition · Proyecto de ingeniería independiente · siguiente
 
-Fecha: No se ha anunciado el siguiente juego / 2027; a continuación sólo se publica la edición 2026.
+Fecha: Festival del 5 al 6 de marzo de 2027 en Atlacomulco. Día de cada prueba, bases nuevas, tarifa y cupos aún pendientes.
 Edad: Local PDF 2026: Junior de 6 a menos 15 años. Ver el sitio está usando 5–8 Clases; El marco varía. Nueva temporada 2027 y la fecha de la amputación aún no ha sido anunciada.
 Matvey: Candidato a título contingente según el marco local 6–14 de las reglas 2026. Para el siguiente juego, confirmar la edad al día, Clase y autoempleo; Esto no es aceptar una solicitud..
 Oscar: Candidato a título contingente según el marco local 6–14 de las reglas 2026. Para el siguiente juego, confirmar la edad de su día., Clase y autoempleo; Esto no es aceptar una solicitud..
@@ -6321,11 +6360,11 @@ Entrada: Esperar a una nueva convocatoria, confirmar categoría, país/documento
 Costo: No se ha establecido la contribución LATAM. En el antiguo PDF p 34, la contribución mundial de USD 100 + 10 por tramitación, y la p 27 USD 90 corresponde a eventos locales de los Estados Unidos, que no son un precio mexicano ni 2027, ni un robot, ni preparación, vuelo y vivienda.
 Limitaciones: Archivo común marcado 2026, pero contiene footer General Rules 2025 V 2, cuadro RoboParade 2025 Fechas anteriores y anteriores. Marco local 6–14 no se arrastra a LTU World 2027: Ahí. Junior 5–8 y cursos especiales Explorer 1–4. Fecha LATAM 2027 no publicado. Coaches No se recoge un robot ni escribe./editar código de participantes (p 13). Game/Exhibition tienen una trayectoria de calificación; Open de la designación por el Director Regional. En el archivo <3 órdenes: No hay premios, Posible acreditación por escrito de 80%; p 30 contiene cuotas nacionales separadas. Ninguna condición da derecho automático a World 2027.
 Fuente: https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-08
 
 ### # C1161 · Robofest LATAM · BottleSumo Junior · el siguiente conjunto
 
-Fecha: No se ha anunciado el siguiente juego / 2027; a continuación sólo se publica la edición 2026.
+Fecha: Festival del 5 al 6 de marzo de 2027 en Atlacomulco. Día de cada prueba, bases nuevas, tarifa y cupos aún pendientes.
 Edad: Local PDF 2026: Junior de 6 a menos 15 años. Ver el sitio está usando 5–8 Clases; El marco varía. Nueva temporada 2027 y la fecha de la amputación aún no ha sido anunciada.
 Matvey: Candidato a título contingente según el marco local 6–14 de las reglas 2026. Para el siguiente juego, confirmar la edad al día, Clase y autoempleo; Esto no es aceptar una solicitud..
 Oscar: Candidato a título contingente según el marco local 6–14 de las reglas 2026. Para el siguiente juego, confirmar la edad de su día., Clase y autoempleo; Esto no es aceptar una solicitud..
@@ -6334,11 +6373,11 @@ Entrada: Esperar a una nueva convocatoria, confirmar categoría, país/documento
 Costo: No se ha establecido la contribución LATAM. En el antiguo PDF p 34, la contribución mundial de USD 100 + 10 por tramitación, y la p 27 USD 90 corresponde a eventos locales de los Estados Unidos, que no son un precio mexicano ni 2027, ni un robot, ni preparación, vuelo y vivienda.
 Limitaciones: Archivo común marcado 2026, pero contiene footer General Rules 2025 V 2, cuadro RoboParade 2025 Fechas anteriores y anteriores. Marco local 6–14 no se arrastra a LTU World 2027: Ahí. Junior 5–8 y cursos especiales Explorer 1–4. Fecha LATAM 2027 no publicado. Coaches No se recoge un robot ni escribe./editar código de participantes (p 13). Game/Exhibition tienen una trayectoria de calificación; Open de la designación por el Director Regional. En el archivo <3 órdenes: No hay premios, Posible acreditación por escrito de 80%; p 30 contiene cuotas nacionales separadas. Ninguna condición da derecho automático a World 2027.
 Fuente: https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-08
 
 ### C1162 · Robofest LATAM · Unknown Mission Challenge Junior · el siguiente conjunto
 
-Fecha: No se ha anunciado el siguiente juego / 2027; a continuación sólo se publica la edición 2026.
+Fecha: Festival del 5 al 6 de marzo de 2027 en Atlacomulco. Día de cada prueba, bases nuevas, tarifa y cupos aún pendientes.
 Edad: Local PDF 2026: Junior de 6 a menos 15 años. Ver el sitio está usando 5–8 Clases; El marco varía. Nueva temporada 2027 y la fecha de la amputación aún no ha sido anunciada.
 Matvey: Candidato a título contingente según el marco local 6–14 de las reglas 2026. Para el siguiente juego, confirmar la edad al día, Clase y autoempleo; Esto no es aceptar una solicitud..
 Oscar: Candidato a título contingente según el marco local 6–14 de las reglas 2026. Para el siguiente juego, confirmar la edad de su día., Clase y autoempleo; Esto no es aceptar una solicitud..
@@ -6347,11 +6386,11 @@ Entrada: Esperar a una nueva convocatoria, confirmar categoría, país/documento
 Costo: No se ha establecido la contribución LATAM. En el antiguo PDF p 34, la contribución mundial de USD 100 + 10 por tramitación, y la p 27 USD 90 corresponde a eventos locales de los Estados Unidos, que no son un precio mexicano ni 2027, ni un robot, ni preparación, vuelo y vivienda.
 Limitaciones: Archivo común marcado 2026, pero contiene footer General Rules 2025 V 2, cuadro RoboParade 2025 Fechas anteriores y anteriores. Marco local 6–14 no se arrastra a LTU World 2027: Ahí. Junior 5–8 y cursos especiales Explorer 1–4. Fecha LATAM 2027 no publicado. Coaches No se recoge un robot ni escribe./editar código de participantes (p 13). Game/Exhibition tienen una trayectoria de calificación; Open de la designación por el Director Regional. En el archivo <3 órdenes: No hay premios, Posible acreditación por escrito de 80%; p 30 contiene cuotas nacionales separadas. Ninguna condición da derecho automático a World 2027.
 Fuente: https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-08
 
 ### # C1163 · Robofest LATAM · RoboArts Junior · el siguiente juego
 
-Fecha: No se ha anunciado el siguiente juego / 2027; a continuación sólo se publica la edición 2026.
+Fecha: Festival del 5 al 6 de marzo de 2027 en Atlacomulco. Día de cada prueba, bases nuevas, tarifa y cupos aún pendientes.
 Edad: Local PDF 2026: Junior de 6 a menos 15 años. Ver el sitio está usando 5–8 Clases; El marco varía. Nueva temporada 2027 y la fecha de la amputación aún no ha sido anunciada.
 Matvey: Candidato a título contingente según el marco local 6–14 de las reglas 2026. Para el siguiente juego, confirmar la edad al día, Clase y autoempleo; Esto no es aceptar una solicitud..
 Oscar: Candidato a título contingente según el marco local 6–14 de las reglas 2026. Para el siguiente juego, confirmar la edad de su día., Clase y autoempleo; Esto no es aceptar una solicitud..
@@ -6360,11 +6399,11 @@ Entrada: Esperar a una nueva convocatoria, confirmar categoría, país/documento
 Costo: No se ha establecido la contribución LATAM. En el antiguo PDF p 34, la contribución mundial de USD 100 + 10 por tramitación, y la p 27 USD 90 corresponde a eventos locales de los Estados Unidos, que no son un precio mexicano ni 2027, ni un robot, ni preparación, vuelo y vivienda.
 Limitaciones: Archivo común marcado 2026, pero contiene footer General Rules 2025 V 2, cuadro RoboParade 2025 Fechas anteriores y anteriores. Marco local 6–14 no se arrastra a LTU World 2027: Ahí. Junior 5–8 y cursos especiales Explorer 1–4. Fecha LATAM 2027 no publicado. Coaches No se recoge un robot ni escribe./editar código de participantes (p 13). Game/Exhibition tienen una trayectoria de calificación; Open de la designación por el Director Regional. En el archivo <3 órdenes: No hay premios, Posible acreditación por escrito de 80%; p 30 contiene cuotas nacionales separadas. Ninguna condición da derecho automático a World 2027.
 Fuente: https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-08
 
 ### # C1164 · Robofest LATAM · RoboMed Junior · siguiente
 
-Fecha: No se ha anunciado el siguiente juego / 2027; a continuación sólo se publica la edición 2026.
+Fecha: Festival del 5 al 6 de marzo de 2027 en Atlacomulco. Día de cada prueba, bases nuevas, tarifa y cupos aún pendientes.
 Edad: Local PDF 2026: Junior de 6 a menos 15 años. Ver el sitio está usando 5–8 Clases; El marco varía. Nueva temporada 2027 y la fecha de la amputación aún no ha sido anunciada.
 Matvey: Candidato a título contingente según el marco local 6–14 de las reglas 2026. Para el siguiente juego, confirmar la edad al día, Clase y autoempleo; Esto no es aceptar una solicitud..
 Oscar: Candidato a título contingente según el marco local 6–14 de las reglas 2026. Para el siguiente juego, confirmar la edad de su día., Clase y autoempleo; Esto no es aceptar una solicitud..
@@ -6373,11 +6412,11 @@ Entrada: Esperar a una nueva convocatoria, confirmar categoría, país/documento
 Costo: No se ha establecido la contribución LATAM. En el antiguo PDF p 34, la contribución mundial de USD 100 + 10 por tramitación, y la p 27 USD 90 corresponde a eventos locales de los Estados Unidos, que no son un precio mexicano ni 2027, ni un robot, ni preparación, vuelo y vivienda.
 Limitaciones: Archivo común marcado 2026, pero contiene footer General Rules 2025 V 2, cuadro RoboParade 2025 Fechas anteriores y anteriores. Marco local 6–14 no se arrastra a LTU World 2027: Ahí. Junior 5–8 y cursos especiales Explorer 1–4. Fecha LATAM 2027 no publicado. Coaches No se recoge un robot ni escribe./editar código de participantes (p 13). Game/Exhibition tienen una trayectoria de calificación; Open de la designación por el Director Regional. En el archivo <3 órdenes: No hay premios, Posible acreditación por escrito de 80%; p 30 contiene cuotas nacionales separadas. Ninguna condición da derecho automático a World 2027.
 Fuente: https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-08
 
 ### # C1165 · Robofest LATAM · RoboParade · próximo juego de menores
 
-Fecha: No se ha anunciado el siguiente juego / 2027; a continuación sólo se publica la edición 2026.
+Fecha: Festival del 5 al 6 de marzo de 2027 en Atlacomulco. Día de cada prueba, bases nuevas, tarifa y cupos aún pendientes.
 Edad: Presentación local 2026: 6–14 años, no grade Junior LTU 2027.
 Matvey: Candidato a título contingente según el marco local 6–14 de las reglas 2026. Para el siguiente juego, confirmar la edad al día, Clase y autoempleo; Esto no es aceptar una solicitud..
 Oscar: Candidato a título contingente según el marco local 6–14 de las reglas 2026. Para el siguiente juego, confirmar la edad de su día., Clase y autoempleo; Esto no es aceptar una solicitud..
@@ -6386,24 +6425,24 @@ Entrada: Esperar a una nueva convocatoria, confirmar categoría, país/documento
 Costo: No se ha establecido la contribución LATAM. En el antiguo PDF p 34, la contribución mundial de USD 100 + 10 por tramitación, y la p 27 USD 90 corresponde a eventos locales de los Estados Unidos, que no son un precio mexicano ni 2027, ni un robot, ni preparación, vuelo y vivienda.
 Limitaciones: Rubika 2026: checklist 20%, design 10% + explicación de velocidad 7%, art 10%, features 10%, teamwork 10%, Autonomía 10%, Matemáticas escritas 3%, Dos parade rounds hasta 10%. Solo teamwork 1/2 de 5. La presentación tiene un nombre V 2, dentro V 1.0 2026; Animal Kingdom se refiere a 2026. B World 2027 Explorer 1–4 y otro tema Fun and Games, no transferir automáticamente la edad local.
 Fuente: https://www.robofestmexico.org/_files/ugd/70d3e0_8df3deb7b77a4f99aff12b05418187ca.pptx?dn=RoboParade2026_V2.pptx
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-08
 
 ### C1166 · Robofest LATAM · drones W193 · siguiente juego
 
-Fecha: No se ha anunciado el siguiente juego / 2027; a continuación sólo se publica la edición 2026.
+Fecha: Festival del 5 al 6 de marzo de 2027 en Atlacomulco. Día de cada prueba, bases nuevas, tarifa y cupos aún pendientes.
 Edad: Conflicto 2026: página 10 de Junio 12/ Senior 13 de mayo de 18; PDF Junior 9 de mayo de 14/ Senior 15 de mayo de 20.
 Condicionalmente, en 2027, Matvey 9-10 pero el umbral inferior 9 o 10 es diferente, acordando la redacción actual.
 Oscar: No en ambos marcos de menor importancia publicados 9+ o 10+; en 2027 a Oscar 6–7.
 Idioma: El idioma del juez/maestro no es claro. El texto español de las reglas o catálogos no prueba el flujo de la información; se acuerda antes del viaje.
 Entrada: Esperar a una nueva convocatoria, confirmar categoría, país/documento escolar, mentor adulto, idioma, precio y autonomía.
 Costo: No se ha establecido la contribución LATAM. En el antiguo PDF p 34, la contribución mundial de USD 100 + 10 por tramitación, y la p 27 USD 90 corresponde a eventos locales de los Estados Unidos, que no son un precio mexicano ni 2027, ni un robot, ni preparación, vuelo y vivienda.
-Limitaciones: PDF W193 V 2 de 20.02.2026, No es un reglamento. LTU World 2027. Declaración sobre Hong Kong July 2026 — Promesa local pasada sin autorización externa verificada. >4 órdenes de selección de premios, <3 y 75% para su acreditación; situación 3/4 órdenes sin explicación. 2027 Fechas/cuota/No se conoce el precio.
+Limitaciones: W193 V 2 del 20.02.2026 corresponde a la edición anterior. Bases nuevas, selección, cupo y precio pendientes.
 Fuente: https://www.robofestmexico.org/_files/ugd/70d3e0_3fa233123159488abc9f4bdca1f2bf28.pdf
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-08
 
 ### C1167 · Robofest LATAM · Robofútbol 3 v 3 W193 · siguiente juego
 
-Fecha: No se ha anunciado el siguiente juego / 2027; a continuación sólo se publica la edición 2026.
+Fecha: Festival del 5 al 6 de marzo de 2027 en Atlacomulco. Día de cada prueba, bases nuevas, tarifa y cupos aún pendientes.
 Edad: Junior 8–14 Año de la competencia; Senior 15–19. Sólo edición 03.03.2026.
 Matvey: Condicionalmente 8–14, después de la nueva redacción, Preparación de equipos y tres robots.
 Oscar: Ninguna Junior 8+: en 2027 a Oscar 6–7.
@@ -6412,11 +6451,11 @@ Entrada: Esperar a una nueva convocatoria, confirmar categoría, país/documento
 Costo: No se ha establecido la contribución LATAM. En el antiguo PDF p 34, la contribución mundial de USD 100 + 10 por tramitación, y la p 27 USD 90 corresponde a eventos locales de los Estados Unidos, que no son un precio mexicano ni 2027, ni un robot, ni preparación, vuelo y vivienda.
 Limitaciones: PDF Declara premios de honor >4 y W193 Hong Kong July 2026; frase «Dos primeras» al mismo tiempo, enumera 1/2/3 Lugares. A <2 Categoría que no se puede considerar. Número de premios, 2027 No se confirma la invitación ni el reglamento externo; No es automático. LTU world route. Technical inspection incluye una explicación del proyecto/código; después test session de la comunicación con coach Prohibido.
 Fuente: https://www.robofestmexico.org/_files/ugd/70d3e0_ff05c3477db1422dacaf3615890bb630.pdf
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-08
 
 ### C1168 · Robofest LATAM · Vision Centro Challenge ~
 
-Fecha: No se ha anunciado el siguiente juego / 2027; a continuación sólo se publica la edición 2026.
+Fecha: Festival del 5 al 6 de marzo de 2027 en Atlacomulco. Día de cada prueba, bases nuevas, tarifa y cupos aún pendientes.
 Edad: PDF 2026: Senior 15 dia 19, no se indica la edad de un Junior.
 Matway: No en 15+ para la edad actual.
 Oscar: No en 15+ para la edad actual.
@@ -6425,7 +6464,7 @@ Entrada: Esperar a una nueva convocatoria, confirmar categoría, país/documento
 Costo: No se ha establecido la contribución LATAM. En el antiguo PDF p 34, la contribución mundial de USD 100 + 10 por tramitación, y la p 27 USD 90 corresponde a eventos locales de los Estados Unidos, que no son un precio mexicano ni 2027, ni un robot, ni preparación, vuelo y vivienda.
 Limitaciones: Archivo común marcado 2026, pero contiene footer General Rules 2025 V 2, cuadro RoboParade 2025 Fechas anteriores y anteriores. Marco local 6–14 no se arrastra a LTU World 2027: Ahí. Junior 5–8 y cursos especiales Explorer 1–4. Fecha LATAM 2027 no publicado. Esta. Senior La disciplina no significa que los hermanos tengan derecho a participar en la vida de la persona. drone challenge con una tabla de edades diferente.
 Fuente: https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-08
 
 ### E191 · BajaBot · Armado de Robot · de demostración para 1–3 Clases
 

@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1960,
+    "dossiers": 1967,
     "countries": 126,
     "swiss": 137,
     "by_status": {
@@ -38,7 +38,7 @@
       "published_2027": 536,
       "partial_2027": 145,
       "next_unannounced": 399,
-      "published_2026": 365,
+      "published_2026": 372,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2854
+    "source_urls": 2857
   },
   "countries": [
     {
@@ -161,7 +161,7 @@
     },
     {
       "country": "Гватемала",
-      "count": 6
+      "count": 8
     },
     {
       "country": "Германия",
@@ -253,7 +253,7 @@
     },
     {
       "country": "Канада",
-      "count": 195
+      "count": 200
     },
     {
       "country": "Катар",
@@ -168665,7 +168665,7 @@
                 "start_time": "09:00",
                 "end_time": "12:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Робототехника, датчики и простые механизмы.",
                 "ical_timed": true,
                 "start_utc": "2026-12-21T16:00:00Z",
                 "end_utc": "2026-12-21T19:00:00Z"
@@ -168675,7 +168675,7 @@
                 "start_time": "09:00",
                 "end_time": "12:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Робототехника, датчики и простые механизмы.",
                 "ical_timed": true,
                 "start_utc": "2026-12-22T16:00:00Z",
                 "end_utc": "2026-12-22T19:00:00Z"
@@ -168685,7 +168685,7 @@
                 "start_time": "09:00",
                 "end_time": "12:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Робототехника, датчики и простые механизмы.",
                 "ical_timed": true,
                 "start_utc": "2026-12-23T16:00:00Z",
                 "end_utc": "2026-12-23T19:00:00Z"
@@ -168695,11 +168695,16 @@
                 "start_time": "09:00",
                 "end_time": "12:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Робототехника, датчики и простые механизмы.",
                 "ical_timed": true,
                 "start_utc": "2026-12-24T16:00:00Z",
                 "end_utc": "2026-12-24T19:00:00Z"
               }
+            ],
+            "programme": "Робототехника, датчики и простые механизмы.",
+            "catalog_themes": [
+              "robotics",
+              "makers"
             ]
           },
           {
@@ -168719,7 +168724,7 @@
                 "start_time": "13:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Творческие проекты и 3D-дизайн на iPad.",
                 "ical_timed": true,
                 "start_utc": "2026-12-21T20:00:00Z",
                 "end_utc": "2026-12-21T23:00:00Z"
@@ -168729,7 +168734,7 @@
                 "start_time": "13:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Творческие проекты и 3D-дизайн на iPad.",
                 "ical_timed": true,
                 "start_utc": "2026-12-22T20:00:00Z",
                 "end_utc": "2026-12-22T23:00:00Z"
@@ -168739,7 +168744,7 @@
                 "start_time": "13:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Творческие проекты и 3D-дизайн на iPad.",
                 "ical_timed": true,
                 "start_utc": "2026-12-23T20:00:00Z",
                 "end_utc": "2026-12-23T23:00:00Z"
@@ -168749,11 +168754,16 @@
                 "start_time": "13:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Творческие проекты и 3D-дизайн на iPad.",
                 "ical_timed": true,
                 "start_utc": "2026-12-24T20:00:00Z",
                 "end_utc": "2026-12-24T23:00:00Z"
               }
+            ],
+            "programme": "Творческие проекты и 3D-дизайн на iPad.",
+            "catalog_themes": [
+              "makers",
+              "technology"
             ]
           },
           {
@@ -168773,7 +168783,7 @@
                 "start_time": "09:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Робототехника, датчики и простые механизмы. Творческие проекты и 3D-дизайн на iPad.",
                 "ical_timed": true,
                 "start_utc": "2026-12-21T16:00:00Z",
                 "end_utc": "2026-12-21T23:00:00Z"
@@ -168783,7 +168793,7 @@
                 "start_time": "09:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Робототехника, датчики и простые механизмы. Творческие проекты и 3D-дизайн на iPad.",
                 "ical_timed": true,
                 "start_utc": "2026-12-22T16:00:00Z",
                 "end_utc": "2026-12-22T23:00:00Z"
@@ -168793,7 +168803,7 @@
                 "start_time": "09:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Робототехника, датчики и простые механизмы. Творческие проекты и 3D-дизайн на iPad.",
                 "ical_timed": true,
                 "start_utc": "2026-12-23T16:00:00Z",
                 "end_utc": "2026-12-23T23:00:00Z"
@@ -168803,11 +168813,17 @@
                 "start_time": "09:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Робототехника, датчики и простые механизмы. Творческие проекты и 3D-дизайн на iPad.",
                 "ical_timed": true,
                 "start_utc": "2026-12-24T16:00:00Z",
                 "end_utc": "2026-12-24T23:00:00Z"
               }
+            ],
+            "programme": "Робототехника, датчики и простые механизмы. Творческие проекты и 3D-дизайн на iPad.",
+            "catalog_themes": [
+              "robotics",
+              "makers",
+              "technology"
             ]
           },
           {
@@ -168827,7 +168843,7 @@
                 "start_time": "09:00",
                 "end_time": "12:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Инженерные конструкции из LEGO, модели горок и ракет.",
                 "ical_timed": true,
                 "start_utc": "2026-12-28T16:00:00Z",
                 "end_utc": "2026-12-28T19:00:00Z"
@@ -168837,7 +168853,7 @@
                 "start_time": "09:00",
                 "end_time": "12:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Инженерные конструкции из LEGO, модели горок и ракет.",
                 "ical_timed": true,
                 "start_utc": "2026-12-29T16:00:00Z",
                 "end_utc": "2026-12-29T19:00:00Z"
@@ -168847,7 +168863,7 @@
                 "start_time": "09:00",
                 "end_time": "12:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Инженерные конструкции из LEGO, модели горок и ракет.",
                 "ical_timed": true,
                 "start_utc": "2026-12-30T16:00:00Z",
                 "end_utc": "2026-12-30T19:00:00Z"
@@ -168857,11 +168873,16 @@
                 "start_time": "09:00",
                 "end_time": "12:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Инженерные конструкции из LEGO, модели горок и ракет.",
                 "ical_timed": true,
                 "start_utc": "2026-12-31T16:00:00Z",
                 "end_utc": "2026-12-31T19:00:00Z"
               }
+            ],
+            "programme": "Инженерные конструкции из LEGO, модели горок и ракет.",
+            "catalog_themes": [
+              "makers",
+              "technology"
             ]
           },
           {
@@ -168881,7 +168902,7 @@
                 "start_time": "13:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Визуальное программирование и интерактивные истории в ScratchJr.",
                 "ical_timed": true,
                 "start_utc": "2026-12-28T20:00:00Z",
                 "end_utc": "2026-12-28T23:00:00Z"
@@ -168891,7 +168912,7 @@
                 "start_time": "13:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Визуальное программирование и интерактивные истории в ScratchJr.",
                 "ical_timed": true,
                 "start_utc": "2026-12-29T20:00:00Z",
                 "end_utc": "2026-12-29T23:00:00Z"
@@ -168901,7 +168922,7 @@
                 "start_time": "13:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Визуальное программирование и интерактивные истории в ScratchJr.",
                 "ical_timed": true,
                 "start_utc": "2026-12-30T20:00:00Z",
                 "end_utc": "2026-12-30T23:00:00Z"
@@ -168911,11 +168932,16 @@
                 "start_time": "13:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Визуальное программирование и интерактивные истории в ScratchJr.",
                 "ical_timed": true,
                 "start_utc": "2026-12-31T20:00:00Z",
                 "end_utc": "2026-12-31T23:00:00Z"
               }
+            ],
+            "programme": "Визуальное программирование и интерактивные истории в ScratchJr.",
+            "catalog_themes": [
+              "coding",
+              "games"
             ]
           },
           {
@@ -168935,7 +168961,7 @@
                 "start_time": "09:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Инженерные конструкции из LEGO, модели горок и ракет. Визуальное программирование и интерактивные истории в ScratchJr.",
                 "ical_timed": true,
                 "start_utc": "2026-12-28T16:00:00Z",
                 "end_utc": "2026-12-28T23:00:00Z"
@@ -168945,7 +168971,7 @@
                 "start_time": "09:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Инженерные конструкции из LEGO, модели горок и ракет. Визуальное программирование и интерактивные истории в ScratchJr.",
                 "ical_timed": true,
                 "start_utc": "2026-12-29T16:00:00Z",
                 "end_utc": "2026-12-29T23:00:00Z"
@@ -168955,7 +168981,7 @@
                 "start_time": "09:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Инженерные конструкции из LEGO, модели горок и ракет. Визуальное программирование и интерактивные истории в ScratchJr.",
                 "ical_timed": true,
                 "start_utc": "2026-12-30T16:00:00Z",
                 "end_utc": "2026-12-30T23:00:00Z"
@@ -168965,11 +168991,18 @@
                 "start_time": "09:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Junior K–2: первая неделя — роботы / датчики / простые машины утром и 3D art на iPad после обеда; вторая — LEGO конструкции утром, ScratchJr истории и анимация после обеда. Это школьные уровни, не возраст 0–2.",
+                "topic": "Инженерные конструкции из LEGO, модели горок и ракет. Визуальное программирование и интерактивные истории в ScratchJr.",
                 "ical_timed": true,
                 "start_utc": "2026-12-31T16:00:00Z",
                 "end_utc": "2026-12-31T23:00:00Z"
               }
+            ],
+            "programme": "Инженерные конструкции из LEGO, модели горок и ракет. Визуальное программирование и интерактивные истории в ScratchJr.",
+            "catalog_themes": [
+              "makers",
+              "technology",
+              "coding",
+              "games"
             ]
           }
         ],
@@ -169010,7 +169043,7 @@
         {
           "title": "STEAM Winter Camp · current variants",
           "url": "https://surrey.stemalearning.com/product/steam-winter-camp/",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "Camp terms · updated 22 July 2026",
@@ -169028,7 +169061,7 @@
           "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -169149,7 +169182,7 @@
                 "start_time": "09:00",
                 "end_time": "12:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Роботы VEX, передаточные отношения и механика.",
                 "ical_timed": true,
                 "start_utc": "2026-12-21T16:00:00Z",
                 "end_utc": "2026-12-21T19:00:00Z"
@@ -169159,7 +169192,7 @@
                 "start_time": "09:00",
                 "end_time": "12:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Роботы VEX, передаточные отношения и механика.",
                 "ical_timed": true,
                 "start_utc": "2026-12-22T16:00:00Z",
                 "end_utc": "2026-12-22T19:00:00Z"
@@ -169169,7 +169202,7 @@
                 "start_time": "09:00",
                 "end_time": "12:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Роботы VEX, передаточные отношения и механика.",
                 "ical_timed": true,
                 "start_utc": "2026-12-23T16:00:00Z",
                 "end_utc": "2026-12-23T19:00:00Z"
@@ -169179,11 +169212,16 @@
                 "start_time": "09:00",
                 "end_time": "12:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Роботы VEX, передаточные отношения и механика.",
                 "ical_timed": true,
                 "start_utc": "2026-12-24T16:00:00Z",
                 "end_utc": "2026-12-24T19:00:00Z"
               }
+            ],
+            "programme": "Роботы VEX, передаточные отношения и механика.",
+            "catalog_themes": [
+              "robotics",
+              "makers"
             ]
           },
           {
@@ -169203,7 +169241,7 @@
                 "start_time": "13:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Hour of AI, машинное обучение и компьютерное зрение.",
                 "ical_timed": true,
                 "start_utc": "2026-12-21T20:00:00Z",
                 "end_utc": "2026-12-21T23:00:00Z"
@@ -169213,7 +169251,7 @@
                 "start_time": "13:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Hour of AI, машинное обучение и компьютерное зрение.",
                 "ical_timed": true,
                 "start_utc": "2026-12-22T20:00:00Z",
                 "end_utc": "2026-12-22T23:00:00Z"
@@ -169223,7 +169261,7 @@
                 "start_time": "13:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Hour of AI, машинное обучение и компьютерное зрение.",
                 "ical_timed": true,
                 "start_utc": "2026-12-23T20:00:00Z",
                 "end_utc": "2026-12-23T23:00:00Z"
@@ -169233,11 +169271,16 @@
                 "start_time": "13:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Hour of AI, машинное обучение и компьютерное зрение.",
                 "ical_timed": true,
                 "start_utc": "2026-12-24T20:00:00Z",
                 "end_utc": "2026-12-24T23:00:00Z"
               }
+            ],
+            "programme": "Hour of AI, машинное обучение и компьютерное зрение.",
+            "catalog_themes": [
+              "ai",
+              "coding"
             ]
           },
           {
@@ -169257,7 +169300,7 @@
                 "start_time": "09:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Роботы VEX, передаточные отношения и механика. Hour of AI, машинное обучение и компьютерное зрение.",
                 "ical_timed": true,
                 "start_utc": "2026-12-21T16:00:00Z",
                 "end_utc": "2026-12-21T23:00:00Z"
@@ -169267,7 +169310,7 @@
                 "start_time": "09:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Роботы VEX, передаточные отношения и механика. Hour of AI, машинное обучение и компьютерное зрение.",
                 "ical_timed": true,
                 "start_utc": "2026-12-22T16:00:00Z",
                 "end_utc": "2026-12-22T23:00:00Z"
@@ -169277,7 +169320,7 @@
                 "start_time": "09:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Роботы VEX, передаточные отношения и механика. Hour of AI, машинное обучение и компьютерное зрение.",
                 "ical_timed": true,
                 "start_utc": "2026-12-23T16:00:00Z",
                 "end_utc": "2026-12-23T23:00:00Z"
@@ -169287,11 +169330,18 @@
                 "start_time": "09:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Роботы VEX, передаточные отношения и механика. Hour of AI, машинное обучение и компьютерное зрение.",
                 "ical_timed": true,
                 "start_utc": "2026-12-24T16:00:00Z",
                 "end_utc": "2026-12-24T23:00:00Z"
               }
+            ],
+            "programme": "Роботы VEX, передаточные отношения и механика. Hour of AI, машинное обучение и компьютерное зрение.",
+            "catalog_themes": [
+              "robotics",
+              "makers",
+              "ai",
+              "coding"
             ]
           },
           {
@@ -169311,7 +169361,7 @@
                 "start_time": "09:00",
                 "end_time": "12:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Кибербезопасность в Minecraft Education.",
                 "ical_timed": true,
                 "start_utc": "2026-12-28T16:00:00Z",
                 "end_utc": "2026-12-28T19:00:00Z"
@@ -169321,7 +169371,7 @@
                 "start_time": "09:00",
                 "end_time": "12:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Кибербезопасность в Minecraft Education.",
                 "ical_timed": true,
                 "start_utc": "2026-12-29T16:00:00Z",
                 "end_utc": "2026-12-29T19:00:00Z"
@@ -169331,7 +169381,7 @@
                 "start_time": "09:00",
                 "end_time": "12:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Кибербезопасность в Minecraft Education.",
                 "ical_timed": true,
                 "start_utc": "2026-12-30T16:00:00Z",
                 "end_utc": "2026-12-30T19:00:00Z"
@@ -169341,11 +169391,16 @@
                 "start_time": "09:00",
                 "end_time": "12:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Кибербезопасность в Minecraft Education.",
                 "ical_timed": true,
                 "start_utc": "2026-12-31T16:00:00Z",
                 "end_utc": "2026-12-31T19:00:00Z"
               }
+            ],
+            "programme": "Кибербезопасность в Minecraft Education.",
+            "catalog_themes": [
+              "coding",
+              "technology"
             ]
           },
           {
@@ -169365,7 +169420,7 @@
                 "start_time": "13:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Игры, спрайты, движение и звук в Scratch 3.0.",
                 "ical_timed": true,
                 "start_utc": "2026-12-28T20:00:00Z",
                 "end_utc": "2026-12-28T23:00:00Z"
@@ -169375,7 +169430,7 @@
                 "start_time": "13:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Игры, спрайты, движение и звук в Scratch 3.0.",
                 "ical_timed": true,
                 "start_utc": "2026-12-29T20:00:00Z",
                 "end_utc": "2026-12-29T23:00:00Z"
@@ -169385,7 +169440,7 @@
                 "start_time": "13:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Игры, спрайты, движение и звук в Scratch 3.0.",
                 "ical_timed": true,
                 "start_utc": "2026-12-30T20:00:00Z",
                 "end_utc": "2026-12-30T23:00:00Z"
@@ -169395,11 +169450,16 @@
                 "start_time": "13:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Игры, спрайты, движение и звук в Scratch 3.0.",
                 "ical_timed": true,
                 "start_utc": "2026-12-31T20:00:00Z",
                 "end_utc": "2026-12-31T23:00:00Z"
               }
+            ],
+            "programme": "Игры, спрайты, движение и звук в Scratch 3.0.",
+            "catalog_themes": [
+              "coding",
+              "games"
             ]
           },
           {
@@ -169419,7 +169479,7 @@
                 "start_time": "09:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Кибербезопасность в Minecraft Education. Игры, спрайты, движение и звук в Scratch 3.0.",
                 "ical_timed": true,
                 "start_utc": "2026-12-28T16:00:00Z",
                 "end_utc": "2026-12-28T23:00:00Z"
@@ -169429,7 +169489,7 @@
                 "start_time": "09:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Кибербезопасность в Minecraft Education. Игры, спрайты, движение и звук в Scratch 3.0.",
                 "ical_timed": true,
                 "start_utc": "2026-12-29T16:00:00Z",
                 "end_utc": "2026-12-29T23:00:00Z"
@@ -169439,7 +169499,7 @@
                 "start_time": "09:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Кибербезопасность в Minecraft Education. Игры, спрайты, движение и звук в Scratch 3.0.",
                 "ical_timed": true,
                 "start_utc": "2026-12-30T16:00:00Z",
                 "end_utc": "2026-12-30T23:00:00Z"
@@ -169449,11 +169509,17 @@
                 "start_time": "09:00",
                 "end_time": "16:00",
                 "timezone": "America/Vancouver",
-                "topic": "Explorer Grades 3–6: первая неделя VEX robotics утром, Hour of AI / machine learning и computer vision после обеда; вторая Minecraft Education CyberFUNdamentals утром, Scratch 3 games после обеда. Full day объединяет два блока и обеденный перерыв.",
+                "topic": "Кибербезопасность в Minecraft Education. Игры, спрайты, движение и звук в Scratch 3.0.",
                 "ical_timed": true,
                 "start_utc": "2026-12-31T16:00:00Z",
                 "end_utc": "2026-12-31T23:00:00Z"
               }
+            ],
+            "programme": "Кибербезопасность в Minecraft Education. Игры, спрайты, движение и звук в Scratch 3.0.",
+            "catalog_themes": [
+              "coding",
+              "technology",
+              "games"
             ]
           }
         ],
@@ -169494,7 +169560,7 @@
         {
           "title": "STEAM Winter Camp · current variants",
           "url": "https://surrey.stemalearning.com/product/steam-winter-camp/",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "Camp terms · updated 22 July 2026",
@@ -169512,7 +169578,7 @@
           "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -340546,6 +340612,1292 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1961",
+      "slug": "technokids-guatemala-technowhiz",
+      "provider": "TechnoKids Guatemala · TechnoWhiz",
+      "country": "Гватемала",
+      "iso": "GTM",
+      "place": "Онлайн из дома. Часовой пояс Гватемалы соответствует Коста-Рике.",
+      "age": "5–8 лет по условиям группы.",
+      "programme": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Программа и инструкции для записи на испанском. Язык преподавателя выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "С 2 по 26 ноября 2026. Смена уже началась. Возможность присоединиться после начала не опубликована.",
+        "sessions": [
+          [
+            "2026-11-02",
+            "2026-11-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "technowhiz",
+            "start": "2026-11-02",
+            "end": "2026-11-26",
+            "label": "Понедельник–четверг, 08:30–09:30.",
+            "price": "GTQ 375 за первого ученика и GTQ 325 за дополнительного ребёнка из семьи. Если скидка действует между группами, сумма для двоих GTQ 700.",
+            "source": "https://technokids.com.gt/vacaciones-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "С 2 по 26 ноября 2026. Смена уже началась. Возможность присоединиться после начала не опубликована."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-02",
+                "start_time": "08:30",
+                "end_time": "09:30",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-02T14:30:00Z",
+                "end_utc": "2026-11-02T15:30:00Z",
+                "topic": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-03",
+                "start_time": "08:30",
+                "end_time": "09:30",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-03T14:30:00Z",
+                "end_utc": "2026-11-03T15:30:00Z",
+                "topic": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-04",
+                "start_time": "08:30",
+                "end_time": "09:30",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-04T14:30:00Z",
+                "end_utc": "2026-11-04T15:30:00Z",
+                "topic": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-05",
+                "start_time": "08:30",
+                "end_time": "09:30",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-05T14:30:00Z",
+                "end_utc": "2026-11-05T15:30:00Z",
+                "topic": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-09",
+                "start_time": "08:30",
+                "end_time": "09:30",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-09T14:30:00Z",
+                "end_utc": "2026-11-09T15:30:00Z",
+                "topic": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-10",
+                "start_time": "08:30",
+                "end_time": "09:30",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-10T14:30:00Z",
+                "end_utc": "2026-11-10T15:30:00Z",
+                "topic": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-11",
+                "start_time": "08:30",
+                "end_time": "09:30",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-11T14:30:00Z",
+                "end_utc": "2026-11-11T15:30:00Z",
+                "topic": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-12",
+                "start_time": "08:30",
+                "end_time": "09:30",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-12T14:30:00Z",
+                "end_utc": "2026-11-12T15:30:00Z",
+                "topic": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-16",
+                "start_time": "08:30",
+                "end_time": "09:30",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-16T14:30:00Z",
+                "end_utc": "2026-11-16T15:30:00Z",
+                "topic": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-17",
+                "start_time": "08:30",
+                "end_time": "09:30",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-17T14:30:00Z",
+                "end_utc": "2026-11-17T15:30:00Z",
+                "topic": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-18",
+                "start_time": "08:30",
+                "end_time": "09:30",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-18T14:30:00Z",
+                "end_utc": "2026-11-18T15:30:00Z",
+                "topic": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-19",
+                "start_time": "08:30",
+                "end_time": "09:30",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-19T14:30:00Z",
+                "end_utc": "2026-11-19T15:30:00Z",
+                "topic": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-23",
+                "start_time": "08:30",
+                "end_time": "09:30",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-23T14:30:00Z",
+                "end_utc": "2026-11-23T15:30:00Z",
+                "topic": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "08:30",
+                "end_time": "09:30",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-24T14:30:00Z",
+                "end_utc": "2026-11-24T15:30:00Z",
+                "topic": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "08:30",
+                "end_time": "09:30",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-25T14:30:00Z",
+                "end_utc": "2026-11-25T15:30:00Z",
+                "topic": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "08:30",
+                "end_time": "09:30",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-26T14:30:00Z",
+                "end_utc": "2026-11-26T15:30:00Z",
+                "topic": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+                "ical_timed": true
+              }
+            ],
+            "programme": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 375,
+        "currency": "GTQ",
+        "unit": "session",
+        "label": "GTQ 375 за первого ученика и GTQ 325 за дополнительного ребёнка из семьи. Если скидка действует между группами, сумма для двоих GTQ 700.",
+        "included": "В ScratchJr дети осваивают последовательности и циклы через сцены, мини-игры и гонку.",
+        "extras": "Проверить оборудование, условия подключения из другой страны и скидку между группами.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Онлайн из дома. Часовой пояс Гватемалы соответствует Коста-Рике.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Возраст не входит в рамку этой группы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "С 2 по 26 ноября 2026. Смена уже началась. Возможность присоединиться после начала не опубликована.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://technokids.com.gt/vacaciones-2026/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "online_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-02",
+          "end": "2026-11-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1961-20261102-20261126-technowhiz"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1962",
+      "slug": "technokids-guatemala-technotales",
+      "provider": "TechnoKids Guatemala · TechnoTales",
+      "country": "Гватемала",
+      "iso": "GTM",
+      "place": "Онлайн из дома. Часовой пояс Гватемалы соответствует Коста-Рике.",
+      "age": "9–10 лет по условиям группы.",
+      "programme": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Программа и инструкции для записи на испанском. Язык преподавателя выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "С 2 по 26 ноября 2026. Смена уже началась. Возможность присоединиться после начала не опубликована.",
+        "sessions": [
+          [
+            "2026-11-02",
+            "2026-11-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "technotales",
+            "start": "2026-11-02",
+            "end": "2026-11-26",
+            "label": "Понедельник–четверг, 10:00–11:00.",
+            "price": "GTQ 375 за первого ученика и GTQ 325 за дополнительного ребёнка из семьи. Если скидка действует между группами, сумма для двоих GTQ 700.",
+            "source": "https://technokids.com.gt/vacaciones-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "С 2 по 26 ноября 2026. Смена уже началась. Возможность присоединиться после начала не опубликована."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-02",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-02T16:00:00Z",
+                "end_utc": "2026-11-02T17:00:00Z",
+                "topic": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-03",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-03T16:00:00Z",
+                "end_utc": "2026-11-03T17:00:00Z",
+                "topic": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-04",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-04T16:00:00Z",
+                "end_utc": "2026-11-04T17:00:00Z",
+                "topic": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-05",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-05T16:00:00Z",
+                "end_utc": "2026-11-05T17:00:00Z",
+                "topic": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-09",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-09T16:00:00Z",
+                "end_utc": "2026-11-09T17:00:00Z",
+                "topic": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-10",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-10T16:00:00Z",
+                "end_utc": "2026-11-10T17:00:00Z",
+                "topic": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-11",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-11T16:00:00Z",
+                "end_utc": "2026-11-11T17:00:00Z",
+                "topic": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-12",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-12T16:00:00Z",
+                "end_utc": "2026-11-12T17:00:00Z",
+                "topic": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-16",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-16T16:00:00Z",
+                "end_utc": "2026-11-16T17:00:00Z",
+                "topic": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-17",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-17T16:00:00Z",
+                "end_utc": "2026-11-17T17:00:00Z",
+                "topic": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-18",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-18T16:00:00Z",
+                "end_utc": "2026-11-18T17:00:00Z",
+                "topic": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-19",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-19T16:00:00Z",
+                "end_utc": "2026-11-19T17:00:00Z",
+                "topic": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-23",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-23T16:00:00Z",
+                "end_utc": "2026-11-23T17:00:00Z",
+                "topic": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-24T16:00:00Z",
+                "end_utc": "2026-11-24T17:00:00Z",
+                "topic": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-25T16:00:00Z",
+                "end_utc": "2026-11-25T17:00:00Z",
+                "topic": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-26T16:00:00Z",
+                "end_utc": "2026-11-26T17:00:00Z",
+                "topic": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+                "ical_timed": true
+              }
+            ],
+            "programme": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 375,
+        "currency": "GTQ",
+        "unit": "session",
+        "label": "GTQ 375 за первого ученика и GTQ 325 за дополнительного ребёнка из семьи. Если скидка действует между группами, сумма для двоих GTQ 700.",
+        "included": "Дети пишут скрипты в ScratchJr и анимируют историю со своим сюжетом.",
+        "extras": "Проверить оборудование, условия подключения из другой страны и скидку между группами.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Онлайн из дома. Часовой пояс Гватемалы соответствует Коста-Рике.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст не входит в рамку этой группы."
+        }
+      },
+      "editorial_reason": "С 2 по 26 ноября 2026. Смена уже началась. Возможность присоединиться после начала не опубликована.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://technokids.com.gt/vacaciones-2026/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "online_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-02",
+          "end": "2026-11-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1962-20261102-20261126-technotales"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1963",
+      "slug": "sprintmind-scarborough-winter",
+      "provider": "SprintMind · Robotics & Drones Winter Camp",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "SprintMind Education Center · 3465 Sheppard Avenue East · Scarborough",
+      "age": "4–10 лет на первый выбранный день.",
+      "programme": "Робототехника и дроны чередуются с английским письмом, французским, выступлениями, музыкой и финансовой грамотностью. Распределение тем по дням уточняется.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "В расписании есть английское письмо и французский. Язык ведения технических занятий уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "language_lessons",
+      "timing": {
+        "status": "published_2026",
+        "label": "21–24 и 28–31 декабря 2026. Полный день 09:00–16:00. Часы полудня организатор подтверждает отдельно.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "full-day-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Полный день 09:00–16:00.",
+            "price": "CAD 299 за 4 полных дня на одного ребёнка. Итоговый тариф без дополнительных налогов.",
+            "source": "https://sprintmind.ca/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2026-12-21T14:00:00Z",
+                "end_utc": "2026-12-21T21:00:00Z",
+                "topic": "Робототехника и дроны чередуются с английским письмом, французским, выступлениями, музыкой и финансовой грамотностью. Распределение тем по дням уточняется.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2026-12-22T14:00:00Z",
+                "end_utc": "2026-12-22T21:00:00Z",
+                "topic": "Робототехника и дроны чередуются с английским письмом, французским, выступлениями, музыкой и финансовой грамотностью. Распределение тем по дням уточняется.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2026-12-23T14:00:00Z",
+                "end_utc": "2026-12-23T21:00:00Z",
+                "topic": "Робототехника и дроны чередуются с английским письмом, французским, выступлениями, музыкой и финансовой грамотностью. Распределение тем по дням уточняется.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2026-12-24T14:00:00Z",
+                "end_utc": "2026-12-24T21:00:00Z",
+                "topic": "Робототехника и дроны чередуются с английским письмом, французским, выступлениями, музыкой и финансовой грамотностью. Распределение тем по дням уточняется.",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "full-day-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Полный день 09:00–16:00.",
+            "price": "CAD 299 за 4 полных дня на одного ребёнка. Итоговый тариф без дополнительных налогов.",
+            "source": "https://sprintmind.ca/winter-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2026-12-28T14:00:00Z",
+                "end_utc": "2026-12-28T21:00:00Z",
+                "topic": "Робототехника и дроны чередуются с английским письмом, французским, выступлениями, музыкой и финансовой грамотностью. Распределение тем по дням уточняется.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2026-12-29T14:00:00Z",
+                "end_utc": "2026-12-29T21:00:00Z",
+                "topic": "Робототехника и дроны чередуются с английским письмом, французским, выступлениями, музыкой и финансовой грамотностью. Распределение тем по дням уточняется.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2026-12-30T14:00:00Z",
+                "end_utc": "2026-12-30T21:00:00Z",
+                "topic": "Робототехника и дроны чередуются с английским письмом, французским, выступлениями, музыкой и финансовой грамотностью. Распределение тем по дням уточняется.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2026-12-31T14:00:00Z",
+                "end_utc": "2026-12-31T21:00:00Z",
+                "topic": "Робототехника и дроны чередуются с английским письмом, французским, выступлениями, музыкой и финансовой грамотностью. Распределение тем по дням уточняется.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 299,
+        "currency": "CAD",
+        "unit": "session",
+        "label": "CAD 299 за 4 полных дня, CAD 169 за 4 полудня. Один день CAD 89, полдня CAD 49. Обе недели CAD 499 за полные дни или CAD 299 за полудни. Налог включён.",
+        "included": "Робототехника и дроны чередуются с английским письмом, французским, выступлениями, музыкой и финансовой грамотностью. Распределение тем по дням уточняется.",
+        "extras": "Обед, доставка и продлёнка в цену не входят. Точные часы полудня и день занятия по робототехнике уточнить.",
+        "deposit": "Письменная отмена до начала даёт кредит 90% от платы за лагерь. Денежного возврата нет."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "21–24 и 28–31 декабря 2026. Полный день 09:00–16:00. Часы полудня организатор подтверждает отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://sprintmind.ca/winter-camp/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "technology",
+        "languages"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "language_lesson_languages": [
+        "EN",
+        "FR"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1963-20261221-20261224-full-day-2026-12-21"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1963-20261228-20261231-full-day-2026-12-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1964",
+      "slug": "steamoji-richmond-north-explore",
+      "provider": "Steamoji Richmond North · LEGO Explore Series",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Steamoji Richmond North · 4940 No. 3 Road · Richmond, BC",
+      "age": "5–7 лет по карточке смены.",
+      "programme": "Проекты LEGO, механизмы и первые задания по программированию.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Программа опубликована на английском. Язык технических занятий выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "2026-12-21–2026-12-24, 08:45–14:45 на площадке Richmond North.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "explore",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Полный день 08:45–14:45.",
+            "price": "Итоговый тариф, налоги и возможные доплаты за выбранную смену уточняются.",
+            "source": "https://steamoji.com/canada-bc-richmond-north",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "programme": "Проекты LEGO, механизмы и первые задания по программированию.",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "08:45",
+                "end_time": "14:45",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-21T15:45:00Z",
+                "end_utc": "2026-12-21T21:45:00Z",
+                "topic": "Проекты LEGO, механизмы и первые задания по программированию.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "08:45",
+                "end_time": "14:45",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-22T15:45:00Z",
+                "end_utc": "2026-12-22T21:45:00Z",
+                "topic": "Проекты LEGO, механизмы и первые задания по программированию.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "08:45",
+                "end_time": "14:45",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-23T15:45:00Z",
+                "end_utc": "2026-12-23T21:45:00Z",
+                "topic": "Проекты LEGO, механизмы и первые задания по программированию.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "08:45",
+                "end_time": "14:45",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-24T15:45:00Z",
+                "end_utc": "2026-12-24T21:45:00Z",
+                "topic": "Проекты LEGO, механизмы и первые задания по программированию.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "CAD",
+        "unit": "session",
+        "label": "Итоговый тариф, налоги и возможные доплаты за выбранную смену уточняются.",
+        "included": "Проекты LEGO, механизмы и первые задания по программированию.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Возраст не входит в рамку этой группы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "2026-12-21–2026-12-24, 08:45–14:45 на площадке Richmond North.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://steamoji.com/canada-bc-richmond-north",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1964-20261221-20261224-explore"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1965",
+      "slug": "steamoji-richmond-north-clock",
+      "provider": "Steamoji Richmond North · 3D Design & Print Your Own Clock",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Steamoji Richmond North · 4940 No. 3 Road · Richmond, BC",
+      "age": "8–14 лет по карточке смены.",
+      "programme": "Спроектировать и напечатать корпус часов и установить рабочий механизм.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Программа опубликована на английском. Язык технических занятий выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "2026-12-21–2026-12-24, 08:45–14:45 на площадке Richmond North.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "clock",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Полный день 08:45–14:45.",
+            "price": "Итоговый тариф, налоги и возможные доплаты за выбранную смену уточняются.",
+            "source": "https://steamoji.com/canada-bc-richmond-north",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "programme": "Спроектировать и напечатать корпус часов и установить рабочий механизм.",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "08:45",
+                "end_time": "14:45",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-21T15:45:00Z",
+                "end_utc": "2026-12-21T21:45:00Z",
+                "topic": "Спроектировать и напечатать корпус часов и установить рабочий механизм.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "08:45",
+                "end_time": "14:45",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-22T15:45:00Z",
+                "end_utc": "2026-12-22T21:45:00Z",
+                "topic": "Спроектировать и напечатать корпус часов и установить рабочий механизм.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "08:45",
+                "end_time": "14:45",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-23T15:45:00Z",
+                "end_utc": "2026-12-23T21:45:00Z",
+                "topic": "Спроектировать и напечатать корпус часов и установить рабочий механизм.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "08:45",
+                "end_time": "14:45",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-24T15:45:00Z",
+                "end_utc": "2026-12-24T21:45:00Z",
+                "topic": "Спроектировать и напечатать корпус часов и установить рабочий механизм.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "CAD",
+        "unit": "session",
+        "label": "Итоговый тариф, налоги и возможные доплаты за выбранную смену уточняются.",
+        "included": "Спроектировать и напечатать корпус часов и установить рабочий механизм.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст не входит в рамку этой группы."
+        }
+      },
+      "editorial_reason": "2026-12-21–2026-12-24, 08:45–14:45 на площадке Richmond North.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://steamoji.com/canada-bc-richmond-north",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "makers",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1965-20261221-20261224-clock"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1966",
+      "slug": "steamoji-richmond-north-garden",
+      "provider": "Steamoji Richmond North · 3D Design & Create Your Own Mini Garden",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Steamoji Richmond North · 4940 No. 3 Road · Richmond, BC",
+      "age": "5–7 лет по карточке смены.",
+      "programme": "Создать модель горшка, напечатать её и собрать мини-сад.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Программа опубликована на английском. Язык технических занятий выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "2026-12-28–2026-12-31, 08:45–14:45 на площадке Richmond North.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "garden",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Полный день 08:45–14:45.",
+            "price": "Итоговый тариф, налоги и возможные доплаты за выбранную смену уточняются.",
+            "source": "https://steamoji.com/canada-bc-richmond-north",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "programme": "Создать модель горшка, напечатать её и собрать мини-сад.",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "08:45",
+                "end_time": "14:45",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-28T15:45:00Z",
+                "end_utc": "2026-12-28T21:45:00Z",
+                "topic": "Создать модель горшка, напечатать её и собрать мини-сад.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "08:45",
+                "end_time": "14:45",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-29T15:45:00Z",
+                "end_utc": "2026-12-29T21:45:00Z",
+                "topic": "Создать модель горшка, напечатать её и собрать мини-сад.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "08:45",
+                "end_time": "14:45",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-30T15:45:00Z",
+                "end_utc": "2026-12-30T21:45:00Z",
+                "topic": "Создать модель горшка, напечатать её и собрать мини-сад.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "08:45",
+                "end_time": "14:45",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-31T15:45:00Z",
+                "end_utc": "2026-12-31T21:45:00Z",
+                "topic": "Создать модель горшка, напечатать её и собрать мини-сад.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "CAD",
+        "unit": "session",
+        "label": "Итоговый тариф, налоги и возможные доплаты за выбранную смену уточняются.",
+        "included": "Создать модель горшка, напечатать её и собрать мини-сад.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Возраст не входит в рамку этой группы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "2026-12-28–2026-12-31, 08:45–14:45 на площадке Richmond North.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://steamoji.com/canada-bc-richmond-north",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "makers",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1966-20261228-20261231-garden"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1967",
+      "slug": "steamoji-richmond-north-fll",
+      "provider": "Steamoji Richmond North · FIRST LEGO League Challenge Camp",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Steamoji Richmond North · 4940 No. 3 Road · Richmond, BC",
+      "age": "8–14 лет по карточке смены.",
+      "programme": "Собрать и запрограммировать робота LEGO, пройти тренировочные миссии. Зачисление в команду FLL оформляется отдельно.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Программа опубликована на английском. Язык технических занятий выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "2026-12-28–2026-12-31, 08:45–14:45 на площадке Richmond North.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "fll",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Полный день 08:45–14:45.",
+            "price": "Итоговый тариф, налоги и возможные доплаты за выбранную смену уточняются.",
+            "source": "https://steamoji.com/canada-bc-richmond-north",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "programme": "Собрать и запрограммировать робота LEGO, пройти тренировочные миссии. Зачисление в команду FLL оформляется отдельно.",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "08:45",
+                "end_time": "14:45",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-28T15:45:00Z",
+                "end_utc": "2026-12-28T21:45:00Z",
+                "topic": "Собрать и запрограммировать робота LEGO, пройти тренировочные миссии. Зачисление в команду FLL оформляется отдельно.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "08:45",
+                "end_time": "14:45",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-29T15:45:00Z",
+                "end_utc": "2026-12-29T21:45:00Z",
+                "topic": "Собрать и запрограммировать робота LEGO, пройти тренировочные миссии. Зачисление в команду FLL оформляется отдельно.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "08:45",
+                "end_time": "14:45",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-30T15:45:00Z",
+                "end_utc": "2026-12-30T21:45:00Z",
+                "topic": "Собрать и запрограммировать робота LEGO, пройти тренировочные миссии. Зачисление в команду FLL оформляется отдельно.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "08:45",
+                "end_time": "14:45",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-31T15:45:00Z",
+                "end_utc": "2026-12-31T21:45:00Z",
+                "topic": "Собрать и запрограммировать робота LEGO, пройти тренировочные миссии. Зачисление в команду FLL оформляется отдельно.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "CAD",
+        "unit": "session",
+        "label": "Итоговый тариф, налоги и возможные доплаты за выбранную смену уточняются.",
+        "included": "Собрать и запрограммировать робота LEGO, пройти тренировочные миссии. Зачисление в команду FLL оформляется отдельно.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст не входит в рамку этой группы."
+        }
+      },
+      "editorial_reason": "2026-12-28–2026-12-31, 08:45–14:45 на площадке Richmond North.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://steamoji.com/canada-bc-richmond-north",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1967-20261228-20261231-fll"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -345871,7 +347223,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 273,
+  "version": 275,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -359106,7 +360458,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1960,
+      "total_dossiers": 1967,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -381406,6 +382758,46 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1961",
+      "event_id": "CP1961-20261102-20261126-technowhiz",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1962",
+      "event_id": "CP1962-20261102-20261126-technotales",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1963",
+      "event_id": "CP1963-20261221-20261224-full-day-2026-12-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1963",
+      "event_id": "CP1963-20261228-20261231-full-day-2026-12-28",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1964",
+      "event_id": "CP1964-20261221-20261224-explore",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1965",
+      "event_id": "CP1965-20261221-20261224-clock",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1966",
+      "event_id": "CP1966-20261228-20261231-garden",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1967",
+      "event_id": "CP1967-20261228-20261231-fll",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -386066,10 +387458,18 @@
     "CP1959-20270130-20270130-robot-baumeister-workshop-2027-01-30",
     "CP1959-20270410-20270410-robot-baumeister-workshop-2027-04-10",
     "CP1959-20270605-20270605-robot-baumeister-workshop-2027-06-05",
-    "CP1960-20261128-20261128-computerfuehrerschein-workshop-2026-11-28"
+    "CP1960-20261128-20261128-computerfuehrerschein-workshop-2026-11-28",
+    "CP1961-20261102-20261126-technowhiz",
+    "CP1962-20261102-20261126-technotales",
+    "CP1963-20261221-20261224-full-day-2026-12-21",
+    "CP1963-20261228-20261231-full-day-2026-12-28",
+    "CP1964-20261221-20261224-explore",
+    "CP1965-20261221-20261224-clock",
+    "CP1966-20261228-20261231-garden",
+    "CP1967-20261228-20261231-fll"
   ],
   "integration": {
-    "generated_sessions": 4230,
+    "generated_sessions": 4238,
     "reused_legacy_events": 73,
     "seasonal_windows": 76,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

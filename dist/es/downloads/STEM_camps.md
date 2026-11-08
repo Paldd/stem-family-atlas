@@ -48644,7 +48644,7 @@ Precio: 2026/27 · CAD 159 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
 Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### CP1196-20261221-20261224-20261221-pm · STEMA Surrey · Junior K–2 · PM · 2026-12-21–2026-12-24
 
@@ -48660,7 +48660,7 @@ Precio: 2026/27 · CAD 159 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
 Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### CP1196-20261221-20261224-20261221-full · STEMA Surrey · Junior K–2 · FULL · 2026-12-21–2026-12-24
 
@@ -48676,7 +48676,7 @@ Precio: 2026/27 · CAD 299 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
 Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### CP1196-20261228-20261231-20261228-am · STEMA Surrey · Junior K–2 · AM · 2026-12-28–2026-12-31
 
@@ -48692,7 +48692,7 @@ Precio: 2026/27 · CAD 159 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
 Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### CP1196-20261228-20261231-20261228-pm · STEMA Surrey · Junior K–2 · PM · 2026-12-28–2026-12-31
 
@@ -48708,7 +48708,7 @@ Precio: 2026/27 · CAD 159 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
 Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### CP1196-20261228-20261231-20261228-full · STEMA Surrey · Junior K–2 · FULL · 2026-12-28–2026-12-31
 
@@ -48724,7 +48724,7 @@ Precio: 2026/27 · CAD 299 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
 Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### CP1197-20261221-20261224-20261221-am · STEMA Surrey · Explorer 3–6 · AM · 2026-12-21–2026-12-24
 
@@ -48740,7 +48740,7 @@ Precio: 2026/27 · CAD 159 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
 Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### CP1197-20261221-20261224-20261221-pm · STEMA Surrey · Explorer 3–6 · PM · 2026-12-21–2026-12-24
 
@@ -48756,7 +48756,7 @@ Precio: 2026/27 · CAD 159 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
 Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### CP1197-20261221-20261224-20261221-full · STEMA Surrey · Explorer 3–6 · FULL · 2026-12-21–2026-12-24
 
@@ -48772,7 +48772,7 @@ Precio: 2026/27 · CAD 299 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
 Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### CP1197-20261228-20261231-20261228-am · STEMA Surrey · Explorer 3–6 · AM · 2026-12-28–2026-12-31
 
@@ -48788,7 +48788,7 @@ Precio: 2026/27 · CAD 159 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
 Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### CP1197-20261228-20261231-20261228-pm · STEMA Surrey · Explorer 3–6 · PM · 2026-12-28–2026-12-31
 
@@ -48804,7 +48804,7 @@ Precio: 2026/27 · CAD 159 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
 Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### CP1197-20261228-20261231-20261228-full · STEMA Surrey · Explorer 3–6 · FULL · 2026-12-28–2026-12-31
 
@@ -48820,7 +48820,7 @@ Precio: 2026/27 · CAD 299 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
 Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### CP1198-20261221-20261224-20261221-am · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · AM · 2026-12-21–2026-12-24
 
@@ -78884,6 +78884,134 @@ Precio: 2026/27 · EUR 79 por taller. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Sí según el intervalo publicado. Confirmar plaza e idioma del grupo. Oscar: No para este turno según la edad publicada. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
 Fuente: https://www.robot-school.de/en/kurs-computerfuehrerschein-workshop
+Se ha comprobado: 2026-11-08
+
+### CP1961-20261102-20261126-technowhiz · TechnoKids Guatemala · TechnoWhiz · De lunes a jueves, 08:30–09:30. · 2026-11-02–2026-11-26
+
+lugar: Guatemala · En línea desde casa. La zona horaria de Guatemala coincide con la de Costa Rica.
+Fecha: 2026-11-02 — 2026-11-26
+edad: 5–8 años según los requisitos del grupo.
+Matvey: No ahora; la edad futura
+Oscar: Sí por edad; inscripción separada
+Formato: online_camp
+Idioma: Programa e instrucciones de inscripción en español. Confirmar el idioma docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GTQ 375 por el primer alumno y GTQ 325 por un hermano adicional. Si el descuento aplica entre grupos, el total para dos es GTQ 700. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad queda fuera de la franja de este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Verificar equipo, acceso desde otro país y descuento entre grupos. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://technokids.com.gt/vacaciones-2026/
+Se ha comprobado: 2026-11-08
+
+### CP1962-20261102-20261126-technotales · TechnoKids Guatemala · TechnoTales · De lunes a jueves, 10:00–11:00. · 2026-11-02–2026-11-26
+
+lugar: Guatemala · En línea desde casa. La zona horaria de Guatemala coincide con la de Costa Rica.
+Fecha: 2026-11-02 — 2026-11-26
+edad: 9–10 años según los requisitos del grupo.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Programa e instrucciones de inscripción en español. Confirmar el idioma docente del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GTQ 375 por el primer alumno y GTQ 325 por un hermano adicional. Si el descuento aplica entre grupos, el total para dos es GTQ 700. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: La edad queda fuera de la franja de este grupo. Suplementos: Verificar equipo, acceso desde otro país y descuento entre grupos. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://technokids.com.gt/vacaciones-2026/
+Se ha comprobado: 2026-11-08
+
+### CP1963-20261221-20261224-full-day-2026-12-21 · SprintMind · Robotics & Drones Winter Camp · Jornada completa 09:00–16:00. · 2026-12-21–2026-12-24
+
+lugar: Canadá · SprintMind Education Center · 3465 Sheppard Avenue East · Scarborough
+Fecha: 2026-12-21 - 2026-12-24
+edad: 4–10 años el primer día elegido.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El programa incluye escritura en inglés y francés. Confirmar el idioma de las actividades técnicas.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2026/27 · CAD 299 por 4 días completos por niño. Tarifa final sin impuestos adicionales. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Comida, transporte y cuidado ampliado no incluidos. Confirmar el horario de media jornada y el día de robótica. Pago: La cancelación por escrito antes del inicio da un crédito del 90% de la tarifa. No hay devolución en efectivo.
+Fuente: https://sprintmind.ca/winter-camp/
+Se ha comprobado: 2026-11-08
+
+### CP1963-20261228-20261231-full-day-2026-12-28 · SprintMind · Robotics & Drones Winter Camp · Jornada completa 09:00–16:00. · 2026-12-28–2026-12-31
+
+lugar: Canadá · SprintMind Education Center · 3465 Sheppard Avenue East · Scarborough
+Fecha: 2026-12-28 - 2026-12-31
+edad: 4–10 años el primer día elegido.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: El programa incluye escritura en inglés y francés. Confirmar el idioma de las actividades técnicas.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2026/27 · CAD 299 por 4 días completos por niño. Tarifa final sin impuestos adicionales. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Comida, transporte y cuidado ampliado no incluidos. Confirmar el horario de media jornada y el día de robótica. Pago: La cancelación por escrito antes del inicio da un crédito del 90% de la tarifa. No hay devolución en efectivo.
+Fuente: https://sprintmind.ca/winter-camp/
+Se ha comprobado: 2026-11-08
+
+### CP1964-20261221-20261224-explore · Steamoji Richmond North · LEGO Explore Series · Jornada completa 08:45–14:45. · 2026-12-21–2026-12-24
+
+lugar: Canadá · Steamoji Richmond North · 4940 No. 3 Road · Richmond, BC
+Fecha: 2026-12-21 - 2026-12-24
+edad: 5–7 años según la ficha del turno.
+Matvey: No ahora; la edad futura
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Programa publicado en inglés. Confirmar el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Tarifa final, impuestos y posibles extras del turno elegido pendientes. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad queda fuera de la franja de este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://steamoji.com/canada-bc-richmond-north
+Se ha comprobado: 2026-11-08
+
+### CP1965-20261221-20261224-clock · Steamoji Richmond North · 3D Design & Print Your Own Clock · Jornada completa 08:45–14:45. · 2026-12-21–2026-12-24
+
+lugar: Canadá · Steamoji Richmond North · 4940 No. 3 Road · Richmond, BC
+Fecha: 2026-12-21 - 2026-12-24
+edad: 8–14 años según la ficha del turno.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Programa publicado en inglés. Confirmar el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Tarifa final, impuestos y posibles extras del turno elegido pendientes. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: La edad queda fuera de la franja de este grupo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://steamoji.com/canada-bc-richmond-north
+Se ha comprobado: 2026-11-08
+
+### CP1966-20261228-20261231-garden · Steamoji Richmond North · 3D Design & Create Your Own Mini Garden · Jornada completa 08:45–14:45. · 2026-12-28–2026-12-31
+
+lugar: Canadá · Steamoji Richmond North · 4940 No. 3 Road · Richmond, BC
+Fecha: 2026-12-28 - 2026-12-31
+edad: 5–7 años según la ficha del turno.
+Matvey: No ahora; la edad futura
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Programa publicado en inglés. Confirmar el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Tarifa final, impuestos y posibles extras del turno elegido pendientes. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: La edad queda fuera de la franja de este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://steamoji.com/canada-bc-richmond-north
+Se ha comprobado: 2026-11-08
+
+### CP1967-20261228-20261231-fll · Steamoji Richmond North · FIRST LEGO League Challenge Camp · Jornada completa 08:45–14:45. · 2026-12-28–2026-12-31
+
+lugar: Canadá · Steamoji Richmond North · 4940 No. 3 Road · Richmond, BC
+Fecha: 2026-12-28 - 2026-12-31
+edad: 8–14 años según la ficha del turno.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Programa publicado en inglés. Confirmar el idioma de las actividades técnicas del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Tarifa final, impuestos y posibles extras del turno elegido pendientes. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: La edad queda fuera de la franja de este grupo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://steamoji.com/canada-bc-richmond-north
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

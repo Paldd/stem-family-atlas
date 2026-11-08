@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10186,
-    "competition_cards": 4624,
-    "event_cards": 556,
-    "camp_cards": 5006,
+    "cards": 10198,
+    "competition_cards": 4625,
+    "event_cards": 559,
+    "camp_cards": 5014,
     "league_profiles": 299,
-    "major_exhibition_cards": 459,
+    "major_exhibition_cards": 463,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3309,
+      "total": 3321,
       "countries_with_records": 40,
-      "competitions": 1909,
-      "events": 142,
-      "major_exhibitions": 104,
-      "camps": 1258,
+      "competitions": 1910,
+      "events": 145,
+      "major_exhibitions": 108,
+      "camps": 1266,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -7712,6 +7712,7 @@
       "name": "Robofest LATAM · México · disciplinas locales",
       "group": "regional",
       "event_ids": [
+        "C4626",
         "C1159",
         "C1160",
         "C1161",
@@ -7723,9 +7724,9 @@
         "C1167",
         "C1168"
       ],
-      "cards": 10,
-      "future_dated": 0,
-      "linked_card_count": 10,
+      "cards": 11,
+      "future_dated": 1,
+      "linked_card_count": 12,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf",
       "new": false
@@ -9331,6 +9332,17 @@
       "end": "2027-02-28",
       "visitor_policy": "confirm_children",
       "source": "https://www.roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
+      "new": false
+    },
+    {
+      "id": "E045",
+      "name": "Explora Panamá  centro interactivo de ciencia, tecnología y robótica",
+      "country": "Panamá",
+      "region": "América Central",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://www.explorapanama.org/",
       "new": false
     },
     {
@@ -13734,6 +13746,39 @@
       "new": false
     },
     {
+      "id": "E557",
+      "name": "Robofest LATAM 2027 · talleres para visitantes",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2027-03-05",
+      "end": "2027-03-06",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.robofestmexico.org/",
+      "new": false
+    },
+    {
+      "id": "E558",
+      "name": "Expo Máquina 2027 · The Outdoor Experience",
+      "country": "Panamá",
+      "region": "América Central",
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "visitor_policy": "family",
+      "source": "https://adimaq.org/expomaquina/",
+      "new": false
+    },
+    {
+      "id": "E559",
+      "name": "Museo de los Niños · salas STEAM y tecnología espacial",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://museocr.org/ninos/salas-interactivas/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -16151,8 +16196,8 @@
       }
     ],
     "counts": {
-      "records": 5006,
-      "holiday": 4656,
+      "records": 5014,
+      "holiday": 4664,
       "regular": 158,
       "self_paced_materials": 4,
       "boarding": 1037,
@@ -16161,7 +16206,7 @@
       "family_instruction": 1583,
       "family_support": 28,
       "ru_instruction": 4,
-      "language_lessons": 410,
+      "language_lessons": 412,
       "camp_life_language": 228,
       "language_unclassified": 137,
       "countries": 144

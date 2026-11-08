@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-08. 1960 fichas en 126 países. Cada ficha indica las fechas de consulta de sus fuentes.
+Estado de la base: 2026-11-08. 1967 fichas en 126 países. Las fechas de verificación de las fuentes se indican en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -86246,7 +86246,7 @@ Reino Unido · London · Notting Hill Prep
 
 Canadá · Surrey · 703–9686 137 Street
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **edad:** Grades K–2
 
@@ -86286,13 +86286,15 @@ Canadá · Surrey · 703–9686 137 Street
 
 **Precio:** CAD 159
 
-- 2026-12-21 · 09:00–12:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+**Programa:** Robótica, sensores y máquinas simples.
 
-- 2026-12-22 · 09:00–12:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-21 · 09:00–12:00 · America/Vancouver · Robótica, sensores y máquinas simples.
 
-- 2026-12-23 · 09:00–12:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-22 · 09:00–12:00 · America/Vancouver · Robótica, sensores y máquinas simples.
 
-- 2026-12-24 · 09:00–12:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-23 · 09:00–12:00 · America/Vancouver · Robótica, sensores y máquinas simples.
+
+- 2026-12-24 · 09:00–12:00 · America/Vancouver · Robótica, sensores y máquinas simples.
 
 [fuente](https://surrey.stemalearning.com/product/steam-winter-camp/)
 
@@ -86302,13 +86304,15 @@ Canadá · Surrey · 703–9686 137 Street
 
 **Precio:** CAD 159
 
-- 2026-12-21 · 13:00–16:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+**Programa:** Proyectos creativos y diseño 3D en iPad.
 
-- 2026-12-22 · 13:00–16:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-21 · 13:00–16:00 · America/Vancouver · Proyectos creativos y diseño 3D en iPad.
 
-- 2026-12-23 · 13:00–16:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-22 · 13:00–16:00 · America/Vancouver · Proyectos creativos y diseño 3D en iPad.
 
-- 2026-12-24 · 13:00–16:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-23 · 13:00–16:00 · America/Vancouver · Proyectos creativos y diseño 3D en iPad.
+
+- 2026-12-24 · 13:00–16:00 · America/Vancouver · Proyectos creativos y diseño 3D en iPad.
 
 [fuente](https://surrey.stemalearning.com/product/steam-winter-camp/)
 
@@ -86318,13 +86322,15 @@ Canadá · Surrey · 703–9686 137 Street
 
 **Precio:** CAD 299
 
-- 2026-12-21 · 09:00–16:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+**Programa:** Robótica, sensores y máquinas simples. Proyectos creativos y diseño 3D en iPad.
 
-- 2026-12-22 · 09:00–16:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-21 · 09:00–16:00 · America/Vancouver · Robótica, sensores y máquinas simples. Proyectos creativos y diseño 3D en iPad.
 
-- 2026-12-23 · 09:00–16:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-22 · 09:00–16:00 · America/Vancouver · Robótica, sensores y máquinas simples. Proyectos creativos y diseño 3D en iPad.
 
-- 2026-12-24 · 09:00–16:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-23 · 09:00–16:00 · America/Vancouver · Robótica, sensores y máquinas simples. Proyectos creativos y diseño 3D en iPad.
+
+- 2026-12-24 · 09:00–16:00 · America/Vancouver · Robótica, sensores y máquinas simples. Proyectos creativos y diseño 3D en iPad.
 
 [fuente](https://surrey.stemalearning.com/product/steam-winter-camp/)
 
@@ -86334,13 +86340,15 @@ Canadá · Surrey · 703–9686 137 Street
 
 **Precio:** CAD 159
 
-- 2026-12-28 · 09:00–12:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+**Programa:** Estructuras de ingeniería con LEGO, maquetas de montañas rusas y cohetes.
 
-- 2026-12-29 · 09:00–12:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-28 · 09:00–12:00 · America/Vancouver · Estructuras de ingeniería con LEGO, maquetas de montañas rusas y cohetes.
 
-- 2026-12-30 · 09:00–12:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-29 · 09:00–12:00 · America/Vancouver · Estructuras de ingeniería con LEGO, maquetas de montañas rusas y cohetes.
 
-- 2026-12-31 · 09:00–12:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-30 · 09:00–12:00 · America/Vancouver · Estructuras de ingeniería con LEGO, maquetas de montañas rusas y cohetes.
+
+- 2026-12-31 · 09:00–12:00 · America/Vancouver · Estructuras de ingeniería con LEGO, maquetas de montañas rusas y cohetes.
 
 [fuente](https://surrey.stemalearning.com/product/steam-winter-camp/)
 
@@ -86350,13 +86358,15 @@ Canadá · Surrey · 703–9686 137 Street
 
 **Precio:** CAD 159
 
-- 2026-12-28 · 13:00–16:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+**Programa:** Programación visual e historias interactivas en ScratchJr.
 
-- 2026-12-29 · 13:00–16:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-28 · 13:00–16:00 · America/Vancouver · Programación visual e historias interactivas en ScratchJr.
 
-- 2026-12-30 · 13:00–16:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-29 · 13:00–16:00 · America/Vancouver · Programación visual e historias interactivas en ScratchJr.
 
-- 2026-12-31 · 13:00–16:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-30 · 13:00–16:00 · America/Vancouver · Programación visual e historias interactivas en ScratchJr.
+
+- 2026-12-31 · 13:00–16:00 · America/Vancouver · Programación visual e historias interactivas en ScratchJr.
 
 [fuente](https://surrey.stemalearning.com/product/steam-winter-camp/)
 
@@ -86366,19 +86376,21 @@ Canadá · Surrey · 703–9686 137 Street
 
 **Precio:** CAD 299
 
-- 2026-12-28 · 09:00–16:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+**Programa:** Estructuras de ingeniería con LEGO, maquetas de montañas rusas y cohetes. Programación visual e historias interactivas en ScratchJr.
 
-- 2026-12-29 · 09:00–16:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-28 · 09:00–16:00 · America/Vancouver · Estructuras de ingeniería con LEGO, maquetas de montañas rusas y cohetes. Programación visual e historias interactivas en ScratchJr.
 
-- 2026-12-30 · 09:00–16:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-29 · 09:00–16:00 · America/Vancouver · Estructuras de ingeniería con LEGO, maquetas de montañas rusas y cohetes. Programación visual e historias interactivas en ScratchJr.
 
-- 2026-12-31 · 09:00–16:00 · America/Vancouver · Junior K–2: primera semana robots / sensores / máquinas sencillas por mañana y 3D art con iPad por tarde; segunda LEGO estructuras por mañana, historias y animación ScratchJr por tarde. Niveles escolares, no edad 0–2.
+- 2026-12-30 · 09:00–16:00 · America/Vancouver · Estructuras de ingeniería con LEGO, maquetas de montañas rusas y cohetes. Programación visual e historias interactivas en ScratchJr.
+
+- 2026-12-31 · 09:00–16:00 · America/Vancouver · Estructuras de ingeniería con LEGO, maquetas de montañas rusas y cohetes. Programación visual e historias interactivas en ScratchJr.
 
 [fuente](https://surrey.stemalearning.com/product/steam-winter-camp/)
 
 ### Fuentes
 
-- [STEAM Winter Camp · current variants](https://surrey.stemalearning.com/product/steam-winter-camp/) · 2026-11-05
+- [STEAM Winter Camp · current variants](https://surrey.stemalearning.com/product/steam-winter-camp/) · 2026-11-08
 
 - [Camp terms · updated 22 July 2026](https://surrey.stemalearning.com/terms-policies-waiver/) · 2026-11-05
 
@@ -86390,7 +86402,7 @@ Canadá · Surrey · 703–9686 137 Street
 
 Canadá · Surrey · 703–9686 137 Street
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **edad:** Grades 3–6
 
@@ -86430,13 +86442,15 @@ Canadá · Surrey · 703–9686 137 Street
 
 **Precio:** CAD 159
 
-- 2026-12-21 · 09:00–12:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+**Programa:** Robots VEX, relaciones de transmisión y mecánica.
 
-- 2026-12-22 · 09:00–12:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-21 · 09:00–12:00 · America/Vancouver · Robots VEX, relaciones de transmisión y mecánica.
 
-- 2026-12-23 · 09:00–12:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-22 · 09:00–12:00 · America/Vancouver · Robots VEX, relaciones de transmisión y mecánica.
 
-- 2026-12-24 · 09:00–12:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-23 · 09:00–12:00 · America/Vancouver · Robots VEX, relaciones de transmisión y mecánica.
+
+- 2026-12-24 · 09:00–12:00 · America/Vancouver · Robots VEX, relaciones de transmisión y mecánica.
 
 [fuente](https://surrey.stemalearning.com/product/steam-winter-camp/)
 
@@ -86446,13 +86460,15 @@ Canadá · Surrey · 703–9686 137 Street
 
 **Precio:** CAD 159
 
-- 2026-12-21 · 13:00–16:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+**Programa:** Hour of AI, aprendizaje automático y visión artificial.
 
-- 2026-12-22 · 13:00–16:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-21 · 13:00–16:00 · America/Vancouver · Hour of AI, aprendizaje automático y visión artificial.
 
-- 2026-12-23 · 13:00–16:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-22 · 13:00–16:00 · America/Vancouver · Hour of AI, aprendizaje automático y visión artificial.
 
-- 2026-12-24 · 13:00–16:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-23 · 13:00–16:00 · America/Vancouver · Hour of AI, aprendizaje automático y visión artificial.
+
+- 2026-12-24 · 13:00–16:00 · America/Vancouver · Hour of AI, aprendizaje automático y visión artificial.
 
 [fuente](https://surrey.stemalearning.com/product/steam-winter-camp/)
 
@@ -86462,13 +86478,15 @@ Canadá · Surrey · 703–9686 137 Street
 
 **Precio:** CAD 299
 
-- 2026-12-21 · 09:00–16:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+**Programa:** Robots VEX, relaciones de transmisión y mecánica. Hour of AI, aprendizaje automático y visión artificial.
 
-- 2026-12-22 · 09:00–16:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-21 · 09:00–16:00 · America/Vancouver · Robots VEX, relaciones de transmisión y mecánica. Hour of AI, aprendizaje automático y visión artificial.
 
-- 2026-12-23 · 09:00–16:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-22 · 09:00–16:00 · America/Vancouver · Robots VEX, relaciones de transmisión y mecánica. Hour of AI, aprendizaje automático y visión artificial.
 
-- 2026-12-24 · 09:00–16:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-23 · 09:00–16:00 · America/Vancouver · Robots VEX, relaciones de transmisión y mecánica. Hour of AI, aprendizaje automático y visión artificial.
+
+- 2026-12-24 · 09:00–16:00 · America/Vancouver · Robots VEX, relaciones de transmisión y mecánica. Hour of AI, aprendizaje automático y visión artificial.
 
 [fuente](https://surrey.stemalearning.com/product/steam-winter-camp/)
 
@@ -86478,13 +86496,15 @@ Canadá · Surrey · 703–9686 137 Street
 
 **Precio:** CAD 159
 
-- 2026-12-28 · 09:00–12:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+**Programa:** Ciberseguridad en Minecraft Education.
 
-- 2026-12-29 · 09:00–12:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-28 · 09:00–12:00 · America/Vancouver · Ciberseguridad en Minecraft Education.
 
-- 2026-12-30 · 09:00–12:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-29 · 09:00–12:00 · America/Vancouver · Ciberseguridad en Minecraft Education.
 
-- 2026-12-31 · 09:00–12:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-30 · 09:00–12:00 · America/Vancouver · Ciberseguridad en Minecraft Education.
+
+- 2026-12-31 · 09:00–12:00 · America/Vancouver · Ciberseguridad en Minecraft Education.
 
 [fuente](https://surrey.stemalearning.com/product/steam-winter-camp/)
 
@@ -86494,13 +86514,15 @@ Canadá · Surrey · 703–9686 137 Street
 
 **Precio:** CAD 159
 
-- 2026-12-28 · 13:00–16:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+**Programa:** Juegos, sprites, movimiento y sonido en Scratch 3.0.
 
-- 2026-12-29 · 13:00–16:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-28 · 13:00–16:00 · America/Vancouver · Juegos, sprites, movimiento y sonido en Scratch 3.0.
 
-- 2026-12-30 · 13:00–16:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-29 · 13:00–16:00 · America/Vancouver · Juegos, sprites, movimiento y sonido en Scratch 3.0.
 
-- 2026-12-31 · 13:00–16:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-30 · 13:00–16:00 · America/Vancouver · Juegos, sprites, movimiento y sonido en Scratch 3.0.
+
+- 2026-12-31 · 13:00–16:00 · America/Vancouver · Juegos, sprites, movimiento y sonido en Scratch 3.0.
 
 [fuente](https://surrey.stemalearning.com/product/steam-winter-camp/)
 
@@ -86510,19 +86532,21 @@ Canadá · Surrey · 703–9686 137 Street
 
 **Precio:** CAD 299
 
-- 2026-12-28 · 09:00–16:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+**Programa:** Ciberseguridad en Minecraft Education. Juegos, sprites, movimiento y sonido en Scratch 3.0.
 
-- 2026-12-29 · 09:00–16:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-28 · 09:00–16:00 · America/Vancouver · Ciberseguridad en Minecraft Education. Juegos, sprites, movimiento y sonido en Scratch 3.0.
 
-- 2026-12-30 · 09:00–16:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-29 · 09:00–16:00 · America/Vancouver · Ciberseguridad en Minecraft Education. Juegos, sprites, movimiento y sonido en Scratch 3.0.
 
-- 2026-12-31 · 09:00–16:00 · America/Vancouver · Explorer Grades 3–6: primera semana VEX robotics por mañana, Hour of AI / machine learning y computer vision por tarde; segunda Minecraft Education CyberFUNdamentals por mañana, Scratch 3 games por tarde. Full day combina dos bloques y pausa de almuerzo.
+- 2026-12-30 · 09:00–16:00 · America/Vancouver · Ciberseguridad en Minecraft Education. Juegos, sprites, movimiento y sonido en Scratch 3.0.
+
+- 2026-12-31 · 09:00–16:00 · America/Vancouver · Ciberseguridad en Minecraft Education. Juegos, sprites, movimiento y sonido en Scratch 3.0.
 
 [fuente](https://surrey.stemalearning.com/product/steam-winter-camp/)
 
 ### Fuentes
 
-- [STEAM Winter Camp · current variants](https://surrey.stemalearning.com/product/steam-winter-camp/) · 2026-11-05
+- [STEAM Winter Camp · current variants](https://surrey.stemalearning.com/product/steam-winter-camp/) · 2026-11-08
 
 - [Camp terms · updated 22 July 2026](https://surrey.stemalearning.com/terms-policies-waiver/) · 2026-11-05
 
@@ -157267,6 +157291,490 @@ Alemania · ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
 - [Página de la organización o reglamento de la categoría.](https://www.robot-school.de/en/kurse) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://www.robot-school.de/en/agb) · 2026-11-08
+
+## CP1961 · TechnoKids Guatemala · TechnoWhiz
+
+Guatemala · En línea desde casa. La zona horaria de Guatemala coincide con la de Costa Rica.
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 5–8 años según los requisitos del grupo.
+
+**Idioma:** Programa e instrucciones de inscripción en español. Confirmar el idioma docente del grupo elegido.
+
+**Programa:** En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+**Alojamiento:** En línea desde casa. La zona horaria de Guatemala coincide con la de Costa Rica.
+
+**Fechas / estado:** Del 2 al 26 de noviembre de 2026. El turno ya empezó. No se publica si se puede incorporar tras el inicio.
+
+**Precio / año:** 2026 · GTQ 375 por el primer alumno y GTQ 325 por un hermano adicional. Si el descuento aplica entre grupos, el total para dos es GTQ 700.
+
+**Incluido:** En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+**Suplementos:** Verificar equipo, acceso desde otro país y descuento entre grupos.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** La edad queda fuera de la franja de este grupo.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Del 2 al 26 de noviembre de 2026. El turno ya empezó. No se publica si se puede incorporar tras el inicio.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### De lunes a jueves, 08:30–09:30.
+
+**Fechas / estado:** 2026-11-02 — 2026-11-26
+
+**Precio:** GTQ 375 por el primer alumno y GTQ 325 por un hermano adicional. Si el descuento aplica entre grupos, el total para dos es GTQ 700.
+
+**Programa:** En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+- 2026-11-02 · 08:30–09:30 · America/Guatemala · En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+- 2026-11-03 · 08:30–09:30 · America/Guatemala · En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+- 2026-11-04 · 08:30–09:30 · America/Guatemala · En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+- 2026-11-05 · 08:30–09:30 · America/Guatemala · En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+- 2026-11-09 · 08:30–09:30 · America/Guatemala · En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+- 2026-11-10 · 08:30–09:30 · America/Guatemala · En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+- 2026-11-11 · 08:30–09:30 · America/Guatemala · En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+- 2026-11-12 · 08:30–09:30 · America/Guatemala · En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+- 2026-11-16 · 08:30–09:30 · America/Guatemala · En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+- 2026-11-17 · 08:30–09:30 · America/Guatemala · En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+- 2026-11-18 · 08:30–09:30 · America/Guatemala · En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+- 2026-11-19 · 08:30–09:30 · America/Guatemala · En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+- 2026-11-23 · 08:30–09:30 · America/Guatemala · En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+- 2026-11-24 · 08:30–09:30 · America/Guatemala · En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+- 2026-11-25 · 08:30–09:30 · America/Guatemala · En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+- 2026-11-26 · 08:30–09:30 · America/Guatemala · En ScratchJr, los niños aprenden secuencias y bucles con escenas, minijuegos y una carrera.
+
+**Disponibilidad de plazas:** Del 2 al 26 de noviembre de 2026. El turno ya empezó. No se publica si se puede incorporar tras el inicio.
+
+[fuente](https://technokids.com.gt/vacaciones-2026/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://technokids.com.gt/vacaciones-2026/) · 2026-11-08
+
+## CP1962 · TechnoKids Guatemala · TechnoTales
+
+Guatemala · En línea desde casa. La zona horaria de Guatemala coincide con la de Costa Rica.
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–10 años según los requisitos del grupo.
+
+**Idioma:** Programa e instrucciones de inscripción en español. Confirmar el idioma docente del grupo elegido.
+
+**Programa:** Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+**Alojamiento:** En línea desde casa. La zona horaria de Guatemala coincide con la de Costa Rica.
+
+**Fechas / estado:** Del 2 al 26 de noviembre de 2026. El turno ya empezó. No se publica si se puede incorporar tras el inicio.
+
+**Precio / año:** 2026 · GTQ 375 por el primer alumno y GTQ 325 por un hermano adicional. Si el descuento aplica entre grupos, el total para dos es GTQ 700.
+
+**Incluido:** Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+**Suplementos:** Verificar equipo, acceso desde otro país y descuento entre grupos.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** La edad queda fuera de la franja de este grupo.
+
+**Motivo de selección:** Del 2 al 26 de noviembre de 2026. El turno ya empezó. No se publica si se puede incorporar tras el inicio.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### De lunes a jueves, 10:00–11:00.
+
+**Fechas / estado:** 2026-11-02 — 2026-11-26
+
+**Precio:** GTQ 375 por el primer alumno y GTQ 325 por un hermano adicional. Si el descuento aplica entre grupos, el total para dos es GTQ 700.
+
+**Programa:** Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+- 2026-11-02 · 10:00–11:00 · America/Guatemala · Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+- 2026-11-03 · 10:00–11:00 · America/Guatemala · Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+- 2026-11-04 · 10:00–11:00 · America/Guatemala · Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+- 2026-11-05 · 10:00–11:00 · America/Guatemala · Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+- 2026-11-09 · 10:00–11:00 · America/Guatemala · Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+- 2026-11-10 · 10:00–11:00 · America/Guatemala · Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+- 2026-11-11 · 10:00–11:00 · America/Guatemala · Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+- 2026-11-12 · 10:00–11:00 · America/Guatemala · Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+- 2026-11-16 · 10:00–11:00 · America/Guatemala · Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+- 2026-11-17 · 10:00–11:00 · America/Guatemala · Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+- 2026-11-18 · 10:00–11:00 · America/Guatemala · Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+- 2026-11-19 · 10:00–11:00 · America/Guatemala · Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+- 2026-11-23 · 10:00–11:00 · America/Guatemala · Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+- 2026-11-24 · 10:00–11:00 · America/Guatemala · Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+- 2026-11-25 · 10:00–11:00 · America/Guatemala · Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+- 2026-11-26 · 10:00–11:00 · America/Guatemala · Los niños escriben scripts en ScratchJr y animan una historia con su propia trama.
+
+**Disponibilidad de plazas:** Del 2 al 26 de noviembre de 2026. El turno ya empezó. No se publica si se puede incorporar tras el inicio.
+
+[fuente](https://technokids.com.gt/vacaciones-2026/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://technokids.com.gt/vacaciones-2026/) · 2026-11-08
+
+## CP1963 · SprintMind · Robotics & Drones Winter Camp
+
+Canadá · SprintMind Education Center · 3465 Sheppard Avenue East · Scarborough
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–10 años el primer día elegido.
+
+**Idioma:** El programa incluye escritura en inglés y francés. Confirmar el idioma de las actividades técnicas.
+
+**Programa:** Robótica y drones se alternan con escritura en inglés, francés, oratoria, música y educación financiera. La distribución por días está pendiente.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 21–24 y 28–31 de diciembre de 2026. Jornada completa 09:00–16:00. La organización confirma aparte el horario de media jornada.
+
+**Precio / año:** 2026 · CAD 299 por 4 días completos, CAD 169 por 4 medias jornadas. Un día CAD 89, media jornada CAD 49. Ambas semanas CAD 499 a jornada completa o CAD 299 a media jornada. Impuesto incluido.
+
+**Incluido:** Robótica y drones se alternan con escritura en inglés, francés, oratoria, música y educación financiera. La distribución por días está pendiente.
+
+**Suplementos:** Comida, transporte y cuidado ampliado no incluidos. Confirmar el horario de media jornada y el día de robótica.
+
+**Pago:** La cancelación por escrito antes del inicio da un crédito del 90% de la tarifa. No hay devolución en efectivo.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** 21–24 y 28–31 de diciembre de 2026. Jornada completa 09:00–16:00. La organización confirma aparte el horario de media jornada.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Jornada completa 09:00–16:00.
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** CAD 299 por 4 días completos por niño. Tarifa final sin impuestos adicionales.
+
+- 2026-12-21 · 09:00–16:00 · America/Toronto · Robótica y drones se alternan con escritura en inglés, francés, oratoria, música y educación financiera. La distribución por días está pendiente.
+
+- 2026-12-22 · 09:00–16:00 · America/Toronto · Robótica y drones se alternan con escritura en inglés, francés, oratoria, música y educación financiera. La distribución por días está pendiente.
+
+- 2026-12-23 · 09:00–16:00 · America/Toronto · Robótica y drones se alternan con escritura en inglés, francés, oratoria, música y educación financiera. La distribución por días está pendiente.
+
+- 2026-12-24 · 09:00–16:00 · America/Toronto · Robótica y drones se alternan con escritura en inglés, francés, oratoria, música y educación financiera. La distribución por días está pendiente.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://sprintmind.ca/winter-camp/)
+
+### Jornada completa 09:00–16:00.
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** CAD 299 por 4 días completos por niño. Tarifa final sin impuestos adicionales.
+
+- 2026-12-28 · 09:00–16:00 · America/Toronto · Robótica y drones se alternan con escritura en inglés, francés, oratoria, música y educación financiera. La distribución por días está pendiente.
+
+- 2026-12-29 · 09:00–16:00 · America/Toronto · Robótica y drones se alternan con escritura en inglés, francés, oratoria, música y educación financiera. La distribución por días está pendiente.
+
+- 2026-12-30 · 09:00–16:00 · America/Toronto · Robótica y drones se alternan con escritura en inglés, francés, oratoria, música y educación financiera. La distribución por días está pendiente.
+
+- 2026-12-31 · 09:00–16:00 · America/Toronto · Robótica y drones se alternan con escritura en inglés, francés, oratoria, música y educación financiera. La distribución por días está pendiente.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://sprintmind.ca/winter-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://sprintmind.ca/winter-camp/) · 2026-11-08
+
+## CP1964 · Steamoji Richmond North · LEGO Explore Series
+
+Canadá · Steamoji Richmond North · 4940 No. 3 Road · Richmond, BC
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 5–7 años según la ficha del turno.
+
+**Idioma:** Programa publicado en inglés. Confirmar el idioma de las actividades técnicas del grupo elegido.
+
+**Programa:** Proyectos LEGO, mecanismos y primeros ejercicios de programación.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 2026-12-21–2026-12-24, de 08:45 a 14:45 en la sede Richmond North.
+
+**Precio / año:** 2026 · Tarifa final, impuestos y posibles extras del turno elegido pendientes.
+
+**Incluido:** Proyectos LEGO, mecanismos y primeros ejercicios de programación.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** La edad queda fuera de la franja de este grupo.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** 2026-12-21–2026-12-24, de 08:45 a 14:45 en la sede Richmond North.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Jornada completa 08:45–14:45.
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** Tarifa final, impuestos y posibles extras del turno elegido pendientes.
+
+**Programa:** Proyectos LEGO, mecanismos y primeros ejercicios de programación.
+
+- 2026-12-21 · 08:45–14:45 · America/Vancouver · Proyectos LEGO, mecanismos y primeros ejercicios de programación.
+
+- 2026-12-22 · 08:45–14:45 · America/Vancouver · Proyectos LEGO, mecanismos y primeros ejercicios de programación.
+
+- 2026-12-23 · 08:45–14:45 · America/Vancouver · Proyectos LEGO, mecanismos y primeros ejercicios de programación.
+
+- 2026-12-24 · 08:45–14:45 · America/Vancouver · Proyectos LEGO, mecanismos y primeros ejercicios de programación.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://steamoji.com/canada-bc-richmond-north)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://steamoji.com/canada-bc-richmond-north) · 2026-11-08
+
+## CP1965 · Steamoji Richmond North · 3D Design & Print Your Own Clock
+
+Canadá · Steamoji Richmond North · 4940 No. 3 Road · Richmond, BC
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–14 años según la ficha del turno.
+
+**Idioma:** Programa publicado en inglés. Confirmar el idioma de las actividades técnicas del grupo elegido.
+
+**Programa:** Diseñar e imprimir la carcasa del reloj e instalar un mecanismo funcional.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 2026-12-21–2026-12-24, de 08:45 a 14:45 en la sede Richmond North.
+
+**Precio / año:** 2026 · Tarifa final, impuestos y posibles extras del turno elegido pendientes.
+
+**Incluido:** Diseñar e imprimir la carcasa del reloj e instalar un mecanismo funcional.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** La edad queda fuera de la franja de este grupo.
+
+**Motivo de selección:** 2026-12-21–2026-12-24, de 08:45 a 14:45 en la sede Richmond North.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Jornada completa 08:45–14:45.
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** Tarifa final, impuestos y posibles extras del turno elegido pendientes.
+
+**Programa:** Diseñar e imprimir la carcasa del reloj e instalar un mecanismo funcional.
+
+- 2026-12-21 · 08:45–14:45 · America/Vancouver · Diseñar e imprimir la carcasa del reloj e instalar un mecanismo funcional.
+
+- 2026-12-22 · 08:45–14:45 · America/Vancouver · Diseñar e imprimir la carcasa del reloj e instalar un mecanismo funcional.
+
+- 2026-12-23 · 08:45–14:45 · America/Vancouver · Diseñar e imprimir la carcasa del reloj e instalar un mecanismo funcional.
+
+- 2026-12-24 · 08:45–14:45 · America/Vancouver · Diseñar e imprimir la carcasa del reloj e instalar un mecanismo funcional.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://steamoji.com/canada-bc-richmond-north)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://steamoji.com/canada-bc-richmond-north) · 2026-11-08
+
+## CP1966 · Steamoji Richmond North · 3D Design & Create Your Own Mini Garden
+
+Canadá · Steamoji Richmond North · 4940 No. 3 Road · Richmond, BC
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 5–7 años según la ficha del turno.
+
+**Idioma:** Programa publicado en inglés. Confirmar el idioma de las actividades técnicas del grupo elegido.
+
+**Programa:** Modelar e imprimir una maceta y crear un jardín en miniatura.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 2026-12-28–2026-12-31, de 08:45 a 14:45 en la sede Richmond North.
+
+**Precio / año:** 2026 · Tarifa final, impuestos y posibles extras del turno elegido pendientes.
+
+**Incluido:** Modelar e imprimir una maceta y crear un jardín en miniatura.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** La edad queda fuera de la franja de este grupo.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** 2026-12-28–2026-12-31, de 08:45 a 14:45 en la sede Richmond North.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Jornada completa 08:45–14:45.
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** Tarifa final, impuestos y posibles extras del turno elegido pendientes.
+
+**Programa:** Modelar e imprimir una maceta y crear un jardín en miniatura.
+
+- 2026-12-28 · 08:45–14:45 · America/Vancouver · Modelar e imprimir una maceta y crear un jardín en miniatura.
+
+- 2026-12-29 · 08:45–14:45 · America/Vancouver · Modelar e imprimir una maceta y crear un jardín en miniatura.
+
+- 2026-12-30 · 08:45–14:45 · America/Vancouver · Modelar e imprimir una maceta y crear un jardín en miniatura.
+
+- 2026-12-31 · 08:45–14:45 · America/Vancouver · Modelar e imprimir una maceta y crear un jardín en miniatura.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://steamoji.com/canada-bc-richmond-north)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://steamoji.com/canada-bc-richmond-north) · 2026-11-08
+
+## CP1967 · Steamoji Richmond North · FIRST LEGO League Challenge Camp
+
+Canadá · Steamoji Richmond North · 4940 No. 3 Road · Richmond, BC
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–14 años según la ficha del turno.
+
+**Idioma:** Programa publicado en inglés. Confirmar el idioma de las actividades técnicas del grupo elegido.
+
+**Programa:** Construir y programar un robot LEGO y resolver misiones de práctica. La incorporación a un equipo FLL se tramita aparte.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 2026-12-28–2026-12-31, de 08:45 a 14:45 en la sede Richmond North.
+
+**Precio / año:** 2026 · Tarifa final, impuestos y posibles extras del turno elegido pendientes.
+
+**Incluido:** Construir y programar un robot LEGO y resolver misiones de práctica. La incorporación a un equipo FLL se tramita aparte.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** La edad queda fuera de la franja de este grupo.
+
+**Motivo de selección:** 2026-12-28–2026-12-31, de 08:45 a 14:45 en la sede Richmond North.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Jornada completa 08:45–14:45.
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** Tarifa final, impuestos y posibles extras del turno elegido pendientes.
+
+**Programa:** Construir y programar un robot LEGO y resolver misiones de práctica. La incorporación a un equipo FLL se tramita aparte.
+
+- 2026-12-28 · 08:45–14:45 · America/Vancouver · Construir y programar un robot LEGO y resolver misiones de práctica. La incorporación a un equipo FLL se tramita aparte.
+
+- 2026-12-29 · 08:45–14:45 · America/Vancouver · Construir y programar un robot LEGO y resolver misiones de práctica. La incorporación a un equipo FLL se tramita aparte.
+
+- 2026-12-30 · 08:45–14:45 · America/Vancouver · Construir y programar un robot LEGO y resolver misiones de práctica. La incorporación a un equipo FLL se tramita aparte.
+
+- 2026-12-31 · 08:45–14:45 · America/Vancouver · Construir y programar un robot LEGO y resolver misiones de práctica. La incorporación a un equipo FLL se tramita aparte.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://steamoji.com/canada-bc-richmond-north)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://steamoji.com/canada-bc-richmond-north) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 
