@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 262,
+    "version": 263,
     "status": "implementation_snapshot",
-    "events": 10003,
-    "competitions": 4535,
-    "league_profiles": 298,
-    "camp_dossiers": 1919,
+    "events": 10026,
+    "competitions": 4546,
+    "league_profiles": 299,
+    "camp_dossiers": 1925,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 261,
+    "version": 262,
     "status": "implementation_snapshot",
-    "events": 9993,
-    "competitions": 4528,
+    "events": 10003,
+    "competitions": 4535,
     "league_profiles": 298,
-    "camp_dossiers": 1918,
+    "camp_dossiers": 1919,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 262,
+    "prepared_ui_version": 263,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 261,
-    "previous_verified_commit": "d92b32d1fd3ad282860c82d5ba6b788ab0905ce3"
+    "previous_verified_ui_version": 262,
+    "previous_verified_commit": "8a4295b2023a6b7ab074664ea936d3d2a14b2782"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 261,
-    "published_version": 261,
-    "latest_source_commit": "d92b32d1fd3ad282860c82d5ba6b788ab0905ce3",
-    "published_commit": "d92b32d1fd3ad282860c82d5ba6b788ab0905ce3",
-    "latest_workflow": 42453715381,
+    "latest_source_version": 262,
+    "published_version": 262,
+    "latest_source_commit": "8a4295b2023a6b7ab074664ea936d3d2a14b2782",
+    "published_commit": "8a4295b2023a6b7ab074664ea936d3d2a14b2782",
+    "latest_workflow": 42455193968,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -26463,5 +26463,99 @@
     "source_requests": 21,
     "audit": "data/nearby-junior-competition-and-winter-workshops-audit-v262.json",
     "source_receipts": "data/nearby-junior-competition-and-winter-workshops-source-receipts-v262.json"
+  },
+  "africa_caribbean_and_global_simulator_v263": {
+    "version": 263,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4537",
+      "C4538",
+      "C4539",
+      "C4540",
+      "C4541",
+      "C4542",
+      "C4543",
+      "C4544",
+      "C4545",
+      "C4546",
+      "C4547",
+      "L764",
+      "L765",
+      "L766"
+    ],
+    "new_dossiers": [
+      "CP1920",
+      "CP1921",
+      "CP1922",
+      "CP1923",
+      "CP1924",
+      "CP1925"
+    ],
+    "scheduled_rows_from_dossiers": 9,
+    "virtual_xplore": [
+      "C4537",
+      "C4538",
+      "C4539",
+      "C4540",
+      "C4541",
+      "C4542"
+    ],
+    "virtual_league_id": "virtual-xplore-league",
+    "noai": [
+      "C4543",
+      "C4544",
+      "C4545",
+      "C4546"
+    ],
+    "sic": "CP1920",
+    "sic_weeks": [
+      [
+        "2026-11-09",
+        "2026-11-13"
+      ],
+      [
+        "2026-11-23",
+        "2026-11-27"
+      ],
+      [
+        "2026-11-30",
+        "2026-12-04"
+      ],
+      [
+        "2026-12-07",
+        "2026-12-11"
+      ],
+      [
+        "2026-12-14",
+        "2026-12-18"
+      ]
+    ],
+    "sic_excluded_week": [
+      "2026-11-16",
+      "2026-11-20"
+    ],
+    "sic_base_for_two_kes": 8100,
+    "edutech": "CP1923",
+    "talanta": "CP1921",
+    "african_stem_girl": "CP1922",
+    "sugar_bay": "CP1924",
+    "iworth_start_only": "L764",
+    "iworth_profile": "CP1925",
+    "saint_martin": "L765",
+    "smart_games": "L766",
+    "fabrik_age_outside_family": [
+      16,
+      25
+    ],
+    "xplore_numeric_age_and_virtual_fee_verified": false,
+    "source_requests": 29,
+    "audit": "data/africa-caribbean-and-global-simulator-audit-v263.json",
+    "source_receipts": "data/africa-caribbean-and-global-simulator-source-receipts-v263.json",
+    "mrc_kenya_watch": "C4547",
+    "legacy_overlay_league_ids": [
+      "mrc-global-olympiad"
+    ]
   }
 }

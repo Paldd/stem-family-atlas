@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 1919 fichas en 126 países. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-08. 1925 fichas en 126 países. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -154467,6 +154467,422 @@ México · Online
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://cultivatec.com.mx/curso-robotics-winter-camp.html) · 2026-11-08
+
+## CP1920 · STEM Impact Center Kenya · Holiday STEM Bootcamp
+
+Kenia · 09 Kiambere Road · Upperhill, Nairobi
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Desde los 5 años. Oscar — Foundation & Logic 5–6, Matvey — Advanced Robotics & Systems 9–11.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Cinco días laborables de 09:00 a 12:00 en Upperhill. El formulario muestra semanas separadas; del 16 al 20 de noviembre está cerrado. Las preguntas generales y el formulario difieren sobre semanas consecutivas.
+
+**Precio / año:** 2026 · KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana.
+
+**Incluido:** Incluye kits, herramientas, materiales y dispositivos. Las familias pueden acudir a la muestra del viernes.
+
+**Suplementos:** Transporte, comida y salidas se pagan aparte. Las mañanas perdidas no se reprograman ni reembolsan.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de la selección:** Cinco días laborables de 09:00 a 12:00 en Upperhill. El formulario muestra semanas separadas; del 16 al 20 de noviembre está cerrado. Las preguntas generales y el formulario difieren sobre semanas consecutivas.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Semana diurna, 09:00–12:00 EAT
+
+**Fechas / estado:** 2026-11-09 — 2026-11-13
+
+**Precio:** KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana.
+
+**condiciones de participación:** Elegir semana y grupo de edad en el formulario. No se exige pertenecer a una escuela.
+
+- 2026-11-09 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-11-10 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-11-11 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-11-12 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-11-13 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register)
+
+### Semana diurna, 09:00–12:00 EAT
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**Precio:** KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana.
+
+**condiciones de participación:** Elegir semana y grupo de edad en el formulario. No se exige pertenecer a una escuela.
+
+- 2026-11-23 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-11-24 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-11-25 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-11-26 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-11-27 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register)
+
+### Semana diurna, 09:00–12:00 EAT
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**Precio:** KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana.
+
+**condiciones de participación:** Elegir semana y grupo de edad en el formulario. No se exige pertenecer a una escuela.
+
+- 2026-11-30 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-12-01 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-12-02 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-12-03 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-12-04 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register)
+
+### Semana diurna, 09:00–12:00 EAT
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**Precio:** KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana.
+
+**condiciones de participación:** Elegir semana y grupo de edad en el formulario. No se exige pertenecer a una escuela.
+
+- 2026-12-07 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-12-08 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-12-09 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-12-10 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-12-11 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register)
+
+### Semana diurna, 09:00–12:00 EAT
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Precio:** KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana.
+
+**condiciones de participación:** Elegir semana y grupo de edad en el formulario. No se exige pertenecer a una escuela.
+
+- 2026-12-14 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-12-15 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-12-16 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-12-17 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+- 2026-12-18 · 09:00–12:00 · Africa/Nairobi · El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register) · 2026-11-08
+
+## CP1921 · Talanta Tech Kids · Junior Innovators
+
+Kenia · Bristol Court, House No. 1 · Kilimani, Nairobi
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** La sección del campamento actual indica 6–16 años y un grupo de 6–9. El encabezado general indica 7–18. Confirmar la edad mínima.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Junior Innovators enseña Scratch, animación y lógica básica. Robotics Kits, Micro:bit y diseño de juegos corresponden al itinerario mayor de 10–12.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 2–27 de noviembre de 2026. La página indica inscripción tardía. Mañana 09:00–12:00 o tarde 14:00–16:30. Confirmar qué días restantes están disponibles.
+
+**Precio / año:** 2026 · KES 21500 por el campamento completo. Consultar tarifas de una semana, media jornada o incorporación tardía.
+
+**Incluido:** Junior Innovators enseña Scratch, animación y lógica básica. Robotics Kits, Micro:bit y diseño de juegos corresponden al itinerario mayor de 10–12.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Condicional. El grupo empieza a los 6 años, el encabezado general a los 7. Se requiere confirmar esta edición concreta.
+
+**Motivo de la selección:** 2–27 de noviembre de 2026. La página indica inscripción tardía. Mañana 09:00–12:00 o tarde 14:00–16:30. Confirmar qué días restantes están disponibles.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### 2–27 de noviembre de 2026. La página indica inscripción tardía. Mañana 09:00–12:00 o tarde 14:00–16:30. Confirmar qué días restantes están disponibles.
+
+**Fechas / estado:** 2026-11-02 — 2026-11-27
+
+**Precio:** KES 21500 por el campamento completo. Consultar tarifas de una semana, media jornada o incorporación tardía.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://talantacollegeoftechnology.co.ke/tech-kids)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://talantacollegeoftechnology.co.ke/tech-kids) · 2026-11-08
+
+## CP1922 · AfricanStemGirl · Holiday Tech Classes
+
+Kenia · K-Mall, Kiambu Road / Komarock Market · Nairobi
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Edades de 7–17 años. Elegir nivel, materia y formato.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** A elegir IA, programación, ciberseguridad, robots, webs, aplicaciones y edición de vídeo.
+
+**Alojamiento:** Clases diurnas en Nairobi o en línea. Confirmar acceso desde Costa Rica y horario del grupo virtual.
+
+**Fechas / estado:** 4 de noviembre — 18 de diciembre de 2026. Clases laborables, paquete de 10 clases de 2 horas. Acordar días y horas concretos.
+
+**Precio / año:** 2026 · KES 10000 por 10 clases. Se requiere portátil y acceso a correo electrónico.
+
+**Incluido:** A elegir IA, programación, ciberseguridad, robots, webs, aplicaciones y edición de vídeo.
+
+**Suplementos:** Clases diurnas en Nairobi o en línea. Confirmar acceso desde Costa Rica y horario del grupo virtual.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** No. Edad mínima publicada de 7 años.
+
+**Motivo de la selección:** 4 de noviembre — 18 de diciembre de 2026. Clases laborables, paquete de 10 clases de 2 horas. Acordar días y horas concretos.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### 4 de noviembre — 18 de diciembre de 2026. Clases laborables, paquete de 10 clases de 2 horas. Acordar días y horas concretos.
+
+**Fechas / estado:** 2026-11-04 — 2026-12-18
+
+**Precio:** KES 10000 por 10 clases. Se requiere portátil y acceso a correo electrónico.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://africanstemgirl.com/blog/2026/10/07/holiday-stem-classes-for-kids-teens-in-nairobi/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://africanstemgirl.com/product/holiday-tech-classes-kids-teens/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://africanstemgirl.com/blog/2026/10/07/holiday-stem-classes-for-kids-teens-in-nairobi/) · 2026-11-08
+
+## CP1923 · EduTech STEM Academy · December Robotics Camp
+
+Trinidad y Tobago · Chaguanas
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–16 años, alumnado de primaria y secundaria.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Montaje de chasis, motores y sensores, programación y minitorneo interno.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 14–19 de diciembre de 2026, diariamente de 09:00 a 14:00 AST. La organización comunica la dirección exacta en Chaguanas después de inscribirse.
+
+**Precio / año:** 2026 · TTD 600 por 6 días. Confirmar qué incluye la factura en cuanto a kit y comida.
+
+**Incluido:** Montaje de chasis, motores y sensores, programación y minitorneo interno.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** No. Edad mínima publicada de 8 años.
+
+**Motivo de la selección:** 14–19 de diciembre de 2026, diariamente de 09:00 a 14:00 AST. La organización comunica la dirección exacta en Chaguanas después de inscribirse.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### 14–19 de diciembre de 2026, diariamente de 09:00 a 14:00 AST. La organización comunica la dirección exacta en Chaguanas después de inscribirse.
+
+**Fechas / estado:** 2026-12-14 — 2026-12-19
+
+**Precio:** TTD 600 por 6 días. Confirmar qué incluye la factura en cuanto a kit y comida.
+
+**condiciones de participación:** El turno de diciembre se publica por separado del grupo sabatino de CTS College.
+
+- 2026-12-14 · 09:00–14:00 · America/Port_of_Spain · Montaje de chasis, motores y sensores, programación y minitorneo interno.
+
+- 2026-12-15 · 09:00–14:00 · America/Port_of_Spain · Montaje de chasis, motores y sensores, programación y minitorneo interno.
+
+- 2026-12-16 · 09:00–14:00 · America/Port_of_Spain · Montaje de chasis, motores y sensores, programación y minitorneo interno.
+
+- 2026-12-17 · 09:00–14:00 · America/Port_of_Spain · Montaje de chasis, motores y sensores, programación y minitorneo interno.
+
+- 2026-12-18 · 09:00–14:00 · America/Port_of_Spain · Montaje de chasis, motores y sensores, programación y minitorneo interno.
+
+- 2026-12-19 · 09:00–14:00 · America/Port_of_Spain · Montaje de chasis, motores y sensores, programación y minitorneo interno.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://edutechstemacademy.org/robotics-camp)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://edutechstemacademy.org/robotics-camp) · 2026-11-08
+
+## CP1924 · Sugar Bay · Roblox Week
+
+Sudáfrica · Zinkwazi Beach · KwaZulu-Natal
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–17 años. No se anuncia acceso al turno para edades inferiores.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** La semana inspirada en Roblox incluye construcción, pistas, disfraces y juegos de equipo al aire libre. El programa consiste en actividades fuera de pantalla.
+
+**Alojamiento:** Alojamiento en cabaña del campamento. Los monitores pernoctan allí, con supervisión las 24 horas.
+
+**Fechas / estado:** 9–16 de diciembre de 2026, Zinkwazi Beach. Confirmar logística familiar, alojamiento y admisión según el contrato del campamento.
+
+**Precio / año:** 2026 · ZAR 12999 por el turno. Depósito ZAR 1000 para reservar. Karts opcionales ZAR 650.
+
+**Incluido:** Alojamiento en cabaña del campamento. Los monitores pernoctan allí, con supervisión las 24 horas.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** No. Edad mínima publicada de 7 años.
+
+**Motivo de la selección:** 9–16 de diciembre de 2026, Zinkwazi Beach. Confirmar logística familiar, alojamiento y admisión según el contrato del campamento.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### 9–16 de diciembre de 2026, Zinkwazi Beach. Confirmar logística familiar, alojamiento y admisión según el contrato del campamento.
+
+**Fechas / estado:** 2026-12-09 — 2026-12-16
+
+**Precio:** ZAR 12999 por el turno. Depósito ZAR 1000 para reservar. Karts opcionales ZAR 650.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sugarbay.co.za/post/roblox-week-december-camp-2026)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sugarbay.co.za/post/roblox-week-december-camp-2026) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.sugarbay.co.za/2026-school-holiday-camp-dates) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.sugarbay.co.za/parent-faq) · 2026-11-08
+
+## CP1925 · iWorth · Westlands Primary · Robotics & AI Bootcamp
+
+Kenia · Westlands Primary · Nairobi
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Los grupos habituales de iWorth empiezan a los 6 años. Para Westlands Primary, confirmar aparte edad, vinculación escolar y admisión.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Montaje de robot, cableado de motores, programación ESP32, aplicaciones web e introducción a la IA.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Inicio publicado el 9 de noviembre de 2026 de 08:30 a 13:00 EAT. La descripción menciona una semana. No se publica el horario de los demás días.
+
+**Precio / año:** 2026 · KES 4000 por menor. Kits y componentes incluidos. Confirmar duración, factura final y disponibilidad.
+
+**Incluido:** Montaje de robot, cableado de motores, programación ESP32, aplicaciones web e introducción a la IA.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+
+**Oscar:** Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+
+**Motivo de la selección:** Inicio publicado el 9 de noviembre de 2026 de 08:30 a 13:00 EAT. La descripción menciona una semana. No se publica el horario de los demás días.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.iworth.co.ke/events/robotics-ai-bootcamp-westlands-primary) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.iworth.co.ke/robotics) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.iworth.co.ke/events) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

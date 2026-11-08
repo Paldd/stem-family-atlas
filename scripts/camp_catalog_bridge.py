@@ -25,6 +25,7 @@ RELATED = {
     'robotecnia-holidays':['L028'], 'conversa-tech':['L121'],
     'liota-winter':['L141'], 'campo-aventuras':['L153'],
     'cultivatec-robotics-winter-camp':['L763'],
+    'iworth-westlands-robotics-ai-november-2026':['L764'],
     'worklab-apprentice':['L425','L430','L435','L440'],
     'worklab-junior':['L426','L431','L436','L441'],
     'worklab-senior':['L427','L432','L437','L442'],

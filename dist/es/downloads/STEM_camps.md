@@ -10998,6 +10998,54 @@ Limitaciones: La página indica del 19 de diciembre al 23 de enero, 5 sábados d
 Fuente: https://cultivatec.com.mx/curso-robotics-winter-camp.html
 Se ha comprobado: 2026-11-08
 
+### L764 · iWorth · Westlands Primary · Robotics & AI Bootcamp
+
+lugar: Kenia · Westlands Primary · Nairobi
+Fecha: 2026-11-09 — 2026-11-09
+edad: Los grupos habituales de iWorth empiezan a los 6 años. Para Westlands Primary, confirmar aparte edad, vinculación escolar y admisión.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Formato: holiday_workshop
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: KES 4000 por menor. Kits y componentes incluidos. Confirmar duración, factura final y disponibilidad.
+Acceso: Los grupos habituales de iWorth empiezan a los 6 años. Para Westlands Primary, confirmar aparte edad, vinculación escolar y admisión.
+Limitaciones: Inicio publicado el 9 de noviembre de 2026 de 08:30 a 13:00 EAT. La descripción menciona una semana. No se publica el horario de los demás días.
+Fuente: https://www.iworth.co.ke/events/robotics-ai-bootcamp-westlands-primary
+Se ha comprobado: 2026-11-08
+
+### L765 · SMARTiners · Code, 3D & électronique
+
+lugar: San Martín · Saint-Martin
+Fecha: Parte francesa de Saint-Martin. Fecha del grupo, sede e idioma de instrucción bajo consulta.
+edad: La asociación anuncia talleres desde los 7 años. Confirmar para Matvey la inscripción abierta y el idioma del grupo concreto.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: No. Edad mínima publicada de 7 años.
+formato: workshop
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: EUR 20 por un taller de 2 horas. Una oferta aparte de membresía de EUR 36 rige hasta el 31 de diciembre de 2027. Confirmar si la membresía es obligatoria.
+Acceso: Parte francesa de Saint-Martin. Fecha del grupo, sede e idioma de instrucción bajo consulta.
+Limitaciones: Parte francesa de Saint-Martin. Fecha del grupo, sede e idioma de instrucción bajo consulta.
+Fuente: https://smartiners.network/
+Se ha comprobado: 2026-11-08
+
+### L766 · SMART GAMES · Code, 3D & Electronic
+
+Lugar: En línea/paz Online
+Fecha: Juegos educativos gratuitos sobre lógica por bloques, modelado 3D y componentes electrónicos.
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+formato: course
+Idioma: Se anuncian 5 idiomas de interfaz. Comprobar el idioma del módulo y la dificultad en la aplicación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Juegos gratuitos.
+Acceso: Juegos educativos gratuitos sobre lógica por bloques, modelado 3D y componentes electrónicos.
+Limitaciones: Se anuncian 5 idiomas de interfaz. Comprobar el idioma del módulo y la dificultad en la aplicación.
+Fuente: https://smartiners.network/jeux/
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -77861,6 +77909,150 @@ Acceso: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede
 Limitaciones: Matvey: Condicional si el menor cumple el curso escolar indicado. Oscar: Condicional si el curso escolar actual coincide con los requisitos. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
 Fuente: https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015459&act_seq=2
 Se ha comprobado: 2026-11-07
+
+### CP1920-20261109-20261113-upperhill-20261109 · STEM Impact Center Kenya · Holiday STEM Bootcamp · Semana diurna, 09:00–12:00 EAT · 2026-11-09–2026-11-13
+
+lugar: Kenia · 09 Kiambere Road · Upperhill, Nairobi
+Fecha: 2026-11-09 国 2026-11-13
+edad: Desde los 5 años. Oscar — Foundation & Logic 5–6, Matvey — Advanced Robotics & Systems 9–11.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana. · suplementos y condiciones en el dossier
+Acceso: Elegir semana y grupo de edad en el formulario. No se exige pertenecer a una escuela.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Transporte, comida y salidas se pagan aparte. Las mañanas perdidas no se reprograman ni reembolsan. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register
+Se ha comprobado: 2026-11-08
+
+### CP1920-20261123-20261127-upperhill-20261123 · STEM Impact Center Kenya · Holiday STEM Bootcamp · Semana diurna, 09:00–12:00 EAT · 2026-11-23–2026-11-27
+
+lugar: Kenia · 09 Kiambere Road · Upperhill, Nairobi
+Fecha: 2026-11-23 国 2026-11-27
+edad: Desde los 5 años. Oscar — Foundation & Logic 5–6, Matvey — Advanced Robotics & Systems 9–11.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana. · suplementos y condiciones en el dossier
+Acceso: Elegir semana y grupo de edad en el formulario. No se exige pertenecer a una escuela.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Transporte, comida y salidas se pagan aparte. Las mañanas perdidas no se reprograman ni reembolsan. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register
+Se ha comprobado: 2026-11-08
+
+### CP1920-20261130-20261204-upperhill-20261130 · STEM Impact Center Kenya · Holiday STEM Bootcamp · Semana diurna, 09:00–12:00 EAT · 2026-11-30–2026-12-04
+
+lugar: Kenia · 09 Kiambere Road · Upperhill, Nairobi
+Fecha: 2026-11-30 — 2026-12-04
+edad: Desde los 5 años. Oscar — Foundation & Logic 5–6, Matvey — Advanced Robotics & Systems 9–11.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana. · suplementos y condiciones en el dossier
+Acceso: Elegir semana y grupo de edad en el formulario. No se exige pertenecer a una escuela.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Transporte, comida y salidas se pagan aparte. Las mañanas perdidas no se reprograman ni reembolsan. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register
+Se ha comprobado: 2026-11-08
+
+### CP1920-20261207-20261211-upperhill-20261207 · STEM Impact Center Kenya · Holiday STEM Bootcamp · Semana diurna, 09:00–12:00 EAT · 2026-12-07–2026-12-11
+
+lugar: Kenia · 09 Kiambere Road · Upperhill, Nairobi
+Fecha: 2026-12-07 — 2026-12-11
+edad: Desde los 5 años. Oscar — Foundation & Logic 5–6, Matvey — Advanced Robotics & Systems 9–11.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana. · suplementos y condiciones en el dossier
+Acceso: Elegir semana y grupo de edad en el formulario. No se exige pertenecer a una escuela.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Transporte, comida y salidas se pagan aparte. Las mañanas perdidas no se reprograman ni reembolsan. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register
+Se ha comprobado: 2026-11-08
+
+### CP1920-20261214-20261218-upperhill-20261214 · STEM Impact Center Kenya · Holiday STEM Bootcamp · Semana diurna, 09:00–12:00 EAT · 2026-12-14–2026-12-18
+
+lugar: Kenia · 09 Kiambere Road · Upperhill, Nairobi
+Fecha: 2026-12-14 - 2026-12-18
+edad: Desde los 5 años. Oscar — Foundation & Logic 5–6, Matvey — Advanced Robotics & Systems 9–11.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana. · suplementos y condiciones en el dossier
+Acceso: Elegir semana y grupo de edad en el formulario. No se exige pertenecer a una escuela.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Transporte, comida y salidas se pagan aparte. Las mañanas perdidas no se reprograman ni reembolsan. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register
+Se ha comprobado: 2026-11-08
+
+### CP1921-20261102-20261127-nov26 · Talanta Tech Kids · Junior Innovators · 2–27 de noviembre de 2026. La página indica inscripción tardía. Mañana 09:00–12:00 o tarde 14:00–16:30. Confirmar qué días restantes están disponibles. · 2026-11-02–2026-11-27
+
+lugar: Kenia · Bristol Court, House No. 1 · Kilimani, Nairobi
+Fecha: 2026-11-02 — 2026-11-27
+edad: La sección del campamento actual indica 6–16 años y un grupo de 6–9. El encabezado general indica 7–18. Confirmar la edad mínima.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · KES 21500 por el campamento completo. Consultar tarifas de una semana, media jornada o incorporación tardía. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Condicional. El grupo empieza a los 6 años, el encabezado general a los 7. Se requiere confirmar esta edición concreta. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://talantacollegeoftechnology.co.ke/tech-kids
+Se ha comprobado: 2026-11-08
+
+### CP1922-20261104-20261218-holiday26 · AfricanStemGirl · Holiday Tech Classes · 4 de noviembre — 18 de diciembre de 2026. Clases laborables, paquete de 10 clases de 2 horas. Acordar días y horas concretos. · 2026-11-04–2026-12-18
+
+lugar: Kenia · K-Mall, Kiambu Road / Komarock Market · Nairobi
+Fecha: 2026-11-04 — 2026-12-18
+edad: Edades de 7–17 años. Elegir nivel, materia y formato.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+formato: day_or_online
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · KES 10000 por 10 clases. Se requiere portátil y acceso a correo electrónico. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No. Edad mínima publicada de 7 años. Suplementos: Clases diurnas en Nairobi o en línea. Confirmar acceso desde Costa Rica y horario del grupo virtual. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://africanstemgirl.com/blog/2026/10/07/holiday-stem-classes-for-kids-teens-in-nairobi/
+Se ha comprobado: 2026-11-08
+
+### CP1923-20261214-20261219-dec26 · EduTech STEM Academy · December Robotics Camp · 14–19 de diciembre de 2026, diariamente de 09:00 a 14:00 AST. La organización comunica la dirección exacta en Chaguanas después de inscribirse. · 2026-12-14–2026-12-19
+
+lugar: Trinidad y Tobago · Chaguanas
+Fecha: 2026-12-14 — 2026-12-19
+edad: 8–16 años, alumnado de primaria y secundaria.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · TTD 600 por 6 días. Confirmar qué incluye la factura en cuanto a kit y comida. · suplementos y condiciones en el dossier
+Acceso: El turno de diciembre se publica por separado del grupo sabatino de CTS College.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No. Edad mínima publicada de 8 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://edutechstemacademy.org/robotics-camp
+Se ha comprobado: 2026-11-08
+
+### CP1924-20261209-20261216-roblox-dec26 · Sugar Bay · Roblox Week · 9–16 de diciembre de 2026, Zinkwazi Beach. Confirmar logística familiar, alojamiento y admisión según el contrato del campamento. · 2026-12-09–2026-12-16
+
+Lugar: Sudáfrica Zinkwazi Beach · KwaZulu-Natal
+Fecha: 2026-12-09 — 2026-12-16
+edad: 7–17 años. No se anuncia acceso al turno para edades inferiores.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · ZAR 12999 por el turno. Depósito ZAR 1000 para reservar. Karts opcionales ZAR 650. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No. Edad mínima publicada de 7 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sugarbay.co.za/post/roblox-week-december-camp-2026
+Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 

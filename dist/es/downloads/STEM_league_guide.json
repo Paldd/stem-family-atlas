@@ -23740,6 +23740,70 @@
         "checked": "2026-11-07"
       },
       {
+        "id": "virtual-xplore-league",
+        "name": "Virtual Xplore League · Firefly IO",
+        "group": "international",
+        "age_summary": "Tech League para primaria y secundaria inicial. No se publica un corte numérico de edad.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen",
+          "unknown"
+        ],
+        "summary": "La organización Firefly IO invita expresamente a escuelas de otros países. No se describe la inscripción infantil independiente de una escuela.",
+        "categories": [
+          {
+            "name": "Tech League",
+            "age": "Tech League para primaria y secundaria inicial. No se publica un corte numérico de edad.",
+            "age_rule": "Tech League para primaria y secundaria inicial. No se publica un corte numérico de edad.",
+            "team": "Un docente o entrenador crea una cuenta, elige el país de la escuela y obtiene el código de liga. Hasta 3 equipos virtuales por escuela, sin límite de alumnado en cada uno. Cada participante necesita el acceso que emite la escuela.",
+            "hardware": "Programación por bloques en el simulador 3D Xplore IDE. Ordenador o Android e internet para enviar un intento. No se necesita robot físico.",
+            "entry": "Condicional. Se exige un curso escolar elegible, consentimiento parental e inscripción por la escuela."
+          }
+        ],
+        "event_ids": [
+          "C4537",
+          "C4538",
+          "C4539",
+          "C4540",
+          "C4541",
+          "C4542"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar si la escuela puede crear el perfil de Tech League y emitir un acceso para cada menor.",
+        "hardware": "Programación por bloques en el simulador 3D Xplore IDE. Ordenador o Android e internet para enviar un intento. No se necesita robot físico.",
+        "language": "Condiciones públicas en inglés. Confirmar el idioma de la retroalimentación y el soporte en español.",
+        "importance": "Liga internacional en línea",
+        "strengths": "Programación por bloques en el simulador 3D Xplore IDE. Ordenador o Android e internet para enviar un intento. No se necesita robot físico.",
+        "requirements": [
+          "Un docente o entrenador crea una cuenta, elige el país de la escuela y obtiene el código de liga. Hasta 3 equipos virtuales por escuela, sin límite de alumnado en cada uno. Cada participante necesita el acceso que emite la escuela."
+        ],
+        "nuances": [
+          "La organización Firefly IO invita expresamente a escuelas de otros países. No se describe la inscripción infantil independiente de una escuela."
+        ],
+        "cost": "Aún no se confirma la cuota de la temporada virtual 2027 ni el plazo para la escuela.",
+        "award": "Resultados individuales y clasificación escolar. El acceso a las siguientes rondas depende de la puntuación y la revisión del código.",
+        "sources": [
+          {
+            "url": "https://xploreleague.com/virtual/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://xploreleague.com/international/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://xploreleague.com/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -25006,7 +25070,8 @@
         ],
         "event_ids": [
           "C1634",
-          "C1635"
+          "C1635",
+          "C4547"
         ],
         "legacy_ids": [],
         "route": "Global: elegir deporte por edad, equipo y entrenador, acordar acceso extranjero y pago. Junior: festival local separado que premia a todos, sin rango internacional automático.",
@@ -28994,7 +29059,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 298. Se conservan las 46 rutas anteriores. Se distinguen los formatos de Brasil y se describen Robofest LATAM y BajaBot locales por categoría. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 299. Se conservan las 46 rutas anteriores. Los formatos brasileños se distinguen y Robofest LATAM y BajaBot se describen por categoría. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

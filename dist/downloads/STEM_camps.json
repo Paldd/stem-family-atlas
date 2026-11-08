@@ -580,11 +580,11 @@
       }
     ],
     "counts": {
-      "records": 4942,
-      "holiday": 4603,
+      "records": 4954,
+      "holiday": 4613,
       "regular": 158,
       "self_paced_materials": 2,
-      "boarding": 1036,
+      "boarding": 1037,
       "en_es_instruction": 1583,
       "en_es_support": 27,
       "family_instruction": 1583,
@@ -593,7 +593,7 @@
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 143
+      "countries": 144
     },
     "validation": {
       "version": 51,
@@ -39152,6 +39152,174 @@
       "admission_kind": "program",
       "evidence_level": "program",
       "date_scope": "programme_watch"
+    },
+    {
+      "id": "L764",
+      "title": "iWorth · Westlands Primary · Robotics & AI Bootcamp",
+      "block": "Лагеря",
+      "country": "Кения",
+      "region": "Африка",
+      "iso": [
+        "KEN"
+      ],
+      "city": "Westlands Primary · Nairobi",
+      "start": "2026-11-09",
+      "end": "2026-11-09",
+      "period": "Опубликован старт 9 ноября 2026 с 08:30 до 13:00 EAT. Описание упоминает неделю. Расписание остальных дней не опубликовано.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.iworth.co.ke/events/robotics-ai-bootcamp-westlands-primary",
+      "references": [
+        {
+          "url": "https://www.iworth.co.ke/robotics",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.iworth.co.ke/events",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Обычные группы iWorth начинаются с 6 лет. Для Westlands Primary возраст, школьную принадлежность и допуск подтвердить отдельно.",
+      "mat": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "osc": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "format": "Дневной формат без проживания.",
+      "entry": "Обычные группы iWorth начинаются с 6 лет. Для Westlands Primary возраст, школьную принадлежность и допуск подтвердить отдельно.",
+      "gear": "Сборка робота, проводка моторов, программирование ESP32, веб-приложения и знакомство с ИИ.",
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "cost": "KES 4000 за ребёнка. Комплекты и компоненты включены. Сверить длительность, итоговый счёт и наличие места.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Опубликован старт 9 ноября 2026 с 08:30 до 13:00 EAT. Описание упоминает неделю. Расписание остальных дней не опубликовано.",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Техническая учебная программа",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "activity_start"
+    },
+    {
+      "id": "L765",
+      "title": "SMARTiners · Code, 3D & électronique",
+      "block": "Лагеря",
+      "country": "Сен-Мартен (французская часть)",
+      "region": "Карибский регион",
+      "iso": [
+        "MAF"
+      ],
+      "city": "Saint-Martin",
+      "start": "",
+      "end": "",
+      "period": "Французская сторона Сен-Мартена. Конкретная дата группы, место и язык инструктажа по запросу.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "checked": "2026-11-08",
+      "source": "https://smartiners.network/",
+      "references": [
+        {
+          "url": "https://smartiners.network/offres/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Ассоциация объявляет мастерские от 7 лет. Для Матвея подтвердить открытый набор и язык конкретной группы.",
+      "mat": "Да по возрасту. Допуск и место подтвердить отдельно.",
+      "osc": "Нет. Опубликованный минимум 7 лет.",
+      "format": "Дневной формат без проживания.",
+      "entry": "Французская сторона Сен-Мартена. Конкретная дата группы, место и язык инструктажа по запросу.",
+      "gear": "Программирование, 3D, электроника и умный сад. Мастерские для местных жителей и групп.",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "EUR 20 за мастерскую на 2 часа. Отдельное предложение членства EUR 36 действует до 31 декабря 2027. Обязательность членства уточнить.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Французская сторона Сен-Мартена. Конкретная дата группы, место и язык инструктажа по запросу.",
+      "themes": [
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Техническая учебная программа",
+      "participation": "workshop",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "related_ids": [
+        "L766"
+      ]
+    },
+    {
+      "id": "L766",
+      "title": "SMART GAMES · Code, 3D & Electronic",
+      "block": "Лагеря",
+      "country": "Онлайн / мир",
+      "region": "Онлайн",
+      "iso": [],
+      "city": "Online",
+      "start": "",
+      "end": "",
+      "period": "Бесплатные образовательные игры по блочной логике, 3D-моделированию и электронным компонентам.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "checked": "2026-11-08",
+      "source": "https://smartiners.network/jeux/",
+      "references": [
+        {
+          "url": "https://smart978-games.web.app/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "mat": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "osc": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "format": "",
+      "entry": "Бесплатные образовательные игры по блочной логике, 3D-моделированию и электронным компонентам.",
+      "gear": "Бесплатные образовательные игры по блочной логике, 3D-моделированию и электронным компонентам.",
+      "language": "Объявлены 5 языков интерфейса. Язык конкретного модуля и уровень сложности проверить в приложении.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Объявлены 5 языков интерфейса. Язык конкретного модуля и уровень сложности проверить в приложении.",
+      "cost": "Бесплатные игры.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Объявлены 5 языков интерфейса. Язык конкретного модуля и уровень сложности проверить в приложении.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "online",
+      "importance_reason": "Техническая учебная программа",
+      "participation": "course",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "related_ids": [
+        "L765"
+      ]
     },
     {
       "id": "CP001-20270606-20270619",
@@ -395839,6 +396007,906 @@
       "availability": {
         "status": "waitlist",
         "label": "Группа заполнена, доступен лист ожидания."
+      }
+    },
+    {
+      "id": "CP1920-20261109-20261113-upperhill-20261109",
+      "block": "Лагеря",
+      "title": "STEM Impact Center Kenya · Holiday STEM Bootcamp · Дневная неделя, 09:00–12:00 EAT · 2026-11-09–2026-11-13",
+      "country": "Кения",
+      "region": "Африка",
+      "city": "09 Kiambere Road · Upperhill, Nairobi",
+      "start": "2026-11-09",
+      "end": "2026-11-13",
+      "period": "Пять рабочих дней 09:00–12:00 в Upperhill. Форма показывает отдельные недели; 16–20 ноября закрыто. Общий FAQ и форма расходятся по выбору недель подряд.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "От 5 лет. Оскар — Foundation & Logic 5–6, Матвей — Advanced Robotics & Systems 9–11.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневной формат без проживания.",
+      "entry": "Выбрать неделю и возрастную группу в форме. Школьная принадлежность не требуется.",
+      "gear": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "cost": "2026/27 · KES 4500 за ребёнка в неделю. При общей записи двоих скидка 10%, итог KES 8100 за неделю. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
+      "references": [
+        {
+          "url": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Да по возрасту. Допуск и место подтвердить отдельно. Доплаты: Транспорт, обед и выезды оплачиваются отдельно. Пропущенное утро не переносится и не возвращается. Оплата: Условия возврата и итоговый счёт уточнить до оплаты.",
+      "iso": [
+        "KEN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sic-kenya-upperhill-novdec-2026",
+      "camp_programme_id": "CP1920",
+      "sessions": [
+        {
+          "date": "2026-11-09",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-11-09T06:00:00Z",
+          "end_utc": "2026-11-09T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-10",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-11-10T06:00:00Z",
+          "end_utc": "2026-11-10T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-11",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-11-11T06:00:00Z",
+          "end_utc": "2026-11-11T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-12",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-11-12T06:00:00Z",
+          "end_utc": "2026-11-12T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-13",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-11-13T06:00:00Z",
+          "end_utc": "2026-11-13T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP1920-20261123-20261127-upperhill-20261123",
+      "block": "Лагеря",
+      "title": "STEM Impact Center Kenya · Holiday STEM Bootcamp · Дневная неделя, 09:00–12:00 EAT · 2026-11-23–2026-11-27",
+      "country": "Кения",
+      "region": "Африка",
+      "city": "09 Kiambere Road · Upperhill, Nairobi",
+      "start": "2026-11-23",
+      "end": "2026-11-27",
+      "period": "Пять рабочих дней 09:00–12:00 в Upperhill. Форма показывает отдельные недели; 16–20 ноября закрыто. Общий FAQ и форма расходятся по выбору недель подряд.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "От 5 лет. Оскар — Foundation & Logic 5–6, Матвей — Advanced Robotics & Systems 9–11.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневной формат без проживания.",
+      "entry": "Выбрать неделю и возрастную группу в форме. Школьная принадлежность не требуется.",
+      "gear": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "cost": "2026/27 · KES 4500 за ребёнка в неделю. При общей записи двоих скидка 10%, итог KES 8100 за неделю. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
+      "references": [
+        {
+          "url": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Да по возрасту. Допуск и место подтвердить отдельно. Доплаты: Транспорт, обед и выезды оплачиваются отдельно. Пропущенное утро не переносится и не возвращается. Оплата: Условия возврата и итоговый счёт уточнить до оплаты.",
+      "iso": [
+        "KEN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sic-kenya-upperhill-novdec-2026",
+      "camp_programme_id": "CP1920",
+      "sessions": [
+        {
+          "date": "2026-11-23",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-11-23T06:00:00Z",
+          "end_utc": "2026-11-23T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-24",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-11-24T06:00:00Z",
+          "end_utc": "2026-11-24T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-25",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-11-25T06:00:00Z",
+          "end_utc": "2026-11-25T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-26",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-11-26T06:00:00Z",
+          "end_utc": "2026-11-26T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-27",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-11-27T06:00:00Z",
+          "end_utc": "2026-11-27T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP1920-20261130-20261204-upperhill-20261130",
+      "block": "Лагеря",
+      "title": "STEM Impact Center Kenya · Holiday STEM Bootcamp · Дневная неделя, 09:00–12:00 EAT · 2026-11-30–2026-12-04",
+      "country": "Кения",
+      "region": "Африка",
+      "city": "09 Kiambere Road · Upperhill, Nairobi",
+      "start": "2026-11-30",
+      "end": "2026-12-04",
+      "period": "Пять рабочих дней 09:00–12:00 в Upperhill. Форма показывает отдельные недели; 16–20 ноября закрыто. Общий FAQ и форма расходятся по выбору недель подряд.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "От 5 лет. Оскар — Foundation & Logic 5–6, Матвей — Advanced Robotics & Systems 9–11.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневной формат без проживания.",
+      "entry": "Выбрать неделю и возрастную группу в форме. Школьная принадлежность не требуется.",
+      "gear": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "cost": "2026/27 · KES 4500 за ребёнка в неделю. При общей записи двоих скидка 10%, итог KES 8100 за неделю. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
+      "references": [
+        {
+          "url": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Да по возрасту. Допуск и место подтвердить отдельно. Доплаты: Транспорт, обед и выезды оплачиваются отдельно. Пропущенное утро не переносится и не возвращается. Оплата: Условия возврата и итоговый счёт уточнить до оплаты.",
+      "iso": [
+        "KEN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sic-kenya-upperhill-novdec-2026",
+      "camp_programme_id": "CP1920",
+      "sessions": [
+        {
+          "date": "2026-11-30",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-11-30T06:00:00Z",
+          "end_utc": "2026-11-30T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-01",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-01T06:00:00Z",
+          "end_utc": "2026-12-01T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-02",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-02T06:00:00Z",
+          "end_utc": "2026-12-02T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-03",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-03T06:00:00Z",
+          "end_utc": "2026-12-03T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-04",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-04T06:00:00Z",
+          "end_utc": "2026-12-04T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP1920-20261207-20261211-upperhill-20261207",
+      "block": "Лагеря",
+      "title": "STEM Impact Center Kenya · Holiday STEM Bootcamp · Дневная неделя, 09:00–12:00 EAT · 2026-12-07–2026-12-11",
+      "country": "Кения",
+      "region": "Африка",
+      "city": "09 Kiambere Road · Upperhill, Nairobi",
+      "start": "2026-12-07",
+      "end": "2026-12-11",
+      "period": "Пять рабочих дней 09:00–12:00 в Upperhill. Форма показывает отдельные недели; 16–20 ноября закрыто. Общий FAQ и форма расходятся по выбору недель подряд.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "От 5 лет. Оскар — Foundation & Logic 5–6, Матвей — Advanced Robotics & Systems 9–11.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневной формат без проживания.",
+      "entry": "Выбрать неделю и возрастную группу в форме. Школьная принадлежность не требуется.",
+      "gear": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "cost": "2026/27 · KES 4500 за ребёнка в неделю. При общей записи двоих скидка 10%, итог KES 8100 за неделю. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
+      "references": [
+        {
+          "url": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Да по возрасту. Допуск и место подтвердить отдельно. Доплаты: Транспорт, обед и выезды оплачиваются отдельно. Пропущенное утро не переносится и не возвращается. Оплата: Условия возврата и итоговый счёт уточнить до оплаты.",
+      "iso": [
+        "KEN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sic-kenya-upperhill-novdec-2026",
+      "camp_programme_id": "CP1920",
+      "sessions": [
+        {
+          "date": "2026-12-07",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-07T06:00:00Z",
+          "end_utc": "2026-12-07T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-08",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-08T06:00:00Z",
+          "end_utc": "2026-12-08T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-09",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-09T06:00:00Z",
+          "end_utc": "2026-12-09T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-10",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-10T06:00:00Z",
+          "end_utc": "2026-12-10T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-11",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-11T06:00:00Z",
+          "end_utc": "2026-12-11T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP1920-20261214-20261218-upperhill-20261214",
+      "block": "Лагеря",
+      "title": "STEM Impact Center Kenya · Holiday STEM Bootcamp · Дневная неделя, 09:00–12:00 EAT · 2026-12-14–2026-12-18",
+      "country": "Кения",
+      "region": "Африка",
+      "city": "09 Kiambere Road · Upperhill, Nairobi",
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "period": "Пять рабочих дней 09:00–12:00 в Upperhill. Форма показывает отдельные недели; 16–20 ноября закрыто. Общий FAQ и форма расходятся по выбору недель подряд.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "От 5 лет. Оскар — Foundation & Logic 5–6, Матвей — Advanced Robotics & Systems 9–11.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневной формат без проживания.",
+      "entry": "Выбрать неделю и возрастную группу в форме. Школьная принадлежность не требуется.",
+      "gear": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "cost": "2026/27 · KES 4500 за ребёнка в неделю. При общей записи двоих скидка 10%, итог KES 8100 за неделю. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
+      "references": [
+        {
+          "url": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Да по возрасту. Допуск и место подтвердить отдельно. Доплаты: Транспорт, обед и выезды оплачиваются отдельно. Пропущенное утро не переносится и не возвращается. Оплата: Условия возврата и итоговый счёт уточнить до оплаты.",
+      "iso": [
+        "KEN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sic-kenya-upperhill-novdec-2026",
+      "camp_programme_id": "CP1920",
+      "sessions": [
+        {
+          "date": "2026-12-14",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-14T06:00:00Z",
+          "end_utc": "2026-12-14T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-15",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-15T06:00:00Z",
+          "end_utc": "2026-12-15T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-16",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-16T06:00:00Z",
+          "end_utc": "2026-12-16T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-17",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-17T06:00:00Z",
+          "end_utc": "2026-12-17T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-18",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-18T06:00:00Z",
+          "end_utc": "2026-12-18T09:00:00Z",
+          "topic": "Младшая группа работает с Qobo, VEX 123 и OctoStudio. Старшая использует LEGO SPIKE Prime и VEX IQ.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP1921-20261102-20261127-nov26",
+      "block": "Лагеря",
+      "title": "Talanta Tech Kids · Junior Innovators · 2–27 ноября 2026. Страница указывает поздний набор. Утро 09:00–12:00 или после обеда 14:00–16:30. Подтвердить, какие оставшиеся дни доступны. · 2026-11-02–2026-11-27",
+      "country": "Кения",
+      "region": "Африка",
+      "city": "Bristol Court, House No. 1 · Kilimani, Nairobi",
+      "start": "2026-11-02",
+      "end": "2026-11-27",
+      "period": "2–27 ноября 2026. Страница указывает поздний набор. Утро 09:00–12:00 или после обеда 14:00–16:30. Подтвердить, какие оставшиеся дни доступны.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Раздел текущего лагеря показывает 6–16 лет и группу 6–9. Общий заголовок страницы указывает 7–18. Нижний возраст подтвердить.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневной формат без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "В Junior Innovators изучают Scratch, анимацию и базовую логику. Robotics Kits, Micro:bit и дизайн игр относятся к старшему треку 10–12.",
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "cost": "2026/27 · KES 21500 за полный лагерь. Тарифы одной недели, половины дня и позднего подключения уточняются. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://talantacollegeoftechnology.co.ke/tech-kids",
+      "references": [
+        {
+          "url": "https://talantacollegeoftechnology.co.ke/tech-kids",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Условно. Группа начинается с 6 лет, общий заголовок с 7 лет. Требуется подтверждение именно этой смены. Доплаты: Полная стоимость и наличие мест ещё не подтверждены. Оплата: Условия возврата и итоговый счёт уточнить до оплаты.",
+      "iso": [
+        "KEN"
+      ],
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "talanta-kilimani-november-2026",
+      "camp_programme_id": "CP1921",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP1922-20261104-20261218-holiday26",
+      "block": "Лагеря",
+      "title": "AfricanStemGirl · Holiday Tech Classes · 4 ноября — 18 декабря 2026. Занятия по будням, пакет из 10 занятий по 2 часа. Согласовать конкретные дни и часы. · 2026-11-04–2026-12-18",
+      "country": "Кения",
+      "region": "Африка",
+      "city": "K-Mall, Kiambu Road / Komarock Market · Nairobi",
+      "start": "2026-11-04",
+      "end": "2026-12-18",
+      "period": "4 ноября — 18 декабря 2026. Занятия по будням, пакет из 10 занятий по 2 часа. Согласовать конкретные дни и часы.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Возраст 7–17 лет. Подобрать уровень, предмет и формат.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневные занятия в Найроби или онлайн. Доступ из Коста-Рики и время онлайн-группы уточнить.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "На выбор ИИ, программирование, кибербезопасность, роботы, сайты, приложения и видеомонтаж.",
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "cost": "2026/27 · KES 10000 за 10 занятий. Нужен ноутбук и доступ к электронной почте. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://africanstemgirl.com/blog/2026/10/07/holiday-stem-classes-for-kids-teens-in-nairobi/",
+      "references": [
+        {
+          "url": "https://africanstemgirl.com/product/holiday-tech-classes-kids-teens/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://africanstemgirl.com/blog/2026/10/07/holiday-stem-classes-for-kids-teens-in-nairobi/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Нет. Опубликованный минимум 7 лет. Доплаты: Дневные занятия в Найроби или онлайн. Доступ из Коста-Рики и время онлайн-группы уточнить. Оплата: Условия возврата и итоговый счёт уточнить до оплаты.",
+      "iso": [
+        "KEN"
+      ],
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "participation": "day_or_online",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "africanstemgirl-nairobi-novdec-2026",
+      "camp_programme_id": "CP1922",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP1923-20261214-20261219-dec26",
+      "block": "Лагеря",
+      "title": "EduTech STEM Academy · December Robotics Camp · 14–19 декабря 2026, ежедневно 09:00–14:00 AST. Точный адрес в Чагуанасе оператор сообщает после записи. · 2026-12-14–2026-12-19",
+      "country": "Тринидад и Тобаго",
+      "region": "Карибский регион",
+      "city": "Chaguanas",
+      "start": "2026-12-14",
+      "end": "2026-12-19",
+      "period": "14–19 декабря 2026, ежедневно 09:00–14:00 AST. Точный адрес в Чагуанасе оператор сообщает после записи.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "8–16 лет, ученики начальной и средней школы.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневной формат без проживания.",
+      "entry": "Декабрьская смена опубликована отдельно от субботней группы CTS College.",
+      "gear": "Сборка шасси, моторов и датчиков, программирование и внутренний мини-турнир.",
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "cost": "2026/27 · TTD 600 за 6 дней. Что входит в счёт за комплект и питание, уточнить. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://edutechstemacademy.org/robotics-camp",
+      "references": [
+        {
+          "url": "https://edutechstemacademy.org/robotics-camp",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Нет. Опубликованный минимум 8 лет. Доплаты: Полная стоимость и наличие мест ещё не подтверждены. Оплата: Условия возврата и итоговый счёт уточнить до оплаты.",
+      "iso": [
+        "TTO"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "edutech-chaguanas-december-2026",
+      "camp_programme_id": "CP1923",
+      "sessions": [
+        {
+          "date": "2026-12-14",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "America/Port_of_Spain",
+          "start_utc": "2026-12-14T13:00:00Z",
+          "end_utc": "2026-12-14T18:00:00Z",
+          "topic": "Сборка шасси, моторов и датчиков, программирование и внутренний мини-турнир.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-15",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "America/Port_of_Spain",
+          "start_utc": "2026-12-15T13:00:00Z",
+          "end_utc": "2026-12-15T18:00:00Z",
+          "topic": "Сборка шасси, моторов и датчиков, программирование и внутренний мини-турнир.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-16",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "America/Port_of_Spain",
+          "start_utc": "2026-12-16T13:00:00Z",
+          "end_utc": "2026-12-16T18:00:00Z",
+          "topic": "Сборка шасси, моторов и датчиков, программирование и внутренний мини-турнир.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-17",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "America/Port_of_Spain",
+          "start_utc": "2026-12-17T13:00:00Z",
+          "end_utc": "2026-12-17T18:00:00Z",
+          "topic": "Сборка шасси, моторов и датчиков, программирование и внутренний мини-турнир.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-18",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "America/Port_of_Spain",
+          "start_utc": "2026-12-18T13:00:00Z",
+          "end_utc": "2026-12-18T18:00:00Z",
+          "topic": "Сборка шасси, моторов и датчиков, программирование и внутренний мини-турнир.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-19",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "America/Port_of_Spain",
+          "start_utc": "2026-12-19T13:00:00Z",
+          "end_utc": "2026-12-19T18:00:00Z",
+          "topic": "Сборка шасси, моторов и датчиков, программирование и внутренний мини-турнир.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP1924-20261209-20261216-roblox-dec26",
+      "block": "Лагеря",
+      "title": "Sugar Bay · Roblox Week · 9–16 декабря 2026, Zinkwazi Beach. Семейную логистику, проживание и условия приёма уточнить по договору лагеря. · 2026-12-09–2026-12-16",
+      "country": "Южная Африка",
+      "region": "Африка",
+      "city": "Zinkwazi Beach · KwaZulu-Natal",
+      "start": "2026-12-09",
+      "end": "2026-12-16",
+      "period": "9–16 декабря 2026, Zinkwazi Beach. Семейную логистику, проживание и условия приёма уточнить по договору лагеря.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "7–17 лет. Детям младшего возраста вход на смену не объявлен.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Ночёвка в домике лагеря. Вожатые остаются на ночь, надзор 24 часа в сутки.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Неделя по мотивам Roblox включает строительство, загадки, костюмы и командные игры на воздухе. В программе офлайн-активности.",
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "cost": "2026/27 · ZAR 12999 за смену. Депозит ZAR 1000 для брони. Картинг по желанию ZAR 650. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://www.sugarbay.co.za/post/roblox-week-december-camp-2026",
+      "references": [
+        {
+          "url": "https://www.sugarbay.co.za/post/roblox-week-december-camp-2026",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.sugarbay.co.za/2026-school-holiday-camp-dates",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.sugarbay.co.za/parent-faq",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Нет. Опубликованный минимум 7 лет. Доплаты: Полная стоимость и наличие мест ещё не подтверждены. Оплата: Условия возврата и итоговый счёт уточнить до оплаты.",
+      "iso": [
+        "ZAF"
+      ],
+      "themes": [
+        "games",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "participation": "residential",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sugar-bay-roblox-week-december-2026",
+      "camp_programme_id": "CP1924",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
       }
     },
     {

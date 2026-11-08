@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1919,
+    "dossiers": 1925,
     "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
       "published_2027": 517,
       "partial_2027": 141,
-      "next_unannounced": 398,
-      "published_2026": 348,
+      "next_unannounced": 399,
+      "published_2026": 353,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2785
+    "source_urls": 2797
   },
   "countries": [
     {
@@ -261,7 +261,7 @@
     },
     {
       "country": "Kenia",
-      "count": 1
+      "count": 5
     },
     {
       "country": "China",
@@ -461,7 +461,7 @@
     },
     {
       "country": "Trinidad y Tobago",
-      "count": 3
+      "count": 4
     },
     {
       "country": "Turkmenistán",
@@ -545,7 +545,7 @@
     },
     {
       "country": "Sudáfrica",
-      "count": 1
+      "count": 2
     },
     {
       "country": "Jamaica",
@@ -333713,6 +333713,1024 @@
         "L763"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP1920",
+      "slug": "sic-kenya-upperhill-novdec-2026",
+      "provider": "STEM Impact Center Kenya · Holiday STEM Bootcamp",
+      "country": "Kenia",
+      "iso": "KEN",
+      "place": "09 Kiambere Road · Upperhill, Nairobi",
+      "age": "Desde los 5 años. Oscar — Foundation & Logic 5–6, Matvey — Advanced Robotics & Systems 9–11.",
+      "programme": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Cinco días laborables de 09:00 a 12:00 en Upperhill. El formulario muestra semanas separadas; del 16 al 20 de noviembre está cerrado. Las preguntas generales y el formulario difieren sobre semanas consecutivas.",
+        "sessions": [
+          [
+            "2026-11-09",
+            "2026-11-13"
+          ],
+          [
+            "2026-11-23",
+            "2026-11-27"
+          ],
+          [
+            "2026-11-30",
+            "2026-12-04"
+          ],
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "upperhill-20261109",
+            "start": "2026-11-09",
+            "end": "2026-11-13",
+            "label": "Semana diurna, 09:00–12:00 EAT",
+            "price": "KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana.",
+            "source": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-09",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-11-09T06:00:00Z",
+                "end_utc": "2026-11-09T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-10",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-11-10T06:00:00Z",
+                "end_utc": "2026-11-10T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-11",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-11-11T06:00:00Z",
+                "end_utc": "2026-11-11T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-12",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-11-12T06:00:00Z",
+                "end_utc": "2026-11-12T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-13",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-11-13T06:00:00Z",
+                "end_utc": "2026-11-13T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Elegir semana y grupo de edad en el formulario. No se exige pertenecer a una escuela."
+          },
+          {
+            "variant_key": "upperhill-20261123",
+            "start": "2026-11-23",
+            "end": "2026-11-27",
+            "label": "Semana diurna, 09:00–12:00 EAT",
+            "price": "KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana.",
+            "source": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-11-23T06:00:00Z",
+                "end_utc": "2026-11-23T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-11-24T06:00:00Z",
+                "end_utc": "2026-11-24T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-11-25T06:00:00Z",
+                "end_utc": "2026-11-25T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-11-26T06:00:00Z",
+                "end_utc": "2026-11-26T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-11-27T06:00:00Z",
+                "end_utc": "2026-11-27T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Elegir semana y grupo de edad en el formulario. No se exige pertenecer a una escuela."
+          },
+          {
+            "variant_key": "upperhill-20261130",
+            "start": "2026-11-30",
+            "end": "2026-12-04",
+            "label": "Semana diurna, 09:00–12:00 EAT",
+            "price": "KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana.",
+            "source": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-11-30T06:00:00Z",
+                "end_utc": "2026-11-30T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-01T06:00:00Z",
+                "end_utc": "2026-12-01T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-02T06:00:00Z",
+                "end_utc": "2026-12-02T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-03T06:00:00Z",
+                "end_utc": "2026-12-03T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-04T06:00:00Z",
+                "end_utc": "2026-12-04T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Elegir semana y grupo de edad en el formulario. No se exige pertenecer a una escuela."
+          },
+          {
+            "variant_key": "upperhill-20261207",
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Semana diurna, 09:00–12:00 EAT",
+            "price": "KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana.",
+            "source": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-07T06:00:00Z",
+                "end_utc": "2026-12-07T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-08T06:00:00Z",
+                "end_utc": "2026-12-08T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-09T06:00:00Z",
+                "end_utc": "2026-12-09T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-10T06:00:00Z",
+                "end_utc": "2026-12-10T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-11T06:00:00Z",
+                "end_utc": "2026-12-11T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Elegir semana y grupo de edad en el formulario. No se exige pertenecer a una escuela."
+          },
+          {
+            "variant_key": "upperhill-20261214",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Semana diurna, 09:00–12:00 EAT",
+            "price": "KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana.",
+            "source": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-14T06:00:00Z",
+                "end_utc": "2026-12-14T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-15T06:00:00Z",
+                "end_utc": "2026-12-15T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-16T06:00:00Z",
+                "end_utc": "2026-12-16T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-17T06:00:00Z",
+                "end_utc": "2026-12-17T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-18T06:00:00Z",
+                "end_utc": "2026-12-18T09:00:00Z",
+                "topic": "El grupo menor trabaja con Qobo, VEX 123 y OctoStudio. El grupo mayor usa LEGO SPIKE Prime y VEX IQ.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Elegir semana y grupo de edad en el formulario. No se exige pertenecer a una escuela."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 4500,
+        "currency": "KES",
+        "unit": "week",
+        "label": "KES 4500 por menor y semana. Con inscripción conjunta de dos, descuento del 10%, total KES 8100 por semana.",
+        "included": "Incluye kits, herramientas, materiales y dispositivos. Las familias pueden acudir a la muestra del viernes.",
+        "extras": "Transporte, comida y salidas se pagan aparte. Las mañanas perdidas no se reprograman ni reembolsan.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        }
+      },
+      "editorial_reason": "Cinco días laborables de 09:00 a 12:00 en Upperhill. El formulario muestra semanas separadas; del 16 al 20 de noviembre está cerrado. Las preguntas generales y el formulario difieren sobre semanas consecutivas.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://stemimpactcenterkenya.org/programs/school/holiday-bootcamp/register",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-09",
+          "end": "2026-11-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1920-20261109-20261113-upperhill-20261109"
+          ]
+        },
+        {
+          "start": "2026-11-23",
+          "end": "2026-11-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1920-20261123-20261127-upperhill-20261123"
+          ]
+        },
+        {
+          "start": "2026-11-30",
+          "end": "2026-12-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1920-20261130-20261204-upperhill-20261130"
+          ]
+        },
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1920-20261207-20261211-upperhill-20261207"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1920-20261214-20261218-upperhill-20261214"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1921",
+      "slug": "talanta-kilimani-november-2026",
+      "provider": "Talanta Tech Kids · Junior Innovators",
+      "country": "Kenia",
+      "iso": "KEN",
+      "place": "Bristol Court, House No. 1 · Kilimani, Nairobi",
+      "age": "La sección del campamento actual indica 6–16 años y un grupo de 6–9. El encabezado general indica 7–18. Confirmar la edad mínima.",
+      "programme": "Junior Innovators enseña Scratch, animación y lógica básica. Robotics Kits, Micro:bit y diseño de juegos corresponden al itinerario mayor de 10–12.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "2–27 de noviembre de 2026. La página indica inscripción tardía. Mañana 09:00–12:00 o tarde 14:00–16:30. Confirmar qué días restantes están disponibles.",
+        "sessions": [
+          [
+            "2026-11-02",
+            "2026-11-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "nov26",
+            "start": "2026-11-02",
+            "end": "2026-11-27",
+            "label": "2–27 de noviembre de 2026. La página indica inscripción tardía. Mañana 09:00–12:00 o tarde 14:00–16:30. Confirmar qué días restantes están disponibles.",
+            "price": "KES 21500 por el campamento completo. Consultar tarifas de una semana, media jornada o incorporación tardía.",
+            "source": "https://talantacollegeoftechnology.co.ke/tech-kids",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 21500,
+        "currency": "KES",
+        "unit": "programme",
+        "label": "KES 21500 por el campamento completo. Consultar tarifas de una semana, media jornada o incorporación tardía.",
+        "included": "Junior Innovators enseña Scratch, animación y lógica básica. Robotics Kits, Micro:bit y diseño de juegos corresponden al itinerario mayor de 10–12.",
+        "extras": "Aún no se confirman el coste total ni las plazas.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. El grupo empieza a los 6 años, el encabezado general a los 7. Se requiere confirmar esta edición concreta."
+        }
+      },
+      "editorial_reason": "2–27 de noviembre de 2026. La página indica inscripción tardía. Mañana 09:00–12:00 o tarde 14:00–16:30. Confirmar qué días restantes están disponibles.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://talantacollegeoftechnology.co.ke/tech-kids",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-02",
+          "end": "2026-11-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1921-20261102-20261127-nov26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1922",
+      "slug": "africanstemgirl-nairobi-novdec-2026",
+      "provider": "AfricanStemGirl · Holiday Tech Classes",
+      "country": "Kenia",
+      "iso": "KEN",
+      "place": "K-Mall, Kiambu Road / Komarock Market · Nairobi",
+      "age": "Edades de 7–17 años. Elegir nivel, materia y formato.",
+      "programme": "A elegir IA, programación, ciberseguridad, robots, webs, aplicaciones y edición de vídeo.",
+      "format": "day",
+      "formats": [
+        "day",
+        "online"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "4 de noviembre — 18 de diciembre de 2026. Clases laborables, paquete de 10 clases de 2 horas. Acordar días y horas concretos.",
+        "sessions": [
+          [
+            "2026-11-04",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "holiday26",
+            "start": "2026-11-04",
+            "end": "2026-12-18",
+            "label": "4 de noviembre — 18 de diciembre de 2026. Clases laborables, paquete de 10 clases de 2 horas. Acordar días y horas concretos.",
+            "price": "KES 10000 por 10 clases. Se requiere portátil y acceso a correo electrónico.",
+            "source": "https://africanstemgirl.com/blog/2026/10/07/holiday-stem-classes-for-kids-teens-in-nairobi/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 10000,
+        "currency": "KES",
+        "unit": "package",
+        "label": "KES 10000 por 10 clases. Se requiere portátil y acceso a correo electrónico.",
+        "included": "A elegir IA, programación, ciberseguridad, robots, webs, aplicaciones y edición de vídeo.",
+        "extras": "Clases diurnas en Nairobi o en línea. Confirmar acceso desde Costa Rica y horario del grupo virtual.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Clases diurnas en Nairobi o en línea. Confirmar acceso desde Costa Rica y horario del grupo virtual.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No. Edad mínima publicada de 7 años."
+        }
+      },
+      "editorial_reason": "4 de noviembre — 18 de diciembre de 2026. Clases laborables, paquete de 10 clases de 2 horas. Acordar días y horas concretos.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://africanstemgirl.com/product/holiday-tech-classes-kids-teens/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://africanstemgirl.com/blog/2026/10/07/holiday-stem-classes-for-kids-teens-in-nairobi/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_or_online",
+      "catalog_participation": "day_or_online",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-04",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1922-20261104-20261218-holiday26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1923",
+      "slug": "edutech-chaguanas-december-2026",
+      "provider": "EduTech STEM Academy · December Robotics Camp",
+      "country": "Trinidad y Tobago",
+      "iso": "TTO",
+      "place": "Chaguanas",
+      "age": "8–16 años, alumnado de primaria y secundaria.",
+      "programme": "Montaje de chasis, motores y sensores, programación y minitorneo interno.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "14–19 de diciembre de 2026, diariamente de 09:00 a 14:00 AST. La organización comunica la dirección exacta en Chaguanas después de inscribirse.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec26",
+            "start": "2026-12-14",
+            "end": "2026-12-19",
+            "label": "14–19 de diciembre de 2026, diariamente de 09:00 a 14:00 AST. La organización comunica la dirección exacta en Chaguanas después de inscribirse.",
+            "price": "TTD 600 por 6 días. Confirmar qué incluye la factura en cuanto a kit y comida.",
+            "source": "https://edutechstemacademy.org/robotics-camp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "America/Port_of_Spain",
+                "start_utc": "2026-12-14T13:00:00Z",
+                "end_utc": "2026-12-14T18:00:00Z",
+                "topic": "Montaje de chasis, motores y sensores, programación y minitorneo interno.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "America/Port_of_Spain",
+                "start_utc": "2026-12-15T13:00:00Z",
+                "end_utc": "2026-12-15T18:00:00Z",
+                "topic": "Montaje de chasis, motores y sensores, programación y minitorneo interno.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "America/Port_of_Spain",
+                "start_utc": "2026-12-16T13:00:00Z",
+                "end_utc": "2026-12-16T18:00:00Z",
+                "topic": "Montaje de chasis, motores y sensores, programación y minitorneo interno.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "America/Port_of_Spain",
+                "start_utc": "2026-12-17T13:00:00Z",
+                "end_utc": "2026-12-17T18:00:00Z",
+                "topic": "Montaje de chasis, motores y sensores, programación y minitorneo interno.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "America/Port_of_Spain",
+                "start_utc": "2026-12-18T13:00:00Z",
+                "end_utc": "2026-12-18T18:00:00Z",
+                "topic": "Montaje de chasis, motores y sensores, programación y minitorneo interno.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-19",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "America/Port_of_Spain",
+                "start_utc": "2026-12-19T13:00:00Z",
+                "end_utc": "2026-12-19T18:00:00Z",
+                "topic": "Montaje de chasis, motores y sensores, programación y minitorneo interno.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "El turno de diciembre se publica por separado del grupo sabatino de CTS College."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 600,
+        "currency": "TTD",
+        "unit": "programme",
+        "label": "TTD 600 por 6 días. Confirmar qué incluye la factura en cuanto a kit y comida.",
+        "included": "Montaje de chasis, motores y sensores, programación y minitorneo interno.",
+        "extras": "Aún no se confirman el coste total ni las plazas.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No. Edad mínima publicada de 8 años."
+        }
+      },
+      "editorial_reason": "14–19 de diciembre de 2026, diariamente de 09:00 a 14:00 AST. La organización comunica la dirección exacta en Chaguanas después de inscribirse.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://edutechstemacademy.org/robotics-camp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1923-20261214-20261219-dec26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1924",
+      "slug": "sugar-bay-roblox-week-december-2026",
+      "provider": "Sugar Bay · Roblox Week",
+      "country": "Sudáfrica",
+      "iso": "ZAF",
+      "place": "Zinkwazi Beach · KwaZulu-Natal",
+      "age": "7–17 años. No se anuncia acceso al turno para edades inferiores.",
+      "programme": "La semana inspirada en Roblox incluye construcción, pistas, disfraces y juegos de equipo al aire libre. El programa consiste en actividades fuera de pantalla.",
+      "format": "boarding",
+      "formats": [
+        "boarding"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "9–16 de diciembre de 2026, Zinkwazi Beach. Confirmar logística familiar, alojamiento y admisión según el contrato del campamento.",
+        "sessions": [
+          [
+            "2026-12-09",
+            "2026-12-16"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "roblox-dec26",
+            "start": "2026-12-09",
+            "end": "2026-12-16",
+            "label": "9–16 de diciembre de 2026, Zinkwazi Beach. Confirmar logística familiar, alojamiento y admisión según el contrato del campamento.",
+            "price": "ZAR 12999 por el turno. Depósito ZAR 1000 para reservar. Karts opcionales ZAR 650.",
+            "source": "https://www.sugarbay.co.za/post/roblox-week-december-camp-2026",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 12999,
+        "currency": "ZAR",
+        "unit": "programme",
+        "label": "ZAR 12999 por el turno. Depósito ZAR 1000 para reservar. Karts opcionales ZAR 650.",
+        "included": "Alojamiento en cabaña del campamento. Los monitores pernoctan allí, con supervisión las 24 horas.",
+        "extras": "Aún no se confirman el coste total ni las plazas.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Alojamiento en cabaña del campamento. Los monitores pernoctan allí, con supervisión las 24 horas.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No. Edad mínima publicada de 7 años."
+        }
+      },
+      "editorial_reason": "9–16 de diciembre de 2026, Zinkwazi Beach. Confirmar logística familiar, alojamiento y admisión según el contrato del campamento.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sugarbay.co.za/post/roblox-week-december-camp-2026",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.sugarbay.co.za/2026-school-holiday-camp-dates",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.sugarbay.co.za/parent-faq",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "general"
+      ],
+      "programme_type": "residential",
+      "catalog_participation": "residential",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-09",
+          "end": "2026-12-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1924-20261209-20261216-roblox-dec26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1925",
+      "slug": "iworth-westlands-robotics-ai-november-2026",
+      "provider": "iWorth · Westlands Primary · Robotics & AI Bootcamp",
+      "country": "Kenia",
+      "iso": "KEN",
+      "place": "Westlands Primary · Nairobi",
+      "age": "Los grupos habituales de iWorth empiezan a los 6 años. Para Westlands Primary, confirmar aparte edad, vinculación escolar y admisión.",
+      "programme": "Montaje de robot, cableado de motores, programación ESP32, aplicaciones web e introducción a la IA.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Inicio publicado el 9 de noviembre de 2026 de 08:30 a 13:00 EAT. La descripción menciona una semana. No se publica el horario de los demás días.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 4000,
+        "currency": "KES",
+        "unit": "programme",
+        "label": "KES 4000 por menor. Kits y componentes incluidos. Confirmar duración, factura final y disponibilidad.",
+        "included": "Montaje de robot, cableado de motores, programación ESP32, aplicaciones web e introducción a la IA.",
+        "extras": "Aún no se confirman el coste total ni las plazas.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad y acceso según las bases de la edición elegida."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad y acceso según las bases de la edición elegida."
+        }
+      },
+      "editorial_reason": "Inicio publicado el 9 de noviembre de 2026 de 08:30 a 13:00 EAT. La descripción menciona una semana. No se publica el horario de los demás días.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.iworth.co.ke/events/robotics-ai-bootcamp-westlands-primary",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.iworth.co.ke/robotics",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.iworth.co.ke/events",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L764"
+      ],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -339038,7 +340056,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 262,
+  "version": 263,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -352273,7 +353291,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1919,
+      "total_dossiers": 1925,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -374278,6 +375296,56 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP1920",
+      "event_id": "CP1920-20261109-20261113-upperhill-20261109",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1920",
+      "event_id": "CP1920-20261123-20261127-upperhill-20261123",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1920",
+      "event_id": "CP1920-20261130-20261204-upperhill-20261130",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1920",
+      "event_id": "CP1920-20261207-20261211-upperhill-20261207",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1920",
+      "event_id": "CP1920-20261214-20261218-upperhill-20261214",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1921",
+      "event_id": "CP1921-20261102-20261127-nov26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1922",
+      "event_id": "CP1922-20261104-20261218-holiday26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1923",
+      "event_id": "CP1923-20261214-20261219-dec26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1924",
+      "event_id": "CP1924-20261209-20261216-roblox-dec26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1925",
+      "event_id": "L764",
+      "relation": "related_track_or_operator"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -378887,10 +379955,19 @@
     "CP1913-20261115-20261115-15-0930",
     "CP1913-20261115-20261115-15-1400",
     "CP1914-20261115-20261115-15-1300",
-    "CP1915-20261115-20261115-15-1500"
+    "CP1915-20261115-20261115-15-1500",
+    "CP1920-20261109-20261113-upperhill-20261109",
+    "CP1920-20261123-20261127-upperhill-20261123",
+    "CP1920-20261130-20261204-upperhill-20261130",
+    "CP1920-20261207-20261211-upperhill-20261207",
+    "CP1920-20261214-20261218-upperhill-20261214",
+    "CP1921-20261102-20261127-nov26",
+    "CP1922-20261104-20261218-holiday26",
+    "CP1923-20261214-20261219-dec26",
+    "CP1924-20261209-20261216-roblox-dec26"
   ],
   "integration": {
-    "generated_sessions": 4179,
+    "generated_sessions": 4188,
     "reused_legacy_events": 73,
     "seasonal_windows": 73,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

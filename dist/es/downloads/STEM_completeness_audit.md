@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10003; competiciones: 4535; eventos: 526; campamentos / programas: 4942. Perfiles de ligas y programas: 298. Fichas de exposiciones grandes y especializadas: 429 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10026; competiciones: 4546; eventos: 526; campamentos / programas: 4954. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 429 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros específicos para 225 de 249 países y territorios. Países auditados por completo: 0. El pase histórico v51 añadió 21 fichas y 3 perfiles. Se conservan las fichas anteriores.
+Hay registros específicos para 226 de 249 países y territorios. Países con auditoría completa: 0. Revisión de archivo v51: 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 39 | 1896 | 96 | 1242 |
+| América del Norte | 40 | 1896 | 96 | 1244 |
 | América del Sur | 14 | 414 | 37 | 199 |
 | Europa | 52 | 575 | 106 | 1425 |
-| África | 53 | 229 | 28 | 83 |
+| África | 53 | 234 | 28 | 92 |
 | Asia | 49 | 1129 | 131 | 1648 |
 | Oceanía | 20 | 160 | 29 | 331 |
 
-Fichas interregionales o mundiales sin continente único: 153. América del Norte incluye América Central y el Caribe. Las cifras muestran el inventario, no el porcentaje cubierto.
+Fichas interregionales o mundiales sin continente único: 160. América del Norte incluye Centroamérica y el Caribe. Las cifras corresponden al inventario de la base y no miden su grado de cobertura.
 
-VEX: 814 de 4535 fichas de competiciones (17.9%). El inventario tiene una proporción elevada de fichas de VEX.
+VEX: 814 de 4546 fichas de competiciones (17.9%). El inventario tiene una proporción elevada de fichas de VEX.
 
 ## Lo que queda
 
@@ -324,6 +324,7 @@ VEX: 814 de 4535 fichas de competiciones (17.9%). El inventario tiene una propor
 - **Main Team Coding Olympiad**: 10 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://main-team.org/documents/exam_schedule_2026_2027.pdf
 - **STEM Birds Australian Coding**: 7 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.stembirds.com.au/stem-birds-australian-coding-competition
 - **Code Battle UAE**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://codebattle.tech/
+- **Virtual Xplore League · Firefly IO**: 6 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://xploreleague.com/virtual/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -336,7 +337,7 @@ VEX: 814 de 4535 fichas de competiciones (17.9%). El inventario tiene una propor
 - **FIRST LEGO League · Bulgaria · local 2026/27**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.fll.bg/teams-registrationbioglow
 - **FIRST LEGO League · Lithuania · local 2026/27**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.lituanicax.lt/first-lego-league
 - **FIRST LEGO League · Slovakia · local 2026/27**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.fll.sk/main/sezona/bioglow
-- **MRC Global Olympiad / MRC Junior**: 2 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.he-ro.gr/minoan-robotsports-competition
+- **MRC Global Olympiad / MRC Junior**: 3 fichas, 1 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://www.he-ro.gr/minoan-robotsports-competition
 - **WRO Hungary · KIDS 6–10**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro.hu/kids_kategoria/
 - **Robotex Cyprus · local school levels**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robotex.org.cy/en/page/competitions-page/
 - **RoboChallenge Romania · international Kids / open robotics**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robochallenge.ro/about
