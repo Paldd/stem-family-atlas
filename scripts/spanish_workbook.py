@@ -59,7 +59,7 @@ HEADERS.update({
  'age_tags':'Etiquetas de edad','summary':'Resumen','categories':'Categorías','event_ids':'IDs de eventos',
  'legacy_ids':'IDs anteriores','route':'Itinerario','hardware':'Equipamiento','importance':'Importancia',
  'strengths':'Puntos fuertes','nuances':'Condiciones y matices','award':'Premio','slug':'Identificador estable',
- 'formats':'Formatos','confirmed_instruction_languages':'Idiomas de enseñanza confirmados','editorial_reason':'Motivo de selección',
+ 'formats':'Formatos','confirmed_instruction_languages':'Idiomas de enseñanza confirmados','materials_languages':'Idiomas de los materiales','editorial_reason':'Motivo de selección',
  'shortlist':'Selección familiar','related_event_ids':'Eventos relacionados','calendar_links':'Enlaces al calendario',
  'language_evidence_role':'Función lingüística verificada','previous_seasons':'Temporadas anteriores','operator_key':'Clave del operador',
  'booking_channel':'Canal de reserva','operator_identity_status':'Estado de identidad del operador',

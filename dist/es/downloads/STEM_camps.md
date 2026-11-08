@@ -82166,6 +82166,694 @@ Limitaciones: Matvey: La organización muestra solicitud y clase de prueba. Para
 Fuente: https://www.kidslifeskills.org/en/courses/ages-8-10-continuing-en
 Se ha comprobado: 2026-11-08
 
+### CP2078-20261128-20261219-infantil · La Térmica · Galilei Kids · Infantil · Infantil · 10:00–10:55 · 3 sábados · 2026-11-28–2026-12-19
+
+lugar: España · La Térmica · Av. de los Guindos, 48 · Málaga
+Fecha: 2026-11-28 — 2026-12-19
+edad: 4–5 años según el horario del grupo.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Descripción en español. Confirmar el idioma de la enseñanza en el grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: No cumple la edad publicada para este grupo. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/
+Se ha comprobado: 2026-11-08
+
+### CP2079-20261128-20261219-junior · La Térmica · Galilei Kids · Junior · Junior · 11:05–12:25 · 3 sábados · 2026-11-28–2026-12-19
+
+lugar: España · La Térmica · Av. de los Guindos, 48 · Málaga
+Fecha: 2026-11-28 — 2026-12-19
+edad: 6–8 años según el horario del grupo.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Descripción en español. Confirmar el idioma de la enseñanza en el grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/
+Se ha comprobado: 2026-11-08
+
+### CP2080-20261128-20261219-senior · La Térmica · Galilei Kids · Senior · Senior · 12:30–14:00 · 3 sábados · 2026-11-28–2026-12-19
+
+lugar: España · La Térmica · Av. de los Guindos, 48 · Málaga
+Fecha: 2026-11-28 — 2026-12-19
+edad: 9–14 años según el horario del grupo.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Descripción en español. Confirmar el idioma de la enseñanza en el grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/
+Se ha comprobado: 2026-11-08
+
+### CP2081-20261221-20261221-reindeer-lab-2026-12-21 · SUP Education · AI × STEAM Christmas · 4–6 · LEGO Robotics Reindeer & Fizzy Snowman Lab · 2026-12-21–2026-12-21
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-21 — 2026-12-21
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2081-20261228-20261228-reindeer-lab-2026-12-28 · SUP Education · AI × STEAM Christmas · 4–6 · LEGO Robotics Reindeer & Fizzy Snowman Lab · 2026-12-28–2026-12-28
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-28 — 2026-12-28
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2081-20261222-20261222-light-card-santa-2026-12-22 · SUP Education · AI × STEAM Christmas · 4–6 · Light-up Christmas Card & LEGO Robotics Santa · 2026-12-22–2026-12-22
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-22 — 2026-12-22
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2081-20261229-20261229-light-card-santa-2026-12-29 · SUP Education · AI × STEAM Christmas · 4–6 · Light-up Christmas Card & LEGO Robotics Santa · 2026-12-29–2026-12-29
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-29 — 2026-12-29
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2081-20261223-20261223-skier-stop-motion-2026-12-23 · SUP Education · AI × STEAM Christmas · 4–6 · LEGO Robotics Skier & Stop-motion Story · 2026-12-23–2026-12-23
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-23 — 2026-12-23
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2081-20261230-20261230-skier-stop-motion-2026-12-30 · SUP Education · AI × STEAM Christmas · 4–6 · LEGO Robotics Skier & Stop-motion Story · 2026-12-30–2026-12-30
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-30 — 2026-12-30
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2081-20261224-20261224-santa-lab-2026-12-24 · SUP Education · AI × STEAM Christmas · 4–6 · Santa’s Christmas Wonder Lab · 2026-12-24–2026-12-24
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-24 — 2026-12-24
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2081-20261231-20261231-santa-lab-2026-12-31 · SUP Education · AI × STEAM Christmas · 4–6 · Santa’s Christmas Wonder Lab · 2026-12-31–2026-12-31
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-31 — 2026-12-31
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2081-20261221-20261221-beyblade-science-2026-12-21 · SUP Education · AI × STEAM Christmas · 4–6 · LEGO Robotics Beyblade & Christmas Science Lab · 2026-12-21–2026-12-21
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-21 — 2026-12-21
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2081-20261228-20261228-beyblade-science-2026-12-28 · SUP Education · AI × STEAM Christmas · 4–6 · LEGO Robotics Beyblade & Christmas Science Lab · 2026-12-28–2026-12-28
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-28 — 2026-12-28
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2081-20261222-20261222-sleigh-game-2026-12-22 · SUP Education · AI × STEAM Christmas · 4–6 · LEGO Robotics Santa’s Sleigh & Gift Drop Game · 2026-12-22–2026-12-22
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-22 — 2026-12-22
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2081-20261229-20261229-sleigh-game-2026-12-29 · SUP Education · AI × STEAM Christmas · 4–6 · LEGO Robotics Santa’s Sleigh & Gift Drop Game · 2026-12-29–2026-12-29
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-29 — 2026-12-29
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2081-20261223-20261223-gift-factory-2026-12-23 · SUP Education · AI × STEAM Christmas · 4–6 · LEGO Robotics Santa’s Gift Factory · 2026-12-23–2026-12-23
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-23 — 2026-12-23
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2081-20261230-20261230-gift-factory-2026-12-30 · SUP Education · AI × STEAM Christmas · 4–6 · LEGO Robotics Santa’s Gift Factory · 2026-12-30–2026-12-30
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-30 — 2026-12-30
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2081-20261224-20261224-christmas-express-2026-12-24 · SUP Education · AI × STEAM Christmas · 4–6 · LEGO Robotics Christmas Express & Stop-motion Movie · 2026-12-24–2026-12-24
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-24 — 2026-12-24
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2081-20261231-20261231-christmas-express-2026-12-31 · SUP Education · AI × STEAM Christmas · 4–6 · LEGO Robotics Christmas Express & Stop-motion Movie · 2026-12-31–2026-12-31
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-31 — 2026-12-31
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2082-20261221-20261221-tree-clicker-2026-12-21 · SUP Education · AI × STEAM Christmas · 7+ · 3D Print Christmas Tree Clicker · 2026-12-21–2026-12-21
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-21 — 2026-12-21
+edad: 7+ años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2082-20261228-20261228-tree-clicker-2026-12-28 · SUP Education · AI × STEAM Christmas · 7+ · 3D Print Christmas Tree Clicker · 2026-12-28–2026-12-28
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-28 — 2026-12-28
+edad: 7+ años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2082-20261222-20261222-minecraft-2026-12-22 · SUP Education · AI × STEAM Christmas · 7+ · Minecraft Coding Adventure – Build a Gingerbread House! · 2026-12-22–2026-12-22
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-22 — 2026-12-22
+edad: 7+ años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2082-20261229-20261229-minecraft-2026-12-29 · SUP Education · AI × STEAM Christmas · 7+ · Minecraft Coding Adventure – Build a Gingerbread House! · 2026-12-29–2026-12-29
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-29 — 2026-12-29
+edad: 7+ años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2082-20261223-20261223-roblox-2026-12-23 · SUP Education · AI × STEAM Christmas · 7+ · Roblox Christmas Coding Adventure · 2026-12-23–2026-12-23
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-23 — 2026-12-23
+edad: 7+ años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2082-20261230-20261230-roblox-2026-12-30 · SUP Education · AI × STEAM Christmas · 7+ · Roblox Christmas Coding Adventure · 2026-12-30–2026-12-30
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-30 — 2026-12-30
+edad: 7+ años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2082-20261224-20261224-ai-delivery-2026-12-24 · SUP Education · AI × STEAM Christmas · 7+ · AI Santa’s Delivery Dash · 2026-12-24–2026-12-24
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-24 — 2026-12-24
+edad: 7+ años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2082-20261231-20261231-ai-delivery-2026-12-31 · SUP Education · AI × STEAM Christmas · 7+ · AI Santa’s Delivery Dash · 2026-12-31–2026-12-31
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-31 — 2026-12-31
+edad: 7+ años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2082-20261221-20261221-beyblade-ai-2026-12-21 · SUP Education · AI × STEAM Christmas · 7+ · LEGO Robotics Beyblade & AI Battle Cards · 2026-12-21–2026-12-21
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-21 — 2026-12-21
+edad: 7+ años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2082-20261228-20261228-beyblade-ai-2026-12-28 · SUP Education · AI × STEAM Christmas · 7+ · LEGO Robotics Beyblade & AI Battle Cards · 2026-12-28–2026-12-28
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-28 — 2026-12-28
+edad: 7+ años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2082-20261222-20261223-tech-charm-parts-1-and-2-2026-12-22 · SUP Education · AI × STEAM Christmas · 7+ · My Christmas Tech Charm (3D Print & AI) — Parts 1 & 2 · 2026-12-22–2026-12-23
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-22 — 2026-12-23
+edad: 7+ años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2082-20261229-20261230-tech-charm-parts-1-and-2-2026-12-29 · SUP Education · AI × STEAM Christmas · 7+ · My Christmas Tech Charm (3D Print & AI) — Parts 1 & 2 · 2026-12-29–2026-12-30
+
+lugar: RAE de Hong Kong (China) · Hong Kong
+Fecha: 2026-12-29 — 2026-12-30
+edad: 7+ años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sup-education.com/christmas-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP2083-20261215-20261217-three-days · STEM Den · December 2026 · Paquete completo · 3 días · 2026-12-15–2026-12-17
+
+lugar: Reino Unido · St John’s School · Potter Street Hill · Northwood
+Fecha: 2026-12-15 — 2026-12-17
+Edad: 5–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 65 GBP por día o 195 GBP por los 3 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Llevar almuerzo y tentempiés sin frutos secos, agua y calzado de recambio. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://stem-den.classforkids.io/camp/84
+Se ha comprobado: 2026-11-08
+
+### CP2083-20261215-20261215-one-day-2026-12-15 · STEM Den · December 2026 · Taller suelto · 1 día · 2026-12-15–2026-12-15
+
+lugar: Reino Unido · St John’s School · Potter Street Hill · Northwood
+Fecha: 2026-12-15 — 2026-12-15
+Edad: 5–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 65 GBP por 1 día. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Llevar almuerzo y tentempiés sin frutos secos, agua y calzado de recambio. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://stem-den.classforkids.io/camp/84
+Se ha comprobado: 2026-11-08
+
+### CP2083-20261216-20261216-one-day-2026-12-16 · STEM Den · December 2026 · Taller suelto · 1 día · 2026-12-16–2026-12-16
+
+lugar: Reino Unido · St John’s School · Potter Street Hill · Northwood
+Fecha: 2026-12-16 — 2026-12-16
+Edad: 5–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 65 GBP por 1 día. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Llevar almuerzo y tentempiés sin frutos secos, agua y calzado de recambio. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://stem-den.classforkids.io/camp/84
+Se ha comprobado: 2026-11-08
+
+### CP2083-20261217-20261217-one-day-2026-12-17 · STEM Den · December 2026 · Taller suelto · 1 día · 2026-12-17–2026-12-17
+
+lugar: Reino Unido · St John’s School · Potter Street Hill · Northwood
+Fecha: 2026-12-17 — 2026-12-17
+Edad: 5–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 65 GBP por 1 día. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Llevar almuerzo y tentempiés sin frutos secos, agua y calzado de recambio. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://stem-den.classforkids.io/camp/84
+Se ha comprobado: 2026-11-08
+
+### CP2084-20261212-20261212-morning · Science Oxford Centre · Toy Factory · 10:00–11:30 · 2026-12-12–2026-12-12
+
+lugar: Reino Unido · Science Oxford Centre · Oxford
+Fecha: 2026-12-12 — 2026-12-12
+edad: 5–9 años, con acompañante adulto obligatorio.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 15 GBP por menor con 1 adulto, con gastos de gestión. Adulto adicional: 5 GBP. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: El menor participa con una persona adulta. Hace falta entrada. Oscar: El menor participa con una persona adulta. Hace falta entrada. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://scienceoxford.com/whats-on/toy-factory-2/
+Se ha comprobado: 2026-11-08
+
+### CP2084-20261212-20261212-midday · Science Oxford Centre · Toy Factory · 12:30–14:00 · 2026-12-12–2026-12-12
+
+lugar: Reino Unido · Science Oxford Centre · Oxford
+Fecha: 2026-12-12 — 2026-12-12
+edad: 5–9 años, con acompañante adulto obligatorio.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 15 GBP por menor con 1 adulto, con gastos de gestión. Adulto adicional: 5 GBP. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: El menor participa con una persona adulta. Hace falta entrada. Oscar: El menor participa con una persona adulta. Hace falta entrada. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://scienceoxford.com/whats-on/toy-factory-2/
+Se ha comprobado: 2026-11-08
+
+### CP2084-20261212-20261212-afternoon · Science Oxford Centre · Toy Factory · 15:00–16:30 · 2026-12-12–2026-12-12
+
+lugar: Reino Unido · Science Oxford Centre · Oxford
+Fecha: 2026-12-12 — 2026-12-12
+edad: 5–9 años, con acompañante adulto obligatorio.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 15 GBP por menor con 1 adulto, con gastos de gestión. Adulto adicional: 5 GBP. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: El menor participa con una persona adulta. Hace falta entrada. Oscar: El menor participa con una persona adulta. Hace falta entrada. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://scienceoxford.com/whats-on/toy-factory-2/
+Se ha comprobado: 2026-11-08
+
+### CP2085-20261214-20261218-richer-christmas-science · Richer Education · Christmas Science · 2026-12-14 – 2026-12-18 · 09:00–15:00 · 2026-12-14–2026-12-18
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · London
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 4–8 años.
+Matvey: No ahora; la edad futura
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 650 GBP por 5 días según la tarifa de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.richereducation.co.uk/science-christmas-camps/
+Se ha comprobado: 2026-11-08
+
+### CP2086-20261214-20261218-richer-christmas-advanced · Richer Education · Christmas Advanced Science · 2026-12-14 – 2026-12-18 · 09:15–15:15 · 2026-12-14–2026-12-18
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · London
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–14 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 650 GBP por 5 días según la tarifa de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos: Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.richereducation.co.uk/advanced-science-christmas-camps/
+Se ha comprobado: 2026-11-08
+
+### CP2087-20261214-20261218-richer-nao · Richer Education · Christmas NAO V6 · 2026-12-14 – 2026-12-18 · 09:15–15:15 · 2026-12-14–2026-12-18
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · London
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 13*17 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 899 GBP por 5 días según la tarifa de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: No cumple la edad publicada para este grupo. Suplementos: Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.richereducation.co.uk/humanoid-robotics-christmas-camp/
+Se ha comprobado: 2026-11-08
+
+### CP2088-20270215-20270219-richer-feb-science · Richer Education · February Half-Term Science · 2027-02-15 – 2027-02-19 · 09:00–15:00 · 2027-02-15–2027-02-19
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 4–8 años.
+Matvey: No ahora; la edad futura
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 650 GBP por 5 días según la tarifa de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.richereducation.co.uk/science-february-half-term/
+Se ha comprobado: 2026-11-08
+
+### CP2089-20270215-20270219-richer-feb-nao · Richer Education · February Half-Term NAO V6 · 2027-02-15 – 2027-02-19 · 09:15–15:15 · 2027-02-15–2027-02-19
+
+lugar: Reino Unido · More House School · 22–24 Pont Street · London
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 9–17 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 899 GBP por 5 días según la tarifa de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos: Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.richereducation.co.uk/humanoid-robotics-february-half-term/
+Se ha comprobado: 2026-11-08
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

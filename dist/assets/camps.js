@@ -1,7 +1,7 @@
 'use strict';
-const languageModeLabels={camp_life:'Основной язык лагерной жизни; язык каждого курса уточнить',primary:'Основной язык курса подтверждён',bilingual:'Билингвальный технический курс',materials:'Язык самостоятельных учебных материалов',support:'Помощь на втором языке',language_lessons:'Отдельные языковые уроки',unconfirmed:'Язык технического курса уточнить',unclassified:'Роль языка ещё не проверена'};
+const languageModeLabels={camp_life:'Основной язык лагерной жизни; язык каждого курса уточнить',primary:'Основной язык курса подтверждён',bilingual:'Билингвальный технический курс',materials:'Язык описания или материалов',support:'Помощь на втором языке',language_lessons:'Отдельные языковые уроки',unconfirmed:'Язык технического курса уточнить',unclassified:'Роль языка ещё не проверена'};
 function campLanguageLabel(e){return e.materials_only?'Учебные материалы на '+(e.languages||[]).join(' / ')+' · самостоятельно':languageModeLabels[e.language_mode||'unclassified']}
-function campLanguageBadge(e){return e.block==='Лагеря'?`<span class="camp-language ${['primary','bilingual','materials'].includes(e.language_mode)?'confirmed':''}">${esc(campLanguageLabel(e))}</span>`:''}
+function campLanguageBadge(e){return e.block==='Лагеря'?`<span class="camp-language ${(e.materials_only||['primary','bilingual'].includes(e.language_mode))?'confirmed':''}">${esc(campLanguageLabel(e))}</span>`:''}
 function campLanguageDetail(e){return e.language_mode?`<span class="language-detail">${esc(campLanguageLabel(e))}${e.support_languages?.length?' · '+esc(e.support_languages.join(' / ')):''}</span>`:''}
 function drawCamps(a){
  const f=DATA.camp_focus,c=f.counts;

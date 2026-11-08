@@ -1,7 +1,7 @@
 'use strict';
-const languageModeLabels={camp_life:"la lengua principal de la vida campestre; el idioma de cada curso",primary:"el idioma principal del curso está confirmado",bilingual:"curso técnico bilingüe",materials:"lengua de los materiales de enseñanza independientes",support:"ayuda en otro idioma",language_lessons:"las clases de idiomas individuales",unconfirmed:"Idioma del curso técnico por confirmar",unclassified:"El papel del idioma aún no se ha comprobado."};
+const languageModeLabels={camp_life:"la lengua principal de la vida campestre; el idioma de cada curso",primary:"el idioma principal del curso está confirmado",bilingual:"curso técnico bilingüe",materials:"Idioma de la descripción o de los materiales",support:"ayuda en otro idioma",language_lessons:"las clases de idiomas individuales",unconfirmed:"Idioma del curso técnico por confirmar",unclassified:"El papel del idioma aún no se ha comprobado."};
 function campLanguageLabel(e){return e.materials_only?"de los materiales de enseñanza de "+(e.languages||[]).join(' / ')+" · por su cuenta":languageModeLabels[e.language_mode||'unclassified']}
-function campLanguageBadge(e){return e.block==="Campamentos"?`<span class="camp-language ${['primary','bilingual','materials'].includes(e.language_mode)?'confirmed':''}">${esc(campLanguageLabel(e))}</span>`:''}
+function campLanguageBadge(e){return e.block==="Campamentos"?`<span class="camp-language ${(e.materials_only||['primary','bilingual'].includes(e.language_mode))?'confirmed':''}">${esc(campLanguageLabel(e))}</span>`:''}
 function campLanguageDetail(e){return e.language_mode?`<span class="language-detail">${esc(campLanguageLabel(e))}${e.support_languages?.length?' · '+esc(e.support_languages.join(' / ')):''}</span>`:''}
 function drawCamps(a){
  const f=DATA.camp_focus,c=f.counts;

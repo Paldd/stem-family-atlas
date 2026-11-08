@@ -248,6 +248,9 @@ def integrate(catalog, dossier_report):
                 languages=list(p['confirmed_instruction_languages']),language_mode=p['language_evidence_role'] if p.get('language_evidence_role') in ['bilingual','language_lessons'] else 'camp_life' if p['slug']=='les-elfes' or p.get('language_evidence_role')=='camp_life' else 'primary' if p['confirmed_instruction_languages'] else 'unconfirmed',
                 language_certainty=p['language'],participation=mode,admission_kind=variant.get('admission_kind','open_application'),evidence_level='program',
                 date_scope=variant.get('date_scope','camp_session'),date_precision=variant.get('date_precision','published_session'),camp_dossier_slug=p['slug'],camp_programme_id=p['id'])
+            if p.get('language_evidence_role') == 'materials' and p.get('materials_languages'):
+                row['language_mode'] = 'materials'
+                row['languages'] = list(p['materials_languages'])
             if p.get('language_evidence_role') == 'support' and p.get('confirmed_support_languages'):
                 row['language_mode'] = 'support'
                 row['support_languages'] = list(p['confirmed_support_languages'])

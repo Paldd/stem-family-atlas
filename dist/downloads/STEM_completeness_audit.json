@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10572,
-    "competition_cards": 4723,
-    "event_cards": 638,
-    "camp_cards": 5211,
-    "league_profiles": 303,
-    "major_exhibition_cards": 539,
+    "cards": 10630,
+    "competition_cards": 4737,
+    "event_cards": 639,
+    "camp_cards": 5254,
+    "league_profiles": 304,
+    "major_exhibition_cards": 540,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3442,
+      "total": 3453,
       "countries_with_records": 41,
-      "competitions": 1939,
-      "events": 174,
-      "major_exhibitions": 133,
+      "competitions": 1949,
+      "events": 175,
+      "major_exhibitions": 134,
       "camps": 1329,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 2291,
+      "total": 2306,
       "countries_with_records": 55,
       "competitions": 621,
       "events": 157,
       "major_exhibitions": 132,
-      "camps": 1513,
+      "camps": 1528,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 3009,
+      "total": 3041,
       "countries_with_records": 50,
-      "competitions": 1171,
+      "competitions": 1175,
       "events": 168,
       "major_exhibitions": 155,
-      "camps": 1670,
+      "camps": 1698,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -7798,6 +7798,29 @@
       "new": false
     },
     {
+      "id": "robot-drone-league-us",
+      "name": "Robot Drone League · Urban Rescue 2026/27",
+      "group": "regional",
+      "event_ids": [
+        "C4725",
+        "C4726",
+        "C4727",
+        "C4728",
+        "C4729",
+        "C4730",
+        "C4731",
+        "C4732",
+        "C4733",
+        "C4734"
+      ],
+      "cards": 10,
+      "future_dated": 10,
+      "linked_card_count": 10,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.robotdroneleague.com/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -14720,6 +14743,17 @@
       "new": false
     },
     {
+      "id": "E639",
+      "name": "Robot Drone League · National Championship 2027 · Spectator visit",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-03-11",
+      "end": "2027-03-13",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.robotdroneleague.com/general-5",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -17137,8 +17171,8 @@
       }
     ],
     "counts": {
-      "records": 5211,
-      "holiday": 4759,
+      "records": 5254,
+      "holiday": 4768,
       "regular": 197,
       "self_paced_materials": 4,
       "boarding": 1038,

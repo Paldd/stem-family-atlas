@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2077,
+    "dossiers": 2089,
     "countries": 135,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 289,
-      "published_2027": 552,
+      "published_2027": 554,
       "partial_2027": 152,
       "next_unannounced": 436,
-      "published_2026": 405,
+      "published_2026": 415,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1
     },
-    "source_urls": 2982
+    "source_urls": 2995
   },
   "countries": [
     {
@@ -126,10 +126,6 @@
     {
       "country": "Burundi",
       "count": 1
-    },
-    {
-      "country": "Reino Unido",
-      "count": 19
     },
     {
       "country": "Hungría",
@@ -233,7 +229,7 @@
     },
     {
       "country": "España",
-      "count": 145
+      "count": 148
     },
     {
       "country": "Italia",
@@ -269,7 +265,7 @@
     },
     {
       "country": "RAE de Hong Kong (China)",
-      "count": 57
+      "count": 59
     },
     {
       "country": "Islas Cocos",
@@ -458,6 +454,10 @@
     {
       "country": "Singapur",
       "count": 187
+    },
+    {
+      "country": "Reino Unido",
+      "count": 26
     },
     {
       "country": "Estados Unidos",
@@ -356310,6 +356310,3056 @@
         "L870"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP2078",
+      "slug": "la-termica-galilei-kids-infantil",
+      "provider": "La Térmica · Galilei Kids · Infantil",
+      "country": "España",
+      "iso": "ESP",
+      "place": "La Térmica · Av. de los Guindos, 48 · Málaga",
+      "age": "4–5 años según el horario del grupo.",
+      "programme": "Ciclo de robótica, programación e IA. El programa general enumera LEGO, BEE-BOT, mBot, Arduino, Scratch, Machine Learning for Kids y proyectos de videojuegos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en español. Confirmar el idioma de la enseñanza en el grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "3 clases en sábado: 28 de noviembre, 12 y 19 de diciembre de 2026. Hay una pausa entre la primera y la última clase.",
+        "sessions": [
+          [
+            "2026-11-28",
+            "2026-12-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "infantil",
+            "start": "2026-11-28",
+            "end": "2026-12-19",
+            "label": "Infantil · 10:00–10:55 · 3 sábados",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-28",
+                "start_time": "10:00",
+                "end_time": "10:55",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2026-11-28T09:00:00Z",
+                "end_utc": "2026-11-28T09:55:00Z",
+                "topic": "Infantil · 10:00–10:55 · 3 sábados",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-12",
+                "start_time": "10:00",
+                "end_time": "10:55",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2026-12-12T09:00:00Z",
+                "end_utc": "2026-12-12T09:55:00Z",
+                "topic": "Infantil · 10:00–10:55 · 3 sábados",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-19",
+                "start_time": "10:00",
+                "end_time": "10:55",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2026-12-19T09:00:00Z",
+                "end_utc": "2026-12-19T09:55:00Z",
+                "topic": "Infantil · 10:00–10:55 · 3 sábados",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "session",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad publicada para este grupo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad publicada para este grupo."
+        }
+      },
+      "editorial_reason": "Los grupos son consecutivos en el mismo centro. La organización especifica un intervalo por grupo. La introducción dice 5–13 años en general, así que conviene confirmar el límite exacto al inscribirse.",
+      "shortlist": [],
+      "questions": [
+        "Los grupos son consecutivos en el mismo centro. La organización especifica un intervalo por grupo. La introducción dice 5–13 años en general, así que conviene confirmar el límite exacto al inscribirse.",
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [],
+      "materials_languages": [
+        "ES"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-11-28",
+          "end": "2026-12-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2078-20261128-20261219-infantil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2079",
+      "slug": "la-termica-galilei-kids-junior",
+      "provider": "La Térmica · Galilei Kids · Junior",
+      "country": "España",
+      "iso": "ESP",
+      "place": "La Térmica · Av. de los Guindos, 48 · Málaga",
+      "age": "6–8 años según el horario del grupo.",
+      "programme": "Ciclo de robótica, programación e IA. El programa general enumera LEGO, BEE-BOT, mBot, Arduino, Scratch, Machine Learning for Kids y proyectos de videojuegos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en español. Confirmar el idioma de la enseñanza en el grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "3 clases en sábado: 28 de noviembre, 12 y 19 de diciembre de 2026. Hay una pausa entre la primera y la última clase.",
+        "sessions": [
+          [
+            "2026-11-28",
+            "2026-12-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "junior",
+            "start": "2026-11-28",
+            "end": "2026-12-19",
+            "label": "Junior · 11:05–12:25 · 3 sábados",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-28",
+                "start_time": "11:05",
+                "end_time": "12:25",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2026-11-28T10:05:00Z",
+                "end_utc": "2026-11-28T11:25:00Z",
+                "topic": "Junior · 11:05–12:25 · 3 sábados",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-12",
+                "start_time": "11:05",
+                "end_time": "12:25",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2026-12-12T10:05:00Z",
+                "end_utc": "2026-12-12T11:25:00Z",
+                "topic": "Junior · 11:05–12:25 · 3 sábados",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-19",
+                "start_time": "11:05",
+                "end_time": "12:25",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2026-12-19T10:05:00Z",
+                "end_utc": "2026-12-19T11:25:00Z",
+                "topic": "Junior · 11:05–12:25 · 3 sábados",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "session",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad publicada para este grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        }
+      },
+      "editorial_reason": "Los grupos son consecutivos en el mismo centro. La organización especifica un intervalo por grupo. La introducción dice 5–13 años en general, así que conviene confirmar el límite exacto al inscribirse.",
+      "shortlist": [],
+      "questions": [
+        "Los grupos son consecutivos en el mismo centro. La organización especifica un intervalo por grupo. La introducción dice 5–13 años en general, así que conviene confirmar el límite exacto al inscribirse.",
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [],
+      "materials_languages": [
+        "ES"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-11-28",
+          "end": "2026-12-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2079-20261128-20261219-junior"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2080",
+      "slug": "la-termica-galilei-kids-senior",
+      "provider": "La Térmica · Galilei Kids · Senior",
+      "country": "España",
+      "iso": "ESP",
+      "place": "La Térmica · Av. de los Guindos, 48 · Málaga",
+      "age": "9–14 años según el horario del grupo.",
+      "programme": "Ciclo de robótica, programación e IA. El programa general enumera LEGO, BEE-BOT, mBot, Arduino, Scratch, Machine Learning for Kids y proyectos de videojuegos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en español. Confirmar el idioma de la enseñanza en el grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "3 clases en sábado: 28 de noviembre, 12 y 19 de diciembre de 2026. Hay una pausa entre la primera y la última clase.",
+        "sessions": [
+          [
+            "2026-11-28",
+            "2026-12-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "senior",
+            "start": "2026-11-28",
+            "end": "2026-12-19",
+            "label": "Senior · 12:30–14:00 · 3 sábados",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-28",
+                "start_time": "12:30",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2026-11-28T11:30:00Z",
+                "end_utc": "2026-11-28T13:00:00Z",
+                "topic": "Senior · 12:30–14:00 · 3 sábados",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-12",
+                "start_time": "12:30",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2026-12-12T11:30:00Z",
+                "end_utc": "2026-12-12T13:00:00Z",
+                "topic": "Senior · 12:30–14:00 · 3 sábados",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-19",
+                "start_time": "12:30",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2026-12-19T11:30:00Z",
+                "end_utc": "2026-12-19T13:00:00Z",
+                "topic": "Senior · 12:30–14:00 · 3 sábados",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "session",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad publicada para este grupo."
+        }
+      },
+      "editorial_reason": "Los grupos son consecutivos en el mismo centro. La organización especifica un intervalo por grupo. La introducción dice 5–13 años en general, así que conviene confirmar el límite exacto al inscribirse.",
+      "shortlist": [],
+      "questions": [
+        "Los grupos son consecutivos en el mismo centro. La organización especifica un intervalo por grupo. La introducción dice 5–13 años en general, así que conviene confirmar el límite exacto al inscribirse.",
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [],
+      "materials_languages": [
+        "ES"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-11-28",
+          "end": "2026-12-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2080-20261128-20261219-senior"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2081",
+      "slug": "sup-education-hong-kong-christmas-ages-4-6",
+      "provider": "SUP Education · AI × STEAM Christmas · 4–6",
+      "country": "RAE de Hong Kong (China)",
+      "iso": "HKG",
+      "place": "Hong Kong",
+      "age": "4–6 años.",
+      "programme": "Talleres de dos horas de robótica, programación de videojuegos, IA e impresión 3D. El contenido depende de la franja de edad elegida.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "21–24 y 28–31 de diciembre de 2026. Solo se muestran talleres con fecha y hora publicadas.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "reindeer-lab-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "LEGO Robotics Reindeer & Fizzy Snowman Lab",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-21T02:00:00Z",
+                "end_utc": "2026-12-21T04:00:00Z",
+                "topic": "LEGO Robotics Reindeer & Fizzy Snowman Lab",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "robotics",
+              "science"
+            ]
+          },
+          {
+            "variant_key": "reindeer-lab-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "LEGO Robotics Reindeer & Fizzy Snowman Lab",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-28T02:00:00Z",
+                "end_utc": "2026-12-28T04:00:00Z",
+                "topic": "LEGO Robotics Reindeer & Fizzy Snowman Lab",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "robotics",
+              "science"
+            ]
+          },
+          {
+            "variant_key": "light-card-santa-2026-12-22",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Light-up Christmas Card & LEGO Robotics Santa",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-22T02:00:00Z",
+                "end_utc": "2026-12-22T04:00:00Z",
+                "topic": "Light-up Christmas Card & LEGO Robotics Santa",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "robotics",
+              "electronics"
+            ]
+          },
+          {
+            "variant_key": "light-card-santa-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "Light-up Christmas Card & LEGO Robotics Santa",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-29T02:00:00Z",
+                "end_utc": "2026-12-29T04:00:00Z",
+                "topic": "Light-up Christmas Card & LEGO Robotics Santa",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "robotics",
+              "electronics"
+            ]
+          },
+          {
+            "variant_key": "skier-stop-motion-2026-12-23",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "LEGO Robotics Skier & Stop-motion Story",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-23T02:00:00Z",
+                "end_utc": "2026-12-23T04:00:00Z",
+                "topic": "LEGO Robotics Skier & Stop-motion Story",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "robotics",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "skier-stop-motion-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "LEGO Robotics Skier & Stop-motion Story",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-30T02:00:00Z",
+                "end_utc": "2026-12-30T04:00:00Z",
+                "topic": "LEGO Robotics Skier & Stop-motion Story",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "robotics",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "santa-lab-2026-12-24",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "Santa’s Christmas Wonder Lab",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-24T02:00:00Z",
+                "end_utc": "2026-12-24T04:00:00Z",
+                "topic": "Santa’s Christmas Wonder Lab",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "engineering",
+              "science",
+              "coding"
+            ]
+          },
+          {
+            "variant_key": "santa-lab-2026-12-31",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "Santa’s Christmas Wonder Lab",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-31T02:00:00Z",
+                "end_utc": "2026-12-31T04:00:00Z",
+                "topic": "Santa’s Christmas Wonder Lab",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "engineering",
+              "science",
+              "coding"
+            ]
+          },
+          {
+            "variant_key": "beyblade-science-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "LEGO Robotics Beyblade & Christmas Science Lab",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-21T06:00:00Z",
+                "end_utc": "2026-12-21T08:00:00Z",
+                "topic": "LEGO Robotics Beyblade & Christmas Science Lab",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "robotics",
+              "science"
+            ]
+          },
+          {
+            "variant_key": "beyblade-science-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "LEGO Robotics Beyblade & Christmas Science Lab",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-28T06:00:00Z",
+                "end_utc": "2026-12-28T08:00:00Z",
+                "topic": "LEGO Robotics Beyblade & Christmas Science Lab",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "robotics",
+              "science"
+            ]
+          },
+          {
+            "variant_key": "sleigh-game-2026-12-22",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "LEGO Robotics Santa’s Sleigh & Gift Drop Game",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-22T06:00:00Z",
+                "end_utc": "2026-12-22T08:00:00Z",
+                "topic": "LEGO Robotics Santa’s Sleigh & Gift Drop Game",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "robotics",
+              "games"
+            ]
+          },
+          {
+            "variant_key": "sleigh-game-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "LEGO Robotics Santa’s Sleigh & Gift Drop Game",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-29T06:00:00Z",
+                "end_utc": "2026-12-29T08:00:00Z",
+                "topic": "LEGO Robotics Santa’s Sleigh & Gift Drop Game",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "robotics",
+              "games"
+            ]
+          },
+          {
+            "variant_key": "gift-factory-2026-12-23",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "LEGO Robotics Santa’s Gift Factory",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-23T06:00:00Z",
+                "end_utc": "2026-12-23T08:00:00Z",
+                "topic": "LEGO Robotics Santa’s Gift Factory",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "robotics",
+              "engineering"
+            ]
+          },
+          {
+            "variant_key": "gift-factory-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "LEGO Robotics Santa’s Gift Factory",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-30T06:00:00Z",
+                "end_utc": "2026-12-30T08:00:00Z",
+                "topic": "LEGO Robotics Santa’s Gift Factory",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "robotics",
+              "engineering"
+            ]
+          },
+          {
+            "variant_key": "christmas-express-2026-12-24",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "LEGO Robotics Christmas Express & Stop-motion Movie",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-24T06:00:00Z",
+                "end_utc": "2026-12-24T08:00:00Z",
+                "topic": "LEGO Robotics Christmas Express & Stop-motion Movie",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "robotics",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "christmas-express-2026-12-31",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "LEGO Robotics Christmas Express & Stop-motion Movie",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-31T06:00:00Z",
+                "end_utc": "2026-12-31T08:00:00Z",
+                "topic": "LEGO Robotics Christmas Express & Stop-motion Movie",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "robotics",
+              "technology"
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "session",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad publicada para este grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        }
+      },
+      "editorial_reason": "Hay talleres sueltos y un paquete diurno con pausa para comer. Antes de inscribirse, confirmar sede, idioma del grupo, comida, equipo y precio total.",
+      "shortlist": [],
+      "questions": [
+        "Hay talleres sueltos y un paquete diurno con pausa para comer. Antes de inscribirse, confirmar sede, idioma del grupo, comida, equipo y precio total.",
+        "Paquete diurno de 10:00–16:00: 2 talleres, pausa para comer y juegos de mesa. Confirmar las condiciones del almuerzo."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sup-education.com/christmas-camp-2026",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.sup-education.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.sup-education.com/about-us/contact-us",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2081-20261221-20261221-reindeer-lab-2026-12-21"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2081-20261228-20261228-reindeer-lab-2026-12-28"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2081-20261222-20261222-light-card-santa-2026-12-22"
+          ]
+        },
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2081-20261229-20261229-light-card-santa-2026-12-29"
+          ]
+        },
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2081-20261223-20261223-skier-stop-motion-2026-12-23"
+          ]
+        },
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2081-20261230-20261230-skier-stop-motion-2026-12-30"
+          ]
+        },
+        {
+          "start": "2026-12-24",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2081-20261224-20261224-santa-lab-2026-12-24"
+          ]
+        },
+        {
+          "start": "2026-12-31",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2081-20261231-20261231-santa-lab-2026-12-31"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2081-20261221-20261221-beyblade-science-2026-12-21"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2081-20261228-20261228-beyblade-science-2026-12-28"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2081-20261222-20261222-sleigh-game-2026-12-22"
+          ]
+        },
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2081-20261229-20261229-sleigh-game-2026-12-29"
+          ]
+        },
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2081-20261223-20261223-gift-factory-2026-12-23"
+          ]
+        },
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2081-20261230-20261230-gift-factory-2026-12-30"
+          ]
+        },
+        {
+          "start": "2026-12-24",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2081-20261224-20261224-christmas-express-2026-12-24"
+          ]
+        },
+        {
+          "start": "2026-12-31",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2081-20261231-20261231-christmas-express-2026-12-31"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2082",
+      "slug": "sup-education-hong-kong-christmas-ages-7-up",
+      "provider": "SUP Education · AI × STEAM Christmas · 7+",
+      "country": "RAE de Hong Kong (China)",
+      "iso": "HKG",
+      "place": "Hong Kong",
+      "age": "7+ años.",
+      "programme": "Talleres de dos horas de robótica, programación de videojuegos, IA e impresión 3D. El contenido depende de la franja de edad elegida.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "21–24 y 28–31 de diciembre de 2026. Solo se muestran talleres con fecha y hora publicadas.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "tree-clicker-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "3D Print Christmas Tree Clicker",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-21T02:00:00Z",
+                "end_utc": "2026-12-21T04:00:00Z",
+                "topic": "3D Print Christmas Tree Clicker",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "tree-clicker-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "3D Print Christmas Tree Clicker",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-28T02:00:00Z",
+                "end_utc": "2026-12-28T04:00:00Z",
+                "topic": "3D Print Christmas Tree Clicker",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "minecraft-2026-12-22",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Minecraft Coding Adventure – Build a Gingerbread House!",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-22T02:00:00Z",
+                "end_utc": "2026-12-22T04:00:00Z",
+                "topic": "Minecraft Coding Adventure – Build a Gingerbread House!",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "games",
+              "coding"
+            ]
+          },
+          {
+            "variant_key": "minecraft-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "Minecraft Coding Adventure – Build a Gingerbread House!",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-29T02:00:00Z",
+                "end_utc": "2026-12-29T04:00:00Z",
+                "topic": "Minecraft Coding Adventure – Build a Gingerbread House!",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "games",
+              "coding"
+            ]
+          },
+          {
+            "variant_key": "roblox-2026-12-23",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "Roblox Christmas Coding Adventure",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-23T02:00:00Z",
+                "end_utc": "2026-12-23T04:00:00Z",
+                "topic": "Roblox Christmas Coding Adventure",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "games",
+              "coding"
+            ]
+          },
+          {
+            "variant_key": "roblox-2026-12-30",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "Roblox Christmas Coding Adventure",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-30T02:00:00Z",
+                "end_utc": "2026-12-30T04:00:00Z",
+                "topic": "Roblox Christmas Coding Adventure",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "games",
+              "coding"
+            ]
+          },
+          {
+            "variant_key": "ai-delivery-2026-12-24",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "AI Santa’s Delivery Dash",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-24T02:00:00Z",
+                "end_utc": "2026-12-24T04:00:00Z",
+                "topic": "AI Santa’s Delivery Dash",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "ai",
+              "games"
+            ]
+          },
+          {
+            "variant_key": "ai-delivery-2026-12-31",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "AI Santa’s Delivery Dash",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-31T02:00:00Z",
+                "end_utc": "2026-12-31T04:00:00Z",
+                "topic": "AI Santa’s Delivery Dash",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "ai",
+              "games"
+            ]
+          },
+          {
+            "variant_key": "beyblade-ai-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "LEGO Robotics Beyblade & AI Battle Cards",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-21T06:00:00Z",
+                "end_utc": "2026-12-21T08:00:00Z",
+                "topic": "LEGO Robotics Beyblade & AI Battle Cards",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "robotics",
+              "ai"
+            ]
+          },
+          {
+            "variant_key": "beyblade-ai-2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "LEGO Robotics Beyblade & AI Battle Cards",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-28T06:00:00Z",
+                "end_utc": "2026-12-28T08:00:00Z",
+                "topic": "LEGO Robotics Beyblade & AI Battle Cards",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "catalog_themes": [
+              "robotics",
+              "ai"
+            ]
+          },
+          {
+            "variant_key": "tech-charm-parts-1-and-2-2026-12-22",
+            "start": "2026-12-22",
+            "end": "2026-12-23",
+            "label": "My Christmas Tech Charm (3D Print & AI) — Parts 1 & 2",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-22T06:00:00Z",
+                "end_utc": "2026-12-22T08:00:00Z",
+                "topic": "My Christmas Tech Charm (3D Print & AI) — Parts 1 & 2",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-23T06:00:00Z",
+                "end_utc": "2026-12-23T08:00:00Z",
+                "topic": "My Christmas Tech Charm (3D Print & AI) — Parts 1 & 2",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "questions": [
+              "Dos partes del taller. Confirmar si se puede reservar una sola parte y el precio.",
+              "Hay talleres sueltos y un paquete diurno con pausa para comer. Antes de inscribirse, confirmar sede, idioma del grupo, comida, equipo y precio total."
+            ],
+            "catalog_themes": [
+              "ai",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "tech-charm-parts-1-and-2-2026-12-29",
+            "start": "2026-12-29",
+            "end": "2026-12-30",
+            "label": "My Christmas Tech Charm (3D Print & AI) — Parts 1 & 2",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.sup-education.com/christmas-camp-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-29T06:00:00Z",
+                "end_utc": "2026-12-29T08:00:00Z",
+                "topic": "My Christmas Tech Charm (3D Print & AI) — Parts 1 & 2",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-30T06:00:00Z",
+                "end_utc": "2026-12-30T08:00:00Z",
+                "topic": "My Christmas Tech Charm (3D Print & AI) — Parts 1 & 2",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person",
+            "questions": [
+              "Dos partes del taller. Confirmar si se puede reservar una sola parte y el precio.",
+              "Hay talleres sueltos y un paquete diurno con pausa para comer. Antes de inscribirse, confirmar sede, idioma del grupo, comida, equipo y precio total."
+            ],
+            "catalog_themes": [
+              "ai",
+              "engineering",
+              "technology"
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "session",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad publicada para este grupo."
+        }
+      },
+      "editorial_reason": "Hay talleres sueltos y un paquete diurno con pausa para comer. Antes de inscribirse, confirmar sede, idioma del grupo, comida, equipo y precio total.",
+      "shortlist": [],
+      "questions": [
+        "Hay talleres sueltos y un paquete diurno con pausa para comer. Antes de inscribirse, confirmar sede, idioma del grupo, comida, equipo y precio total.",
+        "Paquete diurno de 10:00–16:00: 2 talleres, pausa para comer y juegos de mesa. Confirmar las condiciones del almuerzo."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sup-education.com/christmas-camp-2026",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.sup-education.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.sup-education.com/about-us/contact-us",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2082-20261221-20261221-tree-clicker-2026-12-21"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2082-20261228-20261228-tree-clicker-2026-12-28"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2082-20261222-20261222-minecraft-2026-12-22"
+          ]
+        },
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2082-20261229-20261229-minecraft-2026-12-29"
+          ]
+        },
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2082-20261223-20261223-roblox-2026-12-23"
+          ]
+        },
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2082-20261230-20261230-roblox-2026-12-30"
+          ]
+        },
+        {
+          "start": "2026-12-24",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2082-20261224-20261224-ai-delivery-2026-12-24"
+          ]
+        },
+        {
+          "start": "2026-12-31",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2082-20261231-20261231-ai-delivery-2026-12-31"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2082-20261221-20261221-beyblade-ai-2026-12-21"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2082-20261228-20261228-beyblade-ai-2026-12-28"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2082-20261222-20261223-tech-charm-parts-1-and-2-2026-12-22"
+          ]
+        },
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2082-20261229-20261230-tech-charm-parts-1-and-2-2026-12-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2083",
+      "slug": "stem-den-northwood-december",
+      "provider": "STEM Den · December 2026",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "St John’s School · Potter Street Hill · Northwood",
+      "age": "5–13 años.",
+      "programme": "Retos de ingeniería, ciencia y construcción en los talleres D&T y Art de St John’s.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "15–17 de diciembre de 2026, de 09:00 a 16:00.",
+        "sessions": [
+          [
+            "2026-12-15",
+            "2026-12-17"
+          ],
+          [
+            "2026-12-15",
+            "2026-12-15"
+          ],
+          [
+            "2026-12-16",
+            "2026-12-16"
+          ],
+          [
+            "2026-12-17",
+            "2026-12-17"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "three-days",
+            "start": "2026-12-15",
+            "end": "2026-12-17",
+            "label": "Paquete completo · 3 días",
+            "price": "65 GBP por día o 195 GBP por los 3 días.",
+            "source": "https://stem-den.classforkids.io/camp/84",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-15T09:00:00Z",
+                "end_utc": "2026-12-15T16:00:00Z",
+                "topic": "Paquete completo · 3 días",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-16T09:00:00Z",
+                "end_utc": "2026-12-16T16:00:00Z",
+                "topic": "Paquete completo · 3 días",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-17T09:00:00Z",
+                "end_utc": "2026-12-17T16:00:00Z",
+                "topic": "Paquete completo · 3 días",
+                "ical_timed": true
+              }
+            ],
+            "extras": "Llevar almuerzo y tentempiés sin frutos secos, agua y calzado de recambio.",
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "one-day-2026-12-15",
+            "start": "2026-12-15",
+            "end": "2026-12-15",
+            "label": "Taller suelto · 1 día",
+            "price": "65 GBP por 1 día.",
+            "source": "https://stem-den.classforkids.io/camp/84",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-15T09:00:00Z",
+                "end_utc": "2026-12-15T16:00:00Z",
+                "topic": "Taller suelto · 1 día",
+                "ical_timed": true
+              }
+            ],
+            "extras": "Llevar almuerzo y tentempiés sin frutos secos, agua y calzado de recambio.",
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "one-day-2026-12-16",
+            "start": "2026-12-16",
+            "end": "2026-12-16",
+            "label": "Taller suelto · 1 día",
+            "price": "65 GBP por 1 día.",
+            "source": "https://stem-den.classforkids.io/camp/84",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-16T09:00:00Z",
+                "end_utc": "2026-12-16T16:00:00Z",
+                "topic": "Taller suelto · 1 día",
+                "ical_timed": true
+              }
+            ],
+            "extras": "Llevar almuerzo y tentempiés sin frutos secos, agua y calzado de recambio.",
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "one-day-2026-12-17",
+            "start": "2026-12-17",
+            "end": "2026-12-17",
+            "label": "Taller suelto · 1 día",
+            "price": "65 GBP por 1 día.",
+            "source": "https://stem-den.classforkids.io/camp/84",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-17T09:00:00Z",
+                "end_utc": "2026-12-17T16:00:00Z",
+                "topic": "Taller suelto · 1 día",
+                "ical_timed": true
+              }
+            ],
+            "extras": "Llevar almuerzo y tentempiés sin frutos secos, agua y calzado de recambio.",
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 195,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "65 GBP por día o 195 GBP por los 3 días.",
+        "included": "",
+        "extras": "Llevar almuerzo y tentempiés sin frutos secos, agua y calzado de recambio.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        }
+      },
+      "editorial_reason": "El formulario oficial mostraba plazas en la revisión. Muestra dos códigos postales para la misma dirección en Potter Street Hill. Confirmar con la organización el punto exacto de acceso.",
+      "shortlist": [],
+      "questions": [
+        "El formulario oficial mostraba plazas en la revisión. Muestra dos códigos postales para la misma dirección en Potter Street Hill. Confirmar con la organización el punto exacto de acceso.",
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://stem-den.classforkids.io/camp/84",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-12-15",
+          "end": "2026-12-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2083-20261215-20261217-three-days"
+          ]
+        },
+        {
+          "start": "2026-12-15",
+          "end": "2026-12-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2083-20261215-20261215-one-day-2026-12-15"
+          ]
+        },
+        {
+          "start": "2026-12-16",
+          "end": "2026-12-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2083-20261216-20261216-one-day-2026-12-16"
+          ]
+        },
+        {
+          "start": "2026-12-17",
+          "end": "2026-12-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2083-20261217-20261217-one-day-2026-12-17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2084",
+      "slug": "science-oxford-toy-factory-december",
+      "provider": "Science Oxford Centre · Toy Factory",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "Science Oxford Centre · Oxford",
+      "age": "5–9 años, con acompañante adulto obligatorio.",
+      "programme": "Taller familiar de ingeniería. El menor construye juguetes y prueba el equilibrio y el movimiento junto con una persona adulta.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "12 de diciembre de 2026 · 3 sesiones a elegir",
+        "sessions": [
+          [
+            "2026-12-12",
+            "2026-12-12"
+          ],
+          [
+            "2026-12-12",
+            "2026-12-12"
+          ],
+          [
+            "2026-12-12",
+            "2026-12-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "morning",
+            "start": "2026-12-12",
+            "end": "2026-12-12",
+            "label": "10:00–11:30",
+            "price": "15 GBP por menor con 1 adulto, con gastos de gestión. Adulto adicional: 5 GBP.",
+            "source": "https://scienceoxford.com/whats-on/toy-factory-2/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-12",
+                "start_time": "10:00",
+                "end_time": "11:30",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-12T10:00:00Z",
+                "end_utc": "2026-12-12T11:30:00Z",
+                "topic": "10:00–11:30",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "midday",
+            "start": "2026-12-12",
+            "end": "2026-12-12",
+            "label": "12:30–14:00",
+            "price": "15 GBP por menor con 1 adulto, con gastos de gestión. Adulto adicional: 5 GBP.",
+            "source": "https://scienceoxford.com/whats-on/toy-factory-2/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-12",
+                "start_time": "12:30",
+                "end_time": "14:00",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-12T12:30:00Z",
+                "end_utc": "2026-12-12T14:00:00Z",
+                "topic": "12:30–14:00",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "afternoon",
+            "start": "2026-12-12",
+            "end": "2026-12-12",
+            "label": "15:00–16:30",
+            "price": "15 GBP por menor con 1 adulto, con gastos de gestión. Adulto adicional: 5 GBP.",
+            "source": "https://scienceoxford.com/whats-on/toy-factory-2/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-12",
+                "start_time": "15:00",
+                "end_time": "16:30",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-12T15:00:00Z",
+                "end_utc": "2026-12-12T16:30:00Z",
+                "topic": "15:00–16:30",
+                "ical_timed": true
+              }
+            ],
+            "extras": "",
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 15,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "15 GBP por menor con 1 adulto, con gastos de gestión. Adulto adicional: 5 GBP.",
+        "included": "90 minutos. Incluye las zonas exteriores del centro. Otra persona adulta o un segundo menor necesitan entrada aparte.",
+        "extras": "",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "El menor participa con una persona adulta. Hace falta entrada."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "El menor participa con una persona adulta. Hace falta entrada."
+        }
+      },
+      "editorial_reason": "12 de diciembre de 2026 · 3 sesiones a elegir",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://scienceoxford.com/whats-on/toy-factory-2/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://scienceoxford.com/saturday-clubs/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "science"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-12-12",
+          "end": "2026-12-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2084-20261212-20261212-morning"
+          ]
+        },
+        {
+          "start": "2026-12-12",
+          "end": "2026-12-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2084-20261212-20261212-midday"
+          ]
+        },
+        {
+          "start": "2026-12-12",
+          "end": "2026-12-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2084-20261212-20261212-afternoon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2085",
+      "slug": "richer-christmas-science",
+      "provider": "Richer Education · Christmas Science",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "More House School · 22–24 Pont Street · London",
+      "age": "4–8 años.",
+      "programme": "Experimentos científicos y actividades prácticas con docentes de STEAM.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "2026-12-14 – 2026-12-18 · 09:00–15:00",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "richer-christmas-science",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "2026-12-14 – 2026-12-18 · 09:00–15:00",
+            "price": "650 GBP por 5 días según la tarifa de la organización.",
+            "source": "https://www.richereducation.co.uk/science-christmas-camps/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-14T09:00:00Z",
+                "end_utc": "2026-12-14T15:00:00Z",
+                "topic": "2026-12-14 – 2026-12-18 · 09:00–15:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-15T09:00:00Z",
+                "end_utc": "2026-12-15T15:00:00Z",
+                "topic": "2026-12-14 – 2026-12-18 · 09:00–15:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-16T09:00:00Z",
+                "end_utc": "2026-12-16T15:00:00Z",
+                "topic": "2026-12-14 – 2026-12-18 · 09:00–15:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-17T09:00:00Z",
+                "end_utc": "2026-12-17T15:00:00Z",
+                "topic": "2026-12-14 – 2026-12-18 · 09:00–15:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-18T09:00:00Z",
+                "end_utc": "2026-12-18T15:00:00Z",
+                "topic": "2026-12-14 – 2026-12-18 · 09:00–15:00",
+                "ical_timed": true
+              }
+            ],
+            "extras": "Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.",
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 650,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "650 GBP por 5 días según la tarifa de la organización.",
+        "included": "",
+        "extras": "Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "No cumple la edad publicada para este grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        }
+      },
+      "editorial_reason": "2026-12-14 – 2026-12-18 · 09:00–15:00",
+      "shortlist": [],
+      "questions": [
+        "Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.",
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://www.richereducation.co.uk/science-christmas-camps/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.richereducation.co.uk/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2085-20261214-20261218-richer-christmas-science"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2086",
+      "slug": "richer-christmas-advanced",
+      "provider": "Richer Education · Christmas Advanced Science",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "More House School · 22–24 Pont Street · London",
+      "age": "9–14 años.",
+      "programme": "Experimentos científicos avanzados, proyectos y debates.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "2026-12-14 – 2026-12-18 · 09:15–15:15",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "richer-christmas-advanced",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "2026-12-14 – 2026-12-18 · 09:15–15:15",
+            "price": "650 GBP por 5 días según la tarifa de la organización.",
+            "source": "https://www.richereducation.co.uk/advanced-science-christmas-camps/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:15",
+                "end_time": "15:15",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-14T09:15:00Z",
+                "end_utc": "2026-12-14T15:15:00Z",
+                "topic": "2026-12-14 – 2026-12-18 · 09:15–15:15",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:15",
+                "end_time": "15:15",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-15T09:15:00Z",
+                "end_utc": "2026-12-15T15:15:00Z",
+                "topic": "2026-12-14 – 2026-12-18 · 09:15–15:15",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:15",
+                "end_time": "15:15",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-16T09:15:00Z",
+                "end_utc": "2026-12-16T15:15:00Z",
+                "topic": "2026-12-14 – 2026-12-18 · 09:15–15:15",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:15",
+                "end_time": "15:15",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-17T09:15:00Z",
+                "end_utc": "2026-12-17T15:15:00Z",
+                "topic": "2026-12-14 – 2026-12-18 · 09:15–15:15",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:15",
+                "end_time": "15:15",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-18T09:15:00Z",
+                "end_utc": "2026-12-18T15:15:00Z",
+                "topic": "2026-12-14 – 2026-12-18 · 09:15–15:15",
+                "ical_timed": true
+              }
+            ],
+            "extras": "Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.",
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 650,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "650 GBP por 5 días según la tarifa de la organización.",
+        "included": "",
+        "extras": "Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple la edad publicada para este grupo."
+        }
+      },
+      "editorial_reason": "2026-12-14 – 2026-12-18 · 09:15–15:15",
+      "shortlist": [],
+      "questions": [
+        "Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.",
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://www.richereducation.co.uk/advanced-science-christmas-camps/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.richereducation.co.uk/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2086-20261214-20261218-richer-christmas-advanced"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2087",
+      "slug": "richer-nao",
+      "provider": "Richer Education · Christmas NAO V6",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "More House School · 22–24 Pont Street · London",
+      "age": "13–17 años.",
+      "programme": "Programación práctica del robot humanoide NAO V6. Admite distintos niveles.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "2026-12-14 – 2026-12-18 · 09:15–15:15",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "richer-nao",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "2026-12-14 – 2026-12-18 · 09:15–15:15",
+            "price": "899 GBP por 5 días según la tarifa de la organización.",
+            "source": "https://www.richereducation.co.uk/humanoid-robotics-christmas-camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:15",
+                "end_time": "15:15",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-14T09:15:00Z",
+                "end_utc": "2026-12-14T15:15:00Z",
+                "topic": "2026-12-14 – 2026-12-18 · 09:15–15:15",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:15",
+                "end_time": "15:15",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-15T09:15:00Z",
+                "end_utc": "2026-12-15T15:15:00Z",
+                "topic": "2026-12-14 – 2026-12-18 · 09:15–15:15",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:15",
+                "end_time": "15:15",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-16T09:15:00Z",
+                "end_utc": "2026-12-16T15:15:00Z",
+                "topic": "2026-12-14 – 2026-12-18 · 09:15–15:15",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:15",
+                "end_time": "15:15",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-17T09:15:00Z",
+                "end_utc": "2026-12-17T15:15:00Z",
+                "topic": "2026-12-14 – 2026-12-18 · 09:15–15:15",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:15",
+                "end_time": "15:15",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-18T09:15:00Z",
+                "end_utc": "2026-12-18T15:15:00Z",
+                "topic": "2026-12-14 – 2026-12-18 · 09:15–15:15",
+                "ical_timed": true
+              }
+            ],
+            "extras": "Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.",
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 899,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "899 GBP por 5 días según la tarifa de la organización.",
+        "included": "",
+        "extras": "Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "No cumple la edad publicada para este grupo."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple la edad publicada para este grupo."
+        }
+      },
+      "editorial_reason": "2026-12-14 – 2026-12-18 · 09:15–15:15",
+      "shortlist": [],
+      "questions": [
+        "Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.",
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://www.richereducation.co.uk/humanoid-robotics-christmas-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.richereducation.co.uk/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2087-20261214-20261218-richer-nao"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2088",
+      "slug": "richer-feb-science",
+      "provider": "Richer Education · February Half-Term Science",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "More House School · 22–24 Pont Street · London",
+      "age": "4–8 años.",
+      "programme": "Experimentos científicos y actividades prácticas con docentes de STEAM.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-02-15 – 2027-02-19 · 09:00–15:00",
+        "sessions": [
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "richer-feb-science",
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "2027-02-15 – 2027-02-19 · 09:00–15:00",
+            "price": "650 GBP por 5 días según la tarifa de la organización.",
+            "source": "https://www.richereducation.co.uk/science-february-half-term/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London",
+                "start_utc": "2027-02-15T09:00:00Z",
+                "end_utc": "2027-02-15T15:00:00Z",
+                "topic": "2027-02-15 – 2027-02-19 · 09:00–15:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London",
+                "start_utc": "2027-02-16T09:00:00Z",
+                "end_utc": "2027-02-16T15:00:00Z",
+                "topic": "2027-02-15 – 2027-02-19 · 09:00–15:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-17",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London",
+                "start_utc": "2027-02-17T09:00:00Z",
+                "end_utc": "2027-02-17T15:00:00Z",
+                "topic": "2027-02-15 – 2027-02-19 · 09:00–15:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London",
+                "start_utc": "2027-02-18T09:00:00Z",
+                "end_utc": "2027-02-18T15:00:00Z",
+                "topic": "2027-02-15 – 2027-02-19 · 09:00–15:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-19",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London",
+                "start_utc": "2027-02-19T09:00:00Z",
+                "end_utc": "2027-02-19T15:00:00Z",
+                "topic": "2027-02-15 – 2027-02-19 · 09:00–15:00",
+                "ical_timed": true
+              }
+            ],
+            "extras": "Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.",
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 650,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "650 GBP por 5 días según la tarifa de la organización.",
+        "included": "",
+        "extras": "Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "No cumple la edad publicada para este grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        }
+      },
+      "editorial_reason": "2027-02-15 – 2027-02-19 · 09:00–15:00",
+      "shortlist": [],
+      "questions": [
+        "Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.",
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://www.richereducation.co.uk/science-february-half-term/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.richereducation.co.uk/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "calendar_links": [
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2088-20270215-20270219-richer-feb-science"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2089",
+      "slug": "richer-feb-nao",
+      "provider": "Richer Education · February Half-Term NAO V6",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "More House School · 22–24 Pont Street · London",
+      "age": "9–17 años.",
+      "programme": "Programación práctica del robot humanoide NAO V6. Admite distintos niveles.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-02-15 – 2027-02-19 · 09:15–15:15",
+        "sessions": [
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "richer-feb-nao",
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "2027-02-15 – 2027-02-19 · 09:15–15:15",
+            "price": "899 GBP por 5 días según la tarifa de la organización.",
+            "source": "https://www.richereducation.co.uk/humanoid-robotics-february-half-term/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "start_time": "09:15",
+                "end_time": "15:15",
+                "timezone": "Europe/London",
+                "start_utc": "2027-02-15T09:15:00Z",
+                "end_utc": "2027-02-15T15:15:00Z",
+                "topic": "2027-02-15 – 2027-02-19 · 09:15–15:15",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "09:15",
+                "end_time": "15:15",
+                "timezone": "Europe/London",
+                "start_utc": "2027-02-16T09:15:00Z",
+                "end_utc": "2027-02-16T15:15:00Z",
+                "topic": "2027-02-15 – 2027-02-19 · 09:15–15:15",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-17",
+                "start_time": "09:15",
+                "end_time": "15:15",
+                "timezone": "Europe/London",
+                "start_utc": "2027-02-17T09:15:00Z",
+                "end_utc": "2027-02-17T15:15:00Z",
+                "topic": "2027-02-15 – 2027-02-19 · 09:15–15:15",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-18",
+                "start_time": "09:15",
+                "end_time": "15:15",
+                "timezone": "Europe/London",
+                "start_utc": "2027-02-18T09:15:00Z",
+                "end_utc": "2027-02-18T15:15:00Z",
+                "topic": "2027-02-15 – 2027-02-19 · 09:15–15:15",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-19",
+                "start_time": "09:15",
+                "end_time": "15:15",
+                "timezone": "Europe/London",
+                "start_utc": "2027-02-19T09:15:00Z",
+                "end_utc": "2027-02-19T15:15:00Z",
+                "topic": "2027-02-15 – 2027-02-19 · 09:15–15:15",
+                "ical_timed": true
+              }
+            ],
+            "extras": "Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.",
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 899,
+        "currency": "GBP",
+        "unit": "session",
+        "label": "899 GBP por 5 días según la tarifa de la organización.",
+        "included": "",
+        "extras": "Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple la edad publicada para este grupo."
+        }
+      },
+      "editorial_reason": "2027-02-15 – 2027-02-19 · 09:15–15:15",
+      "shortlist": [],
+      "questions": [
+        "Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.",
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://www.richereducation.co.uk/humanoid-robotics-february-half-term/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.richereducation.co.uk/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "calendar_links": [
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2089-20270215-20270219-richer-feb-nao"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -361635,7 +364685,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 295,
+  "version": 296,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -374870,7 +377920,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2077,
+      "total_dossiers": 2089,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -397960,6 +401010,221 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP2078",
+      "event_id": "CP2078-20261128-20261219-infantil",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2079",
+      "event_id": "CP2079-20261128-20261219-junior",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2080",
+      "event_id": "CP2080-20261128-20261219-senior",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2081",
+      "event_id": "CP2081-20261221-20261221-reindeer-lab-2026-12-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2081",
+      "event_id": "CP2081-20261228-20261228-reindeer-lab-2026-12-28",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2081",
+      "event_id": "CP2081-20261222-20261222-light-card-santa-2026-12-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2081",
+      "event_id": "CP2081-20261229-20261229-light-card-santa-2026-12-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2081",
+      "event_id": "CP2081-20261223-20261223-skier-stop-motion-2026-12-23",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2081",
+      "event_id": "CP2081-20261230-20261230-skier-stop-motion-2026-12-30",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2081",
+      "event_id": "CP2081-20261224-20261224-santa-lab-2026-12-24",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2081",
+      "event_id": "CP2081-20261231-20261231-santa-lab-2026-12-31",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2081",
+      "event_id": "CP2081-20261221-20261221-beyblade-science-2026-12-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2081",
+      "event_id": "CP2081-20261228-20261228-beyblade-science-2026-12-28",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2081",
+      "event_id": "CP2081-20261222-20261222-sleigh-game-2026-12-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2081",
+      "event_id": "CP2081-20261229-20261229-sleigh-game-2026-12-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2081",
+      "event_id": "CP2081-20261223-20261223-gift-factory-2026-12-23",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2081",
+      "event_id": "CP2081-20261230-20261230-gift-factory-2026-12-30",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2081",
+      "event_id": "CP2081-20261224-20261224-christmas-express-2026-12-24",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2081",
+      "event_id": "CP2081-20261231-20261231-christmas-express-2026-12-31",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2082",
+      "event_id": "CP2082-20261221-20261221-tree-clicker-2026-12-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2082",
+      "event_id": "CP2082-20261228-20261228-tree-clicker-2026-12-28",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2082",
+      "event_id": "CP2082-20261222-20261222-minecraft-2026-12-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2082",
+      "event_id": "CP2082-20261229-20261229-minecraft-2026-12-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2082",
+      "event_id": "CP2082-20261223-20261223-roblox-2026-12-23",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2082",
+      "event_id": "CP2082-20261230-20261230-roblox-2026-12-30",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2082",
+      "event_id": "CP2082-20261224-20261224-ai-delivery-2026-12-24",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2082",
+      "event_id": "CP2082-20261231-20261231-ai-delivery-2026-12-31",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2082",
+      "event_id": "CP2082-20261221-20261221-beyblade-ai-2026-12-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2082",
+      "event_id": "CP2082-20261228-20261228-beyblade-ai-2026-12-28",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2082",
+      "event_id": "CP2082-20261222-20261223-tech-charm-parts-1-and-2-2026-12-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2082",
+      "event_id": "CP2082-20261229-20261230-tech-charm-parts-1-and-2-2026-12-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2083",
+      "event_id": "CP2083-20261215-20261217-three-days",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2083",
+      "event_id": "CP2083-20261215-20261215-one-day-2026-12-15",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2083",
+      "event_id": "CP2083-20261216-20261216-one-day-2026-12-16",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2083",
+      "event_id": "CP2083-20261217-20261217-one-day-2026-12-17",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2084",
+      "event_id": "CP2084-20261212-20261212-morning",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2084",
+      "event_id": "CP2084-20261212-20261212-midday",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2084",
+      "event_id": "CP2084-20261212-20261212-afternoon",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2085",
+      "event_id": "CP2085-20261214-20261218-richer-christmas-science",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2086",
+      "event_id": "CP2086-20261214-20261218-richer-christmas-advanced",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2087",
+      "event_id": "CP2087-20261214-20261218-richer-nao",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2088",
+      "event_id": "CP2088-20270215-20270219-richer-feb-science",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2089",
+      "event_id": "CP2089-20270215-20270219-richer-feb-nao",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -402711,10 +405976,53 @@
     "CP2070-20261004-20270627-english-course",
     "CP2071-20261004-20270628-english-course",
     "CP2072-20261004-20270627-english-course",
-    "CP2073-20261004-20270627-english-course"
+    "CP2073-20261004-20270627-english-course",
+    "CP2078-20261128-20261219-infantil",
+    "CP2079-20261128-20261219-junior",
+    "CP2080-20261128-20261219-senior",
+    "CP2081-20261221-20261221-reindeer-lab-2026-12-21",
+    "CP2081-20261228-20261228-reindeer-lab-2026-12-28",
+    "CP2081-20261222-20261222-light-card-santa-2026-12-22",
+    "CP2081-20261229-20261229-light-card-santa-2026-12-29",
+    "CP2081-20261223-20261223-skier-stop-motion-2026-12-23",
+    "CP2081-20261230-20261230-skier-stop-motion-2026-12-30",
+    "CP2081-20261224-20261224-santa-lab-2026-12-24",
+    "CP2081-20261231-20261231-santa-lab-2026-12-31",
+    "CP2081-20261221-20261221-beyblade-science-2026-12-21",
+    "CP2081-20261228-20261228-beyblade-science-2026-12-28",
+    "CP2081-20261222-20261222-sleigh-game-2026-12-22",
+    "CP2081-20261229-20261229-sleigh-game-2026-12-29",
+    "CP2081-20261223-20261223-gift-factory-2026-12-23",
+    "CP2081-20261230-20261230-gift-factory-2026-12-30",
+    "CP2081-20261224-20261224-christmas-express-2026-12-24",
+    "CP2081-20261231-20261231-christmas-express-2026-12-31",
+    "CP2082-20261221-20261221-tree-clicker-2026-12-21",
+    "CP2082-20261228-20261228-tree-clicker-2026-12-28",
+    "CP2082-20261222-20261222-minecraft-2026-12-22",
+    "CP2082-20261229-20261229-minecraft-2026-12-29",
+    "CP2082-20261223-20261223-roblox-2026-12-23",
+    "CP2082-20261230-20261230-roblox-2026-12-30",
+    "CP2082-20261224-20261224-ai-delivery-2026-12-24",
+    "CP2082-20261231-20261231-ai-delivery-2026-12-31",
+    "CP2082-20261221-20261221-beyblade-ai-2026-12-21",
+    "CP2082-20261228-20261228-beyblade-ai-2026-12-28",
+    "CP2082-20261222-20261223-tech-charm-parts-1-and-2-2026-12-22",
+    "CP2082-20261229-20261230-tech-charm-parts-1-and-2-2026-12-29",
+    "CP2083-20261215-20261217-three-days",
+    "CP2083-20261215-20261215-one-day-2026-12-15",
+    "CP2083-20261216-20261216-one-day-2026-12-16",
+    "CP2083-20261217-20261217-one-day-2026-12-17",
+    "CP2084-20261212-20261212-morning",
+    "CP2084-20261212-20261212-midday",
+    "CP2084-20261212-20261212-afternoon",
+    "CP2085-20261214-20261218-richer-christmas-science",
+    "CP2086-20261214-20261218-richer-christmas-advanced",
+    "CP2087-20261214-20261218-richer-nao",
+    "CP2088-20270215-20270219-richer-feb-science",
+    "CP2089-20270215-20270219-richer-feb-nao"
   ],
   "integration": {
-    "generated_sessions": 4341,
+    "generated_sessions": 4384,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

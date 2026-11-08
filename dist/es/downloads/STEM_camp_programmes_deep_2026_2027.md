@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Base actualizada al 2026-11-08. 2077 fichas en 135 países. Cada ficha indica las fechas de revisión de sus fuentes.
+Base al 2026-11-08. 2089 fichas detalladas en 135 países. La fecha de verificación de cada fuente figura en su ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -164143,6 +164143,1074 @@ Madagascar · Ambatoroka · Antananarivo
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://www.allforkids.mg/) · 2026-11-08
+
+## CP2078 · La Térmica · Galilei Kids · Infantil
+
+España · La Térmica · Av. de los Guindos, 48 · Málaga
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–5 años según el horario del grupo.
+
+**Idioma:** Descripción en español. Confirmar el idioma de la enseñanza en el grupo elegido.
+
+**Programa:** Ciclo de robótica, programación e IA. El programa general enumera LEGO, BEE-BOT, mBot, Arduino, Scratch, Machine Learning for Kids y proyectos de videojuegos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 3 clases en sábado: 28 de noviembre, 12 y 19 de diciembre de 2026. Hay una pausa entre la primera y la última clase.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No cumple la edad publicada para este grupo.
+
+**Oscar:** No cumple la edad publicada para este grupo.
+
+**Motivo de selección:** Los grupos son consecutivos en el mismo centro. La organización especifica un intervalo por grupo. La introducción dice 5–13 años en general, así que conviene confirmar el límite exacto al inscribirse.
+
+### Antes de solicitar plaza
+
+- Los grupos son consecutivos en el mismo centro. La organización especifica un intervalo por grupo. La introducción dice 5–13 años en general, así que conviene confirmar el límite exacto al inscribirse.
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+### Infantil · 10:00–10:55 · 3 sábados
+
+**Fechas / estado:** 2026-11-28 — 2026-12-19
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-11-28 · 10:00–10:55 · Europe/Madrid · Infantil · 10:00–10:55 · 3 sábados
+
+- 2026-12-12 · 10:00–10:55 · Europe/Madrid · Infantil · 10:00–10:55 · 3 sábados
+
+- 2026-12-19 · 10:00–10:55 · Europe/Madrid · Infantil · 10:00–10:55 · 3 sábados
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/) · 2026-11-08
+
+## CP2079 · La Térmica · Galilei Kids · Junior
+
+España · La Térmica · Av. de los Guindos, 48 · Málaga
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–8 años según el horario del grupo.
+
+**Idioma:** Descripción en español. Confirmar el idioma de la enseñanza en el grupo elegido.
+
+**Programa:** Ciclo de robótica, programación e IA. El programa general enumera LEGO, BEE-BOT, mBot, Arduino, Scratch, Machine Learning for Kids y proyectos de videojuegos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 3 clases en sábado: 28 de noviembre, 12 y 19 de diciembre de 2026. Hay una pausa entre la primera y la última clase.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No cumple la edad publicada para este grupo.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Los grupos son consecutivos en el mismo centro. La organización especifica un intervalo por grupo. La introducción dice 5–13 años en general, así que conviene confirmar el límite exacto al inscribirse.
+
+### Antes de solicitar plaza
+
+- Los grupos son consecutivos en el mismo centro. La organización especifica un intervalo por grupo. La introducción dice 5–13 años en general, así que conviene confirmar el límite exacto al inscribirse.
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+### Junior · 11:05–12:25 · 3 sábados
+
+**Fechas / estado:** 2026-11-28 — 2026-12-19
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-11-28 · 11:05–12:25 · Europe/Madrid · Junior · 11:05–12:25 · 3 sábados
+
+- 2026-12-12 · 11:05–12:25 · Europe/Madrid · Junior · 11:05–12:25 · 3 sábados
+
+- 2026-12-19 · 11:05–12:25 · Europe/Madrid · Junior · 11:05–12:25 · 3 sábados
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/) · 2026-11-08
+
+## CP2080 · La Térmica · Galilei Kids · Senior
+
+España · La Térmica · Av. de los Guindos, 48 · Málaga
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–14 años según el horario del grupo.
+
+**Idioma:** Descripción en español. Confirmar el idioma de la enseñanza en el grupo elegido.
+
+**Programa:** Ciclo de robótica, programación e IA. El programa general enumera LEGO, BEE-BOT, mBot, Arduino, Scratch, Machine Learning for Kids y proyectos de videojuegos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 3 clases en sábado: 28 de noviembre, 12 y 19 de diciembre de 2026. Hay una pausa entre la primera y la última clase.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** No cumple la edad publicada para este grupo.
+
+**Motivo de selección:** Los grupos son consecutivos en el mismo centro. La organización especifica un intervalo por grupo. La introducción dice 5–13 años en general, así que conviene confirmar el límite exacto al inscribirse.
+
+### Antes de solicitar plaza
+
+- Los grupos son consecutivos en el mismo centro. La organización especifica un intervalo por grupo. La introducción dice 5–13 años en general, así que conviene confirmar el límite exacto al inscribirse.
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+### Senior · 12:30–14:00 · 3 sábados
+
+**Fechas / estado:** 2026-11-28 — 2026-12-19
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-11-28 · 12:30–14:00 · Europe/Madrid · Senior · 12:30–14:00 · 3 sábados
+
+- 2026-12-12 · 12:30–14:00 · Europe/Madrid · Senior · 12:30–14:00 · 3 sábados
+
+- 2026-12-19 · 12:30–14:00 · Europe/Madrid · Senior · 12:30–14:00 · 3 sábados
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/) · 2026-11-08
+
+## CP2081 · SUP Education · AI × STEAM Christmas · 4–6
+
+RAE de Hong Kong (China) · Hong Kong
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–6 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Talleres de dos horas de robótica, programación de videojuegos, IA e impresión 3D. El contenido depende de la franja de edad elegida.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 21–24 y 28–31 de diciembre de 2026. Solo se muestran talleres con fecha y hora publicadas.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No cumple la edad publicada para este grupo.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Hay talleres sueltos y un paquete diurno con pausa para comer. Antes de inscribirse, confirmar sede, idioma del grupo, comida, equipo y precio total.
+
+### Antes de solicitar plaza
+
+- Hay talleres sueltos y un paquete diurno con pausa para comer. Antes de inscribirse, confirmar sede, idioma del grupo, comida, equipo y precio total.
+
+- Paquete diurno de 10:00–16:00: 2 talleres, pausa para comer y juegos de mesa. Confirmar las condiciones del almuerzo.
+
+### LEGO Robotics Reindeer & Fizzy Snowman Lab
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-21 · 10:00–12:00 · Asia/Hong_Kong · LEGO Robotics Reindeer & Fizzy Snowman Lab
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### LEGO Robotics Reindeer & Fizzy Snowman Lab
+
+**Fechas / estado:** 2026-12-28 — 2026-12-28
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-28 · 10:00–12:00 · Asia/Hong_Kong · LEGO Robotics Reindeer & Fizzy Snowman Lab
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### Light-up Christmas Card & LEGO Robotics Santa
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-22 · 10:00–12:00 · Asia/Hong_Kong · Light-up Christmas Card & LEGO Robotics Santa
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### Light-up Christmas Card & LEGO Robotics Santa
+
+**Fechas / estado:** 2026-12-29 — 2026-12-29
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-29 · 10:00–12:00 · Asia/Hong_Kong · Light-up Christmas Card & LEGO Robotics Santa
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### LEGO Robotics Skier & Stop-motion Story
+
+**Fechas / estado:** 2026-12-23 — 2026-12-23
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-23 · 10:00–12:00 · Asia/Hong_Kong · LEGO Robotics Skier & Stop-motion Story
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### LEGO Robotics Skier & Stop-motion Story
+
+**Fechas / estado:** 2026-12-30 — 2026-12-30
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-30 · 10:00–12:00 · Asia/Hong_Kong · LEGO Robotics Skier & Stop-motion Story
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### Santa’s Christmas Wonder Lab
+
+**Fechas / estado:** 2026-12-24 — 2026-12-24
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-24 · 10:00–12:00 · Asia/Hong_Kong · Santa’s Christmas Wonder Lab
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### Santa’s Christmas Wonder Lab
+
+**Fechas / estado:** 2026-12-31 — 2026-12-31
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-31 · 10:00–12:00 · Asia/Hong_Kong · Santa’s Christmas Wonder Lab
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### LEGO Robotics Beyblade & Christmas Science Lab
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-21 · 14:00–16:00 · Asia/Hong_Kong · LEGO Robotics Beyblade & Christmas Science Lab
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### LEGO Robotics Beyblade & Christmas Science Lab
+
+**Fechas / estado:** 2026-12-28 — 2026-12-28
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-28 · 14:00–16:00 · Asia/Hong_Kong · LEGO Robotics Beyblade & Christmas Science Lab
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### LEGO Robotics Santa’s Sleigh & Gift Drop Game
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-22 · 14:00–16:00 · Asia/Hong_Kong · LEGO Robotics Santa’s Sleigh & Gift Drop Game
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### LEGO Robotics Santa’s Sleigh & Gift Drop Game
+
+**Fechas / estado:** 2026-12-29 — 2026-12-29
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-29 · 14:00–16:00 · Asia/Hong_Kong · LEGO Robotics Santa’s Sleigh & Gift Drop Game
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### LEGO Robotics Santa’s Gift Factory
+
+**Fechas / estado:** 2026-12-23 — 2026-12-23
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-23 · 14:00–16:00 · Asia/Hong_Kong · LEGO Robotics Santa’s Gift Factory
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### LEGO Robotics Santa’s Gift Factory
+
+**Fechas / estado:** 2026-12-30 — 2026-12-30
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-30 · 14:00–16:00 · Asia/Hong_Kong · LEGO Robotics Santa’s Gift Factory
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### LEGO Robotics Christmas Express & Stop-motion Movie
+
+**Fechas / estado:** 2026-12-24 — 2026-12-24
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-24 · 14:00–16:00 · Asia/Hong_Kong · LEGO Robotics Christmas Express & Stop-motion Movie
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### LEGO Robotics Christmas Express & Stop-motion Movie
+
+**Fechas / estado:** 2026-12-31 — 2026-12-31
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-31 · 14:00–16:00 · Asia/Hong_Kong · LEGO Robotics Christmas Express & Stop-motion Movie
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sup-education.com/christmas-camp-2026) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.sup-education.com/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.sup-education.com/about-us/contact-us) · 2026-11-08
+
+## CP2082 · SUP Education · AI × STEAM Christmas · 7+
+
+RAE de Hong Kong (China) · Hong Kong
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7+ años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Talleres de dos horas de robótica, programación de videojuegos, IA e impresión 3D. El contenido depende de la franja de edad elegida.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 21–24 y 28–31 de diciembre de 2026. Solo se muestran talleres con fecha y hora publicadas.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** No cumple la edad publicada para este grupo.
+
+**Motivo de selección:** Hay talleres sueltos y un paquete diurno con pausa para comer. Antes de inscribirse, confirmar sede, idioma del grupo, comida, equipo y precio total.
+
+### Antes de solicitar plaza
+
+- Hay talleres sueltos y un paquete diurno con pausa para comer. Antes de inscribirse, confirmar sede, idioma del grupo, comida, equipo y precio total.
+
+- Paquete diurno de 10:00–16:00: 2 talleres, pausa para comer y juegos de mesa. Confirmar las condiciones del almuerzo.
+
+### 3D Print Christmas Tree Clicker
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-21 · 10:00–12:00 · Asia/Hong_Kong · 3D Print Christmas Tree Clicker
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### 3D Print Christmas Tree Clicker
+
+**Fechas / estado:** 2026-12-28 — 2026-12-28
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-28 · 10:00–12:00 · Asia/Hong_Kong · 3D Print Christmas Tree Clicker
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### Minecraft Coding Adventure – Build a Gingerbread House!
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-22 · 10:00–12:00 · Asia/Hong_Kong · Minecraft Coding Adventure – Build a Gingerbread House!
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### Minecraft Coding Adventure – Build a Gingerbread House!
+
+**Fechas / estado:** 2026-12-29 — 2026-12-29
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-29 · 10:00–12:00 · Asia/Hong_Kong · Minecraft Coding Adventure – Build a Gingerbread House!
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### Roblox Christmas Coding Adventure
+
+**Fechas / estado:** 2026-12-23 — 2026-12-23
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-23 · 10:00–12:00 · Asia/Hong_Kong · Roblox Christmas Coding Adventure
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### Roblox Christmas Coding Adventure
+
+**Fechas / estado:** 2026-12-30 — 2026-12-30
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-30 · 10:00–12:00 · Asia/Hong_Kong · Roblox Christmas Coding Adventure
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### AI Santa’s Delivery Dash
+
+**Fechas / estado:** 2026-12-24 — 2026-12-24
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-24 · 10:00–12:00 · Asia/Hong_Kong · AI Santa’s Delivery Dash
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### AI Santa’s Delivery Dash
+
+**Fechas / estado:** 2026-12-31 — 2026-12-31
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-31 · 10:00–12:00 · Asia/Hong_Kong · AI Santa’s Delivery Dash
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### LEGO Robotics Beyblade & AI Battle Cards
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-21 · 14:00–16:00 · Asia/Hong_Kong · LEGO Robotics Beyblade & AI Battle Cards
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### LEGO Robotics Beyblade & AI Battle Cards
+
+**Fechas / estado:** 2026-12-28 — 2026-12-28
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-28 · 14:00–16:00 · Asia/Hong_Kong · LEGO Robotics Beyblade & AI Battle Cards
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### My Christmas Tech Charm (3D Print & AI) — Parts 1 & 2
+
+**Fechas / estado:** 2026-12-22 — 2026-12-23
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-22 · 14:00–16:00 · Asia/Hong_Kong · My Christmas Tech Charm (3D Print & AI) — Parts 1 & 2
+
+- 2026-12-23 · 14:00–16:00 · Asia/Hong_Kong · My Christmas Tech Charm (3D Print & AI) — Parts 1 & 2
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Dos partes del taller. Confirmar si se puede reservar una sola parte y el precio.
+
+- Hay talleres sueltos y un paquete diurno con pausa para comer. Antes de inscribirse, confirmar sede, idioma del grupo, comida, equipo y precio total.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### My Christmas Tech Charm (3D Print & AI) — Parts 1 & 2
+
+**Fechas / estado:** 2026-12-29 — 2026-12-30
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+- 2026-12-29 · 14:00–16:00 · Asia/Hong_Kong · My Christmas Tech Charm (3D Print & AI) — Parts 1 & 2
+
+- 2026-12-30 · 14:00–16:00 · Asia/Hong_Kong · My Christmas Tech Charm (3D Print & AI) — Parts 1 & 2
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Dos partes del taller. Confirmar si se puede reservar una sola parte y el precio.
+
+- Hay talleres sueltos y un paquete diurno con pausa para comer. Antes de inscribirse, confirmar sede, idioma del grupo, comida, equipo y precio total.
+
+[fuente](https://www.sup-education.com/christmas-camp-2026)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sup-education.com/christmas-camp-2026) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.sup-education.com/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.sup-education.com/about-us/contact-us) · 2026-11-08
+
+## CP2083 · STEM Den · December 2026
+
+Reino Unido · St John’s School · Potter Street Hill · Northwood
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 5–13 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Retos de ingeniería, ciencia y construcción en los talleres D&T y Art de St John’s.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 15–17 de diciembre de 2026, de 09:00 a 16:00.
+
+**Precio / año:** 2026 · 65 GBP por día o 195 GBP por los 3 días.
+
+**Suplementos:** Llevar almuerzo y tentempiés sin frutos secos, agua y calzado de recambio.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** El formulario oficial mostraba plazas en la revisión. Muestra dos códigos postales para la misma dirección en Potter Street Hill. Confirmar con la organización el punto exacto de acceso.
+
+### Antes de solicitar plaza
+
+- El formulario oficial mostraba plazas en la revisión. Muestra dos códigos postales para la misma dirección en Potter Street Hill. Confirmar con la organización el punto exacto de acceso.
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+### Paquete completo · 3 días
+
+**Fechas / estado:** 2026-12-15 — 2026-12-17
+
+**Precio:** 65 GBP por día o 195 GBP por los 3 días.
+
+**Suplementos:** Llevar almuerzo y tentempiés sin frutos secos, agua y calzado de recambio.
+
+- 2026-12-15 · 09:00–16:00 · Europe/London · Paquete completo · 3 días
+
+- 2026-12-16 · 09:00–16:00 · Europe/London · Paquete completo · 3 días
+
+- 2026-12-17 · 09:00–16:00 · Europe/London · Paquete completo · 3 días
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://stem-den.classforkids.io/camp/84)
+
+### Taller suelto · 1 día
+
+**Fechas / estado:** 2026-12-15 — 2026-12-15
+
+**Precio:** 65 GBP por 1 día.
+
+**Suplementos:** Llevar almuerzo y tentempiés sin frutos secos, agua y calzado de recambio.
+
+- 2026-12-15 · 09:00–16:00 · Europe/London · Taller suelto · 1 día
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://stem-den.classforkids.io/camp/84)
+
+### Taller suelto · 1 día
+
+**Fechas / estado:** 2026-12-16 — 2026-12-16
+
+**Precio:** 65 GBP por 1 día.
+
+**Suplementos:** Llevar almuerzo y tentempiés sin frutos secos, agua y calzado de recambio.
+
+- 2026-12-16 · 09:00–16:00 · Europe/London · Taller suelto · 1 día
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://stem-den.classforkids.io/camp/84)
+
+### Taller suelto · 1 día
+
+**Fechas / estado:** 2026-12-17 — 2026-12-17
+
+**Precio:** 65 GBP por 1 día.
+
+**Suplementos:** Llevar almuerzo y tentempiés sin frutos secos, agua y calzado de recambio.
+
+- 2026-12-17 · 09:00–16:00 · Europe/London · Taller suelto · 1 día
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://stem-den.classforkids.io/camp/84)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://stem-den.classforkids.io/camp/84) · 2026-11-08
+
+## CP2084 · Science Oxford Centre · Toy Factory
+
+Reino Unido · Science Oxford Centre · Oxford
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 5–9 años, con acompañante adulto obligatorio.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Taller familiar de ingeniería. El menor construye juguetes y prueba el equilibrio y el movimiento junto con una persona adulta.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 12 de diciembre de 2026 · 3 sesiones a elegir
+
+**Precio / año:** 2026 · 15 GBP por menor con 1 adulto, con gastos de gestión. Adulto adicional: 5 GBP.
+
+**Incluido:** 90 minutos. Incluye las zonas exteriores del centro. Otra persona adulta o un segundo menor necesitan entrada aparte.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** El menor participa con una persona adulta. Hace falta entrada.
+
+**Oscar:** El menor participa con una persona adulta. Hace falta entrada.
+
+**Motivo de selección:** 12 de diciembre de 2026 · 3 sesiones a elegir
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### 10:00–11:30
+
+**Fechas / estado:** 2026-12-12 — 2026-12-12
+
+**Precio:** 15 GBP por menor con 1 adulto, con gastos de gestión. Adulto adicional: 5 GBP.
+
+- 2026-12-12 · 10:00–11:30 · Europe/London · 10:00–11:30
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://scienceoxford.com/whats-on/toy-factory-2/)
+
+### 12:30–14:00
+
+**Fechas / estado:** 2026-12-12 — 2026-12-12
+
+**Precio:** 15 GBP por menor con 1 adulto, con gastos de gestión. Adulto adicional: 5 GBP.
+
+- 2026-12-12 · 12:30–14:00 · Europe/London · 12:30–14:00
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://scienceoxford.com/whats-on/toy-factory-2/)
+
+### 15:00–16:30
+
+**Fechas / estado:** 2026-12-12 — 2026-12-12
+
+**Precio:** 15 GBP por menor con 1 adulto, con gastos de gestión. Adulto adicional: 5 GBP.
+
+- 2026-12-12 · 15:00–16:30 · Europe/London · 15:00–16:30
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://scienceoxford.com/whats-on/toy-factory-2/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://scienceoxford.com/whats-on/toy-factory-2/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://scienceoxford.com/saturday-clubs/) · 2026-11-08
+
+## CP2085 · Richer Education · Christmas Science
+
+Reino Unido · More House School · 22–24 Pont Street · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–8 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Experimentos científicos y actividades prácticas con docentes de STEAM.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 2026-12-14 – 2026-12-18 · 09:00–15:00
+
+**Precio / año:** 2026 · 650 GBP por 5 días según la tarifa de la organización.
+
+**Suplementos:** Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No cumple la edad publicada para este grupo.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** 2026-12-14 – 2026-12-18 · 09:00–15:00
+
+### Antes de solicitar plaza
+
+- Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+### 2026-12-14 – 2026-12-18 · 09:00–15:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Precio:** 650 GBP por 5 días según la tarifa de la organización.
+
+**Suplementos:** Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.
+
+- 2026-12-14 · 09:00–15:00 · Europe/London · 2026-12-14 – 2026-12-18 · 09:00–15:00
+
+- 2026-12-15 · 09:00–15:00 · Europe/London · 2026-12-14 – 2026-12-18 · 09:00–15:00
+
+- 2026-12-16 · 09:00–15:00 · Europe/London · 2026-12-14 – 2026-12-18 · 09:00–15:00
+
+- 2026-12-17 · 09:00–15:00 · Europe/London · 2026-12-14 – 2026-12-18 · 09:00–15:00
+
+- 2026-12-18 · 09:00–15:00 · Europe/London · 2026-12-14 – 2026-12-18 · 09:00–15:00
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.richereducation.co.uk/science-christmas-camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/science-christmas-camps/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/) · 2026-11-08
+
+## CP2086 · Richer Education · Christmas Advanced Science
+
+Reino Unido · More House School · 22–24 Pont Street · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–14 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Experimentos científicos avanzados, proyectos y debates.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 2026-12-14 – 2026-12-18 · 09:15–15:15
+
+**Precio / año:** 2026 · 650 GBP por 5 días según la tarifa de la organización.
+
+**Suplementos:** Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** No cumple la edad publicada para este grupo.
+
+**Motivo de selección:** 2026-12-14 – 2026-12-18 · 09:15–15:15
+
+### Antes de solicitar plaza
+
+- Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+### 2026-12-14 – 2026-12-18 · 09:15–15:15
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Precio:** 650 GBP por 5 días según la tarifa de la organización.
+
+**Suplementos:** Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.
+
+- 2026-12-14 · 09:15–15:15 · Europe/London · 2026-12-14 – 2026-12-18 · 09:15–15:15
+
+- 2026-12-15 · 09:15–15:15 · Europe/London · 2026-12-14 – 2026-12-18 · 09:15–15:15
+
+- 2026-12-16 · 09:15–15:15 · Europe/London · 2026-12-14 – 2026-12-18 · 09:15–15:15
+
+- 2026-12-17 · 09:15–15:15 · Europe/London · 2026-12-14 – 2026-12-18 · 09:15–15:15
+
+- 2026-12-18 · 09:15–15:15 · Europe/London · 2026-12-14 – 2026-12-18 · 09:15–15:15
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.richereducation.co.uk/advanced-science-christmas-camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/advanced-science-christmas-camps/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/) · 2026-11-08
+
+## CP2087 · Richer Education · Christmas NAO V6
+
+Reino Unido · More House School · 22–24 Pont Street · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 13–17 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Programación práctica del robot humanoide NAO V6. Admite distintos niveles.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 2026-12-14 – 2026-12-18 · 09:15–15:15
+
+**Precio / año:** 2026 · 899 GBP por 5 días según la tarifa de la organización.
+
+**Suplementos:** Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No cumple la edad publicada para este grupo.
+
+**Oscar:** No cumple la edad publicada para este grupo.
+
+**Motivo de selección:** 2026-12-14 – 2026-12-18 · 09:15–15:15
+
+### Antes de solicitar plaza
+
+- Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+### 2026-12-14 – 2026-12-18 · 09:15–15:15
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Precio:** 899 GBP por 5 días según la tarifa de la organización.
+
+**Suplementos:** Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.
+
+- 2026-12-14 · 09:15–15:15 · Europe/London · 2026-12-14 – 2026-12-18 · 09:15–15:15
+
+- 2026-12-15 · 09:15–15:15 · Europe/London · 2026-12-14 – 2026-12-18 · 09:15–15:15
+
+- 2026-12-16 · 09:15–15:15 · Europe/London · 2026-12-14 – 2026-12-18 · 09:15–15:15
+
+- 2026-12-17 · 09:15–15:15 · Europe/London · 2026-12-14 – 2026-12-18 · 09:15–15:15
+
+- 2026-12-18 · 09:15–15:15 · Europe/London · 2026-12-14 – 2026-12-18 · 09:15–15:15
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.richereducation.co.uk/humanoid-robotics-christmas-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/humanoid-robotics-christmas-camp/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/) · 2026-11-08
+
+## CP2088 · Richer Education · February Half-Term Science
+
+Reino Unido · More House School · 22–24 Pont Street · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–8 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Experimentos científicos y actividades prácticas con docentes de STEAM.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 2027-02-15 – 2027-02-19 · 09:00–15:00
+
+**Precio / año:** 2027 · 650 GBP por 5 días según la tarifa de la organización.
+
+**Suplementos:** Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No cumple la edad publicada para este grupo.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** 2027-02-15 – 2027-02-19 · 09:00–15:00
+
+### Antes de solicitar plaza
+
+- Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+### 2027-02-15 – 2027-02-19 · 09:00–15:00
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** 650 GBP por 5 días según la tarifa de la organización.
+
+**Suplementos:** Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.
+
+- 2027-02-15 · 09:00–15:00 · Europe/London · 2027-02-15 – 2027-02-19 · 09:00–15:00
+
+- 2027-02-16 · 09:00–15:00 · Europe/London · 2027-02-15 – 2027-02-19 · 09:00–15:00
+
+- 2027-02-17 · 09:00–15:00 · Europe/London · 2027-02-15 – 2027-02-19 · 09:00–15:00
+
+- 2027-02-18 · 09:00–15:00 · Europe/London · 2027-02-15 – 2027-02-19 · 09:00–15:00
+
+- 2027-02-19 · 09:00–15:00 · Europe/London · 2027-02-15 – 2027-02-19 · 09:00–15:00
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.richereducation.co.uk/science-february-half-term/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/science-february-half-term/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/) · 2026-11-08
+
+## CP2089 · Richer Education · February Half-Term NAO V6
+
+Reino Unido · More House School · 22–24 Pont Street · London
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–17 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Programación práctica del robot humanoide NAO V6. Admite distintos niveles.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 2027-02-15 – 2027-02-19 · 09:15–15:15
+
+**Precio / año:** 2027 · 899 GBP por 5 días según la tarifa de la organización.
+
+**Suplementos:** Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** No cumple la edad publicada para este grupo.
+
+**Motivo de selección:** 2027-02-15 – 2027-02-19 · 09:15–15:15
+
+### Antes de solicitar plaza
+
+- Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+### 2027-02-15 – 2027-02-19 · 09:15–15:15
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**Precio:** 899 GBP por 5 días según la tarifa de la organización.
+
+**Suplementos:** Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel.
+
+- 2027-02-15 · 09:15–15:15 · Europe/London · 2027-02-15 – 2027-02-19 · 09:15–15:15
+
+- 2027-02-16 · 09:15–15:15 · Europe/London · 2027-02-15 – 2027-02-19 · 09:15–15:15
+
+- 2027-02-17 · 09:15–15:15 · Europe/London · 2027-02-15 – 2027-02-19 · 09:15–15:15
+
+- 2027-02-18 · 09:15–15:15 · Europe/London · 2027-02-15 – 2027-02-19 · 09:15–15:15
+
+- 2027-02-19 · 09:15–15:15 · Europe/London · 2027-02-15 – 2027-02-19 · 09:15–15:15
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.richereducation.co.uk/humanoid-robotics-february-half-term/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/humanoid-robotics-february-half-term/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.richereducation.co.uk/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

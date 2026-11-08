@@ -1244,7 +1244,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E115@family-stem.local
-DTSTAMP:20261108T085718Z
+DTSTAMP:20261108T191458Z
 SUMMARY:[Exposición · visita en familia] PAX East Boston 2027
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270426
@@ -1256,10 +1256,9 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Las reglas
   de visitante. Menores de 16 años necesitan acompañamiento adulto.. La
  s reglas de PAX East 2027 admiten menores durante el horario oficial. De
  sde 6 años se exige credencial de visitante. Menores de 16 años necesi
- tan acompañamiento adulto. Empresas: Los nombres de las compañías de 
- la edición seleccionada no han sido verificados\; la lista anterior no 
- garantiza la participación en la nueva temporada.. Fuente verificada el
-  2026-11-08.
+ tan acompañamiento adulto. Empresas: Family Gaming Zone ayuda a elegir 
+ videojuegos por edad. Confirmar su horario cuando se acerque la feria.. 
+ Fuente verificada el 2026-11-08.
 LOCATION:Boston · Thomas M. Menino Convention & Exhibition Center\, Esta
  dos Unidos
 URL:https://east.paxsite.com/en-us/info/faq.html
@@ -8138,6 +8137,26 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Programa pa
  eague\, IA educativa y programación.. Fuente verificada el 2026-11-08.
 LOCATION:Ilisimatusarfik · Nuuk\, Groenlandia
 URL:https://iserasuaat.gl/da/nyheder/laeringsfestival-for-matematik-og-naturfagsundervisere
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E639@family-stem.local
+DTSTAMP:20261108T191458Z
+SUMMARY:[Exposición · confirmar admisión de menores] Robot Drone Leagu
+ e · National Championship 2027 · Spectator visit
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270314
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Entrada gra
+ tuita para espectadores. Horario\, reglas de acompañamiento y límites 
+ de edad pendientes de confirmación. Entrada de adultos: Entrada gratuit
+ a para espectadores. Horario\, reglas de acompañamiento y límites de e
+ dad pendientes de confirmación..  Empresas: Misión por equipos Urban R
+ escue. Robots y drones completan tareas en una simulación de rescate.. 
+ Fuente verificada el 2026-11-08.
+LOCATION:East Tennessee State University · Johnson City\, TN\, Estados U
+ nidos
+URL:https://www.robotdroneleague.com/general-5
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

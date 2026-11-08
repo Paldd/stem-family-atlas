@@ -24359,6 +24359,92 @@
         "evidence": "Cotejado con la página oficial y las condiciones publicadas."
       },
       {
+        "id": "robot-drone-league-us",
+        "name": "Robot Drone League · Urban Rescue 2026/27",
+        "group": "regional",
+        "age_summary": "De Kindergarten a 6.º grado según el sistema escolar de Estados Unidos.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Misión por equipos Urban Rescue. Robots y drones completan tareas en una simulación de rescate.",
+        "categories": [
+          {
+            "name": "RDL Jr.",
+            "age": "De Kindergarten a 6.º grado según el sistema escolar de Estados Unidos.",
+            "age_rule": "De Kindergarten a 6.º grado según el sistema escolar de Estados Unidos.",
+            "team": "Participación por equipos. Confirmar composición y obligatoriedad de mentor según división y sede.",
+            "hardware": "Robots y drones. Comprobar componentes permitidos antes de elegir un kit.",
+            "entry": "La organización publica la inscripción de temporada. Confirmar plazas en la etapa elegida, composición del equipo, requisitos del mentor y participación de centros de otro país."
+          },
+          {
+            "name": "RDL",
+            "age": "La organización indica Middle School y High School. Confirmar curso mínimo y admisión.",
+            "age_rule": "La organización indica Middle School y High School. Confirmar curso mínimo y admisión.",
+            "team": "Participación por equipos. Confirmar composición y obligatoriedad de mentor según división y sede.",
+            "hardware": "Robots y drones. Comprobar componentes permitidos antes de elegir un kit.",
+            "entry": "Inscripción de equipos por sede. Confirmar disponibilidad de la etapa, bases vigentes y requisitos del equipo."
+          }
+        ],
+        "event_ids": [
+          "C4725",
+          "C4726",
+          "C4727",
+          "C4728",
+          "C4729",
+          "C4730",
+          "C4731",
+          "C4732",
+          "C4733",
+          "C4734"
+        ],
+        "legacy_ids": [],
+        "route": "Primero elegir RDL Jr. o división principal, y después una etapa local. La final nacional está abierta a los equipos clasificados de la división principal.",
+        "hardware": "Robots y drones. Comprobar componentes permitidos antes de elegir un kit.",
+        "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+        "importance": "Torneos regionales de Estados Unidos, final nacional de la división principal y circuito júnior independiente.",
+        "strengths": "Misión por equipos Urban Rescue. Robots y drones completan tareas en una simulación de rescate.",
+        "requirements": [
+          "Participación por equipos. Confirmar composición y obligatoriedad de mentor según división y sede."
+        ],
+        "nuances": [
+          "La organización publica la inscripción de temporada. Confirmar plazas en la etapa elegida, composición del equipo, requisitos del mentor y participación de centros de otro país.",
+          "Pueden participar equipos de la división principal clasificados en regionales. La organización no indica acceso de RDL Jr. a esta final."
+        ],
+        "cost": "175 USD por la inscripción de RDL Jr. Los kits A y B cuestan 850 y 750 USD en la tienda. Confirmar qué kit se requiere y si se permite llevar uno propio. 495 USD según la tarifa publicada para el registro de la división principal. El kit y el viaje se pagan aparte; confirmar presupuesto total.",
+        "award": "El resultado regional de la división principal puede dar acceso a la final nacional. Confirmar premios júnior en la etapa elegida.",
+        "sources": [
+          {
+            "url": "https://www.robotdroneleague.com/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.robotdroneleague.com/rdl-jr",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.robotdroneleague.com/copy-of-the-challenge",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.robotdroneleague.com/register",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.robotdroneleague.com/general-5",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -29635,7 +29721,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 303. Se conservan las 46 rutas previas. Los formatos brasileños se separan, y Robofest LATAM y BajaBot tienen categorías propias. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, circuitos y programas: 304. Se conservan las 46 vías anteriores. Los formatos brasileños se presentan por separado. Robofest LATAM y BajaBot se describen según sus categorías. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",
