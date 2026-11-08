@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-La base tiene 10032 fichas, con 4552 de competiciones, 526 de eventos y 4954 de campamentos o programas. Hay 299 perfiles de ligas y programas. Las 429 fichas de exposiciones importantes o especializadas corresponden a ediciones y sedes.
+Fichas en la base: 10043; competiciones: 4556; eventos: 528; campamentos / programas: 4959. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 431 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros específicos para 226 de 249 países y territorios. Países con auditoría completa: 0. Revisión de archivo v51: 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
+Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| Norteamérica | 40 | 1898 | 96 | 1244 |
+| América del Norte | 40 | 1899 | 98 | 1248 |
 | América del Sur | 14 | 414 | 37 | 199 |
 | Europa | 52 | 578 | 106 | 1425 |
 | África | 53 | 234 | 28 | 92 |
 | Asia | 49 | 1130 | 131 | 1648 |
-| Oceanía | 20 | 160 | 29 | 331 |
+| Oceanía | 25 | 162 | 29 | 332 |
 
-Fichas interregionales o mundiales sin continente único: 160. América del Norte incluye Centroamérica y el Caribe. Las cifras corresponden al inventario de la base y no miden su grado de cobertura.
+Fichas interregionales o globales sin asignar a un continente: 161. América del Norte incluye América Central y el Caribe. Las cifras describen el inventario de la base.
 
-VEX: 814 de 4552 fichas de competición (17.9%). Es un desequilibrio claro de cobertura.
+VEX: 814 de 4556 fichas de competición (17.9%). Es un desequilibrio claro de cobertura.
 
 ## Lo que queda
 
@@ -796,6 +796,8 @@ VEX: 814 de 4552 fichas de competición (17.9%). Es un desequilibrio claro de co
 - **MWC Shanghai 2027 · Robotics & AI** — China; 2027-06-23 – 2027-06-25. Los niños del 6/9 no pueden. https://www.mwcshanghai.com/
 - **FIEE 2027 · Industrial Automation & Connectivity** — Brasil; 2027-09-14 – 2027-09-17. Los niños del 6/9 no pueden. https://www.fiee.com.br/pt-br/o-evento.html
 - **Japan Drone 2027 · Drones × AI** — Japón; 2027-06-02 – 2027-06-04. el permiso de entrada de niños. https://ssl.japan-drone.com/outline/index.html
+- **Hawaii State Elementary STEM Expo 2027** — Estados Unidos; 2027-04-09. con un adulto; condiciones de admisión adulta por separado. https://www.hawaiiacademyofscience.org/elementary-expo
+- **Hawaii STEM Conference 2027** — Estados Unidos; 2027-04-07 – 2027-04-08. el permiso de entrada de niños. https://www.hawaiistemconference.org/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 1925 fichas en 126 países. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base a 2026-11-08. 1927 fichas en 126 países. Cada ficha incluye la fecha de consulta de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -148020,9 +148020,9 @@ San Cristóbal y Nieves · Basseterre
 
 Islas Cook · CEIT Robotics & Computer Lab · USP Takamoa · Rarotonga
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
-**edad:** Confirmar la edad en las reglas de la sesión concreta.
+**edad:** 13–18 años y escolarización. No se exige experiencia previa en robótica.
 
 **Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
 
@@ -148040,9 +148040,9 @@ Islas Cook · CEIT Robotics & Computer Lab · USP Takamoa · Rarotonga
 
 **Pago:** Confirmar el importe final y las condiciones de reembolso antes de pagar.
 
-**Matvey:** Confirmar la edad en las reglas de la sesión concreta.
+**Matvey:** No. El club admite a partir de los 13 años.
 
-**Oscar:** Confirmar la edad en las reglas de la sesión concreta.
+**Oscar:** No. El club admite a partir de los 13 años.
 
 **Motivo de la selección:** Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.
 
@@ -148055,6 +148055,8 @@ Islas Cook · CEIT Robotics & Computer Lab · USP Takamoa · Rarotonga
 - [Página oficial del organizador](https://cocobots.org/home/register/) · 2026-11-07
 
 - [Página oficial del organizador](https://cocobots.org/) · 2026-11-07
+
+- [Página de la organización o reglamento de la categoría.](https://form.jotform.com/ciceit/robotics-registration-form) · 2026-11-08
 
 ## CP1852 · Cocobots · Kuki Code Avengers
 
@@ -154883,6 +154885,200 @@ Kenia · Westlands Primary · Nairobi
 - [Página de la organización o reglamento de la categoría.](https://www.iworth.co.ke/robotics) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://www.iworth.co.ke/events) · 2026-11-08
+
+## CP1926 · Keiki Coders · Winter Camp
+
+Estados Unidos · Hokulani Elementary · Honolulu
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Programación, robótica, ingeniería y creatividad digital. En el primer turno programan un rover y en el segundo construyen un vehículo submarino.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 21–24 y 28–31 de diciembre de 2026. Media jornada 08:00–12:00. Jornada completa 08:00–15:30 y los días 24 y 31 de diciembre hasta las 14:00 HST.
+
+**Precio / año:** 2026 · Por turno de 4 días, USD 225 de mañana o USD 315 a jornada completa. Ambos turnos, 8 días, USD 400 de mañana o USD 575 a jornada completa.
+
+**Incluido:** Se proporcionan portátiles, dispositivos, kits de robótica y materiales didácticos.
+
+**Suplementos:** Descuento para hermanos del 10%. Confirmar a quién se aplica. El almuerzo es opcional a jornada completa y se indica USD 80 para el paquete de ambos turnos.
+
+**Pago:** Reembolso íntegro hasta el 30 de noviembre de 2026 a las 23:59 HST. Del 1 al 15 de diciembre de 2026 a las 23:59 HST se retienen USD 50. Después no hay reembolso ordinario.
+
+**Matvey:** Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.
+
+**Oscar:** Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.
+
+**Motivo de selección:** 21–24 y 28–31 de diciembre de 2026. Media jornada 08:00–12:00. Jornada completa 08:00–15:30 y los días 24 y 31 de diciembre hasta las 14:00 HST.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Mission: Outer Space · Mañana 08:00–12:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** USD 225 por 4 días.
+
+- 2026-12-21 · 08:00–12:00 · Pacific/Honolulu · Mission: Outer Space
+
+- 2026-12-22 · 08:00–12:00 · Pacific/Honolulu · Mission: Outer Space
+
+- 2026-12-23 · 08:00–12:00 · Pacific/Honolulu · Mission: Outer Space
+
+- 2026-12-24 · 08:00–12:00 · Pacific/Honolulu · Mission: Outer Space
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+**Matvey:** Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.
+
+**Oscar:** Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.
+
+[fuente](https://www.keikicoders.com/winter-camp)
+
+### Mission: Outer Space · Jornada completa 08:00–15:30
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** USD 315 por 4 días.
+
+- 2026-12-21 · 08:00–15:30 · Pacific/Honolulu · Mission: Outer Space
+
+- 2026-12-22 · 08:00–15:30 · Pacific/Honolulu · Mission: Outer Space
+
+- 2026-12-23 · 08:00–15:30 · Pacific/Honolulu · Mission: Outer Space
+
+- 2026-12-24 · 08:00–14:00 · Pacific/Honolulu · Mission: Outer Space
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+**Matvey:** Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.
+
+**Oscar:** Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.
+
+[fuente](https://www.keikicoders.com/winter-camp)
+
+### Mission: Deep Sea · Mañana 08:00–12:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** USD 225 por 4 días.
+
+- 2026-12-28 · 08:00–12:00 · Pacific/Honolulu · Mission: Deep Sea
+
+- 2026-12-29 · 08:00–12:00 · Pacific/Honolulu · Mission: Deep Sea
+
+- 2026-12-30 · 08:00–12:00 · Pacific/Honolulu · Mission: Deep Sea
+
+- 2026-12-31 · 08:00–12:00 · Pacific/Honolulu · Mission: Deep Sea
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+**Matvey:** Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.
+
+**Oscar:** Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.
+
+[fuente](https://www.keikicoders.com/winter-camp)
+
+### Mission: Deep Sea · Jornada completa 08:00–15:30
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** USD 315 por 4 días.
+
+- 2026-12-28 · 08:00–15:30 · Pacific/Honolulu · Mission: Deep Sea
+
+- 2026-12-29 · 08:00–15:30 · Pacific/Honolulu · Mission: Deep Sea
+
+- 2026-12-30 · 08:00–15:30 · Pacific/Honolulu · Mission: Deep Sea
+
+- 2026-12-31 · 08:00–14:00 · Pacific/Honolulu · Mission: Deep Sea
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+**Matvey:** Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.
+
+**Oscar:** Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.
+
+[fuente](https://www.keikicoders.com/winter-camp)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.keikicoders.com/winter-camp) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.keikicoders.com/) · 2026-11-08
+
+## CP1927 · Bright Beginnings · English Camp
+
+Estados Unidos · Kahala Mall · Honolulu
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** La portada de invierno indica 4–16 años y English Camp indica un mínimo de 5 años. Ambas edades de la familia encajan. Se evalúa el nivel de inglés al ingresar.
+
+**Idioma:** 15 horas de inglés por semana. El inglés se usa con los docentes y durante las excursiones educativas.
+
+**Programa:** Inglés en grupos pequeños y excursiones temáticas. Entre las jornadas posibles hay biología marina, geología y naturaleza. Confirmar el tema de la semana elegida.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Período de invierno del 14 de diciembre de 2026 al 26 de febrero de 2027 y verano del 12 de julio al 27 de agosto de 2027. Entre semana 09:00–16:00. Confirmar semanas concretas y cierres festivos.
+
+**Precio / año:** 2026 · Invierno, 5 días de ESL. USD 767 de mañana o USD 1102 a jornada completa. La tarifa de invierno indica USD 170 de primera inscripción en ESL y la página del programa indica USD 150. Cotejar la factura final.
+
+**Incluido:** Inglés en grupos pequeños y excursiones temáticas. Entre las jornadas posibles hay biología marina, geología y naturaleza. Confirmar el tema de la semana elegida.
+
+**Suplementos:** Impuesto 4.712%. Para tarjeta con dirección de facturación fuera de EE. UU. se añade 4.5%. Almuerzo USD 14, transporte USD 26 al día o USD 130 por semana. Descuento del 10% en matrícula para cada menor adicional.
+
+**Pago:** La cuota de inscripción no es reembolsable. La devolución de la matrícula depende del plazo de cancelación y del canal de inscripción.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Período de invierno del 14 de diciembre de 2026 al 26 de febrero de 2027 y verano del 12 de julio al 27 de agosto de 2027. Entre semana 09:00–16:00. Confirmar semanas concretas y cierres festivos.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Período de invierno
+
+**Fechas / estado:** 2026-12-14 — 2027-02-26
+
+**Precio:** Invierno, 5 días de ESL. USD 767 de mañana o USD 1102 a jornada completa. La tarifa de invierno indica USD 170 de primera inscripción en ESL y la página del programa indica USD 150. Cotejar la factura final.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://bbeslhawaii.com/)
+
+### Período de verano
+
+**Fechas / estado:** 2027-07-12 — 2027-08-27
+
+**Precio:** Las fechas de verano están publicadas. Confirmar la tarifa específica del verano de 2027.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://bbeslhawaii.com/english-camp-in-hawaii/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://bbeslhawaii.com/english-camp-in-hawaii/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://bbeslhawaii.com/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://bbeslhawaii.com/terms/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

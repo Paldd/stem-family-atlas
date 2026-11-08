@@ -9706,25 +9706,25 @@ Se ha comprobado: 2026-11-07
 
 lugar: Islas Cook · CEIT Robotics & Computer Lab · USP Takamoa · Rarotonga
 Fecha: Solicitud hasta el 28 de febrero de 2027. Actividades de marzo a septiembre, 1–2 veces por semana lectiva, 15:30–17:30. Orientación de marzo por confirmar.
-edad: Confirmar la edad en las reglas de la sesión concreta.
-Matvey: Confirmar la edad en las reglas de la sesión concreta.
-Oscar: Confirmar la edad en las reglas de la sesión concreta.
+edad: 13–18 años y escolarización. No se exige experiencia previa en robótica.
+Matvey: No. El club admite a partir de los 13 años.
+Oscar: No. El club admite a partir de los 13 años.
 Formato: regular
 Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
 Marca de idioma: unconfirmed; apoyo: no declarado
 Precio: 150 al año por menor según la página con signo $. Descuento del 50% para hermano adicional. Confirmar moneda y condiciones de factura.
-Acceso: Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.
-Limitaciones: Club para principiantes y participantes con experiencia. Construcción y programación, VEX y REV Robotics, mentores y retos internos.
+Acceso: 13–18 años y escolarización. No se exige experiencia previa en robótica.
+Limitaciones: Para optar al equipo de Cook Islands se exige participar en el club, completar tareas y acreditar documentos según las reglas locales. El formulario indica pasaporte neozelandés con sello Cook Islands y vigencia posterior al 30 de abril de 2028, o pasaporte con acreditación de residencia permanente en Cook Islands o equivalente.
 Fuente: https://cocobots.org/home/register/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### L684 · Cocobots · Kuki Code Avengers
 
 lugar: Islas Cook · CEIT Robotics & Computer Lab · USP Takamoa · Rarotonga
 Fecha: Fechas de la próxima convocatoria sin publicar.
-edad: 8–13 años según el programa principal. La edad de la sesión vacacional concreta puede variar.
-Matvey: Edad adecuada. Confirmar plaza e idioma de la actividad.
-Oscar: Por ahora no alcanza la edad mínima.
+edad: Club de 8–13 años. Confirmar fecha y plazas del próximo grupo.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: No. El club empieza a los 8 años.
 Formato: regular
 Idioma: El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
 Marca de idioma: unconfirmed; apoyo: no declarado
@@ -9732,7 +9732,7 @@ Precio: Tarifa de la convocatoria actual sin confirmar.
 Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
 Limitaciones: Programación, alfabetización digital, robótica y pequeñas competiciones educativas.
 Fuente: https://cocobots.org/code-avengers/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### L685 · Cocobots · Kuki Code Avengers Holiday Program
 
@@ -9746,9 +9746,9 @@ Idioma: El idioma de instrucción de la sesión concreta no está indicado. Conf
 Marca de idioma: unconfirmed; apoyo: no declarado
 Precio: Tarifa de la convocatoria actual sin confirmar.
 Acceso: Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.
-Limitaciones: Programación, alfabetización digital, robótica y pequeñas competiciones educativas.
+Limitaciones: La página muestra programas pasados. El próximo turno y sus condiciones aún no están confirmados.
 Fuente: https://cocobots.org/events/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### L686 · Bermuda Zoological Society · Science Club
 
@@ -11044,6 +11044,22 @@ Precio: Juegos gratuitos.
 Acceso: Juegos educativos gratuitos sobre lógica por bloques, modelado 3D y componentes electrónicos.
 Limitaciones: Se anuncian 5 idiomas de interfaz. Comprobar el idioma del módulo y la dificultad en la aplicación.
 Fuente: https://smartiners.network/jeux/
+Se ha comprobado: 2026-11-08
+
+### L767 · Canterbury Robotics · VEX IQ & V5 Build Day
+
+Lugar: Nueva Zelandia St Andrew's College · Green Centre · Christchurch
+Fecha: 2026-11-28 — 2026-11-28
+edad: Divisiones escolares de VEX IQ. Confirmar el corte exacto y el método de selección con Canterbury Robotics.
+Matvey: Condicional. Se exige participar con un equipo de Canterbury y cumplir los requisitos de la división.
+Oscar: Condicional. Se exige participar con un equipo de Canterbury y cumplir los requisitos de la división.
+formato: workshop
+Idioma: Información de la organización en inglés. Confirmar el idioma del jurado en las bases del torneo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La organización pide un donativo en moneda. El almuerzo BBQ se paga aparte.
+Acceso: Condicional. Se exige participar con un equipo de Canterbury y cumplir los requisitos de la división.
+Limitaciones: Jornada de montaje y práctica. Confirmar aparte el acceso de un equipo visitante.
+Fuente: https://www.canterburyrobotics.com/202627-events
 Se ha comprobado: 2026-11-08
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
@@ -78052,6 +78068,70 @@ Precio: 2026/27 · ZAR 12999 por el turno. Depósito ZAR 1000 para reservar. Kar
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No. Edad mínima publicada de 7 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://www.sugarbay.co.za/post/roblox-week-december-camp-2026
+Se ha comprobado: 2026-11-08
+
+### CP1926-20261221-20261224-space-am · Keiki Coders · Winter Camp · Mission: Outer Space · Mañana 08:00–12:00 · 2026-12-21–2026-12-24
+
+lugar: Estados Unidos · Hokulani Elementary · Honolulu
+Fecha: 2026-12-21 - 2026-12-24
+edad: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 225 por 4 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Oscar: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Suplementos: Descuento para hermanos del 10%. Confirmar a quién se aplica. El almuerzo es opcional a jornada completa y se indica USD 80 para el paquete de ambos turnos. Pago: Reembolso íntegro hasta el 30 de noviembre de 2026 a las 23:59 HST. Del 1 al 15 de diciembre de 2026 a las 23:59 HST se retienen USD 50. Después no hay reembolso ordinario.
+Fuente: https://www.keikicoders.com/winter-camp
+Se ha comprobado: 2026-11-08
+
+### CP1926-20261221-20261224-space-full · Keiki Coders · Winter Camp · Mission: Outer Space · Jornada completa 08:00–15:30 · 2026-12-21–2026-12-24
+
+lugar: Estados Unidos · Hokulani Elementary · Honolulu
+Fecha: 2026-12-21 - 2026-12-24
+edad: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 315 por 4 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Oscar: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Suplementos: Descuento para hermanos del 10%. Confirmar a quién se aplica. El almuerzo es opcional a jornada completa y se indica USD 80 para el paquete de ambos turnos. Pago: Reembolso íntegro hasta el 30 de noviembre de 2026 a las 23:59 HST. Del 1 al 15 de diciembre de 2026 a las 23:59 HST se retienen USD 50. Después no hay reembolso ordinario.
+Fuente: https://www.keikicoders.com/winter-camp
+Se ha comprobado: 2026-11-08
+
+### CP1926-20261228-20261231-sea-am · Keiki Coders · Winter Camp · Mission: Deep Sea · Mañana 08:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Estados Unidos · Hokulani Elementary · Honolulu
+Fecha: 2026-12-28 - 2026-12-31
+edad: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 225 por 4 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Oscar: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Suplementos: Descuento para hermanos del 10%. Confirmar a quién se aplica. El almuerzo es opcional a jornada completa y se indica USD 80 para el paquete de ambos turnos. Pago: Reembolso íntegro hasta el 30 de noviembre de 2026 a las 23:59 HST. Del 1 al 15 de diciembre de 2026 a las 23:59 HST se retienen USD 50. Después no hay reembolso ordinario.
+Fuente: https://www.keikicoders.com/winter-camp
+Se ha comprobado: 2026-11-08
+
+### CP1926-20261228-20261231-sea-full · Keiki Coders · Winter Camp · Mission: Deep Sea · Jornada completa 08:00–15:30 · 2026-12-28–2026-12-31
+
+lugar: Estados Unidos · Hokulani Elementary · Honolulu
+Fecha: 2026-12-28 - 2026-12-31
+edad: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 315 por 4 días. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Oscar: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Suplementos: Descuento para hermanos del 10%. Confirmar a quién se aplica. El almuerzo es opcional a jornada completa y se indica USD 80 para el paquete de ambos turnos. Pago: Reembolso íntegro hasta el 30 de noviembre de 2026 a las 23:59 HST. Del 1 al 15 de diciembre de 2026 a las 23:59 HST se retienen USD 50. Después no hay reembolso ordinario.
+Fuente: https://www.keikicoders.com/winter-camp
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

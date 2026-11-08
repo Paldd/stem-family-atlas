@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 264,
+    "version": 265,
     "status": "implementation_snapshot",
-    "events": 10032,
-    "competitions": 4552,
+    "events": 10043,
+    "competitions": 4556,
     "league_profiles": 299,
-    "camp_dossiers": 1925,
+    "camp_dossiers": 1927,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 526,
+    "exhibitions_events": 528,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,10 +928,10 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 263,
+    "version": 264,
     "status": "implementation_snapshot",
-    "events": 10026,
-    "competitions": 4546,
+    "events": 10032,
+    "competitions": 4552,
     "league_profiles": 299,
     "camp_dossiers": 1925,
     "budget_offers": 312,
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 264,
+    "prepared_ui_version": 265,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 263,
-    "previous_verified_commit": "2723db8dc74fe04c52e20fa25e0c91403c4a3857"
+    "previous_verified_ui_version": 264,
+    "previous_verified_commit": "e9f12a40241c5a5a7157bef6114bed9d983597f3"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 263,
-    "published_version": 263,
-    "latest_source_commit": "2723db8dc74fe04c52e20fa25e0c91403c4a3857",
-    "published_commit": "2723db8dc74fe04c52e20fa25e0c91403c4a3857",
-    "latest_workflow": 42456871406,
+    "latest_source_version": 264,
+    "published_version": 264,
+    "latest_source_commit": "e9f12a40241c5a5a7157bef6114bed9d983597f3",
+    "published_commit": "e9f12a40241c5a5a7157bef6114bed9d983597f3",
+    "latest_workflow": 42458513169,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -26626,5 +26626,82 @@
     "source_requests": 21,
     "audit": "data/online-entry-and-game-design-audit-v264.json",
     "source_receipts": "data/online-entry-and-game-design-source-receipts-v264.json"
+  },
+  "pacific_data_and_family_stem_v265": {
+    "version": 265,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4554",
+      "C4555",
+      "C4556",
+      "L767",
+      "E527",
+      "E528",
+      "C4557"
+    ],
+    "new_dossiers": [
+      "CP1926",
+      "CP1927"
+    ],
+    "scheduled_rows_from_dossiers": 4,
+    "refreshed_event_ids": [
+      "L683",
+      "C3390",
+      "L684",
+      "L685"
+    ],
+    "legacy_overlay_event_ids": [
+      "L683",
+      "C3390",
+      "L684",
+      "L685"
+    ],
+    "dataviz_main": "C4554",
+    "dataviz_schools": "C4555",
+    "dataviz_school_eligible_iso": [
+      "ASM",
+      "COK",
+      "FSM",
+      "FJI",
+      "PYF",
+      "GUM",
+      "KIR",
+      "MHL",
+      "NRU",
+      "NCL",
+      "NIU",
+      "MNP",
+      "PLW",
+      "PNG",
+      "PCN",
+      "WSM",
+      "SLB",
+      "TKL",
+      "TON",
+      "TUV",
+      "VUT",
+      "WLF"
+    ],
+    "new_geographies_archived_school_eligibility": [
+      "KIR",
+      "NRU",
+      "PCN",
+      "TKL",
+      "TUV"
+    ],
+    "dataviz_2027_announced": false,
+    "canterbury_final": "C4556",
+    "canterbury_build_day": "L767",
+    "hawaii_elementary_expo": "E527",
+    "hawaii_stem_conference": "E528",
+    "hawaii_frc_regional": "C4557",
+    "keiki_coders": "CP1926",
+    "bright_beginnings": "CP1927",
+    "cocobots_club": "CP1851",
+    "source_requests": 22,
+    "audit": "data/pacific-data-and-family-stem-audit-v265.json",
+    "source_receipts": "data/pacific-data-and-family-stem-source-receipts-v265.json"
   }
 }

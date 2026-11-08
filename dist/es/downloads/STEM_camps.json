@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 4954,
-      "holiday": 4613,
+      "records": 4959,
+      "holiday": 4617,
       "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1037,
@@ -34761,7 +34761,7 @@
       "deadline": "2027-02-28",
       "period": "Solicitud hasta el 28 de febrero de 2027. Actividades de marzo a septiembre, 1–2 veces por semana lectiva, 15:30–17:30. Orientación de marzo por confirmar.",
       "date_status": "No se ha anunciado",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
       "status": "Idea",
       "source": "https://cocobots.org/home/register/",
@@ -34769,13 +34769,17 @@
         {
           "url": "https://cocobots.org/",
           "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://form.jotform.com/ciceit/robotics-registration-form",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
-      "age": "Confirmar la edad en las reglas de la sesión concreta.",
-      "mat": "Confirmar la edad en las reglas de la sesión concreta.",
-      "osc": "Confirmar la edad en las reglas de la sesión concreta.",
+      "age": "13–18 años y escolarización. No se exige experiencia previa en robótica.",
+      "mat": "No. El club admite a partir de los 13 años.",
+      "osc": "No. El club admite a partir de los 13 años.",
       "format": "Campamento diurno sin alojamiento.",
-      "entry": "Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.",
+      "entry": "13–18 años y escolarización. No se exige experiencia previa en robótica.",
       "gear": "",
       "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
       "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
@@ -34786,7 +34790,7 @@
       "reward": "",
       "priority": "P2 — participación según requisitos",
       "action": "Solicitud hasta el 28 de febrero de 2027. Actividades de marzo a septiembre, 1–2 veces por semana lectiva, 15:30–17:30. Orientación de marzo por confirmar.",
-      "note": "Club para principiantes y participantes con experiencia. Construcción y programación, VEX y REV Robotics, mentores y retos internos.",
+      "note": "Para optar al equipo de Cook Islands se exige participar en el club, completar tareas y acreditar documentos según las reglas locales. El formulario indica pasaporte neozelandés con sello Cook Islands y vigencia posterior al 30 de abril de 2028, o pasaporte con acreditación de residencia permanente en Cook Islands o equivalente.",
       "themes": [
         "robotics",
         "coding",
@@ -34799,7 +34803,7 @@
       "evidence_level": "event_page",
       "date_scope": "programme_watch",
       "deadline_label": "Solicitud al club",
-      "registration_status": "El organizador abrió solicitudes. Confirmar composición de grupos y acceso de visitantes.",
+      "registration_status": "Se publicó el formulario para 2027. La selección del equipo viajero es aparte.",
       "related_ids": [
         "L684"
       ]
@@ -34819,7 +34823,7 @@
       "deadline": "",
       "period": "Fechas de la próxima convocatoria sin publicar.",
       "date_status": "No se ha anunciado",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
       "status": "Idea",
       "source": "https://cocobots.org/code-avengers/",
@@ -34829,9 +34833,9 @@
           "label": "Reglas y condiciones de admisión"
         }
       ],
-      "age": "8–13 años según el programa principal. La edad de la sesión vacacional concreta puede variar.",
-      "mat": "Edad adecuada. Confirmar plaza e idioma de la actividad.",
-      "osc": "Por ahora no alcanza la edad mínima.",
+      "age": "Club de 8–13 años. Confirmar fecha y plazas del próximo grupo.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "No. El club empieza a los 8 años.",
       "format": "Campamento diurno sin alojamiento.",
       "entry": "Confirmar edad, horario, idioma y acceso de visitantes para el grupo concreto.",
       "gear": "",
@@ -34876,7 +34880,7 @@
       "deadline": "",
       "period": "Fechas de la próxima convocatoria sin publicar.",
       "date_status": "No se ha anunciado",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
       "status": "Idea",
       "source": "https://cocobots.org/events/",
@@ -34905,7 +34909,7 @@
       "reward": "",
       "priority": "P2 — participación según requisitos",
       "action": "Confirmar idioma de las actividades, acceso de visitantes y disponibilidad.",
-      "note": "Programación, alfabetización digital, robótica y pequeñas competiciones educativas.",
+      "note": "La página muestra programas pasados. El próximo turno y sus condiciones aún no están confirmados.",
       "themes": [
         "robotics",
         "coding",
@@ -39319,6 +39323,57 @@
       "date_scope": "programme_watch",
       "related_ids": [
         "L765"
+      ]
+    },
+    {
+      "id": "L767",
+      "title": "Canterbury Robotics · VEX IQ & V5 Build Day",
+      "block": "Campamentos",
+      "country": "Nueva Zelanda",
+      "region": "Oceanía",
+      "iso": [
+        "NZL"
+      ],
+      "city": "St Andrew's College · Green Centre · Christchurch",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.canterburyrobotics.com/202627-events",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Divisiones escolares de VEX IQ. Confirmar el corte exacto y el método de selección con Canterbury Robotics.",
+      "mat": "Condicional. Se exige participar con un equipo de Canterbury y cumplir los requisitos de la división.",
+      "osc": "Condicional. Se exige participar con un equipo de Canterbury y cumplir los requisitos de la división.",
+      "format": "Jornada de entrenamiento de 10:00 a 16:00 hora local para equipos Canterbury VEX IQ y V5.",
+      "entry": "Condicional. Se exige participar con un equipo de Canterbury y cumplir los requisitos de la división.",
+      "gear": "VEX IQ / VEX V5",
+      "language": "Información de la organización en inglés. Confirmar el idioma del jurado en las bases del torneo.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Información de la organización en inglés. Confirmar el idioma del jurado en las bases del torneo.",
+      "cost": "La organización pide un donativo en moneda. El almuerzo BBQ se paga aparte.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Jornada de montaje y práctica. Confirmar aparte el acceso de un equipo visitante.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Programa formativo técnico",
+      "participation": "workshop",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page",
+      "date_scope": "activity_start",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "C4556"
       ]
     },
     {
@@ -396904,6 +396959,434 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "sugar-bay-roblox-week-december-2026",
       "camp_programme_id": "CP1924",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1926-20261221-20261224-space-am",
+      "block": "Campamentos",
+      "title": "Keiki Coders · Winter Camp · Mission: Outer Space · Mañana 08:00–12:00 · 2026-12-21–2026-12-24",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Hokulani Elementary · Honolulu",
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "period": "21–24 y 28–31 de diciembre de 2026. Media jornada 08:00–12:00. Jornada completa 08:00–15:30 y los días 24 y 31 de diciembre hasta las 14:00 HST.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Programación, robótica, ingeniería y creatividad digital. En el primer turno programan un rover y en el segundo construyen un vehículo submarino.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2026/27 · USD 225 por 4 días. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://www.keikicoders.com/winter-camp",
+      "references": [
+        {
+          "url": "https://www.keikicoders.com/winter-camp",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.keikicoders.com/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Oscar: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Suplementos: Descuento para hermanos del 10%. Confirmar a quién se aplica. El almuerzo es opcional a jornada completa y se indica USD 80 para el paquete de ambos turnos. Pago: Reembolso íntegro hasta el 30 de noviembre de 2026 a las 23:59 HST. Del 1 al 15 de diciembre de 2026 a las 23:59 HST se retienen USD 50. Después no hay reembolso ordinario.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "coding",
+        "robotics",
+        "engineering",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "keiki-coders-honolulu-winter-2026",
+      "camp_programme_id": "CP1926",
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Honolulu",
+          "start_utc": "2026-12-21T18:00:00Z",
+          "end_utc": "2026-12-21T22:00:00Z",
+          "topic": "Mission: Outer Space",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Honolulu",
+          "start_utc": "2026-12-22T18:00:00Z",
+          "end_utc": "2026-12-22T22:00:00Z",
+          "topic": "Mission: Outer Space",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Honolulu",
+          "start_utc": "2026-12-23T18:00:00Z",
+          "end_utc": "2026-12-23T22:00:00Z",
+          "topic": "Mission: Outer Space",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-24",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Honolulu",
+          "start_utc": "2026-12-24T18:00:00Z",
+          "end_utc": "2026-12-24T22:00:00Z",
+          "topic": "Mission: Outer Space",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1926-20261221-20261224-space-full",
+      "block": "Campamentos",
+      "title": "Keiki Coders · Winter Camp · Mission: Outer Space · Jornada completa 08:00–15:30 · 2026-12-21–2026-12-24",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Hokulani Elementary · Honolulu",
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "period": "21–24 y 28–31 de diciembre de 2026. Media jornada 08:00–12:00. Jornada completa 08:00–15:30 y los días 24 y 31 de diciembre hasta las 14:00 HST.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Programación, robótica, ingeniería y creatividad digital. En el primer turno programan un rover y en el segundo construyen un vehículo submarino.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2026/27 · USD 315 por 4 días. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://www.keikicoders.com/winter-camp",
+      "references": [
+        {
+          "url": "https://www.keikicoders.com/winter-camp",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.keikicoders.com/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Oscar: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Suplementos: Descuento para hermanos del 10%. Confirmar a quién se aplica. El almuerzo es opcional a jornada completa y se indica USD 80 para el paquete de ambos turnos. Pago: Reembolso íntegro hasta el 30 de noviembre de 2026 a las 23:59 HST. Del 1 al 15 de diciembre de 2026 a las 23:59 HST se retienen USD 50. Después no hay reembolso ordinario.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "coding",
+        "robotics",
+        "engineering",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "keiki-coders-honolulu-winter-2026",
+      "camp_programme_id": "CP1926",
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "start_time": "08:00",
+          "end_time": "15:30",
+          "timezone": "Pacific/Honolulu",
+          "start_utc": "2026-12-21T18:00:00Z",
+          "end_utc": "2026-12-22T01:30:00Z",
+          "topic": "Mission: Outer Space",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "08:00",
+          "end_time": "15:30",
+          "timezone": "Pacific/Honolulu",
+          "start_utc": "2026-12-22T18:00:00Z",
+          "end_utc": "2026-12-23T01:30:00Z",
+          "topic": "Mission: Outer Space",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "08:00",
+          "end_time": "15:30",
+          "timezone": "Pacific/Honolulu",
+          "start_utc": "2026-12-23T18:00:00Z",
+          "end_utc": "2026-12-24T01:30:00Z",
+          "topic": "Mission: Outer Space",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-24",
+          "start_time": "08:00",
+          "end_time": "14:00",
+          "timezone": "Pacific/Honolulu",
+          "start_utc": "2026-12-24T18:00:00Z",
+          "end_utc": "2026-12-25T00:00:00Z",
+          "topic": "Mission: Outer Space",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1926-20261228-20261231-sea-am",
+      "block": "Campamentos",
+      "title": "Keiki Coders · Winter Camp · Mission: Deep Sea · Mañana 08:00–12:00 · 2026-12-28–2026-12-31",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Hokulani Elementary · Honolulu",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "period": "21–24 y 28–31 de diciembre de 2026. Media jornada 08:00–12:00. Jornada completa 08:00–15:30 y los días 24 y 31 de diciembre hasta las 14:00 HST.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Programación, robótica, ingeniería y creatividad digital. En el primer turno programan un rover y en el segundo construyen un vehículo submarino.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2026/27 · USD 225 por 4 días. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://www.keikicoders.com/winter-camp",
+      "references": [
+        {
+          "url": "https://www.keikicoders.com/winter-camp",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.keikicoders.com/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Oscar: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Suplementos: Descuento para hermanos del 10%. Confirmar a quién se aplica. El almuerzo es opcional a jornada completa y se indica USD 80 para el paquete de ambos turnos. Pago: Reembolso íntegro hasta el 30 de noviembre de 2026 a las 23:59 HST. Del 1 al 15 de diciembre de 2026 a las 23:59 HST se retienen USD 50. Después no hay reembolso ordinario.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "coding",
+        "robotics",
+        "engineering",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "keiki-coders-honolulu-winter-2026",
+      "camp_programme_id": "CP1926",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Honolulu",
+          "start_utc": "2026-12-28T18:00:00Z",
+          "end_utc": "2026-12-28T22:00:00Z",
+          "topic": "Mission: Deep Sea",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Honolulu",
+          "start_utc": "2026-12-29T18:00:00Z",
+          "end_utc": "2026-12-29T22:00:00Z",
+          "topic": "Mission: Deep Sea",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Honolulu",
+          "start_utc": "2026-12-30T18:00:00Z",
+          "end_utc": "2026-12-30T22:00:00Z",
+          "topic": "Mission: Deep Sea",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-31",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "Pacific/Honolulu",
+          "start_utc": "2026-12-31T18:00:00Z",
+          "end_utc": "2026-12-31T22:00:00Z",
+          "topic": "Mission: Deep Sea",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1926-20261228-20261231-sea-full",
+      "block": "Campamentos",
+      "title": "Keiki Coders · Winter Camp · Mission: Deep Sea · Jornada completa 08:00–15:30 · 2026-12-28–2026-12-31",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Hokulani Elementary · Honolulu",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "period": "21–24 y 28–31 de diciembre de 2026. Media jornada 08:00–12:00. Jornada completa 08:00–15:30 y los días 24 y 31 de diciembre hasta las 14:00 HST.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Programación, robótica, ingeniería y creatividad digital. En el primer turno programan un rover y en el segundo construyen un vehículo submarino.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2026/27 · USD 315 por 4 días. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://www.keikicoders.com/winter-camp",
+      "references": [
+        {
+          "url": "https://www.keikicoders.com/winter-camp",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.keikicoders.com/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Oscar: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Suplementos: Descuento para hermanos del 10%. Confirmar a quién se aplica. El almuerzo es opcional a jornada completa y se indica USD 80 para el paquete de ambos turnos. Pago: Reembolso íntegro hasta el 30 de noviembre de 2026 a las 23:59 HST. Del 1 al 15 de diciembre de 2026 a las 23:59 HST se retienen USD 50. Después no hay reembolso ordinario.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "coding",
+        "robotics",
+        "engineering",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "keiki-coders-honolulu-winter-2026",
+      "camp_programme_id": "CP1926",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "08:00",
+          "end_time": "15:30",
+          "timezone": "Pacific/Honolulu",
+          "start_utc": "2026-12-28T18:00:00Z",
+          "end_utc": "2026-12-29T01:30:00Z",
+          "topic": "Mission: Deep Sea",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "08:00",
+          "end_time": "15:30",
+          "timezone": "Pacific/Honolulu",
+          "start_utc": "2026-12-29T18:00:00Z",
+          "end_utc": "2026-12-30T01:30:00Z",
+          "topic": "Mission: Deep Sea",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "08:00",
+          "end_time": "15:30",
+          "timezone": "Pacific/Honolulu",
+          "start_utc": "2026-12-30T18:00:00Z",
+          "end_utc": "2026-12-31T01:30:00Z",
+          "topic": "Mission: Deep Sea",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-31",
+          "start_time": "08:00",
+          "end_time": "14:00",
+          "timezone": "Pacific/Honolulu",
+          "start_utc": "2026-12-31T18:00:00Z",
+          "end_utc": "2027-01-01T00:00:00Z",
+          "topic": "Mission: Deep Sea",
+          "ical_timed": true
+        }
+      ],
       "availability": {
         "status": "unconfirmed",
         "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."

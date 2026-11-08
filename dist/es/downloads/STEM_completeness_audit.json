@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10032,
-    "competition_cards": 4552,
-    "event_cards": 526,
-    "camp_cards": 4954,
+    "cards": 10043,
+    "competition_cards": 4556,
+    "event_cards": 528,
+    "camp_cards": 4959,
     "league_profiles": 299,
-    "major_exhibition_cards": 429,
+    "major_exhibition_cards": 431,
     "vex_cards": 814,
-    "countries_with_records": 226,
+    "countries_with_records": 231,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3276,
+      "total": 3283,
       "countries_with_records": 40,
-      "competitions": 1898,
-      "events": 134,
-      "major_exhibitions": 96,
-      "camps": 1244,
+      "competitions": 1899,
+      "events": 136,
+      "major_exhibitions": 98,
+      "camps": 1248,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -104,12 +104,12 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 524,
-      "countries_with_records": 20,
-      "competitions": 160,
+      "total": 527,
+      "countries_with_records": 25,
+      "competitions": 162,
       "events": 33,
       "major_exhibitions": 29,
-      "camps": 331,
+      "camps": 332,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido fijian tourist camp, nz días de estudio reales, australian national game/video contests y archivo escolar cerrado de french polynesia. se quedan lenguas / foreign admission camps, un calendario dinámico RCJA, otras islas y torneos locales."
     }
@@ -13381,6 +13381,28 @@
       "new": false
     },
     {
+      "id": "E527",
+      "name": "Hawaii State Elementary STEM Expo 2027",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2027-04-09",
+      "end": "2027-04-09",
+      "visitor_policy": "family",
+      "source": "https://www.hawaiiacademyofscience.org/elementary-expo",
+      "new": false
+    },
+    {
+      "id": "E528",
+      "name": "Hawaii STEM Conference 2027",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2027-04-07",
+      "end": "2027-04-08",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hawaiistemconference.org/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -14761,7 +14783,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 160,
+  "interregional_cards": 161,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -15798,8 +15820,8 @@
       }
     ],
     "counts": {
-      "records": 4954,
-      "holiday": 4613,
+      "records": 4959,
+      "holiday": 4617,
       "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1037,

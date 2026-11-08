@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1925,
+    "dossiers": 1927,
     "countries": 126,
     "swiss": 137,
     "by_status": {
@@ -38,7 +38,7 @@
       "published_2027": 517,
       "partial_2027": 141,
       "next_unannounced": 399,
-      "published_2026": 353,
+      "published_2026": 355,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2797
+    "source_urls": 2803
   },
   "countries": [
     {
@@ -437,7 +437,7 @@
     },
     {
       "country": "Estados Unidos",
-      "count": 143
+      "count": 145
     },
     {
       "country": "Sierra Leona",
@@ -318525,7 +318525,7 @@
       "country": "Islas Cook",
       "iso": "COK",
       "place": "CEIT Robotics & Computer Lab · USP Takamoa · Rarotonga",
-      "age": "Confirmar la edad en las reglas de la sesión concreta.",
+      "age": "13–18 años y escolarización. No se exige experiencia previa en robótica.",
       "themes": [
         "robotics",
         "coding",
@@ -318566,12 +318566,12 @@
       "accommodation": "Campamento diurno sin alojamiento.",
       "family_fit": {
         "matvey": {
-          "status": "unknown",
-          "detail": "Confirmar la edad en las reglas de la sesión concreta."
+          "status": "not_eligible",
+          "detail": "No. El club admite a partir de los 13 años."
         },
         "oscar": {
-          "status": "unknown",
-          "detail": "Confirmar la edad en las reglas de la sesión concreta."
+          "status": "not_eligible",
+          "detail": "No. El club admite a partir de los 13 años."
         }
       },
       "editorial_reason": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
@@ -318589,9 +318589,14 @@
           "url": "https://cocobots.org/",
           "title": "Página oficial del organizador",
           "checked": "2026-11-07"
+        },
+        {
+          "url": "https://form.jotform.com/ciceit/robotics-registration-form",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "programme_type": "regular_course",
       "catalog_participation": "regular",
       "related_event_ids": [
@@ -334731,6 +334736,522 @@
         "L764"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP1926",
+      "slug": "keiki-coders-honolulu-winter-2026",
+      "provider": "Keiki Coders · Winter Camp",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Hokulani Elementary · Honolulu",
+      "age": "Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera.",
+      "programme": "Programación, robótica, ingeniería y creatividad digital. En el primer turno programan un rover y en el segundo construyen un vehículo submarino.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "21–24 y 28–31 de diciembre de 2026. Media jornada 08:00–12:00. Jornada completa 08:00–15:30 y los días 24 y 31 de diciembre hasta las 14:00 HST.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "space-am",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Mission: Outer Space · Mañana 08:00–12:00",
+            "price": "USD 225 por 4 días.",
+            "source": "https://www.keikicoders.com/winter-camp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "Pacific/Honolulu",
+                "start_utc": "2026-12-21T18:00:00Z",
+                "end_utc": "2026-12-21T22:00:00Z",
+                "topic": "Mission: Outer Space",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "Pacific/Honolulu",
+                "start_utc": "2026-12-22T18:00:00Z",
+                "end_utc": "2026-12-22T22:00:00Z",
+                "topic": "Mission: Outer Space",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "Pacific/Honolulu",
+                "start_utc": "2026-12-23T18:00:00Z",
+                "end_utc": "2026-12-23T22:00:00Z",
+                "topic": "Mission: Outer Space",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "Pacific/Honolulu",
+                "start_utc": "2026-12-24T18:00:00Z",
+                "end_utc": "2026-12-24T22:00:00Z",
+                "topic": "Mission: Outer Space",
+                "ical_timed": true
+              }
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera."
+              }
+            }
+          },
+          {
+            "variant_key": "space-full",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Mission: Outer Space · Jornada completa 08:00–15:30",
+            "price": "USD 315 por 4 días.",
+            "source": "https://www.keikicoders.com/winter-camp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "08:00",
+                "end_time": "15:30",
+                "timezone": "Pacific/Honolulu",
+                "start_utc": "2026-12-21T18:00:00Z",
+                "end_utc": "2026-12-22T01:30:00Z",
+                "topic": "Mission: Outer Space",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "08:00",
+                "end_time": "15:30",
+                "timezone": "Pacific/Honolulu",
+                "start_utc": "2026-12-22T18:00:00Z",
+                "end_utc": "2026-12-23T01:30:00Z",
+                "topic": "Mission: Outer Space",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "08:00",
+                "end_time": "15:30",
+                "timezone": "Pacific/Honolulu",
+                "start_utc": "2026-12-23T18:00:00Z",
+                "end_utc": "2026-12-24T01:30:00Z",
+                "topic": "Mission: Outer Space",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "08:00",
+                "end_time": "14:00",
+                "timezone": "Pacific/Honolulu",
+                "start_utc": "2026-12-24T18:00:00Z",
+                "end_utc": "2026-12-25T00:00:00Z",
+                "topic": "Mission: Outer Space",
+                "ical_timed": true
+              }
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera."
+              }
+            }
+          },
+          {
+            "variant_key": "sea-am",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Mission: Deep Sea · Mañana 08:00–12:00",
+            "price": "USD 225 por 4 días.",
+            "source": "https://www.keikicoders.com/winter-camp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "Pacific/Honolulu",
+                "start_utc": "2026-12-28T18:00:00Z",
+                "end_utc": "2026-12-28T22:00:00Z",
+                "topic": "Mission: Deep Sea",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "Pacific/Honolulu",
+                "start_utc": "2026-12-29T18:00:00Z",
+                "end_utc": "2026-12-29T22:00:00Z",
+                "topic": "Mission: Deep Sea",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "Pacific/Honolulu",
+                "start_utc": "2026-12-30T18:00:00Z",
+                "end_utc": "2026-12-30T22:00:00Z",
+                "topic": "Mission: Deep Sea",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "Pacific/Honolulu",
+                "start_utc": "2026-12-31T18:00:00Z",
+                "end_utc": "2026-12-31T22:00:00Z",
+                "topic": "Mission: Deep Sea",
+                "ical_timed": true
+              }
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera."
+              }
+            }
+          },
+          {
+            "variant_key": "sea-full",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Mission: Deep Sea · Jornada completa 08:00–15:30",
+            "price": "USD 315 por 4 días.",
+            "source": "https://www.keikicoders.com/winter-camp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "08:00",
+                "end_time": "15:30",
+                "timezone": "Pacific/Honolulu",
+                "start_utc": "2026-12-28T18:00:00Z",
+                "end_utc": "2026-12-29T01:30:00Z",
+                "topic": "Mission: Deep Sea",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "08:00",
+                "end_time": "15:30",
+                "timezone": "Pacific/Honolulu",
+                "start_utc": "2026-12-29T18:00:00Z",
+                "end_utc": "2026-12-30T01:30:00Z",
+                "topic": "Mission: Deep Sea",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "08:00",
+                "end_time": "15:30",
+                "timezone": "Pacific/Honolulu",
+                "start_utc": "2026-12-30T18:00:00Z",
+                "end_utc": "2026-12-31T01:30:00Z",
+                "topic": "Mission: Deep Sea",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "08:00",
+                "end_time": "14:00",
+                "timezone": "Pacific/Honolulu",
+                "start_utc": "2026-12-31T18:00:00Z",
+                "end_utc": "2027-01-01T00:00:00Z",
+                "topic": "Mission: Deep Sea",
+                "ical_timed": true
+              }
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera."
+              }
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 225,
+        "currency": "USD",
+        "unit": "session",
+        "label": "Por turno de 4 días, USD 225 de mañana o USD 315 a jornada completa. Ambos turnos, 8 días, USD 400 de mañana o USD 575 a jornada completa.",
+        "included": "Se proporcionan portátiles, dispositivos, kits de robótica y materiales didácticos.",
+        "extras": "Descuento para hermanos del 10%. Confirmar a quién se aplica. El almuerzo es opcional a jornada completa y se indica USD 80 para el paquete de ambos turnos.",
+        "deposit": "Reembolso íntegro hasta el 30 de noviembre de 2026 a las 23:59 HST. Del 1 al 15 de diciembre de 2026 a las 23:59 HST se retienen USD 50. Después no hay reembolso ordinario."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera."
+        }
+      },
+      "editorial_reason": "21–24 y 28–31 de diciembre de 2026. Media jornada 08:00–12:00. Jornada completa 08:00–15:30 y los días 24 y 31 de diciembre hasta las 14:00 HST.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.keikicoders.com/winter-camp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.keikicoders.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "robotics",
+        "engineering",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1926-20261221-20261224-space-am"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1926-20261221-20261224-space-full"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1926-20261228-20261231-sea-am"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1926-20261228-20261231-sea-full"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1927",
+      "slug": "bright-beginnings-english-stem-honolulu-2026-27",
+      "provider": "Bright Beginnings · English Camp",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Kahala Mall · Honolulu",
+      "age": "La portada de invierno indica 4–16 años y English Camp indica un mínimo de 5 años. Ambas edades de la familia encajan. Se evalúa el nivel de inglés al ingresar.",
+      "programme": "Inglés en grupos pequeños y excursiones temáticas. Entre las jornadas posibles hay biología marina, geología y naturaleza. Confirmar el tema de la semana elegida.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "15 horas de inglés por semana. El inglés se usa con los docentes y durante las excursiones educativas.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "language_lessons",
+      "timing": {
+        "status": "published_2026",
+        "label": "Período de invierno del 14 de diciembre de 2026 al 26 de febrero de 2027 y verano del 12 de julio al 27 de agosto de 2027. Entre semana 09:00–16:00. Confirmar semanas concretas y cierres festivos.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2027-02-26"
+          ],
+          [
+            "2027-07-12",
+            "2027-08-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2026-12-14",
+            "end": "2027-02-26",
+            "label": "Período de invierno",
+            "price": "Invierno, 5 días de ESL. USD 767 de mañana o USD 1102 a jornada completa. La tarifa de invierno indica USD 170 de primera inscripción en ESL y la página del programa indica USD 150. Cotejar la factura final.",
+            "source": "https://bbeslhawaii.com/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            }
+          },
+          {
+            "variant_key": "summer",
+            "start": "2027-07-12",
+            "end": "2027-08-27",
+            "label": "Período de verano",
+            "price": "Las fechas de verano están publicadas. Confirmar la tarifa específica del verano de 2027.",
+            "source": "https://bbeslhawaii.com/english-camp-in-hawaii/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 767,
+        "currency": "USD",
+        "unit": "week",
+        "label": "Invierno, 5 días de ESL. USD 767 de mañana o USD 1102 a jornada completa. La tarifa de invierno indica USD 170 de primera inscripción en ESL y la página del programa indica USD 150. Cotejar la factura final.",
+        "included": "Inglés en grupos pequeños y excursiones temáticas. Entre las jornadas posibles hay biología marina, geología y naturaleza. Confirmar el tema de la semana elegida.",
+        "extras": "Impuesto 4.712%. Para tarjeta con dirección de facturación fuera de EE. UU. se añade 4.5%. Almuerzo USD 14, transporte USD 26 al día o USD 130 por semana. Descuento del 10% en matrícula para cada menor adicional.",
+        "deposit": "La cuota de inscripción no es reembolsable. La devolución de la matrícula depende del plazo de cancelación y del canal de inscripción."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        }
+      },
+      "editorial_reason": "Período de invierno del 14 de diciembre de 2026 al 26 de febrero de 2027 y verano del 12 de julio al 27 de agosto de 2027. Entre semana 09:00–16:00. Confirmar semanas concretas y cierres festivos.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://bbeslhawaii.com/english-camp-in-hawaii/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://bbeslhawaii.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://bbeslhawaii.com/terms/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "languages",
+        "general",
+        "science"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2027-02-26",
+          "kind": "season_window",
+          "event_ids": []
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-08-27",
+          "kind": "season_window",
+          "event_ids": []
+        }
+      ]
     }
   ],
   "gaps": [
@@ -340056,7 +340577,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 263,
+  "version": 265,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -353291,7 +353812,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1925,
+      "total_dossiers": 1927,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -375346,6 +375867,26 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP1926",
+      "event_id": "CP1926-20261221-20261224-space-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1926",
+      "event_id": "CP1926-20261221-20261224-space-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1926",
+      "event_id": "CP1926-20261228-20261231-sea-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1926",
+      "event_id": "CP1926-20261228-20261231-sea-full",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -379964,12 +380505,16 @@
     "CP1921-20261102-20261127-nov26",
     "CP1922-20261104-20261218-holiday26",
     "CP1923-20261214-20261219-dec26",
-    "CP1924-20261209-20261216-roblox-dec26"
+    "CP1924-20261209-20261216-roblox-dec26",
+    "CP1926-20261221-20261224-space-am",
+    "CP1926-20261221-20261224-space-full",
+    "CP1926-20261228-20261231-sea-am",
+    "CP1926-20261228-20261231-sea-full"
   ],
   "integration": {
-    "generated_sessions": 4188,
+    "generated_sessions": 4192,
     "reused_legacy_events": 73,
-    "seasonal_windows": 73,
+    "seasonal_windows": 75,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."
   }
 }
