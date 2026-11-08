@@ -4552,7 +4552,8 @@
           "C037",
           "C1152",
           "C1153",
-          "C1154"
+          "C1154",
+          "C4517"
         ],
         "legacy_ids": [
           "C037"
@@ -23439,6 +23440,306 @@
         "checked": "2026-11-07"
       },
       {
+        "id": "encode-creative-coding",
+        "name": "Encode Creative Coding",
+        "group": "international",
+        "age_summary": "Grupo menor de 3 a 6 años, mayor desde 7 años.",
+        "age_tags": [
+          "6",
+          "9"
+        ],
+        "summary": "Una familia fuera de Hong Kong debe confirmar admisión, método de pago disponible y envío de premios físicos.",
+        "categories": [
+          "Encode Creative Coding 2026 · Junior · ScratchJr",
+          "Encode Creative Coding 2026 · Senior · Scratch",
+          "Encode Creative Coding 2026 · Registration closes",
+          "Encode Creative Coding 2026 · Results"
+        ],
+        "event_ids": [
+          "C4486",
+          "C4487",
+          "C4488",
+          "C4489"
+        ],
+        "legacy_ids": [],
+        "route": "Una familia fuera de Hong Kong debe confirmar admisión, método de pago disponible y envío de premios físicos.",
+        "hardware": "Animación o historia interactiva sobre un robot. Enviar enlace a 1 archivo .sjr.",
+        "language": "Presentación en vídeo en inglés o cantonés.",
+        "importance": "Una familia fuera de Hong Kong debe confirmar admisión, método de pago disponible y envío de premios físicos.",
+        "strengths": [
+          "Una familia fuera de Hong Kong debe confirmar admisión, método de pago disponible y envío de premios físicos."
+        ],
+        "requirements": [
+          "Grupo menor de 3 a 6 años, mayor desde 7 años."
+        ],
+        "nuances": [
+          "Se requiere vídeo de hasta 60 segundos con rostro del menor y grabación de pantalla. La organización se reserva el derecho de publicar los materiales y usarlos en promoción."
+        ],
+        "cost": "HKD 200 por menor. La cuota no se reembolsa tras confirmar. Pago mediante PayMe o FPS.",
+        "award": "Certificado físico de participación. Para ganadores, medallas, trofeos o vales según la categoría del premio.",
+        "sources": [
+          {
+            "url": "https://www.encode-world.com/encode-online-creative-coding-competition-2026",
+            "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Fecha y condiciones según las bases oficiales de la edición actual.",
+        "checked": "2026-11-07"
+      },
+      {
+        "id": "iccada-international-scratch",
+        "name": "ICCADA International Scratch",
+        "group": "international",
+        "age_summary": "Grupos desde infantil hasta el último curso de secundaria.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Participación gratuita para menores de todo el mundo. Completar el formulario y entregar por WhatsApp hasta el 4 de diciembre de 2026. Resultados el 11 de diciembre.",
+        "categories": [
+          "ICCADA International Scratch 2026 · Kindergarten",
+          "ICCADA International Scratch 2026 · Junior Primary",
+          "ICCADA International Scratch 2026 · Senior Primary",
+          "ICCADA International Scratch 2026 · Secondary",
+          "ICCADA International Scratch 2026 · Results"
+        ],
+        "event_ids": [
+          "C4490",
+          "C4491",
+          "C4492",
+          "C4493",
+          "C4494"
+        ],
+        "legacy_ids": [],
+        "route": "Participación gratuita para menores de todo el mundo. Completar el formulario y entregar por WhatsApp hasta el 4 de diciembre de 2026. Resultados el 11 de diciembre.",
+        "hardware": "Juego, historia o animación original con ScratchJr o Scratch 3.0. Vídeo de hasta 5 minutos, sin filtros ni efectos.",
+        "language": "La descripción y el vídeo se pueden entregar en inglés o chino.",
+        "importance": "Participación gratuita para menores de todo el mundo. Completar el formulario y entregar por WhatsApp hasta el 4 de diciembre de 2026. Resultados el 11 de diciembre.",
+        "strengths": [
+          "Participación gratuita para menores de todo el mundo. Completar el formulario y entregar por WhatsApp hasta el 4 de diciembre de 2026. Resultados el 11 de diciembre."
+        ],
+        "requirements": [
+          "Grupos desde infantil hasta el último curso de secundaria."
+        ],
+        "nuances": [
+          "El menor realiza el trabajo. Una persona adulta ayuda dentro de las reglas de la organización."
+        ],
+        "cost": "Gratis.",
+        "award": "Oro, plata y bronce por umbrales de 90, 80 y 70 puntos. Los premios físicos se solicitan aparte. Certificado personalizado HKD 250, certificado con medalla HKD 300, envío a cargo del destinatario.",
+        "sources": [
+          {
+            "url": "https://www.iccada.com/scratch",
+            "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Fecha y condiciones según las bases oficiales de la edición actual.",
+        "checked": "2026-11-07"
+      },
+      {
+        "id": "main-team-coding-olympiad",
+        "name": "Main Team Coding Olympiad",
+        "group": "international",
+        "age_summary": "Cursos 1–12. Clasificación separada Code Starters para cursos 1–3.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Inscripción individual mediante cuenta. No se requiere equipo escolar.",
+        "categories": [
+          "Coding Olympiad · Codementum · Qualifier 2",
+          "Coding Olympiad · Codementum · Qualifier 3",
+          "Coding Olympiad · Codementum · Online Final",
+          "Coding Olympiad · CodeCombat Arena · Qualifier 2",
+          "Coding Olympiad · CodeCombat Arena · Qualifier 3",
+          "Coding Olympiad · CodeCombat Arena · Online Final",
+          "Coding Olympiad · Computer Science Final",
+          "Coding Olympiad · Grand Final Orlando",
+          "Coding Olympiad · Grand Final Lisbon",
+          "Coding Olympiad · Grand Final New York"
+        ],
+        "event_ids": [
+          "C4495",
+          "C4496",
+          "C4497",
+          "C4498",
+          "C4499",
+          "C4500",
+          "C4501",
+          "C4509",
+          "C4510",
+          "C4511"
+        ],
+        "legacy_ids": [],
+        "route": "Inscripción individual mediante cuenta. No se requiere equipo escolar.",
+        "hardware": "30 ejercicios en 90 minutos. Modos de bloques, Python y JavaScript disponibles.",
+        "language": "Los exámenes se realizan únicamente en inglés.",
+        "importance": "Inscripción individual mediante cuenta. No se requiere equipo escolar.",
+        "strengths": [
+          "Inscripción individual mediante cuenta. No se requiere equipo escolar."
+        ],
+        "requirements": [
+          "Cursos 1–12. Clasificación separada Code Starters para cursos 1–3."
+        ],
+        "nuances": [
+          "Se puede elegir una de las ventanas ofrecidas. Cuenta el mejor resultado si se hacen varias. La final en línea está disponible tras inscribirse, sin eliminación por puntuación. El sitio muestra el calendario consolidado 2026/27 en PDF y el calendario incrustado conserva fechas de la temporada anterior. Para las fechas actuales se usa el PDF."
+        ],
+        "cost": "EUR 40 por una categoría. Intento clasificatorio adicional EUR 15. Incluye acceso a la plataforma de entrenamiento hasta el 1 de agosto de 2027.",
+        "award": "La nota final combina 30% de la clasificación y 70% de la final. Para aspirantes al top 10 se requieren 2 cámaras y compartir pantalla.",
+        "sources": [
+          {
+            "url": "https://main-team.org/documents/exam_schedule_2026_2027.pdf",
+            "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://codingolympiad.org/general_terms_and_conditions/",
+            "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://codingolympiad.org/challenges_conditions/",
+            "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://codingolympiad.org/arena_battles_conditions/",
+            "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://neoscience.org/documents/GF_Orlando_Daily_Program_Fees.pdf",
+            "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Fecha y condiciones según las bases oficiales de la edición actual.",
+        "checked": "2026-11-07"
+      },
+      {
+        "id": "stem-birds-australian-coding",
+        "name": "STEM Birds Australian Coding",
+        "group": "regional",
+        "age_summary": "Edades de 5 a 15 años.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Gratis e individual. El participante debe residir en Australia. Entrega hasta el 15 de enero de 2027.",
+        "categories": [
+          "STEM Birds Australian Coding 2027 · ScratchJr Animation · 5–6",
+          "STEM Birds Australian Coding 2027 · Scratch Coding · 7–11",
+          "STEM Birds Australian Coding 2027 · Scratch Coding · 12–15",
+          "STEM Birds Australian Coding 2027 · Tinkercad 3D Design · 7–11",
+          "STEM Birds Australian Coding 2027 · Tinkercad 3D Design · 12–15",
+          "STEM Birds Australian Coding 2027 · Python Turtle · 9–15",
+          "STEM Birds Australian Coding 2027 · Results"
+        ],
+        "event_ids": [
+          "C4502",
+          "C4503",
+          "C4504",
+          "C4505",
+          "C4506",
+          "C4507",
+          "C4508"
+        ],
+        "legacy_ids": [],
+        "route": "Gratis e individual. El participante debe residir en Australia. Entrega hasta el 15 de enero de 2027.",
+        "hardware": "Animación para proteger animales australianos. Explicación y muestra de bloques en vídeo de hasta 3 minutos.",
+        "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+        "importance": "Gratis e individual. El participante debe residir en Australia. Entrega hasta el 15 de enero de 2027.",
+        "strengths": [
+          "Gratis e individual. El participante debe residir en Australia. Entrega hasta el 15 de enero de 2027."
+        ],
+        "requirements": [
+          "Edades de 5 a 15 años."
+        ],
+        "nuances": [
+          "El menor realiza el trabajo. Una persona adulta ayuda dentro de las reglas de la organización."
+        ],
+        "cost": "Gratis.",
+        "award": "Trofeos y premios para ganadores según categoría. Anuncio el 15 de febrero de 2027.",
+        "sources": [
+          {
+            "url": "https://www.stembirds.com.au/stem-birds-australian-coding-competition",
+            "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/681cba1b2bf1f4460f483a4f/6a966bdccca22cd8f77fe8d2_STEM_Birds_Australian_Coding_Competition_2027_Submission_Guide-2.pdf",
+            "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Fecha y condiciones según las bases oficiales de la edición actual.",
+        "checked": "2026-11-07"
+      },
+      {
+        "id": "code-battle-uae",
+        "name": "Code Battle UAE",
+        "group": "regional",
+        "age_summary": "Grades 1–12",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Solicitud gratuita de un equipo escolar mediante UAE Code Battle hasta el 10 de noviembre de 2026. Equipos por escuela sin límite. Admisión de escuelas extranjeras sin confirmar.",
+        "categories": [
+          "Code Battle UAE 2026 · Cadet · Online Eliminator",
+          "Code Battle UAE 2026 · Captain · Online Eliminator",
+          "Code Battle UAE 2026 · Colonel · Online Eliminator",
+          "Code Battle UAE 2026 · General · Online Eliminator",
+          "Code Battle UAE 2026 · Grand Finale"
+        ],
+        "event_ids": [
+          "C4512",
+          "C4513",
+          "C4514",
+          "C4515",
+          "C4516"
+        ],
+        "legacy_ids": [],
+        "route": "Solicitud gratuita de un equipo escolar mediante UAE Code Battle hasta el 10 de noviembre de 2026. Equipos por escuela sin límite. Admisión de escuelas extranjeras sin confirmar.",
+        "hardware": "Programación por bloques en Bloqi.ai para las categorías escolares menores.",
+        "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+        "importance": "Solicitud gratuita de un equipo escolar mediante UAE Code Battle hasta el 10 de noviembre de 2026. Equipos por escuela sin límite. Admisión de escuelas extranjeras sin confirmar.",
+        "strengths": [
+          "Solicitud gratuita de un equipo escolar mediante UAE Code Battle hasta el 10 de noviembre de 2026. Equipos por escuela sin límite. Admisión de escuelas extranjeras sin confirmar."
+        ],
+        "requirements": [
+          "Grades 1–12"
+        ],
+        "nuances": [
+          "Clasificación en línea del 10 al 15 de noviembre. Proyecto y presentación grabada hasta el 15 de noviembre a las 23:59 de EAU, selección de finalistas el 17 de noviembre."
+        ],
+        "cost": "Gratis.",
+        "award": "Puesto o premio según el acta de la fase.",
+        "sources": [
+          {
+            "url": "https://codebattle.tech/",
+            "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+            "checked": "2026-11-07"
+          },
+          {
+            "url": "https://codebattle.tech/register-your-school/",
+            "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Fecha y condiciones según las bases oficiales de la edición actual.",
+        "checked": "2026-11-07"
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -28693,7 +28994,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 293. Se conservan las 46 rutas anteriores. Se distinguen los formatos de Brasil y se describen Robofest LATAM y BajaBot locales por categoría. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 298. Se conservan las 46 rutas anteriores. Se distinguen los formatos de Brasil y se describen Robofest LATAM y BajaBot locales por categoría. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

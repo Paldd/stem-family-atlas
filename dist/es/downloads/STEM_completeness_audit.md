@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 9914; competiciones: 4484; eventos: 505; campamentos / programas: 4925. Perfiles de ligas y programas: 293. Fichas de exposiciones grandes y especializadas: 408 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 9948; competiciones: 4518; eventos: 505; campamentos / programas: 4925. Perfiles de ligas y programas: 298. Fichas de exposiciones grandes y especializadas: 408 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros específicos para 211 de 249 países y territorios; países con auditoría completa: 0. Revisión de archivos v51: se añadieron 21 fichas y 3 perfiles. Se conservan las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros específicos para 211 de 249 países y territorios; países con au
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 37 | 1882 | 85 | 1234 |
+| América del Norte | 37 | 1884 | 85 | 1234 |
 | América del Sur | 13 | 414 | 35 | 199 |
-| Europa | 51 | 573 | 102 | 1425 |
+| Europa | 51 | 575 | 102 | 1425 |
 | África | 48 | 226 | 28 | 80 |
-| Asia | 48 | 1115 | 129 | 1647 |
-| Oceanía | 16 | 151 | 27 | 327 |
+| Asia | 48 | 1129 | 129 | 1647 |
+| Oceanía | 16 | 158 | 27 | 327 |
 
-Fichas interregionales o mundiales sin un continente único: 143. Norteamérica incluye Centroamérica y el Caribe. Las cifras muestran el inventario de la base, no un porcentaje de cobertura.
+Fichas interregionales o mundiales sin asignar a un continente: 152. América del Norte incluye Centroamérica y el Caribe. Las cifras indican el inventario de la base y no un porcentaje de cobertura.
 
-VEX: 814 de 4484 fichas de competición (18.2%). Hay un claro desequilibrio en la cobertura.
+VEX: 814 de 4518 fichas de competición (18.0%). Hay un claro desequilibrio en la cobertura.
 
 ## Lo que queda
 
@@ -113,7 +113,7 @@ VEX: 814 de 4484 fichas de competición (18.2%). Hay un claro desequilibrio en l
 - **International Robot Challenge · Egypt**: 8 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://international-robotchallenge.org/competition/robo-boom
 - **TechnoXian**: 5 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.technoxian.com/events
 - **Robofest · Azerbaijan**: 1 tarjeta, 0 con fechas exactas futuras. https://robofestinternational.org/sumo-strike-junior-6-10-yas/
-- **WAICY**: 4 tarjetas, 0 con fechas exactas futuras. https://www.waicy.org/waicy-2026/
+- **WAICY**: 5 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.waicy.org/waicy-2026/
 - **Codeavour**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://codeavour.org/
 - **Coolest Projects**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://online.coolestprojects.org/help
 - **Bebras**: 52 fichas, 49 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.bebras.org/countries
@@ -319,6 +319,11 @@ VEX: 814 de 4484 fichas de competición (18.2%). Hay un claro desequilibrio en l
 - **Torneo Abierto de Robótica de Minsk · RoboFinist**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://edu4future.by/project/minskij-otkrytyj-roboturnir
 - **innovatiQ Digital Cup**: 21 fichas, 21 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://innovatiq.education/digitalcup/2027/
 - **RoboThink DREAM Thailand**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robothinkdreamthailand.com/2027?lang=en
+- **Encode Creative Coding**: 4 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.encode-world.com/encode-online-creative-coding-competition-2026
+- **ICCADA International Scratch**: 5 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.iccada.com/scratch
+- **Main Team Coding Olympiad**: 10 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://main-team.org/documents/exam_schedule_2026_2027.pdf
+- **STEM Birds Australian Coding**: 7 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.stembirds.com.au/stem-birds-australian-coding-competition
+- **Code Battle UAE**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://codebattle.tech/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf

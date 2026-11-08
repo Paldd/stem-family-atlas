@@ -870,11 +870,11 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 257,
+    "version": 258,
     "status": "implementation_snapshot",
-    "events": 9914,
-    "competitions": 4484,
-    "league_profiles": 293,
+    "events": 9948,
+    "competitions": 4518,
+    "league_profiles": 298,
     "camp_dossiers": 1915,
     "budget_offers": 312,
     "editorial_reviewed": 71,
@@ -927,12 +927,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 256,
+    "version": 257,
     "status": "implementation_snapshot",
-    "events": 9881,
-    "competitions": 4480,
-    "league_profiles": 292,
-    "camp_dossiers": 1911,
+    "events": 9914,
+    "competitions": 4484,
+    "league_profiles": 293,
+    "camp_dossiers": 1915,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -942,7 +942,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 494
+    "exhibitions_events": 505
   },
   "research_passes": [
     {
@@ -13759,10 +13759,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 257,
+    "prepared_ui_version": 258,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 256,
-    "previous_verified_commit": "37edb82cb61da617d2866fae3203fd17705a5600"
+    "previous_verified_ui_version": 257,
+    "previous_verified_commit": "32203810a6a1115c56a5899f8f17074fbd4e3556"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20809,11 +20809,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 256,
-    "published_version": 256,
-    "latest_source_commit": "37edb82cb61da617d2866fae3203fd17705a5600",
-    "published_commit": "37edb82cb61da617d2866fae3203fd17705a5600",
-    "latest_workflow": 42446494261,
+    "latest_source_version": 257,
+    "published_version": 257,
+    "latest_source_commit": "32203810a6a1115c56a5899f8f17074fbd4e3556",
+    "published_commit": "32203810a6a1115c56a5899f8f17074fbd4e3556",
+    "latest_workflow": 42447800358,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -25834,5 +25834,101 @@
     ],
     "audit": "data/asian-expos-and-taiwan-science-audit-v257.json",
     "source_receipts": "data/asian-expos-and-taiwan-science-source-receipts-v257.json"
+  },
+  "online_scratch_and_coding_leagues_v258": {
+    "version": 258,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4486",
+      "C4487",
+      "C4488",
+      "C4489",
+      "C4490",
+      "C4491",
+      "C4492",
+      "C4493",
+      "C4494",
+      "C4495",
+      "C4496",
+      "C4497",
+      "C4498",
+      "C4499",
+      "C4500",
+      "C4501",
+      "C4502",
+      "C4503",
+      "C4504",
+      "C4505",
+      "C4506",
+      "C4507",
+      "C4508",
+      "C4509",
+      "C4510",
+      "C4511",
+      "C4512",
+      "C4513",
+      "C4514",
+      "C4515",
+      "C4516",
+      "C4517",
+      "C4518",
+      "C4519"
+    ],
+    "new_league_ids": [
+      "encode-creative-coding",
+      "iccada-international-scratch",
+      "main-team-coding-olympiad",
+      "stem-birds-australian-coding",
+      "code-battle-uae"
+    ],
+    "source_requests": 26,
+    "encode_divisions": 2,
+    "encode_application_deadline": "2026-12-03",
+    "encode_submission_utc": "2026-12-06T15:59:00Z",
+    "iccada_grade_divisions": 4,
+    "iccada_submission_deadline": "2026-12-04",
+    "iccada_worldwide_free": true,
+    "codementum_online_rounds": [
+      "2026-12-19",
+      "2027-02-20",
+      "2027-03-14"
+    ],
+    "codementum_grade_range": [
+      1,
+      12
+    ],
+    "orlando_exam_day": "2027-02-02",
+    "orlando_flexy_student_usd": 1000,
+    "orlando_flexy_companion_usd": 800,
+    "birds_divisions": 6,
+    "birds_australian_residence_required": true,
+    "uae_school_only": true,
+    "waicy_greece_deadline": "2026-11-20",
+    "reviewed_existing": [
+      "C037",
+      "C1152",
+      "C1153",
+      "C1154",
+      "C1777",
+      "C1779",
+      "C1780",
+      "C843",
+      "C844"
+    ],
+    "notes": [
+      "Se requiere vídeo de hasta 60 segundos con rostro del menor y grabación de pantalla. La organización se reserva el derecho de publicar los materiales y usarlos en promoción.",
+      "Oro, plata y bronce por umbrales de 90, 80 y 70 puntos. Los premios físicos se solicitan aparte. Certificado personalizado HKD 250, certificado con medalla HKD 300, envío a cargo del destinatario.",
+      "El sitio muestra el calendario consolidado 2026/27 en PDF y el calendario incrustado conserva fechas de la temporada anterior. Para las fechas actuales se usa el PDF.",
+      "La fase presencial exige cursos 3–11 y participar al menos en una clasificación. Después aplican las condiciones del viaje y la disponibilidad.",
+      "Plazo de trámite y pago el 15 de enero de 2027. Depósito de USD 500 antes de emitir la invitación. Los pagos Flexy no son reembolsables.",
+      "No para participar desde Costa Rica. Se exige residencia en Australia.",
+      "Solicitud gratuita de un equipo escolar mediante UAE Code Battle hasta el 10 de noviembre de 2026. Equipos por escuela sin límite. Admisión de escuelas extranjeras sin confirmar.",
+      "Condicional para alumnado de una escuela griega. Para participar desde Costa Rica existe la entrega global."
+    ],
+    "audit": "data/online-scratch-and-coding-leagues-audit-v258.json",
+    "source_receipts": "data/online-scratch-and-coding-leagues-source-receipts-v258.json"
   }
 }

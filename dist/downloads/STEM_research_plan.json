@@ -870,11 +870,11 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 257,
+    "version": 258,
     "status": "implementation_snapshot",
-    "events": 9914,
-    "competitions": 4484,
-    "league_profiles": 293,
+    "events": 9948,
+    "competitions": 4518,
+    "league_profiles": 298,
     "camp_dossiers": 1915,
     "budget_offers": 312,
     "editorial_reviewed": 71,
@@ -927,12 +927,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 256,
+    "version": 257,
     "status": "implementation_snapshot",
-    "events": 9881,
-    "competitions": 4480,
-    "league_profiles": 292,
-    "camp_dossiers": 1911,
+    "events": 9914,
+    "competitions": 4484,
+    "league_profiles": 293,
+    "camp_dossiers": 1915,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -942,7 +942,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 494
+    "exhibitions_events": 505
   },
   "research_passes": [
     {
@@ -13759,10 +13759,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 257,
+    "prepared_ui_version": 258,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 256,
-    "previous_verified_commit": "37edb82cb61da617d2866fae3203fd17705a5600"
+    "previous_verified_ui_version": 257,
+    "previous_verified_commit": "32203810a6a1115c56a5899f8f17074fbd4e3556"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20809,11 +20809,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 256,
-    "published_version": 256,
-    "latest_source_commit": "37edb82cb61da617d2866fae3203fd17705a5600",
-    "published_commit": "37edb82cb61da617d2866fae3203fd17705a5600",
-    "latest_workflow": 42446494261,
+    "latest_source_version": 257,
+    "published_version": 257,
+    "latest_source_commit": "32203810a6a1115c56a5899f8f17074fbd4e3556",
+    "published_commit": "32203810a6a1115c56a5899f8f17074fbd4e3556",
+    "latest_workflow": 42447800358,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -25834,5 +25834,101 @@
     ],
     "audit": "data/asian-expos-and-taiwan-science-audit-v257.json",
     "source_receipts": "data/asian-expos-and-taiwan-science-source-receipts-v257.json"
+  },
+  "online_scratch_and_coding_leagues_v258": {
+    "version": 258,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4486",
+      "C4487",
+      "C4488",
+      "C4489",
+      "C4490",
+      "C4491",
+      "C4492",
+      "C4493",
+      "C4494",
+      "C4495",
+      "C4496",
+      "C4497",
+      "C4498",
+      "C4499",
+      "C4500",
+      "C4501",
+      "C4502",
+      "C4503",
+      "C4504",
+      "C4505",
+      "C4506",
+      "C4507",
+      "C4508",
+      "C4509",
+      "C4510",
+      "C4511",
+      "C4512",
+      "C4513",
+      "C4514",
+      "C4515",
+      "C4516",
+      "C4517",
+      "C4518",
+      "C4519"
+    ],
+    "new_league_ids": [
+      "encode-creative-coding",
+      "iccada-international-scratch",
+      "main-team-coding-olympiad",
+      "stem-birds-australian-coding",
+      "code-battle-uae"
+    ],
+    "source_requests": 26,
+    "encode_divisions": 2,
+    "encode_application_deadline": "2026-12-03",
+    "encode_submission_utc": "2026-12-06T15:59:00Z",
+    "iccada_grade_divisions": 4,
+    "iccada_submission_deadline": "2026-12-04",
+    "iccada_worldwide_free": true,
+    "codementum_online_rounds": [
+      "2026-12-19",
+      "2027-02-20",
+      "2027-03-14"
+    ],
+    "codementum_grade_range": [
+      1,
+      12
+    ],
+    "orlando_exam_day": "2027-02-02",
+    "orlando_flexy_student_usd": 1000,
+    "orlando_flexy_companion_usd": 800,
+    "birds_divisions": 6,
+    "birds_australian_residence_required": true,
+    "uae_school_only": true,
+    "waicy_greece_deadline": "2026-11-20",
+    "reviewed_existing": [
+      "C037",
+      "C1152",
+      "C1153",
+      "C1154",
+      "C1777",
+      "C1779",
+      "C1780",
+      "C843",
+      "C844"
+    ],
+    "notes": [
+      "Нужно видео до 60 секунд с лицом ребёнка и записью экрана. Организатор оставляет за собой право публиковать материалы и использовать их в продвижении.",
+      "Золото, серебро и бронза по порогам 90, 80 и 70 баллов. Физические награды заказывают отдельно. Именной сертификат HKD 250, сертификат с медалью HKD 300, доставка за счёт получателя.",
+      "Сайт показывает сводное расписание 2026/27 в PDF, а встроенный календарь содержит даты прежнего сезона. Для текущих дат используется PDF.",
+      "Для очного этапа указаны 3–11 классы и участие хотя бы в одном отборе. Затем действуют условия поездки и наличие мест.",
+      "Срок оформления и оплаты 15 января 2027. Депозит USD 500 до выдачи приглашения. По Flexy платежи невозвратные.",
+      "Нет для участия из Коста-Рики. Требуется проживание в Австралии.",
+      "Бесплатная подача школьной командой через UAE Code Battle до 10 ноября 2026. Число команд от школы не ограничено. Допуск зарубежной школы не подтверждён.",
+      "Условно для учащихся греческой школы. Для участия из Коста-Рики есть глобальная подача."
+    ],
+    "audit": "data/online-scratch-and-coding-leagues-audit-v258.json",
+    "source_receipts": "data/online-scratch-and-coding-leagues-source-receipts-v258.json"
   }
 }

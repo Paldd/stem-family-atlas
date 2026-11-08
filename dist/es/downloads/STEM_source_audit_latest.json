@@ -16,11 +16,11 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 9914,
-    "competition_cards": 4484,
+    "cards": 9948,
+    "competition_cards": 4518,
     "event_cards": 505,
     "camp_cards": 4925,
-    "league_profiles": 293,
+    "league_profiles": 298,
     "major_exhibition_cards": 408,
     "vex_cards": 814,
     "countries_with_records": 211,
@@ -34,9 +34,9 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3239,
+      "total": 3241,
       "countries_with_records": 37,
-      "competitions": 1882,
+      "competitions": 1884,
       "events": 123,
       "major_exhibitions": 85,
       "camps": 1234,
@@ -62,9 +62,9 @@
       "regions": [
         "Europa"
       ],
-      "total": 2125,
+      "total": 2127,
       "countries_with_records": 51,
-      "competitions": 573,
+      "competitions": 575,
       "events": 127,
       "major_exhibitions": 102,
       "camps": 1425,
@@ -90,9 +90,9 @@
       "regions": [
         "Asia"
       ],
-      "total": 2904,
+      "total": 2918,
       "countries_with_records": 48,
-      "competitions": 1115,
+      "competitions": 1129,
       "events": 142,
       "major_exhibitions": 129,
       "camps": 1647,
@@ -104,9 +104,9 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 509,
+      "total": 516,
       "countries_with_records": 16,
-      "competitions": 151,
+      "competitions": 158,
       "events": 31,
       "major_exhibitions": 27,
       "camps": 327,
@@ -2629,11 +2629,12 @@
         "C037",
         "C1152",
         "C1153",
-        "C1154"
+        "C1154",
+        "C4517"
       ],
-      "cards": 4,
-      "future_dated": 0,
-      "linked_card_count": 4,
+      "cards": 5,
+      "future_dated": 1,
+      "linked_card_count": 5,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.waicy.org/waicy-2026/",
       "new": false
@@ -7554,6 +7555,102 @@
       "linked_card_count": 1,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.robothinkdreamthailand.com/2027?lang=en",
+      "new": false
+    },
+    {
+      "id": "encode-creative-coding",
+      "name": "Encode Creative Coding",
+      "group": "international",
+      "event_ids": [
+        "C4486",
+        "C4487",
+        "C4488",
+        "C4489"
+      ],
+      "cards": 4,
+      "future_dated": 2,
+      "linked_card_count": 4,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.encode-world.com/encode-online-creative-coding-competition-2026",
+      "new": false
+    },
+    {
+      "id": "iccada-international-scratch",
+      "name": "ICCADA International Scratch",
+      "group": "international",
+      "event_ids": [
+        "C4490",
+        "C4491",
+        "C4492",
+        "C4493",
+        "C4494"
+      ],
+      "cards": 5,
+      "future_dated": 1,
+      "linked_card_count": 5,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.iccada.com/scratch",
+      "new": false
+    },
+    {
+      "id": "main-team-coding-olympiad",
+      "name": "Main Team Coding Olympiad",
+      "group": "international",
+      "event_ids": [
+        "C4495",
+        "C4496",
+        "C4497",
+        "C4498",
+        "C4499",
+        "C4500",
+        "C4501",
+        "C4509",
+        "C4510",
+        "C4511"
+      ],
+      "cards": 10,
+      "future_dated": 10,
+      "linked_card_count": 10,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://main-team.org/documents/exam_schedule_2026_2027.pdf",
+      "new": false
+    },
+    {
+      "id": "stem-birds-australian-coding",
+      "name": "STEM Birds Australian Coding",
+      "group": "regional",
+      "event_ids": [
+        "C4502",
+        "C4503",
+        "C4504",
+        "C4505",
+        "C4506",
+        "C4507",
+        "C4508"
+      ],
+      "cards": 7,
+      "future_dated": 1,
+      "linked_card_count": 7,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.stembirds.com.au/stem-birds-australian-coding-competition",
+      "new": false
+    },
+    {
+      "id": "code-battle-uae",
+      "name": "Code Battle UAE",
+      "group": "regional",
+      "event_ids": [
+        "C4512",
+        "C4513",
+        "C4514",
+        "C4515",
+        "C4516"
+      ],
+      "cards": 5,
+      "future_dated": 5,
+      "linked_card_count": 5,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://codebattle.tech/",
       "new": false
     },
     {
@@ -14413,7 +14510,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 143,
+  "interregional_cards": 152,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
