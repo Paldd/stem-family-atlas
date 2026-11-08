@@ -1,0 +1,77 @@
+{
+  "version": 279,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C4641",
+    "C4642",
+    "E568",
+    "L779",
+    "L780"
+  ],
+  "new_dossiers": [
+    "CP1975",
+    "CP1976",
+    "CP1977",
+    "CP1978",
+    "CP1979"
+  ],
+  "new_dated_variants": 7,
+  "refreshed_event_ids": [
+    "C894",
+    "C895",
+    "C604",
+    "E451",
+    "C3457"
+  ],
+  "legacy_overlay_event_ids": [
+    "C894",
+    "C895",
+    "C604",
+    "E451",
+    "C3457"
+  ],
+  "legacy_overlay_league_ids": [
+    "wro"
+  ],
+  "source_requests": 21,
+  "dom_wro": [
+    "C4641",
+    "C4642"
+  ],
+  "dom_fll": [
+    "C894",
+    "C895"
+  ],
+  "dom_coding": [
+    "L779",
+    "L780"
+  ],
+  "slovenian_open": "C604",
+  "guyane_tour": "E568",
+  "guyane_museum": "E451",
+  "guyane_school": "C3457",
+  "hacienda": "CP1975",
+  "sleepaway": "CP1976",
+  "zanzibar": [
+    "CP1977",
+    "CP1978"
+  ],
+  "penang": "CP1979",
+  "source_conflicts": [
+    {
+      "url": "https://zanzibar.camp/dec-2026",
+      "archive_listing": "2026-12-14/2026-12-18",
+      "current_listing": "2026-12-14/2026-12-19"
+    },
+    {
+      "url": "https://www.niherst.gov.tt/scipop/Science_Corners.html",
+      "status": "source_body_unavailable"
+    },
+    {
+      "url": "https://ascendtechacademy.com/camps/",
+      "status": "historical_season_only"
+    }
+  ]
+}

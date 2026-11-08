@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10234,
-    "competition_cards": 4639,
-    "event_cards": 567,
-    "camp_cards": 5028,
+    "cards": 10246,
+    "competition_cards": 4641,
+    "event_cards": 568,
+    "camp_cards": 5037,
     "league_profiles": 299,
-    "major_exhibition_cards": 471,
+    "major_exhibition_cards": 472,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3328,
+      "total": 3335,
       "countries_with_records": 40,
-      "competitions": 1914,
+      "competitions": 1916,
       "events": 146,
       "major_exhibitions": 109,
-      "camps": 1268,
+      "camps": 1273,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -48,11 +48,11 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 681,
+      "total": 682,
       "countries_with_records": 14,
       "competitions": 430,
-      "events": 44,
-      "major_exhibitions": 40,
+      "events": 45,
+      "major_exhibitions": 41,
       "camps": 207,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
@@ -76,12 +76,12 @@
       "regions": [
         "Африка"
       ],
-      "total": 363,
+      "total": 365,
       "countries_with_records": 53,
       "competitions": 235,
       "events": 36,
       "major_exhibitions": 28,
-      "camps": 92,
+      "camps": 94,
       "status": "Частично исследовано",
       "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 2968,
+      "total": 2970,
       "countries_with_records": 49,
       "competitions": 1155,
       "events": 154,
       "major_exhibitions": 141,
-      "camps": 1659,
+      "camps": 1661,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -200,6 +200,8 @@
         "C788",
         "C871",
         "C872",
+        "C4641",
+        "C4642",
         "C1566",
         "C1567",
         "C1618",
@@ -236,9 +238,9 @@
         "C1766",
         "C1767"
       ],
-      "cards": 115,
+      "cards": 117,
       "future_dated": 6,
-      "linked_card_count": 115,
+      "linked_card_count": 117,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://wro-association.org/competition/categories/",
       "new": false
@@ -13871,6 +13873,17 @@
       "new": false
     },
     {
+      "id": "E568",
+      "name": "Centre Spatial Guyanais · Ariane 6, Vega-C & Jupiter 2",
+      "country": "Французская Гвиана",
+      "region": "Южная Америка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://centrespatialguyanais.cnes.fr/index.php/fr/installations",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -16288,11 +16301,11 @@
       }
     ],
     "counts": {
-      "records": 5028,
-      "holiday": 4676,
-      "regular": 160,
+      "records": 5037,
+      "holiday": 4683,
+      "regular": 162,
       "self_paced_materials": 4,
-      "boarding": 1037,
+      "boarding": 1038,
       "en_es_instruction": 1593,
       "en_es_support": 28,
       "family_instruction": 1593,
@@ -16301,7 +16314,7 @@
       "language_lessons": 412,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 144
+      "countries": 145
     },
     "validation": {
       "version": 51,

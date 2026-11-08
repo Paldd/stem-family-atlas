@@ -261,6 +261,8 @@ def integrate(catalog, dossier_report):
                 legacy_rule='2027-07-04–2027-08-15; пансион Вс–Вс, дневной Пн–Пт; выбор 1/2/3 недель. Даты вариантов рассчитаны по этому опубликованному правилу.'
                 row['date_rule']=variant.get('date_rule') or (legacy_rule if p['slug']=='jfk-outdoor' else '')
                 assert row['date_rule'], 'A calculated date needs its own published rule'
+            elif variant.get('date_precision')=='announced_window':
+                row['date_rule']=variant['date_rule']
             new_events.append(row)
             p['calendar_links'].append(dict(start=start,end=end,kind='catalogue_session',event_ids=[eid]))
             links.append(dict(programme_id=p['id'],event_id=eid,relation='catalogue_session'))

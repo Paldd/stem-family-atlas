@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1974,
+    "dossiers": 1979,
     "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
-      "published_2027": 542,
+      "published_2027": 543,
       "partial_2027": 145,
-      "next_unannounced": 399,
-      "published_2026": 373,
+      "next_unannounced": 400,
+      "published_2026": 376,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2864
+    "source_urls": 2871
   },
   "countries": [
     {
@@ -309,7 +309,7 @@
     },
     {
       "country": "Малайзия",
-      "count": 17
+      "count": 18
     },
     {
       "country": "Мальдивские Острова",
@@ -368,6 +368,10 @@
       "count": 6
     },
     {
+      "country": "Объединенная Республика Танзания",
+      "count": 6
+    },
+    {
       "country": "Оман",
       "count": 1
     },
@@ -381,7 +385,7 @@
     },
     {
       "country": "Панама",
-      "count": 12
+      "count": 14
     },
     {
       "country": "Парагвай",
@@ -454,10 +458,6 @@
     {
       "country": "Тайвань",
       "count": 173
-    },
-    {
-      "country": "Танзания",
-      "count": 4
     },
     {
       "country": "Тринидад и Тобаго",
@@ -343286,6 +343286,616 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1975",
+      "slug": "la-escondida-hacienda-2027",
+      "provider": "La Escondida · Hacienda Day Camp",
+      "country": "Панама",
+      "iso": "PAN",
+      "place": "Панама · Hacienda Country Club",
+      "age": "4–14 лет, группы по возрасту.",
+      "programme": "Спорт, игры на природе и занятия с вожатыми.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание на испанском. Язык занятий и поддержку английского подтвердить для выбранной группы.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Январские дневные смены. Время подачи и возвращения автобуса зависит от остановки.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "week-1",
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Январские дневные смены. Время подачи и возвращения автобуса зависит от остановки.",
+            "price": "Итоговый тариф, включение автобуса в цену и скидку за несколько недель уточнить.",
+            "source": "https://campamentolaescondida.com/temporadas/",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ]
+          },
+          {
+            "variant_key": "week-2",
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Январские дневные смены. Время подачи и возвращения автобуса зависит от остановки.",
+            "price": "Итоговый тариф, включение автобуса в цену и скидку за несколько недель уточнить.",
+            "source": "https://campamentolaescondida.com/temporadas/",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ]
+          },
+          {
+            "variant_key": "week-3",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Январские дневные смены. Время подачи и возвращения автобуса зависит от остановки.",
+            "price": "Итоговый тариф, включение автобуса в цену и скидку за несколько недель уточнить.",
+            "source": "https://campamentolaescondida.com/temporadas/",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "",
+        "unit": "session",
+        "label": "Итоговый тариф, включение автобуса в цену и скидку за несколько недель уточнить.",
+        "included": "Обед, перекус и сопровождение медсестры.",
+        "extras": "Итоговый тариф, включение автобуса в цену и скидку за несколько недель уточнить.",
+        "deposit": "По правилам оператора возврат 50% при уведомлении за 30 дней, 25% за 15 дней. После начала недели возврата нет."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "Январские дневные смены. Время подачи и возвращения автобуса зависит от остановки.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Итоговый тариф, включение автобуса в цену и скидку за несколько недель уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://campamentolaescondida.com/temporadas/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://campamentolaescondida.com/inscribete/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "general"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1975-20270111-20270115-week-1"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1975-20270118-20270122-week-2"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1975-20270125-20270129-week-3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1976",
+      "slug": "la-escondida-sleepaway",
+      "provider": "La Escondida · Sleepaway",
+      "country": "Панама",
+      "iso": "PAN",
+      "place": "Панама · площадку сезона уточнить",
+      "age": "6–15 лет.",
+      "programme": "Общий лагерь с проживанием, активностями на природе и возрастными группами.",
+      "format": "boarding",
+      "formats": [
+        "boarding"
+      ],
+      "language": "Описание на испанском. Язык занятий и поддержку английского подтвердить для выбранной группы.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Следующие даты обозначены как Próximamente.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "amount": null,
+        "currency": "",
+        "unit": "session",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "Домики с двухъярусными кроватями и вожатыми.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Домики по возрастным группам. Оператор заявляет сопровождение и дежурство врача.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "Следующие даты обозначены как Próximamente.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://campamentolaescondida.com/temporadas/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "general"
+      ],
+      "programme_type": "residential",
+      "catalog_participation": "residential",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1977",
+      "slug": "zanzibar-paje-december-2026-day",
+      "provider": "Zanzibar.Camp · December Electronics · Day Camp",
+      "country": "Объединенная Республика Танзания",
+      "iso": "TZA",
+      "place": "Learning Village · Paje · Zanzibar",
+      "age": "5–14 лет по формату. Электроника для 5–9 лет.",
+      "programme": "Электрические цепи и простые устройства для группы 5–9 лет. Программа включает проектную ярмарку, где дети могут продавать свои работы.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "14–19 декабря 2026. Дневные занятия обычно 09:00–16:00. Закрытие на рынке 19 декабря в 12:00. Проведение подтвердят к 30 ноября.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "day",
+            "start": "2026-12-14",
+            "end": "2026-12-19",
+            "label": "14–19 декабря 2026. Дневные занятия обычно 09:00–16:00. Закрытие на рынке 19 декабря в 12:00. Проведение подтвердят к 30 ноября.",
+            "price": "EUR 99 до 11 ноября, EUR 120 до 30 ноября, EUR 145 в декабре. За ночёвки нет доплаты. При записи двух братьев или сестёр по 10% скидки.",
+            "source": "https://zanzibar.camp/dec-2026",
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Проведение подтвердят к 30 ноября. Стандартная запись до 6 декабря."
+            },
+            "deadline": "2026-12-06",
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "14–19 декабря 2026. Дневные занятия обычно 09:00–16:00. Закрытие на рынке 19 декабря в 12:00. Проведение подтвердят к 30 ноября."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 145,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "EUR 99 до 11 ноября, EUR 120 до 30 ноября, EUR 145 в декабре. За ночёвки нет доплаты. При записи двух братьев или сестёр по 10% скидки.",
+        "included": "Полное питание. В пансионе 5 ночей в палатках.",
+        "extras": "Уточнить место на электронике, язык преподавателя, остановку и стоимость трансфера, а также условия страховки.",
+        "deposit": "При отмене лагеря оператором возврат 100%. При отказе семьи не позднее чем за 2 недели возвращают 50%, позднее возврата нет."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "14–19 декабря 2026. Дневные занятия обычно 09:00–16:00. Закрытие на рынке 19 декабря в 12:00. Проведение подтвердят к 30 ноября.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить место на электронике, язык преподавателя, остановку и стоимость трансфера, а также условия страховки.",
+        "При отмене лагеря оператором возврат 100%. При отказе семьи не позднее чем за 2 недели возвращают 50%, позднее возврата нет."
+      ],
+      "sources": [
+        {
+          "url": "https://zanzibar.camp/dec-2026",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://zanzibar.camp/data/files/2026/zanzibar-camp-dec-2026-booklet.pdf",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://zanzibar.camp/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "makers",
+        "general"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1977-20261214-20261219-day"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1978",
+      "slug": "zanzibar-paje-december-2026-boarding",
+      "provider": "Zanzibar.Camp · December Electronics · Sleepover",
+      "country": "Объединенная Республика Танзания",
+      "iso": "TZA",
+      "place": "Learning Village · Paje · Zanzibar",
+      "age": "7–14 лет по формату. Электроника для 5–9 лет.",
+      "programme": "Электрические цепи и простые устройства для группы 5–9 лет. Программа включает проектную ярмарку, где дети могут продавать свои работы.",
+      "format": "boarding",
+      "formats": [
+        "boarding"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "14–19 декабря 2026. Дневные занятия обычно 09:00–16:00. Закрытие на рынке 19 декабря в 12:00. Проведение подтвердят к 30 ноября.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "boarding",
+            "start": "2026-12-14",
+            "end": "2026-12-19",
+            "label": "14–19 декабря 2026. Дневные занятия обычно 09:00–16:00. Закрытие на рынке 19 декабря в 12:00. Проведение подтвердят к 30 ноября.",
+            "price": "EUR 99 до 11 ноября, EUR 120 до 30 ноября, EUR 145 в декабре. За ночёвки нет доплаты. При записи двух братьев или сестёр по 10% скидки.",
+            "source": "https://zanzibar.camp/dec-2026",
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Проведение подтвердят к 30 ноября. Стандартная запись до 6 декабря."
+            },
+            "deadline": "2026-12-06",
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "14–19 декабря 2026. Дневные занятия обычно 09:00–16:00. Закрытие на рынке 19 декабря в 12:00. Проведение подтвердят к 30 ноября."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 145,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "EUR 99 до 11 ноября, EUR 120 до 30 ноября, EUR 145 в декабре. За ночёвки нет доплаты. При записи двух братьев или сестёр по 10% скидки.",
+        "included": "Полное питание. В пансионе 5 ночей в палатках.",
+        "extras": "Уточнить место на электронике, язык преподавателя, остановку и стоимость трансфера, а также условия страховки.",
+        "deposit": "При отмене лагеря оператором возврат 100%. При отказе семьи не позднее чем за 2 недели возвращают 50%, позднее возврата нет."
+      },
+      "accommodation": "Пять ночей в отдельных групповых палатках для мальчиков и девочек.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Для ночёвок минимум 7 лет."
+        }
+      },
+      "editorial_reason": "14–19 декабря 2026. Дневные занятия обычно 09:00–16:00. Закрытие на рынке 19 декабря в 12:00. Проведение подтвердят к 30 ноября.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить место на электронике, язык преподавателя, остановку и стоимость трансфера, а также условия страховки.",
+        "При отмене лагеря оператором возврат 100%. При отказе семьи не позднее чем за 2 недели возвращают 50%, позднее возврата нет."
+      ],
+      "sources": [
+        {
+          "url": "https://zanzibar.camp/dec-2026",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://zanzibar.camp/data/files/2026/zanzibar-camp-dec-2026-booklet.pdf",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://zanzibar.camp/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "makers",
+        "general"
+      ],
+      "programme_type": "residential",
+      "catalog_participation": "residential",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1978-20261214-20261219-boarding"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1979",
+      "slug": "penang-pmp-matatalab-2026",
+      "provider": "Penang Math Platform · Matatalab Coding Adventure",
+      "country": "Малайзия",
+      "iso": "MYS",
+      "place": "Penang Math Platform · Gelugor",
+      "age": "7–9 лет.",
+      "programme": "Дети задают последовательность команд роботу Matatalab физическими блоками, без экрана.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Выбирают один день из двух, 09:00–12:00 по местному времени.",
+        "sessions": [
+          [
+            "2026-12-09",
+            "2026-12-09"
+          ],
+          [
+            "2026-12-10",
+            "2026-12-10"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec-9",
+            "start": "2026-12-09",
+            "end": "2026-12-09",
+            "label": "Выбирают один день из двух, 09:00–12:00 по местному времени.",
+            "price": "MYR 19 за одно занятие.",
+            "source": "https://penangmathplatform.com/event/pmp-matatalab-coding-adventure-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-09",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "start_utc": "2026-12-09T01:00:00Z",
+                "end_utc": "2026-12-09T04:00:00Z",
+                "topic": "Matatalab Coding Adventure",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "dec-10",
+            "start": "2026-12-10",
+            "end": "2026-12-10",
+            "label": "Выбирают один день из двух, 09:00–12:00 по местному времени.",
+            "price": "MYR 19 за одно занятие.",
+            "source": "https://penangmathplatform.com/event/pmp-matatalab-coding-adventure-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-10",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Kuala_Lumpur",
+                "start_utc": "2026-12-10T01:00:00Z",
+                "end_utc": "2026-12-10T04:00:00Z",
+                "topic": "Matatalab Coding Adventure",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 19,
+        "currency": "MYR",
+        "unit": "session",
+        "label": "MYR 19 за одно занятие.",
+        "included": "Разовое занятие с Matatalab.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возрастной минимум 7 лет."
+        }
+      },
+      "editorial_reason": "Выбирают один день из двух, 09:00–12:00 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://penangmathplatform.com/event/pmp-matatalab-coding-adventure-2026/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://penangmathplatform.com/school-holiday-camp/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-09",
+          "end": "2026-12-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1979-20261209-20261209-dec-9"
+          ]
+        },
+        {
+          "start": "2026-12-10",
+          "end": "2026-12-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1979-20261210-20261210-dec-10"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -348611,7 +349221,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 278,
+  "version": 279,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -361846,7 +362456,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1974,
+      "total_dossiers": 1979,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -384251,6 +384861,41 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1975",
+      "event_id": "CP1975-20270111-20270115-week-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1975",
+      "event_id": "CP1975-20270118-20270122-week-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1975",
+      "event_id": "CP1975-20270125-20270129-week-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1977",
+      "event_id": "CP1977-20261214-20261219-day",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1978",
+      "event_id": "CP1978-20261214-20261219-boarding",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1979",
+      "event_id": "CP1979-20261209-20261209-dec-9",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1979",
+      "event_id": "CP1979-20261210-20261210-dec-10",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -388931,10 +389576,17 @@
     "CP1972-20270104-20270104-start",
     "CP1973-20261221-20261224-week-1",
     "CP1973-20261228-20261231-week-2",
-    "CP1974-20270125-20270129-winter"
+    "CP1974-20270125-20270129-winter",
+    "CP1975-20270111-20270115-week-1",
+    "CP1975-20270118-20270122-week-2",
+    "CP1975-20270125-20270129-week-3",
+    "CP1977-20261214-20261219-day",
+    "CP1978-20261214-20261219-boarding",
+    "CP1979-20261209-20261209-dec-9",
+    "CP1979-20261210-20261210-dec-10"
   ],
   "integration": {
-    "generated_sessions": 4250,
+    "generated_sessions": 4257,
     "reused_legacy_events": 73,
     "seasonal_windows": 76,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

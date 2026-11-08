@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 278,
+    "version": 279,
     "status": "implementation_snapshot",
-    "events": 10234,
-    "competitions": 4639,
+    "events": 10246,
+    "competitions": 4641,
     "league_profiles": 299,
-    "camp_dossiers": 1974,
+    "camp_dossiers": 1979,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 567,
+    "exhibitions_events": 568,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 277,
+    "version": 278,
     "status": "implementation_snapshot",
-    "events": 10226,
-    "competitions": 4636,
+    "events": 10234,
+    "competitions": 4639,
     "league_profiles": 299,
-    "camp_dossiers": 1972,
+    "camp_dossiers": 1974,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 565,
+    "exhibitions_events": 567,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 278,
+    "prepared_ui_version": 279,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 277,
-    "previous_verified_commit": "684e452c5cd57d93ff3e15e0fbfc45e0ed7505c9"
+    "previous_verified_ui_version": 278,
+    "previous_verified_commit": "38c26e9f16790990171e9f8ac14f550b8f71cb45"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 277,
-    "published_version": 277,
-    "latest_source_commit": "684e452c5cd57d93ff3e15e0fbfc45e0ed7505c9",
-    "published_commit": "684e452c5cd57d93ff3e15e0fbfc45e0ed7505c9",
-    "latest_workflow": 42477791246,
+    "latest_source_version": 278,
+    "published_version": 278,
+    "latest_source_commit": "38c26e9f16790990171e9f8ac14f550b8f71cb45",
+    "published_commit": "38c26e9f16790990171e9f8ac14f550b8f71cb45",
+    "latest_workflow": 42479431983,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -27700,5 +27700,84 @@
     ],
     "audit": "data/winter-workshops-and-robot-sports-audit-v278.json",
     "source_receipts": "data/winter-workshops-and-robot-sports-source-receipts-v278.json"
+  },
+  "caribbean_and_family_programmes_v279": {
+    "version": 279,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4641",
+      "C4642",
+      "E568",
+      "L779",
+      "L780"
+    ],
+    "new_dossiers": [
+      "CP1975",
+      "CP1976",
+      "CP1977",
+      "CP1978",
+      "CP1979"
+    ],
+    "new_dated_variants": 7,
+    "refreshed_event_ids": [
+      "C894",
+      "C895",
+      "C604",
+      "E451",
+      "C3457"
+    ],
+    "legacy_overlay_event_ids": [
+      "C894",
+      "C895",
+      "C604",
+      "E451",
+      "C3457"
+    ],
+    "legacy_overlay_league_ids": [
+      "wro"
+    ],
+    "source_requests": 21,
+    "dom_wro": [
+      "C4641",
+      "C4642"
+    ],
+    "dom_fll": [
+      "C894",
+      "C895"
+    ],
+    "dom_coding": [
+      "L779",
+      "L780"
+    ],
+    "slovenian_open": "C604",
+    "guyane_tour": "E568",
+    "guyane_museum": "E451",
+    "guyane_school": "C3457",
+    "hacienda": "CP1975",
+    "sleepaway": "CP1976",
+    "zanzibar": [
+      "CP1977",
+      "CP1978"
+    ],
+    "penang": "CP1979",
+    "source_conflicts": [
+      {
+        "url": "https://zanzibar.camp/dec-2026",
+        "archive_listing": "2026-12-14/2026-12-18",
+        "current_listing": "2026-12-14/2026-12-19"
+      },
+      {
+        "url": "https://www.niherst.gov.tt/scipop/Science_Corners.html",
+        "status": "source_body_unavailable"
+      },
+      {
+        "url": "https://ascendtechacademy.com/camps/",
+        "status": "historical_season_only"
+      }
+    ],
+    "audit": "data/caribbean-and-family-programmes-audit-v279.json",
+    "source_receipts": "data/caribbean-and-family-programmes-source-receipts-v279.json"
   }
 }

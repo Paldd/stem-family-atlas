@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10234; competiciones: 4639; eventos: 567; campamentos / programas: 5028. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 471 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10246; competiciones: 4641; eventos: 568; campamentos / programas: 5037. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 472 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1914 | 109 | 1268 |
-| América del Sur | 14 | 430 | 40 | 207 |
+| América del Norte | 40 | 1916 | 109 | 1273 |
+| América del Sur | 14 | 430 | 41 | 207 |
 | Europa | 54 | 602 | 122 | 1455 |
-| África | 53 | 235 | 28 | 92 |
-| Asia | 49 | 1155 | 141 | 1659 |
+| África | 53 | 235 | 28 | 94 |
+| Asia | 49 | 1155 | 141 | 1661 |
 | Oceanía | 25 | 163 | 29 | 332 |
 
 Fichas interregionales o globales sin asignar a un continente: 162. Norteamérica incluye Centroamérica y el Caribe. Los recuentos muestran el inventario de la base, no un porcentaje de exhaustividad.
 
-VEX: 814 de 4639 fichas de competición (17.5%). La cobertura presenta un desequilibrio evidente.
+VEX: 814 de 4641 fichas de competición (17.5%). La cobertura presenta un desequilibrio evidente.
 
 ## Lo que queda
 
@@ -93,7 +93,7 @@ VEX: 814 de 4639 fichas de competición (17.5%). La cobertura presenta un desequ
 
 ## ~ Proyecciones de ligas y programas
 
-- **WRO**: 115 tarjetas, 6 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://wro-association.org/competition/categories/
+- **WRO**: 117 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/competition/categories/
 - **FIRST**: 312 fichas, 170 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
 - **VEX Robotics**: 814 fichas, 689 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexrobotics.com/official-path
 - **RoboCupJunior**: 7 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://junior.robocup.org/
@@ -838,6 +838,7 @@ VEX: 814 de 4639 fichas de competición (17.5%). La cobertura presenta un desequ
 - **Hot Wheels City Experience · Zona Gamer** — Argentina; 2026-12-03 – 2027-01-04. con un adulto; condiciones de admisión adulta por separado. https://larural.com.ar/evento/hot-wheels-city-experience/
 - **Science World · Game Changers** — Canadá; 2026-10-16 – 2027-01-24. con un adulto; condiciones de admisión adulta por separado. https://www.scienceworld.ca/exhibition/game-changers/
 - **Hong Kong Science Museum · AI Gallery + InnoTech Gallery** — RAE de Hong Kong (China); fecha sin anunciar. Con un adulto; condiciones de admisión adulta por separado. https://hk.science.museum/en/web/scm/exhibition/aig.html
+- **Centre Spatial Guyanais · Ariane 6, Vega-C & Jupiter 2** — Guayana Francesa; fecha desconocida. Confirmar acceso infantil. https://centrespatialguyanais.cnes.fr/index.php/fr/installations
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

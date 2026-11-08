@@ -11238,6 +11238,38 @@ Limitaciones: La muestra piloto se realizó en Río el 17 de octubre de 2026. Fe
 Fuente: https://educacional.com.br/noticia/first-lego-league-2026-2027/
 Se ha comprobado: 2026-11-08
 
+### L779 · The Coding Space RD · 5–8
+
+lugar: República Dominicana · Saint Joseph School / American School of Santo Domingo
+Fecha: En Saint Joseph School las clases son lunes y miércoles de 16:00–17:00. En American School of Santo Domingo las clases son los jueves de 15:00–16:00.
+Edad: 5–8 años.
+Matvey: No. Edad superior al máximo del grupo.
+Oscar: Sí por edad. Confirmar plazas e idioma.
+Formato: regular
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Estas sedes admiten menores de otros centros. Consultar tarifa, plaza, semestre e idioma en el colegio elegido.
+Limitaciones: Hay un horario semanal publicado. Fechas exactas de clases y vacaciones pendientes.
+Fuente: https://www.thecodingspacerd.com/clases
+Se ha comprobado: 2026-11-08
+
+### L780 · The Coding Space RD · 9–12
+
+lugar: República Dominicana · Saint Joseph School / American School of Santo Domingo
+Fecha: En Saint Joseph School las clases son lunes y miércoles de 15:00–16:00. En American School of Santo Domingo las clases son los jueves de 16:00–17:00.
+Edad: 9 a 12 años.
+Matvey: Sí por edad. Confirmar plazas e idioma.
+Oscar: No. Edad inferior al mínimo del grupo.
+Formato: regular
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Estas sedes admiten menores de otros centros. Consultar tarifa, plaza, semestre e idioma en el colegio elegido.
+Limitaciones: Hay un horario semanal publicado. Fechas exactas de clases y vacaciones pendientes.
+Fuente: https://www.thecodingspacerd.com/clases
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -79236,6 +79268,118 @@ Precio: 2027 · Precio vigente indicado TWD 9800. Almuerzo opcional por TWD 150 
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Confirmar grado 3 o superior, idioma docente y admisión extranjera. Oscar: Para la trayectoria escolar habitual de Oscar hay que esperar a grado 3. Suplementos: El almuerzo se cobra aparte. El kit de regalo para los primeros 30 pagos depende de disponibilidad. Pago: Con 10 días o más, devolución íntegra; con 7–9 días, 80%; con 4–6 días, 50%; con 1–3 días, sin devolución.
 Fuente: https://greenmail1011.github.io/camp2027/
+Se ha comprobado: 2026-11-08
+
+### CP1975-20270111-20270115-week-1 · La Escondida · Hacienda Day Camp · Turnos diurnos de enero. Los horarios de ida y vuelta del autobús dependen de la parada. · 2027-01-11–2027-01-15
+
+lugar: Panamá · Panamá · Hacienda Country Club
+Fecha: 2027-01-11 — 2027-01-15
+edad: 4–14 años, grupos por edad.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Descripción en español. Confirmar idioma de las actividades y apoyo en inglés para el grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Confirmar tarifa final, si el autobús está incluido y descuento por varias semanas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Confirmar tarifa final, si el autobús está incluido y descuento por varias semanas. Pago: Según las reglas del operador, devolución del 50% con 30 días de aviso y del 25% con 15 días. Tras empezar la semana no hay devolución.
+Fuente: https://campamentolaescondida.com/temporadas/
+Se ha comprobado: 2026-11-08
+
+### CP1975-20270118-20270122-week-2 · La Escondida · Hacienda Day Camp · Turnos diurnos de enero. Los horarios de ida y vuelta del autobús dependen de la parada. · 2027-01-18–2027-01-22
+
+lugar: Panamá · Panamá · Hacienda Country Club
+Fecha: 2027-01-18 国 2027-01-22
+edad: 4–14 años, grupos por edad.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Descripción en español. Confirmar idioma de las actividades y apoyo en inglés para el grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Confirmar tarifa final, si el autobús está incluido y descuento por varias semanas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Confirmar tarifa final, si el autobús está incluido y descuento por varias semanas. Pago: Según las reglas del operador, devolución del 50% con 30 días de aviso y del 25% con 15 días. Tras empezar la semana no hay devolución.
+Fuente: https://campamentolaescondida.com/temporadas/
+Se ha comprobado: 2026-11-08
+
+### CP1975-20270125-20270129-week-3 · La Escondida · Hacienda Day Camp · Turnos diurnos de enero. Los horarios de ida y vuelta del autobús dependen de la parada. · 2027-01-25–2027-01-29
+
+lugar: Panamá · Panamá · Hacienda Country Club
+Fecha: 2027-01-25 国 2027-01-29
+edad: 4–14 años, grupos por edad.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Descripción en español. Confirmar idioma de las actividades y apoyo en inglés para el grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Confirmar tarifa final, si el autobús está incluido y descuento por varias semanas. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Confirmar tarifa final, si el autobús está incluido y descuento por varias semanas. Pago: Según las reglas del operador, devolución del 50% con 30 días de aviso y del 25% con 15 días. Tras empezar la semana no hay devolución.
+Fuente: https://campamentolaescondida.com/temporadas/
+Se ha comprobado: 2026-11-08
+
+### CP1977-20261214-20261219-day · Zanzibar.Camp · December Electronics · Day Camp · Del 14 al 19 de diciembre de 2026. Actividades diurnas normalmente de 09:00–16:00. Clausura en el mercado el 19 de diciembre a las 12:00. Confirmarán la realización antes del 30 de noviembre. · 2026-12-14–2026-12-19
+
+lugar: Tanzania · Learning Village · Paje · Zanzibar
+Fecha: 2026-12-14 — 2026-12-19
+edad: 5–14 años según modalidad. Electrónica para 5–9 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 99 hasta el 11 de noviembre, EUR 120 hasta el 30 de noviembre, EUR 145 en diciembre. Sin suplemento por pernocta. Dos hermanos reciben 10% de descuento cada uno. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Confirmar plaza en electrónica, idioma docente, parada y coste del traslado y condiciones del seguro. Pago: Si la organización cancela, devolución del 100%. Si la familia cancela con al menos 2 semanas de antelación, se devuelve el 50%; después no hay devolución.
+Fuente: https://zanzibar.camp/dec-2026
+Se ha comprobado: 2026-11-08
+
+### CP1978-20261214-20261219-boarding · Zanzibar.Camp · December Electronics · Sleepover · Del 14 al 19 de diciembre de 2026. Actividades diurnas normalmente de 09:00–16:00. Clausura en el mercado el 19 de diciembre a las 12:00. Confirmarán la realización antes del 30 de noviembre. · 2026-12-14–2026-12-19
+
+lugar: Tanzania · Learning Village · Paje · Zanzibar
+Fecha: 2026-12-14 — 2026-12-19
+edad: 7–14 años según modalidad. Electrónica para 5–9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 99 hasta el 11 de noviembre, EUR 120 hasta el 30 de noviembre, EUR 145 en diciembre. Sin suplemento por pernocta. Dos hermanos reciben 10% de descuento cada uno. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Para pernoctar se requieren al menos 7 años. Suplementos: Confirmar plaza en electrónica, idioma docente, parada y coste del traslado y condiciones del seguro. Pago: Si la organización cancela, devolución del 100%. Si la familia cancela con al menos 2 semanas de antelación, se devuelve el 50%; después no hay devolución.
+Fuente: https://zanzibar.camp/dec-2026
+Se ha comprobado: 2026-11-08
+
+### CP1979-20261209-20261209-dec-9 · Penang Math Platform · Matatalab Coding Adventure · Se elige uno de dos días, de 09:00–12:00 hora local. · 2026-12-09–2026-12-09
+
+lugar: Malasia · Penang Math Platform · Gelugor
+Fecha: 2026-12-09 — 2026-12-09
+Edad: 7–9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · MYR 19 por una sesión. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Edad mínima de 7 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://penangmathplatform.com/event/pmp-matatalab-coding-adventure-2026/
+Se ha comprobado: 2026-11-08
+
+### CP1979-20261210-20261210-dec-10 · Penang Math Platform · Matatalab Coding Adventure · Se elige uno de dos días, de 09:00–12:00 hora local. · 2026-12-10–2026-12-10
+
+lugar: Malasia · Penang Math Platform · Gelugor
+Fecha: 2026-12-10 — 2026-12-10
+Edad: 7–9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · MYR 19 por una sesión. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Edad mínima de 7 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://penangmathplatform.com/event/pmp-matatalab-coding-adventure-2026/
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10234,
-    "competition_cards": 4639,
-    "event_cards": 567,
-    "camp_cards": 5028,
+    "cards": 10246,
+    "competition_cards": 4641,
+    "event_cards": 568,
+    "camp_cards": 5037,
     "league_profiles": 299,
-    "major_exhibition_cards": 471,
+    "major_exhibition_cards": 472,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3328,
+      "total": 3335,
       "countries_with_records": 40,
-      "competitions": 1914,
+      "competitions": 1916,
       "events": 146,
       "major_exhibitions": 109,
-      "camps": 1268,
+      "camps": 1273,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -48,11 +48,11 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 681,
+      "total": 682,
       "countries_with_records": 14,
       "competitions": 430,
-      "events": 44,
-      "major_exhibitions": 40,
+      "events": 45,
+      "major_exhibitions": 41,
       "camps": 207,
       "status": "Se ha estudiado parcialmente",
       "remaining": "muchos tarjetas de Ecuador y rutas regionales de Chile; Brasil, Perú y otros países requieren etapas, cuotas y calendarios locales."
@@ -76,12 +76,12 @@
       "regions": [
         "África"
       ],
-      "total": 363,
+      "total": 365,
       "countries_with_records": 53,
       "competitions": 235,
       "events": 36,
       "major_exhibitions": 28,
-      "camps": 92,
+      "camps": 94,
       "status": "Se ha estudiado parcialmente",
       "remaining": "Antes de la ampliación casi todas las competiciones fueron en Sudáfrica. se añadió PARC Senegal; Maghreb, África Oriental / Oeste y selecciones locales siguen siendo vacíos."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 2968,
+      "total": 2970,
       "countries_with_records": 49,
       "competitions": 1155,
       "events": 154,
       "major_exhibitions": 141,
-      "camps": 1659,
+      "camps": 1661,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -200,6 +200,8 @@
         "C788",
         "C871",
         "C872",
+        "C4641",
+        "C4642",
         "C1566",
         "C1567",
         "C1618",
@@ -236,9 +238,9 @@
         "C1766",
         "C1767"
       ],
-      "cards": 115,
+      "cards": 117,
       "future_dated": 6,
-      "linked_card_count": 115,
+      "linked_card_count": 117,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://wro-association.org/competition/categories/",
       "new": false
@@ -13871,6 +13873,17 @@
       "new": false
     },
     {
+      "id": "E568",
+      "name": "Centre Spatial Guyanais · Ariane 6, Vega-C & Jupiter 2",
+      "country": "Guayana Francesa",
+      "region": "América del Sur",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://centrespatialguyanais.cnes.fr/index.php/fr/installations",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -16288,11 +16301,11 @@
       }
     ],
     "counts": {
-      "records": 5028,
-      "holiday": 4676,
-      "regular": 160,
+      "records": 5037,
+      "holiday": 4683,
+      "regular": 162,
       "self_paced_materials": 4,
-      "boarding": 1037,
+      "boarding": 1038,
       "en_es_instruction": 1593,
       "en_es_support": 28,
       "family_instruction": 1593,
@@ -16301,7 +16314,7 @@
       "language_lessons": 412,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 144
+      "countries": 145
     },
     "validation": {
       "version": 51,

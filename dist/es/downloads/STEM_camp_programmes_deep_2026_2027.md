@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 1974 fichas en 126 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-08. 1979 fichas en 126 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -158289,6 +158289,292 @@ Taiwán · Hsinchu · NYCU Guangfu Campus · Engineering Building III
 - [Página de la organización o reglamento de la categoría.](https://greenmail1011.github.io/camp2027/) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://www.futurezebra.com/) · 2026-11-08
+
+## CP1975 · La Escondida · Hacienda Day Camp
+
+Panamá · Panamá · Hacienda Country Club
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–14 años, grupos por edad.
+
+**Idioma:** Descripción en español. Confirmar idioma de las actividades y apoyo en inglés para el grupo elegido.
+
+**Programa:** Deporte, juegos en la naturaleza y actividades con monitores.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Turnos diurnos de enero. Los horarios de ida y vuelta del autobús dependen de la parada.
+
+**Precio / año:** 2027 · Confirmar tarifa final, si el autobús está incluido y descuento por varias semanas.
+
+**Incluido:** Almuerzo, merienda y acompañamiento de enfermería.
+
+**Suplementos:** Confirmar tarifa final, si el autobús está incluido y descuento por varias semanas.
+
+**Pago:** Según las reglas del operador, devolución del 50% con 30 días de aviso y del 25% con 15 días. Tras empezar la semana no hay devolución.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Turnos diurnos de enero. Los horarios de ida y vuelta del autobús dependen de la parada.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar tarifa final, si el autobús está incluido y descuento por varias semanas.
+
+### Turnos diurnos de enero. Los horarios de ida y vuelta del autobús dependen de la parada.
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Precio:** Confirmar tarifa final, si el autobús está incluido y descuento por varias semanas.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://campamentolaescondida.com/temporadas/)
+
+### Turnos diurnos de enero. Los horarios de ida y vuelta del autobús dependen de la parada.
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**Precio:** Confirmar tarifa final, si el autobús está incluido y descuento por varias semanas.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://campamentolaescondida.com/temporadas/)
+
+### Turnos diurnos de enero. Los horarios de ida y vuelta del autobús dependen de la parada.
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Precio:** Confirmar tarifa final, si el autobús está incluido y descuento por varias semanas.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://campamentolaescondida.com/temporadas/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://campamentolaescondida.com/temporadas/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://campamentolaescondida.com/inscribete/) · 2026-11-08
+
+## CP1976 · La Escondida · Sleepaway
+
+Panamá · Panamá · sede de la temporada pendiente
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–15 años.
+
+**Idioma:** Descripción en español. Confirmar idioma de las actividades y apoyo en inglés para el grupo elegido.
+
+**Programa:** Campamento general con alojamiento, actividades en la naturaleza y grupos por edad.
+
+**Alojamiento:** Cabañas por edades. El operador anuncia supervisión y presencia médica.
+
+**Fechas / estado:** Las próximas fechas figuran como Próximamente.
+
+**Precio / año:** sin establecer · Aún no se confirman el coste total ni las plazas.
+
+**Incluido:** Cabañas con literas y monitores.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Las próximas fechas figuran como Próximamente.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://campamentolaescondida.com/temporadas/) · 2026-11-08
+
+## CP1977 · Zanzibar.Camp · December Electronics · Day Camp
+
+Tanzania · Learning Village · Paje · Zanzibar
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 5–14 años según modalidad. Electrónica para 5–9 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Circuitos eléctricos y dispositivos simples para el grupo de 5–9 años. La programación incluye un mercado donde pueden vender sus proyectos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Del 14 al 19 de diciembre de 2026. Actividades diurnas normalmente de 09:00–16:00. Clausura en el mercado el 19 de diciembre a las 12:00. Confirmarán la realización antes del 30 de noviembre.
+
+**Precio / año:** 2026 · EUR 99 hasta el 11 de noviembre, EUR 120 hasta el 30 de noviembre, EUR 145 en diciembre. Sin suplemento por pernocta. Dos hermanos reciben 10% de descuento cada uno.
+
+**Incluido:** Pensión completa. En alojamiento, 5 noches en tiendas.
+
+**Suplementos:** Confirmar plaza en electrónica, idioma docente, parada y coste del traslado y condiciones del seguro.
+
+**Pago:** Si la organización cancela, devolución del 100%. Si la familia cancela con al menos 2 semanas de antelación, se devuelve el 50%; después no hay devolución.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Del 14 al 19 de diciembre de 2026. Actividades diurnas normalmente de 09:00–16:00. Clausura en el mercado el 19 de diciembre a las 12:00. Confirmarán la realización antes del 30 de noviembre.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza en electrónica, idioma docente, parada y coste del traslado y condiciones del seguro.
+
+- Si la organización cancela, devolución del 100%. Si la familia cancela con al menos 2 semanas de antelación, se devuelve el 50%; después no hay devolución.
+
+### Del 14 al 19 de diciembre de 2026. Actividades diurnas normalmente de 09:00–16:00. Clausura en el mercado el 19 de diciembre a las 12:00. Confirmarán la realización antes del 30 de noviembre.
+
+**Fechas / estado:** 2026-12-14 — 2026-12-19
+
+**Precio:** EUR 99 hasta el 11 de noviembre, EUR 120 hasta el 30 de noviembre, EUR 145 en diciembre. Sin suplemento por pernocta. Dos hermanos reciben 10% de descuento cada uno.
+
+**Disponibilidad de plazas:** Confirmarán la realización antes del 30 de noviembre. Inscripción normal hasta el 6 de diciembre.
+
+[fuente](https://zanzibar.camp/dec-2026)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://zanzibar.camp/dec-2026) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://zanzibar.camp/data/files/2026/zanzibar-camp-dec-2026-booklet.pdf) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://zanzibar.camp/) · 2026-11-08
+
+## CP1978 · Zanzibar.Camp · December Electronics · Sleepover
+
+Tanzania · Learning Village · Paje · Zanzibar
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–14 años según modalidad. Electrónica para 5–9 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Circuitos eléctricos y dispositivos simples para el grupo de 5–9 años. La programación incluye un mercado donde pueden vender sus proyectos.
+
+**Alojamiento:** Cinco noches en tiendas de grupo separadas para niños y niñas.
+
+**Fechas / estado:** Del 14 al 19 de diciembre de 2026. Actividades diurnas normalmente de 09:00–16:00. Clausura en el mercado el 19 de diciembre a las 12:00. Confirmarán la realización antes del 30 de noviembre.
+
+**Precio / año:** 2026 · EUR 99 hasta el 11 de noviembre, EUR 120 hasta el 30 de noviembre, EUR 145 en diciembre. Sin suplemento por pernocta. Dos hermanos reciben 10% de descuento cada uno.
+
+**Incluido:** Pensión completa. En alojamiento, 5 noches en tiendas.
+
+**Suplementos:** Confirmar plaza en electrónica, idioma docente, parada y coste del traslado y condiciones del seguro.
+
+**Pago:** Si la organización cancela, devolución del 100%. Si la familia cancela con al menos 2 semanas de antelación, se devuelve el 50%; después no hay devolución.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Para pernoctar se requieren al menos 7 años.
+
+**Motivo de selección:** Del 14 al 19 de diciembre de 2026. Actividades diurnas normalmente de 09:00–16:00. Clausura en el mercado el 19 de diciembre a las 12:00. Confirmarán la realización antes del 30 de noviembre.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza en electrónica, idioma docente, parada y coste del traslado y condiciones del seguro.
+
+- Si la organización cancela, devolución del 100%. Si la familia cancela con al menos 2 semanas de antelación, se devuelve el 50%; después no hay devolución.
+
+### Del 14 al 19 de diciembre de 2026. Actividades diurnas normalmente de 09:00–16:00. Clausura en el mercado el 19 de diciembre a las 12:00. Confirmarán la realización antes del 30 de noviembre.
+
+**Fechas / estado:** 2026-12-14 — 2026-12-19
+
+**Precio:** EUR 99 hasta el 11 de noviembre, EUR 120 hasta el 30 de noviembre, EUR 145 en diciembre. Sin suplemento por pernocta. Dos hermanos reciben 10% de descuento cada uno.
+
+**Disponibilidad de plazas:** Confirmarán la realización antes del 30 de noviembre. Inscripción normal hasta el 6 de diciembre.
+
+[fuente](https://zanzibar.camp/dec-2026)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://zanzibar.camp/dec-2026) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://zanzibar.camp/data/files/2026/zanzibar-camp-dec-2026-booklet.pdf) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://zanzibar.camp/) · 2026-11-08
+
+## CP1979 · Penang Math Platform · Matatalab Coding Adventure
+
+Malasia · Penang Math Platform · Gelugor
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–9 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Los niños dan secuencias de órdenes al robot Matatalab con bloques físicos, sin pantalla.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Se elige uno de dos días, de 09:00–12:00 hora local.
+
+**Precio / año:** 2026 · MYR 19 por una sesión.
+
+**Incluido:** Una sesión con Matatalab.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Edad mínima de 7 años.
+
+**Motivo de selección:** Se elige uno de dos días, de 09:00–12:00 hora local.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Se elige uno de dos días, de 09:00–12:00 hora local.
+
+**Fechas / estado:** 2026-12-09 — 2026-12-09
+
+**Precio:** MYR 19 por una sesión.
+
+- 2026-12-09 · 09:00–12:00 · Asia/Kuala_Lumpur · Matatalab Coding Adventure
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://penangmathplatform.com/event/pmp-matatalab-coding-adventure-2026/)
+
+### Se elige uno de dos días, de 09:00–12:00 hora local.
+
+**Fechas / estado:** 2026-12-10 — 2026-12-10
+
+**Precio:** MYR 19 por una sesión.
+
+- 2026-12-10 · 09:00–12:00 · Asia/Kuala_Lumpur · Matatalab Coding Adventure
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://penangmathplatform.com/event/pmp-matatalab-coding-adventure-2026/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://penangmathplatform.com/event/pmp-matatalab-coding-adventure-2026/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://penangmathplatform.com/school-holiday-camp/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 
