@@ -79014,6 +79014,134 @@ Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Os
 Fuente: https://steamoji.com/canada-bc-richmond-north
 Se ha comprobado: 2026-11-08
 
+### CP1968-20270319-20270329-half · La Casita de Inglés · Easter Camp · Madrid · Programa diurno 09:00–13:00. · 2027-03-19–2027-03-29
+
+lugar: España · Madrid y alrededores, sede a elegir.
+Fecha: 2027-03-19 — 2027-03-29
+edad: 3–12 años. Los más pequeños deben ir sin pañal.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inmersión total en inglés con docentes nativos.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.
+Fuente: https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/
+Se ha comprobado: 2026-11-08
+
+### CP1968-20270319-20270329-full · La Casita de Inglés · Easter Camp · Madrid · Programa diurno 09:00–16:00. · 2027-03-19–2027-03-29
+
+lugar: España · Madrid y alrededores, sede a elegir.
+Fecha: 2027-03-19 — 2027-03-29
+edad: 3–12 años. Los más pequeños deben ir sin pañal.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inmersión total en inglés con docentes nativos.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.
+Fuente: https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/
+Se ha comprobado: 2026-11-08
+
+### CP1969-20270319-20270329-half · La Casita de Inglés · Easter Camp · Barcelona · Programa diurno 09:00–13:00. · 2027-03-19–2027-03-29
+
+lugar: España · Barcelona, Poblenou o Sant Cugat del Vallès.
+Fecha: 2027-03-19 — 2027-03-29
+edad: 3–12 años. Los más pequeños deben ir sin pañal.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inmersión total en inglés con docentes nativos.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.
+Fuente: https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/
+Se ha comprobado: 2026-11-08
+
+### CP1969-20270319-20270329-full · La Casita de Inglés · Easter Camp · Barcelona · Programa diurno 09:00–16:00. · 2027-03-19–2027-03-29
+
+lugar: España · Barcelona, Poblenou o Sant Cugat del Vallès.
+Fecha: 2027-03-19 — 2027-03-29
+edad: 3–12 años. Los más pequeños deben ir sin pañal.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inmersión total en inglés con docentes nativos.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.
+Fuente: https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/
+Se ha comprobado: 2026-11-08
+
+### CP1970-20270322-20270329-half · La Casita de Inglés · Easter Camp · Vigo · Programa diurno 09:00–13:00. · 2027-03-22–2027-03-29
+
+lugar: España · Rúa do Uruguai, 15 · Vigo
+Fecha: 2027-03-22 — 2027-03-29
+edad: 3–12 años. Los más pequeños deben ir sin pañal.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inmersión total en inglés con docentes nativos.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.
+Fuente: https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/
+Se ha comprobado: 2026-11-08
+
+### CP1970-20270322-20270329-full · La Casita de Inglés · Easter Camp · Vigo · Programa diurno 09:00–16:00. · 2027-03-22–2027-03-29
+
+lugar: España · Rúa do Uruguai, 15 · Vigo
+Fecha: 2027-03-22 — 2027-03-29
+edad: 3–12 años. Los más pequeños deben ir sin pañal.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inmersión total en inglés con docentes nativos.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.
+Fuente: https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/
+Se ha comprobado: 2026-11-08
+
+### CP1971-20270329-20270405-half · La Casita de Inglés · Easter Camp · Valencia · Programa diurno 09:00–13:00. · 2027-03-29–2027-04-05
+
+lugar: España · Carrer de Salamanca, 54 · Valencia
+Fecha: 2027-03-29 — 2027-04-05
+edad: 3–12 años. Los más pequeños deben ir sin pañal.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inmersión total en inglés con docentes nativos.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.
+Fuente: https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/
+Se ha comprobado: 2026-11-08
+
+### CP1971-20270329-20270405-full · La Casita de Inglés · Easter Camp · Valencia · Programa diurno 09:00–16:00. · 2027-03-29–2027-04-05
+
+lugar: España · Carrer de Salamanca, 54 · Valencia
+Fecha: 2027-03-29 — 2027-04-05
+edad: 3–12 años. Los más pequeños deben ir sin pañal.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inmersión total en inglés con docentes nativos.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.
+Fuente: https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/
+Se ha comprobado: 2026-11-08
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi
@@ -79490,9 +79618,9 @@ Idioma: Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES
 Marca de idioma: unconfirmed; apoyo: no declarado
 Precio: Tarifa exacta y factura final sin publicar / confirmar; desconocido no equivale a cero.
 Acceso: Ser candidato por edad no significa solicitud aceptada. Confirmar curso real, edad al corte, admisión extranjera, equipo, idioma operativo, plazas y factura completa. Sin cuentas creadas, consentimientos, solicitudes, mensajes ni pagos.
-Limitaciones: Teacher guide abierto de diseño de juegos para Grades 3–6: sistemas, reglas, prototipos, pruebas y feedback. Material lectivo inglés, no campamento organizado anglófono. Determinar curso real y facilitador; handbook no acredita admisión a nueva categoría competitiva C848, deadline / prizes aún sin publicar.
+Limitaciones: Guía para grados 3–6 sobre reglas de juego, prototipos y pruebas. Incluye un itinerario para el proyecto Everyone Belongs Here. Novice requiere una inscripción separada mediante un adulto.
 Fuente: https://www.gamesforchange.org/wp-content/uploads/2026/10/Intro-to-Game-Design-3-6.pdf
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### L521 · CodeFest 2026 · optional preparation workshop
 

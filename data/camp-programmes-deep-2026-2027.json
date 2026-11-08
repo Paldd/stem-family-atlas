@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1967,
+    "dossiers": 1971,
     "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
-      "published_2027": 536,
+      "published_2027": 540,
       "partial_2027": 145,
       "next_unannounced": 399,
       "published_2026": 372,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2857
+    "source_urls": 2858
   },
   "countries": [
     {
@@ -233,7 +233,7 @@
     },
     {
       "country": "Испания",
-      "count": 141
+      "count": 145
     },
     {
       "country": "Италия",
@@ -299511,6 +299511,842 @@
       "programme_type": "day_camp",
       "catalog_participation": "day_camp",
       "related_event_ids": []
+    },
+    {
+      "id": "CP1968",
+      "slug": "la-casita-easter-madrid",
+      "provider": "La Casita de Inglés · Easter Camp · Madrid",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Мадрид и пригороды, филиал по выбору.",
+      "age": "3–12 лет. Младшие дети должны обходиться без подгузников.",
+      "programme": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Полное погружение в английский с преподавателями-носителями.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2027",
+        "label": "Выбрать отдельные дни: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+        "sessions": [
+          [
+            "2027-03-19",
+            "2027-03-29"
+          ],
+          [
+            "2027-03-19",
+            "2027-03-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "half",
+            "start": "2027-03-19",
+            "end": "2027-03-29",
+            "label": "Дневная программа 09:00–13:00.",
+            "price": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+            "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-19",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-19T08:00:00Z",
+                "end_utc": "2027-03-19T12:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-22",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-22T08:00:00Z",
+                "end_utc": "2027-03-22T12:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-23T08:00:00Z",
+                "end_utc": "2027-03-23T12:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-24T08:00:00Z",
+                "end_utc": "2027-03-24T12:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-29",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-29T07:00:00Z",
+                "end_utc": "2027-03-29T11:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "full",
+            "start": "2027-03-19",
+            "end": "2027-03-29",
+            "label": "Дневная программа 09:00–16:00.",
+            "price": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+            "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-19",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-19T08:00:00Z",
+                "end_utc": "2027-03-19T15:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-22T08:00:00Z",
+                "end_utc": "2027-03-22T15:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-23T08:00:00Z",
+                "end_utc": "2027-03-23T15:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-24T08:00:00Z",
+                "end_utc": "2027-03-24T15:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-29T07:00:00Z",
+                "end_utc": "2027-03-29T14:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "EUR",
+        "unit": "day",
+        "label": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+        "included": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+        "extras": "Присмотр 08:00–09:00 возможен в некоторых филиалах при минимальном наборе.",
+        "deposit": "Если за 1 неделю до даты не набрали минимум участников, организатор возвращает 100% внесённой суммы."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "Выбрать отдельные дни: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP1969",
+      "slug": "la-casita-easter-barcelona",
+      "provider": "La Casita de Inglés · Easter Camp · Barcelona",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Барселона, Poblenou или Sant Cugat del Vallès.",
+      "age": "3–12 лет. Младшие дети должны обходиться без подгузников.",
+      "programme": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Полное погружение в английский с преподавателями-носителями.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2027",
+        "label": "Выбрать отдельные дни: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+        "sessions": [
+          [
+            "2027-03-19",
+            "2027-03-29"
+          ],
+          [
+            "2027-03-19",
+            "2027-03-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "half",
+            "start": "2027-03-19",
+            "end": "2027-03-29",
+            "label": "Дневная программа 09:00–13:00.",
+            "price": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+            "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-19",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-19T08:00:00Z",
+                "end_utc": "2027-03-19T12:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-22",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-22T08:00:00Z",
+                "end_utc": "2027-03-22T12:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-23T08:00:00Z",
+                "end_utc": "2027-03-23T12:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-24T08:00:00Z",
+                "end_utc": "2027-03-24T12:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-29",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-29T07:00:00Z",
+                "end_utc": "2027-03-29T11:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "full",
+            "start": "2027-03-19",
+            "end": "2027-03-29",
+            "label": "Дневная программа 09:00–16:00.",
+            "price": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+            "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-19",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-19T08:00:00Z",
+                "end_utc": "2027-03-19T15:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-22T08:00:00Z",
+                "end_utc": "2027-03-22T15:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-23T08:00:00Z",
+                "end_utc": "2027-03-23T15:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-24T08:00:00Z",
+                "end_utc": "2027-03-24T15:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-29T07:00:00Z",
+                "end_utc": "2027-03-29T14:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "EUR",
+        "unit": "day",
+        "label": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+        "included": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+        "extras": "Присмотр 08:00–09:00 возможен в некоторых филиалах при минимальном наборе.",
+        "deposit": "Если за 1 неделю до даты не набрали минимум участников, организатор возвращает 100% внесённой суммы."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "Выбрать отдельные дни: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP1970",
+      "slug": "la-casita-easter-vigo",
+      "provider": "La Casita de Inglés · Easter Camp · Vigo",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Rúa do Uruguai, 15 · Vigo",
+      "age": "3–12 лет. Младшие дети должны обходиться без подгузников.",
+      "programme": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Полное погружение в английский с преподавателями-носителями.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2027",
+        "label": "Выбрать отдельные дни: 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+        "sessions": [
+          [
+            "2027-03-22",
+            "2027-03-29"
+          ],
+          [
+            "2027-03-22",
+            "2027-03-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "half",
+            "start": "2027-03-22",
+            "end": "2027-03-29",
+            "label": "Дневная программа 09:00–13:00.",
+            "price": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+            "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-22",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-22T08:00:00Z",
+                "end_utc": "2027-03-22T12:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-23T08:00:00Z",
+                "end_utc": "2027-03-23T12:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-24T08:00:00Z",
+                "end_utc": "2027-03-24T12:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-29",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-29T07:00:00Z",
+                "end_utc": "2027-03-29T11:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "full",
+            "start": "2027-03-22",
+            "end": "2027-03-29",
+            "label": "Дневная программа 09:00–16:00.",
+            "price": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+            "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-22T08:00:00Z",
+                "end_utc": "2027-03-22T15:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-23T08:00:00Z",
+                "end_utc": "2027-03-23T15:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-24T08:00:00Z",
+                "end_utc": "2027-03-24T15:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-29T07:00:00Z",
+                "end_utc": "2027-03-29T14:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "EUR",
+        "unit": "day",
+        "label": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+        "included": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+        "extras": "Присмотр 08:00–09:00 возможен в некоторых филиалах при минимальном наборе.",
+        "deposit": "Если за 1 неделю до даты не набрали минимум участников, организатор возвращает 100% внесённой суммы."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "Выбрать отдельные дни: 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP1971",
+      "slug": "la-casita-easter-valencia",
+      "provider": "La Casita de Inglés · Easter Camp · Valencia",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Carrer de Salamanca, 54 · Valencia",
+      "age": "3–12 лет. Младшие дети должны обходиться без подгузников.",
+      "programme": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Полное погружение в английский с преподавателями-носителями.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2027",
+        "label": "Выбрать отдельные дни: 2027-03-29, 2027-03-30, 2027-03-31, 2027-04-01, 2027-04-02, 2027-04-05. Два дневных формата.",
+        "sessions": [
+          [
+            "2027-03-29",
+            "2027-04-05"
+          ],
+          [
+            "2027-03-29",
+            "2027-04-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "half",
+            "start": "2027-03-29",
+            "end": "2027-04-05",
+            "label": "Дневная программа 09:00–13:00.",
+            "price": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+            "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-29",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-29T07:00:00Z",
+                "end_utc": "2027-03-29T11:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-30",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-30T07:00:00Z",
+                "end_utc": "2027-03-30T11:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-31",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-31T07:00:00Z",
+                "end_utc": "2027-03-31T11:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-01",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-04-01T07:00:00Z",
+                "end_utc": "2027-04-01T11:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-02",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-04-02T07:00:00Z",
+                "end_utc": "2027-04-02T11:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-05",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-04-05T07:00:00Z",
+                "end_utc": "2027-04-05T11:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "full",
+            "start": "2027-03-29",
+            "end": "2027-04-05",
+            "label": "Дневная программа 09:00–16:00.",
+            "price": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+            "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-29T07:00:00Z",
+                "end_utc": "2027-03-29T14:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-30",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-30T07:00:00Z",
+                "end_utc": "2027-03-30T14:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-31",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-03-31T07:00:00Z",
+                "end_utc": "2027-03-31T14:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-01",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-04-01T07:00:00Z",
+                "end_utc": "2027-04-01T14:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-02",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-04-02T07:00:00Z",
+                "end_utc": "2027-04-02T14:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-05",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Madrid",
+                "start_utc": "2027-04-05T07:00:00Z",
+                "end_utc": "2027-04-05T14:00:00Z",
+                "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "EUR",
+        "unit": "day",
+        "label": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+        "included": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+        "extras": "Присмотр 08:00–09:00 возможен в некоторых филиалах при минимальном наборе.",
+        "deposit": "Если за 1 неделю до даты не набрали минимум участников, организатор возвращает 100% внесённой суммы."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "Выбрать отдельные дни: 2027-03-29, 2027-03-30, 2027-03-31, 2027-04-01, 2027-04-02, 2027-04-05. Два дневных формата.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
     }
   ],
   "gaps": [
@@ -304836,7 +305672,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 275,
+  "version": 276,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -318071,7 +318907,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1967,
+      "total_dossiers": 1971,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

@@ -580,14 +580,14 @@
       }
     ],
     "counts": {
-      "records": 5014,
-      "holiday": 4664,
+      "records": 5022,
+      "holiday": 4672,
       "regular": 158,
       "self_paced_materials": 4,
       "boarding": 1037,
-      "en_es_instruction": 1583,
+      "en_es_instruction": 1591,
       "en_es_support": 28,
-      "family_instruction": 1583,
+      "family_instruction": 1591,
       "family_support": 28,
       "ru_instruction": 4,
       "language_lessons": 412,
@@ -403156,6 +403156,918 @@
       }
     },
     {
+      "id": "CP1968-20270319-20270329-half",
+      "block": "Campamentos",
+      "title": "La Casita de Inglés · Easter Camp · Madrid · Programa diurno 09:00–13:00. · 2027-03-19–2027-03-29",
+      "country": "España",
+      "region": "Europa",
+      "city": "Madrid y alrededores, sede a elegir.",
+      "start": "2027-03-19",
+      "end": "2027-03-29",
+      "period": "Elegir días sueltos: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Dos modalidades diurnas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–12 años. Los más pequeños deben ir sin pañal.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+      "language": "Inmersión total en inglés con docentes nativos.",
+      "cost": "2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "references": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inmersión total en inglés con docentes nativos.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "la-casita-easter-madrid",
+      "camp_programme_id": "CP1968",
+      "sessions": [
+        {
+          "date": "2027-03-19",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-19T08:00:00Z",
+          "end_utc": "2027-03-19T12:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-22",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-22T08:00:00Z",
+          "end_utc": "2027-03-22T12:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-23",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-23T08:00:00Z",
+          "end_utc": "2027-03-23T12:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-24",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-24T08:00:00Z",
+          "end_utc": "2027-03-24T12:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-29",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-29T07:00:00Z",
+          "end_utc": "2027-03-29T11:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1968-20270319-20270329-full",
+      "block": "Campamentos",
+      "title": "La Casita de Inglés · Easter Camp · Madrid · Programa diurno 09:00–16:00. · 2027-03-19–2027-03-29",
+      "country": "España",
+      "region": "Europa",
+      "city": "Madrid y alrededores, sede a elegir.",
+      "start": "2027-03-19",
+      "end": "2027-03-29",
+      "period": "Elegir días sueltos: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Dos modalidades diurnas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–12 años. Los más pequeños deben ir sin pañal.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+      "language": "Inmersión total en inglés con docentes nativos.",
+      "cost": "2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "references": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inmersión total en inglés con docentes nativos.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "la-casita-easter-madrid",
+      "camp_programme_id": "CP1968",
+      "sessions": [
+        {
+          "date": "2027-03-19",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-19T08:00:00Z",
+          "end_utc": "2027-03-19T15:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-22",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-22T08:00:00Z",
+          "end_utc": "2027-03-22T15:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-23",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-23T08:00:00Z",
+          "end_utc": "2027-03-23T15:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-24",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-24T08:00:00Z",
+          "end_utc": "2027-03-24T15:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-29",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-29T07:00:00Z",
+          "end_utc": "2027-03-29T14:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1969-20270319-20270329-half",
+      "block": "Campamentos",
+      "title": "La Casita de Inglés · Easter Camp · Barcelona · Programa diurno 09:00–13:00. · 2027-03-19–2027-03-29",
+      "country": "España",
+      "region": "Europa",
+      "city": "Barcelona, Poblenou o Sant Cugat del Vallès.",
+      "start": "2027-03-19",
+      "end": "2027-03-29",
+      "period": "Elegir días sueltos: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Dos modalidades diurnas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–12 años. Los más pequeños deben ir sin pañal.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+      "language": "Inmersión total en inglés con docentes nativos.",
+      "cost": "2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "references": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inmersión total en inglés con docentes nativos.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "la-casita-easter-barcelona",
+      "camp_programme_id": "CP1969",
+      "sessions": [
+        {
+          "date": "2027-03-19",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-19T08:00:00Z",
+          "end_utc": "2027-03-19T12:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-22",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-22T08:00:00Z",
+          "end_utc": "2027-03-22T12:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-23",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-23T08:00:00Z",
+          "end_utc": "2027-03-23T12:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-24",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-24T08:00:00Z",
+          "end_utc": "2027-03-24T12:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-29",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-29T07:00:00Z",
+          "end_utc": "2027-03-29T11:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1969-20270319-20270329-full",
+      "block": "Campamentos",
+      "title": "La Casita de Inglés · Easter Camp · Barcelona · Programa diurno 09:00–16:00. · 2027-03-19–2027-03-29",
+      "country": "España",
+      "region": "Europa",
+      "city": "Barcelona, Poblenou o Sant Cugat del Vallès.",
+      "start": "2027-03-19",
+      "end": "2027-03-29",
+      "period": "Elegir días sueltos: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Dos modalidades diurnas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–12 años. Los más pequeños deben ir sin pañal.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+      "language": "Inmersión total en inglés con docentes nativos.",
+      "cost": "2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "references": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inmersión total en inglés con docentes nativos.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "la-casita-easter-barcelona",
+      "camp_programme_id": "CP1969",
+      "sessions": [
+        {
+          "date": "2027-03-19",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-19T08:00:00Z",
+          "end_utc": "2027-03-19T15:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-22",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-22T08:00:00Z",
+          "end_utc": "2027-03-22T15:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-23",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-23T08:00:00Z",
+          "end_utc": "2027-03-23T15:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-24",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-24T08:00:00Z",
+          "end_utc": "2027-03-24T15:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-29",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-29T07:00:00Z",
+          "end_utc": "2027-03-29T14:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1970-20270322-20270329-half",
+      "block": "Campamentos",
+      "title": "La Casita de Inglés · Easter Camp · Vigo · Programa diurno 09:00–13:00. · 2027-03-22–2027-03-29",
+      "country": "España",
+      "region": "Europa",
+      "city": "Rúa do Uruguai, 15 · Vigo",
+      "start": "2027-03-22",
+      "end": "2027-03-29",
+      "period": "Elegir días sueltos: 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Dos modalidades diurnas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–12 años. Los más pequeños deben ir sin pañal.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+      "language": "Inmersión total en inglés con docentes nativos.",
+      "cost": "2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "references": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inmersión total en inglés con docentes nativos.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "la-casita-easter-vigo",
+      "camp_programme_id": "CP1970",
+      "sessions": [
+        {
+          "date": "2027-03-22",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-22T08:00:00Z",
+          "end_utc": "2027-03-22T12:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-23",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-23T08:00:00Z",
+          "end_utc": "2027-03-23T12:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-24",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-24T08:00:00Z",
+          "end_utc": "2027-03-24T12:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-29",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-29T07:00:00Z",
+          "end_utc": "2027-03-29T11:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1970-20270322-20270329-full",
+      "block": "Campamentos",
+      "title": "La Casita de Inglés · Easter Camp · Vigo · Programa diurno 09:00–16:00. · 2027-03-22–2027-03-29",
+      "country": "España",
+      "region": "Europa",
+      "city": "Rúa do Uruguai, 15 · Vigo",
+      "start": "2027-03-22",
+      "end": "2027-03-29",
+      "period": "Elegir días sueltos: 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Dos modalidades diurnas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–12 años. Los más pequeños deben ir sin pañal.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+      "language": "Inmersión total en inglés con docentes nativos.",
+      "cost": "2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "references": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inmersión total en inglés con docentes nativos.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "la-casita-easter-vigo",
+      "camp_programme_id": "CP1970",
+      "sessions": [
+        {
+          "date": "2027-03-22",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-22T08:00:00Z",
+          "end_utc": "2027-03-22T15:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-23",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-23T08:00:00Z",
+          "end_utc": "2027-03-23T15:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-24",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-24T08:00:00Z",
+          "end_utc": "2027-03-24T15:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-29",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-29T07:00:00Z",
+          "end_utc": "2027-03-29T14:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1971-20270329-20270405-half",
+      "block": "Campamentos",
+      "title": "La Casita de Inglés · Easter Camp · Valencia · Programa diurno 09:00–13:00. · 2027-03-29–2027-04-05",
+      "country": "España",
+      "region": "Europa",
+      "city": "Carrer de Salamanca, 54 · Valencia",
+      "start": "2027-03-29",
+      "end": "2027-04-05",
+      "period": "Elegir días sueltos: 2027-03-29, 2027-03-30, 2027-03-31, 2027-04-01, 2027-04-02, 2027-04-05. Dos modalidades diurnas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–12 años. Los más pequeños deben ir sin pañal.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+      "language": "Inmersión total en inglés con docentes nativos.",
+      "cost": "2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "references": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inmersión total en inglés con docentes nativos.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "la-casita-easter-valencia",
+      "camp_programme_id": "CP1971",
+      "sessions": [
+        {
+          "date": "2027-03-29",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-29T07:00:00Z",
+          "end_utc": "2027-03-29T11:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-30",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-30T07:00:00Z",
+          "end_utc": "2027-03-30T11:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-31",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-31T07:00:00Z",
+          "end_utc": "2027-03-31T11:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-01",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-04-01T07:00:00Z",
+          "end_utc": "2027-04-01T11:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-02",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-04-02T07:00:00Z",
+          "end_utc": "2027-04-02T11:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-05",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-04-05T07:00:00Z",
+          "end_utc": "2027-04-05T11:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1971-20270329-20270405-full",
+      "block": "Campamentos",
+      "title": "La Casita de Inglés · Easter Camp · Valencia · Programa diurno 09:00–16:00. · 2027-03-29–2027-04-05",
+      "country": "España",
+      "region": "Europa",
+      "city": "Carrer de Salamanca, 54 · Valencia",
+      "start": "2027-03-29",
+      "end": "2027-04-05",
+      "period": "Elegir días sueltos: 2027-03-29, 2027-03-30, 2027-03-31, 2027-04-01, 2027-04-02, 2027-04-05. Dos modalidades diurnas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–12 años. Los más pequeños deben ir sin pañal.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+      "language": "Inmersión total en inglés con docentes nativos.",
+      "cost": "2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "references": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inmersión total en inglés con docentes nativos.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "la-casita-easter-valencia",
+      "camp_programme_id": "CP1971",
+      "sessions": [
+        {
+          "date": "2027-03-29",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-29T07:00:00Z",
+          "end_utc": "2027-03-29T14:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-30",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-30T07:00:00Z",
+          "end_utc": "2027-03-30T14:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-31",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-31T07:00:00Z",
+          "end_utc": "2027-03-31T14:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-01",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-04-01T07:00:00Z",
+          "end_utc": "2027-04-01T14:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-02",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-04-02T07:00:00Z",
+          "end_utc": "2027-04-02T14:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-05",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-04-05T07:00:00Z",
+          "end_utc": "2027-04-05T14:00:00Z",
+          "topic": "Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
       "id": "L491",
       "block": "Campamentos",
       "title": "Exupery · Primary Academic Saturday · EIS Campus",
@@ -404631,9 +405543,9 @@
       "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
       "source": "https://www.gamesforchange.org/wp-content/uploads/2026/10/Intro-to-Game-Design-3-6.pdf",
       "proof": "Fuente oficial leída; condiciones desconocidas conservadas expresamente.",
-      "checked": "2026-11-06",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "Teacher guide abierto de diseño de juegos para Grades 3–6: sistemas, reglas, prototipos, pruebas y feedback. Material lectivo inglés, no campamento organizado anglófono. Determinar curso real y facilitador; handbook no acredita admisión a nueva categoría competitiva C848, deadline / prizes aún sin publicar.",
+      "note": "Guía para grados 3–6 sobre reglas de juego, prototipos y pruebas. Incluye un itinerario para el proyecto Everyone Belongs Here. Novice requiere una inscripción separada mediante un adulto.",
       "iso": [],
       "themes": [
         "coding",
@@ -404647,7 +405559,16 @@
       "admission_kind": "unknown",
       "evidence_level": "event_page",
       "date_scope": "programme_watch",
-      "references": []
+      "references": [
+        {
+          "url": "https://cdn.prod.website-files.com/6880b7bfda6519f232c26284/6ae21361edf142c2a6ff1df6_e2560f475c026aabb1c2e36d738a59aa_2026-2027%20G4C%20Student%20Challenge%20Competition%20Handbook%20v3%20%281%29.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "related_ids": [
+        "C848",
+        "C4627"
+      ]
     },
     {
       "id": "L521",
@@ -408097,7 +409018,7 @@
       "reward": "a los ganadores 1/2/3  diploma de lugar; al resto no se envían trofeos físicos internacionales / medallas.",
       "priority": "P1  proyecto en línea después de la apertura de la recepción",
       "status": "Idea",
-      "action": "comprobar el siguiente conjunto, el grupo, el idioma del bloque técnico y los días específicos de las clases.",
+      "action": "El país se indica según residencia efectiva y escuela. Algunos países tienen cupos por orden de inscripción.",
       "themes": [
         "coding",
         "games"
@@ -408117,8 +409038,10 @@
           "label": "Página oficial del organizador"
         }
       ],
-      "related_ids": [],
-      "registration_status": "la familia no está registrada; la oferta publicada no confirma la presencia de un lugar.",
+      "related_ids": [
+        "C4631"
+      ],
+      "registration_status": "El tema y la carga abren el 3 de enero de 2027. Los cupos por país y la verificación de documentos se aplican por separado.",
       "note": "IKCC Rules actualizadas: proyectos internacionales solo en inglés. AI prohibido para idea, historia, código, personajes, fondos, imágenes, sonidos y cualquier parte. Niño crea proyecto por sí mismo solo durante ventana del concurso; sin código antiguo, remix ni tutorial rehecho. Requiere Scratch SHARE-link público, no archivo sb3. No trasladar aquí proyecto AI de CodeFest / WAICY. Requiere documento escolar oficial con datos del niño y guide adulto / consentimiento. Organizador prevé publicar nombre / apellido, edad, colegio, ciudad / país y proyecto; foto opcional. Sin documentos enviados. La página de 2027 publica los grupos 7–8 / 9–10 / 11–12 / 13–14. Ventana 3–31 de enero 2027; resultados 15 de febrero. Homepage ya muestra Galactic Police!, pero al lado dice tema announced January 3 y soon: no adivinar tarea final ni empezar proyecto antes.",
       "proof": "Leído Rules,Calendar y currenthome:ComingSoon lo muestra claramente 3Jan2027/1Sep2027. GenericcalendarJan1 /Jan30 de cactón no utilizado 2027deadline.",
       "provider": "IKCC",
@@ -408127,7 +409050,9 @@
       "deadline_utc": "2027-01-31T21:59:59Z",
       "deadline_label": "Cierre de envíos IKCC",
       "deadline_note": "31 de enero 2027, 23:59:59 Europe/Bucharest; 15:59:59 en Costa Rica. Día de apertura original 3 de enero conservado como hito separado.",
-      "delivery_mode": "virtual"
+      "delivery_mode": "virtual",
+      "registration_opens": "2027-01-03",
+      "deadline_basis": "31 de enero de 2027 a las 23:59:59 en Bucarest. En Costa Rica es el 31 de enero a las 15:59:59."
     },
     {
       "id": "C844",
@@ -408165,7 +409090,7 @@
       "reward": "a los ganadores 1/2/3  diploma de lugar; al resto no se envían trofeos físicos internacionales / medallas.",
       "priority": "P1  proyecto en línea después de la apertura de la recepción",
       "status": "Idea",
-      "action": "comprobar el siguiente conjunto, el grupo, el idioma del bloque técnico y los días específicos de las clases.",
+      "action": "El país se indica según residencia efectiva y escuela. Algunos países tienen cupos por orden de inscripción.",
       "themes": [
         "coding",
         "games"
@@ -408182,13 +409107,14 @@
         }
       ],
       "related_ids": [],
-      "registration_status": "la familia no está registrada; la oferta publicada no confirma la presencia de un lugar.",
+      "registration_status": "El inicio del 1 de septiembre de 2027 figura en la página de la edición. Plazo final y grupos de esta edición pendientes.",
       "note": "IKCC Rules actualizadas: proyectos internacionales solo en inglés. AI prohibido para idea, historia, código, personajes, fondos, imágenes, sonidos y cualquier parte. Niño crea proyecto por sí mismo solo durante ventana del concurso; sin código antiguo, remix ni tutorial rehecho. Requiere Scratch SHARE-link público, no archivo sb3. No trasladar aquí proyecto AI de CodeFest / WAICY. Requiere documento escolar oficial con datos del niño y guide adulto / consentimiento. Organizador prevé publicar nombre / apellido, edad, colegio, ciudad / país y proyecto; foto opcional. Sin documentos enviados. Confirmar categorías del concurso concreto 2027.",
       "proof": "Leído Rules,Calendar y currenthome:ComingSoon lo muestra claramente 3Jan2027/1Sep2027. GenericcalendarJan1 /Jan30 de cactón no utilizado 2027deadline.",
       "provider": "IKCC",
       "date_scope": "activity_start",
       "iso": [],
-      "delivery_mode": "virtual"
+      "delivery_mode": "virtual",
+      "registration_opens": "2027-09-01"
     },
     {
       "id": "C845",

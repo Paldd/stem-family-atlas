@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10198,
-    "competition_cards": 4625,
-    "event_cards": 559,
-    "camp_cards": 5014,
+    "cards": 10218,
+    "competition_cards": 4634,
+    "event_cards": 562,
+    "camp_cards": 5022,
     "league_profiles": 299,
-    "major_exhibition_cards": 463,
+    "major_exhibition_cards": 466,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -34,9 +34,9 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3321,
+      "total": 3325,
       "countries_with_records": 40,
-      "competitions": 1910,
+      "competitions": 1914,
       "events": 145,
       "major_exhibitions": 108,
       "camps": 1266,
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2190,
+      "total": 2201,
       "countries_with_records": 54,
-      "competitions": 597,
-      "events": 146,
-      "major_exhibitions": 121,
-      "camps": 1447,
+      "competitions": 599,
+      "events": 147,
+      "major_exhibitions": 122,
+      "camps": 1455,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -90,11 +90,11 @@
       "regions": [
         "Asia"
       ],
-      "total": 2961,
+      "total": 2966,
       "countries_with_records": 49,
-      "competitions": 1152,
-      "events": 151,
-      "major_exhibitions": 138,
+      "competitions": 1155,
+      "events": 153,
+      "major_exhibitions": 140,
       "camps": 1658,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
@@ -13779,6 +13779,39 @@
       "new": false
     },
     {
+      "id": "E560",
+      "name": "RoboNexus Expo 2027",
+      "country": "Arabia Saudí",
+      "region": "Asia",
+      "start": "2027-03-20",
+      "end": "2027-03-22",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.robonexus.org/attend",
+      "new": false
+    },
+    {
+      "id": "E561",
+      "name": "Maker Faire Tokyo 2027",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2027-09-25",
+      "end": "2027-09-26",
+      "visitor_policy": "confirm_children",
+      "source": "https://makezine.jp/event/mft2026/",
+      "new": false
+    },
+    {
+      "id": "E562",
+      "name": "Maker Faire Paris 2027",
+      "country": "Francia",
+      "region": "Europa",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://makerfaire.com/globalfaires/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -16196,14 +16229,14 @@
       }
     ],
     "counts": {
-      "records": 5014,
-      "holiday": 4664,
+      "records": 5022,
+      "holiday": 4672,
       "regular": 158,
       "self_paced_materials": 4,
       "boarding": 1037,
-      "en_es_instruction": 1583,
+      "en_es_instruction": 1591,
       "en_es_support": 28,
-      "family_instruction": 1583,
+      "family_instruction": 1591,
       "family_support": 28,
       "ru_instruction": 4,
       "language_lessons": 412,

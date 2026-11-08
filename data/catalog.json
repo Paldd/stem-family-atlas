@@ -77521,7 +77521,7 @@
       "reward": "Победителям 1/2/3 — диплом места; остальным participation certificate. Физические международные трофеи / медали не рассылаются.",
       "priority": "P1 — онлайнпроект после открытияприёма",
       "status": "Идея",
-      "action": "Проверить следующий набор, группу, язык технического блока и конкретные дни занятий.",
+      "action": "Страну выбирают по фактическому проживанию и школе. Для отдельных стран действуют лимиты по порядку подачи.",
       "themes": [
         "coding",
         "games"
@@ -77541,8 +77541,10 @@
           "label": "Официальная страница организатора"
         }
       ],
-      "related_ids": [],
-      "registration_status": "Семья не зарегистрирована; опубликованное предложение не подтверждает наличие места.",
+      "related_ids": [
+        "C4631"
+      ],
+      "registration_status": "Тема и загрузка открываются 3 января 2027. Лимиты по странам и проверка документов действуют отдельно.",
       "note": "Обновлённые IKCC Rules: международные проекты только на английском. ИИ запрещён для идеи, истории, кода, персонажей, фона, изображений, звука и любых частей. Проект создаёт сам ребёнок только в окно конкурса; нельзя старый код, remix или переделанный tutorial. Нужен публичный Scratch SHARE-link, не файл sb3. Не переносить сюда AI-проект из CodeFest / WAICY. Нужен официальный школьный документ с данными ребёнка и взрослый guide / согласие. Организатор предусматривает публикацию имени / фамилии, возраста, школы, города / страны и проекта; фото необязательно. Документы не отправлялись. На странице 2027 опубликованы группы 7–8 / 9–10 / 11–12 / 13–14. Окно 3–31 января 2027; результаты 15 февраля. Homepage уже показывает Galactic Police!, но рядом пишет тему announced January 3 и soon: окончательную задачу не угадывать и проект заранее не начинать.",
       "proof": "Прочитаны Rules,Calendar и currenthome:ComingSoon явноуказывает 3Jan2027/1Sep2027. GenericcalendarJan1 /Jan30 неиспользованкакточный 2027deadline.",
       "provider": "IKCC",
@@ -77551,7 +77553,9 @@
       "deadline_utc": "2027-01-31T21:59:59Z",
       "deadline_label": "Закрытие подачи IKCC",
       "deadline_note": "31 января 2027, 23:59:59 Europe/Bucharest; 15:59:59 в Коста-Рике. Исходный день открытия 3 января сохранён как отдельная веха.",
-      "delivery_mode": "virtual"
+      "delivery_mode": "virtual",
+      "registration_opens": "2027-01-03",
+      "deadline_basis": "31 января 2027, 23:59:59 по Бухаресту. В Коста-Рике это 31 января, 15:59:59."
     },
     {
       "id": "C844",
@@ -77589,7 +77593,7 @@
       "reward": "Победителям 1/2/3 — диплом места; остальным participation certificate. Физические международные трофеи / медали не рассылаются.",
       "priority": "P1 — онлайнпроект после открытияприёма",
       "status": "Идея",
-      "action": "Проверить следующий набор, группу, язык технического блока и конкретные дни занятий.",
+      "action": "Страну выбирают по фактическому проживанию и школе. Для отдельных стран действуют лимиты по порядку подачи.",
       "themes": [
         "coding",
         "games"
@@ -77606,13 +77610,14 @@
         }
       ],
       "related_ids": [],
-      "registration_status": "Семья не зарегистрирована; опубликованное предложение не подтверждает наличие места.",
+      "registration_status": "Старт 1 сентября 2027 указан на странице выпуска. Итоговый срок и группы этого выпуска ожидаются.",
       "note": "Обновлённые IKCC Rules: международные проекты только на английском. ИИ запрещён для идеи, истории, кода, персонажей, фона, изображений, звука и любых частей. Проект создаёт сам ребёнок только в окно конкурса; нельзя старый код, remix или переделанный tutorial. Нужен публичный Scratch SHARE-link, не файл sb3. Не переносить сюда AI-проект из CodeFest / WAICY. Нужен официальный школьный документ с данными ребёнка и взрослый guide / согласие. Организатор предусматривает публикацию имени / фамилии, возраста, школы, города / страны и проекта; фото необязательно. Документы не отправлялись. Категории конкретного 2027 конкурса ещё подтвердить.",
       "proof": "Прочитаны Rules,Calendar и currenthome:ComingSoon явноуказывает 3Jan2027/1Sep2027. GenericcalendarJan1 /Jan30 неиспользованкакточный 2027deadline.",
       "provider": "IKCC",
       "date_scope": "activity_start",
       "iso": [],
-      "delivery_mode": "virtual"
+      "delivery_mode": "virtual",
+      "registration_opens": "2027-09-01"
     },
     {
       "id": "C845",
@@ -77818,7 +77823,7 @@
       "format": "8–10 лет на 9 ноября 2026. Проект подаёт родитель, опекун или учитель.",
       "participation": "individual_or_team",
       "admission_kind": "open_application",
-      "entry": "В Novice форму целиком заполняет взрослый. Ребёнок создаёт игру или рисунок. Участие индивидуально или командой до 6 авторов. Из Коста-Рики доступна подача через международный портал.",
+      "entry": "Родитель, опекун или учитель подаёт работу через портал. Ребёнок создаёт проект. Взрослый указывает контакты и согласие.",
       "gear": "Цифровая игра с доступной ссылкой и материалами по правилам номинации либо PDF настольной игры или рисунка.",
       "cost": "Материалы для educators бесплатны; стоимость участия конкретной категории не установлена.",
       "language": "Игра должна быть понятна англоязычному жюри. Для игры на другом языке нужны английские субтитры или инструкция на английском, достаточная для игры.",
@@ -77852,20 +77857,41 @@
         {
           "url": "https://bit.ly/SC-handbook",
           "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/6880b7bfda6519f232c26284/6ae21361edf142c2a6ff1df6_e2560f475c026aabb1c2e36d738a59aa_2026-2027%20G4C%20Student%20Challenge%20Competition%20Handbook%20v3%20%281%29.pdf",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://g4c-learn.beehiiv.com/p/game-jams-game-plan-and-the-2027-student-challenge-competition-guide",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://g4cstudentchallenge.secure-platform.com/a/page/faq",
+          "label": "Страница организатора или регламент категории."
         }
       ],
       "related_ids": [
         "L197",
-        "C3205"
+        "C3205",
+        "C4627",
+        "C4628",
+        "C4629",
+        "C4630",
+        "L520"
       ],
-      "registration_status": "Заявка семьи не подана.",
-      "note": "Для Novice доступны темы Everyone Belongs Here и Bounce Back, настольная игра и рисованный от руки персонаж. Подача до 29 марта 2027 23:59 PT, в Коста-Рике до 30 марта 00:59. Отдельная номинация Best International Game начинается с Junior, но проекты Novice из других стран принимаются в номинации своего дивизиона.",
+      "registration_status": "Портал открывается 9 ноября 2026. Награды Novice объявляются в июне 2027.",
+      "note": "У Novice четыре номинации. Премии за лучшую международную игру и Game of the Year доступны старшим дивизионам. В международном Novice можно подать проект из Коста-Рики. Для игровых заявок на Minecraft или Roblox сверить правило о видео с условиями конкретной темы.",
       "proof": "Прочитан официальный источник; места и семейная заявка не проверены.",
       "provider": "Games for Change",
       "date_scope": "submission_window",
       "deadline_utc": "2027-03-30T06:59:00Z",
       "deadline_label": "Крайний срок подачи проекта",
-      "delivery_mode": "virtual"
+      "delivery_mode": "virtual",
+      "registration_opens": "2026-11-09",
+      "deadline_basis": "29 марта 2027, 23:59 PT. В Коста-Рике это 30 марта в 00:59.",
+      "registration_url": "https://g4cstudentchallenge.secure-platform.com/a",
+      "event_group": "Games for Change Student Challenge 2026–2027"
     },
     {
       "id": "L195",
@@ -331775,6 +331801,783 @@
         "E045"
       ],
       "exhibitor_note": "Экспонаты размещены в постоянных интерактивных залах музея."
+    },
+    {
+      "id": "C4627",
+      "title": "Games for Change 2027 · Novice · Everyone Belongs Here",
+      "block": "Соревнования",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "iso": [
+        "USA"
+      ],
+      "city": "Онлайн",
+      "start": "2026-11-09",
+      "end": "2027-03-29",
+      "period": "",
+      "deadline": "2027-03-29",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://cdn.prod.website-files.com/6880b7bfda6519f232c26284/6ae21361edf142c2a6ff1df6_e2560f475c026aabb1c2e36d738a59aa_2026-2027%20G4C%20Student%20Challenge%20Competition%20Handbook%20v3%20%281%29.pdf",
+      "references": [
+        {
+          "url": "https://g4cstudentchallenge.secure-platform.com/a",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://g4cstudentchallenge.secure-platform.com/a/page/faq",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://g4c-learn.beehiiv.com/p/game-jams-game-plan-and-the-2027-student-challenge-competition-guide",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "8–10 лет на 9 ноября 2026.",
+      "mat": "Да по возрасту. Форму целиком заполняет взрослый.",
+      "osc": "Нет. Минимум 8 лет на 9 ноября 2026.",
+      "format": "Индивидуально или команда из 2–6 авторов. Смешанную команду относят к дивизиону старшего участника.",
+      "entry": "Родитель, опекун или учитель подаёт работу через портал. Ребёнок создаёт проект. Взрослый указывает контакты и согласие.",
+      "gear": "Играбельная ссылка для браузера. Подойдут Scratch и другие платформы с публичным запуском.",
+      "language": "Судьи работают на английском. Для игры на испанском приложить английское руководство или субтитры, чтобы судьи могли играть.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Судьи работают на английском. Для игры на испанском приложить английское руководство или субтитры, чтобы судьи могли играть.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Международный уровень",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Сделать прототип, проверить его с игроками и собрать материалы под выбранную номинацию.",
+      "note": "Игра о принадлежности и помощи людям почувствовать себя частью сообщества. Использование ИИ раскрывают при подаче. ИИ не должен создавать дизайн игры, сюжет или игровые функции за ребёнка.",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "scope": "international",
+      "importance_reason": "Международный уровень",
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "submission_window",
+      "delivery_mode": "virtual",
+      "parent_event_id": "C848",
+      "registration_opens": "2026-11-09",
+      "deadline_utc": "2027-03-30T06:59:00Z",
+      "deadline_basis": "29 марта 2027, 23:59 PT. В Коста-Рике это 30 марта в 00:59.",
+      "registration_status": "Портал открывается 9 ноября 2026. Награды Novice объявляются в июне 2027.",
+      "registration_url": "https://g4cstudentchallenge.secure-platform.com/a",
+      "event_group": "Games for Change Student Challenge 2026–2027",
+      "team_min": 1,
+      "team_max": 6,
+      "related_ids": [
+        "C848",
+        "C4628",
+        "C4629",
+        "C4630",
+        "L520"
+      ]
+    },
+    {
+      "id": "C4628",
+      "title": "Games for Change 2027 · Novice · Bounce Back",
+      "block": "Соревнования",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "iso": [
+        "USA"
+      ],
+      "city": "Онлайн",
+      "start": "2026-11-09",
+      "end": "2027-03-29",
+      "period": "",
+      "deadline": "2027-03-29",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://cdn.prod.website-files.com/6880b7bfda6519f232c26284/6ae21361edf142c2a6ff1df6_e2560f475c026aabb1c2e36d738a59aa_2026-2027%20G4C%20Student%20Challenge%20Competition%20Handbook%20v3%20%281%29.pdf",
+      "references": [
+        {
+          "url": "https://g4cstudentchallenge.secure-platform.com/a",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://g4cstudentchallenge.secure-platform.com/a/page/faq",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://g4c-learn.beehiiv.com/p/game-jams-game-plan-and-the-2027-student-challenge-competition-guide",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "8–10 лет на 9 ноября 2026.",
+      "mat": "Да по возрасту. Форму целиком заполняет взрослый.",
+      "osc": "Нет. Минимум 8 лет на 9 ноября 2026.",
+      "format": "Индивидуально или команда из 2–6 авторов. Смешанную команду относят к дивизиону старшего участника.",
+      "entry": "Родитель, опекун или учитель подаёт работу через портал. Ребёнок создаёт проект. Взрослый указывает контакты и согласие.",
+      "gear": "Играбельная ссылка для браузера. Подойдут Scratch и другие платформы с публичным запуском.",
+      "language": "Судьи работают на английском. Для игры на испанском приложить английское руководство или субтитры, чтобы судьи могли играть.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Судьи работают на английском. Для игры на испанском приложить английское руководство или субтитры, чтобы судьи могли играть.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Международный уровень",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Сделать прототип, проверить его с игроками и собрать материалы под выбранную номинацию.",
+      "note": "Игра о том, как помочь персонажу, группе или системе восстановиться после трудностей. Использование ИИ раскрывают при подаче. ИИ не должен создавать дизайн игры, сюжет или игровые функции за ребёнка.",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "scope": "international",
+      "importance_reason": "Международный уровень",
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "submission_window",
+      "delivery_mode": "virtual",
+      "parent_event_id": "C848",
+      "registration_opens": "2026-11-09",
+      "deadline_utc": "2027-03-30T06:59:00Z",
+      "deadline_basis": "29 марта 2027, 23:59 PT. В Коста-Рике это 30 марта в 00:59.",
+      "registration_status": "Портал открывается 9 ноября 2026. Награды Novice объявляются в июне 2027.",
+      "registration_url": "https://g4cstudentchallenge.secure-platform.com/a",
+      "event_group": "Games for Change Student Challenge 2026–2027",
+      "team_min": 1,
+      "team_max": 6,
+      "related_ids": [
+        "C848",
+        "C4627",
+        "C4629",
+        "C4630"
+      ]
+    },
+    {
+      "id": "C4629",
+      "title": "Games for Change 2027 · Novice · Best Tabletop Game",
+      "block": "Соревнования",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "iso": [
+        "USA"
+      ],
+      "city": "Онлайн",
+      "start": "2026-11-09",
+      "end": "2027-03-29",
+      "period": "",
+      "deadline": "2027-03-29",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://cdn.prod.website-files.com/6880b7bfda6519f232c26284/6ae21361edf142c2a6ff1df6_e2560f475c026aabb1c2e36d738a59aa_2026-2027%20G4C%20Student%20Challenge%20Competition%20Handbook%20v3%20%281%29.pdf",
+      "references": [
+        {
+          "url": "https://g4cstudentchallenge.secure-platform.com/a",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://g4cstudentchallenge.secure-platform.com/a/page/faq",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://g4c-learn.beehiiv.com/p/game-jams-game-plan-and-the-2027-student-challenge-competition-guide",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "8–10 лет на 9 ноября 2026.",
+      "mat": "Да по возрасту. Форму целиком заполняет взрослый.",
+      "osc": "Нет. Минимум 8 лет на 9 ноября 2026.",
+      "format": "Индивидуально или команда из 2–6 авторов. Смешанную команду относят к дивизиону старшего участника.",
+      "entry": "Родитель, опекун или учитель подаёт работу через портал. Ребёнок создаёт проект. Взрослый указывает контакты и согласие.",
+      "gear": "Физическая игра. Подать PDF с правилами, фото и механикой или видео игры до 5 минут.",
+      "language": "Судьи работают на английском. Для игры на испанском приложить английское руководство или субтитры, чтобы судьи могли играть.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Судьи работают на английском. Для игры на испанском приложить английское руководство или субтитры, чтобы судьи могли играть.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Международный уровень",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Сделать прототип, проверить его с игроками и собрать материалы под выбранную номинацию.",
+      "note": "Одна из тем конкурса — Everyone Belongs Here или Bounce Back. Использование ИИ раскрывают при подаче. ИИ не должен создавать дизайн игры, сюжет или игровые функции за ребёнка.",
+      "themes": [
+        "games",
+        "makers"
+      ],
+      "scope": "international",
+      "importance_reason": "Международный уровень",
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "submission_window",
+      "delivery_mode": "virtual",
+      "parent_event_id": "C848",
+      "registration_opens": "2026-11-09",
+      "deadline_utc": "2027-03-30T06:59:00Z",
+      "deadline_basis": "29 марта 2027, 23:59 PT. В Коста-Рике это 30 марта в 00:59.",
+      "registration_status": "Портал открывается 9 ноября 2026. Награды Novice объявляются в июне 2027.",
+      "registration_url": "https://g4cstudentchallenge.secure-platform.com/a",
+      "event_group": "Games for Change Student Challenge 2026–2027",
+      "team_min": 1,
+      "team_max": 6,
+      "related_ids": [
+        "C848",
+        "C4627",
+        "C4628",
+        "C4630"
+      ]
+    },
+    {
+      "id": "C4630",
+      "title": "Games for Change 2027 · Novice · Character Design: Hand Drawn",
+      "block": "Соревнования",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "iso": [
+        "USA"
+      ],
+      "city": "Онлайн",
+      "start": "2026-11-09",
+      "end": "2027-03-29",
+      "period": "",
+      "deadline": "2027-03-29",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://cdn.prod.website-files.com/6880b7bfda6519f232c26284/6ae21361edf142c2a6ff1df6_e2560f475c026aabb1c2e36d738a59aa_2026-2027%20G4C%20Student%20Challenge%20Competition%20Handbook%20v3%20%281%29.pdf",
+      "references": [
+        {
+          "url": "https://g4cstudentchallenge.secure-platform.com/a",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://g4cstudentchallenge.secure-platform.com/a/page/faq",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://g4c-learn.beehiiv.com/p/game-jams-game-plan-and-the-2027-student-challenge-competition-guide",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "8–10 лет на 9 ноября 2026.",
+      "mat": "Да по возрасту. Форму целиком заполняет взрослый.",
+      "osc": "Нет. Минимум 8 лет на 9 ноября 2026.",
+      "format": "Один автор.",
+      "entry": "Родитель, опекун или учитель подаёт работу через портал. Ребёнок создаёт проект. Взрослый указывает контакты и согласие.",
+      "gear": "Рисунок от руки с 2 ракурсов. До 10 файлов JPG, PNG или PDF. Характер до 300 слов, предыстория и связь с темой до 500 слов.",
+      "language": "Судьи работают на английском. Для игры на испанском приложить английское руководство или субтитры, чтобы судьи могли играть.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Судьи работают на английском. Для игры на испанском приложить английское руководство или субтитры, чтобы судьи могли играть.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Международный уровень",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Сделать прототип, проверить его с игроками и собрать материалы под выбранную номинацию.",
+      "note": "Одна из тем конкурса — Everyone Belongs Here или Bounce Back. Использование ИИ раскрывают при подаче. ИИ не должен создавать дизайн игры, сюжет или игровые функции за ребёнка.",
+      "themes": [
+        "games",
+        "makers"
+      ],
+      "scope": "international",
+      "importance_reason": "Международный уровень",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "submission_window",
+      "delivery_mode": "virtual",
+      "parent_event_id": "C848",
+      "registration_opens": "2026-11-09",
+      "deadline_utc": "2027-03-30T06:59:00Z",
+      "deadline_basis": "29 марта 2027, 23:59 PT. В Коста-Рике это 30 марта в 00:59.",
+      "registration_status": "Портал открывается 9 ноября 2026. Награды Novice объявляются в июне 2027.",
+      "registration_url": "https://g4cstudentchallenge.secure-platform.com/a",
+      "event_group": "Games for Change Student Challenge 2026–2027",
+      "team_min": 1,
+      "team_max": 1,
+      "related_ids": [
+        "C848",
+        "C4627",
+        "C4628",
+        "C4629"
+      ]
+    },
+    {
+      "id": "C4631",
+      "title": "IKCC World Game Coding 2027 · публикация результатов",
+      "block": "Соревнования",
+      "country": "Румыния",
+      "region": "Европа",
+      "iso": [
+        "ROU"
+      ],
+      "city": "Онлайн",
+      "start": "2027-02-15",
+      "end": "2027-02-15",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.ikcc.info/",
+      "references": [
+        {
+          "url": "https://www.ikcc.info/en/rules-pag3",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "7–8 / 9–10 / 11–12 / 13–14. Возраст на первый день регистрации.",
+      "mat": "Условно. Подтвердить допуск по правилам организатора.",
+      "osc": "Условно. Подтвердить допуск по правилам организатора.",
+      "format": "",
+      "entry": "Страну выбирают по фактическому проживанию и школе. Для отдельных стран действуют лимиты по порядку подачи.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Международный уровень",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Дата объявления результатов январского конкурса. Проект создают и подают в январе.",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "scope": "international",
+      "importance_reason": "Международный уровень",
+      "participation": "programme_milestone",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "results_publication",
+      "delivery_mode": "virtual",
+      "parent_event_id": "C843",
+      "related_ids": [
+        "C843"
+      ]
+    },
+    {
+      "id": "C4632",
+      "title": "Kid’s Tabletop Game Design Challenge · UK · 2026/27",
+      "block": "Соревнования",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR"
+      ],
+      "city": "Онлайн",
+      "start": "2026-06-01",
+      "end": "2026-09-13",
+      "period": "",
+      "deadline": "2026-09-13",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://kidsgamedesign.org/",
+      "references": [
+        {
+          "url": "https://kidsgamedesign.org/2026-timeline/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "7–16 лет и проживание в Великобритании.",
+      "mat": "Нет для участия из Коста-Рики. Требуется проживание в Великобритании.",
+      "osc": "Нет для участия из Коста-Рики. Требуется проживание в Великобритании.",
+      "format": "Детский проект с сопровождением взрослого.",
+      "entry": "На первом этапе загрузить видео до 3 минут и короткие правила. От финалистов ждут играбельный физический прототип.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P4 — возраст пока ниже минимума",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Финалистов уведомляют к 30 ноября 2026. Жюри оценивает прототипы в феврале–марте 2027. Объявление победителей ожидается в апреле 2027.",
+      "themes": [
+        "games",
+        "makers"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальный этап",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "submission_window",
+      "delivery_mode": "virtual",
+      "registration_status": "Опубликованный срок подачи прошёл."
+    },
+    {
+      "id": "C4633",
+      "title": "IIT Challenge 2026 · Scratch Coding Game",
+      "block": "Соревнования",
+      "country": "Индонезия",
+      "region": "Азия",
+      "iso": [
+        "IDN"
+      ],
+      "city": "BINUS University Alam Sutera",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "period": "",
+      "deadline": "2026-11-20",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://iitchallenge.com/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "5–6 классы начальной школы и 7–8 классы средней школы.",
+      "mat": "Условно. Подтвердить допуск по правилам организатора.",
+      "osc": "Условно. Подтвердить допуск по правилам организатора.",
+      "format": "",
+      "entry": "Индивидуальный Scratch-проект по Целям устойчивого развития. Требуется статус учащегося. Приём иностранных школ уточнить.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "IDR 100000 за участие в категории.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Обычная запись до 20 ноября 2026. Онлайн-проект до 29 ноября 2026, 23:59 WIB. Финал 12 декабря в BINUS University Alam Sutera.",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальный этап",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "championship_window",
+      "registration_opens": "2026-09-05",
+      "delivery_mode": "hybrid",
+      "related_ids": [
+        "C4634"
+      ]
+    },
+    {
+      "id": "C4634",
+      "title": "IIT Scratch Coding Game · подача проекта",
+      "block": "Соревнования",
+      "country": "Индонезия",
+      "region": "Азия",
+      "iso": [
+        "IDN"
+      ],
+      "city": "Онлайн",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "period": "",
+      "deadline": "2026-11-29",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://iitchallenge.com/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "5–6 классы начальной школы и 7–8 классы средней школы.",
+      "mat": "Условно. Подтвердить допуск по правилам организатора.",
+      "osc": "Условно. Подтвердить допуск по правилам организатора.",
+      "format": "",
+      "entry": "Индивидуальный Scratch-проект по Целям устойчивого развития. Требуется статус учащегося. Приём иностранных школ уточнить.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Для уже зарегистрированных участников. Подача онлайн до 23:59 WIB.",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальный этап",
+      "participation": "programme_milestone",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "submission_window",
+      "deadline_utc": "2026-11-29T16:59:00Z",
+      "delivery_mode": "virtual",
+      "parent_event_id": "C4633",
+      "related_ids": [
+        "C4633"
+      ]
+    },
+    {
+      "id": "C4635",
+      "title": "RoboNexus World Championship 2027",
+      "block": "Соревнования",
+      "country": "Саудовская Аравия",
+      "region": "Азия",
+      "iso": [
+        "SAU"
+      ],
+      "city": "KFUPM · Dhahran",
+      "start": "2027-03-20",
+      "end": "2027-03-22",
+      "period": "",
+      "deadline": "2026-11-15",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.robonexus.org/index",
+      "references": [
+        {
+          "url": "https://www.robonexus.org/faq",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Студенты вузов. В составе допускается до 2 магистрантов или аспирантов.",
+      "mat": "Нет. Участие предназначено для университетских команд.",
+      "osc": "Нет. Участие предназначено для университетских команд.",
+      "format": "3–5 участников. Команда представляет один вуз и выбирает одну дисциплину.",
+      "entry": "Университетские команды из любой страны. Организатор проверяет заявку и соответствие регламенту.",
+      "gear": "Advanced Sumo / Capture the Flag / Combat Robotics",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Международный уровень",
+      "reward": "",
+      "priority": "P4 — возраст пока ниже минимума",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Организатор объявил поддержку поездки для прошедших отбор команд. Детали покрытия уточняются.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Международный уровень",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "championship_window",
+      "delivery_mode": "in_person",
+      "team_min": 3,
+      "team_max": 5,
+      "related_ids": [
+        "E560"
+      ]
+    },
+    {
+      "id": "E560",
+      "title": "RoboNexus Expo 2027",
+      "block": "События",
+      "country": "Саудовская Аравия",
+      "region": "Азия",
+      "iso": [
+        "SAU"
+      ],
+      "city": "KFUPM · Dhahran",
+      "start": "2027-03-20",
+      "end": "2027-03-22",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.robonexus.org/attend",
+      "references": [
+        {
+          "url": "https://www.robonexus.org/index",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.robonexus.org/faq",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "mat": "Условно. Подтвердить допуск по правилам организатора.",
+      "osc": "Условно. Подтвердить допуск по правилам организатора.",
+      "format": "Посещение",
+      "entry": "Опубликована форма интереса. Билеты, места на мастерских и возрастные условия пока уточняются.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Международный уровень",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Выставка для посетителей проходит в дни университетского чемпионата. Правила допуска зрителей публикуют отдельно.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Международный уровень",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "profile",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Опубликована форма интереса. Билеты, места на мастерских и возрастные условия пока уточняются.",
+      "adult_entry": "Опубликована форма интереса. Билеты, места на мастерских и возрастные условия пока уточняются.",
+      "related_ids": [
+        "C4635"
+      ],
+      "exhibitor_note": "Анонсированы демонстрации, интерактивные занятия и выступления. Список компаний уточняется."
+    },
+    {
+      "id": "E561",
+      "title": "Maker Faire Tokyo 2027",
+      "block": "События",
+      "country": "Япония",
+      "region": "Азия",
+      "iso": [
+        "JPN"
+      ],
+      "city": "Tokyo · Ariake GYM-EX",
+      "start": "2027-09-25",
+      "end": "2027-09-26",
+      "period": "",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://makezine.jp/event/mft2026/",
+      "references": [
+        {
+          "url": "https://makerfaire.com/globalfaires/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "mat": "Условно. Подтвердить допуск по правилам организатора.",
+      "osc": "Условно. Подтвердить допуск по правилам организатора.",
+      "format": "Посещение",
+      "entry": "Возрастные условия, цены и программа мастерских выпуска уточняются.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Международный уровень",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Make: Japan планирует 25–26 сентября 2027 на Ariake GYM-EX. Глобальная страница указывает Tokyo Big Sight. Для маршрута используем площадку локального анонса и отмечаем расхождение.",
+      "themes": [
+        "makers",
+        "robotics",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Международный уровень",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "date_precision": "announced_window",
+      "date_rule": "Make: Japan планирует 25–26 сентября 2027 на Ariake GYM-EX. Глобальная страница указывает Tokyo Big Sight. Для маршрута используем площадку локального анонса и отмечаем расхождение.",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "profile",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Возрастные условия, цены и программа мастерских выпуска уточняются.",
+      "adult_entry": "Возрастные условия, цены и программа мастерских выпуска уточняются.",
+      "exhibitor_note": "Состав экспонентов нового выпуска ожидается."
+    },
+    {
+      "id": "E562",
+      "title": "Maker Faire Paris 2027",
+      "block": "События",
+      "country": "Франция",
+      "region": "Европа",
+      "iso": [
+        "FRA"
+      ],
+      "city": "Paris · Musée des Arts et Métiers",
+      "start": "",
+      "end": "",
+      "period": "Апрель 2027 по глобальному календарю Maker Faire. На сайте Парижа пока информация за 2026. Точные дни и вход нового выпуска ожидаются.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://makerfaire.com/globalfaires/",
+      "references": [
+        {
+          "url": "https://paris.makerfaire.com/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "mat": "Условно. Подтвердить допуск по правилам организатора.",
+      "osc": "Условно. Подтвердить допуск по правилам организатора.",
+      "format": "Посещение",
+      "entry": "Возрастные условия, цены и программа мастерских выпуска уточняются.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Международный уровень",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Апрель 2027 по глобальному календарю Maker Faire. На сайте Парижа пока информация за 2026. Точные дни и вход нового выпуска ожидаются.",
+      "themes": [
+        "makers",
+        "robotics",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Международный уровень",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "date_precision": "announced_window",
+      "announced_months": [
+        "2027-04"
+      ],
+      "date_rule": "Апрель 2027 по глобальному календарю Maker Faire. На сайте Парижа пока информация за 2026. Точные дни и вход нового выпуска ожидаются.",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "profile",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Возрастные условия, цены и программа мастерских выпуска уточняются.",
+      "adult_entry": "Возрастные условия, цены и программа мастерских выпуска уточняются.",
+      "exhibitor_note": "Состав экспонентов нового выпуска ожидается."
     },
     {
       "id": "CP001-20270606-20270619",
@@ -695012,6 +695815,918 @@
       }
     },
     {
+      "id": "CP1968-20270319-20270329-half",
+      "block": "Лагеря",
+      "title": "La Casita de Inglés · Easter Camp · Madrid · Дневная программа 09:00–13:00. · 2027-03-19–2027-03-29",
+      "country": "Испания",
+      "region": "Европа",
+      "city": "Мадрид и пригороды, филиал по выбору.",
+      "start": "2027-03-19",
+      "end": "2027-03-29",
+      "period": "Выбрать отдельные дни: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "3–12 лет. Младшие дети должны обходиться без подгузников.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневной формат без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+      "language": "Полное погружение в английский с преподавателями-носителями.",
+      "cost": "2027 · Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "references": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Да по возрасту. Допуск и место подтвердить отдельно. Доплаты: Присмотр 08:00–09:00 возможен в некоторых филиалах при минимальном наборе. Оплата: Если за 1 неделю до даты не набрали минимум участников, организатор возвращает 100% внесённой суммы.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Полное погружение в английский с преподавателями-носителями.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "la-casita-easter-madrid",
+      "camp_programme_id": "CP1968",
+      "sessions": [
+        {
+          "date": "2027-03-19",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-19T08:00:00Z",
+          "end_utc": "2027-03-19T12:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-22",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-22T08:00:00Z",
+          "end_utc": "2027-03-22T12:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-23",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-23T08:00:00Z",
+          "end_utc": "2027-03-23T12:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-24",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-24T08:00:00Z",
+          "end_utc": "2027-03-24T12:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-29",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-29T07:00:00Z",
+          "end_utc": "2027-03-29T11:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP1968-20270319-20270329-full",
+      "block": "Лагеря",
+      "title": "La Casita de Inglés · Easter Camp · Madrid · Дневная программа 09:00–16:00. · 2027-03-19–2027-03-29",
+      "country": "Испания",
+      "region": "Европа",
+      "city": "Мадрид и пригороды, филиал по выбору.",
+      "start": "2027-03-19",
+      "end": "2027-03-29",
+      "period": "Выбрать отдельные дни: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "3–12 лет. Младшие дети должны обходиться без подгузников.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневной формат без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+      "language": "Полное погружение в английский с преподавателями-носителями.",
+      "cost": "2027 · Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "references": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Да по возрасту. Допуск и место подтвердить отдельно. Доплаты: Присмотр 08:00–09:00 возможен в некоторых филиалах при минимальном наборе. Оплата: Если за 1 неделю до даты не набрали минимум участников, организатор возвращает 100% внесённой суммы.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Полное погружение в английский с преподавателями-носителями.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "la-casita-easter-madrid",
+      "camp_programme_id": "CP1968",
+      "sessions": [
+        {
+          "date": "2027-03-19",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-19T08:00:00Z",
+          "end_utc": "2027-03-19T15:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-22",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-22T08:00:00Z",
+          "end_utc": "2027-03-22T15:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-23",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-23T08:00:00Z",
+          "end_utc": "2027-03-23T15:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-24",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-24T08:00:00Z",
+          "end_utc": "2027-03-24T15:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-29",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-29T07:00:00Z",
+          "end_utc": "2027-03-29T14:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP1969-20270319-20270329-half",
+      "block": "Лагеря",
+      "title": "La Casita de Inglés · Easter Camp · Barcelona · Дневная программа 09:00–13:00. · 2027-03-19–2027-03-29",
+      "country": "Испания",
+      "region": "Европа",
+      "city": "Барселона, Poblenou или Sant Cugat del Vallès.",
+      "start": "2027-03-19",
+      "end": "2027-03-29",
+      "period": "Выбрать отдельные дни: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "3–12 лет. Младшие дети должны обходиться без подгузников.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневной формат без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+      "language": "Полное погружение в английский с преподавателями-носителями.",
+      "cost": "2027 · Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "references": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Да по возрасту. Допуск и место подтвердить отдельно. Доплаты: Присмотр 08:00–09:00 возможен в некоторых филиалах при минимальном наборе. Оплата: Если за 1 неделю до даты не набрали минимум участников, организатор возвращает 100% внесённой суммы.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Полное погружение в английский с преподавателями-носителями.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "la-casita-easter-barcelona",
+      "camp_programme_id": "CP1969",
+      "sessions": [
+        {
+          "date": "2027-03-19",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-19T08:00:00Z",
+          "end_utc": "2027-03-19T12:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-22",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-22T08:00:00Z",
+          "end_utc": "2027-03-22T12:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-23",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-23T08:00:00Z",
+          "end_utc": "2027-03-23T12:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-24",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-24T08:00:00Z",
+          "end_utc": "2027-03-24T12:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-29",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-29T07:00:00Z",
+          "end_utc": "2027-03-29T11:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP1969-20270319-20270329-full",
+      "block": "Лагеря",
+      "title": "La Casita de Inglés · Easter Camp · Barcelona · Дневная программа 09:00–16:00. · 2027-03-19–2027-03-29",
+      "country": "Испания",
+      "region": "Европа",
+      "city": "Барселона, Poblenou или Sant Cugat del Vallès.",
+      "start": "2027-03-19",
+      "end": "2027-03-29",
+      "period": "Выбрать отдельные дни: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "3–12 лет. Младшие дети должны обходиться без подгузников.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневной формат без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+      "language": "Полное погружение в английский с преподавателями-носителями.",
+      "cost": "2027 · Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "references": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Да по возрасту. Допуск и место подтвердить отдельно. Доплаты: Присмотр 08:00–09:00 возможен в некоторых филиалах при минимальном наборе. Оплата: Если за 1 неделю до даты не набрали минимум участников, организатор возвращает 100% внесённой суммы.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Полное погружение в английский с преподавателями-носителями.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "la-casita-easter-barcelona",
+      "camp_programme_id": "CP1969",
+      "sessions": [
+        {
+          "date": "2027-03-19",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-19T08:00:00Z",
+          "end_utc": "2027-03-19T15:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-22",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-22T08:00:00Z",
+          "end_utc": "2027-03-22T15:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-23",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-23T08:00:00Z",
+          "end_utc": "2027-03-23T15:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-24",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-24T08:00:00Z",
+          "end_utc": "2027-03-24T15:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-29",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-29T07:00:00Z",
+          "end_utc": "2027-03-29T14:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP1970-20270322-20270329-half",
+      "block": "Лагеря",
+      "title": "La Casita de Inglés · Easter Camp · Vigo · Дневная программа 09:00–13:00. · 2027-03-22–2027-03-29",
+      "country": "Испания",
+      "region": "Европа",
+      "city": "Rúa do Uruguai, 15 · Vigo",
+      "start": "2027-03-22",
+      "end": "2027-03-29",
+      "period": "Выбрать отдельные дни: 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "3–12 лет. Младшие дети должны обходиться без подгузников.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневной формат без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+      "language": "Полное погружение в английский с преподавателями-носителями.",
+      "cost": "2027 · Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "references": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Да по возрасту. Допуск и место подтвердить отдельно. Доплаты: Присмотр 08:00–09:00 возможен в некоторых филиалах при минимальном наборе. Оплата: Если за 1 неделю до даты не набрали минимум участников, организатор возвращает 100% внесённой суммы.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Полное погружение в английский с преподавателями-носителями.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "la-casita-easter-vigo",
+      "camp_programme_id": "CP1970",
+      "sessions": [
+        {
+          "date": "2027-03-22",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-22T08:00:00Z",
+          "end_utc": "2027-03-22T12:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-23",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-23T08:00:00Z",
+          "end_utc": "2027-03-23T12:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-24",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-24T08:00:00Z",
+          "end_utc": "2027-03-24T12:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-29",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-29T07:00:00Z",
+          "end_utc": "2027-03-29T11:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP1970-20270322-20270329-full",
+      "block": "Лагеря",
+      "title": "La Casita de Inglés · Easter Camp · Vigo · Дневная программа 09:00–16:00. · 2027-03-22–2027-03-29",
+      "country": "Испания",
+      "region": "Европа",
+      "city": "Rúa do Uruguai, 15 · Vigo",
+      "start": "2027-03-22",
+      "end": "2027-03-29",
+      "period": "Выбрать отдельные дни: 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "3–12 лет. Младшие дети должны обходиться без подгузников.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневной формат без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+      "language": "Полное погружение в английский с преподавателями-носителями.",
+      "cost": "2027 · Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "references": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Да по возрасту. Допуск и место подтвердить отдельно. Доплаты: Присмотр 08:00–09:00 возможен в некоторых филиалах при минимальном наборе. Оплата: Если за 1 неделю до даты не набрали минимум участников, организатор возвращает 100% внесённой суммы.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Полное погружение в английский с преподавателями-носителями.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "la-casita-easter-vigo",
+      "camp_programme_id": "CP1970",
+      "sessions": [
+        {
+          "date": "2027-03-22",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-22T08:00:00Z",
+          "end_utc": "2027-03-22T15:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-23",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-23T08:00:00Z",
+          "end_utc": "2027-03-23T15:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-24",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-24T08:00:00Z",
+          "end_utc": "2027-03-24T15:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-29",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-29T07:00:00Z",
+          "end_utc": "2027-03-29T14:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP1971-20270329-20270405-half",
+      "block": "Лагеря",
+      "title": "La Casita de Inglés · Easter Camp · Valencia · Дневная программа 09:00–13:00. · 2027-03-29–2027-04-05",
+      "country": "Испания",
+      "region": "Европа",
+      "city": "Carrer de Salamanca, 54 · Valencia",
+      "start": "2027-03-29",
+      "end": "2027-04-05",
+      "period": "Выбрать отдельные дни: 2027-03-29, 2027-03-30, 2027-03-31, 2027-04-01, 2027-04-02, 2027-04-05. Два дневных формата.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "3–12 лет. Младшие дети должны обходиться без подгузников.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневной формат без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+      "language": "Полное погружение в английский с преподавателями-носителями.",
+      "cost": "2027 · Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "references": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Да по возрасту. Допуск и место подтвердить отдельно. Доплаты: Присмотр 08:00–09:00 возможен в некоторых филиалах при минимальном наборе. Оплата: Если за 1 неделю до даты не набрали минимум участников, организатор возвращает 100% внесённой суммы.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Полное погружение в английский с преподавателями-носителями.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "la-casita-easter-valencia",
+      "camp_programme_id": "CP1971",
+      "sessions": [
+        {
+          "date": "2027-03-29",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-29T07:00:00Z",
+          "end_utc": "2027-03-29T11:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-30",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-30T07:00:00Z",
+          "end_utc": "2027-03-30T11:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-31",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-31T07:00:00Z",
+          "end_utc": "2027-03-31T11:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-01",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-04-01T07:00:00Z",
+          "end_utc": "2027-04-01T11:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-02",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-04-02T07:00:00Z",
+          "end_utc": "2027-04-02T11:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-05",
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-04-05T07:00:00Z",
+          "end_utc": "2027-04-05T11:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP1971-20270329-20270405-full",
+      "block": "Лагеря",
+      "title": "La Casita de Inglés · Easter Camp · Valencia · Дневная программа 09:00–16:00. · 2027-03-29–2027-04-05",
+      "country": "Испания",
+      "region": "Европа",
+      "city": "Carrer de Salamanca, 54 · Valencia",
+      "start": "2027-03-29",
+      "end": "2027-04-05",
+      "period": "Выбрать отдельные дни: 2027-03-29, 2027-03-30, 2027-03-31, 2027-04-01, 2027-04-02, 2027-04-05. Два дневных формата.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "3–12 лет. Младшие дети должны обходиться без подгузников.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневной формат без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+      "language": "Полное погружение в английский с преподавателями-носителями.",
+      "cost": "2027 · Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "references": [
+        {
+          "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Да по возрасту. Допуск и место подтвердить отдельно. Доплаты: Присмотр 08:00–09:00 возможен в некоторых филиалах при минимальном наборе. Оплата: Если за 1 неделю до даты не набрали минимум участников, организатор возвращает 100% внесённой суммы.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "science",
+        "general",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Полное погружение в английский с преподавателями-носителями.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "la-casita-easter-valencia",
+      "camp_programme_id": "CP1971",
+      "sessions": [
+        {
+          "date": "2027-03-29",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-29T07:00:00Z",
+          "end_utc": "2027-03-29T14:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-30",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-30T07:00:00Z",
+          "end_utc": "2027-03-30T14:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-31",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-03-31T07:00:00Z",
+          "end_utc": "2027-03-31T14:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-01",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-04-01T07:00:00Z",
+          "end_utc": "2027-04-01T14:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-02",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-04-02T07:00:00Z",
+          "end_utc": "2027-04-02T14:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-05",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Madrid",
+          "start_utc": "2027-04-05T07:00:00Z",
+          "end_utc": "2027-04-05T14:00:00Z",
+          "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
       "id": "TC2027-SHOWCASE",
       "block": "События",
       "title": "The Tech Challenge 2027 · Game On! · показ инженерных проектов",
@@ -716487,9 +718202,9 @@
       "action": "Точный класс, дата рождения, состав, школьное / клубное представительство, иностранный приём и наличие мест подтвердить по выбранной категории. Форма, согласия и оплата не отправлялись.",
       "source": "https://www.gamesforchange.org/wp-content/uploads/2026/10/Intro-to-Game-Design-3-6.pdf",
       "proof": "Прочитан официальный источник; неизвестные условия сохранены явно.",
-      "checked": "2026-11-06",
+      "checked": "2026-11-08",
       "status": "Идея",
-      "note": "Открытый teacher guide по игровому дизайну для Grades 3–6: системы, правила, прототипы, проверка и обратная связь. Английский учебный материал, не организованный англоязычный лагерь. Реальный класс ребёнка и ведущего определить; handbook не доказывает допуск в новую конкурсную категорию C848, её deadline / prizes пока не опубликованы.",
+      "note": "Пособие для 3–6 классов по правилам игры, прототипированию и тестированию. Программа включает путь к проекту Everyone Belongs Here. Для участия в Novice действует отдельная подача через взрослого.",
       "iso": [],
       "themes": [
         "coding",
@@ -716503,7 +718218,16 @@
       "admission_kind": "unknown",
       "evidence_level": "event_page",
       "date_scope": "programme_watch",
-      "references": []
+      "references": [
+        {
+          "url": "https://cdn.prod.website-files.com/6880b7bfda6519f232c26284/6ae21361edf142c2a6ff1df6_e2560f475c026aabb1c2e36d738a59aa_2026-2027%20G4C%20Student%20Challenge%20Competition%20Handbook%20v3%20%281%29.pdf",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "related_ids": [
+        "C848",
+        "C4627"
+      ]
     },
     {
       "id": "L521",
@@ -738455,7 +740179,7 @@
       "checked": "2026-09-29"
     }
   ],
-  "source_count": 8909,
+  "source_count": 8923,
   "sources": [
     {
       "url": "https://www.torneoluva.com",
@@ -745575,7 +747299,7 @@
     {
       "url": "https://www.ikcc.info/en/calendar-pag18",
       "title": "Общийкалендарьиправилогодовоговыбора",
-      "checked": "2026-10-01",
+      "checked": "2026-11-08",
       "evidence": "ОбщийJanuary1расходитсясcurrentJan3для2027; yearlessendнеиспользован."
     },
     {
@@ -791804,6 +793528,90 @@
       "title": "Страница организатора или регламент категории.",
       "checked": "2026-11-08",
       "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://g4cstudentchallenge.secure-platform.com/a",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6880b7bfda6519f232c26284/6ae21361edf142c2a6ff1df6_e2560f475c026aabb1c2e36d738a59aa_2026-2027%20G4C%20Student%20Challenge%20Competition%20Handbook%20v3%20%281%29.pdf",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://g4c-learn.beehiiv.com/p/game-jams-game-plan-and-the-2027-student-challenge-competition-guide",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://g4cstudentchallenge.secure-platform.com/a/page/faq",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://kidsgamedesign.org/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://kidsgamedesign.org/2026-timeline/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://iitchallenge.com/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.robonexus.org/index",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.robonexus.org/faq",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.robonexus.org/attend",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://makezine.jp/event/mft2026/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://makerfaire.com/globalfaires/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://paris.makerfaire.com/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
     }
   ],
   "wro_members": 108,
@@ -794621,10 +796429,10 @@
       "country": "Соединенные Штаты Америки",
       "region": "Северная Америка",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 1398,
+      "competitions": 1402,
       "exhibitions": 48,
       "camps": 440,
-      "dated": 1863,
+      "dated": 1867,
       "organizer": "US Engineering League",
       "organizer_url": "https://www.uselyouthrobotics.com",
       "network_routes": 4,
@@ -794776,9 +796584,9 @@
       "region": "Азия",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 47,
-      "exhibitions": 22,
+      "exhibitions": 23,
       "camps": 122,
-      "dated": 179,
+      "dated": 180,
       "organizer": "NPO WRO Japan",
       "organizer_url": "https://www.wroj.org",
       "network_routes": 4,
@@ -794845,10 +796653,10 @@
       "country": "Индонезия",
       "region": "Азия",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 23,
+      "competitions": 25,
       "exhibitions": 6,
       "camps": 48,
-      "dated": 60,
+      "dated": 62,
       "organizer": "Institut Teknologi Sepuluh Nopember (ITS) - Department of Electrical Automation Engineering, Vocational Faculty",
       "organizer_url": "http://wroindonesia.org/",
       "network_routes": 4,
@@ -795265,10 +797073,10 @@
       "country": "Саудовская Аравия",
       "region": "Азия",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 10,
-      "exhibitions": 1,
+      "competitions": 11,
+      "exhibitions": 2,
       "camps": 1,
-      "dated": 8,
+      "dated": 10,
       "organizer": "Robotera Co. (THAKA)",
       "organizer_url": "https://www.wrosaudi.com",
       "network_routes": 3,
@@ -795433,10 +797241,10 @@
       "country": "Румыния",
       "region": "Европа",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 13,
+      "competitions": 14,
       "exhibitions": 2,
       "camps": 0,
-      "dated": 7,
+      "dated": 8,
       "organizer": "The Association of Educational Robotics and Science WRO",
       "organizer_url": "http://www.wroromania.ro",
       "network_routes": 4,
@@ -795699,10 +797507,10 @@
       "country": "Соединенное Королевство Великобритании и Северной Ирландии",
       "region": "Европа",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 42,
+      "competitions": 43,
       "exhibitions": 9,
       "camps": 41,
-      "dated": 86,
+      "dated": 87,
       "organizer": "STEMpura CIC",
       "organizer_url": "https://www.stempura.org/",
       "network_routes": 4,
@@ -795925,8 +797733,8 @@
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 42,
       "exhibitions": 24,
-      "camps": 333,
-      "dated": 333,
+      "camps": 341,
+      "dated": 341,
       "organizer": "Fundació educaBOT",
       "organizer_url": "https://www.wroboto.es/",
       "network_routes": 4,
@@ -795966,7 +797774,7 @@
       "region": "Европа",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 31,
-      "exhibitions": 24,
+      "exhibitions": 25,
       "camps": 324,
       "dated": 349,
       "organizer": "Decanum",
@@ -825963,12 +827771,12 @@
       "fully_audited_countries": 0
     },
     "counts": {
-      "cards": 10198,
-      "competition_cards": 4625,
-      "event_cards": 559,
-      "camp_cards": 5014,
+      "cards": 10218,
+      "competition_cards": 4634,
+      "event_cards": 562,
+      "camp_cards": 5022,
       "league_profiles": 299,
-      "major_exhibition_cards": 463,
+      "major_exhibition_cards": 466,
       "vex_cards": 814,
       "countries_with_records": 231,
       "fully_audited_countries": 0
@@ -825981,9 +827789,9 @@
           "Центральная Америка",
           "Карибский регион"
         ],
-        "total": 3321,
+        "total": 3325,
         "countries_with_records": 40,
-        "competitions": 1910,
+        "competitions": 1914,
         "events": 145,
         "major_exhibitions": 108,
         "camps": 1266,
@@ -826009,12 +827817,12 @@
         "regions": [
           "Европа"
         ],
-        "total": 2190,
+        "total": 2201,
         "countries_with_records": 54,
-        "competitions": 597,
-        "events": 146,
-        "major_exhibitions": 121,
-        "camps": 1447,
+        "competitions": 599,
+        "events": 147,
+        "major_exhibitions": 122,
+        "camps": 1455,
         "status": "Частично исследовано",
         "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
       },
@@ -826037,11 +827845,11 @@
         "regions": [
           "Азия"
         ],
-        "total": 2961,
+        "total": 2966,
         "countries_with_records": 49,
-        "competitions": 1152,
-        "events": 151,
-        "major_exhibitions": 138,
+        "competitions": 1155,
+        "events": 153,
+        "major_exhibitions": 140,
         "camps": 1658,
         "status": "Частично исследовано",
         "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
@@ -839726,6 +841534,39 @@
         "new": false
       },
       {
+        "id": "E560",
+        "name": "RoboNexus Expo 2027",
+        "country": "Саудовская Аравия",
+        "region": "Азия",
+        "start": "2027-03-20",
+        "end": "2027-03-22",
+        "visitor_policy": "confirm_children",
+        "source": "https://www.robonexus.org/attend",
+        "new": false
+      },
+      {
+        "id": "E561",
+        "name": "Maker Faire Tokyo 2027",
+        "country": "Япония",
+        "region": "Азия",
+        "start": "2027-09-25",
+        "end": "2027-09-26",
+        "visitor_policy": "confirm_children",
+        "source": "https://makezine.jp/event/mft2026/",
+        "new": false
+      },
+      {
+        "id": "E562",
+        "name": "Maker Faire Paris 2027",
+        "country": "Франция",
+        "region": "Европа",
+        "start": "",
+        "end": "",
+        "visitor_policy": "confirm_children",
+        "source": "https://makerfaire.com/globalfaires/",
+        "new": false
+      },
+      {
         "id": "E240",
         "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
         "country": "Польша",
@@ -842143,14 +843984,14 @@
         }
       ],
       "counts": {
-        "records": 5014,
-        "holiday": 4664,
+        "records": 5022,
+        "holiday": 4672,
         "regular": 158,
         "self_paced_materials": 4,
         "boarding": 1037,
-        "en_es_instruction": 1583,
+        "en_es_instruction": 1591,
         "en_es_support": 28,
-        "family_instruction": 1583,
+        "family_instruction": 1591,
         "family_support": 28,
         "ru_instruction": 4,
         "language_lessons": 412,
@@ -844962,14 +846803,14 @@
       }
     ],
     "counts": {
-      "records": 5014,
-      "holiday": 4664,
+      "records": 5022,
+      "holiday": 4672,
       "regular": 158,
       "self_paced_materials": 4,
       "boarding": 1037,
-      "en_es_instruction": 1583,
+      "en_es_instruction": 1591,
       "en_es_support": 28,
-      "family_instruction": 1583,
+      "family_instruction": 1591,
       "family_support": 28,
       "ru_instruction": 4,
       "language_lessons": 412,
@@ -870399,12 +872240,12 @@
       "school_grades_known": false
     },
     "counts": {
-      "dossiers": 1967,
+      "dossiers": 1971,
       "countries": 126,
       "swiss": 137,
       "by_status": {
         "published_2026_27": 286,
-        "published_2027": 536,
+        "published_2027": 540,
         "partial_2027": 145,
         "next_unannounced": 399,
         "published_2026": 372,
@@ -870417,7 +872258,7 @@
         "announced_dates_programme_pending": 4,
         "confirmed_2027": 1
       },
-      "source_urls": 2857
+      "source_urls": 2858
     },
     "countries": [
       {
@@ -870602,7 +872443,7 @@
       },
       {
         "country": "Испания",
-        "count": 141
+        "count": 145
       },
       {
         "country": "Италия",
@@ -1212267,6 +1214108,918 @@
             ]
           }
         ]
+      },
+      {
+        "id": "CP1968",
+        "slug": "la-casita-easter-madrid",
+        "provider": "La Casita de Inglés · Easter Camp · Madrid",
+        "country": "Испания",
+        "iso": "ESP",
+        "place": "Мадрид и пригороды, филиал по выбору.",
+        "age": "3–12 лет. Младшие дети должны обходиться без подгузников.",
+        "programme": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Полное погружение в английский с преподавателями-носителями.",
+        "confirmed_instruction_languages": [
+          "EN"
+        ],
+        "language_evidence_role": "primary",
+        "timing": {
+          "status": "published_2027",
+          "label": "Выбрать отдельные дни: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+          "sessions": [
+            [
+              "2027-03-19",
+              "2027-03-29"
+            ],
+            [
+              "2027-03-19",
+              "2027-03-29"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "half",
+              "start": "2027-03-19",
+              "end": "2027-03-29",
+              "label": "Дневная программа 09:00–13:00.",
+              "price": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+              "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+              },
+              "sessions": [
+                {
+                  "date": "2027-03-19",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-19T08:00:00Z",
+                  "end_utc": "2027-03-19T12:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-22",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-22T08:00:00Z",
+                  "end_utc": "2027-03-22T12:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-23",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-23T08:00:00Z",
+                  "end_utc": "2027-03-23T12:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-24",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-24T08:00:00Z",
+                  "end_utc": "2027-03-24T12:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-29",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-29T07:00:00Z",
+                  "end_utc": "2027-03-29T11:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                }
+              ]
+            },
+            {
+              "variant_key": "full",
+              "start": "2027-03-19",
+              "end": "2027-03-29",
+              "label": "Дневная программа 09:00–16:00.",
+              "price": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+              "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+              },
+              "sessions": [
+                {
+                  "date": "2027-03-19",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-19T08:00:00Z",
+                  "end_utc": "2027-03-19T15:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-22",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-22T08:00:00Z",
+                  "end_utc": "2027-03-22T15:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-23",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-23T08:00:00Z",
+                  "end_utc": "2027-03-23T15:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-24",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-24T08:00:00Z",
+                  "end_utc": "2027-03-24T15:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-29",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-29T07:00:00Z",
+                  "end_utc": "2027-03-29T14:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                }
+              ]
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2027,
+          "amount": null,
+          "currency": "EUR",
+          "unit": "day",
+          "label": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+          "included": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "extras": "Присмотр 08:00–09:00 возможен в некоторых филиалах при минимальном наборе.",
+          "deposit": "Если за 1 неделю до даты не набрали минимум участников, организатор возвращает 100% внесённой суммы."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "candidate",
+            "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+          },
+          "oscar": {
+            "status": "candidate",
+            "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+          }
+        },
+        "editorial_reason": "Выбрать отдельные дни: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+        "shortlist": [],
+        "questions": [
+          "Перед записью сверить допуск, язык и наличие места.",
+          "Условия возврата и итоговый счёт уточнить до оплаты."
+        ],
+        "sources": [
+          {
+            "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "science",
+          "general",
+          "languages"
+        ],
+        "programme_type": "day_camp",
+        "catalog_participation": "day_camp",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2027-03-19",
+            "end": "2027-03-29",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP1968-20270319-20270329-half"
+            ]
+          },
+          {
+            "start": "2027-03-19",
+            "end": "2027-03-29",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP1968-20270319-20270329-full"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CP1969",
+        "slug": "la-casita-easter-barcelona",
+        "provider": "La Casita de Inglés · Easter Camp · Barcelona",
+        "country": "Испания",
+        "iso": "ESP",
+        "place": "Барселона, Poblenou или Sant Cugat del Vallès.",
+        "age": "3–12 лет. Младшие дети должны обходиться без подгузников.",
+        "programme": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Полное погружение в английский с преподавателями-носителями.",
+        "confirmed_instruction_languages": [
+          "EN"
+        ],
+        "language_evidence_role": "primary",
+        "timing": {
+          "status": "published_2027",
+          "label": "Выбрать отдельные дни: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+          "sessions": [
+            [
+              "2027-03-19",
+              "2027-03-29"
+            ],
+            [
+              "2027-03-19",
+              "2027-03-29"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "half",
+              "start": "2027-03-19",
+              "end": "2027-03-29",
+              "label": "Дневная программа 09:00–13:00.",
+              "price": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+              "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+              },
+              "sessions": [
+                {
+                  "date": "2027-03-19",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-19T08:00:00Z",
+                  "end_utc": "2027-03-19T12:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-22",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-22T08:00:00Z",
+                  "end_utc": "2027-03-22T12:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-23",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-23T08:00:00Z",
+                  "end_utc": "2027-03-23T12:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-24",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-24T08:00:00Z",
+                  "end_utc": "2027-03-24T12:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-29",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-29T07:00:00Z",
+                  "end_utc": "2027-03-29T11:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                }
+              ]
+            },
+            {
+              "variant_key": "full",
+              "start": "2027-03-19",
+              "end": "2027-03-29",
+              "label": "Дневная программа 09:00–16:00.",
+              "price": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+              "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+              },
+              "sessions": [
+                {
+                  "date": "2027-03-19",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-19T08:00:00Z",
+                  "end_utc": "2027-03-19T15:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-22",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-22T08:00:00Z",
+                  "end_utc": "2027-03-22T15:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-23",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-23T08:00:00Z",
+                  "end_utc": "2027-03-23T15:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-24",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-24T08:00:00Z",
+                  "end_utc": "2027-03-24T15:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-29",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-29T07:00:00Z",
+                  "end_utc": "2027-03-29T14:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                }
+              ]
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2027,
+          "amount": null,
+          "currency": "EUR",
+          "unit": "day",
+          "label": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+          "included": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "extras": "Присмотр 08:00–09:00 возможен в некоторых филиалах при минимальном наборе.",
+          "deposit": "Если за 1 неделю до даты не набрали минимум участников, организатор возвращает 100% внесённой суммы."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "candidate",
+            "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+          },
+          "oscar": {
+            "status": "candidate",
+            "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+          }
+        },
+        "editorial_reason": "Выбрать отдельные дни: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+        "shortlist": [],
+        "questions": [
+          "Перед записью сверить допуск, язык и наличие места.",
+          "Условия возврата и итоговый счёт уточнить до оплаты."
+        ],
+        "sources": [
+          {
+            "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "science",
+          "general",
+          "languages"
+        ],
+        "programme_type": "day_camp",
+        "catalog_participation": "day_camp",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2027-03-19",
+            "end": "2027-03-29",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP1969-20270319-20270329-half"
+            ]
+          },
+          {
+            "start": "2027-03-19",
+            "end": "2027-03-29",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP1969-20270319-20270329-full"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CP1970",
+        "slug": "la-casita-easter-vigo",
+        "provider": "La Casita de Inglés · Easter Camp · Vigo",
+        "country": "Испания",
+        "iso": "ESP",
+        "place": "Rúa do Uruguai, 15 · Vigo",
+        "age": "3–12 лет. Младшие дети должны обходиться без подгузников.",
+        "programme": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Полное погружение в английский с преподавателями-носителями.",
+        "confirmed_instruction_languages": [
+          "EN"
+        ],
+        "language_evidence_role": "primary",
+        "timing": {
+          "status": "published_2027",
+          "label": "Выбрать отдельные дни: 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+          "sessions": [
+            [
+              "2027-03-22",
+              "2027-03-29"
+            ],
+            [
+              "2027-03-22",
+              "2027-03-29"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "half",
+              "start": "2027-03-22",
+              "end": "2027-03-29",
+              "label": "Дневная программа 09:00–13:00.",
+              "price": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+              "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+              },
+              "sessions": [
+                {
+                  "date": "2027-03-22",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-22T08:00:00Z",
+                  "end_utc": "2027-03-22T12:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-23",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-23T08:00:00Z",
+                  "end_utc": "2027-03-23T12:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-24",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-24T08:00:00Z",
+                  "end_utc": "2027-03-24T12:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-29",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-29T07:00:00Z",
+                  "end_utc": "2027-03-29T11:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                }
+              ]
+            },
+            {
+              "variant_key": "full",
+              "start": "2027-03-22",
+              "end": "2027-03-29",
+              "label": "Дневная программа 09:00–16:00.",
+              "price": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+              "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+              },
+              "sessions": [
+                {
+                  "date": "2027-03-22",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-22T08:00:00Z",
+                  "end_utc": "2027-03-22T15:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-23",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-23T08:00:00Z",
+                  "end_utc": "2027-03-23T15:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-24",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-24T08:00:00Z",
+                  "end_utc": "2027-03-24T15:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-29",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-29T07:00:00Z",
+                  "end_utc": "2027-03-29T14:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                }
+              ]
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2027,
+          "amount": null,
+          "currency": "EUR",
+          "unit": "day",
+          "label": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+          "included": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "extras": "Присмотр 08:00–09:00 возможен в некоторых филиалах при минимальном наборе.",
+          "deposit": "Если за 1 неделю до даты не набрали минимум участников, организатор возвращает 100% внесённой суммы."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "candidate",
+            "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+          },
+          "oscar": {
+            "status": "candidate",
+            "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+          }
+        },
+        "editorial_reason": "Выбрать отдельные дни: 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Два дневных формата.",
+        "shortlist": [],
+        "questions": [
+          "Перед записью сверить допуск, язык и наличие места.",
+          "Условия возврата и итоговый счёт уточнить до оплаты."
+        ],
+        "sources": [
+          {
+            "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "science",
+          "general",
+          "languages"
+        ],
+        "programme_type": "day_camp",
+        "catalog_participation": "day_camp",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2027-03-22",
+            "end": "2027-03-29",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP1970-20270322-20270329-half"
+            ]
+          },
+          {
+            "start": "2027-03-22",
+            "end": "2027-03-29",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP1970-20270322-20270329-full"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CP1971",
+        "slug": "la-casita-easter-valencia",
+        "provider": "La Casita de Inglés · Easter Camp · Valencia",
+        "country": "Испания",
+        "iso": "ESP",
+        "place": "Carrer de Salamanca, 54 · Valencia",
+        "age": "3–12 лет. Младшие дети должны обходиться без подгузников.",
+        "programme": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Полное погружение в английский с преподавателями-носителями.",
+        "confirmed_instruction_languages": [
+          "EN"
+        ],
+        "language_evidence_role": "primary",
+        "timing": {
+          "status": "published_2027",
+          "label": "Выбрать отдельные дни: 2027-03-29, 2027-03-30, 2027-03-31, 2027-04-01, 2027-04-02, 2027-04-05. Два дневных формата.",
+          "sessions": [
+            [
+              "2027-03-29",
+              "2027-04-05"
+            ],
+            [
+              "2027-03-29",
+              "2027-04-05"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "half",
+              "start": "2027-03-29",
+              "end": "2027-04-05",
+              "label": "Дневная программа 09:00–13:00.",
+              "price": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+              "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+              },
+              "sessions": [
+                {
+                  "date": "2027-03-29",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-29T07:00:00Z",
+                  "end_utc": "2027-03-29T11:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-30",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-30T07:00:00Z",
+                  "end_utc": "2027-03-30T11:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-31",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-31T07:00:00Z",
+                  "end_utc": "2027-03-31T11:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-04-01",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-04-01T07:00:00Z",
+                  "end_utc": "2027-04-01T11:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-04-02",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-04-02T07:00:00Z",
+                  "end_utc": "2027-04-02T11:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-04-05",
+                  "start_time": "09:00",
+                  "end_time": "13:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-04-05T07:00:00Z",
+                  "end_utc": "2027-04-05T11:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                }
+              ]
+            },
+            {
+              "variant_key": "full",
+              "start": "2027-03-29",
+              "end": "2027-04-05",
+              "label": "Дневная программа 09:00–16:00.",
+              "price": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+              "source": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+              },
+              "sessions": [
+                {
+                  "date": "2027-03-29",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-29T07:00:00Z",
+                  "end_utc": "2027-03-29T14:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-30",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-30T07:00:00Z",
+                  "end_utc": "2027-03-30T14:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-03-31",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-03-31T07:00:00Z",
+                  "end_utc": "2027-03-31T14:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-04-01",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-04-01T07:00:00Z",
+                  "end_utc": "2027-04-01T14:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-04-02",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-04-02T07:00:00Z",
+                  "end_utc": "2027-04-02T14:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2027-04-05",
+                  "start_time": "09:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Madrid",
+                  "start_utc": "2027-04-05T07:00:00Z",
+                  "end_utc": "2027-04-05T14:00:00Z",
+                  "topic": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+                  "ical_timed": true
+                }
+              ]
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2027,
+          "amount": null,
+          "currency": "EUR",
+          "unit": "day",
+          "label": "Цены на выбранные дни и площадку уточняются. В обоих форматах есть перекус, в полном дне включён обед.",
+          "included": "Весенние научные опыты, творчество, настольные игры и разговорная практика.",
+          "extras": "Присмотр 08:00–09:00 возможен в некоторых филиалах при минимальном наборе.",
+          "deposit": "Если за 1 неделю до даты не набрали минимум участников, организатор возвращает 100% внесённой суммы."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "candidate",
+            "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+          },
+          "oscar": {
+            "status": "candidate",
+            "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+          }
+        },
+        "editorial_reason": "Выбрать отдельные дни: 2027-03-29, 2027-03-30, 2027-03-31, 2027-04-01, 2027-04-02, 2027-04-05. Два дневных формата.",
+        "shortlist": [],
+        "questions": [
+          "Перед записью сверить допуск, язык и наличие места.",
+          "Условия возврата и итоговый счёт уточнить до оплаты."
+        ],
+        "sources": [
+          {
+            "url": "https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "science",
+          "general",
+          "languages"
+        ],
+        "programme_type": "day_camp",
+        "catalog_participation": "day_camp",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2027-03-29",
+            "end": "2027-04-05",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP1971-20270329-20270405-half"
+            ]
+          },
+          {
+            "start": "2027-03-29",
+            "end": "2027-04-05",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP1971-20270329-20270405-full"
+            ]
+          }
+        ]
       }
     ],
     "gaps": [
@@ -1217592,7 +1220345,7 @@
       "Младшие группы и языковое доказательство для всех приоритетных операторов.",
       "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
     ],
-    "version": 275,
+    "version": 276,
     "family_review": {
       "version": 150,
       "asof": "2026-11-05",
@@ -1230827,7 +1233580,7 @@
         }
       ],
       "coverage": {
-        "total_dossiers": 1967,
+        "total_dossiers": 1971,
         "reviewed": 71,
         "refresh_pending": 4,
         "review_dossiers": 75,
@@ -1253167,6 +1255920,46 @@
         "relation": "catalogue_session"
       },
       {
+        "programme_id": "CP1968",
+        "event_id": "CP1968-20270319-20270329-half",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP1968",
+        "event_id": "CP1968-20270319-20270329-full",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP1969",
+        "event_id": "CP1969-20270319-20270329-half",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP1969",
+        "event_id": "CP1969-20270319-20270329-full",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP1970",
+        "event_id": "CP1970-20270322-20270329-half",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP1970",
+        "event_id": "CP1970-20270322-20270329-full",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP1971",
+        "event_id": "CP1971-20270329-20270405-half",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP1971",
+        "event_id": "CP1971-20270329-20270405-full",
+        "relation": "catalogue_session"
+      },
+      {
         "programme_id": "CP1294",
         "event_id": "L464",
         "relation": "existing_programme"
@@ -1257835,10 +1260628,18 @@
       "CP1964-20261221-20261224-explore",
       "CP1965-20261221-20261224-clock",
       "CP1966-20261228-20261231-garden",
-      "CP1967-20261228-20261231-fll"
+      "CP1967-20261228-20261231-fll",
+      "CP1968-20270319-20270329-half",
+      "CP1968-20270319-20270329-full",
+      "CP1969-20270319-20270329-half",
+      "CP1969-20270319-20270329-full",
+      "CP1970-20270322-20270329-half",
+      "CP1970-20270322-20270329-full",
+      "CP1971-20270329-20270405-half",
+      "CP1971-20270329-20270405-full"
     ],
     "integration": {
-      "generated_sessions": 4238,
+      "generated_sessions": 4246,
       "reused_legacy_events": 73,
       "seasonal_windows": 76,
       "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

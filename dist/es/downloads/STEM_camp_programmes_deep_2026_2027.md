@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 1967 fichas en 126 países. Las fechas de verificación de las fuentes se indican en cada ficha.
+Estado de la base: 2026-11-08. 1971 fichas en 126 países. Las fechas de verificación de las fuentes se indican en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -157775,6 +157775,326 @@ Canadá · Steamoji Richmond North · 4940 No. 3 Road · Richmond, BC
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://steamoji.com/canada-bc-richmond-north) · 2026-11-08
+
+## CP1968 · La Casita de Inglés · Easter Camp · Madrid
+
+España · Madrid y alrededores, sede a elegir.
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 3–12 años. Los más pequeños deben ir sin pañal.
+
+**Idioma:** Inmersión total en inglés con docentes nativos.
+
+**Programa:** Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Elegir días sueltos: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Dos modalidades diurnas.
+
+**Precio / año:** 2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida.
+
+**Incluido:** Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+**Suplementos:** El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo.
+
+**Pago:** Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Elegir días sueltos: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Dos modalidades diurnas.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Programa diurno 09:00–13:00.
+
+**Fechas / estado:** 2027-03-19 — 2027-03-29
+
+**Precio:** Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida.
+
+- 2027-03-19 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-22 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-23 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-24 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-29 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/)
+
+### Programa diurno 09:00–16:00.
+
+**Fechas / estado:** 2027-03-19 — 2027-03-29
+
+**Precio:** Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida.
+
+- 2027-03-19 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-22 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-23 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-24 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-29 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/) · 2026-11-08
+
+## CP1969 · La Casita de Inglés · Easter Camp · Barcelona
+
+España · Barcelona, Poblenou o Sant Cugat del Vallès.
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 3–12 años. Los más pequeños deben ir sin pañal.
+
+**Idioma:** Inmersión total en inglés con docentes nativos.
+
+**Programa:** Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Elegir días sueltos: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Dos modalidades diurnas.
+
+**Precio / año:** 2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida.
+
+**Incluido:** Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+**Suplementos:** El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo.
+
+**Pago:** Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Elegir días sueltos: 2027-03-19, 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Dos modalidades diurnas.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Programa diurno 09:00–13:00.
+
+**Fechas / estado:** 2027-03-19 — 2027-03-29
+
+**Precio:** Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida.
+
+- 2027-03-19 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-22 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-23 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-24 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-29 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/)
+
+### Programa diurno 09:00–16:00.
+
+**Fechas / estado:** 2027-03-19 — 2027-03-29
+
+**Precio:** Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida.
+
+- 2027-03-19 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-22 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-23 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-24 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-29 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/) · 2026-11-08
+
+## CP1970 · La Casita de Inglés · Easter Camp · Vigo
+
+España · Rúa do Uruguai, 15 · Vigo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 3–12 años. Los más pequeños deben ir sin pañal.
+
+**Idioma:** Inmersión total en inglés con docentes nativos.
+
+**Programa:** Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Elegir días sueltos: 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Dos modalidades diurnas.
+
+**Precio / año:** 2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida.
+
+**Incluido:** Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+**Suplementos:** El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo.
+
+**Pago:** Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Elegir días sueltos: 2027-03-22, 2027-03-23, 2027-03-24, 2027-03-29. Dos modalidades diurnas.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Programa diurno 09:00–13:00.
+
+**Fechas / estado:** 2027-03-22 — 2027-03-29
+
+**Precio:** Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida.
+
+- 2027-03-22 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-23 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-24 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-29 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/)
+
+### Programa diurno 09:00–16:00.
+
+**Fechas / estado:** 2027-03-22 — 2027-03-29
+
+**Precio:** Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida.
+
+- 2027-03-22 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-23 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-24 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-29 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/) · 2026-11-08
+
+## CP1971 · La Casita de Inglés · Easter Camp · Valencia
+
+España · Carrer de Salamanca, 54 · Valencia
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 3–12 años. Los más pequeños deben ir sin pañal.
+
+**Idioma:** Inmersión total en inglés con docentes nativos.
+
+**Programa:** Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Elegir días sueltos: 2027-03-29, 2027-03-30, 2027-03-31, 2027-04-01, 2027-04-02, 2027-04-05. Dos modalidades diurnas.
+
+**Precio / año:** 2027 · Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida.
+
+**Incluido:** Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+**Suplementos:** El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo.
+
+**Pago:** Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Elegir días sueltos: 2027-03-29, 2027-03-30, 2027-03-31, 2027-04-01, 2027-04-02, 2027-04-05. Dos modalidades diurnas.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Programa diurno 09:00–13:00.
+
+**Fechas / estado:** 2027-03-29 — 2027-04-05
+
+**Precio:** Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida.
+
+- 2027-03-29 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-30 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-31 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-04-01 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-04-02 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-04-05 · 09:00–13:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/)
+
+### Programa diurno 09:00–16:00.
+
+**Fechas / estado:** 2027-03-29 — 2027-04-05
+
+**Precio:** Precios de los días y la sede elegidos pendientes. Ambos formatos incluyen tentempié, la jornada completa incluye comida.
+
+- 2027-03-29 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-30 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-03-31 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-04-01 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-04-02 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+- 2027-04-05 · 09:00–16:00 · Europe/Madrid · Experimentos científicos de primavera, manualidades, juegos de mesa y práctica oral.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

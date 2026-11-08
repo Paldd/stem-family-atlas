@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10198; competiciones: 4625; eventos: 559; campamentos / programas: 5014. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 463 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10218; competiciones: 4634; eventos: 562; campamentos / programas: 5022. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 466 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1910 | 108 | 1266 |
+| América del Norte | 40 | 1914 | 108 | 1266 |
 | América del Sur | 14 | 428 | 37 | 204 |
-| Europa | 54 | 597 | 121 | 1447 |
+| Europa | 54 | 599 | 122 | 1455 |
 | África | 53 | 235 | 28 | 92 |
-| Asia | 49 | 1152 | 138 | 1658 |
+| Asia | 49 | 1155 | 140 | 1658 |
 | Oceanía | 25 | 163 | 29 | 332 |
 
 Fichas interregionales o globales sin asignar a un continente: 162. Norteamérica incluye Centroamérica y el Caribe. Los recuentos muestran el inventario de la base, no un porcentaje de exhaustividad.
 
-VEX: 814 de 4625 fichas de competiciones (17.6%). La cobertura está claramente concentrada.
+VEX: 814 de 4634 fichas de competiciones (17.6%). La cobertura está claramente concentrada.
 
 ## Lo que queda
 
@@ -830,6 +830,9 @@ VEX: 814 de 4625 fichas de competiciones (17.6%). La cobertura está claramente 
 - **Robofest LATAM 2027 · talleres para visitantes** — México; 2027-03-05 – 2027-03-06. el permiso de entrada de niños. https://www.robofestmexico.org/
 - **Expo Máquina 2027 · The Outdoor Experience** — Panamá; 2027-02-25 – 2027-02-28. con un adulto; condiciones de admisión adulta por separado. https://adimaq.org/expomaquina/
 - **Museo de los Niños · salas STEAM y tecnología espacial** — Costa Rica; sin fecha puntual. Con un adulto; condiciones de admisión adulta por separado. https://museocr.org/ninos/salas-interactivas/
+- **RoboNexus Expo 2027** — Arabia Saudí; 2027-03-20 – 2027-03-22. el permiso de entrada de niños. https://www.robonexus.org/attend
+- **Maker Faire Tokyo 2027** — Japón; 2027-09-25 – 2027-09-26. el permiso de entrada de niños. https://makezine.jp/event/mft2026/
+- **Maker Faire Paris 2027** — Francia; fecha desconocida. Confirmar acceso infantil. https://makerfaire.com/globalfaires/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors
