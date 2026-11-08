@@ -30,25 +30,25 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1902,
+    "dossiers": 1910,
     "countries": 125,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 274,
+      "published_2026_27": 281,
       "published_2027": 517,
       "partial_2027": 141,
       "next_unannounced": 395,
       "published_2026": 348,
       "partial_2026_27": 32,
       "partial_2026": 23,
-      "archive_next_unannounced": 145,
+      "archive_next_unannounced": 146,
       "regular_programme": 19,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2771
+    "source_urls": 2774
   },
   "countries": [
     {
@@ -229,7 +229,7 @@
     },
     {
       "country": "Испания",
-      "count": 139
+      "count": 141
     },
     {
       "country": "Италия",
@@ -493,7 +493,7 @@
     },
     {
       "country": "Франция",
-      "count": 117
+      "count": 123
     },
     {
       "country": "Французская Полинезия",
@@ -241178,14 +241178,14 @@
         "day"
       ],
       "age": "6–8 / 9–11",
-      "language": "Организатор прямо указывает, что мастерские проходят только на французском.",
+      "language": "Занятия только на французском.",
       "confirmed_instruction_languages": [
         "FR"
       ],
       "programme": "Моделирование объекта и печать собственной работы.",
       "timing": {
         "status": "published_2026_27",
-        "label": "Дни занятий по календарю организатора.",
+        "label": "Декабрь 2026. Каждый день бронируется отдельно.",
         "sessions": [
           [
             "2026-12-28",
@@ -241202,17 +241202,17 @@
             "end": "2026-12-28",
             "label": "Дневная мастерская.",
             "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
-            "price": "EUR 95 за день, EUR 85 по абонементу при наличии квоты.",
+            "price": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
             "place": "Cité des sciences et de l’industrie · Paris",
             "age": "6–8",
             "family_fit": {
               "matvey": {
                 "status": "not_eligible",
-                "detail": "Нет по возрасту для младшей группы."
+                "detail": "Возраст выше верхней границы группы."
               },
               "oscar": {
                 "status": "conditional",
-                "detail": "Условно, если к началу уже исполнилось 6 лет."
+                "detail": "Подходит при полных 6 годах на дату занятия. Нужно понимать французский."
               }
             },
             "date_scope": "session_days",
@@ -241229,24 +241229,28 @@
             "availability": {
               "status": "unconfirmed",
               "label": "Уточнить наличие мест и допуск."
-            }
+            },
+            "entry": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+            "questions": [
+              "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+            ]
           },
           {
             "start": "2026-12-29",
             "end": "2026-12-29",
             "label": "Дневная мастерская.",
             "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
-            "price": "EUR 95 за день, EUR 85 по абонементу при наличии квоты.",
+            "price": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
             "place": "Cité des sciences et de l’industrie · Paris",
             "age": "9–11",
             "family_fit": {
               "matvey": {
-                "status": "candidate",
-                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+                "status": "conditional",
+                "detail": "Возраст подходит. Нужно понимать французский и подтвердить место."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+                "detail": "Возраст пока ниже минимума группы."
               }
             },
             "date_scope": "session_days",
@@ -241263,35 +241267,39 @@
             "availability": {
               "status": "unconfirmed",
               "label": "Уточнить наличие мест и допуск."
-            }
+            },
+            "entry": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+            "questions": [
+              "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+            ]
           }
         ]
       },
       "price": {
         "year": 2026,
+        "label": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
+        "included": "На полный день входит пикник. Можно принести свой обед по той же цене. Нужна бутылка для воды.",
+        "extras": "Условия возврата проверить при покупке.",
+        "deposit": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
         "currency": "EUR",
         "amount": 95,
-        "unit": "per_child_course",
-        "label": "EUR 95 за день, EUR 85 по абонементу при наличии квоты.",
-        "included": "На полный день включён пикник, воду и при необходимости свой обед можно принести.",
-        "extras": "Цена не опубликована.",
-        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        "unit": "per_child_course"
       },
       "accommodation": "Дневная программа без проживания.",
       "family_fit": {
         "matvey": {
-          "status": "candidate",
-          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+          "status": "conditional",
+          "detail": "Возраст подходит. Нужно понимать французский и подтвердить место."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "Условно, если к началу уже исполнилось 6 лет."
+          "detail": "Подходит при полных 6 годах на дату занятия. Нужно понимать французский."
         }
       },
       "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
       "shortlist": [],
       "questions": [
-        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
       ],
       "sources": [
         {
@@ -241306,7 +241314,18 @@
         "label": "Уточнить наличие мест и допуск."
       },
       "programme_type": "holiday_workshop",
-      "catalog_participation": "holiday_workshop"
+      "catalog_participation": "holiday_workshop",
+      "language_evidence_role": "primary",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 95,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      }
     },
     {
       "id": "CP1651",
@@ -241324,14 +241343,14 @@
         "day"
       ],
       "age": "6–8 / 9–11",
-      "language": "Организатор прямо указывает, что мастерские проходят только на французском.",
+      "language": "Занятия только на французском.",
       "confirmed_instruction_languages": [
         "FR"
       ],
       "programme": "Алгоритмы и знакомство с кодом через интерактивные проекты.",
       "timing": {
         "status": "published_2026_27",
-        "label": "Дни занятий по календарю организатора.",
+        "label": "Декабрь 2026. Каждый день бронируется отдельно.",
         "sessions": [
           [
             "2026-12-22",
@@ -241348,17 +241367,17 @@
             "end": "2026-12-22",
             "label": "Дневная мастерская.",
             "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
-            "price": "EUR 95 за день, EUR 85 по абонементу при наличии квоты.",
+            "price": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
             "place": "Cité des sciences et de l’industrie · Paris",
             "age": "6–8",
             "family_fit": {
               "matvey": {
                 "status": "not_eligible",
-                "detail": "Нет по возрасту для младшей группы."
+                "detail": "Возраст выше верхней границы группы."
               },
               "oscar": {
                 "status": "conditional",
-                "detail": "Условно, если к началу уже исполнилось 6 лет."
+                "detail": "Подходит при полных 6 годах на дату занятия. Нужно понимать французский."
               }
             },
             "date_scope": "session_days",
@@ -241375,24 +241394,28 @@
             "availability": {
               "status": "unconfirmed",
               "label": "Уточнить наличие мест и допуск."
-            }
+            },
+            "entry": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+            "questions": [
+              "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+            ]
           },
           {
             "start": "2026-12-23",
             "end": "2026-12-23",
             "label": "Дневная мастерская.",
             "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
-            "price": "EUR 95 за день, EUR 85 по абонементу при наличии квоты.",
+            "price": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
             "place": "Cité des sciences et de l’industrie · Paris",
             "age": "9–11",
             "family_fit": {
               "matvey": {
-                "status": "candidate",
-                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+                "status": "conditional",
+                "detail": "Возраст подходит. Нужно понимать французский и подтвердить место."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+                "detail": "Возраст пока ниже минимума группы."
               }
             },
             "date_scope": "session_days",
@@ -241409,35 +241432,39 @@
             "availability": {
               "status": "unconfirmed",
               "label": "Уточнить наличие мест и допуск."
-            }
+            },
+            "entry": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+            "questions": [
+              "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+            ]
           }
         ]
       },
       "price": {
         "year": 2026,
+        "label": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
+        "included": "На полный день входит пикник. Можно принести свой обед по той же цене. Нужна бутылка для воды.",
+        "extras": "Условия возврата проверить при покупке.",
+        "deposit": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
         "currency": "EUR",
         "amount": 95,
-        "unit": "per_child_course",
-        "label": "EUR 95 за день, EUR 85 по абонементу при наличии квоты.",
-        "included": "На полный день включён пикник, воду и при необходимости свой обед можно принести.",
-        "extras": "Цена не опубликована.",
-        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        "unit": "per_child_course"
       },
       "accommodation": "Дневная программа без проживания.",
       "family_fit": {
         "matvey": {
-          "status": "candidate",
-          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+          "status": "conditional",
+          "detail": "Возраст подходит. Нужно понимать французский и подтвердить место."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "Условно, если к началу уже исполнилось 6 лет."
+          "detail": "Подходит при полных 6 годах на дату занятия. Нужно понимать французский."
         }
       },
       "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
       "shortlist": [],
       "questions": [
-        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
       ],
       "sources": [
         {
@@ -241452,7 +241479,18 @@
         "label": "Уточнить наличие мест и допуск."
       },
       "programme_type": "holiday_workshop",
-      "catalog_participation": "holiday_workshop"
+      "catalog_participation": "holiday_workshop",
+      "language_evidence_role": "primary",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 95,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      }
     },
     {
       "id": "CP1652",
@@ -241469,14 +241507,14 @@
         "day"
       ],
       "age": "9–11",
-      "language": "Организатор прямо указывает, что мастерские проходят только на французском.",
+      "language": "Занятия только на французском.",
       "confirmed_instruction_languages": [
         "FR"
       ],
       "programme": "Принципы ИИ, его возможности, ограничения и последствия.",
       "timing": {
         "status": "published_2026_27",
-        "label": "Дни занятий по календарю организатора.",
+        "label": "Декабрь 2026. Каждый день бронируется отдельно.",
         "sessions": [
           [
             "2026-12-30",
@@ -241489,17 +241527,17 @@
             "end": "2026-12-30",
             "label": "Дневная мастерская.",
             "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
-            "price": "EUR 95 за день, EUR 85 по абонементу при наличии квоты.",
+            "price": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
             "place": "Cité des sciences et de l’industrie · Paris",
             "age": "9–11",
             "family_fit": {
               "matvey": {
-                "status": "candidate",
-                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+                "status": "conditional",
+                "detail": "Возраст подходит. Нужно понимать французский и подтвердить место."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+                "detail": "Возраст пока ниже минимума группы."
               }
             },
             "date_scope": "session_days",
@@ -241516,35 +241554,39 @@
             "availability": {
               "status": "unconfirmed",
               "label": "Уточнить наличие мест и допуск."
-            }
+            },
+            "entry": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+            "questions": [
+              "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+            ]
           }
         ]
       },
       "price": {
         "year": 2026,
+        "label": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
+        "included": "На полный день входит пикник. Можно принести свой обед по той же цене. Нужна бутылка для воды.",
+        "extras": "Условия возврата проверить при покупке.",
+        "deposit": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
         "currency": "EUR",
         "amount": 95,
-        "unit": "per_child_course",
-        "label": "EUR 95 за день, EUR 85 по абонементу при наличии квоты.",
-        "included": "На полный день включён пикник, воду и при необходимости свой обед можно принести.",
-        "extras": "Цена не опубликована.",
-        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        "unit": "per_child_course"
       },
       "accommodation": "Дневная программа без проживания.",
       "family_fit": {
         "matvey": {
-          "status": "candidate",
-          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+          "status": "conditional",
+          "detail": "Возраст подходит. Нужно понимать французский и подтвердить место."
         },
         "oscar": {
           "status": "later",
-          "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+          "detail": "Возраст пока ниже минимума группы."
         }
       },
       "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
       "shortlist": [],
       "questions": [
-        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
       ],
       "sources": [
         {
@@ -241559,7 +241601,18 @@
         "label": "Уточнить наличие мест и допуск."
       },
       "programme_type": "holiday_workshop",
-      "catalog_participation": "holiday_workshop"
+      "catalog_participation": "holiday_workshop",
+      "language_evidence_role": "primary",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 95,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      }
     },
     {
       "id": "CP1653",
@@ -241576,14 +241629,14 @@
         "day"
       ],
       "age": "9–11",
-      "language": "Организатор прямо указывает, что мастерские проходят только на французском.",
+      "language": "Занятия только на французском.",
       "confirmed_instruction_languages": [
         "FR"
       ],
       "programme": "Полдня программирования учебного робота.",
       "timing": {
         "status": "published_2026_27",
-        "label": "Дни занятий по календарю организатора.",
+        "label": "Декабрь 2026. Каждый день бронируется отдельно.",
         "sessions": [
           [
             "2026-12-22",
@@ -241600,17 +241653,17 @@
             "end": "2026-12-22",
             "label": "Дневная мастерская.",
             "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
-            "price": "EUR 45 за полдня, EUR 35 по абонементу при наличии квоты.",
+            "price": "EUR 45 за ребёнка за полдня, EUR 35 по абонементу при наличии квоты.",
             "place": "Cité des sciences et de l’industrie · Paris",
             "age": "9–11",
             "family_fit": {
               "matvey": {
-                "status": "candidate",
-                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+                "status": "conditional",
+                "detail": "Возраст подходит. Нужно понимать французский и подтвердить место."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+                "detail": "Возраст пока ниже минимума группы."
               }
             },
             "date_scope": "session_days",
@@ -241627,24 +241680,28 @@
             "availability": {
               "status": "unconfirmed",
               "label": "Уточнить наличие мест и допуск."
-            }
+            },
+            "entry": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+            "questions": [
+              "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+            ]
           },
           {
             "start": "2026-12-29",
             "end": "2026-12-29",
             "label": "Дневная мастерская.",
             "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
-            "price": "EUR 45 за полдня, EUR 35 по абонементу при наличии квоты.",
+            "price": "EUR 45 за ребёнка за полдня, EUR 35 по абонементу при наличии квоты.",
             "place": "Cité des sciences et de l’industrie · Paris",
             "age": "9–11",
             "family_fit": {
               "matvey": {
-                "status": "candidate",
-                "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+                "status": "conditional",
+                "detail": "Возраст подходит. Нужно понимать французский и подтвердить место."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+                "detail": "Возраст пока ниже минимума группы."
               }
             },
             "date_scope": "session_days",
@@ -241661,35 +241718,39 @@
             "availability": {
               "status": "unconfirmed",
               "label": "Уточнить наличие мест и допуск."
-            }
+            },
+            "entry": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+            "questions": [
+              "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+            ]
           }
         ]
       },
       "price": {
         "year": 2026,
+        "label": "EUR 45 за ребёнка за полдня, EUR 35 по абонементу при наличии квоты.",
+        "included": "Полудневная мастерская.",
+        "extras": "Условия возврата проверить при покупке.",
+        "deposit": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
         "currency": "EUR",
         "amount": 45,
-        "unit": "per_child_course",
-        "label": "EUR 45 за полдня, EUR 35 по абонементу при наличии квоты.",
-        "included": "Полудневная мастерская. Питание уточнить отдельно.",
-        "extras": "Цена не опубликована.",
-        "deposit": "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        "unit": "per_child_course"
       },
       "accommodation": "Дневная программа без проживания.",
       "family_fit": {
         "matvey": {
-          "status": "candidate",
-          "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
+          "status": "conditional",
+          "detail": "Возраст подходит. Нужно понимать французский и подтвердить место."
         },
         "oscar": {
           "status": "later",
-          "detail": "Возраст выше текущего. Проверить возраст на первый день смены."
+          "detail": "Возраст пока ниже минимума группы."
         }
       },
       "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
       "shortlist": [],
       "questions": [
-        "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
+        "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
       ],
       "sources": [
         {
@@ -241704,7 +241765,18 @@
         "label": "Уточнить наличие мест и допуск."
       },
       "programme_type": "holiday_workshop",
-      "catalog_participation": "holiday_workshop"
+      "catalog_participation": "holiday_workshop",
+      "language_evidence_role": "primary",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 45,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      }
     },
     {
       "id": "CP1654",
@@ -289407,6 +289479,1223 @@
       ],
       "programme_type": "day_camp",
       "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1903",
+      "slug": "mnactec-terrassa-nadal-2026",
+      "provider": "MNACTEC · Tallers de Nadal",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "MNACTEC · Rambla d’Ègara 270 · Terrassa",
+      "age": "Две группы одновременно: 5–8 и 9–12 лет.",
+      "programme": "Отдельные дни каникул в техническом музее. Роботы, текстильное производство, энергия ветра, ультразвук и праздничные мастерские.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Анонс на каталонском. Язык ведущего для каждой группы уточнить. 31 декабря часть занятия посвящена английской лексике.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "22, 23, 24, 28, 29, 30 и 31 декабря 2026, 09:00–14:00.",
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "variant_key": "decoration",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Decorem el Nadal",
+            "price": "EUR 17 за ребёнка за день, скидка 5% второму. EUR 33.15 за двоих за день без присмотра.",
+            "source": "https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "Запись открывается 16 ноября 2026."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "topic": "Праздничные украшения из простых и природных материалов.",
+                "start_utc": "2026-12-22T08:00:00Z",
+                "end_utc": "2026-12-22T13:00:00Z"
+              }
+            ],
+            "place": "MNACTEC · Rambla d’Ègara 270 · Terrassa",
+            "age": "Две группы одновременно: 5–8 и 9–12 лет.",
+            "programme": "Праздничные украшения из простых и природных материалов.",
+            "entry": "Запись по телефону 16 ноября–14 декабря 2026, по будням 09:00–14:00. Очерёдность по времени звонка. До 20 детей в группе, минимум 10 участников на мастерскую.",
+            "deadline": "2026-12-14",
+            "questions": [
+              "Нужны анкета, медицинская форма, копии карты CATSalut и прививочной карты, квитанция. Семье из-за рубежа заранее уточнить, примут ли документы-замены."
+            ],
+            "catalog_themes": [
+              "arts",
+              "general"
+            ]
+          },
+          {
+            "variant_key": "robots",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "Robots",
+            "price": "EUR 17 за ребёнка за день, скидка 5% второму. EUR 33.15 за двоих за день без присмотра.",
+            "source": "https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "Запись открывается 16 ноября 2026."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "topic": "Посещение выставки роботов и сборка своей модели из вторсырья.",
+                "start_utc": "2026-12-23T08:00:00Z",
+                "end_utc": "2026-12-23T13:00:00Z"
+              }
+            ],
+            "place": "MNACTEC · Rambla d’Ègara 270 · Terrassa",
+            "age": "Две группы одновременно: 5–8 и 9–12 лет.",
+            "programme": "Посещение выставки роботов и сборка своей модели из вторсырья.",
+            "entry": "Запись по телефону 16 ноября–14 декабря 2026, по будням 09:00–14:00. Очерёдность по времени звонка. До 20 детей в группе, минимум 10 участников на мастерскую.",
+            "deadline": "2026-12-14",
+            "questions": [
+              "Нужны анкета, медицинская форма, копии карты CATSalut и прививочной карты, квитанция. Семье из-за рубежа заранее уточнить, примут ли документы-замены."
+            ],
+            "catalog_themes": [
+              "robotics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "tio",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "Preparem el nostre tió",
+            "price": "EUR 17 за ребёнка за день, скидка 5% второму. EUR 33.15 за двоих за день без присмотра.",
+            "source": "https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "Запись открывается 16 ноября 2026."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "topic": "Каталонская рождественская традиция, песни и поделка.",
+                "start_utc": "2026-12-24T08:00:00Z",
+                "end_utc": "2026-12-24T13:00:00Z"
+              }
+            ],
+            "place": "MNACTEC · Rambla d’Ègara 270 · Terrassa",
+            "age": "Две группы одновременно: 5–8 и 9–12 лет.",
+            "programme": "Каталонская рождественская традиция, песни и поделка.",
+            "entry": "Запись по телефону 16 ноября–14 декабря 2026, по будням 09:00–14:00. Очерёдность по времени звонка. До 20 детей в группе, минимум 10 участников на мастерскую.",
+            "deadline": "2026-12-14",
+            "questions": [
+              "Нужны анкета, медицинская форма, копии карты CATSalut и прививочной карты, квитанция. Семье из-за рубежа заранее уточнить, примут ли документы-замены."
+            ],
+            "catalog_themes": [
+              "arts",
+              "general"
+            ]
+          },
+          {
+            "variant_key": "textiles",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "La fàbrica tèxtil",
+            "price": "EUR 17 за ребёнка за день, скидка 5% второму. EUR 33.15 за двоих за день без присмотра.",
+            "source": "https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "Запись открывается 16 ноября 2026."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "topic": "История текстильной фабрики и изготовление небольшого ткацкого станка.",
+                "start_utc": "2026-12-28T08:00:00Z",
+                "end_utc": "2026-12-28T13:00:00Z"
+              }
+            ],
+            "place": "MNACTEC · Rambla d’Ègara 270 · Terrassa",
+            "age": "Две группы одновременно: 5–8 и 9–12 лет.",
+            "programme": "История текстильной фабрики и изготовление небольшого ткацкого станка.",
+            "entry": "Запись по телефону 16 ноября–14 декабря 2026, по будням 09:00–14:00. Очерёдность по времени звонка. До 20 детей в группе, минимум 10 участников на мастерскую.",
+            "deadline": "2026-12-14",
+            "questions": [
+              "Нужны анкета, медицинская форма, копии карты CATSalut и прививочной карты, квитанция. Семье из-за рубежа заранее уточнить, примут ли документы-замены."
+            ],
+            "catalog_themes": [
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "wind",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "Jocs i experiments amb el vent",
+            "price": "EUR 17 за ребёнка за день, скидка 5% второму. EUR 33.15 за двоих за день без присмотра.",
+            "source": "https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "Запись открывается 16 ноября 2026."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "topic": "Ветер и вода, возобновляемая энергия и сборка устройств по возрасту.",
+                "start_utc": "2026-12-29T08:00:00Z",
+                "end_utc": "2026-12-29T13:00:00Z"
+              }
+            ],
+            "place": "MNACTEC · Rambla d’Ègara 270 · Terrassa",
+            "age": "Две группы одновременно: 5–8 и 9–12 лет.",
+            "programme": "Ветер и вода, возобновляемая энергия и сборка устройств по возрасту.",
+            "entry": "Запись по телефону 16 ноября–14 декабря 2026, по будням 09:00–14:00. Очерёдность по времени звонка. До 20 детей в группе, минимум 10 участников на мастерскую.",
+            "deadline": "2026-12-14",
+            "questions": [
+              "Нужны анкета, медицинская форма, копии карты CATSalut и прививочной карты, квитанция. Семье из-за рубежа заранее уточнить, примут ли документы-замены."
+            ],
+            "catalog_themes": [
+              "science",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "ultrasound",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "Ultrasons",
+            "price": "EUR 17 за ребёнка за день, скидка 5% второму. EUR 33.15 за двоих за день без присмотра.",
+            "source": "https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "Запись открывается 16 ноября 2026."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "topic": "Выставка об ультразвуке и его применениях в быту и медицине.",
+                "start_utc": "2026-12-30T08:00:00Z",
+                "end_utc": "2026-12-30T13:00:00Z"
+              }
+            ],
+            "place": "MNACTEC · Rambla d’Ègara 270 · Terrassa",
+            "age": "Две группы одновременно: 5–8 и 9–12 лет.",
+            "programme": "Выставка об ультразвуке и его применениях в быту и медицине.",
+            "entry": "Запись по телефону 16 ноября–14 декабря 2026, по будням 09:00–14:00. Очерёдность по времени звонка. До 20 детей в группе, минимум 10 участников на мастерскую.",
+            "deadline": "2026-12-14",
+            "questions": [
+              "Нужны анкета, медицинская форма, копии карты CATSalut и прививочной карты, квитанция. Семье из-за рубежа заранее уточнить, примут ли документы-замены."
+            ],
+            "catalog_themes": [
+              "science",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "calendar",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "Calendari 2027",
+            "price": "EUR 17 за ребёнка за день, скидка 5% второму. EUR 33.15 за двоих за день без присмотра.",
+            "source": "https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "Запись открывается 16 ноября 2026."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "topic": "Изготовление календаря, игры и песни с английской лексикой.",
+                "start_utc": "2026-12-31T08:00:00Z",
+                "end_utc": "2026-12-31T13:00:00Z"
+              }
+            ],
+            "place": "MNACTEC · Rambla d’Ègara 270 · Terrassa",
+            "age": "Две группы одновременно: 5–8 и 9–12 лет.",
+            "programme": "Изготовление календаря, игры и песни с английской лексикой.",
+            "entry": "Запись по телефону 16 ноября–14 декабря 2026, по будням 09:00–14:00. Очерёдность по времени звонка. До 20 детей в группе, минимум 10 участников на мастерскую.",
+            "deadline": "2026-12-14",
+            "questions": [
+              "Нужны анкета, медицинская форма, копии карты CATSalut и прививочной карты, квитанция. Семье из-за рубежа заранее уточнить, примут ли документы-замены."
+            ],
+            "catalog_themes": [
+              "arts",
+              "general"
+            ]
+          }
+        ],
+        "sessions": [
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "label": "EUR 17 за ребёнка за день, скидка 5% второму. EUR 33.15 за двоих за день без присмотра.",
+        "included": "Мастерская 09:00–14:00. Принести завтрак и старую футболку или халат.",
+        "extras": "Присмотр 08:00–09:00 или 14:00–15:00 по EUR 3 за ребёнка, оба периода EUR 5. С обоими периодами EUR 43.15 за двоих. Присмотр зависит от набора.",
+        "deposit": "Оплатить переводом в течение 5 рабочих дней после звонка и до занятия. При отмене с обоснованием возвращают 50%. Скидка EUR 17 за все дни на ребёнка. Скидки не суммируются.",
+        "currency": "EUR"
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит для группы 9–12. Уточнить язык и принятие медицинских документов из-за рубежа."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит для группы 5–8. Уточнить язык и принятие медицинских документов из-за рубежа."
+        }
+      },
+      "editorial_reason": "Оба возраста в двух параллельных группах. 23 декабря музейная выставка роботов и сборка собственной модели.",
+      "shortlist": [],
+      "questions": [
+        "Нужны анкета, медицинская форма, копии карты CATSalut и прививочной карты, квитанция. Семье из-за рубежа заранее уточнить, примут ли документы-замены.",
+        "Запись по телефону 16 ноября–14 декабря 2026, по будням 09:00–14:00. Очерёдность по времени звонка. До 20 детей в группе, минимум 10 участников на мастерскую."
+      ],
+      "sources": [
+        {
+          "url": "https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "engineering",
+        "science",
+        "technology",
+        "general"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "availability": {
+        "status": "not_open_yet",
+        "label": "Запись открывается 16 ноября 2026."
+      }
+    },
+    {
+      "id": "CP1904",
+      "slug": "buddies-castellon-christmas-2026",
+      "provider": "Buddies Castellón · Christmas School",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Buddies Language School · Castelló de la Plana",
+      "age": "3–10 лет. Группы дошкольников 3–5 и начальной школы 6–10.",
+      "programme": "Англоязычные каникулы с театром, музыкой, спортом, танцами и поделками.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Английский по данным организатора.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "22 декабря 2026–6 января 2027. Возможны отдельные дни. Уточнить точные дни работы.",
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "variant_key": "winter-window",
+            "start": "2026-12-22",
+            "end": "2027-01-06",
+            "date_scope": "camp_window",
+            "label": "English immersion",
+            "source": "https://www.buddiescastellon.com/christmasschool",
+            "price": "Полная стоимость не опубликована.",
+            "place": "Buddies Language School · Castelló de la Plana",
+            "entry": "Нужна предварительная запись из-за небольших групп. Подтвердить адрес группы, календарь и стоимость.",
+            "attendance_weekdays": [],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Расписание опубликовано. Места и зачисление подтвердить отдельно."
+            }
+          }
+        ],
+        "sessions": [
+          [
+            "2026-12-22",
+            "2027-01-06"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "label": "Полная стоимость не опубликована.",
+        "included": "Англоязычные каникулы с театром, музыкой, спортом, танцами и поделками.",
+        "extras": "Три варианта с 08:30: до 13:30, 15:00 или 17:00. Спросить цену каждого варианта и питание.",
+        "deposit": "Нужна предварительная запись из-за небольших групп. Подтвердить адрес группы, календарь и стоимость.",
+        "currency": "EUR"
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Нужны место и запись."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Нужны место и запись."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Нужна предварительная запись из-за небольших групп. Подтвердить адрес группы, календарь и стоимость."
+      ],
+      "sources": [
+        {
+          "url": "https://www.buddiescastellon.com/christmasschool",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "general",
+        "arts"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1905",
+      "slug": "cite-paris-noel-volcano",
+      "provider": "Cité des sciences · En direct des volcans !",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Cité des sciences et de l’industrie · Paris",
+      "age": "Возраст 9–11 лет. / Возраст 6–8 лет.",
+      "programme": "Вулканы, горные породы, сейсмология и тектоника плит.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Занятия только на французском.",
+      "confirmed_instruction_languages": [
+        "FR"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026. Каждый день бронируется отдельно.",
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "variant_key": "ages-9",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "9–11 · 10:00–17:30",
+            "price": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Расписание опубликовано. Места и зачисление подтвердить отдельно."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "topic": "Вулканы, горные породы, сейсмология и тектоника плит.",
+                "start_utc": "2026-12-28T09:00:00Z",
+                "end_utc": "2026-12-28T16:30:00Z"
+              }
+            ],
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "Возраст 9–11 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит. Нужно понимать французский и подтвердить место."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст пока ниже минимума группы."
+              }
+            },
+            "entry": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+            "questions": [
+              "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+            ]
+          },
+          {
+            "variant_key": "ages-6",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "6–8 · 10:00–17:30",
+            "price": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Расписание опубликовано. Места и зачисление подтвердить отдельно."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "topic": "Вулканы, горные породы, сейсмология и тектоника плит.",
+                "start_utc": "2026-12-29T09:00:00Z",
+                "end_utc": "2026-12-29T16:30:00Z"
+              }
+            ],
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "Возраст 6–8 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Возраст выше верхней границы группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Подходит при полных 6 годах на дату занятия. Нужно понимать французский."
+              }
+            },
+            "entry": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+            "questions": [
+              "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+            ]
+          }
+        ],
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "label": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
+        "included": "На полный день входит пикник. Можно принести свой обед по той же цене. Нужна бутылка для воды.",
+        "extras": "Условия возврата проверить при покупке.",
+        "deposit": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+        "currency": "EUR",
+        "amount": 95,
+        "unit": "per_child_course"
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Нужно понимать французский и подтвердить место."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подходит при полных 6 годах на дату занятия. Нужно понимать французский."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+      ],
+      "sources": [
+        {
+          "url": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "science"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 95,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      }
+    },
+    {
+      "id": "CP1906",
+      "slug": "cite-paris-noel-pharaoh",
+      "provider": "Cité des sciences · À l’époque des pharaons",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Cité des sciences et de l’industrie · Paris",
+      "age": "Возраст 9–11 лет.",
+      "programme": "Древний Египет, пирамиды, мумии и находки археологов.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Занятия только на французском.",
+      "confirmed_instruction_languages": [
+        "FR"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026. Каждый день бронируется отдельно.",
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "variant_key": "ages-9",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "9–11 · 10:00–17:30",
+            "price": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Расписание опубликовано. Места и зачисление подтвердить отдельно."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "topic": "Древний Египет, пирамиды, мумии и находки археологов.",
+                "start_utc": "2026-12-21T09:00:00Z",
+                "end_utc": "2026-12-21T16:30:00Z"
+              }
+            ],
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "Возраст 9–11 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит. Нужно понимать французский и подтвердить место."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст пока ниже минимума группы."
+              }
+            },
+            "entry": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+            "questions": [
+              "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+            ]
+          }
+        ],
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "label": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
+        "included": "На полный день входит пикник. Можно принести свой обед по той же цене. Нужна бутылка для воды.",
+        "extras": "Условия возврата проверить при покупке.",
+        "deposit": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+        "currency": "EUR",
+        "amount": 95,
+        "unit": "per_child_course"
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Нужно понимать французский и подтвердить место."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст пока ниже минимума группы."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+      ],
+      "sources": [
+        {
+          "url": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "science",
+        "general"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 95,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      }
+    },
+    {
+      "id": "CP1907",
+      "slug": "cite-paris-noel-archaeology",
+      "provider": "Cité des sciences · Dans la peau d’un archéologue",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Cité des sciences et de l’industrie · Paris",
+      "age": "Возраст 9–11 лет.",
+      "programme": "Приёмы раскопок, анализ и интерпретация находок.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Занятия только на французском.",
+      "confirmed_instruction_languages": [
+        "FR"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026. Каждый день бронируется отдельно.",
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "variant_key": "ages-9",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "9–11 · 10:00–17:30",
+            "price": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Расписание опубликовано. Места и зачисление подтвердить отдельно."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "topic": "Приёмы раскопок, анализ и интерпретация находок.",
+                "start_utc": "2026-12-22T09:00:00Z",
+                "end_utc": "2026-12-22T16:30:00Z"
+              }
+            ],
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "Возраст 9–11 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Возраст подходит. Нужно понимать французский и подтвердить место."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст пока ниже минимума группы."
+              }
+            },
+            "entry": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+            "questions": [
+              "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+            ]
+          }
+        ],
+        "sessions": [
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "label": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
+        "included": "На полный день входит пикник. Можно принести свой обед по той же цене. Нужна бутылка для воды.",
+        "extras": "Условия возврата проверить при покупке.",
+        "deposit": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+        "currency": "EUR",
+        "amount": 95,
+        "unit": "per_child_course"
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Нужно понимать французский и подтвердить место."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Возраст пока ниже минимума группы."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+      ],
+      "sources": [
+        {
+          "url": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "science"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 95,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      }
+    },
+    {
+      "id": "CP1908",
+      "slug": "cite-paris-noel-fossils",
+      "provider": "Cité des sciences · Fossiles",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Cité des sciences et de l’industrie · Paris",
+      "age": "Возраст 6–8 лет.",
+      "programme": "Окаменелости, образование горных пород и следы древней жизни.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Занятия только на французском.",
+      "confirmed_instruction_languages": [
+        "FR"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026. Каждый день бронируется отдельно.",
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "variant_key": "ages-6",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "6–8 · 10:00–17:30",
+            "price": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Расписание опубликовано. Места и зачисление подтвердить отдельно."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "topic": "Окаменелости, образование горных пород и следы древней жизни.",
+                "start_utc": "2026-12-30T09:00:00Z",
+                "end_utc": "2026-12-30T16:30:00Z"
+              }
+            ],
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "Возраст 6–8 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Возраст выше верхней границы группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Подходит при полных 6 годах на дату занятия. Нужно понимать французский."
+              }
+            },
+            "entry": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+            "questions": [
+              "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+            ]
+          }
+        ],
+        "sessions": [
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "label": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
+        "included": "На полный день входит пикник. Можно принести свой обед по той же цене. Нужна бутылка для воды.",
+        "extras": "Условия возврата проверить при покупке.",
+        "deposit": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+        "currency": "EUR",
+        "amount": 95,
+        "unit": "per_child_course"
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Возраст выше верхней границы группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подходит при полных 6 годах на дату занятия. Нужно понимать французский."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+      ],
+      "sources": [
+        {
+          "url": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "science"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 95,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      }
+    },
+    {
+      "id": "CP1909",
+      "slug": "cite-paris-noel-spy",
+      "provider": "Cité des sciences · Espion des services secrets",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Cité des sciences et de l’industrie · Paris",
+      "age": "Возраст 6–8 лет. / Возраст 12–14 лет.",
+      "programme": "Отпечатки пальцев, расшифровка кодов, датчики и анализ изображений.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Занятия только на французском.",
+      "confirmed_instruction_languages": [
+        "FR"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026. Каждый день бронируется отдельно.",
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "variant_key": "ages-6",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "6–8 · 10:00–17:30",
+            "price": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Расписание опубликовано. Места и зачисление подтвердить отдельно."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "topic": "Отпечатки пальцев, расшифровка кодов, датчики и анализ изображений.",
+                "start_utc": "2026-12-21T09:00:00Z",
+                "end_utc": "2026-12-21T16:30:00Z"
+              }
+            ],
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "Возраст 6–8 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Возраст выше верхней границы группы."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Подходит при полных 6 годах на дату занятия. Нужно понимать французский."
+              }
+            },
+            "entry": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+            "questions": [
+              "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+            ]
+          },
+          {
+            "variant_key": "ages-12",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "12–14 · 10:00–17:30",
+            "price": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Расписание опубликовано. Места и зачисление подтвердить отдельно."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "topic": "Отпечатки пальцев, расшифровка кодов, датчики и анализ изображений.",
+                "start_utc": "2026-12-23T09:00:00Z",
+                "end_utc": "2026-12-23T16:30:00Z"
+              }
+            ],
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "Возраст 12–14 лет.",
+            "family_fit": {
+              "matvey": {
+                "status": "later",
+                "detail": "Возраст пока ниже минимума группы."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Возраст пока ниже минимума группы."
+              }
+            },
+            "entry": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+            "questions": [
+              "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+            ]
+          }
+        ],
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "label": "EUR 95 за ребёнка за день, EUR 85 по абонементу при наличии квоты.",
+        "included": "На полный день входит пикник. Можно принести свой обед по той же цене. Нужна бутылка для воды.",
+        "extras": "Условия возврата проверить при покупке.",
+        "deposit": "Сбор в 09:45 на уровне 0. Принести заполненный электронный билет. Сопровождающий подписывает документы при передаче ребёнка.",
+        "currency": "EUR",
+        "amount": 95,
+        "unit": "per_child_course"
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Возраст выше верхней границы группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подходит при полных 6 годах на дату занятия. Нужно понимать французский."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Проверить места в каждой группе и убедиться, что ребёнок понимает французский."
+      ],
+      "sources": [
+        {
+          "url": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 95,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      }
+    },
+    {
+      "id": "CP1910",
+      "slug": "academy-ai-robot-paris-holidays",
+      "provider": "Academy AI Robot · Robotics and 3D Printing",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Academy AI Robot · 5 Rue Blondel · Paris",
+      "age": "Возраст 6–18 лет.",
+      "programme": "Проектная робототехника и отдельный курс моделирования и 3D-печати. Доступны раздельные заявки.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор перечисляет французский, китайский и английский. Для будущей смены подтвердить англоязычную группу и уровень.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Последние опубликованные смены 19–23 и 26–30 октября 2026 уже прошли. Новые даты не опубликованы.",
+        "variant_keyed": true,
+        "session_details": [],
+        "sessions": []
+      },
+      "price": {
+        "year": 2026,
+        "label": "Последние цены: EUR 280 робототехника, EUR 260 моделирование и печать, EUR 520 оба курса.",
+        "included": "Формат последней программы: 5 полудней, 10:00–12:30 или 15:00–17:30, по 2 часа 30 минут.",
+        "extras": "Набор робота необязательный и оплачивается отдельно. Напечатанная 3D-модель включена.",
+        "deposit": "Уточнить новые даты, язык группы, точную стоимость набора и наличие мест.",
+        "currency": "EUR"
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Уточнить новые даты, язык группы, точную стоимость набора и наличие мест."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Уточнить новые даты, язык группы, точную стоимость набора и наличие мест."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить новые даты, язык группы, точную стоимость набора и наличие мест."
+      ],
+      "sources": [
+        {
+          "url": "https://www.academyairobot.com/en/stages/",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "design"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "availability": {
+        "status": "closed",
+        "label": "Последние опубликованные смены 19–23 и 26–30 октября 2026 уже прошли. Новые даты не опубликованы."
+      }
     }
   ],
   "gaps": [
@@ -294732,7 +296021,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 254,
+  "version": 255,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -307967,7 +309256,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1902,
+      "total_dossiers": 1910,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

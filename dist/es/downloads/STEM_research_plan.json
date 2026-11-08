@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 254,
+    "version": 255,
     "status": "implementation_snapshot",
-    "events": 9833,
-    "competitions": 4458,
-    "league_profiles": 288,
-    "camp_dossiers": 1902,
+    "events": 9856,
+    "competitions": 4459,
+    "league_profiles": 291,
+    "camp_dossiers": 1910,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 486
+    "exhibitions_events": 491
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -927,12 +927,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 253,
+    "version": 254,
     "status": "implementation_snapshot",
-    "events": 9784,
-    "competitions": 4426,
+    "events": 9833,
+    "competitions": 4458,
     "league_profiles": 288,
-    "camp_dossiers": 1899,
+    "camp_dossiers": 1902,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -942,7 +942,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 482
+    "exhibitions_events": 486
   },
   "research_passes": [
     {
@@ -13759,10 +13759,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 254,
+    "prepared_ui_version": 255,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 253,
-    "previous_verified_commit": "7c09718d7de79e23cfad36d662b950218bbc8d70"
+    "previous_verified_ui_version": 254,
+    "previous_verified_commit": "8201ee3029fe187a20072bb2c32f2c248e3661f6"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20809,11 +20809,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 253,
-    "published_version": 253,
-    "latest_source_commit": "7c09718d7de79e23cfad36d662b950218bbc8d70",
-    "published_commit": "7c09718d7de79e23cfad36d662b950218bbc8d70",
-    "latest_workflow": 42441471892,
+    "latest_source_version": 254,
+    "published_version": 254,
+    "latest_source_commit": "8201ee3029fe187a20072bb2c32f2c248e3661f6",
+    "published_commit": "8201ee3029fe187a20072bb2c32f2c248e3661f6",
+    "latest_workflow": 42443315060,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -25588,5 +25588,99 @@
     "legacy_overlay_league_ids": [
       "robotics-for-good-global"
     ]
+  },
+  "europe_winter_museums_and_eurobot_v255": {
+    "version": 255,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E487",
+      "E488",
+      "E489",
+      "C4460",
+      "L741",
+      "L742",
+      "E490",
+      "E491"
+    ],
+    "new_generated_camp_rows": 15,
+    "new_camp_dossiers": {
+      "mnactec-terrassa-nadal-2026": "CP1903",
+      "buddies-castellon-christmas-2026": "CP1904",
+      "cite-paris-noel-volcano": "CP1905",
+      "cite-paris-noel-pharaoh": "CP1906",
+      "cite-paris-noel-archaeology": "CP1907",
+      "cite-paris-noel-fossils": "CP1908",
+      "cite-paris-noel-spy": "CP1909",
+      "academy-ai-robot-paris-holidays": "CP1910"
+    },
+    "refreshed_camp_dossiers": [
+      "CP1650",
+      "CP1651",
+      "CP1652",
+      "CP1653"
+    ],
+    "terrassa_exact_workshop_days": [
+      "2026-12-22",
+      "2026-12-23",
+      "2026-12-24",
+      "2026-12-28",
+      "2026-12-29",
+      "2026-12-30",
+      "2026-12-31"
+    ],
+    "terrassa_registration_open": "2026-11-16",
+    "terrassa_registration_close": "2026-12-14",
+    "terrassa_sibling_day_eur": 33.15,
+    "terrassa_sibling_day_with_both_childcare_eur": 43.15,
+    "paris_exact_workshop_days": 14,
+    "paris_parallel_days": [
+      "2026-12-21",
+      "2026-12-22",
+      "2026-12-28",
+      "2026-12-29",
+      "2026-12-30"
+    ],
+    "paris_pair_eur": 190,
+    "paris_pair_subscription_eur": 170,
+    "paris_instruction_languages": [
+      "FR"
+    ],
+    "buddies_instruction_languages": [
+      "EN"
+    ],
+    "buddies_attendance_days_confirmed": false,
+    "reviewed_existing_events": [
+      "E394"
+    ],
+    "source_requests": 17,
+    "notes": [
+      "Se requieren ficha de inscripción, ficha médica, copias de la tarjeta CATSalut y de vacunación, y justificante de pago. Una familia del extranjero debe confirmar si se aceptan documentos equivalentes.",
+      "Anuncio en catalán. Confirmar el idioma del monitor de cada grupo. El 31 de diciembre parte del taller se dedica al vocabulario inglés.",
+      "Talleres únicamente en francés.",
+      "Es necesaria la inscripción previa por el tamaño reducido de los grupos. Confirmar dirección del grupo, calendario y precio.",
+      "Las últimas sesiones publicadas, 19–23 y 26–30 de octubre de 2026, ya pasaron. No se han publicado nuevas fechas.",
+      "Confirmar inscripción local, admisión de equipos extranjeros, pago, idioma del jurado y asignación de plazas para la fase internacional.",
+      "90 minutos. El formulario está en la sección para escuelas. Confirmar precio, nivel escolar y admisión de grupos externos.",
+      "La ficha E394 ya incluye el horario de 14:00–18:00 en fin de semana, 4 fines de semana cerrados y la entrada familiar de CHF 20."
+    ],
+    "source_review": [
+      {
+        "url": "https://ideatorio.usi.ch/orari-e-tariffe",
+        "method": "public-page-browser-index",
+        "status": "verified",
+        "checked": "2026-11-07"
+      },
+      {
+        "url": "https://ideatorio.usi.ch/event/robot-pubblico",
+        "method": "public-page-browser-index",
+        "status": "verified",
+        "checked": "2026-11-07"
+      }
+    ],
+    "audit": "data/europe-winter-museums-and-eurobot-audit-v255.json",
+    "source_receipts": "data/europe-winter-museums-and-eurobot-source-receipts-v255.json"
   }
 }

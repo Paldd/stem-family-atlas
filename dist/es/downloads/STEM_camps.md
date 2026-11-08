@@ -10630,6 +10630,38 @@ Limitaciones: Acceso por secundaria superior asociada. Confirmar cursos y próxi
 Fuente: https://habele.org/robotics/
 Se ha comprobado: 2026-11-07
 
+### L741 · Cité des sciences · Le langage des robots
+
+lugar: Francia · Paris
+Fecha: 2026-11-03 — 2026-12-18
+edad: Algoritmos y robots educativos para MS, GS y CP. En CE1, CE2, CM1 y CM2 se programan los movimientos de Photon.
+Matvey: Disponible si se inscribe la clase y coincide el nivel escolar.
+Oscar: Disponible si se inscribe la clase y coincide el nivel escolar.
+Formato: holiday_workshop
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Se necesita entrada a Expositions o Cité des enfants. Confirmar la tarifa de la clase al reservar.
+Acceso: Martes, jueves y viernes a las 14:00, 1 hora. La escuela reserva con al menos 3 semanas de antelación. Grupo de 10 a 28 alumnos.
+Limitaciones: Martes, jueves y viernes a las 14:00, 1 hora. La escuela reserva con al menos 3 semanas de antelación. Grupo de 10 a 28 alumnos.
+Fuente: https://www.cite-sciences.fr/fr/vous-etes/enseignants/catalogue-scolaire/animations-scientifiques/animations-scientifiques-cycle-1/le-langage-des-robots
+Se ha comprobado: 2026-11-07
+
+### L742 · Swiss Science Center Technorama · Mission Possible
+
+Lugar: Suiza · Winterthur
+Fecha: 90 minutos. El formulario está en la sección para escuelas. Confirmar precio, nivel escolar y admisión de grupos externos.
+edad: La edad o el nivel escolar del grupo concreto requieren confirmación.
+Matvey: La edad o el nivel escolar del grupo concreto requieren confirmación.
+Oscar: La edad o el nivel escolar del grupo concreto requieren confirmación.
+Formato: holiday_workshop
+Idioma: Se indican alemán, francés, italiano e inglés. Confirmar el idioma al solicitar la actividad para la clase.
+Marca de idioma: primary; soporte: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: 90 minutos. El formulario está en la sección para escuelas. Confirmar precio, nivel escolar y admisión de grupos externos.
+Limitaciones: 90 minutos. El formulario está en la sección para escuelas. Confirmar precio, nivel escolar y admisión de grupos externos.
+Fuente: https://explorer.technorama.ch/en/workshop/mission-possible-roboter-bauen
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -67102,11 +67134,11 @@ Edad: 6–8
 Matway: No según la pista seleccionada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: holiday_workshop
-Idioma: La organización indica expresamente que los talleres se imparten solo en francés.
+Idioma: Talleres únicamente en francés.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2026/27 · EUR 95 por día, EUR 85 con abono según cupo. · suplementos y condiciones en el dossier
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Precio: 2026/27 · EUR 95 por menor y día, EUR 85 con abono sujeto a cupo. · suplementos y condiciones en el dossier
+Acceso: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Admite a partir de 6 años cumplidos el día del taller. Hay que entender francés. Suplementos: Consultar las condiciones de devolución al comprar. Pago: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
 Fuente: https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science
 Se ha comprobado: 2026-11-07
 
@@ -67115,14 +67147,14 @@ Se ha comprobado: 2026-11-07
 lugar: Francia · Cité des sciences et de l’industrie · Paris
 Fecha: 2026-12-29 — 2026-12-29
 Edad: 9–11
-Matway: Sí, por edad; inscripción separada
+Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: holiday_workshop
-Idioma: La organización indica expresamente que los talleres se imparten solo en francés.
+Idioma: Talleres únicamente en francés.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2026/27 · EUR 95 por día, EUR 85 con abono según cupo. · suplementos y condiciones en el dossier
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Precio: 2026/27 · EUR 95 por menor y día, EUR 85 con abono sujeto a cupo. · suplementos y condiciones en el dossier
+Acceso: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Limitaciones: Matvey: La edad encaja. Hay que entender francés y confirmar plaza. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Consultar las condiciones de devolución al comprar. Pago: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
 Fuente: https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science
 Se ha comprobado: 2026-11-07
 
@@ -67134,11 +67166,11 @@ Edad: 6–8
 Matway: No según la pista seleccionada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: holiday_workshop
-Idioma: La organización indica expresamente que los talleres se imparten solo en francés.
+Idioma: Talleres únicamente en francés.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2026/27 · EUR 95 por día, EUR 85 con abono según cupo. · suplementos y condiciones en el dossier
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: No por edad para el grupo menor. Oscar: Condicional si ya ha cumplido 6 años al comenzar. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Precio: 2026/27 · EUR 95 por menor y día, EUR 85 con abono sujeto a cupo. · suplementos y condiciones en el dossier
+Acceso: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Admite a partir de 6 años cumplidos el día del taller. Hay que entender francés. Suplementos: Consultar las condiciones de devolución al comprar. Pago: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
 Fuente: https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science
 Se ha comprobado: 2026-11-07
 
@@ -67147,14 +67179,14 @@ Se ha comprobado: 2026-11-07
 lugar: Francia · Cité des sciences et de l’industrie · Paris
 Fecha: 2026-12-23 — 2026-12-23
 Edad: 9–11
-Matway: Sí, por edad; inscripción separada
+Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: holiday_workshop
-Idioma: La organización indica expresamente que los talleres se imparten solo en francés.
+Idioma: Talleres únicamente en francés.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2026/27 · EUR 95 por día, EUR 85 con abono según cupo. · suplementos y condiciones en el dossier
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Precio: 2026/27 · EUR 95 por menor y día, EUR 85 con abono sujeto a cupo. · suplementos y condiciones en el dossier
+Acceso: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Limitaciones: Matvey: La edad encaja. Hay que entender francés y confirmar plaza. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Consultar las condiciones de devolución al comprar. Pago: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
 Fuente: https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science
 Se ha comprobado: 2026-11-07
 
@@ -67163,14 +67195,14 @@ Se ha comprobado: 2026-11-07
 lugar: Francia · Cité des sciences et de l’industrie · Paris
 Fecha: 2026-12-30 — 2026-12-30
 Edad: 9–11
-Matway: Sí, por edad; inscripción separada
+Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: holiday_workshop
-Idioma: La organización indica expresamente que los talleres se imparten solo en francés.
+Idioma: Talleres únicamente en francés.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2026/27 · EUR 95 por día, EUR 85 con abono según cupo. · suplementos y condiciones en el dossier
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Precio: 2026/27 · EUR 95 por menor y día, EUR 85 con abono sujeto a cupo. · suplementos y condiciones en el dossier
+Acceso: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Limitaciones: Matvey: La edad encaja. Hay que entender francés y confirmar plaza. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Consultar las condiciones de devolución al comprar. Pago: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
 Fuente: https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science
 Se ha comprobado: 2026-11-07
 
@@ -67179,14 +67211,14 @@ Se ha comprobado: 2026-11-07
 lugar: Francia · Cité des sciences et de l’industrie · Paris
 Fecha: 2026-12-22 — 2026-12-22
 Edad: 9–11
-Matway: Sí, por edad; inscripción separada
+Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: holiday_workshop
-Idioma: La organización indica expresamente que los talleres se imparten solo en francés.
+Idioma: Talleres únicamente en francés.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2026/27 · EUR 45 por media jornada, EUR 35 con abono según cupo. · suplementos y condiciones en el dossier
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Precio: 2026/27 · EUR 45 por menor y media jornada, EUR 35 con abono sujeto a cupo. · suplementos y condiciones en el dossier
+Acceso: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Limitaciones: Matvey: La edad encaja. Hay que entender francés y confirmar plaza. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Consultar las condiciones de devolución al comprar. Pago: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
 Fuente: https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science
 Se ha comprobado: 2026-11-07
 
@@ -67195,14 +67227,14 @@ Se ha comprobado: 2026-11-07
 lugar: Francia · Cité des sciences et de l’industrie · Paris
 Fecha: 2026-12-29 — 2026-12-29
 Edad: 9–11
-Matway: Sí, por edad; inscripción separada
+Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: holiday_workshop
-Idioma: La organización indica expresamente que los talleres se imparten solo en francés.
+Idioma: Talleres únicamente en francés.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2026/27 · EUR 45 por media jornada, EUR 35 con abono según cupo. · suplementos y condiciones en el dossier
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Edad mínima superior a la actual. Confirmar edad el primer día del turno. Suplementos: Precio sin publicar. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+Precio: 2026/27 · EUR 45 por menor y media jornada, EUR 35 con abono sujeto a cupo. · suplementos y condiciones en el dossier
+Acceso: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Limitaciones: Matvey: La edad encaja. Hay que entender francés y confirmar plaza. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Consultar las condiciones de devolución al comprar. Pago: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
 Fuente: https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science
 Se ha comprobado: 2026-11-07
 
@@ -77012,6 +77044,246 @@ Precio: 2026/27 · USD 60 con membresía o USD 70 sin membresía por menor. · s
 Acceso: Inscripción y plazas actuales en el portal oficial del operador.
 Limitaciones: Matvey: Condicional si el curso escolar actual coincide con los requisitos. Oscar: Condicional si el curso escolar actual coincide con los requisitos. Suplementos: Confirmar comidas y cargos de tramitación en el formulario. Pago: Consultar las condiciones de cancelación en el formulario de inscripción.
 Fuente: https://27223.blackbaudhosting.com/27223/Tech-Toys-29Dec2026
+Se ha comprobado: 2026-11-07
+
+### CP1903-20261222-20261222-decoration · MNACTEC · Tallers de Nadal · Decorem el Nadal · 2026-12-22–2026-12-22
+
+lugar: España · MNACTEC · Rambla d’Ègara 270 · Terrassa
+Fecha: 2026-12-22 — 2026-12-22
+edad: Dos grupos simultáneos: 5–8 y 9–12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Anuncio en catalán. Confirmar el idioma del monitor de cada grupo. El 31 de diciembre parte del taller se dedica al vocabulario inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 17 por menor y día, 5% de descuento para el segundo. EUR 33.15 por dos menores al día sin acogida. · suplementos y condiciones en el dossier
+Acceso: Inscripción por teléfono del 16 de noviembre al 14 de diciembre de 2026, laborables de 09:00–14:00. Orden de llamada. Hasta 20 menores por grupo, mínimo 10 participantes por taller.
+Limitaciones: Matvey: La edad encaja en el grupo 9–12. Confirmar idioma y aceptación de documentos médicos extranjeros. Oscar: La edad encaja en el grupo 5–8. Confirmar idioma y aceptación de documentos médicos extranjeros. Suplementos: Acogida de 08:00–09:00 o de 14:00–15:00 a EUR 3 por menor, ambos tramos EUR 5. Con ambos tramos, EUR 43.15 por dos menores. La acogida depende del mínimo de inscritos. Pago: Pagar por transferencia en los 5 días hábiles posteriores a la llamada y antes del taller. Con cancelación justificada se devuelve el 50%. Descuento de EUR 17 por todos los días para un menor. Los descuentos no son acumulables.
+Fuente: https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026
+Se ha comprobado: 2026-11-07
+
+### CP1903-20261223-20261223-robots · MNACTEC · Tallers de Nadal · Robots · 2026-12-23–2026-12-23
+
+lugar: España · MNACTEC · Rambla d’Ègara 270 · Terrassa
+Fecha: 2026-12-23 — 2026-12-23
+edad: Dos grupos simultáneos: 5–8 y 9–12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Anuncio en catalán. Confirmar el idioma del monitor de cada grupo. El 31 de diciembre parte del taller se dedica al vocabulario inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 17 por menor y día, 5% de descuento para el segundo. EUR 33.15 por dos menores al día sin acogida. · suplementos y condiciones en el dossier
+Acceso: Inscripción por teléfono del 16 de noviembre al 14 de diciembre de 2026, laborables de 09:00–14:00. Orden de llamada. Hasta 20 menores por grupo, mínimo 10 participantes por taller.
+Limitaciones: Matvey: La edad encaja en el grupo 9–12. Confirmar idioma y aceptación de documentos médicos extranjeros. Oscar: La edad encaja en el grupo 5–8. Confirmar idioma y aceptación de documentos médicos extranjeros. Suplementos: Acogida de 08:00–09:00 o de 14:00–15:00 a EUR 3 por menor, ambos tramos EUR 5. Con ambos tramos, EUR 43.15 por dos menores. La acogida depende del mínimo de inscritos. Pago: Pagar por transferencia en los 5 días hábiles posteriores a la llamada y antes del taller. Con cancelación justificada se devuelve el 50%. Descuento de EUR 17 por todos los días para un menor. Los descuentos no son acumulables.
+Fuente: https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026
+Se ha comprobado: 2026-11-07
+
+### CP1903-20261224-20261224-tio · MNACTEC · Tallers de Nadal · Preparem el nostre tió · 2026-12-24–2026-12-24
+
+lugar: España · MNACTEC · Rambla d’Ègara 270 · Terrassa
+Fecha: 2026-12-24 — 2026-12-24
+edad: Dos grupos simultáneos: 5–8 y 9–12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Anuncio en catalán. Confirmar el idioma del monitor de cada grupo. El 31 de diciembre parte del taller se dedica al vocabulario inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 17 por menor y día, 5% de descuento para el segundo. EUR 33.15 por dos menores al día sin acogida. · suplementos y condiciones en el dossier
+Acceso: Inscripción por teléfono del 16 de noviembre al 14 de diciembre de 2026, laborables de 09:00–14:00. Orden de llamada. Hasta 20 menores por grupo, mínimo 10 participantes por taller.
+Limitaciones: Matvey: La edad encaja en el grupo 9–12. Confirmar idioma y aceptación de documentos médicos extranjeros. Oscar: La edad encaja en el grupo 5–8. Confirmar idioma y aceptación de documentos médicos extranjeros. Suplementos: Acogida de 08:00–09:00 o de 14:00–15:00 a EUR 3 por menor, ambos tramos EUR 5. Con ambos tramos, EUR 43.15 por dos menores. La acogida depende del mínimo de inscritos. Pago: Pagar por transferencia en los 5 días hábiles posteriores a la llamada y antes del taller. Con cancelación justificada se devuelve el 50%. Descuento de EUR 17 por todos los días para un menor. Los descuentos no son acumulables.
+Fuente: https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026
+Se ha comprobado: 2026-11-07
+
+### CP1903-20261228-20261228-textiles · MNACTEC · Tallers de Nadal · La fàbrica tèxtil · 2026-12-28–2026-12-28
+
+lugar: España · MNACTEC · Rambla d’Ègara 270 · Terrassa
+Fecha: 2026-12-28 — 2026-12-28
+edad: Dos grupos simultáneos: 5–8 y 9–12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Anuncio en catalán. Confirmar el idioma del monitor de cada grupo. El 31 de diciembre parte del taller se dedica al vocabulario inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 17 por menor y día, 5% de descuento para el segundo. EUR 33.15 por dos menores al día sin acogida. · suplementos y condiciones en el dossier
+Acceso: Inscripción por teléfono del 16 de noviembre al 14 de diciembre de 2026, laborables de 09:00–14:00. Orden de llamada. Hasta 20 menores por grupo, mínimo 10 participantes por taller.
+Limitaciones: Matvey: La edad encaja en el grupo 9–12. Confirmar idioma y aceptación de documentos médicos extranjeros. Oscar: La edad encaja en el grupo 5–8. Confirmar idioma y aceptación de documentos médicos extranjeros. Suplementos: Acogida de 08:00–09:00 o de 14:00–15:00 a EUR 3 por menor, ambos tramos EUR 5. Con ambos tramos, EUR 43.15 por dos menores. La acogida depende del mínimo de inscritos. Pago: Pagar por transferencia en los 5 días hábiles posteriores a la llamada y antes del taller. Con cancelación justificada se devuelve el 50%. Descuento de EUR 17 por todos los días para un menor. Los descuentos no son acumulables.
+Fuente: https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026
+Se ha comprobado: 2026-11-07
+
+### CP1903-20261229-20261229-wind · MNACTEC · Tallers de Nadal · Jocs i experiments amb el vent · 2026-12-29–2026-12-29
+
+lugar: España · MNACTEC · Rambla d’Ègara 270 · Terrassa
+Fecha: 2026-12-29 — 2026-12-29
+edad: Dos grupos simultáneos: 5–8 y 9–12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Anuncio en catalán. Confirmar el idioma del monitor de cada grupo. El 31 de diciembre parte del taller se dedica al vocabulario inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 17 por menor y día, 5% de descuento para el segundo. EUR 33.15 por dos menores al día sin acogida. · suplementos y condiciones en el dossier
+Acceso: Inscripción por teléfono del 16 de noviembre al 14 de diciembre de 2026, laborables de 09:00–14:00. Orden de llamada. Hasta 20 menores por grupo, mínimo 10 participantes por taller.
+Limitaciones: Matvey: La edad encaja en el grupo 9–12. Confirmar idioma y aceptación de documentos médicos extranjeros. Oscar: La edad encaja en el grupo 5–8. Confirmar idioma y aceptación de documentos médicos extranjeros. Suplementos: Acogida de 08:00–09:00 o de 14:00–15:00 a EUR 3 por menor, ambos tramos EUR 5. Con ambos tramos, EUR 43.15 por dos menores. La acogida depende del mínimo de inscritos. Pago: Pagar por transferencia en los 5 días hábiles posteriores a la llamada y antes del taller. Con cancelación justificada se devuelve el 50%. Descuento de EUR 17 por todos los días para un menor. Los descuentos no son acumulables.
+Fuente: https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026
+Se ha comprobado: 2026-11-07
+
+### CP1903-20261230-20261230-ultrasound · MNACTEC · Tallers de Nadal · Ultrasons · 2026-12-30–2026-12-30
+
+lugar: España · MNACTEC · Rambla d’Ègara 270 · Terrassa
+Fecha: 2026-12-30 — 2026-12-30
+edad: Dos grupos simultáneos: 5–8 y 9–12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Anuncio en catalán. Confirmar el idioma del monitor de cada grupo. El 31 de diciembre parte del taller se dedica al vocabulario inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 17 por menor y día, 5% de descuento para el segundo. EUR 33.15 por dos menores al día sin acogida. · suplementos y condiciones en el dossier
+Acceso: Inscripción por teléfono del 16 de noviembre al 14 de diciembre de 2026, laborables de 09:00–14:00. Orden de llamada. Hasta 20 menores por grupo, mínimo 10 participantes por taller.
+Limitaciones: Matvey: La edad encaja en el grupo 9–12. Confirmar idioma y aceptación de documentos médicos extranjeros. Oscar: La edad encaja en el grupo 5–8. Confirmar idioma y aceptación de documentos médicos extranjeros. Suplementos: Acogida de 08:00–09:00 o de 14:00–15:00 a EUR 3 por menor, ambos tramos EUR 5. Con ambos tramos, EUR 43.15 por dos menores. La acogida depende del mínimo de inscritos. Pago: Pagar por transferencia en los 5 días hábiles posteriores a la llamada y antes del taller. Con cancelación justificada se devuelve el 50%. Descuento de EUR 17 por todos los días para un menor. Los descuentos no son acumulables.
+Fuente: https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026
+Se ha comprobado: 2026-11-07
+
+### CP1903-20261231-20261231-calendar · MNACTEC · Tallers de Nadal · Calendari 2027 · 2026-12-31–2026-12-31
+
+lugar: España · MNACTEC · Rambla d’Ègara 270 · Terrassa
+Fecha: 2026-12-31 — 2026-12-31
+edad: Dos grupos simultáneos: 5–8 y 9–12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Anuncio en catalán. Confirmar el idioma del monitor de cada grupo. El 31 de diciembre parte del taller se dedica al vocabulario inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 17 por menor y día, 5% de descuento para el segundo. EUR 33.15 por dos menores al día sin acogida. · suplementos y condiciones en el dossier
+Acceso: Inscripción por teléfono del 16 de noviembre al 14 de diciembre de 2026, laborables de 09:00–14:00. Orden de llamada. Hasta 20 menores por grupo, mínimo 10 participantes por taller.
+Limitaciones: Matvey: La edad encaja en el grupo 9–12. Confirmar idioma y aceptación de documentos médicos extranjeros. Oscar: La edad encaja en el grupo 5–8. Confirmar idioma y aceptación de documentos médicos extranjeros. Suplementos: Acogida de 08:00–09:00 o de 14:00–15:00 a EUR 3 por menor, ambos tramos EUR 5. Con ambos tramos, EUR 43.15 por dos menores. La acogida depende del mínimo de inscritos. Pago: Pagar por transferencia en los 5 días hábiles posteriores a la llamada y antes del taller. Con cancelación justificada se devuelve el 50%. Descuento de EUR 17 por todos los días para un menor. Los descuentos no son acumulables.
+Fuente: https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026
+Se ha comprobado: 2026-11-07
+
+### CP1904-20261222-20270106-winter-window · Buddies Castellón · Christmas School · English immersion · 2026-12-22–2027-01-06
+
+lugar: España · Buddies Idioma School · Castelló de la Plana
+Fecha: 2026-12-22 — 2027-01-06
+edad: De 3 a 10 años. Grupos de infantil de 3–5 y primaria de 6–10.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés según la organización.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · No se publica el coste total. · suplementos y condiciones en el dossier
+Acceso: Es necesaria la inscripción previa por el tamaño reducido de los grupos. Confirmar dirección del grupo, calendario y precio.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Tres opciones desde las 08:30: hasta las 13:30, 15:00 o 17:00. Consultar el precio de cada opción y las comidas. Pago: Es necesaria la inscripción previa por el tamaño reducido de los grupos. Confirmar dirección del grupo, calendario y precio.
+Fuente: https://www.buddiescastellon.com/christmasschool
+Se ha comprobado: 2026-11-07
+
+### CP1905-20261228-20261228-ages-9 · Cité des sciences · En direct des volcans ! · 9–11 · 10:00–17:30 · 2026-12-28–2026-12-28
+
+lugar: Francia · Cité des sciences et de l’industrie · Paris
+Fecha: 2026-12-28 — 2026-12-28
+edad: Edades de 9 a 11 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Talleres únicamente en francés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 95 por menor y día, EUR 85 con abono sujeto a cupo. · suplementos y condiciones en el dossier
+Acceso: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Limitaciones: Matvey: La edad encaja. Hay que entender francés y confirmar plaza. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Consultar las condiciones de devolución al comprar. Pago: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Fuente: https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science
+Se ha comprobado: 2026-11-07
+
+### CP1905-20261229-20261229-ages-6 · Cité des sciences · En direct des volcans ! · 6–8 · 10:00–17:30 · 2026-12-29–2026-12-29
+
+lugar: Francia · Cité des sciences et de l’industrie · Paris
+Fecha: 2026-12-29 — 2026-12-29
+edad: Edades de 6 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Talleres únicamente en francés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 95 por menor y día, EUR 85 con abono sujeto a cupo. · suplementos y condiciones en el dossier
+Acceso: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Admite a partir de 6 años cumplidos el día del taller. Hay que entender francés. Suplementos: Consultar las condiciones de devolución al comprar. Pago: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Fuente: https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science
+Se ha comprobado: 2026-11-07
+
+### CP1906-20261221-20261221-ages-9 · Cité des sciences · À l’époque des pharaons · 9–11 · 10:00–17:30 · 2026-12-21–2026-12-21
+
+lugar: Francia · Cité des sciences et de l’industrie · Paris
+Fecha: 2026-12-21 — 2026-12-21
+edad: Edades de 9 a 11 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Talleres únicamente en francés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 95 por menor y día, EUR 85 con abono sujeto a cupo. · suplementos y condiciones en el dossier
+Acceso: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Limitaciones: Matvey: La edad encaja. Hay que entender francés y confirmar plaza. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Consultar las condiciones de devolución al comprar. Pago: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Fuente: https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science
+Se ha comprobado: 2026-11-07
+
+### CP1907-20261222-20261222-ages-9 · Cité des sciences · Dans la peau d’un archéologue · 9–11 · 10:00–17:30 · 2026-12-22–2026-12-22
+
+lugar: Francia · Cité des sciences et de l’industrie · Paris
+Fecha: 2026-12-22 — 2026-12-22
+edad: Edades de 9 a 11 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Talleres únicamente en francés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 95 por menor y día, EUR 85 con abono sujeto a cupo. · suplementos y condiciones en el dossier
+Acceso: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Limitaciones: Matvey: La edad encaja. Hay que entender francés y confirmar plaza. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Consultar las condiciones de devolución al comprar. Pago: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Fuente: https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science
+Se ha comprobado: 2026-11-07
+
+### CP1908-20261230-20261230-ages-6 · Cité des sciences · Fossiles · 6–8 · 10:00–17:30 · 2026-12-30–2026-12-30
+
+lugar: Francia · Cité des sciences et de l’industrie · Paris
+Fecha: 2026-12-30 — 2026-12-30
+edad: Edades de 6 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Talleres únicamente en francés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 95 por menor y día, EUR 85 con abono sujeto a cupo. · suplementos y condiciones en el dossier
+Acceso: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Admite a partir de 6 años cumplidos el día del taller. Hay que entender francés. Suplementos: Consultar las condiciones de devolución al comprar. Pago: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Fuente: https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science
+Se ha comprobado: 2026-11-07
+
+### CP1909-20261221-20261221-ages-6 · Cité des sciences · Espion des services secrets · 6–8 · 10:00–17:30 · 2026-12-21–2026-12-21
+
+lugar: Francia · Cité des sciences et de l’industrie · Paris
+Fecha: 2026-12-21 — 2026-12-21
+edad: Edades de 6 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Talleres únicamente en francés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 95 por menor y día, EUR 85 con abono sujeto a cupo. · suplementos y condiciones en el dossier
+Acceso: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Admite a partir de 6 años cumplidos el día del taller. Hay que entender francés. Suplementos: Consultar las condiciones de devolución al comprar. Pago: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Fuente: https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science
+Se ha comprobado: 2026-11-07
+
+### CP1909-20261223-20261223-ages-12 · Cité des sciences · Espion des services secrets · 12–14 · 10:00–17:30 · 2026-12-23–2026-12-23
+
+lugar: Francia · Cité des sciences et de l’industrie · Paris
+Fecha: 2026-12-23 — 2026-12-23
+edad: Edades de 12 a 14 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Talleres únicamente en francés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 95 por menor y día, EUR 85 con abono sujeto a cupo. · suplementos y condiciones en el dossier
+Acceso: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Limitaciones: Matvey: La edad aún es inferior al mínimo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Consultar las condiciones de devolución al comprar. Pago: Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.
+Fuente: https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

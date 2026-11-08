@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 9833; соревнований: 4458; событий: 486; лагерей / программ: 4889. Профилей лиг и программ: 291. Карточек крупных и профильных выставок: 389 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 9856; соревнований: 4459; событий: 491; лагерей / программ: 4906. Профилей лиг и программ: 291. Карточек крупных и профильных выставок: 394 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 211 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -16,14 +16,14 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 |---|---:|---:|---:|---:|
 | Северная Америка | 37 | 1861 | 85 | 1234 |
 | Южная Америка | 13 | 414 | 32 | 198 |
-| Европа | 51 | 572 | 97 | 1408 |
+| Европа | 51 | 573 | 102 | 1425 |
 | Африка | 48 | 226 | 28 | 80 |
 | Азия | 48 | 1111 | 118 | 1629 |
 | Океания | 16 | 151 | 27 | 327 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 143. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 814 из 4458 карточек соревнований (18.3%). Это явный перекос охвата.
+VEX: 814 из 4459 карточек соревнований (18.3%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -748,6 +748,11 @@ VEX: 814 из 4458 карточек соревнований (18.3%). Это я�
 - **Фестиваль науки · технологии · Минск 2026** — Беларусь; 2026-09-05 – 2026-09-06. Со взрослым; условия взрослого входа отдельно. https://scifest.by/
 - **Фестиваль науки · Минск · следующий выпуск** — Беларусь; дата неизвестна. Детский допуск уточнить. https://scifest.by/
 - **World Space Week Liberia · Innovation Showcase 2026** — Либерия; 2026-10-09. Детский допуск уточнить. https://wsw-liberia-2026.vercel.app/
+- **MNACTEC · Robots. Dels autòmats de Leonardo als humanoides del futur** — Испания; 2026-09-20 – 2027-09-19. Со взрослым; условия взрослого входа отдельно. https://mnactec.cat/ca/exposicio-detall/robots
+- **MNACTEC · Visita guiada Robots** — Испания; 2026-11-14. Со взрослым; условия взрослого входа отдельно. https://mnactec.cat/index.php/es/actividad-detalle/visita-guiada-robots
+- **MNACTEC · Visita guiada Robots** — Испания; 2026-12-05. Со взрослым; условия взрослого входа отдельно. https://mnactec.cat/index.php/es/actividad-detalle/visita-guiada-robots
+- **Palais de la découverte · Un robot, comment ça robotte ?** — Франция; 2026-12-06. Детям 6/9 нельзя. https://www.palais-decouverte.fr/au-programme/un-robot-comment-ca-robotte
+- **Palais de la découverte · Un robot, comment ça robotte ?** — Франция; 2026-12-20. Детям 6/9 нельзя. https://www.palais-decouverte.fr/au-programme/un-robot-comment-ca-robotte
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

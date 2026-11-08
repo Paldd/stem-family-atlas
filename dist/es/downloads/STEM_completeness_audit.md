@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 9833; competiciones: 4458; eventos: 486; campamentos / programas: 4889. Perfiles de ligas y programas: 291. Fichas de exposiciones grandes y especializadas: 389 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 9856; competiciones: 4459; eventos: 491; campamentos / programas: 4906. Perfiles de ligas y programas: 291. Fichas de exposiciones grandes y especializadas: 394 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros específicos para 211 de 249 países y territorios; países con auditoría completa: 0. Revisión de archivos v51: se añadieron 21 fichas y 3 perfiles. Se conservan las fichas anteriores.
 
@@ -16,14 +16,14 @@ Hay registros específicos para 211 de 249 países y territorios; países con au
 |---|---:|---:|---:|---:|
 | América del Norte | 37 | 1861 | 85 | 1234 |
 | América del Sur | 13 | 414 | 32 | 198 |
-| Europa | 51 | 572 | 97 | 1408 |
+| Europa | 51 | 573 | 102 | 1425 |
 | África | 48 | 226 | 28 | 80 |
 | Asia | 48 | 1111 | 118 | 1629 |
 | Oceanía | 16 | 151 | 27 | 327 |
 
 Fichas interregionales o mundiales sin un continente único: 143. Norteamérica incluye Centroamérica y el Caribe. Las cifras muestran el inventario de la base, no un porcentaje de cobertura.
 
-VEX: 814 de 4458 fichas de competiciones (18.3%). La cobertura está concentrada en este circuito.
+VEX: 814 de 4459 fichas de competición (18.3%). Hay un claro desequilibrio en la cobertura.
 
 ## Lo que queda
 
@@ -748,6 +748,11 @@ VEX: 814 de 4458 fichas de competiciones (18.3%). La cobertura está concentrada
 - **Festival de Ciencia · tecnología · Minsk 2026** — Bielorrusia; 2026-09-05 – 2026-09-06. con un adulto; condiciones de admisión adulta por separado. https://scifest.by/
 - **Festival de Ciencia · Minsk · próxima edición** — Bielorrusia; fecha desconocida. Confirmar acceso infantil. https://scifest.by/
 - **World Space Week Liberia · Innovation Showcase 2026** — Liberia; 2026-10-09. el permiso de entrada de niños. https://wsw-liberia-2026.vercel.app/
+- **MNACTEC · Robots. Dels autòmats de Leonardo als humanoides del futur** — España; 2026-09-20 – 2027-09-19. con un adulto; condiciones de admisión adulta por separado. https://mnactec.cat/ca/exposicio-detall/robots
+- **MNACTEC · Visita guiada Robots** — España; 2026-11-14. con un adulto; condiciones de admisión adulta por separado. https://mnactec.cat/index.php/es/actividad-detalle/visita-guiada-robots
+- **MNACTEC · Visita guiada Robots** — España; 2026-12-05. con un adulto; condiciones de admisión adulta por separado. https://mnactec.cat/index.php/es/actividad-detalle/visita-guiada-robots
+- **Palais de la découverte · Un robot, comment ça robotte ?** — Francia; 2026-12-06. Los niños del 6/9 no pueden. https://www.palais-decouverte.fr/au-programme/un-robot-comment-ca-robotte
+- **Palais de la découverte · Un robot, comment ça robotte ?** — Francia; 2026-12-20. Los niños del 6/9 no pueden. https://www.palais-decouverte.fr/au-programme/un-robot-comment-ca-robotte
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

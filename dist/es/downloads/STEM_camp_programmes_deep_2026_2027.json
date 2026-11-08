@@ -30,25 +30,25 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1902,
+    "dossiers": 1910,
     "countries": 125,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 274,
+      "published_2026_27": 281,
       "published_2027": 517,
       "partial_2027": 141,
       "next_unannounced": 395,
       "published_2026": 348,
       "partial_2026_27": 32,
       "partial_2026": 23,
-      "archive_next_unannounced": 145,
+      "archive_next_unannounced": 146,
       "regular_programme": 19,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2771
+    "source_urls": 2774
   },
   "countries": [
     {
@@ -229,7 +229,7 @@
     },
     {
       "country": "España",
-      "count": 139
+      "count": 141
     },
     {
       "country": "Italia",
@@ -493,7 +493,7 @@
     },
     {
       "country": "Francia",
-      "count": 117
+      "count": 123
     },
     {
       "country": "Polinesia Francesa",
@@ -276626,14 +276626,14 @@
         "day"
       ],
       "age": "6–8 / 9–11",
-      "language": "La organización indica expresamente que los talleres se imparten solo en francés.",
+      "language": "Talleres únicamente en francés.",
       "confirmed_instruction_languages": [
         "FR"
       ],
       "programme": "Modelado de un objeto e impresión del trabajo propio.",
       "timing": {
         "status": "published_2026_27",
-        "label": "Días lectivos según calendario del organizador.",
+        "label": "Diciembre de 2026. Cada día se reserva por separado.",
         "sessions": [
           [
             "2026-12-28",
@@ -276650,17 +276650,17 @@
             "end": "2026-12-28",
             "label": "Taller diurno.",
             "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
-            "price": "EUR 95 por día, EUR 85 con abono según cupo.",
+            "price": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
             "place": "Cité des sciences et de l’industrie · Paris",
             "age": "6–8",
             "family_fit": {
               "matvey": {
                 "status": "not_eligible",
-                "detail": "No por edad para el grupo menor."
+                "detail": "La edad supera el límite máximo del grupo."
               },
               "oscar": {
                 "status": "conditional",
-                "detail": "Condicional si ya ha cumplido 6 años al comenzar."
+                "detail": "Admite a partir de 6 años cumplidos el día del taller. Hay que entender francés."
               }
             },
             "date_scope": "session_days",
@@ -276677,24 +276677,28 @@
             "availability": {
               "status": "unconfirmed",
               "label": "Confirmar disponibilidad y admisión."
-            }
+            },
+            "entry": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+            "questions": [
+              "Comprobar plazas en cada grupo y que el menor entiende francés."
+            ]
           },
           {
             "start": "2026-12-29",
             "end": "2026-12-29",
             "label": "Taller diurno.",
             "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
-            "price": "EUR 95 por día, EUR 85 con abono según cupo.",
+            "price": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
             "place": "Cité des sciences et de l’industrie · Paris",
             "age": "9–11",
             "family_fit": {
               "matvey": {
-                "status": "candidate",
-                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+                "status": "conditional",
+                "detail": "La edad encaja. Hay que entender francés y confirmar plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Edad mínima superior a la actual. Confirmar edad el primer día del turno."
+                "detail": "La edad aún es inferior al mínimo del grupo."
               }
             },
             "date_scope": "session_days",
@@ -276711,36 +276715,40 @@
             "availability": {
               "status": "unconfirmed",
               "label": "Confirmar disponibilidad y admisión."
-            }
+            },
+            "entry": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+            "questions": [
+              "Comprobar plazas en cada grupo y que el menor entiende francés."
+            ]
           }
         ],
         "precision": "published_sessions"
       },
       "price": {
         "year": 2026,
+        "label": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
+        "included": "La jornada completa incluye pícnic. Se puede llevar comida propia por el mismo precio. Llevar botella de agua.",
+        "extras": "Consultar las condiciones de devolución al comprar.",
+        "deposit": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
         "currency": "EUR",
         "amount": 95,
-        "unit": "per_child_course",
-        "label": "EUR 95 por día, EUR 85 con abono según cupo.",
-        "included": "El día completo incluye pícnic; se puede llevar agua y comida propia si es necesario.",
-        "extras": "Precio sin publicar.",
-        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+        "unit": "per_child_course"
       },
       "accommodation": "Programa diurno sin alojamiento.",
       "family_fit": {
         "matvey": {
-          "status": "candidate",
-          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+          "status": "conditional",
+          "detail": "La edad encaja. Hay que entender francés y confirmar plaza."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "Condicional si ya ha cumplido 6 años al comenzar."
+          "detail": "Admite a partir de 6 años cumplidos el día del taller. Hay que entender francés."
         }
       },
       "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
       "shortlist": [],
       "questions": [
-        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+        "Comprobar plazas en cada grupo y que el menor entiende francés."
       ],
       "sources": [
         {
@@ -276756,6 +276764,17 @@
       },
       "programme_type": "holiday_workshop",
       "catalog_participation": "holiday_workshop",
+      "language_evidence_role": "primary",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 95,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -276792,14 +276811,14 @@
         "day"
       ],
       "age": "6–8 / 9–11",
-      "language": "La organización indica expresamente que los talleres se imparten solo en francés.",
+      "language": "Talleres únicamente en francés.",
       "confirmed_instruction_languages": [
         "FR"
       ],
       "programme": "Algoritmos e introducción al código mediante proyectos interactivos.",
       "timing": {
         "status": "published_2026_27",
-        "label": "Días lectivos según calendario del organizador.",
+        "label": "Diciembre de 2026. Cada día se reserva por separado.",
         "sessions": [
           [
             "2026-12-22",
@@ -276816,17 +276835,17 @@
             "end": "2026-12-22",
             "label": "Taller diurno.",
             "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
-            "price": "EUR 95 por día, EUR 85 con abono según cupo.",
+            "price": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
             "place": "Cité des sciences et de l’industrie · Paris",
             "age": "6–8",
             "family_fit": {
               "matvey": {
                 "status": "not_eligible",
-                "detail": "No por edad para el grupo menor."
+                "detail": "La edad supera el límite máximo del grupo."
               },
               "oscar": {
                 "status": "conditional",
-                "detail": "Condicional si ya ha cumplido 6 años al comenzar."
+                "detail": "Admite a partir de 6 años cumplidos el día del taller. Hay que entender francés."
               }
             },
             "date_scope": "session_days",
@@ -276843,24 +276862,28 @@
             "availability": {
               "status": "unconfirmed",
               "label": "Confirmar disponibilidad y admisión."
-            }
+            },
+            "entry": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+            "questions": [
+              "Comprobar plazas en cada grupo y que el menor entiende francés."
+            ]
           },
           {
             "start": "2026-12-23",
             "end": "2026-12-23",
             "label": "Taller diurno.",
             "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
-            "price": "EUR 95 por día, EUR 85 con abono según cupo.",
+            "price": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
             "place": "Cité des sciences et de l’industrie · Paris",
             "age": "9–11",
             "family_fit": {
               "matvey": {
-                "status": "candidate",
-                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+                "status": "conditional",
+                "detail": "La edad encaja. Hay que entender francés y confirmar plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Edad mínima superior a la actual. Confirmar edad el primer día del turno."
+                "detail": "La edad aún es inferior al mínimo del grupo."
               }
             },
             "date_scope": "session_days",
@@ -276877,36 +276900,40 @@
             "availability": {
               "status": "unconfirmed",
               "label": "Confirmar disponibilidad y admisión."
-            }
+            },
+            "entry": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+            "questions": [
+              "Comprobar plazas en cada grupo y que el menor entiende francés."
+            ]
           }
         ],
         "precision": "published_sessions"
       },
       "price": {
         "year": 2026,
+        "label": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
+        "included": "La jornada completa incluye pícnic. Se puede llevar comida propia por el mismo precio. Llevar botella de agua.",
+        "extras": "Consultar las condiciones de devolución al comprar.",
+        "deposit": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
         "currency": "EUR",
         "amount": 95,
-        "unit": "per_child_course",
-        "label": "EUR 95 por día, EUR 85 con abono según cupo.",
-        "included": "El día completo incluye pícnic; se puede llevar agua y comida propia si es necesario.",
-        "extras": "Precio sin publicar.",
-        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+        "unit": "per_child_course"
       },
       "accommodation": "Programa diurno sin alojamiento.",
       "family_fit": {
         "matvey": {
-          "status": "candidate",
-          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+          "status": "conditional",
+          "detail": "La edad encaja. Hay que entender francés y confirmar plaza."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "Condicional si ya ha cumplido 6 años al comenzar."
+          "detail": "Admite a partir de 6 años cumplidos el día del taller. Hay que entender francés."
         }
       },
       "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
       "shortlist": [],
       "questions": [
-        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+        "Comprobar plazas en cada grupo y que el menor entiende francés."
       ],
       "sources": [
         {
@@ -276922,6 +276949,17 @@
       },
       "programme_type": "holiday_workshop",
       "catalog_participation": "holiday_workshop",
+      "language_evidence_role": "primary",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 95,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -276957,14 +276995,14 @@
         "day"
       ],
       "age": "9–11",
-      "language": "La organización indica expresamente que los talleres se imparten solo en francés.",
+      "language": "Talleres únicamente en francés.",
       "confirmed_instruction_languages": [
         "FR"
       ],
       "programme": "Principios de IA, capacidades, límites y consecuencias.",
       "timing": {
         "status": "published_2026_27",
-        "label": "Días lectivos según calendario del organizador.",
+        "label": "Diciembre de 2026. Cada día se reserva por separado.",
         "sessions": [
           [
             "2026-12-30",
@@ -276977,17 +277015,17 @@
             "end": "2026-12-30",
             "label": "Taller diurno.",
             "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
-            "price": "EUR 95 por día, EUR 85 con abono según cupo.",
+            "price": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
             "place": "Cité des sciences et de l’industrie · Paris",
             "age": "9–11",
             "family_fit": {
               "matvey": {
-                "status": "candidate",
-                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+                "status": "conditional",
+                "detail": "La edad encaja. Hay que entender francés y confirmar plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Edad mínima superior a la actual. Confirmar edad el primer día del turno."
+                "detail": "La edad aún es inferior al mínimo del grupo."
               }
             },
             "date_scope": "session_days",
@@ -277004,36 +277042,40 @@
             "availability": {
               "status": "unconfirmed",
               "label": "Confirmar disponibilidad y admisión."
-            }
+            },
+            "entry": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+            "questions": [
+              "Comprobar plazas en cada grupo y que el menor entiende francés."
+            ]
           }
         ],
         "precision": "published_sessions"
       },
       "price": {
         "year": 2026,
+        "label": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
+        "included": "La jornada completa incluye pícnic. Se puede llevar comida propia por el mismo precio. Llevar botella de agua.",
+        "extras": "Consultar las condiciones de devolución al comprar.",
+        "deposit": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
         "currency": "EUR",
         "amount": 95,
-        "unit": "per_child_course",
-        "label": "EUR 95 por día, EUR 85 con abono según cupo.",
-        "included": "El día completo incluye pícnic; se puede llevar agua y comida propia si es necesario.",
-        "extras": "Precio sin publicar.",
-        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+        "unit": "per_child_course"
       },
       "accommodation": "Programa diurno sin alojamiento.",
       "family_fit": {
         "matvey": {
-          "status": "candidate",
-          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+          "status": "conditional",
+          "detail": "La edad encaja. Hay que entender francés y confirmar plaza."
         },
         "oscar": {
           "status": "later",
-          "detail": "Edad mínima superior a la actual. Confirmar edad el primer día del turno."
+          "detail": "La edad aún es inferior al mínimo del grupo."
         }
       },
       "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
       "shortlist": [],
       "questions": [
-        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+        "Comprobar plazas en cada grupo y que el menor entiende francés."
       ],
       "sources": [
         {
@@ -277049,6 +277091,17 @@
       },
       "programme_type": "holiday_workshop",
       "catalog_participation": "holiday_workshop",
+      "language_evidence_role": "primary",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 95,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -277076,14 +277129,14 @@
         "day"
       ],
       "age": "9–11",
-      "language": "La organización indica expresamente que los talleres se imparten solo en francés.",
+      "language": "Talleres únicamente en francés.",
       "confirmed_instruction_languages": [
         "FR"
       ],
       "programme": "Media jornada de programación con un robot educativo.",
       "timing": {
         "status": "published_2026_27",
-        "label": "Días lectivos según calendario del organizador.",
+        "label": "Diciembre de 2026. Cada día se reserva por separado.",
         "sessions": [
           [
             "2026-12-22",
@@ -277100,17 +277153,17 @@
             "end": "2026-12-22",
             "label": "Taller diurno.",
             "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
-            "price": "EUR 45 por media jornada, EUR 35 con abono según cupo.",
+            "price": "EUR 45 por menor y media jornada, EUR 35 con abono sujeto a cupo.",
             "place": "Cité des sciences et de l’industrie · Paris",
             "age": "9–11",
             "family_fit": {
               "matvey": {
-                "status": "candidate",
-                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+                "status": "conditional",
+                "detail": "La edad encaja. Hay que entender francés y confirmar plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Edad mínima superior a la actual. Confirmar edad el primer día del turno."
+                "detail": "La edad aún es inferior al mínimo del grupo."
               }
             },
             "date_scope": "session_days",
@@ -277127,24 +277180,28 @@
             "availability": {
               "status": "unconfirmed",
               "label": "Confirmar disponibilidad y admisión."
-            }
+            },
+            "entry": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+            "questions": [
+              "Comprobar plazas en cada grupo y que el menor entiende francés."
+            ]
           },
           {
             "start": "2026-12-29",
             "end": "2026-12-29",
             "label": "Taller diurno.",
             "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
-            "price": "EUR 45 por media jornada, EUR 35 con abono según cupo.",
+            "price": "EUR 45 por menor y media jornada, EUR 35 con abono sujeto a cupo.",
             "place": "Cité des sciences et de l’industrie · Paris",
             "age": "9–11",
             "family_fit": {
               "matvey": {
-                "status": "candidate",
-                "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+                "status": "conditional",
+                "detail": "La edad encaja. Hay que entender francés y confirmar plaza."
               },
               "oscar": {
                 "status": "later",
-                "detail": "Edad mínima superior a la actual. Confirmar edad el primer día del turno."
+                "detail": "La edad aún es inferior al mínimo del grupo."
               }
             },
             "date_scope": "session_days",
@@ -277161,36 +277218,40 @@
             "availability": {
               "status": "unconfirmed",
               "label": "Confirmar disponibilidad y admisión."
-            }
+            },
+            "entry": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+            "questions": [
+              "Comprobar plazas en cada grupo y que el menor entiende francés."
+            ]
           }
         ],
         "precision": "published_sessions"
       },
       "price": {
         "year": 2026,
+        "label": "EUR 45 por menor y media jornada, EUR 35 con abono sujeto a cupo.",
+        "included": "Taller de media jornada.",
+        "extras": "Consultar las condiciones de devolución al comprar.",
+        "deposit": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
         "currency": "EUR",
         "amount": 45,
-        "unit": "per_child_course",
-        "label": "EUR 45 por media jornada, EUR 35 con abono según cupo.",
-        "included": "Taller de media jornada. Confirmar comida por separado.",
-        "extras": "Precio sin publicar.",
-        "deposit": "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+        "unit": "per_child_course"
       },
       "accommodation": "Programa diurno sin alojamiento.",
       "family_fit": {
         "matvey": {
-          "status": "candidate",
-          "detail": "Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo."
+          "status": "conditional",
+          "detail": "La edad encaja. Hay que entender francés y confirmar plaza."
         },
         "oscar": {
           "status": "later",
-          "detail": "Edad mínima superior a la actual. Confirmar edad el primer día del turno."
+          "detail": "La edad aún es inferior al mínimo del grupo."
         }
       },
       "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
       "shortlist": [],
       "questions": [
-        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+        "Comprobar plazas en cada grupo y que el menor entiende francés."
       ],
       "sources": [
         {
@@ -277206,6 +277267,17 @@
       },
       "programme_type": "holiday_workshop",
       "catalog_participation": "holiday_workshop",
+      "language_evidence_role": "primary",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 45,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -330873,6 +330945,1374 @@
       "catalog_participation": "day_camp",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1903",
+      "slug": "mnactec-terrassa-nadal-2026",
+      "provider": "MNACTEC · Tallers de Nadal",
+      "country": "España",
+      "iso": "ESP",
+      "place": "MNACTEC · Rambla d’Ègara 270 · Terrassa",
+      "age": "Dos grupos simultáneos: 5–8 y 9–12 años.",
+      "programme": "Días independientes de vacaciones en el museo técnico. Robótica, producción textil, energía eólica, ultrasonidos y talleres festivos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Anuncio en catalán. Confirmar el idioma del monitor de cada grupo. El 31 de diciembre parte del taller se dedica al vocabulario inglés.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "22, 23, 24, 28, 29, 30 y 31 de diciembre de 2026, 09:00–14:00.",
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "variant_key": "decoration",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Decorem el Nadal",
+            "price": "EUR 17 por menor y día, 5% de descuento para el segundo. EUR 33.15 por dos menores al día sin acogida.",
+            "source": "https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "La inscripción abre el 16 de noviembre de 2026."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "topic": "Adornos festivos con materiales sencillos y naturales.",
+                "start_utc": "2026-12-22T08:00:00Z",
+                "end_utc": "2026-12-22T13:00:00Z"
+              }
+            ],
+            "place": "MNACTEC · Rambla d’Ègara 270 · Terrassa",
+            "age": "Dos grupos simultáneos: 5–8 y 9–12 años.",
+            "programme": "Adornos festivos con materiales sencillos y naturales.",
+            "entry": "Inscripción por teléfono del 16 de noviembre al 14 de diciembre de 2026, laborables de 09:00–14:00. Orden de llamada. Hasta 20 menores por grupo, mínimo 10 participantes por taller.",
+            "deadline": "2026-12-14",
+            "questions": [
+              "Se requieren ficha de inscripción, ficha médica, copias de la tarjeta CATSalut y de vacunación, y justificante de pago. Una familia del extranjero debe confirmar si se aceptan documentos equivalentes."
+            ],
+            "catalog_themes": [
+              "arts",
+              "general"
+            ]
+          },
+          {
+            "variant_key": "robots",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "Robots",
+            "price": "EUR 17 por menor y día, 5% de descuento para el segundo. EUR 33.15 por dos menores al día sin acogida.",
+            "source": "https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "La inscripción abre el 16 de noviembre de 2026."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "topic": "Visita a la exposición de robots y montaje de un modelo con materiales reciclados.",
+                "start_utc": "2026-12-23T08:00:00Z",
+                "end_utc": "2026-12-23T13:00:00Z"
+              }
+            ],
+            "place": "MNACTEC · Rambla d’Ègara 270 · Terrassa",
+            "age": "Dos grupos simultáneos: 5–8 y 9–12 años.",
+            "programme": "Visita a la exposición de robots y montaje de un modelo con materiales reciclados.",
+            "entry": "Inscripción por teléfono del 16 de noviembre al 14 de diciembre de 2026, laborables de 09:00–14:00. Orden de llamada. Hasta 20 menores por grupo, mínimo 10 participantes por taller.",
+            "deadline": "2026-12-14",
+            "questions": [
+              "Se requieren ficha de inscripción, ficha médica, copias de la tarjeta CATSalut y de vacunación, y justificante de pago. Una familia del extranjero debe confirmar si se aceptan documentos equivalentes."
+            ],
+            "catalog_themes": [
+              "robotics",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "tio",
+            "start": "2026-12-24",
+            "end": "2026-12-24",
+            "label": "Preparem el nostre tió",
+            "price": "EUR 17 por menor y día, 5% de descuento para el segundo. EUR 33.15 por dos menores al día sin acogida.",
+            "source": "https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "La inscripción abre el 16 de noviembre de 2026."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "topic": "Tradición navideña catalana, canciones y manualidades.",
+                "start_utc": "2026-12-24T08:00:00Z",
+                "end_utc": "2026-12-24T13:00:00Z"
+              }
+            ],
+            "place": "MNACTEC · Rambla d’Ègara 270 · Terrassa",
+            "age": "Dos grupos simultáneos: 5–8 y 9–12 años.",
+            "programme": "Tradición navideña catalana, canciones y manualidades.",
+            "entry": "Inscripción por teléfono del 16 de noviembre al 14 de diciembre de 2026, laborables de 09:00–14:00. Orden de llamada. Hasta 20 menores por grupo, mínimo 10 participantes por taller.",
+            "deadline": "2026-12-14",
+            "questions": [
+              "Se requieren ficha de inscripción, ficha médica, copias de la tarjeta CATSalut y de vacunación, y justificante de pago. Una familia del extranjero debe confirmar si se aceptan documentos equivalentes."
+            ],
+            "catalog_themes": [
+              "arts",
+              "general"
+            ]
+          },
+          {
+            "variant_key": "textiles",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "La fàbrica tèxtil",
+            "price": "EUR 17 por menor y día, 5% de descuento para el segundo. EUR 33.15 por dos menores al día sin acogida.",
+            "source": "https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "La inscripción abre el 16 de noviembre de 2026."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "topic": "Historia de la fábrica textil y elaboración de un pequeño telar.",
+                "start_utc": "2026-12-28T08:00:00Z",
+                "end_utc": "2026-12-28T13:00:00Z"
+              }
+            ],
+            "place": "MNACTEC · Rambla d’Ègara 270 · Terrassa",
+            "age": "Dos grupos simultáneos: 5–8 y 9–12 años.",
+            "programme": "Historia de la fábrica textil y elaboración de un pequeño telar.",
+            "entry": "Inscripción por teléfono del 16 de noviembre al 14 de diciembre de 2026, laborables de 09:00–14:00. Orden de llamada. Hasta 20 menores por grupo, mínimo 10 participantes por taller.",
+            "deadline": "2026-12-14",
+            "questions": [
+              "Se requieren ficha de inscripción, ficha médica, copias de la tarjeta CATSalut y de vacunación, y justificante de pago. Una familia del extranjero debe confirmar si se aceptan documentos equivalentes."
+            ],
+            "catalog_themes": [
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "wind",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "Jocs i experiments amb el vent",
+            "price": "EUR 17 por menor y día, 5% de descuento para el segundo. EUR 33.15 por dos menores al día sin acogida.",
+            "source": "https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "La inscripción abre el 16 de noviembre de 2026."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "topic": "Viento y agua, energía renovable y montaje de dispositivos adaptados a la edad.",
+                "start_utc": "2026-12-29T08:00:00Z",
+                "end_utc": "2026-12-29T13:00:00Z"
+              }
+            ],
+            "place": "MNACTEC · Rambla d’Ègara 270 · Terrassa",
+            "age": "Dos grupos simultáneos: 5–8 y 9–12 años.",
+            "programme": "Viento y agua, energía renovable y montaje de dispositivos adaptados a la edad.",
+            "entry": "Inscripción por teléfono del 16 de noviembre al 14 de diciembre de 2026, laborables de 09:00–14:00. Orden de llamada. Hasta 20 menores por grupo, mínimo 10 participantes por taller.",
+            "deadline": "2026-12-14",
+            "questions": [
+              "Se requieren ficha de inscripción, ficha médica, copias de la tarjeta CATSalut y de vacunación, y justificante de pago. Una familia del extranjero debe confirmar si se aceptan documentos equivalentes."
+            ],
+            "catalog_themes": [
+              "science",
+              "engineering",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "ultrasound",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "Ultrasons",
+            "price": "EUR 17 por menor y día, 5% de descuento para el segundo. EUR 33.15 por dos menores al día sin acogida.",
+            "source": "https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "La inscripción abre el 16 de noviembre de 2026."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "topic": "Exposición sobre ultrasonidos y su uso cotidiano y médico.",
+                "start_utc": "2026-12-30T08:00:00Z",
+                "end_utc": "2026-12-30T13:00:00Z"
+              }
+            ],
+            "place": "MNACTEC · Rambla d’Ègara 270 · Terrassa",
+            "age": "Dos grupos simultáneos: 5–8 y 9–12 años.",
+            "programme": "Exposición sobre ultrasonidos y su uso cotidiano y médico.",
+            "entry": "Inscripción por teléfono del 16 de noviembre al 14 de diciembre de 2026, laborables de 09:00–14:00. Orden de llamada. Hasta 20 menores por grupo, mínimo 10 participantes por taller.",
+            "deadline": "2026-12-14",
+            "questions": [
+              "Se requieren ficha de inscripción, ficha médica, copias de la tarjeta CATSalut y de vacunación, y justificante de pago. Una familia del extranjero debe confirmar si se aceptan documentos equivalentes."
+            ],
+            "catalog_themes": [
+              "science",
+              "technology"
+            ]
+          },
+          {
+            "variant_key": "calendar",
+            "start": "2026-12-31",
+            "end": "2026-12-31",
+            "label": "Calendari 2027",
+            "price": "EUR 17 por menor y día, 5% de descuento para el segundo. EUR 33.15 por dos menores al día sin acogida.",
+            "source": "https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "La inscripción abre el 16 de noviembre de 2026."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "ical_timed": true,
+                "topic": "Elaboración de un calendario, juegos y canciones con vocabulario inglés.",
+                "start_utc": "2026-12-31T08:00:00Z",
+                "end_utc": "2026-12-31T13:00:00Z"
+              }
+            ],
+            "place": "MNACTEC · Rambla d’Ègara 270 · Terrassa",
+            "age": "Dos grupos simultáneos: 5–8 y 9–12 años.",
+            "programme": "Elaboración de un calendario, juegos y canciones con vocabulario inglés.",
+            "entry": "Inscripción por teléfono del 16 de noviembre al 14 de diciembre de 2026, laborables de 09:00–14:00. Orden de llamada. Hasta 20 menores por grupo, mínimo 10 participantes por taller.",
+            "deadline": "2026-12-14",
+            "questions": [
+              "Se requieren ficha de inscripción, ficha médica, copias de la tarjeta CATSalut y de vacunación, y justificante de pago. Una familia del extranjero debe confirmar si se aceptan documentos equivalentes."
+            ],
+            "catalog_themes": [
+              "arts",
+              "general"
+            ]
+          }
+        ],
+        "sessions": [
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-24",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ],
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ],
+          [
+            "2026-12-31",
+            "2026-12-31"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "EUR 17 por menor y día, 5% de descuento para el segundo. EUR 33.15 por dos menores al día sin acogida.",
+        "included": "Taller de 09:00–14:00. Llevar desayuno y una camiseta vieja o bata.",
+        "extras": "Acogida de 08:00–09:00 o de 14:00–15:00 a EUR 3 por menor, ambos tramos EUR 5. Con ambos tramos, EUR 43.15 por dos menores. La acogida depende del mínimo de inscritos.",
+        "deposit": "Pagar por transferencia en los 5 días hábiles posteriores a la llamada y antes del taller. Con cancelación justificada se devuelve el 50%. Descuento de EUR 17 por todos los días para un menor. Los descuentos no son acumulables.",
+        "currency": "EUR"
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja en el grupo 9–12. Confirmar idioma y aceptación de documentos médicos extranjeros."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja en el grupo 5–8. Confirmar idioma y aceptación de documentos médicos extranjeros."
+        }
+      },
+      "editorial_reason": "Ambas edades tienen grupos paralelos. El 23 de diciembre, exposición museística de robots y montaje de un modelo propio.",
+      "shortlist": [],
+      "questions": [
+        "Se requieren ficha de inscripción, ficha médica, copias de la tarjeta CATSalut y de vacunación, y justificante de pago. Una familia del extranjero debe confirmar si se aceptan documentos equivalentes.",
+        "Inscripción por teléfono del 16 de noviembre al 14 de diciembre de 2026, laborables de 09:00–14:00. Orden de llamada. Hasta 20 menores por grupo, mínimo 10 participantes por taller."
+      ],
+      "sources": [
+        {
+          "url": "https://mnactec.cat/index.php/ca/activitat-detall/tallers-de-nadal-2026",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "engineering",
+        "science",
+        "technology",
+        "general"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "availability": {
+        "status": "not_open_yet",
+        "label": "La inscripción abre el 16 de noviembre de 2026."
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1903-20261222-20261222-decoration"
+          ]
+        },
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1903-20261223-20261223-robots"
+          ]
+        },
+        {
+          "start": "2026-12-24",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1903-20261224-20261224-tio"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1903-20261228-20261228-textiles"
+          ]
+        },
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1903-20261229-20261229-wind"
+          ]
+        },
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1903-20261230-20261230-ultrasound"
+          ]
+        },
+        {
+          "start": "2026-12-31",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1903-20261231-20261231-calendar"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1904",
+      "slug": "buddies-castellon-christmas-2026",
+      "provider": "Buddies Castellón · Christmas School",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Buddies Language School · Castelló de la Plana",
+      "age": "De 3 a 10 años. Grupos de infantil de 3–5 y primaria de 6–10.",
+      "programme": "Vacaciones en inglés con teatro, música, deporte, baile y manualidades.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Inglés según la organización.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "22 de diciembre de 2026–6 de enero de 2027. Se pueden elegir días sueltos. Confirmar los días concretos de actividad.",
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "variant_key": "winter-window",
+            "start": "2026-12-22",
+            "end": "2027-01-06",
+            "date_scope": "camp_window",
+            "label": "Inmersión en inglés",
+            "source": "https://www.buddiescastellon.com/christmasschool",
+            "price": "No se publica el coste total.",
+            "place": "Buddies Language School · Castelló de la Plana",
+            "entry": "Es necesaria la inscripción previa por el tamaño reducido de los grupos. Confirmar dirección del grupo, calendario y precio.",
+            "attendance_weekdays": [],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Horario publicado. Confirmar por separado las plazas y la admisión."
+            }
+          }
+        ],
+        "sessions": [
+          [
+            "2026-12-22",
+            "2027-01-06"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "No se publica el coste total.",
+        "included": "Vacaciones en inglés con teatro, música, deporte, baile y manualidades.",
+        "extras": "Tres opciones desde las 08:30: hasta las 13:30, 15:00 o 17:00. Consultar el precio de cada opción y las comidas.",
+        "deposit": "Es necesaria la inscripción previa por el tamaño reducido de los grupos. Confirmar dirección del grupo, calendario y precio.",
+        "currency": "EUR"
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Se requieren plaza e inscripción."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Se requieren plaza e inscripción."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Es necesaria la inscripción previa por el tamaño reducido de los grupos. Confirmar dirección del grupo, calendario y precio."
+      ],
+      "sources": [
+        {
+          "url": "https://www.buddiescastellon.com/christmasschool",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "general",
+        "arts"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-22",
+          "end": "2027-01-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1904-20261222-20270106-winter-window"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1905",
+      "slug": "cite-paris-noel-volcano",
+      "provider": "Cité des sciences · En direct des volcans !",
+      "country": "Francia",
+      "iso": "FRA",
+      "place": "Cité des sciences et de l’industrie · Paris",
+      "age": "Edades de 9 a 11 años. / Edades de 6 a 8 años.",
+      "programme": "Volcanes, rocas, sismología y tectónica de placas.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Talleres únicamente en francés.",
+      "confirmed_instruction_languages": [
+        "FR"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Diciembre de 2026. Cada día se reserva por separado.",
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "variant_key": "ages-9",
+            "start": "2026-12-28",
+            "end": "2026-12-28",
+            "label": "9–11 · 10:00–17:30",
+            "price": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Horario publicado. Confirmar por separado las plazas y la admisión."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "topic": "Volcanes, rocas, sismología y tectónica de placas.",
+                "start_utc": "2026-12-28T09:00:00Z",
+                "end_utc": "2026-12-28T16:30:00Z"
+              }
+            ],
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "Edades de 9 a 11 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "La edad encaja. Hay que entender francés y confirmar plaza."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "La edad aún es inferior al mínimo del grupo."
+              }
+            },
+            "entry": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+            "questions": [
+              "Comprobar plazas en cada grupo y que el menor entiende francés."
+            ]
+          },
+          {
+            "variant_key": "ages-6",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "6–8 · 10:00–17:30",
+            "price": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Horario publicado. Confirmar por separado las plazas y la admisión."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "topic": "Volcanes, rocas, sismología y tectónica de placas.",
+                "start_utc": "2026-12-29T09:00:00Z",
+                "end_utc": "2026-12-29T16:30:00Z"
+              }
+            ],
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "Edades de 6 a 8 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "La edad supera el límite máximo del grupo."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Admite a partir de 6 años cumplidos el día del taller. Hay que entender francés."
+              }
+            },
+            "entry": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+            "questions": [
+              "Comprobar plazas en cada grupo y que el menor entiende francés."
+            ]
+          }
+        ],
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-28"
+          ],
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
+        "included": "La jornada completa incluye pícnic. Se puede llevar comida propia por el mismo precio. Llevar botella de agua.",
+        "extras": "Consultar las condiciones de devolución al comprar.",
+        "deposit": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+        "currency": "EUR",
+        "amount": 95,
+        "unit": "per_child_course"
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Hay que entender francés y confirmar plaza."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Admite a partir de 6 años cumplidos el día del taller. Hay que entender francés."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Comprobar plazas en cada grupo y que el menor entiende francés."
+      ],
+      "sources": [
+        {
+          "url": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "science"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 95,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1905-20261228-20261228-ages-9"
+          ]
+        },
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1905-20261229-20261229-ages-6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1906",
+      "slug": "cite-paris-noel-pharaoh",
+      "provider": "Cité des sciences · À l’époque des pharaons",
+      "country": "Francia",
+      "iso": "FRA",
+      "place": "Cité des sciences et de l’industrie · Paris",
+      "age": "Edades de 9 a 11 años.",
+      "programme": "Egipto antiguo, pirámides, momias y hallazgos arqueológicos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Talleres únicamente en francés.",
+      "confirmed_instruction_languages": [
+        "FR"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Diciembre de 2026. Cada día se reserva por separado.",
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "variant_key": "ages-9",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "9–11 · 10:00–17:30",
+            "price": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Horario publicado. Confirmar por separado las plazas y la admisión."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "topic": "Egipto antiguo, pirámides, momias y hallazgos arqueológicos.",
+                "start_utc": "2026-12-21T09:00:00Z",
+                "end_utc": "2026-12-21T16:30:00Z"
+              }
+            ],
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "Edades de 9 a 11 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "La edad encaja. Hay que entender francés y confirmar plaza."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "La edad aún es inferior al mínimo del grupo."
+              }
+            },
+            "entry": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+            "questions": [
+              "Comprobar plazas en cada grupo y que el menor entiende francés."
+            ]
+          }
+        ],
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
+        "included": "La jornada completa incluye pícnic. Se puede llevar comida propia por el mismo precio. Llevar botella de agua.",
+        "extras": "Consultar las condiciones de devolución al comprar.",
+        "deposit": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+        "currency": "EUR",
+        "amount": 95,
+        "unit": "per_child_course"
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Hay que entender francés y confirmar plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "La edad aún es inferior al mínimo del grupo."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Comprobar plazas en cada grupo y que el menor entiende francés."
+      ],
+      "sources": [
+        {
+          "url": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "science",
+        "general"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 95,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1906-20261221-20261221-ages-9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1907",
+      "slug": "cite-paris-noel-archaeology",
+      "provider": "Cité des sciences · Dans la peau d’un archéologue",
+      "country": "Francia",
+      "iso": "FRA",
+      "place": "Cité des sciences et de l’industrie · Paris",
+      "age": "Edades de 9 a 11 años.",
+      "programme": "Técnicas de excavación, análisis e interpretación de hallazgos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Talleres únicamente en francés.",
+      "confirmed_instruction_languages": [
+        "FR"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Diciembre de 2026. Cada día se reserva por separado.",
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "variant_key": "ages-9",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "9–11 · 10:00–17:30",
+            "price": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Horario publicado. Confirmar por separado las plazas y la admisión."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "topic": "Técnicas de excavación, análisis e interpretación de hallazgos.",
+                "start_utc": "2026-12-22T09:00:00Z",
+                "end_utc": "2026-12-22T16:30:00Z"
+              }
+            ],
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "Edades de 9 a 11 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "La edad encaja. Hay que entender francés y confirmar plaza."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "La edad aún es inferior al mínimo del grupo."
+              }
+            },
+            "entry": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+            "questions": [
+              "Comprobar plazas en cada grupo y que el menor entiende francés."
+            ]
+          }
+        ],
+        "sessions": [
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
+        "included": "La jornada completa incluye pícnic. Se puede llevar comida propia por el mismo precio. Llevar botella de agua.",
+        "extras": "Consultar las condiciones de devolución al comprar.",
+        "deposit": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+        "currency": "EUR",
+        "amount": 95,
+        "unit": "per_child_course"
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Hay que entender francés y confirmar plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "La edad aún es inferior al mínimo del grupo."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Comprobar plazas en cada grupo y que el menor entiende francés."
+      ],
+      "sources": [
+        {
+          "url": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "science"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 95,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1907-20261222-20261222-ages-9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1908",
+      "slug": "cite-paris-noel-fossils",
+      "provider": "Cité des sciences · Fossiles",
+      "country": "Francia",
+      "iso": "FRA",
+      "place": "Cité des sciences et de l’industrie · Paris",
+      "age": "Edades de 6 a 8 años.",
+      "programme": "Fósiles, formación de rocas y huellas de la vida antigua.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Talleres únicamente en francés.",
+      "confirmed_instruction_languages": [
+        "FR"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Diciembre de 2026. Cada día se reserva por separado.",
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "variant_key": "ages-6",
+            "start": "2026-12-30",
+            "end": "2026-12-30",
+            "label": "6–8 · 10:00–17:30",
+            "price": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Horario publicado. Confirmar por separado las plazas y la admisión."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "topic": "Fósiles, formación de rocas y huellas de la vida antigua.",
+                "start_utc": "2026-12-30T09:00:00Z",
+                "end_utc": "2026-12-30T16:30:00Z"
+              }
+            ],
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "Edades de 6 a 8 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "La edad supera el límite máximo del grupo."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Admite a partir de 6 años cumplidos el día del taller. Hay que entender francés."
+              }
+            },
+            "entry": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+            "questions": [
+              "Comprobar plazas en cada grupo y que el menor entiende francés."
+            ]
+          }
+        ],
+        "sessions": [
+          [
+            "2026-12-30",
+            "2026-12-30"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
+        "included": "La jornada completa incluye pícnic. Se puede llevar comida propia por el mismo precio. Llevar botella de agua.",
+        "extras": "Consultar las condiciones de devolución al comprar.",
+        "deposit": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+        "currency": "EUR",
+        "amount": 95,
+        "unit": "per_child_course"
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "La edad supera el límite máximo del grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Admite a partir de 6 años cumplidos el día del taller. Hay que entender francés."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Comprobar plazas en cada grupo y que el menor entiende francés."
+      ],
+      "sources": [
+        {
+          "url": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "science"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 95,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1908-20261230-20261230-ages-6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1909",
+      "slug": "cite-paris-noel-spy",
+      "provider": "Cité des sciences · Espion des services secrets",
+      "country": "Francia",
+      "iso": "FRA",
+      "place": "Cité des sciences et de l’industrie · Paris",
+      "age": "Edades de 6 a 8 años. / Edades de 12 a 14 años.",
+      "programme": "Huellas dactilares, descifrado de códigos, detectores y análisis de imágenes.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Talleres únicamente en francés.",
+      "confirmed_instruction_languages": [
+        "FR"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Diciembre de 2026. Cada día se reserva por separado.",
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "variant_key": "ages-6",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "6–8 · 10:00–17:30",
+            "price": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Horario publicado. Confirmar por separado las plazas y la admisión."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "topic": "Huellas dactilares, descifrado de códigos, detectores y análisis de imágenes.",
+                "start_utc": "2026-12-21T09:00:00Z",
+                "end_utc": "2026-12-21T16:30:00Z"
+              }
+            ],
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "Edades de 6 a 8 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "La edad supera el límite máximo del grupo."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Admite a partir de 6 años cumplidos el día del taller. Hay que entender francés."
+              }
+            },
+            "entry": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+            "questions": [
+              "Comprobar plazas en cada grupo y que el menor entiende francés."
+            ]
+          },
+          {
+            "variant_key": "ages-12",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "12–14 · 10:00–17:30",
+            "price": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
+            "source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Horario publicado. Confirmar por separado las plazas y la admisión."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Paris",
+                "ical_timed": true,
+                "topic": "Huellas dactilares, descifrado de códigos, detectores y análisis de imágenes.",
+                "start_utc": "2026-12-23T09:00:00Z",
+                "end_utc": "2026-12-23T16:30:00Z"
+              }
+            ],
+            "place": "Cité des sciences et de l’industrie · Paris",
+            "age": "Edades de 12 a 14 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "later",
+                "detail": "La edad aún es inferior al mínimo del grupo."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "La edad aún es inferior al mínimo del grupo."
+              }
+            },
+            "entry": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+            "questions": [
+              "Comprobar plazas en cada grupo y que el menor entiende francés."
+            ]
+          }
+        ],
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "EUR 95 por menor y día, EUR 85 con abono sujeto a cupo.",
+        "included": "La jornada completa incluye pícnic. Se puede llevar comida propia por el mismo precio. Llevar botella de agua.",
+        "extras": "Consultar las condiciones de devolución al comprar.",
+        "deposit": "Encuentro a las 09:45 en el nivel 0. Llevar la entrada electrónica cumplimentada. El acompañante firma los documentos al dejar al menor.",
+        "currency": "EUR",
+        "amount": 95,
+        "unit": "per_child_course"
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "La edad supera el límite máximo del grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Admite a partir de 6 años cumplidos el día del taller. Hay que entender francés."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Comprobar plazas en cada grupo y que el menor entiende francés."
+      ],
+      "sources": [
+        {
+          "url": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "pairing": {
+        "venue_id": "fra-cite-des-sciences-paris",
+        "verified_source": "https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science",
+        "checked": "2026-11-07",
+        "fee": {
+          "amount": 95,
+          "currency": "EUR",
+          "unit": "per_child_course"
+        }
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1909-20261221-20261221-ages-6"
+          ]
+        },
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1909-20261223-20261223-ages-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1910",
+      "slug": "academy-ai-robot-paris-holidays",
+      "provider": "Academy AI Robot · Robotics and 3D Printing",
+      "country": "Francia",
+      "iso": "FRA",
+      "place": "Academy AI Robot · 5 Rue Blondel · Paris",
+      "age": "Edades de 6 a 18 años.",
+      "programme": "Robótica por proyectos y curso independiente de modelado e impresión 3D. Se pueden solicitar por separado.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "El operador enumera francés, chino e inglés. Confirmar el grupo en inglés y el nivel de la próxima sesión.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Las últimas sesiones publicadas, 19–23 y 26–30 de octubre de 2026, ya pasaron. No se han publicado nuevas fechas.",
+        "variant_keyed": true,
+        "session_details": [],
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "Últimos precios: EUR 280 robótica, EUR 260 modelado e impresión, EUR 520 ambos cursos.",
+        "included": "Formato de la última edición: 5 medias jornadas, 10:00–12:30 o 15:00–17:30, de 2 horas 30 minutos.",
+        "extras": "El kit del robot es opcional y se paga aparte. La pieza impresa en 3D está incluida.",
+        "deposit": "Confirmar las nuevas fechas, el idioma del grupo, el precio exacto del kit y las plazas.",
+        "currency": "EUR"
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar las nuevas fechas, el idioma del grupo, el precio exacto del kit y las plazas."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar las nuevas fechas, el idioma del grupo, el precio exacto del kit y las plazas."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar las nuevas fechas, el idioma del grupo, el precio exacto del kit y las plazas."
+      ],
+      "sources": [
+        {
+          "url": "https://www.academyairobot.com/en/stages/",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "design"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "availability": {
+        "status": "closed",
+        "label": "Las últimas sesiones publicadas, 19–23 y 26–30 de octubre de 2026, ya pasaron. No se han publicado nuevas fechas."
+      },
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -336198,7 +337638,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 254,
+  "version": 255,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -349433,7 +350873,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1902,
+      "total_dossiers": 1910,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -371283,6 +372723,81 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP1903",
+      "event_id": "CP1903-20261222-20261222-decoration",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1903",
+      "event_id": "CP1903-20261223-20261223-robots",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1903",
+      "event_id": "CP1903-20261224-20261224-tio",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1903",
+      "event_id": "CP1903-20261228-20261228-textiles",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1903",
+      "event_id": "CP1903-20261229-20261229-wind",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1903",
+      "event_id": "CP1903-20261230-20261230-ultrasound",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1903",
+      "event_id": "CP1903-20261231-20261231-calendar",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1904",
+      "event_id": "CP1904-20261222-20270106-winter-window",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1905",
+      "event_id": "CP1905-20261228-20261228-ages-9",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1905",
+      "event_id": "CP1905-20261229-20261229-ages-6",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1906",
+      "event_id": "CP1906-20261221-20261221-ages-9",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1907",
+      "event_id": "CP1907-20261222-20261222-ages-9",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1908",
+      "event_id": "CP1908-20261230-20261230-ages-6",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1909",
+      "event_id": "CP1909-20261221-20261221-ages-6",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1909",
+      "event_id": "CP1909-20261223-20261223-ages-12",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -375862,10 +377377,25 @@
     "CP1897-20270130-20270130-senior-2027-01-30",
     "CP1897-20270213-20270213-senior-2027-02-13",
     "CP1897-20270227-20270227-senior-2027-02-27",
-    "CP1898-20261229-20261229-tech-toys"
+    "CP1898-20261229-20261229-tech-toys",
+    "CP1903-20261222-20261222-decoration",
+    "CP1903-20261223-20261223-robots",
+    "CP1903-20261224-20261224-tio",
+    "CP1903-20261228-20261228-textiles",
+    "CP1903-20261229-20261229-wind",
+    "CP1903-20261230-20261230-ultrasound",
+    "CP1903-20261231-20261231-calendar",
+    "CP1904-20261222-20270106-winter-window",
+    "CP1905-20261228-20261228-ages-9",
+    "CP1905-20261229-20261229-ages-6",
+    "CP1906-20261221-20261221-ages-9",
+    "CP1907-20261222-20261222-ages-9",
+    "CP1908-20261230-20261230-ages-6",
+    "CP1909-20261221-20261221-ages-6",
+    "CP1909-20261223-20261223-ages-12"
   ],
   "integration": {
-    "generated_sessions": 4149,
+    "generated_sessions": 4164,
     "reused_legacy_events": 73,
     "seasonal_windows": 73,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

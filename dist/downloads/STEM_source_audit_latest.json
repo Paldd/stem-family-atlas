@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 9833,
-    "competition_cards": 4458,
-    "event_cards": 486,
-    "camp_cards": 4889,
+    "cards": 9856,
+    "competition_cards": 4459,
+    "event_cards": 491,
+    "camp_cards": 4906,
     "league_profiles": 291,
-    "major_exhibition_cards": 389,
+    "major_exhibition_cards": 394,
     "vex_cards": 814,
     "countries_with_records": 211,
     "fully_audited_countries": 0
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 2102,
+      "total": 2125,
       "countries_with_records": 51,
-      "competitions": 572,
-      "events": 122,
-      "major_exhibitions": 97,
-      "camps": 1408,
+      "competitions": 573,
+      "events": 127,
+      "major_exhibitions": 102,
+      "camps": 1425,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -12776,6 +12776,61 @@
       "new": false
     },
     {
+      "id": "E487",
+      "name": "MNACTEC · Robots. Dels autòmats de Leonardo als humanoides del futur",
+      "country": "Испания",
+      "region": "Европа",
+      "start": "2026-09-20",
+      "end": "2027-09-19",
+      "visitor_policy": "family",
+      "source": "https://mnactec.cat/ca/exposicio-detall/robots",
+      "new": false
+    },
+    {
+      "id": "E488",
+      "name": "MNACTEC · Visita guiada Robots",
+      "country": "Испания",
+      "region": "Европа",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "visitor_policy": "family",
+      "source": "https://mnactec.cat/index.php/es/actividad-detalle/visita-guiada-robots",
+      "new": false
+    },
+    {
+      "id": "E489",
+      "name": "MNACTEC · Visita guiada Robots",
+      "country": "Испания",
+      "region": "Европа",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "visitor_policy": "family",
+      "source": "https://mnactec.cat/index.php/es/actividad-detalle/visita-guiada-robots",
+      "new": false
+    },
+    {
+      "id": "E490",
+      "name": "Palais de la découverte · Un robot, comment ça robotte ?",
+      "country": "Франция",
+      "region": "Европа",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "visitor_policy": "adults_only",
+      "source": "https://www.palais-decouverte.fr/au-programme/un-robot-comment-ca-robotte",
+      "new": false
+    },
+    {
+      "id": "E491",
+      "name": "Palais de la découverte · Un robot, comment ça robotte ?",
+      "country": "Франция",
+      "region": "Европа",
+      "start": "2026-12-20",
+      "end": "2026-12-20",
+      "visitor_policy": "adults_only",
+      "source": "https://www.palais-decouverte.fr/au-programme/un-robot-comment-ca-robotte",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -15193,14 +15248,14 @@
       }
     ],
     "counts": {
-      "records": 4889,
-      "holiday": 4558,
+      "records": 4906,
+      "holiday": 4575,
       "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1036,
-      "en_es_instruction": 1579,
+      "en_es_instruction": 1581,
       "en_es_support": 27,
-      "family_instruction": 1579,
+      "family_instruction": 1581,
       "family_support": 27,
       "ru_instruction": 4,
       "language_lessons": 410,

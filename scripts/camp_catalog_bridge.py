@@ -211,7 +211,7 @@ def integrate(catalog, dossier_report):
             family_fit=variant.get('family_fit',p['family_fit'])
             # A stay offering several optional workshops is not a robotics-only course.
             themes=[t for t in p['themes'] if t not in ['robotics','coding','ai']] if p['slug'] in GENERAL_STAYS else list(p['themes'])
-            if not themes:themes=['general']
+            themes=variant.get('catalog_themes',themes) or ['general']
             formats=variant.get('formats',p['formats'])
             mode='unconfirmed_program' if 'unknown' in formats else 'mixed_camp' if {'day','boarding'}<=set(formats) else 'residential' if ('boarding' in formats or p['slug']=='family-aviation') else 'day_camp'
             # New dossiers may explicitly classify accompanied residential stays.

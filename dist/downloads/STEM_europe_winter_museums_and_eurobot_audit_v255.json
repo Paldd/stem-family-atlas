@@ -1,0 +1,92 @@
+{
+  "version": 255,
+  "checked": "2026-11-07",
+  "previous_goal_turn_classification": "progress",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "E487",
+    "E488",
+    "E489",
+    "C4460",
+    "L741",
+    "L742",
+    "E490",
+    "E491"
+  ],
+  "new_generated_camp_rows": 15,
+  "new_camp_dossiers": {
+    "mnactec-terrassa-nadal-2026": "CP1903",
+    "buddies-castellon-christmas-2026": "CP1904",
+    "cite-paris-noel-volcano": "CP1905",
+    "cite-paris-noel-pharaoh": "CP1906",
+    "cite-paris-noel-archaeology": "CP1907",
+    "cite-paris-noel-fossils": "CP1908",
+    "cite-paris-noel-spy": "CP1909",
+    "academy-ai-robot-paris-holidays": "CP1910"
+  },
+  "refreshed_camp_dossiers": [
+    "CP1650",
+    "CP1651",
+    "CP1652",
+    "CP1653"
+  ],
+  "terrassa_exact_workshop_days": [
+    "2026-12-22",
+    "2026-12-23",
+    "2026-12-24",
+    "2026-12-28",
+    "2026-12-29",
+    "2026-12-30",
+    "2026-12-31"
+  ],
+  "terrassa_registration_open": "2026-11-16",
+  "terrassa_registration_close": "2026-12-14",
+  "terrassa_sibling_day_eur": 33.15,
+  "terrassa_sibling_day_with_both_childcare_eur": 43.15,
+  "paris_exact_workshop_days": 14,
+  "paris_parallel_days": [
+    "2026-12-21",
+    "2026-12-22",
+    "2026-12-28",
+    "2026-12-29",
+    "2026-12-30"
+  ],
+  "paris_pair_eur": 190,
+  "paris_pair_subscription_eur": 170,
+  "paris_instruction_languages": [
+    "FR"
+  ],
+  "buddies_instruction_languages": [
+    "EN"
+  ],
+  "buddies_attendance_days_confirmed": false,
+  "reviewed_existing_events": [
+    "E394"
+  ],
+  "source_requests": 17,
+  "notes": [
+    "Нужны анкета, медицинская форма, копии карты CATSalut и прививочной карты, квитанция. Семье из-за рубежа заранее уточнить, примут ли документы-замены.",
+    "Анонс на каталонском. Язык ведущего для каждой группы уточнить. 31 декабря часть занятия посвящена английской лексике.",
+    "Занятия только на французском.",
+    "Нужна предварительная запись из-за небольших групп. Подтвердить адрес группы, календарь и стоимость.",
+    "Последние опубликованные смены 19–23 и 26–30 октября 2026 уже прошли. Новые даты не опубликованы.",
+    "Уточнить местную регистрацию, право иностранной команды, оплату, язык судейства и распределение мест на международный этап.",
+    "90 минут. Форма записи находится в разделе для школ. Уточнить цену, школьную ступень и допуск внешней группы.",
+    "Карточка E394 уже учитывает часы 14:00–18:00 в выходные, 4 закрытых уикенда и семейный билет CHF 20."
+  ],
+  "source_review": [
+    {
+      "url": "https://ideatorio.usi.ch/orari-e-tariffe",
+      "method": "public-page-browser-index",
+      "status": "verified",
+      "checked": "2026-11-07"
+    },
+    {
+      "url": "https://ideatorio.usi.ch/event/robot-pubblico",
+      "method": "public-page-browser-index",
+      "status": "verified",
+      "checked": "2026-11-07"
+    }
+  ]
+}
