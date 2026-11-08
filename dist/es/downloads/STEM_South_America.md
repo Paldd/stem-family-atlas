@@ -259,15 +259,15 @@ Comprobado: 2026-09-30
 ### E035 · gamescom latam 2027
 
 Fecha: 2027-04-22 - 2027-04-25
-Edad: hasta 14 con representante legal/componente autorizado
-Matway: Sí, por edad
-Oscar: Sí por edad
+edad: Las normas generales exigen representante legal o acompañante autorizado para menores de 14 años. Para ambos niños, llevar acreditación del adulto. Confirmar tarifas de 2027.
+Matvey: Sí con un adulto acompañante. Confirmar entrada y clasificación de edad de la actividad elegida.
+Oscar: Sí con un adulto acompañante. Confirmar entrada y clasificación de edad de la actividad elegida.
 Idioma: PT; intervenciones individuales de EN
-Entrada: Comprobar el registro actual y las condiciones de recepción del organizador
+Acceso: Las normas generales exigen representante legal o acompañante autorizado para menores de 14 años. Para ambos niños, llevar acreditación del adulto. Confirmar tarifas de 2027.
 Costo: Todavía no se han verificado los billetes de 2027.
-Limitaciones: Las secciones 2026 del sitio web se mantienen cerca de las fechas 2027. La entrada no garantiza un lugar en el taller/turnier; ratings juegos separados.
+Limitaciones: 22–25 de abril de 2027 en Distrito Anhembi. El documento de venta de 2026 corresponde a la edición anterior. La lista de stands de 2026 no se traslada a 2027.
 Fuente: https://latam.gamescom.global/en/
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-08
 
 ### # E038 · Brasil Game Show 2026 días públicos
 
@@ -5677,6 +5677,19 @@ Limitaciones: El calendario general anuncia Medellín el 29 de mayo de 2027. La 
 Fuente: https://www.robojam.live/events
 Se ha comprobado: 2026-11-08
 
+### C4585 · gamescom latam BIG Festival 2027 · Indie Game Submission
+
+Fecha: 2027-04-22 - 2027-04-25
+edad: Se admiten autores de cualquier país. Un menor necesita autorización firmada de su representante legal. El apartado publicado de elegibilidad no indica edad mínima.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: Hay bases en inglés y portugués. Confirmar idiomas admitidos del proyecto y del tráiler.
+Acceso: Se admiten autores de cualquier país. Un menor necesita autorización firmada de su representante legal. El apartado publicado de elegibilidad no indica edad mínima.
+Precio: El envío del juego es gratuito. Los gastos de desarrollo y un posible viaje van aparte.
+Limitaciones: El jurado selecciona finalistas para demostración pública y elige ganadores por categorías. La fecha exacta de premios sigue pendiente.
+Fuente: https://latam.gamescom.global/en/big-festival-en/
+Se ha comprobado: 2026-11-08
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08
@@ -7981,15 +7994,15 @@ Se ha comprobado: 2026-11-07
 ### E298 · Brasil Game Show 2027 · public exhibition
 
 Fecha: 2027-10-09 — 2027-10-12
-edad: Menores de 12 años con representante legal. Con otro adulto desde 18 años se exige documento original del menor y autorización notarial del representante legal.
-Matvey: Sí, con padre, madre o representante legal según condiciones de la edición 2027.
-Oscar: Sí, con padre, madre o representante legal según condiciones de la edición 2027.
+edad: Las reglas de BGS 2027 abren la feria a todas las edades. Menores de 12 años deben ir con representante legal o adulto desde 18 años con documento original del menor y autorización notarial.
+Matvey: Sí con un adulto acompañante. Confirmar entrada y clasificación de edad de la actividad elegida.
+Oscar: Sí con un adulto acompañante. Confirmar entrada y clasificación de edad de la actividad elegida.
 Idioma: Confirmar idioma del taller o demostración concretos.
-Acceso: Menores de 12 años con representante legal. Con otro adulto desde 18 años se exige documento original del menor y autorización notarial del representante legal.
-Precio: Entrada reducida de un día de 179 BRL para el 9–10 de octubre o 139 BRL para el 11–12. Una opción de descuento es donar 1 kg de alimento no perecedero. Confirmar documentos y tarifa vigente.
+Acceso: Las reglas de BGS 2027 abren la feria a todas las edades. Menores de 12 años deben ir con representante legal o adulto desde 18 años con documento original del menor y autorización notarial.
+Precio: La página de BGS 2027 muestra BRL 179 para sábado o domingo y BRL 139 para lunes o martes con meia-entrada. El descuento exige cumplir requisitos. Una opción es llevar 1 kg de alimentos no perecederos.
 Limitaciones:
 Fuente: https://www.brasilgameshow.com.br/ingressos/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### E299 · Bett Brasil 2027 · Education Technology
 

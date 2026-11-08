@@ -938,11 +938,11 @@
       "period": "",
       "date_status": "Confirmado",
       "deadline": "",
-      "age": "hasta 14 con un representante legal / acompañante autorizado",
-      "mat": "Sí, por edad",
-      "osc": "Sí, por edad",
+      "age": "Las normas generales exigen representante legal o acompañante autorizado para menores de 14 años. Para ambos niños, llevar acreditación del adulto. Confirmar tarifas de 2027.",
+      "mat": "Sí con un adulto acompañante. Confirmar entrada y clasificación de edad de la actividad elegida.",
+      "osc": "Sí con un adulto acompañante. Confirmar entrada y clasificación de edad de la actividad elegida.",
       "format": "visita con el padre",
-      "entry": "comprobar el registro actual y las condiciones de recepción en el organizador",
+      "entry": "Las normas generales exigen representante legal o acompañante autorizado para menores de 14 años. Para ambos niños, llevar acreditación del adulto. Confirmar tarifas de 2027.",
       "gear": "No es necesario.",
       "language": "PT; las actuaciones individuales EN",
       "cost": "los boletos 2027 aún se comprobar",
@@ -952,9 +952,9 @@
       "action": "comprobar la solicitud actual , el grupo de edad y la admisión extranjera",
       "source": "https://latam.gamescom.global/en/",
       "proof": "se abren las principales y terms-of-use: fecha 2027 y regla hasta 14. fuente de reglas: https://latam.gamescom.global/en/terms-of-use/",
-      "checked": "2026-09-30",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "Las secciones 2026 del sitio permanecen junto a las fechas 2027. la entrada no garantiza un lugar en el taller/tornel; las calificaciones de los juegos por separado.",
+      "note": "22–25 de abril de 2027 en Distrito Anhembi. El documento de venta de 2026 corresponde a la edición anterior. La lista de stands de 2026 no se traslada a 2027.",
       "scope": "international",
       "themes": [
         "games",
@@ -969,8 +969,8 @@
       "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse.",
       "exhibition_tier": "global",
       "visitor_policy": "family",
-      "visitor_policy_note": "hasta 14 con un representante legal / acompañante autorizado",
-      "adult_entry": "comprobar el registro actual y las condiciones de recepción en el organizador",
+      "visitor_policy_note": "Las normas generales exigen representante legal o acompañante autorizado para menores de 14 años. Para ambos niños, llevar acreditación del adulto. Confirmar tarifas de 2027.",
+      "adult_entry": "Las normas generales exigen representante legal o acompañante autorizado para menores de 14 años. Para ambos niños, llevar acreditación del adulto. Confirmar tarifas de 2027.",
       "highlights": [
         "demostraciones de juegos",
         "programa de visitantes públicos",
@@ -979,13 +979,28 @@
       "exhibitors": [],
       "exhibitor_note": "Los nombres de las compañías de la edición seleccionada no han sido verificados; la lista anterior no garantiza la participación en la nueva temporada.",
       "exhibitor_directory_url": "https://latam.gamescom.global/en/",
-      "event_group": "gamescom latam",
+      "event_group": "gamescom latam 2027",
       "admission_kind": "visitor",
       "references": [
         {
           "url": "https://latam.gamescom.global/en/terms-of-use/",
           "label": "condiciones generales actuales: menores de 14 años con acompañante"
+        },
+        {
+          "url": "https://latam.gamescom.global/pt/evento/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://latam.gamescom.global/pt/termos-de-uso/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://latam.gamescom.global/pt/termos-e-condicoes-para-aquisicao-de-ingressos/",
+          "label": "Página de la organización o reglamento de la categoría."
         }
+      ],
+      "related_ids": [
+        "C4585"
       ]
     },
     {
@@ -28527,6 +28542,88 @@
       ]
     },
     {
+      "id": "C4585",
+      "title": "gamescom latam BIG Festival 2027 · Indie Game Submission",
+      "block": "Competiciones",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Distrito Anhembi · São Paulo + Online",
+      "start": "2027-04-22",
+      "end": "2027-04-25",
+      "period": "",
+      "deadline": "2027-01-15",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://latam.gamescom.global/en/big-festival-en/",
+      "references": [
+        {
+          "url": "https://latam.gamescom.global/pt/big-festival/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://latam.gamescom.global/en/big-festival-rules/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://pt.linkedin.com/posts/gamescomlatam_%C3%A9-hoje-as-inscri%C3%A7%C3%B5es-para-o-gamescom-activity-7511475249927036928-5H9w",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://festival.bigfestival.com.br/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://latam.gamescom.global/pt/evento/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Se admiten autores de cualquier país. Un menor necesita autorización firmada de su representante legal. El apartado publicado de elegibilidad no indica edad mínima.",
+      "mat": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "osc": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "format": "Una solicitud en línea por juego. Los juegos seleccionados se muestran en la feria.",
+      "entry": "Se admiten autores de cualquier país. Un menor necesita autorización firmada de su representante legal. El apartado publicado de elegibilidad no indica edad mínima.",
+      "gear": "Presentar un juego digital jugable y un tráiler. Se admiten prototipos y versiones sin terminar si el jurado puede ejecutar el juego. Para un juego publicado, el lanzamiento debe ser desde el 22 de abril de 2025. Se exigen derechos de autor o permiso del titular.",
+      "language": "Hay bases en inglés y portugués. Confirmar idiomas admitidos del proyecto y del tráiler.",
+      "languages": [
+        "EN",
+        "PT"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "El envío del juego es gratuito. Los gastos de desarrollo y un posible viaje van aparte.",
+      "level": "Gran evento internacional de la industria de videojuegos",
+      "reward": "El jurado selecciona finalistas para demostración pública y elige ganadores por categorías. La fecha exacta de premios sigue pendiente.",
+      "priority": "P2 — participación según requisitos",
+      "action": "Preparar enlace funcional, tráiler y autorización del tutor. Comprobar acceso para el jurado y condiciones de exhibición de los proyectos seleccionados.",
+      "note": "El jurado selecciona finalistas para demostración pública y elige ganadores por categorías. La fecha exacta de premios sigue pendiente.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Gran evento internacional de la industria de videojuegos",
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "rulebook",
+      "date_scope": "festival_window",
+      "deadline_utc": "2027-01-16T02:59:00Z",
+      "deadline_label": "Envío del juego",
+      "deadline_note": "Cierre el 15 de enero de 2027, 23:59 en São Paulo y 20:59 en Costa Rica. El contador del sitio coincide con el anuncio de la organización.",
+      "registration_status": "La organización anunció la convocatoria. La selección depende de la revisión de la solicitud y del juego.",
+      "registration_url": "https://festival.bigfestival.com.br/",
+      "delivery_mode": "hybrid",
+      "event_group": "gamescom latam 2027",
+      "related_ids": [
+        "E035"
+      ]
+    },
+    {
       "id": "CP047-20270103-20270108",
       "block": "Campamentos",
       "title": "Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08",
@@ -45444,17 +45541,17 @@
       "deadline": "",
       "period": "El 9 de octubre el pabellón abre de 13:00 a 21:00. Del 10 al 12 de octubre, de 12:00 a 21:00.",
       "date_status": "Confirmado",
-      "age": "Menores de 12 años con representante legal. Con otro adulto desde 18 años se exige documento original del menor y autorización notarial del representante legal.",
-      "mat": "Sí, con padre, madre o representante legal según condiciones de la edición 2027.",
-      "osc": "Sí, con padre, madre o representante legal según condiciones de la edición 2027.",
+      "age": "Las reglas de BGS 2027 abren la feria a todas las edades. Menores de 12 años deben ir con representante legal o adulto desde 18 años con documento original del menor y autorización notarial.",
+      "mat": "Sí con un adulto acompañante. Confirmar entrada y clasificación de edad de la actividad elegida.",
+      "osc": "Sí con un adulto acompañante. Confirmar entrada y clasificación de edad de la actividad elegida.",
       "format": "Visita al pabellón de exposición o demostraciones según reglas del organizador.",
-      "entry": "Menores de 12 años con representante legal. Con otro adulto desde 18 años se exige documento original del menor y autorización notarial del representante legal.",
+      "entry": "Las reglas de BGS 2027 abren la feria a todas las edades. Menores de 12 años deben ir con representante legal o adulto desde 18 años con documento original del menor y autorización notarial.",
       "gear": "Videojuegos, tecnología de juegos y zonas de exposición. Confirmar clasificación de cada juego.",
       "language": "Confirmar idioma del taller o demostración concretos.",
       "languages": [],
       "language_mode": "unconfirmed",
       "language_certainty": "Confirmar idioma del taller o demostración concretos.",
-      "cost": "Entrada reducida de un día de 179 BRL para el 9–10 de octubre o 139 BRL para el 11–12. Una opción de descuento es donar 1 kg de alimento no perecedero. Confirmar documentos y tarifa vigente.",
+      "cost": "La página de BGS 2027 muestra BRL 179 para sábado o domingo y BRL 139 para lunes o martes con meia-entrada. El descuento exige cumplir requisitos. Una opción es llevar 1 kg de alimentos no perecederos.",
       "level": "Exposición profesional internacional",
       "reward": "Demostraciones y conocimiento de proyectos.",
       "priority": "P1 — visita familiar según normas",
@@ -45468,10 +45565,14 @@
         {
           "url": "https://www.brasilgameshow.com.br/lista-de-expositores/",
           "label": "Archivo de expositores de 2026"
+        },
+        {
+          "url": "https://www.brasilgameshow.com.br/",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "proof": "Las condiciones de visita con menores están publicadas para esta edición.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "",
       "themes": [
@@ -45484,9 +45585,9 @@
       "admission_kind": "visitor",
       "evidence_level": "event_page",
       "date_scope": "exhibition_window",
-      "adult_entry": "Menores de 12 años con representante legal. Con otro adulto desde 18 años se exige documento original del menor y autorización notarial del representante legal.",
+      "adult_entry": "Las reglas de BGS 2027 abren la feria a todas las edades. Menores de 12 años deben ir con representante legal o adulto desde 18 años con documento original del menor y autorización notarial.",
       "visitor_policy": "family",
-      "visitor_policy_note": "Menores de 12 años con representante legal. Con otro adulto desde 18 años se exige documento original del menor y autorización notarial del representante legal.",
+      "visitor_policy_note": "Las reglas de BGS 2027 abren la feria a todas las edades. Menores de 12 años deben ir con representante legal o adulto desde 18 años con documento original del menor y autorización notarial.",
       "exhibition_tier": "global",
       "highlights": [],
       "exhibitors": [],

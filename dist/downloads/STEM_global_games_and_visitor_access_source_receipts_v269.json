@@ -1,0 +1,404 @@
+{
+  "captures": [
+    {
+      "key": "asia-date",
+      "url": "https://www.gamescom.asia/about/gamescom-asia/date-time",
+      "final_url": "https://www.gamescom.asia/about/gamescom-asia/date-time",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 87428,
+      "sha256": "14122253176da0d9ba6a2a0b13b35b20ad7a58942ef04e23bc564b5bbcdca7b3",
+      "file": "asia-date.html"
+    },
+    {
+      "key": "asia-venue",
+      "url": "https://www.gamescom.asia/about/gamescom-asia/venue",
+      "final_url": "https://www.gamescom.asia/about/gamescom-asia/venue",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 65120,
+      "sha256": "9b087b8335feaa198156b318622e675652a4d66755070fed4bb5c1a9ebb811c3",
+      "file": "asia-venue.html"
+    },
+    {
+      "key": "asia-faq",
+      "url": "https://gamescom.asia/ent/b2c-faqs",
+      "final_url": "https://gamescom.asia/ent/b2c-faqs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 84781,
+      "sha256": "1bd22ca4fa5d50231b7b21e249896031f3e784cc3cb10d471c76127166c72ff4",
+      "file": "asia-faq.html"
+    },
+    {
+      "key": "asia-press",
+      "url": "https://gamescom.asia/press/closing-press-release",
+      "final_url": "https://gamescom.asia/press/closing-press-release",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 130167,
+      "sha256": "0498f0993b29033bfa98c828ca43f0cc16ee76cc941da0b5ac74b77e31b2d61e",
+      "file": "asia-press.html"
+    },
+    {
+      "key": "asia-biz-faq",
+      "url": "https://gamescom.asia/biz/b2b-faqs",
+      "final_url": "https://gamescom.asia/biz/b2b-faqs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 88058,
+      "sha256": "fe68f87848925ed5a5fd970dcb00fe57b0c2dce769ee4c6c06f257d79e287891",
+      "file": "asia-biz-faq.html"
+    },
+    {
+      "key": "cologne-open",
+      "url": "https://www.gamescom.global/en/info/opening-times",
+      "final_url": "https://www.gamescom.global/en/info/opening-times",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 303643,
+      "sha256": "911bb83884b7d73dd6d0851acbbf0a77ecb94eeb915339c8f50067f120ee14ff",
+      "file": "cologne-open.html"
+    },
+    {
+      "key": "cologne-public",
+      "url": "https://www.gamescom.global/en/info/visitors",
+      "final_url": "https://www.gamescom.global/en/info/visitors",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 314351,
+      "sha256": "38ca5a3bef11ca733c767a95ecd1e335eef6f2241e6c7c517220ba67fc5d53e5",
+      "file": "cologne-public.html"
+    },
+    {
+      "key": "cologne-biz",
+      "url": "https://www.gamescom.global/en/info/trade-visitors",
+      "final_url": "https://www.gamescom.global/en/info/trade-visitors",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 306161,
+      "sha256": "4dd85e0ecbce3d10d50b33fc761825de9b9ee075f5b24624e9756c710d5a5f0d",
+      "file": "cologne-biz.html"
+    },
+    {
+      "key": "cologne-dev",
+      "url": "https://dev.gamescom.global/",
+      "final_url": "https://dev.gamescom.global/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 454999,
+      "sha256": "11f8b2cc693bae0eb6afd554b4fb6af1e991f1283fd76de0a6e6d13e23cdcb6f",
+      "file": "cologne-dev.html"
+    },
+    {
+      "key": "dev-leadership",
+      "url": "https://dev.gamescom.global/leadership-events/",
+      "final_url": "https://dev.gamescom.global/leadership-events/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 249618,
+      "sha256": "8ce5ba3c53f9ed7469917b080eca39e2550e1533f480f0b64ece53f3806b6dd8",
+      "file": "dev-leadership.html"
+    },
+    {
+      "key": "dev-tickets",
+      "url": "https://dev.gamescom.global/tickets/",
+      "final_url": "https://dev.gamescom.global/tickets/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 141656,
+      "sha256": "7b2249737ab5f94e4d802ccb55a3f17646bd9fd65c0d74ce39581e9aeaa1f257",
+      "file": "dev-tickets.html"
+    },
+    {
+      "key": "latam-event",
+      "url": "https://latam.gamescom.global/pt/evento/",
+      "final_url": "https://latam.gamescom.global/pt/evento/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 406320,
+      "sha256": "af24577846b4ba31078da610a00891bccdcc05fa2f9e61bd6e8922d417b3d41d",
+      "file": "latam-event.html"
+    },
+    {
+      "key": "latam-terms",
+      "url": "https://latam.gamescom.global/pt/termos-de-uso/",
+      "final_url": "https://latam.gamescom.global/pt/termos-de-uso/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 416359,
+      "sha256": "021405b779085de91af21407d69eed2b487e64e10835ef64a6a3c56b79215ed5",
+      "file": "latam-terms.html"
+    },
+    {
+      "key": "latam-ticket-terms",
+      "url": "https://latam.gamescom.global/pt/termos-e-condicoes-para-aquisicao-de-ingressos/",
+      "final_url": "https://latam.gamescom.global/pt/termos-e-condicoes-para-aquisicao-de-ingressos/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 391422,
+      "sha256": "7084c08d8fab2c82aad50b1c5c7e540510e2944ba344ae96b3c7ecfb00457d31",
+      "file": "latam-ticket-terms.html"
+    },
+    {
+      "key": "latam-portal",
+      "url": "https://festival.bigfestival.com.br/",
+      "final_url": "https://festival.bigfestival.com.br/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 2105,
+      "sha256": "705a9c5ff11dcb1445a171cf10b646d0b850da5e750bdbb8fc91ffd6ae10072e",
+      "file": "latam-portal.html"
+    },
+    {
+      "key": "latam-big",
+      "url": "https://latam.gamescom.global/en/big-festival-en/",
+      "final_url": "https://latam.gamescom.global/en/big-festival-en/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 505624,
+      "sha256": "9f019f8c039290ff69d3028eb38bd688f8cb5d710b6ef0bb688906734f728572",
+      "file": "latam-big.html"
+    },
+    {
+      "key": "latam-big-pt",
+      "url": "https://latam.gamescom.global/pt/big-festival/",
+      "final_url": "https://latam.gamescom.global/pt/big-festival/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 509939,
+      "sha256": "d918dd307eedb073fe53ccab2a62cab14d5d4660df0a6a07e8233c3631d67db7",
+      "file": "latam-big-pt.html"
+    },
+    {
+      "key": "latam-rules",
+      "url": "https://latam.gamescom.global/en/big-festival-rules/",
+      "final_url": "https://latam.gamescom.global/en/big-festival-rules/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 402850,
+      "sha256": "7ee2a67e8c44be2a59beea1c955cb63a602629accc0d65d61f1495b6b911fd85",
+      "file": "latam-rules.html"
+    },
+    {
+      "key": "latam-open",
+      "url": "https://pt.linkedin.com/posts/gamescomlatam_%C3%A9-hoje-as-inscri%C3%A7%C3%B5es-para-o-gamescom-activity-7511475249927036928-5H9w",
+      "final_url": "https://pt.linkedin.com/posts/gamescomlatam_%C3%A9-hoje-as-inscri%C3%A7%C3%B5es-para-o-gamescom-activity-7511475249927036928-5H9w",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 112627,
+      "sha256": "7fa5ab9c33205c9786ebde6e4a84ea0dc420b9b1370e6a3af793624112921c0a",
+      "file": "latam-open.html"
+    },
+    {
+      "key": "bgs-tickets",
+      "url": "https://www.brasilgameshow.com.br/ingressos/",
+      "final_url": "https://www.brasilgameshow.com.br/ingressos/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 110357,
+      "sha256": "f15e18fc3c5415e0673cd46dcae8d298b3805fdf40fc3bd1f1da8018530d915a",
+      "file": "bgs-tickets.html"
+    },
+    {
+      "key": "bgs-venue",
+      "url": "https://www.brasilgameshow.com.br/local-e-como-chegar/",
+      "final_url": "https://www.brasilgameshow.com.br/local-e-como-chegar/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 84034,
+      "sha256": "e8599b4eaf6f56a7346a2e7b06f69403a2d373981b3f0702681f8d8e9b664059",
+      "file": "bgs-venue.html"
+    },
+    {
+      "key": "bgs-home",
+      "url": "https://www.brasilgameshow.com.br/",
+      "final_url": "https://www.brasilgameshow.com.br/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 245353,
+      "sha256": "60014c47e721fca8853f4fbbb6360cb413afc485819c25d24a0399289a1df40e",
+      "file": "bgs-home.html"
+    },
+    {
+      "key": "pax-west",
+      "url": "https://west.paxsite.com/en-us.html",
+      "final_url": "https://west.paxsite.com/en-us.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 195099,
+      "sha256": "a961756b7d962179edf8896a2e5256abd0c832dd364701baa9db34c6c832172c",
+      "file": "pax-west.html"
+    },
+    {
+      "key": "pax-west-faq",
+      "url": "https://west.paxsite.com/en-us/info/faq.html",
+      "final_url": "https://west.paxsite.com/en-us/info/faq.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 267614,
+      "sha256": "f7a41a3a00225256787f7e80d497151e10a27e2581b223222d6fe6bbe6d4e538",
+      "file": "pax-west-faq.html"
+    },
+    {
+      "key": "pax-west-register",
+      "url": "https://west.paxsite.com/en-us/registration.html",
+      "final_url": "https://west.paxsite.com/en-us/registration.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 173621,
+      "sha256": "5a422bfc5e2a7ac556e5d27491e9f112ca0b79bbe6df42da133925513fcc9436",
+      "file": "pax-west-register.html"
+    },
+    {
+      "key": "pax-home",
+      "url": "https://www.paxsite.com/",
+      "final_url": "https://www.paxsite.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 98109,
+      "sha256": "11a0ec143c8b18c4ec7a2a28425db60d9820437c7cb1b9a2118e2f810243c1f5",
+      "file": "pax-home.html"
+    },
+    {
+      "key": "pax-east-pdf",
+      "url": "https://east.paxsite.com/content/dam/sitebuilder/rna/operations/show-specific-documents/pax-east/pax-east-2027/general-show-information/2027_PAXE%20Rules%20and%20Regulations.pdf.coredownload.932606103.pdf",
+      "final_url": "https://east.paxsite.com/content/dam/sitebuilder/rna/operations/show-specific-documents/pax-east/pax-east-2027/general-show-information/2027_PAXE%20Rules%20and%20Regulations.pdf.coredownload.932606103.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 577212,
+      "sha256": "6d1a996f01ab18936abe62ed0ec31b56e2d89872390968c5bf5a778fdf4a4eed",
+      "file": "pax-east-pdf.pdf"
+    },
+    {
+      "key": "pax-east-schedule",
+      "url": "https://east.paxsite.com/en-us/schedule.html",
+      "final_url": "https://east.paxsite.com/en-us/schedule.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 105916,
+      "sha256": "3350b10ed554743938864ac876acba89711d786646e3beef9951a065be6cd870",
+      "file": "pax-east-schedule.html"
+    },
+    {
+      "key": "pax-east-manual",
+      "url": "https://east.paxsite.com/en-us/exhibit-at-pax/exhibitor-manual.html",
+      "final_url": "https://east.paxsite.com/en-us/exhibit-at-pax/exhibitor-manual.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 188634,
+      "sha256": "3bc95cf43787a836e7ef0137f8b4e6e78a6385f0e1f0a23a3645166eed64606d",
+      "file": "pax-east-manual.html"
+    },
+    {
+      "key": "pax-houston",
+      "url": "https://unplugged.paxsite.com/houston/en-us/info.html",
+      "final_url": "https://unplugged.paxsite.com/houston/en-us/info.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 136265,
+      "sha256": "bb724559b37b8919f37ae61f3e47b273e752a78f8dbe47da44d2d7661a259671",
+      "file": "pax-houston.html"
+    },
+    {
+      "key": "ukge-tickets",
+      "url": "https://www.ukgamesexpo.co.uk/shop/tickets/",
+      "final_url": "https://www.ukgamesexpo.co.uk/shop/tickets/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 81753,
+      "sha256": "4a5c0cf1e16ab0bad7b616e037d131dc444a86e1edf152a0acbc36a729f7dced",
+      "file": "ukge-tickets.html"
+    },
+    {
+      "key": "ukge",
+      "url": "https://www.ukgamesexpo.co.uk/",
+      "final_url": "https://www.ukgamesexpo.co.uk/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 52557,
+      "sha256": "a3426b413e56a7a471b9994e99e2cac68d431e0da475f07d0f02ece6722ef6e8",
+      "file": "ukge.html"
+    },
+    {
+      "key": "spiel-tickets",
+      "url": "https://spiel-essen.de/de/besuchen/tickets-oeffnungszeiten",
+      "final_url": "https://spiel-essen.de/de/besuchen/tickets-oeffnungszeiten",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 36912,
+      "sha256": "b891363352fca0cc7f2effd7489f2c6513a4d8a5eb055f99c53fa5efbe00b060",
+      "file": "spiel-tickets.html"
+    },
+    {
+      "key": "origins",
+      "url": "https://www.originsgamefair.com/",
+      "final_url": "https://www.originsgamefair.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 310357,
+      "sha256": "c6ea22cf9b080d5d75625a0da79f7fa1dc3df14e927c37224efea41a65903632",
+      "file": "origins.html"
+    },
+    {
+      "key": "origins-badges",
+      "url": "https://www.originsgamefair.com/get-a-badge",
+      "final_url": "https://www.originsgamefair.com/get-a-badge",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 182416,
+      "sha256": "29080d66ea0fe2b17e11d4b5db2f2c6dff60ea1ad3f21085bc9daf16d51720c7",
+      "file": "origins-badges.html"
+    },
+    {
+      "key": "origins-gm",
+      "url": "https://www.originsgamefair.com/gm-how-to",
+      "final_url": "https://www.originsgamefair.com/gm-how-to",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 484810,
+      "sha256": "51018f87345b24d013b905f2766ca417b319a5d3e30d7a77c72b5a6f69c2b258",
+      "file": "origins-gm.html"
+    },
+    {
+      "key": "origins-faq",
+      "url": "https://www.originsgamefair.com/faq-2026",
+      "final_url": "https://www.originsgamefair.com/faq-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 212358,
+      "sha256": "67ad2bc1fd34be0376a71762401bd37f0780e1d2f25b2b0907ae0308a843c2e3",
+      "file": "origins-faq.html"
+    },
+    {
+      "key": "gencon",
+      "url": "https://www.gencon.com/",
+      "final_url": "https://www.gencon.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 26619,
+      "sha256": "3395615b97fdb69b5475f910aba20a26e2ea16b7378aa73fc1cdd0f21029b6e6",
+      "file": "gencon.html"
+    },
+    {
+      "key": "gencon-badge",
+      "url": "https://www.gencon.com/gen-con-indy/your_badge",
+      "final_url": "https://www.gencon.com/gen-con-indy/your_badge",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27423,
+      "sha256": "c648add6654f7702dc8af2200a6b5db680b1f7472d235aa856ec1a5531cd3ab7",
+      "file": "gencon-badge.html"
+    },
+    {
+      "key": "gencon-policy",
+      "url": "https://www.gencon.com/attend/policies",
+      "final_url": "https://www.gencon.com/attend/policies",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 57332,
+      "sha256": "f57ccf32fcbdc6660a0fac3651a031c0cf50419978004dce2aa3819cfcf7a477",
+      "file": "gencon-policy.html"
+    }
+  ]
+}

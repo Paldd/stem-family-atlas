@@ -870,10 +870,10 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 268,
+    "version": 269,
     "status": "implementation_snapshot",
-    "events": 10079,
-    "competitions": 4583,
+    "events": 10091,
+    "competitions": 4584,
     "league_profiles": 299,
     "camp_dossiers": 1930,
     "budget_offers": 312,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 534,
+    "exhibitions_events": 545,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 267,
+    "version": 268,
     "status": "implementation_snapshot",
-    "events": 10066,
-    "competitions": 4572,
+    "events": 10079,
+    "competitions": 4583,
     "league_profiles": 299,
-    "camp_dossiers": 1929,
+    "camp_dossiers": 1930,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 533,
+    "exhibitions_events": 534,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 268,
+    "prepared_ui_version": 269,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 267,
-    "previous_verified_commit": "038736ad9e9c9ed15d4148613022c961744da15f"
+    "previous_verified_ui_version": 268,
+    "previous_verified_commit": "cffb3b5a1932cbb3ba555a2694fb592f0b73959b"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 267,
-    "published_version": 267,
-    "latest_source_commit": "038736ad9e9c9ed15d4148613022c961744da15f",
-    "published_commit": "038736ad9e9c9ed15d4148613022c961744da15f",
-    "latest_workflow": 42463035757,
+    "latest_source_version": 268,
+    "published_version": 268,
+    "latest_source_commit": "cffb3b5a1932cbb3ba555a2694fb592f0b73959b",
+    "published_commit": "cffb3b5a1932cbb3ba555a2694fb592f0b73959b",
+    "latest_workflow": 42464212521,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -26945,5 +26945,63 @@
     "source_requests": 18,
     "audit": "data/robojam-and-central-america-audit-v268.json",
     "source_receipts": "data/robojam-and-central-america-source-receipts-v268.json"
+  },
+  "global_games_and_visitor_access_v269": {
+    "version": 269,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E535",
+      "E536",
+      "E537",
+      "E538",
+      "E539",
+      "E540",
+      "C4585",
+      "E541",
+      "E542",
+      "E543",
+      "E544",
+      "E545"
+    ],
+    "new_dossiers": [],
+    "refreshed_event_ids": [
+      "E116",
+      "E034",
+      "E035",
+      "E298",
+      "E115",
+      "E114"
+    ],
+    "legacy_overlay_event_ids": [
+      "E116",
+      "E034",
+      "E035",
+      "E298",
+      "E115",
+      "E114"
+    ],
+    "bangkok_public": "E535",
+    "bangkok_business": "E536",
+    "bangkok_primetime": "E537",
+    "cologne_public": "E034",
+    "cologne_business": "E538",
+    "cologne_developer": "E539",
+    "lisbon_leadership": "E540",
+    "latam_public": "E035",
+    "big_festival": "C4585",
+    "big_deadline_utc": "2027-01-16T02:59:00Z",
+    "pax_west": "E541",
+    "pax_east": "E115",
+    "pax_houston": "E114",
+    "bgs_2027": "E298",
+    "uk_games_expo": "E542",
+    "spiel_essen": "E543",
+    "origins": "E544",
+    "gen_con": "E545",
+    "source_requests": 40,
+    "audit": "data/global-games-and-visitor-access-audit-v269.json",
+    "source_receipts": "data/global-games-and-visitor-access-source-receipts-v269.json"
   }
 }

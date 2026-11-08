@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10079,
-    "competition_cards": 4583,
-    "event_cards": 534,
+    "cards": 10091,
+    "competition_cards": 4584,
+    "event_cards": 545,
     "camp_cards": 4962,
     "league_profiles": 299,
-    "major_exhibition_cards": 437,
+    "major_exhibition_cards": 448,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3293,
+      "total": 3296,
       "countries_with_records": 40,
       "competitions": 1906,
-      "events": 138,
-      "major_exhibitions": 100,
+      "events": 141,
+      "major_exhibitions": 103,
       "camps": 1249,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
@@ -48,9 +48,9 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 662,
+      "total": 663,
       "countries_with_records": 14,
-      "competitions": 421,
+      "competitions": 422,
       "events": 41,
       "major_exhibitions": 37,
       "camps": 200,
@@ -62,11 +62,11 @@
       "regions": [
         "Europa"
       ],
-      "total": 2135,
+      "total": 2140,
       "countries_with_records": 52,
       "competitions": 579,
-      "events": 131,
-      "major_exhibitions": 106,
+      "events": 136,
+      "major_exhibitions": 111,
       "camps": 1425,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
@@ -90,11 +90,11 @@
       "regions": [
         "Asia"
       ],
-      "total": 2937,
+      "total": 2940,
       "countries_with_records": 49,
       "competitions": 1140,
-      "events": 148,
-      "major_exhibitions": 135,
+      "events": 151,
+      "major_exhibitions": 138,
       "camps": 1649,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
@@ -13486,6 +13486,127 @@
       "end": "2026-11-13",
       "visitor_policy": "family",
       "source": "https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html",
+      "new": false
+    },
+    {
+      "id": "E535",
+      "name": "gamescom asia × Thailand Game Show 2027 · Entertainment Area",
+      "country": "Tailandia",
+      "region": "Asia",
+      "start": "2027-10-22",
+      "end": "2027-10-24",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.gamescom.asia/about/gamescom-asia/date-time",
+      "new": false
+    },
+    {
+      "id": "E536",
+      "name": "gamescom asia × Thailand Game Show 2027 · Business Area",
+      "country": "Tailandia",
+      "region": "Asia",
+      "start": "2027-10-21",
+      "end": "2027-10-22",
+      "visitor_policy": "adults_only",
+      "source": "https://www.gamescom.asia/about/gamescom-asia/date-time",
+      "new": false
+    },
+    {
+      "id": "E537",
+      "name": "gamescom asia × Thailand Game Show 2027 · PRIMETIME livestream",
+      "country": "Tailandia",
+      "region": "Asia",
+      "start": "2027-10-21",
+      "end": "2027-10-21",
+      "visitor_policy": "family",
+      "source": "https://www.gamescom.asia/about/gamescom-asia/date-time",
+      "new": false
+    },
+    {
+      "id": "E538",
+      "name": "gamescom Cologne 2027 · Business Area",
+      "country": "Alemania",
+      "region": "Europa",
+      "start": "2027-08-25",
+      "end": "2027-08-27",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.gamescom.global/en/info/trade-visitors",
+      "new": false
+    },
+    {
+      "id": "E539",
+      "name": "gamescom dev Cologne 2027",
+      "country": "Alemania",
+      "region": "Europa",
+      "start": "2027-08-23",
+      "end": "2027-08-24",
+      "visitor_policy": "confirm_children",
+      "source": "https://dev.gamescom.global/",
+      "new": false
+    },
+    {
+      "id": "E540",
+      "name": "gamescom dev Leadership Summit 2027 · Lisbon",
+      "country": "Portugal",
+      "region": "Europa",
+      "start": "2027-03-23",
+      "end": "2027-03-25",
+      "visitor_policy": "confirm_children",
+      "source": "https://dev.gamescom.global/leadership-events/",
+      "new": false
+    },
+    {
+      "id": "E541",
+      "name": "PAX West 2027 · Seattle",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2027-09-03",
+      "end": "2027-09-06",
+      "visitor_policy": "family",
+      "source": "https://west.paxsite.com/en-us.html",
+      "new": false
+    },
+    {
+      "id": "E542",
+      "name": "UK Games Expo 2027 · Birmingham",
+      "country": "Reino Unido",
+      "region": "Europa",
+      "start": "2027-06-04",
+      "end": "2027-06-06",
+      "visitor_policy": "family",
+      "source": "https://www.ukgamesexpo.co.uk/shop/tickets/",
+      "new": false
+    },
+    {
+      "id": "E543",
+      "name": "SPIEL Essen 2027 · Board Games",
+      "country": "Alemania",
+      "region": "Europa",
+      "start": "2027-10-21",
+      "end": "2027-10-24",
+      "visitor_policy": "confirm_children",
+      "source": "https://spiel-essen.de/de/besuchen/tickets-oeffnungszeiten",
+      "new": false
+    },
+    {
+      "id": "E544",
+      "name": "Origins Game Fair 2027 · Columbus",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2027-06-09",
+      "end": "2027-06-13",
+      "visitor_policy": "family",
+      "source": "https://www.originsgamefair.com/",
+      "new": false
+    },
+    {
+      "id": "E545",
+      "name": "Gen Con Indy 2027 · Board Games",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2027-08-05",
+      "end": "2027-08-08",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.gencon.com/",
       "new": false
     },
     {

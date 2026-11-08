@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10079; competiciones: 4583; eventos: 534; campamentos / programas: 4962. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 437 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10091; competiciones: 4584; eventos: 545; campamentos / programas: 4962. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 448 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1906 | 100 | 1249 |
-| América del Sur | 14 | 421 | 37 | 200 |
-| Europa | 52 | 579 | 106 | 1425 |
+| América del Norte | 40 | 1906 | 103 | 1249 |
+| América del Sur | 14 | 422 | 37 | 200 |
+| Europa | 52 | 579 | 111 | 1425 |
 | África | 53 | 235 | 28 | 92 |
-| Asia | 49 | 1140 | 135 | 1649 |
+| Asia | 49 | 1140 | 138 | 1649 |
 | Oceanía | 25 | 162 | 29 | 332 |
 
 Fichas interregionales o globales sin asignar a un continente: 162. Norteamérica incluye Centroamérica y el Caribe. Los recuentos muestran el inventario de la base, no un porcentaje de exhaustividad.
 
-VEX: 814 de 4583 fichas de competiciones (17.8%). Hay un desequilibrio claro de cobertura.
+VEX: 814 de 4584 fichas de competiciones (17.8%). Hay un desequilibrio claro de cobertura.
 
 ## Lo que queda
 
@@ -804,6 +804,17 @@ VEX: 814 de 4583 fichas de competiciones (17.8%). Hay un desequilibrio claro de 
 - **Robofest Korea · Busan · Spectator & Experience Zone** — Corea del Sur; 2026-11-28. el permiso de entrada de niños. https://robofestbusan2026.com/faq
 - **AutoRobocon 2027 · Construction Automation & Robotics** — Corea del Sur; 2027-02-17 – 2027-02-20. el permiso de entrada de niños. https://autorobocon.kr/infomation/about/
 - **FNCTI UCR 2026 · Premiación en directo** — Costa Rica; 2026-11-13. con un adulto; condiciones de admisión adulta por separado. https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
+- **gamescom asia × Thailand Game Show 2027 · Entertainment Area** — Tailandia; 2027-10-22 – 2027-10-24. el permiso de entrada de niños. https://www.gamescom.asia/about/gamescom-asia/date-time
+- **gamescom asia × Thailand Game Show 2027 · Business Area** — Tailandia; 2027-10-21 – 2027-10-22. Los niños del 6/9 no pueden. https://www.gamescom.asia/about/gamescom-asia/date-time
+- **gamescom asia × Thailand Game Show 2027 · PRIMETIME livestream** — Tailandia; 2027-10-21. con un adulto; condiciones de admisión adulta por separado. https://www.gamescom.asia/about/gamescom-asia/date-time
+- **gamescom Cologne 2027 · Business Area** — Alemania; 2027-08-25 – 2027-08-27. el permiso de entrada de niños. https://www.gamescom.global/en/info/trade-visitors
+- **gamescom dev Cologne 2027** — Alemania; 2027-08-23 – 2027-08-24. el permiso de entrada de niños. https://dev.gamescom.global/
+- **gamescom dev Leadership Summit 2027 · Lisbon** — Portugal; 2027-03-23 – 2027-03-25. el permiso de entrada de niños. https://dev.gamescom.global/leadership-events/
+- **PAX West 2027 · Seattle** — Estados Unidos; 2027-09-03 – 2027-09-06. con un adulto; condiciones de admisión adulta por separado. https://west.paxsite.com/en-us.html
+- **UK Games Expo 2027 · Birmingham** — Reino Unido; 2027-06-04 – 2027-06-06. con un adulto; condiciones de admisión adulta por separado. https://www.ukgamesexpo.co.uk/shop/tickets/
+- **SPIEL Essen 2027 · Board Games** — Alemania; 2027-10-21 – 2027-10-24. el permiso de entrada de niños. https://spiel-essen.de/de/besuchen/tickets-oeffnungszeiten
+- **Origins Game Fair 2027 · Columbus** — Estados Unidos; 2027-06-09 – 2027-06-13. con un adulto; condiciones de admisión adulta por separado. https://www.originsgamefair.com/
+- **Gen Con Indy 2027 · Board Games** — Estados Unidos; 2027-08-05 – 2027-08-08. el permiso de entrada de niños. https://www.gencon.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

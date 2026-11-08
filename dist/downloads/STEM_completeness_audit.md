@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10079; соревнований: 4583; событий: 534; лагерей / программ: 4962. Профилей лиг и программ: 299. Карточек крупных и профильных выставок: 437 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10091; соревнований: 4584; событий: 545; лагерей / программ: 4962. Профилей лиг и программ: 299. Карточек крупных и профильных выставок: 448 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 231 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,16 +14,16 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 40 | 1906 | 100 | 1249 |
-| Южная Америка | 14 | 421 | 37 | 200 |
-| Европа | 52 | 579 | 106 | 1425 |
+| Северная Америка | 40 | 1906 | 103 | 1249 |
+| Южная Америка | 14 | 422 | 37 | 200 |
+| Европа | 52 | 579 | 111 | 1425 |
 | Африка | 53 | 235 | 28 | 92 |
-| Азия | 49 | 1140 | 135 | 1649 |
+| Азия | 49 | 1140 | 138 | 1649 |
 | Океания | 25 | 162 | 29 | 332 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 162. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 814 из 4583 карточек соревнований (17.8%). Это явный перекос охвата.
+VEX: 814 из 4584 карточек соревнований (17.8%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -804,6 +804,17 @@ VEX: 814 из 4583 карточек соревнований (17.8%). Это я�
 - **Robofest Korea · Busan · Spectator & Experience Zone** — Республика Корея; 2026-11-28. Детский допуск уточнить. https://robofestbusan2026.com/faq
 - **AutoRobocon 2027 · Construction Automation & Robotics** — Республика Корея; 2027-02-17 – 2027-02-20. Детский допуск уточнить. https://autorobocon.kr/infomation/about/
 - **FNCTI UCR 2026 · Premiación en directo** — Коста-Рика; 2026-11-13. Со взрослым; условия взрослого входа отдельно. https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
+- **gamescom asia × Thailand Game Show 2027 · Entertainment Area** — Таиланд; 2027-10-22 – 2027-10-24. Детский допуск уточнить. https://www.gamescom.asia/about/gamescom-asia/date-time
+- **gamescom asia × Thailand Game Show 2027 · Business Area** — Таиланд; 2027-10-21 – 2027-10-22. Детям 6/9 нельзя. https://www.gamescom.asia/about/gamescom-asia/date-time
+- **gamescom asia × Thailand Game Show 2027 · PRIMETIME livestream** — Таиланд; 2027-10-21. Со взрослым; условия взрослого входа отдельно. https://www.gamescom.asia/about/gamescom-asia/date-time
+- **gamescom Cologne 2027 · Business Area** — Германия; 2027-08-25 – 2027-08-27. Детский допуск уточнить. https://www.gamescom.global/en/info/trade-visitors
+- **gamescom dev Cologne 2027** — Германия; 2027-08-23 – 2027-08-24. Детский допуск уточнить. https://dev.gamescom.global/
+- **gamescom dev Leadership Summit 2027 · Lisbon** — Португалия; 2027-03-23 – 2027-03-25. Детский допуск уточнить. https://dev.gamescom.global/leadership-events/
+- **PAX West 2027 · Seattle** — Соединенные Штаты Америки; 2027-09-03 – 2027-09-06. Со взрослым; условия взрослого входа отдельно. https://west.paxsite.com/en-us.html
+- **UK Games Expo 2027 · Birmingham** — Соединенное Королевство Великобритании и Северной Ирландии; 2027-06-04 – 2027-06-06. Со взрослым; условия взрослого входа отдельно. https://www.ukgamesexpo.co.uk/shop/tickets/
+- **SPIEL Essen 2027 · Board Games** — Германия; 2027-10-21 – 2027-10-24. Детский допуск уточнить. https://spiel-essen.de/de/besuchen/tickets-oeffnungszeiten
+- **Origins Game Fair 2027 · Columbus** — Соединенные Штаты Америки; 2027-06-09 – 2027-06-13. Со взрослым; условия взрослого входа отдельно. https://www.originsgamefair.com/
+- **Gen Con Indy 2027 · Board Games** — Соединенные Штаты Америки; 2027-08-05 – 2027-08-08. Детский допуск уточнить. https://www.gencon.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors
