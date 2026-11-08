@@ -30,25 +30,25 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2026,
-    "countries": 126,
+    "dossiers": 2038,
+    "countries": 127,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 289,
       "published_2027": 552,
       "partial_2027": 145,
-      "next_unannounced": 414,
+      "next_unannounced": 425,
       "published_2026": 388,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
-      "regular_programme": 20,
+      "regular_programme": 21,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1
     },
-    "source_urls": 2924
+    "source_urls": 2936
   },
   "countries": [
     {
@@ -109,7 +109,7 @@
     },
     {
       "country": "Ботсвана",
-      "count": 4
+      "count": 7
     },
     {
       "country": "Бразилия",
@@ -305,7 +305,11 @@
     },
     {
       "country": "Маврикий",
-      "count": 2
+      "count": 5
+    },
+    {
+      "country": "Малави",
+      "count": 6
     },
     {
       "country": "Малайзия",
@@ -216730,7 +216734,12 @@
                 "start_utc": "2026-12-11T07:00:00Z",
                 "end_utc": "2026-12-11T10:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "operator_listed",
+              "label": "На 8 ноября 2026 календарь оператора показывал 14 доступных утр в этой группе. Наличие мест на выбранную дату нужно перепроверить перед заявкой."
+            },
+            "proof": "На 8 ноября 2026 календарь оператора показывал 14 доступных утр в этой группе. Наличие мест на выбранную дату нужно перепроверить перед заявкой."
           }
         ],
         "variant_keyed": true,
@@ -216766,15 +216775,24 @@
         {
           "title": "Current Holiday Camp",
           "url": "https://www.robotschoolnamibia.com/holiday-camp",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "Public available dates snapshot",
           "url": "https://www.robotschoolnamibia.com/api/holiday-camp-availability",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robotschoolnamibia.com/assets/index-DPavlNzy.js",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
+      "availability": {
+        "status": "operator_listed",
+        "label": "На 8 ноября 2026 календарь оператора показывал 14 доступных утр в этой группе. Наличие мест на выбранную дату нужно перепроверить перед заявкой."
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -216970,7 +216988,12 @@
                 "start_utc": "2026-12-11T07:00:00Z",
                 "end_utc": "2026-12-11T10:00:00Z"
               }
-            ]
+            ],
+            "availability": {
+              "status": "operator_listed",
+              "label": "На 8 ноября 2026 календарь оператора показывал 14 доступных утр в этой группе. Наличие мест на выбранную дату нужно перепроверить перед заявкой."
+            },
+            "proof": "На 8 ноября 2026 календарь оператора показывал 14 доступных утр в этой группе. Наличие мест на выбранную дату нужно перепроверить перед заявкой."
           }
         ],
         "variant_keyed": true,
@@ -217006,15 +217029,24 @@
         {
           "title": "Current Holiday Camp",
           "url": "https://www.robotschoolnamibia.com/holiday-camp",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "Public available dates snapshot",
           "url": "https://www.robotschoolnamibia.com/api/holiday-camp-availability",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robotschoolnamibia.com/assets/index-DPavlNzy.js",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
+      "availability": {
+        "status": "operator_listed",
+        "label": "На 8 ноября 2026 календарь оператора показывал 14 доступных утр в этой группе. Наличие мест на выбранную дату нужно перепроверить перед заявкой."
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -217084,10 +217116,20 @@
         {
           "title": "Current 2027 registration and membership contract",
           "url": "https://www.robotschoolnamibia.com/register",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robotschoolnamibia.com/memberships",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robotschoolnamibia.com/assets/index-DPavlNzy.js",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "programme_type": "regular",
       "related_event_ids": [
         "L464"
@@ -217151,10 +217193,20 @@
         {
           "title": "Current 2027 registration and membership contract",
           "url": "https://www.robotschoolnamibia.com/register",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robotschoolnamibia.com/memberships",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robotschoolnamibia.com/assets/index-DPavlNzy.js",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "programme_type": "regular",
       "related_event_ids": [
         "L465"
@@ -217248,7 +217300,7 @@
         {
           "title": "Current closed camp directory",
           "url": "https://xtreamrobotics.com/physical-steam-robotics-camps/",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "Refund policy",
@@ -217256,7 +217308,7 @@
           "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "availability": {
         "status": "closed",
         "label": "Регистрация закрыта по текущей странице, даже если дата ещё впереди. Это архив / наблюдение за будущим набором, не открытое предложение семье."
@@ -217360,7 +217412,7 @@
         {
           "title": "Current closed camp directory",
           "url": "https://xtreamrobotics.com/physical-steam-robotics-camps/",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "Refund policy",
@@ -217368,7 +217420,7 @@
           "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "availability": {
         "status": "closed",
         "label": "Регистрация закрыта по текущей странице, даже если дата ещё впереди. Это архив / наблюдение за будущим набором, не открытое предложение семье."
@@ -217463,7 +217515,7 @@
         {
           "title": "Current closed camp directory",
           "url": "https://xtreamrobotics.com/physical-steam-robotics-camps/",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "Refund policy",
@@ -217471,7 +217523,7 @@
           "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "availability": {
         "status": "closed",
         "label": "Регистрация закрыта по текущей странице, даже если дата ещё впереди. Это архив / наблюдение за будущим набором, не открытое предложение семье."
@@ -217567,7 +217619,7 @@
         {
           "title": "Current closed camp directory",
           "url": "https://xtreamrobotics.com/physical-steam-robotics-camps/",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "Refund policy",
@@ -217575,7 +217627,7 @@
           "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "availability": {
         "status": "closed",
         "label": "Регистрация закрыта по текущей странице, даже если дата ещё впереди. Это архив / наблюдение за будущим набором, не открытое предложение семье."
@@ -218080,7 +218132,7 @@
         {
           "title": "Specific workshop",
           "url": "https://www.cyberskills.mu/courses/the-coding-wizards/",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "Published course syllabus",
@@ -218088,7 +218140,7 @@
           "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "confirmed_support_languages": [
         "EN"
       ],
@@ -218154,10 +218206,10 @@
         {
           "title": "Official ChILD programme",
           "url": "https://mdpa.govmu.org/mdpa/index.php/children-innovative-learning-design-child-programme/",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "programme_type": "school_route",
       "related_event_ids": [
         "L472"
@@ -349695,6 +349747,917 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP2027",
+      "slug": "xtream-game-creators",
+      "provider": "Xtream Robotics · Game Design for Young Creators",
+      "country": "Ботсвана",
+      "iso": "BWA",
+      "place": "Gaborone / online",
+      "age": "От 7 лет по рекомендации организатора.",
+      "programme": "Создание игр на блочных платформах, логика, анимация и подсчёт очков.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Организатор публикует описание на английском. Язык ведущего выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Онлайн-занятия вживую, 12 недель по 90 минут. Возможные дни — четверг, пятница или суббота. Точные часы группы уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 1200,
+        "currency": "BWP",
+        "unit": "programme",
+        "label": "1200 BWP за курс по публичной странице. Следующий набор ещё не объявлен.",
+        "included": "Создание игр на блочных платформах, логика, анимация и подсчёт очков.",
+        "extras": "Компьютер и стабильный интернет.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дистанционный формат.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит. Язык, уровень группы и место уточнить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по возрасту сейчас. Сохранить на будущий сезон."
+        }
+      },
+      "editorial_reason": "Онлайн-занятия вживую, 12 недель по 90 минут. Возможные дни — четверг, пятница или суббота. Точные часы группы уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://xtreamrobotics.com/game-design-for-young-creators/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "online_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": [
+        "L802"
+      ],
+      "availability": {
+        "status": "closed",
+        "label": "Организатор закрыл регистрацию. Дату следующего потока и участие из другой страны уточнить."
+      },
+      "calendar_links": []
+    },
+    {
+      "id": "CP2028",
+      "slug": "xtream-virtual-robotics",
+      "provider": "Xtream Robotics · Virtual Robotics",
+      "country": "Ботсвана",
+      "iso": "BWA",
+      "place": "Gaborone / online",
+      "age": "От 7 лет по рекомендации организатора.",
+      "programme": "Робототехника, электроника и ИИ в симуляторе.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Организатор публикует описание на английском. Язык ведущего выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Онлайн-занятия вживую, 12 недель по 90 минут. Возможные дни — четверг, пятница или суббота. Точные часы группы уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 1800,
+        "currency": "BWP",
+        "unit": "programme",
+        "label": "1800 BWP за курс по публичной странице. Следующий набор ещё не объявлен.",
+        "included": "Робототехника, электроника и ИИ в симуляторе.",
+        "extras": "Компьютер и интернет. Физический набор для курса не нужен.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дистанционный формат.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит. Язык, уровень группы и место уточнить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по возрасту сейчас. Сохранить на будущий сезон."
+        }
+      },
+      "editorial_reason": "Онлайн-занятия вживую, 12 недель по 90 минут. Возможные дни — четверг, пятница или суббота. Точные часы группы уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://xtreamrobotics.com/virtual-robotics/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "programme_type": "online_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": [
+        "L803"
+      ],
+      "availability": {
+        "status": "closed",
+        "label": "Организатор закрыл регистрацию. Дату следующего потока и участие из другой страны уточнить."
+      },
+      "calendar_links": []
+    },
+    {
+      "id": "CP2029",
+      "slug": "xtream-roblox-studio",
+      "provider": "Xtream Robotics · ROBLOX Game Design",
+      "country": "Ботсвана",
+      "iso": "BWA",
+      "place": "Gaborone / online",
+      "age": "От 7 лет по рекомендации организатора.",
+      "programme": "Создание игр и миров в Roblox Studio.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Организатор публикует описание на английском. Язык ведущего выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Онлайн-занятия вживую, 12 недель по 90 минут. Возможные дни — четверг, пятница или суббота. Точные часы группы уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 1600,
+        "currency": "BWP",
+        "unit": "programme",
+        "label": "1600 BWP за курс по публичной странице. Следующий набор ещё не объявлен.",
+        "included": "Создание игр и миров в Roblox Studio.",
+        "extras": "Компьютер и Roblox Studio. Учётная запись нужна по правилам курса.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дистанционный формат.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит. Язык, уровень группы и место уточнить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по возрасту сейчас. Сохранить на будущий сезон."
+        }
+      },
+      "editorial_reason": "Онлайн-занятия вживую, 12 недель по 90 минут. Возможные дни — четверг, пятница или суббота. Точные часы группы уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://xtreamrobotics.com/roblox-game-design/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "online_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": [
+        "L804"
+      ],
+      "availability": {
+        "status": "closed",
+        "label": "Организатор закрыл регистрацию. Дату следующего потока и участие из другой страны уточнить."
+      },
+      "calendar_links": []
+    },
+    {
+      "id": "CP2030",
+      "slug": "qed-malawi-after-school",
+      "provider": "QED STEM Academy · After School Programme 2026–27",
+      "country": "Малави",
+      "iso": "MWI",
+      "place": "Lilongwe",
+      "age": "От 6 лет. Первичное задание помогает выбрать уровень.",
+      "programme": "Робототехника, блочное программирование, Python и проектное решение задач.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор публикует описание на английском. Язык ведущего выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "regular_programme",
+        "label": "Внеурочная программа 2026–2027 в Лилонгве. На сайте есть форма интереса. Расписание группы и полный тариф пока не указаны. Предусмотрена предоплата за неделю или месяц.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "unknown",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "Робототехника, блочное программирование, Python и проектное решение задач.",
+        "extras": "Уточнить дату, уровень, формат и возможность зачисления приезжающего ребёнка.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит. Язык, уровень группы и место уточнить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит. Язык, уровень группы и место уточнить."
+        }
+      },
+      "editorial_reason": "Внеурочная программа 2026–2027 в Лилонгве. На сайте есть форма интереса. Расписание группы и полный тариф пока не указаны. Предусмотрена предоплата за неделю или месяц.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://about.qed.ai/stem",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L805"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2031",
+      "slug": "krone-mini-makers",
+      "provider": "KroneLabs · Mini Makers",
+      "country": "Малави",
+      "iso": "MWI",
+      "place": "Lilongwe",
+      "age": "6–8 лет.",
+      "programme": "ScratchJr, логические задачи и первые сборки LEGO.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор публикует описание на английском. Язык ведущего выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Организатор описывает субботние занятия и лагеря в Лилонгве. Баннер относится к Term 2 2026. Даты и цена нового набора ещё не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "unknown",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "ScratchJr, логические задачи и первые сборки LEGO.",
+        "extras": "Уточнить дату, уровень, формат и возможность зачисления приезжающего ребёнка.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет сейчас. Матвей старше диапазона этой группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит. Язык, уровень группы и место уточнить."
+        }
+      },
+      "editorial_reason": "Организатор описывает субботние занятия и лагеря в Лилонгве. Баннер относится к Term 2 2026. Даты и цена нового набора ещё не опубликованы.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://kronelabs.com/edutech",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://kronelabs.com/edutech/robotics",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L806"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2032",
+      "slug": "krone-tech-explorers",
+      "provider": "KroneLabs · Tech Explorers",
+      "country": "Малави",
+      "iso": "MWI",
+      "place": "Lilongwe",
+      "age": "9–11 лет.",
+      "programme": "Игры в Scratch, носимые устройства на micro:bit и цифровые истории.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор публикует описание на английском. Язык ведущего выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Организатор описывает субботние занятия и лагеря в Лилонгве. Баннер относится к Term 2 2026. Даты и цена нового набора ещё не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "unknown",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "Игры в Scratch, носимые устройства на micro:bit и цифровые истории.",
+        "extras": "Уточнить дату, уровень, формат и возможность зачисления приезжающего ребёнка.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит. Язык, уровень группы и место уточнить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по возрасту сейчас. Сохранить на будущий сезон."
+        }
+      },
+      "editorial_reason": "Организатор описывает субботние занятия и лагеря в Лилонгве. Баннер относится к Term 2 2026. Даты и цена нового набора ещё не опубликованы.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://kronelabs.com/edutech",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://kronelabs.com/edutech/robotics",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L807"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2033",
+      "slug": "krone-innovation-squad",
+      "provider": "KroneLabs · Innovation Squad",
+      "country": "Малави",
+      "iso": "MWI",
+      "place": "Lilongwe",
+      "age": "12–14 лет.",
+      "programme": "Основы Python, веб-страницы и командные задачи по робототехнике.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор публикует описание на английском. Язык ведущего выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Организатор описывает субботние занятия и лагеря в Лилонгве. Баннер относится к Term 2 2026. Даты и цена нового набора ещё не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "unknown",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "Основы Python, веб-страницы и командные задачи по робототехнике.",
+        "extras": "Уточнить дату, уровень, формат и возможность зачисления приезжающего ребёнка.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту сейчас. Сохранить на будущий сезон."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по возрасту сейчас. Сохранить на будущий сезон."
+        }
+      },
+      "editorial_reason": "Организатор описывает субботние занятия и лагеря в Лилонгве. Баннер относится к Term 2 2026. Даты и цена нового набора ещё не опубликованы.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://kronelabs.com/edutech",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://kronelabs.com/edutech/robotics",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L808"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2034",
+      "slug": "rfl-weekend-workshops",
+      "provider": "RFL Malawi · Weekend Workshops",
+      "country": "Малави",
+      "iso": "MWI",
+      "place": "Blantyre",
+      "age": "5–18 лет по каталогу RFL. Конкретную группу нужно подтвердить.",
+      "programme": "Субботние практикумы. Дети собирают и программируют роботов в небольших группах.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор публикует описание на английском. Язык ведущего выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "В каталоге организатора есть описание программы. Даты ближайшего набора, тариф и язык преподавателя пока не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "unknown",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "Субботние практикумы. Дети собирают и программируют роботов в небольших группах.",
+        "extras": "Уточнить дату, уровень, формат и возможность зачисления приезжающего ребёнка.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит. Язык, уровень группы и место уточнить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит. Язык, уровень группы и место уточнить."
+        }
+      },
+      "editorial_reason": "В каталоге организатора есть описание программы. Даты ближайшего набора, тариф и язык преподавателя пока не опубликованы.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://rflmw.com/stem",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://api.rflmw.com/programs?published=true",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L809"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2035",
+      "slug": "rfl-holiday-camps",
+      "provider": "RFL Malawi · Holiday Camps",
+      "country": "Малави",
+      "iso": "MWI",
+      "place": "Blantyre",
+      "age": "5–18 лет по каталогу RFL. Конкретную группу нужно подтвердить.",
+      "programme": "Многодневный лагерь с командными заданиями и собственным проектом робота.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор публикует описание на английском. Язык ведущего выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "В каталоге организатора есть описание программы. Даты ближайшего набора, тариф и язык преподавателя пока не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "unknown",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "Многодневный лагерь с командными заданиями и собственным проектом робота.",
+        "extras": "Уточнить дату, уровень, формат и возможность зачисления приезжающего ребёнка.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит. Язык, уровень группы и место уточнить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит. Язык, уровень группы и место уточнить."
+        }
+      },
+      "editorial_reason": "В каталоге организатора есть описание программы. Даты ближайшего набора, тариф и язык преподавателя пока не опубликованы.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://rflmw.com/stem",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://api.rflmw.com/programs?published=true",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "L810"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2036",
+      "slug": "yuva-mauritius-robotics-level-1",
+      "provider": "YUVA Robotics for Kids · Level 1",
+      "country": "Маврикий",
+      "iso": "MUS",
+      "place": "Port Louis / online",
+      "age": "9–18 лет по программе YUVA.",
+      "programme": "Введение в робототехнику и ИИ, блочное программирование.",
+      "format": "day",
+      "formats": [
+        "day",
+        "online"
+      ],
+      "language": "Организатор публикует описание на английском. Язык ведущего выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Сертификат относится к обучению. Отбор национальной сборной проходит отдельно.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 12500,
+        "currency": "MUR",
+        "unit": "programme",
+        "label": "12500 MUR за опубликованный уровень, 10 часов.",
+        "included": "Введение в робототехнику и ИИ, блочное программирование.",
+        "extras": "В заявке выбрать уровень и онлайн или очный формат. Дата старта, техника для онлайн-занятий и правила внешнего приёма требуют уточнения.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит. Язык, уровень группы и место уточнить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по возрасту сейчас. Сохранить на будущий сезон."
+        }
+      },
+      "editorial_reason": "Сертификат относится к обучению. Отбор национальной сборной проходит отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://yuva.info/yuva-academy/school-of-robotics/robotics-for-kids/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://yuva.info/yuva-academy/school-of-robotics/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L811"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2037",
+      "slug": "yuva-mauritius-robotics-level-2",
+      "provider": "YUVA Robotics for Kids · Level 2",
+      "country": "Маврикий",
+      "iso": "MUS",
+      "place": "Port Louis / online",
+      "age": "9–18 лет по программе YUVA.",
+      "programme": "Сборка робота, программирование и управление.",
+      "format": "day",
+      "formats": [
+        "day",
+        "online"
+      ],
+      "language": "Организатор публикует описание на английском. Язык ведущего выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Сертификат относится к обучению. Отбор национальной сборной проходит отдельно.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 15500,
+        "currency": "MUR",
+        "unit": "programme",
+        "label": "15500 MUR за опубликованный уровень, 16 часов.",
+        "included": "Сборка робота, программирование и управление.",
+        "extras": "В заявке выбрать уровень и онлайн или очный формат. Дата старта, техника для онлайн-занятий и правила внешнего приёма требуют уточнения.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит. Язык, уровень группы и место уточнить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по возрасту сейчас. Сохранить на будущий сезон."
+        }
+      },
+      "editorial_reason": "Сертификат относится к обучению. Отбор национальной сборной проходит отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://yuva.info/yuva-academy/school-of-robotics/robotics-for-kids/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://yuva.info/yuva-academy/school-of-robotics/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L812"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2038",
+      "slug": "yuva-mauritius-robotics-level-3",
+      "provider": "YUVA Robotics for Kids · Level 3",
+      "country": "Маврикий",
+      "iso": "MUS",
+      "place": "Port Louis / online",
+      "age": "9–18 лет по программе YUVA.",
+      "programme": "Сборка, программирование и стратегические задания с роботами.",
+      "format": "day",
+      "formats": [
+        "day",
+        "online"
+      ],
+      "language": "Организатор публикует описание на английском. Язык ведущего выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Сертификат относится к обучению. Отбор национальной сборной проходит отдельно.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 18500,
+        "currency": "MUR",
+        "unit": "programme",
+        "label": "18500 MUR за опубликованный уровень, 20 часов.",
+        "included": "Сборка, программирование и стратегические задания с роботами.",
+        "extras": "В заявке выбрать уровень и онлайн или очный формат. Дата старта, техника для онлайн-занятий и правила внешнего приёма требуют уточнения.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит. Язык, уровень группы и место уточнить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по возрасту сейчас. Сохранить на будущий сезон."
+        }
+      },
+      "editorial_reason": "Сертификат относится к обучению. Отбор национальной сборной проходит отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://yuva.info/yuva-academy/school-of-robotics/robotics-for-kids/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://yuva.info/yuva-academy/school-of-robotics/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L813"
+      ],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -355020,7 +355983,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 289,
+  "version": 290,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -368255,7 +369218,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2026,
+      "total_dossiers": 2038,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -390988,6 +391951,66 @@
       "programme_id": "CP2026",
       "event_id": "CP2026-20270301-20270412-spring-2",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2027",
+      "event_id": "L802",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2028",
+      "event_id": "L803",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2029",
+      "event_id": "L804",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2030",
+      "event_id": "L805",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2031",
+      "event_id": "L806",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2032",
+      "event_id": "L807",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2033",
+      "event_id": "L808",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2034",
+      "event_id": "L809",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2035",
+      "event_id": "L810",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2036",
+      "event_id": "L811",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2037",
+      "event_id": "L812",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2038",
+      "event_id": "L813",
+      "relation": "related_track_or_operator"
     },
     {
       "programme_id": "CP1294",

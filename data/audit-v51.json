@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10421,
+    "cards": 10437,
     "competition_cards": 4704,
-    "event_cards": 611,
-    "camp_cards": 5106,
+    "event_cards": 614,
+    "camp_cards": 5119,
     "league_profiles": 303,
-    "major_exhibition_cards": 511,
+    "major_exhibition_cards": 515,
     "vex_cards": 814,
     "countries_with_records": 234,
     "fully_audited_countries": 0
@@ -76,12 +76,12 @@
       "regions": [
         "Африка"
       ],
-      "total": 395,
+      "total": 411,
       "countries_with_records": 55,
       "competitions": 245,
-      "events": 40,
-      "major_exhibitions": 32,
-      "camps": 110,
+      "events": 43,
+      "major_exhibitions": 36,
+      "camps": 123,
       "status": "Частично исследовано",
       "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
     },
@@ -10802,6 +10802,17 @@
       "new": false
     },
     {
+      "id": "E234",
+      "name": "ROBO Africa 2026 · Port Louis · RGSC · Bell Village",
+      "country": "Маврикий",
+      "region": "Африка",
+      "start": "2026-11-23",
+      "end": "2026-11-25",
+      "visitor_policy": "confirm_children",
+      "source": "https://rgsc.govmu.org/rgsc/?page_id=648171",
+      "new": false
+    },
+    {
       "id": "E235",
       "name": "Seoul International Invention Fair · SIIF 2026",
       "country": "Южная Корея",
@@ -14410,6 +14421,39 @@
       "new": false
     },
     {
+      "id": "E612",
+      "name": "Nedbank rAge Nation 2026",
+      "country": "Южная Африка",
+      "region": "Африка",
+      "start": "2026-11-27",
+      "end": "2026-11-29",
+      "visitor_policy": "family",
+      "source": "https://ragenation.gg/",
+      "new": false
+    },
+    {
+      "id": "E613",
+      "name": "Africa Games Week 2026 · Exhibition",
+      "country": "Южная Африка",
+      "region": "Африка",
+      "start": "2026-12-06",
+      "end": "2026-12-09",
+      "visitor_policy": "confirm_children",
+      "source": "https://gamesweek.africa/faq/",
+      "new": false
+    },
+    {
+      "id": "E614",
+      "name": "KwaZulu-Natal Industrial Technology Exhibition 2027",
+      "country": "Южная Африка",
+      "region": "Африка",
+      "start": "2027-07-27",
+      "end": "2027-07-29",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.kznindustrial.co.za/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -16827,20 +16871,20 @@
       }
     ],
     "counts": {
-      "records": 5106,
-      "holiday": 4721,
+      "records": 5119,
+      "holiday": 4727,
       "regular": 170,
       "self_paced_materials": 4,
       "boarding": 1038,
-      "en_es_instruction": 1594,
+      "en_es_instruction": 1595,
       "en_es_support": 28,
-      "family_instruction": 1594,
+      "family_instruction": 1595,
       "family_support": 28,
       "ru_instruction": 4,
       "language_lessons": 414,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 146
+      "countries": 147
     },
     "validation": {
       "version": 51,

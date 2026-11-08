@@ -1,0 +1,220 @@
+{
+  "version": 290,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "L802",
+    "L803",
+    "L804",
+    "L805",
+    "L806",
+    "L807",
+    "L808",
+    "L809",
+    "L810",
+    "L811",
+    "L812",
+    "L813",
+    "L814",
+    "E612",
+    "E613",
+    "E614"
+  ],
+  "new_dossiers": [
+    "CP2027",
+    "CP2028",
+    "CP2029",
+    "CP2030",
+    "CP2031",
+    "CP2032",
+    "CP2033",
+    "CP2034",
+    "CP2035",
+    "CP2036",
+    "CP2037",
+    "CP2038"
+  ],
+  "new_dated_variants": 0,
+  "refreshed_event_ids": [
+    "L464",
+    "L465",
+    "E234",
+    "L472",
+    "L471",
+    "C3224"
+  ],
+  "legacy_overlay_event_ids": [
+    "L464",
+    "L465",
+    "E234",
+    "L472",
+    "L471",
+    "C3224"
+  ],
+  "source_requests": 32,
+  "updated_dossiers": [
+    "CP1292",
+    "CP1293",
+    "CP1294",
+    "CP1295",
+    "CP1296",
+    "CP1297",
+    "CP1298",
+    "CP1299",
+    "CP1307",
+    "CP1306"
+  ],
+  "national_route_updates": [
+    {
+      "id": "NR-FGC-MUS-2026",
+      "checked": "2026-11-08",
+      "website_note": "YUVA формировала сборную Маврикия в 2026. Опубликованный набор для маврикийских учащихся 14–18 лет относится к завершённому сезону. Сроки отбора на 2027 пока не объявлены."
+    },
+    {
+      "id": "NR-FGC-MWI-2026",
+      "checked": "2026-11-08",
+      "website_note": "RFL Malawi ведёт подготовку к FIRST Global для 14–18 лет. Конкретные правила представительства, дата отбора и допуск к сезону 2027 пока не опубликованы."
+    }
+  ],
+  "dossier_event_links": {
+    "xtream-game-creators": [
+      "L802"
+    ],
+    "xtream-virtual-robotics": [
+      "L803"
+    ],
+    "xtream-roblox-studio": [
+      "L804"
+    ],
+    "qed-malawi-after-school": [
+      "L805"
+    ],
+    "krone-mini-makers": [
+      "L806"
+    ],
+    "krone-tech-explorers": [
+      "L807"
+    ],
+    "krone-innovation-squad": [
+      "L808"
+    ],
+    "rfl-weekend-workshops": [
+      "L809"
+    ],
+    "rfl-holiday-camps": [
+      "L810"
+    ],
+    "yuva-mauritius-robotics-level-1": [
+      "L811"
+    ],
+    "yuva-mauritius-robotics-level-2": [
+      "L812"
+    ],
+    "yuva-mauritius-robotics-level-3": [
+      "L813"
+    ]
+  },
+  "namibia_public_availability": {
+    "JUNIOR": [
+      "2026-11-23",
+      "2026-11-24",
+      "2026-11-25",
+      "2026-11-26",
+      "2026-11-27",
+      "2026-11-30",
+      "2026-12-01",
+      "2026-12-02",
+      "2026-12-03",
+      "2026-12-04",
+      "2026-12-07",
+      "2026-12-08",
+      "2026-12-09",
+      "2026-12-11"
+    ],
+    "SENIOR": [
+      "2026-11-23",
+      "2026-11-24",
+      "2026-11-25",
+      "2026-11-26",
+      "2026-11-27",
+      "2026-11-30",
+      "2026-12-01",
+      "2026-12-02",
+      "2026-12-03",
+      "2026-12-04",
+      "2026-12-07",
+      "2026-12-08",
+      "2026-12-09",
+      "2026-12-11"
+    ]
+  },
+  "botswana_closed_courses": [
+    "L802",
+    "L803",
+    "L804"
+  ],
+  "malawi_qed": "L805",
+  "malawi_krone": [
+    "L806",
+    "L807",
+    "L808"
+  ],
+  "malawi_rfl": [
+    "L809",
+    "L810"
+  ],
+  "mauritius_yuva": [
+    "L811",
+    "L812",
+    "L813"
+  ],
+  "mauritius_english_workshop": "L814",
+  "mauritius_expo": "E234",
+  "south_africa_visits": [
+    "E612",
+    "E613",
+    "E614"
+  ],
+  "source_limits": [
+    {
+      "status": "provider_availability_snapshot_only_no_booking",
+      "programme_ids": [
+        "CP1292",
+        "CP1293"
+      ],
+      "listed_days_each": 14
+    },
+    {
+      "status": "registrations_currently_closed_new_intake_not_announced",
+      "event_ids": [
+        "L802",
+        "L803",
+        "L804"
+      ]
+    },
+    {
+      "status": "academic_term_banner_refers_to_term_2_2026_no_new_dates",
+      "event_ids": [
+        "L806",
+        "L807",
+        "L808"
+      ]
+    },
+    {
+      "status": "public_rfl_future_endpoint_contains_past_dates_no_current_calendar",
+      "event_ids": [
+        "L809",
+        "L810"
+      ]
+    },
+    {
+      "status": "english_one_assigned_workshop_day_separate_from_exhibition_access",
+      "event_id": "L814"
+    },
+    {
+      "status": "free_under_7_at_time_of_visit_lan_ticket_separate",
+      "event_id": "E612"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10421; соревнований: 4704; событий: 611; лагерей / программ: 5106. Профилей лиг и программ: 303. Карточек крупных и профильных выставок: 511 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10437; соревнований: 4704; событий: 614; лагерей / программ: 5119. Профилей лиг и программ: 303. Карточек крупных и профильных выставок: 515 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 234 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -17,7 +17,7 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Северная Америка | 40 | 1936 | 125 | 1302 |
 | Южная Америка | 14 | 433 | 45 | 207 |
 | Европа | 54 | 611 | 124 | 1471 |
-| Африка | 55 | 245 | 32 | 110 |
+| Африка | 55 | 245 | 36 | 123 |
 | Азия | 50 | 1168 | 153 | 1667 |
 | Океания | 25 | 167 | 30 | 334 |
 
@@ -554,6 +554,7 @@ VEX: 814 из 4704 карточек соревнований (17.3%). Это я�
 - **GITEX AI Vietnam · даты выпуска требуют сверки** — Вьетнам; дата неизвестна. Детям 6/9 нельзя. https://gitexvietnam.com/
 - **AI Everything Kenya × GITEX Kenya · следующий выпуск / расписание уточнить** — Кения; дата неизвестна. Детям 6/9 нельзя. https://www.aieverythingkenya.com/register
 - **Ai Everything MEA Egypt 2027** — Египет; дата неизвестна. Детский допуск уточнить. https://www.aieverythingegypt.com/
+- **ROBO Africa 2026 · Port Louis · RGSC · Bell Village** — Маврикий; 2026-11-23 – 2026-11-25. Детский допуск уточнить. https://rgsc.govmu.org/rgsc/?page_id=648171
 - **Seoul International Invention Fair · SIIF 2026** — Южная Корея; 2026-12-02 – 2026-12-05. Детский допуск уточнить. https://www.coex.co.kr/en/exhibitions/2026-seoul-international-invention-fair/
 - **Automation World · AW 2027** — Южная Корея; 2027-03-03 – 2027-03-05. Детский допуск уточнить. https://www.automationworld.co.kr/?hl=en
 - **Datacentre & Cloud Infrastructure Expo · DCCI Malaysia 2027** — Малайзия; 2027-05-04 – 2027-05-05. Детский допуск уточнить. https://www.malaysia.dccisummit.com/
@@ -882,6 +883,9 @@ VEX: 814 из 4704 карточек соревнований (17.3%). Это я�
 - **Africa Automation Technology Fair 2027** — Южная Африка; 2027-07-06 – 2027-07-08. Детский допуск уточнить. https://www.africaautomationtechnologyfair.com/africa-automation-trade-fair/en-gb.html
 - **29ª Feria de la Ciencia · Granada** — Испания; 2027-05-08. Детский допуск уточнить. https://www.parqueciencias.com/29a-feria-de-la-ciencia/
 - **Miraikan · Nanairo Quest · Friend Robot Tour** — Япония; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://www.miraikan.jst.go.jp/en/exhibitions/future/nanairoquest/
+- **Nedbank rAge Nation 2026** — Южная Африка; 2026-11-27 – 2026-11-29. Со взрослым; условия взрослого входа отдельно. https://ragenation.gg/
+- **Africa Games Week 2026 · Exhibition** — Южная Африка; 2026-12-06 – 2026-12-09. Детский допуск уточнить. https://gamesweek.africa/faq/
+- **KwaZulu-Natal Industrial Technology Exhibition 2027** — Южная Африка; 2027-07-27 – 2027-07-29. Детский допуск уточнить. https://www.kznindustrial.co.za/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

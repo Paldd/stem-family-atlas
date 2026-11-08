@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2026 fichas en 126 países. Cada ficha indica las fechas de revisión de sus fuentes.
+Estado de la base: 2026-11-08. 2038 fichas en 127 países. Cada ficha indica las fechas de revisión de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -102380,7 +102380,7 @@ Australia · En línea · Australian intake, confirmar acceso desde extranjero
 
 Namibia · 16 Seder Street · Suiderhof · Windhoek
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** 4–8
 
@@ -102444,19 +102444,23 @@ Namibia · 16 Seder Street · Suiderhof · Windhoek
 
 - 2026-12-11 · 09:00–12:00 · Africa/Windhoek · Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.
 
+**Disponibilidad de plazas:** El 8 de noviembre de 2026 el calendario de la entidad mostraba 14 mañanas disponibles en este grupo. Volver a comprobar las plazas de la fecha elegida antes de solicitarla.
+
 [fuente](https://www.robotschoolnamibia.com/holiday-camp)
 
 ### Fuentes
 
-- [Current Holiday Camp](https://www.robotschoolnamibia.com/holiday-camp) · 2026-11-05
+- [Current Holiday Camp](https://www.robotschoolnamibia.com/holiday-camp) · 2026-11-08
 
-- [Public available dates snapshot](https://www.robotschoolnamibia.com/api/holiday-camp-availability) · 2026-11-05
+- [Public available dates snapshot](https://www.robotschoolnamibia.com/api/holiday-camp-availability) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.robotschoolnamibia.com/assets/index-DPavlNzy.js) · 2026-11-08
 
 ## CP1293 · Robotschool Namibia · Holiday SENIOR
 
 Namibia · 16 Seder Street · Suiderhof · Windhoek
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** 9–14
 
@@ -102520,19 +102524,23 @@ Namibia · 16 Seder Street · Suiderhof · Windhoek
 
 - 2026-12-11 · 09:00–12:00 · Africa/Windhoek · Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.
 
+**Disponibilidad de plazas:** El 8 de noviembre de 2026 el calendario de la entidad mostraba 14 mañanas disponibles en este grupo. Volver a comprobar las plazas de la fecha elegida antes de solicitarla.
+
 [fuente](https://www.robotschoolnamibia.com/holiday-camp)
 
 ### Fuentes
 
-- [Current Holiday Camp](https://www.robotschoolnamibia.com/holiday-camp) · 2026-11-05
+- [Current Holiday Camp](https://www.robotschoolnamibia.com/holiday-camp) · 2026-11-08
 
-- [Public available dates snapshot](https://www.robotschoolnamibia.com/api/holiday-camp-availability) · 2026-11-05
+- [Public available dates snapshot](https://www.robotschoolnamibia.com/api/holiday-camp-availability) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.robotschoolnamibia.com/assets/index-DPavlNzy.js) · 2026-11-08
 
 ## CP1294 · Robotschool Namibia · Junior membership 2027
 
 Namibia · 16 Seder Street · Suiderhof · Windhoek
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** 6–8
 
@@ -102562,13 +102570,17 @@ Namibia · 16 Seder Street · Suiderhof · Windhoek
 
 ### Fuentes
 
-- [Current 2027 registration and membership contract](https://www.robotschoolnamibia.com/register) · 2026-11-05
+- [Current 2027 registration and membership contract](https://www.robotschoolnamibia.com/register) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.robotschoolnamibia.com/memberships) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.robotschoolnamibia.com/assets/index-DPavlNzy.js) · 2026-11-08
 
 ## CP1295 · Robotschool Namibia · Senior membership 2027
 
 Namibia · 16 Seder Street · Suiderhof · Windhoek
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** 9–11
 
@@ -102598,13 +102610,17 @@ Namibia · 16 Seder Street · Suiderhof · Windhoek
 
 ### Fuentes
 
-- [Current 2027 registration and membership contract](https://www.robotschoolnamibia.com/register) · 2026-11-05
+- [Current 2027 registration and membership contract](https://www.robotschoolnamibia.com/register) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.robotschoolnamibia.com/memberships) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.robotschoolnamibia.com/assets/index-DPavlNzy.js) · 2026-11-08
 
 ## CP1296 · Xtream Robotics · Green Light Robotics & Coding
 
 Botsuana · Block 8 · Gaborone · Green Light Day Care Centre
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** 4–6
 
@@ -102646,7 +102662,7 @@ Botsuana · Block 8 · Gaborone · Green Light Day Care Centre
 
 - [Green Light Robotics & Coding](https://xtreamrobotics.com/robotics-coding-camp-green-light-day-care-centre/) · 2026-11-05
 
-- [Current closed camp directory](https://xtreamrobotics.com/physical-steam-robotics-camps/) · 2026-11-05
+- [Current closed camp directory](https://xtreamrobotics.com/physical-steam-robotics-camps/) · 2026-11-08
 
 - [Refund policy](https://xtreamrobotics.com/refund-policy/) · 2026-11-05
 
@@ -102654,7 +102670,7 @@ Botsuana · Block 8 · Gaborone · Green Light Day Care Centre
 
 Botsuana · Partial · Gaborone · Treasure Quest Pre School
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 4–9
 
@@ -102696,7 +102712,7 @@ Botsuana · Partial · Gaborone · Treasure Quest Pre School
 
 - [Treasure Quest STEAM](https://xtreamrobotics.com/steam-camp-treasure-quest-preschool/) · 2026-11-05
 
-- [Current closed camp directory](https://xtreamrobotics.com/physical-steam-robotics-camps/) · 2026-11-05
+- [Current closed camp directory](https://xtreamrobotics.com/physical-steam-robotics-camps/) · 2026-11-08
 
 - [Refund policy](https://xtreamrobotics.com/refund-policy/) · 2026-11-05
 
@@ -102704,7 +102720,7 @@ Botsuana · Partial · Gaborone · Treasure Quest Pre School
 
 Botsuana · Partial · Gaborone · Treasure Quest Pre School
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 * Edad:** 4*12
 
@@ -102746,7 +102762,7 @@ Botsuana · Partial · Gaborone · Treasure Quest Pre School
 
 - [Treasure Quest Robotics Fun](https://xtreamrobotics.com/robotics-fun-camp-treasure-quest-preschool/) · 2026-11-05
 
-- [Current closed camp directory](https://xtreamrobotics.com/physical-steam-robotics-camps/) · 2026-11-05
+- [Current closed camp directory](https://xtreamrobotics.com/physical-steam-robotics-camps/) · 2026-11-08
 
 - [Refund policy](https://xtreamrobotics.com/refund-policy/) · 2026-11-05
 
@@ -102754,7 +102770,7 @@ Botsuana · Partial · Gaborone · Treasure Quest Pre School
 
 de la ciudad · Hillcrest Secondary School · Durban
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 * Edad:** 7*13
 
@@ -102796,7 +102812,7 @@ de la ciudad · Hillcrest Secondary School · Durban
 
 - [Hillcrest Robotics & AI](https://xtreamrobotics.com/robotics-ai-camp-hillcrest-secondary-school/) · 2026-11-05
 
-- [Current closed camp directory](https://xtreamrobotics.com/physical-steam-robotics-camps/) · 2026-11-05
+- [Current closed camp directory](https://xtreamrobotics.com/physical-steam-robotics-camps/) · 2026-11-08
 
 - [Refund policy](https://xtreamrobotics.com/refund-policy/) · 2026-11-05
 
@@ -103030,7 +103046,7 @@ Singapur · Singapore · viaje desde Dar es Salaam
 
 Mauricio · Zone 5 · Freeport · Mer Rouge · Mauritius
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** 8–13
 
@@ -103060,7 +103076,7 @@ Mauricio · Zone 5 · Freeport · Mer Rouge · Mauritius
 
 ### Fuentes
 
-- [Specific workshop](https://www.cyberskills.mu/courses/the-coding-wizards/) · 2026-11-05
+- [Specific workshop](https://www.cyberskills.mu/courses/the-coding-wizards/) · 2026-11-08
 
 - [Published course syllabus](https://www.cyberskills.mu/wp-content/uploads/2025/04/Course-Content-The-Coding-Wizards.pdf) · 2026-11-05
 
@@ -103068,7 +103084,7 @@ Mauricio · Zone 5 · Freeport · Mer Rouge · Mauritius
 
 Mauricio · Primary schools · Mauritius
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **edad:** Grades 4–6
 
@@ -103098,7 +103114,7 @@ Mauricio · Primary schools · Mauritius
 
 ### Fuentes
 
-- [Official ChILD programme](https://mdpa.govmu.org/mdpa/index.php/children-innovative-learning-design-child-programme/) · 2026-11-05
+- [Official ChILD programme](https://mdpa.govmu.org/mdpa/index.php/children-innovative-learning-design-child-programme/) · 2026-11-08
 
 ## CP1308 · BeeLingue Academy · Paris Christmas full
 
@@ -161327,6 +161343,502 @@ Estados Unidos · Moonlighter FabLab · Miami Beach
 - [Página de la organización o reglamento de la categoría.](https://events.miamibeachfl.gov/event/homeschool-steam-sessions-2026-2027/2027-01-04/) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://moonlighterfablab.org/) · 2026-11-08
+
+## CP2027 · Xtream Robotics · Game Design for Young Creators
+
+Botsuana · Gaborone / online
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** A partir de 7 años según la recomendación de la organización.
+
+**Idioma:** La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+
+**Programa:** Creación de videojuegos con bloques, lógica, animación y puntuación.
+
+**Alojamiento:** Modalidad a distancia.
+
+**Fechas / estado:** Clases en directo por internet, 12 semanas de 90 minutos. Posibles días: jueves, viernes o sábado. Confirmar la hora del grupo.
+
+**Precio / año:** 2026 · 1200 BWP por el curso según la página pública. La próxima convocatoria sigue sin anunciarse.
+
+**Incluido:** Creación de videojuegos con bloques, lógica, animación y puntuación.
+
+**Suplementos:** Ordenador y conexión estable.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+
+**Oscar:** No cumple por edad actualmente. Guardar para una temporada futura.
+
+**Motivo de selección:** Clases en directo por internet, 12 semanas de 90 minutos. Posibles días: jueves, viernes o sábado. Confirmar la hora del grupo.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://xtreamrobotics.com/game-design-for-young-creators/) · 2026-11-08
+
+## CP2028 · Xtream Robotics · Virtual Robotics
+
+Botsuana · Gaborone / online
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** A partir de 7 años según la recomendación de la organización.
+
+**Idioma:** La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+
+**Programa:** Robótica, electrónica e IA con simulación.
+
+**Alojamiento:** Modalidad a distancia.
+
+**Fechas / estado:** Clases en directo por internet, 12 semanas de 90 minutos. Posibles días: jueves, viernes o sábado. Confirmar la hora del grupo.
+
+**Precio / año:** 2026 · 1800 BWP por el curso según la página pública. La próxima convocatoria sigue sin anunciarse.
+
+**Incluido:** Robótica, electrónica e IA con simulación.
+
+**Suplementos:** Ordenador e internet. El curso no requiere un kit físico.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+
+**Oscar:** No cumple por edad actualmente. Guardar para una temporada futura.
+
+**Motivo de selección:** Clases en directo por internet, 12 semanas de 90 minutos. Posibles días: jueves, viernes o sábado. Confirmar la hora del grupo.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://xtreamrobotics.com/virtual-robotics/) · 2026-11-08
+
+## CP2029 · Xtream Robotics · ROBLOX Game Design
+
+Botsuana · Gaborone / online
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** A partir de 7 años según la recomendación de la organización.
+
+**Idioma:** La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+
+**Programa:** Creación de videojuegos y mundos con Roblox Studio.
+
+**Alojamiento:** Modalidad a distancia.
+
+**Fechas / estado:** Clases en directo por internet, 12 semanas de 90 minutos. Posibles días: jueves, viernes o sábado. Confirmar la hora del grupo.
+
+**Precio / año:** 2026 · 1600 BWP por el curso según la página pública. La próxima convocatoria sigue sin anunciarse.
+
+**Incluido:** Creación de videojuegos y mundos con Roblox Studio.
+
+**Suplementos:** Ordenador y Roblox Studio. El curso requiere una cuenta.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+
+**Oscar:** No cumple por edad actualmente. Guardar para una temporada futura.
+
+**Motivo de selección:** Clases en directo por internet, 12 semanas de 90 minutos. Posibles días: jueves, viernes o sábado. Confirmar la hora del grupo.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://xtreamrobotics.com/roblox-game-design/) · 2026-11-08
+
+## CP2030 · QED STEM Academy · After School Programme 2026–27
+
+Malaui · Lilongwe
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** A partir de 6 años. Una prueba inicial ayuda a elegir el nivel.
+
+**Idioma:** La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+
+**Programa:** Robótica, programación por bloques, Python y resolución de problemas por proyectos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Programa extraescolar 2026–2027 en Lilongüe. La web ofrece un formulario de interés. Sigue sin indicarse el horario ni el precio total. Se prevé pago anticipado semanal o mensual.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Incluido:** Robótica, programación por bloques, Python y resolución de problemas por proyectos.
+
+**Suplementos:** Confirmar fecha, nivel, modalidad y posibilidad de admisión de un menor visitante.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+
+**Oscar:** Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+
+**Motivo de selección:** Programa extraescolar 2026–2027 en Lilongüe. La web ofrece un formulario de interés. Sigue sin indicarse el horario ni el precio total. Se prevé pago anticipado semanal o mensual.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://about.qed.ai/stem) · 2026-11-08
+
+## CP2031 · KroneLabs · Mini Makers
+
+Malaui · Lilongwe
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–8 años.
+
+**Idioma:** La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+
+**Programa:** ScratchJr, ejercicios de lógica y primeros montajes LEGO.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** La organización describe clases de sábado y campamentos en Lilongüe. El anuncio corresponde a Term 2 de 2026. Siguen sin publicarse fechas y precio del próximo grupo.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Incluido:** ScratchJr, ejercicios de lógica y primeros montajes LEGO.
+
+**Suplementos:** Confirmar fecha, nivel, modalidad y posibilidad de admisión de un menor visitante.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No por ahora. Matvey supera el tramo de edad de este grupo.
+
+**Oscar:** Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+
+**Motivo de selección:** La organización describe clases de sábado y campamentos en Lilongüe. El anuncio corresponde a Term 2 de 2026. Siguen sin publicarse fechas y precio del próximo grupo.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://kronelabs.com/edutech) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://kronelabs.com/edutech/robotics) · 2026-11-08
+
+## CP2032 · KroneLabs · Tech Explorers
+
+Malaui · Lilongwe
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–11 años.
+
+**Idioma:** La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+
+**Programa:** Videojuegos con Scratch, dispositivos vestibles con micro:bit e historias digitales.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** La organización describe clases de sábado y campamentos en Lilongüe. El anuncio corresponde a Term 2 de 2026. Siguen sin publicarse fechas y precio del próximo grupo.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Incluido:** Videojuegos con Scratch, dispositivos vestibles con micro:bit e historias digitales.
+
+**Suplementos:** Confirmar fecha, nivel, modalidad y posibilidad de admisión de un menor visitante.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+
+**Oscar:** No cumple por edad actualmente. Guardar para una temporada futura.
+
+**Motivo de selección:** La organización describe clases de sábado y campamentos en Lilongüe. El anuncio corresponde a Term 2 de 2026. Siguen sin publicarse fechas y precio del próximo grupo.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://kronelabs.com/edutech) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://kronelabs.com/edutech/robotics) · 2026-11-08
+
+## CP2033 · KroneLabs · Innovation Squad
+
+Malaui · Lilongwe
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 12–14 años.
+
+**Idioma:** La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+
+**Programa:** Fundamentos de Python, páginas web y retos de robótica por equipos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** La organización describe clases de sábado y campamentos en Lilongüe. El anuncio corresponde a Term 2 de 2026. Siguen sin publicarse fechas y precio del próximo grupo.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Incluido:** Fundamentos de Python, páginas web y retos de robótica por equipos.
+
+**Suplementos:** Confirmar fecha, nivel, modalidad y posibilidad de admisión de un menor visitante.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No cumple por edad actualmente. Guardar para una temporada futura.
+
+**Oscar:** No cumple por edad actualmente. Guardar para una temporada futura.
+
+**Motivo de selección:** La organización describe clases de sábado y campamentos en Lilongüe. El anuncio corresponde a Term 2 de 2026. Siguen sin publicarse fechas y precio del próximo grupo.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://kronelabs.com/edutech) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://kronelabs.com/edutech/robotics) · 2026-11-08
+
+## CP2034 · RFL Malawi · Weekend Workshops
+
+Malaui · Blantyre
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 5–18 años según el catálogo de RFL. Confirmar el grupo concreto.
+
+**Idioma:** La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+
+**Programa:** Talleres de sábado. Los menores construyen y programan robots en grupos pequeños.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El catálogo de la organización describe el programa. Siguen sin publicarse fechas, tarifa e idioma de instrucción del próximo grupo.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Incluido:** Talleres de sábado. Los menores construyen y programan robots en grupos pequeños.
+
+**Suplementos:** Confirmar fecha, nivel, modalidad y posibilidad de admisión de un menor visitante.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+
+**Oscar:** Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+
+**Motivo de selección:** El catálogo de la organización describe el programa. Siguen sin publicarse fechas, tarifa e idioma de instrucción del próximo grupo.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://rflmw.com/stem) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://api.rflmw.com/programs?published=true) · 2026-11-08
+
+## CP2035 · RFL Malawi · Holiday Camps
+
+Malaui · Blantyre
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 5–18 años según el catálogo de RFL. Confirmar el grupo concreto.
+
+**Idioma:** La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+
+**Programa:** Campamento de varios días con retos por equipos y proyecto propio de robótica.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El catálogo de la organización describe el programa. Siguen sin publicarse fechas, tarifa e idioma de instrucción del próximo grupo.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Incluido:** Campamento de varios días con retos por equipos y proyecto propio de robótica.
+
+**Suplementos:** Confirmar fecha, nivel, modalidad y posibilidad de admisión de un menor visitante.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+
+**Oscar:** Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+
+**Motivo de selección:** El catálogo de la organización describe el programa. Siguen sin publicarse fechas, tarifa e idioma de instrucción del próximo grupo.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://rflmw.com/stem) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://api.rflmw.com/programs?published=true) · 2026-11-08
+
+## CP2036 · YUVA Robotics for Kids · Level 1
+
+Mauricio · Port Louis / online
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–18 años según el programa YUVA.
+
+**Idioma:** La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+
+**Programa:** Introducción a la robótica e IA, programación por bloques.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El certificado corresponde a la formación. La selección del equipo nacional se realiza por separado.
+
+**Precio / año:** 2026 · 12500 MUR por el nivel publicado, 10 horas.
+
+**Incluido:** Introducción a la robótica e IA, programación por bloques.
+
+**Suplementos:** Elegir nivel y modalidad virtual o presencial en la solicitud. Confirmar fecha de inicio, equipo para clases virtuales y admisión externa.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+
+**Oscar:** No cumple por edad actualmente. Guardar para una temporada futura.
+
+**Motivo de selección:** El certificado corresponde a la formación. La selección del equipo nacional se realiza por separado.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://yuva.info/yuva-academy/school-of-robotics/robotics-for-kids/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://yuva.info/yuva-academy/school-of-robotics/) · 2026-11-08
+
+## CP2037 · YUVA Robotics for Kids · Level 2
+
+Mauricio · Port Louis / online
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–18 años según el programa YUVA.
+
+**Idioma:** La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+
+**Programa:** Montaje, programación y control de robots.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El certificado corresponde a la formación. La selección del equipo nacional se realiza por separado.
+
+**Precio / año:** 2026 · 15500 MUR por el nivel publicado, 16 horas.
+
+**Incluido:** Montaje, programación y control de robots.
+
+**Suplementos:** Elegir nivel y modalidad virtual o presencial en la solicitud. Confirmar fecha de inicio, equipo para clases virtuales y admisión externa.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+
+**Oscar:** No cumple por edad actualmente. Guardar para una temporada futura.
+
+**Motivo de selección:** El certificado corresponde a la formación. La selección del equipo nacional se realiza por separado.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://yuva.info/yuva-academy/school-of-robotics/robotics-for-kids/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://yuva.info/yuva-academy/school-of-robotics/) · 2026-11-08
+
+## CP2038 · YUVA Robotics for Kids · Level 3
+
+Mauricio · Port Louis / online
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–18 años según el programa YUVA.
+
+**Idioma:** La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+
+**Programa:** Montaje, programación y retos de estrategia con robots.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El certificado corresponde a la formación. La selección del equipo nacional se realiza por separado.
+
+**Precio / año:** 2026 · 18500 MUR por el nivel publicado, 20 horas.
+
+**Incluido:** Montaje, programación y retos de estrategia con robots.
+
+**Suplementos:** Elegir nivel y modalidad virtual o presencial en la solicitud. Confirmar fecha de inicio, equipo para clases virtuales y admisión externa.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+
+**Oscar:** No cumple por edad actualmente. Guardar para una temporada futura.
+
+**Motivo de selección:** El certificado corresponde a la formación. La selección del equipo nacional se realiza por separado.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://yuva.info/yuva-academy/school-of-robotics/robotics-for-kids/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://yuva.info/yuva-academy/school-of-robotics/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

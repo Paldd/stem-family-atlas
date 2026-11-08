@@ -7556,7 +7556,7 @@ Precio: NAD 1125 / month + 160.50 registration. Membresía 2027 por 12 meses nat
 Acceso: Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
 Limitaciones: Programa permanente de robótica por edad. Membresía de año educativo, no sesión de campamento; confirmar nivel individual y horario. Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
 Fuente: https://www.robotschoolnamibia.com/register
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### L465 · Robotschool Namibia · Senior membership 2027
 
@@ -7572,7 +7572,7 @@ Precio: NAD 1230 / month + 160.50 registration. Membresía 2027 por 12 meses nat
 Acceso: Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
 Limitaciones: Programa permanente de robótica por edad. Membresía de año educativo, no sesión de campamento; confirmar nivel individual y horario. Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
 Fuente: https://www.robotschoolnamibia.com/register
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### L466 · Xtream Robotics · Saturday term classes
 
@@ -7668,7 +7668,7 @@ Precio: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en 
 Acceso: Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
 Limitaciones: Workshop presencial inicial Scratch / Blockly: 3 días consecutivos de 1 hora, total 3 horas; no campamento de jornada completa ni de varias semanas. Interactive story, debugging y muestra familiar. Tras tres años de competiciones evaluar dificultad para Matvey. Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
 Fuente: https://www.cyberskills.mu/courses/the-coding-wizards/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### L472 · MDPA · ChILD school coding & robotics
 
@@ -7684,7 +7684,7 @@ Precio: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en 
 Acceso: Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
 Limitaciones: Programa público ChILD introduce coding y robotics a alumnos Grades 4–6 mediante escuelas de Mauritius y SENA. Iniciativa escolar, no campamento estival extranjero abierto; edad no sustituye curso y matrícula escolar. Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
 Fuente: https://mdpa.govmu.org/mdpa/index.php/children-innovative-learning-design-child-programme/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### L473 · SHARKCODERS · Portugal Christmas network
 
@@ -11604,6 +11604,214 @@ Precio: Aún no se confirman el coste total ni las plazas.
 Acceso: Horario publicado del equipo de primaria: lunes y miércoles de 15:00 a 16:30. Inscripción al comienzo del semestre. Confirmar plazas, fechas y acceso de otros colegios.
 Limitaciones: Horario publicado del equipo de primaria: lunes y miércoles de 15:00 a 16:30. Inscripción al comienzo del semestre. Confirmar plazas, fechas y acceso de otros colegios.
 Fuente: https://innovationhub.ans.edu.ni/robotics
+Se ha comprobado: 2026-11-08
+
+### L802 · Xtream Robotics · Game Design for Young Creators
+
+lugar: Botsuana · Gaborone / online
+Fecha: No se ha fijado el período/plan de trabajo
+edad: A partir de 7 años según la recomendación de la organización.
+Matvey: Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+Oscar: No cumple por edad actualmente. Guardar para una temporada futura.
+Formato: online_camp
+Idioma: La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 1200 BWP por el curso según la página pública. La próxima convocatoria sigue sin anunciarse.
+Acceso: La organización cerró la inscripción. Confirmar el próximo inicio y el acceso desde otro país.
+Limitaciones: Clases en directo por internet, 12 semanas de 90 minutos. Posibles días: jueves, viernes o sábado. Confirmar la hora del grupo.
+Fuente: https://xtreamrobotics.com/game-design-for-young-creators/
+Se ha comprobado: 2026-11-08
+
+### L803 · Xtream Robotics · Virtual Robotics
+
+lugar: Botsuana · Gaborone / online
+Fecha: No se ha fijado el período/plan de trabajo
+edad: A partir de 7 años según la recomendación de la organización.
+Matvey: Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+Oscar: No cumple por edad actualmente. Guardar para una temporada futura.
+Formato: online_camp
+Idioma: La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 1800 BWP por el curso según la página pública. La próxima convocatoria sigue sin anunciarse.
+Acceso: La organización cerró la inscripción. Confirmar el próximo inicio y el acceso desde otro país.
+Limitaciones: Clases en directo por internet, 12 semanas de 90 minutos. Posibles días: jueves, viernes o sábado. Confirmar la hora del grupo.
+Fuente: https://xtreamrobotics.com/virtual-robotics/
+Se ha comprobado: 2026-11-08
+
+### L804 · Xtream Robotics · ROBLOX Game Design
+
+lugar: Botsuana · Gaborone / online
+Fecha: No se ha fijado el período/plan de trabajo
+edad: A partir de 7 años según la recomendación de la organización.
+Matvey: Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+Oscar: No cumple por edad actualmente. Guardar para una temporada futura.
+Formato: online_camp
+Idioma: La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 1600 BWP por el curso según la página pública. La próxima convocatoria sigue sin anunciarse.
+Acceso: La organización cerró la inscripción. Confirmar el próximo inicio y el acceso desde otro país.
+Limitaciones: Clases en directo por internet, 12 semanas de 90 minutos. Posibles días: jueves, viernes o sábado. Confirmar la hora del grupo.
+Fuente: https://xtreamrobotics.com/roblox-game-design/
+Se ha comprobado: 2026-11-08
+
+### L805 · QED STEM Academy · After School Programme 2026–27
+
+lugar: Malaui · Lilongwe
+Fecha: No se ha fijado el período/plan de trabajo
+edad: A partir de 6 años. Una prueba inicial ayuda a elegir el nivel.
+Matvey: Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+Oscar: Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+formato: day_course
+Idioma: La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Confirmar fecha, nivel, modalidad y posibilidad de admisión de un menor visitante.
+Limitaciones: Programa extraescolar 2026–2027 en Lilongüe. La web ofrece un formulario de interés. Sigue sin indicarse el horario ni el precio total. Se prevé pago anticipado semanal o mensual.
+Fuente: https://about.qed.ai/stem
+Se ha comprobado: 2026-11-08
+
+### L806 · KroneLabs · Mini Makers
+
+lugar: Malaui · Lilongwe
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 6–8 años.
+Matvey: No por ahora. Matvey supera el tramo de edad de este grupo.
+Oscar: Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+formato: day_course
+Idioma: La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Confirmar fecha, nivel, modalidad y posibilidad de admisión de un menor visitante.
+Limitaciones: La organización describe clases de sábado y campamentos en Lilongüe. El anuncio corresponde a Term 2 de 2026. Siguen sin publicarse fechas y precio del próximo grupo.
+Fuente: https://kronelabs.com/edutech
+Se ha comprobado: 2026-11-08
+
+### L807 · KroneLabs · Tech Explorers
+
+lugar: Malaui · Lilongwe
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 9 a 11 años.
+Matvey: Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+Oscar: No cumple por edad actualmente. Guardar para una temporada futura.
+formato: day_course
+Idioma: La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Confirmar fecha, nivel, modalidad y posibilidad de admisión de un menor visitante.
+Limitaciones: La organización describe clases de sábado y campamentos en Lilongüe. El anuncio corresponde a Term 2 de 2026. Siguen sin publicarse fechas y precio del próximo grupo.
+Fuente: https://kronelabs.com/edutech
+Se ha comprobado: 2026-11-08
+
+### L808 · KroneLabs · Innovation Squad
+
+lugar: Malaui · Lilongwe
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 12–14 años.
+Matvey: No cumple por edad actualmente. Guardar para una temporada futura.
+Oscar: No cumple por edad actualmente. Guardar para una temporada futura.
+formato: day_course
+Idioma: La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Confirmar fecha, nivel, modalidad y posibilidad de admisión de un menor visitante.
+Limitaciones: La organización describe clases de sábado y campamentos en Lilongüe. El anuncio corresponde a Term 2 de 2026. Siguen sin publicarse fechas y precio del próximo grupo.
+Fuente: https://kronelabs.com/edutech
+Se ha comprobado: 2026-11-08
+
+### L809 · RFL Malawi · Weekend Workshops
+
+lugar: Malaui · Blantyre
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 5–18 años según el catálogo de RFL. Confirmar el grupo concreto.
+Matvey: Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+Oscar: Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+Formato: holiday_workshop
+Idioma: La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Confirmar fecha, nivel, modalidad y posibilidad de admisión de un menor visitante.
+Limitaciones: El catálogo de la organización describe el programa. Siguen sin publicarse fechas, tarifa e idioma de instrucción del próximo grupo.
+Fuente: https://rflmw.com/stem
+Se ha comprobado: 2026-11-08
+
+### L810 · RFL Malawi · Holiday Camps
+
+lugar: Malaui · Blantyre
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 5–18 años según el catálogo de RFL. Confirmar el grupo concreto.
+Matvey: Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+Oscar: Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+Formato: day_camp
+Idioma: La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Confirmar fecha, nivel, modalidad y posibilidad de admisión de un menor visitante.
+Limitaciones: El catálogo de la organización describe el programa. Siguen sin publicarse fechas, tarifa e idioma de instrucción del próximo grupo.
+Fuente: https://rflmw.com/stem
+Se ha comprobado: 2026-11-08
+
+### L811 · YUVA Robotics for Kids · Level 1
+
+lugar: Mauricio · Port Louis / online
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 9–18 años según el programa YUVA.
+Matvey: Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+Oscar: No cumple por edad actualmente. Guardar para una temporada futura.
+formato: day_course
+Idioma: La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 12500 MUR por el nivel publicado, 10 horas.
+Acceso: Elegir nivel y modalidad virtual o presencial en la solicitud. Confirmar fecha de inicio, equipo para clases virtuales y admisión externa.
+Limitaciones: El certificado corresponde a la formación. La selección del equipo nacional se realiza por separado.
+Fuente: https://yuva.info/yuva-academy/school-of-robotics/robotics-for-kids/
+Se ha comprobado: 2026-11-08
+
+### L812 · YUVA Robotics for Kids · Level 2
+
+lugar: Mauricio · Port Louis / online
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 9–18 años según el programa YUVA.
+Matvey: Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+Oscar: No cumple por edad actualmente. Guardar para una temporada futura.
+formato: day_course
+Idioma: La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 15500 MUR por el nivel publicado, 16 horas.
+Acceso: Elegir nivel y modalidad virtual o presencial en la solicitud. Confirmar fecha de inicio, equipo para clases virtuales y admisión externa.
+Limitaciones: El certificado corresponde a la formación. La selección del equipo nacional se realiza por separado.
+Fuente: https://yuva.info/yuva-academy/school-of-robotics/robotics-for-kids/
+Se ha comprobado: 2026-11-08
+
+### L813 · YUVA Robotics for Kids · Level 3
+
+lugar: Mauricio · Port Louis / online
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 9–18 años según el programa YUVA.
+Matvey: Condicional. Cumple por edad. Confirmar idioma, nivel del grupo y plaza.
+Oscar: No cumple por edad actualmente. Guardar para una temporada futura.
+formato: day_course
+Idioma: La organización publica la descripción en inglés. Confirmar el idioma de instrucción del grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 18500 MUR por el nivel publicado, 20 horas.
+Acceso: Elegir nivel y modalidad virtual o presencial en la solicitud. Confirmar fecha de inicio, equipo para clases virtuales y admisión externa.
+Limitaciones: El certificado corresponde a la formación. La selección del equipo nacional se realiza por separado.
+Fuente: https://yuva.info/yuva-academy/school-of-robotics/robotics-for-kids/
+Se ha comprobado: 2026-11-08
+
+### L814 · ROBO Africa Mauritius · English workshop day
+
+lugar: Mauricio · Rajiv Gandhi Science Centre · Bell Village · Port Louis
+Fecha: 2026-11-23 国 2026-11-25
+edad: Programa escolar. Confirmar la edad mínima y el acceso del menor con el centro científico.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+Formato: holiday_workshop
+Idioma: El centro científico indica expresamente que las actividades se imparten en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: Gratuito según el programa del centro científico.
+Acceso: Se requiere inscripción previa para un día del intervalo 23–25 de noviembre de 2026. Confirmar plazo exacto, edad, sede y plazas en la página pública de la organización.
+Limitaciones: En el horario tipo el desarrollo de un videojuego en RV va de 13:15 a 14:00. Confirmar el día concreto al inscribirse. El nivel de los retos se adapta al grupo.
+Fuente: https://rgsc.govmu.org/rgsc/?page_id=648171
 Se ha comprobado: 2026-11-08
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
@@ -59204,7 +59412,7 @@ Precio: 2026/27 · 2026: NAD 450 por niño / mañana elegida; member 225. Non-me
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero. Pago: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
 Fuente: https://www.robotschoolnamibia.com/holiday-camp
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### CP1293-20261123-20261211-senior · Robotschool Namibia · Holiday SENIOR · Holiday SENIOR · 2026-11-23–2026-12-11
 
@@ -59220,7 +59428,7 @@ Precio: 2026/27 · 2026: NAD 450 por niño / mañana elegida; member 225. Non-me
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero. Pago: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
 Fuente: https://www.robotschoolnamibia.com/holiday-camp
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### CP1296-20261123-20261127-green · Xtream Robotics · Green Light Robotics & Coding · Green Light Robotics & Coding · 2026-11-23–2026-11-27
 
@@ -59236,7 +59444,7 @@ Precio: 2026/27 · BWP 1150 / child / camp. Pago confirma pedido; programas educ
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero. Pago: Pago confirma pedido; programas educativos generalmente sin devolución. Traslado a otro curso o producto disponible solo con decisión del operador. Baja recurrente exige aviso escrito de 30 días; ausencias normalmente sin reposición. Condiciones sin aceptar.
 Fuente: https://xtreamrobotics.com/robotics-coding-camp-green-light-day-care-centre/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### CP1305-20261207-20261217-exchange · TTC · Tanzania–Singapore STEM Exchange · STEM Exchange · 2026-12-07–2026-12-17
 

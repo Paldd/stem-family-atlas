@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10421; competiciones: 4704; eventos: 611; campamentos / programas: 5106. Perfiles de ligas y programas: 303. Fichas de exposiciones grandes y especializadas: 511 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10437; competiciones: 4704; eventos: 614; campamentos / programas: 5119. Perfiles de ligas y programas: 303. Fichas de exposiciones grandes y especializadas: 515 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros específicos para 234 de 249 países y territorios y 0 países con auditoría completa. Revisión del archivo v51: se añadieron 21 fichas y 3 perfiles. Se conservaron todas las fichas anteriores.
 
@@ -17,7 +17,7 @@ Hay registros específicos para 234 de 249 países y territorios y 0 países con
 | América del Norte | 40 | 1936 | 125 | 1302 |
 | América del Sur | 14 | 433 | 45 | 207 |
 | Europa | 54 | 611 | 124 | 1471 |
-| África | 55 | 245 | 32 | 110 |
+| África | 55 | 245 | 36 | 123 |
 | Asia | 50 | 1168 | 153 | 1667 |
 | Oceanía | 25 | 167 | 30 | 334 |
 
@@ -554,6 +554,7 @@ VEX: 814 de 4704 fichas de competición (17.3%). La cobertura está claramente c
 - **GITEX AI Vietnam · fechas de edición por contrastar** — Vietnam; fecha desconocida. Niños de 6/9 no admitidos. https://gitexvietnam.com/
 - **AI Everything Kenya × GITEX Kenya · próxima edición / confirmar horario** — Kenia; fecha desconocida. Niños de 6/9 no admitidos. https://www.aieverythingkenya.com/register
 - **Ai Everything MEA Egypt 2027** — Egipto; fecha desconocida. Confirmar admisión infantil. https://www.aieverythingegypt.com/
+- **ROBO Africa 2026 · Port Louis · RGSC · Bell Village** — Mauricio; 2026-11-23 – 2026-11-25. el permiso de entrada de niños. https://rgsc.govmu.org/rgsc/?page_id=648171
 - **Seoul International Invention Fair · SIIF 2026** — Corea del Sur; 2026-12-02 – 2026-12-05. el permiso de entrada de niños. https://www.coex.co.kr/en/exhibitions/2026-seoul-international-invention-fair/
 - **Automation World · AW 2027** — Corea del Sur; 2027-03-03 – 2027-03-05. el permiso de entrada de niños. https://www.automationworld.co.kr/?hl=en
 - **Datacentre & Cloud Infrastructure Expo · DCCI Malaysia 2027** — Malasia; 2027-05-04 – 2027-05-05. el permiso de entrada de niños. https://www.malaysia.dccisummit.com/
@@ -882,6 +883,9 @@ VEX: 814 de 4704 fichas de competición (17.3%). La cobertura está claramente c
 - **Africa Automation Technology Fair 2027** — Sudáfrica; 2027-07-06 – 2027-07-08. el permiso de entrada de niños. https://www.africaautomationtechnologyfair.com/africa-automation-trade-fair/en-gb.html
 - **29ª Feria de la Ciencia · Granada** — España; 2027-05-08. el permiso de entrada de niños. https://www.parqueciencias.com/29a-feria-de-la-ciencia/
 - **Miraikan · Nanairo Quest · Friend Robot Tour** — Japón, fecha sin confirmar. Con una persona adulta, consultar aparte sus condiciones de entrada. https://www.miraikan.jst.go.jp/en/exhibitions/future/nanairoquest/
+- **Nedbank rAge Nation 2026** — Sudáfrica; 2026-11-27 – 2026-11-29. con un adulto; condiciones de admisión adulta por separado. https://ragenation.gg/
+- **Africa Games Week 2026 · Exhibition** — Sudáfrica; 2026-12-06 – 2026-12-09. el permiso de entrada de niños. https://gamesweek.africa/faq/
+- **KwaZulu-Natal Industrial Technology Exhibition 2027** — Sudáfrica; 2027-07-27 – 2027-07-29. el permiso de entrada de niños. https://www.kznindustrial.co.za/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors
