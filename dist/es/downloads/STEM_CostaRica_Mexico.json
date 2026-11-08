@@ -2034,11 +2034,11 @@
       "deadline_label": "Registro",
       "deadline_note": "por página: 30-Nov-2026 15:00 EST; Costa Rica: 2026-11-30 14:00 (UTC−6)",
       "deadline_utc": "2026-11-30T20:00:00.000Z",
-      "age": "IQ Elementary por edad; además equipo exclusivamente femenino. Sección 2 de convocatoria establece expresamente composición por género.",
-      "mat": "No: convocatoria vigente admite solo equipos femeninos.",
-      "osc": "No: convocatoria vigente admite solo equipos femeninos.",
+      "age": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "mat": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "osc": "No. La convocatoria vigente admite únicamente equipos femeninos.",
       "format": "Bases Robótica Móvil locales de 2026–2027 exigen mínimo 3 alumnos en primaria / secundaria, un docente o asesor responsable y un robot. El mínimo global de 2+ para IQ no elimina requisito local: dos hermanos no bastan.",
-      "entry": "Esta edición no es adecuada para hermanos: convocatoria excluye expresamente equipos masculinos y mixtos. Conservada en calendario mundial; buscar otro recinto IQ adecuado.",
+      "entry": "No. La convocatoria vigente admite únicamente equipos femeninos.",
       "gear": "VEX IQ Level Up: robot permitido y notebook; LEGO / V5 no sustituyen. Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución.",
       "language": "ES  candidato; lenguaje de la jueza para especificar",
       "languages": [
@@ -2046,12 +2046,12 @@
       ],
       "language_certainty": "idioma del país/descripción  sólo el idioma candidato de la entrevista y el notebook para este equipo se acordarán por separado.",
       "cost": "PDF oficial enlazado: Robótica Móvil / VEX Air sin cuota de inscripción del evento. Robótica Colaborativa / AI & IoT aparte cuestan 1000 MXN + IVA; no es precio IQ ni automáticamente de VEX AI. Cuota de evento y VEX-ID son distintos. Convocatorias anuncian subsidio del 100% de VEX-ID para equipos mexicanos; confirmar aplicación a familia residente en Costa Rica. Robot, campo, piezas de temporada, portátil, mentor, seguro y viaje no incluidos en esa línea de cero.",
-      "scope": "regional",
-      "level": "C  etapa regional / local",
-      "importance_reason": "Valoración editorial basada en el formato y el nombre. Pertenece a la red internacional VEX, pero este torneo no es un campeonato mundial.",
-      "reward": "Premios locales solo según resultado oficial. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños.",
+      "scope": "international",
+      "level": "VEX Signature Event",
+      "importance_reason": "Clase Signature Event confirmada. Las plazas para Worlds requieren aprobación del torneo y cumplimiento de criterios de temporada. Confirmar cantidad para esta división.",
+      "reward": "El portal incluye la división en el filtro oficial de clasificación al VEX Worlds. Confirmar el número de plazas y las condiciones del premio en la ficha y las bases.",
       "priority": "P4 — solo equipos femeninos",
-      "action": "Antes de elegir clasificación mexicana obtener respuesta: cómo equipo masculino / mixto o extranjero cumple requisito Girl Powered, qué categorías reciben cupo Worlds, si se acepta situación escolar y cómo se aplica mínimo de integrantes. Pregunta preparada, sin enviar al organizador.",
+      "action": "No. La convocatoria vigente admite únicamente equipos femeninos.",
       "source": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66394.html",
       "references": [
         {
@@ -2069,10 +2069,30 @@
         {
           "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
           "label": "Student Eligibility Policy global · actualización del 27 de octubre de 2026"
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=9",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=1&qual_wc=1",
+          "label": "Filtro de VEX Events para torneos con clasificación al Worlds."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/50474731922836-Event-Qualifying-Criteria",
+          "label": "Criterios de clasificación y cupos regionales de Global Robotics."
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=1&level_class_id=9",
+          "label": "Calendario oficial de VEX IQ Signature Events con filtro Elementary."
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
         }
       ],
       "proof": "Ficha actual de VEX Events confirma fechas, nivel y plazo de registro. Leídas Bases y convocatorias locales; páginas relevantes de integrantes, género, clasificación y precios inspeccionadas visualmente. Admisión familiar desconocida no equivale a plaza abierta.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños.",
       "iso": [
@@ -2088,11 +2108,16 @@
       "event_code": "VE-IQ-26-66394",
       "event_region": "Mexico",
       "venue": "CALLE 60 NTE 299, ZONA INDUSTRIAL, REVOLUCION, MERIDA, Yucatán, 97118, Mexico",
-      "admission_kind": "open_application",
+      "admission_kind": "invitation",
       "evidence_level": "rules",
-      "registration_status": "Solicitud, admisión escolar, invitación y cupo familiar sin confirmar; sin aceptar consentimientos ni efectuar pagos.",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
       "event_type": "Open Tournament",
-      "team_min": 3
+      "team_min": 3,
+      "grade_level": "Elementary",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      }
     },
     {
       "block": "Competiciones",
@@ -2109,11 +2134,11 @@
       "deadline_label": "Registro",
       "deadline_note": "por página: 26-Jan-2027 12:00 EST; Costa Rica: 2027-01-26 11:00 (UTC−6)",
       "deadline_utc": "2027-01-26T17:00:00.000Z",
-      "age": "VEX IQ Elementary; reglas de edad  en C024",
-      "mat": "Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.",
-      "osc": "Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.",
+      "age": "VEX IQ Elementary hasta 12 años inclusive al 1 de junio de 2027. Equipo global desde 2. Confirmar matrícula local y situación del equipo. Edad máxima global según división y mínimo local de 3 alumnos de primaria y secundaria. Se exigen mentor responsable y documentos escolares.",
+      "mat": "Condicional. Confirmar admisión escolar, país del equipo y mínimo de 3 integrantes.",
+      "osc": "Condicional. Confirmar admisión escolar, país del equipo y mínimo de 3 integrantes.",
       "format": "Bases Robótica Móvil locales de 2026–2027 exigen mínimo 3 alumnos en primaria / secundaria, un docente o asesor responsable y un robot. El mínimo global de 2+ para IQ no elimina requisito local: dos hermanos no bastan.",
-      "entry": "Invitational para equipos de Chihuahua: primero invitación, después equipo y torneo. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo.",
+      "entry": "Confirmar las condiciones de invitación o selección escolar en la ficha. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Bases Robótica Móvil locales de 2026–2027 exigen mínimo 3 alumnos en primaria / secundaria, un docente o asesor responsable y un robot. El mínimo global de 2+ para IQ no elimina requisito local: dos hermanos no bastan.",
       "gear": "VEX IQ Level Up: robot permitido y notebook; LEGO / V5 no sustituyen. Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución.",
       "language": "ES  candidato; lenguaje de la jueza para especificar",
       "languages": [
@@ -2122,11 +2147,11 @@
       "language_certainty": "idioma del país/descripción  sólo el idioma candidato de la entrevista y el notebook para este equipo se acordarán por separado.",
       "cost": "Portal y Bases locales indican ausencia de cuota Robótica Móvil; confirmar invitación y gastos obligatorios finales. Cuota de evento y VEX-ID son distintos. Convocatorias anuncian subsidio del 100% de VEX-ID para equipos mexicanos; confirmar aplicación a familia residente en Costa Rica. Robot, campo, piezas de temporada, portátil, mentor, seguro y viaje no incluidos en esa línea de cero.",
       "scope": "regional",
-      "level": "C  etapa regional / local",
-      "importance_reason": "Valoración editorial basada en el formato y el nombre. Pertenece a la red internacional VEX, pero este torneo no es un campeonato mundial.",
+      "level": "Fase regional de VEX",
+      "importance_reason": "Fase regional de VEX",
       "reward": "los premios y la calificación de los premios comprobar las tarjetas; el resultado aún no ha sido obtenido",
       "priority": "P1  comprobar la entrada mexicana",
-      "action": "abrir una tarjeta de actualidad; confirmar las categorías, región del equipo, invitación, lugares, contribuciones y el notebook antes de grabar",
+      "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
       "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5421.html",
       "references": [
         {
@@ -2140,12 +2165,24 @@
         {
           "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
           "label": "Student Eligibility Policy global · actualización del 27 de octubre de 2026"
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=24",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://academiastem.org/pdf/Convocatoria%20de%20participaci%C3%B3n%20%20Campeonato%20Internacional%20de%20Rob%C3%B3tica%20y%20Habilidades%20STEM%202026_2027v2.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
         }
       ],
       "proof": "Ficha actual de VEX Events confirma fechas, nivel y plazo de registro. Leídas Bases y convocatorias locales; páginas relevantes de integrantes, género, clasificación y precios inspeccionadas visualmente. Admisión familiar desconocida no equivale a plaza abierta.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-07",
       "status": "Idea",
-      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Payment Deadline de página señala enero de 2026 erróneamente para torneo de enero de 2027. Calendario conserva Registration Deadline de 2027; sin planificar pago con año antiguo.",
+      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Payment Deadline de página señala enero de 2026 erróneamente para torneo de enero de 2027. Calendario conserva Registration Deadline de 2027; sin planificar pago con año antiguo.",
       "iso": [
         "MEX"
       ],
@@ -2154,16 +2191,24 @@
       ],
       "participation": "team",
       "related_ids": [
-        "C024"
+        "C024",
+        "C1156",
+        "C4307",
+        "C4308"
       ],
       "event_code": "RE-VIQRC-26-5421",
       "event_region": "Mexico",
       "venue": "Av. Universidad Tecnológica No. 3051, Col. Lote Bravo II, Ciudad Juarez, Chihuahua, 32695, Mexico",
       "admission_kind": "invitation",
       "evidence_level": "rules",
-      "registration_status": "Solicitud, admisión escolar, invitación y cupo familiar sin confirmar; sin aceptar consentimientos ni efectuar pagos.",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
       "event_type": "Open Tournament",
-      "team_min": 3
+      "team_min": 3,
+      "grade_level": "Elementary",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      }
     },
     {
       "block": "Competiciones",
@@ -2180,11 +2225,11 @@
       "deadline_label": "Registro",
       "deadline_note": "por página: 27-Jan-2027 12:00 EST; Costa Rica: 2027-01-27 11:00 (UTC−6)",
       "deadline_utc": "2027-01-27T17:00:00.000Z",
-      "age": "VEX IQ Elementary; reglas de edad  en C024",
-      "mat": "Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.",
-      "osc": "Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.",
+      "age": "VEX IQ Elementary hasta 12 años inclusive al 1 de junio de 2027. Equipo global desde 2. Confirmar matrícula local y situación del equipo. Edad máxima global según división y mínimo local de 3 alumnos de primaria y secundaria. Se exigen mentor responsable y documentos escolares.",
+      "mat": "Condicional. Confirmar admisión escolar, país del equipo y mínimo de 3 integrantes.",
+      "osc": "Condicional. Confirmar admisión escolar, país del equipo y mínimo de 3 integrantes.",
       "format": "Bases Robótica Móvil locales de 2026–2027 exigen mínimo 3 alumnos en primaria / secundaria, un docente o asesor responsable y un robot. El mínimo global de 2+ para IQ no elimina requisito local: dos hermanos no bastan.",
-      "entry": "VEX-ID vigente, registro de equipo y confirmación de torneo concreto. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo.",
+      "entry": "Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Bases Robótica Móvil locales de 2026–2027 exigen mínimo 3 alumnos en primaria / secundaria, un docente o asesor responsable y un robot. El mínimo global de 2+ para IQ no elimina requisito local: dos hermanos no bastan.",
       "gear": "VEX IQ Level Up: robot permitido y notebook; LEGO / V5 no sustituyen. Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución.",
       "language": "ES  candidato; lenguaje de la jueza para especificar",
       "languages": [
@@ -2192,10 +2237,10 @@
       ],
       "language_certainty": "idioma del país/descripción  sólo el idioma candidato de la entrevista y el notebook para este equipo se acordarán por separado.",
       "cost": "PDF oficial enlazado: Robótica Móvil / VEX Air sin cuota de inscripción del evento. Robótica Colaborativa / AI & IoT aparte cuestan 1000 MXN + IVA; no es precio IQ ni automáticamente de VEX AI. Cuota de evento y VEX-ID son distintos. Convocatorias anuncian subsidio del 100% de VEX-ID para equipos mexicanos; confirmar aplicación a familia residente en Costa Rica. Robot, campo, piezas de temporada, portátil, mentor, seguro y viaje no incluidos en esa línea de cero.",
-      "scope": "unclassified",
-      "level": "C  etapa regional / local",
-      "importance_reason": "Valoración editorial basada en el formato y el nombre. Pertenece a la red internacional VEX, pero este torneo no es un campeonato mundial.",
-      "reward": "Premios locales solo según resultado oficial. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños.",
+      "scope": "international",
+      "level": "VEX Signature Event",
+      "importance_reason": "Clase Signature Event confirmada. Las plazas para Worlds requieren aprobación del torneo y cumplimiento de criterios de temporada. Confirmar cantidad para esta división.",
+      "reward": "El portal incluye la división en el filtro oficial de clasificación al VEX Worlds. Confirmar el número de plazas y las condiciones del premio en la ficha y las bases. El torneo figura como Signature Event. La convocatoria local condiciona algunas plazas a otras fases, incluida Girl Powered. El procedimiento para equipos masculinos y mixtos no está claro.",
       "priority": "P1  comprobar la entrada mexicana",
       "action": "Antes de elegir clasificación mexicana obtener respuesta: cómo equipo masculino / mixto o extranjero cumple requisito Girl Powered, qué categorías reciben cupo Worlds, si se acepta situación escolar y cómo se aplica mínimo de integrantes. Pregunta preparada, sin enviar al organizador.",
       "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5432.html",
@@ -2215,12 +2260,32 @@
         {
           "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
           "label": "Student Eligibility Policy global · actualización del 27 de octubre de 2026"
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=24",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=1&qual_wc=1",
+          "label": "Filtro de VEX Events para torneos con clasificación al Worlds."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/50474731922836-Event-Qualifying-Criteria",
+          "label": "Criterios de clasificación y cupos regionales de Global Robotics."
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=1&level_class_id=9",
+          "label": "Calendario oficial de VEX IQ Signature Events con filtro Elementary."
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
         }
       ],
       "proof": "Ficha actual de VEX Events confirma fechas, nivel y plazo de registro. Leídas Bases y convocatorias locales; páginas relevantes de integrantes, género, clasificación y precios inspeccionadas visualmente. Admisión familiar desconocida no equivale a plaza abierta.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-07",
       "status": "Idea",
-      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños. Payment Deadline aún indica enero de 2026; Registration Deadline confirmado corresponde a enero de 2027. Encabezado International y texto general que dice National discrepan; sin deducir cupo Signature / Worlds solo de encabezado.",
+      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños. Payment Deadline aún indica enero de 2026; Registration Deadline confirmado corresponde a enero de 2027. Encabezado International y texto general que dice National discrepan; sin deducir cupo Signature / Worlds solo de encabezado.",
       "iso": [
         "MEX"
       ],
@@ -2229,16 +2294,25 @@
       ],
       "participation": "team",
       "related_ids": [
-        "C024"
+        "C024",
+        "C1158",
+        "C4311",
+        "C4312",
+        "C4313"
       ],
       "event_code": "RE-VIQRC-26-5432",
       "event_region": "Mexico",
       "venue": "Av. Universidad Tecnológica No. 3051, Col. Lote Bravo II, Ciudad Juarez, Chihuahua, 32695, Mexico",
       "admission_kind": "open_application",
       "evidence_level": "rules",
-      "registration_status": "Solicitud, admisión escolar, invitación y cupo familiar sin confirmar; sin aceptar consentimientos ni efectuar pagos.",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
       "event_type": "Open Tournament",
-      "team_min": 3
+      "team_min": 3,
+      "grade_level": "Elementary",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      }
     },
     {
       "block": "Competiciones",
@@ -2255,11 +2329,11 @@
       "deadline_label": "Registro",
       "deadline_note": "por página: 3-Mar-2027 12:00 EST; Costa Rica: 2027-03-03 11:00 (UTC−6)",
       "deadline_utc": "2027-03-03T17:00:00.000Z",
-      "age": "VEX IQ Elementary; reglas de edad  en C024",
-      "mat": "Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.",
-      "osc": "Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.",
+      "age": "VEX IQ Elementary hasta 12 años inclusive al 1 de junio de 2027. Equipo global desde 2. Confirmar matrícula local y situación del equipo. Edad máxima global según división y mínimo local de 3 alumnos de primaria y secundaria. Se exigen mentor responsable y documentos escolares.",
+      "mat": "Condicional. Confirmar admisión escolar, país del equipo y mínimo de 3 integrantes.",
+      "osc": "Condicional. Confirmar admisión escolar, país del equipo y mínimo de 3 integrantes.",
       "format": "Bases Robótica Móvil locales de 2026–2027 exigen mínimo 3 alumnos en primaria / secundaria, un docente o asesor responsable y un robot. El mínimo global de 2+ para IQ no elimina requisito local: dos hermanos no bastan.",
-      "entry": "VEX-ID vigente, registro de equipo y confirmación de torneo concreto. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo.",
+      "entry": "Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Bases Robótica Móvil locales de 2026–2027 exigen mínimo 3 alumnos en primaria / secundaria, un docente o asesor responsable y un robot. El mínimo global de 2+ para IQ no elimina requisito local: dos hermanos no bastan.",
       "gear": "VEX IQ Level Up: robot permitido y notebook; LEGO / V5 no sustituyen. Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución.",
       "language": "ES  candidato; lenguaje de la jueza para especificar",
       "languages": [
@@ -2268,9 +2342,9 @@
       "language_certainty": "idioma del país/descripción  sólo el idioma candidato de la entrevista y el notebook para este equipo se acordarán por separado.",
       "cost": "PDF oficial enlazado: Robótica Móvil / VEX Air sin cuota de inscripción del evento. Robótica Colaborativa / AI & IoT aparte cuestan 1000 MXN + IVA; no es precio IQ ni automáticamente de VEX AI. Cuota de evento y VEX-ID son distintos. Convocatorias anuncian subsidio del 100% de VEX-ID para equipos mexicanos; confirmar aplicación a familia residente en Costa Rica. Robot, campo, piezas de temporada, portátil, mentor, seguro y viaje no incluidos en esa línea de cero.",
       "scope": "national",
-      "level": "C  etapa nacional",
-      "importance_reason": "Valoración editorial basada en el formato y el nombre. Pertenece a la red internacional VEX, pero este torneo no es un campeonato mundial.",
-      "reward": "Premios locales solo según resultado oficial. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños.",
+      "level": "Campeonato nacional de VEX",
+      "importance_reason": "Campeonato nacional de VEX",
+      "reward": "Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños.",
       "priority": "P1  comprobar la entrada mexicana",
       "action": "Antes de elegir clasificación mexicana obtener respuesta: cómo equipo masculino / mixto o extranjero cumple requisito Girl Powered, qué categorías reciben cupo Worlds, si se acepta situación escolar y cómo se aplica mínimo de integrantes. Pregunta preparada, sin enviar al organizador.",
       "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5500.html",
@@ -2290,12 +2364,24 @@
         {
           "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
           "label": "Student Eligibility Policy global · actualización del 27 de octubre de 2026"
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=33",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://academiastem.org/pdf/Convocatoria%20de%20participaci%C3%B3n%20%20Campeonato%20Internacional%20de%20Rob%C3%B3tica%20y%20Habilidades%20STEM%202026_2027v2.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
         }
       ],
       "proof": "Ficha actual de VEX Events confirma fechas, nivel y plazo de registro. Leídas Bases y convocatorias locales; páginas relevantes de integrantes, género, clasificación y precios inspeccionadas visualmente. Admisión familiar desconocida no equivale a plaza abierta.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-07",
       "status": "Idea",
-      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños. Título y primera página del National PDF enlazado aún imprimen 2026; dentro figuran campeonatos 2026–2027 y ficha vigente VEX Events da 3–5 de marzo de 2027. Fechas de ficha actual; comprobar edición del PDF y tarifa específica de 2027 antes del viaje.",
+      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños. Título y primera página del National PDF enlazado aún imprimen 2026; dentro figuran campeonatos 2026–2027 y ficha vigente VEX Events da 3–5 de marzo de 2027. Fechas de ficha actual; comprobar edición del PDF y tarifa específica de 2027 antes del viaje.",
       "iso": [
         "MEX"
       ],
@@ -2304,16 +2390,25 @@
       ],
       "participation": "team",
       "related_ids": [
-        "C024"
+        "C024",
+        "C1155",
+        "C1157",
+        "C4413",
+        "C4414"
       ],
       "event_code": "RE-VIQRC-26-5500",
       "event_region": "Mexico",
       "venue": "Blvd. Héroes del 5 de Mayo 402, Centro histórico de Puebla, Heroica Puebla de Zaragoza, Pue, Puebla, 72000, Mexico",
       "admission_kind": "open_application",
       "evidence_level": "rules",
-      "registration_status": "Solicitud, admisión escolar, invitación y cupo familiar sin confirmar; sin aceptar consentimientos ni efectuar pagos.",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
       "event_type": "Open Tournament",
-      "team_min": 3
+      "team_min": 3,
+      "grade_level": "Elementary",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      }
     },
     {
       "block": "Competiciones",
@@ -18515,6 +18610,1760 @@
       "venue": "Museo Jumex · Miguel de Cervantes Saavedra 303 · Ciudad de México"
     },
     {
+      "id": "C4144",
+      "title": "Torneo Regional del Estado de Chihuahua Zona Centro-Sur · VEX U",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "",
+      "venue": "Circuito Universitario S/N, Campus Universitario II, Chihuahua, Chihuahua, 31125, Mexico",
+      "source": "https://events.vex.com/robot-competitions/college-competition/VE-U-26-67103.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2026-11-09",
+      "end": "2026-11-09",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-09",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/college-competition?country_id=164&from_date=2026-11-07&page=1",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        }
+      ],
+      "age": "VEX U tras terminar la secundaria para estudiantes de nivel postsecundario.",
+      "mat": "No según los requisitos de VEX U. Se requiere formación postsecundaria.",
+      "osc": "No según los requisitos de VEX U. Se requiere formación postsecundaria.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 2,
+      "entry": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.",
+      "gear": "VEX U Override. Requisitos de plataforma y construcción en las bases universitarias.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Fase regional de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P4 — edad futura",
+      "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
+      "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Fase regional de VEX",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "event_code": "VE-U-26-67103",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "All",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/college-competition/VE-U-26-67103.html",
+      "deadline_utc": "2026-11-09T13:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 9-Nov-2026 08:00 EST. Es el cierre de inscripción del equipo."
+    },
+    {
+      "id": "C4145",
+      "title": "Torneo Regional del Estado de Chihuahua Zona Centro-Sur · VEX V5",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "",
+      "venue": "Circuito Universitario S/N, Campus Universitario II, Chihuahua, Chihuahua, 31125, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-robotics-competition/VE-V5-26-67102.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2026-11-09",
+      "end": "2026-11-09",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-09",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-robotics-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        }
+      ],
+      "age": "VEX V5 Middle hasta 15 años al 1 de junio de 2027. Confirmar curso y equipo locales.",
+      "mat": "Condicional según la edad máxima. Confirmar nivel escolar y derecho a competir en VEX V5.",
+      "osc": "Condicional según la edad máxima. Confirmar nivel escolar y derecho a competir en VEX V5.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 1,
+      "entry": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.",
+      "gear": "VEX V5 Override. Confirmar construcción, inspección, campo y cuaderno.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Fase regional de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P2 — participación según condiciones",
+      "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
+      "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Fase regional de VEX",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "event_code": "VE-V5-26-67102",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "All",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-robotics-competition/VE-V5-26-67102.html",
+      "deadline_utc": "2026-11-09T12:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 9-Nov-2026 07:00 EST. Es el cierre de inscripción del equipo."
+    },
+    {
+      "id": "C4148",
+      "title": "Torneo Final de la Liga Del Mar · VEX IQ · Middle School",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "",
+      "venue": "Calle Paseo del Sol, El Tezal #1255, Cabo San Lucas, Baja California, 23545, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5438.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2026-11-13",
+      "end": "2026-11-14",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-13",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        }
+      ],
+      "age": "VEX IQ Middle hasta 15 años al 1 de junio de 2027, desde 2 participantes globalmente. Confirmar si un equipo menor puede subir a esta división.",
+      "mat": "Condicional. La participación depende de la escuela o de una invitación.",
+      "osc": "Condicional. La participación depende de la escuela o de una invitación.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 2,
+      "entry": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza. Confirmar las condiciones de invitación o selección escolar en la ficha.",
+      "gear": "VEX IQ Level Up. Robot según reglamento, programación, inspección y cuaderno según condiciones de la fase.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Fase local de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P2 — participación según condiciones",
+      "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
+      "note": "La ficha indica Middle School. El nombre dice final de liga y la interfaz muestra Open Tournament. Confirmar requisitos de fases previas.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Fase local de VEX",
+      "participation": "team",
+      "admission_kind": "invitation",
+      "evidence_level": "event_page",
+      "event_code": "RE-VIQRC-26-5438",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "Escuela media",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5438.html",
+      "deadline_utc": "2026-11-13T17:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 13-Nov-2026 12:00 EST. Es el cierre de inscripción del equipo."
+    },
+    {
+      "id": "C4149",
+      "title": "Torneo Delmar International School Elementary 2026 · VEX IQ",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Cabo San Lucas, Baja California Sur",
+      "venue": "Paseo del Sol #1255, El Tezal, Cabo San Lucas, Baja California Sur, 23454, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66734.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-12",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=3",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        }
+      ],
+      "age": "VEX IQ Elementary hasta 12 años inclusive al 1 de junio de 2027. Equipo global desde 2. Confirmar matrícula local y situación del equipo.",
+      "mat": "No para equipos externos según las bases publicadas. Torneo exclusivo de Delmar International School.",
+      "osc": "No para equipos externos según las bases publicadas. Torneo exclusivo de Delmar International School.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 2,
+      "entry": "No para equipos externos según las bases publicadas. Torneo exclusivo de Delmar International School.",
+      "gear": "VEX IQ Level Up. Robot según reglamento, programación, inspección y cuaderno según condiciones de la fase.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Campeonato nacional de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P4 — solo el propio colegio",
+      "action": "No para equipos externos según las bases publicadas. Torneo exclusivo de Delmar International School.",
+      "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Campeonato nacional de VEX",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "event_code": "VE-IQ-26-66734",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "Elementary",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66734.html",
+      "deadline_utc": "2026-11-13T01:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 12-Nov-2026 20:00 EST. Es el cierre de inscripción del equipo.",
+      "related_ids": [
+        "C4150",
+        "C4151"
+      ]
+    },
+    {
+      "id": "C4150",
+      "title": "Torneo Delmar International School Middle School 2026 · VEX IQ",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Cabo San Lucas, Baja California Sur",
+      "venue": "Paseo del Sol #1255, El Tezal, Cabo San Lucas, Baja California Sur, 23454, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66735.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-12",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        }
+      ],
+      "age": "VEX IQ Middle hasta 15 años al 1 de junio de 2027, desde 2 participantes globalmente. Confirmar si un equipo menor puede subir a esta división.",
+      "mat": "No para equipos externos según las bases publicadas. Torneo exclusivo de Delmar International School.",
+      "osc": "No para equipos externos según las bases publicadas. Torneo exclusivo de Delmar International School.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 2,
+      "entry": "No para equipos externos según las bases publicadas. Torneo exclusivo de Delmar International School.",
+      "gear": "VEX IQ Level Up. Robot según reglamento, programación, inspección y cuaderno según condiciones de la fase.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Campeonato nacional de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P4 — solo el propio colegio",
+      "action": "No para equipos externos según las bases publicadas. Torneo exclusivo de Delmar International School.",
+      "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Campeonato nacional de VEX",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "event_code": "VE-IQ-26-66735",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "Escuela media",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66735.html",
+      "deadline_utc": "2026-11-13T01:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 12-Nov-2026 20:00 EST. Es el cierre de inscripción del equipo.",
+      "related_ids": [
+        "C4149",
+        "C4151"
+      ]
+    },
+    {
+      "id": "C4151",
+      "title": "Torneo Delmar International School High School 2026 · VEX V5",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Cabo San Lucas, Baja California Sur",
+      "venue": "Paseo del Sol No. 1255, Colonia El Tezal, CABO SAN LUCAS, Baja California Sur, C.P. 23454, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-robotics-competition/VE-V5-26-66736.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-12",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-robotics-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        }
+      ],
+      "age": "VEX V5 High hasta 19 años al 1 de junio de 2027. El participante aún estudia en la escuela. Confirmar curso local.",
+      "mat": "No para equipos externos según las bases publicadas. Torneo exclusivo de Delmar International School.",
+      "osc": "No para equipos externos según las bases publicadas. Torneo exclusivo de Delmar International School.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 1,
+      "entry": "No para equipos externos según las bases publicadas. Torneo exclusivo de Delmar International School.",
+      "gear": "VEX V5 Override. Confirmar construcción, inspección, campo y cuaderno.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Campeonato nacional de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P4 — solo el propio colegio",
+      "action": "No para equipos externos según las bases publicadas. Torneo exclusivo de Delmar International School.",
+      "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Campeonato nacional de VEX",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "event_code": "VE-V5-26-66736",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "La escuela secundaria",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-robotics-competition/VE-V5-26-66736.html",
+      "deadline_utc": "2026-11-13T01:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 12-Nov-2026 20:00 EST. Es el cierre de inscripción del equipo.",
+      "related_ids": [
+        "C4149",
+        "C4150"
+      ]
+    },
+    {
+      "id": "C4156",
+      "title": "TORNEO VEX ROBOTICS JALISCO 2026 · VEX IQ",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "San Juan de los Lagos, Jalisco",
+      "venue": "C. Laberinto #45, Col. Centro, San Juan de los Lagos, Jalisco, 47000, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66663.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-13",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=3",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        }
+      ],
+      "age": "VEX IQ combinado. Para Elementary hasta 12 años y para Middle hasta 15 años al 1 de junio de 2027. Equipo global desde 2.",
+      "mat": "Condicional. Cumple el máximo de edad, confirmar grupo escolar y admisión del equipo.",
+      "osc": "Condicional. Cumple el máximo de edad, confirmar grupo escolar y admisión del equipo.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 2,
+      "entry": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.",
+      "gear": "VEX IQ Level Up. Robot según reglamento, programación, inspección y cuaderno según condiciones de la fase.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Fase local de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P2 — participación según condiciones",
+      "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
+      "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Fase local de VEX",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "event_code": "VE-IQ-26-66663",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "All",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66663.html",
+      "deadline_utc": "2026-11-13T17:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 13-Nov-2026 12:00 EST. Es el cierre de inscripción del equipo."
+    },
+    {
+      "id": "C4157",
+      "title": "TORNEO VEX ROBOTICS JALISCO 2026 Blended · VEX V5",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "",
+      "venue": "C. Laberinto #45, Col. Centro, San Juan de los Lagos, Jalisco, 47000, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-robotics-competition/VE-V5-26-66665.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-13",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-robotics-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        }
+      ],
+      "age": "VEX V5 Middle hasta 15 años al 1 de junio de 2027. Confirmar curso y equipo locales.",
+      "mat": "Condicional según la edad máxima. Confirmar nivel escolar y derecho a competir en VEX V5.",
+      "osc": "Condicional según la edad máxima. Confirmar nivel escolar y derecho a competir en VEX V5.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 1,
+      "entry": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.",
+      "gear": "VEX V5 Override. Confirmar construcción, inspección, campo y cuaderno.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Fase local de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P2 — participación según condiciones",
+      "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
+      "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Fase local de VEX",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "event_code": "VE-V5-26-66665",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "All",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-robotics-competition/VE-V5-26-66665.html",
+      "deadline_utc": "2026-11-13T17:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 13-Nov-2026 12:00 EST. Es el cierre de inscripción del equipo."
+    },
+    {
+      "id": "C4184",
+      "title": "CAMPEONATO DE ROBOTICA Y HABILIDADES STEM: GIRL POWERED · VEX IQ · Middle School",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "",
+      "venue": "CALLE 60 NTE 299, ZONA INDUSTRIAL, REVOLUCION, MERIDA, Yucatán, 97118, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66404.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2026-11-30",
+      "end": "2026-12-01",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-30",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        }
+      ],
+      "age": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "mat": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "osc": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 2,
+      "entry": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "gear": "VEX IQ Level Up. Robot según reglamento, programación, inspección y cuaderno según condiciones de la fase.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Torneo internacional de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P4 — solo equipos femeninos",
+      "action": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Torneo internacional de VEX",
+      "participation": "team",
+      "admission_kind": "invitation",
+      "evidence_level": "event_page",
+      "event_code": "VE-IQ-26-66404",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "Escuela media",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66404.html",
+      "deadline_utc": "2026-11-30T20:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 30-Nov-2026 15:00 EST. Es el cierre de inscripción del equipo."
+    },
+    {
+      "id": "C4185",
+      "title": "CAMPEONATO DE ROBOTICA Y HABILIDADES STEM: GIRL POWERED · VEX U · College",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "",
+      "venue": "CALLE 60 NTE 299, ZONA INDUSTRIAL, REVOLUCION, MERIDA, Yucatán, 97118, Mexico",
+      "source": "https://events.vex.com/robot-competitions/college-competition/VE-U-26-66409.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2026-11-30",
+      "end": "2026-12-01",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-30",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/college-competition?country_id=164&from_date=2026-11-07&page=1",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        }
+      ],
+      "age": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "mat": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "osc": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 2,
+      "entry": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "gear": "VEX U Override. Requisitos de plataforma y construcción en las bases universitarias.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Torneo internacional de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P4 — solo equipos femeninos",
+      "action": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Torneo internacional de VEX",
+      "participation": "team",
+      "admission_kind": "invitation",
+      "evidence_level": "event_page",
+      "event_code": "VE-U-26-66409",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "College",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/college-competition/VE-U-26-66409.html",
+      "deadline_utc": "2026-11-30T20:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 30-Nov-2026 15:00 EST. Es el cierre de inscripción del equipo."
+    },
+    {
+      "id": "C4186",
+      "title": "CAMPEONATO DE ROBOTICA Y HABILIDADES STEM: GIRL POWERED · VEX V5",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "",
+      "venue": "CALLE 60 NTE 299, ZONA INDUSTRIAL, REVOLUCION, MERIDA, Yucatán, 97118, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-robotics-competition/VE-V5-26-66408.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2026-11-30",
+      "end": "2026-12-01",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-16",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-robotics-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        }
+      ],
+      "age": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "mat": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "osc": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 1,
+      "entry": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "gear": "VEX V5 Override. Confirmar construcción, inspección, campo y cuaderno.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Torneo internacional de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P4 — solo equipos femeninos",
+      "action": "No. La convocatoria vigente admite únicamente equipos femeninos.",
+      "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Torneo internacional de VEX",
+      "participation": "team",
+      "admission_kind": "invitation",
+      "evidence_level": "event_page",
+      "event_code": "VE-V5-26-66408",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "All",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-robotics-competition/VE-V5-26-66408.html",
+      "deadline_utc": "2026-11-16T17:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 16-Nov-2026 12:00 EST. Es el cierre de inscripción del equipo."
+    },
+    {
+      "id": "C4190",
+      "title": "Torneo Estatal de Michoacan · VEX V5 · High School",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "",
+      "venue": "Calzada Ventura Puente esq, Perif. Paseo de la República s/n, Félix Ireta, Morelia, Michoacán, 58070, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-5426.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2026-12-03",
+      "end": "2026-12-04",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2026-12-04",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-robotics-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        }
+      ],
+      "age": "VEX V5 High hasta 19 años al 1 de junio de 2027. El participante aún estudia en la escuela. Confirmar curso local.",
+      "mat": "Condicional. La participación depende de la escuela o de una invitación.",
+      "osc": "Condicional. La participación depende de la escuela o de una invitación.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 1,
+      "entry": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza. Confirmar las condiciones de invitación o selección escolar en la ficha.",
+      "gear": "VEX V5 Override. Confirmar construcción, inspección, campo y cuaderno.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Fase regional de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P2 — participación según condiciones",
+      "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
+      "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Fase regional de VEX",
+      "participation": "team",
+      "admission_kind": "invitation",
+      "evidence_level": "event_page",
+      "event_code": "RE-V5RC-26-5426",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "La escuela secundaria",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-5426.html",
+      "deadline_utc": "2026-12-04T17:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 4-Dec-2026 12:00 EST. Es el cierre de inscripción del equipo."
+    },
+    {
+      "id": "C4223",
+      "title": "Torneo Local de Robótica VEX IQ - Anglo Aleman · Elementary",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad Madero, Tamaulipas",
+      "venue": "5 de Mayo 103, Primero de Mayo, Cd. Madero, Tamaulipas, 89400, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66906.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2026-12-12",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=14",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        }
+      ],
+      "age": "VEX IQ Elementary hasta 12 años inclusive al 1 de junio de 2027. Equipo global desde 2. Confirmar matrícula local y situación del equipo.",
+      "mat": "Condicional. Confirmar acceso por región de equipo y clasificación previa.",
+      "osc": "Condicional. Confirmar acceso por región de equipo y clasificación previa.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 2,
+      "entry": "La organización invita a equipos de la región. Se exige registro en VEX Events e inspección técnica de Level Up. Confirmar admisión desde otro país.",
+      "gear": "VEX IQ Level Up. Robot según reglamento, programación, inspección y cuaderno según condiciones de la fase.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Fase regional de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P2 — participación según condiciones",
+      "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
+      "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Fase regional de VEX",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "event_code": "VE-IQ-26-66906",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "Elementary",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66906.html",
+      "deadline_utc": "2026-12-12T17:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 12-Dec-2026 12:00 EST. Es el cierre de inscripción del equipo.",
+      "related_ids": [
+        "C4224"
+      ]
+    },
+    {
+      "id": "C4224",
+      "title": "Torneo Local de Robótica VEX IQ - Anglo Aleman · Middle School",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad Madero, Tamaulipas",
+      "venue": "5 de Mayo 103, Primero de Mayo, Ciudad Madero, Tamaulipas, 89400, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66908.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2026-12-12",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        }
+      ],
+      "age": "VEX IQ Middle hasta 15 años al 1 de junio de 2027, desde 2 participantes globalmente. Confirmar si un equipo menor puede subir a esta división.",
+      "mat": "Condicional. Confirmar acceso por región de equipo y clasificación previa.",
+      "osc": "Condicional. Confirmar acceso por región de equipo y clasificación previa.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 2,
+      "entry": "La organización invita a equipos de la región. Se exige registro en VEX Events e inspección técnica de Level Up. Confirmar admisión desde otro país.",
+      "gear": "VEX IQ Level Up. Robot según reglamento, programación, inspección y cuaderno según condiciones de la fase.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Fase regional de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P2 — participación según condiciones",
+      "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
+      "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Fase regional de VEX",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "event_code": "VE-IQ-26-66908",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "Escuela media",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66908.html",
+      "deadline_utc": "2026-12-12T17:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 12-Dec-2026 12:00 EST. Es el cierre de inscripción del equipo.",
+      "related_ids": [
+        "C4223"
+      ]
+    },
+    {
+      "id": "C4225",
+      "title": "Torneo Local de Robótica VEX V5 - Anglo Aleman",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "",
+      "venue": "5 de Mayo 103, Primero de Mayo, Cd Madero, Tamaulipas, 89400, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-robotics-competition/VE-V5-26-66911.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2026-12-12",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-robotics-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        }
+      ],
+      "age": "VEX V5 Middle hasta 15 años al 1 de junio de 2027. Confirmar curso y equipo locales.",
+      "mat": "Condicional según la edad máxima. Confirmar nivel escolar y derecho a competir en VEX V5.",
+      "osc": "Condicional según la edad máxima. Confirmar nivel escolar y derecho a competir en VEX V5.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 1,
+      "entry": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.",
+      "gear": "VEX V5 Override. Confirmar construcción, inspección, campo y cuaderno.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Fase local de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P2 — participación según condiciones",
+      "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
+      "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Fase local de VEX",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "event_code": "VE-V5-26-66911",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "All",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-robotics-competition/VE-V5-26-66911.html",
+      "deadline_utc": "2026-12-12T17:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 12-Dec-2026 12:00 EST. Es el cierre de inscripción del equipo."
+    },
+    {
+      "id": "C4307",
+      "title": "Torneo Estatal de Chihuahua · VEX V5 · High School",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "",
+      "venue": "Av. Universidad Tecnológica No. 3051, Col. Lote Bravo II, Ciudad Juarez, Chihuahua, 32695, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-5424.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2027-01-26",
+      "end": "2027-01-26",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2027-01-26",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-robotics-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        },
+        {
+          "url": "https://academiastem.org/pdf/Convocatoria%20de%20participaci%C3%B3n%20%20Campeonato%20Internacional%20de%20Rob%C3%B3tica%20y%20Habilidades%20STEM%202026_2027v2.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
+        },
+        {
+          "url": "https://academiastem.org/pdf/BasesRob%C3%B3ticaM%C3%B3vil2026-2027.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
+        }
+      ],
+      "age": "VEX V5 High hasta 19 años al 1 de junio de 2027. El participante aún estudia en la escuela. Confirmar curso local.",
+      "mat": "Condicional. Para VEX V5 hay que confirmar la categoría escolar y la admisión del equipo.",
+      "osc": "Condicional. Para VEX V5 hay que confirmar la categoría escolar y la admisión del equipo.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 1,
+      "entry": "Confirmar las condiciones de invitación o selección escolar en la ficha. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.",
+      "gear": "VEX V5 Override. Confirmar construcción, inspección, campo y cuaderno.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Fase regional de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P2 — participación según condiciones",
+      "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
+      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Fase regional de VEX",
+      "participation": "team",
+      "admission_kind": "invitation",
+      "evidence_level": "event_page",
+      "event_code": "RE-V5RC-26-5424",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "La escuela secundaria",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-5424.html",
+      "deadline_utc": "2027-01-26T17:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 26-Jan-2027 12:00 EST. Es el cierre de inscripción del equipo.",
+      "related_ids": [
+        "C1156",
+        "C4308",
+        "C513"
+      ]
+    },
+    {
+      "id": "C4308",
+      "title": "Torneo Estatal de Chihuahua · VEX U · College",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "",
+      "venue": "Av. Universidad Tecnológica No. 3051, Col. Lote Bravo II, Ciudad Juarez, Chihuahua, 32695, Mexico",
+      "source": "https://events.vex.com/robot-competitions/college-competition/RE-VURC-26-5425.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2027-01-26",
+      "end": "2027-01-26",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2027-01-26",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/college-competition?country_id=164&from_date=2026-11-07&page=1",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        },
+        {
+          "url": "https://academiastem.org/pdf/Convocatoria%20de%20participaci%C3%B3n%20%20Campeonato%20Internacional%20de%20Rob%C3%B3tica%20y%20Habilidades%20STEM%202026_2027v2.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
+        },
+        {
+          "url": "https://academiastem.org/pdf/BasesRob%C3%B3ticaM%C3%B3vil2026-2027.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
+        }
+      ],
+      "age": "VEX U tras terminar la secundaria para estudiantes de nivel postsecundario.",
+      "mat": "No según los requisitos de VEX U. Se requiere formación postsecundaria.",
+      "osc": "No según los requisitos de VEX U. Se requiere formación postsecundaria.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 2,
+      "entry": "Confirmar las condiciones de invitación o selección escolar en la ficha. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.",
+      "gear": "VEX U Override. Requisitos de plataforma y construcción en las bases universitarias.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "Fase regional de VEX",
+      "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
+      "priority": "P4 — edad futura",
+      "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
+      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Fase regional de VEX",
+      "participation": "team",
+      "admission_kind": "invitation",
+      "evidence_level": "event_page",
+      "event_code": "RE-VURC-26-5425",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "College",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/college-competition/RE-VURC-26-5425.html",
+      "deadline_utc": "2027-01-26T17:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 26-Jan-2027 12:00 EST. Es el cierre de inscripción del equipo.",
+      "related_ids": [
+        "C1156",
+        "C4307",
+        "C513"
+      ]
+    },
+    {
+      "id": "C4311",
+      "title": "7° Campeonato Internacional de Robótica y habilidades STEM · VEX IQ · Middle School",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "",
+      "venue": "Av. Universidad Tecnológica No. 3051, Col. Lote Bravo II, Ciudad Juarez, Chihuahua, 32695, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5434.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2027-01-27",
+      "end": "2027-01-29",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2027-01-27",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        },
+        {
+          "url": "https://academiastem.org/pdf/Convocatoria%20de%20participaci%C3%B3n%20%20Campeonato%20Internacional%20de%20Rob%C3%B3tica%20y%20Habilidades%20STEM%202026_2027v2.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
+        },
+        {
+          "url": "https://academiastem.org/pdf/BasesRob%C3%B3ticaM%C3%B3vil2026-2027.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
+        }
+      ],
+      "age": "VEX IQ Middle hasta 15 años al 1 de junio de 2027, desde 2 participantes globalmente. Confirmar si un equipo menor puede subir a esta división. Edad máxima global según división y mínimo local de 3 alumnos de primaria y secundaria. Se exigen mentor responsable y documentos escolares.",
+      "mat": "Condicional. Confirmar admisión escolar, país del equipo y mínimo de 3 integrantes.",
+      "osc": "Condicional. Confirmar admisión escolar, país del equipo y mínimo de 3 integrantes.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 3,
+      "entry": "Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Bases Robótica Móvil locales de 2026–2027 exigen mínimo 3 alumnos en primaria / secundaria, un docente o asesor responsable y un robot. El mínimo global de 2+ para IQ no elimina requisito local: dos hermanos no bastan.",
+      "gear": "VEX IQ Level Up. Robot según reglamento, programación, inspección y cuaderno según condiciones de la fase.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "VEX Signature Event",
+      "reward": "El torneo figura como Signature Event. La convocatoria local condiciona algunas plazas a otras fases, incluida Girl Powered. El procedimiento para equipos masculinos y mixtos no está claro.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Antes de elegir clasificación mexicana obtener respuesta: cómo equipo masculino / mixto o extranjero cumple requisito Girl Powered, qué categorías reciben cupo Worlds, si se acepta situación escolar y cómo se aplica mínimo de integrantes. Pregunta preparada, sin enviar al organizador.",
+      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Clase Signature Event confirmada. Las plazas para Worlds requieren aprobación del torneo y cumplimiento de criterios de temporada. Confirmar cantidad para esta división.",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "event_code": "RE-VIQRC-26-5434",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "Escuela media",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5434.html",
+      "deadline_utc": "2027-01-27T17:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 27-Jan-2027 12:00 EST. Es el cierre de inscripción del equipo.",
+      "related_ids": [
+        "C1158",
+        "C4312",
+        "C4313",
+        "C514"
+      ]
+    },
+    {
+      "id": "C4312",
+      "title": "7° Campeonato Internacional de Robótica y habilidades STEM · VEX U · College",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "",
+      "venue": "Av. Universidad Tecnológica No. 3051, Col. Lote Bravo II, Ciudad Juarez, Chihuahua, 32695, Mexico",
+      "source": "https://events.vex.com/robot-competitions/college-competition/RE-VURC-26-5437.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2027-01-27",
+      "end": "2027-01-29",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2027-01-27",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/college-competition?country_id=164&from_date=2026-11-07&page=1",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        },
+        {
+          "url": "https://academiastem.org/pdf/Convocatoria%20de%20participaci%C3%B3n%20%20Campeonato%20Internacional%20de%20Rob%C3%B3tica%20y%20Habilidades%20STEM%202026_2027v2.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
+        },
+        {
+          "url": "https://academiastem.org/pdf/BasesRob%C3%B3ticaM%C3%B3vil2026-2027.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
+        }
+      ],
+      "age": "VEX U tras terminar la secundaria para estudiantes de nivel postsecundario.",
+      "mat": "No según los requisitos de VEX U. Se requiere formación postsecundaria.",
+      "osc": "No según los requisitos de VEX U. Se requiere formación postsecundaria.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 2,
+      "entry": "Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.",
+      "gear": "VEX U Override. Requisitos de plataforma y construcción en las bases universitarias.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
+      "level": "VEX Signature Event",
+      "reward": "El torneo figura como Signature Event. La convocatoria local condiciona algunas plazas a otras fases, incluida Girl Powered. El procedimiento para equipos masculinos y mixtos no está claro.",
+      "priority": "P4 — edad futura",
+      "action": "Antes de elegir clasificación mexicana obtener respuesta: cómo equipo masculino / mixto o extranjero cumple requisito Girl Powered, qué categorías reciben cupo Worlds, si se acepta situación escolar y cómo se aplica mínimo de integrantes. Pregunta preparada, sin enviar al organizador.",
+      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Clase Signature Event confirmada. Las plazas para Worlds requieren aprobación del torneo y cumplimiento de criterios de temporada. Confirmar cantidad para esta división.",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "event_code": "RE-VURC-26-5437",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "College",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/college-competition/RE-VURC-26-5437.html",
+      "deadline_utc": "2027-01-27T17:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 27-Jan-2027 12:00 EST. Es el cierre de inscripción del equipo.",
+      "related_ids": [
+        "C1158",
+        "C4311",
+        "C4313",
+        "C514"
+      ]
+    },
+    {
+      "id": "C4313",
+      "title": "7° Campeonato Internacional de Robótica y habilidades STEM · VEX V5 · Middle School",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "",
+      "venue": "Av. Universidad Tecnológica No. 3051, Col. Lote Bravo II, Ciudad Juárez, Chihuahua, 32695, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-robotics-competition/VE-V5-27-65550.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2027-01-27",
+      "end": "2027-01-29",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2027-01-27",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-robotics-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        },
+        {
+          "url": "https://academiastem.org/pdf/Convocatoria%20de%20participaci%C3%B3n%20%20Campeonato%20Internacional%20de%20Rob%C3%B3tica%20y%20Habilidades%20STEM%202026_2027v2.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
+        },
+        {
+          "url": "https://academiastem.org/pdf/BasesRob%C3%B3ticaM%C3%B3vil2026-2027.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
+        }
+      ],
+      "age": "VEX V5 Middle hasta 15 años al 1 de junio de 2027. Confirmar curso y equipo locales.",
+      "mat": "Condicional. Para VEX V5 hay que confirmar la categoría escolar y la admisión del equipo.",
+      "osc": "Condicional. Para VEX V5 hay que confirmar la categoría escolar y la admisión del equipo.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 3,
+      "entry": "Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.",
+      "gear": "VEX V5 Override. Confirmar construcción, inspección, campo y cuaderno.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "El portal indica cuota USD$0.00. Confirmar condiciones y gastos aparte.",
+      "level": "VEX Signature Event",
+      "reward": "El torneo figura como Signature Event. La convocatoria local condiciona algunas plazas a otras fases, incluida Girl Powered. El procedimiento para equipos masculinos y mixtos no está claro.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Antes de elegir clasificación mexicana obtener respuesta: cómo equipo masculino / mixto o extranjero cumple requisito Girl Powered, qué categorías reciben cupo Worlds, si se acepta situación escolar y cómo se aplica mínimo de integrantes. Pregunta preparada, sin enviar al organizador.",
+      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Clase Signature Event confirmada. Las plazas para Worlds requieren aprobación del torneo y cumplimiento de criterios de temporada. Confirmar cantidad para esta división.",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "event_code": "VE-V5-27-65550",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "Escuela media",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-robotics-competition/VE-V5-27-65550.html",
+      "deadline_utc": "2027-01-27T17:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 27-Jan-2027 12:00 EST. Es el cierre de inscripción del equipo.",
+      "related_ids": [
+        "C1158",
+        "C4311",
+        "C4312",
+        "C514"
+      ]
+    },
+    {
+      "id": "C4413",
+      "title": "XVIII Campeonato Nacional de Robótica y STEM · VEX U · College",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "",
+      "venue": "Blvd. Héroes del 5 de Mayo 402, Centro histórico de Puebla, Heroica Puebla de Zaragoza, Pue, Puebla, 72000, Mexico",
+      "source": "https://events.vex.com/robot-competitions/college-competition/VE-U-27-65548.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2027-03-03",
+      "end": "2027-03-05",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2027-03-03",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/college-competition?country_id=164&from_date=2026-11-07&page=1",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        },
+        {
+          "url": "https://academiastem.org/pdf/Convocatoria%20de%20participaci%C3%B3n%20%20Campeonato%20Internacional%20de%20Rob%C3%B3tica%20y%20Habilidades%20STEM%202026_2027v2.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
+        },
+        {
+          "url": "https://academiastem.org/pdf/BasesRob%C3%B3ticaM%C3%B3vil2026-2027.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
+        }
+      ],
+      "age": "VEX U tras terminar la secundaria para estudiantes de nivel postsecundario.",
+      "mat": "No según los requisitos de VEX U. Se requiere formación postsecundaria.",
+      "osc": "No según los requisitos de VEX U. Se requiere formación postsecundaria.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 2,
+      "entry": "Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.",
+      "gear": "VEX U Override. Requisitos de plataforma y construcción en las bases universitarias.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "El portal indica cuota USD$0.00. Confirmar condiciones y gastos aparte.",
+      "level": "Campeonato nacional de VEX",
+      "reward": "Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños.",
+      "priority": "P4 — edad futura",
+      "action": "Antes de elegir clasificación mexicana obtener respuesta: cómo equipo masculino / mixto o extranjero cumple requisito Girl Powered, qué categorías reciben cupo Worlds, si se acepta situación escolar y cómo se aplica mínimo de integrantes. Pregunta preparada, sin enviar al organizador.",
+      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Campeonato nacional de VEX",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "event_code": "VE-U-27-65548",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "College",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/college-competition/VE-U-27-65548.html",
+      "deadline_utc": "2027-03-03T17:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 3-Mar-2027 12:00 EST. Es el cierre de inscripción del equipo.",
+      "related_ids": [
+        "C1155",
+        "C1157",
+        "C4414",
+        "C597"
+      ]
+    },
+    {
+      "id": "C4414",
+      "title": "XVIII Campeonato Nacional de Robótica y STEM · VEX V5 · Middle School",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "",
+      "venue": "Blvd. Héroes del 5 de Mayo 402, Centro histórico de Puebla, Heroica Puebla de Zaragoza, Pue, Puebla, 72000, Mexico",
+      "source": "https://events.vex.com/robot-competitions/vex-robotics-competition/VE-V5-27-65547.html",
+      "checked": "2026-11-07",
+      "proof": "Fechas, sede y estado cotejados con el calendario y la ficha de VEX Events. La admisión de cada equipo se verifica por separado.",
+      "start": "2027-03-03",
+      "end": "2027-03-05",
+      "period": "Fechas de torneo publicadas en el calendario de VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Confirmado",
+      "deadline": "2027-03-03",
+      "status": "Idea",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-robotics-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Edad e integrantes globales por programa VEX."
+        },
+        {
+          "url": "https://academiastem.org/pdf/Convocatoria%20de%20participaci%C3%B3n%20%20Campeonato%20Internacional%20de%20Rob%C3%B3tica%20y%20Habilidades%20STEM%202026_2027v2.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
+        },
+        {
+          "url": "https://academiastem.org/pdf/BasesRob%C3%B3ticaM%C3%B3vil2026-2027.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
+        }
+      ],
+      "age": "VEX V5 Middle hasta 15 años al 1 de junio de 2027. Confirmar curso y equipo locales.",
+      "mat": "Condicional. Para VEX V5 hay que confirmar la categoría escolar y la admisión del equipo.",
+      "osc": "Condicional. Para VEX V5 hay que confirmar la categoría escolar y la admisión del equipo.",
+      "format": "Torneo presencial por equipos.",
+      "delivery_mode": "in_person",
+      "team_min": 3,
+      "entry": "Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.",
+      "gear": "VEX V5 Override. Confirmar construcción, inspección, campo y cuaderno.",
+      "language": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de entrevistas y jurado en la sede.",
+      "cost": "El portal indica cuota USD$0.00. Confirmar condiciones y gastos aparte.",
+      "level": "Campeonato nacional de VEX",
+      "reward": "Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Antes de elegir clasificación mexicana obtener respuesta: cómo equipo masculino / mixto o extranjero cumple requisito Girl Powered, qué categorías reciben cupo Worlds, si se acepta situación escolar y cómo se aplica mínimo de integrantes. Pregunta preparada, sin enviar al organizador.",
+      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Campeonato nacional de VEX",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "event_code": "VE-V5-27-65547",
+      "event_region": "Mexico",
+      "event_type": "Open Tournament",
+      "grade_level": "Escuela media",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-robotics-competition/VE-V5-27-65547.html",
+      "deadline_utc": "2027-03-03T17:00:00Z",
+      "deadline_label": "Cierre de inscripción del equipo",
+      "deadline_note": "Vex Events indica 3-Mar-2027 12:00 EST. Es el cierre de inscripción del equipo.",
+      "related_ids": [
+        "C1155",
+        "C1157",
+        "C4413",
+        "C597"
+      ]
+    },
+    {
       "id": "CP041-20270329-20270402",
       "block": "Campamentos",
       "title": "Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02",
@@ -25317,11 +27166,11 @@
       "deadline_utc": "2027-03-03T17:00:00Z",
       "deadline_label": "registro de VEX",
       "deadline_note": "Tarjeta: 12:00 EST el día de inicio = 17:00 UTC = 11:00 Costa Rica. esta es la inscripción, no error Payment campo 2026.",
-      "age": "IQ Middle: máximo 15 años al 01.06.2027; 2+ alumnos en equipo",
-      "mat": "Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.",
-      "osc": "Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.",
+      "age": "VEX IQ Middle hasta 15 años al 1 de junio de 2027, desde 2 participantes globalmente. Confirmar si un equipo menor puede subir a esta división. Edad máxima global según división y mínimo local de 3 alumnos de primaria y secundaria. Se exigen mentor responsable y documentos escolares.",
+      "mat": "Condicional. Confirmar admisión escolar, país del equipo y mínimo de 3 integrantes.",
+      "osc": "Condicional. Confirmar admisión escolar, país del equipo y mínimo de 3 integrantes.",
       "format": "Bases Robótica Móvil locales de 2026–2027 exigen mínimo 3 alumnos en primaria / secundaria, un docente o asesor responsable y un robot. El mínimo global de 2+ para IQ no elimina requisito local: dos hermanos no bastan.",
-      "entry": "VEX-ID vigente, registro de equipo y confirmación de torneo concreto. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo.",
+      "entry": "Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Bases Robótica Móvil locales de 2026–2027 exigen mínimo 3 alumnos en primaria / secundaria, un docente o asesor responsable y un robot. El mínimo global de 2+ para IQ no elimina requisito local: dos hermanos no bastan.",
       "gear": "VEX IQ Level Up: robot permitido y notebook; LEGO / V5 no sustituyen. Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución.",
       "language": "ES/EN la capacidad de arbitraje y el notebook para este equipo aún no han sido confirmados; el body español no es una garantía de lengua.",
       "languages": [],
@@ -25329,9 +27178,9 @@
       "language_certainty": "la lengua de enseñanza/judía no está directamente establecida en la tarjeta seleccionada.",
       "cost": "PDF oficial enlazado: Robótica Móvil / VEX Air sin cuota de inscripción del evento. Robótica Colaborativa / AI & IoT aparte cuestan 1000 MXN + IVA; no es precio IQ ni automáticamente de VEX AI. Cuota de evento y VEX-ID son distintos. Convocatorias anuncian subsidio del 100% de VEX-ID para equipos mexicanos; confirmar aplicación a familia residente en Costa Rica. Robot, campo, piezas de temporada, portátil, mentor, seguro y viaje no incluidos en esa línea de cero.",
       "scope": "national",
-      "level": "B  etapa nacional",
-      "importance_reason": "categoría oficial; el nombre nacional/internacional no es igual a la final mundial o a la cuota confirmada.",
-      "reward": "Premios locales solo según resultado oficial. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños.",
+      "level": "Campeonato nacional de VEX",
+      "importance_reason": "Campeonato nacional de VEX",
+      "reward": "Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños.",
       "priority": "P3  categoría separada después de comprobar el nivel",
       "action": "Antes de elegir clasificación mexicana obtener respuesta: cómo equipo masculino / mixto o extranjero cumple requisito Girl Powered, qué categorías reciben cupo Worlds, si se acepta situación escolar y cómo se aplica mínimo de integrantes. Pregunta preparada, sin enviar al organizador.",
       "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5506.html",
@@ -25351,12 +27200,20 @@
         {
           "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
           "label": "Student Eligibility Policy global · actualización del 27 de octubre de 2026"
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://academiastem.org/pdf/Convocatoria%20de%20participaci%C3%B3n%20%20Campeonato%20Internacional%20de%20Rob%C3%B3tica%20y%20Habilidades%20STEM%202026_2027v2.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
         }
       ],
       "proof": "Ficha actual de VEX Events confirma fechas, nivel y plazo de registro. Leídas Bases y convocatorias locales; páginas relevantes de integrantes, género, clasificación y precios inspeccionadas visualmente. Admisión familiar desconocida no equivale a plaza abierta.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-07",
       "status": "Idea",
-      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños. Título y primera página del National PDF enlazado aún imprimen 2026; dentro figuran campeonatos 2026–2027 y ficha vigente VEX Events da 3–5 de marzo de 2027. Fechas de ficha actual; comprobar edición del PDF y tarifa específica de 2027 antes del viaje.",
+      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños. Título y primera página del National PDF enlazado aún imprimen 2026; dentro figuran campeonatos 2026–2027 y ficha vigente VEX Events da 3–5 de marzo de 2027. Fechas de ficha actual; comprobar edición del PDF y tarifa específica de 2027 antes del viaje.",
       "iso": [
         "MEX"
       ],
@@ -25367,17 +27224,25 @@
       ],
       "participation": "team",
       "related_ids": [
-        "C024"
+        "C024",
+        "C1157",
+        "C4413",
+        "C4414",
+        "C597"
       ],
       "event_code": "RE-VIQRC-26-5506",
       "event_region": "Mexico",
       "venue": "centro de Puebla · Blvd. Héroes del 5 de Mayo 402, Centro histórico, 72000",
       "admission_kind": "open_application",
       "evidence_level": "rules",
-      "registration_status": "Solicitud, admisión escolar, invitación y cupo familiar sin confirmar; sin aceptar consentimientos ni efectuar pagos.",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
       "event_type": "Open Tournament",
       "grade_level": "Escuela media",
-      "team_min": 3
+      "team_min": 3,
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      }
     },
     {
       "block": "Competiciones",
@@ -25394,11 +27259,11 @@
       "deadline_utc": "2027-01-26T17:00:00Z",
       "deadline_label": "registro de VEX",
       "deadline_note": "Tarjeta: 12:00 EST el día de inicio = 17:00 UTC = 11:00 Costa Rica. esta es la inscripción, no error Payment campo 2026.",
-      "age": "IQ Middle: máximo 15 años al 01.06.2027; 2+ alumnos en equipo",
-      "mat": "Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.",
-      "osc": "Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.",
+      "age": "VEX IQ Middle hasta 15 años al 1 de junio de 2027, desde 2 participantes globalmente. Confirmar si un equipo menor puede subir a esta división. Edad máxima global según división y mínimo local de 3 alumnos de primaria y secundaria. Se exigen mentor responsable y documentos escolares.",
+      "mat": "Condicional. Confirmar admisión escolar, país del equipo y mínimo de 3 integrantes.",
+      "osc": "Condicional. Confirmar admisión escolar, país del equipo y mínimo de 3 integrantes.",
       "format": "Bases Robótica Móvil locales de 2026–2027 exigen mínimo 3 alumnos en primaria / secundaria, un docente o asesor responsable y un robot. El mínimo global de 2+ para IQ no elimina requisito local: dos hermanos no bastan.",
-      "entry": "Invitational para equipos de Chihuahua: primero invitación, después equipo y torneo. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo.",
+      "entry": "Confirmar las condiciones de invitación o selección escolar en la ficha. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Bases Robótica Móvil locales de 2026–2027 exigen mínimo 3 alumnos en primaria / secundaria, un docente o asesor responsable y un robot. El mínimo global de 2+ para IQ no elimina requisito local: dos hermanos no bastan.",
       "gear": "VEX IQ Level Up: robot permitido y notebook; LEGO / V5 no sustituyen. Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución.",
       "language": "ES/EN la capacidad de arbitraje y el notebook para este equipo aún no han sido confirmados; el body español no es una garantía de lengua.",
       "languages": [],
@@ -25406,11 +27271,11 @@
       "language_certainty": "la lengua de enseñanza/judía no está directamente establecida en la tarjeta seleccionada.",
       "cost": "Portal y Bases locales indican ausencia de cuota Robótica Móvil; confirmar invitación y gastos obligatorios finales. Cuota de evento y VEX-ID son distintos. Convocatorias anuncian subsidio del 100% de VEX-ID para equipos mexicanos; confirmar aplicación a familia residente en Costa Rica. Robot, campo, piezas de temporada, portátil, mentor, seguro y viaje no incluidos en esa línea de cero.",
       "scope": "regional",
-      "level": "C  torneo regional",
-      "importance_reason": "categoría oficial; el nombre nacional/internacional no es igual a la final mundial o a la cuota confirmada.",
+      "level": "Fase regional de VEX",
+      "importance_reason": "Fase regional de VEX",
       "reward": "Los premios, la selección y la cuota de los Worlds se comprueban por separado; la victoria de la familia no se declara.",
       "priority": "P3  categoría separada después de comprobar el nivel",
-      "action": "elegir el recorrido Elementary o confirmar la Middle School; preparar un notebook de ingeniería física, un robot y acordar la admisión local/precio.",
+      "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
       "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5423.html",
       "references": [
         {
@@ -25424,12 +27289,20 @@
         {
           "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
           "label": "Student Eligibility Policy global · actualización del 27 de octubre de 2026"
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://academiastem.org/pdf/Convocatoria%20de%20participaci%C3%B3n%20%20Campeonato%20Internacional%20de%20Rob%C3%B3tica%20y%20Habilidades%20STEM%202026_2027v2.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
         }
       ],
       "proof": "Ficha actual de VEX Events confirma fechas, nivel y plazo de registro. Leídas Bases y convocatorias locales; páginas relevantes de integrantes, género, clasificación y precios inspeccionadas visualmente. Admisión familiar desconocida no equivale a plaza abierta.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-07",
       "status": "Idea",
-      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Payment Deadline de página señala enero de 2026 erróneamente para torneo de enero de 2027. Calendario conserva Registration Deadline de 2027; sin planificar pago con año antiguo.",
+      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Payment Deadline de página señala enero de 2026 erróneamente para torneo de enero de 2027. Calendario conserva Registration Deadline de 2027; sin planificar pago con año antiguo.",
       "iso": [
         "MEX"
       ],
@@ -25440,17 +27313,24 @@
       ],
       "participation": "team",
       "related_ids": [
-        "C024"
+        "C024",
+        "C4307",
+        "C4308",
+        "C513"
       ],
       "event_code": "RE-VIQRC-26-5423",
       "event_region": "Mexico",
       "venue": "Universidad Tecnológica de Ciudad Juárez · Av. Universidad Tecnológica 3051, Lote Bravo II, 32695",
       "admission_kind": "invitation",
       "evidence_level": "rules",
-      "registration_status": "Solicitud, admisión escolar, invitación y cupo familiar sin confirmar; sin aceptar consentimientos ni efectuar pagos.",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
       "event_type": "Open Tournament",
       "grade_level": "Escuela media",
-      "team_min": 3
+      "team_min": 3,
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      }
     },
     {
       "block": "Competiciones",
@@ -25467,11 +27347,11 @@
       "deadline_utc": "2027-03-03T17:00:00Z",
       "deadline_label": "registro de VEX",
       "deadline_note": "Tarjeta: 12:00 EST el día de inicio = 17:00 UTC = 11:00 Costa Rica. esta es la inscripción, no error Payment campo 2026.",
-      "age": "V5 High: máximo 19 al 01.06.2027 y no haya terminado la escuela secundaria; 1+ alumnos",
-      "mat": "condicionalmente por el marco de edad superior; edad inferior/grado-permiso local, nivel elegido y dificultad para comprobar. para empezar los hermanos primero IQ Elementary, no una inscripción automática en esta categoría.",
-      "osc": "condicionalmente por el marco de edad superior; edad inferior/grado-permiso local, nivel elegido y dificultad para comprobar. para empezar los hermanos primero IQ Elementary, no una inscripción automática en esta categoría.",
+      "age": "VEX V5 High hasta 19 años al 1 de junio de 2027. El participante aún estudia en la escuela. Confirmar curso local.",
+      "mat": "Condicional. Para VEX V5 hay que confirmar la categoría escolar y la admisión del equipo.",
+      "osc": "Condicional. Para VEX V5 hay que confirmar la categoría escolar y la admisión del equipo.",
       "format": "Preparatoria local: mínimo 1 alumno, docente / asesor responsable y un robot VEX V5. Confirmar nivel escolar adecuado y admisión.",
-      "entry": "VEX-ID vigente, registro de equipo y confirmación de torneo concreto. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo.",
+      "entry": "Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.",
       "gear": "VEX V5 Override: robot permitido y notebook; IQ / LEGO no sustituyen. Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución.",
       "language": "ES/EN la capacidad de arbitraje y el notebook para este equipo aún no han sido confirmados; el body español no es una garantía de lengua.",
       "languages": [],
@@ -25479,9 +27359,9 @@
       "language_certainty": "la lengua de enseñanza/judía no está directamente establecida en la tarjeta seleccionada.",
       "cost": "PDF oficial enlazado: Robótica Móvil / VEX Air sin cuota de inscripción del evento. Robótica Colaborativa / AI & IoT aparte cuestan 1000 MXN + IVA; no es precio IQ ni automáticamente de VEX AI. Cuota de evento y VEX-ID son distintos. Convocatorias anuncian subsidio del 100% de VEX-ID para equipos mexicanos; confirmar aplicación a familia residente en Costa Rica. Robot, campo, piezas de temporada, portátil, mentor, seguro y viaje no incluidos en esa línea de cero.",
       "scope": "national",
-      "level": "B  etapa nacional",
-      "importance_reason": "categoría oficial; el nombre nacional/internacional no es igual a la final mundial o a la cuota confirmada.",
-      "reward": "Premios locales solo según resultado oficial. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños.",
+      "level": "Campeonato nacional de VEX",
+      "importance_reason": "Campeonato nacional de VEX",
+      "reward": "Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños.",
       "priority": "P3  categoría separada después de comprobar el nivel",
       "action": "Antes de elegir clasificación mexicana obtener respuesta: cómo equipo masculino / mixto o extranjero cumple requisito Girl Powered, qué categorías reciben cupo Worlds, si se acepta situación escolar y cómo se aplica mínimo de integrantes. Pregunta preparada, sin enviar al organizador.",
       "source": "https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-5511.html",
@@ -25501,12 +27381,20 @@
         {
           "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
           "label": "Student Eligibility Policy global · actualización del 27 de octubre de 2026"
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-robotics-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
+        },
+        {
+          "url": "https://academiastem.org/pdf/Convocatoria%20de%20participaci%C3%B3n%20%20Campeonato%20Internacional%20de%20Rob%C3%B3tica%20y%20Habilidades%20STEM%202026_2027v2.pdf",
+          "label": "Bases y convocatoria mexicanas de la temporada."
         }
       ],
       "proof": "Ficha actual de VEX Events confirma fechas, nivel y plazo de registro. Leídas Bases y convocatorias locales; páginas relevantes de integrantes, género, clasificación y precios inspeccionadas visualmente. Admisión familiar desconocida no equivale a plaza abierta.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-07",
       "status": "Idea",
-      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños. Título y primera página del National PDF enlazado aún imprimen 2026; dentro figuran campeonatos 2026–2027 y ficha vigente VEX Events da 3–5 de marzo de 2027. Fechas de ficha actual; comprobar edición del PDF y tarifa específica de 2027 antes del viaje.",
+      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños. Título y primera página del National PDF enlazado aún imprimen 2026; dentro figuran campeonatos 2026–2027 y ficha vigente VEX Events da 3–5 de marzo de 2027. Fechas de ficha actual; comprobar edición del PDF y tarifa específica de 2027 antes del viaje.",
       "iso": [
         "MEX"
       ],
@@ -25517,17 +27405,25 @@
       ],
       "participation": "team",
       "related_ids": [
-        "C024"
+        "C024",
+        "C1155",
+        "C4413",
+        "C4414",
+        "C597"
       ],
       "event_code": "RE-V5RC-26-5511",
       "event_region": "Mexico",
       "venue": "centro de Puebla · Blvd. Héroes del 5 de Mayo 402, Centro histórico, 72000",
       "admission_kind": "open_application",
       "evidence_level": "rules",
-      "registration_status": "Solicitud, admisión escolar, invitación y cupo familiar sin confirmar; sin aceptar consentimientos ni efectuar pagos.",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
       "event_type": "Open Tournament",
       "grade_level": "La escuela secundaria",
-      "team_min": 1
+      "team_min": 1,
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      }
     },
     {
       "block": "Competiciones",
@@ -25544,21 +27440,21 @@
       "deadline_utc": "2027-01-27T17:00:00Z",
       "deadline_label": "registro de VEX",
       "deadline_note": "Tarjeta: 12:00 EST el día de inicio = 17:00 UTC = 11:00 Costa Rica. esta es la inscripción, no error Payment campo 2026.",
-      "age": "V5 High: máximo 19 al 01.06.2027 y no haya terminado la escuela secundaria; 1+ alumnos",
-      "mat": "condicionalmente por el marco de edad superior; edad inferior/grado-permiso local, nivel elegido y dificultad para comprobar. para empezar los hermanos primero IQ Elementary, no una inscripción automática en esta categoría.",
-      "osc": "condicionalmente por el marco de edad superior; edad inferior/grado-permiso local, nivel elegido y dificultad para comprobar. para empezar los hermanos primero IQ Elementary, no una inscripción automática en esta categoría.",
+      "age": "VEX V5 High hasta 19 años al 1 de junio de 2027. El participante aún estudia en la escuela. Confirmar curso local.",
+      "mat": "Condicional. Para VEX V5 hay que confirmar la categoría escolar y la admisión del equipo.",
+      "osc": "Condicional. Para VEX V5 hay que confirmar la categoría escolar y la admisión del equipo.",
       "format": "Preparatoria local: mínimo 1 alumno, docente / asesor responsable y un robot VEX V5. Confirmar nivel escolar adecuado y admisión.",
-      "entry": "VEX-ID vigente, registro de equipo y confirmación de torneo concreto. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo.",
+      "entry": "Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.",
       "gear": "VEX V5 Override: robot permitido y notebook; IQ / LEGO no sustituyen. Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución.",
       "language": "ES/EN la capacidad de arbitraje y el notebook para este equipo aún no han sido confirmados; el body español no es una garantía de lengua.",
       "languages": [],
       "language_mode": "unconfirmed",
       "language_certainty": "la lengua de enseñanza/judía no está directamente establecida en la tarjeta seleccionada.",
       "cost": "PDF oficial enlazado: Robótica Móvil / VEX Air sin cuota de inscripción del evento. Robótica Colaborativa / AI & IoT aparte cuestan 1000 MXN + IVA; no es precio IQ ni automáticamente de VEX AI. Cuota de evento y VEX-ID son distintos. Convocatorias anuncian subsidio del 100% de VEX-ID para equipos mexicanos; confirmar aplicación a familia residente en Costa Rica. Robot, campo, piezas de temporada, portátil, mentor, seguro y viaje no incluidos en esa línea de cero.",
-      "scope": "regional",
-      "level": "C  torneo regional",
-      "importance_reason": "categoría oficial; el nombre nacional/internacional no es igual a la final mundial o a la cuota confirmada.",
-      "reward": "Premios locales solo según resultado oficial. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños.",
+      "scope": "international",
+      "level": "VEX Signature Event",
+      "importance_reason": "Clase Signature Event confirmada. Las plazas para Worlds requieren aprobación del torneo y cumplimiento de criterios de temporada. Confirmar cantidad para esta división.",
+      "reward": "El torneo figura como Signature Event. La convocatoria local condiciona algunas plazas a otras fases, incluida Girl Powered. El procedimiento para equipos masculinos y mixtos no está claro.",
       "priority": "P3  categoría separada después de comprobar el nivel",
       "action": "Antes de elegir clasificación mexicana obtener respuesta: cómo equipo masculino / mixto o extranjero cumple requisito Girl Powered, qué categorías reciben cupo Worlds, si se acepta situación escolar y cómo se aplica mínimo de integrantes. Pregunta preparada, sin enviar al organizador.",
       "source": "https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-5435.html",
@@ -25578,12 +27474,16 @@
         {
           "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
           "label": "Student Eligibility Policy global · actualización del 27 de octubre de 2026"
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-robotics-competition?from_date=2026-11-07&page=1&country_id=164",
+          "label": "Página del calendario vigente de VEX Events."
         }
       ],
       "proof": "Ficha actual de VEX Events confirma fechas, nivel y plazo de registro. Leídas Bases y convocatorias locales; páginas relevantes de integrantes, género, clasificación y precios inspeccionadas visualmente. Admisión familiar desconocida no equivale a plaza abierta.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-07",
       "status": "Idea",
-      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños. Payment Deadline aún indica enero de 2026; Registration Deadline confirmado corresponde a enero de 2027. Encabezado International y texto general que dice National discrepan; sin deducir cupo Signature / Worlds solo de encabezado.",
+      "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños. Payment Deadline aún indica enero de 2026; Registration Deadline confirmado corresponde a enero de 2027. Encabezado International y texto general que dice National discrepan; sin deducir cupo Signature / Worlds solo de encabezado.",
       "iso": [
         "MEX"
       ],
@@ -25594,17 +27494,25 @@
       ],
       "participation": "team",
       "related_ids": [
-        "C024"
+        "C024",
+        "C4311",
+        "C4312",
+        "C4313",
+        "C514"
       ],
       "event_code": "RE-V5RC-26-5435",
       "event_region": "Mexico",
       "venue": "Universidad Tecnológica de Ciudad Juárez · Av. Universidad Tecnológica 3051, Lote Bravo II, 32695",
       "admission_kind": "open_application",
       "evidence_level": "rules",
-      "registration_status": "Solicitud, admisión escolar, invitación y cupo familiar sin confirmar; sin aceptar consentimientos ni efectuar pagos.",
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
       "event_type": "Open Tournament",
       "grade_level": "La escuela secundaria",
-      "team_min": 1
+      "team_min": 1,
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      }
     },
     {
       "id": "C1159",

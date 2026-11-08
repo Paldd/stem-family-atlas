@@ -1263,6 +1263,10 @@
         {
           "label": "Каталог — сезон 2026–27, Elementary",
           "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=*&seasonId=203&grade_level_id=1&from_date=2026-09-30&page=8"
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=3",
+          "label": "Страница актуального календаря VEX Events."
         }
       ],
       "proof": "Прочитана отдельная официальная карточка: дата, категория All, стоимость, регистрация, No Judging, отсутствие Skills и Awards.",
@@ -1284,8 +1288,12 @@
       "venue": "Pontificia Universidad Javeriana, 40–62 Avenida Carrera 7, Bogotá, 110311",
       "admission_kind": "open_application",
       "evidence_level": "event_page",
-      "registration_status": "Страница на 30.09: регистрация открыта, 50%+ мест; принятой заявки семьи нет",
-      "event_type": "Open Tournament"
+      "registration_status": "Портал показывает закрытую регистрацию.",
+      "event_type": "Open Tournament",
+      "availability": {
+        "status": "closed",
+        "label": "Портал показывает закрытую регистрацию."
+      }
     },
     {
       "block": "Соревнования",
@@ -1329,6 +1337,10 @@
         {
           "label": "Каталог — сезон 2026–27, Elementary",
           "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=*&seasonId=203&grade_level_id=1&from_date=2026-09-30&page=12"
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=8",
+          "label": "Страница актуального календаря VEX Events."
         }
       ],
       "proof": "Прочитана отдельная официальная карточка: дата, категория All, стоимость, регистрация, No Judging, отсутствие Skills и Awards.",
@@ -1350,8 +1362,12 @@
       "venue": "BOTS robótica, Vereda Tres Puertas, Rionegro, 054040",
       "admission_kind": "open_application",
       "evidence_level": "event_page",
-      "registration_status": "Страница на 30.09: регистрация открыта, 50%+ мест; принятой заявки семьи нет",
-      "event_type": "Open Tournament"
+      "registration_status": "Портал показывает открытую запись. Допуск команды и место подтвердить отдельно.",
+      "event_type": "Open Tournament",
+      "availability": {
+        "status": "open",
+        "label": "Портал показывает открытую запись. Допуск команды и место подтвердить отдельно."
+      }
     },
     {
       "block": "Соревнования",
@@ -1398,6 +1414,10 @@
         {
           "url": "https://roboticminds.com.ec/ix-torneo-nacional-robotic-minds/",
           "label": "Официальная страница организатора"
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=21",
+          "label": "Страница актуального календаря VEX Events."
         }
       ],
       "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
@@ -1419,7 +1439,7 @@
       "venue": "Centro de Convenciones Metropolitano de Quito CCMQ, Av. Amazona y Río Curaray, Quito 170525",
       "admission_kind": "open_application",
       "evidence_level": "event_page",
-      "registration_status": "Регистрация открыта с 28.09.2026; на 30.09 в карточке 50%+ мест из 40",
+      "registration_status": "Портал показывает открытую запись. Допуск команды и место подтвердить отдельно.",
       "event_type": "Open Tournament",
       "date_scope": "season_window",
       "reported_start": "2027-01-21",
@@ -1427,7 +1447,12 @@
       "reported_deadline": "2026-12-11",
       "parent_event_id": "C3153",
       "event_group": "IX Torneo Nacional de Robótica · Robotic Minds",
-      "date_conflict": "Карточка VEX ранее указывала 21–22 января 2027, USD 300, оплату до 4 декабря и регистрацию до 11 декабря 2026. Страница организатора даёт 22–23 января, USD 500 за команду или USD 250 для сети, запись и оплату до 4 декабря. Условия IQ и точные дни требуют сверки."
+      "date_conflict": "Карточка VEX ранее указывала 21–22 января 2027, USD 300, оплату до 4 декабря и регистрацию до 11 декабря 2026. Страница организатора даёт 22–23 января, USD 500 за команду или USD 250 для сети, запись и оплату до 4 декабря. Условия IQ и точные дни требуют сверки.",
+      "grade_level": "All",
+      "availability": {
+        "status": "open",
+        "label": "Портал показывает открытую запись. Допуск команды и место подтвердить отдельно."
+      }
     },
     {
       "block": "Соревнования",
@@ -1457,9 +1482,9 @@
       "language_certainty": "Испанское описание не доказывает язык удалённых интервью или допустимый язык notebook.",
       "cost": "USD 490 за команду. Срок оплаты показан отдельно, его формат и час нужно уточнить.",
       "scope": "national",
-      "level": "C — национальный этап",
+      "level": "Подтверждённый турнир квалификационного календаря VEX Worlds",
       "importance_reason": "Редакционная оценка по формату и названию. Этап международной сети VEX, но сам турнир не становится мировым.",
-      "reward": "В Awards: Excellence, Teamwork Champion, Design, Robot Skills, Judges, Innovate, Sportsmanship. Описание обещает квоты на Worlds, но таблица Awards пока не связывает ни одну награду с отбором.",
+      "reward": "Портал включает дивизион в официальный фильтр квалификации на VEX Worlds. Количество путёвок и условия выбранной награды сверить в карточке и правилах.",
       "priority": "P2 — нужен третий ребёнок и допуск",
       "action": "Найти третьего ребёнка; подтвердить иностранный/национальный вход, возрастной cutoff, квалификацию Worlds и сроки notebook у info@fundacionglobal.org / +57 305 292 3322",
       "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5099.html",
@@ -1479,6 +1504,18 @@
         {
           "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5107.html",
           "label": "Официальная страница организатора"
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=30",
+          "label": "Страница актуального календаря VEX Events."
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=1&qual_wc=1",
+          "label": "Фильтр VEX Events для турниров с квалификацией на Worlds."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/50474731922836-Event-Qualifying-Criteria",
+          "label": "Критерии квалификации и региональные квоты Global Robotics."
         }
       ],
       "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
@@ -1501,8 +1538,13 @@
       "venue": "Universidad EIA, Vereda El Penasco, 055428, Colombia",
       "admission_kind": "qualifier",
       "evidence_level": "event_page",
-      "registration_status": "На 30.09 опубликованы 36 свободных мест; заявление семьи не подано",
-      "event_type": "Open Tournament"
+      "registration_status": "Портал показывает открытую запись. Допуск команды и место подтвердить отдельно.",
+      "event_type": "Open Tournament",
+      "grade_level": "Elementary",
+      "availability": {
+        "status": "open",
+        "label": "Портал показывает открытую запись. Допуск команды и место подтвердить отдельно."
+      }
     },
     {
       "block": "Соревнования",
@@ -27479,6 +27521,302 @@
       "admission_kind": "open_application",
       "evidence_level": "event_page",
       "event_code": "nasa-space-apps-2026-54426"
+    },
+    {
+      "id": "C4159",
+      "title": "Vex IQ Competition - ES - 3ra fecha LNR 2026-2027 · Elementary",
+      "block": "Соревнования",
+      "country": "Парагвай",
+      "region": "Южная Америка",
+      "iso": [
+        "PRY"
+      ],
+      "city": "",
+      "venue": "RI 3 Corrales casi Dr Hassler, Asuncion, 1405, Paraguay",
+      "source": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66857.html",
+      "checked": "2026-11-07",
+      "proof": "Даты, площадка и статус сопоставлены с календарём и карточкой VEX Events. Допуск конкретной команды проверяется отдельно.",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "Даты турнира опубликованы в календаре VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Подтверждено",
+      "deadline": "2026-11-07",
+      "status": "Идея",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=3",
+          "label": "Страница актуального календаря VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Глобальный возраст и состав по программе VEX."
+        }
+      ],
+      "age": "VEX IQ Elementary до 12 лет включительно на 1 июня 2027. Глобальный состав от 2. Проверить местный школьный допуск и статус команды.",
+      "mat": "Условно. Верхняя возрастная рамка подходит, нужно подтвердить школьную группу и допуск команды.",
+      "osc": "Условно. Верхняя возрастная рамка подходит, нужно подтвердить школьную группу и допуск команды.",
+      "format": "Очный командный турнир.",
+      "delivery_mode": "in_person",
+      "team_min": 2,
+      "entry": "Портал показывает открытую запись. Допуск команды и место подтвердить отдельно. Зарегистрировать команду на VEX Events и выбрать допустимый дивизион. Проверить местные условия.",
+      "gear": "VEX IQ Level Up. Робот по регламенту, программирование, инспекция и инженерная тетрадь по условиям этапа.",
+      "language": "Язык интервью и судейства уточнить на площадке.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык интервью и судейства уточнить на площадке.",
+      "cost": "В карточке турнира регистрация указана как бесплатная. Командный ID, оборудование и поездка отдельно.",
+      "level": "Местный этап VEX",
+      "reward": "Места и награды по протоколу турнира. Квоту на следующий уровень проверять по действующим правилам.",
+      "priority": "P2 — участие по условиям",
+      "action": "Проверить местный допуск, актуальные места, сборы и язык интервью до планирования поездки.",
+      "note": "Формат интервью и сдачи инженерной тетради опубликован в карточке. Срок тетради проверять отдельно от регистрации.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Местный этап VEX",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "event_code": "VE-IQ-26-66857",
+      "event_region": "Paraguay",
+      "event_type": "Open Tournament",
+      "grade_level": "Elementary",
+      "registration_status": "Портал показывает открытую запись. Допуск команды и место подтвердить отдельно.",
+      "availability": {
+        "status": "open",
+        "label": "Портал показывает открытую запись. Допуск команды и место подтвердить отдельно."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66857.html",
+      "deadline_utc": "2026-11-08T04:00:00Z",
+      "deadline_label": "Срок регистрации команды",
+      "deadline_note": "VEX Events указывает 7-Nov-2026 23:00 EST. Это срок регистрации команды."
+    },
+    {
+      "id": "C4168",
+      "title": "Regional Barranquilla · VEX IQ",
+      "block": "Соревнования",
+      "country": "Колумбия",
+      "region": "Южная Америка",
+      "iso": [
+        "COL"
+      ],
+      "city": "",
+      "venue": "##56-21 Calle 70, Barranquilla, 080002, Colombia",
+      "source": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66773.html",
+      "checked": "2026-11-07",
+      "proof": "Даты, площадка и статус сопоставлены с календарём и карточкой VEX Events. Допуск конкретной команды проверяется отдельно.",
+      "start": "2026-11-20",
+      "end": "2026-11-20",
+      "period": "Окно серии лиги по VEX Events. Точные игровые дни внутри окна проверить в расписании.",
+      "date_scope": "league_window",
+      "date_status": "Подтверждено",
+      "deadline": "2026-11-06",
+      "status": "Идея",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=6",
+          "label": "Страница актуального календаря VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Глобальный возраст и состав по программе VEX."
+        }
+      ],
+      "age": "Смешанный VEX IQ. Для Elementary до 12 лет, для Middle до 15 лет на 1 июня 2027. Глобальный состав от 2.",
+      "mat": "Условно. Верхняя возрастная рамка подходит, нужно подтвердить школьную группу и допуск команды.",
+      "osc": "Условно. Верхняя возрастная рамка подходит, нужно подтвердить школьную группу и допуск команды.",
+      "format": "Командная лига с отдельными игровыми сессиями.",
+      "delivery_mode": "in_person",
+      "team_min": 2,
+      "entry": "Портал показывает закрытую регистрацию. Зарегистрировать команду на VEX Events и выбрать допустимый дивизион. Проверить местные условия.",
+      "gear": "VEX IQ Level Up. Робот по регламенту, программирование, инспекция и инженерная тетрадь по условиям этапа.",
+      "language": "Язык интервью и судейства уточнить на площадке.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык интервью и судейства уточнить на площадке.",
+      "cost": "Портал указывает взнос USD$30.00. Условия и отдельные расходы проверить.",
+      "level": "Региональный этап VEX",
+      "reward": "Места и награды по протоколу турнира. Квоту на следующий уровень проверять по действующим правилам.",
+      "priority": "P2 — участие по условиям",
+      "action": "Проверить местный допуск, актуальные места, сборы и язык интервью до планирования поездки.",
+      "note": "Проверить местный допуск, актуальные места, сборы и язык интервью до планирования поездки.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап VEX",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "event_code": "VE-IQ-26-66773",
+      "event_region": "Colombia",
+      "event_type": "League",
+      "grade_level": "All",
+      "registration_status": "Портал показывает закрытую регистрацию.",
+      "availability": {
+        "status": "closed",
+        "label": "Портал показывает закрытую регистрацию."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66773.html",
+      "deadline_utc": "2026-11-06T17:00:00Z",
+      "deadline_label": "Срок регистрации команды",
+      "deadline_note": "VEX Events указывает 6-Nov-2026 12:00 EST. Это срок регистрации команды."
+    },
+    {
+      "id": "C4193",
+      "title": "Final de la Liga Nacional de Robótica - Temporada 2026-2027 · VEX IQ",
+      "block": "Соревнования",
+      "country": "Парагвай",
+      "region": "Южная Америка",
+      "iso": [
+        "PRY"
+      ],
+      "city": "",
+      "venue": "Augusto Roa Bastos casi Av. España, Asunción, 1305, Paraguay",
+      "source": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66606.html",
+      "checked": "2026-11-07",
+      "proof": "Даты, площадка и статус сопоставлены с календарём и карточкой VEX Events. Допуск конкретной команды проверяется отдельно.",
+      "start": "2026-12-04",
+      "end": "2026-12-05",
+      "period": "Даты турнира опубликованы в календаре VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Подтверждено",
+      "deadline": "2026-11-30",
+      "status": "Идея",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=10",
+          "label": "Страница актуального календаря VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Глобальный возраст и состав по программе VEX."
+        }
+      ],
+      "age": "Смешанный VEX IQ. Для Elementary до 12 лет, для Middle до 15 лет на 1 июня 2027. Глобальный состав от 2.",
+      "mat": "Условно. Верхняя возрастная рамка подходит, нужно подтвердить школьную группу и допуск команды.",
+      "osc": "Условно. Верхняя возрастная рамка подходит, нужно подтвердить школьную группу и допуск команды.",
+      "format": "Очный командный турнир.",
+      "delivery_mode": "in_person",
+      "team_min": 2,
+      "entry": "Портал показывает открытую запись. Допуск команды и место подтвердить отдельно. Зарегистрировать команду на VEX Events и выбрать допустимый дивизион. Проверить местные условия.",
+      "gear": "VEX IQ Level Up. Робот по регламенту, программирование, инспекция и инженерная тетрадь по условиям этапа.",
+      "language": "Язык интервью и судейства уточнить на площадке.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык интервью и судейства уточнить на площадке.",
+      "cost": "В карточке турнира регистрация указана как бесплатная. Командный ID, оборудование и поездка отдельно.",
+      "level": "Национальный чемпионат VEX",
+      "reward": "Места и награды по протоколу турнира. Квоту на следующий уровень проверять по действующим правилам.",
+      "priority": "P2 — участие по условиям",
+      "action": "Проверить местный допуск, актуальные места, сборы и язык интервью до планирования поездки.",
+      "note": "Формат интервью и сдачи инженерной тетради опубликован в карточке. Срок тетради проверять отдельно от регистрации.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальный чемпионат VEX",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "event_code": "VE-IQ-26-66606",
+      "event_region": "Paraguay",
+      "event_type": "Open Tournament",
+      "grade_level": "All",
+      "registration_status": "Портал показывает открытую запись. Допуск команды и место подтвердить отдельно.",
+      "availability": {
+        "status": "open",
+        "label": "Портал показывает открытую запись. Допуск команды и место подтвердить отдельно."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66606.html",
+      "deadline_utc": "2026-12-01T04:55:00Z",
+      "deadline_label": "Срок регистрации команды",
+      "deadline_note": "VEX Events указывает 30-Nov-2026 23:55 EST. Это срок регистрации команды."
+    },
+    {
+      "id": "C4209",
+      "title": "Vex IQ Competition- Final de la Liga Nacional de Robótica · Elementary",
+      "block": "Соревнования",
+      "country": "Парагвай",
+      "region": "Южная Америка",
+      "iso": [
+        "PRY"
+      ],
+      "city": "",
+      "venue": "Augusto Roa Bastos casi España, Asuncion, 1405, Paraguay",
+      "source": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66856.html",
+      "checked": "2026-11-07",
+      "proof": "Даты, площадка и статус сопоставлены с календарём и карточкой VEX Events. Допуск конкретной команды проверяется отдельно.",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "period": "Даты турнира опубликованы в календаре VEX Events.",
+      "date_scope": "competition",
+      "date_status": "Подтверждено",
+      "deadline": "2026-12-03",
+      "status": "Идея",
+      "references": [
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=12",
+          "label": "Страница актуального календаря VEX Events."
+        },
+        {
+          "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+          "label": "Глобальный возраст и состав по программе VEX."
+        }
+      ],
+      "age": "VEX IQ Elementary до 12 лет включительно на 1 июня 2027. Глобальный состав от 2. Проверить местный школьный допуск и статус команды.",
+      "mat": "Условно. Верхняя возрастная рамка подходит, нужно подтвердить школьную группу и допуск команды.",
+      "osc": "Условно. Верхняя возрастная рамка подходит, нужно подтвердить школьную группу и допуск команды.",
+      "format": "Очный командный турнир.",
+      "delivery_mode": "in_person",
+      "team_min": 2,
+      "entry": "Портал показывает открытую запись. Допуск команды и место подтвердить отдельно. Зарегистрировать команду на VEX Events и выбрать допустимый дивизион. Проверить местные условия.",
+      "gear": "VEX IQ Level Up. Робот по регламенту, программирование, инспекция и инженерная тетрадь по условиям этапа.",
+      "language": "Язык интервью и судейства уточнить на площадке.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык интервью и судейства уточнить на площадке.",
+      "cost": "В карточке турнира регистрация указана как бесплатная. Командный ID, оборудование и поездка отдельно.",
+      "level": "Национальный чемпионат VEX",
+      "reward": "Места и награды по протоколу турнира. Квоту на следующий уровень проверять по действующим правилам.",
+      "priority": "P2 — участие по условиям",
+      "action": "Проверить местный допуск, актуальные места, сборы и язык интервью до планирования поездки.",
+      "note": "Формат интервью и сдачи инженерной тетради опубликован в карточке. Срок тетради проверять отдельно от регистрации.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальный чемпионат VEX",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "event_code": "VE-IQ-26-66856",
+      "event_region": "Paraguay",
+      "event_type": "Open Tournament",
+      "grade_level": "Elementary",
+      "registration_status": "Портал показывает открытую запись. Допуск команды и место подтвердить отдельно.",
+      "availability": {
+        "status": "open",
+        "label": "Портал показывает открытую запись. Допуск команды и место подтвердить отдельно."
+      },
+      "registration_url": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66856.html",
+      "deadline_utc": "2026-12-04T04:00:00Z",
+      "deadline_label": "Срок регистрации команды",
+      "deadline_note": "VEX Events указывает 3-Dec-2026 23:00 EST. Это срок регистрации команды."
     },
     {
       "id": "CP047-20270103-20270108",

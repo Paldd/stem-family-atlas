@@ -227,6 +227,10 @@
         {
           "url": "https://www.cacet.org/vto-zh-3",
           "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=24",
+          "label": "Página del calendario vigente de VEX Events."
         }
       ],
       "related_ids": [
@@ -237,8 +241,12 @@
       "venue": "中正區海濱里北寧路2號, 基隆市, 202, Taiwan",
       "admission_kind": "qualifier",
       "evidence_level": "event_page",
-      "registration_status": "la inscripción no ha comenzado en 30.09.2026; los plazos de apertura en la tarjeta",
-      "event_type": "Open Tournament"
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "event_type": "Open Tournament",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      }
     },
     {
       "block": "Competiciones",
@@ -1191,10 +1199,14 @@
         {
           "label": "catálogo — la temporada 2026–27, Elementary",
           "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=*&seasonId=203&grade_level_id=1&from_date=2026-09-30&page=12"
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=9",
+          "label": "Página del calendario vigente de VEX Events."
         }
       ],
       "proof": "Se ha leído el catálogo oficial: fecha, dirección, tipo y estado.",
-      "checked": "2026-09-30",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "código RE-VIQRC-26-4821. dirección en el catálogo: 224號 民生路, 雲林縣, 64050, Taiwan. el nombre del Open Tournament no anula las invitaciones, cuotas y selección. la compatibilidad de edad no es igual a la solicitud aceptada.",
       "iso": [
@@ -1212,8 +1224,12 @@
       "venue": "224號 民生路, 雲林縣, 64050, Taiwan",
       "admission_kind": "open_application",
       "evidence_level": "catalog",
-      "registration_status": "catálogo: abierto para el 30.09.2026; lugares y limitaciones por separado",
-      "event_type": "Open Tournament"
+      "registration_status": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza.",
+      "event_type": "Open Tournament",
+      "availability": {
+        "status": "open",
+        "label": "El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza."
+      }
     },
     {
       "block": "Competiciones",
@@ -1255,10 +1271,14 @@
         {
           "label": "catálogo — la temporada 2026–27, Elementary",
           "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=*&seasonId=203&grade_level_id=1&from_date=2026-09-30&page=13"
+        },
+        {
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=%2A&seasonId=203&grade_level_id=1&from_date=2026-11-07&page=11",
+          "label": "Página del calendario vigente de VEX Events."
         }
       ],
       "proof": "Se ha leído el catálogo oficial: fecha, dirección, tipo y estado.",
-      "checked": "2026-09-30",
+      "checked": "2026-11-07",
       "status": "Idea",
       "note": "código RE-VIQRC-26-4383. dirección en el catálogo: 21 Ningyuan Lane, Taichung, 406, Taiwan. el nombre del Open Tournament no anula las invitaciones, cuotas y selección. la compatibilidad de edad no es igual a la solicitud aceptada.",
       "iso": [
@@ -1276,8 +1296,12 @@
       "venue": "21 Ningyuan Lane, Taichung, 406, Taiwan",
       "admission_kind": "open_application",
       "evidence_level": "catalog",
-      "registration_status": "catálogo: abierto para el 30.09.2026; lugares y limitaciones por separado",
-      "event_type": "Open Tournament"
+      "registration_status": "El portal muestra inscripción cerrada.",
+      "event_type": "Open Tournament",
+      "availability": {
+        "status": "closed",
+        "label": "El portal muestra inscripción cerrada."
+      }
     },
     {
       "id": "E117",

@@ -260,7 +260,7 @@ TYPA / TAS проверяются по классу, членству и ино�
 Стоимость: Цена в списке не указана; открыть карточку
 Ограничения: Код RE-VIQRC-26-4821. Адрес по каталогу: 224號 民生路, 雲林縣, 64050, Taiwan. Название Open Tournament не отменяет приглашения, квоты и отбор. Возрастная совместимость не равна принятой заявке.
 Источник: https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4821.html
-Проверено: 2026-09-30
+Проверено: 2026-11-07
 
 ### C356 · TAI-VEX VEX IQ Robotics Competition™ (ES) VEX IQ Elementary
 
@@ -273,7 +273,7 @@ TYPA / TAS проверяются по классу, членству и ино�
 Стоимость: Цена в списке не указана; открыть карточку
 Ограничения: Код RE-VIQRC-26-4383. Адрес по каталогу: 21 Ningyuan Lane, Taichung, 406, Taiwan. Название Open Tournament не отменяет приглашения, квоты и отбор. Возрастная совместимость не равна принятой заявке.
 Источник: https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4383.html
-Проверено: 2026-09-30
+Проверено: 2026-11-07
 
 ### E117 · Taipei Game Show 2027 · B2C public zone
 

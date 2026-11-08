@@ -5482,6 +5482,58 @@ Limitaciones: La página contiene un horario local. También puede incluir sesio
 Fuente: https://www.spaceappschallenge.org/2026/local-events/vitoria-da-conquista/
 Se ha comprobado: 2026-11-07
 
+### C4159 · Vex IQ Competition - ES - 3ra fecha LNR 2026-2027 · Elementary
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: VEX IQ Elementary hasta 12 años inclusive al 1 de junio de 2027. Equipo global desde 2. Confirmar matrícula local y situación del equipo.
+Matvey: Condicional. Cumple el máximo de edad, confirmar grupo escolar y admisión del equipo.
+Oscar: Condicional. Cumple el máximo de edad, confirmar grupo escolar y admisión del equipo.
+Idioma: Confirmar idioma de entrevistas y jurado en la sede.
+Acceso: El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.
+Precio: La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.
+Limitaciones: La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.
+Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66857.html
+Se ha comprobado: 2026-11-07
+
+### C4168 · Regional Barranquilla · VEX IQ
+
+Fecha: 2026-11-20 国 2026-11-20
+edad: VEX IQ combinado. Para Elementary hasta 12 años y para Middle hasta 15 años al 1 de junio de 2027. Equipo global desde 2.
+Matvey: Condicional. Cumple el máximo de edad, confirmar grupo escolar y admisión del equipo.
+Oscar: Condicional. Cumple el máximo de edad, confirmar grupo escolar y admisión del equipo.
+Idioma: Confirmar idioma de entrevistas y jurado en la sede.
+Acceso: El portal muestra inscripción cerrada. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.
+Precio: El portal indica cuota USD$30.00. Confirmar condiciones y gastos aparte.
+Limitaciones: Confirmar acceso local, plazas actuales, cargos e idioma de entrevistas antes de planificar el viaje.
+Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66773.html
+Se ha comprobado: 2026-11-07
+
+### C4193 · Final de la Liga Nacional de Robótica - Temporada 2026-2027 · VEX IQ
+
+Fecha: 2026-12-04 — 2026-12-05
+edad: VEX IQ combinado. Para Elementary hasta 12 años y para Middle hasta 15 años al 1 de junio de 2027. Equipo global desde 2.
+Matvey: Condicional. Cumple el máximo de edad, confirmar grupo escolar y admisión del equipo.
+Oscar: Condicional. Cumple el máximo de edad, confirmar grupo escolar y admisión del equipo.
+Idioma: Confirmar idioma de entrevistas y jurado en la sede.
+Acceso: El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.
+Precio: La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.
+Limitaciones: La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.
+Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66606.html
+Se ha comprobado: 2026-11-07
+
+### C4209 · Vex IQ Competition- Final de la Liga Nacional de Robótica · Elementary
+
+Fecha: 2026-12-05 — 2026-12-05
+edad: VEX IQ Elementary hasta 12 años inclusive al 1 de junio de 2027. Equipo global desde 2. Confirmar matrícula local y situación del equipo.
+Matvey: Condicional. Cumple el máximo de edad, confirmar grupo escolar y admisión del equipo.
+Oscar: Condicional. Cumple el máximo de edad, confirmar grupo escolar y admisión del equipo.
+Idioma: Confirmar idioma de entrevistas y jurado en la sede.
+Acceso: El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.
+Precio: La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.
+Limitaciones: La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.
+Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66856.html
+Se ha comprobado: 2026-11-07
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

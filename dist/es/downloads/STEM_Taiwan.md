@@ -260,7 +260,7 @@ Entrada: registro de órdenes en VEX Events, luego solicitud de un torneo; confi
 Valor: No se especifica el precio; abrir la tarjeta
 Limitaciones: Código RE-VIQRC-26-4821. Dirección del directorio: 224-------------------------------, 64050, Taiwan. El nombre de Open Tournament no anula las invitaciones, cupos y selección.
 Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4821.html
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-07
 
 ### C356 · TAI-VEX VEX IQ Robotics Competition™ (ES) VEX IQ Elementary
 
@@ -273,7 +273,7 @@ Entrada: registro de órdenes en VEX Events, luego solicitud de un torneo; confi
 Valor: No se especifica el precio; abrir la tarjeta
 Limitaciones: Código RE-VIQRC-26-4383: Dirección de directorio: 21 Ningyuan Lane, Taichung, 406, Taiwan. El nombre de Open Tournament no anula las invitaciones, cuotas y selección. La compatibilidad de edad no es igual a la solicitud aceptada.
 Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4383.html
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-07
 
 ### E117 · Taipei Game Show 2027 · B2C public zone
 
