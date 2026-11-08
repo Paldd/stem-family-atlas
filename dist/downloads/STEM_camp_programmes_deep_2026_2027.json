@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2004,
+    "dossiers": 2010,
     "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
       "published_2027": 543,
       "partial_2027": 145,
-      "next_unannounced": 405,
-      "published_2026": 389,
+      "next_unannounced": 410,
+      "published_2026": 390,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
@@ -48,12 +48,12 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2893
+    "source_urls": 2902
   },
   "countries": [
     {
       "country": "Австралия",
-      "count": 23
+      "count": 24
     },
     {
       "country": "Австрия",
@@ -309,7 +309,7 @@
     },
     {
       "country": "Малайзия",
-      "count": 18
+      "count": 20
     },
     {
       "country": "Мальдивские Острова",
@@ -441,7 +441,7 @@
     },
     {
       "country": "Соединенные Штаты Америки",
-      "count": 157
+      "count": 158
     },
     {
       "country": "Сьерра-Леоне",
@@ -489,7 +489,7 @@
     },
     {
       "country": "Филиппины",
-      "count": 9
+      "count": 11
     },
     {
       "country": "Финляндия",
@@ -346859,6 +346859,571 @@
       "catalog_participation": "regular",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP2005",
+      "slug": "moonhack-scratch-digital-safety",
+      "provider": "Moonhack · Scratch games · Digital safety",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Онлайн",
+      "age": "Общий ориентир Moonhack — 7–15 лет. У открытых файлов уроков возрастного ограничения доступа не указано.",
+      "programme": "Два проекта Scratch про цифровую безопасность. Priva-See Detective учит замечать личные данные на фото, Whack the Hack — выбирать безопасные сайты.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Инструкции доступны на английском и испанском. Самостоятельный формат.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Самостоятельная работа с инструкциями. Начать можно в любое удобное время.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 0,
+        "currency": "",
+        "unit": "free",
+        "label": "Инструкции для проекта доступны бесплатно.",
+        "included": "Два проекта Scratch про цифровую безопасность. Priva-See Detective учит замечать личные данные на фото, Whack the Hack — выбирать безопасные сайты.",
+        "extras": "Скачать инструкции на испанском или английском. Для подачи в Moonhack 2026 сверить отдельную карточку сезона.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Самостоятельная работа с инструкциями. Начать можно в любое удобное время.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да. Подходит для самостоятельной практики с доступными инструкциями."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Для самостоятельной практики можно попробовать с помощью взрослого. Рекомендация события начинается с 7 лет."
+        }
+      },
+      "editorial_reason": "Самостоятельная работа с инструкциями. Начать можно в любое удобное время.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://moonhack.com/projects/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.codeclubau.org/projects/priva-see-detective",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.codeclubau.org/projects/whack-the-hack/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games",
+        "cybersecurity"
+      ],
+      "programme_type": "regular_learning",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2006",
+      "slug": "digicamp-boca-raton-winter-video-games",
+      "provider": "DigiCamp · Video Game Programming",
+      "country": "Соединенные Штаты Америки",
+      "iso": "USA",
+      "place": "Grandview Preparatory School · Boca Raton, FL",
+      "age": "6–12 лет.",
+      "programme": "Программирование видеоигр, включая проекты Scratch. Компьютеры и техника включены.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Можно выбрать отдельные дни 21–23 декабря 2026. Занятия с 09:00 до 15:00 по местному времени.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-23",
+            "2026-12-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "day-21",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "Один день",
+            "price": "USD 92 за один день. Форма указывает скидку 10% при выборе всех 3 дней.",
+            "source": "https://fs23.formsite.com/XdHU7i/8ayre6zfms/index",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "start_utc": "2026-12-21T14:00:00Z",
+                "end_utc": "2026-12-21T20:00:00Z",
+                "topic": "Программирование видеоигр, включая проекты Scratch. Компьютеры и техника включены.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Выбрать день или пакет в форме. Подтвердить язык, место и правила переноса."
+          },
+          {
+            "variant_key": "day-22",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Один день",
+            "price": "USD 92 за один день. Форма указывает скидку 10% при выборе всех 3 дней.",
+            "source": "https://fs23.formsite.com/XdHU7i/8ayre6zfms/index",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "start_utc": "2026-12-22T14:00:00Z",
+                "end_utc": "2026-12-22T20:00:00Z",
+                "topic": "Программирование видеоигр, включая проекты Scratch. Компьютеры и техника включены.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Выбрать день или пакет в форме. Подтвердить язык, место и правила переноса."
+          },
+          {
+            "variant_key": "day-23",
+            "start": "2026-12-23",
+            "end": "2026-12-23",
+            "label": "Один день",
+            "price": "USD 92 за один день. Форма указывает скидку 10% при выборе всех 3 дней.",
+            "source": "https://fs23.formsite.com/XdHU7i/8ayre6zfms/index",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/New_York",
+                "start_utc": "2026-12-23T14:00:00Z",
+                "end_utc": "2026-12-23T20:00:00Z",
+                "topic": "Программирование видеоигр, включая проекты Scratch. Компьютеры и техника включены.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Выбрать день или пакет в форме. Подтвердить язык, место и правила переноса."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 92,
+        "currency": "USD",
+        "unit": "per_child_day",
+        "label": "USD 92 за один день. Форма указывает скидку 10% при выборе всех 3 дней.",
+        "included": "Программирование видеоигр, включая проекты Scratch. Компьютеры и техника включены.",
+        "extras": "Выбрать день или пакет в форме. Подтвердить язык, место и правила переноса.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Уточнить свободное место и язык группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Уточнить свободное место и язык группы."
+        }
+      },
+      "editorial_reason": "Можно выбрать отдельные дни 21–23 декабря 2026. Занятия с 09:00 до 15:00 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://digicamp.com/home/open/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://fs23.formsite.com/XdHU7i/8ayre6zfms/index",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2006-20261221-20261221-day-21"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2006-20261222-20261222-day-22"
+          ]
+        },
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2006-20261223-20261223-day-23"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2007",
+      "slug": "codejuniors-malaysia-scratch-jr",
+      "provider": "CodeJuniors Malaysia · Little Juniors · ScratchJr",
+      "country": "Малайзия",
+      "iso": "MYS",
+      "place": "Taman Tun Dr Ismail · Kuala Lumpur",
+      "age": "5–8 лет.",
+      "programme": "Интерактивные истории и игры в ScratchJr. Нужен планшет Android или iPad.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "В описании Little Juniors указан английский язык занятий.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Регулярные занятия по субботам во второй половине дня. Расписание группы и места подтвердить.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "unknown",
+        "label": "Стоимость и оснащение выбранной группы уточнить до записи.",
+        "included": "Интерактивные истории и игры в ScratchJr. Нужен планшет Android или iPad.",
+        "extras": "Стоимость и оснащение выбранной группы уточнить до записи.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет. Старше возрастного диапазона курса."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Подтвердить место в группе."
+        }
+      },
+      "editorial_reason": "Регулярные занятия по субботам во второй половине дня. Расписание группы и места подтвердить.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://codejuniors.com/little-juniors-age-5-8/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://codejuniors.com/faq/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "regular_learning",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2008",
+      "slug": "codejuniors-malaysia-lego",
+      "provider": "CodeJuniors Malaysia · LEGO Robotics",
+      "country": "Малайзия",
+      "iso": "MYS",
+      "place": "Taman Tun Dr Ismail · Kuala Lumpur",
+      "age": "6–12 лет по карточке LEGO.",
+      "programme": "Сборка LEGO-роботов и начальное блочное программирование.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Регулярные занятия по субботам во второй половине дня. Расписание группы и места подтвердить.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "unknown",
+        "label": "Стоимость и оснащение выбранной группы уточнить до записи.",
+        "included": "Сборка LEGO-роботов и начальное блочное программирование.",
+        "extras": "Стоимость и оснащение выбранной группы уточнить до записи.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Подтвердить место в группе."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Подтвердить место в группе."
+        }
+      },
+      "editorial_reason": "Регулярные занятия по субботам во второй половине дня. Расписание группы и места подтвердить.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://codejuniors.com/little-juniors-age-5-8/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://codejuniors.com/faq/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "regular_learning",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2009",
+      "slug": "mycode-ph-scratch-jr",
+      "provider": "MyCode Philippines · Coding Youngsters · ScratchJr",
+      "country": "Филиппины",
+      "iso": "PHL",
+      "place": "Онлайн",
+      "age": "Рекомендовано 5–7 лет.",
+      "programme": "Основы программирования в ScratchJr. Итоговые проекты включают игру с препятствиями и интерактивную историю.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Материалы сайта на английском. Устный язык группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Групповой уровень включает 3 живых занятия и 9 дней доступа к материалам. Даты и часовой пояс согласовать.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 2500,
+        "currency": "PHP",
+        "unit": "per_child_course",
+        "label": "В FAQ PHP 2500 за уровень блочного программирования для одного ребёнка в группе. Частные занятия оплачиваются отдельно.",
+        "included": "Основы программирования в ScratchJr. Итоговые проекты включают игру с препятствиями и интерактивную историю.",
+        "extras": "Уточнить формат, язык занятия и подходящее расписание для своей страны. Для ScratchJr нужен совместимый планшет.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Групповой уровень включает 3 живых занятия и 9 дней доступа к материалам. Даты и часовой пояс согласовать.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет. Старше возрастного диапазона курса."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Подтвердить язык и часы занятий."
+        }
+      },
+      "editorial_reason": "Групповой уровень включает 3 живых занятия и 9 дней доступа к материалам. Даты и часовой пояс согласовать.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.mycode.ph/courses/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.mycode.ph/faqs/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "regular_learning",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2010",
+      "slug": "mycode-ph-scratch",
+      "provider": "MyCode Philippines · Block-based Game Making · Scratch",
+      "country": "Филиппины",
+      "iso": "PHL",
+      "place": "Онлайн",
+      "age": "Рекомендовано 8–14 лет.",
+      "programme": "Создание игр в Scratch. От движения персонажей до очков, анимации и интерактивной истории.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Материалы сайта на английском. Устный язык группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Групповой уровень включает 3 живых занятия и 9 дней доступа к материалам. Даты и часовой пояс согласовать.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 2500,
+        "currency": "PHP",
+        "unit": "per_child_course",
+        "label": "В FAQ PHP 2500 за уровень блочного программирования для одного ребёнка в группе. Частные занятия оплачиваются отдельно.",
+        "included": "Создание игр в Scratch. От движения персонажей до очков, анимации и интерактивной истории.",
+        "extras": "Уточнить формат, язык занятия и подходящее расписание для своей страны. Для ScratchJr нужен совместимый планшет.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Групповой уровень включает 3 живых занятия и 9 дней доступа к материалам. Даты и часовой пояс согласовать.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Подтвердить язык и часы занятий."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по текущему возрасту."
+        }
+      },
+      "editorial_reason": "Групповой уровень включает 3 живых занятия и 9 дней доступа к материалам. Даты и часовой пояс согласовать.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.mycode.ph/courses/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.mycode.ph/faqs/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "regular_learning",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -352184,7 +352749,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 285,
+  "version": 286,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -365419,7 +365984,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2004,
+      "total_dossiers": 2010,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -388004,6 +388569,21 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2006",
+      "event_id": "CP2006-20261221-20261221-day-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2006",
+      "event_id": "CP2006-20261222-20261222-day-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2006",
+      "event_id": "CP2006-20261223-20261223-day-23",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -392718,10 +393298,13 @@
     "CP1995-20261229-20261229-dec26",
     "CP1996-20261221-20261221-dec26",
     "CP2001-20261212-20261212-dec26",
-    "CP2002-20261213-20261213-dec26"
+    "CP2002-20261213-20261213-dec26",
+    "CP2006-20261221-20261221-day-21",
+    "CP2006-20261222-20261222-day-22",
+    "CP2006-20261223-20261223-day-23"
   ],
   "integration": {
-    "generated_sessions": 4284,
+    "generated_sessions": 4287,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

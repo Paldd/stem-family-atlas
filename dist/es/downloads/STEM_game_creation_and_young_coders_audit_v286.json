@@ -1,0 +1,164 @@
+{
+  "version": 286,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C4686",
+    "C4687",
+    "C4688",
+    "C4689",
+    "E602",
+    "C4690",
+    "L789",
+    "L790",
+    "L791",
+    "L792",
+    "L793"
+  ],
+  "new_dossiers": [
+    "CP2005",
+    "CP2006",
+    "CP2007",
+    "CP2008",
+    "CP2009",
+    "CP2010"
+  ],
+  "new_dated_variants": 3,
+  "refreshed_event_ids": [
+    "C1171",
+    "C1172",
+    "C1173",
+    "C1174",
+    "C1175",
+    "C1176",
+    "C1177",
+    "C1178",
+    "C1179",
+    "C043",
+    "C4486",
+    "C4487",
+    "C848",
+    "L645",
+    "L643"
+  ],
+  "legacy_overlay_event_ids": [
+    "C1171",
+    "C1172",
+    "C1173",
+    "C1174",
+    "C1175",
+    "C1176",
+    "C1177",
+    "C1178",
+    "C1179",
+    "C043",
+    "C4486",
+    "C4487",
+    "C848",
+    "L645",
+    "L643"
+  ],
+  "source_requests": 31,
+  "young_coders": "C4686",
+  "floating_code": "C4687",
+  "gamedev_jam": "C4688",
+  "k12_game_on": "C4689",
+  "cyprus_fair": "E602",
+  "cyprus_hackathon": "C4690",
+  "robojam_mx": [
+    "C1171",
+    "C1172",
+    "C1173",
+    "C1174",
+    "C1175",
+    "C1176",
+    "C1177",
+    "C1178",
+    "C1179"
+  ],
+  "tmr": "C043",
+  "encode": [
+    "C4486",
+    "C4487"
+  ],
+  "games_for_change": "C848",
+  "moonhack_resources": "L789",
+  "moonhack_profile": "CP2005",
+  "moonhack_global": "L645",
+  "digicamp": "CP2006",
+  "techlab_scratch": "L643",
+  "codejuniors": [
+    "L790",
+    "L791"
+  ],
+  "codejuniors_dossiers": [
+    "CP2007",
+    "CP2008"
+  ],
+  "mycode": [
+    "L792",
+    "L793"
+  ],
+  "mycode_dossiers": [
+    "CP2009",
+    "CP2010"
+  ],
+  "source_limits": [
+    {
+      "event_id": "C4686",
+      "status": "overseas_entries_supported_age_wording_differs_and_2027_deadline_unpublished",
+      "season_age": [
+        8,
+        13
+      ],
+      "faq_uk_age": [
+        7,
+        13
+      ]
+    },
+    {
+      "event_id": "C4688",
+      "status": "organizer_announced_window_itch_link_previous_season_platform_age_applies",
+      "own_account_age_floor": 13
+    },
+    {
+      "event_ids": [
+        "C1171",
+        "C1172",
+        "C1173",
+        "C1174",
+        "C1175",
+        "C1176",
+        "C1177",
+        "C1178",
+        "C1179"
+      ],
+      "status": "official_event_dates_conflict_application_form_unavailable",
+      "country_page": "2027-04-17",
+      "series_page": "2027-04-18",
+      "application_http": 401,
+      "public_deadline": "2027-02-26",
+      "cutoff_hour_unverified": true
+    },
+    {
+      "event_id": "C043",
+      "status": "published_existing_calendar_category_rules_pending"
+    },
+    {
+      "event_ids": [
+        "C4486",
+        "C4487"
+      ],
+      "status": "local_payment_methods_and_organizer_media_use_disclosed"
+    },
+    {
+      "programme_id": "CP2006",
+      "status": "school_holiday_form_current_exact_dates_instruction_language_unconfirmed"
+    },
+    {
+      "event_id": "L643",
+      "status": "payment_installment_count_unclear_invoice_local_currency"
+    }
+  ]
+}

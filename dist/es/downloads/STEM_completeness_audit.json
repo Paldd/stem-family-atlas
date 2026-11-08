@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10357,
-    "competition_cards": 4684,
-    "event_cards": 601,
-    "camp_cards": 5072,
+    "cards": 10371,
+    "competition_cards": 4689,
+    "event_cards": 602,
+    "camp_cards": 5080,
     "league_profiles": 301,
-    "major_exhibition_cards": 505,
+    "major_exhibition_cards": 506,
     "vex_cards": 814,
     "countries_with_records": 234,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3373,
+      "total": 3377,
       "countries_with_records": 40,
-      "competitions": 1925,
+      "competitions": 1926,
       "events": 161,
       "major_exhibitions": 124,
-      "camps": 1287,
+      "camps": 1290,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -62,9 +62,9 @@
       "regions": [
         "Europa"
       ],
-      "total": 2214,
+      "total": 2216,
       "countries_with_records": 54,
-      "competitions": 609,
+      "competitions": 611,
       "events": 148,
       "major_exhibitions": 123,
       "camps": 1457,
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 2990,
+      "total": 2996,
       "countries_with_records": 50,
-      "competitions": 1164,
-      "events": 163,
-      "major_exhibitions": 150,
-      "camps": 1663,
+      "competitions": 1165,
+      "events": 164,
+      "major_exhibitions": 151,
+      "camps": 1667,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -104,12 +104,12 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 534,
+      "total": 535,
       "countries_with_records": 25,
       "competitions": 167,
       "events": 34,
       "major_exhibitions": 30,
-      "camps": 333,
+      "camps": 334,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido fijian tourist camp, nz días de estudio reales, australian national game/video contests y archivo escolar cerrado de french polynesia. se quedan lenguas / foreign admission camps, un calendario dinámico RCJA, otras islas y torneos locales."
     }
@@ -14311,6 +14311,17 @@
       "new": false
     },
     {
+      "id": "E602",
+      "name": "Youth Tech Fest Cyprus 2027 · Edutainment Fair",
+      "country": "Chipre",
+      "region": "Asia",
+      "start": "2027-02-06",
+      "end": "2027-02-06",
+      "visitor_policy": "family",
+      "source": "https://youthtechfest.com/edutainment-fair/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -15691,7 +15702,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 163,
+  "interregional_cards": 164,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -16728,14 +16739,14 @@
       }
     ],
     "counts": {
-      "records": 5072,
-      "holiday": 4699,
-      "regular": 165,
+      "records": 5080,
+      "holiday": 4702,
+      "regular": 170,
       "self_paced_materials": 4,
       "boarding": 1038,
-      "en_es_instruction": 1593,
+      "en_es_instruction": 1594,
       "en_es_support": 28,
-      "family_instruction": 1593,
+      "family_instruction": 1594,
       "family_support": 28,
       "ru_instruction": 4,
       "language_lessons": 414,

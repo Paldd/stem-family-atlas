@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 285,
+    "version": 286,
     "status": "implementation_snapshot",
-    "events": 10357,
-    "competitions": 4684,
+    "events": 10371,
+    "competitions": 4689,
     "league_profiles": 299,
-    "camp_dossiers": 2004,
+    "camp_dossiers": 2010,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 601,
+    "exhibitions_events": 602,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 284,
+    "version": 285,
     "status": "implementation_snapshot",
-    "events": 10343,
-    "competitions": 4681,
+    "events": 10357,
+    "competitions": 4684,
     "league_profiles": 299,
-    "camp_dossiers": 2000,
+    "camp_dossiers": 2004,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 594,
+    "exhibitions_events": 601,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 285,
+    "prepared_ui_version": 286,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 284,
-    "previous_verified_commit": "0c0a45dc73823c1a647a4dd90966e693a37c4314"
+    "previous_verified_ui_version": 285,
+    "previous_verified_commit": "fc1154888a200418fe9d01b444c9e716bc5f068e"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 284,
-    "published_version": 284,
-    "latest_source_commit": "0c0a45dc73823c1a647a4dd90966e693a37c4314",
-    "published_commit": "0c0a45dc73823c1a647a4dd90966e693a37c4314",
-    "latest_workflow": 42490703066,
+    "latest_source_version": 285,
+    "published_version": 285,
+    "latest_source_commit": "fc1154888a200418fe9d01b444c9e716bc5f068e",
+    "published_commit": "fc1154888a200418fe9d01b444c9e716bc5f068e",
+    "latest_workflow": 42492342498,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -28622,5 +28622,171 @@
     ],
     "audit": "data/public-expos-and-family-workshops-audit-v285.json",
     "source_receipts": "data/public-expos-and-family-workshops-source-receipts-v285.json"
+  },
+  "game_creation_and_young_coders_v286": {
+    "version": 286,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4686",
+      "C4687",
+      "C4688",
+      "C4689",
+      "E602",
+      "C4690",
+      "L789",
+      "L790",
+      "L791",
+      "L792",
+      "L793"
+    ],
+    "new_dossiers": [
+      "CP2005",
+      "CP2006",
+      "CP2007",
+      "CP2008",
+      "CP2009",
+      "CP2010"
+    ],
+    "new_dated_variants": 3,
+    "refreshed_event_ids": [
+      "C1171",
+      "C1172",
+      "C1173",
+      "C1174",
+      "C1175",
+      "C1176",
+      "C1177",
+      "C1178",
+      "C1179",
+      "C043",
+      "C4486",
+      "C4487",
+      "C848",
+      "L645",
+      "L643"
+    ],
+    "legacy_overlay_event_ids": [
+      "C1171",
+      "C1172",
+      "C1173",
+      "C1174",
+      "C1175",
+      "C1176",
+      "C1177",
+      "C1178",
+      "C1179",
+      "C043",
+      "C4486",
+      "C4487",
+      "C848",
+      "L645",
+      "L643"
+    ],
+    "source_requests": 31,
+    "young_coders": "C4686",
+    "floating_code": "C4687",
+    "gamedev_jam": "C4688",
+    "k12_game_on": "C4689",
+    "cyprus_fair": "E602",
+    "cyprus_hackathon": "C4690",
+    "robojam_mx": [
+      "C1171",
+      "C1172",
+      "C1173",
+      "C1174",
+      "C1175",
+      "C1176",
+      "C1177",
+      "C1178",
+      "C1179"
+    ],
+    "tmr": "C043",
+    "encode": [
+      "C4486",
+      "C4487"
+    ],
+    "games_for_change": "C848",
+    "moonhack_resources": "L789",
+    "moonhack_profile": "CP2005",
+    "moonhack_global": "L645",
+    "digicamp": "CP2006",
+    "techlab_scratch": "L643",
+    "codejuniors": [
+      "L790",
+      "L791"
+    ],
+    "codejuniors_dossiers": [
+      "CP2007",
+      "CP2008"
+    ],
+    "mycode": [
+      "L792",
+      "L793"
+    ],
+    "mycode_dossiers": [
+      "CP2009",
+      "CP2010"
+    ],
+    "source_limits": [
+      {
+        "event_id": "C4686",
+        "status": "overseas_entries_supported_age_wording_differs_and_2027_deadline_unpublished",
+        "season_age": [
+          8,
+          13
+        ],
+        "faq_uk_age": [
+          7,
+          13
+        ]
+      },
+      {
+        "event_id": "C4688",
+        "status": "organizer_announced_window_itch_link_previous_season_platform_age_applies",
+        "own_account_age_floor": 13
+      },
+      {
+        "event_ids": [
+          "C1171",
+          "C1172",
+          "C1173",
+          "C1174",
+          "C1175",
+          "C1176",
+          "C1177",
+          "C1178",
+          "C1179"
+        ],
+        "status": "official_event_dates_conflict_application_form_unavailable",
+        "country_page": "2027-04-17",
+        "series_page": "2027-04-18",
+        "application_http": 401,
+        "public_deadline": "2027-02-26",
+        "cutoff_hour_unverified": true
+      },
+      {
+        "event_id": "C043",
+        "status": "published_existing_calendar_category_rules_pending"
+      },
+      {
+        "event_ids": [
+          "C4486",
+          "C4487"
+        ],
+        "status": "local_payment_methods_and_organizer_media_use_disclosed"
+      },
+      {
+        "programme_id": "CP2006",
+        "status": "school_holiday_form_current_exact_dates_instruction_language_unconfirmed"
+      },
+      {
+        "event_id": "L643",
+        "status": "payment_installment_count_unclear_invoice_local_currency"
+      }
+    ],
+    "audit": "data/game-creation-and-young-coders-audit-v286.json",
+    "source_receipts": "data/game-creation-and-young-coders-source-receipts-v286.json"
   }
 }

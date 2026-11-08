@@ -196,7 +196,7 @@ Matway: Condicional
 Idioma: El idioma del juez/maestro no es claro. El texto español de las reglas o catálogos no prueba el flujo de la información; se acuerda antes del viaje.
 Entrada: Nueva convocatoria 2027; admisión primaria extranjera separada de la cuota de México
 Costo: No publicado / Comprobar la edición actual
-Limitaciones: 23 Categoría, cerca 300 y 1 200 en la comunicación — Proyección de los organizadores, Protocolo no efectivo. Fechas TMR no significa admisión 6/9-de verano a todas las disciplinas. TMR 2026 Finalizado; adulto Escuela de Invierno Veracruz no considerar un campamento de niños.
+Limitaciones: El portal oficial prepara la convocatoria y las bases actualizadas. Confirmar edad y admisión según la disciplina.
 Fuente: https://turismo.zacatecas.gob.mx/sera-zacatecas-sede-del-torneo-mexicano-de-robotica-2027/
 Se ha comprobado: 2026-11-08
 
@@ -1431,7 +1431,7 @@ Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y 
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: Para el 17 de abril, el horario indica apertura a las 07:00, cierre del registro presencial a las 09:30, clasificatorias de 10:00–12:00 y finales de 13:30–16:00. Usar tras confirmar el día. Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
@@ -1444,7 +1444,7 @@ Oscar: Cumple edad máxima: en abril 2027 tendrá 6–7; confirmar mínimo y adm
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
@@ -1457,7 +1457,7 @@ Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y 
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
@@ -1470,7 +1470,7 @@ Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y 
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
@@ -1483,7 +1483,7 @@ Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y 
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
@@ -1496,7 +1496,7 @@ Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y 
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
@@ -1509,7 +1509,7 @@ Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y 
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
@@ -1522,7 +1522,7 @@ Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y 
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
@@ -1535,7 +1535,7 @@ Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y 
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Limitaciones: La página de la etapa en ASFM indica el 17 de abril de 2027. El calendario general de RoboJam indica el 18 de abril. El formulario pidió acceso al comprobarlo.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 

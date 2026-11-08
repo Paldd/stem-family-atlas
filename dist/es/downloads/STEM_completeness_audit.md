@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10357; competiciones: 4684; eventos: 601; campamentos / programas: 5072. Perfiles de ligas y programas: 301. Fichas de exposiciones grandes y especializadas: 505 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10371; competiciones: 4689; eventos: 602; campamentos / programas: 5080. Perfiles de ligas y programas: 301. Fichas de exposiciones grandes y especializadas: 506 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros específicos para 234 de 249 países y territorios y 0 países con auditoría completa. Revisión del archivo v51: se añadieron 21 fichas y 3 perfiles. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros específicos para 234 de 249 países y territorios y 0 países con
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1925 | 124 | 1287 |
+| América del Norte | 40 | 1926 | 124 | 1290 |
 | América del Sur | 14 | 433 | 45 | 207 |
-| Europa | 54 | 609 | 123 | 1457 |
+| Europa | 54 | 611 | 123 | 1457 |
 | África | 55 | 245 | 31 | 110 |
-| Asia | 50 | 1164 | 150 | 1663 |
-| Oceanía | 25 | 167 | 30 | 333 |
+| Asia | 50 | 1165 | 151 | 1667 |
+| Oceanía | 25 | 167 | 30 | 334 |
 
-Fichas interregionales o globales sin asignación a un continente: 163. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y su alcance documentado.
+Fichas interregionales o globales sin asignación a un continente: 164. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y su alcance documentado.
 
-VEX: 814 de 4684 fichas de competiciones (17.4%). La cobertura se concentra en este circuito.
+VEX: 814 de 4689 fichas de competiciones (17.4%). La cobertura se concentra en este circuito.
 
 ## Lo que queda
 
@@ -874,6 +874,7 @@ VEX: 814 de 4684 fichas de competiciones (17.4%). La cobertura se concentra en e
 - **Singapore Science and Engineering Fair 2027 · Public Day** — Singapur; 2027-03-05. con un adulto; condiciones de admisión adulta por separado. https://sites.google.com/moe.edu.sg/ssef/participation/key-dates-for-ssef-2027
 - **Maker Faire Philadelphia 2027** — Estados Unidos; 2027-04-18. con un adulto; condiciones de admisión adulta por separado. https://philly.makerfaire.com/
 - **CSITF 2027 · AI Computing Power & Infrastructure Expo** — China; 2027-06-02 – 2027-06-04. el permiso de entrada de niños. https://www.itaiexpo.com/
+- **Youth Tech Fest Cyprus 2027 · Edutainment Fair** — Chipre; 2027-02-06. con un adulto; condiciones de admisión adulta por separado. https://youthtechfest.com/edutainment-fair/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

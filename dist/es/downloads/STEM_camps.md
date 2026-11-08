@@ -9066,17 +9066,17 @@ Se ha comprobado: 2026-11-06
 
 lugar: España · En línea desde Latinoamérica · operador Barcelona
 Fecha: Para Latinoamérica y EE. UU. se anuncia febrero de 2027. Mié 17:30–19:00 hora local según ficha. Calendario exacto tras formar grupo.
-edad: 7–9 años según la descripción del curso.
+edad: La ficha general del curso indica desde los 7 años. Confirmar el rango de edad del grupo concreto.
 Matway: Sí, por edad; inscripción separada
 Oscar: No por edad para este grupo.
 Formato: online
 Idioma: Clases en directo en español por videollamada. El operador indica acceso desde Latinoamérica.
 Marca de idioma: primary; soporte: no declarado
-Precio: 320 EUR por curso completo en dos pagos del 50% o 378 EUR a plazos. El fraccionamiento incluye 42 EUR al inscribirse y otros 8 pagos de 42 EUR.
+Precio: Opción de EUR 320 por curso en dos pagos del 50%. Para cuotas figuran EUR 42 y un total de EUR 378. Confirmar calendario de cobros e importe en moneda local.
 Acceso: La plaza requiere confirmación del organizador.
-Limitaciones: Para Latinoamérica y EE. UU. se anuncia febrero de 2027. Mié 17:30–19:00 hora local según ficha. Calendario exacto tras formar grupo.
+Limitaciones: Para Latinoamérica y EE. UU. se anuncia febrero de 2027. El horario publicado es miércoles de 17:30 a 19:00 local. Fechas exactas al formar el grupo.
 Fuente: https://academy.techlabkids.com/curso/programacion-con-scratch/
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### L644 · TechLab Kids Academy · Programación y Creación Digital
 
@@ -9102,13 +9102,13 @@ edad: La portada recomienda 7–15 años. El formulario enumera 6–8 y 9–11 a
 Matvey: Sí por edad recomendada. Un adulto envía el proyecto.
 Oscar: Condicional. 6 años figura en el grupo del formulario y queda por debajo de la recomendación de portada.
 Formato: online
-Idioma: Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.
-Marca de idioma: unconfirmed; apoyo: no declarado
+Idioma: Instrucciones disponibles en inglés y español. Formato autónomo.
+Marca de idioma: materials; apoyo: no declarado
 Precio: Participación gratuita según las bases del organizador.
 Acceso: Un adulto puede enviar enlace, captura o archivo. La muestra del proyecto requiere consentimiento separado.
 Limitaciones: El formulario separa la autorización de muestra y la inscripción al concurso con premios.
 Fuente: https://moonhack.com/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### L646 · CITC · Jóvenes Ingenieros · Smartivo
 
@@ -11396,6 +11396,86 @@ Precio: Aún no se confirman el coste total ni las plazas.
 Acceso: Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.
 Limitaciones: Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.
 Fuente: https://lalibertadcr.org/centro-infantil-y-juvenil-2/
+Se ha comprobado: 2026-11-08
+
+### L789 · Moonhack · Scratch games · Digital safety project guides
+
+lugar: Australia · En línea
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Moonhack se dirige en general a edades 7–15. No indica límite de edad para acceder a los archivos abiertos de las lecciones.
+Matvey: Sí. Adecuado para práctica autónoma con instrucciones disponibles.
+Oscar: Condicional. Para práctica autónoma, se puede probar con ayuda adulta. La edad recomendada del evento comienza a los 7 años.
+Formato: regular
+Idioma: Instrucciones disponibles en inglés y español. Formato autónomo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Las instrucciones del proyecto son gratuitas.
+Acceso: Descargar las instrucciones en español o inglés. Para enviar a Moonhack 2026, consultar la ficha separada de la edición.
+Limitaciones: Trabajo autónomo con instrucciones. Se puede empezar en cualquier momento.
+Fuente: https://moonhack.com/projects/
+Se ha comprobado: 2026-11-08
+
+### L790 · CodeJuniors Malaysia · Little Juniors · ScratchJr
+
+lugar: Malasia · Taman Tun Dr Ismail · Kuala Lumpur
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 5–8 años.
+Matvey: No. Supera el rango de edad del curso.
+Oscar: Condicional. Encaja por edad. Confirmar plaza en el grupo.
+Formato: regular
+Idioma: La descripción de Little Juniors indica inglés como idioma de clase.
+Marca de idioma: primary; soporte: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Confirmar precio y material del grupo elegido antes de inscribirse.
+Limitaciones: Clases regulares los sábados por la tarde. Confirmar horario de grupo y plazas.
+Fuente: https://codejuniors.com/little-juniors-age-5-8/
+Se ha comprobado: 2026-11-08
+
+### L791 · CodeJuniors Malaysia · LEGO Robotics
+
+lugar: Malasia · Taman Tun Dr Ismail · Kuala Lumpur
+Fecha: No se ha fijado el período/plan de trabajo
+edad: De 6 a 12 años según la ficha de LEGO.
+Matvey: Condicional. Encaja por edad. Confirmar plaza en el grupo.
+Oscar: Condicional. Encaja por edad. Confirmar plaza en el grupo.
+Formato: regular
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Confirmar precio y material del grupo elegido antes de inscribirse.
+Limitaciones: Clases regulares los sábados por la tarde. Confirmar horario de grupo y plazas.
+Fuente: https://codejuniors.com/little-juniors-age-5-8/
+Se ha comprobado: 2026-11-08
+
+### L792 · MyCode Philippines · Coding Youngsters · ScratchJr
+
+lugar: Filipinas · En línea
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Recomendado de 5 a 7 años.
+Matvey: No. Supera el rango de edad del curso.
+Oscar: Condicional. Encaja por edad. Confirmar idioma y horario de clase.
+Formato: regular
+Idioma: Materiales del sitio en inglés. Confirmar el idioma hablado en el grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Las preguntas frecuentes indican PHP 2500 por nivel de programación por bloques y por menor en grupo. Las clases privadas se cotizan aparte.
+Acceso: Confirmar formato, idioma y horario adecuado para el país de residencia. Para ScratchJr se necesita una tableta compatible.
+Limitaciones: El nivel grupal incluye 3 clases en directo y 9 días de acceso a materiales. Acordar fechas y zona horaria.
+Fuente: https://www.mycode.ph/courses/
+Se ha comprobado: 2026-11-08
+
+### L793 · MyCode Philippines · Block-based Game Making · Scratch
+
+lugar: Filipinas · En línea
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Recomendado de 8 a 14 años.
+Matvey: Condicional. Encaja por edad. Confirmar idioma y horario de clase.
+Oscar: No por la edad actual.
+Formato: regular
+Idioma: Materiales del sitio en inglés. Confirmar el idioma hablado en el grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Las preguntas frecuentes indican PHP 2500 por nivel de programación por bloques y por menor en grupo. Las clases privadas se cotizan aparte.
+Acceso: Confirmar formato, idioma y horario adecuado para el país de residencia. Para ScratchJr se necesita una tableta compatible.
+Limitaciones: El nivel grupal incluye 3 clases en directo y 9 días de acceso a materiales. Acordar fechas y zona horaria.
+Fuente: https://www.mycode.ph/courses/
 Se ha comprobado: 2026-11-08
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
@@ -79940,6 +80020,54 @@ Precio: 2026/27 · La tarifa de EUR 8 se publica sin desglose de entrada. Confir
 Acceso: Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa.
 Limitaciones: Matvey: Condicional. Encaja por edad. Confirmar idioma y plaza. Oscar: Por debajo de la edad mínima del grupo. Suplementos: Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1
+Se ha comprobado: 2026-11-08
+
+### CP2006-20261221-20261221-day-21 · DigiCamp · Video Game Programming · Un día · 2026-12-21–2026-12-21
+
+lugar: Estados Unidos · Grandview Preparatory School · Boca Raton, FL
+Fecha: 2026-12-21 — 2026-12-21
+Edad: 6*12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 92 por un día. El formulario indica 10% de descuento al elegir los 3 días. · suplementos y condiciones en el dossier
+Acceso: Elegir día o paquete en el formulario. Confirmar idioma, plaza y condiciones de cambio.
+Limitaciones: Matvey: Condicional. Encaja por edad. Confirmar plaza e idioma del grupo. Oscar: Condicional. Encaja por edad. Confirmar plaza e idioma del grupo. Suplementos: Elegir día o paquete en el formulario. Confirmar idioma, plaza y condiciones de cambio. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://fs23.formsite.com/XdHU7i/8ayre6zfms/index
+Se ha comprobado: 2026-11-08
+
+### CP2006-20261222-20261222-day-22 · DigiCamp · Video Game Programming · Un día · 2026-12-22–2026-12-22
+
+lugar: Estados Unidos · Grandview Preparatory School · Boca Raton, FL
+Fecha: 2026-12-22 — 2026-12-22
+Edad: 6*12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 92 por un día. El formulario indica 10% de descuento al elegir los 3 días. · suplementos y condiciones en el dossier
+Acceso: Elegir día o paquete en el formulario. Confirmar idioma, plaza y condiciones de cambio.
+Limitaciones: Matvey: Condicional. Encaja por edad. Confirmar plaza e idioma del grupo. Oscar: Condicional. Encaja por edad. Confirmar plaza e idioma del grupo. Suplementos: Elegir día o paquete en el formulario. Confirmar idioma, plaza y condiciones de cambio. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://fs23.formsite.com/XdHU7i/8ayre6zfms/index
+Se ha comprobado: 2026-11-08
+
+### CP2006-20261223-20261223-day-23 · DigiCamp · Video Game Programming · Un día · 2026-12-23–2026-12-23
+
+lugar: Estados Unidos · Grandview Preparatory School · Boca Raton, FL
+Fecha: 2026-12-23 — 2026-12-23
+Edad: 6*12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 92 por un día. El formulario indica 10% de descuento al elegir los 3 días. · suplementos y condiciones en el dossier
+Acceso: Elegir día o paquete en el formulario. Confirmar idioma, plaza y condiciones de cambio.
+Limitaciones: Matvey: Condicional. Encaja por edad. Confirmar plaza e idioma del grupo. Oscar: Condicional. Encaja por edad. Confirmar plaza e idioma del grupo. Suplementos: Elegir día o paquete en el formulario. Confirmar idioma, plaza y condiciones de cambio. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://fs23.formsite.com/XdHU7i/8ayre6zfms/index
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

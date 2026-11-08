@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2004 fichas en 126 países. Cada ficha indica cuándo se revisaron sus fuentes.
+Estado de la base: 2026-11-08. 2010 fichas en 126 países. Cada ficha indica cuándo se revisaron sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -160011,6 +160011,302 @@ Costa Rica · Parque La Libertad
 - [Página de la organización o reglamento de la categoría.](https://lalibertadcr.org/centro-infantil-y-juvenil-2/) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://lalibertadcr.org/centro-infantil-y-juvenil/) · 2026-11-08
+
+## CP2005 · Moonhack · Scratch games · Digital safety
+
+Australia · En línea
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Moonhack se dirige en general a edades 7–15. No indica límite de edad para acceder a los archivos abiertos de las lecciones.
+
+**Idioma:** Instrucciones disponibles en inglés y español. Formato autónomo.
+
+**Programa:** Dos proyectos Scratch de seguridad digital. Priva-See Detective enseña a detectar datos personales en fotos y Whack the Hack, a elegir sitios seguros.
+
+**Alojamiento:** Trabajo autónomo con instrucciones. Se puede empezar en cualquier momento.
+
+**Fechas / estado:** Trabajo autónomo con instrucciones. Se puede empezar en cualquier momento.
+
+**Precio / año:** 2026 · Las instrucciones del proyecto son gratuitas.
+
+**Incluido:** Dos proyectos Scratch de seguridad digital. Priva-See Detective enseña a detectar datos personales en fotos y Whack the Hack, a elegir sitios seguros.
+
+**Suplementos:** Descargar las instrucciones en español o inglés. Para enviar a Moonhack 2026, consultar la ficha separada de la edición.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí. Adecuado para práctica autónoma con instrucciones disponibles.
+
+**Oscar:** Condicional. Para práctica autónoma, se puede probar con ayuda adulta. La edad recomendada del evento comienza a los 7 años.
+
+**Motivo de selección:** Trabajo autónomo con instrucciones. Se puede empezar en cualquier momento.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://moonhack.com/projects/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.codeclubau.org/projects/priva-see-detective) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.codeclubau.org/projects/whack-the-hack/) · 2026-11-08
+
+## CP2006 · DigiCamp · Video Game Programming
+
+Estados Unidos · Grandview Preparatory School · Boca Raton, FL
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De 6–12 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Programación de videojuegos con proyectos Scratch. Incluye ordenadores y equipos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Se pueden elegir días sueltos del 21 al 23 de diciembre de 2026. Actividades de 09:00 a 15:00, hora local.
+
+**Precio / año:** 2026 · USD 92 por un día. El formulario indica 10% de descuento al elegir los 3 días.
+
+**Incluido:** Programación de videojuegos con proyectos Scratch. Incluye ordenadores y equipos.
+
+**Suplementos:** Elegir día o paquete en el formulario. Confirmar idioma, plaza y condiciones de cambio.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Encaja por edad. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Condicional. Encaja por edad. Confirmar plaza e idioma del grupo.
+
+**Motivo de selección:** Se pueden elegir días sueltos del 21 al 23 de diciembre de 2026. Actividades de 09:00 a 15:00, hora local.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Un día
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**Precio:** USD 92 por un día. El formulario indica 10% de descuento al elegir los 3 días.
+
+**condiciones de participación:** Elegir día o paquete en el formulario. Confirmar idioma, plaza y condiciones de cambio.
+
+- 2026-12-21 · 09:00–15:00 · America/New_York · Programación de videojuegos con proyectos Scratch. Incluye ordenadores y equipos.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://fs23.formsite.com/XdHU7i/8ayre6zfms/index)
+
+### Un día
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**Precio:** USD 92 por un día. El formulario indica 10% de descuento al elegir los 3 días.
+
+**condiciones de participación:** Elegir día o paquete en el formulario. Confirmar idioma, plaza y condiciones de cambio.
+
+- 2026-12-22 · 09:00–15:00 · America/New_York · Programación de videojuegos con proyectos Scratch. Incluye ordenadores y equipos.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://fs23.formsite.com/XdHU7i/8ayre6zfms/index)
+
+### Un día
+
+**Fechas / estado:** 2026-12-23 — 2026-12-23
+
+**Precio:** USD 92 por un día. El formulario indica 10% de descuento al elegir los 3 días.
+
+**condiciones de participación:** Elegir día o paquete en el formulario. Confirmar idioma, plaza y condiciones de cambio.
+
+- 2026-12-23 · 09:00–15:00 · America/New_York · Programación de videojuegos con proyectos Scratch. Incluye ordenadores y equipos.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://fs23.formsite.com/XdHU7i/8ayre6zfms/index)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://digicamp.com/home/open/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://fs23.formsite.com/XdHU7i/8ayre6zfms/index) · 2026-11-08
+
+## CP2007 · CodeJuniors Malaysia · Little Juniors · ScratchJr
+
+Malasia · Taman Tun Dr Ismail · Kuala Lumpur
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De 5 a 8 años.
+
+**Idioma:** La descripción de Little Juniors indica inglés como idioma de clase.
+
+**Programa:** Historias y juegos interactivos con ScratchJr. Se necesita tableta Android o iPad.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Clases regulares los sábados por la tarde. Confirmar horario de grupo y plazas.
+
+**Precio / año:** 2026 · Confirmar precio y material del grupo elegido antes de inscribirse.
+
+**Incluido:** Historias y juegos interactivos con ScratchJr. Se necesita tableta Android o iPad.
+
+**Suplementos:** Confirmar precio y material del grupo elegido antes de inscribirse.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No. Supera el rango de edad del curso.
+
+**Oscar:** Condicional. Encaja por edad. Confirmar plaza en el grupo.
+
+**Motivo de selección:** Clases regulares los sábados por la tarde. Confirmar horario de grupo y plazas.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://codejuniors.com/little-juniors-age-5-8/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://codejuniors.com/faq/) · 2026-11-08
+
+## CP2008 · CodeJuniors Malaysia · LEGO Robotics
+
+Malasia · Taman Tun Dr Ismail · Kuala Lumpur
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De 6 a 12 años según la ficha de LEGO.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Construcción de robots LEGO e iniciación a la programación por bloques.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Clases regulares los sábados por la tarde. Confirmar horario de grupo y plazas.
+
+**Precio / año:** 2026 · Confirmar precio y material del grupo elegido antes de inscribirse.
+
+**Incluido:** Construcción de robots LEGO e iniciación a la programación por bloques.
+
+**Suplementos:** Confirmar precio y material del grupo elegido antes de inscribirse.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Encaja por edad. Confirmar plaza en el grupo.
+
+**Oscar:** Condicional. Encaja por edad. Confirmar plaza en el grupo.
+
+**Motivo de selección:** Clases regulares los sábados por la tarde. Confirmar horario de grupo y plazas.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://codejuniors.com/little-juniors-age-5-8/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://codejuniors.com/faq/) · 2026-11-08
+
+## CP2009 · MyCode Philippines · Coding Youngsters · ScratchJr
+
+Filipinas · En línea
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Recomendado de 5 a 7 años.
+
+**Idioma:** Materiales del sitio en inglés. Confirmar el idioma hablado en el grupo.
+
+**Programa:** Fundamentos de programación en ScratchJr. Los proyectos finales incluyen un juego de obstáculos y una historia interactiva.
+
+**Alojamiento:** El nivel grupal incluye 3 clases en directo y 9 días de acceso a materiales. Acordar fechas y zona horaria.
+
+**Fechas / estado:** El nivel grupal incluye 3 clases en directo y 9 días de acceso a materiales. Acordar fechas y zona horaria.
+
+**Precio / año:** 2026 · Las preguntas frecuentes indican PHP 2500 por nivel de programación por bloques y por menor en grupo. Las clases privadas se cotizan aparte.
+
+**Incluido:** Fundamentos de programación en ScratchJr. Los proyectos finales incluyen un juego de obstáculos y una historia interactiva.
+
+**Suplementos:** Confirmar formato, idioma y horario adecuado para el país de residencia. Para ScratchJr se necesita una tableta compatible.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No. Supera el rango de edad del curso.
+
+**Oscar:** Condicional. Encaja por edad. Confirmar idioma y horario de clase.
+
+**Motivo de selección:** El nivel grupal incluye 3 clases en directo y 9 días de acceso a materiales. Acordar fechas y zona horaria.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.mycode.ph/courses/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.mycode.ph/faqs/) · 2026-11-08
+
+## CP2010 · MyCode Philippines · Block-based Game Making · Scratch
+
+Filipinas · En línea
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Recomendado de 8 a 14 años.
+
+**Idioma:** Materiales del sitio en inglés. Confirmar el idioma hablado en el grupo.
+
+**Programa:** Creación de juegos en Scratch. Desde el movimiento de personajes hasta puntuación, animación e historia interactiva.
+
+**Alojamiento:** El nivel grupal incluye 3 clases en directo y 9 días de acceso a materiales. Acordar fechas y zona horaria.
+
+**Fechas / estado:** El nivel grupal incluye 3 clases en directo y 9 días de acceso a materiales. Acordar fechas y zona horaria.
+
+**Precio / año:** 2026 · Las preguntas frecuentes indican PHP 2500 por nivel de programación por bloques y por menor en grupo. Las clases privadas se cotizan aparte.
+
+**Incluido:** Creación de juegos en Scratch. Desde el movimiento de personajes hasta puntuación, animación e historia interactiva.
+
+**Suplementos:** Confirmar formato, idioma y horario adecuado para el país de residencia. Para ScratchJr se necesita una tableta compatible.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Encaja por edad. Confirmar idioma y horario de clase.
+
+**Oscar:** No por la edad actual.
+
+**Motivo de selección:** El nivel grupal incluye 3 clases en directo y 9 días de acceso a materiales. Acordar fechas y zona horaria.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.mycode.ph/courses/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.mycode.ph/faqs/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 
