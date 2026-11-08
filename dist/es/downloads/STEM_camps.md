@@ -11078,6 +11078,22 @@ Limitaciones: La página muestra el período de 2027 pero conserva el 2 de enero
 Fuente: https://www.sanjosedemonterrico.edu.pe/activekids2026
 Se ha comprobado: 2026-11-08
 
+### L769 · Fundación Ibercaja Actur · MiniCoders Scratch workshop
+
+lugar: España · Zaragoza
+Fecha: 2027-01-14 — 2027-02-25
+edad: Para primaria. No se publican edades, cursos ni admisión de familias por separado.
+Matvey: Condicional. Taller para un grupo escolar. Se debe confirmar el acceso de familias por separado.
+Oscar: Condicional. Taller para un grupo escolar. Se debe confirmar el acceso de familias por separado.
+Formato: team
+Idioma: Materiales de la organización en español. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Para primaria. No se publican edades, cursos ni admisión de familias por separado.
+Restricciones: Confirmar la tarifa y el turno disponible con Fundación Ibercaja.
+Fuente: https://aulaenred.fundacionibercaja.es/actividades/alumnado/minicoders-crea-tu-primer-videojuego-con-scratch-26-27/
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

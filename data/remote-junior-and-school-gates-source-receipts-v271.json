@@ -1,0 +1,194 @@
+{
+  "captures": [
+    {
+      "key": "nasca-solve",
+      "url": "https://www.nasca.edu.in/competitions/solve-it",
+      "final_url": "https://www.nasca.edu.in/competitions/solve-it",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 58489,
+      "sha256": "02c68344bf40bdaeb79efa3aa51878c59e261c5c67abd3a43a01b46c5cd285d1",
+      "file": "nasca-solve.html"
+    },
+    {
+      "key": "nasca",
+      "url": "https://www.nasca.edu.in/competitions",
+      "final_url": "https://www.nasca.edu.in/competitions",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 104186,
+      "sha256": "0804c1d8c7557058bc513acae0e1e43da7d6b817945dcdcb0b7a52d72f3230e1",
+      "file": "nasca.html"
+    },
+    {
+      "key": "nasca-build",
+      "url": "https://www.nasca.edu.in/competitions/build-it",
+      "final_url": "https://www.nasca.edu.in/competitions/build-it",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 58570,
+      "sha256": "3057ea07f0472d8713edbe49b4effdfdfe7273fd05c91e172017d20826bc1ab2",
+      "file": "nasca-build.html"
+    },
+    {
+      "key": "code-ninjas",
+      "url": "https://www.d-coding.ca/events/2027-environmental-coding-competition",
+      "final_url": "https://www.d-coding.ca/events/2027-environmental-coding-competition",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 63659,
+      "sha256": "861850c774477961e46c8bdb657ac54526b415b4b3e6ca7c14d732e6a26ec841",
+      "file": "code-ninjas.html"
+    },
+    {
+      "key": "roboart",
+      "url": "https://roboart36.ru/roboart/roboart_2027_olimpiady/",
+      "final_url": "https://roboart36.ru/roboart/roboart_2027_olimpiady/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 66609,
+      "sha256": "f164cdb4865b7ead63407c166f7ebe740391952bd8b8b8c1278f57d248d6c9a5",
+      "file": "roboart.html"
+    },
+    {
+      "key": "roboart-rules",
+      "url": "https://roboart36.ru/roboart/pologenie_roboart/",
+      "final_url": "https://roboart36.ru/roboart/pologenie_roboart/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 43180,
+      "sha256": "bb4b00266d960b26b0f08b1efd4e18ee7f4c093e4aee42a6a32e4e3c8abede5e",
+      "file": "roboart-rules.html"
+    },
+    {
+      "key": "roboart-projects",
+      "url": "https://roboart36.ru/roboart/konkursy_2027/",
+      "final_url": "https://roboart36.ru/roboart/konkursy_2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 62501,
+      "sha256": "e7e68df6b6ac5de7b8ffb91e604d9adaf4085ac5cbf3eb5b15b753985aefbbb9",
+      "file": "roboart-projects.html"
+    },
+    {
+      "key": "beoi",
+      "url": "https://beoi.be-oi.be/en/",
+      "final_url": "https://beoi.be-oi.be/en/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 97709,
+      "sha256": "04b7f6e79a4d0bc882b0cab39d278eb80c38255b9e15362538d6efe64cf76b35",
+      "file": "beoi.html"
+    },
+    {
+      "key": "beoi-faq",
+      "url": "https://be-oi.be/en/contest/faq/",
+      "final_url": "https://be-oi.be/en/contest/faq/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 37349,
+      "sha256": "488c6065b128a58358168a7a9ad539fe3072a662cad43da5f498185dfc3fa5d8",
+      "file": "beoi-faq.html"
+    },
+    {
+      "key": "nzic",
+      "url": "https://www.nzoi.org.nz/nzic/",
+      "final_url": "https://www.nzoi.org.nz/nzic/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 8811,
+      "sha256": "d38427b3c3a98e90fa0ce871cf761c8986ebff0ed047d701f6335606726918cc",
+      "file": "nzic.html"
+    },
+    {
+      "key": "nzic-rules",
+      "url": "https://www.nzoi.org.nz/nzic/rules/",
+      "final_url": "https://www.nzoi.org.nz/nzic/rules/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 12640,
+      "sha256": "7624f708d8e12f2848ff9b1a3a432f43c0c7f6f73f02b6372fd4e3014b6774e4",
+      "file": "nzic-rules.html"
+    },
+    {
+      "key": "rw",
+      "url": "https://www.ibacademy.in/rw2027/",
+      "final_url": "https://www.ibacademy.in/rw2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 469936,
+      "sha256": "6ad0c807cf3c141950020b90f764f7aec2a0c2f2a92fe4fd0926e39a5b8e2825",
+      "file": "rw.html"
+    },
+    {
+      "key": "stripe-tickets",
+      "url": "https://ticketing.stripeyste.com/2027/general-public",
+      "final_url": "https://ticketing.stripeyste.com/2027/general-public",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 34847,
+      "sha256": "17d79255f2d1d228c5ecd63bfa5bc05a7fe7c328ec0ef08528e1d5ef4554dee7",
+      "file": "stripe-tickets.html"
+    },
+    {
+      "key": "stripe-main",
+      "url": "https://www.stripeyste.com/",
+      "final_url": "https://www.stripeyste.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 157289,
+      "sha256": "d84c0f83025a825ce0f11098b3b27402dc09ffd063b7887561d4bd193a36083c",
+      "file": "stripe-main.html"
+    },
+    {
+      "key": "stripe-primary",
+      "url": "https://www.stripeyste.com/primary-science-fair",
+      "final_url": "https://www.stripeyste.com/primary-science-fair",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 117548,
+      "sha256": "a05dcade63d438ce047d5e0e75a21974ec814df383f22dd420c8293199caba95",
+      "file": "stripe-primary.html"
+    },
+    {
+      "key": "roboart-expo",
+      "url": "https://roboart36.ru/roboart/roboart_2027_vystavka_robotov/",
+      "final_url": "https://roboart36.ru/roboart/roboart_2027_vystavka_robotov/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 96143,
+      "sha256": "56ac6873c1e9cd394dd4feeac21f5e7822f8b111e3349a207745c439ade0e968",
+      "file": "roboart-expo.html"
+    },
+    {
+      "key": "coolest",
+      "url": "https://online.coolestprojects.org/cp-online-2027",
+      "final_url": "https://online.coolestprojects.org/cp-online-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 24843,
+      "sha256": "53ee3fc1d744bd8615608432c71529cea85423c8aede8aa19d0ea266533f793d",
+      "file": "coolest.html"
+    },
+    {
+      "key": "iber-codi",
+      "url": "https://www.drmasmitja.cat/codicup/",
+      "final_url": "https://www.drmasmitja.cat/codicup/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 179271,
+      "sha256": "4635e5c0124c7e4ead3842d019001b7cc8eb3b683eaba9ebd7b948cfd30d21ff",
+      "file": "iber-codi.html"
+    },
+    {
+      "key": "iber-mini",
+      "url": "https://aulaenred.fundacionibercaja.es/actividades/alumnado/minicoders-crea-tu-primer-videojuego-con-scratch-26-27/",
+      "final_url": "https://aulaenred.fundacionibercaja.es/actividades/alumnado/minicoders-crea-tu-primer-videojuego-con-scratch-26-27/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 39324,
+      "sha256": "6c2d4afec3c4f3a70ff75e1a4a27925b4f605db95269b6f3f6c875e1a7f5f446",
+      "file": "iber-mini.html"
+    }
+  ]
+}

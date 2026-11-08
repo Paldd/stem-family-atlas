@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10103,
-    "competition_cards": 4584,
-    "event_cards": 546,
-    "camp_cards": 4973,
+    "cards": 10129,
+    "competition_cards": 4606,
+    "event_cards": 549,
+    "camp_cards": 4974,
     "league_profiles": 299,
-    "major_exhibition_cards": 449,
+    "major_exhibition_cards": 452,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -34,9 +34,9 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3299,
+      "total": 3301,
       "countries_with_records": 40,
-      "competitions": 1906,
+      "competitions": 1908,
       "events": 142,
       "major_exhibitions": 104,
       "camps": 1251,
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 2140,
+      "total": 2157,
       "countries_with_records": 52,
-      "competitions": 579,
-      "events": 136,
-      "major_exhibitions": 111,
-      "camps": 1425,
+      "competitions": 592,
+      "events": 139,
+      "major_exhibitions": 114,
+      "camps": 1426,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -90,9 +90,9 @@
       "regions": [
         "Азия"
       ],
-      "total": 2949,
+      "total": 2955,
       "countries_with_records": 49,
-      "competitions": 1140,
+      "competitions": 1146,
       "events": 151,
       "major_exhibitions": 138,
       "camps": 1658,
@@ -104,9 +104,9 @@
       "regions": [
         "Океания"
       ],
-      "total": 527,
+      "total": 528,
       "countries_with_records": 25,
-      "competitions": 162,
+      "competitions": 163,
       "events": 33,
       "major_exhibitions": 29,
       "camps": 332,
@@ -13621,6 +13621,39 @@
       "new": false
     },
     {
+      "id": "E547",
+      "name": "Stripe Young Scientist & Technology Exhibition 2027 · Public days",
+      "country": "Ирландия",
+      "region": "Европа",
+      "start": "2027-01-07",
+      "end": "2027-01-09",
+      "visitor_policy": "family",
+      "source": "https://ticketing.stripeyste.com/2027/general-public",
+      "new": false
+    },
+    {
+      "id": "E548",
+      "name": "Stripe YSTE 2027 · Primary Science Fair",
+      "country": "Ирландия",
+      "region": "Европа",
+      "start": "2027-01-07",
+      "end": "2027-01-08",
+      "visitor_policy": "family",
+      "source": "https://www.stripeyste.com/primary-science-fair",
+      "new": false
+    },
+    {
+      "id": "E549",
+      "name": "RoboArt 2027 · Robot and technical model exhibition",
+      "country": "Российская Федерация",
+      "region": "Европа",
+      "start": "2027-03-28",
+      "end": "2027-03-28",
+      "visitor_policy": "confirm_children",
+      "source": "https://roboart36.ru/roboart/roboart_2027_vystavka_robotov/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -16038,7 +16071,7 @@
       }
     ],
     "counts": {
-      "records": 4973,
+      "records": 4974,
       "holiday": 4630,
       "regular": 158,
       "self_paced_materials": 2,

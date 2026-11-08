@@ -870,10 +870,10 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 270,
+    "version": 271,
     "status": "implementation_snapshot",
-    "events": 10103,
-    "competitions": 4584,
+    "events": 10129,
+    "competitions": 4606,
     "league_profiles": 299,
     "camp_dossiers": 1936,
     "budget_offers": 312,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 546,
+    "exhibitions_events": 549,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 269,
+    "version": 270,
     "status": "implementation_snapshot",
-    "events": 10091,
+    "events": 10103,
     "competitions": 4584,
     "league_profiles": 299,
-    "camp_dossiers": 1930,
+    "camp_dossiers": 1936,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 545,
+    "exhibitions_events": 546,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 270,
+    "prepared_ui_version": 271,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 269,
-    "previous_verified_commit": "919c218cc5d135336c372a4fddb8250a1c0870d3"
+    "previous_verified_ui_version": 270,
+    "previous_verified_commit": "65eeb9488be73d75c5a0a0a708e471b6c8df82f9"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 269,
-    "published_version": 269,
-    "latest_source_commit": "919c218cc5d135336c372a4fddb8250a1c0870d3",
-    "published_commit": "919c218cc5d135336c372a4fddb8250a1c0870d3",
-    "latest_workflow": 42465388676,
+    "latest_source_version": 270,
+    "published_version": 270,
+    "latest_source_commit": "65eeb9488be73d75c5a0a0a708e471b6c8df82f9",
+    "published_commit": "65eeb9488be73d75c5a0a0a708e471b6c8df82f9",
+    "latest_workflow": 42466830894,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -27044,5 +27044,82 @@
     "source_requests": 22,
     "audit": "data/winter-camps-and-pixar-audit-v270.json",
     "source_receipts": "data/winter-camps-and-pixar-source-receipts-v270.json"
+  },
+  "remote_junior_and_school_gates_v271": {
+    "version": 271,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4586",
+      "C4587",
+      "C4588",
+      "C4589",
+      "C4590",
+      "C4591",
+      "C4592",
+      "C4593",
+      "C4594",
+      "C4595",
+      "C4596",
+      "C4597",
+      "C4598",
+      "C4599",
+      "C4600",
+      "C4601",
+      "C4602",
+      "C4603",
+      "C4604",
+      "C4605",
+      "C4606",
+      "E547",
+      "E548",
+      "E549",
+      "C4607",
+      "L769"
+    ],
+    "refreshed_event_ids": [
+      "C039",
+      "C3305"
+    ],
+    "legacy_overlay_event_ids": [
+      "C039",
+      "C3305"
+    ],
+    "source_requests": 19,
+    "grade_gated_worldwide": [
+      "C4586",
+      "C4587"
+    ],
+    "form_not_open": [
+      "C4588",
+      "C4589"
+    ],
+    "russian_remote_options": [
+      "C4590",
+      "C4591",
+      "C4592",
+      "C4593",
+      "C4594",
+      "C4595",
+      "C4596"
+    ],
+    "school_or_national_gate": [
+      "C4597",
+      "C4598",
+      "C4599",
+      "C4600",
+      "C4601",
+      "C3305",
+      "C4607"
+    ],
+    "qualified_visit_options": [
+      "E547",
+      "E548",
+      "E549"
+    ],
+    "new_dossiers": [],
+    "audit": "data/remote-junior-and-school-gates-audit-v271.json",
+    "source_receipts": "data/remote-junior-and-school-gates-source-receipts-v271.json"
   }
 }

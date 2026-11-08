@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10103; competiciones: 4584; eventos: 546; campamentos / programas: 4973. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 449 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10129; competiciones: 4606; eventos: 549; campamentos / programas: 4974. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 452 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1906 | 104 | 1251 |
+| América del Norte | 40 | 1908 | 104 | 1251 |
 | América del Sur | 14 | 422 | 37 | 200 |
-| Europa | 52 | 579 | 111 | 1425 |
+| Europa | 52 | 592 | 114 | 1426 |
 | África | 53 | 235 | 28 | 92 |
-| Asia | 49 | 1140 | 138 | 1658 |
-| Oceanía | 25 | 162 | 29 | 332 |
+| Asia | 49 | 1146 | 138 | 1658 |
+| Oceanía | 25 | 163 | 29 | 332 |
 
 Fichas interregionales o globales sin asignar a un continente: 162. Norteamérica incluye Centroamérica y el Caribe. Los recuentos muestran el inventario de la base, no un porcentaje de exhaustividad.
 
-VEX: 814 de 4584 fichas de competiciones (17.8%). Hay un desequilibrio claro de cobertura.
+VEX representa 814 de las 4606 fichas de competiciones (17.7%). La cobertura se concentra en este circuito.
 
 ## Lo que queda
 
@@ -816,6 +816,9 @@ VEX: 814 de 4584 fichas de competiciones (17.8%). Hay un desequilibrio claro de 
 - **Origins Game Fair 2027 · Columbus** — Estados Unidos; 2027-06-09 – 2027-06-13. con un adulto; condiciones de admisión adulta por separado. https://www.originsgamefair.com/
 - **Gen Con Indy 2027 · Board Games** — Estados Unidos; 2027-08-05 – 2027-08-08. el permiso de entrada de niños. https://www.gencon.com/
 - **The Science Behind Pixar · Frost Science Miami** — Estados Unidos; 2026-10-10 – 2027-04-11. con un adulto; condiciones de admisión adulta por separado. https://www.frostscience.org/exhibition/the-science-behind-pixar/
+- **Stripe Young Scientist & Technology Exhibition 2027 · Public days** — Irlanda; 2027-01-07 – 2027-01-09. con un adulto; condiciones de admisión adulta por separado. https://ticketing.stripeyste.com/2027/general-public
+- **Stripe YSTE 2027 · Primary Science Fair** — Irlanda; 2027-01-07 – 2027-01-08. con un adulto; condiciones de admisión adulta por separado. https://www.stripeyste.com/primary-science-fair
+- **RoboArt 2027 · Robot and technical model exhibition** — Rusia; 2027-03-28. el permiso de entrada de niños. https://roboart36.ru/roboart/roboart_2027_vystavka_robotov/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors
