@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8621,
-    "competition_cards": 3497,
-    "event_cards": 473,
-    "camp_cards": 4651,
+    "cards": 8702,
+    "competition_cards": 3499,
+    "event_cards": 475,
+    "camp_cards": 4728,
     "league_profiles": 288,
-    "major_exhibition_cards": 376,
-    "vex_cards": 521,
-    "countries_with_records": 204,
+    "major_exhibition_cards": 378,
+    "vex_cards": 522,
+    "countries_with_records": 206,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2873,
+      "total": 2876,
       "countries_with_records": 37,
-      "competitions": 1530,
-      "events": 122,
-      "major_exhibitions": 84,
+      "competitions": 1532,
+      "events": 123,
+      "major_exhibitions": 85,
       "camps": 1221,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 1962,
-      "countries_with_records": 48,
+      "total": 1965,
+      "countries_with_records": 49,
       "competitions": 449,
       "events": 118,
       "major_exhibitions": 93,
-      "camps": 1395,
+      "camps": 1398,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 2564,
+      "total": 2570,
       "countries_with_records": 48,
       "competitions": 863,
       "events": 127,
       "major_exhibitions": 114,
-      "camps": 1574,
+      "camps": 1580,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -104,12 +104,12 @@
       "regions": [
         "Океания"
       ],
-      "total": 342,
-      "countries_with_records": 13,
+      "total": 411,
+      "countries_with_records": 14,
       "competitions": 140,
-      "events": 29,
-      "major_exhibitions": 25,
-      "camps": 173,
+      "events": 30,
+      "major_exhibitions": 26,
+      "camps": 241,
       "status": "Частично исследовано",
       "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
     }
@@ -1090,14 +1090,15 @@
         "C3192",
         "C3194",
         "C3344",
+        "C3499",
         "C1155",
         "C1156",
         "C1157",
         "C1158"
       ],
-      "cards": 521,
-      "future_dated": 420,
-      "linked_card_count": 521,
+      "cards": 522,
+      "future_dated": 421,
+      "linked_card_count": 522,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.vexrobotics.com/official-path",
       "new": false
@@ -11676,6 +11677,28 @@
       "new": false
     },
     {
+      "id": "E474",
+      "name": "Expo Tech CCIAP 2027 · Panamá",
+      "country": "Панама",
+      "region": "Центральная Америка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.panacamara.com/expotech/",
+      "new": false
+    },
+    {
+      "id": "E475",
+      "name": "Pacific Islands Forum 2026 · Sovereign AI & Robotics",
+      "country": "Палау",
+      "region": "Океания",
+      "start": "2026-08-31",
+      "end": "2026-08-31",
+      "visitor_policy": "confirm_children",
+      "source": "https://55piflm.gov.pw/program/side-events",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -14093,20 +14116,20 @@
       }
     ],
     "counts": {
-      "records": 4651,
-      "holiday": 4338,
+      "records": 4728,
+      "holiday": 4410,
       "regular": 149,
       "self_paced_materials": 2,
       "boarding": 1036,
-      "en_es_instruction": 1433,
+      "en_es_instruction": 1497,
       "en_es_support": 27,
-      "family_instruction": 1433,
+      "family_instruction": 1497,
       "family_support": 27,
       "ru_instruction": 4,
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 128
+      "countries": 130
     },
     "validation": {
       "version": 51,

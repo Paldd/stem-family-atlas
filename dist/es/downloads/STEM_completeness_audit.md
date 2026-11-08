@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 8621; competiciones: 3497; eventos: 473; campamentos / programas: 4651. Perfiles de ligas y programas: 288. Fichas de exposiciones grandes y especializadas: 376 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 8702; competiciones: 3499; eventos: 475; campamentos / programas: 4728. Perfiles de ligas y programas: 288. Fichas de exposiciones grandes y especializadas: 378 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros específicos para 204 de 249 países y territorios; países auditados por completo: 0. Revisión archivada v51: se añadieron fichas 21 y perfiles 3. Se conservaron todas las fichas previas.
+Hay registros específicos para 206 de 249 países y territorios; países auditados por completo: 0. Revisión archivada v51: se añadieron fichas 21 y perfiles 3. Se conservaron todas las fichas previas.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 37 | 1530 | 84 | 1221 |
+| América del Norte | 37 | 1532 | 85 | 1221 |
 | América del Sur | 13 | 255 | 31 | 197 |
-| Europa | 48 | 449 | 93 | 1395 |
+| Europa | 49 | 449 | 93 | 1398 |
 | África | 47 | 144 | 27 | 78 |
-| Asia | 48 | 863 | 114 | 1574 |
-| Oceanía | 13 | 140 | 25 | 173 |
+| Asia | 48 | 863 | 114 | 1580 |
+| Oceanía | 14 | 140 | 26 | 241 |
 
 Fichas interregionales o globales sin continente único: 136. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y la cobertura completa sigue pendiente.
 
-VEX: 521 de 3497 fichas de competiciones (14.9%). La cobertura tiene un sesgo evidente.
+VEX: 522 de 3499 fichas de competiciones (14.9%). La cobertura tiene un sesgo evidente.
 
 ## Lo que queda
 
@@ -95,7 +95,7 @@ VEX: 521 de 3497 fichas de competiciones (14.9%). La cobertura tiene un sesgo ev
 
 - **WRO**: 115 tarjetas, 6 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://wro-association.org/competition/categories/
 - **FIRST**: 312 fichas, 205 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
-- **VEX Robotics**: 521 fichas, 420 con fechas futuras exactas. Hay perfil y fichas. Cobertura local parcial. https://www.vexrobotics.com/official-path
+- **VEX Robotics**: 522 fichas, 421 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexrobotics.com/official-path
 - **RoboCupJunior**: 7 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://junior.robocup.org/
 - **MakeX**: 19 fichas, 11 con fechas futuras exactas. Hay perfil y fichas; cobertura local parcial. https://www.makex.cc/en/2026-makex
 - **RECF Robotics**. 624 fichas, 527 con fechas futuras exactas. Hay perfil y fichas con cobertura local parcial. https://recf.org/teams/recf-robotics-competition/
@@ -732,6 +732,8 @@ VEX: 521 de 3497 fichas de competiciones (14.9%). La cobertura tiene un sesgo ev
 - **Coolest Projects UK Cardiff 2027 · Family visit** — Reino Unido; 2027-05-22. con un adulto; condiciones de admisión adulta por separado. https://online.coolestprojects.org/cp-cardiff-2027
 - **Coolest Projects Belgium 2027 · Techfair** — Bélgica; 2027-03-13. el permiso de entrada de niños. https://coderdojobelgium.be/nl/events/coolest-projects-13-03-2027
 - **ECER 2027 · Linz · Besuch** — Austria; 2027-04-05 – 2027-04-09. con un adulto; condiciones de admisión adulta por separado. https://ecer.eraa.at/visit/
+- **Expo Tech CCIAP 2027 · Panamá** — Panamá; fecha desconocida. Confirmar acceso infantil. https://www.panacamara.com/expotech/
+- **Pacific Islands Forum 2026 · Sovereign AI & Robotics** — Palaos; 2026-08-31. el permiso de entrada de niños. https://55piflm.gov.pw/program/side-events
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

@@ -10166,6 +10166,118 @@ Restricciones: Se deben confirmar calendario y precio final del turno elegido. E
 Fuente: https://imdatbot.edu.tm/
 Se ha comprobado: 2026-11-07
 
+### L712 · Attività Extrascolastiche 2027 · STEM · Scuola Elementare
+
+lugar: San Marino · Repubblica di San Marino
+Fecha: Ventana de enero a mayo de 2027. Días del curso concreto en el registro escolar electrónico.
+edad: Alumnos de primaria.
+Matvey: Condicional según el curso. Se requiere acceso mediante una escuela local.
+Oscar: Condicional según el curso. Se requiere acceso mediante una escuela local.
+formato: school_workshop
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: EUR 30 por curso. Confirmación y pago del 23 al 29 de noviembre de 2026 según el anuncio.
+Acceso: Para alumnado de escuelas de la República de San Marino. Preinscripción mediante SiceWeb.
+Limitaciones: Ventana de enero a mayo de 2027. Días del curso concreto en el registro escolar electrónico.
+Fuente: https://istruzioneecultura.sm/pub2/IstruzioneSM/dettaglio_notizia.html?idItem=b2cbcf60-bf6c-4d6f-9151-36136d803865
+Se ha comprobado: 2026-11-07
+
+### L713 · Attività Extrascolastiche 2027 · Ludoteca · Scuola Media
+
+lugar: San Marino · Repubblica di San Marino
+Fecha: Ventana de enero a mayo de 2027. Días del curso concreto en el registro escolar electrónico.
+edad: Alumnado de secundaria media.
+Matvey: No por el nivel escolar actual. Programa para Scuola Media.
+Oscar: No por el nivel escolar actual. Programa para Scuola Media.
+formato: school_workshop
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: EUR 30 por curso. Confirmación y pago del 23 al 29 de noviembre de 2026 según el anuncio.
+Acceso: Para alumnado de escuelas de la República de San Marino. Preinscripción mediante SiceWeb.
+Limitaciones: Ventana de enero a mayo de 2027. Días del curso concreto en el registro escolar electrónico.
+Fuente: https://istruzioneecultura.sm/pub2/IstruzioneSM/dettaglio_notizia.html?idItem=b2cbcf60-bf6c-4d6f-9151-36136d803865
+Se ha comprobado: 2026-11-07
+
+### L714 · Jump’in Robotica · Serravalle 2026
+
+lugar: San Marino · Auditorium Little Tony · Serravalle
+Fecha: 2026-07-02 — 2026-07-02
+edad: No. Para la edición de 2026 se indicaron participantes de 12–18 años.
+Matvey: No. Para la edición de 2026 se indicaron participantes de 12–18 años.
+Oscar: No. Para la edición de 2026 se indicaron participantes de 12–18 años.
+formato: workshop
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: En el archivo, escolares de San Marino y alrededores. No se exigía experiencia previa.
+Limitaciones: Archivo de un taller formativo. Condiciones de nueva convocatoria aún sin publicar.
+Fuente: https://jumpin.work/evento/jumpin-robotica-luglio-2026/
+Se ha comprobado: 2026-11-07
+
+### L715 · PICRC Education Carnival · Koror 2026
+
+lugar: Palaos · PICRC · Koror
+Fecha: 2026-01-20 — 2026-01-23
+edad: Grupos de escuelas primarias locales.
+Matvey: Condicional. La escuela y la organización de la nueva edición determinan el acceso.
+Oscar: Condicional. La escuela y la organización de la nueva edición determinan el acceso.
+formato: school_workshop
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Visita organizada para grupos de escuelas locales. El acceso familiar depende del programa futuro.
+Limitaciones: Archivo del programa de 14 escuelas primarias. Pendiente el próximo horario.
+Fuente: https://picrc.org/picrc-reaches-nearly-1000-students-at-2026-education-carnival/
+Se ha comprobado: 2026-11-07
+
+### L716 · PICRC Education Carnival · Sonsorol 2026
+
+lugar: Palaos · Sonsorol State
+Fecha: 2026-09-28 — 2026-09-28
+edad: Grupo de la escuela primaria local.
+Matvey: Condicional. La escuela y la organización de la nueva edición determinan el acceso.
+Oscar: Condicional. La escuela y la organización de la nueva edición determinan el acceso.
+formato: school_workshop
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Visita organizada para grupos de escuelas locales. El acceso familiar depende del programa futuro.
+Limitaciones: Día del taller 28 de septiembre de 2026, informe publicado el 30 de octubre de 2026.
+Fuente: https://picrc.org/picrc-brings-arts-tides-awards-education-carnival-and-community-outreach-to-sonsorol/
+Se ha comprobado: 2026-11-07
+
+### L717 · PICRC Ocean Explorers · Underwater Robotics
+
+lugar: Palaos · PICRC · Koror
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Para alumnado de secundaria media según la organización.
+Matvey: No por el nivel escolar actual. El programa está destinado a secundaria media.
+Oscar: No por el nivel escolar actual. El programa está destinado a secundaria media.
+Formato: day_camp
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Formato escolar. Aún no se publican condiciones para menores extranjeros ni criterios de inscripción.
+Limitaciones: La página actual no indica fechas, precio ni idioma de las actividades técnicas.
+Fuente: https://picrc.org/work/intersession-summer-programs/
+Se ha comprobado: 2026-11-07
+
+### L718 · PICRC × Palau Community College · SeaMate Angelfish 2025
+
+lugar: Palaos · PICRC · Koror
+Fecha: 2025-06-16 — 2025-06-20
+edad: En esta edición, 8.º y 9.º cursos, alumnado seleccionado de escuelas locales.
+Matvey: No. Competición para alumnado de cursos superiores.
+Oscar: No. Competición para alumnado de cursos superiores.
+Formato: day_camp
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Visita organizada para grupos de escuelas locales. El acceso familiar depende del programa futuro.
+Limitaciones: Archivo de 2025. El reto interno se celebró para el alumnado del campamento.
+Fuente: https://picrc.org/picrc-launches-new-student-program-on-building-underwater-robots/
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -54742,6 +54854,838 @@ Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspond
 Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
 Se ha comprobado: 2026-11-07
 
+### CP1270-20261215-20261215-2026-12-15-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2026-12-15–2026-12-15
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-15 — 2026-12-15
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20261215-20261215-2026-12-15-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2026-12-15–2026-12-15
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-15 — 2026-12-15
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20261216-20261216-2026-12-16-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2026-12-16–2026-12-16
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-16 — 2026-12-16
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20261216-20261216-2026-12-16-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2026-12-16–2026-12-16
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-16 — 2026-12-16
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20261217-20261217-2026-12-17-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2026-12-17–2026-12-17
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-17 — 2026-12-17
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20261217-20261217-2026-12-17-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2026-12-17–2026-12-17
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-17 — 2026-12-17
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20261218-20261218-2026-12-18-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2026-12-18–2026-12-18
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-18 — 2026-12-18
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20261218-20261218-2026-12-18-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2026-12-18–2026-12-18
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-18 — 2026-12-18
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20261221-20261221-2026-12-21-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2026-12-21–2026-12-21
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-21 — 2026-12-21
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20261221-20261221-2026-12-21-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2026-12-21–2026-12-21
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-21 — 2026-12-21
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20261222-20261222-2026-12-22-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2026-12-22–2026-12-22
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-22 — 2026-12-22
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20261222-20261222-2026-12-22-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2026-12-22–2026-12-22
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-22 — 2026-12-22
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270106-20270106-2027-01-06-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-06–2027-01-06
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-06 — 2027-01-06
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270106-20270106-2027-01-06-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-06–2027-01-06
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-06 — 2027-01-06
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270107-20270107-2027-01-07-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-07–2027-01-07
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-07 — 2027-01-07
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270107-20270107-2027-01-07-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-07–2027-01-07
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-07 — 2027-01-07
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270108-20270108-2027-01-08-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-08–2027-01-08
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-08 — 2027-01-08
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270108-20270108-2027-01-08-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-08–2027-01-08
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-08 — 2027-01-08
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270111-20270111-2027-01-11-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-11–2027-01-11
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-11 — 2027-01-11
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270111-20270111-2027-01-11-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-11–2027-01-11
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-11 — 2027-01-11
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270112-20270112-2027-01-12-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-12–2027-01-12
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-12 — 2027-01-12
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270112-20270112-2027-01-12-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-12–2027-01-12
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-12 — 2027-01-12
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270113-20270113-2027-01-13-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-13–2027-01-13
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-13 — 2027-01-13
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270113-20270113-2027-01-13-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-13–2027-01-13
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-13 — 2027-01-13
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270114-20270114-2027-01-14-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-14–2027-01-14
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-14 — 2027-01-14
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270114-20270114-2027-01-14-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-14–2027-01-14
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-14 — 2027-01-14
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270115-20270115-2027-01-15-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-15–2027-01-15
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-15 — 2027-01-15
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270115-20270115-2027-01-15-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-15–2027-01-15
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-15 — 2027-01-15
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270118-20270118-2027-01-18-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-18–2027-01-18
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-18 国 2027-01-18
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270118-20270118-2027-01-18-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-18–2027-01-18
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-18 国 2027-01-18
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270119-20270119-2027-01-19-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-19–2027-01-19
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-19 — 2027-01-19
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270119-20270119-2027-01-19-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-19–2027-01-19
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-19 — 2027-01-19
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270120-20270120-2027-01-20-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-20–2027-01-20
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-20 — 2027-01-20
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270120-20270120-2027-01-20-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-20–2027-01-20
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-20 — 2027-01-20
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270121-20270121-2027-01-21-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-21–2027-01-21
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-21 — 2027-01-21
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270121-20270121-2027-01-21-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-21–2027-01-21
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-21 — 2027-01-21
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270122-20270122-2027-01-22-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-22–2027-01-22
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-22 — 2027-01-22
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270122-20270122-2027-01-22-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-22–2027-01-22
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-22 — 2027-01-22
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270125-20270125-2027-01-25-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-25–2027-01-25
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-25 ♫ 2027-01-25
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270125-20270125-2027-01-25-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-25–2027-01-25
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-25 ♫ 2027-01-25
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270126-20270126-2027-01-26-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-26–2027-01-26
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-26 — 2027-01-26
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270126-20270126-2027-01-26-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-26–2027-01-26
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-26 — 2027-01-26
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270127-20270127-2027-01-27-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-27–2027-01-27
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-27 — 2027-01-27
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270127-20270127-2027-01-27-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-27–2027-01-27
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-27 — 2027-01-27
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270128-20270128-2027-01-28-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-28–2027-01-28
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-28 — 2027-01-28
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270128-20270128-2027-01-28-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-28–2027-01-28
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-28 — 2027-01-28
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270129-20270129-2027-01-29-short · SCRATCHPAD · Let Us Code · Día de 09:00 a 15:00 · 2027-01-29–2027-01-29
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-29 — 2027-01-29
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1270-20270129-20270129-2027-01-29-long · SCRATCHPAD · Let Us Code · Día de 09:00 a 17:00 · 2027-01-29–2027-01-29
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-29 — 2027-01-29
+edad: Desde 5 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: Sí por edad. Confirmar sede, plazas y nivel de inglés. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
+Se ha comprobado: 2026-11-07
+
+### CP1272-20261218-20261218-2026-12-18-short · SCRATCHPAD · Edison Robotics · Día de 09:00 a 15:00 · 2026-12-18–2026-12-18
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-18 — 2026-12-18
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: Alquiler de Edison por NZD 10 adicionales según la ficha. Recepción temprana NZD 25. Traer comida. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/code-bot-program-edison-robot/
+Se ha comprobado: 2026-11-07
+
+### CP1272-20261218-20261218-2026-12-18-long · SCRATCHPAD · Edison Robotics · Día de 09:00 a 17:00 · 2026-12-18–2026-12-18
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-18 — 2026-12-18
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: Alquiler de Edison por NZD 10 adicionales según la ficha. Recepción temprana NZD 25. Traer comida. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/code-bot-program-edison-robot/
+Se ha comprobado: 2026-11-07
+
+### CP1272-20270122-20270122-2027-01-22-short · SCRATCHPAD · Edison Robotics · Día de 09:00 a 15:00 · 2027-01-22–2027-01-22
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-22 — 2027-01-22
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: Alquiler de Edison por NZD 10 adicionales según la ficha. Recepción temprana NZD 25. Traer comida. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/code-bot-program-edison-robot/
+Se ha comprobado: 2026-11-07
+
+### CP1272-20270122-20270122-2027-01-22-long · SCRATCHPAD · Edison Robotics · Día de 09:00 a 17:00 · 2027-01-22–2027-01-22
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-22 — 2027-01-22
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: Alquiler de Edison por NZD 10 adicionales según la ficha. Recepción temprana NZD 25. Traer comida. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/code-bot-program-edison-robot/
+Se ha comprobado: 2026-11-07
+
 ### CP1276-20270103-20270108-summer · Tōtara Springs · Summer Family Camp B · Summer Family Camp B · 2027-01-03–2027-01-08
 
 Lugar: Nueva Zelandia Matamata · Tōtara Springs
@@ -73204,6 +74148,294 @@ Precio: 2026/27 · JPY 43560 por menor por 3 días. Pago por transferencia banca
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Sí por el rango publicado. El centro admite a menores del extranjero. Confirmar curso y plaza. Oscar: Sí por el rango publicado. El centro admite a menores del extranjero. Confirmar curso y plaza. Suplementos: La familia deja y recoge al menor. Alojamiento y transporte aparte. Pago: Las reglas incluyen una escala de cancelación. Confirmar el reembolso exacto antes del pago.
 Fuente: https://tokyo.ymca.or.jp/language/2026/10/ymcathree-days-in-tokyo-a-holiday-at-steam-seasonal-schoolymca3steam.html
+Se ha comprobado: 2026-11-07
+
+### CP1879-20261221-20261221-2026-12-21-short · SCRATCHPAD · Roblox Studio · Día de 09:00 a 15:00 · 2026-12-21–2026-12-21
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-21 — 2026-12-21
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/develop-games-roblox/
+Se ha comprobado: 2026-11-07
+
+### CP1879-20261221-20261221-2026-12-21-long · SCRATCHPAD · Roblox Studio · Día de 09:00 a 17:00 · 2026-12-21–2026-12-21
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-21 — 2026-12-21
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/develop-games-roblox/
+Se ha comprobado: 2026-11-07
+
+### CP1879-20270106-20270106-2027-01-06-short · SCRATCHPAD · Roblox Studio · Día de 09:00 a 15:00 · 2027-01-06–2027-01-06
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-06 — 2027-01-06
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/develop-games-roblox/
+Se ha comprobado: 2026-11-07
+
+### CP1879-20270106-20270106-2027-01-06-long · SCRATCHPAD · Roblox Studio · Día de 09:00 a 17:00 · 2027-01-06–2027-01-06
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-06 — 2027-01-06
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/develop-games-roblox/
+Se ha comprobado: 2026-11-07
+
+### CP1879-20270111-20270111-2027-01-11-short · SCRATCHPAD · Roblox Studio · Día de 09:00 a 15:00 · 2027-01-11–2027-01-11
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-11 — 2027-01-11
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/develop-games-roblox/
+Se ha comprobado: 2026-11-07
+
+### CP1879-20270111-20270111-2027-01-11-long · SCRATCHPAD · Roblox Studio · Día de 09:00 a 17:00 · 2027-01-11–2027-01-11
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-11 — 2027-01-11
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/develop-games-roblox/
+Se ha comprobado: 2026-11-07
+
+### CP1879-20270118-20270118-2027-01-18-short · SCRATCHPAD · Roblox Studio · Día de 09:00 a 15:00 · 2027-01-18–2027-01-18
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-18 国 2027-01-18
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/develop-games-roblox/
+Se ha comprobado: 2026-11-07
+
+### CP1879-20270118-20270118-2027-01-18-long · SCRATCHPAD · Roblox Studio · Día de 09:00 a 17:00 · 2027-01-18–2027-01-18
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-18 国 2027-01-18
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/develop-games-roblox/
+Se ha comprobado: 2026-11-07
+
+### CP1879-20270125-20270125-2027-01-25-short · SCRATCHPAD · Roblox Studio · Día de 09:00 a 15:00 · 2027-01-25–2027-01-25
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-25 ♫ 2027-01-25
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/develop-games-roblox/
+Se ha comprobado: 2026-11-07
+
+### CP1879-20270125-20270125-2027-01-25-long · SCRATCHPAD · Roblox Studio · Día de 09:00 a 17:00 · 2027-01-25–2027-01-25
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-25 ♫ 2027-01-25
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/develop-games-roblox/
+Se ha comprobado: 2026-11-07
+
+### CP1880-20270119-20270119-2027-01-19-short · SCRATCHPAD · Machine Learning for Kids · Día de 09:00 a 15:00 · 2027-01-19–2027-01-19
+
+Lugar: Nueva Zelandia Auckland · St Lukes / Botany / Royal Oak
+Fecha: 2027-01-19 — 2027-01-19
+edad: Desde 8 años. No se requiere experiencia en programación.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 115 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 8 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/machine-learning/
+Se ha comprobado: 2026-11-07
+
+### CP1880-20270119-20270119-2027-01-19-long · SCRATCHPAD · Machine Learning for Kids · Día de 09:00 a 17:00 · 2027-01-19–2027-01-19
+
+Lugar: Nueva Zelandia Auckland · St Lukes / Botany / Royal Oak
+Fecha: 2027-01-19 — 2027-01-19
+edad: Desde 8 años. No se requiere experiencia en programación.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 125 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 8 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/machine-learning/
+Se ha comprobado: 2026-11-07
+
+### CP1881-20261123-20261126-2026-11-23-morning · Little Earth · Digital Art and Coding · Digital Art and Coding · 2026-11-23–2026-11-26
+
+Lugar: Singapur Tampines / Kovan · elegir sede
+Fecha: 2026-11-23 — 2026-11-26
+edad: De 3.º a 6.º de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar equivalencia de 3.º curso e idioma de clase. Oscar: No por el nivel escolar actual. Se exige 3.º curso o superior. Suplementos: La tarifa exacta de la convocatoria elegida no está confirmada. Pago: La tarifa exacta de la convocatoria elegida no está confirmada.
+Fuente: https://www.littleeartheducation.com/holiday-programmes/digital-art-coding-2026
+Se ha comprobado: 2026-11-07
+
+### CP1881-20261207-20261210-2026-12-07-morning · Little Earth · Digital Art and Coding · Digital Art and Coding · 2026-12-07–2026-12-10
+
+Lugar: Singapur Tampines / Kovan · elegir sede
+Fecha: 2026-12-07 — 2026-12-10
+edad: De 3.º a 6.º de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar equivalencia de 3.º curso e idioma de clase. Oscar: No por el nivel escolar actual. Se exige 3.º curso o superior. Suplementos: La tarifa exacta de la convocatoria elegida no está confirmada. Pago: La tarifa exacta de la convocatoria elegida no está confirmada.
+Fuente: https://www.littleeartheducation.com/holiday-programmes/digital-art-coding-2026
+Se ha comprobado: 2026-11-07
+
+### CP1882-20261123-20261127-2026-11-23-full · Little Earth · Full-Day Holiday Programme · Full Day · 2026-11-23–2026-11-27
+
+Lugar: Singapur Tampines / Kovan / Bishan / Bukit Timah · elegir sede
+Fecha: 2026-11-23 国 2026-11-27
+edad: De K2 a 6.º de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Oscar: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Suplementos: La tarifa exacta de la convocatoria elegida no está confirmada. Pago: La tarifa exacta de la convocatoria elegida no está confirmada.
+Fuente: https://www.littleeartheducation.com/holiday-programmes
+Se ha comprobado: 2026-11-07
+
+### CP1882-20261130-20261204-2026-11-30-full · Little Earth · Full-Day Holiday Programme · Full Day · 2026-11-30–2026-12-04
+
+Lugar: Singapur Tampines / Kovan / Bishan / Bukit Timah · elegir sede
+Fecha: 2026-11-30 — 2026-12-04
+edad: De K2 a 6.º de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Oscar: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Suplementos: La tarifa exacta de la convocatoria elegida no está confirmada. Pago: La tarifa exacta de la convocatoria elegida no está confirmada.
+Fuente: https://www.littleeartheducation.com/holiday-programmes
+Se ha comprobado: 2026-11-07
+
+### CP1882-20261207-20261211-2026-12-07-full · Little Earth · Full-Day Holiday Programme · Full Day · 2026-12-07–2026-12-11
+
+Lugar: Singapur Tampines / Kovan / Bishan / Bukit Timah · elegir sede
+Fecha: 2026-12-07 — 2026-12-11
+edad: De K2 a 6.º de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Oscar: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Suplementos: La tarifa exacta de la convocatoria elegida no está confirmada. Pago: La tarifa exacta de la convocatoria elegida no está confirmada.
+Fuente: https://www.littleeartheducation.com/holiday-programmes
+Se ha comprobado: 2026-11-07
+
+### CP1882-20261214-20261218-2026-12-14-full · Little Earth · Full-Day Holiday Programme · Full Day · 2026-12-14–2026-12-18
+
+Lugar: Singapur Tampines / Kovan / Bishan / Bukit Timah · elegir sede
+Fecha: 2026-12-14 - 2026-12-18
+edad: De K2 a 6.º de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Oscar: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Suplementos: La tarifa exacta de la convocatoria elegida no está confirmada. Pago: La tarifa exacta de la convocatoria elegida no está confirmada.
+Fuente: https://www.littleeartheducation.com/holiday-programmes
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1877,
-    "countries": 122,
+    "dossiers": 1882,
+    "countries": 123,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 261,
-      "published_2027": 510,
+      "published_2026_27": 264,
+      "published_2027": 511,
       "partial_2027": 141,
-      "next_unannounced": 398,
-      "published_2026": 343,
+      "next_unannounced": 397,
+      "published_2026": 345,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 142,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2742
+    "source_urls": 2748
   },
   "countries": [
     {
@@ -345,7 +345,7 @@
     },
     {
       "country": "Новая Зеландия",
-      "count": 18
+      "count": 20
     },
     {
       "country": "Новая Каледония",
@@ -362,6 +362,10 @@
     {
       "country": "Острова Кука",
       "count": 3
+    },
+    {
+      "country": "Палау",
+      "count": 1
     },
     {
       "country": "Панама",
@@ -421,7 +425,7 @@
     },
     {
       "country": "Сингапур",
-      "count": 176
+      "count": 178
     },
     {
       "country": "Сьерра-Леоне",
@@ -177800,76 +177804,1758 @@
     {
       "id": "CP1270",
       "slug": "scratchpad-nz-code5",
-      "provider": "SCRATCHPAD · Roll Up Your Sleeves · Let Us Code",
+      "provider": "SCRATCHPAD · Let Us Code",
       "iso": "NZL",
       "country": "Новая Зеландия",
-      "place": "Auckland / Christchurch · конкретный центр и слот выбрать",
+      "place": "Auckland / Christchurch · выбрать филиал",
       "themes": [
         "coding",
-        "games"
+        "technology"
       ],
       "formats": [
         "day"
       ],
-      "age": "5+",
-      "programme": "Короткий технический holiday workshop. Coding 5+ — начальное знакомство; mBot — программирование датчиков, препятствий и линии; Edison — робототехника; AI — создание видеорассказа; 3D — моделирование и печать. Уровень после трёх лет соревнований оценить отдельно.",
-      "language": "Собственные terms Course Delivery прямо: обучение на английском, нужны письменный / разговорный English и участие в групповых обсуждениях / презентациях. EN подтверждён для преподавания, не только для сайта.",
+      "age": "От 5 лет.",
+      "programme": "Блочное программирование и первые интерактивные проекты.",
+      "language": "Преподавание на английском. Требуются устный и письменный английский для работы в группе.",
       "confirmed_instruction_languages": [
         "EN"
       ],
       "language_evidence_role": "primary",
       "timing": {
-        "status": "next_unannounced",
-        "label": "Общая holiday-сетка содержит December / January без года; фактические product options местами расходятся с общей сеткой. У AI product стоит SEP 29, хотя общий список говорит JAN 26. Год и доступность отдельных вариантов не подтверждены; операционных дат нет.",
-        "sessions": [],
-        "session_details": [],
-        "variant_keyed": true
+        "status": "published_2026_27",
+        "label": "Дневные варианты декабря 2026 и января 2027. Даты рассчитаны по неделям и сверены с карточками.",
+        "session_details": [
+          {
+            "variant_key": "2026-12-15-short",
+            "start": "2026-12-15",
+            "end": "2026-12-15",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2026-12-14T20:00:00Z",
+                "end_utc": "2026-12-15T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2026-12-15-long",
+            "start": "2026-12-15",
+            "end": "2026-12-15",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2026-12-14T20:00:00Z",
+                "end_utc": "2026-12-15T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2026-12-16-short",
+            "start": "2026-12-16",
+            "end": "2026-12-16",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2026-12-15T20:00:00Z",
+                "end_utc": "2026-12-16T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2026-12-16-long",
+            "start": "2026-12-16",
+            "end": "2026-12-16",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2026-12-15T20:00:00Z",
+                "end_utc": "2026-12-16T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2026-12-17-short",
+            "start": "2026-12-17",
+            "end": "2026-12-17",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2026-12-16T20:00:00Z",
+                "end_utc": "2026-12-17T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2026-12-17-long",
+            "start": "2026-12-17",
+            "end": "2026-12-17",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2026-12-16T20:00:00Z",
+                "end_utc": "2026-12-17T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2026-12-18-short",
+            "start": "2026-12-18",
+            "end": "2026-12-18",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2026-12-17T20:00:00Z",
+                "end_utc": "2026-12-18T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2026-12-18-long",
+            "start": "2026-12-18",
+            "end": "2026-12-18",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2026-12-17T20:00:00Z",
+                "end_utc": "2026-12-18T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2026-12-21-short",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2026-12-20T20:00:00Z",
+                "end_utc": "2026-12-21T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2026-12-21-long",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2026-12-20T20:00:00Z",
+                "end_utc": "2026-12-21T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2026-12-22-short",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2026-12-21T20:00:00Z",
+                "end_utc": "2026-12-22T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2026-12-22-long",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2026-12-21T20:00:00Z",
+                "end_utc": "2026-12-22T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-06-short",
+            "start": "2027-01-06",
+            "end": "2027-01-06",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-05T20:00:00Z",
+                "end_utc": "2027-01-06T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-06-long",
+            "start": "2027-01-06",
+            "end": "2027-01-06",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-05T20:00:00Z",
+                "end_utc": "2027-01-06T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-07-short",
+            "start": "2027-01-07",
+            "end": "2027-01-07",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-06T20:00:00Z",
+                "end_utc": "2027-01-07T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-07-long",
+            "start": "2027-01-07",
+            "end": "2027-01-07",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-06T20:00:00Z",
+                "end_utc": "2027-01-07T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-08-short",
+            "start": "2027-01-08",
+            "end": "2027-01-08",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-07T20:00:00Z",
+                "end_utc": "2027-01-08T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-08-long",
+            "start": "2027-01-08",
+            "end": "2027-01-08",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-07T20:00:00Z",
+                "end_utc": "2027-01-08T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-11-short",
+            "start": "2027-01-11",
+            "end": "2027-01-11",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-10T20:00:00Z",
+                "end_utc": "2027-01-11T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-11-long",
+            "start": "2027-01-11",
+            "end": "2027-01-11",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-10T20:00:00Z",
+                "end_utc": "2027-01-11T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-12-short",
+            "start": "2027-01-12",
+            "end": "2027-01-12",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-11T20:00:00Z",
+                "end_utc": "2027-01-12T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-12-long",
+            "start": "2027-01-12",
+            "end": "2027-01-12",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-11T20:00:00Z",
+                "end_utc": "2027-01-12T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-13-short",
+            "start": "2027-01-13",
+            "end": "2027-01-13",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-13",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-12T20:00:00Z",
+                "end_utc": "2027-01-13T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-13-long",
+            "start": "2027-01-13",
+            "end": "2027-01-13",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-13",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-12T20:00:00Z",
+                "end_utc": "2027-01-13T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-14-short",
+            "start": "2027-01-14",
+            "end": "2027-01-14",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-13T20:00:00Z",
+                "end_utc": "2027-01-14T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-14-long",
+            "start": "2027-01-14",
+            "end": "2027-01-14",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-13T20:00:00Z",
+                "end_utc": "2027-01-14T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-15-short",
+            "start": "2027-01-15",
+            "end": "2027-01-15",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-14T20:00:00Z",
+                "end_utc": "2027-01-15T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-15-long",
+            "start": "2027-01-15",
+            "end": "2027-01-15",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-14T20:00:00Z",
+                "end_utc": "2027-01-15T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-18-short",
+            "start": "2027-01-18",
+            "end": "2027-01-18",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-17T20:00:00Z",
+                "end_utc": "2027-01-18T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-18-long",
+            "start": "2027-01-18",
+            "end": "2027-01-18",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-17T20:00:00Z",
+                "end_utc": "2027-01-18T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-19-short",
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-18T20:00:00Z",
+                "end_utc": "2027-01-19T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-19-long",
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-18T20:00:00Z",
+                "end_utc": "2027-01-19T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-20-short",
+            "start": "2027-01-20",
+            "end": "2027-01-20",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-20",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-19T20:00:00Z",
+                "end_utc": "2027-01-20T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-20-long",
+            "start": "2027-01-20",
+            "end": "2027-01-20",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-20",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-19T20:00:00Z",
+                "end_utc": "2027-01-20T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-21-short",
+            "start": "2027-01-21",
+            "end": "2027-01-21",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-20T20:00:00Z",
+                "end_utc": "2027-01-21T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-21-long",
+            "start": "2027-01-21",
+            "end": "2027-01-21",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-20T20:00:00Z",
+                "end_utc": "2027-01-21T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-22-short",
+            "start": "2027-01-22",
+            "end": "2027-01-22",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-21T20:00:00Z",
+                "end_utc": "2027-01-22T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-22-long",
+            "start": "2027-01-22",
+            "end": "2027-01-22",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-21T20:00:00Z",
+                "end_utc": "2027-01-22T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-25-short",
+            "start": "2027-01-25",
+            "end": "2027-01-25",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-24T20:00:00Z",
+                "end_utc": "2027-01-25T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-25-long",
+            "start": "2027-01-25",
+            "end": "2027-01-25",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-24T20:00:00Z",
+                "end_utc": "2027-01-25T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-26-short",
+            "start": "2027-01-26",
+            "end": "2027-01-26",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-25T20:00:00Z",
+                "end_utc": "2027-01-26T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-26-long",
+            "start": "2027-01-26",
+            "end": "2027-01-26",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-25T20:00:00Z",
+                "end_utc": "2027-01-26T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-27-short",
+            "start": "2027-01-27",
+            "end": "2027-01-27",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-26T20:00:00Z",
+                "end_utc": "2027-01-27T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-27-long",
+            "start": "2027-01-27",
+            "end": "2027-01-27",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-26T20:00:00Z",
+                "end_utc": "2027-01-27T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-28-short",
+            "start": "2027-01-28",
+            "end": "2027-01-28",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-27T20:00:00Z",
+                "end_utc": "2027-01-28T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-28-long",
+            "start": "2027-01-28",
+            "end": "2027-01-28",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-27T20:00:00Z",
+                "end_utc": "2027-01-28T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-29-short",
+            "start": "2027-01-29",
+            "end": "2027-01-29",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-28T20:00:00Z",
+                "end_utc": "2027-01-29T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-29-long",
+            "start": "2027-01-29",
+            "end": "2027-01-29",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Блочное программирование и первые интерактивные проекты.",
+                "start_utc": "2027-01-28T20:00:00Z",
+                "end_utc": "2027-01-29T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-12-15",
+            "2026-12-15"
+          ],
+          [
+            "2026-12-15",
+            "2026-12-15"
+          ],
+          [
+            "2026-12-16",
+            "2026-12-16"
+          ],
+          [
+            "2026-12-16",
+            "2026-12-16"
+          ],
+          [
+            "2026-12-17",
+            "2026-12-17"
+          ],
+          [
+            "2026-12-17",
+            "2026-12-17"
+          ],
+          [
+            "2026-12-18",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-18",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2027-01-06",
+            "2027-01-06"
+          ],
+          [
+            "2027-01-06",
+            "2027-01-06"
+          ],
+          [
+            "2027-01-07",
+            "2027-01-07"
+          ],
+          [
+            "2027-01-07",
+            "2027-01-07"
+          ],
+          [
+            "2027-01-08",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-08",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-11"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-11"
+          ],
+          [
+            "2027-01-12",
+            "2027-01-12"
+          ],
+          [
+            "2027-01-12",
+            "2027-01-12"
+          ],
+          [
+            "2027-01-13",
+            "2027-01-13"
+          ],
+          [
+            "2027-01-13",
+            "2027-01-13"
+          ],
+          [
+            "2027-01-14",
+            "2027-01-14"
+          ],
+          [
+            "2027-01-14",
+            "2027-01-14"
+          ],
+          [
+            "2027-01-15",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-15",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-18"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-18"
+          ],
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ],
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ],
+          [
+            "2027-01-20",
+            "2027-01-20"
+          ],
+          [
+            "2027-01-20",
+            "2027-01-20"
+          ],
+          [
+            "2027-01-21",
+            "2027-01-21"
+          ],
+          [
+            "2027-01-21",
+            "2027-01-21"
+          ],
+          [
+            "2027-01-22",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-22",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-25"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-25"
+          ],
+          [
+            "2027-01-26",
+            "2027-01-26"
+          ],
+          [
+            "2027-01-26",
+            "2027-01-26"
+          ],
+          [
+            "2027-01-27",
+            "2027-01-27"
+          ],
+          [
+            "2027-01-27",
+            "2027-01-27"
+          ],
+          [
+            "2027-01-28",
+            "2027-01-28"
+          ],
+          [
+            "2027-01-28",
+            "2027-01-28"
+          ],
+          [
+            "2027-01-29",
+            "2027-01-29"
+          ],
+          [
+            "2027-01-29",
+            "2027-01-29"
+          ]
+        ]
       },
       "price": {
         "year": null,
         "currency": "NZD",
         "amount": null,
-        "unit": "selected_option",
-        "label": "Диапазон product options NZD 110–145, GST включён. Длительность 09–15 / 09–17, ранний drop-off и аренда робота меняют пакет; не единый тариф и не гарантия места.",
-        "included": "Состав техники и материалов выбранной опции подтвердить; у mBot / Edison есть Bring Your Own либо Rent. Аренда и покупка робота — разные условия.",
-        "extras": "Дорога, внешнее жильё семьи, питание вне включений и итоговые сборы отдельно; неизвестная сумма не ноль.",
-        "deposit": "Holiday policy: отмена до 7 дней — возврат минус NZD 25; внутри 7 дней без возврата. Пропуски не возвращаются; неожиданная болезнь может дать кредит на 6 месяцев. В другой части описана оценка после первого дня с уведомлением за 6 часов до второго; применимость к однодневной программе согласовать. Договор не принимался."
+        "unit": "day",
+        "label": "NZD 110 за день 09:00–15:00 или NZD 120 за день 09:00–17:00, GST включён.",
+        "included": "Питание и перекус принести. Ранний приём платный.",
+        "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+        "deposit": "Проверить условия отмены на странице оператора перед оплатой."
       },
       "accommodation": "Дневная программа без пансиона.",
       "family_fit": {
         "matvey": {
           "status": "candidate",
-          "detail": "На дату этой смены нужен опубликованный диапазон и соответствующий уровень. В конце 2026 семье известны возраста 9 и 6; в 2027 возможны 9–10 и 6–7, точные дни рождения неизвестны. Условия группы и место отдельно."
+          "detail": "Да по возрасту. Подтвердить филиал, места и уровень английского."
         },
         "oscar": {
           "status": "candidate",
-          "detail": "На дату этой смены нужен опубликованный диапазон и соответствующий уровень. В конце 2026 семье известны возраста 9 и 6; в 2027 возможны 9–10 и 6–7, точные дни рождения неизвестны. Условия группы и место отдельно."
+          "detail": "Да по возрасту. Подтвердить филиал, места и уровень английского."
         }
       },
-      "editorial_reason": "Редакционный кандидат по содержанию, возрасту и прозрачности условий; независимый мировой рейтинг качества не установлен. Учебный проект / показ / сертификат не международная конкурсная медаль.",
+      "editorial_reason": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи.",
       "shortlist": [],
       "questions": [
-        "Подтвердить индивидуальный иностранный приём, язык, уровень после трёх лет соревнований, место и полный счёт. Формы, согласия, сообщения, брони и оплаты не выполнялись.",
-        "Проверить конкретный год и вариант: часть JSON-вариантов помечена out of stock, это не означает закрытие всей сети. В корзину ничего не добавлялось."
+        "Для двух детей сверить наличие мест на один день в одном филиале.",
+        "Ряд комбинаций в St Lukes отмечен заполненным. Доступность других филиалов уточнить."
       ],
       "sources": [
         {
-          "title": "Roll Up Your Sleeves · Let Us Code",
           "url": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
-          "checked": "2026-11-05"
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
         },
         {
-          "title": "Возрастные категории общей holiday-сетки",
           "url": "https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/",
-          "checked": "2026-11-05"
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
         },
         {
-          "title": "Английское преподавание и holiday cancellation",
           "url": "https://scratchpad.co.nz/registration-terms-conditions/",
-          "checked": "2026-11-05"
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-05"
+      "checked": "2026-11-07"
     },
     {
       "id": "CP1271",
@@ -177951,73 +179637,216 @@
       "provider": "SCRATCHPAD · Edison Robotics",
       "iso": "NZL",
       "country": "Новая Зеландия",
-      "place": "Auckland / Christchurch · конкретный центр и слот выбрать",
+      "place": "Auckland / Christchurch · выбрать филиал",
       "themes": [
+        "robotics",
         "coding",
-        "robotics"
+        "technology"
       ],
       "formats": [
         "day"
       ],
-      "age": "7+",
-      "programme": "Короткий технический holiday workshop. Coding 5+ — начальное знакомство; mBot — программирование датчиков, препятствий и линии; Edison — робототехника; AI — создание видеорассказа; 3D — моделирование и печать. Уровень после трёх лет соревнований оценить отдельно.",
-      "language": "Собственные terms Course Delivery прямо: обучение на английском, нужны письменный / разговорный English и участие в групповых обсуждениях / презентациях. EN подтверждён для преподавания, не только для сайта.",
+      "age": "От 7 лет.",
+      "programme": "Программирование Edison для линии, препятствий и команд управления.",
+      "language": "Преподавание на английском. Требуются устный и письменный английский для работы в группе.",
       "confirmed_instruction_languages": [
         "EN"
       ],
       "language_evidence_role": "primary",
       "timing": {
-        "status": "next_unannounced",
-        "label": "Общая holiday-сетка содержит December / January без года; фактические product options местами расходятся с общей сеткой. У AI product стоит SEP 29, хотя общий список говорит JAN 26. Год и доступность отдельных вариантов не подтверждены; операционных дат нет.",
-        "sessions": [],
-        "session_details": [],
-        "variant_keyed": true
+        "status": "published_2026_27",
+        "label": "Дневные варианты декабря 2026 и января 2027. Даты рассчитаны по неделям и сверены с карточками.",
+        "session_details": [
+          {
+            "variant_key": "2026-12-18-short",
+            "start": "2026-12-18",
+            "end": "2026-12-18",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/code-bot-program-edison-robot/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Программирование Edison для линии, препятствий и команд управления.",
+                "start_utc": "2026-12-17T20:00:00Z",
+                "end_utc": "2026-12-18T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "Аренда Edison добавляет NZD 10 по карточке. Ранний приём NZD 25. Питание принести.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2026-12-18-long",
+            "start": "2026-12-18",
+            "end": "2026-12-18",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/code-bot-program-edison-robot/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Программирование Edison для линии, препятствий и команд управления.",
+                "start_utc": "2026-12-17T20:00:00Z",
+                "end_utc": "2026-12-18T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "Аренда Edison добавляет NZD 10 по карточке. Ранний приём NZD 25. Питание принести.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-22-short",
+            "start": "2027-01-22",
+            "end": "2027-01-22",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/code-bot-program-edison-robot/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Программирование Edison для линии, препятствий и команд управления.",
+                "start_utc": "2027-01-21T20:00:00Z",
+                "end_utc": "2027-01-22T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "Аренда Edison добавляет NZD 10 по карточке. Ранний приём NZD 25. Питание принести.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-22-long",
+            "start": "2027-01-22",
+            "end": "2027-01-22",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/code-bot-program-edison-robot/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Программирование Edison для линии, препятствий и команд управления.",
+                "start_utc": "2027-01-21T20:00:00Z",
+                "end_utc": "2027-01-22T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "Аренда Edison добавляет NZD 10 по карточке. Ранний приём NZD 25. Питание принести.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-12-18",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-18",
+            "2026-12-18"
+          ],
+          [
+            "2027-01-22",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-22",
+            "2027-01-22"
+          ]
+        ]
       },
       "price": {
         "year": null,
         "currency": "NZD",
         "amount": null,
-        "unit": "selected_option",
-        "label": "Диапазон product options NZD 110–155, GST включён. Длительность 09–15 / 09–17, ранний drop-off и аренда робота меняют пакет; не единый тариф и не гарантия места.",
-        "included": "Состав техники и материалов выбранной опции подтвердить; у mBot / Edison есть Bring Your Own либо Rent. Аренда и покупка робота — разные условия.",
-        "extras": "Дорога, внешнее жильё семьи, питание вне включений и итоговые сборы отдельно; неизвестная сумма не ноль.",
-        "deposit": "Holiday policy: отмена до 7 дней — возврат минус NZD 25; внутри 7 дней без возврата. Пропуски не возвращаются; неожиданная болезнь может дать кредит на 6 месяцев. В другой части описана оценка после первого дня с уведомлением за 6 часов до второго; применимость к однодневной программе согласовать. Договор не принимался."
+        "unit": "day",
+        "label": "Со своим Edison NZD 110 до 15:00 или NZD 120 до 17:00, GST включён.",
+        "included": "Питание и перекус принести. Ранний приём платный.",
+        "extras": "Аренда Edison добавляет NZD 10 по карточке. Ранний приём NZD 25. Питание принести.",
+        "deposit": "Проверить условия отмены на странице оператора перед оплатой."
       },
       "accommodation": "Дневная программа без пансиона.",
       "family_fit": {
         "matvey": {
           "status": "candidate",
-          "detail": "На дату этой смены нужен опубликованный диапазон и соответствующий уровень. В конце 2026 семье известны возраста 9 и 6; в 2027 возможны 9–10 и 6–7, точные дни рождения неизвестны. Условия группы и место отдельно."
+          "detail": "Да по возрасту. Подтвердить филиал, места и уровень английского."
         },
         "oscar": {
-          "status": "conditional",
-          "detail": "На дату этой смены нужен опубликованный диапазон и соответствующий уровень. В конце 2026 семье известны возраста 9 и 6; в 2027 возможны 9–10 и 6–7, точные дни рождения неизвестны. Условия группы и место отдельно."
+          "status": "not_eligible",
+          "detail": "Нет. Опубликованный минимум 7 лет."
         }
       },
-      "editorial_reason": "Редакционный кандидат по содержанию, возрасту и прозрачности условий; независимый мировой рейтинг качества не установлен. Учебный проект / показ / сертификат не международная конкурсная медаль.",
+      "editorial_reason": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи.",
       "shortlist": [],
       "questions": [
-        "Подтвердить индивидуальный иностранный приём, язык, уровень после трёх лет соревнований, место и полный счёт. Формы, согласия, сообщения, брони и оплаты не выполнялись.",
-        "Проверить конкретный год и вариант: часть JSON-вариантов помечена out of stock, это не означает закрытие всей сети. В корзину ничего не добавлялось."
+        "Для двух детей сверить наличие мест на один день в одном филиале.",
+        "Ряд комбинаций в St Lukes отмечен заполненным. Доступность других филиалов уточнить."
       ],
       "sources": [
         {
-          "title": "Edison Robotics",
           "url": "https://scratchpad.co.nz/product/code-bot-program-edison-robot/",
-          "checked": "2026-11-05"
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
         },
         {
-          "title": "Возрастные категории общей holiday-сетки",
           "url": "https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/",
-          "checked": "2026-11-05"
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
         },
         {
-          "title": "Английское преподавание и holiday cancellation",
           "url": "https://scratchpad.co.nz/registration-terms-conditions/",
-          "checked": "2026-11-05"
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-05"
+      "checked": "2026-11-07"
     },
     {
       "id": "CP1273",
@@ -278724,6 +280553,1199 @@
       "programme_type": "day_camp",
       "catalog_participation": "day_camp",
       "language_evidence_role": "primary"
+    },
+    {
+      "id": "CP1878",
+      "slug": "picrc-ocean-explorers",
+      "provider": "PICRC Ocean Explorers · Underwater Robotics",
+      "country": "Палау",
+      "iso": "PLW",
+      "place": "PICRC · Koror",
+      "age": "Для учащихся средней школы по описанию организатора.",
+      "programme": "Сборка и управление подводным роботом, аквариум и занятия с учёными центра.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Язык преподавания конкретной группы не указан. Подтвердить EN или ES перед записью.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "next_unannounced",
+        "label": "На текущей странице отсутствуют даты, цена и язык технических занятий.",
+        "session_details": [],
+        "variant_keyed": true,
+        "sessions": []
+      },
+      "price": {
+        "year": null,
+        "label": "Точный тариф выбранного набора не подтверждён.",
+        "included": "Сборка и управление подводным роботом, аквариум и занятия с учёными центра.",
+        "extras": "Точный тариф выбранного набора не подтверждён.",
+        "deposit": "Точный тариф выбранного набора не подтверждён."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по текущему школьному уровню. Программа рассчитана на среднюю школу."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по текущему школьному уровню. Программа рассчитана на среднюю школу."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Школьный формат. Условия приёма зарубежных детей и критерии набора пока не опубликованы."
+      ],
+      "sources": [
+        {
+          "url": "https://picrc.org/work/intersession-summer-programs/",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://picrc.org/picrc-launches-new-student-program-on-building-underwater-robots/",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1879",
+      "slug": "scratchpad-nz-roblox-2026-27",
+      "provider": "SCRATCHPAD · Roblox Studio",
+      "country": "Новая Зеландия",
+      "iso": "NZL",
+      "place": "Auckland / Christchurch · выбрать филиал",
+      "age": "От 9 лет.",
+      "programme": "Разработка мира и программирование игры в Roblox Studio.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Преподавание на английском. Требуются устный и письменный английский для работы в группе.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Дневные варианты декабря 2026 и января 2027. Даты рассчитаны по неделям и сверены с карточками.",
+        "session_details": [
+          {
+            "variant_key": "2026-12-21-short",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Разработка мира и программирование игры в Roblox Studio.",
+                "start_utc": "2026-12-20T20:00:00Z",
+                "end_utc": "2026-12-21T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2026-12-21-long",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Разработка мира и программирование игры в Roblox Studio.",
+                "start_utc": "2026-12-20T20:00:00Z",
+                "end_utc": "2026-12-21T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-06-short",
+            "start": "2027-01-06",
+            "end": "2027-01-06",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Разработка мира и программирование игры в Roblox Studio.",
+                "start_utc": "2027-01-05T20:00:00Z",
+                "end_utc": "2027-01-06T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-06-long",
+            "start": "2027-01-06",
+            "end": "2027-01-06",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Разработка мира и программирование игры в Roblox Studio.",
+                "start_utc": "2027-01-05T20:00:00Z",
+                "end_utc": "2027-01-06T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-11-short",
+            "start": "2027-01-11",
+            "end": "2027-01-11",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Разработка мира и программирование игры в Roblox Studio.",
+                "start_utc": "2027-01-10T20:00:00Z",
+                "end_utc": "2027-01-11T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-11-long",
+            "start": "2027-01-11",
+            "end": "2027-01-11",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Разработка мира и программирование игры в Roblox Studio.",
+                "start_utc": "2027-01-10T20:00:00Z",
+                "end_utc": "2027-01-11T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-18-short",
+            "start": "2027-01-18",
+            "end": "2027-01-18",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Разработка мира и программирование игры в Roblox Studio.",
+                "start_utc": "2027-01-17T20:00:00Z",
+                "end_utc": "2027-01-18T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-18-long",
+            "start": "2027-01-18",
+            "end": "2027-01-18",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Разработка мира и программирование игры в Roblox Studio.",
+                "start_utc": "2027-01-17T20:00:00Z",
+                "end_utc": "2027-01-18T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-25-short",
+            "start": "2027-01-25",
+            "end": "2027-01-25",
+            "label": "День 09:00–15:00",
+            "price": "NZD 110 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Разработка мира и программирование игры в Roblox Studio.",
+                "start_utc": "2027-01-24T20:00:00Z",
+                "end_utc": "2027-01-25T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-25-long",
+            "start": "2027-01-25",
+            "end": "2027-01-25",
+            "label": "День 09:00–17:00",
+            "price": "NZD 120 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Разработка мира и программирование игры в Roblox Studio.",
+                "start_utc": "2027-01-24T20:00:00Z",
+                "end_utc": "2027-01-25T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · выбрать филиал",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2027-01-06",
+            "2027-01-06"
+          ],
+          [
+            "2027-01-06",
+            "2027-01-06"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-11"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-11"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-18"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-18"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-25"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-25"
+          ]
+        ]
+      },
+      "price": {
+        "year": null,
+        "currency": "NZD",
+        "amount": null,
+        "unit": "day",
+        "label": "NZD 110 за день 09:00–15:00 или NZD 120 за день 09:00–17:00, GST включён.",
+        "included": "Питание и перекус принести. Ранний приём платный.",
+        "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+        "deposit": "Проверить условия отмены на странице оператора перед оплатой."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить филиал, места и уровень английского."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет. Опубликованный минимум 9 лет."
+        }
+      },
+      "editorial_reason": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи.",
+      "shortlist": [],
+      "questions": [
+        "Для двух детей сверить наличие мест на один день в одном филиале.",
+        "Ряд комбинаций в St Lukes отмечен заполненным. Доступность других филиалов уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://scratchpad.co.nz/product/develop-games-roblox/",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://scratchpad.co.nz/registration-terms-conditions/",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "language_evidence_role": "primary"
+    },
+    {
+      "id": "CP1880",
+      "slug": "scratchpad-nz-machine-learning-2027",
+      "provider": "SCRATCHPAD · Machine Learning for Kids",
+      "country": "Новая Зеландия",
+      "iso": "NZL",
+      "place": "Auckland · St Lukes / Botany / Royal Oak",
+      "age": "От 8 лет. Опыт программирования не требуется.",
+      "programme": "Распознавание изображений и создание игры на основе модели машинного обучения.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Преподавание на английском. Требуются устный и письменный английский для работы в группе.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "19 января 2027 по расчёту недельной сетки. Есть два варианта длительности.",
+        "session_details": [
+          {
+            "variant_key": "2027-01-19-short",
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "label": "День 09:00–15:00",
+            "price": "NZD 115 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/machine-learning/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Распознавание изображений и создание игры на основе модели машинного обучения.",
+                "start_utc": "2027-01-18T20:00:00Z",
+                "end_utc": "2027-01-19T02:00:00Z"
+              }
+            ],
+            "place": "Auckland · St Lukes / Botany / Royal Oak",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          },
+          {
+            "variant_key": "2027-01-19-long",
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "label": "День 09:00–17:00",
+            "price": "NZD 125 за ребёнка за день с GST.",
+            "source": "https://scratchpad.co.nz/product/machine-learning/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Вариант есть в витрине. Наличие мест зависит от филиала."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Распознавание изображений и создание игры на основе модели машинного обучения.",
+                "start_utc": "2027-01-18T20:00:00Z",
+                "end_utc": "2027-01-19T04:00:00Z"
+              }
+            ],
+            "place": "Auckland · St Lukes / Botany / Royal Oak",
+            "entry": "Выбрать день, длительность и филиал. Наличие места и приём ребёнка подтвердить у оператора.",
+            "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+            "date_precision": "published_rule",
+            "date_status": "Опубликованное правило · даты рассчитаны",
+            "date_rule": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи."
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ],
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "NZD",
+        "amount": null,
+        "unit": "day",
+        "label": "NZD 115 за день 09:00–15:00 или NZD 125 за день 09:00–17:00, GST включён.",
+        "included": "Питание и перекус принести. Ранний приём платный.",
+        "extras": "GST включён. Ранний приём по карточке курса NZD 25. При выборе филиала проверить итоговый счёт.",
+        "deposit": "Проверить условия отмены на странице оператора перед оплатой."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить филиал, места и уровень английского."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет. Опубликованный минимум 8 лет."
+        }
+      },
+      "editorial_reason": "Год определён по сетке будней и обновлению 04.11.2026. Дни и часы сверены с вариантами записи.",
+      "shortlist": [],
+      "questions": [
+        "Для двух детей сверить наличие мест на один день в одном филиале.",
+        "Ряд комбинаций в St Lukes отмечен заполненным. Доступность других филиалов уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://scratchpad.co.nz/product/machine-learning/",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://scratchpad.co.nz/registration-terms-conditions/",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "ai",
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "language_evidence_role": "primary"
+    },
+    {
+      "id": "CP1881",
+      "slug": "little-earth-digital-art-coding-2026",
+      "provider": "Little Earth · Digital Art and Coding",
+      "country": "Сингапур",
+      "iso": "SGP",
+      "place": "Tampines / Kovan · выбрать филиал",
+      "age": "С 3 по 6 класс начальной школы.",
+      "programme": "Анимация, Scratch, робот с датчиками и HTML-игра с помощью ИИ.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Язык преподавания конкретной группы не указан. Подтвердить EN или ES перед записью.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "published_2026",
+        "label": "23–26 ноября или 7–10 декабря 2026, 10:00–12:30.",
+        "session_details": [
+          {
+            "variant_key": "2026-11-23-morning",
+            "start": "2026-11-23",
+            "end": "2026-11-26",
+            "label": "Digital Art and Coding",
+            "price": "Цена по запросу для выбранного филиала и блока.",
+            "source": "https://www.littleeartheducation.com/holiday-programmes/digital-art-coding-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Анимация, Scratch, робот с датчиками и HTML-игра с помощью ИИ.",
+                "start_utc": "2026-11-23T02:00:00Z",
+                "end_utc": "2026-11-23T04:30:00Z"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Анимация, Scratch, робот с датчиками и HTML-игра с помощью ИИ.",
+                "start_utc": "2026-11-24T02:00:00Z",
+                "end_utc": "2026-11-24T04:30:00Z"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Анимация, Scratch, робот с датчиками и HTML-игра с помощью ИИ.",
+                "start_utc": "2026-11-25T02:00:00Z",
+                "end_utc": "2026-11-25T04:30:00Z"
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Анимация, Scratch, робот с датчиками и HTML-игра с помощью ИИ.",
+                "start_utc": "2026-11-26T02:00:00Z",
+                "end_utc": "2026-11-26T04:30:00Z"
+              }
+            ],
+            "place": "Tampines / Kovan · выбрать филиал"
+          },
+          {
+            "variant_key": "2026-12-07-morning",
+            "start": "2026-12-07",
+            "end": "2026-12-10",
+            "label": "Digital Art and Coding",
+            "price": "Цена по запросу для выбранного филиала и блока.",
+            "source": "https://www.littleeartheducation.com/holiday-programmes/digital-art-coding-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Анимация, Scratch, робот с датчиками и HTML-игра с помощью ИИ.",
+                "start_utc": "2026-12-07T02:00:00Z",
+                "end_utc": "2026-12-07T04:30:00Z"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Анимация, Scratch, робот с датчиками и HTML-игра с помощью ИИ.",
+                "start_utc": "2026-12-08T02:00:00Z",
+                "end_utc": "2026-12-08T04:30:00Z"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Анимация, Scratch, робот с датчиками и HTML-игра с помощью ИИ.",
+                "start_utc": "2026-12-09T02:00:00Z",
+                "end_utc": "2026-12-09T04:30:00Z"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Анимация, Scratch, робот с датчиками и HTML-игра с помощью ИИ.",
+                "start_utc": "2026-12-10T02:00:00Z",
+                "end_utc": "2026-12-10T04:30:00Z"
+              }
+            ],
+            "place": "Tampines / Kovan · выбрать филиал"
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-11-23",
+            "2026-11-26"
+          ],
+          [
+            "2026-12-07",
+            "2026-12-10"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "SGD",
+        "amount": null,
+        "unit": "session",
+        "label": "Цена по запросу для выбранного филиала и блока.",
+        "included": "Анимация, Scratch, робот с датчиками и HTML-игра с помощью ИИ.",
+        "extras": "Точный тариф выбранного набора не подтверждён.",
+        "deposit": "Точный тариф выбранного набора не подтверждён."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Подтвердить эквивалент 3 класса и язык занятий."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по текущему школьному уровню. Требуется 3 класс или выше."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Сверить класс, наличие мест, цену и язык технических занятий."
+      ],
+      "sources": [
+        {
+          "url": "https://www.littleeartheducation.com/holiday-programmes/digital-art-coding-2026",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.littleeartheducation.com/holiday-programmes",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "games",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1882",
+      "slug": "little-earth-holiday-full-day-2026",
+      "provider": "Little Earth · Full-Day Holiday Programme",
+      "country": "Сингапур",
+      "iso": "SGP",
+      "place": "Tampines / Kovan / Bishan / Bukit Timah · выбрать филиал",
+      "age": "От K2 до 6 класса начальной школы.",
+      "programme": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Язык преподавания конкретной группы не указан. Подтвердить EN или ES перед записью.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "published_2026",
+        "label": "Блоки полного дня 23–27 ноября, 30 ноября–4 декабря, 7–11 и 14–18 декабря 2026. 08:00–18:00.",
+        "session_details": [
+          {
+            "variant_key": "2026-11-23-full",
+            "start": "2026-11-23",
+            "end": "2026-11-27",
+            "label": "Full Day",
+            "price": "Цена по запросу для выбранного филиала и блока.",
+            "source": "https://www.littleeartheducation.com/holiday-programmes",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-11-23T00:00:00Z",
+                "end_utc": "2026-11-23T10:00:00Z"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-11-24T00:00:00Z",
+                "end_utc": "2026-11-24T10:00:00Z"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-11-25T00:00:00Z",
+                "end_utc": "2026-11-25T10:00:00Z"
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-11-26T00:00:00Z",
+                "end_utc": "2026-11-26T10:00:00Z"
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-11-27T00:00:00Z",
+                "end_utc": "2026-11-27T10:00:00Z"
+              }
+            ],
+            "place": "Tampines / Kovan / Bishan / Bukit Timah · выбрать филиал",
+            "programme": "Робототехника 26 ноября утром и экскурсия в ArtScience Museum 27 ноября."
+          },
+          {
+            "variant_key": "2026-11-30-full",
+            "start": "2026-11-30",
+            "end": "2026-12-04",
+            "label": "Full Day",
+            "price": "Цена по запросу для выбранного филиала и блока.",
+            "source": "https://www.littleeartheducation.com/holiday-programmes",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-11-30T00:00:00Z",
+                "end_utc": "2026-11-30T10:00:00Z"
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-12-01T00:00:00Z",
+                "end_utc": "2026-12-01T10:00:00Z"
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-12-02T00:00:00Z",
+                "end_utc": "2026-12-02T10:00:00Z"
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-12-03T00:00:00Z",
+                "end_utc": "2026-12-03T10:00:00Z"
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-12-04T00:00:00Z",
+                "end_utc": "2026-12-04T10:00:00Z"
+              }
+            ],
+            "place": "Tampines / Kovan / Bishan / Bukit Timah · выбрать филиал",
+            "programme": "Создание историй с ИИ и программированием 1–2 декабря."
+          },
+          {
+            "variant_key": "2026-12-07-full",
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Full Day",
+            "price": "Цена по запросу для выбранного филиала и блока.",
+            "source": "https://www.littleeartheducation.com/holiday-programmes",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-12-07T00:00:00Z",
+                "end_utc": "2026-12-07T10:00:00Z"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-12-08T00:00:00Z",
+                "end_utc": "2026-12-08T10:00:00Z"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-12-09T00:00:00Z",
+                "end_utc": "2026-12-09T10:00:00Z"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-12-10T00:00:00Z",
+                "end_utc": "2026-12-10T10:00:00Z"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-12-11T00:00:00Z",
+                "end_utc": "2026-12-11T10:00:00Z"
+              }
+            ],
+            "place": "Tampines / Kovan / Bishan / Bukit Timah · выбрать филиал",
+            "programme": "Робототехника 10 декабря после обеда."
+          },
+          {
+            "variant_key": "2026-12-14-full",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Full Day",
+            "price": "Цена по запросу для выбранного филиала и блока.",
+            "source": "https://www.littleeartheducation.com/holiday-programmes",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-12-14T00:00:00Z",
+                "end_utc": "2026-12-14T10:00:00Z"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-12-15T00:00:00Z",
+                "end_utc": "2026-12-15T10:00:00Z"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-12-16T00:00:00Z",
+                "end_utc": "2026-12-16T10:00:00Z"
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-12-17T00:00:00Z",
+                "end_utc": "2026-12-17T10:00:00Z"
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+                "start_utc": "2026-12-18T00:00:00Z",
+                "end_utc": "2026-12-18T10:00:00Z"
+              }
+            ],
+            "place": "Tampines / Kovan / Bishan / Bukit Timah · выбрать филиал",
+            "programme": "Цифровое искусство 15 декабря утром. Нужны планшет и стилус."
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-11-23",
+            "2026-11-27"
+          ],
+          [
+            "2026-11-30",
+            "2026-12-04"
+          ],
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "SGD",
+        "amount": null,
+        "unit": "session",
+        "label": "Цена по запросу для выбранного филиала и блока.",
+        "included": "Каникулярная программа с техническими блоками, спортом и экскурсиями.",
+        "extras": "Точный тариф выбранного набора не подтверждён.",
+        "deposit": "Точный тариф выбранного набора не подтверждён."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Сверить эквивалент класса, язык технических занятий и места."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Сверить эквивалент класса, язык технических занятий и места."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Сверить класс, наличие мест, цену и язык технических занятий."
+      ],
+      "sources": [
+        {
+          "url": "https://www.littleeartheducation.com/holiday-programmes",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "art",
+        "technology",
+        "general"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp"
     }
   ],
   "gaps": [
@@ -284049,7 +287071,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 247,
+  "version": 248,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -297284,7 +300306,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1877,
+      "total_dossiers": 1882,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

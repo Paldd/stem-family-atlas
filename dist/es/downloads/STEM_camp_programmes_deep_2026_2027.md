@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1877 fichas en 122 países. Cada ficha indica cuándo se comprobó cada fuente.
+Estado de la base: 2026-11-07. 1882 fichas en 123 países. Cada ficha indica cuándo se comprobó cada fuente.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -98144,49 +98144,913 @@ Nueva Zelanda · 671 Cameron Road · Tauranga South · Tauranga 3112
 
 - [Página oficial del organizador](https://steamed.nz/contact-us/) · 2026-11-07
 
-## CP1270 · SCRATCHPAD · Roll Up Your Sleeves · Let Us Code
+## CP1270 · SCRATCHPAD · Let Us Code
 
-Nueva Zelanda · Auckland / Christchurch · elegir centro y franja concretos
+Nueva Zelanda · Auckland / Christchurch · elegir sede
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-07
 
-* Edad:** 5+
+**edad:** Desde 5 años.
 
-**Idioma:** Terms propios Course Delivery explícitos: enseñanza en inglés, exige English escrito / hablado y participación en discusiones / presentaciones grupales. EN acreditado para enseñanza, no solo web.
+**Idioma:** Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
 
-**Programa:** Holiday workshop técnico corto. Coding 5+ es introducción; mBot programa sensores, obstáculos y línea; Edison robótica; AI creación de relato en vídeo; 3D modelado e impresión. Evaluar nivel tras tres años de competiciones por separado.
+**Programa:** Programación por bloques y primeros proyectos interactivos.
 
 **Alojamiento:** Programa diurno sin residencia.
 
-**Fechas / estado:** Calendario holiday general contiene December / January sin año; product options reales difieren en algunos casos del calendario. AI product indica SEP 29, lista general JAN 26. Año y disponibilidad de variantes sin confirmar; sin fechas operativas.
+**Fechas / estado:** Opciones diurnas de diciembre de 2026 y enero de 2027. Fechas deducidas de las semanas y cotejadas con las fichas.
 
-**Precio / año:** sin establecer · Rango de product options NZD 110–145, GST incluido. Duración 09–15 / 09–17, drop-off temprano y alquiler de robot cambian paquete; no tarifa única ni garantía de plaza.
+**Precio / año:** sin establecer · NZD 110 por día de 09:00 a 15:00 o NZD 120 por día de 09:00 a 17:00, con GST.
 
-**Incluido:** Confirmar equipo y materiales de opción elegida; mBot / Edison tienen Bring Your Own o Rent. Alquiler y compra de robot son condiciones distintas.
+**Incluido:** Traer comida y merienda. La recepción temprana tiene coste.
 
-**Suplementos:** Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero.
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
 
-**Pago:** Holiday policy: cancelación hasta 7 días — devolución menos NZD 25; dentro de 7 días sin devolución. Ausencias sin devolución; enfermedad inesperada puede dar crédito por 6 meses. Otra sección describe evaluación tras primer día con aviso 6 horas antes del segundo; acordar aplicación a programa de un día. Contrato sin aceptar.
+**Pago:** Consultar las condiciones de cancelación del operador antes de pagar.
 
-**Matvey:** Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+**Matvey:** Sí por edad. Confirmar sede, plazas y nivel de inglés.
 
-**Oscar:** Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+**Oscar:** Sí por edad. Confirmar sede, plazas y nivel de inglés.
 
-**Motivo de selección:** Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.
+**Motivo de selección:** El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.
 
 ### Antes de solicitar plaza
 
-- Confirmar admisión extranjera individual, idioma, nivel tras tres años de competiciones, plaza y factura completa. Sin formularios enviados, consentimientos, mensajes, reservas ni pagos.
+- Para dos menores, confirmar plazas el mismo día en la misma sede.
 
-- Comprobar año y variante concretos: parte de variantes JSON indica out of stock, no cierre de toda red. Sin añadir nada al carrito.
+- Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes.
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-15 — 2026-12-15
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-15 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-15 — 2026-12-15
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-15 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-16 — 2026-12-16
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-16 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-16 — 2026-12-16
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-16 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-17 — 2026-12-17
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-17 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-17 — 2026-12-17
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-17 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-18 — 2026-12-18
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-18 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-18 — 2026-12-18
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-18 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-21 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-21 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-22 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-22 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-06 — 2027-01-06
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-06 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-06 — 2027-01-06
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-06 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-07 — 2027-01-07
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-07 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-07 — 2027-01-07
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-07 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-08 — 2027-01-08
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-08 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-08 — 2027-01-08
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-08 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-11 — 2027-01-11
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-11 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-11 — 2027-01-11
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-11 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-12 — 2027-01-12
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-12 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-12 — 2027-01-12
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-12 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-13 — 2027-01-13
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-13 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-13 — 2027-01-13
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-13 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-14 — 2027-01-14
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-14 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-14 — 2027-01-14
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-14 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-15 — 2027-01-15
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-15 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-15 — 2027-01-15
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-15 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-18 — 2027-01-18
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-18 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-18 — 2027-01-18
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-18 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-19 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-19 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-20 — 2027-01-20
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-20 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-20 — 2027-01-20
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-20 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-21 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-21 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-22 — 2027-01-22
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-22 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-22 — 2027-01-22
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-22 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-25 — 2027-01-25
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-25 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-25 — 2027-01-25
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-25 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-26 — 2027-01-26
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-26 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-26 — 2027-01-26
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-26 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-27 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-27 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-28 — 2027-01-28
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-28 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-28 — 2027-01-28
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-28 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-29 — 2027-01-29
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-29 · 09:00–15:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-29 — 2027-01-29
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-29 · 09:00–17:00 · Pacific/Auckland · Programación por bloques y primeros proyectos interactivos.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/)
 
 ### Fuentes
 
-- [Roll Up Your Sleeves · Let Us Code](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/) · 2026-11-05
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/product/roll-sleeves-let-us-code/) · 2026-11-07
 
-- [Categorías de edad del calendario holiday general](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-05
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-07
 
-- [Enseñanza inglesa y holiday cancellation](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-05
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-07
 
 ## CP1271 · SCRATCHPAD · mBot Robotics
 
@@ -98234,47 +99098,119 @@ Nueva Zelanda · Auckland / Christchurch · elegir centro y franja concretos
 
 ## CP1272 · SCRATCHPAD · Edison Robotics
 
-Nueva Zelanda · Auckland / Christchurch · elegir centro y franja concretos
+Nueva Zelanda · Auckland / Christchurch · elegir sede
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-07
 
-* Edad:** 7+
+**edad:** Desde 7 años.
 
-**Idioma:** Terms propios Course Delivery explícitos: enseñanza en inglés, exige English escrito / hablado y participación en discusiones / presentaciones grupales. EN acreditado para enseñanza, no solo web.
+**Idioma:** Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
 
-**Programa:** Holiday workshop técnico corto. Coding 5+ es introducción; mBot programa sensores, obstáculos y línea; Edison robótica; AI creación de relato en vídeo; 3D modelado e impresión. Evaluar nivel tras tres años de competiciones por separado.
+**Programa:** Programación de Edison para líneas, obstáculos y órdenes de control.
 
 **Alojamiento:** Programa diurno sin residencia.
 
-**Fechas / estado:** Calendario holiday general contiene December / January sin año; product options reales difieren en algunos casos del calendario. AI product indica SEP 29, lista general JAN 26. Año y disponibilidad de variantes sin confirmar; sin fechas operativas.
+**Fechas / estado:** Opciones diurnas de diciembre de 2026 y enero de 2027. Fechas deducidas de las semanas y cotejadas con las fichas.
 
-**Precio / año:** sin establecer · Rango de product options NZD 110–155, GST incluido. Duración 09–15 / 09–17, drop-off temprano y alquiler de robot cambian paquete; no tarifa única ni garantía de plaza.
+**Precio / año:** sin establecer · Con Edison propio, NZD 110 hasta las 15:00 o NZD 120 hasta las 17:00, con GST.
 
-**Incluido:** Confirmar equipo y materiales de opción elegida; mBot / Edison tienen Bring Your Own o Rent. Alquiler y compra de robot son condiciones distintas.
+**Incluido:** Traer comida y merienda. La recepción temprana tiene coste.
 
-**Suplementos:** Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero.
+**Suplementos:** Alquiler de Edison por NZD 10 adicionales según la ficha. Recepción temprana NZD 25. Traer comida.
 
-**Pago:** Holiday policy: cancelación hasta 7 días — devolución menos NZD 25; dentro de 7 días sin devolución. Ausencias sin devolución; enfermedad inesperada puede dar crédito por 6 meses. Otra sección describe evaluación tras primer día con aviso 6 horas antes del segundo; acordar aplicación a programa de un día. Contrato sin aceptar.
+**Pago:** Consultar las condiciones de cancelación del operador antes de pagar.
 
-**Matvey:** Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+**Matvey:** Sí por edad. Confirmar sede, plazas y nivel de inglés.
 
-**Oscar:** Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+**Oscar:** No. Edad mínima publicada de 7 años.
 
-**Motivo de selección:** Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.
+**Motivo de selección:** El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.
 
 ### Antes de solicitar plaza
 
-- Confirmar admisión extranjera individual, idioma, nivel tras tres años de competiciones, plaza y factura completa. Sin formularios enviados, consentimientos, mensajes, reservas ni pagos.
+- Para dos menores, confirmar plazas el mismo día en la misma sede.
 
-- Comprobar año y variante concretos: parte de variantes JSON indica out of stock, no cierre de toda red. Sin añadir nada al carrito.
+- Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes.
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-18 — 2026-12-18
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** Alquiler de Edison por NZD 10 adicionales según la ficha. Recepción temprana NZD 25. Traer comida.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-18 · 09:00–15:00 · Pacific/Auckland · Programación de Edison para líneas, obstáculos y órdenes de control.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/code-bot-program-edison-robot/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-18 — 2026-12-18
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** Alquiler de Edison por NZD 10 adicionales según la ficha. Recepción temprana NZD 25. Traer comida.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-18 · 09:00–17:00 · Pacific/Auckland · Programación de Edison para líneas, obstáculos y órdenes de control.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/code-bot-program-edison-robot/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-22 — 2027-01-22
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** Alquiler de Edison por NZD 10 adicionales según la ficha. Recepción temprana NZD 25. Traer comida.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-22 · 09:00–15:00 · Pacific/Auckland · Programación de Edison para líneas, obstáculos y órdenes de control.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/code-bot-program-edison-robot/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-22 — 2027-01-22
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** Alquiler de Edison por NZD 10 adicionales según la ficha. Recepción temprana NZD 25. Traer comida.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-22 · 09:00–17:00 · Pacific/Auckland · Programación de Edison para líneas, obstáculos y órdenes de control.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/code-bot-program-edison-robot/)
 
 ### Fuentes
 
-- [Edison Robotics](https://scratchpad.co.nz/product/code-bot-program-edison-robot/) · 2026-11-05
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/product/code-bot-program-edison-robot/) · 2026-11-07
 
-- [Categorías de edad del calendario holiday general](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-05
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-07
 
-- [Enseñanza inglesa y holiday cancellation](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-05
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-07
 
 ## CP1273 · SCRATCHPAD · Video Stories Using AI
 
@@ -147835,6 +148771,564 @@ Japón · Tokyo YMCA · Toyocho Idioma Education Center · 2-2-20 Toyo, Koto-ku
 ### Fuentes
 
 - [Página o reglamento oficial de la organización.](https://tokyo.ymca.or.jp/language/2026/10/ymcathree-days-in-tokyo-a-holiday-at-steam-seasonal-schoolymca3steam.html) · 2026-11-07
+
+## CP1878 · PICRC Ocean Explorers · Underwater Robotics
+
+Palaos · PICRC · Koror
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Para alumnado de secundaria media según la organización.
+
+**Idioma:** No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+
+**Programa:** Montaje y manejo de robot submarino, acuario y actividades con científicos del centro.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** La página actual no indica fechas, precio ni idioma de las actividades técnicas.
+
+**Precio / año:** sin establecer · La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Incluido:** Montaje y manejo de robot submarino, acuario y actividades con científicos del centro.
+
+**Suplementos:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Pago:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Matvey:** No por el nivel escolar actual. El programa está destinado a secundaria media.
+
+**Oscar:** No por el nivel escolar actual. El programa está destinado a secundaria media.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Formato escolar. Aún no se publican condiciones para menores extranjeros ni criterios de inscripción.
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://picrc.org/work/intersession-summer-programs/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://picrc.org/picrc-launches-new-student-program-on-building-underwater-robots/) · 2026-11-07
+
+## CP1879 · SCRATCHPAD · Roblox Studio
+
+Nueva Zelanda · Auckland / Christchurch · elegir sede
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 9 años.
+
+**Idioma:** Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+
+**Programa:** Desarrollo de un mundo y programación de un juego en Roblox Studio.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Opciones diurnas de diciembre de 2026 y enero de 2027. Fechas deducidas de las semanas y cotejadas con las fichas.
+
+**Precio / año:** sin establecer · NZD 110 por día de 09:00 a 15:00 o NZD 120 por día de 09:00 a 17:00, con GST.
+
+**Incluido:** Traer comida y merienda. La recepción temprana tiene coste.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**Pago:** Consultar las condiciones de cancelación del operador antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar sede, plazas y nivel de inglés.
+
+**Oscar:** No. Edad mínima publicada de 9 años.
+
+**Motivo de selección:** El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.
+
+### Antes de solicitar plaza
+
+- Para dos menores, confirmar plazas el mismo día en la misma sede.
+
+- Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes.
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-21 · 09:00–15:00 · Pacific/Auckland · Desarrollo de un mundo y programación de un juego en Roblox Studio.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/develop-games-roblox/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-21 · 09:00–17:00 · Pacific/Auckland · Desarrollo de un mundo y programación de un juego en Roblox Studio.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/develop-games-roblox/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-06 — 2027-01-06
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-06 · 09:00–15:00 · Pacific/Auckland · Desarrollo de un mundo y programación de un juego en Roblox Studio.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/develop-games-roblox/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-06 — 2027-01-06
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-06 · 09:00–17:00 · Pacific/Auckland · Desarrollo de un mundo y programación de un juego en Roblox Studio.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/develop-games-roblox/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-11 — 2027-01-11
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-11 · 09:00–15:00 · Pacific/Auckland · Desarrollo de un mundo y programación de un juego en Roblox Studio.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/develop-games-roblox/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-11 — 2027-01-11
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-11 · 09:00–17:00 · Pacific/Auckland · Desarrollo de un mundo y programación de un juego en Roblox Studio.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/develop-games-roblox/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-18 — 2027-01-18
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-18 · 09:00–15:00 · Pacific/Auckland · Desarrollo de un mundo y programación de un juego en Roblox Studio.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/develop-games-roblox/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-18 — 2027-01-18
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-18 · 09:00–17:00 · Pacific/Auckland · Desarrollo de un mundo y programación de un juego en Roblox Studio.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/develop-games-roblox/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-25 — 2027-01-25
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-25 · 09:00–15:00 · Pacific/Auckland · Desarrollo de un mundo y programación de un juego en Roblox Studio.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/develop-games-roblox/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-25 — 2027-01-25
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-25 · 09:00–17:00 · Pacific/Auckland · Desarrollo de un mundo y programación de un juego en Roblox Studio.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/develop-games-roblox/)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/product/develop-games-roblox/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-07
+
+## CP1880 · SCRATCHPAD · Machine Learning for Kids
+
+Nueva Zelanda · Auckland · St Lukes / Botany / Royal Oak
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 8 años. No se requiere experiencia en programación.
+
+**Idioma:** Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+
+**Programa:** Reconocimiento de imágenes y creación de un juego con un modelo de aprendizaje automático.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 19 de enero de 2027 según el cálculo del calendario semanal. Hay dos opciones de duración.
+
+**Precio / año:** 2027 · NZD 115 por día de 09:00 a 15:00 o NZD 125 por día de 09:00 a 17:00, con GST.
+
+**Incluido:** Traer comida y merienda. La recepción temprana tiene coste.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**Pago:** Consultar las condiciones de cancelación del operador antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar sede, plazas y nivel de inglés.
+
+**Oscar:** No. Edad mínima publicada de 8 años.
+
+**Motivo de selección:** El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.
+
+### Antes de solicitar plaza
+
+- Para dos menores, confirmar plazas el mismo día en la misma sede.
+
+- Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes.
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**lugar:** Auckland · St Lukes / Botany / Royal Oak
+
+**Precio:** NZD 115 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-19 · 09:00–15:00 · Pacific/Auckland · Reconocimiento de imágenes y creación de un juego con un modelo de aprendizaje automático.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/machine-learning/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**lugar:** Auckland · St Lukes / Botany / Royal Oak
+
+**Precio:** NZD 125 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-19 · 09:00–17:00 · Pacific/Auckland · Reconocimiento de imágenes y creación de un juego con un modelo de aprendizaje automático.
+
+**Disponibilidad de plazas:** La opción figura en la web. Las plazas dependen de la sede.
+
+[fuente](https://scratchpad.co.nz/product/machine-learning/)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/product/machine-learning/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-07
+
+## CP1881 · Little Earth · Digital Art and Coding
+
+Singapur · Tampines / Kovan · elegir sede
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** De 3.º a 6.º de primaria.
+
+**Idioma:** No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+
+**Programa:** Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 23–26 de noviembre o 7–10 de diciembre de 2026, de 10:00 a 12:30.
+
+**Precio / año:** 2026 · Precio a consultar para la sede y el bloque elegidos.
+
+**Incluido:** Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.
+
+**Suplementos:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Pago:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Matvey:** Condicional. Confirmar equivalencia de 3.º curso e idioma de clase.
+
+**Oscar:** No por el nivel escolar actual. Se exige 3.º curso o superior.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Confirmar curso, disponibilidad, precio e idioma de las actividades técnicas.
+
+### Digital Art and Coding
+
+**Fechas / estado:** 2026-11-23 — 2026-11-26
+
+**lugar:** Tampines / Kovan · elegir sede
+
+**Precio:** Precio a consultar para la sede y el bloque elegidos.
+
+- 2026-11-23 · 10:00–12:30 · Asia/Singapore · Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.
+
+- 2026-11-24 · 10:00–12:30 · Asia/Singapore · Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.
+
+- 2026-11-25 · 10:00–12:30 · Asia/Singapore · Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.
+
+- 2026-11-26 · 10:00–12:30 · Asia/Singapore · Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://www.littleeartheducation.com/holiday-programmes/digital-art-coding-2026)
+
+### Digital Art and Coding
+
+**Fechas / estado:** 2026-12-07 — 2026-12-10
+
+**lugar:** Tampines / Kovan · elegir sede
+
+**Precio:** Precio a consultar para la sede y el bloque elegidos.
+
+- 2026-12-07 · 10:00–12:30 · Asia/Singapore · Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.
+
+- 2026-12-08 · 10:00–12:30 · Asia/Singapore · Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.
+
+- 2026-12-09 · 10:00–12:30 · Asia/Singapore · Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.
+
+- 2026-12-10 · 10:00–12:30 · Asia/Singapore · Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://www.littleeartheducation.com/holiday-programmes/digital-art-coding-2026)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://www.littleeartheducation.com/holiday-programmes/digital-art-coding-2026) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://www.littleeartheducation.com/holiday-programmes) · 2026-11-07
+
+## CP1882 · Little Earth · Full-Day Holiday Programme
+
+Singapur · Tampines / Kovan / Bishan / Bukit Timah · elegir sede
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** De K2 a 6.º de primaria.
+
+**Idioma:** No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+
+**Programa:** Programa vacacional con bloques técnicos, deporte y excursiones.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Bloques de día completo 23–27 de noviembre, 30 de noviembre–4 de diciembre, 7–11 y 14–18 de diciembre de 2026. 08:00–18:00.
+
+**Precio / año:** 2026 · Precio a consultar para la sede y el bloque elegidos.
+
+**Incluido:** Programa vacacional con bloques técnicos, deporte y excursiones.
+
+**Suplementos:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Pago:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Matvey:** Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas.
+
+**Oscar:** Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Confirmar curso, disponibilidad, precio e idioma de las actividades técnicas.
+
+### Full Day
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**lugar:** Tampines / Kovan / Bishan / Bukit Timah · elegir sede
+
+**Precio:** Precio a consultar para la sede y el bloque elegidos.
+
+**Programa:** Robótica la mañana del 26 de noviembre y visita a ArtScience Museum el 27 de noviembre.
+
+- 2026-11-23 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+- 2026-11-24 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+- 2026-11-25 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+- 2026-11-26 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+- 2026-11-27 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://www.littleeartheducation.com/holiday-programmes)
+
+### Full Day
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**lugar:** Tampines / Kovan / Bishan / Bukit Timah · elegir sede
+
+**Precio:** Precio a consultar para la sede y el bloque elegidos.
+
+**Programa:** Creación de historias con IA y programación el 1–2 de diciembre.
+
+- 2026-11-30 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+- 2026-12-01 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+- 2026-12-02 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+- 2026-12-03 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+- 2026-12-04 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://www.littleeartheducation.com/holiday-programmes)
+
+### Full Day
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** Tampines / Kovan / Bishan / Bukit Timah · elegir sede
+
+**Precio:** Precio a consultar para la sede y el bloque elegidos.
+
+**Programa:** Robótica la tarde del 10 de diciembre.
+
+- 2026-12-07 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+- 2026-12-08 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+- 2026-12-09 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+- 2026-12-10 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+- 2026-12-11 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://www.littleeartheducation.com/holiday-programmes)
+
+### Full Day
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Tampines / Kovan / Bishan / Bukit Timah · elegir sede
+
+**Precio:** Precio a consultar para la sede y el bloque elegidos.
+
+**Programa:** Arte digital la mañana del 15 de diciembre. Se requiere tableta y lápiz digital.
+
+- 2026-12-14 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+- 2026-12-15 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+- 2026-12-16 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+- 2026-12-17 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+- 2026-12-18 · 08:00–18:00 · Asia/Singapore · Programa vacacional con bloques técnicos, deporte y excursiones.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://www.littleeartheducation.com/holiday-programmes)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://www.littleeartheducation.com/holiday-programmes) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

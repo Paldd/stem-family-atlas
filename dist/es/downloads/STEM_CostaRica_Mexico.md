@@ -3684,6 +3684,19 @@ Limitaciones:
 Fuente: https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica
 Se ha comprobado: 2026-11-07
 
+### C3500 · BattleBots UTEQ 2026 · Querétaro
+
+Fecha: 2026-11-19 — 2026-11-20
+edad: El anuncio menciona secundaria, preparatoria, universidad y público general. No indica la edad mínima de cada disciplina.
+Matvey: Condicional. Confirmar edad y acceso en la disciplina elegida.
+Oscar: Condicional. Confirmar edad y acceso en la disciplina elegida.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Confirmar edad mínima, tamaño de equipo y reglamento de la disciplina antes de solicitar plaza.
+Precio: MXN 600–1000 de inscripción según el periodo. Confirmar tarifa exacta el día de solicitud.
+Limitaciones: Fecha de cierre publicada. Disponibilidad y hora de cierre sin confirmar.
+Fuente: https://www.uteq.edu.mx/Noticias/Noticia.aspx?gINotr=580
+Se ha comprobado: 2026-11-07
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

@@ -1,0 +1,218 @@
+{
+  "captures": [
+    {
+      "key": "panama-expotech-2027",
+      "url": "https://www.panacamara.com/expotech/",
+      "checked_at": "2026-11-08T00:40:21.693019+00:00",
+      "status": 200,
+      "final_url": "https://www.panacamara.com/expotech/",
+      "bytes": 363215,
+      "sha256": "a760e1992dacb99fb34d90cf062944445c9402e31cefca533a2e00d3202d8f03",
+      "transport": "curl"
+    },
+    {
+      "key": "panama-expotech-event-2027",
+      "url": "https://www.panacamara.com/eventos/expo-electrica-internacional-panama-2027-275/",
+      "checked_at": "2026-11-08T00:40:21.693376+00:00",
+      "status": 200,
+      "final_url": "https://www.panacamara.com/eventos/expo-electrica-internacional-panama-2027-275/",
+      "bytes": 233529,
+      "sha256": "08b0b5a8b53a7b42e8bf8c768bdf15e18481343213dabcea4a8023aa84af1028",
+      "transport": "curl"
+    },
+    {
+      "key": "panama-expos-press-2027",
+      "url": "https://www.panacamara.com/cciap-presenta-bloque-de-exposiciones-comerciales-2027-para-conectar-oportunidades-e-impulsar-el-futuro-de-la-region/",
+      "checked_at": "2026-11-08T00:40:21.695427+00:00",
+      "status": 200,
+      "final_url": "https://www.panacamara.com/cciap-presenta-bloque-de-exposiciones-comerciales-2027-para-conectar-oportunidades-e-impulsar-el-futuro-de-la-region/",
+      "bytes": 294400,
+      "sha256": "0d57f9616fedd4b87f26a419f95f815daefde65cdd73c2d30b952055bfd081f9",
+      "transport": "curl"
+    },
+    {
+      "key": "guatemala-vex-reader",
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4818.html",
+      "checked_at": "2026-11-08",
+      "transport": "official_page_web_reader",
+      "direct_status": 403,
+      "evidence_scope": "Published date, time, division, fee, three-student minimum, team types, registration and remote interviews."
+    },
+    {
+      "key": "vex-level-up-rules",
+      "url": "https://content.vexrobotics.com/docs/2026-2027/level-up/files/levelup-v0.2.pdf",
+      "checked_at": "2026-11-08",
+      "transport": "official_page_web_reader",
+      "evidence_scope": "Level Up season student and elementary definitions, published play-up rule and student team minimum. Local event entry still governs."
+    },
+    {
+      "key": "mx-uteq-reader",
+      "url": "https://www.uteq.edu.mx/Noticias/Noticia.aspx?gINotr=580",
+      "checked_at": "2026-11-08",
+      "transport": "official_page_web_reader",
+      "evidence_scope": "November 19–20 dates, four disciplines, deadline November 15, fee range, target school levels and general public language."
+    },
+    {
+      "key": "smr-stem-official-2027",
+      "url": "https://istruzioneecultura.sm/pub2/IstruzioneSM/dettaglio_notizia.html?idItem=b2cbcf60-bf6c-4d6f-9151-36136d803865",
+      "checked_at": "2026-11-08T00:46:08.030445+00:00",
+      "status": 200,
+      "final_url": "https://istruzioneecultura.sm/pub2/IstruzioneSM/dettaglio_notizia.html?idItem=b2cbcf60-bf6c-4d6f-9151-36136d803865",
+      "bytes": 15853,
+      "sha256": "6ffd7977f56105d43b80a6499b8de6da35441896b36114d08e70d232977d7a0d",
+      "transport": "curl"
+    },
+    {
+      "key": "smr-school-courses-press",
+      "url": "https://giornalesm.com/san-marino-ripartono-le-attivita-extrascolastiche-per-lanno-2027-unofferta-rinnovata-per-bambini-e-ragazzi/",
+      "checked_at": "2026-11-08T00:55:05.187891+00:00",
+      "status": 200,
+      "final_url": "https://giornalesm.com/san-marino-ripartono-le-attivita-extrascolastiche-per-lanno-2027-unofferta-rinnovata-per-bambini-e-ragazzi/",
+      "bytes": 192444,
+      "sha256": "9efd280d818356398e8c914857ce3eeceae251ba6d21ca97c59753209ee33e87",
+      "transport": "curl"
+    },
+    {
+      "key": "smr-jumpin-2026",
+      "url": "https://jumpin.work/evento/jumpin-robotica-luglio-2026/",
+      "checked_at": "2026-11-08T00:46:08.030719+00:00",
+      "status": 200,
+      "final_url": "https://jumpin.work/evento/jumpin-robotica-luglio-2026/",
+      "bytes": 162273,
+      "sha256": "4fdc9c9d59fdc75ae7683109bbad25e938d6650c4d36034460f5616ed6b51c3f",
+      "transport": "curl"
+    },
+    {
+      "key": "plw-carnival-reader",
+      "url": "https://picrc.org/picrc-reaches-nearly-1000-students-at-2026-education-carnival/",
+      "checked_at": "2026-11-08",
+      "transport": "official_page_web_reader",
+      "direct_status": 403,
+      "evidence_scope": "January 20–23, 2026, elementary-school groups, 75-minute slots, ROV operations and drone demonstration."
+    },
+    {
+      "key": "plw-sonsorol-reader",
+      "url": "https://picrc.org/picrc-brings-arts-tides-awards-education-carnival-and-community-outreach-to-sonsorol/",
+      "checked_at": "2026-11-08",
+      "transport": "official_page_web_reader",
+      "direct_status": 403,
+      "evidence_scope": "September 28, 2026 activity at Sonsorol; microscopy, reef restoration and educational game; publication October 30."
+    },
+    {
+      "key": "plw-ocean-reader",
+      "url": "https://picrc.org/work/intersession-summer-programs/",
+      "checked_at": "2026-11-08",
+      "transport": "official_page_web_reader",
+      "direct_status": 403,
+      "evidence_scope": "Undated Ocean Explorers programme for middle school, underwater robot construction and operation, aquarium."
+    },
+    {
+      "key": "plw-rov-reader",
+      "url": "https://picrc.org/picrc-launches-new-student-program-on-building-underwater-robots/",
+      "checked_at": "2026-11-08",
+      "transport": "official_page_web_reader",
+      "direct_status": 403,
+      "evidence_scope": "2025 June 16–20 camp for selected grades 8 and 9 students; SeaMate Angelfish ROV and a camp challenge."
+    },
+    {
+      "key": "plw-pif-ai-2026",
+      "url": "https://55piflm.gov.pw/program/side-events",
+      "checked_at": "2026-11-08T00:46:08.038590+00:00",
+      "status": 200,
+      "final_url": "https://55piflm.gov.pw/program/side-events",
+      "bytes": 34333,
+      "sha256": "6358a38cffe3d9d7497b91c2e0a7968995989bc65f29a2f0c6ca64242fad9c91",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-let-us-code",
+      "url": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+      "checked_at": "2026-11-08T00:52:57.747307+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+      "bytes": 413442,
+      "sha256": "41edaa75bc9571bb58bbe24386735aaff6e2ffeaa64ed7f7ef944376855409bf",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-summer",
+      "url": "https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/",
+      "checked_at": "2026-11-08T00:52:04.102181+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/",
+      "bytes": 773351,
+      "sha256": "395f4a6f1fc7d6291cace13e5bde7dd43f0f19c65109098a50f9ce1bf859521e",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-terms",
+      "url": "https://scratchpad.co.nz/registration-terms-conditions/",
+      "checked_at": "2026-11-08T00:55:05.186285+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/registration-terms-conditions/",
+      "bytes": 341573,
+      "sha256": "225c29b63e813845bdb1de8f9c2f081636816b8921dffa7e96f647b949b9f3d9",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-edison",
+      "url": "https://scratchpad.co.nz/product/code-bot-program-edison-robot/",
+      "checked_at": "2026-11-08T00:52:57.747569+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/product/code-bot-program-edison-robot/",
+      "bytes": 403222,
+      "sha256": "52fa761b3e0b3279d77ca784ca096b7424902f9652881564d8b6148c4972384c",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-roblox",
+      "url": "https://scratchpad.co.nz/product/develop-games-roblox/",
+      "checked_at": "2026-11-08T00:52:57.753175+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/product/develop-games-roblox/",
+      "bytes": 395975,
+      "sha256": "909daf84a3e0616636ff8ac370dcb0053f3356d36127824dc4c1d7ab831b79d1",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-ml",
+      "url": "https://scratchpad.co.nz/product/machine-learning/",
+      "checked_at": "2026-11-08T00:52:57.750499+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/product/machine-learning/",
+      "bytes": 384806,
+      "sha256": "b46b6dffcd38ff5677bf75146e89ad9f044318b78cbd848fb666aabd5411af9a",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-ai",
+      "url": "https://scratchpad.co.nz/product/bring-stories-to-life-create-videos-using-ai/",
+      "checked_at": "2026-11-08T00:52:57.749135+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/product/bring-stories-to-life-create-videos-using-ai/",
+      "bytes": 394351,
+      "sha256": "cdd4dfaf4102e806e3be4d02feeafe05853b824461ed598863c0c78572ddf949",
+      "transport": "curl"
+    },
+    {
+      "key": "sg-little-earth-digital",
+      "url": "https://www.littleeartheducation.com/holiday-programmes/digital-art-coding-2026",
+      "checked_at": "2026-11-08T00:52:04.106832+00:00",
+      "status": 200,
+      "final_url": "https://www.littleeartheducation.com/holiday-programmes/digital-art-coding-2026",
+      "bytes": 29687,
+      "sha256": "5b3d6648d402770d6ab34eb8a497b063de5ee89e8013476420d3231e3c410e7e",
+      "transport": "curl"
+    },
+    {
+      "key": "sg-little-earth-calendar",
+      "url": "https://www.littleeartheducation.com/holiday-programmes",
+      "checked_at": "2026-11-08T00:52:04.105455+00:00",
+      "status": 200,
+      "final_url": "https://www.littleeartheducation.com/holiday-programmes",
+      "bytes": 96624,
+      "sha256": "cc4ac8d3856b967c4eb5a10517d392c833da2c9659cab6bdb9c43d7d015a7adb",
+      "transport": "curl"
+    }
+  ]
+}

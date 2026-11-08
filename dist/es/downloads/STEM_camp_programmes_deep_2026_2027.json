@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1877,
-    "countries": 122,
+    "dossiers": 1882,
+    "countries": 123,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 261,
-      "published_2027": 510,
+      "published_2026_27": 264,
+      "published_2027": 511,
       "partial_2027": 141,
-      "next_unannounced": 398,
-      "published_2026": 343,
+      "next_unannounced": 397,
+      "published_2026": 345,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 142,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2742
+    "source_urls": 2748
   },
   "countries": [
     {
@@ -345,7 +345,7 @@
     },
     {
       "country": "Nueva Zelanda",
-      "count": 18
+      "count": 20
     },
     {
       "country": "Nueva Caledonia",
@@ -362,6 +362,10 @@
     {
       "country": "Islas Cook",
       "count": 3
+    },
+    {
+      "country": "Palaos",
+      "count": 1
     },
     {
       "country": "Panamá",
@@ -421,7 +425,7 @@
     },
     {
       "country": "Singapur",
-      "count": 176
+      "count": 178
     },
     {
       "country": "Sierra Leona",
@@ -205708,79 +205712,2146 @@
     {
       "id": "CP1270",
       "slug": "scratchpad-nz-code5",
-      "provider": "SCRATCHPAD · Roll Up Your Sleeves · Let Us Code",
+      "provider": "SCRATCHPAD · Let Us Code",
       "iso": "NZL",
       "country": "Nueva Zelanda",
-      "place": "Auckland / Christchurch · elegir centro y franja concretos",
+      "place": "Auckland / Christchurch · elegir sede",
       "themes": [
         "coding",
-        "games"
+        "technology"
       ],
       "formats": [
         "day"
       ],
-      "age": "5+",
-      "programme": "Holiday workshop técnico corto. Coding 5+ es introducción; mBot programa sensores, obstáculos y línea; Edison robótica; AI creación de relato en vídeo; 3D modelado e impresión. Evaluar nivel tras tres años de competiciones por separado.",
-      "language": "Terms propios Course Delivery explícitos: enseñanza en inglés, exige English escrito / hablado y participación en discusiones / presentaciones grupales. EN acreditado para enseñanza, no solo web.",
+      "age": "Desde 5 años.",
+      "programme": "Programación por bloques y primeros proyectos interactivos.",
+      "language": "Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.",
       "confirmed_instruction_languages": [
         "EN"
       ],
       "language_evidence_role": "primary",
       "timing": {
-        "status": "next_unannounced",
-        "label": "Calendario holiday general contiene December / January sin año; product options reales difieren en algunos casos del calendario. AI product indica SEP 29, lista general JAN 26. Año y disponibilidad de variantes sin confirmar; sin fechas operativas.",
-        "sessions": [],
-        "session_details": [],
+        "status": "published_2026_27",
+        "label": "Opciones diurnas de diciembre de 2026 y enero de 2027. Fechas deducidas de las semanas y cotejadas con las fichas.",
+        "session_details": [
+          {
+            "variant_key": "2026-12-15-short",
+            "start": "2026-12-15",
+            "end": "2026-12-15",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2026-12-14T20:00:00Z",
+                "end_utc": "2026-12-15T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2026-12-15-long",
+            "start": "2026-12-15",
+            "end": "2026-12-15",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2026-12-14T20:00:00Z",
+                "end_utc": "2026-12-15T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2026-12-16-short",
+            "start": "2026-12-16",
+            "end": "2026-12-16",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2026-12-15T20:00:00Z",
+                "end_utc": "2026-12-16T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2026-12-16-long",
+            "start": "2026-12-16",
+            "end": "2026-12-16",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2026-12-15T20:00:00Z",
+                "end_utc": "2026-12-16T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2026-12-17-short",
+            "start": "2026-12-17",
+            "end": "2026-12-17",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2026-12-16T20:00:00Z",
+                "end_utc": "2026-12-17T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2026-12-17-long",
+            "start": "2026-12-17",
+            "end": "2026-12-17",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2026-12-16T20:00:00Z",
+                "end_utc": "2026-12-17T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2026-12-18-short",
+            "start": "2026-12-18",
+            "end": "2026-12-18",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2026-12-17T20:00:00Z",
+                "end_utc": "2026-12-18T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2026-12-18-long",
+            "start": "2026-12-18",
+            "end": "2026-12-18",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2026-12-17T20:00:00Z",
+                "end_utc": "2026-12-18T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2026-12-21-short",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2026-12-20T20:00:00Z",
+                "end_utc": "2026-12-21T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2026-12-21-long",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2026-12-20T20:00:00Z",
+                "end_utc": "2026-12-21T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2026-12-22-short",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2026-12-21T20:00:00Z",
+                "end_utc": "2026-12-22T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2026-12-22-long",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2026-12-21T20:00:00Z",
+                "end_utc": "2026-12-22T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-06-short",
+            "start": "2027-01-06",
+            "end": "2027-01-06",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-05T20:00:00Z",
+                "end_utc": "2027-01-06T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-06-long",
+            "start": "2027-01-06",
+            "end": "2027-01-06",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-05T20:00:00Z",
+                "end_utc": "2027-01-06T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-07-short",
+            "start": "2027-01-07",
+            "end": "2027-01-07",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-06T20:00:00Z",
+                "end_utc": "2027-01-07T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-07-long",
+            "start": "2027-01-07",
+            "end": "2027-01-07",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-06T20:00:00Z",
+                "end_utc": "2027-01-07T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-08-short",
+            "start": "2027-01-08",
+            "end": "2027-01-08",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-07T20:00:00Z",
+                "end_utc": "2027-01-08T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-08-long",
+            "start": "2027-01-08",
+            "end": "2027-01-08",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-07T20:00:00Z",
+                "end_utc": "2027-01-08T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-11-short",
+            "start": "2027-01-11",
+            "end": "2027-01-11",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-10T20:00:00Z",
+                "end_utc": "2027-01-11T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-11-long",
+            "start": "2027-01-11",
+            "end": "2027-01-11",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-10T20:00:00Z",
+                "end_utc": "2027-01-11T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-12-short",
+            "start": "2027-01-12",
+            "end": "2027-01-12",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-11T20:00:00Z",
+                "end_utc": "2027-01-12T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-12-long",
+            "start": "2027-01-12",
+            "end": "2027-01-12",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-11T20:00:00Z",
+                "end_utc": "2027-01-12T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-13-short",
+            "start": "2027-01-13",
+            "end": "2027-01-13",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-13",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-12T20:00:00Z",
+                "end_utc": "2027-01-13T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-13-long",
+            "start": "2027-01-13",
+            "end": "2027-01-13",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-13",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-12T20:00:00Z",
+                "end_utc": "2027-01-13T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-14-short",
+            "start": "2027-01-14",
+            "end": "2027-01-14",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-13T20:00:00Z",
+                "end_utc": "2027-01-14T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-14-long",
+            "start": "2027-01-14",
+            "end": "2027-01-14",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-13T20:00:00Z",
+                "end_utc": "2027-01-14T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-15-short",
+            "start": "2027-01-15",
+            "end": "2027-01-15",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-14T20:00:00Z",
+                "end_utc": "2027-01-15T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-15-long",
+            "start": "2027-01-15",
+            "end": "2027-01-15",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-14T20:00:00Z",
+                "end_utc": "2027-01-15T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-18-short",
+            "start": "2027-01-18",
+            "end": "2027-01-18",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-17T20:00:00Z",
+                "end_utc": "2027-01-18T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-18-long",
+            "start": "2027-01-18",
+            "end": "2027-01-18",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-17T20:00:00Z",
+                "end_utc": "2027-01-18T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-19-short",
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-18T20:00:00Z",
+                "end_utc": "2027-01-19T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-19-long",
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-18T20:00:00Z",
+                "end_utc": "2027-01-19T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-20-short",
+            "start": "2027-01-20",
+            "end": "2027-01-20",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-20",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-19T20:00:00Z",
+                "end_utc": "2027-01-20T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-20-long",
+            "start": "2027-01-20",
+            "end": "2027-01-20",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-20",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-19T20:00:00Z",
+                "end_utc": "2027-01-20T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-21-short",
+            "start": "2027-01-21",
+            "end": "2027-01-21",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-20T20:00:00Z",
+                "end_utc": "2027-01-21T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-21-long",
+            "start": "2027-01-21",
+            "end": "2027-01-21",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-20T20:00:00Z",
+                "end_utc": "2027-01-21T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-22-short",
+            "start": "2027-01-22",
+            "end": "2027-01-22",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-21T20:00:00Z",
+                "end_utc": "2027-01-22T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-22-long",
+            "start": "2027-01-22",
+            "end": "2027-01-22",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-21T20:00:00Z",
+                "end_utc": "2027-01-22T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-25-short",
+            "start": "2027-01-25",
+            "end": "2027-01-25",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-24T20:00:00Z",
+                "end_utc": "2027-01-25T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-25-long",
+            "start": "2027-01-25",
+            "end": "2027-01-25",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-24T20:00:00Z",
+                "end_utc": "2027-01-25T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-26-short",
+            "start": "2027-01-26",
+            "end": "2027-01-26",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-25T20:00:00Z",
+                "end_utc": "2027-01-26T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-26-long",
+            "start": "2027-01-26",
+            "end": "2027-01-26",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-25T20:00:00Z",
+                "end_utc": "2027-01-26T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-27-short",
+            "start": "2027-01-27",
+            "end": "2027-01-27",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-26T20:00:00Z",
+                "end_utc": "2027-01-27T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-27-long",
+            "start": "2027-01-27",
+            "end": "2027-01-27",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-26T20:00:00Z",
+                "end_utc": "2027-01-27T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-28-short",
+            "start": "2027-01-28",
+            "end": "2027-01-28",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-27T20:00:00Z",
+                "end_utc": "2027-01-28T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-28-long",
+            "start": "2027-01-28",
+            "end": "2027-01-28",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-27T20:00:00Z",
+                "end_utc": "2027-01-28T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-29-short",
+            "start": "2027-01-29",
+            "end": "2027-01-29",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-28T20:00:00Z",
+                "end_utc": "2027-01-29T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-29-long",
+            "start": "2027-01-29",
+            "end": "2027-01-29",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación por bloques y primeros proyectos interactivos.",
+                "start_utc": "2027-01-28T20:00:00Z",
+                "end_utc": "2027-01-29T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          }
+        ],
         "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-12-15",
+            "2026-12-15"
+          ],
+          [
+            "2026-12-15",
+            "2026-12-15"
+          ],
+          [
+            "2026-12-16",
+            "2026-12-16"
+          ],
+          [
+            "2026-12-16",
+            "2026-12-16"
+          ],
+          [
+            "2026-12-17",
+            "2026-12-17"
+          ],
+          [
+            "2026-12-17",
+            "2026-12-17"
+          ],
+          [
+            "2026-12-18",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-18",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ],
+          [
+            "2027-01-06",
+            "2027-01-06"
+          ],
+          [
+            "2027-01-06",
+            "2027-01-06"
+          ],
+          [
+            "2027-01-07",
+            "2027-01-07"
+          ],
+          [
+            "2027-01-07",
+            "2027-01-07"
+          ],
+          [
+            "2027-01-08",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-08",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-11"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-11"
+          ],
+          [
+            "2027-01-12",
+            "2027-01-12"
+          ],
+          [
+            "2027-01-12",
+            "2027-01-12"
+          ],
+          [
+            "2027-01-13",
+            "2027-01-13"
+          ],
+          [
+            "2027-01-13",
+            "2027-01-13"
+          ],
+          [
+            "2027-01-14",
+            "2027-01-14"
+          ],
+          [
+            "2027-01-14",
+            "2027-01-14"
+          ],
+          [
+            "2027-01-15",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-15",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-18"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-18"
+          ],
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ],
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ],
+          [
+            "2027-01-20",
+            "2027-01-20"
+          ],
+          [
+            "2027-01-20",
+            "2027-01-20"
+          ],
+          [
+            "2027-01-21",
+            "2027-01-21"
+          ],
+          [
+            "2027-01-21",
+            "2027-01-21"
+          ],
+          [
+            "2027-01-22",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-22",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-25"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-25"
+          ],
+          [
+            "2027-01-26",
+            "2027-01-26"
+          ],
+          [
+            "2027-01-26",
+            "2027-01-26"
+          ],
+          [
+            "2027-01-27",
+            "2027-01-27"
+          ],
+          [
+            "2027-01-27",
+            "2027-01-27"
+          ],
+          [
+            "2027-01-28",
+            "2027-01-28"
+          ],
+          [
+            "2027-01-28",
+            "2027-01-28"
+          ],
+          [
+            "2027-01-29",
+            "2027-01-29"
+          ],
+          [
+            "2027-01-29",
+            "2027-01-29"
+          ]
+        ],
         "precision": "published_sessions"
       },
       "price": {
         "year": null,
         "currency": "NZD",
         "amount": null,
-        "unit": "selected_option",
-        "label": "Rango de product options NZD 110–145, GST incluido. Duración 09–15 / 09–17, drop-off temprano y alquiler de robot cambian paquete; no tarifa única ni garantía de plaza.",
-        "included": "Confirmar equipo y materiales de opción elegida; mBot / Edison tienen Bring Your Own o Rent. Alquiler y compra de robot son condiciones distintas.",
-        "extras": "Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero.",
-        "deposit": "Holiday policy: cancelación hasta 7 días — devolución menos NZD 25; dentro de 7 días sin devolución. Ausencias sin devolución; enfermedad inesperada puede dar crédito por 6 meses. Otra sección describe evaluación tras primer día con aviso 6 horas antes del segundo; acordar aplicación a programa de un día. Contrato sin aceptar."
+        "unit": "day",
+        "label": "NZD 110 por día de 09:00 a 15:00 o NZD 120 por día de 09:00 a 17:00, con GST.",
+        "included": "Traer comida y merienda. La recepción temprana tiene coste.",
+        "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+        "deposit": "Consultar las condiciones de cancelación del operador antes de pagar."
       },
       "accommodation": "Programa diurno sin residencia.",
       "family_fit": {
         "matvey": {
           "status": "candidate",
-          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+          "detail": "Sí por edad. Confirmar sede, plazas y nivel de inglés."
         },
         "oscar": {
           "status": "candidate",
-          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+          "detail": "Sí por edad. Confirmar sede, plazas y nivel de inglés."
         }
       },
-      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "editorial_reason": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.",
       "shortlist": [],
       "questions": [
-        "Confirmar admisión extranjera individual, idioma, nivel tras tres años de competiciones, plaza y factura completa. Sin formularios enviados, consentimientos, mensajes, reservas ni pagos.",
-        "Comprobar año y variante concretos: parte de variantes JSON indica out of stock, no cierre de toda red. Sin añadir nada al carrito."
+        "Para dos menores, confirmar plazas el mismo día en la misma sede.",
+        "Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes."
       ],
       "sources": [
         {
-          "title": "Roll Up Your Sleeves · Let Us Code",
           "url": "https://scratchpad.co.nz/product/roll-sleeves-let-us-code/",
-          "checked": "2026-11-05"
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
         },
         {
-          "title": "Categorías de edad del calendario holiday general",
           "url": "https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/",
-          "checked": "2026-11-05"
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
         },
         {
-          "title": "Enseñanza inglesa y holiday cancellation",
           "url": "https://scratchpad.co.nz/registration-terms-conditions/",
-          "checked": "2026-11-05"
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-07",
       "related_event_ids": [],
-      "calendar_links": []
+      "calendar_links": [
+        {
+          "start": "2026-12-15",
+          "end": "2026-12-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20261215-20261215-2026-12-15-short"
+          ]
+        },
+        {
+          "start": "2026-12-15",
+          "end": "2026-12-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20261215-20261215-2026-12-15-long"
+          ]
+        },
+        {
+          "start": "2026-12-16",
+          "end": "2026-12-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20261216-20261216-2026-12-16-short"
+          ]
+        },
+        {
+          "start": "2026-12-16",
+          "end": "2026-12-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20261216-20261216-2026-12-16-long"
+          ]
+        },
+        {
+          "start": "2026-12-17",
+          "end": "2026-12-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20261217-20261217-2026-12-17-short"
+          ]
+        },
+        {
+          "start": "2026-12-17",
+          "end": "2026-12-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20261217-20261217-2026-12-17-long"
+          ]
+        },
+        {
+          "start": "2026-12-18",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20261218-20261218-2026-12-18-short"
+          ]
+        },
+        {
+          "start": "2026-12-18",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20261218-20261218-2026-12-18-long"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20261221-20261221-2026-12-21-short"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20261221-20261221-2026-12-21-long"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20261222-20261222-2026-12-22-short"
+          ]
+        },
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20261222-20261222-2026-12-22-long"
+          ]
+        },
+        {
+          "start": "2027-01-06",
+          "end": "2027-01-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270106-20270106-2027-01-06-short"
+          ]
+        },
+        {
+          "start": "2027-01-06",
+          "end": "2027-01-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270106-20270106-2027-01-06-long"
+          ]
+        },
+        {
+          "start": "2027-01-07",
+          "end": "2027-01-07",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270107-20270107-2027-01-07-short"
+          ]
+        },
+        {
+          "start": "2027-01-07",
+          "end": "2027-01-07",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270107-20270107-2027-01-07-long"
+          ]
+        },
+        {
+          "start": "2027-01-08",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270108-20270108-2027-01-08-short"
+          ]
+        },
+        {
+          "start": "2027-01-08",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270108-20270108-2027-01-08-long"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270111-20270111-2027-01-11-short"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270111-20270111-2027-01-11-long"
+          ]
+        },
+        {
+          "start": "2027-01-12",
+          "end": "2027-01-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270112-20270112-2027-01-12-short"
+          ]
+        },
+        {
+          "start": "2027-01-12",
+          "end": "2027-01-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270112-20270112-2027-01-12-long"
+          ]
+        },
+        {
+          "start": "2027-01-13",
+          "end": "2027-01-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270113-20270113-2027-01-13-short"
+          ]
+        },
+        {
+          "start": "2027-01-13",
+          "end": "2027-01-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270113-20270113-2027-01-13-long"
+          ]
+        },
+        {
+          "start": "2027-01-14",
+          "end": "2027-01-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270114-20270114-2027-01-14-short"
+          ]
+        },
+        {
+          "start": "2027-01-14",
+          "end": "2027-01-14",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270114-20270114-2027-01-14-long"
+          ]
+        },
+        {
+          "start": "2027-01-15",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270115-20270115-2027-01-15-short"
+          ]
+        },
+        {
+          "start": "2027-01-15",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270115-20270115-2027-01-15-long"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270118-20270118-2027-01-18-short"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270118-20270118-2027-01-18-long"
+          ]
+        },
+        {
+          "start": "2027-01-19",
+          "end": "2027-01-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270119-20270119-2027-01-19-short"
+          ]
+        },
+        {
+          "start": "2027-01-19",
+          "end": "2027-01-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270119-20270119-2027-01-19-long"
+          ]
+        },
+        {
+          "start": "2027-01-20",
+          "end": "2027-01-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270120-20270120-2027-01-20-short"
+          ]
+        },
+        {
+          "start": "2027-01-20",
+          "end": "2027-01-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270120-20270120-2027-01-20-long"
+          ]
+        },
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270121-20270121-2027-01-21-short"
+          ]
+        },
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270121-20270121-2027-01-21-long"
+          ]
+        },
+        {
+          "start": "2027-01-22",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270122-20270122-2027-01-22-short"
+          ]
+        },
+        {
+          "start": "2027-01-22",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270122-20270122-2027-01-22-long"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270125-20270125-2027-01-25-short"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270125-20270125-2027-01-25-long"
+          ]
+        },
+        {
+          "start": "2027-01-26",
+          "end": "2027-01-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270126-20270126-2027-01-26-short"
+          ]
+        },
+        {
+          "start": "2027-01-26",
+          "end": "2027-01-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270126-20270126-2027-01-26-long"
+          ]
+        },
+        {
+          "start": "2027-01-27",
+          "end": "2027-01-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270127-20270127-2027-01-27-short"
+          ]
+        },
+        {
+          "start": "2027-01-27",
+          "end": "2027-01-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270127-20270127-2027-01-27-long"
+          ]
+        },
+        {
+          "start": "2027-01-28",
+          "end": "2027-01-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270128-20270128-2027-01-28-short"
+          ]
+        },
+        {
+          "start": "2027-01-28",
+          "end": "2027-01-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270128-20270128-2027-01-28-long"
+          ]
+        },
+        {
+          "start": "2027-01-29",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270129-20270129-2027-01-29-short"
+          ]
+        },
+        {
+          "start": "2027-01-29",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1270-20270129-20270129-2027-01-29-long"
+          ]
+        }
+      ]
     },
     {
       "id": "CP1271",
@@ -205865,76 +207936,252 @@
       "provider": "SCRATCHPAD · Edison Robotics",
       "iso": "NZL",
       "country": "Nueva Zelanda",
-      "place": "Auckland / Christchurch · elegir centro y franja concretos",
+      "place": "Auckland / Christchurch · elegir sede",
       "themes": [
+        "robotics",
         "coding",
-        "robotics"
+        "technology"
       ],
       "formats": [
         "day"
       ],
-      "age": "7+",
-      "programme": "Holiday workshop técnico corto. Coding 5+ es introducción; mBot programa sensores, obstáculos y línea; Edison robótica; AI creación de relato en vídeo; 3D modelado e impresión. Evaluar nivel tras tres años de competiciones por separado.",
-      "language": "Terms propios Course Delivery explícitos: enseñanza en inglés, exige English escrito / hablado y participación en discusiones / presentaciones grupales. EN acreditado para enseñanza, no solo web.",
+      "age": "Desde 7 años.",
+      "programme": "Programación de Edison para líneas, obstáculos y órdenes de control.",
+      "language": "Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.",
       "confirmed_instruction_languages": [
         "EN"
       ],
       "language_evidence_role": "primary",
       "timing": {
-        "status": "next_unannounced",
-        "label": "Calendario holiday general contiene December / January sin año; product options reales difieren en algunos casos del calendario. AI product indica SEP 29, lista general JAN 26. Año y disponibilidad de variantes sin confirmar; sin fechas operativas.",
-        "sessions": [],
-        "session_details": [],
+        "status": "published_2026_27",
+        "label": "Opciones diurnas de diciembre de 2026 y enero de 2027. Fechas deducidas de las semanas y cotejadas con las fichas.",
+        "session_details": [
+          {
+            "variant_key": "2026-12-18-short",
+            "start": "2026-12-18",
+            "end": "2026-12-18",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/code-bot-program-edison-robot/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación de Edison para líneas, obstáculos y órdenes de control.",
+                "start_utc": "2026-12-17T20:00:00Z",
+                "end_utc": "2026-12-18T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "Alquiler de Edison por NZD 10 adicionales según la ficha. Recepción temprana NZD 25. Traer comida.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2026-12-18-long",
+            "start": "2026-12-18",
+            "end": "2026-12-18",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/code-bot-program-edison-robot/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación de Edison para líneas, obstáculos y órdenes de control.",
+                "start_utc": "2026-12-17T20:00:00Z",
+                "end_utc": "2026-12-18T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "Alquiler de Edison por NZD 10 adicionales según la ficha. Recepción temprana NZD 25. Traer comida.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-22-short",
+            "start": "2027-01-22",
+            "end": "2027-01-22",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/code-bot-program-edison-robot/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación de Edison para líneas, obstáculos y órdenes de control.",
+                "start_utc": "2027-01-21T20:00:00Z",
+                "end_utc": "2027-01-22T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "Alquiler de Edison por NZD 10 adicionales según la ficha. Recepción temprana NZD 25. Traer comida.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-22-long",
+            "start": "2027-01-22",
+            "end": "2027-01-22",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/code-bot-program-edison-robot/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Programación de Edison para líneas, obstáculos y órdenes de control.",
+                "start_utc": "2027-01-21T20:00:00Z",
+                "end_utc": "2027-01-22T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "Alquiler de Edison por NZD 10 adicionales según la ficha. Recepción temprana NZD 25. Traer comida.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          }
+        ],
         "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-12-18",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-18",
+            "2026-12-18"
+          ],
+          [
+            "2027-01-22",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-22",
+            "2027-01-22"
+          ]
+        ],
         "precision": "published_sessions"
       },
       "price": {
         "year": null,
         "currency": "NZD",
         "amount": null,
-        "unit": "selected_option",
-        "label": "Rango de product options NZD 110–155, GST incluido. Duración 09–15 / 09–17, drop-off temprano y alquiler de robot cambian paquete; no tarifa única ni garantía de plaza.",
-        "included": "Confirmar equipo y materiales de opción elegida; mBot / Edison tienen Bring Your Own o Rent. Alquiler y compra de robot son condiciones distintas.",
-        "extras": "Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero.",
-        "deposit": "Holiday policy: cancelación hasta 7 días — devolución menos NZD 25; dentro de 7 días sin devolución. Ausencias sin devolución; enfermedad inesperada puede dar crédito por 6 meses. Otra sección describe evaluación tras primer día con aviso 6 horas antes del segundo; acordar aplicación a programa de un día. Contrato sin aceptar."
+        "unit": "day",
+        "label": "Con Edison propio, NZD 110 hasta las 15:00 o NZD 120 hasta las 17:00, con GST.",
+        "included": "Traer comida y merienda. La recepción temprana tiene coste.",
+        "extras": "Alquiler de Edison por NZD 10 adicionales según la ficha. Recepción temprana NZD 25. Traer comida.",
+        "deposit": "Consultar las condiciones de cancelación del operador antes de pagar."
       },
       "accommodation": "Programa diurno sin residencia.",
       "family_fit": {
         "matvey": {
           "status": "candidate",
-          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+          "detail": "Sí por edad. Confirmar sede, plazas y nivel de inglés."
         },
         "oscar": {
-          "status": "conditional",
-          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+          "status": "not_eligible",
+          "detail": "No. Edad mínima publicada de 7 años."
         }
       },
-      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "editorial_reason": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.",
       "shortlist": [],
       "questions": [
-        "Confirmar admisión extranjera individual, idioma, nivel tras tres años de competiciones, plaza y factura completa. Sin formularios enviados, consentimientos, mensajes, reservas ni pagos.",
-        "Comprobar año y variante concretos: parte de variantes JSON indica out of stock, no cierre de toda red. Sin añadir nada al carrito."
+        "Para dos menores, confirmar plazas el mismo día en la misma sede.",
+        "Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes."
       ],
       "sources": [
         {
-          "title": "Edison Robotics",
           "url": "https://scratchpad.co.nz/product/code-bot-program-edison-robot/",
-          "checked": "2026-11-05"
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
         },
         {
-          "title": "Categorías de edad del calendario holiday general",
           "url": "https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/",
-          "checked": "2026-11-05"
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
         },
         {
-          "title": "Enseñanza inglesa y holiday cancellation",
           "url": "https://scratchpad.co.nz/registration-terms-conditions/",
-          "checked": "2026-11-05"
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-07",
       "related_event_ids": [],
-      "calendar_links": []
+      "calendar_links": [
+        {
+          "start": "2026-12-18",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1272-20261218-20261218-2026-12-18-short"
+          ]
+        },
+        {
+          "start": "2026-12-18",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1272-20261218-20261218-2026-12-18-long"
+          ]
+        },
+        {
+          "start": "2027-01-22",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1272-20270122-20270122-2027-01-22-short"
+          ]
+        },
+        {
+          "start": "2027-01-22",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1272-20270122-20270122-2027-01-22-long"
+          ]
+        }
+      ]
     },
     {
       "id": "CP1273",
@@ -318411,6 +320658,1364 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1878",
+      "slug": "picrc-ocean-explorers",
+      "provider": "PICRC Ocean Explorers · Underwater Robotics",
+      "country": "Palaos",
+      "iso": "PLW",
+      "place": "PICRC · Koror",
+      "age": "Para alumnado de secundaria media según la organización.",
+      "programme": "Montaje y manejo de robot submarino, acuario y actividades con científicos del centro.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La página actual no indica fechas, precio ni idioma de las actividades técnicas.",
+        "session_details": [],
+        "variant_keyed": true,
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+        "included": "Montaje y manejo de robot submarino, acuario y actividades con científicos del centro.",
+        "extras": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+        "deposit": "La tarifa exacta de la convocatoria elegida no está confirmada."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No por el nivel escolar actual. El programa está destinado a secundaria media."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No por el nivel escolar actual. El programa está destinado a secundaria media."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Formato escolar. Aún no se publican condiciones para menores extranjeros ni criterios de inscripción."
+      ],
+      "sources": [
+        {
+          "url": "https://picrc.org/work/intersession-summer-programs/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://picrc.org/picrc-launches-new-student-program-on-building-underwater-robots/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "L717"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1879",
+      "slug": "scratchpad-nz-roblox-2026-27",
+      "provider": "SCRATCHPAD · Roblox Studio",
+      "country": "Nueva Zelanda",
+      "iso": "NZL",
+      "place": "Auckland / Christchurch · elegir sede",
+      "age": "Desde 9 años.",
+      "programme": "Desarrollo de un mundo y programación de un juego en Roblox Studio.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Opciones diurnas de diciembre de 2026 y enero de 2027. Fechas deducidas de las semanas y cotejadas con las fichas.",
+        "session_details": [
+          {
+            "variant_key": "2026-12-21-short",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Desarrollo de un mundo y programación de un juego en Roblox Studio.",
+                "start_utc": "2026-12-20T20:00:00Z",
+                "end_utc": "2026-12-21T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2026-12-21-long",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Desarrollo de un mundo y programación de un juego en Roblox Studio.",
+                "start_utc": "2026-12-20T20:00:00Z",
+                "end_utc": "2026-12-21T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-06-short",
+            "start": "2027-01-06",
+            "end": "2027-01-06",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Desarrollo de un mundo y programación de un juego en Roblox Studio.",
+                "start_utc": "2027-01-05T20:00:00Z",
+                "end_utc": "2027-01-06T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-06-long",
+            "start": "2027-01-06",
+            "end": "2027-01-06",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Desarrollo de un mundo y programación de un juego en Roblox Studio.",
+                "start_utc": "2027-01-05T20:00:00Z",
+                "end_utc": "2027-01-06T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-11-short",
+            "start": "2027-01-11",
+            "end": "2027-01-11",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Desarrollo de un mundo y programación de un juego en Roblox Studio.",
+                "start_utc": "2027-01-10T20:00:00Z",
+                "end_utc": "2027-01-11T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-11-long",
+            "start": "2027-01-11",
+            "end": "2027-01-11",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Desarrollo de un mundo y programación de un juego en Roblox Studio.",
+                "start_utc": "2027-01-10T20:00:00Z",
+                "end_utc": "2027-01-11T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-18-short",
+            "start": "2027-01-18",
+            "end": "2027-01-18",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Desarrollo de un mundo y programación de un juego en Roblox Studio.",
+                "start_utc": "2027-01-17T20:00:00Z",
+                "end_utc": "2027-01-18T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-18-long",
+            "start": "2027-01-18",
+            "end": "2027-01-18",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Desarrollo de un mundo y programación de un juego en Roblox Studio.",
+                "start_utc": "2027-01-17T20:00:00Z",
+                "end_utc": "2027-01-18T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-25-short",
+            "start": "2027-01-25",
+            "end": "2027-01-25",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 110 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Desarrollo de un mundo y programación de un juego en Roblox Studio.",
+                "start_utc": "2027-01-24T20:00:00Z",
+                "end_utc": "2027-01-25T02:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-25-long",
+            "start": "2027-01-25",
+            "end": "2027-01-25",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 120 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/develop-games-roblox/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Desarrollo de un mundo y programación de un juego en Roblox Studio.",
+                "start_utc": "2027-01-24T20:00:00Z",
+                "end_utc": "2027-01-25T04:00:00Z"
+              }
+            ],
+            "place": "Auckland / Christchurch · elegir sede",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ],
+          [
+            "2027-01-06",
+            "2027-01-06"
+          ],
+          [
+            "2027-01-06",
+            "2027-01-06"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-11"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-11"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-18"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-18"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-25"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-25"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "NZD",
+        "amount": null,
+        "unit": "day",
+        "label": "NZD 110 por día de 09:00 a 15:00 o NZD 120 por día de 09:00 a 17:00, con GST.",
+        "included": "Traer comida y merienda. La recepción temprana tiene coste.",
+        "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+        "deposit": "Consultar las condiciones de cancelación del operador antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar sede, plazas y nivel de inglés."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No. Edad mínima publicada de 9 años."
+        }
+      },
+      "editorial_reason": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.",
+      "shortlist": [],
+      "questions": [
+        "Para dos menores, confirmar plazas el mismo día en la misma sede.",
+        "Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes."
+      ],
+      "sources": [
+        {
+          "url": "https://scratchpad.co.nz/product/develop-games-roblox/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://scratchpad.co.nz/registration-terms-conditions/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "language_evidence_role": "primary",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1879-20261221-20261221-2026-12-21-short"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1879-20261221-20261221-2026-12-21-long"
+          ]
+        },
+        {
+          "start": "2027-01-06",
+          "end": "2027-01-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1879-20270106-20270106-2027-01-06-short"
+          ]
+        },
+        {
+          "start": "2027-01-06",
+          "end": "2027-01-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1879-20270106-20270106-2027-01-06-long"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1879-20270111-20270111-2027-01-11-short"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1879-20270111-20270111-2027-01-11-long"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1879-20270118-20270118-2027-01-18-short"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1879-20270118-20270118-2027-01-18-long"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1879-20270125-20270125-2027-01-25-short"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1879-20270125-20270125-2027-01-25-long"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1880",
+      "slug": "scratchpad-nz-machine-learning-2027",
+      "provider": "SCRATCHPAD · Machine Learning for Kids",
+      "country": "Nueva Zelanda",
+      "iso": "NZL",
+      "place": "Auckland · St Lukes / Botany / Royal Oak",
+      "age": "Desde 8 años. No se requiere experiencia en programación.",
+      "programme": "Reconocimiento de imágenes y creación de un juego con un modelo de aprendizaje automático.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "19 de enero de 2027 según el cálculo del calendario semanal. Hay dos opciones de duración.",
+        "session_details": [
+          {
+            "variant_key": "2027-01-19-short",
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "label": "Día de 09:00 a 15:00",
+            "price": "NZD 115 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/machine-learning/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Reconocimiento de imágenes y creación de un juego con un modelo de aprendizaje automático.",
+                "start_utc": "2027-01-18T20:00:00Z",
+                "end_utc": "2027-01-19T02:00:00Z"
+              }
+            ],
+            "place": "Auckland · St Lukes / Botany / Royal Oak",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          },
+          {
+            "variant_key": "2027-01-19-long",
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "label": "Día de 09:00 a 17:00",
+            "price": "NZD 125 por menor y día con GST.",
+            "source": "https://scratchpad.co.nz/product/machine-learning/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La opción figura en la web. Las plazas dependen de la sede."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Pacific/Auckland",
+                "ical_timed": true,
+                "topic": "Reconocimiento de imágenes y creación de un juego con un modelo de aprendizaje automático.",
+                "start_utc": "2027-01-18T20:00:00Z",
+                "end_utc": "2027-01-19T04:00:00Z"
+              }
+            ],
+            "place": "Auckland · St Lukes / Botany / Royal Oak",
+            "entry": "Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.",
+            "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+            "date_precision": "published_rule",
+            "date_status": "regla publicada · fechas calculadas",
+            "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ],
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "NZD",
+        "amount": null,
+        "unit": "day",
+        "label": "NZD 115 por día de 09:00 a 15:00 o NZD 125 por día de 09:00 a 17:00, con GST.",
+        "included": "Traer comida y merienda. La recepción temprana tiene coste.",
+        "extras": "GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.",
+        "deposit": "Consultar las condiciones de cancelación del operador antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar sede, plazas y nivel de inglés."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No. Edad mínima publicada de 8 años."
+        }
+      },
+      "editorial_reason": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.",
+      "shortlist": [],
+      "questions": [
+        "Para dos menores, confirmar plazas el mismo día en la misma sede.",
+        "Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes."
+      ],
+      "sources": [
+        {
+          "url": "https://scratchpad.co.nz/product/machine-learning/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://scratchpad.co.nz/registration-terms-conditions/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "ai",
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "language_evidence_role": "primary",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-19",
+          "end": "2027-01-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1880-20270119-20270119-2027-01-19-short"
+          ]
+        },
+        {
+          "start": "2027-01-19",
+          "end": "2027-01-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1880-20270119-20270119-2027-01-19-long"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1881",
+      "slug": "little-earth-digital-art-coding-2026",
+      "provider": "Little Earth · Digital Art and Coding",
+      "country": "Singapur",
+      "iso": "SGP",
+      "place": "Tampines / Kovan · elegir sede",
+      "age": "De 3.º a 6.º de primaria.",
+      "programme": "Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "published_2026",
+        "label": "23–26 de noviembre o 7–10 de diciembre de 2026, de 10:00 a 12:30.",
+        "session_details": [
+          {
+            "variant_key": "2026-11-23-morning",
+            "start": "2026-11-23",
+            "end": "2026-11-26",
+            "label": "Digital Art and Coding",
+            "price": "Precio a consultar para la sede y el bloque elegidos.",
+            "source": "https://www.littleeartheducation.com/holiday-programmes/digital-art-coding-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.",
+                "start_utc": "2026-11-23T02:00:00Z",
+                "end_utc": "2026-11-23T04:30:00Z"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.",
+                "start_utc": "2026-11-24T02:00:00Z",
+                "end_utc": "2026-11-24T04:30:00Z"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.",
+                "start_utc": "2026-11-25T02:00:00Z",
+                "end_utc": "2026-11-25T04:30:00Z"
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.",
+                "start_utc": "2026-11-26T02:00:00Z",
+                "end_utc": "2026-11-26T04:30:00Z"
+              }
+            ],
+            "place": "Tampines / Kovan · elegir sede"
+          },
+          {
+            "variant_key": "2026-12-07-morning",
+            "start": "2026-12-07",
+            "end": "2026-12-10",
+            "label": "Digital Art and Coding",
+            "price": "Precio a consultar para la sede y el bloque elegidos.",
+            "source": "https://www.littleeartheducation.com/holiday-programmes/digital-art-coding-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.",
+                "start_utc": "2026-12-07T02:00:00Z",
+                "end_utc": "2026-12-07T04:30:00Z"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.",
+                "start_utc": "2026-12-08T02:00:00Z",
+                "end_utc": "2026-12-08T04:30:00Z"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.",
+                "start_utc": "2026-12-09T02:00:00Z",
+                "end_utc": "2026-12-09T04:30:00Z"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.",
+                "start_utc": "2026-12-10T02:00:00Z",
+                "end_utc": "2026-12-10T04:30:00Z"
+              }
+            ],
+            "place": "Tampines / Kovan · elegir sede"
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-11-23",
+            "2026-11-26"
+          ],
+          [
+            "2026-12-07",
+            "2026-12-10"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "SGD",
+        "amount": null,
+        "unit": "session",
+        "label": "Precio a consultar para la sede y el bloque elegidos.",
+        "included": "Animación, Scratch, robot con sensores y juego HTML con ayuda de IA.",
+        "extras": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+        "deposit": "La tarifa exacta de la convocatoria elegida no está confirmada."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar equivalencia de 3.º curso e idioma de clase."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No por el nivel escolar actual. Se exige 3.º curso o superior."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso, disponibilidad, precio e idioma de las actividades técnicas."
+      ],
+      "sources": [
+        {
+          "url": "https://www.littleeartheducation.com/holiday-programmes/digital-art-coding-2026",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.littleeartheducation.com/holiday-programmes",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "games",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-23",
+          "end": "2026-11-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1881-20261123-20261126-2026-11-23-morning"
+          ]
+        },
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1881-20261207-20261210-2026-12-07-morning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1882",
+      "slug": "little-earth-holiday-full-day-2026",
+      "provider": "Little Earth · Full-Day Holiday Programme",
+      "country": "Singapur",
+      "iso": "SGP",
+      "place": "Tampines / Kovan / Bishan / Bukit Timah · elegir sede",
+      "age": "De K2 a 6.º de primaria.",
+      "programme": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "published_2026",
+        "label": "Bloques de día completo 23–27 de noviembre, 30 de noviembre–4 de diciembre, 7–11 y 14–18 de diciembre de 2026. 08:00–18:00.",
+        "session_details": [
+          {
+            "variant_key": "2026-11-23-full",
+            "start": "2026-11-23",
+            "end": "2026-11-27",
+            "label": "Full Day",
+            "price": "Precio a consultar para la sede y el bloque elegidos.",
+            "source": "https://www.littleeartheducation.com/holiday-programmes",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-11-23T00:00:00Z",
+                "end_utc": "2026-11-23T10:00:00Z"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-11-24T00:00:00Z",
+                "end_utc": "2026-11-24T10:00:00Z"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-11-25T00:00:00Z",
+                "end_utc": "2026-11-25T10:00:00Z"
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-11-26T00:00:00Z",
+                "end_utc": "2026-11-26T10:00:00Z"
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-11-27T00:00:00Z",
+                "end_utc": "2026-11-27T10:00:00Z"
+              }
+            ],
+            "place": "Tampines / Kovan / Bishan / Bukit Timah · elegir sede",
+            "programme": "Robótica la mañana del 26 de noviembre y visita a ArtScience Museum el 27 de noviembre."
+          },
+          {
+            "variant_key": "2026-11-30-full",
+            "start": "2026-11-30",
+            "end": "2026-12-04",
+            "label": "Full Day",
+            "price": "Precio a consultar para la sede y el bloque elegidos.",
+            "source": "https://www.littleeartheducation.com/holiday-programmes",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-11-30T00:00:00Z",
+                "end_utc": "2026-11-30T10:00:00Z"
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-12-01T00:00:00Z",
+                "end_utc": "2026-12-01T10:00:00Z"
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-12-02T00:00:00Z",
+                "end_utc": "2026-12-02T10:00:00Z"
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-12-03T00:00:00Z",
+                "end_utc": "2026-12-03T10:00:00Z"
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-12-04T00:00:00Z",
+                "end_utc": "2026-12-04T10:00:00Z"
+              }
+            ],
+            "place": "Tampines / Kovan / Bishan / Bukit Timah · elegir sede",
+            "programme": "Creación de historias con IA y programación el 1–2 de diciembre."
+          },
+          {
+            "variant_key": "2026-12-07-full",
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Full Day",
+            "price": "Precio a consultar para la sede y el bloque elegidos.",
+            "source": "https://www.littleeartheducation.com/holiday-programmes",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-12-07T00:00:00Z",
+                "end_utc": "2026-12-07T10:00:00Z"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-12-08T00:00:00Z",
+                "end_utc": "2026-12-08T10:00:00Z"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-12-09T00:00:00Z",
+                "end_utc": "2026-12-09T10:00:00Z"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-12-10T00:00:00Z",
+                "end_utc": "2026-12-10T10:00:00Z"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-12-11T00:00:00Z",
+                "end_utc": "2026-12-11T10:00:00Z"
+              }
+            ],
+            "place": "Tampines / Kovan / Bishan / Bukit Timah · elegir sede",
+            "programme": "Robótica la tarde del 10 de diciembre."
+          },
+          {
+            "variant_key": "2026-12-14-full",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Full Day",
+            "price": "Precio a consultar para la sede y el bloque elegidos.",
+            "source": "https://www.littleeartheducation.com/holiday-programmes",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-12-14T00:00:00Z",
+                "end_utc": "2026-12-14T10:00:00Z"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-12-15T00:00:00Z",
+                "end_utc": "2026-12-15T10:00:00Z"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-12-16T00:00:00Z",
+                "end_utc": "2026-12-16T10:00:00Z"
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-12-17T00:00:00Z",
+                "end_utc": "2026-12-17T10:00:00Z"
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+                "start_utc": "2026-12-18T00:00:00Z",
+                "end_utc": "2026-12-18T10:00:00Z"
+              }
+            ],
+            "place": "Tampines / Kovan / Bishan / Bukit Timah · elegir sede",
+            "programme": "Arte digital la mañana del 15 de diciembre. Se requiere tableta y lápiz digital."
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-11-23",
+            "2026-11-27"
+          ],
+          [
+            "2026-11-30",
+            "2026-12-04"
+          ],
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "SGD",
+        "amount": null,
+        "unit": "session",
+        "label": "Precio a consultar para la sede y el bloque elegidos.",
+        "included": "Programa vacacional con bloques técnicos, deporte y excursiones.",
+        "extras": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+        "deposit": "La tarifa exacta de la convocatoria elegida no está confirmada."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso, disponibilidad, precio e idioma de las actividades técnicas."
+      ],
+      "sources": [
+        {
+          "url": "https://www.littleeartheducation.com/holiday-programmes",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "art",
+        "technology",
+        "general"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-23",
+          "end": "2026-11-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1882-20261123-20261127-2026-11-23-full"
+          ]
+        },
+        {
+          "start": "2026-11-30",
+          "end": "2026-12-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1882-20261130-20261204-2026-11-30-full"
+          ]
+        },
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1882-20261207-20261211-2026-12-07-full"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1882-20261214-20261218-2026-12-14-full"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -323736,7 +327341,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 247,
+  "version": 248,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -336971,7 +340576,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1877,
+      "total_dossiers": 1882,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -351671,6 +355276,266 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20261215-20261215-2026-12-15-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20261215-20261215-2026-12-15-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20261216-20261216-2026-12-16-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20261216-20261216-2026-12-16-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20261217-20261217-2026-12-17-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20261217-20261217-2026-12-17-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20261218-20261218-2026-12-18-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20261218-20261218-2026-12-18-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20261221-20261221-2026-12-21-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20261221-20261221-2026-12-21-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20261222-20261222-2026-12-22-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20261222-20261222-2026-12-22-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270106-20270106-2027-01-06-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270106-20270106-2027-01-06-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270107-20270107-2027-01-07-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270107-20270107-2027-01-07-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270108-20270108-2027-01-08-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270108-20270108-2027-01-08-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270111-20270111-2027-01-11-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270111-20270111-2027-01-11-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270112-20270112-2027-01-12-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270112-20270112-2027-01-12-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270113-20270113-2027-01-13-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270113-20270113-2027-01-13-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270114-20270114-2027-01-14-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270114-20270114-2027-01-14-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270115-20270115-2027-01-15-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270115-20270115-2027-01-15-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270118-20270118-2027-01-18-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270118-20270118-2027-01-18-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270119-20270119-2027-01-19-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270119-20270119-2027-01-19-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270120-20270120-2027-01-20-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270120-20270120-2027-01-20-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270121-20270121-2027-01-21-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270121-20270121-2027-01-21-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270122-20270122-2027-01-22-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270122-20270122-2027-01-22-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270125-20270125-2027-01-25-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270125-20270125-2027-01-25-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270126-20270126-2027-01-26-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270126-20270126-2027-01-26-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270127-20270127-2027-01-27-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270127-20270127-2027-01-27-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270128-20270128-2027-01-28-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270128-20270128-2027-01-28-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270129-20270129-2027-01-29-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1270",
+      "event_id": "CP1270-20270129-20270129-2027-01-29-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1272",
+      "event_id": "CP1272-20261218-20261218-2026-12-18-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1272",
+      "event_id": "CP1272-20261218-20261218-2026-12-18-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1272",
+      "event_id": "CP1272-20270122-20270122-2027-01-22-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1272",
+      "event_id": "CP1272-20270122-20270122-2027-01-22-long",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1276",
       "event_id": "CP1276-20270103-20270108-summer",
       "relation": "catalogue_session"
@@ -357761,6 +361626,101 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1878",
+      "event_id": "L717",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP1879",
+      "event_id": "CP1879-20261221-20261221-2026-12-21-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1879",
+      "event_id": "CP1879-20261221-20261221-2026-12-21-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1879",
+      "event_id": "CP1879-20270106-20270106-2027-01-06-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1879",
+      "event_id": "CP1879-20270106-20270106-2027-01-06-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1879",
+      "event_id": "CP1879-20270111-20270111-2027-01-11-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1879",
+      "event_id": "CP1879-20270111-20270111-2027-01-11-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1879",
+      "event_id": "CP1879-20270118-20270118-2027-01-18-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1879",
+      "event_id": "CP1879-20270118-20270118-2027-01-18-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1879",
+      "event_id": "CP1879-20270125-20270125-2027-01-25-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1879",
+      "event_id": "CP1879-20270125-20270125-2027-01-25-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1880",
+      "event_id": "CP1880-20270119-20270119-2027-01-19-short",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1880",
+      "event_id": "CP1880-20270119-20270119-2027-01-19-long",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1881",
+      "event_id": "CP1881-20261123-20261126-2026-11-23-morning",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1881",
+      "event_id": "CP1881-20261207-20261210-2026-12-07-morning",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1882",
+      "event_id": "CP1882-20261123-20261127-2026-11-23-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1882",
+      "event_id": "CP1882-20261130-20261204-2026-11-30-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1882",
+      "event_id": "CP1882-20261207-20261211-2026-12-07-full",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1882",
+      "event_id": "CP1882-20261214-20261218-2026-12-14-full",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -360978,6 +364938,58 @@
     "CP1267-20270121-20270121-day-6",
     "CP1268-20270126-20270126-day-9",
     "CP1269-20270122-20270122-day-7",
+    "CP1270-20261215-20261215-2026-12-15-short",
+    "CP1270-20261215-20261215-2026-12-15-long",
+    "CP1270-20261216-20261216-2026-12-16-short",
+    "CP1270-20261216-20261216-2026-12-16-long",
+    "CP1270-20261217-20261217-2026-12-17-short",
+    "CP1270-20261217-20261217-2026-12-17-long",
+    "CP1270-20261218-20261218-2026-12-18-short",
+    "CP1270-20261218-20261218-2026-12-18-long",
+    "CP1270-20261221-20261221-2026-12-21-short",
+    "CP1270-20261221-20261221-2026-12-21-long",
+    "CP1270-20261222-20261222-2026-12-22-short",
+    "CP1270-20261222-20261222-2026-12-22-long",
+    "CP1270-20270106-20270106-2027-01-06-short",
+    "CP1270-20270106-20270106-2027-01-06-long",
+    "CP1270-20270107-20270107-2027-01-07-short",
+    "CP1270-20270107-20270107-2027-01-07-long",
+    "CP1270-20270108-20270108-2027-01-08-short",
+    "CP1270-20270108-20270108-2027-01-08-long",
+    "CP1270-20270111-20270111-2027-01-11-short",
+    "CP1270-20270111-20270111-2027-01-11-long",
+    "CP1270-20270112-20270112-2027-01-12-short",
+    "CP1270-20270112-20270112-2027-01-12-long",
+    "CP1270-20270113-20270113-2027-01-13-short",
+    "CP1270-20270113-20270113-2027-01-13-long",
+    "CP1270-20270114-20270114-2027-01-14-short",
+    "CP1270-20270114-20270114-2027-01-14-long",
+    "CP1270-20270115-20270115-2027-01-15-short",
+    "CP1270-20270115-20270115-2027-01-15-long",
+    "CP1270-20270118-20270118-2027-01-18-short",
+    "CP1270-20270118-20270118-2027-01-18-long",
+    "CP1270-20270119-20270119-2027-01-19-short",
+    "CP1270-20270119-20270119-2027-01-19-long",
+    "CP1270-20270120-20270120-2027-01-20-short",
+    "CP1270-20270120-20270120-2027-01-20-long",
+    "CP1270-20270121-20270121-2027-01-21-short",
+    "CP1270-20270121-20270121-2027-01-21-long",
+    "CP1270-20270122-20270122-2027-01-22-short",
+    "CP1270-20270122-20270122-2027-01-22-long",
+    "CP1270-20270125-20270125-2027-01-25-short",
+    "CP1270-20270125-20270125-2027-01-25-long",
+    "CP1270-20270126-20270126-2027-01-26-short",
+    "CP1270-20270126-20270126-2027-01-26-long",
+    "CP1270-20270127-20270127-2027-01-27-short",
+    "CP1270-20270127-20270127-2027-01-27-long",
+    "CP1270-20270128-20270128-2027-01-28-short",
+    "CP1270-20270128-20270128-2027-01-28-long",
+    "CP1270-20270129-20270129-2027-01-29-short",
+    "CP1270-20270129-20270129-2027-01-29-long",
+    "CP1272-20261218-20261218-2026-12-18-short",
+    "CP1272-20261218-20261218-2026-12-18-long",
+    "CP1272-20270122-20270122-2027-01-22-short",
+    "CP1272-20270122-20270122-2027-01-22-long",
     "CP1276-20270103-20270108-summer",
     "CP1277-20270326-20270329-easter",
     "CP1278-20270105-20270108-sold-out",
@@ -362131,10 +366143,28 @@
     "CP1875-20261114-20261115-family-2026-11-14",
     "CP1875-20261205-20261206-family-2026-12-05",
     "CP1875-20261212-20261213-family-2026-12-12",
-    "CP1877-20261226-20261228-winter-magic-2026-12-26-toyocho"
+    "CP1877-20261226-20261228-winter-magic-2026-12-26-toyocho",
+    "CP1879-20261221-20261221-2026-12-21-short",
+    "CP1879-20261221-20261221-2026-12-21-long",
+    "CP1879-20270106-20270106-2027-01-06-short",
+    "CP1879-20270106-20270106-2027-01-06-long",
+    "CP1879-20270111-20270111-2027-01-11-short",
+    "CP1879-20270111-20270111-2027-01-11-long",
+    "CP1879-20270118-20270118-2027-01-18-short",
+    "CP1879-20270118-20270118-2027-01-18-long",
+    "CP1879-20270125-20270125-2027-01-25-short",
+    "CP1879-20270125-20270125-2027-01-25-long",
+    "CP1880-20270119-20270119-2027-01-19-short",
+    "CP1880-20270119-20270119-2027-01-19-long",
+    "CP1881-20261123-20261126-2026-11-23-morning",
+    "CP1881-20261207-20261210-2026-12-07-morning",
+    "CP1882-20261123-20261127-2026-11-23-full",
+    "CP1882-20261130-20261204-2026-11-30-full",
+    "CP1882-20261207-20261211-2026-12-07-full",
+    "CP1882-20261214-20261218-2026-12-14-full"
   ],
   "integration": {
-    "generated_sessions": 3940,
+    "generated_sessions": 4010,
     "reused_legacy_events": 73,
     "seasonal_windows": 73,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."
