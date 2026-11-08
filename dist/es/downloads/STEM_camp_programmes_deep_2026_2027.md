@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 1972 fichas en 126 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-08. 1974 fichas en 126 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -158147,6 +158147,148 @@ Perú · Lima · Chio Lecca
 - [Página de la organización o reglamento de la categoría.](https://www.chio-lecca.edu.pe/collections/creacion-de-personajes-y-mundos-kids-teens) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://www.chio-lecca.edu.pe/products/creacion-de-personajes-y-mundos-kids) · 2026-11-08
+
+## CP1973 · Science World Vancouver · Winter Video Games
+
+Canadá · Vancouver · Science World
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 1–7, nacidos en 2014–2020. Grupos por año de nacimiento.
+
+**Idioma:** Actividades en inglés. La política del campamento exige inglés básico para seguir al personal docente.
+
+**Programa:** Diseño de personajes y mundos de videojuego, animación, fundamentos de programación y visita a Game Changers.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Se elige uno de dos turnos con el mismo contenido. El último día hay programa familiar a las 14:00.
+
+**Precio / año:** 2026 · CAD 439.95 por turno. Los miembros de Science World con membresía activa pagan CAD 384.95.
+
+**Incluido:** Programa diurno y visita a la exposición durante el campamento.
+
+**Suplementos:** Opcionalmente CAD 45 por entrada a las 08:15 durante 4 días y CAD 90 por salida hasta las 17:00 durante 3 días. El último día el museo cierra a las 15:00.
+
+**Pago:** Las reglas para campamentos de 3–5 días prevén un cargo de CAD 35 al devolver el importe. Si se cancela más de 14 días antes, se devuelve el precio menos el cargo. Dentro de 7 días no hay devolución.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Se elige uno de dos turnos con el mismo contenido. El último día hay programa familiar a las 14:00.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Las reglas para campamentos de 3–5 días prevén un cargo de CAD 35 al devolver el importe. Si se cancela más de 14 días antes, se devuelve el precio menos el cargo. Dentro de 7 días no hay devolución.
+
+### Se elige uno de dos turnos con el mismo contenido. El último día hay programa familiar a las 14:00.
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** CAD 439.95 por turno. Los miembros de Science World con membresía activa pagan CAD 384.95.
+
+- 2026-12-21 · 09:00–15:00 · America/Vancouver · Winter Science Camps: Video Games
+
+- 2026-12-22 · 09:00–15:00 · America/Vancouver · Winter Science Camps: Video Games
+
+- 2026-12-23 · 09:00–15:00 · America/Vancouver · Winter Science Camps: Video Games
+
+- 2026-12-24 · 09:00–15:00 · America/Vancouver · Winter Science Camps: Video Games
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.scienceworld.ca/winter-camps-2026/)
+
+### Se elige uno de dos turnos con el mismo contenido. El último día hay programa familiar a las 14:00.
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** CAD 439.95 por turno. Los miembros de Science World con membresía activa pagan CAD 384.95.
+
+- 2026-12-28 · 09:00–15:00 · America/Vancouver · Winter Science Camps: Video Games
+
+- 2026-12-29 · 09:00–15:00 · America/Vancouver · Winter Science Camps: Video Games
+
+- 2026-12-30 · 09:00–15:00 · America/Vancouver · Winter Science Camps: Video Games
+
+- 2026-12-31 · 09:00–15:00 · America/Vancouver · Winter Science Camps: Video Games
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.scienceworld.ca/winter-camps-2026/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.scienceworld.ca/winter-camps-2026/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.scienceworld.ca/science-camps-knowledge-hub/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.scienceworld.ca/exhibition/game-changers/) · 2026-11-08
+
+## CP1974 · Future Zebra · AI Drone Maker Camp
+
+Taiwán · Hsinchu · NYCU Guangfu Campus · Engineering Building III
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Desde grado 3 de primaria. No se requiere experiencia en programación ni vuelo.
+
+**Idioma:** Página en chino. Confirmar el idioma de instrucción y si hay apoyo en inglés.
+
+**Programa:** Montaje y control manual de un dron, luego Python con asistencia de IA y partidos de práctica de fútbol con drones.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Del 25 al 29 de enero de 2027, clases de 09:00–16:00. Recogida de 16:00–16:30.
+
+**Precio / año:** 2027 · Precio vigente indicado TWD 9800. Almuerzo opcional por TWD 150 al día o TWD 750 por turno.
+
+**Incluido:** La organización proporciona el dron didáctico programable.
+
+**Suplementos:** El almuerzo se cobra aparte. El kit de regalo para los primeros 30 pagos depende de disponibilidad.
+
+**Pago:** Con 10 días o más, devolución íntegra; con 7–9 días, 80%; con 4–6 días, 50%; con 1–3 días, sin devolución.
+
+**Matvey:** Confirmar grado 3 o superior, idioma docente y admisión extranjera.
+
+**Oscar:** Para la trayectoria escolar habitual de Oscar hay que esperar a grado 3.
+
+**Motivo de selección:** Del 25 al 29 de enero de 2027, clases de 09:00–16:00. Recogida de 16:00–16:30.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Con 10 días o más, devolución íntegra; con 7–9 días, 80%; con 4–6 días, 50%; con 1–3 días, sin devolución.
+
+### Del 25 al 29 de enero de 2027, clases de 09:00–16:00. Recogida de 16:00–16:30.
+
+**Fechas / estado:** 2027-01-25 — 2027-01-29
+
+**Precio:** Precio vigente indicado TWD 9800. Almuerzo opcional por TWD 150 al día o TWD 750 por turno.
+
+- 2027-01-25 · 09:00–16:00 · Asia/Taipei · AI Drone Maker Camp
+
+- 2027-01-26 · 09:00–16:00 · Asia/Taipei · AI Drone Maker Camp
+
+- 2027-01-27 · 09:00–16:00 · Asia/Taipei · AI Drone Maker Camp
+
+- 2027-01-28 · 09:00–16:00 · Asia/Taipei · AI Drone Maker Camp
+
+- 2027-01-29 · 09:00–16:00 · Asia/Taipei · AI Drone Maker Camp
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://greenmail1011.github.io/camp2027/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://greenmail1011.github.io/camp2027/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.futurezebra.com/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

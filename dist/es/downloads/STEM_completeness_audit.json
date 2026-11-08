@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10226,
-    "competition_cards": 4636,
-    "event_cards": 565,
-    "camp_cards": 5025,
+    "cards": 10234,
+    "competition_cards": 4639,
+    "event_cards": 567,
+    "camp_cards": 5028,
     "league_profiles": 299,
-    "major_exhibition_cards": 469,
+    "major_exhibition_cards": 471,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3325,
+      "total": 3328,
       "countries_with_records": 40,
       "competitions": 1914,
-      "events": 145,
-      "major_exhibitions": 108,
-      "camps": 1266,
+      "events": 146,
+      "major_exhibitions": 109,
+      "camps": 1268,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -62,9 +62,9 @@
       "regions": [
         "Europa"
       ],
-      "total": 2201,
+      "total": 2204,
       "countries_with_records": 54,
-      "competitions": 599,
+      "competitions": 602,
       "events": 147,
       "major_exhibitions": 122,
       "camps": 1455,
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 2966,
+      "total": 2968,
       "countries_with_records": 49,
       "competitions": 1155,
-      "events": 153,
-      "major_exhibitions": 140,
-      "camps": 1658,
+      "events": 154,
+      "major_exhibitions": 141,
+      "camps": 1659,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -7969,13 +7969,16 @@
       "name": "MRC Global Olympiad / MRC Junior",
       "group": "international",
       "event_ids": [
+        "C3152",
         "C4547",
+        "C4638",
+        "C4639",
         "C1634",
         "C1635"
       ],
-      "cards": 3,
+      "cards": 6,
       "future_dated": 1,
-      "linked_card_count": 3,
+      "linked_card_count": 6,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.he-ro.gr/minoan-robotsports-competition",
       "new": false
@@ -13846,6 +13849,28 @@
       "new": false
     },
     {
+      "id": "E566",
+      "name": "Science World · Game Changers",
+      "country": "Canadá",
+      "region": "América del Norte",
+      "start": "2026-10-16",
+      "end": "2027-01-24",
+      "visitor_policy": "family",
+      "source": "https://www.scienceworld.ca/exhibition/game-changers/",
+      "new": false
+    },
+    {
+      "id": "E567",
+      "name": "Hong Kong Science Museum · AI Gallery + InnoTech Gallery",
+      "country": "RAE de Hong Kong (China)",
+      "region": "Asia",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://hk.science.museum/en/web/scm/exhibition/aig.html",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -16263,14 +16288,14 @@
       }
     ],
     "counts": {
-      "records": 5025,
-      "holiday": 4673,
+      "records": 5028,
+      "holiday": 4676,
       "regular": 160,
       "self_paced_materials": 4,
       "boarding": 1037,
-      "en_es_instruction": 1591,
+      "en_es_instruction": 1593,
       "en_es_support": 28,
-      "family_instruction": 1591,
+      "family_instruction": 1593,
       "family_support": 28,
       "ru_instruction": 4,
       "language_lessons": 412,

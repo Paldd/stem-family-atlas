@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10226; соревнований: 4636; событий: 565; лагерей / программ: 5025. Профилей лиг и программ: 299. Карточек крупных и профильных выставок: 469 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10234; соревнований: 4639; событий: 567; лагерей / программ: 5028. Профилей лиг и программ: 299. Карточек крупных и профильных выставок: 471 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 231 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,16 +14,16 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 40 | 1914 | 108 | 1266 |
+| Северная Америка | 40 | 1914 | 109 | 1268 |
 | Южная Америка | 14 | 430 | 40 | 207 |
-| Европа | 54 | 599 | 122 | 1455 |
+| Европа | 54 | 602 | 122 | 1455 |
 | Африка | 53 | 235 | 28 | 92 |
-| Азия | 49 | 1155 | 140 | 1658 |
+| Азия | 49 | 1155 | 141 | 1659 |
 | Океания | 25 | 163 | 29 | 332 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 162. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 814 из 4636 карточек соревнований (17.6%). Это явный перекос охвата.
+VEX: 814 из 4639 карточек соревнований (17.5%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -337,7 +337,7 @@ VEX: 814 из 4636 карточек соревнований (17.6%). Это я�
 - **FIRST LEGO League · Bulgaria · local 2026/27**: 3 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.fll.bg/teams-registrationbioglow
 - **FIRST LEGO League · Lithuania · local 2026/27**: 4 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.lituanicax.lt/first-lego-league
 - **FIRST LEGO League · Slovakia · local 2026/27**: 4 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.fll.sk/main/sezona/bioglow
-- **MRC Global Olympiad / MRC Junior**: 3 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.he-ro.gr/minoan-robotsports-competition
+- **MRC Global Olympiad / MRC Junior**: 6 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.he-ro.gr/minoan-robotsports-competition
 - **WRO Hungary · KIDS 6–10**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wro.hu/kids_kategoria/
 - **Robotex Cyprus · local school levels**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://robotex.org.cy/en/page/competitions-page/
 - **RoboChallenge Romania · international Kids / open robotics**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://robochallenge.ro/about
@@ -836,6 +836,8 @@ VEX: 814 из 4636 карточек соревнований (17.6%). Это я�
 - **Futuristas 2026 · Chile es tu futuro** — Чили; 2026-11-12. Со взрослым; условия взрослого входа отдельно. https://www.congresofuturo.cl/informate/futuristas-2026-una-aventura-gratuita-para-recorrer-chile-a-traves-de-la-ciencia-el-juego-y-la-tecnologia
 - **Congreso Futuro 2027 · El Desafío de Ser Humanos** — Чили; 2027-01-11 – 2027-01-16. Детский допуск уточнить. https://www.congresofuturo.cl/informate/congreso-futuro-anuncia-nueva-version-en-estacion-mapocho-enfocada-en-el-desafio-de-ser-humanos
 - **Hot Wheels City Experience · Zona Gamer** — Аргентина; 2026-12-03 – 2027-01-04. Со взрослым; условия взрослого входа отдельно. https://larural.com.ar/evento/hot-wheels-city-experience/
+- **Science World · Game Changers** — Канада; 2026-10-16 – 2027-01-24. Со взрослым; условия взрослого входа отдельно. https://www.scienceworld.ca/exhibition/game-changers/
+- **Hong Kong Science Museum · AI Gallery + InnoTech Gallery** — Китай, Специальный административный район Гонконг; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://hk.science.museum/en/web/scm/exhibition/aig.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

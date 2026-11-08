@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10226; competiciones: 4636; eventos: 565; campamentos / programas: 5025. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 469 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10234; competiciones: 4639; eventos: 567; campamentos / programas: 5028. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 471 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1914 | 108 | 1266 |
+| América del Norte | 40 | 1914 | 109 | 1268 |
 | América del Sur | 14 | 430 | 40 | 207 |
-| Europa | 54 | 599 | 122 | 1455 |
+| Europa | 54 | 602 | 122 | 1455 |
 | África | 53 | 235 | 28 | 92 |
-| Asia | 49 | 1155 | 140 | 1658 |
+| Asia | 49 | 1155 | 141 | 1659 |
 | Oceanía | 25 | 163 | 29 | 332 |
 
 Fichas interregionales o globales sin asignar a un continente: 162. Norteamérica incluye Centroamérica y el Caribe. Los recuentos muestran el inventario de la base, no un porcentaje de exhaustividad.
 
-VEX: 814 de 4636 fichas de competición (17.6%). La cobertura presenta un desequilibrio evidente.
+VEX: 814 de 4639 fichas de competición (17.5%). La cobertura presenta un desequilibrio evidente.
 
 ## Lo que queda
 
@@ -337,7 +337,7 @@ VEX: 814 de 4636 fichas de competición (17.6%). La cobertura presenta un desequ
 - **FIRST LEGO League · Bulgaria · local 2026/27**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.fll.bg/teams-registrationbioglow
 - **FIRST LEGO League · Lithuania · local 2026/27**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.lituanicax.lt/first-lego-league
 - **FIRST LEGO League · Slovakia · local 2026/27**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.fll.sk/main/sezona/bioglow
-- **MRC Global Olympiad / MRC Junior**: 3 fichas, 1 con fechas futuras exactas. Hay perfil y fichas. La cobertura local es parcial. https://www.he-ro.gr/minoan-robotsports-competition
+- **MRC Global Olympiad / MRC Junior**: 6 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.he-ro.gr/minoan-robotsports-competition
 - **WRO Hungary · KIDS 6–10**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro.hu/kids_kategoria/
 - **Robotex Cyprus · local school levels**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robotex.org.cy/en/page/competitions-page/
 - **RoboChallenge Romania · international Kids / open robotics**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robochallenge.ro/about
@@ -836,6 +836,8 @@ VEX: 814 de 4636 fichas de competición (17.6%). La cobertura presenta un desequ
 - **Futuristas 2026 · Chile es tu futuro** — Chile; 2026-11-12. con un adulto; condiciones de admisión adulta por separado. https://www.congresofuturo.cl/informate/futuristas-2026-una-aventura-gratuita-para-recorrer-chile-a-traves-de-la-ciencia-el-juego-y-la-tecnologia
 - **Congreso Futuro 2027 · El Desafío de Ser Humanos** — Chile; 2027-01-11 – 2027-01-16. el permiso de entrada de niños. https://www.congresofuturo.cl/informate/congreso-futuro-anuncia-nueva-version-en-estacion-mapocho-enfocada-en-el-desafio-de-ser-humanos
 - **Hot Wheels City Experience · Zona Gamer** — Argentina; 2026-12-03 – 2027-01-04. con un adulto; condiciones de admisión adulta por separado. https://larural.com.ar/evento/hot-wheels-city-experience/
+- **Science World · Game Changers** — Canadá; 2026-10-16 – 2027-01-24. con un adulto; condiciones de admisión adulta por separado. https://www.scienceworld.ca/exhibition/game-changers/
+- **Hong Kong Science Museum · AI Gallery + InnoTech Gallery** — RAE de Hong Kong (China); fecha sin anunciar. Con un adulto; condiciones de admisión adulta por separado. https://hk.science.museum/en/web/scm/exhibition/aig.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

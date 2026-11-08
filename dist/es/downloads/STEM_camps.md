@@ -4409,7 +4409,7 @@ Comprobado: 2026-10-01
 ### ~#L268 · Cité des sciences · Les défis de Photon · robótica familiar
 
 Lugar: Francia - París19 - Biblioteca Cité des sciences
-Fecha: No se ha fijado el período/plan de trabajo
+Fecha: 2026-11-08 — 2027-01-31
 Edad: 6–9
 Matway: Condicionalmente, el nivel de edad es adecuado; lugar, idioma técnico y aceptación extranjera
 Oscar: Condicionalmente: la edad es adecuada; lugar, idioma técnico y aceptación extranjera
@@ -4417,15 +4417,15 @@ Formato: holiday_workshop
 Idioma: El idioma de la sesión/protección no está confirmado; el sitio en la Web no es una prueba
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: EUR 15 / persona, EUR 10 abonnes; paga tanto el niño como el acompañante.
-Entrada: Pasaje de un niño y acompañante de 16+; fecha futura / hora / EN
-Limitaciones: Por el niño como máximo 2 de los contingentes, por adulto como máximo 2 Niños. Fechas de la página principal no publicadas; no añadido un evento diario ficticio. Enseñanzas EN / ES sin confirmar. Taller de capacitación familiar, no es un torneo.
+Acceso: Cada menor y acompañante de 16 años o más necesita entrada. Taller familiar de una sola sesión.
+Limitaciones: Se reserva una sesión del calendario. Máximo 2 acompañantes por menor y 2 menores por acompañante. Confirmar idioma y entradas disponibles.
 Fuente: https://origine.cite-sciences.fr/fr/au-programme/lieux-ressources/bibliotheque/thematiques/enfants-familles/activites/ateliers-robotique
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-08
 
 ### ~#L269 · Cité des sciences · Electro-Robot · robótica familiar
 
 Lugar: Francia - París19 - Biblioteca Cité des sciences
-Fecha: No se ha fijado el período/plan de trabajo
+Fecha: 2026-11-15 — 2027-01-30
 Edad: 9*12
 Matway: Condicionalmente, el nivel de edad es adecuado; lugar, idioma técnico y aceptación extranjera
 Oscar: No: menor de la edad mínima de este grupo técnico
@@ -4433,10 +4433,10 @@ Formato: holiday_workshop
 Idioma: El idioma de la sesión/protección no está confirmado; el sitio en la Web no es una prueba
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: EUR 15 / persona, EUR 10 abonnes; paga tanto el niño como el acompañante.
-Entrada: Pasaje de un niño y acompañante de 16+; fecha futura / hora / EN
-Limitaciones: Por el niño como máximo 2 de los contingentes, por adulto como máximo 2 Niños. Fechas de la página principal no publicadas; no añadido un evento diario ficticio. Enseñanzas EN / ES sin confirmar. Taller de capacitación familiar, no es un torneo.
+Acceso: Cada menor y acompañante de 16 años o más necesita entrada. Taller familiar de una sola sesión.
+Limitaciones: Se reserva una sesión del calendario. Máximo 2 acompañantes por menor y 2 menores por acompañante. Confirmar idioma y entradas disponibles.
 Fuente: https://origine.cite-sciences.fr/fr/au-programme/lieux-ressources/bibliotheque/thematiques/enfants-familles/activites/ateliers-robotique
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-08
 
 ### L270 · Cité des sciences · Club Robotique niveau2 · Curso 2026/27
 
@@ -79188,6 +79188,54 @@ Precio: 2027 · PEN 895 por el programa. Materiales didácticos incluidos. · su
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://www.chio-lecca.edu.pe/collections/creacion-de-personajes-y-mundos-kids-teens
+Se ha comprobado: 2026-11-08
+
+### CP1973-20261221-20261224-week-1 · Science World Vancouver · Winter Video Games · Se elige uno de dos turnos con el mismo contenido. El último día hay programa familiar a las 14:00. · 2026-12-21–2026-12-24
+
+lugar: Canadá · Vancouver · Science World
+Fecha: 2026-12-21 - 2026-12-24
+edad: Grados 1–7, nacidos en 2014–2020. Grupos por año de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Actividades en inglés. La política del campamento exige inglés básico para seguir al personal docente.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · CAD 439.95 por turno. Los miembros de Science World con membresía activa pagan CAD 384.95. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Opcionalmente CAD 45 por entrada a las 08:15 durante 4 días y CAD 90 por salida hasta las 17:00 durante 3 días. El último día el museo cierra a las 15:00. Pago: Las reglas para campamentos de 3–5 días prevén un cargo de CAD 35 al devolver el importe. Si se cancela más de 14 días antes, se devuelve el precio menos el cargo. Dentro de 7 días no hay devolución.
+Fuente: https://www.scienceworld.ca/winter-camps-2026/
+Se ha comprobado: 2026-11-08
+
+### CP1973-20261228-20261231-week-2 · Science World Vancouver · Winter Video Games · Se elige uno de dos turnos con el mismo contenido. El último día hay programa familiar a las 14:00. · 2026-12-28–2026-12-31
+
+lugar: Canadá · Vancouver · Science World
+Fecha: 2026-12-28 - 2026-12-31
+edad: Grados 1–7, nacidos en 2014–2020. Grupos por año de nacimiento.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Actividades en inglés. La política del campamento exige inglés básico para seguir al personal docente.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · CAD 439.95 por turno. Los miembros de Science World con membresía activa pagan CAD 384.95. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Opcionalmente CAD 45 por entrada a las 08:15 durante 4 días y CAD 90 por salida hasta las 17:00 durante 3 días. El último día el museo cierra a las 15:00. Pago: Las reglas para campamentos de 3–5 días prevén un cargo de CAD 35 al devolver el importe. Si se cancela más de 14 días antes, se devuelve el precio menos el cargo. Dentro de 7 días no hay devolución.
+Fuente: https://www.scienceworld.ca/winter-camps-2026/
+Se ha comprobado: 2026-11-08
+
+### CP1974-20270125-20270129-winter · Future Zebra · AI Drone Maker Camp · Del 25 al 29 de enero de 2027, clases de 09:00–16:00. Recogida de 16:00–16:30. · 2027-01-25–2027-01-29
+
+lugar: Taiwán · Hsinchu · NYCU Guangfu Campus · Engineering Building III
+Fecha: 2027-01-25 国 2027-01-29
+edad: Desde grado 3 de primaria. No se requiere experiencia en programación ni vuelo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Página en chino. Confirmar el idioma de instrucción y si hay apoyo en inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Precio vigente indicado TWD 9800. Almuerzo opcional por TWD 150 al día o TWD 750 por turno. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar grado 3 o superior, idioma docente y admisión extranjera. Oscar: Para la trayectoria escolar habitual de Oscar hay que esperar a grado 3. Suplementos: El almuerzo se cobra aparte. El kit de regalo para los primeros 30 pagos depende de disponibilidad. Pago: Con 10 días o más, devolución íntegra; con 7–9 días, 80%; con 4–6 días, 50%; con 1–3 días, sin devolución.
+Fuente: https://greenmail1011.github.io/camp2027/
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

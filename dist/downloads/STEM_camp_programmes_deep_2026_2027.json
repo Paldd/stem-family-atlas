@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1972,
+    "dossiers": 1974,
     "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
-      "published_2027": 541,
+      "published_2027": 542,
       "partial_2027": 145,
       "next_unannounced": 399,
-      "published_2026": 372,
+      "published_2026": 373,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2860
+    "source_urls": 2864
   },
   "countries": [
     {
@@ -253,7 +253,7 @@
     },
     {
       "country": "Канада",
-      "count": 200
+      "count": 201
     },
     {
       "country": "Катар",
@@ -453,7 +453,7 @@
     },
     {
       "country": "Тайвань",
-      "count": 172
+      "count": 173
     },
     {
       "country": "Танзания",
@@ -342912,6 +342912,380 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1973",
+      "slug": "science-world-winter-video-games-2026",
+      "provider": "Science World Vancouver · Winter Video Games",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Ванкувер · Science World",
+      "age": "Классы 1–7, годы рождения 2014–2020. Распределение по году рождения.",
+      "programme": "Дизайн персонажей и мира игры, анимация, основы программирования и визит на Game Changers.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Занятия на английском. Политика лагеря требует базового английского для инструкций преподавателей.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026",
+        "label": "Выбирают одну из двух смен с одинаковой программой. В последний день семейная программа в 14:00.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "week-1",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Выбирают одну из двух смен с одинаковой программой. В последний день семейная программа в 14:00.",
+            "price": "CAD 439.95 за смену. Члены Science World с действующим статусом платят CAD 384.95.",
+            "source": "https://www.scienceworld.ca/winter-camps-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-21T16:00:00Z",
+                "end_utc": "2026-12-21T22:00:00Z",
+                "topic": "Winter Science Camps: Video Games",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-22T16:00:00Z",
+                "end_utc": "2026-12-22T22:00:00Z",
+                "topic": "Winter Science Camps: Video Games",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-23T16:00:00Z",
+                "end_utc": "2026-12-23T22:00:00Z",
+                "topic": "Winter Science Camps: Video Games",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-24T16:00:00Z",
+                "end_utc": "2026-12-24T22:00:00Z",
+                "topic": "Winter Science Camps: Video Games",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "week-2",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Выбирают одну из двух смен с одинаковой программой. В последний день семейная программа в 14:00.",
+            "price": "CAD 439.95 за смену. Члены Science World с действующим статусом платят CAD 384.95.",
+            "source": "https://www.scienceworld.ca/winter-camps-2026/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-28T16:00:00Z",
+                "end_utc": "2026-12-28T22:00:00Z",
+                "topic": "Winter Science Camps: Video Games",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-29T16:00:00Z",
+                "end_utc": "2026-12-29T22:00:00Z",
+                "topic": "Winter Science Camps: Video Games",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-30T16:00:00Z",
+                "end_utc": "2026-12-30T22:00:00Z",
+                "topic": "Winter Science Camps: Video Games",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-12-31T16:00:00Z",
+                "end_utc": "2026-12-31T22:00:00Z",
+                "topic": "Winter Science Camps: Video Games",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 439.95,
+        "currency": "CAD",
+        "unit": "session",
+        "label": "CAD 439.95 за смену. Члены Science World с действующим статусом платят CAD 384.95.",
+        "included": "Дневная программа и посещение экспозиции во время лагеря.",
+        "extras": "Опционально CAD 45 за ранний приём в 08:15 на 4 дня и CAD 90 за продление до 17:00 на 3 дня. В последний день музей закрывается в 15:00.",
+        "deposit": "Правила лагеря на 3–5 дней предусматривают удержание CAD 35 при возврате. При отмене более чем за 14 дней возвращают полную цену за вычетом сбора. В пределах 7 дней возврата нет."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "Выбирают одну из двух смен с одинаковой программой. В последний день семейная программа в 14:00.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Правила лагеря на 3–5 дней предусматривают удержание CAD 35 при возврате. При отмене более чем за 14 дней возвращают полную цену за вычетом сбора. В пределах 7 дней возврата нет."
+      ],
+      "sources": [
+        {
+          "url": "https://www.scienceworld.ca/winter-camps-2026/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.scienceworld.ca/science-camps-knowledge-hub/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.scienceworld.ca/exhibition/game-changers/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "E566"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1973-20261221-20261224-week-1"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1973-20261228-20261231-week-2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1974",
+      "slug": "future-zebra-hsinchu-ai-drone-maker-2027",
+      "provider": "Future Zebra · AI Drone Maker Camp",
+      "country": "Тайвань",
+      "iso": "TWN",
+      "place": "Синьчжу · NYCU Guangfu Campus · Engineering Building III",
+      "age": "От 3-го класса начальной школы. Опыт программирования и полётов не требуется.",
+      "programme": "Сборка и ручное управление дроном, затем Python с ИИ-помощником и учебные матчи по дрон-футболу.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Страница на китайском. Язык преподавания и возможность английской поддержки уточняются.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "25–29 января 2027, занятия 09:00–16:00. Время забрать ребёнка 16:00–16:30.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "winter",
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "25–29 января 2027, занятия 09:00–16:00. Время забрать ребёнка 16:00–16:30.",
+            "price": "Текущая цена на странице TWD 9800. Обеды по желанию TWD 150 в день или TWD 750 за смену.",
+            "source": "https://greenmail1011.github.io/camp2027/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2027-01-25T01:00:00Z",
+                "end_utc": "2027-01-25T08:00:00Z",
+                "topic": "AI Drone Maker Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2027-01-26T01:00:00Z",
+                "end_utc": "2027-01-26T08:00:00Z",
+                "topic": "AI Drone Maker Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2027-01-27T01:00:00Z",
+                "end_utc": "2027-01-27T08:00:00Z",
+                "topic": "AI Drone Maker Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2027-01-28T01:00:00Z",
+                "end_utc": "2027-01-28T08:00:00Z",
+                "topic": "AI Drone Maker Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2027-01-29T01:00:00Z",
+                "end_utc": "2027-01-29T08:00:00Z",
+                "topic": "AI Drone Maker Camp",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 9800,
+        "currency": "TWD",
+        "unit": "session",
+        "label": "Текущая цена на странице TWD 9800. Обеды по желанию TWD 150 в день или TWD 750 за смену.",
+        "included": "Программируемый учебный дрон предоставляет организатор.",
+        "extras": "Цена обеда отдельно. Подарочный комплект первым 30 оплатившим зависит от наличия.",
+        "deposit": "За 10 дней и раньше возвращают полную плату, за 7–9 дней 80%, за 4–6 дней 50%, за 1–3 дня возврата нет."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить 3-й класс или выше, язык преподавателя и иностранный приём."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Для обычной ступени Оскара требуется дождаться 3-го класса."
+        }
+      },
+      "editorial_reason": "25–29 января 2027, занятия 09:00–16:00. Время забрать ребёнка 16:00–16:30.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "За 10 дней и раньше возвращают полную плату, за 7–9 дней 80%, за 4–6 дней 50%, за 1–3 дня возврата нет."
+      ],
+      "sources": [
+        {
+          "url": "https://greenmail1011.github.io/camp2027/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.futurezebra.com/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1974-20270125-20270129-winter"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -348237,7 +348611,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 277,
+  "version": 278,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -361472,7 +361846,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1972,
+      "total_dossiers": 1974,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -383857,6 +384231,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1973",
+      "event_id": "CP1973-20261221-20261224-week-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1973",
+      "event_id": "CP1973-20261228-20261231-week-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1973",
+      "event_id": "E566",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP1974",
+      "event_id": "CP1974-20270125-20270129-winter",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -388534,10 +388928,13 @@
     "CP1970-20270322-20270329-full",
     "CP1971-20270329-20270405-half",
     "CP1971-20270329-20270405-full",
-    "CP1972-20270104-20270104-start"
+    "CP1972-20270104-20270104-start",
+    "CP1973-20261221-20261224-week-1",
+    "CP1973-20261228-20261231-week-2",
+    "CP1974-20270125-20270129-winter"
   ],
   "integration": {
-    "generated_sessions": 4247,
+    "generated_sessions": 4250,
     "reused_legacy_events": 73,
     "seasonal_windows": 76,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

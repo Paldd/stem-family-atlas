@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 277,
+    "version": 278,
     "status": "implementation_snapshot",
-    "events": 10226,
-    "competitions": 4636,
+    "events": 10234,
+    "competitions": 4639,
     "league_profiles": 299,
-    "camp_dossiers": 1972,
+    "camp_dossiers": 1974,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 565,
+    "exhibitions_events": 567,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 276,
+    "version": 277,
     "status": "implementation_snapshot",
-    "events": 10218,
-    "competitions": 4634,
+    "events": 10226,
+    "competitions": 4636,
     "league_profiles": 299,
-    "camp_dossiers": 1971,
+    "camp_dossiers": 1972,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 562,
+    "exhibitions_events": 565,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 277,
+    "prepared_ui_version": 278,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 276,
-    "previous_verified_commit": "fb7e48e6e4d927a0fea10a2a3594b479ab836a40"
+    "previous_verified_ui_version": 277,
+    "previous_verified_commit": "684e452c5cd57d93ff3e15e0fbfc45e0ed7505c9"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 276,
-    "published_version": 276,
-    "latest_source_commit": "fb7e48e6e4d927a0fea10a2a3594b479ab836a40",
-    "published_commit": "fb7e48e6e4d927a0fea10a2a3594b479ab836a40",
-    "latest_workflow": 42476323595,
+    "latest_source_version": 277,
+    "published_version": 277,
+    "latest_source_commit": "684e452c5cd57d93ff3e15e0fbfc45e0ed7505c9",
+    "published_commit": "684e452c5cd57d93ff3e15e0fbfc45e0ed7505c9",
+    "latest_workflow": 42477791246,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -27632,5 +27632,73 @@
     "peru_maker": "CP1972",
     "audit": "data/latam-junior-and-family-events-audit-v277.json",
     "source_receipts": "data/latam-junior-and-family-events-source-receipts-v277.json"
+  },
+  "winter_workshops_and_robot_sports_v278": {
+    "version": 278,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4638",
+      "C4639",
+      "C4640",
+      "E566",
+      "E567"
+    ],
+    "new_dossiers": [
+      "CP1973",
+      "CP1974"
+    ],
+    "new_dated_variants": 3,
+    "refreshed_event_ids": [
+      "L268",
+      "L269",
+      "C1634",
+      "C3152"
+    ],
+    "legacy_overlay_event_ids": [
+      "L268",
+      "L269",
+      "C1634",
+      "C3152"
+    ],
+    "legacy_overlay_league_ids": [
+      "mrc-global-olympiad"
+    ],
+    "source_requests": 20,
+    "paris_sessions": {
+      "L268": 14,
+      "L269": 12
+    },
+    "mrc_guests": [
+      "C4638",
+      "C4639"
+    ],
+    "mrc_parent": "C1634",
+    "mrc_taiwan": "C3152",
+    "roberta_junior": "C4640",
+    "science_world_exhibition": "E566",
+    "science_world_camp": "CP1973",
+    "hong_kong_museum": "E567",
+    "future_zebra": "CP1974",
+    "source_conflicts": [
+      {
+        "url": "https://www.curio.kids/products/future-engineers-winter-2026",
+        "observed_redirect": "https://www.curio.kids/",
+        "status": "not_added"
+      },
+      {
+        "url": "https://roboticole.com/talleres/carnaval-2027",
+        "native_http_status": 404,
+        "status": "not_added"
+      },
+      {
+        "url": "https://www.roboraveinternational.org/en/events/roborave-guanajuato-open-2027",
+        "event_id": "C083",
+        "status": "tentative_no_calendar_change"
+      }
+    ],
+    "audit": "data/winter-workshops-and-robot-sports-audit-v278.json",
+    "source_receipts": "data/winter-workshops-and-robot-sports-source-receipts-v278.json"
   }
 }

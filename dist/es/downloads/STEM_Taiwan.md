@@ -700,9 +700,9 @@ Oscar: Condicional. Confirmar categoría, grado y vía de admisión para equipos
 Idioma: Confirmar el idioma del grupo o sede concretos.
 Acceso: Fechas e inicio de inscripciones de la etapa taiwanesa 2027 sin publicar. La fecha de la final en Creta corresponde a otro evento.
 Precio: Precio sin publicar.
-Restricciones: Fecha concreta, admisión internacional y tarifa aún sin confirmar.
+Limitaciones: La página nacional muestra 32 pruebas y grupos desde primaria. La inscripción aún está cerrada. ERobot Sumo y ESoccerBot se celebran solo en Creta.
 Fuente: https://minoan-robotsports-competition-taiwan.github.io/index.html
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### E326 · TADTE 2027 · Taipei Aerospace & Defense Technology Exhibition
 
@@ -3667,6 +3667,19 @@ Precio: 2026/27 · TWD 100 por participante más entrada al museo. · suplemento
 Limitaciones: Matvey: Condicional si el menor cumple el curso escolar indicado. Oscar: Condicional si el curso escolar actual coincide con los requisitos. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
 Fuente: https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015459&act_seq=2
 Se ha comprobado: 2026-11-07
+
+### CP1974-20270125-20270129-winter · Future Zebra · AI Drone Maker Camp · Del 25 al 29 de enero de 2027, clases de 09:00–16:00. Recogida de 16:00–16:30. · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+edad: Desde grado 3 de primaria. No se requiere experiencia en programación ni vuelo.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Página en chino. Confirmar el idioma de instrucción y si hay apoyo en inglés.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Precio vigente indicado TWD 9800. Almuerzo opcional por TWD 150 al día o TWD 750 por turno. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Confirmar grado 3 o superior, idioma docente y admisión extranjera. Oscar: Para la trayectoria escolar habitual de Oscar hay que esperar a grado 3. Suplementos: El almuerzo se cobra aparte. El kit de regalo para los primeros 30 pagos depende de disponibilidad. Pago: Con 10 días o más, devolución íntegra; con 7–9 días, 80%; con 4–6 días, 50%; con 1–3 días, sin devolución.
+Fuente: https://greenmail1011.github.io/camp2027/
+Se ha comprobado: 2026-11-08
 
 ## ~ Comprobar de nuevo
 

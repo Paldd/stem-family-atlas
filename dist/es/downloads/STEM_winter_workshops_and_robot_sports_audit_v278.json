@@ -1,0 +1,66 @@
+{
+  "version": 278,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C4638",
+    "C4639",
+    "C4640",
+    "E566",
+    "E567"
+  ],
+  "new_dossiers": [
+    "CP1973",
+    "CP1974"
+  ],
+  "new_dated_variants": 3,
+  "refreshed_event_ids": [
+    "L268",
+    "L269",
+    "C1634",
+    "C3152"
+  ],
+  "legacy_overlay_event_ids": [
+    "L268",
+    "L269",
+    "C1634",
+    "C3152"
+  ],
+  "legacy_overlay_league_ids": [
+    "mrc-global-olympiad"
+  ],
+  "source_requests": 21,
+  "paris_sessions": {
+    "L268": 14,
+    "L269": 12
+  },
+  "mrc_guests": [
+    "C4638",
+    "C4639"
+  ],
+  "mrc_parent": "C1634",
+  "mrc_taiwan": "C3152",
+  "roberta_junior": "C4640",
+  "science_world_exhibition": "E566",
+  "science_world_camp": "CP1973",
+  "hong_kong_museum": "E567",
+  "future_zebra": "CP1974",
+  "source_conflicts": [
+    {
+      "url": "https://www.curio.kids/products/future-engineers-winter-2026",
+      "observed_redirect": "https://www.curio.kids/",
+      "status": "not_added"
+    },
+    {
+      "url": "https://roboticole.com/talleres/carnaval-2027",
+      "native_http_status": 404,
+      "status": "not_added"
+    },
+    {
+      "url": "https://www.roboraveinternational.org/en/events/roborave-guanajuato-open-2027",
+      "event_id": "C083",
+      "status": "tentative_no_calendar_change"
+    }
+  ]
+}

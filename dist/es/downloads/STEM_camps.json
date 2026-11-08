@@ -580,14 +580,14 @@
       }
     ],
     "counts": {
-      "records": 5025,
-      "holiday": 4673,
+      "records": 5028,
+      "holiday": 4676,
       "regular": 160,
       "self_paced_materials": 4,
       "boarding": 1037,
-      "en_es_instruction": 1591,
+      "en_es_instruction": 1593,
       "en_es_support": 28,
-      "family_instruction": 1591,
+      "family_instruction": 1593,
       "family_support": 28,
       "ru_instruction": 4,
       "language_lessons": 412,
@@ -16810,19 +16810,19 @@
       "region": "Europa",
       "city": "París19 · biblioteca de la Cité des sciences",
       "source": "https://origine.cite-sciences.fr/fr/au-programme/lieux-ressources/bibliotheque/thematiques/enfants-familles/activites/ateliers-robotique",
-      "checked": "2026-10-01",
-      "start": "",
-      "end": "",
+      "checked": "2026-11-08",
+      "start": "2026-11-08",
+      "end": "2027-01-31",
       "deadline": "",
       "period": "",
-      "date_status": "No se ha anunciado",
+      "date_status": "Confirmado",
       "age": "6–9",
       "mat": "condicionalmente: la edad es adecuada; el lugar, el idioma técnico y el ingreso extranjero confirmar",
       "osc": "condicionalmente: la edad es adecuada; el lugar, el idioma técnico y el ingreso extranjero confirmar",
       "format": "una clase de maestría de un día de vacaciones",
       "participation": "holiday_workshop",
       "admission_kind": "program",
-      "entry": "billete para el niño y el acompañante 16+; la fecha futura / el reloj / EN aclarar.",
+      "entry": "Cada menor y acompañante de 16 años o más necesita entrada. Taller familiar de una sola sesión.",
       "gear": "Fotón: secuencia de comandos y tareas.",
       "language": "lengua de ocupación / protección no está confirmada; el sitio de la EN no es prueba",
       "languages": [],
@@ -16837,19 +16837,167 @@
       "action": "confirmar el flujo, la lengua, la clase, el acceso de la familia extranjera y la disponibilidad de asientos antes de la inscripción o el viaje.",
       "proof": "Se ha leído la fuente primaria; se han dividido la fecha / edad y las condiciones desconocidas.",
       "evidence_level": "event_page",
-      "references": [],
-      "note": "al máximo para el niño 2 de los acompañantes, por un adulto máximo 2 el niño. no se publicaron las fechas de la página principal; No se ha añadido un evento diario ficticio. las lecciones EN / ES No se confirmó. taller educativo familiar, No es un torneo ..",
+      "references": [
+        {
+          "url": "https://openagenda.com/fr/cite-des-sciences/events/56249997_les-defis-de-photon-decouvre-la-programmation",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "note": "Se reserva una sesión del calendario. Máximo 2 acompañantes por menor y 2 menores por acompañante. Confirmar idioma y entradas disponibles.",
       "registration_status": "No se ha presentado la solicitud de la familia; el programa publicado no confirma el lugar.",
       "language_certainty": "El idioma del sitio no se ha transferido al idioma de enseñanza / juez.",
       "themes": [
         "robotics",
         "coding"
       ],
-      "date_scope": "festival_window",
+      "date_scope": "session_days",
       "language_mode": "unconfirmed",
       "iso": [
         "FRA"
-      ]
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-08",
+          "start_time": "14:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-11-08T13:30:00Z",
+          "end_utc": "2026-11-08T15:00:00Z",
+          "topic": "Les défis de Photon",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-14",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-11-14T10:00:00Z",
+          "end_utc": "2026-11-14T11:30:00Z",
+          "topic": "Les défis de Photon",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-11-21T10:00:00Z",
+          "end_utc": "2026-11-21T11:30:00Z",
+          "topic": "Les défis de Photon",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-29",
+          "start_time": "14:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-11-29T13:30:00Z",
+          "end_utc": "2026-11-29T15:00:00Z",
+          "topic": "Les défis de Photon",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-05",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-12-05T10:00:00Z",
+          "end_utc": "2026-12-05T11:30:00Z",
+          "topic": "Les défis de Photon",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-13",
+          "start_time": "14:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-12-13T13:30:00Z",
+          "end_utc": "2026-12-13T15:00:00Z",
+          "topic": "Les défis de Photon",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-19",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-12-19T10:00:00Z",
+          "end_utc": "2026-12-19T11:30:00Z",
+          "topic": "Les défis de Photon",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-26",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-12-26T10:00:00Z",
+          "end_utc": "2026-12-26T11:30:00Z",
+          "topic": "Les défis de Photon",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-27",
+          "start_time": "14:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-12-27T13:30:00Z",
+          "end_utc": "2026-12-27T15:00:00Z",
+          "topic": "Les défis de Photon",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-31",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-12-31T10:00:00Z",
+          "end_utc": "2026-12-31T11:30:00Z",
+          "topic": "Les défis de Photon",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-03",
+          "start_time": "14:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Paris",
+          "start_utc": "2027-01-03T13:30:00Z",
+          "end_utc": "2027-01-03T15:00:00Z",
+          "topic": "Les défis de Photon",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-10",
+          "start_time": "14:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Paris",
+          "start_utc": "2027-01-10T13:30:00Z",
+          "end_utc": "2027-01-10T15:00:00Z",
+          "topic": "Les défis de Photon",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-16",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "timezone": "Europe/Paris",
+          "start_utc": "2027-01-16T10:00:00Z",
+          "end_utc": "2027-01-16T11:30:00Z",
+          "topic": "Les défis de Photon",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-31",
+          "start_time": "14:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Paris",
+          "start_utc": "2027-01-31T13:30:00Z",
+          "end_utc": "2027-01-31T15:00:00Z",
+          "topic": "Les défis de Photon",
+          "ical_timed": true
+        }
+      ],
+      "registration_url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=370&tx_site_offerbooking%5Bshow%5D=2500958886051000002&cHash=714fa2bf8fe2584fd4f97e14d067ee29"
     },
     {
       "id": "L269",
@@ -16859,19 +17007,19 @@
       "region": "Europa",
       "city": "París19 · biblioteca de la Cité des sciences",
       "source": "https://origine.cite-sciences.fr/fr/au-programme/lieux-ressources/bibliotheque/thematiques/enfants-familles/activites/ateliers-robotique",
-      "checked": "2026-10-01",
-      "start": "",
-      "end": "",
+      "checked": "2026-11-08",
+      "start": "2026-11-15",
+      "end": "2027-01-30",
       "deadline": "",
       "period": "",
-      "date_status": "No se ha anunciado",
+      "date_status": "Confirmado",
       "age": "9–12",
       "mat": "condicionalmente: la edad es adecuada; el lugar, el idioma técnico y el ingreso extranjero confirmar",
       "osc": "No: menor a la edad mínima de este grupo técnico",
       "format": "una clase de maestría de un día de vacaciones",
       "participation": "holiday_workshop",
       "admission_kind": "program",
-      "entry": "billete para el niño y el acompañante 16+; la fecha futura / el reloj / EN aclarar.",
+      "entry": "Cada menor y acompañante de 16 años o más necesita entrada. Taller familiar de una sola sesión.",
       "gear": "LittleBits y Sphero RVR; sensores y programación.",
       "language": "lengua de ocupación / protección no está confirmada; el sitio de la EN no es prueba",
       "languages": [],
@@ -16886,19 +17034,147 @@
       "action": "confirmar el flujo, la lengua, la clase, el acceso de la familia extranjera y la disponibilidad de asientos antes de la inscripción o el viaje.",
       "proof": "Se ha leído la fuente primaria; se han dividido la fecha / edad y las condiciones desconocidas.",
       "evidence_level": "event_page",
-      "references": [],
-      "note": "al máximo para el niño 2 de los acompañantes, por un adulto máximo 2 el niño. no se publicaron las fechas de la página principal; No se ha añadido un evento diario ficticio. las lecciones EN / ES No se confirmó. taller educativo familiar, No es un torneo ..",
+      "references": [
+        {
+          "url": "https://openagenda.com/fr/cite-des-sciences/events/30194775_electro-robot-programme-ton-aventure",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "note": "Se reserva una sesión del calendario. Máximo 2 acompañantes por menor y 2 menores por acompañante. Confirmar idioma y entradas disponibles.",
       "registration_status": "No se ha presentado la solicitud de la familia; el programa publicado no confirma el lugar.",
       "language_certainty": "El idioma del sitio no se ha transferido al idioma de enseñanza / juez.",
       "themes": [
         "robotics",
         "coding"
       ],
-      "date_scope": "festival_window",
+      "date_scope": "session_days",
       "language_mode": "unconfirmed",
       "iso": [
         "FRA"
-      ]
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "start_time": "14:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-11-15T13:30:00Z",
+          "end_utc": "2026-11-15T15:00:00Z",
+          "topic": "Electro-Robot",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-22",
+          "start_time": "14:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-11-22T13:30:00Z",
+          "end_utc": "2026-11-22T15:00:00Z",
+          "topic": "Electro-Robot",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-28",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-11-28T10:00:00Z",
+          "end_utc": "2026-11-28T11:30:00Z",
+          "topic": "Electro-Robot",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-06",
+          "start_time": "14:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-12-06T13:30:00Z",
+          "end_utc": "2026-12-06T15:00:00Z",
+          "topic": "Electro-Robot",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-12",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-12-12T10:00:00Z",
+          "end_utc": "2026-12-12T11:30:00Z",
+          "topic": "Electro-Robot",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-20",
+          "start_time": "14:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-12-20T13:30:00Z",
+          "end_utc": "2026-12-20T15:00:00Z",
+          "topic": "Electro-Robot",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-12-23T10:00:00Z",
+          "end_utc": "2026-12-23T11:30:00Z",
+          "topic": "Electro-Robot",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-12-30T10:00:00Z",
+          "end_utc": "2026-12-30T11:30:00Z",
+          "topic": "Electro-Robot",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-02",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "timezone": "Europe/Paris",
+          "start_utc": "2027-01-02T10:00:00Z",
+          "end_utc": "2027-01-02T11:30:00Z",
+          "topic": "Electro-Robot",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-09",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "timezone": "Europe/Paris",
+          "start_utc": "2027-01-09T10:00:00Z",
+          "end_utc": "2027-01-09T11:30:00Z",
+          "topic": "Electro-Robot",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-17",
+          "start_time": "14:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Paris",
+          "start_utc": "2027-01-17T13:30:00Z",
+          "end_utc": "2027-01-17T15:00:00Z",
+          "topic": "Electro-Robot",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-30",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "timezone": "Europe/Paris",
+          "start_utc": "2027-01-30T10:00:00Z",
+          "end_utc": "2027-01-30T11:30:00Z",
+          "topic": "Electro-Robot",
+          "ical_timed": true
+        }
+      ],
+      "registration_url": "https://billetterie.cite-sciences.fr/activites.html?tx_site_offerbooking%5Boffer%5D=759&tx_site_offerbooking%5Bshow%5D=2607061877839000027&cHash=fffafcef99a1ffa184fba3165bdf5763"
     },
     {
       "id": "L270",
@@ -404250,6 +404526,346 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "chio-lecca-personajes-mundos-kids",
       "camp_programme_id": "CP1972",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1973-20261221-20261224-week-1",
+      "block": "Campamentos",
+      "title": "Science World Vancouver · Winter Video Games · Se elige uno de dos turnos con el mismo contenido. El último día hay programa familiar a las 14:00. · 2026-12-21–2026-12-24",
+      "country": "Canadá",
+      "region": "América del Norte",
+      "city": "Vancouver · Science World",
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "period": "Se elige uno de dos turnos con el mismo contenido. El último día hay programa familiar a las 14:00.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 1–7, nacidos en 2014–2020. Grupos por año de nacimiento.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Diseño de personajes y mundos de videojuego, animación, fundamentos de programación y visita a Game Changers.",
+      "language": "Actividades en inglés. La política del campamento exige inglés básico para seguir al personal docente.",
+      "cost": "2026/27 · CAD 439.95 por turno. Los miembros de Science World con membresía activa pagan CAD 384.95. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Las reglas para campamentos de 3–5 días prevén un cargo de CAD 35 al devolver el importe. Si se cancela más de 14 días antes, se devuelve el precio menos el cargo. Dentro de 7 días no hay devolución.",
+      "source": "https://www.scienceworld.ca/winter-camps-2026/",
+      "references": [
+        {
+          "url": "https://www.scienceworld.ca/winter-camps-2026/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.scienceworld.ca/science-camps-knowledge-hub/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.scienceworld.ca/exhibition/game-changers/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Opcionalmente CAD 45 por entrada a las 08:15 durante 4 días y CAD 90 por salida hasta las 17:00 durante 3 días. El último día el museo cierra a las 15:00. Pago: Las reglas para campamentos de 3–5 días prevén un cargo de CAD 35 al devolver el importe. Si se cancela más de 14 días antes, se devuelve el precio menos el cargo. Dentro de 7 días no hay devolución.",
+      "iso": [
+        "CAN"
+      ],
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Actividades en inglés. La política del campamento exige inglés básico para seguir al personal docente.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "science-world-winter-video-games-2026",
+      "camp_programme_id": "CP1973",
+      "sessions": [
+        {
+          "date": "2026-12-21",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2026-12-21T16:00:00Z",
+          "end_utc": "2026-12-21T22:00:00Z",
+          "topic": "Winter Science Camps: Video Games",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2026-12-22T16:00:00Z",
+          "end_utc": "2026-12-22T22:00:00Z",
+          "topic": "Winter Science Camps: Video Games",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2026-12-23T16:00:00Z",
+          "end_utc": "2026-12-23T22:00:00Z",
+          "topic": "Winter Science Camps: Video Games",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-24",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2026-12-24T16:00:00Z",
+          "end_utc": "2026-12-24T22:00:00Z",
+          "topic": "Winter Science Camps: Video Games",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1973-20261228-20261231-week-2",
+      "block": "Campamentos",
+      "title": "Science World Vancouver · Winter Video Games · Se elige uno de dos turnos con el mismo contenido. El último día hay programa familiar a las 14:00. · 2026-12-28–2026-12-31",
+      "country": "Canadá",
+      "region": "América del Norte",
+      "city": "Vancouver · Science World",
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "period": "Se elige uno de dos turnos con el mismo contenido. El último día hay programa familiar a las 14:00.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 1–7, nacidos en 2014–2020. Grupos por año de nacimiento.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Diseño de personajes y mundos de videojuego, animación, fundamentos de programación y visita a Game Changers.",
+      "language": "Actividades en inglés. La política del campamento exige inglés básico para seguir al personal docente.",
+      "cost": "2026/27 · CAD 439.95 por turno. Los miembros de Science World con membresía activa pagan CAD 384.95. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Las reglas para campamentos de 3–5 días prevén un cargo de CAD 35 al devolver el importe. Si se cancela más de 14 días antes, se devuelve el precio menos el cargo. Dentro de 7 días no hay devolución.",
+      "source": "https://www.scienceworld.ca/winter-camps-2026/",
+      "references": [
+        {
+          "url": "https://www.scienceworld.ca/winter-camps-2026/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.scienceworld.ca/science-camps-knowledge-hub/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.scienceworld.ca/exhibition/game-changers/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Opcionalmente CAD 45 por entrada a las 08:15 durante 4 días y CAD 90 por salida hasta las 17:00 durante 3 días. El último día el museo cierra a las 15:00. Pago: Las reglas para campamentos de 3–5 días prevén un cargo de CAD 35 al devolver el importe. Si se cancela más de 14 días antes, se devuelve el precio menos el cargo. Dentro de 7 días no hay devolución.",
+      "iso": [
+        "CAN"
+      ],
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Actividades en inglés. La política del campamento exige inglés básico para seguir al personal docente.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "science-world-winter-video-games-2026",
+      "camp_programme_id": "CP1973",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2026-12-28T16:00:00Z",
+          "end_utc": "2026-12-28T22:00:00Z",
+          "topic": "Winter Science Camps: Video Games",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2026-12-29T16:00:00Z",
+          "end_utc": "2026-12-29T22:00:00Z",
+          "topic": "Winter Science Camps: Video Games",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2026-12-30T16:00:00Z",
+          "end_utc": "2026-12-30T22:00:00Z",
+          "topic": "Winter Science Camps: Video Games",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-31",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2026-12-31T16:00:00Z",
+          "end_utc": "2026-12-31T22:00:00Z",
+          "topic": "Winter Science Camps: Video Games",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1974-20270125-20270129-winter",
+      "block": "Campamentos",
+      "title": "Future Zebra · AI Drone Maker Camp · Del 25 al 29 de enero de 2027, clases de 09:00–16:00. Recogida de 16:00–16:30. · 2027-01-25–2027-01-29",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Hsinchu · NYCU Guangfu Campus · Engineering Building III",
+      "start": "2027-01-25",
+      "end": "2027-01-29",
+      "period": "Del 25 al 29 de enero de 2027, clases de 09:00–16:00. Recogida de 16:00–16:30.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Desde grado 3 de primaria. No se requiere experiencia en programación ni vuelo.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Montaje y control manual de un dron, luego Python con asistencia de IA y partidos de práctica de fútbol con drones.",
+      "language": "Página en chino. Confirmar el idioma de instrucción y si hay apoyo en inglés.",
+      "cost": "2027 · Precio vigente indicado TWD 9800. Almuerzo opcional por TWD 150 al día o TWD 750 por turno. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Con 10 días o más, devolución íntegra; con 7–9 días, 80%; con 4–6 días, 50%; con 1–3 días, sin devolución.",
+      "source": "https://greenmail1011.github.io/camp2027/",
+      "references": [
+        {
+          "url": "https://greenmail1011.github.io/camp2027/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.futurezebra.com/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Confirmar grado 3 o superior, idioma docente y admisión extranjera. Oscar: Para la trayectoria escolar habitual de Oscar hay que esperar a grado 3. Suplementos: El almuerzo se cobra aparte. El kit de regalo para los primeros 30 pagos depende de disponibilidad. Pago: Con 10 días o más, devolución íntegra; con 7–9 días, 80%; con 4–6 días, 50%; con 1–3 días, sin devolución.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "ai",
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Página en chino. Confirmar el idioma de instrucción y si hay apoyo en inglés.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "future-zebra-hsinchu-ai-drone-maker-2027",
+      "camp_programme_id": "CP1974",
+      "sessions": [
+        {
+          "date": "2027-01-25",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-01-25T01:00:00Z",
+          "end_utc": "2027-01-25T08:00:00Z",
+          "topic": "AI Drone Maker Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-01-26T01:00:00Z",
+          "end_utc": "2027-01-26T08:00:00Z",
+          "topic": "AI Drone Maker Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-01-27T01:00:00Z",
+          "end_utc": "2027-01-27T08:00:00Z",
+          "topic": "AI Drone Maker Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-28",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-01-28T01:00:00Z",
+          "end_utc": "2027-01-28T08:00:00Z",
+          "topic": "AI Drone Maker Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-29",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-01-29T01:00:00Z",
+          "end_utc": "2027-01-29T08:00:00Z",
+          "topic": "AI Drone Maker Camp",
+          "ical_timed": true
+        }
+      ],
       "availability": {
         "status": "unconfirmed",
         "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
