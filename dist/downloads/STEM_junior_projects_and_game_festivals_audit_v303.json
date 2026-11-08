@@ -1,0 +1,71 @@
+{
+  "version": 303,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C4802",
+    "C4803",
+    "C4804",
+    "C4805",
+    "C4806",
+    "C4807",
+    "C4808",
+    "C4809",
+    "C4810",
+    "C4811",
+    "C4812",
+    "C4813",
+    "E663",
+    "E664",
+    "E665",
+    "E666",
+    "E667",
+    "E668",
+    "E669"
+  ],
+  "refreshed_event_ids": [
+    "C3112",
+    "C3113"
+  ],
+  "legacy_overlay_event_ids": [
+    "C3112",
+    "C3113"
+  ],
+  "source_requests": 31,
+  "rube": [
+    "C4802",
+    "C4803",
+    "C4804",
+    "C4805",
+    "C4806"
+  ],
+  "dxc": [
+    "C4807",
+    "C4808"
+  ],
+  "dame": "C4809",
+  "upsteam": [
+    "C4810",
+    "C4811",
+    "C4812"
+  ],
+  "stemathlon": "C4813",
+  "expos": [
+    "E663",
+    "E664",
+    "E665",
+    "E666",
+    "E667",
+    "E668",
+    "E669"
+  ],
+  "source_limits": {
+    "rube": "The assigned regional venue and date depend on registration. The global online page still describes 2026.",
+    "korea": "The Asian partner explicitly describes Asian teams. Admission for teams based outside Asia remains unconfirmed.",
+    "dxc": "Submission requires an accredited Spanish school and a pair. The Madrid final is by selection.",
+    "dame": "The direct PDF has a stale edition number in its body. Current header, closing date and launch announcement identify the 2027 deadline.",
+    "granada": "The exhibition dates are current. The visible Mario Kart competition and access text still reference 2026.",
+    "tokyo": "Public and business dates differ. No age gate or child ticket price inferred."
+  }
+}

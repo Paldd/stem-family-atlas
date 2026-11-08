@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10775; competiciones: 4800; eventos: 662; campamentos / programas: 5313. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 563 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10794; competiciones: 4812; eventos: 669; campamentos / programas: 5313. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 570 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 1963 | 146 | 1354 |
+| América del Norte | 41 | 1966 | 148 | 1354 |
 | América del Sur | 15 | 452 | 50 | 232 |
-| Europa | 55 | 629 | 136 | 1540 |
+| Europa | 55 | 636 | 138 | 1540 |
 | África | 60 | 247 | 40 | 130 |
-| Asia | 50 | 1175 | 158 | 1706 |
-| Oceanía | 27 | 167 | 31 | 336 |
+| Asia | 50 | 1177 | 160 | 1706 |
+| Oceanía | 27 | 167 | 32 | 336 |
 
 Fichas interregionales o globales sin un solo continente asignado: 189. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base y la cobertura sigue siendo parcial.
 
-VEX: 815 de 4800 fichas de competiciones (17.0%). La cobertura está concentrada en esta liga.
+VEX: 815 de 4812 fichas de competiciones (16.9%). La cobertura está concentrada en esta liga.
 
 ## Lo que queda
 
@@ -940,6 +940,13 @@ VEX: 815 de 4800 fichas de competiciones (17.0%). La cobertura está concentrada
 - **MEGA XP 2027 · Juegos de mesa y diseño de juegos** — México; 2027-04-24 – 2027-04-25. Confirmar acceso infantil. https://megaxp.com.mx/edicion-2027/
 - **World Science Festival Brisbane 2027 · Public Programme** — Australia; fecha desconocida. Confirmar acceso infantil. https://worldsciencefestival.com.au/
 - **Mundialito FutBot Uriangato 2026 · Visita pública** — México; 2026-11-12. Con un adulto. Consultar por separado las condiciones de entrada para adultos. https://uriangato.gob.mx/web/noticias/preparate-para-el-mundialito-futbot-evento-regional
+- **Tokyo Indie Games Summit 2027 · Public Day** — Japón; 2027-03-28. el permiso de entrada de niños. https://indiegamessummit.tokyo/en/
+- **Tokyo Indie Games Summit 2027 · Business Day** — Japón; 2027-03-27. el permiso de entrada de niños. https://indiegamessummit.tokyo/en/
+- **The Game Expo 2027 · TGX** — Australia; 2027-04-03 – 2027-04-04. con un adulto; condiciones de admisión adulta por separado. https://www.thegameexpo.com/faq/
+- **LVL UP EXPO 2027 · Las Vegas** — Estados Unidos; 2027-04-23 – 2027-04-25. con un adulto; condiciones de admisión adulta por separado. https://lvlupexpo.com/
+- **Game Con Canada 2027 · Edmonton** — Canadá; 2027-06-25 – 2027-06-27. con un adulto; condiciones de admisión adulta por separado. https://gameconcanada.com/
+- **Odyssey Video Games & Toy Festival 2027** — Reino Unido; 2027-02-27 – 2027-02-28. con un adulto; condiciones de admisión adulta por separado. https://www.odysseygamingfestival.co.uk/
+- **Granada Gaming Festival 2027 · FicZone / Meeple Factory** — España; 2027-04-24 – 2027-04-25. el permiso de entrada de niños. https://granadagaming.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

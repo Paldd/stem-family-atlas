@@ -1,0 +1,71 @@
+{
+  "version": 303,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C4802",
+    "C4803",
+    "C4804",
+    "C4805",
+    "C4806",
+    "C4807",
+    "C4808",
+    "C4809",
+    "C4810",
+    "C4811",
+    "C4812",
+    "C4813",
+    "E663",
+    "E664",
+    "E665",
+    "E666",
+    "E667",
+    "E668",
+    "E669"
+  ],
+  "refreshed_event_ids": [
+    "C3112",
+    "C3113"
+  ],
+  "legacy_overlay_event_ids": [
+    "C3112",
+    "C3113"
+  ],
+  "source_requests": 31,
+  "rube": [
+    "C4802",
+    "C4803",
+    "C4804",
+    "C4805",
+    "C4806"
+  ],
+  "dxc": [
+    "C4807",
+    "C4808"
+  ],
+  "dame": "C4809",
+  "upsteam": [
+    "C4810",
+    "C4811",
+    "C4812"
+  ],
+  "stemathlon": "C4813",
+  "expos": [
+    "E663",
+    "E664",
+    "E665",
+    "E666",
+    "E667",
+    "E668",
+    "E669"
+  ],
+  "source_limits": {
+    "rube": "La sede y la fecha regionales dependen de la inscripción. La página virtual mundial todavía describe 2026.",
+    "korea": "El operador asiático menciona expresamente a los equipos de Asia. La admisión de equipos de fuera de Asia queda por confirmar.",
+    "dxc": "La presentación requiere un centro español acreditado y una pareja. La final de Madrid se decide por selección.",
+    "dame": "El cuerpo del PDF conserva un número de edición anterior. La cabecera, el cierre y el anuncio de apertura identifican el plazo de 2027.",
+    "granada": "Las fechas de la exposición están actualizadas. El torneo de Mario Kart y el texto de acceso visibles todavía se refieren a 2026.",
+    "tokyo": "La jornada pública y la profesional tienen fechas distintas. Quedan por confirmar la edad mínima y el precio infantil."
+  }
+}

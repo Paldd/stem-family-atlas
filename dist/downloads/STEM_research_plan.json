@@ -870,10 +870,10 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 302,
+    "version": 303,
     "status": "implementation_snapshot",
-    "events": 10775,
-    "competitions": 4800,
+    "events": 10794,
+    "competitions": 4812,
     "league_profiles": 309,
     "camp_dossiers": 2117,
     "budget_offers": 312,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 662,
+    "exhibitions_events": 669,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 301,
+    "version": 302,
     "status": "implementation_snapshot",
-    "events": 10744,
+    "events": 10775,
     "competitions": 4800,
     "league_profiles": 309,
-    "camp_dossiers": 2108,
+    "camp_dossiers": 2117,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 302,
+    "prepared_ui_version": 303,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 301,
-    "previous_verified_commit": "9875747265726ed81fe36acb80cc4ef6d0533612"
+    "previous_verified_ui_version": 302,
+    "previous_verified_commit": "7cc150d6be28e8bf469f4117d43844ca734cbf37"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 301,
-    "published_version": 301,
-    "latest_source_commit": "9875747265726ed81fe36acb80cc4ef6d0533612",
-    "published_commit": "9875747265726ed81fe36acb80cc4ef6d0533612",
-    "latest_workflow": 42523873823,
+    "latest_source_version": 302,
+    "published_version": 302,
+    "latest_source_commit": "7cc150d6be28e8bf469f4117d43844ca734cbf37",
+    "published_commit": "7cc150d6be28e8bf469f4117d43844ca734cbf37",
+    "latest_workflow": 42525493882,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -31436,5 +31436,78 @@
     },
     "audit": "data/family-camp-windows-and-full-fees-audit-v302.json",
     "source_receipts": "data/family-camp-windows-and-full-fees-source-receipts-v302.json"
+  },
+  "junior_projects_and_game_festivals_v303": {
+    "version": 303,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4802",
+      "C4803",
+      "C4804",
+      "C4805",
+      "C4806",
+      "C4807",
+      "C4808",
+      "C4809",
+      "C4810",
+      "C4811",
+      "C4812",
+      "C4813",
+      "E663",
+      "E664",
+      "E665",
+      "E666",
+      "E667",
+      "E668",
+      "E669"
+    ],
+    "refreshed_event_ids": [
+      "C3112",
+      "C3113"
+    ],
+    "legacy_overlay_event_ids": [
+      "C3112",
+      "C3113"
+    ],
+    "source_requests": 31,
+    "rube": [
+      "C4802",
+      "C4803",
+      "C4804",
+      "C4805",
+      "C4806"
+    ],
+    "dxc": [
+      "C4807",
+      "C4808"
+    ],
+    "dame": "C4809",
+    "upsteam": [
+      "C4810",
+      "C4811",
+      "C4812"
+    ],
+    "stemathlon": "C4813",
+    "expos": [
+      "E663",
+      "E664",
+      "E665",
+      "E666",
+      "E667",
+      "E668",
+      "E669"
+    ],
+    "source_limits": {
+      "rube": "The assigned regional venue and date depend on registration. The global online page still describes 2026.",
+      "korea": "The Asian partner explicitly describes Asian teams. Admission for teams based outside Asia remains unconfirmed.",
+      "dxc": "Submission requires an accredited Spanish school and a pair. The Madrid final is by selection.",
+      "dame": "The direct PDF has a stale edition number in its body. Current header, closing date and launch announcement identify the 2027 deadline.",
+      "granada": "The exhibition dates are current. The visible Mario Kart competition and access text still reference 2026.",
+      "tokyo": "Public and business dates differ. No age gate or child ticket price inferred."
+    },
+    "audit": "data/junior-projects-and-game-festivals-audit-v303.json",
+    "source_receipts": "data/junior-projects-and-game-festivals-source-receipts-v303.json"
   }
 }

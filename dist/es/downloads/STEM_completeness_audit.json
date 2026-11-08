@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10775,
-    "competition_cards": 4800,
-    "event_cards": 662,
+    "cards": 10794,
+    "competition_cards": 4812,
+    "event_cards": 669,
     "camp_cards": 5313,
     "league_profiles": 309,
-    "major_exhibition_cards": 563,
+    "major_exhibition_cards": 570,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3504,
+      "total": 3509,
       "countries_with_records": 41,
-      "competitions": 1963,
-      "events": 187,
-      "major_exhibitions": 146,
+      "competitions": 1966,
+      "events": 189,
+      "major_exhibitions": 148,
       "camps": 1354,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
@@ -62,11 +62,11 @@
       "regions": [
         "Europa"
       ],
-      "total": 2330,
+      "total": 2339,
       "countries_with_records": 55,
-      "competitions": 629,
-      "events": 161,
-      "major_exhibitions": 136,
+      "competitions": 636,
+      "events": 163,
+      "major_exhibitions": 138,
       "camps": 1540,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
@@ -90,11 +90,11 @@
       "regions": [
         "Asia"
       ],
-      "total": 3052,
+      "total": 3056,
       "countries_with_records": 50,
-      "competitions": 1175,
-      "events": 171,
-      "major_exhibitions": 158,
+      "competitions": 1177,
+      "events": 173,
+      "major_exhibitions": 160,
       "camps": 1706,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
@@ -104,11 +104,11 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 538,
+      "total": 539,
       "countries_with_records": 27,
       "competitions": 167,
-      "events": 35,
-      "major_exhibitions": 31,
+      "events": 36,
+      "major_exhibitions": 32,
       "camps": 336,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido fijian tourist camp, nz días de estudio reales, australian national game/video contests y archivo escolar cerrado de french polynesia. se quedan lenguas / foreign admission camps, un calendario dinámico RCJA, otras islas y torneos locales."
@@ -15108,6 +15108,83 @@
       "end": "2026-11-12",
       "visitor_policy": "family",
       "source": "https://uriangato.gob.mx/web/noticias/preparate-para-el-mundialito-futbot-evento-regional",
+      "new": false
+    },
+    {
+      "id": "E663",
+      "name": "Tokyo Indie Games Summit 2027 · Public Day",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2027-03-28",
+      "end": "2027-03-28",
+      "visitor_policy": "confirm_children",
+      "source": "https://indiegamessummit.tokyo/en/",
+      "new": false
+    },
+    {
+      "id": "E664",
+      "name": "Tokyo Indie Games Summit 2027 · Business Day",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2027-03-27",
+      "end": "2027-03-27",
+      "visitor_policy": "confirm_children",
+      "source": "https://indiegamessummit.tokyo/en/",
+      "new": false
+    },
+    {
+      "id": "E665",
+      "name": "The Game Expo 2027 · TGX",
+      "country": "Australia",
+      "region": "Oceanía",
+      "start": "2027-04-03",
+      "end": "2027-04-04",
+      "visitor_policy": "family",
+      "source": "https://www.thegameexpo.com/faq/",
+      "new": false
+    },
+    {
+      "id": "E666",
+      "name": "LVL UP EXPO 2027 · Las Vegas",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2027-04-23",
+      "end": "2027-04-25",
+      "visitor_policy": "family",
+      "source": "https://lvlupexpo.com/",
+      "new": false
+    },
+    {
+      "id": "E667",
+      "name": "Game Con Canada 2027 · Edmonton",
+      "country": "Canadá",
+      "region": "América del Norte",
+      "start": "2027-06-25",
+      "end": "2027-06-27",
+      "visitor_policy": "family",
+      "source": "https://gameconcanada.com/",
+      "new": false
+    },
+    {
+      "id": "E668",
+      "name": "Odyssey Video Games & Toy Festival 2027",
+      "country": "Reino Unido",
+      "region": "Europa",
+      "start": "2027-02-27",
+      "end": "2027-02-28",
+      "visitor_policy": "family",
+      "source": "https://www.odysseygamingfestival.co.uk/",
+      "new": false
+    },
+    {
+      "id": "E669",
+      "name": "Granada Gaming Festival 2027 · FicZone / Meeple Factory",
+      "country": "España",
+      "region": "Europa",
+      "start": "2027-04-24",
+      "end": "2027-04-25",
+      "visitor_policy": "confirm_children",
+      "source": "https://granadagaming.com/",
       "new": false
     },
     {
