@@ -847,6 +847,45 @@ Limitaciones: 09:00–17:00 entre semana, 09:00–18:00 en festivos y vacaciones
 Fuente: https://www.ntsec.gov.tw/article/detail.aspx?a=6182
 Se ha comprobado: 2026-11-07
 
+### C3820 · NASA Space Apps Challenge 2026 · Kaohsiung
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 50.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/kaohsiung/
+Se ha comprobado: 2026-11-07
+
+### C4072 · NASA Space Apps Challenge 2026 · Taichung
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 500.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/taichung/
+Se ha comprobado: 2026-11-07
+
+### C4073 · NASA Space Apps Challenge 2026 · Taipei
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 300.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/taipei/
+Se ha comprobado: 2026-11-07
+
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
 
 Fecha: 2027-07-05 2027-07-10

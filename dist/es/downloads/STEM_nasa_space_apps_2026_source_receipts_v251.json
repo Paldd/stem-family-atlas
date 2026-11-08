@@ -1,0 +1,4831 @@
+{
+  "api": "https://api.spaceappschallenge.org/graphql",
+  "directory": "https://www.spaceappschallenge.org/2026/local-events/",
+  "checked_at_utc": "2026-11-08T01:59:59.936105+00:00",
+  "pages": [
+    {
+      "page": 1,
+      "requested_after": null,
+      "returned": 500,
+      "bytes": 200418,
+      "sha256": "e0549ff10c187c629ed45cb5ad252d248d924d1d2e3aee2e1893c17550de6759"
+    },
+    {
+      "page": 2,
+      "requested_after": "b2Zmc2V0OjQ5OQ==",
+      "returned": 100,
+      "bytes": 40140,
+      "sha256": "10d15f039da5760c312726d5a3dc8fece4cd896524d5e8a4d374b10308537e56"
+    }
+  ],
+  "locations": [
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/6-of-october/",
+      "id": "C3546",
+      "checked_at_utc": "2026-11-08T02:01:38.381662+00:00",
+      "status": 200,
+      "bytes": 76823,
+      "sha256": "81d16f422fe636747cd80e955293ebda0519c48ca428fd0ac00292af0933c0df"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/aachen/",
+      "id": "C3547",
+      "checked_at_utc": "2026-11-08T02:01:38.033513+00:00",
+      "status": 200,
+      "bytes": 77447,
+      "sha256": "9b79a0634cfef8596fe23400ef41acf2bc0a854ccee81c0441ad14913b19ee4d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/abidjan/",
+      "id": "C3548",
+      "checked_at_utc": "2026-11-08T02:01:38.792081+00:00",
+      "status": 200,
+      "bytes": 79761,
+      "sha256": "0ff286dc9ff7cb685782b802754635f82ab43750e4bfe6b4fd7105e84f3bbfc2"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/abu-dhabi/",
+      "id": "C3549",
+      "checked_at_utc": "2026-11-08T02:01:37.766596+00:00",
+      "status": 200,
+      "bytes": 119827,
+      "sha256": "281b84a52ccebcc239591e98a56f0c7c7b339d2ee28a9f51e95d6baa3d334874"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/abuja/",
+      "id": "C3550",
+      "checked_at_utc": "2026-11-08T02:01:37.420106+00:00",
+      "status": 200,
+      "bytes": 71800,
+      "sha256": "4a94184da4e6fde37fdec84e33f0e328a310f22edca3aafec23ba18648523cb0"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/accra/",
+      "id": "C3551",
+      "checked_at_utc": "2026-11-08T02:01:38.293221+00:00",
+      "status": 200,
+      "bytes": 108292,
+      "sha256": "ba56d7320d5325a2f9827a321fa92a386152d529bb3991cfdcdc48d51b0cbece"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/adana/",
+      "id": "C3552",
+      "checked_at_utc": "2026-11-08T02:01:37.186774+00:00",
+      "status": 200,
+      "bytes": 70148,
+      "sha256": "32ca38c540b8a325ae36e28ba9f6629480817fcce2e529b3a10808f35284009e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/addis-ababa/",
+      "id": "C3553",
+      "checked_at_utc": "2026-11-08T02:01:38.148240+00:00",
+      "status": 200,
+      "bytes": 70161,
+      "sha256": "a75500c72349001e5308e64236fce740915e7ec42ad6629a837b65dca88cf99e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/agadir/",
+      "id": "C3554",
+      "checked_at_utc": "2026-11-08T02:01:38.195277+00:00",
+      "status": 200,
+      "bytes": 76730,
+      "sha256": "c3cb26fd39cb8e48af43b4e1438e07792e01958170508d3292c5fdf20c0b4f19"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ahilyanagar/",
+      "id": "C3555",
+      "checked_at_utc": "2026-11-08T02:01:36.769614+00:00",
+      "status": 200,
+      "bytes": 68026,
+      "sha256": "630927eca63d4aa523f8cc566ba3a6b075d42d3798c90dd905d5e2c6dba2333e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ahlen/",
+      "id": "C3556",
+      "checked_at_utc": "2026-11-08T02:01:36.653908+00:00",
+      "status": 200,
+      "bytes": 75657,
+      "sha256": "b1e668ccc3888eda0b66869cecd94488b5228ba75e7e88397d20c8ad48952b6d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ahmedabad/",
+      "id": "C3557",
+      "checked_at_utc": "2026-11-08T02:01:36.478620+00:00",
+      "status": 200,
+      "bytes": 69043,
+      "sha256": "fcb3620afcc3a88ddecb25eaa7c59bd5584a00fc00663d36466d57273303ee41"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ajman/",
+      "id": "C3558",
+      "checked_at_utc": "2026-11-08T02:01:36.550264+00:00",
+      "status": 200,
+      "bytes": 91903,
+      "sha256": "4fe8c0c94ad25212d966ef81d7425f1ecb6e01c397f20ec85b0bbdcddf6fe90d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ajmer/",
+      "id": "C3559",
+      "checked_at_utc": "2026-11-08T02:01:37.102103+00:00",
+      "status": 200,
+      "bytes": 84697,
+      "sha256": "1ba55ea727117969f70c5d2405f169d3fd936ec7020c566cda4b1513c514d8df"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/aksaray/",
+      "id": "C3560",
+      "checked_at_utc": "2026-11-08T02:01:36.048207+00:00",
+      "status": 200,
+      "bytes": 73247,
+      "sha256": "9fc8c66d4a5d9a41cf5da9ef816b41dd5973bbd17b05daeda1148106021b3192"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/al-ain/",
+      "id": "C3561",
+      "checked_at_utc": "2026-11-08T02:01:35.932194+00:00",
+      "status": 200,
+      "bytes": 71545,
+      "sha256": "6a1688fb9909f95a4ad6bb30bffb3d2058d83c3c52133eb9532f5f8be5e6facb"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/al-khobar/",
+      "id": "C3562",
+      "checked_at_utc": "2026-11-08T02:01:35.865765+00:00",
+      "status": 200,
+      "bytes": 79367,
+      "sha256": "588432fb13c803d2097a60ea82c55f330666b9a96375d7a142e208e6f159aa12"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/alba-iulia/",
+      "id": "C3563",
+      "checked_at_utc": "2026-11-08T02:01:36.601376+00:00",
+      "status": 200,
+      "bytes": 72852,
+      "sha256": "4291de3eb00dc75176f55d4ad3b4d645299224b1cb94cd04b677143bc77a5cda"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/albuquerque/",
+      "id": "C3564",
+      "checked_at_utc": "2026-11-08T02:01:35.463634+00:00",
+      "status": 200,
+      "bytes": 77200,
+      "sha256": "080f9ea81e720ea39b188bc83ef4429de74308fac3695ce1f4d39999724c7ce7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/alexandria/",
+      "id": "C3565",
+      "checked_at_utc": "2026-11-08T02:01:35.298251+00:00",
+      "status": 200,
+      "bytes": 73134,
+      "sha256": "ae98aab61b2f68b626c9ab62304a458e15a5db7cc8c3cef6e24f7213ccf6d0d1"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/algiers/",
+      "id": "C3566",
+      "checked_at_utc": "2026-11-08T02:01:34.979194+00:00",
+      "status": 200,
+      "bytes": 80985,
+      "sha256": "9d0fae9660aa043ed9a7f0a67d768c8162356269d3dca91d2ece538eaded119e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/almaty/",
+      "id": "C3567",
+      "checked_at_utc": "2026-11-08T02:01:34.763269+00:00",
+      "status": 200,
+      "bytes": 82581,
+      "sha256": "553b0f8381c52a8b30722d034672c2fb541e47325401c3b6995857aa02b59a5e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/amaravati/",
+      "id": "C3568",
+      "checked_at_utc": "2026-11-08T02:01:35.800365+00:00",
+      "status": 200,
+      "bytes": 80081,
+      "sha256": "be2bb55cdb1e55e936929f4da5c692e6942ea221dfd72d3d4c5326111d998de5"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/amman/",
+      "id": "C3569",
+      "checked_at_utc": "2026-11-08T02:01:34.379203+00:00",
+      "status": 200,
+      "bytes": 76800,
+      "sha256": "9d5979648f983fc354e6534e13e5b206c1fccd1c7a847c70501f0c0a24e5937a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/amsterdam/",
+      "id": "C3570",
+      "checked_at_utc": "2026-11-08T02:01:35.367134+00:00",
+      "status": 200,
+      "bytes": 73359,
+      "sha256": "1bc9b951e34148f8e1ad2a7534e5a89863215066250f2da93246bf48caa6f9d2"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/anand/",
+      "id": "C3571",
+      "checked_at_utc": "2026-11-08T02:01:34.112303+00:00",
+      "status": 200,
+      "bytes": 75884,
+      "sha256": "2c3eacb0a5611ad3484bfe82ea1e2e2f71b67bd264b7450fd63c9a7987faec5b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/andahuaylas/",
+      "id": "C3572",
+      "checked_at_utc": "2026-11-08T02:01:35.248189+00:00",
+      "status": 200,
+      "bytes": 79566,
+      "sha256": "f40914bf8ba015df77e052d47ac46e98298d9d5ae29528c57c1c9166d8162740"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ankara/",
+      "id": "C3573",
+      "checked_at_utc": "2026-11-08T02:01:34.045511+00:00",
+      "status": 200,
+      "bytes": 86003,
+      "sha256": "96cc088c7e95a2513586e6f9172f1694a226b3fb986b850f4e1392a26a6c7bfc"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/antalya/",
+      "id": "C3574",
+      "checked_at_utc": "2026-11-08T02:01:33.498352+00:00",
+      "status": 200,
+      "bytes": 97365,
+      "sha256": "a3bf468981e6a22f3ffe101bfd085019192a44e715b8ab291c0bfd0666743b0b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/antofagasta/",
+      "id": "C3575",
+      "checked_at_utc": "2026-11-08T02:01:38.905856+00:00",
+      "status": 200,
+      "bytes": 75193,
+      "sha256": "dfeb353011bd4c0a5108f6e713239b3c4d2f6f395d72a5b4e71f4ab997d9c5c8"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/anuradhapura/",
+      "id": "C3576",
+      "checked_at_utc": "2026-11-08T02:01:34.685792+00:00",
+      "status": 200,
+      "bytes": 67211,
+      "sha256": "0586913deca74ee5a123578da839607903aecb097cdce9a084b0206fdc8f78a4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/aqaba/",
+      "id": "C3577",
+      "checked_at_utc": "2026-11-08T02:01:33.504719+00:00",
+      "status": 200,
+      "bytes": 66972,
+      "sha256": "2782cbce68997256b3ed5eb2f2bafadd934015389547eb8a7f40c74a205285c4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ar-ramtha/",
+      "id": "C3578",
+      "checked_at_utc": "2026-11-08T02:01:33.416409+00:00",
+      "status": 200,
+      "bytes": 68172,
+      "sha256": "5b1efff5ac105de930a628723fd74b4e94d1998efeda0b069d846d06f039b0eb"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/aracaju/",
+      "id": "C3579",
+      "checked_at_utc": "2026-11-08T02:01:33.768068+00:00",
+      "status": 200,
+      "bytes": 81612,
+      "sha256": "6b9f49148eb7f898468e93ddb12c6c0fd2b51cd3f9008819672a64a5945c01c5"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/arequipa/",
+      "id": "C3580",
+      "checked_at_utc": "2026-11-08T02:01:33.686203+00:00",
+      "status": 200,
+      "bytes": 79355,
+      "sha256": "7713011917eeb5db13dfafcd4bf6be20ce9614e345b0004c5ccf58a9bab1e3e2"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/arlington-va/",
+      "id": "C3581",
+      "checked_at_utc": "2026-11-08T02:01:39.618753+00:00",
+      "status": 200,
+      "bytes": 74030,
+      "sha256": "cae5a38f3ce6c5e4b78ef2d3c841cbd16b854c321fd9b6db531fa9ea96fe43ec"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/armash/",
+      "id": "C3582",
+      "checked_at_utc": "2026-11-08T02:01:32.531514+00:00",
+      "status": 200,
+      "bytes": 74011,
+      "sha256": "917b2f4186656b9b713e1f68f6656e29c7af3eb7b5e93afbf5efc46fed9ef4e4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ashgabat/",
+      "id": "C3583",
+      "checked_at_utc": "2026-11-08T02:01:32.414844+00:00",
+      "status": 200,
+      "bytes": 78140,
+      "sha256": "dea1156efadb7b1a193ec9096434a47d2279f941589be8d703254ca7796d7cee"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/assiut/",
+      "id": "C3584",
+      "checked_at_utc": "2026-11-08T02:01:31.981578+00:00",
+      "status": 200,
+      "bytes": 76088,
+      "sha256": "7b86a11fda3f75b2ca27b357405f3c6b75a49ce2fff8286db41d5c2e2ca1604f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/astana/",
+      "id": "C3585",
+      "checked_at_utc": "2026-11-08T02:01:31.818049+00:00",
+      "status": 200,
+      "bytes": 79023,
+      "sha256": "7024238cc45db80628577b80a09388a2e39631ceef99ebbd2f6ef0067e76cf08"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/asuncion/",
+      "id": "C3586",
+      "checked_at_utc": "2026-11-08T02:01:31.758481+00:00",
+      "status": 200,
+      "bytes": 72266,
+      "sha256": "bbf355ecf83d055f0ac385d342fb5c5c9f59f0d0c6e9dfd36dfd61b9a06fee8f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/athens/",
+      "id": "C3587",
+      "checked_at_utc": "2026-11-08T02:01:32.836293+00:00",
+      "status": 200,
+      "bytes": 79609,
+      "sha256": "ef5ac41b039ab56549c6a67d7ef17fa32fb439b8a8d08a6e519d1349d7e4b2d8"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/athlone/",
+      "id": "C3588",
+      "checked_at_utc": "2026-11-08T02:01:32.763021+00:00",
+      "status": 200,
+      "bytes": 102108,
+      "sha256": "339a234a8b9dedbafa7929cd731f9c67396734de23538a0bb444125c6193d9b5"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/austin/",
+      "id": "C3589",
+      "checked_at_utc": "2026-11-08T02:01:32.174745+00:00",
+      "status": 200,
+      "bytes": 85967,
+      "sha256": "e578b9394832a13ab46f055df03cb648055eca95ee4f6e8e85acd75f8062c1c1"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/aveiro/",
+      "id": "C3590",
+      "checked_at_utc": "2026-11-08T02:01:31.093113+00:00",
+      "status": 200,
+      "bytes": 76119,
+      "sha256": "2ab11256345abedaaa6ef658fb46cd536797b3fd0415ff06869b0dbe7d710911"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ayacucho/",
+      "id": "C3591",
+      "checked_at_utc": "2026-11-08T02:01:31.114926+00:00",
+      "status": 200,
+      "bytes": 78976,
+      "sha256": "e75db18aa0ac0c77327f81c320e54d1080e707875fddf09a1430a743834eafdc"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ayodhya/",
+      "id": "C3592",
+      "checked_at_utc": "2026-11-08T02:01:31.131536+00:00",
+      "status": 200,
+      "bytes": 73260,
+      "sha256": "94ea3affef2ced5c6b340404f89b735ace8706b1db9c0dcef4659d5cb6437d96"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/azare/",
+      "id": "C3593",
+      "checked_at_utc": "2026-11-08T02:01:30.498598+00:00",
+      "status": 200,
+      "bytes": 79452,
+      "sha256": "182ba3e0ff24812a7bd415611f9eb3edd3f8a01d95ee3045636d7a759efed6c0"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/badr-city/",
+      "id": "C3594",
+      "checked_at_utc": "2026-11-08T02:01:31.348300+00:00",
+      "status": 200,
+      "bytes": 67627,
+      "sha256": "d739941f87e8215926fa4853edbcea97a8fb73db6417c72ec803754288260145"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/baghdad/",
+      "id": "C3595",
+      "checked_at_utc": "2026-11-08T02:01:30.364502+00:00",
+      "status": 200,
+      "bytes": 73467,
+      "sha256": "f6f9163f5e0dfe4e403a149442ff9ca7fc4bd60393cb24ee16eb09738a1e78d4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bahia-blanca/",
+      "id": "C3596",
+      "checked_at_utc": "2026-11-08T02:01:29.723950+00:00",
+      "status": 200,
+      "bytes": 73628,
+      "sha256": "658f0c7fcfc71af684029dde1f31754f6e8871e897ccdce7934d7ca5ee30a70a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/baku/",
+      "id": "C3597",
+      "checked_at_utc": "2026-11-08T02:01:30.548212+00:00",
+      "status": 200,
+      "bytes": 77198,
+      "sha256": "b38b8cd209a2693883a84dcaa5096d576e643dba4a17630bcf3bb2871257e9b8"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/balneario-camboriu/",
+      "id": "C3598",
+      "checked_at_utc": "2026-11-08T02:01:30.419233+00:00",
+      "status": 200,
+      "bytes": 78282,
+      "sha256": "e2d44222e3d86f003a25278c531a1a9378e493e08b9ccd49553ec28bf61b8460"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bandung/",
+      "id": "C3599",
+      "checked_at_utc": "2026-11-08T02:01:31.048177+00:00",
+      "status": 200,
+      "bytes": 72631,
+      "sha256": "4acb66fa5ba0a9c5b5197985e886ef6c2addb77c3b242dafcd5a1fad3fca9121"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bangalore/",
+      "id": "C3600",
+      "checked_at_utc": "2026-11-08T02:01:28.938245+00:00",
+      "status": 200,
+      "bytes": 69527,
+      "sha256": "5774c193d4b8cc9aeb7f45de7a8edd82980d0c4f3d7db86952a7dc2d2df7aae8"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bangkok/",
+      "id": "C3601",
+      "checked_at_utc": "2026-11-08T02:01:29.855272+00:00",
+      "status": 200,
+      "bytes": 71173,
+      "sha256": "f08b85f1623b7de0298c955cfe6d1bce611e00f535dd8bb4749f232cd297a944"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/banjul/",
+      "id": "C3602",
+      "checked_at_utc": "2026-11-08T02:01:28.817163+00:00",
+      "status": 200,
+      "bytes": 78698,
+      "sha256": "163c3890b1315d6171bc0be671915654f16046008e7f6c7eb75cb8f48ce74596"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/barcelona/",
+      "id": "C3603",
+      "checked_at_utc": "2026-11-08T02:01:28.334662+00:00",
+      "status": 200,
+      "bytes": 70760,
+      "sha256": "d9ed9bb2be9b876f8fd9cb64633042284bc6c10fc5fb9930debb29e486679e98"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/barisal/",
+      "id": "C3604",
+      "checked_at_utc": "2026-11-08T02:01:28.330063+00:00",
+      "status": 200,
+      "bytes": 78304,
+      "sha256": "fc898ed7fa6c03f030c54b8c95b5fe33eba97cc4bdd79406d3379983b2c8306b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/batman/",
+      "id": "C3605",
+      "checked_at_utc": "2026-11-08T02:01:28.248391+00:00",
+      "status": 200,
+      "bytes": 76942,
+      "sha256": "a9939e147a1bae3030d289bf496366f80361bc9503edce67fc3be00b033ee526"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/batticaloa/",
+      "id": "C3606",
+      "checked_at_utc": "2026-11-08T02:01:29.663968+00:00",
+      "status": 200,
+      "bytes": 71923,
+      "sha256": "51eeda39d445135980b2ac051daa50c69e8534b0847dd3c3c04f4de3d2f9f6ad"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/beirut/",
+      "id": "C3607",
+      "checked_at_utc": "2026-11-08T02:01:27.672674+00:00",
+      "status": 200,
+      "bytes": 71323,
+      "sha256": "57aea63b3cdaa5d3183aa8195d0ee7c6cb64feb817236546b2550fda61a26fa5"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/belagavi/",
+      "id": "C3608",
+      "checked_at_utc": "2026-11-08T02:01:27.606702+00:00",
+      "status": 200,
+      "bytes": 67102,
+      "sha256": "8dd1bd47adb035b4c02d8505a1cd27c72273ea8397c1733720945a4eabed8d97"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/belem/",
+      "id": "C3609",
+      "checked_at_utc": "2026-11-08T02:01:29.098419+00:00",
+      "status": 200,
+      "bytes": 70835,
+      "sha256": "5a831a1169ee36692664bca62241d63bd560e369a6e3f002d5740cbf27e47226"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/belo-horizonte/",
+      "id": "C3610",
+      "checked_at_utc": "2026-11-08T02:01:27.672837+00:00",
+      "status": 200,
+      "bytes": 81281,
+      "sha256": "6aa31eca7a603f0f56f0fe6bbaac182972ec9eb63d514f7271e7a1e3a0747708"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ben-guerir/",
+      "id": "C3611",
+      "checked_at_utc": "2026-11-08T02:01:28.127132+00:00",
+      "status": 200,
+      "bytes": 76948,
+      "sha256": "0a67dc1d612b395a3993509e36de0ec67594425f665b7c01ebbe76b5cd411d40"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/beni-mellal/",
+      "id": "C3612",
+      "checked_at_utc": "2026-11-08T02:01:27.003366+00:00",
+      "status": 200,
+      "bytes": 78463,
+      "sha256": "ba65a9146ec0200ef81ca81ece219319978c33f5a9a287703ef9ae94e5c2e317"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bento-goncalves/",
+      "id": "C3613",
+      "checked_at_utc": "2026-11-08T02:01:26.943649+00:00",
+      "status": 200,
+      "bytes": 69549,
+      "sha256": "8bc4e75bf5960c320cae62cfb44d9e9b6c8f85288de4de9d50ddfb13bfff3713"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/berlin/",
+      "id": "C3614",
+      "checked_at_utc": "2026-11-08T02:01:26.467638+00:00",
+      "status": 200,
+      "bytes": 68807,
+      "sha256": "7d5ede0b6ee987ba2393e4c60587b753968b31f1bb3ea09829e172a3acdc169a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bern/",
+      "id": "C3615",
+      "checked_at_utc": "2026-11-08T02:01:26.358534+00:00",
+      "status": 200,
+      "bytes": 84349,
+      "sha256": "bb45ba3cde0010c80712ec4c8f622f8a4ff6219d1e54ad0c41af94e38fa219fd"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/besancon/",
+      "id": "C3616",
+      "checked_at_utc": "2026-11-08T02:01:27.022121+00:00",
+      "status": 200,
+      "bytes": 69372,
+      "sha256": "1490197279767309f8cf8b5fa5b82efab2dfd1318c2ef165cd6d7757d13eb960"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bethesda/",
+      "id": "C3617",
+      "checked_at_utc": "2026-11-08T02:01:26.927886+00:00",
+      "status": 200,
+      "bytes": 75001,
+      "sha256": "3702ce24346c59c05ee00eea331c5f2c0b6cac163b4cf2f570b3f3c7acbbc1a4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bhaktapur/",
+      "id": "C3618",
+      "checked_at_utc": "2026-11-08T02:01:25.814478+00:00",
+      "status": 200,
+      "bytes": 71761,
+      "sha256": "ffcd7c233effaf249ed11692a61cf82d5602a6f328f056220fe1d770b39814b8"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bhopal/",
+      "id": "C3619",
+      "checked_at_utc": "2026-11-08T02:01:25.579932+00:00",
+      "status": 200,
+      "bytes": 72852,
+      "sha256": "68fe62f841a303ed5ce3c24e69f4e2aa563e88c24186c13be05b33d63ac93dea"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bilbao/",
+      "id": "C3620",
+      "checked_at_utc": "2026-11-08T02:01:26.461800+00:00",
+      "status": 200,
+      "bytes": 71494,
+      "sha256": "ab988009a816955ca6a0385f2a160691fc509a0a66632d386a37662d1accc492"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bindura/",
+      "id": "C3621",
+      "checked_at_utc": "2026-11-08T02:01:25.197906+00:00",
+      "status": 200,
+      "bytes": 68543,
+      "sha256": "bd8cf3a505ba2c4deee6d34f1c0e6f0678eff828faff63750664465f8fcc8ea7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bintulu/",
+      "id": "C3622",
+      "checked_at_utc": "2026-11-08T02:01:25.148372+00:00",
+      "status": 200,
+      "bytes": 74257,
+      "sha256": "fd3e251d67e7d815b41667d566c8e485887f4e27a3d302c7dd4fd5b83cb265fe"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bishkek/",
+      "id": "C3623",
+      "checked_at_utc": "2026-11-08T02:01:24.952182+00:00",
+      "status": 200,
+      "bytes": 71056,
+      "sha256": "7a10f91fea7cd0da40e70e01c7d33a846fc5010ebc365993adc4e5beeb14f6a7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bistrita/",
+      "id": "C3624",
+      "checked_at_utc": "2026-11-08T02:01:24.807766+00:00",
+      "status": 200,
+      "bytes": 67789,
+      "sha256": "d88c45c33c96a87d940e8a33c3dfb917d7ae3840b54d4e51e12bf9750b01e865"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/boa-vista/",
+      "id": "C3625",
+      "checked_at_utc": "2026-11-08T02:01:24.581513+00:00",
+      "status": 200,
+      "bytes": 83730,
+      "sha256": "aba0d7f4c31169c8f3a1aa9805c82b043187acdefa00ab7daed23b58dbf06c30"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/boca-del-rio/",
+      "id": "C3626",
+      "checked_at_utc": "2026-11-08T01:57:44.263281+00:00",
+      "status": 200,
+      "bytes": 69670,
+      "sha256": "02163e852fa271f849bb6196ae3d7cbdb4333b4978fa674cb2e6d8761e8061c7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bocas-del-toro/",
+      "id": "C3627",
+      "checked_at_utc": "2026-11-08T01:57:42.870647+00:00",
+      "status": 200,
+      "bytes": 73801,
+      "sha256": "644e1109343a01cbdcb9c753f9e372b5918f8d6dc37bfe63c688978e974d1eff"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bogota/",
+      "id": "C3628",
+      "checked_at_utc": "2026-11-08T02:01:24.517213+00:00",
+      "status": 200,
+      "bytes": 97541,
+      "sha256": "01ed81297c31a1fbc68678283330e639971977cb3d32de286dacba80fd189f8a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bosconia/",
+      "id": "C3629",
+      "checked_at_utc": "2026-11-08T02:01:25.427785+00:00",
+      "status": 200,
+      "bytes": 102702,
+      "sha256": "84aab38f3282b06490d2bede4369b3901977429841d5e7db9292aaa1ec11e309"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/boston/",
+      "id": "C3630",
+      "checked_at_utc": "2026-11-08T02:01:24.335102+00:00",
+      "status": 200,
+      "bytes": 81950,
+      "sha256": "fe9091471b230324313eadbc8292d916f51f062ddaa7c75a7008d98461958eea"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/boumerdes/",
+      "id": "C3631",
+      "checked_at_utc": "2026-11-08T02:01:24.172025+00:00",
+      "status": 200,
+      "bytes": 72146,
+      "sha256": "a6436ef68ef2cc004959b7cc8691d1f7af6b21f65a226d66f91c0a78492021ba"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/brasilia/",
+      "id": "C3632",
+      "checked_at_utc": "2026-11-08T02:01:23.850044+00:00",
+      "status": 200,
+      "bytes": 80981,
+      "sha256": "7a0e6fadfd9889614c54c1dcdac615f9bf244b094e0e7908a1e2995f76cf9137"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bristol/",
+      "id": "C3633",
+      "checked_at_utc": "2026-11-08T02:01:23.785422+00:00",
+      "status": 200,
+      "bytes": 77443,
+      "sha256": "9da7f3d96c59130ce85021871fa4d5c43fb868d5672fe413d729137243da2d5c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/brookhaven/",
+      "id": "C3634",
+      "checked_at_utc": "2026-11-08T02:01:23.654865+00:00",
+      "status": 200,
+      "bytes": 74188,
+      "sha256": "2b7741b739fdd76b6c9ad91498802974bbf2734b2bdfc9cd389e50b01836ae29"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bucharest/",
+      "id": "C3635",
+      "checked_at_utc": "2026-11-08T02:01:26.254682+00:00",
+      "status": 200,
+      "bytes": 71875,
+      "sha256": "6e38a1ea70a85ce8995d9bfb69ad521486d478141c4fd7494b7ae4aa432aa893"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/budapest/",
+      "id": "C3636",
+      "checked_at_utc": "2026-11-08T02:01:23.225838+00:00",
+      "status": 200,
+      "bytes": 77034,
+      "sha256": "10e81e754d00409705da10cc13c3f50266f5f1d435d33909d48e733ca349b490"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/buenos-aires/",
+      "id": "C3637",
+      "checked_at_utc": "2026-11-08T02:01:23.069160+00:00",
+      "status": 200,
+      "bytes": 83310,
+      "sha256": "9148a82b05d092a89a29aca6423fd6c48a3ab3fb9df170b8beb55c515a4720a1"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bukavu/",
+      "id": "C3638",
+      "checked_at_utc": "2026-11-08T02:01:23.147231+00:00",
+      "status": 200,
+      "bytes": 79855,
+      "sha256": "8aabb2b6de74ca70049e35d615d41a2c6e6ae7e2f1a06ad0b02b81980f76f25a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/burgas/",
+      "id": "C3639",
+      "checked_at_utc": "2026-11-08T02:01:23.895038+00:00",
+      "status": 200,
+      "bytes": 69349,
+      "sha256": "fcae5cb479670097a5f4c1bfcb115ed01030e5d3ca775cdd20c629452e2efda4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/bursa/",
+      "id": "C3640",
+      "checked_at_utc": "2026-11-08T02:01:22.587817+00:00",
+      "status": 200,
+      "bytes": 72856,
+      "sha256": "b270db63d9f1b555d0caf718dbc77fdcf020b64c8807946337caa5be975c5513"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cachipay/",
+      "id": "C3641",
+      "checked_at_utc": "2026-11-08T02:01:22.581628+00:00",
+      "status": 200,
+      "bytes": 98100,
+      "sha256": "50b5f164538bd4a229e8754a8a99f8c4ce4da7f5df692a3d1f9cee0c0762b9cc"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cairo/",
+      "id": "C3642",
+      "checked_at_utc": "2026-11-08T02:01:23.569722+00:00",
+      "status": 200,
+      "bytes": 76028,
+      "sha256": "675ad6b8e52ab5d367c55ec2e5308f90d137e9d2be655c5968f8018dd3348deb"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cajamarca/",
+      "id": "C3643",
+      "checked_at_utc": "2026-11-08T02:01:22.214802+00:00",
+      "status": 200,
+      "bytes": 85535,
+      "sha256": "3dd8dc899b3037704c571de78f4c055ba57fb7ca63928aa98a8d23604bbb5ce1"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/caleta-olivia/",
+      "id": "C3644",
+      "checked_at_utc": "2026-11-08T02:01:21.931939+00:00",
+      "status": 200,
+      "bytes": 79476,
+      "sha256": "ccfd75a0b2f2365e9855e440fe2209d32bb72ac07fede7f04669b8f62f6bbe95"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/calgary/",
+      "id": "C3645",
+      "checked_at_utc": "2026-11-08T02:01:21.923535+00:00",
+      "status": 200,
+      "bytes": 95189,
+      "sha256": "1c9b1fd3999fc48b52f8ef4678344f2b849ff4c560a6236c30d4ba596023a789"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/calicut/",
+      "id": "C3646",
+      "checked_at_utc": "2026-11-08T02:01:21.547801+00:00",
+      "status": 200,
+      "bytes": 80995,
+      "sha256": "220c3d5c074074f5695cc60a1e5b846757d72e64ec3374ddc2e736a4ad535ac7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/calumbo/",
+      "id": "C3647",
+      "checked_at_utc": "2026-11-08T02:01:22.448300+00:00",
+      "status": 200,
+      "bytes": 73752,
+      "sha256": "47d99e3ea6a0d98394f1397a0e0d2ecd909681148f6520c4b6c9d1972fc4b22e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cambridge/",
+      "id": "C3648",
+      "checked_at_utc": "2026-11-08T02:01:21.249659+00:00",
+      "status": 200,
+      "bytes": 91307,
+      "sha256": "2fa39f9e787e9dea805fabd182ab2a05aeb65a5f5a1aca6bfe0a8c091de53183"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/campina-grande/",
+      "id": "C3649",
+      "checked_at_utc": "2026-11-08T02:01:20.891606+00:00",
+      "status": 200,
+      "bytes": 80588,
+      "sha256": "5a3c3d3de20ef0de2ca156f0fcee8cdaa1b362d36110d50a6f557de2d05ec750"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/campinas/",
+      "id": "C3650",
+      "checked_at_utc": "2026-11-08T02:01:21.919300+00:00",
+      "status": 200,
+      "bytes": 69505,
+      "sha256": "bfbd07e6727c92c1432e32b3c84ac8cd8943bb63e9962f85e558ee9bc58a9161"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/campo-mourao/",
+      "id": "C3651",
+      "checked_at_utc": "2026-11-08T02:01:20.800876+00:00",
+      "status": 200,
+      "bytes": 72266,
+      "sha256": "8bd66dee5ccaec9ec09052ca7eaa14aa25aba5318b0fdd9e2f479ec5cbafb4b8"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/canton/",
+      "id": "C3652",
+      "checked_at_utc": "2026-11-08T02:01:20.625748+00:00",
+      "status": 200,
+      "bytes": 75758,
+      "sha256": "0640fd522d19dbe98d9dc2e8509f5be749fa57d6696f733f4e55b6943ba4ea58"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cape-canaveral/",
+      "id": "C3653",
+      "checked_at_utc": "2026-11-08T02:01:22.416572+00:00",
+      "status": 200,
+      "bytes": 68976,
+      "sha256": "da6ab8669124109eb1f5bba3e7274b018a408483e9cecd52c49c43f250ecd16a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cape-town/",
+      "id": "C3654",
+      "checked_at_utc": "2026-11-08T02:01:20.198287+00:00",
+      "status": 200,
+      "bytes": 71902,
+      "sha256": "f27f78732fd0c4e370d2b73255e5dec69e27e46c814843e1274f80941c9a0c77"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/carmen-city/",
+      "id": "C3655",
+      "checked_at_utc": "2026-11-08T01:57:42.863836+00:00",
+      "status": 200,
+      "bytes": 68176,
+      "sha256": "408fdf71b6456d774edb39661eb8d92306dc5e40be3b7491c9dc0b06ca28a2a2"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cartago/",
+      "id": "C3116",
+      "checked_at_utc": "2026-11-08T01:57:42.505953+00:00",
+      "status": 200,
+      "bytes": 97208,
+      "sha256": "b48e1c34897c48766f5f681c221f138b83108548054283548a7d13aa5358caa9"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/casablanca/",
+      "id": "C3656",
+      "checked_at_utc": "2026-11-08T02:01:20.163215+00:00",
+      "status": 200,
+      "bytes": 69324,
+      "sha256": "1f116bb8dffd3d4f2367410222b58f1a2195d9eda8f8f3fc1e098dce63cfa5d0"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/catamarca/",
+      "id": "C3657",
+      "checked_at_utc": "2026-11-08T02:01:21.141548+00:00",
+      "status": 200,
+      "bytes": 72385,
+      "sha256": "ebb64e3e852106d7d43f42f62ed8df9ecd511ffc151ff48be2c86b7caca5ae06"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cavalcante/",
+      "id": "C3658",
+      "checked_at_utc": "2026-11-08T02:01:19.931679+00:00",
+      "status": 200,
+      "bytes": 80368,
+      "sha256": "e39201bc815539c05422b409b2db5eb52d25060671bc7c215953a62d4dd14bb3"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/caxias-do-sul/",
+      "id": "C3659",
+      "checked_at_utc": "2026-11-08T02:01:19.742265+00:00",
+      "status": 200,
+      "bytes": 83448,
+      "sha256": "272021532221e39523caa86bba5292156cdc067f11352003e329def3b898a5bd"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ceres/",
+      "id": "C3660",
+      "checked_at_utc": "2026-11-08T02:01:19.496387+00:00",
+      "status": 200,
+      "bytes": 80468,
+      "sha256": "c81dcb29931d2e99c3f62e9944ef31b01e207ca39c730a94f871c68b35b58a58"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cerro-azul/",
+      "id": "C3661",
+      "checked_at_utc": "2026-11-08T01:57:42.454927+00:00",
+      "status": 200,
+      "bytes": 99901,
+      "sha256": "af63a4ebc8e3ae1661f8990d1b78fe2e7a3011e6b052247752fc7d5d170e9cd8"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/charlotte/",
+      "id": "C3662",
+      "checked_at_utc": "2026-11-08T02:01:19.537996+00:00",
+      "status": 200,
+      "bytes": 79881,
+      "sha256": "b239482535fa74d481d603038f6a5b4c81cac88411a44adb5b1cb78840fe9409"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/chattogram/",
+      "id": "C3663",
+      "checked_at_utc": "2026-11-08T02:01:19.562704+00:00",
+      "status": 200,
+      "bytes": 79062,
+      "sha256": "778769e46c853a234f73409307087e6d188603cc7a7a29569c8188345ba99069"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/chennai/",
+      "id": "C3664",
+      "checked_at_utc": "2026-11-08T02:01:18.901369+00:00",
+      "status": 200,
+      "bytes": 73264,
+      "sha256": "afa425aa47df3a48f38413a84e481416cd17796cdae5661f135aa6c5693f67b0"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/chia/",
+      "id": "C3665",
+      "checked_at_utc": "2026-11-08T02:01:18.898207+00:00",
+      "status": 200,
+      "bytes": 106932,
+      "sha256": "1908922cdceaeefc57400921fce87fb69b7c4ff0e1c3c66211884d2fb804b34a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/chicago/",
+      "id": "C3666",
+      "checked_at_utc": "2026-11-08T02:01:20.221052+00:00",
+      "status": 200,
+      "bytes": 83546,
+      "sha256": "5f5d8a4de54a01dd0b0ddb4912cff8fa3601138c8c907fd54e19058af62ac614"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/chiclayo/",
+      "id": "C3667",
+      "checked_at_utc": "2026-11-08T02:01:19.298274+00:00",
+      "status": 200,
+      "bytes": 79072,
+      "sha256": "0dd6df88ef3b296aecdad9c294b1e45ba2a35909e08033deb4e4ff7a363a90aa"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/chihuahua/",
+      "id": "C3128",
+      "checked_at_utc": "2026-11-08T01:57:43.230235+00:00",
+      "status": 200,
+      "bytes": 76185,
+      "sha256": "ac6ddf94e9b57fec9df6f5b795d42bf370576a961dfb7045189bf72560ecf54c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/chikkamagaluru/",
+      "id": "C3668",
+      "checked_at_utc": "2026-11-08T02:01:18.220944+00:00",
+      "status": 200,
+      "bytes": 68904,
+      "sha256": "2d9be540757ec7d872a43b589b7da9f371becdacba92f9f90dbaa6a405cdc2f1"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/chimbote/",
+      "id": "C3669",
+      "checked_at_utc": "2026-11-08T02:01:19.114259+00:00",
+      "status": 200,
+      "bytes": 85850,
+      "sha256": "a0b0c4f3101f98af0bec08140f137e46f34d500ad1ca9a5bb23d480922e6cf0a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/chino-hills/",
+      "id": "C3670",
+      "checked_at_utc": "2026-11-08T02:01:18.797687+00:00",
+      "status": 200,
+      "bytes": 70908,
+      "sha256": "1f1a9ef35465d65abad8dfc806ecd0c5d31d6a53b3b03c9752b319cf001aa71a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/chouteau/",
+      "id": "C3671",
+      "checked_at_utc": "2026-11-08T02:01:17.626220+00:00",
+      "status": 200,
+      "bytes": 66928,
+      "sha256": "456d3c8e8cdb0cec057b9e329fb0af2250e68c821ff7f919bc323e614b997401"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cianorte/",
+      "id": "C3672",
+      "checked_at_utc": "2026-11-08T02:01:17.548486+00:00",
+      "status": 200,
+      "bytes": 113458,
+      "sha256": "7d0915c07976cae04a1e2bd45f5a0f7f5dc3025a138787fec992a6b4c331ac82"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cincinnati/",
+      "id": "C3673",
+      "checked_at_utc": "2026-11-08T02:01:17.479350+00:00",
+      "status": 200,
+      "bytes": 81024,
+      "sha256": "77a0bf2897a533f790ddcc8901b6f94c1d5ddeee7f566827da7b81cb70e6b063"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ciudad-de-la-costa/",
+      "id": "C3674",
+      "checked_at_utc": "2026-11-08T02:01:17.093227+00:00",
+      "status": 200,
+      "bytes": 72828,
+      "sha256": "5b8457e2df8ca6e0ee8a337054fefbed33e96c050576ae0f8c4829a4d06b96e7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ciudad-del-este/",
+      "id": "C3675",
+      "checked_at_utc": "2026-11-08T02:01:16.846789+00:00",
+      "status": 200,
+      "bytes": 88429,
+      "sha256": "161430ff0af731b74f33876637ec9709ddfd1658d7ced1568d7424bb21741fde"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cleveland-ms/",
+      "id": "C3676",
+      "checked_at_utc": "2026-11-08T02:01:17.582911+00:00",
+      "status": 200,
+      "bytes": 70487,
+      "sha256": "9ad8ea5c19aa746363595f96c20465733a9cb95e935951ef47ae2999afc3371f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cleveland-oh/",
+      "id": "C3677",
+      "checked_at_utc": "2026-11-08T02:01:46.009093+00:00",
+      "status": 200,
+      "bytes": 67476,
+      "sha256": "d73894af62e5bdf8a7ae20f078b9e8c5193e7abb4f39c06c7b610bd6b940c7cd"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cluj-napoca/",
+      "id": "C3678",
+      "checked_at_utc": "2026-11-08T02:01:16.478339+00:00",
+      "status": 200,
+      "bytes": 72245,
+      "sha256": "7e6198234a2aaa2377933e27c3131412d167a108b6a36de5cd4a2049f255fc71"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/coban/",
+      "id": "C3679",
+      "checked_at_utc": "2026-11-08T01:57:44.192978+00:00",
+      "status": 200,
+      "bytes": 86933,
+      "sha256": "dedfe4193cda59a56fbf3f92cf966f024df599ffb9d56c46e8eba8c5eb991be9"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cochabamba/",
+      "id": "C3680",
+      "checked_at_utc": "2026-11-08T02:01:18.248835+00:00",
+      "status": 200,
+      "bytes": 98550,
+      "sha256": "9e41097e668d215f98da3c3d6907a33e16f07b66004a048ab59c6080440f10db"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/coimbatore/",
+      "id": "C3681",
+      "checked_at_utc": "2026-11-08T02:01:17.015046+00:00",
+      "status": 200,
+      "bytes": 72492,
+      "sha256": "8e517456a737b7483a653bd062053537506e2de28e7c675cae7c13367c05da9b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/colombo/",
+      "id": "C3682",
+      "checked_at_utc": "2026-11-08T02:01:15.924453+00:00",
+      "status": 200,
+      "bytes": 72419,
+      "sha256": "9eb8741e9d49c19124c553da99fba7eb1989414ed3f167530f1e46f41b72973f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/columbus/",
+      "id": "C3683",
+      "checked_at_utc": "2026-11-08T02:01:16.854798+00:00",
+      "status": 200,
+      "bytes": 70899,
+      "sha256": "2b9cf0df5091cd6a5b45a72b6b13b4d0ca15c89cc82dc3ce497678b2d0937da3"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/comodoro-rivadavia/",
+      "id": "C3684",
+      "checked_at_utc": "2026-11-08T02:01:16.112308+00:00",
+      "status": 200,
+      "bytes": 84150,
+      "sha256": "4afb83e3a14d3e82118e7c6c164efef3825421a7624d5699bec9fe4c326539dc"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/conakry/",
+      "id": "C3685",
+      "checked_at_utc": "2026-11-08T02:01:15.140777+00:00",
+      "status": 200,
+      "bytes": 83899,
+      "sha256": "b07d203f9abcad00f1eb135b64782b494f6a7329d060aec1bc6cde82ddef9e8c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/concepcion/",
+      "id": "C3686",
+      "checked_at_utc": "2026-11-08T02:01:15.343064+00:00",
+      "status": 200,
+      "bytes": 79110,
+      "sha256": "c2de358ecacfa5e03fcfad2de943e91792325841dcea82b1f48a1a6f17512a36"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/coracora/",
+      "id": "C3687",
+      "checked_at_utc": "2026-11-08T02:01:15.249947+00:00",
+      "status": 200,
+      "bytes": 82813,
+      "sha256": "d38848f752dcc0f9cc349fbe4c7ec3b4f536a419bcc671a336c67c9153a09a3d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cordoba/",
+      "id": "C3688",
+      "checked_at_utc": "2026-11-08T02:01:14.416495+00:00",
+      "status": 200,
+      "bytes": 93991,
+      "sha256": "3d99538572a8c0e5276a90a001a7e5c4ae4112a5b045164a50d4d2ae644f759e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/corlu/",
+      "id": "C3689",
+      "checked_at_utc": "2026-11-08T02:00:00.895807+00:00",
+      "status": 200,
+      "bytes": 68334,
+      "sha256": "cb1fce33f1e506dca809bd9501adb74ed5a00ca9417b468e7767fb2bf19000f9"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/corum/",
+      "id": "C3690",
+      "checked_at_utc": "2026-11-08T02:00:00.835989+00:00",
+      "status": 200,
+      "bytes": 67922,
+      "sha256": "336ca32f98292d1b2134aaf15f4112e86fad0d4164154c63b6cb86c14213d1d8"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cottbus/",
+      "id": "C3691",
+      "checked_at_utc": "2026-11-08T02:01:15.841270+00:00",
+      "status": 200,
+      "bytes": 69144,
+      "sha256": "b7bf58ff52d7d5048e7b6b9814e79c1e4919531bb987b51598e0a9bc2034c041"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/craiova/",
+      "id": "C3692",
+      "checked_at_utc": "2026-11-08T02:01:13.620031+00:00",
+      "status": 200,
+      "bytes": 77046,
+      "sha256": "dc102b97d325363603b159d54c0188a45ee615c519cdc85c60b7918a9a31accb"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cucuta/",
+      "id": "C3693",
+      "checked_at_utc": "2026-11-08T02:01:13.611340+00:00",
+      "status": 200,
+      "bytes": 98802,
+      "sha256": "2043f4db41548ff1702eb89f9153d94f954896db9d73511a69cc8fb4706391d2"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cuiaba/",
+      "id": "C3694",
+      "checked_at_utc": "2026-11-08T02:01:15.587791+00:00",
+      "status": 200,
+      "bytes": 75862,
+      "sha256": "844895307ce5538ee1587caecb72ef1855476fbbf6e3e6c5f7712da51ea845d0"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/cumilla/",
+      "id": "C3695",
+      "checked_at_utc": "2026-11-08T02:01:14.478479+00:00",
+      "status": 200,
+      "bytes": 80184,
+      "sha256": "8f133c7cb932cd632ce7c41b0f8e9952fa0b72d783ee09e1ae71d5856931afba"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/curitiba/",
+      "id": "C3696",
+      "checked_at_utc": "2026-11-08T02:01:12.932475+00:00",
+      "status": 200,
+      "bytes": 71636,
+      "sha256": "10fc0a1fececf73f4e51d35e1ff967794330fb1ef3f580beff7f2c3868c63a8a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/dadu/",
+      "id": "C3697",
+      "checked_at_utc": "2026-11-08T02:01:13.710404+00:00",
+      "status": 200,
+      "bytes": 70649,
+      "sha256": "b2a7939ab48b7e4dcff54947713038753844e5c7afd41d35ac59e5bf2d9b286d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/dakar/",
+      "id": "C3698",
+      "checked_at_utc": "2026-11-08T02:01:12.964876+00:00",
+      "status": 200,
+      "bytes": 87646,
+      "sha256": "024430361a8209a43a83c249d9a346e623b181f4258c71f1011e5f2ecb0530fa"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/dallas/",
+      "id": "C3699",
+      "checked_at_utc": "2026-11-08T02:01:12.714839+00:00",
+      "status": 200,
+      "bytes": 82576,
+      "sha256": "a7cc6d3c29902e457dde32a411cd1304e0cda83f9e86c1a649febdb57f16dbc3"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/dar-es-salaam/",
+      "id": "C3700",
+      "checked_at_utc": "2026-11-08T02:01:13.230995+00:00",
+      "status": 200,
+      "bytes": 73988,
+      "sha256": "75b870383b5f81f997a431d37d187e7a72bfacf274ca87bdeec361257b1869cc"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/darjeeling/",
+      "id": "C3701",
+      "checked_at_utc": "2026-11-08T02:01:12.103250+00:00",
+      "status": 200,
+      "bytes": 70609,
+      "sha256": "51e394392124143e9a99aa92ea50435966b0ffe0fa82d3bf94bf900b71a1d34e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/delhi/",
+      "id": "C3702",
+      "checked_at_utc": "2026-11-08T02:01:12.085857+00:00",
+      "status": 200,
+      "bytes": 83246,
+      "sha256": "d4050df9a52c7c9119f66b48f2ca2e4e8d18c070846bc4ec0f2a91b2120c5bf6"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/denizli/",
+      "id": "C3703",
+      "checked_at_utc": "2026-11-08T02:01:11.983446+00:00",
+      "status": 200,
+      "bytes": 75120,
+      "sha256": "553d7e184b4139e5fad4963b7627e710dd9003d781531ffdf2a2df1abea6d069"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/detroit/",
+      "id": "C3704",
+      "checked_at_utc": "2026-11-08T02:01:11.879574+00:00",
+      "status": 200,
+      "bytes": 66974,
+      "sha256": "0257a19574535ddbd67e11f7e1567e9c7e065f3937b777739666cd866dafd154"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/dhaka/",
+      "id": "C3705",
+      "checked_at_utc": "2026-11-08T02:01:12.953135+00:00",
+      "status": 200,
+      "bytes": 81198,
+      "sha256": "0a7b50e6be8aaf5e6e428d418e46b9d20154d5be7b1eda909e3f7e408eb388ab"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/diyarbakr/",
+      "id": "C3706",
+      "checked_at_utc": "2026-11-08T02:01:11.531542+00:00",
+      "status": 200,
+      "bytes": 75496,
+      "sha256": "19d562e2fc001cd797054237bb0dd56f608b750f7a109438a420ebd4cabae8a6"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/dnipro/",
+      "id": "C3707",
+      "checked_at_utc": "2026-11-08T02:01:11.290458+00:00",
+      "status": 200,
+      "bytes": 80528,
+      "sha256": "c0052dab4d755efe256ca3e428a17ea2c27bc115b26c18326be3280dae17cc99"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/doha/",
+      "id": "C3249",
+      "checked_at_utc": "2026-11-08T02:01:11.364109+00:00",
+      "status": 200,
+      "bytes": 75103,
+      "sha256": "d429a03b53081f1d5cc138d0d14338bf5880a04b519942e20f2e84c7809174d4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/douala/",
+      "id": "C3708",
+      "checked_at_utc": "2026-11-08T02:01:11.372481+00:00",
+      "status": 200,
+      "bytes": 85351,
+      "sha256": "ceb6169ef72eff4ade42620c83d084688f4151f27cb753a6adf264d839b92086"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/drohobych/",
+      "id": "C3709",
+      "checked_at_utc": "2026-11-08T02:01:11.129616+00:00",
+      "status": 200,
+      "bytes": 79969,
+      "sha256": "d51cce70d8764514b61d2b3959c577f1d1795e1d66b5eb2c5dd60d99d7d3cd20"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/dubai/",
+      "id": "C3710",
+      "checked_at_utc": "2026-11-08T02:01:11.629346+00:00",
+      "status": 200,
+      "bytes": 71739,
+      "sha256": "7b7762aa8abb5240640c893ee1465869273621de96b0c601c61a9353929219c7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/duitama/",
+      "id": "C3711",
+      "checked_at_utc": "2026-11-08T02:01:10.653133+00:00",
+      "status": 200,
+      "bytes": 78869,
+      "sha256": "9835f965e36fbfff76b1e048d7a664be324c1ac5831071c9e879b9074961f376"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/durango/",
+      "id": "C3712",
+      "checked_at_utc": "2026-11-08T01:57:42.152088+00:00",
+      "status": 200,
+      "bytes": 87703,
+      "sha256": "ca92e0e637945babcb4502996b649e8f92efa5c4ce863ef31a78bf9174671672"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/durban/",
+      "id": "C3713",
+      "checked_at_utc": "2026-11-08T02:01:10.649197+00:00",
+      "status": 200,
+      "bytes": 73835,
+      "sha256": "027a4a9bdfb96cc33b44c609fc86d082d60da94894ef5a61cf12e758ce07c95f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/dushanbe/",
+      "id": "C3714",
+      "checked_at_utc": "2026-11-08T02:01:10.468050+00:00",
+      "status": 200,
+      "bytes": 77704,
+      "sha256": "522fecbe63245af640b228aa35b913554d4046f0d22af9136ff762a40e0bb0bb"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ebolowa/",
+      "id": "C3715",
+      "checked_at_utc": "2026-11-08T02:01:09.960771+00:00",
+      "status": 200,
+      "bytes": 77292,
+      "sha256": "09b5b7efd66a65e3544abfb306585da6cf877b85af95f254c07a0f5aebe7d53d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/edmonton/",
+      "id": "C3716",
+      "checked_at_utc": "2026-11-08T02:01:10.880664+00:00",
+      "status": 200,
+      "bytes": 72644,
+      "sha256": "38edd5a79d217b50bf050b9dfd0c8d1e633356c8d8e777edf94ea055a09ba5b3"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/egg-harbor-township/",
+      "id": "C3717",
+      "checked_at_utc": "2026-11-08T02:01:09.731584+00:00",
+      "status": 200,
+      "bytes": 73618,
+      "sha256": "8672ef9a72c7ff37b291eb09eb725b20c9a4ebad1ee5fa4f4fd81e824faa4c19"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/eindhoven/",
+      "id": "C3718",
+      "checked_at_utc": "2026-11-08T02:01:09.685308+00:00",
+      "status": 200,
+      "bytes": 76688,
+      "sha256": "ecf5147ab3ed5509df014fffc75b7c3269bca40169d16f6244dfbac037800f59"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/encarnacion/",
+      "id": "C3719",
+      "checked_at_utc": "2026-11-08T02:01:10.648234+00:00",
+      "status": 200,
+      "bytes": 78001,
+      "sha256": "271b2a21cfd0a45c82ec04b25704f0abed2c9618b5a50541e62e16d92cd899a8"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ensenada/",
+      "id": "C3118",
+      "checked_at_utc": "2026-11-08T01:57:42.982405+00:00",
+      "status": 200,
+      "bytes": 87200,
+      "sha256": "7308e02f780176ff6dc0bb7e225c328d8c2f3108debd306fe81747e6581337ac"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/erbil/",
+      "id": "C3720",
+      "checked_at_utc": "2026-11-08T02:01:09.099926+00:00",
+      "status": 200,
+      "bytes": 67943,
+      "sha256": "31e128eaf8191d186a366de6aa177c65ffde2d6a68ae40b61109d29ec6848922"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/erode/",
+      "id": "C3721",
+      "checked_at_utc": "2026-11-08T02:01:09.081513+00:00",
+      "status": 200,
+      "bytes": 71512,
+      "sha256": "18867cfb6746c76329c4020ba2f1f0776c88da0c7fd44e093d924fb0d174dd58"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/eskisehir/",
+      "id": "C3722",
+      "checked_at_utc": "2026-11-08T02:01:09.009618+00:00",
+      "status": 200,
+      "bytes": 79322,
+      "sha256": "45495e006f2d8c24b5c2b5887cf6afe8df30a574bd63a678fca85a41ef665439"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/esmeraldas/",
+      "id": "C3723",
+      "checked_at_utc": "2026-11-08T01:57:41.819718+00:00",
+      "status": 200,
+      "bytes": 86518,
+      "sha256": "586422f7850a2617a36358e096aa24de094dc138e5811cd62fd75f8f2649b6a6"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/essaouira/",
+      "id": "C3724",
+      "checked_at_utc": "2026-11-08T02:01:08.477153+00:00",
+      "status": 200,
+      "bytes": 81911,
+      "sha256": "9dac559b11fbc03a55e6c45e4ff378aacd4f060ec4d362cb6e168eb565133cbc"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/exeter/",
+      "id": "C3725",
+      "checked_at_utc": "2026-11-08T02:01:08.416445+00:00",
+      "status": 200,
+      "bytes": 77265,
+      "sha256": "2902155bea063f1d7796f7a48ee3a54e9d1d6d8bf7077a9b7e582306cd09fa2b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/facatativa/",
+      "id": "C3726",
+      "checked_at_utc": "2026-11-08T02:01:07.848381+00:00",
+      "status": 200,
+      "bytes": 95486,
+      "sha256": "f9ecdbd337cc74d7ce0400f2fd37e8ed286f0fb472ba7ee72c4f3a4b85fdcbb8"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/faisalabad/",
+      "id": "C3727",
+      "checked_at_utc": "2026-11-08T02:01:09.559021+00:00",
+      "status": 200,
+      "bytes": 77140,
+      "sha256": "869dfe2d9989b198b1eceb502ae5c739e950073c932fd45383f0dd7c442cca53"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/fergana/",
+      "id": "C3728",
+      "checked_at_utc": "2026-11-08T02:01:09.269509+00:00",
+      "status": 200,
+      "bytes": 82067,
+      "sha256": "01e43a65ec175233005ebe29758566edb51c66ce1e2c5ad99b31562cc2cf8180"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/florianopolis/",
+      "id": "C3729",
+      "checked_at_utc": "2026-11-08T02:01:08.331764+00:00",
+      "status": 200,
+      "bytes": 71448,
+      "sha256": "29de6fcb8c876d5f7bc45169a7246c29c8e06ba20fb35c3eec9f98b58df3548b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/folsom/",
+      "id": "C3730",
+      "checked_at_utc": "2026-11-08T02:01:07.219994+00:00",
+      "status": 200,
+      "bytes": 74268,
+      "sha256": "be6fa68d91460c57b1fd2d2654d527ee44d39d6ef54afe1d94b5a9eed3afdfde"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/fortaleza/",
+      "id": "C3731",
+      "checked_at_utc": "2026-11-08T02:01:06.940135+00:00",
+      "status": 200,
+      "bytes": 73325,
+      "sha256": "e772263532b85efe3710680bc090f2b5e83c1f33b08004f1e5bd62c8cb8c8927"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/freetown/",
+      "id": "C3732",
+      "checked_at_utc": "2026-11-08T02:01:07.726398+00:00",
+      "status": 200,
+      "bytes": 69463,
+      "sha256": "0f07c33576bed1b2df75527db9e7141183cbc930b8e503dab7957c22d399a962"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/fujairah/",
+      "id": "C3733",
+      "checked_at_utc": "2026-11-08T02:01:06.622059+00:00",
+      "status": 200,
+      "bytes": 90670,
+      "sha256": "5c5ba438ddfc580b74e000520db61c56822c10d047865677cd2701ee5a535152"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/fukaya/",
+      "id": "C3734",
+      "checked_at_utc": "2026-11-08T02:01:06.081615+00:00",
+      "status": 200,
+      "bytes": 98982,
+      "sha256": "896519a9fc66e08246660ce69351816238da478752ffe5379ea6eb6f983c37b5"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/gaborone/",
+      "id": "C3735",
+      "checked_at_utc": "2026-11-08T02:01:05.651686+00:00",
+      "status": 200,
+      "bytes": 68725,
+      "sha256": "e2f7f33a2c8c65782b62a73a2dcd26c9c5c06ca071fec4948305fe30220d5d69"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/gangtok/",
+      "id": "C3736",
+      "checked_at_utc": "2026-11-08T02:01:05.364850+00:00",
+      "status": 200,
+      "bytes": 72214,
+      "sha256": "a14f59052cbf779620c58ec6339113da6ac957d7fc4dbb94b22eac8caf6318de"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ganja/",
+      "id": "C3737",
+      "checked_at_utc": "2026-11-08T02:01:06.627542+00:00",
+      "status": 200,
+      "bytes": 86394,
+      "sha256": "5347883f3b842b28ec1b514dbb625f73516aec10bb8b19e38363a8ae2ce3f14e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/gaziantep/",
+      "id": "C3738",
+      "checked_at_utc": "2026-11-08T02:01:06.582138+00:00",
+      "status": 200,
+      "bytes": 82561,
+      "sha256": "dc681873ab46a8f18f9c792dac1ceb96d38277dec34aa062b9f5d6a94a38386d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/general-san-martin/",
+      "id": "C3739",
+      "checked_at_utc": "2026-11-08T02:01:06.086437+00:00",
+      "status": 200,
+      "bytes": 109123,
+      "sha256": "a38032196068dce3e1dfffc4cd96f2e691f29adf78706889ffb474ab0e3719ef"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ghorahi/",
+      "id": "C3740",
+      "checked_at_utc": "2026-11-08T02:01:04.969851+00:00",
+      "status": 200,
+      "bytes": 75776,
+      "sha256": "22fdf67470a3302ad58f37cbb691f612d358dc4efb49536ce4679d4afa2921cb"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/gilbertown/",
+      "id": "C3741",
+      "checked_at_utc": "2026-11-08T02:01:04.399802+00:00",
+      "status": 200,
+      "bytes": 69197,
+      "sha256": "1db97a923349e363874b67302996b9c594da3b5cc6f257d0b45f43c2b4230c25"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/girard/",
+      "id": "C3742",
+      "checked_at_utc": "2026-11-08T02:01:39.554085+00:00",
+      "status": 200,
+      "bytes": 81092,
+      "sha256": "45582e4e7ad46ddbef7bc8c02b9b7b940fea44d01ed559866087e58e82a770d4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/giza/",
+      "id": "C3743",
+      "checked_at_utc": "2026-11-08T02:01:04.321262+00:00",
+      "status": 200,
+      "bytes": 76504,
+      "sha256": "52c0cb1ca207384f06ea547cee64364abc8630e1076b8e8e6752cc57ef37a185"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/gliwice/",
+      "id": "C3744",
+      "checked_at_utc": "2026-11-08T02:01:09.314936+00:00",
+      "status": 200,
+      "bytes": 84279,
+      "sha256": "ece0628acfbdb7f990e52ab3f6b0ff6de523febf97b8bc238a12b3e66709f710"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/goiania/",
+      "id": "C3745",
+      "checked_at_utc": "2026-11-08T02:01:03.754135+00:00",
+      "status": 200,
+      "bytes": 81746,
+      "sha256": "0d2a52bb708a26da8f8d3d3d7a7d3b19aad16c68d07a8b36c825e4ebb08935a7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/gold-coast/",
+      "id": "C3746",
+      "checked_at_utc": "2026-11-08T02:01:04.667291+00:00",
+      "status": 200,
+      "bytes": 77016,
+      "sha256": "5b900206657c3073974d8c9b7325f4d811fb41f5621508596e8261924544e683"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/gombe/",
+      "id": "C3747",
+      "checked_at_utc": "2026-11-08T02:01:03.682276+00:00",
+      "status": 200,
+      "bytes": 73592,
+      "sha256": "3ac431141274aedf3ddbd17f69d99741e50ccbe03a395960000bbb7b87a748d7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/gorakhpur/",
+      "id": "C3748",
+      "checked_at_utc": "2026-11-08T02:01:03.646891+00:00",
+      "status": 200,
+      "bytes": 72908,
+      "sha256": "9f182e81d16ae708fc38669c31d8c1312e9123214590a6a3c7853735a396600a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/grambling/",
+      "id": "C3749",
+      "checked_at_utc": "2026-11-08T02:01:04.541327+00:00",
+      "status": 200,
+      "bytes": 67993,
+      "sha256": "4350b8cbb4e5b0e15c6650262d17bcb16355625053b3fd95da519e1de60bec59"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/granada/",
+      "id": "C3750",
+      "checked_at_utc": "2026-11-08T02:01:03.094791+00:00",
+      "status": 200,
+      "bytes": 76957,
+      "sha256": "ca909e03315fa610205d563c0936949e0ba50c4b19d1ed734015739e9f2e9a34"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/greensboro/",
+      "id": "C3751",
+      "checked_at_utc": "2026-11-08T02:01:03.028605+00:00",
+      "status": 200,
+      "bytes": 70600,
+      "sha256": "467e91f6cbe8328d3739cb8c536f2b342898b2469836d7f94f6ab6ba6171159c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/groton/",
+      "id": "C3752",
+      "checked_at_utc": "2026-11-08T02:01:02.931957+00:00",
+      "status": 200,
+      "bytes": 70648,
+      "sha256": "5c3c4a6d3face01e89fe027ddb9f8b9c209a3d6a1b4ecd754637693d099d9e61"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/guadalajara/",
+      "id": "C3753",
+      "checked_at_utc": "2026-11-08T01:57:41.806749+00:00",
+      "status": 200,
+      "bytes": 78165,
+      "sha256": "b0ebcfddda147bf79ac84e98d7ea092cf7fb4a7664b82ae0b4b5488bb47bc232"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/guarulhos/",
+      "id": "C3754",
+      "checked_at_utc": "2026-11-08T02:01:04.678835+00:00",
+      "status": 200,
+      "bytes": 73815,
+      "sha256": "2622aea2393684d43c649a95cb33c32ae5c64cf1efcfb6da506c6c010f725c56"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/guatemala/",
+      "id": "C3755",
+      "checked_at_utc": "2026-11-08T01:57:41.634880+00:00",
+      "status": 200,
+      "bytes": 77437,
+      "sha256": "77ee37239031cc4f2ff8b8b8d08d1905258d9f8c957773dfbd34fdfd7e6e9ec4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/guayaquil/",
+      "id": "C3756",
+      "checked_at_utc": "2026-11-08T01:57:41.473106+00:00",
+      "status": 200,
+      "bytes": 90421,
+      "sha256": "768c166d87ee04ebac1625e2420a47dbb07364d6b6e9428b44032048e10ffa24"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/guelph/",
+      "id": "C3757",
+      "checked_at_utc": "2026-11-08T02:01:02.412335+00:00",
+      "status": 200,
+      "bytes": 70928,
+      "sha256": "8c44cd35be76ae17294104d88033ec7881f231b466ac5ce65a041bd606a172fe"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/gunupur/",
+      "id": "C3758",
+      "checked_at_utc": "2026-11-08T02:01:02.110490+00:00",
+      "status": 200,
+      "bytes": 68001,
+      "sha256": "1d87efc527a9b8476b5036e716fe9ffc363a638a56cc3f45e1d750641bcc32e1"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/gyumri/",
+      "id": "C3759",
+      "checked_at_utc": "2026-11-08T02:01:01.787062+00:00",
+      "status": 200,
+      "bytes": 73621,
+      "sha256": "68026bb86a8efc7dfd0025541e6ac78d7282be9a94945f8110efdb922d597bcc"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/haifa/",
+      "id": "C3760",
+      "checked_at_utc": "2026-11-08T02:01:02.531563+00:00",
+      "status": 200,
+      "bytes": 72368,
+      "sha256": "05d9d9a227c9394ca3ccfbb840fd9a4d68f7d3ca8f14c6431f6cbf5fc49bffc7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/haiphong/",
+      "id": "C3761",
+      "checked_at_utc": "2026-11-08T02:01:02.381763+00:00",
+      "status": 200,
+      "bytes": 69104,
+      "sha256": "7c4ea0fc82bd7b07ef7bd3a5e6edd97003a893f57edf4cfb3e6ca16c14f25152"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/haldia/",
+      "id": "C3762",
+      "checked_at_utc": "2026-11-08T02:01:01.141013+00:00",
+      "status": 200,
+      "bytes": 71818,
+      "sha256": "cc33beaea99180dbe6f5f1b99a2816cd27ed35577f42c1ed12da3377b9e0f6ec"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/haldwani/",
+      "id": "C3763",
+      "checked_at_utc": "2026-11-08T02:01:02.027647+00:00",
+      "status": 200,
+      "bytes": 80087,
+      "sha256": "3c50bfbc934bcb2da17c711de5f233aee3ad25c4aef17f398dae5f86199d687d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/halifax/",
+      "id": "C3764",
+      "checked_at_utc": "2026-11-08T02:01:00.868309+00:00",
+      "status": 200,
+      "bytes": 87635,
+      "sha256": "34b3ec252b99d153217e091f710be9fccb6e959e433ba0be804db7882172d1cd"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/hamburg/",
+      "id": "C3765",
+      "checked_at_utc": "2026-11-08T02:01:00.697332+00:00",
+      "status": 200,
+      "bytes": 73256,
+      "sha256": "5ca26078654dab73f7fcd230fa86ae0e62551cf8649b9e4b5aeb96579a50a6e4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/hamilton/",
+      "id": "C3766",
+      "checked_at_utc": "2026-11-08T02:01:01.500184+00:00",
+      "status": 200,
+      "bytes": 75812,
+      "sha256": "de2dd00d55495defeb99185534c944909975fc7a25433a91f8275ba52ff1ff7c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/hanoi/",
+      "id": "C3767",
+      "checked_at_utc": "2026-11-08T02:01:00.486484+00:00",
+      "status": 200,
+      "bytes": 91138,
+      "sha256": "853da87b3942d2cf83228380b5defd33ae94d23e975f6dae83ea50b3d401e712"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/harohalli/",
+      "id": "C3768",
+      "checked_at_utc": "2026-11-08T02:01:00.406170+00:00",
+      "status": 200,
+      "bytes": 70309,
+      "sha256": "780626ff0b0d8e3fd387282f83a1005492f128e35d607394bb5545f0f7560bb9"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/heilbronn/",
+      "id": "C3769",
+      "checked_at_utc": "2026-11-08T02:01:00.232701+00:00",
+      "status": 200,
+      "bytes": 71701,
+      "sha256": "f0a9dd7dc6d280798c6f77e896ba7a686677fc4bc7d03ea096c31edf53b4713a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/hermosillo/",
+      "id": "C3770",
+      "checked_at_utc": "2026-11-08T01:57:41.268976+00:00",
+      "status": 200,
+      "bytes": 86920,
+      "sha256": "287971f70281e08627cbc87d892051c161e8624d98810c238875ffab7af69cb7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/hidalgo-del-parral/",
+      "id": "C3771",
+      "checked_at_utc": "2026-11-08T01:57:41.885212+00:00",
+      "status": 200,
+      "bytes": 74758,
+      "sha256": "603f056bc12150c5bbba58ea56122a7b46d39d3f7c33cc673f184831ac01c08b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ho-chi-minh/",
+      "id": "C3772",
+      "checked_at_utc": "2026-11-08T02:01:03.036742+00:00",
+      "status": 200,
+      "bytes": 75124,
+      "sha256": "d5a8449e4eb4dc109525bcc6a74d92c9119314b952ea5111aaece117a476f25c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/honolulu/",
+      "id": "C3773",
+      "checked_at_utc": "2026-11-08T02:00:59.864872+00:00",
+      "status": 200,
+      "bytes": 69275,
+      "sha256": "ced9795100ac3fa01a63cac5d8d32be476e3c238b7f1e7dda33f8fb0d5f6191a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/houston/",
+      "id": "C3129",
+      "checked_at_utc": "2026-11-08T02:00:59.773597+00:00",
+      "status": 200,
+      "bytes": 76194,
+      "sha256": "cf7768ed3fef37eebf923850333024e4a7fc3f51ac00bf1fd3826073482fa54e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/huancayo/",
+      "id": "C3774",
+      "checked_at_utc": "2026-11-08T02:00:59.326389+00:00",
+      "status": 200,
+      "bytes": 78459,
+      "sha256": "7afd91631c529e45042c798dc188a578f95a4d241c57cc3dc91abea01850b0b1"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/huanuco/",
+      "id": "C3775",
+      "checked_at_utc": "2026-11-08T02:01:00.067581+00:00",
+      "status": 200,
+      "bytes": 71188,
+      "sha256": "ae951508d7da5a004f2b3f89e65240f8fdfcd6a665f7626fbf7a968071395cc6"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/hurghada/",
+      "id": "C3776",
+      "checked_at_utc": "2026-11-08T02:00:59.163056+00:00",
+      "status": 200,
+      "bytes": 73031,
+      "sha256": "0ae0cb955a4f0f26ac5b2e9bace45682a17526804590defa5e025cefe7519aad"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/hyderabad-india/",
+      "id": "C3777",
+      "checked_at_utc": "2026-11-08T02:01:40.794928+00:00",
+      "status": 200,
+      "bytes": 70027,
+      "sha256": "72b1aaea1ca040e5bdeee43ebf81eec2194face51ecf40f36848bafcd856d789"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/hyderabad-pakistan/",
+      "id": "C3778",
+      "checked_at_utc": "2026-11-08T02:00:58.961180+00:00",
+      "status": 200,
+      "bytes": 75211,
+      "sha256": "db3ea1a2397874df1f7142768f7715d30ab4c10a2f95ce3fe83b344e28463623"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ibadan/",
+      "id": "C3779",
+      "checked_at_utc": "2026-11-08T02:00:59.867971+00:00",
+      "status": 200,
+      "bytes": 69358,
+      "sha256": "90d2555850c3600dbed6989adfd97bb44e7a1585557bddd92a7bddc56ebba5f3"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ibra/",
+      "id": "C3780",
+      "checked_at_utc": "2026-11-08T02:00:58.681548+00:00",
+      "status": 200,
+      "bytes": 75830,
+      "sha256": "fa1db15b5d73443576eaba781cfee94623332cc2dec93ea448b16c5c09ccfa6a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ica/",
+      "id": "C3781",
+      "checked_at_utc": "2026-11-08T02:00:59.560273+00:00",
+      "status": 200,
+      "bytes": 78759,
+      "sha256": "83beff57b9e0b9fc9aaa4dbce08caa4e960dec54198c5736b025711f5aa4795f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/iligan-city/",
+      "id": "C3782",
+      "checked_at_utc": "2026-11-08T02:00:58.039051+00:00",
+      "status": 200,
+      "bytes": 73835,
+      "sha256": "270c99a8b11d1a65b881b37dfbb85bc181c0d32e671439c69c1bbebcde573781"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/imphal/",
+      "id": "C3783",
+      "checked_at_utc": "2026-11-08T02:00:58.570296+00:00",
+      "status": 200,
+      "bytes": 73005,
+      "sha256": "8ce24bb6230b2537df4e6533f7f06e0b9906922e69254128ecf49159e7766f2f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/indore/",
+      "id": "C3784",
+      "checked_at_utc": "2026-11-08T02:00:58.410292+00:00",
+      "status": 200,
+      "bytes": 72989,
+      "sha256": "3306d1375e422b85c2ea2982ae430d424306deeb4428e74d8609fc725fcaca56"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ipiales/",
+      "id": "C3785",
+      "checked_at_utc": "2026-11-08T02:00:58.220327+00:00",
+      "status": 200,
+      "bytes": 88556,
+      "sha256": "1e447d512e4113855f94f79f3ee4a24d2f20ab13e9bb159b6219f1cdef6ad8f4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/irbid/",
+      "id": "C3786",
+      "checked_at_utc": "2026-11-08T02:00:57.180341+00:00",
+      "status": 200,
+      "bytes": 78771,
+      "sha256": "1bcc7b406fd3e9b13354630b5244d81380092ea15ce753808af59aac82bb0b72"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/irvine/",
+      "id": "C3787",
+      "checked_at_utc": "2026-11-08T02:00:58.299234+00:00",
+      "status": 200,
+      "bytes": 77874,
+      "sha256": "100c99fd7fb0eac9e09cd4b7a1103acc70779eec197b3c31cc8082670b41dd68"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/isa-town/",
+      "id": "C3788",
+      "checked_at_utc": "2026-11-08T02:00:56.930336+00:00",
+      "status": 200,
+      "bytes": 96790,
+      "sha256": "7d48507465dc9a20558fdffc5c55d95fca078d0a0f493efc7caf9a40d81f0585"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/islamabad/",
+      "id": "C3789",
+      "checked_at_utc": "2026-11-08T02:00:57.893800+00:00",
+      "status": 200,
+      "bytes": 77030,
+      "sha256": "250b087ad70753f8b5773ce74bc3121520aac504efeda19f060e39d9a20f6ccc"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/istanbul/",
+      "id": "C3790",
+      "checked_at_utc": "2026-11-08T02:00:55.791486+00:00",
+      "status": 200,
+      "bytes": 93415,
+      "sha256": "33a811739307cc6d9cca4d405fb54dcb4813477cdc2afd8bf618ab99e023fe55"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/itabira/",
+      "id": "C3791",
+      "checked_at_utc": "2026-11-08T02:00:56.426018+00:00",
+      "status": 200,
+      "bytes": 74182,
+      "sha256": "81b27ecd477e1229c4c683a3d33d38992b64a5659f3d5987b59e248bab057ba7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/itahari/",
+      "id": "C3792",
+      "checked_at_utc": "2026-11-08T02:00:56.313031+00:00",
+      "status": 200,
+      "bytes": 71085,
+      "sha256": "9374f04fb12b55c2063466ddb3c080048d9295b083562f36d8e6ab40bf419309"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/izmir/",
+      "id": "C3793",
+      "checked_at_utc": "2026-11-08T02:00:56.744187+00:00",
+      "status": 200,
+      "bytes": 86340,
+      "sha256": "3cca1195181d65c598bfbd5fe0415e5d23756b31f9c52ba1e86db6a4366b9630"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/izmit/",
+      "id": "C3794",
+      "checked_at_utc": "2026-11-08T02:00:56.264905+00:00",
+      "status": 200,
+      "bytes": 73093,
+      "sha256": "83b4ebbb511b4d1e7c4015c189fe855ee951fafa955d8c2163ba4d53652ae911"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/jacobabad/",
+      "id": "C3795",
+      "checked_at_utc": "2026-11-08T02:00:55.693644+00:00",
+      "status": 200,
+      "bytes": 69261,
+      "sha256": "f771f6f444f8c34b206222b7ec29157de6c8c6e1228674dc49ce77d635969aef"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/jaffna/",
+      "id": "C3796",
+      "checked_at_utc": "2026-11-08T02:00:56.581549+00:00",
+      "status": 200,
+      "bytes": 68039,
+      "sha256": "a5d1cd9e6de29073cfae8e2028f64c224f166612680730c4fea625a39bda4456"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/jaguariuna/",
+      "id": "C3797",
+      "checked_at_utc": "2026-11-08T02:00:55.629645+00:00",
+      "status": 200,
+      "bytes": 70705,
+      "sha256": "e594a4b4cf21d45fc2fbfeb5d672fc85aaffa8f9dc489027a6b98667ee809625"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/jaipur/",
+      "id": "C3798",
+      "checked_at_utc": "2026-11-08T02:00:55.152005+00:00",
+      "status": 200,
+      "bytes": 82813,
+      "sha256": "df0dc5d30d3cdbc905f0d024a056f068ac55538910a3fa9bcaa1b46fc6a899ca"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/jakarta/",
+      "id": "C3799",
+      "checked_at_utc": "2026-11-08T02:00:56.121361+00:00",
+      "status": 200,
+      "bytes": 67343,
+      "sha256": "d85687688a4682cfc5e744dae5eee83cbf3a1962559bf2c85a88d215add66f2a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/jalandhar/",
+      "id": "C3800",
+      "checked_at_utc": "2026-11-08T02:00:55.085214+00:00",
+      "status": 200,
+      "bytes": 66701,
+      "sha256": "16530943185d9483dd3841bc3e7c8abbafa08b710ffa665460474ad6a421948e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/jalapa/",
+      "id": "C3801",
+      "checked_at_utc": "2026-11-08T01:57:40.915083+00:00",
+      "status": 200,
+      "bytes": 80570,
+      "sha256": "d7ea857f23d6ffb10952ad22bbd1d1de3847056d9dc7666fd9b4f5d654dd5122"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/jamnagar/",
+      "id": "C3802",
+      "checked_at_utc": "2026-11-08T02:00:54.961751+00:00",
+      "status": 200,
+      "bytes": 67601,
+      "sha256": "420853cd7745313fa6b9c2113937268b2e15ca44b4dcb1c2b2e846704f6040b4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/jamshedpur/",
+      "id": "C3803",
+      "checked_at_utc": "2026-11-08T02:00:54.498146+00:00",
+      "status": 200,
+      "bytes": 72823,
+      "sha256": "8969b48b7bd9cf9944aab92f088a492431e67e7efe3bd146dfdcccff45e14192"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/jeddah/",
+      "id": "C3804",
+      "checked_at_utc": "2026-11-08T02:00:54.480934+00:00",
+      "status": 200,
+      "bytes": 74687,
+      "sha256": "8dd8395d6af7164307af105296ed16a206abd8ddb326e1bfd497e610a6f8d7e0"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/jember/",
+      "id": "C3805",
+      "checked_at_utc": "2026-11-08T02:00:54.444281+00:00",
+      "status": 200,
+      "bytes": 71978,
+      "sha256": "2461cf44a97eace817450dd4fb575488a959985d57886e27315d9683ec37764a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/jhansi/",
+      "id": "C3806",
+      "checked_at_utc": "2026-11-08T02:00:55.148605+00:00",
+      "status": 200,
+      "bytes": 70007,
+      "sha256": "bc453010563b74d74c1c8416f9c83f8cdcb8ded4b1297961f023e48b708f9e8b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/jizan/",
+      "id": "C3807",
+      "checked_at_utc": "2026-11-08T02:00:54.196263+00:00",
+      "status": 200,
+      "bytes": 89901,
+      "sha256": "f9efc2771aa83d9d9b053f2bb4f9c42d4f30972bc5580df032a35778f222cc32"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/johannesburg/",
+      "id": "C3808",
+      "checked_at_utc": "2026-11-08T02:01:39.286476+00:00",
+      "status": 200,
+      "bytes": 70053,
+      "sha256": "b93386508d345f56384c443074bdecad6938282b30f3e60e5cc71d928b3d2d27"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/johor-bahru/",
+      "id": "C3809",
+      "checked_at_utc": "2026-11-08T02:00:53.848258+00:00",
+      "status": 200,
+      "bytes": 74119,
+      "sha256": "01d7234b697c1043dae410a46a0a1b987c867afe6d58b6c23bf50279cd886ec7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/juazeiro-do-norte/",
+      "id": "C3810",
+      "checked_at_utc": "2026-11-08T02:00:53.844171+00:00",
+      "status": 200,
+      "bytes": 71310,
+      "sha256": "8707c8e5abf53e50906e1e865fb8c1f3441032526ebba539440510033b767c79"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kafr-elsheikh/",
+      "id": "C3811",
+      "checked_at_utc": "2026-11-08T02:00:53.777640+00:00",
+      "status": 200,
+      "bytes": 68963,
+      "sha256": "5064032a7da536d5f94301fa078b53501ce4b7f3dae622bcc50d8f97abed7f1a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kahramanmarasmaras/",
+      "id": "C3812",
+      "checked_at_utc": "2026-11-08T02:00:53.150427+00:00",
+      "status": 200,
+      "bytes": 83489,
+      "sha256": "293ec2c03c27b6c78af814e07020832d8261842f9d1e5d26fc3e8fd70328e15d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kamloops/",
+      "id": "C3813",
+      "checked_at_utc": "2026-11-08T02:00:53.222182+00:00",
+      "status": 200,
+      "bytes": 74686,
+      "sha256": "5dd3625484cee676573e215dc287799270482b38724188793c3ee119d00a9ad7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kampala/",
+      "id": "C3814",
+      "checked_at_utc": "2026-11-08T02:00:54.976720+00:00",
+      "status": 200,
+      "bytes": 74989,
+      "sha256": "dba0813d669e5166a87e09baa276617296624d369a5a466653fb0a58a044df49"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kandy/",
+      "id": "C3815",
+      "checked_at_utc": "2026-11-08T02:00:53.233123+00:00",
+      "status": 200,
+      "bytes": 76927,
+      "sha256": "e5617d0f821d2a32b9eff6ecf035f8489de50b39293724d30d55649be88aad7d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kanjirappally/",
+      "id": "C3816",
+      "checked_at_utc": "2026-11-08T02:00:52.496481+00:00",
+      "status": 200,
+      "bytes": 72792,
+      "sha256": "7eb8a38aa6392d9f7bce422e85ffbd5596b58506edd63f2a74dc960a97d63c0e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kannur/",
+      "id": "C3817",
+      "checked_at_utc": "2026-11-08T02:00:52.317632+00:00",
+      "status": 200,
+      "bytes": 78056,
+      "sha256": "87a22856fc33bb0ab306e0d43f8a5d3243b858258510ed6eae5737d7f6e881d2"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kano/",
+      "id": "C3818",
+      "checked_at_utc": "2026-11-08T02:00:52.324162+00:00",
+      "status": 200,
+      "bytes": 150817,
+      "sha256": "eae2e0d90be6e19dbc8a6c823dc2a3d3213ccf97bf03c816e09240c7d794b827"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kansas-city/",
+      "id": "C3819",
+      "checked_at_utc": "2026-11-08T02:00:52.548204+00:00",
+      "status": 200,
+      "bytes": 69581,
+      "sha256": "869e366b9feee27bd099f7ca6c48a77137022092c61249994cba3751aa3f2f6c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kaohsiung/",
+      "id": "C3820",
+      "checked_at_utc": "2026-11-08T02:00:51.571857+00:00",
+      "status": 200,
+      "bytes": 92929,
+      "sha256": "6030c8854a6d2ea1c5ef13eae8cd4eaa5b0394884012c8ec8f69656d9bef5c7a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kara/",
+      "id": "C3821",
+      "checked_at_utc": "2026-11-08T02:00:51.495089+00:00",
+      "status": 200,
+      "bytes": 73611,
+      "sha256": "b5acf56ae8dca998d6669186704b9259657f89f5f57724c187a8f7a1f71470e5"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/karachi/",
+      "id": "C3822",
+      "checked_at_utc": "2026-11-08T02:00:53.395405+00:00",
+      "status": 200,
+      "bytes": 73760,
+      "sha256": "2f349f74024a17246bed533547586215563dbfce6c0e569ae2b21e17b60562ac"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/karak/",
+      "id": "C3823",
+      "checked_at_utc": "2026-11-08T02:00:50.843787+00:00",
+      "status": 200,
+      "bytes": 71554,
+      "sha256": "6a60e3ed332dbe98ec1e043b1657cd7f4aa3eaddaeb284d8b40092b08b5d4015"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/karwar/",
+      "id": "C3824",
+      "checked_at_utc": "2026-11-08T02:00:50.856887+00:00",
+      "status": 200,
+      "bytes": 69483,
+      "sha256": "9981ae3d0c55cc8bb6d4670ef3a1c506af44a1366a094d55d1372952fa8d1e77"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kathmandu/",
+      "id": "C3825",
+      "checked_at_utc": "2026-11-08T02:00:51.798346+00:00",
+      "status": 200,
+      "bytes": 74510,
+      "sha256": "c37fef5b514ce6d34a73f2bc053ead428d3d4dd3d495b970aabe18fb71917b5a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kayseri/",
+      "id": "C3826",
+      "checked_at_utc": "2026-11-08T02:00:51.633920+00:00",
+      "status": 200,
+      "bytes": 101518,
+      "sha256": "18f6da0bc8c88aa48493717a4c719263c2e94facbc2b90c470ced6c0f3cf6add"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kenitra/",
+      "id": "C3827",
+      "checked_at_utc": "2026-11-08T02:00:25.965422+00:00",
+      "status": 200,
+      "bytes": 69466,
+      "sha256": "00d5d5d36f0bfbea580c803f5dcfb92b5e6d51fc48da485a23cd94c1ea967939"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kharagpur/",
+      "id": "C3828",
+      "checked_at_utc": "2026-11-08T02:00:53.524549+00:00",
+      "status": 200,
+      "bytes": 76247,
+      "sha256": "400c6ce7ed94661daa70070a3667a63539a12229e13d3d12ab95f115b75ab71b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/khulna/",
+      "id": "C3829",
+      "checked_at_utc": "2026-11-08T02:00:50.170310+00:00",
+      "status": 200,
+      "bytes": 70591,
+      "sha256": "5db2a3cb904af18f077d03ca28867517999d66f6e81e78e408943c963e30f42a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kigali/",
+      "id": "C3830",
+      "checked_at_utc": "2026-11-08T02:00:50.128566+00:00",
+      "status": 200,
+      "bytes": 79656,
+      "sha256": "fb77ecb52a688a65fde0970cdd54d78521cd64d60258521e64233369a098caf0"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kinshasa/",
+      "id": "C3831",
+      "checked_at_utc": "2026-11-08T02:00:50.748865+00:00",
+      "status": 200,
+      "bytes": 74297,
+      "sha256": "009658628e52ed6059661ece3de1174b88f6901bdfcece229e50077ea0407e34"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kisumu/",
+      "id": "C3832",
+      "checked_at_utc": "2026-11-08T02:00:49.483840+00:00",
+      "status": 200,
+      "bytes": 72868,
+      "sha256": "54e26681e4185724a4e02024f5300ebaca134229fe04ee41c15c6205ce5a62ee"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kochi/",
+      "id": "C3833",
+      "checked_at_utc": "2026-11-08T02:00:50.230274+00:00",
+      "status": 200,
+      "bytes": 81650,
+      "sha256": "9ef0bdf424c247bbb239ce2b3956aed8b778ab96794fab19f46c842a92fb6049"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kohima/",
+      "id": "C3834",
+      "checked_at_utc": "2026-11-08T02:00:49.045229+00:00",
+      "status": 200,
+      "bytes": 70056,
+      "sha256": "86f991b00e23a9556061b2ce5c7e44a40e9b177cd3a856eb8855d3495130f943"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kolkata/",
+      "id": "C3835",
+      "checked_at_utc": "2026-11-08T02:00:49.901089+00:00",
+      "status": 200,
+      "bytes": 72795,
+      "sha256": "46dad997ceeadace8efb81858e3e1a91b420e4141e647d561d21b8bbe7eecee5"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/konya/",
+      "id": "C3836",
+      "checked_at_utc": "2026-11-08T02:00:48.796164+00:00",
+      "status": 200,
+      "bytes": 89531,
+      "sha256": "f4e489264e5fc44945db366f6f60092a09f4a53a93af010ef43e8ec946dddf99"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kopargaon/",
+      "id": "C3837",
+      "checked_at_utc": "2026-11-08T02:00:48.578207+00:00",
+      "status": 200,
+      "bytes": 70551,
+      "sha256": "e5af3f3cd22cb46ecc01335adb3a372274940d1fc999369254d4497e01ed461d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kothamangalam/",
+      "id": "C3838",
+      "checked_at_utc": "2026-11-08T02:00:49.498250+00:00",
+      "status": 200,
+      "bytes": 71083,
+      "sha256": "10c9601399b0943c0df0b1156280cd4c813792deae0de9a0e158d6ea1b01f625"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/krkkale/",
+      "id": "C3839",
+      "checked_at_utc": "2026-11-08T02:00:47.298196+00:00",
+      "status": 200,
+      "bytes": 70775,
+      "sha256": "ec7c1bb31f5f0212b54dd2159d396267b5d6f6fe445802490de7d6f115563e48"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/krklareli/",
+      "id": "C3840",
+      "checked_at_utc": "2026-11-08T02:00:47.548226+00:00",
+      "status": 200,
+      "bytes": 92300,
+      "sha256": "c18becce882633ab4087e5e4a001c0c17c8703aab52ae2127fafda6f6d8e6c3c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kuala-lumpur/",
+      "id": "C3841",
+      "checked_at_utc": "2026-11-08T02:00:48.409960+00:00",
+      "status": 200,
+      "bytes": 105976,
+      "sha256": "3139fbd3fbebd4e006b6b3c68a9f086e9a4aafe58db65755740155eb9ff72dea"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kuching/",
+      "id": "C3842",
+      "checked_at_utc": "2026-11-08T02:00:48.258832+00:00",
+      "status": 200,
+      "bytes": 71781,
+      "sha256": "cb7061f7d9ddf44c8b3a8ddf0f9d401462cd1408339b62a876ab4a1f04ac3e26"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kumasi/",
+      "id": "C3843",
+      "checked_at_utc": "2026-11-08T02:00:48.145573+00:00",
+      "status": 200,
+      "bytes": 83033,
+      "sha256": "5762f01b8c2740337293391898437aef50b21e60eb1f88f919787ffcdb8d33ef"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kushimoto/",
+      "id": "C3844",
+      "checked_at_utc": "2026-11-08T02:00:49.977154+00:00",
+      "status": 200,
+      "bytes": 69433,
+      "sha256": "f8c9eae75a0dcc94929d4e54ae222668ef7ab5df62d10e392529cd3a645fae94"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kuwait/",
+      "id": "C3845",
+      "checked_at_utc": "2026-11-08T02:00:47.748239+00:00",
+      "status": 200,
+      "bytes": 76553,
+      "sha256": "ff0051c73c820112281e63d5adf05f31cd66e015b9322c370a94fa895eb8c045"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/kyiv/",
+      "id": "C3846",
+      "checked_at_utc": "2026-11-08T02:00:47.645748+00:00",
+      "status": 200,
+      "bytes": 77492,
+      "sha256": "cb6c2cec77112b65fa0e0d81241a751634ede4e82d9438a025d9e2eb9f039e2a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/la-paz-bolivia/",
+      "id": "C3847",
+      "checked_at_utc": "2026-11-08T02:00:47.115002+00:00",
+      "status": 200,
+      "bytes": 78938,
+      "sha256": "cd0bdf8effb11ec45a11630e1f4974a990a243f35dbbb1ba218755fbf9beac73"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/la-paz-mexico/",
+      "id": "C3848",
+      "checked_at_utc": "2026-11-08T01:57:43.243009+00:00",
+      "status": 200,
+      "bytes": 82026,
+      "sha256": "18d7b856e68ab24cb6b3805179fea20680f0f8246b1f77b8f465053d424e1a83"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/la-romana/",
+      "id": "C3849",
+      "checked_at_utc": "2026-11-08T02:00:47.048198+00:00",
+      "status": 200,
+      "bytes": 78553,
+      "sha256": "c1ce486c1a9c4a35a1453e4f1dda73ed6f36aea043396ba2fdd4e7fd7f0c1a52"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/lagos/",
+      "id": "C3850",
+      "checked_at_utc": "2026-11-08T02:00:47.935204+00:00",
+      "status": 200,
+      "bytes": 69118,
+      "sha256": "e2fbbdfc364f523729955f614c282f6f103b760aca2b0c0ba5e0aadc886024e1"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/lahore/",
+      "id": "C3851",
+      "checked_at_utc": "2026-11-08T02:00:46.868141+00:00",
+      "status": 200,
+      "bytes": 80053,
+      "sha256": "55406829f0bdf306f3e8998dcf666463d6d1e93aecd402107e2c7ccabfa23a98"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/lajeado/",
+      "id": "C3852",
+      "checked_at_utc": "2026-11-08T02:00:47.778184+00:00",
+      "status": 200,
+      "bytes": 79096,
+      "sha256": "7a829577c331bff364ded6ed11dc29306950963c2307abc379b31cbe712c85d5"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/lalitpur/",
+      "id": "C3853",
+      "checked_at_utc": "2026-11-08T02:00:46.449256+00:00",
+      "status": 200,
+      "bytes": 78640,
+      "sha256": "43acdc20d141ecffcf903cfb43d994d30a9c128b0bb8253f81a10a60f59cc63d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/latacunga/",
+      "id": "C3854",
+      "checked_at_utc": "2026-11-08T01:57:45.858591+00:00",
+      "status": 200,
+      "bytes": 70084,
+      "sha256": "f54098288d6ad4c3b1397071a615751e0fd98aaefa9d81d464639cf8b5dd3c57"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/legazpi-city/",
+      "id": "C3855",
+      "checked_at_utc": "2026-11-08T02:00:46.430604+00:00",
+      "status": 200,
+      "bytes": 78994,
+      "sha256": "9eae67622ac09a9bf28bc4eaaacb0a5e49485b0f502543a72eda51ec2f202353"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/leh/",
+      "id": "C3856",
+      "checked_at_utc": "2026-11-08T02:00:46.161269+00:00",
+      "status": 200,
+      "bytes": 72958,
+      "sha256": "d0962f65d476bf54b2ff3a76eabc60b62cf26adcfbe44283f3fd3d97aea25964"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/libreville/",
+      "id": "C3857",
+      "checked_at_utc": "2026-11-08T02:00:45.775840+00:00",
+      "status": 200,
+      "bytes": 72239,
+      "sha256": "82ebfdc2cd009ba362b13e3ea9c362a1ab2809b2e8f3e18acd9c578b8bcc42ac"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/lima/",
+      "id": "C3858",
+      "checked_at_utc": "2026-11-08T02:00:45.833906+00:00",
+      "status": 200,
+      "bytes": 79942,
+      "sha256": "3c42a61797100ab3b133f37a9672c811fd066f16bee73545e44decd0bee82921"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/limassol/",
+      "id": "C3859",
+      "checked_at_utc": "2026-11-08T02:00:46.348060+00:00",
+      "status": 200,
+      "bytes": 77220,
+      "sha256": "f6e55167aeac3569d8108bac64c46834ad3b69cc959d516c490addaa8c2b0e50"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/limeira/",
+      "id": "C3860",
+      "checked_at_utc": "2026-11-08T02:00:45.158787+00:00",
+      "status": 200,
+      "bytes": 70217,
+      "sha256": "3adcf239c237c12180fb12459bf010f87c838bd4cee0c6f368431b315afb5679"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/lincoln/",
+      "id": "C3861",
+      "checked_at_utc": "2026-11-08T02:00:45.151357+00:00",
+      "status": 200,
+      "bytes": 76183,
+      "sha256": "aa5f6e48a45b3b4e40784f4edc2f8e0be15a914c53fdb44de2599c23a7a6af32"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/lira/",
+      "id": "C3862",
+      "checked_at_utc": "2026-11-08T02:00:44.534099+00:00",
+      "status": 200,
+      "bytes": 73253,
+      "sha256": "30e3a8245e2fa4a1e67474971e1412fd4dbff5a65238d5c0b01d1b5aa4320822"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/lome/",
+      "id": "C3863",
+      "checked_at_utc": "2026-11-08T02:00:45.492349+00:00",
+      "status": 200,
+      "bytes": 113848,
+      "sha256": "063297898815538cc3e1a97ff9f149bf2a612e1d4565fc111adb320985f432b6"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/london-united-kingdom/",
+      "id": "C3864",
+      "checked_at_utc": "2026-11-08T02:00:44.452464+00:00",
+      "status": 200,
+      "bytes": 73027,
+      "sha256": "1edb287005e66e95cbb44ea039cd6ef519f2e1a0f4c7a3419ae5f2742fa76815"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/londrina/",
+      "id": "C3865",
+      "checked_at_utc": "2026-11-08T02:00:43.785572+00:00",
+      "status": 200,
+      "bytes": 72678,
+      "sha256": "3f4ba5ddc4995d38f7ce5806d247298787eb29fc3ce7f7c039bb5a7259968030"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/los-angeles/",
+      "id": "C3866",
+      "checked_at_utc": "2026-11-08T02:00:09.252386+00:00",
+      "status": 200,
+      "bytes": 77637,
+      "sha256": "cd185d59ef8bbc59cdbed6dd08ae83bf7d998c8e906096968be5c34d3e3d5042"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/louisville/",
+      "id": "C3867",
+      "checked_at_utc": "2026-11-08T02:00:44.674236+00:00",
+      "status": 200,
+      "bytes": 69714,
+      "sha256": "418dd6021d9b4c20f3fbf6477859dc80cdf2e19e68a9fd163879cd1eab067ebc"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/luanda/",
+      "id": "C3868",
+      "checked_at_utc": "2026-11-08T02:00:46.614895+00:00",
+      "status": 200,
+      "bytes": 70486,
+      "sha256": "82495793cc884ba78d5d7eb817611da9de00e353fb9a7c974e584f729fa71143"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/lubumbashi/",
+      "id": "C3869",
+      "checked_at_utc": "2026-11-08T02:00:43.144334+00:00",
+      "status": 200,
+      "bytes": 90412,
+      "sha256": "2cfb7f4560db36b6c8502244b0aae908f7c6bd07c314cd15c90f19a1efd27eb0"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/lucerne/",
+      "id": "C3870",
+      "checked_at_utc": "2026-11-08T02:00:43.053990+00:00",
+      "status": 200,
+      "bytes": 97148,
+      "sha256": "a65d5deda6a82f4d5a424845f0690fa3f59a08238c1e9f3c2021fcbc157cff71"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/lucknow/",
+      "id": "C3871",
+      "checked_at_utc": "2026-11-08T02:00:42.936927+00:00",
+      "status": 200,
+      "bytes": 69094,
+      "sha256": "22102040ecfbfd11ee07cc6112b2fa63044c01bb028ea58c2e13040ecf325a8f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/lusaka/",
+      "id": "C3872",
+      "checked_at_utc": "2026-11-08T02:00:43.870191+00:00",
+      "status": 200,
+      "bytes": 71324,
+      "sha256": "6b1b442861051c5028ed76b158fe7862241d8709a5b685b31cfe0db5cbcc12d5"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/luxembourg-city/",
+      "id": "C3873",
+      "checked_at_utc": "2026-11-08T02:00:43.798195+00:00",
+      "status": 200,
+      "bytes": 74257,
+      "sha256": "7168a7d48d681e1b78db07f62310794f0b07909882780990e8526b7c056de9aa"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/luxor/",
+      "id": "C3874",
+      "checked_at_utc": "2026-11-08T02:00:42.512990+00:00",
+      "status": 200,
+      "bytes": 68570,
+      "sha256": "d5a206aa337b2391a0f7c93cf34e955ae94bb924cbd17cea91ef3f679f6d3024"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/madinah/",
+      "id": "C3875",
+      "checked_at_utc": "2026-11-08T02:00:42.188004+00:00",
+      "status": 200,
+      "bytes": 83531,
+      "sha256": "4db276348c588ac2b9046db5f1b450cc1881ceb2ccc42962911b3eef98ffc2bc"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/madrid/",
+      "id": "C3876",
+      "checked_at_utc": "2026-11-08T02:00:42.139672+00:00",
+      "status": 200,
+      "bytes": 70918,
+      "sha256": "f94f59d9ec3ba1a6d447df7113b7a2b8338f69bf105c76488d282f8c0538cd30"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mafikeng/",
+      "id": "C3877",
+      "checked_at_utc": "2026-11-08T02:00:46.161441+00:00",
+      "status": 200,
+      "bytes": 86450,
+      "sha256": "bbf80715ccbccf075efa9fc39d73dd9c21d99dec50eab8a8a5d14cb4c7779cb8"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/malaga/",
+      "id": "C3878",
+      "checked_at_utc": "2026-11-08T02:00:35.231058+00:00",
+      "status": 200,
+      "bytes": 78198,
+      "sha256": "7de7c065202c4321821dd4f13bbcfc0e1d28e0ab6e1be8b99d786cc445ec5215"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/malappuram/",
+      "id": "C3879",
+      "checked_at_utc": "2026-11-08T02:00:41.504946+00:00",
+      "status": 200,
+      "bytes": 72861,
+      "sha256": "7bda49ae46dde5e4d81391e2998d7032cf4dbb99de5bb3945710e1e1b874e398"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/malatya/",
+      "id": "C3880",
+      "checked_at_utc": "2026-11-08T02:00:41.520447+00:00",
+      "status": 200,
+      "bytes": 68971,
+      "sha256": "9844b2119bfce351f5ae636308a930c51cbe2f1432491bb21d90359a355d8f6b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/managua/",
+      "id": "C3881",
+      "checked_at_utc": "2026-11-08T01:57:41.488776+00:00",
+      "status": 200,
+      "bytes": 80058,
+      "sha256": "c280ca676aceddebd9d3dc0f2e98e4b2bd77466a8c00785cd3ac72fc06cc90ca"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/manama/",
+      "id": "C3882",
+      "checked_at_utc": "2026-11-08T02:00:42.408624+00:00",
+      "status": 200,
+      "bytes": 93404,
+      "sha256": "c7ef111dd4345211aeeaf7b8110c8b797ab778261b4fe63b9de9d182f1e5f002"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/manaus/",
+      "id": "C3883",
+      "checked_at_utc": "2026-11-08T02:00:42.233813+00:00",
+      "status": 200,
+      "bytes": 76648,
+      "sha256": "f9297bfc7c04e932498826207c72340a17e00def1a51ef64baded4ffc149748c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mangalore/",
+      "id": "C3884",
+      "checked_at_utc": "2026-11-08T02:00:41.889620+00:00",
+      "status": 200,
+      "bytes": 68513,
+      "sha256": "f0b9214f14c8bb34e9dc1502a48b3f3c7f77d8a43213d042d11a83059f8ef34d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/manila/",
+      "id": "C3885",
+      "checked_at_utc": "2026-11-08T02:00:40.844654+00:00",
+      "status": 200,
+      "bytes": 79965,
+      "sha256": "001cd71a3395166d1e81b6ccf92cb56cf0526e1e58b53fe99112cb820de16750"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mansoura/",
+      "id": "C3886",
+      "checked_at_utc": "2026-11-08T02:00:40.687582+00:00",
+      "status": 200,
+      "bytes": 68229,
+      "sha256": "93787c277df76c9d25ffbfaa8cbf48fe76a0ba6029f9863c9d561901d59c1a1b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/maputo/",
+      "id": "C3887",
+      "checked_at_utc": "2026-11-08T02:00:40.202462+00:00",
+      "status": 200,
+      "bytes": 73866,
+      "sha256": "ff65925f8f79337f3eb06ae8cc3547720b2003cdc28e47898bd81bfad7d1f3b5"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/martinsville/",
+      "id": "C3888",
+      "checked_at_utc": "2026-11-08T02:00:40.052276+00:00",
+      "status": 200,
+      "bytes": 67143,
+      "sha256": "643282a52aeb85d2278c8bb19f94aa3ab92605a45afb1839e96d80e3f70b9d7c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/medchal/",
+      "id": "C3889",
+      "checked_at_utc": "2026-11-08T02:00:40.880837+00:00",
+      "status": 200,
+      "bytes": 69338,
+      "sha256": "d22f6835e6b3985f9d6b55b406ee3e1c1c6ab6f0a81e4ca3dca1cbd3b3f81756"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/medellin/",
+      "id": "C3890",
+      "checked_at_utc": "2026-11-08T02:00:41.571304+00:00",
+      "status": 200,
+      "bytes": 84857,
+      "sha256": "ecdfde9278106b13a4f66577884041088f733ef6f4bdedb81abd2d505f2450e3"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/meknes/",
+      "id": "C3891",
+      "checked_at_utc": "2026-11-08T02:00:39.287192+00:00",
+      "status": 200,
+      "bytes": 79086,
+      "sha256": "2195fe850c44a921fdde78b977783908a998af979c7776764427895b825c5f65"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/melbourne/",
+      "id": "C3892",
+      "checked_at_utc": "2026-11-08T02:00:39.358649+00:00",
+      "status": 200,
+      "bytes": 70256,
+      "sha256": "786ab8081f2295a164d1ad6523a81600f1a29e8323090ffbc4375410181e792b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mendoza/",
+      "id": "C3893",
+      "checked_at_utc": "2026-11-08T02:00:40.264943+00:00",
+      "status": 200,
+      "bytes": 81912,
+      "sha256": "e185875ab603119172a8b078ccd5fb552fa4df1d38060182e71a674643b4e66d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/merced/",
+      "id": "C3894",
+      "checked_at_utc": "2026-11-08T02:00:38.803375+00:00",
+      "status": 200,
+      "bytes": 70627,
+      "sha256": "870195b3da607cda8894e53e95295aeefe0efe2cb11938b4db602a9f4236ccac"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/merida/",
+      "id": "C3895",
+      "checked_at_utc": "2026-11-08T01:57:41.123860+00:00",
+      "status": 200,
+      "bytes": 73557,
+      "sha256": "4b309729a9ae1f9b6942d41e37796a4fdc4a193b39dda2c425c95e2b7d1e66c8"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mexicali/",
+      "id": "C3896",
+      "checked_at_utc": "2026-11-08T01:57:40.520713+00:00",
+      "status": 200,
+      "bytes": 79982,
+      "sha256": "a48fb1547e6bcaf77bef6ab8fe8ac83ce4a6c427fd6f6b4fbdb4836f480fa1da"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mexico-city/",
+      "id": "C3897",
+      "checked_at_utc": "2026-11-08T01:57:40.467060+00:00",
+      "status": 200,
+      "bytes": 70443,
+      "sha256": "e3ddb6973bdc75e75ca2b85be0157dde5a0f66bdcfc6674c57df272e498b4e77"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/miami/",
+      "id": "C3898",
+      "checked_at_utc": "2026-11-08T02:00:38.631653+00:00",
+      "status": 200,
+      "bytes": 80594,
+      "sha256": "4b60d26d4aa72e9656bec8f9d7ac8ac2023b7c32cc1a742c885c4ad9352a983e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/milano/",
+      "id": "C3899",
+      "checked_at_utc": "2026-11-08T02:00:39.603372+00:00",
+      "status": 200,
+      "bytes": 92806,
+      "sha256": "6435f866d664fb55b221ac3d3b2b1800f2af137f01e805aa3d5fc34a6391cf4f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mingachevir/",
+      "id": "C3900",
+      "checked_at_utc": "2026-11-08T02:00:38.648271+00:00",
+      "status": 200,
+      "bytes": 70951,
+      "sha256": "9858bed082cae5ec383f6ab4a4b777c3013faa559bbd09e158112a6c87d07af7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mira-bhayander/",
+      "id": "C3901",
+      "checked_at_utc": "2026-11-08T02:00:40.554164+00:00",
+      "status": 200,
+      "bytes": 78396,
+      "sha256": "d372d493e8648d4028a3c009fb1cd22fa1e2b554eecad77ac5c444f18ce9eb2b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/miri/",
+      "id": "C3902",
+      "checked_at_utc": "2026-11-08T02:00:38.558999+00:00",
+      "status": 200,
+      "bytes": 72057,
+      "sha256": "b4081982cbe97dd04007e427248979fa3aabbe295c8ac5ce6dee7975d570a909"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mississauga/",
+      "id": "C3903",
+      "checked_at_utc": "2026-11-08T02:00:37.971521+00:00",
+      "status": 200,
+      "bytes": 73827,
+      "sha256": "39c4c17304b5e0c194870087cb11e039db53251ff85b36eb22096c0c381477c1"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mohali/",
+      "id": "C3904",
+      "checked_at_utc": "2026-11-08T02:00:37.981579+00:00",
+      "status": 200,
+      "bytes": 83695,
+      "sha256": "e91815edc50cab4e79141c9abd28331d54540fbd342d36c88b0d860428db2c5a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mombasa/",
+      "id": "C3905",
+      "checked_at_utc": "2026-11-08T02:00:37.978273+00:00",
+      "status": 200,
+      "bytes": 71113,
+      "sha256": "fdd462e03e35d152f4b8326434f1d2a9d82ff4113738bf48a1c72fec3d676ddb"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/monterrey/",
+      "id": "C3906",
+      "checked_at_utc": "2026-11-08T01:57:42.056942+00:00",
+      "status": 200,
+      "bytes": 70807,
+      "sha256": "0e68ea4547981524fc554603902f64bb626240b4c37f9b4922c306fe458588de"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/montevideo/",
+      "id": "C3907",
+      "checked_at_utc": "2026-11-08T02:00:37.915811+00:00",
+      "status": 200,
+      "bytes": 74175,
+      "sha256": "38c5326beb8418f35fb7668e8f2622d49bbf000acd8178b498f3a327138f6091"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/montreal/",
+      "id": "C3908",
+      "checked_at_utc": "2026-11-08T02:00:37.290863+00:00",
+      "status": 200,
+      "bytes": 77982,
+      "sha256": "6141ad38a3c6a772afc08b32118f7a0cf2cb9d9c22a828812fda7e333da89a06"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/montville/",
+      "id": "C3909",
+      "checked_at_utc": "2026-11-08T02:00:37.290996+00:00",
+      "status": 200,
+      "bytes": 70584,
+      "sha256": "28223a543fcdddff6929f4a504bfe6563c26af6fe5fca8819b7e65412659510c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/moquegua/",
+      "id": "C3910",
+      "checked_at_utc": "2026-11-08T02:00:37.222658+00:00",
+      "status": 200,
+      "bytes": 80510,
+      "sha256": "85f75eabe396399bc9080dc9a1d396c0ed0551462fe29ddfd9e6a3b0e073fadf"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mountain-house/",
+      "id": "C3911",
+      "checked_at_utc": "2026-11-08T02:00:37.219208+00:00",
+      "status": 200,
+      "bytes": 75634,
+      "sha256": "5bfe2cf4e12500c59dd9d87e38126d0ccae7722680efd8a395719810906f2843"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mountain-view/",
+      "id": "C3912",
+      "checked_at_utc": "2026-11-08T02:00:36.598219+00:00",
+      "status": 200,
+      "bytes": 68571,
+      "sha256": "73b037ebb125b46d17230d5b9838e59c9dc6ff6a6374ae03daba960e2e1046fe"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mugla/",
+      "id": "C3913",
+      "checked_at_utc": "2026-11-08T02:00:35.818646+00:00",
+      "status": 200,
+      "bytes": 68645,
+      "sha256": "170fc7af740f33301ec430c3893d70c5650e20f6ae479d6bc8b97009e9916a97"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/multan/",
+      "id": "C3914",
+      "checked_at_utc": "2026-11-08T02:00:36.519764+00:00",
+      "status": 200,
+      "bytes": 73858,
+      "sha256": "8711155cc70524a9bd52c91f351be7af80e70ec1af55539eb59e1266c3356581"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mumbai/",
+      "id": "C3915",
+      "checked_at_utc": "2026-11-08T02:00:36.580580+00:00",
+      "status": 200,
+      "bytes": 83536,
+      "sha256": "0a086ddfc73fea483ce4773a0700a929c7170dc4d2abba18bcaeecc9699d04d9"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/muncie/",
+      "id": "C3916",
+      "checked_at_utc": "2026-11-08T02:00:36.577918+00:00",
+      "status": 200,
+      "bytes": 73188,
+      "sha256": "76ecca9fad2b86ecf3beeb5d848b943b7e472609585bf6757a4c142f0829292d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/murcia/",
+      "id": "C3917",
+      "checked_at_utc": "2026-11-08T02:00:35.878478+00:00",
+      "status": 200,
+      "bytes": 71210,
+      "sha256": "7cf1ff6d1c9e130ef3717fbcf80c4417c79997e22302bd78513db929724ea62a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/muscat/",
+      "id": "C3918",
+      "checked_at_utc": "2026-11-08T02:00:37.907322+00:00",
+      "status": 200,
+      "bytes": 71704,
+      "sha256": "1f24ed288c2898c017d0f25e4885bf3b74eeef5fc8970cb6b627b438cca7fe57"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mutare/",
+      "id": "C3919",
+      "checked_at_utc": "2026-11-08T02:00:35.896272+00:00",
+      "status": 200,
+      "bytes": 71494,
+      "sha256": "4952fe4c30ffca9f9a23d15e0a2aedc54de680784c832f866c9b66f112a3c0cb"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mymensingh/",
+      "id": "C3920",
+      "checked_at_utc": "2026-11-08T02:00:35.281600+00:00",
+      "status": 200,
+      "bytes": 77426,
+      "sha256": "b6d2558852c0debdcf3beb0bd35dd9ea3ef40aeee3bdc9358e5fe72b54074969"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/mysore/",
+      "id": "C3921",
+      "checked_at_utc": "2026-11-08T02:00:38.178287+00:00",
+      "status": 200,
+      "bytes": 68775,
+      "sha256": "a6af181e1614fd1fbcb691426065254256fc6defc52cc3df0684a73add0af981"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/nablus/",
+      "id": "C3922",
+      "checked_at_utc": "2026-11-08T02:01:40.027622+00:00",
+      "status": 200,
+      "bytes": 75311,
+      "sha256": "7abf18d7c6de386812f4c309c08f0500cf8e1dd9921342a57a5a2622ab2f0d2a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/nagpur/",
+      "id": "C3923",
+      "checked_at_utc": "2026-11-08T02:00:35.230903+00:00",
+      "status": 200,
+      "bytes": 79873,
+      "sha256": "dd13b0578b5f0793f0dde133e53eba05877222d1ea16828a1ad26c276fde8711"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/nairobi/",
+      "id": "C3924",
+      "checked_at_utc": "2026-11-08T02:00:35.157386+00:00",
+      "status": 200,
+      "bytes": 68300,
+      "sha256": "ccfd3174d56f34c2aaab172c3908a629253fbfcdcf9aaa71670bce11f9ba5714"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/naryn/",
+      "id": "C3925",
+      "checked_at_utc": "2026-11-08T02:00:35.981568+00:00",
+      "status": 200,
+      "bytes": 96883,
+      "sha256": "a8951b88c197d862c783cb094d532a6fa0efae03da414fa0478e422de03937b6"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/nashik/",
+      "id": "C3926",
+      "checked_at_utc": "2026-11-08T02:00:34.646210+00:00",
+      "status": 200,
+      "bytes": 72228,
+      "sha256": "9186cdcb754493bdc6d9deed82d6f450924bc00dc9f0f78ed9a4f14725ddb717"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/navi-mumbai/",
+      "id": "C3927",
+      "checked_at_utc": "2026-11-08T02:00:34.531627+00:00",
+      "status": 200,
+      "bytes": 69621,
+      "sha256": "dd33cafc4f0061741e871b4675114662e522ad12cd3bc331a2a3bce87b854375"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/neiva/",
+      "id": "C3928",
+      "checked_at_utc": "2026-11-08T02:00:34.577193+00:00",
+      "status": 200,
+      "bytes": 102516,
+      "sha256": "c0e9c6ac1c472b3c7f64c24c78ff2e7706a49f850a0598cdbb58c7800cf8117c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/new-york/",
+      "id": "C3929",
+      "checked_at_utc": "2026-11-08T02:00:34.498284+00:00",
+      "status": 200,
+      "bytes": 85773,
+      "sha256": "f01157e575554c40137d88b2c35ec4b2bb7873dd31a256584acabcf50cf13720"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/nicosia/",
+      "id": "C3930",
+      "checked_at_utc": "2026-11-08T02:00:33.931543+00:00",
+      "status": 200,
+      "bytes": 70867,
+      "sha256": "c92a198290b1ec57bd59882bf1b2aa5157e41b1cc2c3cd0d121130f40f9ceace"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/nigde/",
+      "id": "C3931",
+      "checked_at_utc": "2026-11-08T02:00:33.853604+00:00",
+      "status": 200,
+      "bytes": 73904,
+      "sha256": "80b223eaedc35fc243549e63ed31ac2db8f1d6b3d38fcd7d7a9dd1b127a7d49d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/norwalk/",
+      "id": "C3932",
+      "checked_at_utc": "2026-11-08T02:00:34.564887+00:00",
+      "status": 200,
+      "bytes": 67806,
+      "sha256": "4599522c2e6e907ae4a9df8067be2b508460ffbe86221e669aa71333bd3d49f6"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/nova-iguacu/",
+      "id": "C3933",
+      "checked_at_utc": "2026-11-08T02:00:33.248334+00:00",
+      "status": 200,
+      "bytes": 69414,
+      "sha256": "77751c0dbf5e9bdd7be736665dbca5f1bdfcab3ee1318d4f8a80a6164212b142"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/nsukka/",
+      "id": "C3934",
+      "checked_at_utc": "2026-11-08T02:00:34.321686+00:00",
+      "status": 200,
+      "bytes": 67658,
+      "sha256": "036362f500e81e5816ce0466a0eef3df62e242a3e4b6a5fa9a967b54e821eb14"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ogbomoso/",
+      "id": "C3935",
+      "checked_at_utc": "2026-11-08T02:00:33.984894+00:00",
+      "status": 200,
+      "bytes": 72332,
+      "sha256": "71208f173edfc0a5ec1c46c62e75b009334b706e30cd137db195affabd6e8d69"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/orillia/",
+      "id": "C3936",
+      "checked_at_utc": "2026-11-08T02:01:03.004699+00:00",
+      "status": 200,
+      "bytes": 71479,
+      "sha256": "58765e1094585ba64c0d64c4a66d40cbd4fa4a4132a18a27c1f961d713893fde"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/oshawa/",
+      "id": "C3937",
+      "checked_at_utc": "2026-11-08T02:00:33.889896+00:00",
+      "status": 200,
+      "bytes": 73446,
+      "sha256": "53231d386ad4f473945cb4933a868fca679ffe10fe9e4e718642a0d0390a9a9d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/oskemen/",
+      "id": "C3938",
+      "checked_at_utc": "2026-11-08T02:00:32.654868+00:00",
+      "status": 200,
+      "bytes": 82332,
+      "sha256": "322f1855b3c953428435a2cb8c555480b628feaa695c3004e8e91fc4a62d0bcf"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/oslo/",
+      "id": "C3939",
+      "checked_at_utc": "2026-11-08T02:00:32.662984+00:00",
+      "status": 200,
+      "bytes": 70246,
+      "sha256": "db814c9185d313751c8cd6ea4a00dd70eab8df4cbae9096b44210966e32e018f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/osogbo/",
+      "id": "C3940",
+      "checked_at_utc": "2026-11-08T02:00:32.396302+00:00",
+      "status": 200,
+      "bytes": 74992,
+      "sha256": "dfda1123b858002ea7181a20e95edd6a0d32f6b8e4012a1f681dadd1f47cd681"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ottawa/",
+      "id": "C3941",
+      "checked_at_utc": "2026-11-08T02:00:32.181188+00:00",
+      "status": 200,
+      "bytes": 71286,
+      "sha256": "e251e54183480b5285e8bebdf89cb2c51d8b7a12964a0e3415347385ef475390"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ouro-preto/",
+      "id": "C3942",
+      "checked_at_utc": "2026-11-08T02:00:33.146066+00:00",
+      "status": 200,
+      "bytes": 72698,
+      "sha256": "26adb216c2a65f9f236121c3a761761df7626ad4d49aecf0aa448c3e49e6890d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/pala/",
+      "id": "C3943",
+      "checked_at_utc": "2026-11-08T02:00:32.959464+00:00",
+      "status": 200,
+      "bytes": 76150,
+      "sha256": "885a91faa15adc4dd58ff8d15da35eca8f51618c818b82294bd0fcba5de26d36"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/panaji/",
+      "id": "C3944",
+      "checked_at_utc": "2026-11-08T02:00:31.755049+00:00",
+      "status": 200,
+      "bytes": 79378,
+      "sha256": "119266bf47bff68526f240a2b5b34b342dceccac751516765f729d96004ebef2"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/panama-city/",
+      "id": "C3945",
+      "checked_at_utc": "2026-11-08T01:57:40.058901+00:00",
+      "status": 200,
+      "bytes": 69697,
+      "sha256": "9d1ee4b6853e0975ee647a804189dc6f097b4b427452680395907dd5af7e78a0"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/paris/",
+      "id": "C3946",
+      "checked_at_utc": "2026-11-08T02:00:31.581292+00:00",
+      "status": 200,
+      "bytes": 73100,
+      "sha256": "7ed1c0e5e67834759eb696684541ba07151e9cda659fd8668c8a5b771744bb82"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/pavlodar/",
+      "id": "C3947",
+      "checked_at_utc": "2026-11-08T02:00:31.548221+00:00",
+      "status": 200,
+      "bytes": 79269,
+      "sha256": "d21c19df77ae65492557a7066eb5ba06712878ac9c65233b5499793e83b274eb"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/perth/",
+      "id": "C3948",
+      "checked_at_utc": "2026-11-08T02:00:31.331592+00:00",
+      "status": 200,
+      "bytes": 68312,
+      "sha256": "5a099e419d1fe74150b90d49fa23d9d7ae29fe4c84effe1abca7431d340b3476"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/peshawar/",
+      "id": "C3949",
+      "checked_at_utc": "2026-11-08T02:00:32.044259+00:00",
+      "status": 200,
+      "bytes": 67009,
+      "sha256": "1623146e7e621fd2bc791d9613d4d24da64da178865db2c4f9836804c1e775e5"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/petropavlovsk/",
+      "id": "C3950",
+      "checked_at_utc": "2026-11-08T02:00:31.923963+00:00",
+      "status": 200,
+      "bytes": 71435,
+      "sha256": "1843c85081471f380f7d3b8892fa79fa9e56aca4877ba7aea02419363751932d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/phayao/",
+      "id": "C3951",
+      "checked_at_utc": "2026-11-08T02:00:30.918161+00:00",
+      "status": 200,
+      "bytes": 81340,
+      "sha256": "6a8ade046b04d801d941b094f92bc24f62c0ce1a42a602825b30fd1ea5fedca4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/philadelphia/",
+      "id": "C3952",
+      "checked_at_utc": "2026-11-08T02:00:30.422656+00:00",
+      "status": 200,
+      "bytes": 81785,
+      "sha256": "9d125c80e8875b947033896284aa42a73b8e5537d684690cf42981bb9ea38ad0"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/phnom-penh/",
+      "id": "C3953",
+      "checked_at_utc": "2026-11-08T02:00:30.287930+00:00",
+      "status": 200,
+      "bytes": 74159,
+      "sha256": "dba231ff73a5fac25d6c51883f9ee55aec65d81b4ece407bf6ba2bff26912f8c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/phoenix/",
+      "id": "C3954",
+      "checked_at_utc": "2026-11-08T02:00:30.265204+00:00",
+      "status": 200,
+      "bytes": 67586,
+      "sha256": "1942ed0f1949c8dea08fe3c865df11b187f1f9cd7a98e64c5e696587d3c91c15"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/piraeus/",
+      "id": "C3955",
+      "checked_at_utc": "2026-11-08T02:00:31.127779+00:00",
+      "status": 200,
+      "bytes": 72676,
+      "sha256": "a6466d3c698105691741402421a39883fe70c2253e3b8369e9d6b789382dc8db"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/piura/",
+      "id": "C3956",
+      "checked_at_utc": "2026-11-08T02:00:30.860271+00:00",
+      "status": 200,
+      "bytes": 76124,
+      "sha256": "fe204542991d4f3927d4ce52b0a1a22138bbb4d8e427a57101861996b5951509"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/plymouth/",
+      "id": "C3957",
+      "checked_at_utc": "2026-11-08T02:00:30.733330+00:00",
+      "status": 200,
+      "bytes": 74478,
+      "sha256": "67352c56321f58f630c0240ee951efbe49913d1f5cb25d8c9a0f1248d1759431"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/podgorica/",
+      "id": "C3958",
+      "checked_at_utc": "2026-11-08T02:00:29.446673+00:00",
+      "status": 200,
+      "bytes": 66857,
+      "sha256": "4ec376ddf648a62325efe9b71707d3aa19b4fdb9d0ea77f0619c48d549b69c5e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/pointe-noire/",
+      "id": "C3959",
+      "checked_at_utc": "2026-11-08T02:00:28.802462+00:00",
+      "status": 200,
+      "bytes": 75784,
+      "sha256": "9d942aee1a511677de1033e99622373a007863e074d950bf81f213aecc18dca7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/popayan/",
+      "id": "C3960",
+      "checked_at_utc": "2026-11-08T02:00:29.687055+00:00",
+      "status": 200,
+      "bytes": 87725,
+      "sha256": "1c26ed6b633c76c3dfe9f26d3bec48db496699cadc2e77705e3f516395d5e317"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/port-louis/",
+      "id": "C3961",
+      "checked_at_utc": "2026-11-08T02:00:29.027833+00:00",
+      "status": 200,
+      "bytes": 69874,
+      "sha256": "67e1a6f1cd54194ee426857a1b88b0b7e594a5afb1cfc90cf8cd040041fc8076"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/port-said/",
+      "id": "C3962",
+      "checked_at_utc": "2026-11-08T02:00:29.620318+00:00",
+      "status": 200,
+      "bytes": 70348,
+      "sha256": "3fcb88d72ff177fc343665fa4a47a42cbd601f1da6e6edbfc71b919fa291055a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/pouso-alegre/",
+      "id": "C3963",
+      "checked_at_utc": "2026-11-08T02:00:28.130742+00:00",
+      "status": 200,
+      "bytes": 72064,
+      "sha256": "15baeaf231344da401417b6ff80038740faba89bf2ccaba3b88906af9a161e31"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/poznan/",
+      "id": "C3964",
+      "checked_at_utc": "2026-11-08T02:00:28.001504+00:00",
+      "status": 200,
+      "bytes": 86978,
+      "sha256": "1e88d68fdb0a29bd701aeef1bae92252fcb4ecb1003e4dc9e585c7c1e2fbf47b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/praia/",
+      "id": "C3965",
+      "checked_at_utc": "2026-11-08T02:00:29.787053+00:00",
+      "status": 200,
+      "bytes": 71036,
+      "sha256": "dd015ac5ec9f6dfb1b2e0d771290628fc1351a95b8acc5497480afda3512df85"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/pretoria/",
+      "id": "C3966",
+      "checked_at_utc": "2026-11-08T02:00:27.405128+00:00",
+      "status": 200,
+      "bytes": 73415,
+      "sha256": "5bbcb01f36e4b15867439c46d7561ff81e0f786cb00baa648eefdf3f5d9b0814"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/princeton/",
+      "id": "C3967",
+      "checked_at_utc": "2026-11-08T02:00:29.250051+00:00",
+      "status": 200,
+      "bytes": 69733,
+      "sha256": "4ee7cf225395fc1c5511e2962f464cf077b920a643f16bfaa7c5f46a77b4f0da"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/puebla/",
+      "id": "C3968",
+      "checked_at_utc": "2026-11-08T01:57:40.115522+00:00",
+      "status": 200,
+      "bytes": 79651,
+      "sha256": "4e768476759e0c95f679cd835d72e9f3107050467ebd5c6cdab0f88eab96ff34"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/puerto-madryn/",
+      "id": "C3969",
+      "checked_at_utc": "2026-11-08T02:00:27.296768+00:00",
+      "status": 200,
+      "bytes": 73416,
+      "sha256": "23edba7487b645ce0fb9bc60508a1224b178c0c40a54e1545da14bf4cfdfe3bb"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/puerto-vallarta/",
+      "id": "C3119",
+      "checked_at_utc": "2026-11-08T01:57:39.708498+00:00",
+      "status": 200,
+      "bytes": 82879,
+      "sha256": "e038b69c5122d2e9c56fa45ae921d905fce6938d46fe5abbfbf7a66fe7f3d822"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/pune/",
+      "id": "C3970",
+      "checked_at_utc": "2026-11-08T02:00:27.168702+00:00",
+      "status": 200,
+      "bytes": 75064,
+      "sha256": "43a6d7f903d9ec0d96dc03a9ad2e8072b310379e809e6b8899c063417cbd2e03"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/punta-arenas/",
+      "id": "C3971",
+      "checked_at_utc": "2026-11-08T02:00:28.098287+00:00",
+      "status": 200,
+      "bytes": 74681,
+      "sha256": "9f6402e90a277c4d3a62965108707d601965a8fd1a45d2f7122cc31d492caec1"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/punta-del-este/",
+      "id": "C3972",
+      "checked_at_utc": "2026-11-08T02:00:28.074660+00:00",
+      "status": 200,
+      "bytes": 74745,
+      "sha256": "e49666e7a2266b6d739c1ef150da666c3183077654520cd9271e7b20cb5f479b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/purwokerto/",
+      "id": "C3973",
+      "checked_at_utc": "2026-11-08T02:00:26.626004+00:00",
+      "status": 200,
+      "bytes": 93730,
+      "sha256": "7dba29383994eb3dae083cca01be3decc5db4d487b4f397746e193ca27628022"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/qarshi/",
+      "id": "C3974",
+      "checked_at_utc": "2026-11-08T02:00:26.514840+00:00",
+      "status": 200,
+      "bytes": 128249,
+      "sha256": "3688352c637d0262ef683e816eef92ba9cf5f602fc7e52b33e1dbbc5648fde19"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/qena/",
+      "id": "C3975",
+      "checked_at_utc": "2026-11-08T02:00:26.701777+00:00",
+      "status": 200,
+      "bytes": 69324,
+      "sha256": "3f418ea26691d7a0633f6a36a4e44edf4f82d04a21a4df6ad7cbaf899312707f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/quemchi/",
+      "id": "C3976",
+      "checked_at_utc": "2026-11-08T02:00:26.091810+00:00",
+      "status": 200,
+      "bytes": 72520,
+      "sha256": "29266d9df0f70374b7ab04ca95a03f3fbee11b81358c9ca7d07e08f9fb456606"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/queretaro/",
+      "id": "C3977",
+      "checked_at_utc": "2026-11-08T01:57:40.569448+00:00",
+      "status": 200,
+      "bytes": 89126,
+      "sha256": "f8117073022e3f9f0ec912495ba5dc12430bb5d141618916d113c2cd29340064"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/quetta/",
+      "id": "C3978",
+      "checked_at_utc": "2026-11-08T02:00:25.879249+00:00",
+      "status": 200,
+      "bytes": 75604,
+      "sha256": "0ca4c9342338cb77a1e07833b4d3a0ce1f21e9f0da094720b3ba8a82765e0dfe"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/quetzaltenango/",
+      "id": "C3979",
+      "checked_at_utc": "2026-11-08T01:57:39.659531+00:00",
+      "status": 200,
+      "bytes": 79905,
+      "sha256": "83f62d49e3a61c92389915eb524692e39b6d5b8baf7564359a7b4b1d6fd558bf"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/quito/",
+      "id": "C3980",
+      "checked_at_utc": "2026-11-08T01:57:39.686015+00:00",
+      "status": 200,
+      "bytes": 72875,
+      "sha256": "c0351a00e353c3e0f17a3096bfd7fe79d8d6ea5554782685b743102f392dda40"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/rafaela/",
+      "id": "C3981",
+      "checked_at_utc": "2026-11-08T02:00:26.431278+00:00",
+      "status": 200,
+      "bytes": 73104,
+      "sha256": "32a8dc8dae70f428b91744f47105fd6b6b196597ebd1e8cb285a2d000f6ec19d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/raipur/",
+      "id": "C3982",
+      "checked_at_utc": "2026-11-08T02:00:25.365187+00:00",
+      "status": 200,
+      "bytes": 72298,
+      "sha256": "421e52826975e3d20779be93787c6f9b4239eccdfdf1efa0eb8ad2be6a597c1c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/rajshahi/",
+      "id": "C3983",
+      "checked_at_utc": "2026-11-08T02:00:25.778449+00:00",
+      "status": 200,
+      "bytes": 82733,
+      "sha256": "5387ffe61abef1bbca01ce9ca92d88c8f159b1bcb97ff1e63eb52f59dca47ff3"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/raleigh/",
+      "id": "C3984",
+      "checked_at_utc": "2026-11-08T02:00:24.676804+00:00",
+      "status": 200,
+      "bytes": 68464,
+      "sha256": "0e66b45e4a38f3f9888abf294c3be32f6831ada21078230202487f32c8d1fd3e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ramallah/",
+      "id": "C3985",
+      "checked_at_utc": "2026-11-08T02:00:26.553979+00:00",
+      "status": 200,
+      "bytes": 84779,
+      "sha256": "58cebb025a04858f6b09b19ae82f642bfb77ecaa3dd0bfac5213cd84ddf124db"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/rangpur/",
+      "id": "C3986",
+      "checked_at_utc": "2026-11-08T02:00:25.298411+00:00",
+      "status": 200,
+      "bytes": 70709,
+      "sha256": "e95e3e2c526f3966cb437b47cc2f3b08b1cecf2d8079bacca31b3b6ec6133333"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ras-al-khaimah/",
+      "id": "C3987",
+      "checked_at_utc": "2026-11-08T02:00:24.139583+00:00",
+      "status": 200,
+      "bytes": 90488,
+      "sha256": "020839b549bdfbcc923ef112f9b0347f1015f9df02168afb8ee4ba84ee6b97b9"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ratnagiri/",
+      "id": "C3988",
+      "checked_at_utc": "2026-11-08T02:00:23.965341+00:00",
+      "status": 200,
+      "bytes": 67088,
+      "sha256": "168b4001959373b2e5015f8bdf4f9b95419272a7d324c266290a5590ceaf0549"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/recife/",
+      "id": "C3989",
+      "checked_at_utc": "2026-11-08T02:00:23.899666+00:00",
+      "status": 200,
+      "bytes": 70722,
+      "sha256": "424fbc365267f7416bb4ae8f6bb258a2ac42ec784f5c3a0972aa2541aa8a1a8f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/rewari/",
+      "id": "C3990",
+      "checked_at_utc": "2026-11-08T02:00:24.778703+00:00",
+      "status": 200,
+      "bytes": 87686,
+      "sha256": "c11794945c3630706e572e99cb7bedc728ec66a159c62d1b1eaf67265cf956c5"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ribeirao-preto/",
+      "id": "C3991",
+      "checked_at_utc": "2026-11-08T02:00:23.644197+00:00",
+      "status": 200,
+      "bytes": 94726,
+      "sha256": "d8b1f59ff4758046870b2ce9cf1a836738e649fae582744a097db1e834e9c239"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/riffa/",
+      "id": "C3992",
+      "checked_at_utc": "2026-11-08T02:00:23.381559+00:00",
+      "status": 200,
+      "bytes": 89807,
+      "sha256": "159a7a8df355c0db7a6a1e275d7516d61c309b33921d638780b2399e0595c2d6"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/rio-bravo/",
+      "id": "C3993",
+      "checked_at_utc": "2026-11-08T01:57:39.539339+00:00",
+      "status": 200,
+      "bytes": 71930,
+      "sha256": "96ee3015be97c0db873df06c3a72541b52b7f711ab1bbf3b43d6b9ffb8b1ce63"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/rio-verde/",
+      "id": "C3994",
+      "checked_at_utc": "2026-11-08T02:00:25.297322+00:00",
+      "status": 200,
+      "bytes": 77077,
+      "sha256": "60a7248b8c6887fc987abb6656bb7c249e60e048eb4a3f8d7a7ac31af758d498"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/riobamba/",
+      "id": "C3995",
+      "checked_at_utc": "2026-11-08T01:57:39.214462+00:00",
+      "status": 200,
+      "bytes": 90992,
+      "sha256": "c1c455b0a48e1b3e5339bde2fed494a5fb503312859288d57be55506e84adee6"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/rivera/",
+      "id": "C3996",
+      "checked_at_utc": "2026-11-08T02:00:23.031533+00:00",
+      "status": 200,
+      "bytes": 73274,
+      "sha256": "7cfdffa459d0e88aea9313f74986fb38dca6fb33166d0e7c29fb1e5da6cb9604"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/riyadh/",
+      "id": "C3997",
+      "checked_at_utc": "2026-11-08T02:00:23.534490+00:00",
+      "status": 200,
+      "bytes": 70535,
+      "sha256": "e755e62166d0a26a9586a8b24dd8424745bc32cc6f3ceba50986316fb99d822f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/rohnert-park/",
+      "id": "C3998",
+      "checked_at_utc": "2026-11-08T02:00:22.413832+00:00",
+      "status": 200,
+      "bytes": 82509,
+      "sha256": "4361553f1d5e77d734531f085a755c41861ec17f1b12b94738a914d7749727d3"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/rolla/",
+      "id": "C3999",
+      "checked_at_utc": "2026-11-08T02:00:23.192821+00:00",
+      "status": 200,
+      "bytes": 72302,
+      "sha256": "c78d630b2953ef34ec82f18b67a9db75767dd5fb350945528e511300cc8a6e5e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/rome/",
+      "id": "C4000",
+      "checked_at_utc": "2026-11-08T02:00:23.268184+00:00",
+      "status": 200,
+      "bytes": 74887,
+      "sha256": "869e2aa52c4b7d06bdf11af8a75295ac422146c6eb4857715e817dc7d08b7af2"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/rosario/",
+      "id": "C4001",
+      "checked_at_utc": "2026-11-08T02:00:22.671889+00:00",
+      "status": 200,
+      "bytes": 76527,
+      "sha256": "87997bc799c9ef0ea13b84cf27e5e7ca250d595c3e9db64bf91ae393075b4177"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/rzeszow/",
+      "id": "C4002",
+      "checked_at_utc": "2026-11-08T02:00:21.705549+00:00",
+      "status": 200,
+      "bytes": 81428,
+      "sha256": "b3a2caa83ed4b3bb40951cb84cf4ef24909d4b05faf913b0f5e1b4c76de6e3b4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sabalgarh/",
+      "id": "C4003",
+      "checked_at_utc": "2026-11-08T02:00:22.659256+00:00",
+      "status": 200,
+      "bytes": 68639,
+      "sha256": "221fc3f8ff7e0dad12469a98130fd05833772a056a07aedbcd41409e7a69276e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sahiwal/",
+      "id": "C4004",
+      "checked_at_utc": "2026-11-08T02:00:21.592245+00:00",
+      "status": 200,
+      "bytes": 70749,
+      "sha256": "84573be8773f2415b327c0b51e9a9cad95cd332e1af015ae8f7ac1d061d68e4c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sakarya/",
+      "id": "C4005",
+      "checked_at_utc": "2026-11-08T02:00:21.044026+00:00",
+      "status": 200,
+      "bytes": 79627,
+      "sha256": "7933e9e4d430c2d506cb87f6885acd0055eb42a8ea7456ddfc2874e3bc5cf86b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sakhir/",
+      "id": "C4006",
+      "checked_at_utc": "2026-11-08T02:00:21.027719+00:00",
+      "status": 200,
+      "bytes": 97550,
+      "sha256": "b636b644dd282d2a0a0bde0c981fd509e52f69658351743bf12d6abd248fc4f1"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/salam-misr/",
+      "id": "C4007",
+      "checked_at_utc": "2026-11-08T02:00:21.031542+00:00",
+      "status": 200,
+      "bytes": 73122,
+      "sha256": "4164ebcd8418c76512e60f0e830f32e3066f177e801b15741f0db5dd768b1e8b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/salamanca/",
+      "id": "C4008",
+      "checked_at_utc": "2026-11-08T02:00:21.887558+00:00",
+      "status": 200,
+      "bytes": 72560,
+      "sha256": "01163caf1a26e893b46832a8a9b6b82813444aab35dbf33e1d077abf47fa666d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/salta/",
+      "id": "C4009",
+      "checked_at_utc": "2026-11-08T02:00:20.964814+00:00",
+      "status": 200,
+      "bytes": 83744,
+      "sha256": "48a7d109df81181022a7f2bf069a607b9b8b6d087c9243805344361f3516b0a8"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/saltillo/",
+      "id": "C4010",
+      "checked_at_utc": "2026-11-08T01:57:39.181691+00:00",
+      "status": 200,
+      "bytes": 70116,
+      "sha256": "708f59c84dcd43056d186876cbfada78d89fd0c06c4b866258c41dddf9055a1b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/salto/",
+      "id": "C4011",
+      "checked_at_utc": "2026-11-08T02:00:20.236679+00:00",
+      "status": 200,
+      "bytes": 72306,
+      "sha256": "1f78277e5c85ae969d0560f0627deb2b6ac99d8cca880e7ec787356d23aa27f4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/salvador/",
+      "id": "C4012",
+      "checked_at_utc": "2026-11-08T02:00:20.236089+00:00",
+      "status": 200,
+      "bytes": 69754,
+      "sha256": "8ef4ad5acc07b1d354c9ede9271fcd7b48209dc68688cbc20d2bc3db0eef1561"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/san-diego/",
+      "id": "C4013",
+      "checked_at_utc": "2026-11-08T02:00:20.236379+00:00",
+      "status": 200,
+      "bytes": 97982,
+      "sha256": "56f0141a856b867a375304cf74961964813f41d705d9f5f05b106f73ec0640b4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/san-francisco/",
+      "id": "C4014",
+      "checked_at_utc": "2026-11-08T02:00:19.596935+00:00",
+      "status": 200,
+      "bytes": 69813,
+      "sha256": "2d8c5e1903bc2f2cf7970bdfe02c6af5271d1efa5d178c612e8cc83f7e60dee5"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/san-jeronimo-de-juarez/",
+      "id": "C4015",
+      "checked_at_utc": "2026-11-08T01:57:39.129347+00:00",
+      "status": 200,
+      "bytes": 71133,
+      "sha256": "03901c4679d942c03fa39ea58b31f52b40e6f73fc8c04e76bd600af97cdd04c6"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/san-jose-ca/",
+      "id": "C4016",
+      "checked_at_utc": "2026-11-08T02:00:21.592417+00:00",
+      "status": 200,
+      "bytes": 71918,
+      "sha256": "4e8df84f200c8bfa6632957e45136a463147d99c84c62ec7e6ff714b96295f67"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/san-jose-costa-rica/",
+      "id": "C3117",
+      "checked_at_utc": "2026-11-08T01:57:43.370243+00:00",
+      "status": 200,
+      "bytes": 126121,
+      "sha256": "4d88f143b3dc4f5c4f8fb2a83c3b5b3c1a98c13bbcbe0f7a01a6dcfa159e2c12"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/san-juan-argentina/",
+      "id": "C4017",
+      "checked_at_utc": "2026-11-08T02:00:19.548249+00:00",
+      "status": 200,
+      "bytes": 89080,
+      "sha256": "a81072fd12797a8e41164a1860fd1d08f03ed09b48d6b3564c7dd0e03771c9d7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/san-luis/",
+      "id": "C4018",
+      "checked_at_utc": "2026-11-08T02:00:20.401561+00:00",
+      "status": 200,
+      "bytes": 74494,
+      "sha256": "914e7f2bb59c1279c7096ca85224285f0e593b419b830c1786ebdd8f7867dac3"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/san-marino/",
+      "id": "C4019",
+      "checked_at_utc": "2026-11-08T02:00:18.970314+00:00",
+      "status": 200,
+      "bytes": 73418,
+      "sha256": "77c79b4e5a18b5efa8d4b2d542e6555f4b53a11bea3ca6fc88ba014cab050940"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/san-pedro-sula/",
+      "id": "C4020",
+      "checked_at_utc": "2026-11-08T01:57:39.183730+00:00",
+      "status": 200,
+      "bytes": 77544,
+      "sha256": "ae2e835bd311cf123c404e2ce8db5350b8b7ed9b91da95c14b2f7c1ca535a833"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/san-salvador/",
+      "id": "C4021",
+      "checked_at_utc": "2026-11-08T01:57:39.067952+00:00",
+      "status": 200,
+      "bytes": 76461,
+      "sha256": "fe009d17116659a50aa3ff3450a5ba4d4af8753754929ce2b1f081b394b77142"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/san-vicente-de-canete/",
+      "id": "C4022",
+      "checked_at_utc": "2026-11-08T02:00:18.898336+00:00",
+      "status": 200,
+      "bytes": 95342,
+      "sha256": "a581d6074f575b10c42a416c70fec7bb9d64e12af94220862bdbd95a4e75fecc"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/san-vicente-del-raspeig/",
+      "id": "C4023",
+      "checked_at_utc": "2026-11-08T02:00:18.971733+00:00",
+      "status": 200,
+      "bytes": 81490,
+      "sha256": "eb99d289452b68be3859ddd9d629d4a99eb5a733e7580066f3c59fcc9a4795db"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/san-vicente-ferrer/",
+      "id": "C4024",
+      "checked_at_utc": "2026-11-08T02:00:18.745533+00:00",
+      "status": 200,
+      "bytes": 101160,
+      "sha256": "115c22681ed0cbe8e674d91221bf9b1e0c5519bae53280376273acad4acccbaa"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sangolqui/",
+      "id": "C3517",
+      "checked_at_utc": "2026-11-08T01:57:38.771608+00:00",
+      "status": 200,
+      "bytes": 86595,
+      "sha256": "518df5f8ceb1a7858407e2db1264f6d22b7bc86adcd8d1e83d063013bcad22d2"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sanlurfa/",
+      "id": "C4025",
+      "checked_at_utc": "2026-11-08T02:00:00.789235+00:00",
+      "status": 200,
+      "bytes": 70035,
+      "sha256": "417b8157048e161aa6383c0f22105fa21c0af2aa1370d2698138c570bf9ceae0"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/santa-cruz-das-palmeiras/",
+      "id": "C4026",
+      "checked_at_utc": "2026-11-08T02:00:18.273704+00:00",
+      "status": 200,
+      "bytes": 84756,
+      "sha256": "373e48b19fe32440aa5ff73e6bdb3f96997e4cba1422c375cd1b76e94d1fdae2"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/santa-cruz-de-la-sierra/",
+      "id": "C4027",
+      "checked_at_utc": "2026-11-08T02:00:18.266602+00:00",
+      "status": 200,
+      "bytes": 78872,
+      "sha256": "7a202cfd017d86623ee91527b820496b3870db2f22efc89e08a0bd5770e61fcd"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/santa-rosa-de-calamuchita/",
+      "id": "C4028",
+      "checked_at_utc": "2026-11-08T02:00:18.199879+00:00",
+      "status": 200,
+      "bytes": 82031,
+      "sha256": "141aa362e04658c932dbf621ec5c685b9b6c50f7db59cf33c810e1118438b10c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/santiago-chile/",
+      "id": "C4029",
+      "checked_at_utc": "2026-11-08T02:00:20.234243+00:00",
+      "status": 200,
+      "bytes": 77433,
+      "sha256": "2109f27aa6018ad48abe9858f1de1590d30354c8f23b591276bd23ff39832019"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/santiago-del-estero/",
+      "id": "C4030",
+      "checked_at_utc": "2026-11-08T02:00:18.128149+00:00",
+      "status": 200,
+      "bytes": 81005,
+      "sha256": "5531c3e7c236adaef8887d673322917118911cd55b0731f6a30e2b4c7cd5fb04"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/santiago-dominican-republic/",
+      "id": "C4031",
+      "checked_at_utc": "2026-11-08T02:01:38.655899+00:00",
+      "status": 200,
+      "bytes": 108806,
+      "sha256": "e620f5684437288acb7de69fb77d2cf5c6ccb344f7eaa2870c9be083f81f32cb"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/santo-andre/",
+      "id": "C4032",
+      "checked_at_utc": "2026-11-08T02:00:19.517705+00:00",
+      "status": 200,
+      "bytes": 72788,
+      "sha256": "26ae5a1b1239c76a9e6d25a958b035df0966257ea6368b1d45a44a04cd3145dd"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/santo-domingo-dominican-republic/",
+      "id": "C4033",
+      "checked_at_utc": "2026-11-08T02:00:17.363549+00:00",
+      "status": 200,
+      "bytes": 72214,
+      "sha256": "44bd2b00d22dabf04d7c375b06554988420f9699f12eaafc2fcdd9b07780cda2"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sao-goncalo/",
+      "id": "C4034",
+      "checked_at_utc": "2026-11-08T02:00:11.598249+00:00",
+      "status": 200,
+      "bytes": 70393,
+      "sha256": "17c1d88c2cc820d8694b49b240e716744f5103fcb40a177f30fbece591bd37be"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sao-jose-do-rio-preto/",
+      "id": "C4035",
+      "checked_at_utc": "2026-11-08T02:00:17.681620+00:00",
+      "status": 200,
+      "bytes": 67727,
+      "sha256": "6a1d5812e4affd4b35285288ddb51e5e2176c3becb0ead560927b00333ebd761"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sao-jose-dos-campos/",
+      "id": "C4036",
+      "checked_at_utc": "2026-11-08T02:00:11.534209+00:00",
+      "status": 200,
+      "bytes": 69423,
+      "sha256": "b37677c16bc2d5e4055685ab80936ed7f6a0104d55994e7bf35146287ca69027"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sao-paulo/",
+      "id": "C4037",
+      "checked_at_utc": "2026-11-08T02:00:12.177454+00:00",
+      "status": 200,
+      "bytes": 79276,
+      "sha256": "b88c5bf035fab778400328952350e2a298b87c007782a62d8a0bf94bb6ea3bfc"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sapporo/",
+      "id": "C4038",
+      "checked_at_utc": "2026-11-08T02:00:16.731868+00:00",
+      "status": 200,
+      "bytes": 72584,
+      "sha256": "e011fc1e6e12abdd85a21dfb112ce3d18e8499e4c34d3b5ccd51a280aa42af37"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/satna/",
+      "id": "C4039",
+      "checked_at_utc": "2026-11-08T02:00:16.808648+00:00",
+      "status": 200,
+      "bytes": 72738,
+      "sha256": "00247a721947d815af5f617032194768a7d348725a3554c81c6973ce5862fa47"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/seattle/",
+      "id": "C4040",
+      "checked_at_utc": "2026-11-08T02:00:17.514794+00:00",
+      "status": 200,
+      "bytes": 73157,
+      "sha256": "357878bdb3313377f94e1fa44b45700168e8e721dee6ea276f4e3a177c08a23e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/seoul/",
+      "id": "C4041",
+      "checked_at_utc": "2026-11-08T02:00:17.529909+00:00",
+      "status": 200,
+      "bytes": 130462,
+      "sha256": "77736c36913b8f97374272cd2f64e211b3769b6bce3dccfdb767e852fd38b1fe"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/setubal/",
+      "id": "C4042",
+      "checked_at_utc": "2026-11-08T02:00:16.081622+00:00",
+      "status": 200,
+      "bytes": 69972,
+      "sha256": "0ce80b487b9f21b0820310546f337cd4bbdaff608a0b0623f12dde52ac56022f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/seville/",
+      "id": "C4043",
+      "checked_at_utc": "2026-11-08T02:00:16.047560+00:00",
+      "status": 200,
+      "bytes": 72899,
+      "sha256": "7d5978a5f7bd16089d04f03dea967c274233f9defa3932d7271595098df7963c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sezana/",
+      "id": "C4044",
+      "checked_at_utc": "2026-11-08T02:00:15.870131+00:00",
+      "status": 200,
+      "bytes": 66956,
+      "sha256": "aa2cb5b7a617d7f0dd7ecf1fc1cf1d59f0fc2df317c4da3a3bca78ec3f5f19f6"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/shamakhi/",
+      "id": "C4045",
+      "checked_at_utc": "2026-11-08T02:00:15.858799+00:00",
+      "status": 200,
+      "bytes": 77963,
+      "sha256": "da848bd3619adee1c671a04094e02aa59d23154df6af9dcc038a42fe2517629e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sharjah/",
+      "id": "C4046",
+      "checked_at_utc": "2026-11-08T02:00:17.664945+00:00",
+      "status": 200,
+      "bytes": 75622,
+      "sha256": "b1965e6b1888873c2425fb6f906aa0b353c531cf6d5a5ae2b0686015c515523b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/shebeen-el-kom/",
+      "id": "C4047",
+      "checked_at_utc": "2026-11-08T02:00:15.426766+00:00",
+      "status": 200,
+      "bytes": 87208,
+      "sha256": "86a3319b8895032b5cfe1556a471960053d3663fc68e6447d5ea3577307d986a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sherbrooke/",
+      "id": "C4048",
+      "checked_at_utc": "2026-11-08T02:00:15.442949+00:00",
+      "status": 200,
+      "bytes": 72210,
+      "sha256": "eba4b56f8c03bbacabf53d1f8091c7dd41b396c221eae2e33b23e51225bbbeee"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/shivamogga/",
+      "id": "C4049",
+      "checked_at_utc": "2026-11-08T02:00:15.070215+00:00",
+      "status": 200,
+      "bytes": 71872,
+      "sha256": "5171ccf60142610c434edc9e2e4f86c92656d3c5a8213d4ef2686fcd46f64702"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/shymkent/",
+      "id": "C4050",
+      "checked_at_utc": "2026-11-08T02:00:14.620405+00:00",
+      "status": 200,
+      "bytes": 81318,
+      "sha256": "9db613ef34ee9e72af7924fc392c1438b73224f7d368de1aa9fc8087ad809e18"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sibu/",
+      "id": "C4051",
+      "checked_at_utc": "2026-11-08T02:00:14.431537+00:00",
+      "status": 200,
+      "bytes": 70454,
+      "sha256": "7127abeb5a47ffecefb6ba122798d62b0e375c06ab8904c4a50addd2c35f421e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/singapore/",
+      "id": "C4052",
+      "checked_at_utc": "2026-11-08T02:00:16.084552+00:00",
+      "status": 200,
+      "bytes": 79933,
+      "sha256": "8f16bf436d7275032820e2dbc404452e71614f2111292c61b0dbea04b212358c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sivas/",
+      "id": "C4053",
+      "checked_at_utc": "2026-11-08T02:00:15.048158+00:00",
+      "status": 200,
+      "bytes": 71094,
+      "sha256": "37bbf2cbdef1758f5aa370114bbddc99fea4f6a2783ce557010d021645f8a99d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/skopje/",
+      "id": "C4054",
+      "checked_at_utc": "2026-11-08T02:00:14.016124+00:00",
+      "status": 200,
+      "bytes": 72006,
+      "sha256": "979d66c60c6ae2a8be9b61570f4e63ee9e0c9f8b110f9a502fc3e14822b6b6b3"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sofia/",
+      "id": "C4055",
+      "checked_at_utc": "2026-11-08T02:00:13.833891+00:00",
+      "status": 200,
+      "bytes": 75977,
+      "sha256": "4f1447f3dbdcc38bd306cf186fe05349fd56f7867ea649eeb661308abd8cfdb1"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sohag/",
+      "id": "C4056",
+      "checked_at_utc": "2026-11-08T02:00:14.694048+00:00",
+      "status": 200,
+      "bytes": 71175,
+      "sha256": "6597acf39b8bdeca7375ee761f6f1d0a02ecc413e8a67b0d796b1a3db38f6ccc"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sonipat/",
+      "id": "C4057",
+      "checked_at_utc": "2026-11-08T02:00:13.448267+00:00",
+      "status": 200,
+      "bytes": 73853,
+      "sha256": "838273fc3df69b0d980a37ded11a0aa32c06b45fd5943c7018bd5269461315e5"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sorocaba/",
+      "id": "C4058",
+      "checked_at_utc": "2026-11-08T02:00:13.395922+00:00",
+      "status": 200,
+      "bytes": 79070,
+      "sha256": "d474a82a8b9d843eec3b234d1cb77c6ab8f5cea21c076be5f9482d53bd57cd17"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/srinagar/",
+      "id": "C4059",
+      "checked_at_utc": "2026-11-08T02:00:13.389267+00:00",
+      "status": 200,
+      "bytes": 73008,
+      "sha256": "bef62357fc5d0eb0fb76dfbc09f46b2f1d710290bc3fc9841cf8a62caceef0f0"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/st-johns/",
+      "id": "C4060",
+      "checked_at_utc": "2026-11-08T02:00:15.181482+00:00",
+      "status": 200,
+      "bytes": 78745,
+      "sha256": "9b8faa4132ad9a33bb636ce470ea0ed0da4718ab9c5b572b2dfe8dfa2b471fae"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/stalowa-wola/",
+      "id": "C4061",
+      "checked_at_utc": "2026-11-08T02:00:13.099886+00:00",
+      "status": 200,
+      "bytes": 92868,
+      "sha256": "5b8b3899037da0476910ecd1814288be98b629cdea32fcd1a65f914f4fd1077b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/strumica/",
+      "id": "C4062",
+      "checked_at_utc": "2026-11-08T02:00:12.843611+00:00",
+      "status": 200,
+      "bytes": 80658,
+      "sha256": "6b83373369c9aff4698ebfe72c6e06d025c10e6bde28d757cc37d37084f5bc1c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sucre/",
+      "id": "C4063",
+      "checked_at_utc": "2026-11-08T02:00:12.788770+00:00",
+      "status": 200,
+      "bytes": 74264,
+      "sha256": "71171cc72e5183a896f17054bc76868cf8462d8aae1aa704cd461a49a08ac174"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sulaymaniyah/",
+      "id": "C4064",
+      "checked_at_utc": "2026-11-08T02:00:12.785650+00:00",
+      "status": 200,
+      "bytes": 67798,
+      "sha256": "e43d8c0106cf93b4969ec49135f855a250a7637085538c7203469c7662578ea0"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sunwal/",
+      "id": "C4065",
+      "checked_at_utc": "2026-11-08T02:00:12.515275+00:00",
+      "status": 200,
+      "bytes": 74783,
+      "sha256": "9351351d96f9a9251c524ab36746795a468fbfa9c60d64c5e97d9c28172ba8c4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/surabaya/",
+      "id": "C4066",
+      "checked_at_utc": "2026-11-08T02:00:12.248211+00:00",
+      "status": 200,
+      "bytes": 78547,
+      "sha256": "ce6aee392dd875ac32ed3eabde46aec5ec9c29c08cb0cc0a4e7f44e6b5804afe"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/surat/",
+      "id": "C4067",
+      "checked_at_utc": "2026-11-08T02:00:12.156900+00:00",
+      "status": 200,
+      "bytes": 70462,
+      "sha256": "1b72eff31f0b4e7ff20645897d744de7e0b093b9cbfef832d799f0c4b0fe3327"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sydney/",
+      "id": "C4068",
+      "checked_at_utc": "2026-11-08T02:00:13.146053+00:00",
+      "status": 200,
+      "bytes": 73022,
+      "sha256": "a310cfacfac697ccf9602dd2e7835ba41645ae81db78a3166771e6fc97ece155"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sylhet/",
+      "id": "C4069",
+      "checked_at_utc": "2026-11-08T02:00:11.523284+00:00",
+      "status": 200,
+      "bytes": 77962,
+      "sha256": "b9fb8952c0e0aa7c7a144f4f00b70620a6727e46945bfee82e3ab7155e2bc1f6"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tabora/",
+      "id": "C4070",
+      "checked_at_utc": "2026-11-08T02:00:10.818216+00:00",
+      "status": 200,
+      "bytes": 70208,
+      "sha256": "a0fc56d583f76de1fca8de497254bdcfbb1cb3280288e1fb13707e7298f7d0c1"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tabuk/",
+      "id": "C4071",
+      "checked_at_utc": "2026-11-08T02:00:11.904432+00:00",
+      "status": 200,
+      "bytes": 73742,
+      "sha256": "0378d41db655941aaa17cb97f9dc174739f11cef4183829409c1de9d2a37e6d5"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/taichung/",
+      "id": "C4072",
+      "checked_at_utc": "2026-11-08T02:00:10.854180+00:00",
+      "status": 200,
+      "bytes": 93638,
+      "sha256": "d4014e3351c4e499ed7e604ebff94a6374481dd350b14e802c84a215c89e7ab2"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/taipei/",
+      "id": "C4073",
+      "checked_at_utc": "2026-11-08T02:00:10.586368+00:00",
+      "status": 200,
+      "bytes": 93892,
+      "sha256": "2b2c00510b774c61783d642dc74275b53abe2c7af7037e5ae630dc1e7042d16d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/takoradi/",
+      "id": "C4074",
+      "checked_at_utc": "2026-11-08T02:00:12.482190+00:00",
+      "status": 200,
+      "bytes": 75531,
+      "sha256": "b140adb9a4b92987a528cdb08dd1c79be10570f61c5cf58cf241dd3aabf6c6ec"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tallahassee/",
+      "id": "C4075",
+      "checked_at_utc": "2026-11-08T02:00:10.189563+00:00",
+      "status": 200,
+      "bytes": 72218,
+      "sha256": "d8d88c0c58f7654203c9d24b4dc4bec9688382345f054368cbad8277a522bed8"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tallinn/",
+      "id": "C4076",
+      "checked_at_utc": "2026-11-08T02:00:09.961212+00:00",
+      "status": 200,
+      "bytes": 68797,
+      "sha256": "004217d2b026d8b62d87d8a666f16f8ee3970d10844b2ae1ab697236b6fba823"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tampa/",
+      "id": "C4077",
+      "checked_at_utc": "2026-11-08T02:00:10.870847+00:00",
+      "status": 200,
+      "bytes": 72102,
+      "sha256": "8f42f459fca6c17f57a5e721302c1802f1b85221fceb76c892564009dde2e1f4"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tangier/",
+      "id": "C4078",
+      "checked_at_utc": "2026-11-08T02:00:09.847660+00:00",
+      "status": 200,
+      "bytes": 92386,
+      "sha256": "cd067aba3e348bc2efb2596a7d88569c959444afcd3d44001566a8e0e79f4adc"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/taroudant/",
+      "id": "C4079",
+      "checked_at_utc": "2026-11-08T02:00:09.359806+00:00",
+      "status": 200,
+      "bytes": 70533,
+      "sha256": "56b851d65509e72e7cb57fb1a7e351851585916afb43101e3fc0e4b970d777fb"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tashkent/",
+      "id": "C4080",
+      "checked_at_utc": "2026-11-08T02:00:10.148401+00:00",
+      "status": 200,
+      "bytes": 69393,
+      "sha256": "bbc9e03ef1317c4ce2df4e91b69a7f38b29729b840d3ab1857323e8188e57463"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tbilisi/",
+      "id": "C4081",
+      "checked_at_utc": "2026-11-08T02:00:09.251704+00:00",
+      "status": 200,
+      "bytes": 68743,
+      "sha256": "9ae7c39b28d9dab028b3af2ff6d94f2292f8910a56295a89c1587c53a851136d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tegucigalpa/",
+      "id": "C4082",
+      "checked_at_utc": "2026-11-08T01:57:40.166822+00:00",
+      "status": 200,
+      "bytes": 80454,
+      "sha256": "da995eaed2cbe09a4307dc98168fa61af479650986813801bd6cca3df3ee92bb"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tel-aviv/",
+      "id": "C4083",
+      "checked_at_utc": "2026-11-08T02:00:08.774178+00:00",
+      "status": 200,
+      "bytes": 79002,
+      "sha256": "c08927a6bb4bce040e60b7c1cfc7f7dc5f5a8d5e0bcd4e317b1878c3b95e85e7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/temecula/",
+      "id": "C4084",
+      "checked_at_utc": "2026-11-08T02:00:09.601527+00:00",
+      "status": 200,
+      "bytes": 71934,
+      "sha256": "b19f35e707eace87cf37becd9ad461327b344254ad57ab926008ea4b437ad8cd"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/temuco/",
+      "id": "C4085",
+      "checked_at_utc": "2026-11-08T02:00:08.468010+00:00",
+      "status": 200,
+      "bytes": 75388,
+      "sha256": "f269eabd9d8046463569084be0d46146a13917d66ca4fb26fc0c7bae7d33d983"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/thane/",
+      "id": "C4086",
+      "checked_at_utc": "2026-11-08T02:00:08.535242+00:00",
+      "status": 200,
+      "bytes": 69544,
+      "sha256": "0abe0b710728e493fb7b14f09c3c8aba4ff0f8288f876fbae2cf241bae9bf29c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/thessaloniki/",
+      "id": "C4087",
+      "checked_at_utc": "2026-11-08T02:00:07.974165+00:00",
+      "status": 200,
+      "bytes": 74582,
+      "sha256": "2101618de17358298bf8fb471663417ea16806d8bbf78cbaf66539f57e1c051b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/thrissur/",
+      "id": "C4088",
+      "checked_at_utc": "2026-11-08T02:00:07.833230+00:00",
+      "status": 200,
+      "bytes": 81465,
+      "sha256": "f2a223a790cd1f514fd98d896648f5226994f5e26be4d379e4ca3215e13c8716"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tigbo-ilu/",
+      "id": "C4089",
+      "checked_at_utc": "2026-11-08T02:00:07.834812+00:00",
+      "status": 200,
+      "bytes": 75046,
+      "sha256": "fe3d3a3df87f20385384327893716f6ae5968fc6f7c926c64d5d9f23ae0d668c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tijuana/",
+      "id": "C4090",
+      "checked_at_utc": "2026-11-08T01:57:38.802542+00:00",
+      "status": 200,
+      "bytes": 78168,
+      "sha256": "69c8a8f7c9306b7e95811df54ef85df4bf249ad62d81dce7c7f9eeff2f674414"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tirana/",
+      "id": "C4091",
+      "checked_at_utc": "2026-11-08T02:00:07.198438+00:00",
+      "status": 200,
+      "bytes": 69886,
+      "sha256": "cf1e837960ff35dc943c0cb94cd500224250ce8c7ba57f2e600d18426b69782a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tlaxcala-city/",
+      "id": "C4092",
+      "checked_at_utc": "2026-11-08T01:57:38.728568+00:00",
+      "status": 200,
+      "bytes": 69564,
+      "sha256": "b171e69bf61c9bbf4c3d1a8b5b19b793d5afa988ef7e153d83aec42bdb83ccef"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tokyo/",
+      "id": "C4093",
+      "checked_at_utc": "2026-11-08T02:00:10.201351+00:00",
+      "status": 200,
+      "bytes": 68546,
+      "sha256": "c5ea373c78df5184470e167de91f7c2784765b78bfbc76fd78f91aa44d1af944"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/topi/",
+      "id": "C4094",
+      "checked_at_utc": "2026-11-08T02:00:08.160921+00:00",
+      "status": 200,
+      "bytes": 71470,
+      "sha256": "eba220c5677a863385b44b9922d285d3eade301b96ba8ffa1ce0c091c79840f5"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/toronto/",
+      "id": "C4095",
+      "checked_at_utc": "2026-11-08T02:00:07.162923+00:00",
+      "status": 200,
+      "bytes": 74551,
+      "sha256": "7fd5ee31a0366930cc04fecdd14694c960474efa7a443326121cf22115fe6959"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/toulouse/",
+      "id": "C4096",
+      "checked_at_utc": "2026-11-08T02:00:08.633762+00:00",
+      "status": 200,
+      "bytes": 73155,
+      "sha256": "19e9b8a6dac760b4cfb02911f4ce8927f154ffb4e1634363db5d7d547995062e"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/trelawny/",
+      "id": "C4097",
+      "checked_at_utc": "2026-11-08T02:00:06.620726+00:00",
+      "status": 200,
+      "bytes": 74828,
+      "sha256": "b32304b65bd6bfd3d7493aa699a13fea3a34c59fca2a104d29502ac92fadbf0d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tripoli-lebanon/",
+      "id": "C4098",
+      "checked_at_utc": "2026-11-08T02:00:06.510844+00:00",
+      "status": 200,
+      "bytes": 69290,
+      "sha256": "2421e5aabdfb2a73969e059cee3b3e8ae9aa90e533b40c9d13d884ca2904feec"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/trivandrum/",
+      "id": "C4099",
+      "checked_at_utc": "2026-11-08T02:00:06.577960+00:00",
+      "status": 200,
+      "bytes": 81526,
+      "sha256": "29937ffd916dbcbb2fe46622d7825145d334fa0ec1c13a493a8bc709257d941b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/trujillo/",
+      "id": "C4100",
+      "checked_at_utc": "2026-11-08T02:00:05.948243+00:00",
+      "status": 200,
+      "bytes": 83031,
+      "sha256": "8b13438b44b62a19b51f2fa386aae12e577aa4ce3c08512be6f8b2bfb4c0a7da"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tumakuru/",
+      "id": "C4101",
+      "checked_at_utc": "2026-11-08T02:00:05.818051+00:00",
+      "status": 200,
+      "bytes": 67038,
+      "sha256": "354071eaa9a00f5dfdea70fc7d4cdd6c34e5b395d6a8c0650738be2995d92bad"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tunis/",
+      "id": "C4102",
+      "checked_at_utc": "2026-11-08T02:00:05.758300+00:00",
+      "status": 200,
+      "bytes": 77776,
+      "sha256": "888571b98c99b982af6c48595ebae1ebde71834948d87f4ac1553e559c90c025"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/turin/",
+      "id": "C4103",
+      "checked_at_utc": "2026-11-08T02:00:06.573601+00:00",
+      "status": 200,
+      "bytes": 77351,
+      "sha256": "6f59cb35d982fa2d94f0e2adaf116203dfe8d881d00a7c6454b3d40358156962"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/tuxtla-gutierrez/",
+      "id": "C4104",
+      "checked_at_utc": "2026-11-08T01:57:38.721487+00:00",
+      "status": 200,
+      "bytes": 80164,
+      "sha256": "39fab6d57844a6a4cf2a7631ad3852c3d7e256aeaa2d50d072d1d0e2e02b17fa"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/uberlandia/",
+      "id": "C4105",
+      "checked_at_utc": "2026-11-08T02:00:07.348265+00:00",
+      "status": 200,
+      "bytes": 88042,
+      "sha256": "0eafc475ef4239479eadf7d527778d9dac47b00d644cbc1a2a87563f39138e8a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/ulaanbaatar/",
+      "id": "C4106",
+      "checked_at_utc": "2026-11-08T02:00:05.181016+00:00",
+      "status": 200,
+      "bytes": 71148,
+      "sha256": "0a313844fc75bbcf6d427d713a849af51555f617deadcf2ffa26c444bb6c6f8f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/umm-al-quwain/",
+      "id": "C4107",
+      "checked_at_utc": "2026-11-08T02:00:05.102288+00:00",
+      "status": 200,
+      "bytes": 90914,
+      "sha256": "cde75a97bd2d1c275e2597d021d783fe81158e3c2adbacceec724e85ff8fb66c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/universal-event/",
+      "id": "C3115",
+      "checked_at_utc": "2026-11-08T02:01:38.810644+00:00",
+      "status": 200,
+      "bytes": 73837,
+      "sha256": "8744a9cc5eaf71fe133f04067041f5498975ed2912c3fb667ebdfe5ad64a225b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/uralsk/",
+      "id": "C4108",
+      "checked_at_utc": "2026-11-08T02:00:05.948331+00:00",
+      "status": 200,
+      "bytes": 82707,
+      "sha256": "43d9c772cce971dd4cc16b8651fa47391c7cf0dd0631788ee67a1ca3a78de327"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/vaasa/",
+      "id": "C4109",
+      "checked_at_utc": "2026-11-08T02:00:04.728901+00:00",
+      "status": 200,
+      "bytes": 68363,
+      "sha256": "1feec5d696b383d8374e129d9aca3923ec1e824b3538a2785be0617593b6b6cd"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/valencia/",
+      "id": "C4110",
+      "checked_at_utc": "2026-11-08T02:00:04.528712+00:00",
+      "status": 200,
+      "bytes": 78790,
+      "sha256": "6049638e4476f4e08502fbb503f1366610f9ec9813e35e54d329c62df50d004f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/valencia-city/",
+      "id": "C4111",
+      "checked_at_utc": "2026-11-08T02:00:04.464517+00:00",
+      "status": 200,
+      "bytes": 79464,
+      "sha256": "c7e506e242d1f5cd3a4d26550c114fa7540a439f76ff9fba8bd69735b8f1e3c7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/valparaiso/",
+      "id": "C4112",
+      "checked_at_utc": "2026-11-08T02:00:04.885098+00:00",
+      "status": 200,
+      "bytes": 74537,
+      "sha256": "fce106dd7b32354eb9dfdd2322c49a7968b82e88c629fc026bc0196a67d1f19d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/van/",
+      "id": "C4113",
+      "checked_at_utc": "2026-11-08T02:00:03.806797+00:00",
+      "status": 200,
+      "bytes": 77400,
+      "sha256": "eec0ba14c0e580bbfe4e8ed4464540dbdfe58df17b9e42166a6dff5dc540afcf"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/vancouver/",
+      "id": "C4114",
+      "checked_at_utc": "2026-11-08T02:00:03.806959+00:00",
+      "status": 200,
+      "bytes": 71198,
+      "sha256": "c913012b8602b7e8bedf7a3748de817d38fb331cdcf8f6515bf7caa44ed10d39"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/vapi/",
+      "id": "C4115",
+      "checked_at_utc": "2026-11-08T02:00:03.246190+00:00",
+      "status": 200,
+      "bytes": 72940,
+      "sha256": "8bc87fcca411dc17105b99567b9da907304203eb224b679dd8bc7dc5b3d0449f"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/vatican-city/",
+      "id": "C4116",
+      "checked_at_utc": "2026-11-08T02:00:04.177352+00:00",
+      "status": 200,
+      "bytes": 85418,
+      "sha256": "23dbbfb8d9b4db9a71fb8173e9cd52b92014db8d02a36d07f3c5ef9cf93bd809"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/vienna/",
+      "id": "C4117",
+      "checked_at_utc": "2026-11-08T02:00:04.092489+00:00",
+      "status": 200,
+      "bytes": 73314,
+      "sha256": "ca94267b2810e86c81c60636c4c29e6998b0120d78c5bf62acb850205352c32b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/vilhena/",
+      "id": "C4118",
+      "checked_at_utc": "2026-11-08T02:00:03.062144+00:00",
+      "status": 200,
+      "bytes": 73470,
+      "sha256": "83c61071dbd5173c730d024fa37b88a5a58f33eca05dc1707f2ed0d684b3bf2d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/villavicencio/",
+      "id": "C4119",
+      "checked_at_utc": "2026-11-08T02:00:04.976393+00:00",
+      "status": 200,
+      "bytes": 75975,
+      "sha256": "e3656e82f910cc8b688f201d2b442cb189d0c79d07e76bc5d09fafc804512055"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/vilnius/",
+      "id": "C4120",
+      "checked_at_utc": "2026-11-08T02:00:03.049068+00:00",
+      "status": 200,
+      "bytes": 77350,
+      "sha256": "6352eec637451c06273999db953e7b277ed33713e97dc13f25dcf49477edaf5d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/virudhunagar/",
+      "id": "C4121",
+      "checked_at_utc": "2026-11-08T02:00:02.441822+00:00",
+      "status": 200,
+      "bytes": 71191,
+      "sha256": "27e16e41ef43fcae294238eed8a1b701fbe08fb01e739fc8f25de251ced380f7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/visakhapatnam/",
+      "id": "C4122",
+      "checked_at_utc": "2026-11-08T02:00:02.441941+00:00",
+      "status": 200,
+      "bytes": 72142,
+      "sha256": "629ac83867f9dda81a2afbaa19b7b567e116c704e8b216e2a1ba9923ec5cf039"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/vitoria-da-conquista/",
+      "id": "C4123",
+      "checked_at_utc": "2026-11-08T02:00:02.368262+00:00",
+      "status": 200,
+      "bytes": 70611,
+      "sha256": "cf32f1fcef4a76b209f76ef9debf89deb034be10bbd605539d376e129bcefb68"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/warangal/",
+      "id": "C4124",
+      "checked_at_utc": "2026-11-08T02:00:02.295058+00:00",
+      "status": 200,
+      "bytes": 73779,
+      "sha256": "83efa008dbaaa89f9dba0ebc13e320087bf3a0cd67e1c8f91cae712f8fdcb51c"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/windsor/",
+      "id": "C4125",
+      "checked_at_utc": "2026-11-08T02:00:02.371231+00:00",
+      "status": 200,
+      "bytes": 72879,
+      "sha256": "90442bea0447eeaf14b6a82f0770fa4a973734b1214964a071100663b2113e96"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/xalapa/",
+      "id": "C4126",
+      "checked_at_utc": "2026-11-08T01:57:38.749378+00:00",
+      "status": 200,
+      "bytes": 77707,
+      "sha256": "b86e3988b9b30f4d28a5f7a1563efff9df66c9150181ea83be1fda48709c12e0"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/yalova/",
+      "id": "C4127",
+      "checked_at_utc": "2026-11-08T02:00:01.679520+00:00",
+      "status": 200,
+      "bytes": 84800,
+      "sha256": "52a04857cb412a7cc14119e434639b2c9011f092762e9d959656824bacc2d536"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/yangon/",
+      "id": "C4128",
+      "checked_at_utc": "2026-11-08T02:00:01.654443+00:00",
+      "status": 200,
+      "bytes": 76214,
+      "sha256": "5b270cf11b80c130ebaded53612cab81b2a9f1a47861a8cd04baf10ebd3eb0b7"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/yaounde/",
+      "id": "C4129",
+      "checked_at_utc": "2026-11-08T02:00:02.568023+00:00",
+      "status": 200,
+      "bytes": 91940,
+      "sha256": "ac2839cdd3059b0d3b2a88402352f474cfac559005c107e967f131e26f841cec"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/yerevan/",
+      "id": "C4130",
+      "checked_at_utc": "2026-11-08T02:00:01.544952+00:00",
+      "status": 200,
+      "bytes": 72044,
+      "sha256": "ed5ad4b30eb9292534ece6b610da8009a080731aa77a1401e53aeeb4ce0ce625"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/yogyakarta/",
+      "id": "C4131",
+      "checked_at_utc": "2026-11-08T02:00:01.634912+00:00",
+      "status": 200,
+      "bytes": 87648,
+      "sha256": "2dd2a0af9998eaea75677f5e0d8124bf2a6148aa91c4fc9a5f49d1bada18f41d"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/yonkers/",
+      "id": "C4132",
+      "checked_at_utc": "2026-11-08T02:00:01.624871+00:00",
+      "status": 200,
+      "bytes": 119911,
+      "sha256": "b57d307c628bfdcd369558d067d37ec09171f0329d48bd25f0a91f0fff5d046a"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/zacatepec/",
+      "id": "C4133",
+      "checked_at_utc": "2026-11-08T01:57:38.784750+00:00",
+      "status": 200,
+      "bytes": 72202,
+      "sha256": "60f37476fa930443235f2d3f6ed9ac79a67e5fe269a06cf5018e2b6a40a55470"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/zagazig/",
+      "id": "C4134",
+      "checked_at_utc": "2026-11-08T02:00:00.895740+00:00",
+      "status": 200,
+      "bytes": 69716,
+      "sha256": "180fdff1942c1bf55643a431295dd76797f8088cfcfd263a08e9e57a82390ff1"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/zaragoza/",
+      "id": "C4135",
+      "checked_at_utc": "2026-11-08T02:00:00.881557+00:00",
+      "status": 200,
+      "bytes": 71832,
+      "sha256": "4cfb389f47f5bee261a90a77e190ba68b83d7f9f7436a8be29678d3dc075a18b"
+    },
+    {
+      "url": "https://www.spaceappschallenge.org/2026/local-events/zugdidi/",
+      "id": "C4136",
+      "checked_at_utc": "2026-11-08T02:00:00.953482+00:00",
+      "status": 200,
+      "bytes": 68827,
+      "sha256": "4eefd78ee76dec6d521e8bc241314e7c7ff292bf6281241bcb961f9e47c6ca43"
+    }
+  ],
+  "additional_primary_sources": [
+    "https://tec.ac.cr/space-apps-cartago",
+    "https://www.spaceappschallengevaticancity.com/events.php",
+    "https://gr.nss.org/",
+    "https://www.spaceappschallenge.org/legal/",
+    "https://www.spaceappschallenge.org/2026/",
+    "https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/"
+  ]
+}

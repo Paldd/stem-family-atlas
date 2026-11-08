@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 8842; competiciones: 3544; eventos: 481; campamentos / programas: 4817. Perfiles de ligas y programas: 288. Fichas de exposiciones grandes y especializadas: 384 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 9434; competiciones: 4136; eventos: 481; campamentos / programas: 4817. Perfiles de ligas y programas: 288. Fichas de exposiciones grandes y especializadas: 384 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros específicos para 207 de 249 países y territorios; países auditados por completo: 0. Revisión archivada v51: se añadieron fichas 21 y perfiles 3. Se conservaron todas las fichas previas.
+Hay registros para 208 de 249 países y territorios; países con auditoría completa: 0. En la revisión archivada v51 se añadieron 21 fichas y 3 perfiles. Se conservaron todas las fichas anteriores.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 37 | 1532 | 85 | 1224 |
-| América del Sur | 13 | 298 | 32 | 198 |
-| Europa | 49 | 449 | 94 | 1398 |
-| África | 47 | 144 | 27 | 78 |
-| Asia | 48 | 865 | 117 | 1580 |
-| Oceanía | 15 | 140 | 27 | 326 |
+| América del Norte | 37 | 1639 | 85 | 1224 |
+| América del Sur | 13 | 410 | 32 | 198 |
+| Europa | 50 | 514 | 94 | 1398 |
+| África | 47 | 223 | 27 | 78 |
+| Asia | 48 | 1089 | 117 | 1580 |
+| Oceanía | 15 | 145 | 27 | 326 |
 
 Fichas interregionales o globales sin continente único: 136. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y la cobertura completa sigue pendiente.
 
-VEX: 522 de 3544 fichas de competición (14.7%). La cobertura está sesgada hacia VEX.
+VEX: 522 de 4136 fichas de competición (12.6%). La cobertura está sesgada hacia VEX.
 
 ## Lo que queda
 
@@ -98,14 +98,14 @@ VEX: 522 de 3544 fichas de competición (14.7%). La cobertura está sesgada haci
 - **VEX Robotics**: 522 fichas, 421 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexrobotics.com/official-path
 - **RoboCupJunior**: 7 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://junior.robocup.org/
 - **MakeX**: 19 fichas, 11 con fechas futuras exactas. Hay perfil y fichas; cobertura local parcial. https://www.makex.cc/en/2026-makex
-- **RECF Robotics**. 624 fichas, 527 con fechas futuras exactas. Hay perfil y fichas con cobertura local parcial. https://recf.org/teams/recf-robotics-competition/
-- **RECF Aerial Drone**: 204 fichas, 174 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://recf.org/teams/competition/aerial-drone-competition/
+- **RECF Robotics**: 624 fichas, 522 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://recf.org/teams/recf-robotics-competition/
+- **RECF Aerial Drone**: 204 fichas, 167 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://recf.org/teams/competition/aerial-drone-competition/
 - **WER**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.wermexico.com/competencia
 - **RoboMatrix / Infomatrix**: 59 fichas, 28 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robomatrix.org/
 - **RoboRAVE**: 20 fichas, 18 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.roboraveinternational.org/eventos
 - **Robofest · LTU**: 16 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofest.net/index.php/current-competitions/main-page
 - **Robotex International**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robotex.international/lego-sumo
-- **RobotChallenge**: 17 fichas, 13 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robotchallenge.org.cn/competition-RobotSumo.html
+- **RobotChallenge**: 17 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robotchallenge.org.cn/competition-RobotSumo.html
 - **ENJOY AI**: 5 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.enjoyaiglobal.org/
 - **Junior Botball Challenge**: 3 fichas, 2 con fechas futuras exactas. Hay perfil y fichas; cobertura local parcial. https://www.kipr.org/junior-botball-challenge
 - **International Robot Olympiad**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.iroc.org/home?l=ko&s=10280
@@ -274,17 +274,17 @@ VEX: 522 de 3544 fichas de competición (14.7%). La cobertura está sesgada haci
 - **WRO Syria · DCA**: 8 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://sana.sy/education/2550170/
 - **FIRST Israel · local junior programmes**: 12 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstisrael.org.il/fll/challenge/2026-10-29
 - **WRO Lebanon · MindPower**: 9 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://mindpowerlb.com/wro-2026/
-- **WRO Panamá - temporada 2027 y ruta nacional**: 23 tarjetas, 15 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://wropanama.com/temporada
+- **WRO Panamá - 2027 y ruta nacional**: 23 fichas, 13 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wropanama.com/temporada
 - **WRO Guatemala · STEAM Group / UVG**: 2 tarjetas, 0 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://noticias.uvg.edu.gt/uvg-steam-group-final-nacional-robotica-wro-2026/
 - **WRO Colombia · Fundación Conecta +**: 1 tarjeta, 0 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://wrocolombia.org/
-- **RECF Achieve · Pinnacle**. 356 fichas, 305 con fechas futuras exactas. Hay perfil y fichas con cobertura local parcial. https://recf.org/teams/recf-robotics-competition/
+- **RECF Achieve · Pinnacle**: 356 fichas, 300 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://recf.org/teams/recf-robotics-competition/
 - **RECF Inspire · Pinnacle**: 9 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://games.recf.org/inspire/2.0
 - **RECF ADC Pro · Off Grid**: 28 fichas, 22 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://games.recf.org/pro/2.0
 - **RECF Launch · Crossfield**: 0 fichas, 0 con fechas futuras precisas. sólo el perfil; no se ha añadido el calendario de etapas. https://games.recf.org/launch-robotics/1.1
 - **International Scratch Creative Programming Olympiad**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://creativeprogramming.org/
 - **Brainiacs · Robotics**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.brainiacsolympiad.com/en/olympiads/robotics
 - **STEMATHLON Greece 2027**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://portal.stem.edu.gr/en/contests/
-- **NASA Space Apps Challenge**: 7 fichas, 7 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.spaceappschallenge.org/2026/
+- **NASA Space Apps Challenge**: 601 fichas, 31 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.spaceappschallenge.org/2026/
 - **OICC · Olimpiada de Informática**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.oicc-oficial.org/inicio
 - **PRONAFECYT · Costa Rica**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.mep.go.cr/noticias/calendario-escolar-2027-clases-1o-marzo-30-noviembre
 - **Eurobot Spain · Junior / Novel**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.eurobot.es/inscripcion-de-equipo/
@@ -292,8 +292,8 @@ VEX: 522 de 3544 fichas de competición (14.7%). La cobertura está sesgada haci
 - **RoboCup Korea Open · RCJ / RCAP / Basic**: 9 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robocupkorea.org/notices/40bb8588-54e0-81a0-9c14-c54109c9dd97
 - **ENJOY AI Korea**: 11 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://enjoyaikorea.org/en
 - **World Robot Contest Malaysia · IntelekEDU**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://intelek.edu.my/competitions/
-- **FIRST LEGO League UAE · BIOGLOW Founders 2026/27**: 11 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.flluae.org/
-- **AstanaTechCup · Kazakhstan 2027**: 7 fichas, 7 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://astanatechcup.kz/ru
+- **FIRST LEGO League UAE · BIOGLOW Founders 2026/27**: 11 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.flluae.org/
+- **AstanaTechCup · Kazakhstan 2027**: 7 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://astanatechcup.kz/ru
 - **HERO Challenge · Explorer / Pro**: 6 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://hero-challenge.org/events
 - **FIRST LEGO League Colombia · BIOGLOW Founders**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://unno.uniminuto.edu/bioglow/
 - **Chaski Bots LAB · Ecuador**: 10 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
@@ -345,7 +345,7 @@ VEX: 522 de 3544 fichas de competición (14.7%). La cobertura está sesgada haci
 - **BETA Hack · Bahamas**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wearebeta.co/beta-hack/
 - **FIRST LEGO League · Belize**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.bhsbes.edu.bz/robotics
 - **Moonhack · Code Club Australia**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://moonhack.com/
-- **YAI Singapore · Youth AI Hackathon**: 2 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://yai.sg/
+- **YAI Singapore · Youth AI Hackathon**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://yai.sg/
 - **Youth AI Coding · English / Chinese groups**: 6 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.wikkotech.com/airace/
 - **CodeFest · AI Games / Web**: 3 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.codefest.sg/
 - **WHRO Great Computer Challenge**: 2 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://education.whro.org/great-computer-challenge
@@ -360,13 +360,13 @@ VEX: 522 de 3544 fichas de competición (14.7%). La cobertura está sesgada haci
 - **FIRST New Zealand · Challenge**: 5 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstnz.org/challenge
 - **RoboCupJunior New Zealand · MOI**: 8 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://ministryofinspiration.org/robocup-jr-categories/
 - **NZ AquaBots · regional to national**: 3 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://ministryofinspiration.org/nz-aquabots-nationals/
-- **TechFest Australia · provisional watch**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://techfestaustralia.com.au/
+- **TechFest Australia · provisional watch**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://techfestaustralia.com.au/
 - **FIRST Australia · Asia Pacific Open**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstaustralia.org/first-lego-league-apoc
-- **WRO Kuwait**: 4 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-kuwait.org/
-- **Kuwait National Robotics Competition**: 9 fichas, 8 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://theknrc.com/
+- **WRO Kuwait**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-kuwait.org/
+- **Kuwait National Robotics Competition**: 9 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://theknrc.com/
 - **WRO Bahrain · Britus programme watch**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://britus.edu.bh/world-robot-olympiad-2/
 - **FIRST Jordan · Jubilee calendar watch**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://jubilee.edu.jo/first-lego-league-institute/
-- **Tekwill Junior Ambassadors · Moldova**: 6 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://tja.md/
+- **Tekwill Junior Ambassadors · Moldova**: 6 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://tja.md/
 - **FIRST LEGO League · Moldova**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.clasaviitorului.md/finala-first-lego-league-challenge-moldova-2026-transform-chi-ul-n-capitala-inovatorilor-n-robotic/
 - **VEX Andorra · Open / national**: 4 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexandorra.com/
 - **WRO Andorra Telecom**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.loopa.ad/

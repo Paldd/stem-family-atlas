@@ -6,24 +6,24 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 8842; соревнований: 3544; событий: 481; лагерей / программ: 4817. Профилей лиг и программ: 288. Карточек крупных и профильных выставок: 384 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 9434; соревнований: 4136; событий: 481; лагерей / программ: 4817. Профилей лиг и программ: 288. Карточек крупных и профильных выставок: 384 — это издания и площадки, не число уникальных брендов.
 
-Конкретные записи есть для 207 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
+Конкретные записи есть для 208 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
 ## Охват по континентам
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 37 | 1532 | 85 | 1224 |
-| Южная Америка | 13 | 298 | 32 | 198 |
-| Европа | 49 | 449 | 94 | 1398 |
-| Африка | 47 | 144 | 27 | 78 |
-| Азия | 48 | 865 | 117 | 1580 |
-| Океания | 15 | 140 | 27 | 326 |
+| Северная Америка | 37 | 1639 | 85 | 1224 |
+| Южная Америка | 13 | 410 | 32 | 198 |
+| Европа | 50 | 514 | 94 | 1398 |
+| Африка | 47 | 223 | 27 | 78 |
+| Азия | 48 | 1089 | 117 | 1580 |
+| Океания | 15 | 145 | 27 | 326 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 136. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 522 из 3544 карточек соревнований (14.7%). Это явный перекос охвата.
+VEX: 522 из 4136 карточек соревнований (12.6%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -98,14 +98,14 @@ VEX: 522 из 3544 карточек соревнований (14.7%). Это я�
 - **VEX Robotics**: 522 карточек, 421 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.vexrobotics.com/official-path
 - **RoboCupJunior**: 7 карточек, 3 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://junior.robocup.org/
 - **MakeX**: 19 карточек, 11 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.makex.cc/en/2026-makex
-- **RECF Robotics**: 624 карточек, 527 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://recf.org/teams/recf-robotics-competition/
-- **RECF Aerial Drone**: 204 карточек, 174 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://recf.org/teams/competition/aerial-drone-competition/
+- **RECF Robotics**: 624 карточек, 522 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://recf.org/teams/recf-robotics-competition/
+- **RECF Aerial Drone**: 204 карточек, 167 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://recf.org/teams/competition/aerial-drone-competition/
 - **WER**: 3 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.wermexico.com/competencia
 - **RoboMatrix / Infomatrix**: 59 карточек, 28 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://robomatrix.org/
 - **RoboRAVE**: 20 карточек, 18 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.roboraveinternational.org/eventos
 - **Robofest · LTU**: 16 карточек, 11 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofest.net/index.php/current-competitions/main-page
 - **Robotex International**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://robotex.international/lego-sumo
-- **RobotChallenge**: 17 карточек, 13 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robotchallenge.org.cn/competition-RobotSumo.html
+- **RobotChallenge**: 17 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robotchallenge.org.cn/competition-RobotSumo.html
 - **ENJOY AI**: 5 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.enjoyaiglobal.org/
 - **Junior Botball Challenge**: 3 карточек, 2 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.kipr.org/junior-botball-challenge
 - **International Robot Olympiad**: 11 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.iroc.org/home?l=ko&s=10280
@@ -274,17 +274,17 @@ VEX: 522 из 3544 карточек соревнований (14.7%). Это я�
 - **WRO Syria · DCA**: 8 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://sana.sy/education/2550170/
 - **FIRST Israel · local junior programmes**: 12 карточек, 9 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://firstisrael.org.il/fll/challenge/2026-10-29
 - **WRO Lebanon · MindPower**: 9 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://mindpowerlb.com/wro-2026/
-- **WRO Panamá · сезон 2027 и национальный маршрут**: 23 карточек, 15 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wropanama.com/temporada
+- **WRO Panamá · сезон 2027 и национальный маршрут**: 23 карточек, 13 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wropanama.com/temporada
 - **WRO Guatemala · STEAM Group / UVG**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://noticias.uvg.edu.gt/uvg-steam-group-final-nacional-robotica-wro-2026/
 - **WRO Colombia · Fundación Conecta +**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wrocolombia.org/
-- **RECF Achieve · Pinnacle**: 356 карточек, 305 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://recf.org/teams/recf-robotics-competition/
+- **RECF Achieve · Pinnacle**: 356 карточек, 300 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://recf.org/teams/recf-robotics-competition/
 - **RECF Inspire · Pinnacle**: 9 карточек, 6 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://games.recf.org/inspire/2.0
 - **RECF ADC Pro · Off Grid**: 28 карточек, 22 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://games.recf.org/pro/2.0
 - **RECF Launch · Crossfield**: 0 карточек, 0 с будущими точными датами. Только профиль; календарь этапов не добавлен. https://games.recf.org/launch-robotics/1.1
 - **International Scratch Creative Programming Olympiad**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://creativeprogramming.org/
 - **Brainiacs · Robotics**: 5 карточек, 5 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.brainiacsolympiad.com/en/olympiads/robotics
 - **STEMATHLON Greece 2027**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://portal.stem.edu.gr/en/contests/
-- **NASA Space Apps Challenge**: 7 карточек, 7 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.spaceappschallenge.org/2026/
+- **NASA Space Apps Challenge**: 601 карточек, 31 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.spaceappschallenge.org/2026/
 - **OICC · Olimpiada de Informática**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.oicc-oficial.org/inicio
 - **PRONAFECYT · Costa Rica**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.mep.go.cr/noticias/calendario-escolar-2027-clases-1o-marzo-30-noviembre
 - **Eurobot Spain · Junior / Novel**: 3 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.eurobot.es/inscripcion-de-equipo/
@@ -292,8 +292,8 @@ VEX: 522 из 3544 карточек соревнований (14.7%). Это я�
 - **RoboCup Korea Open · RCJ / RCAP / Basic**: 9 карточек, 9 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://robocupkorea.org/notices/40bb8588-54e0-81a0-9c14-c54109c9dd97
 - **ENJOY AI Korea**: 11 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://enjoyaikorea.org/en
 - **World Robot Contest Malaysia · IntelekEDU**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://intelek.edu.my/competitions/
-- **FIRST LEGO League UAE · BIOGLOW Founders 2026/27**: 11 карточек, 9 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.flluae.org/
-- **AstanaTechCup · Kazakhstan 2027**: 7 карточек, 7 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://astanatechcup.kz/ru
+- **FIRST LEGO League UAE · BIOGLOW Founders 2026/27**: 11 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.flluae.org/
+- **AstanaTechCup · Kazakhstan 2027**: 7 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://astanatechcup.kz/ru
 - **HERO Challenge · Explorer / Pro**: 6 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://hero-challenge.org/events
 - **FIRST LEGO League Colombia · BIOGLOW Founders**: 4 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://unno.uniminuto.edu/bioglow/
 - **Chaski Bots LAB · Ecuador**: 10 карточек, 10 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://chaskibots.com/torneo-de-robotica-2026-el-chaco/
@@ -345,7 +345,7 @@ VEX: 522 из 3544 карточек соревнований (14.7%). Это я�
 - **BETA Hack · Bahamas**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wearebeta.co/beta-hack/
 - **FIRST LEGO League · Belize**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bhsbes.edu.bz/robotics
 - **Moonhack · Code Club Australia**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://moonhack.com/
-- **YAI Singapore · Youth AI Hackathon**: 2 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://yai.sg/
+- **YAI Singapore · Youth AI Hackathon**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://yai.sg/
 - **Youth AI Coding · English / Chinese groups**: 6 карточек, 2 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.wikkotech.com/airace/
 - **CodeFest · AI Games / Web**: 3 карточек, 2 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.codefest.sg/
 - **WHRO Great Computer Challenge**: 2 карточек, 2 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://education.whro.org/great-computer-challenge
@@ -360,13 +360,13 @@ VEX: 522 из 3544 карточек соревнований (14.7%). Это я�
 - **FIRST New Zealand · Challenge**: 5 карточек, 3 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.firstnz.org/challenge
 - **RoboCupJunior New Zealand · MOI**: 8 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://ministryofinspiration.org/robocup-jr-categories/
 - **NZ AquaBots · regional to national**: 3 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://ministryofinspiration.org/nz-aquabots-nationals/
-- **TechFest Australia · provisional watch**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://techfestaustralia.com.au/
+- **TechFest Australia · provisional watch**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://techfestaustralia.com.au/
 - **FIRST Australia · Asia Pacific Open**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.firstaustralia.org/first-lego-league-apoc
-- **WRO Kuwait**: 4 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wro-kuwait.org/
-- **Kuwait National Robotics Competition**: 9 карточек, 8 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://theknrc.com/
+- **WRO Kuwait**: 4 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wro-kuwait.org/
+- **Kuwait National Robotics Competition**: 9 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://theknrc.com/
 - **WRO Bahrain · Britus programme watch**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://britus.edu.bh/world-robot-olympiad-2/
 - **FIRST Jordan · Jubilee calendar watch**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://jubilee.edu.jo/first-lego-league-institute/
-- **Tekwill Junior Ambassadors · Moldova**: 6 карточек, 6 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://tja.md/
+- **Tekwill Junior Ambassadors · Moldova**: 6 карточек, 5 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://tja.md/
 - **FIRST LEGO League · Moldova**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.clasaviitorului.md/finala-first-lego-league-challenge-moldova-2026-transform-chi-ul-n-capitala-inovatorilor-n-robotic/
 - **VEX Andorra · Open / national**: 4 карточек, 2 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.vexandorra.com/
 - **WRO Andorra Telecom**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.loopa.ad/

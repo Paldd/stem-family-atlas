@@ -3678,14 +3678,14 @@ Se ha comprobado: 2026-11-07
 ### C3517 · NASA Space Apps Challenge 2026 · Sangolquí
 
 Fecha: 2026-11-14 — 2026-11-15
-edad: Sí por edad. Para menores se exige inscripción por progenitor o tutor y su presencia durante todo el evento.
-Matvey: Sí por edad. Para menores se exige inscripción por progenitor o tutor y su presencia durante todo el evento.
-Oscar: Sí por edad. Para menores se exige inscripción por progenitor o tutor y su presencia durante todo el evento.
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Sí por edad. Se exige inscripción y acompañamiento continuo de su representante legal.
+Oscar: Sí por edad. Se exige inscripción y acompañamiento continuo de su representante legal.
 Idioma: Colaboración local en español. Proyecto final y vídeo para el jurado global en inglés.
-Acceso: Inscripción individual o equipo de 1–6 personas. Elegir el evento local en la cuenta de NASA Space Apps.
-Precio: Gratuito.
-Limitaciones: Confirmar dirección final, horario y modalidad híbrida en el correo de la organización local.
-Fuente: https://www.spaceappschallenge.org/2026/local-events/sangolqui
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Participación gratuita según la organización local.
+Limitaciones: La ficha indica ESPE. Confirmar dirección definitiva y reglas de participación híbrida con la organización local.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/sangolqui/
 Se ha comprobado: 2026-11-07
 
 ### C3518 · Campanil Challenge 2026 · Sumo Bot Open
@@ -4024,6 +4024,1462 @@ Acceso: Confirmar edad y acceso con la organización.
 Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
 Limitaciones:
 Fuente: https://drive.google.com/file/d/1X3Wpa97KHdHGjjGHTjC1l4aWZSr_9MlH/view
+Se ha comprobado: 2026-11-07
+
+### C3572 · NASA Space Apps Challenge 2026 · Andahuaylas
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La sede admite desde 12 años.
+Matvey: No. La edad mínima local es 12 años.
+Oscar: No. La edad mínima local es 12 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 100.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/andahuaylas/
+Se ha comprobado: 2026-11-07
+
+### C3575 · NASA Space Apps Challenge 2026 · Antofagasta
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La sede admite desde 13 años.
+Matvey: No. La edad mínima local es 13 años.
+Oscar: No. La edad mínima local es 13 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 60.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/antofagasta/
+Se ha comprobado: 2026-11-07
+
+### C3579 · NASA Space Apps Challenge 2026 · Aracaju
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 90.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/aracaju/
+Se ha comprobado: 2026-11-07
+
+### C3580 · NASA Space Apps Challenge 2026 · Arequipa
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. El registro en la plataforma está cerrado. Consultar el aviso de la organización local.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 400.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/arequipa/
+Se ha comprobado: 2026-11-07
+
+### C3586 · NASA Space Apps Challenge 2026 · Asunción
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límites publicados 60 presencial y 80 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/asuncion/
+Se ha comprobado: 2026-11-07
+
+### C3591 · NASA Space Apps Challenge 2026 · Ayacucho
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La sede admite desde 12 años.
+Matvey: No. La edad mínima local es 12 años.
+Oscar: No. La edad mínima local es 12 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 100.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/ayacucho/
+Se ha comprobado: 2026-11-07
+
+### C3596 · NASA Space Apps Challenge 2026 · Bahía Blanca
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La organización admite participantes mayores de 14 años.
+Matvey: No. La edad debe ser superior a 14 años.
+Oscar: No. La edad debe ser superior a 14 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Participación gratuita según la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 100.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/bahia-blanca/
+Se ha comprobado: 2026-11-07
+
+### C3598 · NASA Space Apps Challenge 2026 · balneário camboriú
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límites publicados 36 presencial y 36 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/balneario-camboriu/
+Se ha comprobado: 2026-11-07
+
+### C3609 · NASA Space Apps Challenge 2026 · Belém
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite virtual publicado 200.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/belem/
+Se ha comprobado: 2026-11-07
+
+### C3610 · NASA Space Apps Challenge 2026 · Belo Horizonte
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. El registro en la plataforma está cerrado. Consultar el aviso de la organización local.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 90.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/belo-horizonte/
+Se ha comprobado: 2026-11-07
+
+### C3613 · NASA Space Apps Challenge 2026 · Bento Gonçalves
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 30.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/bento-goncalves/
+Se ha comprobado: 2026-11-07
+
+### C3625 · NASA Space Apps Challenge 2026 · Boa Vista
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límites publicados 199 presencial y 999 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/boa-vista/
+Se ha comprobado: 2026-11-07
+
+### C3628 · NASA Space Apps Challenge 2026 · Bogotá
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 110.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/bogota/
+Se ha comprobado: 2026-11-07
+
+### C3629 · NASA Space Apps Challenge 2026 · Bosconia
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 150.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/bosconia/
+Se ha comprobado: 2026-11-07
+
+### C3632 · NASA Space Apps Challenge 2026 · Brasília
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 65.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/brasilia/
+Se ha comprobado: 2026-11-07
+
+### C3637 · NASA Space Apps Challenge 2026 · Buenos Aires
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: Trabajo principal el 14–15 de noviembre. El programa incluye encuentros introductorios y premios el 19 de noviembre.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/buenos-aires/
+Se ha comprobado: 2026-11-07
+
+### C3641 · NASA Space Apps Challenge 2026 · Cachipay
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: El bloque en español muestra 3–6 y 7–12 años. El bloque en inglés muestra 3–5 y 12–17. Las edades son contradictorias.
+Matvey: Condicional por edad. Las categorías en español e inglés difieren. La organización indica que las plazas están completas.
+Oscar: Condicional por edad. Las categorías en español e inglés difieren. La organización indica que las plazas están completas.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: La inscripción local indica plazas completas.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 60.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/cachipay/
+Se ha comprobado: 2026-11-07
+
+### C3643 · NASA Space Apps Challenge 2026 · Cajamarca
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 300 presencial y 201 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/cajamarca/
+Se ha comprobado: 2026-11-07
+
+### C3644 · NASA Space Apps Challenge 2026 · Caleta Olivia
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 400.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/caleta-olivia/
+Se ha comprobado: 2026-11-07
+
+### C3649 · NASA Space Apps Challenge 2026 · CAMPINA GRANDE
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 30 presencial y 70 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/campina-grande/
+Se ha comprobado: 2026-11-07
+
+### C3650 · NASA Space Apps Challenge 2026 · Campinas
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 800.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/campinas/
+Se ha comprobado: 2026-11-07
+
+### C3651 · NASA Space Apps Challenge 2026 · Campo Mourão
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 120.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/campo-mourao/
+Se ha comprobado: 2026-11-07
+
+### C3657 · NASA Space Apps Challenge 2026 · Catamarca
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 100.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/catamarca/
+Se ha comprobado: 2026-11-07
+
+### C3658 · NASA Space Apps Challenge 2026 · Cavalcante
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 20.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/cavalcante/
+Se ha comprobado: 2026-11-07
+
+### C3659 · NASA Space Apps Challenge 2026 · Caxias do Sul
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 100.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/caxias-do-sul/
+Se ha comprobado: 2026-11-07
+
+### C3660 · NASA Space Apps Challenge 2026 · Ceres
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 60.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/ceres/
+Se ha comprobado: 2026-11-07
+
+### C3665 · NASA Space Apps Challenge 2026 · Chia
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 174.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/chia/
+Se ha comprobado: 2026-11-07
+
+### C3667 · NASA Space Apps Challenge 2026 · Chiclayo
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 30 presencial y 350 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/chiclayo/
+Se ha comprobado: 2026-11-07
+
+### C3669 · NASA Space Apps Challenge 2026 · Chimbote
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 300.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/chimbote/
+Se ha comprobado: 2026-11-07
+
+### C3672 · NASA Space Apps Challenge 2026 · Cianorte
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 150.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/cianorte/
+Se ha comprobado: 2026-11-07
+
+### C3674 · NASA Space Apps Challenge 2026 · Ciudad de la Costa
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 400 presencial y 400 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/ciudad-de-la-costa/
+Se ha comprobado: 2026-11-07
+
+### C3675 · NASA Space Apps Challenge 2026 · Ciudad del Este
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 300 presencial y 400 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/ciudad-del-este/
+Se ha comprobado: 2026-11-07
+
+### C3680 · NASA Space Apps Challenge 2026 · Cochabamba
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límites publicados 360 presencial y 100 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/cochabamba/
+Se ha comprobado: 2026-11-07
+
+### C3684 · NASA Space Apps Challenge 2026 · Comodoro Rivadavia
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La sede admite desde 14 años.
+Matvey: No. La edad mínima local es 14 años.
+Oscar: No. La edad mínima local es 14 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 300 presencial y 150 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/comodoro-rivadavia/
+Se ha comprobado: 2026-11-07
+
+### C3686 · NASA Space Apps Challenge 2026 · Concepción
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La sede admite desde 13 años.
+Matvey: No. La edad mínima local es 13 años.
+Oscar: No. La edad mínima local es 13 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 100.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/concepcion/
+Se ha comprobado: 2026-11-07
+
+### C3687 · NASA Space Apps Challenge 2026 · Coracora
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 12 presencial y 30 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/coracora/
+Se ha comprobado: 2026-11-07
+
+### C3688 · NASA Space Apps Challenge 2026 · CORDOBA
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: La sede admite desde 13 años.
+Matvey: No. La edad mínima local es 13 años.
+Oscar: No. La edad mínima local es 13 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límites publicados 200 presencial y 100 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/cordoba/
+Se ha comprobado: 2026-11-07
+
+### C3693 · NASA Space Apps Challenge 2026 · Cucutá
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 376.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/cucuta/
+Se ha comprobado: 2026-11-07
+
+### C3694 · NASA Space Apps Challenge 2026 · Cuiaba
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 60.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/cuiaba/
+Se ha comprobado: 2026-11-07
+
+### C3696 · NASA Space Apps Challenge 2026 · Curitiba
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 350.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/curitiba/
+Se ha comprobado: 2026-11-07
+
+### C3711 · NASA Space Apps Challenge 2026 · Duitama
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 170 presencial y 50 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/duitama/
+Se ha comprobado: 2026-11-07
+
+### C3719 · NASA Space Apps Challenge 2026 · Encarnación
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 120.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/encarnacion/
+Se ha comprobado: 2026-11-07
+
+### C3723 · NASA Space Apps Challenge 2026 · Esmeraldas
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 50.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/esmeraldas/
+Se ha comprobado: 2026-11-07
+
+### C3726 · NASA Space Apps Challenge 2026 · Facatativa
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 325.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/facatativa/
+Se ha comprobado: 2026-11-07
+
+### C3729 · NASA Space Apps Challenge 2026 · Florianopolis
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 42 presencial y 42 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/florianopolis/
+Se ha comprobado: 2026-11-07
+
+### C3731 · NASA Space Apps Challenge 2026 · Fortaleza
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límites publicados 300 presencial y 100 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/fortaleza/
+Se ha comprobado: 2026-11-07
+
+### C3739 · NASA Space Apps Challenge 2026 · General San Martín
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Sí por edad. Se exige inscripción y acompañamiento continuo de su representante legal.
+Oscar: Sí por edad. Se exige inscripción y acompañamiento continuo de su representante legal.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 30 presencial y 50 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/general-san-martin/
+Se ha comprobado: 2026-11-07
+
+### C3745 · NASA Space Apps Challenge 2026 · Goiânia
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 400.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/goiania/
+Se ha comprobado: 2026-11-07
+
+### C3754 · NASA Space Apps Challenge 2026 · Guarulhos
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 300.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/guarulhos/
+Se ha comprobado: 2026-11-07
+
+### C3756 · NASA Space Apps Challenge 2026 · Guayaquil
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 144.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/guayaquil/
+Se ha comprobado: 2026-11-07
+
+### C3774 · NASA Space Apps Challenge 2026 · Huancayo
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La sede admite desde 12 años.
+Matvey: No. La edad mínima local es 12 años.
+Oscar: No. La edad mínima local es 12 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 180.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/huancayo/
+Se ha comprobado: 2026-11-07
+
+### C3775 · NASA Space Apps Challenge 2026 · Huánuco
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 200.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/huanuco/
+Se ha comprobado: 2026-11-07
+
+### C3781 · NASA Space Apps Challenge 2026 · Ica
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La sede admite desde 12 años.
+Matvey: No. La edad mínima local es 12 años.
+Oscar: No. La edad mínima local es 12 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 120.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/ica/
+Se ha comprobado: 2026-11-07
+
+### C3785 · NASA Space Apps Challenge 2026 · Ipiales
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite virtual publicado 500.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/ipiales/
+Se ha comprobado: 2026-11-07
+
+### C3791 · NASA Space Apps Challenge 2026 · Itabira
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 1000.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/itabira/
+Se ha comprobado: 2026-11-07
+
+### C3797 · NASA Space Apps Challenge 2026 · Jaguariúna
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 600.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/jaguariuna/
+Se ha comprobado: 2026-11-07
+
+### C3810 · NASA Space Apps Challenge 2026 · Juazeiro do Norte
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 300.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/juazeiro-do-norte/
+Se ha comprobado: 2026-11-07
+
+### C3847 · NASA Space Apps Challenge 2026 · La Paz, Bolivia
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 300.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/la-paz-bolivia/
+Se ha comprobado: 2026-11-07
+
+### C3852 · NASA Space Apps Challenge 2026 · Lajeado
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 150.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/lajeado/
+Se ha comprobado: 2026-11-07
+
+### C3854 · NASA Space Apps Challenge 2026 · Latacunga
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 300.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/latacunga/
+Se ha comprobado: 2026-11-07
+
+### C3858 · NASA Space Apps Challenge 2026 · Lima
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La sede admite desde 12 años.
+Matvey: No. La edad mínima local es 12 años.
+Oscar: No. La edad mínima local es 12 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 300 presencial y 450 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/lima/
+Se ha comprobado: 2026-11-07
+
+### C3860 · NASA Space Apps Challenge 2026 · Limeira
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 300.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/limeira/
+Se ha comprobado: 2026-11-07
+
+### C3865 · NASA Space Apps Challenge 2026 · Londrina
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 150.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/londrina/
+Se ha comprobado: 2026-11-07
+
+### C3883 · NASA Space Apps Challenge 2026 · Manaus
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 150 presencial y 150 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/manaus/
+Se ha comprobado: 2026-11-07
+
+### C3890 · NASA Space Apps Challenge 2026 · Medellín
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límites publicados 200 presencial y 250 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/medellin/
+Se ha comprobado: 2026-11-07
+
+### C3893 · NASA Space Apps Challenge 2026 · Mendoza
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La sede admite desde 13 años.
+Matvey: No. La edad mínima local es 13 años.
+Oscar: No. La edad mínima local es 13 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 200.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/mendoza/
+Se ha comprobado: 2026-11-07
+
+### C3907 · NASA Space Apps Challenge 2026 · Montevideo
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 600 presencial y 1000 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/montevideo/
+Se ha comprobado: 2026-11-07
+
+### C3910 · NASA Space Apps Challenge 2026 · Moquegua
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La sede admite desde 12 años.
+Matvey: No. La edad mínima local es 12 años.
+Oscar: No. La edad mínima local es 12 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 600.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/moquegua/
+Se ha comprobado: 2026-11-07
+
+### C3928 · NASA Space Apps Challenge 2026 · Neiva
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 300.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/neiva/
+Se ha comprobado: 2026-11-07
+
+### C3933 · NASA Space Apps Challenge 2026 · Nova Iguaçu
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 300.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/nova-iguacu/
+Se ha comprobado: 2026-11-07
+
+### C3942 · NASA Space Apps Challenge 2026 · Ouro Preto
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 65.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/ouro-preto/
+Se ha comprobado: 2026-11-07
+
+### C3956 · NASA Space Apps Challenge 2026 · PIURA
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La sede admite desde 12 años.
+Matvey: No. La edad mínima local es 12 años.
+Oscar: No. La edad mínima local es 12 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 400 presencial y 300 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/piura/
+Se ha comprobado: 2026-11-07
+
+### C3960 · NASA Space Apps Challenge 2026 · Popayán
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límites publicados 500 presencial y 499 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/popayan/
+Se ha comprobado: 2026-11-07
+
+### C3963 · NASA Space Apps Challenge 2026 · Pouso Alegre
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite virtual publicado 400.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/pouso-alegre/
+Se ha comprobado: 2026-11-07
+
+### C3969 · NASA Space Apps Challenge 2026 · Puerto Madryn
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 50 presencial y 100 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/puerto-madryn/
+Se ha comprobado: 2026-11-07
+
+### C3971 · NASA Space Apps Challenge 2026 · Punta Arenas
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La sede admite desde 13 años.
+Matvey: No. La edad mínima local es 13 años.
+Oscar: No. La edad mínima local es 13 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 35 presencial y 40 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/punta-arenas/
+Se ha comprobado: 2026-11-07
+
+### C3972 · NASA Space Apps Challenge 2026 · Punta del Este
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 150 presencial y 100 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/punta-del-este/
+Se ha comprobado: 2026-11-07
+
+### C3976 · NASA Space Apps Challenge 2026 · Quemchi
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límites publicados 60 presencial y 60 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/quemchi/
+Se ha comprobado: 2026-11-07
+
+### C3980 · NASA Space Apps Challenge 2026 · Quito
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 200 presencial y 200 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/quito/
+Se ha comprobado: 2026-11-07
+
+### C3981 · NASA Space Apps Challenge 2026 · Rafaela
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 40.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/rafaela/
+Se ha comprobado: 2026-11-07
+
+### C3989 · NASA Space Apps Challenge 2026 · Recife
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite virtual publicado 300.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/recife/
+Se ha comprobado: 2026-11-07
+
+### C3991 · NASA Space Apps Challenge 2026 · Ribeirao Preto
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 120.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/ribeirao-preto/
+Se ha comprobado: 2026-11-07
+
+### C3994 · NASA Space Apps Challenge 2026 · Rio Verde
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 50.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/rio-verde/
+Se ha comprobado: 2026-11-07
+
+### C3995 · NASA Space Apps Challenge 2026 · Riobamba
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La sede limita la participación a personas de 16 a 37 años.
+Matvey: No. La edad mínima local es 16 años.
+Oscar: No. La edad mínima local es 16 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 200.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/riobamba/
+Se ha comprobado: 2026-11-07
+
+### C3996 · NASA Space Apps Challenge 2026 · Rivera
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 250 presencial y 100 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/rivera/
+Se ha comprobado: 2026-11-07
+
+### C4001 · NASA Space Apps Challenge 2026 · Rosario
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 100.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/rosario/
+Se ha comprobado: 2026-11-07
+
+### C4009 · NASA Space Apps Challenge 2026 · Salta
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 150 presencial y 100 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/salta/
+Se ha comprobado: 2026-11-07
+
+### C4011 · NASA Space Apps Challenge 2026 · Salto
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 60 presencial y 120 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/salto/
+Se ha comprobado: 2026-11-07
+
+### C4012 · NASA Space Apps Challenge 2026 · Salvador
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 150.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/salvador/
+Se ha comprobado: 2026-11-07
+
+### C4017 · NASA Space Apps Challenge 2026 · San Juan, Argentina
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límites publicados 80 presencial y 50 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/san-juan-argentina/
+Se ha comprobado: 2026-11-07
+
+### C4018 · NASA Space Apps Challenge 2026 · San Luis
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 500.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/san-luis/
+Se ha comprobado: 2026-11-07
+
+### C4022 · NASA Space Apps Challenge 2026 · San Vicente de Cañete
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 700.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/san-vicente-de-canete/
+Se ha comprobado: 2026-11-07
+
+### C4024 · NASA Space Apps Challenge 2026 · San Vicente Ferrer
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 100 presencial y 50 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/san-vicente-ferrer/
+Se ha comprobado: 2026-11-07
+
+### C4026 · NASA Space Apps Challenge 2026 · Santa Cruz das Palmeiras
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 200.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/santa-cruz-das-palmeiras/
+Se ha comprobado: 2026-11-07
+
+### C4027 · NASA Space Apps Challenge 2026 · Santa Cruz de la Sierra
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 300.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/santa-cruz-de-la-sierra/
+Se ha comprobado: 2026-11-07
+
+### C4028 · NASA Space Apps Challenge 2026 · Santa Rosa de Calamuchita
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La organización admite participantes mayores de 12 años.
+Matvey: No. La edad debe ser superior a 12 años.
+Oscar: No. La edad debe ser superior a 12 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Participación gratuita según la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 200 presencial y 200 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/santa-rosa-de-calamuchita/
+Se ha comprobado: 2026-11-07
+
+### C4029 · NASA Space Apps Challenge 2026 · Santiago, Chile
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La sede admite desde 13 años.
+Matvey: No. La edad mínima local es 13 años.
+Oscar: No. La edad mínima local es 13 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 226.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/santiago-chile/
+Se ha comprobado: 2026-11-07
+
+### C4030 · NASA Space Apps Challenge 2026 · Santiago del Estero
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 566 presencial y 1000 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/santiago-del-estero/
+Se ha comprobado: 2026-11-07
+
+### C4032 · NASA Space Apps Challenge 2026 · Santo André
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 70 presencial y 80 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/santo-andre/
+Se ha comprobado: 2026-11-07
+
+### C4034 · NASA Space Apps Challenge 2026 · São Gonçalo
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 400.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/sao-goncalo/
+Se ha comprobado: 2026-11-07
+
+### C4035 · NASA Space Apps Challenge 2026 · Sao Jose do Rio Preto
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 300.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/sao-jose-do-rio-preto/
+Se ha comprobado: 2026-11-07
+
+### C4036 · NASA Space Apps Challenge 2026 · São José dos Campos
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 483.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/sao-jose-dos-campos/
+Se ha comprobado: 2026-11-07
+
+### C4037 · NASA Space Apps Challenge 2026 · São Paulo
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límites publicados 170 presencial y 200 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/sao-paulo/
+Se ha comprobado: 2026-11-07
+
+### C4058 · NASA Space Apps Challenge 2026 · Sorocaba
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límites publicados 200 presencial y 200 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/sorocaba/
+Se ha comprobado: 2026-11-07
+
+### C4063 · NASA Space Apps Challenge 2026 · Sucre
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 500.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/sucre/
+Se ha comprobado: 2026-11-07
+
+### C4085 · NASA Space Apps Challenge 2026 · Temuco
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La sede admite desde 13 años.
+Matvey: No. La edad mínima local es 13 años.
+Oscar: No. La edad mínima local es 13 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 100.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/temuco/
+Se ha comprobado: 2026-11-07
+
+### C4100 · NASA Space Apps Challenge 2026 · Trujillo
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite virtual publicado 300.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/trujillo/
+Se ha comprobado: 2026-11-07
+
+### C4105 · NASA Space Apps Challenge 2026 · Uberlândia
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límites publicados 400 presencial y 2000 virtual.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/uberlandia/
+Se ha comprobado: 2026-11-07
+
+### C4112 · NASA Space Apps Challenge 2026 · Valparaíso
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La sede admite desde 13 años.
+Matvey: No. La edad mínima local es 13 años.
+Oscar: No. La edad mínima local es 13 años.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 50.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/valparaiso/
+Se ha comprobado: 2026-11-07
+
+### C4118 · NASA Space Apps Challenge 2026 · Vilhena
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma admite solicitudes y tiene habilitada la lista de espera. Confirmar plaza y estado real de la solicitud.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página aún no contiene un horario local detallado. Límite presencial publicado 65.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/vilhena/
+Se ha comprobado: 2026-11-07
+
+### C4119 · NASA Space Apps Challenge 2026 · Villavicencio
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 100.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/villavicencio/
+Se ha comprobado: 2026-11-07
+
+### C4123 · NASA Space Apps Challenge 2026 · Vitória da Conquista
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Para menores de 18 años, un progenitor o tutor legal hace la inscripción y acompaña durante todo el evento.
+Matvey: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Oscar: Condicional. Las reglas de NASA admiten menores con tutor. Confirmar condiciones de la sede y plaza.
+Idioma: Confirmar idioma de trabajo y del jurado local. El idioma de la página y la entrega en inglés no confirman el idioma hablado en la sede.
+Acceso: Registrar a cada participante, elegir sede local y formar equipo de hasta 6 personas. Comprobar requisitos adicionales de la sede. La plataforma indica que admite solicitudes. Hay que comprobar la plaza y la admisión por separado.
+Precio: Confirmar tarifa, comidas y gastos en la página de la organización local.
+Limitaciones: La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 100.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/vitoria-da-conquista/
 Se ha comprobado: 2026-11-07
 
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08

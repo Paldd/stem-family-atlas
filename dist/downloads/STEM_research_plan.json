@@ -870,10 +870,10 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 250,
+    "version": 251,
     "status": "implementation_snapshot",
-    "events": 8842,
-    "competitions": 3544,
+    "events": 9434,
+    "competitions": 4136,
     "league_profiles": 288,
     "camp_dossiers": 1891,
     "budget_offers": 312,
@@ -927,12 +927,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 249,
+    "version": 250,
     "status": "implementation_snapshot",
-    "events": 8801,
-    "competitions": 3509,
+    "events": 8842,
+    "competitions": 3544,
     "league_profiles": 288,
-    "camp_dossiers": 1889,
+    "camp_dossiers": 1891,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -942,7 +942,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 478
+    "exhibitions_events": 481
   },
   "research_passes": [
     {
@@ -13759,10 +13759,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 250,
+    "prepared_ui_version": 251,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 249,
-    "previous_verified_commit": "35da060e782474c9a66aa076c0b42ab0af379fc6"
+    "previous_verified_ui_version": 250,
+    "previous_verified_commit": "3501636e9691ec901f6ac793c6604d69278c0be7"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20809,11 +20809,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 249,
-    "published_version": 249,
-    "latest_source_commit": "35da060e782474c9a66aa076c0b42ab0af379fc6",
-    "published_commit": "35da060e782474c9a66aa076c0b42ab0af379fc6",
-    "latest_workflow": 42434679716,
+    "latest_source_version": 250,
+    "published_version": 250,
+    "latest_source_commit": "3501636e9691ec901f6ac793c6604d69278c0be7",
+    "published_commit": "3501636e9691ec901f6ac793c6604d69278c0be7",
+    "latest_workflow": 42436286537,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -24458,5 +24458,45 @@
     ],
     "audit": "data/andes-and-holiday-routes-audit-v250.json",
     "source_receipts": "data/andes-and-holiday-routes-source-receipts-v250.json"
+  },
+  "nasa_space_apps_v251": {
+    "version": 251,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "directory": "https://www.spaceappschallenge.org/2026/local-events/",
+    "listed_locations": 600,
+    "matched_official_pages": 600,
+    "host_countries_and_territories": 115,
+    "virtual_world_routes": 1,
+    "added_records": 592,
+    "updated_records": 9,
+    "split_routes": [
+      "C4137"
+    ],
+    "mode_counts": {
+      "in_person": 232,
+      "virtual": 130,
+      "hybrid": 238
+    },
+    "local_schedule_published": 304,
+    "registration_snapshot": {
+      "open": 593,
+      "portal_closed": 7,
+      "waitlist_enabled": 266
+    },
+    "map_page_flags_match": true,
+    "new_geographic_coverage": [
+      "VAT"
+    ],
+    "notes": [
+      "600 карточек с официальной карты, 115 стран и территорий и одна глобальная онлайн-площадка. Все страницы открылись и были сопоставлены по идентификатору.",
+      "Открытая заявка и настройка листа ожидания не подтверждают свободное место. Местные объявления имеют приоритет при явном конфликте.",
+      "У многих этапов известны только глобальные даты. Брифинги, начало соревнования и отправка проекта могут иметь разное время.",
+      "Местные ограничения могут исключать детей при общем допуске NASA. Сан-Хосе разделён на очный и виртуальный маршруты."
+    ],
+    "audit": "data/nasa-space-apps-2026-audit-v251.json",
+    "source_receipts": "data/nasa-space-apps-2026-source-receipts-v251.json"
   }
 }
