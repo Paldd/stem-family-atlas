@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1930,
+    "dossiers": 1936,
     "countries": 126,
     "swiss": 137,
     "by_status": {
@@ -38,7 +38,7 @@
       "published_2027": 517,
       "partial_2027": 142,
       "next_unannounced": 399,
-      "published_2026": 357,
+      "published_2026": 363,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2810
+    "source_urls": 2829
   },
   "countries": [
     {
@@ -269,7 +269,7 @@
     },
     {
       "country": "RAE de Hong Kong (China)",
-      "count": 54
+      "count": 57
     },
     {
       "country": "Colombia",
@@ -433,11 +433,11 @@
     },
     {
       "country": "Singapur",
-      "count": 183
+      "count": 185
     },
     {
       "country": "Estados Unidos",
-      "count": 145
+      "count": 146
     },
     {
       "country": "Sierra Leona",
@@ -96092,58 +96092,139 @@
       "provider": "Laurus · Winter School · Primary",
       "country": "Japón",
       "iso": "JPN",
-      "place": "Tokyo · el campus exacto de Winter School / Programme confirmar",
+      "place": "Laurus Shiba Campus · Shiba Kokusai Building · Tokyo",
       "themes": [
-        "stem",
-        "science",
-        "ai",
-        "robotics"
+        "engineering",
+        "technology",
+        "makers"
       ],
       "formats": [
         "day"
       ],
-      "age": "6–11 años; elementary",
-      "language": "Pre-K declara directamente el aprendizaje en inglés con profesores de inglés; la FAQ general extiende el requisito de EN básico en K2/Y1, Primary y Secondary, el apoyo japonés generalmente no existe.",
+      "age": "6–11 años. Grupos de 6–8 y 9–11 años. Para Oscar, confirmar edad al inicio y admisión en el grupo menor.",
+      "language": "Turno íntegramente en inglés. Se requiere comunicación básica en inglés y el profesorado imparte las clases en inglés.",
       "confirmed_instruction_languages": [
         "EN"
       ],
-      "programme": "Este es el primer proyecto de la semana en el que se desarrolló este proyecto, y no se han dado nombres de los niveles; las fotografías de la Competencia de Robotica no demuestran que haya ganado una liga internacional.",
+      "programme": "Seasonal Festive Market. Los equipos diseñan y fabrican productos para un mercado de invierno, hacen una excursión temática y presentan resultados a las familias.",
       "timing": {
         "status": "published_2026",
-        "label": "14–18 diciembre 2026, 10–15:30; Primary llegada temprana 08:30. el plazo total de la solicitud — una semana antes del comienzo: con el tiempo 7 diciembre, el uso exacto de.",
+        "label": "14–18 de diciembre de 2026, 10:00–15:30. Llegada temprana desde 08:30 con suplemento. El plazo publicado es 7 de diciembre de 2026, sin hora de cierre indicada.",
         "sessions": [
           [
             "2026-12-14",
             "2026-12-18"
           ]
         ],
+        "session_details": [
+          {
+            "variant_key": "regular",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Seasonal Festive Market",
+            "price": "Alumnado externo JPY 85000 más JPY 6000 de matrícula. Total JPY 91000 por niño o JPY 182000 por ambos, con impuesto incluido. Con llegada temprana JPY 106000 por niño.",
+            "source": "https://www.laurus-school.com/winter-school/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "10:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Tokyo",
+                "start_utc": "2026-12-14T01:00:00Z",
+                "end_utc": "2026-12-14T06:30:00Z",
+                "topic": "Seasonal Festive Market. Los equipos diseñan y fabrican productos para un mercado de invierno, hacen una excursión temática y presentan resultados a las familias.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "10:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Tokyo",
+                "start_utc": "2026-12-15T01:00:00Z",
+                "end_utc": "2026-12-15T06:30:00Z",
+                "topic": "Seasonal Festive Market. Los equipos diseñan y fabrican productos para un mercado de invierno, hacen una excursión temática y presentan resultados a las familias.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Tokyo",
+                "start_utc": "2026-12-16T01:00:00Z",
+                "end_utc": "2026-12-16T06:30:00Z",
+                "topic": "Seasonal Festive Market. Los equipos diseñan y fabrican productos para un mercado de invierno, hacen una excursión temática y presentan resultados a las familias.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Tokyo",
+                "start_utc": "2026-12-17T01:00:00Z",
+                "end_utc": "2026-12-17T06:30:00Z",
+                "topic": "Seasonal Festive Market. Los equipos diseñan y fabrican productos para un mercado de invierno, hacen una excursión temática y presentan resultados a las familias.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "10:00",
+                "end_time": "15:30",
+                "timezone": "Asia/Tokyo",
+                "start_utc": "2026-12-18T01:00:00Z",
+                "end_utc": "2026-12-18T06:30:00Z",
+                "topic": "Seasonal Festive Market. Los equipos diseñan y fabrican productos para un mercado de invierno, hacen una excursión temática y presentan resultados a las familias.",
+                "ical_timed": true
+              }
+            ],
+            "deadline": "2026-12-07",
+            "place": "Laurus Shiba Campus · Shiba Kokusai Building · Tokyo",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Sí por edad. Confirmar admisión y plaza."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Sí por edad. Confirmar admisión y plaza."
+              }
+            }
+          }
+        ],
         "precision": "published_sessions"
       },
       "price": {
         "year": 2026,
-        "label": "JPY 85 000/semana o 100 000 con llegada temprana; +6 000 inscripción primaria =91 000 / 106 000 por niño, el impuesto incluido. dos en Primary condicionalmente 182 000 / 212 000 hasta pagos adicionales desconocidos, solo con la admisión de ambos.",
-        "included": "Las clases temáticas STEAM, experiencias, excursiones, AI & Robotics están indicadas en el paquete. almuerzo/aseguro/transporte es exactamente School no se descifró.",
-        "extras": "El precio del autobús, la comida, los materiales, el seguro y el pago internacional del formato elegido requiere una cuenta final.",
-        "deposit": "por el total FAQ: pago en dos semanas después de la solicitud, en caso de solicitud tardía — en una semana.; después de deadline No hay vuelta atrás./de los cambios, El consejo de administración 1 000 por cancelación/El cambio. de los estudiantes de 6 000 por separado para cada uno School/Programme; el beneficio de dos hijos Pre-K No se puede llevar aquí.."
+        "label": "Alumnado externo JPY 85000 más JPY 6000 de matrícula. Total JPY 91000 por niño o JPY 182000 por ambos, con impuesto incluido. Con llegada temprana JPY 106000 por niño.",
+        "included": "Seasonal Festive Market. Los equipos diseñan y fabrican productos para un mercado de invierno, hacen una excursión temática y presentan resultados a las familias.",
+        "extras": "Confirmar con la escuela comidas y condiciones de transporte. La llegada temprana es una opción aparte.",
+        "deposit": "Antes del plazo, cambios y cancelaciones con cargo administrativo de JPY 1000. Después del cierre la escuela no admite cambios ni devoluciones.",
+        "amount": 91000,
+        "currency": "JPY",
+        "unit": "session"
       },
       "accommodation": "No se puede decir que el sistema de pensiones de la escuela sea un sistema de pensiones diurnas.",
       "family_fit": {
         "matvey": {
           "status": "candidate",
-          "detail": "Matvey 8–9 se incluye 6–11; confirmar la distribución en elementary grupo y complejidad del proyecto concreto."
+          "detail": "Sí por edad. Confirmar admisión y plaza."
         },
         "oscar": {
-          "status": "conditional",
-          "detail": "Oscar sólo después de los 6 años y cuando se admite en el formato elemental; el curso actual y la fecha de nacimiento no se conocen."
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar admisión y plaza."
         }
       },
-      "editorial_reason": "Matvey, el programa científico de invierno datado; Oscar, con el fin de cumplir seis años y con el acuerdo del grupo.",
+      "editorial_reason": "14–18 de diciembre de 2026, 10:00–15:30. Llegada temprana desde 08:30 con suplemento. El plazo publicado es 7 de diciembre de 2026, sin hora de cierre indicada.",
       "shortlist": [
         "technical"
       ],
       "questions": [
-        "Los niños extranjeros y los niños que vienen directamente se admiten. se necesita una foto del niño y una confirmación del seguro vigente en Japón; si no hay documentos, pueden rechazar la participación.",
-        "obtener un plan de estudios de la semana, un horario/nivel/plataforma, un campus preciso, una cuenta completa, un plazo/un contrato de este formato."
+        "Confirmar con la escuela comidas y condiciones de transporte. La llegada temprana es una opción aparte.",
+        "Antes del plazo, cambios y cancelaciones con cargo administrativo de JPY 1000. Después del cierre la escuela no admite cambios ni devoluciones."
       ],
       "sources": [
         {
@@ -96160,9 +96241,15 @@
           "title": "la versión japonesa del campamento específico y la dirección de los campus",
           "url": "https://www.laurus-school.com/ja/winter-camp/2026",
           "checked": "2026-10-05"
+        },
+        {
+          "url": "https://www.laurus-school.com/winter-school/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-08",
+      "language_evidence_role": "primary",
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -335684,6 +335771,1358 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1931",
+      "slug": "xcl-winter-2026-robotics",
+      "provider": "XCL World Academy · Fun with Robotics · LEGO WeDo",
+      "country": "Singapur",
+      "iso": "SGP",
+      "place": "XCL World Academy · Yishun · Singapore",
+      "age": "4–7 años. Usar el grupo de edad de esta edición.",
+      "programme": "Montaje y programación de LEGO WeDo. Los niños exploran motores, sensores, secuencias y bucles.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales en inglés. Se debe confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "21–24 de diciembre de 2026, horario diurno 09:00–15:00. Se admite alumnado de otros colegios y países según normas del campus.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec21",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Fun with Robotics · LEGO WeDo",
+            "price": "El horario muestra SGD 760. La sección marca 4 días con tarifa prorrateada. El importe final del turno no queda inequívoco.",
+            "source": "https://www.xwa.edu.sg/xcl-camps/schedule",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "start_utc": "2026-12-21T01:00:00Z",
+                "end_utc": "2026-12-21T07:00:00Z",
+                "topic": "Montaje y programación de LEGO WeDo. Los niños exploran motores, sensores, secuencias y bucles.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "start_utc": "2026-12-22T01:00:00Z",
+                "end_utc": "2026-12-22T07:00:00Z",
+                "topic": "Montaje y programación de LEGO WeDo. Los niños exploran motores, sensores, secuencias y bucles.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "start_utc": "2026-12-23T01:00:00Z",
+                "end_utc": "2026-12-23T07:00:00Z",
+                "topic": "Montaje y programación de LEGO WeDo. Los niños exploran motores, sensores, secuencias y bucles.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "start_utc": "2026-12-24T01:00:00Z",
+                "end_utc": "2026-12-24T07:00:00Z",
+                "topic": "Montaje y programación de LEGO WeDo. Los niños exploran motores, sensores, secuencias y bucles.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "SGD",
+        "unit": "quote",
+        "label": "El horario muestra SGD 760. La sección marca 4 días con tarifa prorrateada. El importe final del turno no queda inequívoco.",
+        "included": "Merienda, almuerzo, camiseta y materiales según la descripción de XCL.",
+        "extras": "El recargo publicado de Stripe es 3%. El autobús opcional se indica a SGD 120 por semana. Confirmar tarifa de 4 días y factura final.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar.",
+        "early_deadline": "2026-11-30"
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No por ahora. La edad supera el intervalo de este grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar admisión y plaza."
+        }
+      },
+      "editorial_reason": "STEAM Explorers y LEGO WeDo infantil comparten sede y horario del 21–24 de diciembre. Se puede elegir STEAM para ambos o grupos distintos. Confirmar idioma, plazas y factura final.",
+      "shortlist": [],
+      "questions": [
+        "La organización anuncia 10% de descuento al inscribirse del 1 al 30 de noviembre de 2026. Confirmar aplicación al turno elegido e importe final.",
+        "El recargo publicado de Stripe es 3%. El autobús opcional se indica a SGD 120 por semana. Confirmar tarifa de 4 días y factura final.",
+        "STEAM Explorers y LEGO WeDo infantil comparten sede y horario del 21–24 de diciembre. Se puede elegir STEAM para ambos o grupos distintos. Confirmar idioma, plazas y factura final."
+      ],
+      "sources": [
+        {
+          "url": "https://www.xwa.edu.sg/xcl-camps/schedule",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.xwa.edu.sg/school-life/xcl-camps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.xwa.edu.sg/xcl-camps/transportation",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.xwa.edu.sg/xcl-camps/the-techie",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "L183"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1931-20261221-20261224-dec21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1932",
+      "slug": "xcl-winter-2026-steam",
+      "provider": "XCL World Academy · STEAM Explorers",
+      "country": "Singapur",
+      "iso": "SGP",
+      "place": "XCL World Academy · Yishun · Singapore",
+      "age": "6–9 años según el horario de invierno. La página anterior de la modalidad indicaba 6–8 años.",
+      "programme": "Programación, ingeniería, matemáticas y diseño. Los niños preparan un proyecto y lo muestran al final.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales en inglés. Se debe confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "21–24 de diciembre de 2026, horario diurno 09:00–15:00. Se admite alumnado de otros colegios y países según normas del campus.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec21",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "STEAM Explorers",
+            "price": "El horario muestra SGD 720. La sección marca 4 días con tarifa prorrateada. El importe final del turno no queda inequívoco.",
+            "source": "https://www.xwa.edu.sg/xcl-camps/schedule",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "start_utc": "2026-12-21T01:00:00Z",
+                "end_utc": "2026-12-21T07:00:00Z",
+                "topic": "Programación, ingeniería, matemáticas y diseño. Los niños preparan un proyecto y lo muestran al final.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "start_utc": "2026-12-22T01:00:00Z",
+                "end_utc": "2026-12-22T07:00:00Z",
+                "topic": "Programación, ingeniería, matemáticas y diseño. Los niños preparan un proyecto y lo muestran al final.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "start_utc": "2026-12-23T01:00:00Z",
+                "end_utc": "2026-12-23T07:00:00Z",
+                "topic": "Programación, ingeniería, matemáticas y diseño. Los niños preparan un proyecto y lo muestran al final.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "start_utc": "2026-12-24T01:00:00Z",
+                "end_utc": "2026-12-24T07:00:00Z",
+                "topic": "Programación, ingeniería, matemáticas y diseño. Los niños preparan un proyecto y lo muestran al final.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "SGD",
+        "unit": "quote",
+        "label": "El horario muestra SGD 720. La sección marca 4 días con tarifa prorrateada. El importe final del turno no queda inequívoco.",
+        "included": "Merienda, almuerzo, camiseta y materiales según la descripción de XCL.",
+        "extras": "El recargo publicado de Stripe es 3%. El autobús opcional se indica a SGD 120 por semana. Confirmar tarifa de 4 días y factura final.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar.",
+        "early_deadline": "2026-11-30"
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar admisión y plaza."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar admisión y plaza."
+        }
+      },
+      "editorial_reason": "STEAM Explorers y LEGO WeDo infantil comparten sede y horario del 21–24 de diciembre. Se puede elegir STEAM para ambos o grupos distintos. Confirmar idioma, plazas y factura final.",
+      "shortlist": [],
+      "questions": [
+        "La organización anuncia 10% de descuento al inscribirse del 1 al 30 de noviembre de 2026. Confirmar aplicación al turno elegido e importe final.",
+        "El recargo publicado de Stripe es 3%. El autobús opcional se indica a SGD 120 por semana. Confirmar tarifa de 4 días y factura final.",
+        "STEAM Explorers y LEGO WeDo infantil comparten sede y horario del 21–24 de diciembre. Se puede elegir STEAM para ambos o grupos distintos. Confirmar idioma, plazas y factura final."
+      ],
+      "sources": [
+        {
+          "url": "https://www.xwa.edu.sg/xcl-camps/schedule",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.xwa.edu.sg/school-life/xcl-camps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.xwa.edu.sg/xcl-camps/transportation",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://xclcamps.com/the-scholar/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "engineering",
+        "technology",
+        "general"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "L183"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1932-20261221-20261224-dec21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1933",
+      "slug": "malvern-hk-winter-multi-2026",
+      "provider": "Camp Beaumont · Malvern Multi-Activity",
+      "country": "RAE de Hong Kong (China)",
+      "iso": "HKG",
+      "place": "Malvern College Hong Kong · Tai Po",
+      "age": "Magic de 5–7 años y Active de 8–12 años.",
+      "programme": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Anuncio y reserva en inglés. No se confirma aparte el idioma de instrucción de este grupo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "14–18 y 21–24 de diciembre de 2026, 09:00–15:00. Magic y Active se celebran en el mismo campus y horario.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "magic-2026-12-14",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Magic",
+            "price": "El listado muestra desde HKD 700 por día. La ficha de reserva muestra desde HKD 753. Comprobar el total tras seleccionar días y opciones.",
+            "source": "https://booknow.campbeaumont.asia/Booking?Id=454",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-14T01:00:00Z",
+                "end_utc": "2026-12-14T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-15T01:00:00Z",
+                "end_utc": "2026-12-15T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-16T01:00:00Z",
+                "end_utc": "2026-12-16T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-17T01:00:00Z",
+                "end_utc": "2026-12-17T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-18T01:00:00Z",
+                "end_utc": "2026-12-18T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              }
+            ],
+            "age": "Magic de 5–7 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "No por ahora. La edad supera el intervalo de este grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Sí por edad. Confirmar admisión y plaza."
+              }
+            }
+          },
+          {
+            "variant_key": "active-2026-12-14",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Active",
+            "price": "El listado muestra desde HKD 700 por día. La ficha de reserva muestra desde HKD 753. Comprobar el total tras seleccionar días y opciones.",
+            "source": "https://booknow.campbeaumont.asia/Booking?Id=455",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-14T01:00:00Z",
+                "end_utc": "2026-12-14T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-15T01:00:00Z",
+                "end_utc": "2026-12-15T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-16T01:00:00Z",
+                "end_utc": "2026-12-16T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-17T01:00:00Z",
+                "end_utc": "2026-12-17T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-18T01:00:00Z",
+                "end_utc": "2026-12-18T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              }
+            ],
+            "age": "Active de 8–12 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Sí por edad. Confirmar admisión y plaza."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "No por ahora. Se exige alcanzar la edad mínima de este grupo."
+              }
+            }
+          },
+          {
+            "variant_key": "magic-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Magic",
+            "price": "El listado muestra desde HKD 700 por día. La ficha de reserva muestra desde HKD 753. Comprobar el total tras seleccionar días y opciones.",
+            "source": "https://booknow.campbeaumont.asia/Booking?Id=458",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-21T01:00:00Z",
+                "end_utc": "2026-12-21T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-22T01:00:00Z",
+                "end_utc": "2026-12-22T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-23T01:00:00Z",
+                "end_utc": "2026-12-23T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-24T01:00:00Z",
+                "end_utc": "2026-12-24T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              }
+            ],
+            "age": "Magic de 5–7 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "No por ahora. La edad supera el intervalo de este grupo."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Sí por edad. Confirmar admisión y plaza."
+              }
+            }
+          },
+          {
+            "variant_key": "active-2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Active",
+            "price": "El listado muestra desde HKD 700 por día. La ficha de reserva muestra desde HKD 753. Comprobar el total tras seleccionar días y opciones.",
+            "source": "https://booknow.campbeaumont.asia/Booking?Id=457",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-21T01:00:00Z",
+                "end_utc": "2026-12-21T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-22T01:00:00Z",
+                "end_utc": "2026-12-22T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-23T01:00:00Z",
+                "end_utc": "2026-12-23T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-24T01:00:00Z",
+                "end_utc": "2026-12-24T07:00:00Z",
+                "topic": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+                "ical_timed": true
+              }
+            ],
+            "age": "Active de 8–12 años.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Sí por edad. Confirmar admisión y plaza."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "No por ahora. Se exige alcanzar la edad mínima de este grupo."
+              }
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "HKD",
+        "unit": "quote",
+        "label": "El listado muestra desde HKD 700 por día. La ficha de reserva muestra desde HKD 753. Comprobar el total tras seleccionar días y opciones.",
+        "included": "Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.",
+        "extras": "Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final.",
+        "deposit": "La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar admisión y plaza."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar admisión y plaza."
+        }
+      },
+      "editorial_reason": "14–18 y 21–24 de diciembre de 2026, 09:00–15:00. Magic y Active se celebran en el mismo campus y horario.",
+      "shortlist": [],
+      "questions": [
+        "El listado muestra desde HKD 700 por día. La ficha de reserva muestra desde HKD 753. Comprobar el total tras seleccionar días y opciones.",
+        "Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final.",
+        "La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte."
+      ],
+      "sources": [
+        {
+          "url": "https://www.campbeaumont.asia/our-camps/malvern-college",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://booknow.campbeaumont.asia/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://booknow.campbeaumont.asia/Booking?Id=454",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://booknow.campbeaumont.asia/Booking?Id=455",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://booknow.campbeaumont.asia/Booking?Id=458",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://booknow.campbeaumont.asia/Booking?Id=457",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.campbeaumont.asia/faqs",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "general"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1933-20261214-20261218-magic-2026-12-14"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1933-20261214-20261218-active-2026-12-14"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1933-20261221-20261224-magic-2026-12-21"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1933-20261221-20261224-active-2026-12-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1934",
+      "slug": "malvern-hk-mini-makers-lite-2026",
+      "provider": "Campus X · Malvern Mini Makers Lite",
+      "country": "RAE de Hong Kong (China)",
+      "iso": "HKG",
+      "place": "Malvern College Hong Kong · Tai Po",
+      "age": "Active de 8–12 años según ficha de reserva.",
+      "programme": "Montaje y programación de un robot, pruebas de sensores y demostración final.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Anuncio y reserva en inglés. No se confirma aparte el idioma de instrucción de este grupo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "14–18 de diciembre de 2026, cinco clases de 09:00 a 12:00. El programa de tarde se ofrece por separado.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec14",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Mini Makers Lite",
+            "price": "Desde HKD 4480 por bloque de mañana. Confirmar el coste del complemento de tarde.",
+            "source": "https://booknow.campbeaumont.asia/Booking?Id=459",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-14T01:00:00Z",
+                "end_utc": "2026-12-14T04:00:00Z",
+                "topic": "Montaje y programación de un robot, pruebas de sensores y demostración final.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-15T01:00:00Z",
+                "end_utc": "2026-12-15T04:00:00Z",
+                "topic": "Montaje y programación de un robot, pruebas de sensores y demostración final.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-16T01:00:00Z",
+                "end_utc": "2026-12-16T04:00:00Z",
+                "topic": "Montaje y programación de un robot, pruebas de sensores y demostración final.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-17T01:00:00Z",
+                "end_utc": "2026-12-17T04:00:00Z",
+                "topic": "Montaje y programación de un robot, pruebas de sensores y demostración final.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-18T01:00:00Z",
+                "end_utc": "2026-12-18T04:00:00Z",
+                "topic": "Montaje y programación de un robot, pruebas de sensores y demostración final.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 4480,
+        "currency": "HKD",
+        "unit": "starting_session",
+        "label": "Desde HKD 4480 por bloque de mañana. Confirmar el coste del complemento de tarde.",
+        "included": "Montaje y programación de un robot, pruebas de sensores y demostración final.",
+        "extras": "Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final.",
+        "deposit": "La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar admisión y plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No por ahora. Se exige alcanzar la edad mínima de este grupo."
+        }
+      },
+      "editorial_reason": "14–18 de diciembre de 2026, cinco clases de 09:00 a 12:00. El programa de tarde se ofrece por separado.",
+      "shortlist": [],
+      "questions": [
+        "Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final.",
+        "La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte."
+      ],
+      "sources": [
+        {
+          "url": "https://booknow.campbeaumont.asia/Booking?Id=459",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.campbeaumont.asia/our-camps/malvern-college",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://booknow.campbeaumont.asia/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.campbeaumont.asia/faqs",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1934-20261214-20261218-dec14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1935",
+      "slug": "malvern-hk-ai-movie-studio-2026",
+      "provider": "Campus X · Malvern AI Movie Studio",
+      "country": "RAE de Hong Kong (China)",
+      "iso": "HKG",
+      "place": "Malvern College Hong Kong · Tai Po",
+      "age": "Active de 8–12 años según ficha de reserva.",
+      "programme": "Guion, storyboard y animación corta con generación de imágenes y vídeo, voces y edición.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Anuncio y reserva en inglés. No se confirma aparte el idioma de instrucción de este grupo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "14–16 y 21–23 de diciembre de 2026, 09:00–12:00. La página del programa y las fichas de reserva indican 3 días. El listado general muestra 5 días por error.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-16"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec14",
+            "start": "2026-12-14",
+            "end": "2026-12-16",
+            "label": "AI Movie Studio",
+            "price": "La ficha de reserva muestra desde HKD 3280 por turno de mañana. La parte diurna adicional y la plaza se confirman aparte.",
+            "source": "https://booknow.campbeaumont.asia/Booking?Id=460",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-14T01:00:00Z",
+                "end_utc": "2026-12-14T04:00:00Z",
+                "topic": "Guion, storyboard y animación corta con generación de imágenes y vídeo, voces y edición.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-15T01:00:00Z",
+                "end_utc": "2026-12-15T04:00:00Z",
+                "topic": "Guion, storyboard y animación corta con generación de imágenes y vídeo, voces y edición.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-16T01:00:00Z",
+                "end_utc": "2026-12-16T04:00:00Z",
+                "topic": "Guion, storyboard y animación corta con generación de imágenes y vídeo, voces y edición.",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "dec21",
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "AI Movie Studio",
+            "price": "La ficha de reserva muestra desde HKD 3280 por turno de mañana. La parte diurna adicional y la plaza se confirman aparte.",
+            "source": "https://booknow.campbeaumont.asia/Booking?Id=461",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-21T01:00:00Z",
+                "end_utc": "2026-12-21T04:00:00Z",
+                "topic": "Guion, storyboard y animación corta con generación de imágenes y vídeo, voces y edición.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-22T01:00:00Z",
+                "end_utc": "2026-12-22T04:00:00Z",
+                "topic": "Guion, storyboard y animación corta con generación de imágenes y vídeo, voces y edición.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Hong_Kong",
+                "start_utc": "2026-12-23T01:00:00Z",
+                "end_utc": "2026-12-23T04:00:00Z",
+                "topic": "Guion, storyboard y animación corta con generación de imágenes y vídeo, voces y edición.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 3280,
+        "currency": "HKD",
+        "unit": "starting_session",
+        "label": "La ficha de reserva muestra desde HKD 3280 por turno de mañana. La parte diurna adicional y la plaza se confirman aparte.",
+        "included": "Guion, storyboard y animación corta con generación de imágenes y vídeo, voces y edición.",
+        "extras": "Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final.",
+        "deposit": "La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar admisión y plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No por ahora. Se exige alcanzar la edad mínima de este grupo."
+        }
+      },
+      "editorial_reason": "14–16 y 21–23 de diciembre de 2026, 09:00–12:00. La página del programa y las fichas de reserva indican 3 días. El listado general muestra 5 días por error.",
+      "shortlist": [],
+      "questions": [
+        "14–16 y 21–23 de diciembre de 2026, 09:00–12:00. La página del programa y las fichas de reserva indican 3 días. El listado general muestra 5 días por error.",
+        "Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final.",
+        "La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte."
+      ],
+      "sources": [
+        {
+          "url": "https://booknow.campbeaumont.asia/Booking?Id=460",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://booknow.campbeaumont.asia/Booking?Id=461",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.campbeaumont.asia/our-camps/malvern-college",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://booknow.campbeaumont.asia/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.campbeaumont.asia/faqs",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "technology",
+        "creative"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1935-20261214-20261216-dec14"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1935-20261221-20261223-dec21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1936",
+      "slug": "frost-science-winter-2026",
+      "provider": "Frost Science · Winter Camp",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Frost Museum of Science · Miami",
+      "age": "5–11 años. Mínimo 5 años el primer día y uso autónomo del baño.",
+      "programme": "Experimentos, visita al museo y planetario, incluida la exposición Pixar según el programa del campamento.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales en inglés. Se debe confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Dos turnos separados del 21–24 y 28–31 de diciembre de 2026. Programa principal de 09:00 a 15:30.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "epic-earth",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Epic Earth",
+            "price": "USD 429 por 4 días. Dos niños USD 858 antes de descuentos. Se anuncia descuento de USD 50 por participante para miembros.",
+            "source": "https://www.frostscience.org/event/winter-camp-epic-earth/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-12-21T14:00:00Z",
+                "end_utc": "2026-12-21T20:30:00Z",
+                "topic": "Experimentos sobre ecosistemas terrestres y el trabajo de investigadores.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-12-22T14:00:00Z",
+                "end_utc": "2026-12-22T20:30:00Z",
+                "topic": "Experimentos sobre ecosistemas terrestres y el trabajo de investigadores.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-12-23T14:00:00Z",
+                "end_utc": "2026-12-23T20:30:00Z",
+                "topic": "Experimentos sobre ecosistemas terrestres y el trabajo de investigadores.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-12-24T14:00:00Z",
+                "end_utc": "2026-12-24T20:30:00Z",
+                "topic": "Experimentos sobre ecosistemas terrestres y el trabajo de investigadores.",
+                "ical_timed": true
+              }
+            ],
+            "programme": "Experimentos sobre ecosistemas terrestres y el trabajo de investigadores."
+          },
+          {
+            "variant_key": "space-quest",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Space Quest",
+            "price": "USD 429 por 4 días. Dos niños USD 858 antes de descuentos. Se anuncia descuento de USD 50 por participante para miembros.",
+            "source": "https://www.frostscience.org/event/winter-camp-space-quest/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-12-28T14:00:00Z",
+                "end_utc": "2026-12-28T20:30:00Z",
+                "topic": "Experimentos y actividades prácticas sobre el espacio.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-12-29T14:00:00Z",
+                "end_utc": "2026-12-29T20:30:00Z",
+                "topic": "Experimentos y actividades prácticas sobre el espacio.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-12-30T14:00:00Z",
+                "end_utc": "2026-12-30T20:30:00Z",
+                "topic": "Experimentos y actividades prácticas sobre el espacio.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-12-31T14:00:00Z",
+                "end_utc": "2026-12-31T20:30:00Z",
+                "topic": "Experimentos y actividades prácticas sobre el espacio.",
+                "ical_timed": true
+              }
+            ],
+            "programme": "Experimentos y actividades prácticas sobre el espacio."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 429,
+        "currency": "USD",
+        "unit": "session",
+        "label": "USD 429 por 4 días. Dos niños USD 858 antes de descuentos. Se anuncia descuento de USD 50 por participante para miembros.",
+        "included": "Incluye almuerzo, 3 meriendas diarias, camiseta y cuidado posterior. El programa principal termina a las 15:30.",
+        "extras": "La página del turno de invierno indica cuidado de 16:00 a 17:30. Las preguntas frecuentes generales indican 15:30–17:30. Confirmar el inicio exacto.",
+        "deposit": "Las preguntas frecuentes piden avisar de la renuncia con al menos 2 semanas. Si se avisa a tiempo, hay crédito para programas del museo sin devolución monetaria."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar admisión y plaza."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar admisión y plaza."
+        }
+      },
+      "editorial_reason": "Dos turnos separados del 21–24 y 28–31 de diciembre de 2026. Programa principal de 09:00 a 15:30.",
+      "shortlist": [],
+      "questions": [
+        "La página del turno de invierno indica cuidado de 16:00 a 17:30. Las preguntas frecuentes generales indican 15:30–17:30. Confirmar el inicio exacto.",
+        "Las preguntas frecuentes piden avisar de la renuncia con al menos 2 semanas. Si se avisa a tiempo, hay crédito para programas del museo sin devolución monetaria.",
+        "Materiales en inglés. Se debe confirmar el idioma de instrucción del grupo concreto."
+      ],
+      "sources": [
+        {
+          "url": "https://www.frostscience.org/wintercamp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.frostscience.org/event/winter-camp-epic-earth/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.frostscience.org/event/winter-camp-space-quest/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.frostscience.org/camp-faqs/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.frostscience.org/exhibition/the-science-behind-pixar/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "E546"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1936-20261221-20261224-epic-earth"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1936-20261228-20261231-space-quest"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -341009,7 +342448,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 269,
+  "version": 270,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -354244,7 +355683,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1930,
+      "total_dossiers": 1936,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -376334,6 +377773,76 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1931",
+      "event_id": "CP1931-20261221-20261224-dec21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1931",
+      "event_id": "L183",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP1932",
+      "event_id": "CP1932-20261221-20261224-dec21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1932",
+      "event_id": "L183",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP1933",
+      "event_id": "CP1933-20261214-20261218-magic-2026-12-14",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1933",
+      "event_id": "CP1933-20261214-20261218-active-2026-12-14",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1933",
+      "event_id": "CP1933-20261221-20261224-magic-2026-12-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1933",
+      "event_id": "CP1933-20261221-20261224-active-2026-12-21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1934",
+      "event_id": "CP1934-20261214-20261218-dec14",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1935",
+      "event_id": "CP1935-20261214-20261216-dec14",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1935",
+      "event_id": "CP1935-20261221-20261223-dec21",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1936",
+      "event_id": "CP1936-20261221-20261224-epic-earth",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1936",
+      "event_id": "CP1936-20261228-20261231-space-quest",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1936",
+      "event_id": "E546",
+      "relation": "related_track_or_operator"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -380958,10 +382467,21 @@
     "CP1926-20261228-20261231-sea-am",
     "CP1926-20261228-20261231-sea-full",
     "CP1929-20261213-20261213-dec13",
-    "CP1930-20261123-20261204-2026-cst-0780"
+    "CP1930-20261123-20261204-2026-cst-0780",
+    "CP1931-20261221-20261224-dec21",
+    "CP1932-20261221-20261224-dec21",
+    "CP1933-20261214-20261218-magic-2026-12-14",
+    "CP1933-20261214-20261218-active-2026-12-14",
+    "CP1933-20261221-20261224-magic-2026-12-21",
+    "CP1933-20261221-20261224-active-2026-12-21",
+    "CP1934-20261214-20261218-dec14",
+    "CP1935-20261214-20261216-dec14",
+    "CP1935-20261221-20261223-dec21",
+    "CP1936-20261221-20261224-epic-earth",
+    "CP1936-20261228-20261231-space-quest"
   ],
   "integration": {
-    "generated_sessions": 4194,
+    "generated_sessions": 4205,
     "reused_legacy_events": 73,
     "seasonal_windows": 76,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

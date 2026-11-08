@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 1930 fichas en 126 países. Las fechas de verificación de cada fuente constan en su ficha.
+Estado de la base: 2026-11-08. 1936 fichas en 126 países. Las fechas de verificación de cada fuente constan en su ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -1848,7 +1848,7 @@ Laurus Pre-K Oscar es adecuado por su edad.21–25diciembre; Primary14–18dicie
 
 - Laurus · Winter Camp Pre-K / Kindergarten · Japón · Uno de los candidatos de invierno específicos para Oscar: inglés, tema científico, fechas publicadas y siete direcciones.
 
-- Laurus · Winter School · Primary · Japón - Programa científico de invierno de Matveu; Oscar condicional después de seis años y acuerdo del grupo.
+- Laurus · Winter School · Primary · Japón · 14–18 de diciembre de 2026, 10:00–15:30. Llegada temprana desde 08:30 con suplemento. El plazo publicado es 7 de diciembre de 2026, sin hora de cierre indicada.
 
 - Harrow Appi Japan · Winter Camp · Japón · Un fuerte internado invernal más cercano para Matway: un proyecto específico y un plan detallado.
 
@@ -51764,39 +51764,65 @@ Japón · Tokyo / Kawasaki · siete campus separados
 
 ## CP666 · Laurus · Winter School · Primary
 
-Japón · Tokyo · Campus de Winter School / Programme confirmar
+Japón · Laurus Shiba Campus · Shiba Kokusai Building · Tokyo
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-08
 
-** Edad:** 6 a 11 años; elementary
+**edad:** 6–11 años. Grupos de 6–8 y 9–11 años. Para Oscar, confirmar edad al inicio y admisión en el grupo menor.
 
-** Idioma:** Pre-K declara expresamente que la enseñanza en inglés con profesores de inglés; el FAQ general amplía el requisito de la EN a K2/Y1, Primary y Secondary, por lo general no hay apoyo japonés. En la página pre-K queda una propuesta de un camp/continente summer: el contenido del invierno procede de un bloque de científicos de fecha, no de este texto antiguo.
+**Idioma:** Turno íntegramente en inglés. Se requiere comunicación básica en inglés y el profesorado imparte las clases en inglés.
 
-** Programa:** Total de la semana STEAM con AI & Robotics: Plataforma de robot, reloj de programación, proyecto de esta semana y niveles no identificados; las fotografías de Robotics Competition no demuestran la salida a la Liga Internacional.
+**Programa:** Seasonal Festive Market. Los equipos diseñan y fabrican productos para un mercado de invierno, hacen una excursión temática y presentan resultados a las familias.
 
 ** Reclutamiento: ** Formato de día, no se confirma la pensión escolar.
 
-**Fechas / situación:** 14–18 diciembre 2026, 10–15:30; Primary Llegada temprana 08:30. Duración total de la solicitud — Semana antes del comienzo: Calculado 7 diciembre, Aclarar la aplicación exacta.
+**Fechas / estado:** 14–18 de diciembre de 2026, 10:00–15:30. Llegada temprana desde 08:30 con suplemento. El plazo publicado es 7 de diciembre de 2026, sin hora de cierre indicada.
 
-**Precio / año:** 2026 · JPY 85 000/una semana o 100 000 de la llegada temprana; +6 000 Deducción primaria =91 000 / 106 000 Por niño, Impuesto incluido. Dos en Primary condicional 182 000 / 212 000 hasta el pago de una suma no reconocida, Sólo si se permite a ambos.
+**Precio / año:** 2026 · Alumnado externo JPY 85000 más JPY 6000 de matrícula. Total JPY 91000 por niño o JPY 182000 por ambos, con impuesto incluido. Con llegada temprana JPY 106000 por niño.
 
-** Incluida:** Clases temáticas, experimentos, visitas guiadas, AI & Robotics, en el paquete. Almuerzo/seguro/transporte La escuela no está descifrada.
+**Incluido:** Seasonal Festive Market. Los equipos diseñan y fabrican productos para un mercado de invierno, hacen una excursión temática y presentan resultados a las familias.
 
-** Pagadero: **Camino/hogar por separado; el precio del autobús, la comida, los materiales, el seguro y el pago internacional son los formatos seleccionados que requieren una factura final.
+**Suplementos:** Confirmar con la escuela comidas y condiciones de transporte. La llegada temprana es una opción aparte.
 
-**Pago:** Total FAQ: Dos semanas después de la solicitud, en una solicitud tardía — Una semana; después deadline Sin retorno/cambios, Adminsbor 1 000 por la abolición/cambio. Introducción 6 000 Cada uno School/Programme; La prestación de dos hijos Pre-K No se mueve aquí..
+**Pago:** Antes del plazo, cambios y cancelaciones con cargo administrativo de JPY 1000. Después del cierre la escuela no admite cambios ni devoluciones.
 
-**Matvey:** Matvey 8–9 Entra 6–11; Confirmar la distribución en elementary y complejidad de un proyecto específico.
+**Matvey:** Sí por edad. Confirmar admisión y plaza.
 
-**Oscar:** Oscar no hasta después de 6-el verano y con autorización elementary formato; Clase actual y cumpleaños desconocidos.
+**Oscar:** Sí por edad. Confirmar admisión y plaza.
 
-** Por qué en la selección: ** Programa de Invierno de la Ciencia Danaria Matway; Oscar condicionalmente después de seis años y de acuerdo con el grupo.
+**Motivo de selección:** 14–18 de diciembre de 2026, 10:00–15:30. Llegada temprana desde 08:30 con suplemento. El plazo publicado es 7 de diciembre de 2026, sin hora de cierre indicada.
 
 ### Antes de solicitar plaza
 
-- Los niños extranjeros y los niños que vienen directamente se admiten. se necesita una foto del niño y una confirmación del seguro vigente en Japón; si no hay documentos, pueden rechazar la participación.
+- Confirmar con la escuela comidas y condiciones de transporte. La llegada temprana es una opción aparte.
 
-- obtener un plan de estudios de la semana, un horario/nivel/plataforma, un campus preciso, una cuenta completa, un plazo/un contrato de este formato.
+- Antes del plazo, cambios y cancelaciones con cargo administrativo de JPY 1000. Después del cierre la escuela no admite cambios ni devoluciones.
+
+### Seasonal Festive Market
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Laurus Shiba Campus · Shiba Kokusai Building · Tokyo
+
+**Precio:** Alumnado externo JPY 85000 más JPY 6000 de matrícula. Total JPY 91000 por niño o JPY 182000 por ambos, con impuesto incluido. Con llegada temprana JPY 106000 por niño.
+
+- 2026-12-14 · 10:00–15:30 · Asia/Tokyo · Seasonal Festive Market. Los equipos diseñan y fabrican productos para un mercado de invierno, hacen una excursión temática y presentan resultados a las familias.
+
+- 2026-12-15 · 10:00–15:30 · Asia/Tokyo · Seasonal Festive Market. Los equipos diseñan y fabrican productos para un mercado de invierno, hacen una excursión temática y presentan resultados a las familias.
+
+- 2026-12-16 · 10:00–15:30 · Asia/Tokyo · Seasonal Festive Market. Los equipos diseñan y fabrican productos para un mercado de invierno, hacen una excursión temática y presentan resultados a las familias.
+
+- 2026-12-17 · 10:00–15:30 · Asia/Tokyo · Seasonal Festive Market. Los equipos diseñan y fabrican productos para un mercado de invierno, hacen una excursión temática y presentan resultados a las familias.
+
+- 2026-12-18 · 10:00–15:30 · Asia/Tokyo · Seasonal Festive Market. Los equipos diseñan y fabrican productos para un mercado de invierno, hacen una excursión temática y presentan resultados a las familias.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+**Matvey:** Sí por edad. Confirmar admisión y plaza.
+
+**Oscar:** Sí por edad. Confirmar admisión y plaza.
+
+[fuente](https://www.laurus-school.com/winter-school/)
 
 ### Fuentes
 
@@ -51805,6 +51831,8 @@ Japón · Tokyo · Campus de Winter School / Programme confirmar
 - [Pre-K específico: siete campus, inglés, pagos adicionales y documentos](https://www.laurus-school.com/winter-camp/2026) · 2026-10-05
 
 - [la versión japonesa del campamento específico y la dirección de los campus](https://www.laurus-school.com/ja/winter-camp/2026) · 2026-10-05
+
+- [Página de la organización o reglamento de la categoría.](https://www.laurus-school.com/winter-school/) · 2026-11-08
 
 ## CP667 · Laurus · Winter Programme · Secondary
 
@@ -155261,6 +155289,530 @@ Guatemala · Centro de Capacitación Santo Tomás de Castilla · Puerto Barrios
 - [Página de la organización o reglamento de la categoría.](https://cursos.intecap.edu.gt/cursos/104502) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://alumnos.intecap.edu.gt/ayuda/ayuda.pdf) · 2026-11-08
+
+## CP1931 · XCL World Academy · Fun with Robotics · LEGO WeDo
+
+Singapur · XCL World Academy · Yishun · Singapore
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–7 años. Usar el grupo de edad de esta edición.
+
+**Idioma:** Materiales en inglés. Se debe confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Montaje y programación de LEGO WeDo. Los niños exploran motores, sensores, secuencias y bucles.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 21–24 de diciembre de 2026, horario diurno 09:00–15:00. Se admite alumnado de otros colegios y países según normas del campus.
+
+**Precio / año:** 2026 · El horario muestra SGD 760. La sección marca 4 días con tarifa prorrateada. El importe final del turno no queda inequívoco.
+
+**Incluido:** Merienda, almuerzo, camiseta y materiales según la descripción de XCL.
+
+**Suplementos:** El recargo publicado de Stripe es 3%. El autobús opcional se indica a SGD 120 por semana. Confirmar tarifa de 4 días y factura final.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No por ahora. La edad supera el intervalo de este grupo.
+
+**Oscar:** Sí por edad. Confirmar admisión y plaza.
+
+**Motivo de selección:** STEAM Explorers y LEGO WeDo infantil comparten sede y horario del 21–24 de diciembre. Se puede elegir STEAM para ambos o grupos distintos. Confirmar idioma, plazas y factura final.
+
+### Antes de solicitar plaza
+
+- La organización anuncia 10% de descuento al inscribirse del 1 al 30 de noviembre de 2026. Confirmar aplicación al turno elegido e importe final.
+
+- El recargo publicado de Stripe es 3%. El autobús opcional se indica a SGD 120 por semana. Confirmar tarifa de 4 días y factura final.
+
+- STEAM Explorers y LEGO WeDo infantil comparten sede y horario del 21–24 de diciembre. Se puede elegir STEAM para ambos o grupos distintos. Confirmar idioma, plazas y factura final.
+
+### Fun with Robotics · LEGO WeDo
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** El horario muestra SGD 760. La sección marca 4 días con tarifa prorrateada. El importe final del turno no queda inequívoco.
+
+- 2026-12-21 · 09:00–15:00 · Asia/Singapore · Montaje y programación de LEGO WeDo. Los niños exploran motores, sensores, secuencias y bucles.
+
+- 2026-12-22 · 09:00–15:00 · Asia/Singapore · Montaje y programación de LEGO WeDo. Los niños exploran motores, sensores, secuencias y bucles.
+
+- 2026-12-23 · 09:00–15:00 · Asia/Singapore · Montaje y programación de LEGO WeDo. Los niños exploran motores, sensores, secuencias y bucles.
+
+- 2026-12-24 · 09:00–15:00 · Asia/Singapore · Montaje y programación de LEGO WeDo. Los niños exploran motores, sensores, secuencias y bucles.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.xwa.edu.sg/xcl-camps/schedule)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.xwa.edu.sg/xcl-camps/schedule) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.xwa.edu.sg/school-life/xcl-camps) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.xwa.edu.sg/xcl-camps/transportation) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.xwa.edu.sg/xcl-camps/the-techie) · 2026-11-08
+
+## CP1932 · XCL World Academy · STEAM Explorers
+
+Singapur · XCL World Academy · Yishun · Singapore
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–9 años según el horario de invierno. La página anterior de la modalidad indicaba 6–8 años.
+
+**Idioma:** Materiales en inglés. Se debe confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Programación, ingeniería, matemáticas y diseño. Los niños preparan un proyecto y lo muestran al final.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 21–24 de diciembre de 2026, horario diurno 09:00–15:00. Se admite alumnado de otros colegios y países según normas del campus.
+
+**Precio / año:** 2026 · El horario muestra SGD 720. La sección marca 4 días con tarifa prorrateada. El importe final del turno no queda inequívoco.
+
+**Incluido:** Merienda, almuerzo, camiseta y materiales según la descripción de XCL.
+
+**Suplementos:** El recargo publicado de Stripe es 3%. El autobús opcional se indica a SGD 120 por semana. Confirmar tarifa de 4 días y factura final.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar admisión y plaza.
+
+**Oscar:** Sí por edad. Confirmar admisión y plaza.
+
+**Motivo de selección:** STEAM Explorers y LEGO WeDo infantil comparten sede y horario del 21–24 de diciembre. Se puede elegir STEAM para ambos o grupos distintos. Confirmar idioma, plazas y factura final.
+
+### Antes de solicitar plaza
+
+- La organización anuncia 10% de descuento al inscribirse del 1 al 30 de noviembre de 2026. Confirmar aplicación al turno elegido e importe final.
+
+- El recargo publicado de Stripe es 3%. El autobús opcional se indica a SGD 120 por semana. Confirmar tarifa de 4 días y factura final.
+
+- STEAM Explorers y LEGO WeDo infantil comparten sede y horario del 21–24 de diciembre. Se puede elegir STEAM para ambos o grupos distintos. Confirmar idioma, plazas y factura final.
+
+### STEAM Explorers
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** El horario muestra SGD 720. La sección marca 4 días con tarifa prorrateada. El importe final del turno no queda inequívoco.
+
+- 2026-12-21 · 09:00–15:00 · Asia/Singapore · Programación, ingeniería, matemáticas y diseño. Los niños preparan un proyecto y lo muestran al final.
+
+- 2026-12-22 · 09:00–15:00 · Asia/Singapore · Programación, ingeniería, matemáticas y diseño. Los niños preparan un proyecto y lo muestran al final.
+
+- 2026-12-23 · 09:00–15:00 · Asia/Singapore · Programación, ingeniería, matemáticas y diseño. Los niños preparan un proyecto y lo muestran al final.
+
+- 2026-12-24 · 09:00–15:00 · Asia/Singapore · Programación, ingeniería, matemáticas y diseño. Los niños preparan un proyecto y lo muestran al final.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.xwa.edu.sg/xcl-camps/schedule)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.xwa.edu.sg/xcl-camps/schedule) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.xwa.edu.sg/school-life/xcl-camps) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.xwa.edu.sg/xcl-camps/transportation) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://xclcamps.com/the-scholar/) · 2026-11-08
+
+## CP1933 · Camp Beaumont · Malvern Multi-Activity
+
+RAE de Hong Kong (China) · Malvern College Hong Kong · Tai Po
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Magic de 5–7 años y Active de 8–12 años.
+
+**Idioma:** Anuncio y reserva en inglés. No se confirma aparte el idioma de instrucción de este grupo.
+
+**Programa:** Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 14–18 y 21–24 de diciembre de 2026, 09:00–15:00. Magic y Active se celebran en el mismo campus y horario.
+
+**Precio / año:** 2026 · El listado muestra desde HKD 700 por día. La ficha de reserva muestra desde HKD 753. Comprobar el total tras seleccionar días y opciones.
+
+**Incluido:** Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+**Suplementos:** Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final.
+
+**Pago:** La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte.
+
+**Matvey:** Sí por edad. Confirmar admisión y plaza.
+
+**Oscar:** Sí por edad. Confirmar admisión y plaza.
+
+**Motivo de selección:** 14–18 y 21–24 de diciembre de 2026, 09:00–15:00. Magic y Active se celebran en el mismo campus y horario.
+
+### Antes de solicitar plaza
+
+- El listado muestra desde HKD 700 por día. La ficha de reserva muestra desde HKD 753. Comprobar el total tras seleccionar días y opciones.
+
+- Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final.
+
+- La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte.
+
+### Magic
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**edad:** Magic de 5–7 años.
+
+**Precio:** El listado muestra desde HKD 700 por día. La ficha de reserva muestra desde HKD 753. Comprobar el total tras seleccionar días y opciones.
+
+- 2026-12-14 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+- 2026-12-15 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+- 2026-12-16 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+- 2026-12-17 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+- 2026-12-18 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+**Matvey:** No por ahora. La edad supera el intervalo de este grupo.
+
+**Oscar:** Sí por edad. Confirmar admisión y plaza.
+
+[fuente](https://booknow.campbeaumont.asia/Booking?Id=454)
+
+### Active
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**edad:** Active de 8–12 años.
+
+**Precio:** El listado muestra desde HKD 700 por día. La ficha de reserva muestra desde HKD 753. Comprobar el total tras seleccionar días y opciones.
+
+- 2026-12-14 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+- 2026-12-15 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+- 2026-12-16 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+- 2026-12-17 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+- 2026-12-18 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+**Matvey:** Sí por edad. Confirmar admisión y plaza.
+
+**Oscar:** No por ahora. Se exige alcanzar la edad mínima de este grupo.
+
+[fuente](https://booknow.campbeaumont.asia/Booking?Id=455)
+
+### Magic
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**edad:** Magic de 5–7 años.
+
+**Precio:** El listado muestra desde HKD 700 por día. La ficha de reserva muestra desde HKD 753. Comprobar el total tras seleccionar días y opciones.
+
+- 2026-12-21 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+- 2026-12-22 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+- 2026-12-23 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+- 2026-12-24 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+**Matvey:** No por ahora. La edad supera el intervalo de este grupo.
+
+**Oscar:** Sí por edad. Confirmar admisión y plaza.
+
+[fuente](https://booknow.campbeaumont.asia/Booking?Id=458)
+
+### Active
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**edad:** Active de 8–12 años.
+
+**Precio:** El listado muestra desde HKD 700 por día. La ficha de reserva muestra desde HKD 753. Comprobar el total tras seleccionar días y opciones.
+
+- 2026-12-21 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+- 2026-12-22 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+- 2026-12-23 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+- 2026-12-24 · 09:00–15:00 · Asia/Hong_Kong · Campamento diurno de deporte, proyectos creativos y juegos. Las actividades se distribuyen por grupos de edad.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+**Matvey:** Sí por edad. Confirmar admisión y plaza.
+
+**Oscar:** No por ahora. Se exige alcanzar la edad mínima de este grupo.
+
+[fuente](https://booknow.campbeaumont.asia/Booking?Id=457)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.campbeaumont.asia/our-camps/malvern-college) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://booknow.campbeaumont.asia/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://booknow.campbeaumont.asia/Booking?Id=454) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://booknow.campbeaumont.asia/Booking?Id=455) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://booknow.campbeaumont.asia/Booking?Id=458) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://booknow.campbeaumont.asia/Booking?Id=457) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.campbeaumont.asia/faqs) · 2026-11-08
+
+## CP1934 · Campus X · Malvern Mini Makers Lite
+
+RAE de Hong Kong (China) · Malvern College Hong Kong · Tai Po
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Active de 8–12 años según ficha de reserva.
+
+**Idioma:** Anuncio y reserva en inglés. No se confirma aparte el idioma de instrucción de este grupo.
+
+**Programa:** Montaje y programación de un robot, pruebas de sensores y demostración final.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 14–18 de diciembre de 2026, cinco clases de 09:00 a 12:00. El programa de tarde se ofrece por separado.
+
+**Precio / año:** 2026 · Desde HKD 4480 por bloque de mañana. Confirmar el coste del complemento de tarde.
+
+**Incluido:** Montaje y programación de un robot, pruebas de sensores y demostración final.
+
+**Suplementos:** Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final.
+
+**Pago:** La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte.
+
+**Matvey:** Sí por edad. Confirmar admisión y plaza.
+
+**Oscar:** No por ahora. Se exige alcanzar la edad mínima de este grupo.
+
+**Motivo de selección:** 14–18 de diciembre de 2026, cinco clases de 09:00 a 12:00. El programa de tarde se ofrece por separado.
+
+### Antes de solicitar plaza
+
+- Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final.
+
+- La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte.
+
+### Mini Makers Lite
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Precio:** Desde HKD 4480 por bloque de mañana. Confirmar el coste del complemento de tarde.
+
+- 2026-12-14 · 09:00–12:00 · Asia/Hong_Kong · Montaje y programación de un robot, pruebas de sensores y demostración final.
+
+- 2026-12-15 · 09:00–12:00 · Asia/Hong_Kong · Montaje y programación de un robot, pruebas de sensores y demostración final.
+
+- 2026-12-16 · 09:00–12:00 · Asia/Hong_Kong · Montaje y programación de un robot, pruebas de sensores y demostración final.
+
+- 2026-12-17 · 09:00–12:00 · Asia/Hong_Kong · Montaje y programación de un robot, pruebas de sensores y demostración final.
+
+- 2026-12-18 · 09:00–12:00 · Asia/Hong_Kong · Montaje y programación de un robot, pruebas de sensores y demostración final.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://booknow.campbeaumont.asia/Booking?Id=459)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://booknow.campbeaumont.asia/Booking?Id=459) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.campbeaumont.asia/our-camps/malvern-college) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://booknow.campbeaumont.asia/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.campbeaumont.asia/faqs) · 2026-11-08
+
+## CP1935 · Campus X · Malvern AI Movie Studio
+
+RAE de Hong Kong (China) · Malvern College Hong Kong · Tai Po
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Active de 8–12 años según ficha de reserva.
+
+**Idioma:** Anuncio y reserva en inglés. No se confirma aparte el idioma de instrucción de este grupo.
+
+**Programa:** Guion, storyboard y animación corta con generación de imágenes y vídeo, voces y edición.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 14–16 y 21–23 de diciembre de 2026, 09:00–12:00. La página del programa y las fichas de reserva indican 3 días. El listado general muestra 5 días por error.
+
+**Precio / año:** 2026 · La ficha de reserva muestra desde HKD 3280 por turno de mañana. La parte diurna adicional y la plaza se confirman aparte.
+
+**Incluido:** Guion, storyboard y animación corta con generación de imágenes y vídeo, voces y edición.
+
+**Suplementos:** Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final.
+
+**Pago:** La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte.
+
+**Matvey:** Sí por edad. Confirmar admisión y plaza.
+
+**Oscar:** No por ahora. Se exige alcanzar la edad mínima de este grupo.
+
+**Motivo de selección:** 14–16 y 21–23 de diciembre de 2026, 09:00–12:00. La página del programa y las fichas de reserva indican 3 días. El listado general muestra 5 días por error.
+
+### Antes de solicitar plaza
+
+- 14–16 y 21–23 de diciembre de 2026, 09:00–12:00. La página del programa y las fichas de reserva indican 3 días. El listado general muestra 5 días por error.
+
+- Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final.
+
+- La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte.
+
+### AI Movie Studio
+
+**Fechas / estado:** 2026-12-14 — 2026-12-16
+
+**Precio:** La ficha de reserva muestra desde HKD 3280 por turno de mañana. La parte diurna adicional y la plaza se confirman aparte.
+
+- 2026-12-14 · 09:00–12:00 · Asia/Hong_Kong · Guion, storyboard y animación corta con generación de imágenes y vídeo, voces y edición.
+
+- 2026-12-15 · 09:00–12:00 · Asia/Hong_Kong · Guion, storyboard y animación corta con generación de imágenes y vídeo, voces y edición.
+
+- 2026-12-16 · 09:00–12:00 · Asia/Hong_Kong · Guion, storyboard y animación corta con generación de imágenes y vídeo, voces y edición.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://booknow.campbeaumont.asia/Booking?Id=460)
+
+### AI Movie Studio
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**Precio:** La ficha de reserva muestra desde HKD 3280 por turno de mañana. La parte diurna adicional y la plaza se confirman aparte.
+
+- 2026-12-21 · 09:00–12:00 · Asia/Hong_Kong · Guion, storyboard y animación corta con generación de imágenes y vídeo, voces y edición.
+
+- 2026-12-22 · 09:00–12:00 · Asia/Hong_Kong · Guion, storyboard y animación corta con generación de imágenes y vídeo, voces y edición.
+
+- 2026-12-23 · 09:00–12:00 · Asia/Hong_Kong · Guion, storyboard y animación corta con generación de imágenes y vídeo, voces y edición.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://booknow.campbeaumont.asia/Booking?Id=461)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://booknow.campbeaumont.asia/Booking?Id=460) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://booknow.campbeaumont.asia/Booking?Id=461) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.campbeaumont.asia/our-camps/malvern-college) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://booknow.campbeaumont.asia/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.campbeaumont.asia/faqs) · 2026-11-08
+
+## CP1936 · Frost Science · Winter Camp
+
+Estados Unidos · Frost Museum of Science · Miami
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 5–11 años. Mínimo 5 años el primer día y uso autónomo del baño.
+
+**Idioma:** Materiales en inglés. Se debe confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Experimentos, visita al museo y planetario, incluida la exposición Pixar según el programa del campamento.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Dos turnos separados del 21–24 y 28–31 de diciembre de 2026. Programa principal de 09:00 a 15:30.
+
+**Precio / año:** 2026 · USD 429 por 4 días. Dos niños USD 858 antes de descuentos. Se anuncia descuento de USD 50 por participante para miembros.
+
+**Incluido:** Incluye almuerzo, 3 meriendas diarias, camiseta y cuidado posterior. El programa principal termina a las 15:30.
+
+**Suplementos:** La página del turno de invierno indica cuidado de 16:00 a 17:30. Las preguntas frecuentes generales indican 15:30–17:30. Confirmar el inicio exacto.
+
+**Pago:** Las preguntas frecuentes piden avisar de la renuncia con al menos 2 semanas. Si se avisa a tiempo, hay crédito para programas del museo sin devolución monetaria.
+
+**Matvey:** Sí por edad. Confirmar admisión y plaza.
+
+**Oscar:** Sí por edad. Confirmar admisión y plaza.
+
+**Motivo de selección:** Dos turnos separados del 21–24 y 28–31 de diciembre de 2026. Programa principal de 09:00 a 15:30.
+
+### Antes de solicitar plaza
+
+- La página del turno de invierno indica cuidado de 16:00 a 17:30. Las preguntas frecuentes generales indican 15:30–17:30. Confirmar el inicio exacto.
+
+- Las preguntas frecuentes piden avisar de la renuncia con al menos 2 semanas. Si se avisa a tiempo, hay crédito para programas del museo sin devolución monetaria.
+
+- Materiales en inglés. Se debe confirmar el idioma de instrucción del grupo concreto.
+
+### Epic Earth
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** USD 429 por 4 días. Dos niños USD 858 antes de descuentos. Se anuncia descuento de USD 50 por participante para miembros.
+
+**Programa:** Experimentos sobre ecosistemas terrestres y el trabajo de investigadores.
+
+- 2026-12-21 · 09:00–15:30 · America/New_York · Experimentos sobre ecosistemas terrestres y el trabajo de investigadores.
+
+- 2026-12-22 · 09:00–15:30 · America/New_York · Experimentos sobre ecosistemas terrestres y el trabajo de investigadores.
+
+- 2026-12-23 · 09:00–15:30 · America/New_York · Experimentos sobre ecosistemas terrestres y el trabajo de investigadores.
+
+- 2026-12-24 · 09:00–15:30 · America/New_York · Experimentos sobre ecosistemas terrestres y el trabajo de investigadores.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.frostscience.org/event/winter-camp-epic-earth/)
+
+### Space Quest
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** USD 429 por 4 días. Dos niños USD 858 antes de descuentos. Se anuncia descuento de USD 50 por participante para miembros.
+
+**Programa:** Experimentos y actividades prácticas sobre el espacio.
+
+- 2026-12-28 · 09:00–15:30 · America/New_York · Experimentos y actividades prácticas sobre el espacio.
+
+- 2026-12-29 · 09:00–15:30 · America/New_York · Experimentos y actividades prácticas sobre el espacio.
+
+- 2026-12-30 · 09:00–15:30 · America/New_York · Experimentos y actividades prácticas sobre el espacio.
+
+- 2026-12-31 · 09:00–15:30 · America/New_York · Experimentos y actividades prácticas sobre el espacio.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.frostscience.org/event/winter-camp-space-quest/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.frostscience.org/wintercamp/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.frostscience.org/event/winter-camp-epic-earth/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.frostscience.org/event/winter-camp-space-quest/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.frostscience.org/camp-faqs/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.frostscience.org/exhibition/the-science-behind-pixar/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

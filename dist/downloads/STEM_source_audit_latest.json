@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10091,
+    "cards": 10103,
     "competition_cards": 4584,
-    "event_cards": 545,
-    "camp_cards": 4962,
+    "event_cards": 546,
+    "camp_cards": 4973,
     "league_profiles": 299,
-    "major_exhibition_cards": 448,
+    "major_exhibition_cards": 449,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3296,
+      "total": 3299,
       "countries_with_records": 40,
       "competitions": 1906,
-      "events": 141,
-      "major_exhibitions": 103,
-      "camps": 1249,
+      "events": 142,
+      "major_exhibitions": 104,
+      "camps": 1251,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 2940,
+      "total": 2949,
       "countries_with_records": 49,
       "competitions": 1140,
       "events": 151,
       "major_exhibitions": 138,
-      "camps": 1649,
+      "camps": 1658,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -13610,6 +13610,17 @@
       "new": false
     },
     {
+      "id": "E546",
+      "name": "The Science Behind Pixar · Frost Science Miami",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2026-10-10",
+      "end": "2027-04-11",
+      "visitor_policy": "family",
+      "source": "https://www.frostscience.org/exhibition/the-science-behind-pixar/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -16027,8 +16038,8 @@
       }
     ],
     "counts": {
-      "records": 4962,
-      "holiday": 4619,
+      "records": 4973,
+      "holiday": 4630,
       "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1037,

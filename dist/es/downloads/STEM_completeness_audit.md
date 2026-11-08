@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10091; competiciones: 4584; eventos: 545; campamentos / programas: 4962. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 448 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10103; competiciones: 4584; eventos: 546; campamentos / programas: 4973. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 449 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -14,11 +14,11 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1906 | 103 | 1249 |
+| América del Norte | 40 | 1906 | 104 | 1251 |
 | América del Sur | 14 | 422 | 37 | 200 |
 | Europa | 52 | 579 | 111 | 1425 |
 | África | 53 | 235 | 28 | 92 |
-| Asia | 49 | 1140 | 138 | 1649 |
+| Asia | 49 | 1140 | 138 | 1658 |
 | Oceanía | 25 | 162 | 29 | 332 |
 
 Fichas interregionales o globales sin asignar a un continente: 162. Norteamérica incluye Centroamérica y el Caribe. Los recuentos muestran el inventario de la base, no un porcentaje de exhaustividad.
@@ -815,6 +815,7 @@ VEX: 814 de 4584 fichas de competiciones (17.8%). Hay un desequilibrio claro de 
 - **SPIEL Essen 2027 · Board Games** — Alemania; 2027-10-21 – 2027-10-24. el permiso de entrada de niños. https://spiel-essen.de/de/besuchen/tickets-oeffnungszeiten
 - **Origins Game Fair 2027 · Columbus** — Estados Unidos; 2027-06-09 – 2027-06-13. con un adulto; condiciones de admisión adulta por separado. https://www.originsgamefair.com/
 - **Gen Con Indy 2027 · Board Games** — Estados Unidos; 2027-08-05 – 2027-08-08. el permiso de entrada de niños. https://www.gencon.com/
+- **The Science Behind Pixar · Frost Science Miami** — Estados Unidos; 2026-10-10 – 2027-04-11. con un adulto; condiciones de admisión adulta por separado. https://www.frostscience.org/exhibition/the-science-behind-pixar/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

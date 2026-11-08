@@ -3049,7 +3049,7 @@ Comprobado: 2026-10-01
 ### ~#L183 · XCL Camps · Robotics · temporada siguiente
 
 Lugar: Singapur · XCL World Academy / Campus seleccionado
-Fecha: No se ha anunciado el siguiente conjunto/ fechas
+Fecha: 21–24 de diciembre de 2026, horario diurno 09:00–15:00. Se admite alumnado de otros colegios y países según normas del campus.
 Edad: 7–10
 Matvey: Condicional:9–10 en2027; una carrera específica/lengua y edad al primer día.
 Oscar: condicionalmente sólo después de7-de los años2027; en el6menor de edad del mínimo.
@@ -3058,9 +3058,9 @@ Idioma: FAQ permite un bajo nivel de inglés, pero no establece el idioma de ins
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: No se ha confirmado la siguiente tarifa/disponibilidad
 Entrada: Seleccione la pista y el grupo publicados; confirme la edad, el idioma, la recepción y los lugares.
-Limitaciones: Calendario de archivo2026 Ya pasó.; Invierno nuevo2026/27 o de verano2027 No hay fecha. Pago íntegro3 días laborables después de la reserva. Tratado: después del pago de la cancelación/No se devuelve, incluida la llegada tardía/Salida temprana. Traslado ≥10 días dentro de la misma temporada Summer/Winter En efectivo; un curso más caro con un suplemento. FAQ permite que se examine la devolución de una enfermedad durante toda la semana y se examine el certificado, Pero el tratado no lo promete.: La contradicción debe resolverse antes de comprar. El cierre por las autoridades puede dar un crédito anual en lugar de un reembolso. SGD120/semana/Un niño por autobús FAQ, ruta al ≥6 pasajeros. Personal medical/accident Seguro obligatorio: XWA no cubre a los alumnos no matriculados/de los padres/Visitantes. Vivienda familiar/Vuelo/La carretera por separado. En línea Stripe +3%, Comisión condicional de la forma de pago. 10% earlybird antes15mayo2026 Se acabó.; Deducción del segundo hijo no confirmada.
+Limitaciones: STEAM Explorers y LEGO WeDo infantil comparten sede y horario del 21–24 de diciembre. Se puede elegir STEAM para ambos o grupos distintos. Confirmar idioma, plazas y factura final.
 Fuente: https://xclcamps.com/the-techie/robotics/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-08
 
 ### ~#L184 · XCL Camps · Junior Coding · próxima temporada
 
@@ -35014,21 +35014,21 @@ Limitaciones: Matvey: Matvey 2017 en diciembre 2026 Más alto que el máximo 6; 
 Fuente: https://www.laurus-school.com/winter-camp/2026
 Comprobado: 2026-10-05
 
-### CP666-20261214-20261218 · Laurus · Winter School · Primary · 2026-12-14–2026-12-18
+### CP666-20261214-20261218 · Laurus · Winter School · Primary · Seasonal Festive Market · 2026-12-14–2026-12-18
 
-Lugar: Japón · Tokyo · Campus de Winter School / Programme confirmar
+Lugar: Japón Laurus Shiba Campus · Shiba Kokusai Building · Tokyo
 Fecha: 2026-12-14 - 2026-12-18
-Edad: 6 a 11 años; elementary
+edad: 6–11 años. Grupos de 6–8 y 9–11 años. Para Oscar, confirmar edad al inicio y admisión en el grupo menor.
 Matway: Sí, por edad; inscripción separada
-Óscar: Condicional; comprobar la edad, la clase y la admisión
+Oscar: Sí por edad; inscripción separada
 Formato: day_camp
-Idioma: Pre-K declara explícitamente que la enseñanza en inglés con profesores de inglés es la que se utiliza en el FAQ común para ampliar el requisito de la EN básica a K2/Y1, Primary y Secondary, por lo general no hay apoyo japonés. En la página pre-K queda una propuesta de un camp/continente summer: el contenido del invierno procede de un bloque de científicos de fecha, no de este texto antiguo.
+Idioma: Turno íntegramente en inglés. Se requiere comunicación básica en inglés y el profesorado imparte las clases en inglés.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2026 · JPY 85 000/una semana o 100 000 de la llegada temprana; +6 000 Deducción primaria =91 000 / 106 000 Por niño, Impuesto incluido. Dos en Primary condicional 182 000 / 212 000 hasta el pago de una suma no reconocida, Sólo si se permite a ambos.
+Precio: 2026/27 · Alumnado externo JPY 85000 más JPY 6000 de matrícula. Total JPY 91000 por niño o JPY 182000 por ambos, con impuesto incluido. Con llegada temprana JPY 106000 por niño. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Matvey 8–9 Entra 6–11; confirmar la distribución en elementary y complejidad de un proyecto específico. Oscar: Oscar no hasta después de 6-El verano y el año en que se permite elementary formato; Clase actual y cumpleaños desconocidos. Gastos adicionales: Carretera/la vivienda de la familia por separado. Costo del autobús, Nutrición, materiales, El formato elegido requiere una factura final.. Pago: Total FAQ: Dos semanas después de la solicitud, en una solicitud tardía — Una semana; después deadline Sin retorno/cambios, Adminsbor 1 000 por la abolición/cambio. Introducción 6 000 Cada uno School/Programme; La prestación de dos hijos Pre-K No se mueve aquí..
-Fuente: https://www.laurus-school.com/winter-events/
-Comprobado: 2026-10-05
+Limitaciones: Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: Sí por edad. Confirmar admisión y plaza. Suplementos: Confirmar con la escuela comidas y condiciones de transporte. La llegada temprana es una opción aparte. Pago: Antes del plazo, cambios y cancelaciones con cargo administrativo de JPY 1000. Después del cierre la escuela no admite cambios ni devoluciones.
+Fuente: https://www.laurus-school.com/winter-school/
+Se ha comprobado: 2026-11-08
 
 ### CP667-20261214-20261218 · Laurus · Winter Programme · Secondary · 2026-12-14–2026-12-18
 
@@ -78180,6 +78180,182 @@ Precio: 2026/27 · Pago único de 100.00 según la ficha de INTECAP. No figura c
 Acceso: La guía general del portal prevé acceso con Carné tras registro con pasaporte. Confirmar requisitos de solicitud del menor extranjero en este curso.
 Limitaciones: Matvey: Encaja por edad si lee y escribe. Confirmar plaza, idioma y documentos del participante extranjero. Oscar: Actualmente por debajo del mínimo de 8 años. Suplementos: Confirmar si robot, materiales y útiles están incluidos en la tarifa. Pago: Pago único. El operador indica que los pagos no son reembolsables.
 Fuente: https://cursos.intecap.edu.gt/detalle/48609/2026
+Se ha comprobado: 2026-11-08
+
+### CP1931-20261221-20261224-dec21 · XCL World Academy · Fun with Robotics · LEGO WeDo · Fun with Robotics · LEGO WeDo · 2026-12-21–2026-12-24
+
+lugar: Singapur · XCL World Academy · Yishun · Singapore
+Fecha: 2026-12-21 - 2026-12-24
+edad: 4–7 años. Usar el grupo de edad de esta edición.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Se debe confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · El horario muestra SGD 760. La sección marca 4 días con tarifa prorrateada. El importe final del turno no queda inequívoco. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por ahora. La edad supera el intervalo de este grupo. Oscar: Sí por edad. Confirmar admisión y plaza. Suplementos: El recargo publicado de Stripe es 3%. El autobús opcional se indica a SGD 120 por semana. Confirmar tarifa de 4 días y factura final. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.xwa.edu.sg/xcl-camps/schedule
+Se ha comprobado: 2026-11-08
+
+### CP1932-20261221-20261224-dec21 · XCL World Academy · STEAM Explorers · STEAM Explorers · 2026-12-21–2026-12-24
+
+lugar: Singapur · XCL World Academy · Yishun · Singapore
+Fecha: 2026-12-21 - 2026-12-24
+edad: 6–9 años según el horario de invierno. La página anterior de la modalidad indicaba 6–8 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Se debe confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · El horario muestra SGD 720. La sección marca 4 días con tarifa prorrateada. El importe final del turno no queda inequívoco. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: Sí por edad. Confirmar admisión y plaza. Suplementos: El recargo publicado de Stripe es 3%. El autobús opcional se indica a SGD 120 por semana. Confirmar tarifa de 4 días y factura final. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.xwa.edu.sg/xcl-camps/schedule
+Se ha comprobado: 2026-11-08
+
+### CP1933-20261214-20261218-magic-2026-12-14 · Camp Beaumont · Malvern Multi-Activity · Magic · 2026-12-14–2026-12-18
+
+lugar: RAE de Hong Kong (China) · Malvern College Hong Kong · Tai Po
+Fecha: 2026-12-14 - 2026-12-18
+edad: Magic de 5–7 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Anuncio y reserva en inglés. No se confirma aparte el idioma de instrucción de este grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · El listado muestra desde HKD 700 por día. La ficha de reserva muestra desde HKD 753. Comprobar el total tras seleccionar días y opciones. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por ahora. La edad supera el intervalo de este grupo. Oscar: Sí por edad. Confirmar admisión y plaza. Suplementos: Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final. Pago: La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte.
+Fuente: https://booknow.campbeaumont.asia/Booking?Id=454
+Se ha comprobado: 2026-11-08
+
+### CP1933-20261214-20261218-active-2026-12-14 · Camp Beaumont · Malvern Multi-Activity · Active · 2026-12-14–2026-12-18
+
+lugar: RAE de Hong Kong (China) · Malvern College Hong Kong · Tai Po
+Fecha: 2026-12-14 - 2026-12-18
+edad: Active de 8–12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Anuncio y reserva en inglés. No se confirma aparte el idioma de instrucción de este grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · El listado muestra desde HKD 700 por día. La ficha de reserva muestra desde HKD 753. Comprobar el total tras seleccionar días y opciones. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: No por ahora. Se exige alcanzar la edad mínima de este grupo. Suplementos: Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final. Pago: La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte.
+Fuente: https://booknow.campbeaumont.asia/Booking?Id=455
+Se ha comprobado: 2026-11-08
+
+### CP1933-20261221-20261224-magic-2026-12-21 · Camp Beaumont · Malvern Multi-Activity · Magic · 2026-12-21–2026-12-24
+
+lugar: RAE de Hong Kong (China) · Malvern College Hong Kong · Tai Po
+Fecha: 2026-12-21 - 2026-12-24
+edad: Magic de 5–7 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Anuncio y reserva en inglés. No se confirma aparte el idioma de instrucción de este grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · El listado muestra desde HKD 700 por día. La ficha de reserva muestra desde HKD 753. Comprobar el total tras seleccionar días y opciones. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por ahora. La edad supera el intervalo de este grupo. Oscar: Sí por edad. Confirmar admisión y plaza. Suplementos: Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final. Pago: La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte.
+Fuente: https://booknow.campbeaumont.asia/Booking?Id=458
+Se ha comprobado: 2026-11-08
+
+### CP1933-20261221-20261224-active-2026-12-21 · Camp Beaumont · Malvern Multi-Activity · Active · 2026-12-21–2026-12-24
+
+lugar: RAE de Hong Kong (China) · Malvern College Hong Kong · Tai Po
+Fecha: 2026-12-21 - 2026-12-24
+edad: Active de 8–12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Anuncio y reserva en inglés. No se confirma aparte el idioma de instrucción de este grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · El listado muestra desde HKD 700 por día. La ficha de reserva muestra desde HKD 753. Comprobar el total tras seleccionar días y opciones. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: No por ahora. Se exige alcanzar la edad mínima de este grupo. Suplementos: Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final. Pago: La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte.
+Fuente: https://booknow.campbeaumont.asia/Booking?Id=457
+Se ha comprobado: 2026-11-08
+
+### CP1934-20261214-20261218-dec14 · Campus X · Malvern Mini Makers Lite · Mini Makers Lite · 2026-12-14–2026-12-18
+
+lugar: RAE de Hong Kong (China) · Malvern College Hong Kong · Tai Po
+Fecha: 2026-12-14 - 2026-12-18
+edad: Active de 8–12 años según ficha de reserva.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Anuncio y reserva en inglés. No se confirma aparte el idioma de instrucción de este grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Desde HKD 4480 por bloque de mañana. Confirmar el coste del complemento de tarde. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: No por ahora. Se exige alcanzar la edad mínima de este grupo. Suplementos: Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final. Pago: La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte.
+Fuente: https://booknow.campbeaumont.asia/Booking?Id=459
+Se ha comprobado: 2026-11-08
+
+### CP1935-20261214-20261216-dec14 · Campus X · Malvern AI Movie Studio · AI Movie Studio · 2026-12-14–2026-12-16
+
+lugar: RAE de Hong Kong (China) · Malvern College Hong Kong · Tai Po
+Fecha: 2026-12-14 国 2026-12-16
+edad: Active de 8–12 años según ficha de reserva.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Anuncio y reserva en inglés. No se confirma aparte el idioma de instrucción de este grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · La ficha de reserva muestra desde HKD 3280 por turno de mañana. La parte diurna adicional y la plaza se confirman aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: No por ahora. Se exige alcanzar la edad mínima de este grupo. Suplementos: Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final. Pago: La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte.
+Fuente: https://booknow.campbeaumont.asia/Booking?Id=460
+Se ha comprobado: 2026-11-08
+
+### CP1935-20261221-20261223-dec21 · Campus X · Malvern AI Movie Studio · AI Movie Studio · 2026-12-21–2026-12-23
+
+lugar: RAE de Hong Kong (China) · Malvern College Hong Kong · Tai Po
+Fecha: 2026-12-21 - 2026-12-23
+edad: Active de 8–12 años según ficha de reserva.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Anuncio y reserva en inglés. No se confirma aparte el idioma de instrucción de este grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · La ficha de reserva muestra desde HKD 3280 por turno de mañana. La parte diurna adicional y la plaza se confirman aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: No por ahora. Se exige alcanzar la edad mínima de este grupo. Suplementos: Según las preguntas frecuentes generales, hay que llevar almuerzo y meriendas. Confirmar aparte horas adicionales y tarifa final. Pago: La organización exige pago al reservar. Los cambios dependen de FLEX, cuyo suplemento va aparte.
+Fuente: https://booknow.campbeaumont.asia/Booking?Id=461
+Se ha comprobado: 2026-11-08
+
+### CP1936-20261221-20261224-epic-earth · Frost Science · Winter Camp · Epic Earth · 2026-12-21–2026-12-24
+
+lugar: Estados Unidos · Frost Museum of Science · Miami
+Fecha: 2026-12-21 - 2026-12-24
+edad: 5–11 años. Mínimo 5 años el primer día y uso autónomo del baño.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Se debe confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 429 por 4 días. Dos niños USD 858 antes de descuentos. Se anuncia descuento de USD 50 por participante para miembros. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: Sí por edad. Confirmar admisión y plaza. Suplementos: La página del turno de invierno indica cuidado de 16:00 a 17:30. Las preguntas frecuentes generales indican 15:30–17:30. Confirmar el inicio exacto. Pago: Las preguntas frecuentes piden avisar de la renuncia con al menos 2 semanas. Si se avisa a tiempo, hay crédito para programas del museo sin devolución monetaria.
+Fuente: https://www.frostscience.org/event/winter-camp-epic-earth/
+Se ha comprobado: 2026-11-08
+
+### CP1936-20261228-20261231-space-quest · Frost Science · Winter Camp · Space Quest · 2026-12-28–2026-12-31
+
+lugar: Estados Unidos · Frost Museum of Science · Miami
+Fecha: 2026-12-28 - 2026-12-31
+edad: 5–11 años. Mínimo 5 años el primer día y uso autónomo del baño.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales en inglés. Se debe confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 429 por 4 días. Dos niños USD 858 antes de descuentos. Se anuncia descuento de USD 50 por participante para miembros. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: Sí por edad. Confirmar admisión y plaza. Suplementos: La página del turno de invierno indica cuidado de 16:00 a 17:30. Las preguntas frecuentes generales indican 15:30–17:30. Confirmar el inicio exacto. Pago: Las preguntas frecuentes piden avisar de la renuncia con al menos 2 semanas. Si se avisa a tiempo, hay crédito para programas del museo sin devolución monetaria.
+Fuente: https://www.frostscience.org/event/winter-camp-space-quest/
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

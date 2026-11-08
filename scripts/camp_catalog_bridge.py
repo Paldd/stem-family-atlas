@@ -126,6 +126,9 @@ RELATED.update({
     'citc-san-jose-robotoys': ['L650'],
     'citc-san-jose-algoc': ['L651'],
     'hyundai-singapore-spot-coding': ['L724'],
+    'xcl-winter-2026-robotics': ['L183'],
+    'xcl-winter-2026-steam': ['L183'],
+    'frost-science-winter-2026': ['E546'],
     'pulediamante-parquesol-navidad': ['L652'],
 })
 FIT = {'candidate':'Да по возрасту; зачисление отдельно',
