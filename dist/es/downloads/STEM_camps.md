@@ -12870,6 +12870,54 @@ Limitaciones: La sede se llama Boarding Campus. La descripción del campamento n
 Fuente: https://regents.ac.th/extra-programme/course-camps/
 Se ha comprobado: 2026-11-08
 
+### L881 · Hong Kong Innovators Summit · Preparation Workshop 1
+
+lugar: RAE de Hong Kong (China) · City University of Hong Kong · Kowloon
+Fecha: 2027-01-09 — 2027-01-09
+edad: Condicional. Abierto a estudiantes de primaria y secundaria. Confirmar curso, plaza e inscripción.
+Matvey: Condicional. Abierto a estudiantes de primaria y secundaria. Confirmar curso, plaza e inscripción.
+Oscar: Condicional. Abierto a estudiantes de primaria y secundaria. Confirmar curso, plaza e inscripción.
+Formato: holiday_workshop
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+Limitaciones: La fecha de la sesión preparatoria está publicada. Confirmar horario, idioma de cada sesión y forma de inscripción.
+Fuente: https://www.gycsi.org/activities
+Se ha comprobado: 2026-11-08
+
+### L882 · Hong Kong Innovators Summit · Preparation Workshop 2
+
+lugar: RAE de Hong Kong (China) · City University of Hong Kong · Kowloon
+Fecha: 2027-01-23 — 2027-01-23
+edad: Condicional. Abierto a estudiantes de primaria y secundaria. Confirmar curso, plaza e inscripción.
+Matvey: Condicional. Abierto a estudiantes de primaria y secundaria. Confirmar curso, plaza e inscripción.
+Oscar: Condicional. Abierto a estudiantes de primaria y secundaria. Confirmar curso, plaza e inscripción.
+Formato: holiday_workshop
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+Limitaciones: La fecha de la sesión preparatoria está publicada. Confirmar horario, idioma de cada sesión y forma de inscripción.
+Fuente: https://www.gycsi.org/activities
+Se ha comprobado: 2026-11-08
+
+### L883 · Hong Kong Innovators Summit · Preparation Workshop 3
+
+lugar: RAE de Hong Kong (China) · City University of Hong Kong · Kowloon
+Fecha: 2027-02-20 — 2027-02-20
+edad: Condicional. Abierto a estudiantes de primaria y secundaria. Confirmar curso, plaza e inscripción.
+Matvey: Condicional. Abierto a estudiantes de primaria y secundaria. Confirmar curso, plaza e inscripción.
+Oscar: Condicional. Abierto a estudiantes de primaria y secundaria. Confirmar curso, plaza e inscripción.
+Formato: holiday_workshop
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+Limitaciones: La fecha de la sesión preparatoria está publicada. Confirmar horario, idioma de cada sesión y forma de inscripción.
+Fuente: https://www.gycsi.org/activities
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

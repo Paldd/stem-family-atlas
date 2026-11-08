@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10819,
-    "competition_cards": 4812,
-    "event_cards": 669,
-    "camp_cards": 5338,
+    "cards": 10833,
+    "competition_cards": 4818,
+    "event_cards": 674,
+    "camp_cards": 5341,
     "league_profiles": 309,
-    "major_exhibition_cards": 570,
+    "major_exhibition_cards": 575,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3533,
+      "total": 3534,
       "countries_with_records": 41,
       "competitions": 1966,
-      "events": 189,
-      "major_exhibitions": 148,
+      "events": 190,
+      "major_exhibitions": 149,
       "camps": 1378,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -48,11 +48,11 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 739,
+      "total": 740,
       "countries_with_records": 15,
       "competitions": 452,
-      "events": 54,
-      "major_exhibitions": 50,
+      "events": 55,
+      "major_exhibitions": 51,
       "camps": 233,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
@@ -62,11 +62,11 @@
       "regions": [
         "Европа"
       ],
-      "total": 2339,
+      "total": 2342,
       "countries_with_records": 55,
       "competitions": 636,
-      "events": 163,
-      "major_exhibitions": 138,
+      "events": 166,
+      "major_exhibitions": 141,
       "camps": 1540,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 3056,
+      "total": 3065,
       "countries_with_records": 50,
-      "competitions": 1177,
+      "competitions": 1183,
       "events": 173,
       "major_exhibitions": 160,
-      "camps": 1706,
+      "camps": 1709,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -10195,11 +10195,11 @@
     },
     {
       "id": "E126",
-      "name": "SIA Shanghai · Automation & Robotics · 2027 · даты расходятся",
+      "name": "SIA Shanghai · Smart Factory / Humanoid Robotics 2027",
       "country": "Китай",
       "region": "Азия",
-      "start": "",
-      "end": "",
+      "start": "2027-06-16",
+      "end": "2027-06-18",
       "visitor_policy": "confirm_children",
       "source": "https://www.asia-sia.com/",
       "new": false
@@ -15188,6 +15188,61 @@
       "new": false
     },
     {
+      "id": "E670",
+      "name": "Robótica Expo México 2027",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2027-04-07",
+      "end": "2027-04-08",
+      "visitor_policy": "confirm_children",
+      "source": "https://roboticaexpo.com/mexico",
+      "new": false
+    },
+    {
+      "id": "E671",
+      "name": "FIMIR 2027 · Maquinaria Industrial y Robótica",
+      "country": "Испания",
+      "region": "Европа",
+      "start": "2027-04-14",
+      "end": "2027-04-16",
+      "visitor_policy": "confirm_children",
+      "source": "https://feriafimir.com/",
+      "new": false
+    },
+    {
+      "id": "E672",
+      "name": "Robotics Expo Finland · 2027",
+      "country": "Финляндия",
+      "region": "Европа",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://roboticaexpo.com/finland",
+      "new": false
+    },
+    {
+      "id": "E673",
+      "name": "ExpoGame Chile · сезон 2027",
+      "country": "Чили",
+      "region": "Южная Америка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.expogamechile.cl/",
+      "new": false
+    },
+    {
+      "id": "E674",
+      "name": "ROBOTICS Slovenia · IFAM / INTRONIKA · 2027",
+      "country": "Словения",
+      "region": "Европа",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://icm.si/events/robotics-slovenia/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -17605,8 +17660,8 @@
       }
     ],
     "counts": {
-      "records": 5338,
-      "holiday": 4829,
+      "records": 5341,
+      "holiday": 4832,
       "regular": 201,
       "self_paced_materials": 4,
       "boarding": 1039,

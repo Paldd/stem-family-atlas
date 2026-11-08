@@ -6405,6 +6405,19 @@ Limitaciones: El robot retira hasta 10 objetos del campo.
 Fuente: https://somosgrupora.com/assets/docs/reglamento-saca-basura-beet-bot.pdf
 Se ha comprobado: 2026-11-08
 
+### E673 · ExpoGame Chile · temporada 2027
+
+Fecha: La organización anuncia su regreso en 2027. Aún no se publican fechas ni sede.
+edad: Aún no se conocen las condiciones de admisión de menores de 6 y 9 años para esta edición.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Consultar con la organización la admisión infantil, el tipo de entrada y los expositores del día elegido.
+Precio: Quedan por confirmar el precio y el tipo de entrada para esta edición.
+Limitaciones:
+Fuente: https://www.expogamechile.cl/
+Se ha comprobado: 2026-11-08
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

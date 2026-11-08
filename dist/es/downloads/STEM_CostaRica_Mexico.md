@@ -5621,6 +5621,19 @@ Limitaciones: La participación de equipos requería inscripción. La entrada p�
 Fuente: https://uriangato.gob.mx/web/noticias/preparate-para-el-mundialito-futbot-evento-regional
 Se ha comprobado: 2026-11-08
 
+### E670 · Robótica Expo México 2027
+
+Fecha: 2027-04-07 — 2027-04-08
+edad: Aún no se conocen las condiciones de admisión de menores de 6 y 9 años para esta edición.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Feria profesional. Confirmar acreditación, disponibilidad de entradas y admisión infantil.
+Precio: Quedan por confirmar el precio y el tipo de entrada para esta edición.
+Limitaciones:
+Fuente: https://roboticaexpo.com/mexico
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

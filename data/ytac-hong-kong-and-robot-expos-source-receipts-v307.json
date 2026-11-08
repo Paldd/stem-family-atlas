@@ -1,0 +1,184 @@
+{
+  "captures": [
+    {
+      "key": "ytac",
+      "url": "https://ytac.asia/",
+      "final_url": "https://ytac.asia/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 126830,
+      "sha256": "793b10477a997a70a893373da3d3984f8a4d15080764c6be30144d866b90aa1b",
+      "file": "ytac.html"
+    },
+    {
+      "key": "ytac-pdf",
+      "url": "https://ytac.asia/pdf-file/docs/handbooks/YTAC_2027_HANDBOOK_2.pdf",
+      "final_url": "https://ytac.asia/pdf-file/docs/handbooks/YTAC_2027_HANDBOOK_2.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 8400073,
+      "sha256": "ad8e18c4a7b1621d043bb54240eae4f68039098679231e59c28433793fc9066e",
+      "file": "ytac-pdf.pdf"
+    },
+    {
+      "key": "ytac-register",
+      "url": "https://ytac.asia/registration",
+      "final_url": "https://ytac.asia/registration",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 156799,
+      "sha256": "7151fd91423ab1c00a8ddb2043ca545d63a7cfc5a9d29f52a7a3dd7ab39212d9",
+      "file": "ytac-register.html"
+    },
+    {
+      "key": "hki",
+      "url": "https://www.gycsi.org/activities",
+      "final_url": "https://www.gycsi.org/activities",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 41847,
+      "sha256": "d8678bbf97655b5b3c46245ed57c8028364ea81ef97de24074b585df5a13e19d",
+      "file": "hki.html"
+    },
+    {
+      "key": "doai",
+      "url": "https://dayofaiindonesia.org/ai-challenge-2027/",
+      "final_url": "https://dayofaiindonesia.org/ai-challenge-2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 180101,
+      "sha256": "6274c7b1d3c2480f75c4c5d911b0cc3cc5d9ce070b339023552f45fde9afb57e",
+      "file": "doai.html"
+    },
+    {
+      "key": "mex-expo",
+      "url": "https://roboticaexpo.com/mexico",
+      "final_url": "https://roboticaexpo.com/mexico",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 92906,
+      "sha256": "0dac0674827c9a140f0c67ec1f52217659d61734fd8dbf6bfe0b754907f20b5d",
+      "file": "mex-expo.html"
+    },
+    {
+      "key": "fimir",
+      "url": "https://feriafimir.com/",
+      "final_url": "https://feriafimir.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 161184,
+      "sha256": "a477430856c9db622832518ccebf71cb26cdca2e0cd8ca60b2f1bb7b43c059b3",
+      "file": "fimir.html"
+    },
+    {
+      "key": "fimir-visit",
+      "url": "https://feriafimir.com/visitantes/",
+      "final_url": "https://feriafimir.com/visitantes/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 168334,
+      "sha256": "63bbd18a850c6cc52fec5ec394600495af9eda5407cc0388c45e758b1269df0a",
+      "file": "fimir-visit.html"
+    },
+    {
+      "key": "robotics-finland",
+      "url": "https://roboticaexpo.com/finland",
+      "final_url": "https://roboticaexpo.com/finland",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 60443,
+      "sha256": "fe347df649ffb95c499fce5c2079d58e185bc09fa83ea90c908df965aa7a08b7",
+      "file": "robotics-finland.html"
+    },
+    {
+      "key": "expogame-cl",
+      "url": "https://www.expogamechile.cl/",
+      "final_url": "https://www.expogamechile.cl/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 885427,
+      "sha256": "6830a3d04f5418c4ea4f0c20de624dcc19b748de218821e731941e013bbc6af6",
+      "file": "expogame-cl.html"
+    },
+    {
+      "key": "slovenia-robotics",
+      "url": "https://icm.si/events/robotics-slovenia/",
+      "final_url": "https://icm.si/events/robotics-slovenia/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 371121,
+      "sha256": "b023989cc87b3bea043e1751d76dfbd0bd0fd227e1b4efb0dc34b0ad4bb05305",
+      "file": "slovenia-robotics.html"
+    },
+    {
+      "key": "slovenia-venue",
+      "url": "https://www.gr-sejem.si/aktualni-dogodki",
+      "final_url": "https://www.gr-sejem.si/aktualni-dogodki",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 356295,
+      "sha256": "3bbd4652ad53d07051a339121abb24a5b99c36d9cbf69405dce6e0ec1ef8602b",
+      "file": "slovenia-venue.html"
+    },
+    {
+      "key": "slovenia-exhibitors",
+      "url": "https://icm.si/events/robotics-slovenia-exhibitors/",
+      "final_url": "https://icm.si/events/robotics-slovenia-exhibitors/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 390791,
+      "sha256": "a7ac0f040ff6f5acb61863454def0bfd10645c96c1403753589ac48d29424836",
+      "file": "slovenia-exhibitors.html"
+    },
+    {
+      "key": "shanghai-cn",
+      "url": "https://www.asia-sia.com/",
+      "final_url": "https://www.asia-sia.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 44621,
+      "sha256": "de13bf0c08e8a9899afe9b01e873bf8d99ff9e425c7266aebc70cac9fcbb1a7a",
+      "file": "shanghai-cn.html"
+    },
+    {
+      "key": "shanghai-sia",
+      "url": "https://en.asia-sia.com/",
+      "final_url": "https://en.asia-sia.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 50701,
+      "sha256": "62dabc5eee0f17366bebf757ec6b8c17ad01bf471220dd0e315cdfe31b5c80b4",
+      "file": "shanghai-sia.html"
+    },
+    {
+      "key": "shanghai-register",
+      "url": "https://www.asia-sia.com/article/vistform/k/1.html",
+      "final_url": "https://www.asia-sia.com/article/vistform/k/1.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 16429,
+      "sha256": "4e4fda41930dc60352816e89f4e2822279b67363673bca7fb6f9b31ddfa7fef4",
+      "file": "shanghai-register.html"
+    },
+    {
+      "key": "first-k8",
+      "url": "https://www.firstinspires.org/programs/k-8",
+      "final_url": "https://www.firstinspires.org/programs/k-8",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 140275,
+      "sha256": "2dd1b0f406bb86ba02599711a76d75a2d42b87e5d6eb662d325c1de9b0ed5d1b",
+      "file": "first-k8.html"
+    },
+    {
+      "key": "lego-next",
+      "url": "https://education.lego.com/en-us/lego-league/program-update/",
+      "final_url": "https://education.lego.com/en-us/lego-league/program-update/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 131149,
+      "sha256": "c3648a1915ff930e492256af64742bd5b0160f4f6dfd281346f70706e481c9a7",
+      "file": "lego-next.html"
+    }
+  ]
+}

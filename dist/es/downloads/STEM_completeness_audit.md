@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10819; competiciones: 4812; eventos: 669; campamentos / programas: 5338. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 570 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10833; competiciones: 4818; eventos: 674; campamentos / programas: 5341. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 575 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 1966 | 148 | 1378 |
-| América del Sur | 15 | 452 | 50 | 233 |
-| Europa | 55 | 636 | 138 | 1540 |
+| América del Norte | 41 | 1966 | 149 | 1378 |
+| América del Sur | 15 | 452 | 51 | 233 |
+| Europa | 55 | 636 | 141 | 1540 |
 | África | 60 | 247 | 40 | 130 |
-| Asia | 50 | 1177 | 160 | 1706 |
+| Asia | 50 | 1183 | 160 | 1709 |
 | Oceanía | 27 | 167 | 32 | 336 |
 
 Fichas interregionales o globales sin un solo continente asignado: 189. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base y la cobertura sigue siendo parcial.
 
-VEX: 815 de 4812 fichas de competiciones (16.9%). La cobertura está concentrada en esta liga.
+VEX: 815 de 4818 fichas de competiciones (16.9%). La cobertura muestra un claro sesgo.
 
 ## Lo que queda
 
@@ -493,7 +493,7 @@ VEX: 815 de 4812 fichas de competiciones (16.9%). La cobertura está concentrada
 - **Tech Show London · 2027** English; 2027-03-10 国 2027-03-11; los niños 6/9 no pueden. https://www.techshowlondon.co.uk/attending/visitor-faqs
 - **HRIE Shanghai · Humanoid Robot & Robotics Industry Chain · 2026** China; 2026-12-09 BWC 2026-12-11; especificar la admisión de niños. https://www.humanoidrobotfair.cn/
 - *SIEAR Shanghai · Intelligence Robotics Industry Chain · 2027** China; 2027-06-02 国 2027-06-04. https://www.siearexpo.com/
-- **SIA Shanghai · Automation & Robotics · 2027 · Las fechas varían** ♫ China; se desconoce la fecha. https://www.asia-sia.com/
+- **SIA Shanghai · Smart Factory / Humanoid Robotics 2027** — China; 2027-06-16 – 2027-06-18. el permiso de entrada de niños. https://www.asia-sia.com/
 - **CHITEC Beijing · siguiente China Beijing High-Tech Expo** China; fecha desconocida. https://www.chitec.cn/web/
 - **Taiwan Innotech Expo · 2027** Taiwán; 2027-10-14 2027-10-16. https://www.inventaipei.com.tw/zh-tw/index.html
 - **Robótica 2026 · Visita pública al festival** — Brasil; 2026-11-23 – 2026-11-29. Acceso de los niños a la educación. https://robotica.robocup.org.br/
@@ -947,6 +947,11 @@ VEX: 815 de 4812 fichas de competiciones (16.9%). La cobertura está concentrada
 - **Game Con Canada 2027 · Edmonton** — Canadá; 2027-06-25 – 2027-06-27. con un adulto; condiciones de admisión adulta por separado. https://gameconcanada.com/
 - **Odyssey Video Games & Toy Festival 2027** — Reino Unido; 2027-02-27 – 2027-02-28. con un adulto; condiciones de admisión adulta por separado. https://www.odysseygamingfestival.co.uk/
 - **Granada Gaming Festival 2027 · FicZone / Meeple Factory** — España; 2027-04-24 – 2027-04-25. el permiso de entrada de niños. https://granadagaming.com/
+- **Robótica Expo México 2027** — México; 2027-04-07 – 2027-04-08. el permiso de entrada de niños. https://roboticaexpo.com/mexico
+- **FIMIR 2027 · Maquinaria Industrial y Robótica** — España; 2027-04-14 – 2027-04-16. el permiso de entrada de niños. https://feriafimir.com/
+- **Robotics Expo Finland · 2027** — Finlandia; fecha desconocida. Confirmar acceso infantil. https://roboticaexpo.com/finland
+- **ExpoGame Chile · temporada 2027** — Chile; fecha desconocida. Confirmar acceso infantil. https://www.expogamechile.cl/
+- **ROBOTICS Slovenia · IFAM / INTRONIKA · 2027** — Eslovenia; fecha desconocida. Confirmar acceso infantil. https://icm.si/events/robotics-slovenia/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

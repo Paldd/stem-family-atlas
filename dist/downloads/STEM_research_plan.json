@@ -870,10 +870,10 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 306,
+    "version": 307,
     "status": "implementation_snapshot",
-    "events": 10819,
-    "competitions": 4812,
+    "events": 10833,
+    "competitions": 4818,
     "league_profiles": 309,
     "camp_dossiers": 2120,
     "budget_offers": 312,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 669,
+    "exhibitions_events": 674,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,7 +928,7 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 305,
+    "version": 306,
     "status": "implementation_snapshot",
     "events": 10819,
     "competitions": 4812,
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 306,
+    "prepared_ui_version": 307,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 305,
-    "previous_verified_commit": "3aa6edee1846d40078be14c85a606182bcbbcd4c"
+    "previous_verified_ui_version": 306,
+    "previous_verified_commit": "366031828ccc1dea89bcc4ef7b68f29e6e6fe7f7"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 304,
-    "published_version": 304,
-    "latest_source_commit": "3712938e47475580f68b13ea8aaf2a51c8a68a0d",
-    "published_commit": "3712938e47475580f68b13ea8aaf2a51c8a68a0d",
-    "latest_workflow": 42528827427,
+    "latest_source_version": 306,
+    "published_version": 306,
+    "latest_source_commit": "366031828ccc1dea89bcc4ef7b68f29e6e6fe7f7",
+    "published_commit": "366031828ccc1dea89bcc4ef7b68f29e6e6fe7f7",
+    "latest_workflow": 42531799496,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -31606,5 +31606,61 @@
       "CP2119"
     ],
     "worldwide_complete": false
+  },
+  "ytac_hong_kong_and_robot_expos_v307": {
+    "version": 307,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4814",
+      "C4815",
+      "C4816",
+      "C4817",
+      "C4818",
+      "L881",
+      "L882",
+      "L883",
+      "C4819",
+      "E670",
+      "E671",
+      "E672",
+      "E673",
+      "E674"
+    ],
+    "refreshed_event_ids": [
+      "E126",
+      "C1049"
+    ],
+    "legacy_overlay_event_ids": [
+      "E126",
+      "C1049"
+    ],
+    "legacy_overlay_league_ids": [
+      "first-k8-next"
+    ],
+    "source_requests": 18,
+    "ytac": [
+      "C4814",
+      "C4815",
+      "C4816",
+      "C4817"
+    ],
+    "hki": "C4818",
+    "hki_workshops": [
+      "L881",
+      "L882",
+      "L883"
+    ],
+    "doai": "C4819",
+    "exhibits": [
+      "E670",
+      "E671",
+      "E672",
+      "E673",
+      "E674"
+    ],
+    "sia": "E126",
+    "first": "C1049"
   }
 }
