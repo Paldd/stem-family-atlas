@@ -5534,6 +5534,45 @@ Limitaciones: La ficha publica el formato de entrevista y de entrega del cuadern
 Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66856.html
 Se ha comprobado: 2026-11-07
 
+### E492 · Parque Explora · Temporada de fin de año
+
+Fecha: 2026-12-14 — 2027-01-11
+edad: Ambas edades pueden visitar el museo en familia. Entrada en taquilla sin reserva o en línea por adelantado.
+Matvey: Sí. Visita familiar con una persona adulta.
+Oscar: Sí. Visita familiar con una persona adulta.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Ambas edades pueden visitar el museo en familia. Entrada en taquilla sin reserva o en línea por adelantado.
+Precio: Tarifas 2026 para no residentes: COP 67950 por persona o COP 245150 por 4 personas. Menores de 3 años gratis. Comprobar el precio de enero de 2027.
+Limitaciones:
+Fuente: https://web.parqueexplora.org/visitanos
+Se ha comprobado: 2026-11-07
+
+### E493 · Grupo R.A. × Nética · Fiscales 2026 · Pase de visitante
+
+Fecha: 2026-11-24 国 2026-11-24
+edad: Solicitud previa de visitante gratuita. La organización confirma la entrada de adultos que acompañan a menores participantes. Consultar las condiciones para menores espectadores y documento extranjero.
+Matvey: Condicional. Confirmar la admisión de menores espectadores.
+Oscar: Condicional. Confirmar la admisión de menores espectadores.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Solicitud previa de visitante gratuita. La organización confirma la entrada de adultos que acompañan a menores participantes. Consultar las condiciones para menores espectadores y documento extranjero.
+Precio: Gratuito.
+Limitaciones:
+Fuente: https://somosgrupora.com/torneo-robotica/
+Se ha comprobado: 2026-11-07
+
+### E494 · Grupo R.A. × Nética · Particulares 2026 · Pase de visitante
+
+Fecha: 2026-11-25 — 2026-11-25
+edad: Solicitud previa de visitante gratuita. La organización confirma la entrada de adultos que acompañan a menores participantes. Consultar las condiciones para menores espectadores y documento extranjero.
+Matvey: Condicional. Confirmar la admisión de menores espectadores.
+Oscar: Condicional. Confirmar la admisión de menores espectadores.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Solicitud previa de visitante gratuita. La organización confirma la entrada de adultos que acompañan a menores participantes. Consultar las condiciones para menores espectadores y documento extranjero.
+Precio: Gratuito.
+Limitaciones:
+Fuente: https://somosgrupora.com/torneo-robotica/
+Se ha comprobado: 2026-11-07
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08
@@ -7820,6 +7859,19 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · La página muestra 265 000 por semana y tarifa anticipada 220 000 hasta el 30 de noviembre. Se anuncia descuento de 10% para el segundo menor. Confirmar moneda y acumulación. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Condicional. Confirmar curso y distribución por grupos. Oscar: Confirmar reparto de grupos con el organizador. Suplementos: Llevar agua y tentempié. El organizador facilita agua y fruta. Confirmar coste de otros servicios. La página muestra 2 semanas por 380 000 o 320 000 con tarifa anticipada, 3 semanas por 550 000 o 462 000, 4 semanas por 700 000 o 588 000. Se pueden elegir semanas separadas. Pago: La página indica pago por transferencia. Confirmar moneda de factura, reembolso y aplicación del descuento.
 Fuente: https://tecnokids.com/colonia/
+Se ha comprobado: 2026-11-07
+
+### CP1911-20261130-20261204-five-days · UNAL Medellín · Niñas y Niños Científicos · Vacacional · STEAM · 2026-11-30–2026-12-04
+
+Fecha: 2026-11-30 — 2026-12-04
+edad: 6–15 años, grupos de 6–8, 9–11, 12–13 y 14–15.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Acceso: La página de la universidad indica plazas agotadas. Consultar la próxima edición.
+Precio: 2026/27 · COP 260000 por menor para público general. COP 210000 para comunidad UNAL. Para 2 menores a tarifa general, COP 520000 sin alimentación. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La página de la universidad indica plazas agotadas. Consultar la próxima edición. Oscar: La página de la universidad indica plazas agotadas. Consultar la próxima edición. Suplementos: La alimentación no está incluida. Pago: La página de la universidad indica plazas agotadas. Consultar la próxima edición.
+Fuente: https://centrodeeducacioncontinua.medellin.unal.edu.co/vacacional-ninos-y-ninas-cientificos-unal
 Se ha comprobado: 2026-11-07
 
 ### E298 · Brasil Game Show 2027 · public exhibition

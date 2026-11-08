@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 9856; соревнований: 4459; событий: 491; лагерей / программ: 4906. Профилей лиг и программ: 291. Карточек крупных и профильных выставок: 394 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 9881; соревнований: 4480; событий: 494; лагерей / программ: 4907. Профилей лиг и программ: 292. Карточек крупных и профильных выставок: 397 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 211 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,8 +14,8 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 37 | 1861 | 85 | 1234 |
-| Южная Америка | 13 | 414 | 32 | 198 |
+| Северная Америка | 37 | 1882 | 85 | 1234 |
+| Южная Америка | 13 | 414 | 35 | 199 |
 | Европа | 51 | 573 | 102 | 1425 |
 | Африка | 48 | 226 | 28 | 80 |
 | Азия | 48 | 1111 | 118 | 1629 |
@@ -23,7 +23,7 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 143. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 814 из 4459 карточек соревнований (18.3%). Это явный перекос охвата.
+VEX: 814 из 4480 карточек соревнований (18.2%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -317,6 +317,7 @@ VEX: 814 из 4459 карточек соревнований (18.3%). Это я�
 - **BelOAI**: 4 карточек, 4 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://edu.gov.by/molodezhnaya-politika/glavnoe-upravlenie-vospitatelnoy-raboty-i-molodezhnoy-politiki/konkurs-beloai/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%20%D0%BF%D0%BE%20%D0%98%D0%98.docx
 - **Минская открытая лига робототехники · сезон 2026–2027**: 22 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://roboturnir.by/
 - **Минский открытый роботурнир · РобоФинист**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://edu4future.by/project/minskij-otkrytyj-roboturnir
+- **innovatiQ Digital Cup**: 21 карточек, 21 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://innovatiq.education/digitalcup/2027/
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 10 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -753,6 +754,9 @@ VEX: 814 из 4459 карточек соревнований (18.3%). Это я�
 - **MNACTEC · Visita guiada Robots** — Испания; 2026-12-05. Со взрослым; условия взрослого входа отдельно. https://mnactec.cat/index.php/es/actividad-detalle/visita-guiada-robots
 - **Palais de la découverte · Un robot, comment ça robotte ?** — Франция; 2026-12-06. Детям 6/9 нельзя. https://www.palais-decouverte.fr/au-programme/un-robot-comment-ca-robotte
 - **Palais de la découverte · Un robot, comment ça robotte ?** — Франция; 2026-12-20. Детям 6/9 нельзя. https://www.palais-decouverte.fr/au-programme/un-robot-comment-ca-robotte
+- **Parque Explora · Temporada de fin de año** — Колумбия; 2026-12-14 – 2027-01-11. Со взрослым; условия взрослого входа отдельно. https://web.parqueexplora.org/visitanos
+- **Grupo R.A. × Nética · Fiscales 2026 · Pase de visitante** — Эквадор; 2026-11-24. Детский допуск уточнить. https://somosgrupora.com/torneo-robotica/
+- **Grupo R.A. × Nética · Particulares 2026 · Pase de visitante** — Эквадор; 2026-11-25. Детский допуск уточнить. https://somosgrupora.com/torneo-robotica/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1910,
+    "dossiers": 1911,
     "countries": 125,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 281,
+      "published_2026_27": 282,
       "published_2027": 517,
       "partial_2027": 141,
       "next_unannounced": 395,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2774
+    "source_urls": 2775
   },
   "countries": [
     {
@@ -269,7 +269,7 @@
     },
     {
       "country": "Колумбия",
-      "count": 12
+      "count": 13
     },
     {
       "country": "Коста-Рика",
@@ -332313,6 +332313,165 @@
       },
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1911",
+      "slug": "unal-medellin-cientificos-2026",
+      "provider": "UNAL Medellín · Niñas y Niños Científicos",
+      "country": "Колумбия",
+      "iso": "COL",
+      "place": "Universidad Nacional de Colombia · Sede Medellín",
+      "age": "6–15 лет, группы 6–8, 9–11, 12–13 и 14–15.",
+      "programme": "8 мастерских, включая электронику, оптику, игру на Scratch, 3D-печать, экологию и первую помощь.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Язык занятий не указан в условиях группы. Уточнить перед оплатой.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "30 ноября–4 декабря 2026. С понедельника по четверг 08:00–12:00 и 13:30–16:00. В пятницу только до 12:00.",
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "variant_key": "five-days",
+            "start": "2026-11-30",
+            "end": "2026-12-04",
+            "label": "Vacacional · STEAM",
+            "price": "COP 260000 за ребёнка для широкой публики. COP 210000 для сообщества UNAL. Для 2 детей по общему тарифу COP 520000, без питания.",
+            "source": "https://centrodeeducacioncontinua.medellin.unal.edu.co/vacacional-ninos-y-ninas-cientificos-unal",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "closed",
+              "label": "На странице университета указано, что места закончились. Уточнить следующую смену."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "America/Bogota",
+                "ical_timed": true,
+                "topic": "8 мастерских, включая электронику, оптику, игру на Scratch, 3D-печать, экологию и первую помощь.",
+                "start_utc": "2026-11-30T13:00:00Z",
+                "end_utc": "2026-11-30T21:00:00Z",
+                "time_note": "Перерыв с 12:00 до 13:30."
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "America/Bogota",
+                "ical_timed": true,
+                "topic": "8 мастерских, включая электронику, оптику, игру на Scratch, 3D-печать, экологию и первую помощь.",
+                "start_utc": "2026-12-01T13:00:00Z",
+                "end_utc": "2026-12-01T21:00:00Z",
+                "time_note": "Перерыв с 12:00 до 13:30."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "America/Bogota",
+                "ical_timed": true,
+                "topic": "8 мастерских, включая электронику, оптику, игру на Scratch, 3D-печать, экологию и первую помощь.",
+                "start_utc": "2026-12-02T13:00:00Z",
+                "end_utc": "2026-12-02T21:00:00Z",
+                "time_note": "Перерыв с 12:00 до 13:30."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "America/Bogota",
+                "ical_timed": true,
+                "topic": "8 мастерских, включая электронику, оптику, игру на Scratch, 3D-печать, экологию и первую помощь.",
+                "start_utc": "2026-12-03T13:00:00Z",
+                "end_utc": "2026-12-03T21:00:00Z",
+                "time_note": "Перерыв с 12:00 до 13:30."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Bogota",
+                "ical_timed": true,
+                "topic": "Заключительное утро с играми и активностями.",
+                "start_utc": "2026-12-04T13:00:00Z",
+                "end_utc": "2026-12-04T17:00:00Z"
+              }
+            ],
+            "place": "Universidad Nacional de Colombia · Sede Medellín",
+            "entry": "На странице университета указано, что места закончились. Уточнить следующую смену."
+          }
+        ],
+        "sessions": [
+          [
+            "2026-11-30",
+            "2026-12-04"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "COP 260000 за ребёнка для широкой публики. COP 210000 для сообщества UNAL. Для 2 детей по общему тарифу COP 520000, без питания.",
+        "included": "8 мастерских, включая электронику, оптику, игру на Scratch, 3D-печать, экологию и первую помощь.",
+        "extras": "Питание в цену не входит.",
+        "deposit": "На странице университета указано, что места закончились. Уточнить следующую смену.",
+        "currency": "COP"
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "На странице университета указано, что места закончились. Уточнить следующую смену."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "На странице университета указано, что места закончились. Уточнить следующую смену."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Опубликована общая цена для семей вне университета. Новый набор и язык занятий уточнить.",
+        "На странице университета указано, что места закончились. Уточнить следующую смену."
+      ],
+      "sources": [
+        {
+          "url": "https://centrodeeducacioncontinua.medellin.unal.edu.co/vacacional-ninos-y-ninas-cientificos-unal",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "science",
+        "coding",
+        "games",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "availability": {
+        "status": "closed",
+        "label": "На странице университета указано, что места закончились. Уточнить следующую смену."
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-30",
+          "end": "2026-12-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1911-20261130-20261204-five-days"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -337638,7 +337797,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 255,
+  "version": 256,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -350873,7 +351032,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1910,
+      "total_dossiers": 1911,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -372798,6 +372957,11 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1911",
+      "event_id": "CP1911-20261130-20261204-five-days",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -377392,10 +377556,11 @@
     "CP1907-20261222-20261222-ages-9",
     "CP1908-20261230-20261230-ages-6",
     "CP1909-20261221-20261221-ages-6",
-    "CP1909-20261223-20261223-ages-12"
+    "CP1909-20261223-20261223-ages-12",
+    "CP1911-20261130-20261204-five-days"
   ],
   "integration": {
-    "generated_sessions": 4164,
+    "generated_sessions": 4165,
     "reused_legacy_events": 73,
     "seasonal_windows": 73,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

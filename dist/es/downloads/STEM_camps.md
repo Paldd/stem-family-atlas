@@ -77286,6 +77286,22 @@ Limitaciones: Matvey: La edad aún es inferior al mínimo del grupo. Oscar: La e
 Fuente: https://origine.cite-sciences.fr/fr/au-programme/activites-spectacles/ateliers-stages-clubs/stages-de-science
 Se ha comprobado: 2026-11-07
 
+### CP1911-20261130-20261204-five-days · UNAL Medellín · Niñas y Niños Científicos · Vacacional · STEAM · 2026-11-30–2026-12-04
+
+lugar: Colombia · Universidad Nacional de Colombia · Sede Medellín
+Fecha: 2026-11-30 — 2026-12-04
+edad: 6–15 años, grupos de 6–8, 9–11, 12–13 y 14–15.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · COP 260000 por menor para público general. COP 210000 para comunidad UNAL. Para 2 menores a tarifa general, COP 520000 sin alimentación. · suplementos y condiciones en el dossier
+Acceso: La página de la universidad indica plazas agotadas. Consultar la próxima edición.
+Limitaciones: Matvey: La página de la universidad indica plazas agotadas. Consultar la próxima edición. Oscar: La página de la universidad indica plazas agotadas. Consultar la próxima edición. Suplementos: La alimentación no está incluida. Pago: La página de la universidad indica plazas agotadas. Consultar la próxima edición.
+Fuente: https://centrodeeducacioncontinua.medellin.unal.edu.co/vacacional-ninos-y-ninas-cientificos-unal
+Se ha comprobado: 2026-11-07
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

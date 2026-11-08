@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 9856,
-    "competition_cards": 4459,
-    "event_cards": 491,
-    "camp_cards": 4906,
-    "league_profiles": 291,
-    "major_exhibition_cards": 394,
+    "cards": 9881,
+    "competition_cards": 4480,
+    "event_cards": 494,
+    "camp_cards": 4907,
+    "league_profiles": 292,
+    "major_exhibition_cards": 397,
     "vex_cards": 814,
     "countries_with_records": 211,
     "fully_audited_countries": 0
@@ -34,9 +34,9 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3218,
+      "total": 3239,
       "countries_with_records": 37,
-      "competitions": 1861,
+      "competitions": 1882,
       "events": 123,
       "major_exhibitions": 85,
       "camps": 1234,
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 648,
+      "total": 652,
       "countries_with_records": 13,
       "competitions": 414,
-      "events": 36,
-      "major_exhibitions": 32,
-      "camps": 198,
+      "events": 39,
+      "major_exhibitions": 35,
+      "camps": 199,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -7509,6 +7509,40 @@
       "new": false
     },
     {
+      "id": "innovatiq-digital-cup",
+      "name": "innovatiQ Digital Cup",
+      "group": "regional",
+      "event_ids": [
+        "C4461",
+        "C4462",
+        "C4463",
+        "C4464",
+        "C4465",
+        "C4466",
+        "C4467",
+        "C4468",
+        "C4469",
+        "C4470",
+        "C4471",
+        "C4472",
+        "C4473",
+        "C4474",
+        "C4475",
+        "C4476",
+        "C4477",
+        "C4478",
+        "C4479",
+        "C4480",
+        "C4481"
+      ],
+      "cards": 21,
+      "future_dated": 21,
+      "linked_card_count": 21,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://innovatiq.education/digitalcup/2027/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -12831,6 +12865,39 @@
       "new": false
     },
     {
+      "id": "E492",
+      "name": "Parque Explora · Temporada de fin de año",
+      "country": "Колумбия",
+      "region": "Южная Америка",
+      "start": "2026-12-14",
+      "end": "2027-01-11",
+      "visitor_policy": "family",
+      "source": "https://web.parqueexplora.org/visitanos",
+      "new": false
+    },
+    {
+      "id": "E493",
+      "name": "Grupo R.A. × Nética · Fiscales 2026 · Pase de visitante",
+      "country": "Эквадор",
+      "region": "Южная Америка",
+      "start": "2026-11-24",
+      "end": "2026-11-24",
+      "visitor_policy": "confirm_children",
+      "source": "https://somosgrupora.com/torneo-robotica/",
+      "new": false
+    },
+    {
+      "id": "E494",
+      "name": "Grupo R.A. × Nética · Particulares 2026 · Pase de visitante",
+      "country": "Эквадор",
+      "region": "Южная Америка",
+      "start": "2026-11-25",
+      "end": "2026-11-25",
+      "visitor_policy": "confirm_children",
+      "source": "https://somosgrupora.com/torneo-robotica/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -15248,8 +15315,8 @@
       }
     ],
     "counts": {
-      "records": 4906,
-      "holiday": 4575,
+      "records": 4907,
+      "holiday": 4576,
       "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1036,

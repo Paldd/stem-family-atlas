@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 255,
+    "version": 256,
     "status": "implementation_snapshot",
-    "events": 9856,
-    "competitions": 4459,
-    "league_profiles": 291,
-    "camp_dossiers": 1910,
+    "events": 9881,
+    "competitions": 4480,
+    "league_profiles": 292,
+    "camp_dossiers": 1911,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 491
+    "exhibitions_events": 494
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -927,12 +927,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 254,
+    "version": 255,
     "status": "implementation_snapshot",
-    "events": 9833,
-    "competitions": 4458,
-    "league_profiles": 288,
-    "camp_dossiers": 1902,
+    "events": 9856,
+    "competitions": 4459,
+    "league_profiles": 291,
+    "camp_dossiers": 1910,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -942,7 +942,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 486
+    "exhibitions_events": 491
   },
   "research_passes": [
     {
@@ -13759,10 +13759,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 255,
+    "prepared_ui_version": 256,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 254,
-    "previous_verified_commit": "8201ee3029fe187a20072bb2c32f2c248e3661f6"
+    "previous_verified_ui_version": 255,
+    "previous_verified_commit": "a4e4cfa56f81c37ce1a394a9c3c7e13c4c5850f7"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20809,11 +20809,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 254,
-    "published_version": 254,
-    "latest_source_commit": "8201ee3029fe187a20072bb2c32f2c248e3661f6",
-    "published_commit": "8201ee3029fe187a20072bb2c32f2c248e3661f6",
-    "latest_workflow": 42443315060,
+    "latest_source_version": 255,
+    "published_version": 255,
+    "latest_source_commit": "a4e4cfa56f81c37ce1a394a9c3c7e13c4c5850f7",
+    "published_commit": "a4e4cfa56f81c37ce1a394a9c3c7e13c4c5850f7",
+    "latest_workflow": 42445136032,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -25682,5 +25682,90 @@
     ],
     "audit": "data/europe-winter-museums-and-eurobot-audit-v255.json",
     "source_receipts": "data/europe-winter-museums-and-eurobot-source-receipts-v255.json"
+  },
+  "innovatiq_and_latam_family_routes_v256": {
+    "version": 256,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4461",
+      "C4462",
+      "C4463",
+      "C4464",
+      "C4465",
+      "C4466",
+      "C4467",
+      "C4468",
+      "C4469",
+      "C4470",
+      "C4471",
+      "C4472",
+      "C4473",
+      "C4474",
+      "C4475",
+      "C4476",
+      "C4477",
+      "C4478",
+      "C4479",
+      "C4480",
+      "C4481",
+      "E492",
+      "E493",
+      "E494"
+    ],
+    "new_generated_camp_rows": 1,
+    "new_camp_dossiers": {
+      "unal-medellin-cientificos-2026": "CP1911"
+    },
+    "new_league_id": "innovatiq-digital-cup",
+    "rulebooks": 15,
+    "digital_tracks": 7,
+    "robotics_tracks": 8,
+    "age_eligible_tracks_matvey": 4,
+    "age_eligible_tracks_oscar": 2,
+    "digital_submission_deadline": "2026-11-13",
+    "digital_results_window": [
+      "2026-11-22",
+      "2026-11-30"
+    ],
+    "digital_finalist_confirmation": "2026-12-11",
+    "robotics_registration_deadline": "2027-02-05",
+    "family_final_dates": [
+      "2027-02-12",
+      "2027-02-13"
+    ],
+    "junior_general_mxn_per_entry": 600,
+    "edu_hardware_rulebooks": 8,
+    "explicit_en_es_submission_tracks": [
+      "comic",
+      "newslab",
+      "arcade"
+    ],
+    "new_child_visitor_windows": [
+      "Parque Explora"
+    ],
+    "school_spectator_entry": [
+      "C1297",
+      "C1298"
+    ],
+    "reviewed_existing": [
+      "C043",
+      "C083",
+      "C3280",
+      "CP050",
+      "L141"
+    ],
+    "source_requests": 28,
+    "notes": [
+      "Требуются сведения об учебном заведении. Допуск школы за пределами Мексики организатор явно не описывает.",
+      "Репортаж на испанском или английском. Для английской версии нужны испанские субтитры. Язык вопросов на финале уточнить.",
+      "На странице университета указано, что места закончились. Уточнить следующую смену.",
+      "Тарифы 2026 для нерезидентов: COP 67950 за человека или COP 245150 за 4 человек. До 3 лет бесплатно. Цену на январь 2027 перепроверить.",
+      "Бесплатная предварительная заявка зрителя. Организатор подтверждает вход взрослых, пришедших с детьми-участниками. Для детей-зрителей и иностранного документа уточнить условия."
+    ],
+    "audit": "data/innovatiq-and-latam-family-routes-audit-v256.json",
+    "source_receipts": "data/innovatiq-and-latam-family-routes-source-receipts-v256.json"
   }
 }

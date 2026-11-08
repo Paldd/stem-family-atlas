@@ -4334,6 +4334,279 @@ Limitaciones: Se requiere cuaderno de ingeniería y tres resúmenes preparados p
 Fuente: https://events.vex.com/robot-competitions/vex-robotics-competition/VE-V5-27-65547.html
 Se ha comprobado: 2026-11-07
 
+### C4461 · innovatiQ Digital Cup 2027 · Final Nacional
+
+Fecha: 2027-02-12 国 2027-02-13
+edad: 5–7 y 8–11 años para los grupos menores. Hay categorías de 12–15, 16–19 y una docente de 20+.
+Matvey: Sí por edad. Se requieren una persona adulta responsable, una plaza y una inscripción confirmada.
+Oscar: Sí por edad. Se requieren una persona adulta responsable, una plaza y una inscripción confirmada.
+Idioma: Las bases están publicadas en español. Confirmar el idioma de comunicación con el jurado.
+Acceso: Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.
+Precio: Retos menores MXN 600 y mayores MXN 800. Tarifas de la comunidad innovatiQ de MXN 300 y MXN 400 respectivamente.
+Limitaciones: Se solicitan datos de la institución educativa. La organización no detalla la admisión de escuelas fuera de México.
+Fuente: https://innovatiq.education/digitalcup/2027/
+Se ha comprobado: 2026-11-07
+
+### C4462 · innovatiQ Digital Cup 2027 · Cómic Creativo
+
+Fecha: 2027-02-12 国 2027-02-13
+edad: Edades de 8 a 11 años.
+Matvey: Sí por edad. Se requieren una persona adulta responsable, una plaza y una inscripción confirmada.
+Oscar: No. Edad inferior al mínimo publicado.
+Idioma: El trabajo puede hacerse en español o inglés. Si se elige inglés, se requiere material comprensible para el jurado. Confirmar el idioma de las preguntas en la fase presencial.
+Acceso: Entrega virtual del proyecto hasta el 13 de noviembre de 2026. Los 10 mejores proyectos de cada reto pasan a la final presencial. Resultados del 22 al 30 de noviembre y confirmación de finalistas hasta el 11 de diciembre.
+Precio: MXN 600 por equipo o participante individual. Para la comunidad innovatiQ, MXN 300.
+Limitaciones: Edad cumplida al registrarse.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/digital/InnovatiQ_Digital_Cup-Convocatoria_Comic_Creativo.pdf
+Se ha comprobado: 2026-11-07
+
+### C4463 · innovatiQ Digital Cup 2027 · NewsLab
+
+Fecha: 2027-02-12 国 2027-02-13
+edad: Edades de 8 a 11 años.
+Matvey: Sí por edad. Se requieren una persona adulta responsable, una plaza y una inscripción confirmada.
+Oscar: No. Edad inferior al mínimo publicado.
+Idioma: Noticiero en español o inglés. La versión en inglés necesita subtítulos en español. Confirmar el idioma de las preguntas en la final.
+Acceso: Entrega virtual del proyecto hasta el 13 de noviembre de 2026. Los 10 mejores proyectos de cada reto pasan a la final presencial. Resultados del 22 al 30 de noviembre y confirmación de finalistas hasta el 11 de diciembre. Entrega del proyecto hasta las 23:59, hora del centro de México.
+Precio: MXN 600 por equipo o participante individual. Para la comunidad innovatiQ, MXN 300.
+Limitaciones: Edad cumplida al registrarse.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/digital/InnovatiQ_Digital_Cup-Convocatoria_NewsLab.pdf
+Se ha comprobado: 2026-11-07
+
+### C4464 · innovatiQ Digital Cup 2027 · Juego Arcade
+
+Fecha: 2027-02-12 国 2027-02-13
+edad: Edades de 12 a 15 años.
+Matvey: No. Edad inferior al mínimo publicado.
+Oscar: No. Edad inferior al mínimo publicado.
+Idioma: El trabajo puede hacerse en español o inglés. Si se elige inglés, se requiere material comprensible para el jurado. Confirmar el idioma de las preguntas en la fase presencial.
+Acceso: Entrega virtual del proyecto hasta el 13 de noviembre de 2026. Los 10 mejores proyectos de cada reto pasan a la final presencial. Resultados del 22 al 30 de noviembre y confirmación de finalistas hasta el 11 de diciembre. Entrega del proyecto hasta las 23:59, hora del centro de México.
+Precio: MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.
+Limitaciones: Edad cumplida al registrarse.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/digital/InnovatiQ_Digital_Cup-Convocatoria_Juego_Arcade.pdf
+Se ha comprobado: 2026-11-07
+
+### C4465 · innovatiQ Digital Cup 2027 · Open Maker Challenge · Explorer
+
+Fecha: 2027-02-12 国 2027-02-13
+edad: Edades de 12 a 15 años.
+Matvey: No. Edad inferior al mínimo publicado.
+Oscar: No. Edad inferior al mínimo publicado.
+Idioma: Las bases están publicadas en español. Confirmar el idioma de comunicación con el jurado.
+Acceso: Entrega virtual del proyecto hasta el 13 de noviembre de 2026. Los 10 mejores proyectos de cada reto pasan a la final presencial. Resultados del 22 al 30 de noviembre y confirmación de finalistas hasta el 11 de diciembre. Entrega del proyecto hasta las 23:59, hora del centro de México.
+Precio: MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.
+Limitaciones: Edad cumplida al registrarse.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/digital/InnovatiQ_Digital_Cup-Convocatoria_EXP_Open_Maker_Challenge.pdf
+Se ha comprobado: 2026-11-07
+
+### C4466 · innovatiQ Digital Cup 2027 · AI Fusion
+
+Fecha: 2027-02-12 国 2027-02-13
+edad: Edades de 16 a 19 años.
+Matvey: No. Edad inferior al mínimo publicado.
+Oscar: No. Edad inferior al mínimo publicado.
+Idioma: Las bases están publicadas en español. Confirmar el idioma de comunicación con el jurado.
+Acceso: Entrega virtual del proyecto hasta el 13 de noviembre de 2026. Los 10 mejores proyectos de cada reto pasan a la final presencial. Resultados del 22 al 30 de noviembre y confirmación de finalistas hasta el 11 de diciembre. Entrega del proyecto hasta las 23:59, hora del centro de México.
+Precio: MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.
+Limitaciones: Edad cumplida al registrarse.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/digital/InnovatiQ_Digital_Cup-Convocatoria_AI_Fusion.pdf
+Se ha comprobado: 2026-11-07
+
+### C4467 · innovatiQ Digital Cup 2027 · Open Maker Challenge · Advanced
+
+Fecha: 2027-02-12 国 2027-02-13
+edad: Edades de 16 a 19 años.
+Matvey: No. Edad inferior al mínimo publicado.
+Oscar: No. Edad inferior al mínimo publicado.
+Idioma: Las bases están publicadas en español. Confirmar el idioma de comunicación con el jurado.
+Acceso: Entrega virtual del proyecto hasta el 13 de noviembre de 2026. Los 10 mejores proyectos de cada reto pasan a la final presencial. Resultados del 22 al 30 de noviembre y confirmación de finalistas hasta el 11 de diciembre. Entrega del proyecto hasta las 23:59, hora del centro de México.
+Precio: MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.
+Limitaciones: Edad cumplida al registrarse.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/digital/InnovatiQ_Digital_Cup-Convocatoria_ADV_Open_Maker_Challenge.pdf
+Se ha comprobado: 2026-11-07
+
+### C4468 · innovatiQ Digital Cup 2027 · Transformadores Digitales
+
+Fecha: 2027-02-12 国 2027-02-13
+edad: Desde los 20 años. Docente en activo o en formación.
+Matvey: No. Edad inferior al mínimo publicado.
+Oscar: No. Edad inferior al mínimo publicado.
+Idioma: Las bases están publicadas en español. Confirmar el idioma de comunicación con el jurado.
+Acceso: Entrega virtual del proyecto hasta el 13 de noviembre de 2026. Los 10 mejores proyectos de cada reto pasan a la final presencial. Resultados del 22 al 30 de noviembre y confirmación de finalistas hasta el 11 de diciembre. Entrega del proyecto hasta las 23:59, hora del centro de México.
+Precio: MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.
+Limitaciones: Edad cumplida al registrarse.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/digital/InnovatiQ_Digital_Cup-Convocatoria_Transformadores_Digitales.pdf
+Se ha comprobado: 2026-11-07
+
+### C4469 · innovatiQ Digital Cup 2027 · Robot que Descubre
+
+Fecha: 2027-02-12 国 2027-02-13
+edad: Edades de 5 a 7 años.
+Matvey: No. Edad superior al máximo publicado.
+Oscar: Sí por edad. Se requieren una persona adulta responsable, una plaza y una inscripción confirmada.
+Idioma: Las bases están publicadas en español. Confirmar el idioma de comunicación con el jurado.
+Acceso: Inscripción según las bases del 1 de septiembre de 2026 al 5 de febrero de 2027. Límite de 25 equipos o participantes por reto sujeto a disponibilidad.
+Precio: MXN 600 por equipo o participante individual. Para la comunidad innovatiQ, MXN 300.
+Limitaciones: Edad cumplida al registrarse.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/robotica/InnovatiQ_Digital_Cup-Convocatorias_Robot_Descubre.pdf
+Se ha comprobado: 2026-11-07
+
+### C4470 · innovatiQ Digital Cup 2027 · Robot Fashion Show
+
+Fecha: 2027-02-12 国 2027-02-13
+edad: Edades de 5 a 7 años.
+Matvey: No. Edad superior al máximo publicado.
+Oscar: Sí por edad. Se requieren una persona adulta responsable, una plaza y una inscripción confirmada.
+Idioma: Las bases están publicadas en español. Confirmar el idioma de comunicación con el jurado.
+Acceso: Inscripción según las bases del 1 de septiembre de 2026 al 5 de febrero de 2027. Límite de 25 equipos o participantes por reto sujeto a disponibilidad.
+Precio: MXN 600 por equipo o participante individual. Para la comunidad innovatiQ, MXN 300.
+Limitaciones: Edad cumplida al registrarse.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/robotica/InnovatiQ_Digital_Cup-Convocatorias_Robot_Fashion_show.pdf
+Se ha comprobado: 2026-11-07
+
+### C4471 · innovatiQ Digital Cup 2027 · RoboLink Race
+
+Fecha: 2027-02-12 国 2027-02-13
+edad: Edades de 8 a 11 años.
+Matvey: Sí por edad. Se requieren una persona adulta responsable, una plaza y una inscripción confirmada.
+Oscar: No. Edad inferior al mínimo publicado.
+Idioma: Las bases están publicadas en español. Confirmar el idioma de comunicación con el jurado.
+Acceso: Inscripción según las bases del 1 de septiembre de 2026 al 5 de febrero de 2027. Límite de 25 equipos o participantes por reto sujeto a disponibilidad.
+Precio: MXN 600 por equipo o participante individual. Para la comunidad innovatiQ, MXN 300.
+Limitaciones: Edad cumplida al registrarse.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/robotica/InnovatiQ_Digital_Cup-Convocatorias_Robolink_Race.pdf
+Se ha comprobado: 2026-11-07
+
+### C4472 · innovatiQ Digital Cup 2027 · Sumo Jr.
+
+Fecha: 2027-02-12 国 2027-02-13
+edad: Edades de 8 a 11 años.
+Matvey: Sí por edad. Se requieren una persona adulta responsable, una plaza y una inscripción confirmada.
+Oscar: No. Edad inferior al mínimo publicado.
+Idioma: Las bases están publicadas en español. Confirmar el idioma de comunicación con el jurado.
+Acceso: Inscripción según las bases del 1 de septiembre de 2026 al 5 de febrero de 2027. Límite de 25 equipos o participantes por reto sujeto a disponibilidad.
+Precio: MXN 600 por equipo o participante individual. Para la comunidad innovatiQ, MXN 300.
+Limitaciones: Edad cumplida al registrarse.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/robotica/InnovatiQ_Digital_Cup-Convocatorias_Sumo_Jr.pdf
+Se ha comprobado: 2026-11-07
+
+### C4473 · innovatiQ Digital Cup 2027 · Territorio X
+
+Fecha: 2027-02-12 国 2027-02-13
+edad: Edades de 12 a 15 años.
+Matvey: No. Edad inferior al mínimo publicado.
+Oscar: No. Edad inferior al mínimo publicado.
+Idioma: Las bases están publicadas en español. Confirmar el idioma de comunicación con el jurado.
+Acceso: Inscripción según las bases del 1 de septiembre de 2026 al 5 de febrero de 2027. Límite de 25 equipos o participantes por reto sujeto a disponibilidad.
+Precio: MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.
+Limitaciones: Edad cumplida al registrarse.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/robotica/InnovatiQ_Digital_Cup-Convocatorias_Territorio_X.pdf
+Se ha comprobado: 2026-11-07
+
+### C4474 · innovatiQ Digital Cup 2027 · Combat Robotics Jr.
+
+Fecha: 2027-02-12 国 2027-02-13
+edad: Edades de 12 a 15 años.
+Matvey: No. Edad inferior al mínimo publicado.
+Oscar: No. Edad inferior al mínimo publicado.
+Idioma: Las bases están publicadas en español. Confirmar el idioma de comunicación con el jurado.
+Acceso: Inscripción según las bases del 1 de septiembre de 2026 al 5 de febrero de 2027. Límite de 25 equipos o participantes por reto sujeto a disponibilidad.
+Precio: MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.
+Limitaciones: Edad cumplida al registrarse.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/robotica/InnovatiQ_Digital_Cup-Convocatorias_Combat_Robotics_jr_1lb.pdf
+Se ha comprobado: 2026-11-07
+
+### C4475 · innovatiQ Digital Cup 2027 · Combat Robotics EDU
+
+Fecha: 2027-02-12 国 2027-02-13
+edad: Edades de 16 a 19 años.
+Matvey: No. Edad inferior al mínimo publicado.
+Oscar: No. Edad inferior al mínimo publicado.
+Idioma: Las bases están publicadas en español. Confirmar el idioma de comunicación con el jurado.
+Acceso: Inscripción según las bases del 1 de septiembre de 2026 al 5 de febrero de 2027. Límite de 25 equipos o participantes por reto sujeto a disponibilidad.
+Precio: MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.
+Limitaciones: Edad cumplida al registrarse.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/robotica/InnovatiQ_Digital_Cup-Convocatorias_Combat_Robotics_EDU_Division.pdf
+Se ha comprobado: 2026-11-07
+
+### C4476 · innovatiQ Digital Cup 2027 · Combat Robotics Open 3D
+
+Fecha: 2027-02-12 国 2027-02-13
+edad: Edades de 16 a 19 años.
+Matvey: No. Edad inferior al mínimo publicado.
+Oscar: No. Edad inferior al mínimo publicado.
+Idioma: Las bases están publicadas en español. Confirmar el idioma de comunicación con el jurado.
+Acceso: Inscripción según las bases del 1 de septiembre de 2026 al 5 de febrero de 2027. Límite de 25 equipos o participantes por reto sujeto a disponibilidad.
+Precio: MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.
+Limitaciones: Edad cumplida al registrarse.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/robotica/InnovatiQ_Digital_Cup-Convocatorias_Combat_Robotics_Open_Division.pdf
+Se ha comprobado: 2026-11-07
+
+### C4477 · innovatiQ Digital Cup 2027 · Cómic Creativo · Pre Nacional
+
+Fecha: 2026-09-01 — 2026-11-13
+edad: Edades de 8 a 11 años.
+Matvey: Sí por edad. Se requieren una persona adulta responsable, una plaza y una inscripción confirmada.
+Oscar: No. Edad inferior al mínimo publicado.
+Idioma: El trabajo puede hacerse en español o inglés. Si se elige inglés, se requiere material comprensible para el jurado. Confirmar el idioma de las preguntas en la fase presencial.
+Acceso: Entrega virtual del proyecto hasta el 13 de noviembre de 2026. Los 10 mejores proyectos de cada reto pasan a la final presencial. Resultados del 22 al 30 de noviembre y confirmación de finalistas hasta el 11 de diciembre.
+Precio: MXN 600 por equipo o participante individual. Para la comunidad innovatiQ, MXN 300.
+Limitaciones: Se solicitan datos de la institución educativa. La organización no detalla la admisión de escuelas fuera de México.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/digital/InnovatiQ_Digital_Cup-Convocatoria_Comic_Creativo.pdf
+Se ha comprobado: 2026-11-07
+
+### C4478 · innovatiQ Digital Cup 2027 · NewsLab · Pre Nacional
+
+Fecha: 2026-09-01 — 2026-11-13
+edad: Edades de 8 a 11 años.
+Matvey: Sí por edad. Se requieren una persona adulta responsable, una plaza y una inscripción confirmada.
+Oscar: No. Edad inferior al mínimo publicado.
+Idioma: Noticiero en español o inglés. La versión en inglés necesita subtítulos en español. Confirmar el idioma de las preguntas en la final.
+Acceso: Entrega virtual del proyecto hasta el 13 de noviembre de 2026. Los 10 mejores proyectos de cada reto pasan a la final presencial. Resultados del 22 al 30 de noviembre y confirmación de finalistas hasta el 11 de diciembre.
+Precio: MXN 600 por equipo o participante individual. Para la comunidad innovatiQ, MXN 300.
+Limitaciones: Se solicitan datos de la institución educativa. La organización no detalla la admisión de escuelas fuera de México.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/digital/InnovatiQ_Digital_Cup-Convocatoria_NewsLab.pdf
+Se ha comprobado: 2026-11-07
+
+### C4479 · innovatiQ Digital Cup 2027 · Juego Arcade · Pre Nacional
+
+Fecha: 2026-09-01 — 2026-11-13
+edad: Edades de 12 a 15 años.
+Matvey: No. Edad inferior al mínimo publicado.
+Oscar: No. Edad inferior al mínimo publicado.
+Idioma: El trabajo puede hacerse en español o inglés. Si se elige inglés, se requiere material comprensible para el jurado. Confirmar el idioma de las preguntas en la fase presencial.
+Acceso: Entrega virtual del proyecto hasta el 13 de noviembre de 2026. Los 10 mejores proyectos de cada reto pasan a la final presencial. Resultados del 22 al 30 de noviembre y confirmación de finalistas hasta el 11 de diciembre.
+Precio: MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.
+Limitaciones: Se solicitan datos de la institución educativa. La organización no detalla la admisión de escuelas fuera de México.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/digital/InnovatiQ_Digital_Cup-Convocatoria_Juego_Arcade.pdf
+Se ha comprobado: 2026-11-07
+
+### C4480 · innovatiQ Digital Cup 2027 · Resultados Pre Nacional
+
+Fecha: 2026-11-22 — 2026-11-30
+edad: 5–7 y 8–11 años para los grupos menores. Hay categorías de 12–15, 16–19 y una docente de 20+.
+Matvey: Ventana de publicación de resultados de la preselección virtual. Hasta 10 proyectos destacados por reto pasan a la final.
+Oscar: Ventana de publicación de resultados de la preselección virtual. Hasta 10 proyectos destacados por reto pasan a la final.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Ventana de publicación de resultados de la preselección virtual. Hasta 10 proyectos destacados por reto pasan a la final.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: Ventana de publicación de resultados de la preselección virtual. Hasta 10 proyectos destacados por reto pasan a la final.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/digital/InnovatiQ_Digital_Cup-Convocatoria_Comic_Creativo.pdf
+Se ha comprobado: 2026-11-07
+
+### C4481 · innovatiQ Digital Cup 2027 · Confirmación de finalistas
+
+Fecha: 2026-12-11 — 2026-12-11
+edad: 5–7 y 8–11 años para los grupos menores. Hay categorías de 12–15, 16–19 y una docente de 20+.
+Matvey: Fecha límite de confirmación de asistencia para finalistas digitales seleccionados.
+Oscar: Fecha límite de confirmación de asistencia para finalistas digitales seleccionados.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Fecha límite de confirmación de asistencia para finalistas digitales seleccionados.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: Fecha límite de confirmación de asistencia para finalistas digitales seleccionados.
+Fuente: https://innovatiq.education/digitalcup/2027/docs/digital/InnovatiQ_Digital_Cup-Convocatoria_NewsLab.pdf
+Se ha comprobado: 2026-11-07
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1910 fichas en 125 países. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-07. 1911 fichas en 125 países. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -153753,6 +153753,70 @@ Francia · Academy AI Robot · 5 Rue Blondel · Paris
 ### Fuentes
 
 - [Página oficial, reglamento o calendario de la asociación del sector.](https://www.academyairobot.com/en/stages/) · 2026-11-07
+
+## CP1911 · UNAL Medellín · Niñas y Niños Científicos
+
+Colombia · Universidad Nacional de Colombia · Sede Medellín
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6–15 años, grupos de 6–8, 9–11, 12–13 y 14–15.
+
+**Idioma:** Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+
+**Programa:** 8 talleres, entre ellos electrónica, óptica, juego en Scratch, impresión 3D, ecología y primeros auxilios.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Del 30 de noviembre al 4 de diciembre de 2026. De lunes a jueves, 08:00–12:00 y 13:30–16:00. El viernes solo hasta las 12:00.
+
+**Precio / año:** 2026 · COP 260000 por menor para público general. COP 210000 para comunidad UNAL. Para 2 menores a tarifa general, COP 520000 sin alimentación.
+
+**Incluido:** 8 talleres, entre ellos electrónica, óptica, juego en Scratch, impresión 3D, ecología y primeros auxilios.
+
+**Suplementos:** La alimentación no está incluida.
+
+**Pago:** La página de la universidad indica plazas agotadas. Consultar la próxima edición.
+
+**Matvey:** La página de la universidad indica plazas agotadas. Consultar la próxima edición.
+
+**Oscar:** La página de la universidad indica plazas agotadas. Consultar la próxima edición.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Se publica una tarifa general para familias externas a la universidad. Confirmar la próxima convocatoria y el idioma de clase.
+
+- La página de la universidad indica plazas agotadas. Consultar la próxima edición.
+
+### Vacacional · STEAM
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**lugar:** Universidad Nacional de Colombia · Sede Medellín
+
+**Precio:** COP 260000 por menor para público general. COP 210000 para comunidad UNAL. Para 2 menores a tarifa general, COP 520000 sin alimentación.
+
+**condiciones de participación:** La página de la universidad indica plazas agotadas. Consultar la próxima edición.
+
+- 2026-11-30 · 08:00–16:00 · America/Bogota · 8 talleres, entre ellos electrónica, óptica, juego en Scratch, impresión 3D, ecología y primeros auxilios.
+
+- 2026-12-01 · 08:00–16:00 · America/Bogota · 8 talleres, entre ellos electrónica, óptica, juego en Scratch, impresión 3D, ecología y primeros auxilios.
+
+- 2026-12-02 · 08:00–16:00 · America/Bogota · 8 talleres, entre ellos electrónica, óptica, juego en Scratch, impresión 3D, ecología y primeros auxilios.
+
+- 2026-12-03 · 08:00–16:00 · America/Bogota · 8 talleres, entre ellos electrónica, óptica, juego en Scratch, impresión 3D, ecología y primeros auxilios.
+
+- 2026-12-04 · 08:00–12:00 · America/Bogota · Última mañana de juegos y actividades.
+
+**Disponibilidad de plazas:** La página de la universidad indica plazas agotadas. Consultar la próxima edición.
+
+[fuente](https://centrodeeducacioncontinua.medellin.unal.edu.co/vacacional-ninos-y-ninas-cientificos-unal)
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://centrodeeducacioncontinua.medellin.unal.edu.co/vacacional-ninos-y-ninas-cientificos-unal) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 
