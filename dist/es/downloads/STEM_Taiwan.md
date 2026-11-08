@@ -278,15 +278,15 @@ Se ha comprobado: 2026-11-07
 ### E117 · Taipei Game Show 2027 · B2C public zone
 
 Fecha: 2027-01-21 国 2027-01-24
-Edad: zona pública B2C; no se ha confirmado la admisión específica de los niños 6/9 y la tarifa de la emisión actual
+edad: Board Game Wonderland está confirmada del 21–24 de enero de 2027. La página de entradas aún muestra las condiciones de 2026. Confirmar tarifa y acceso infantil de 2027.
 Matvey: Confidente de autorización
 Oscar: Confidentemente a confirmar la admisión
 Idioma: No se ha confirmado el idioma de la actividad específica
-Acceso: Ruta familiar: B2C del 21 al 24 de enero de 2027. B2B y Asia Pacific Game Summit del 21 al 22 de enero con acceso separado. Confirmar tarifas 2027 y acceso infantil por zonas.
-Costo: Tarifa de la opción seleccionada
+Acceso: Board Game Wonderland está confirmada del 21–24 de enero de 2027. La página de entradas aún muestra las condiciones de 2026. Confirmar tarifa y acceso infantil de 2027.
+Precio: Aún no se confirman el coste total ni las plazas.
 Limitaciones: Días públicos del 21 al 24 de enero confirmados; las normas de edad de 2023 u otros programas de Taiwán no se han aplazado hasta 2027.
 Fuente: https://tgs.tca.org.tw/?p=event_info_e
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### C779 · MARC Taiwan · TM Elementary · 2027
 
@@ -798,15 +798,15 @@ Se ha comprobado: 2026-11-07
 ### E363 · Taipei Game Show 2027 · B2B business zone
 
 Fecha: 2027-01-21 国 2027-01-22
-edad: Solo para visitantes profesionales desde los 18 años. Acceso infantil no permitido.
+edad: En 2027 el acceso es para expositores del sector de videojuegos, visitantes profesionales y prensa desde los 18 años. El B2C público se celebra por separado.
 Matway: No
 Oscar: No
 Idioma: Confirmar el idioma del grupo o sede concretos.
-Acceso: Solo para visitantes profesionales desde los 18 años. Acceso infantil no permitido.
+Acceso: En 2027 el acceso es para expositores del sector de videojuegos, visitantes profesionales y prensa desde los 18 años. El B2C público se celebra por separado.
 Precio: Precio sin publicar.
 Limitaciones: Zona profesional para editores, desarrolladores y profesionales de videojuegos. La zona pública B2C se celebra por separado.
 Fuente: https://tgs.tca.org.tw/b2bzone_e.php?lang=e&m=2026
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### C3395 · APICTA Taiwan 2026 · Junior Student Selection
 

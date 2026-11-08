@@ -1315,16 +1315,16 @@
       "period": "",
       "date_status": "Confirmado",
       "deadline": "",
-      "age": "Zona pública B2C; no se confirmó el permiso de entrada de niños 6/9 y el precio de la emisión actual",
+      "age": "Board Game Wonderland está confirmada del 21–24 de enero de 2027. La página de entradas aún muestra las condiciones de 2026. Confirmar tarifa y acceso infantil de 2027.",
       "mat": "condicionalmente  confirmar la admisión",
       "osc": "condicionalmente  confirmar la admisión",
       "format": "Exposición de juegos B2C",
-      "entry": "Ruta familiar: B2C del 21 al 24 de enero de 2027. B2B y Asia Pacific Game Summit del 21 al 22 de enero con acceso separado. Confirmar tarifas 2027 y acceso infantil por zonas.",
+      "entry": "Board Game Wonderland está confirmada del 21–24 de enero de 2027. La página de entradas aún muestra las condiciones de 2026. Confirmar tarifa y acceso infantil de 2027.",
       "gear": "No es necesario para entrar.",
       "language": "no se ha confirmado el idioma de la actividad en concreto",
       "languages": [],
       "language_certainty": "el idioma del sitio no prueba el idioma de enseñanza o apoyo familiar.",
-      "cost": "especificar el precio de la opción elegida",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
       "level": "E  exposición de juegos",
       "scope": "international",
       "importance_reason": "Orientación editorial por el programa y la geografía publicados; no es un ranking mundial oficial.",
@@ -1344,10 +1344,14 @@
         {
           "url": "https://tgs.tca.org.tw/news.php?a=1&b=e&n=b8b12f949378552c21f28deff8ba8eb6",
           "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://tgs.tca.org.tw/?p=tickets_b2c_e",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "días públicos 21–24 enero confirmado; Reglas de edad 2023 o otros programas de Taiwán no se han trasladado a 2027.",
       "themes": [
@@ -1360,8 +1364,8 @@
       "registration_status": "No se registra la familia; la fecha y el precio publicados no garantizan la disponibilidad de plazas.",
       "exhibition_tier": "global",
       "visitor_policy": "confirm_children",
-      "visitor_policy_note": "Zona pública B2C y Board Game Wonderland con juegos de mesa familiares y mesas de demostración. Confirmar admisión por edad y precios de entradas 2027.",
-      "adult_entry": "de la misma B2C ticket; confirmar la entrada de los niños. B2B / APGS 21–22 enero — otra categoría.",
+      "visitor_policy_note": "Board Game Wonderland está confirmada del 21–24 de enero de 2027. La página de entradas aún muestra las condiciones de 2026. Confirmar tarifa y acceso infantil de 2027.",
+      "adult_entry": "Board Game Wonderland está confirmada del 21–24 de enero de 2027. La página de entradas aún muestra las condiciones de 2026. Confirmar tarifa y acceso infantil de 2027.",
       "highlights": [
         "B2C game exhibition",
         "zona B2B por separado",
@@ -1373,6 +1377,9 @@
       "event_group": "Taipei Game Show",
       "iso": [
         "TWN"
+      ],
+      "related_ids": [
+        "E363"
       ]
     },
     {
@@ -2741,7 +2748,8 @@
       ],
       "date_scope": "festival_window",
       "admission_kind": "qualifier",
-      "registration_status": "Formulario y plazo 2027 de familia sin acreditar."
+      "registration_status": "Formulario y plazo 2027 de familia sin acreditar.",
+      "related_ids": []
     },
     {
       "block": "Competiciones",
@@ -2797,7 +2805,10 @@
       "date_scope": "festival_window",
       "admission_kind": "qualifier",
       "registration_status": "Formulario y plazo 2027 de familia sin acreditar.",
-      "parent_event_id": "C1184"
+      "parent_event_id": "C1184",
+      "related_ids": [
+        "C1184"
+      ]
     },
     {
       "block": "Competiciones",
@@ -2852,7 +2863,10 @@
       "date_scope": "festival_window",
       "admission_kind": "qualifier",
       "registration_status": "Formulario y plazo 2027 de familia sin acreditar.",
-      "parent_event_id": "C1184"
+      "parent_event_id": "C1184",
+      "related_ids": [
+        "C1184"
+      ]
     },
     {
       "block": "Competiciones",
@@ -2908,7 +2922,10 @@
       "date_scope": "festival_window",
       "admission_kind": "qualifier",
       "registration_status": "Formulario y plazo 2027 de familia sin acreditar.",
-      "parent_event_id": "C1184"
+      "parent_event_id": "C1184",
+      "related_ids": [
+        "C1184"
+      ]
     },
     {
       "block": "Competiciones",
@@ -2972,7 +2989,10 @@
       "parent_event_id": "C1184",
       "language_mode": "materials",
       "evidence_level": "rules",
-      "date_precision": "published_festival_window"
+      "date_precision": "published_festival_window",
+      "related_ids": [
+        "C1184"
+      ]
     },
     {
       "block": "Competiciones",
@@ -3621,7 +3641,7 @@
       "deadline": "",
       "period": "",
       "date_status": "Confirmado",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
       "status": "Idea",
       "source": "https://tgs.tca.org.tw/b2bzone_e.php?lang=e&m=2026",
@@ -3629,13 +3649,17 @@
         {
           "url": "https://tgs.tca.org.tw/news.php?a=1&b=e&n=b8b12f949378552c21f28deff8ba8eb6",
           "label": "Reglas y condiciones de admisión"
+        },
+        {
+          "url": "https://tgs.tca.org.tw/b2bzone_e.php",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
-      "age": "Solo para visitantes profesionales desde los 18 años. Acceso infantil no permitido.",
+      "age": "En 2027 el acceso es para expositores del sector de videojuegos, visitantes profesionales y prensa desde los 18 años. El B2C público se celebra por separado.",
       "mat": "No",
       "osc": "No",
       "format": "Zona profesional para editores, desarrolladores y profesionales de videojuegos. La zona pública B2C se celebra por separado.",
-      "entry": "Solo para visitantes profesionales desde los 18 años. Acceso infantil no permitido.",
+      "entry": "En 2027 el acceso es para expositores del sector de videojuegos, visitantes profesionales y prensa desde los 18 años. El B2C público se celebra por separado.",
       "gear": "Zona profesional para editores, desarrolladores y profesionales de videojuegos. La zona pública B2C se celebra por separado.",
       "language": "Confirmar el idioma del grupo o sede concretos.",
       "language_certainty": "Confirmar el idioma del grupo o sede concretos.",
@@ -3658,13 +3682,16 @@
       "evidence_level": "event_page",
       "date_scope": "exhibition_window",
       "exhibition_tier": "profile",
-      "adult_entry": "Solo para visitantes profesionales desde los 18 años. Acceso infantil no permitido.",
+      "adult_entry": "En 2027 el acceso es para expositores del sector de videojuegos, visitantes profesionales y prensa desde los 18 años. El B2C público se celebra por separado.",
       "visitor_policy": "adults_only",
-      "visitor_policy_note": "Solo para visitantes profesionales desde los 18 años. Acceso infantil no permitido.",
-      "exhibitor_note": "Zona profesional para editores, desarrolladores y profesionales de videojuegos. La zona pública B2C se celebra por separado.",
+      "visitor_policy_note": "En 2027 el acceso es para expositores del sector de videojuegos, visitantes profesionales y prensa desde los 18 años. El B2C público se celebra por separado.",
+      "exhibitor_note": "Se confirma la zona AI FOR GAMES para soluciones de IA en videojuegos. Queda por confirmar la lista nominal de expositores de la edición.",
       "exhibitor_directory_url": "https://tgs.tca.org.tw/b2bzone_e.php?lang=e&m=2026",
       "highlights": [],
-      "exhibitors": []
+      "exhibitors": [],
+      "related_ids": [
+        "E117"
+      ]
     },
     {
       "id": "C3395",

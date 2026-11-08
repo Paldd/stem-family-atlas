@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10052; соревнований: 4563; событий: 529; лагерей / программ: 4960. Профилей лиг и программ: 299. Карточек крупных и профильных выставок: 432 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10066; соревнований: 4572; событий: 533; лагерей / программ: 4961. Профилей лиг и программ: 299. Карточек крупных и профильных выставок: 436 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 231 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -18,12 +18,12 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Южная Америка | 14 | 419 | 37 | 200 |
 | Европа | 52 | 578 | 106 | 1425 |
 | Африка | 53 | 234 | 28 | 92 |
-| Азия | 49 | 1130 | 131 | 1648 |
+| Азия | 49 | 1139 | 135 | 1649 |
 | Океания | 25 | 162 | 29 | 332 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 161. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 814 из 4563 карточек соревнований (17.8%). Это явный перекос охвата.
+VEX: 814 из 4572 карточек соревнований (17.8%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -103,7 +103,7 @@ VEX: 814 из 4563 карточек соревнований (17.8%). Это я�
 - **WER**: 3 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.wermexico.com/competencia
 - **RoboMatrix / Infomatrix**: 59 карточек, 26 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://robomatrix.org/
 - **RoboRAVE**: 20 карточек, 18 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.roboraveinternational.org/eventos
-- **Robofest · LTU**: 16 карточек, 11 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofest.net/index.php/current-competitions/main-page
+- **Robofest · LTU**: 25 карточек, 20 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofest.net/index.php/current-competitions/main-page
 - **Robotex International**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://robotex.international/lego-sumo
 - **RobotChallenge**: 17 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robotchallenge.org.cn/competition-RobotSumo.html
 - **ENJOY AI**: 5 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.enjoyaiglobal.org/
@@ -799,6 +799,10 @@ VEX: 814 из 4563 карточек соревнований (17.8%). Это я�
 - **Hawaii State Elementary STEM Expo 2027** — Соединенные Штаты Америки; 2027-04-09. Со взрослым; условия взрослого входа отдельно. https://www.hawaiiacademyofscience.org/elementary-expo
 - **Hawaii STEM Conference 2027** — Соединенные Штаты Америки; 2027-04-07 – 2027-04-08. Детский допуск уточнить. https://www.hawaiistemconference.org/
 - **Global Game Jam Monterrey 2027 · Video Game Showcase** — Мексика; 2027-01-29. Детский допуск уточнить. https://loot.pixelperfectstudio.mx/event/global-game-jam-monterrey-2027/
+- **Tokyo Game Show 2027 · Public Days** — Япония; 2027-09-18 – 2027-09-20. Детский допуск уточнить. https://www.cesa.or.jp/information/info3/001293/2026_3.html
+- **Tokyo Game Show 2027 · Business Days** — Япония; 2027-09-16 – 2027-09-17. Детский допуск уточнить. https://www.cesa.or.jp/information/info3/001293/2026_3.html
+- **Robofest Korea · Busan · Spectator & Experience Zone** — Республика Корея; 2026-11-28. Детский допуск уточнить. https://robofestbusan2026.com/faq
+- **AutoRobocon 2027 · Construction Automation & Robotics** — Республика Корея; 2027-02-17 – 2027-02-20. Детский допуск уточнить. https://autorobocon.kr/infomation/about/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

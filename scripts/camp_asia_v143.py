@@ -271,6 +271,7 @@ def competition_updates(d):
             registration_status=T('Форма и срок 2027 для семьи не установлены.','Formulario y plazo 2027 de familia sin acreditar.'),
             proof=T('Прочитаны текущее объявление и связанные публичные PDF; старые версии и неизвестные условия сохранены явно.','Leídos anuncio actual y PDF públicos enlazados; versiones anteriores y condiciones desconocidas conservadas.'),
             references=[dict(label=T('Текущее объявление Taiwan Robofest','Anuncio actual Taiwan Robofest'),url=ROBOFEST)],themes=['makers','technology'] if key in ['master','cat-k'] else ['robotics'])
+        e['related_ids']=['C1184'] if key else []
         if key:e['parent_event_id']='C1184';e['references'].append(dict(label=T('Связанный регламент выбранной категории','Reglamento enlazado de categoría elegida'),url=rules[key]))
         if key=='cat-k':e['mat']=T('Нет по школьной ступени детского сада.','No corresponde a etapa infantil.')
         added.append(e)

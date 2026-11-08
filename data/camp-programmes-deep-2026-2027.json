@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1928,
+    "dossiers": 1929,
     "countries": 126,
     "swiss": 137,
     "by_status": {
@@ -38,7 +38,7 @@
       "published_2027": 517,
       "partial_2027": 142,
       "next_unannounced": 399,
-      "published_2026": 355,
+      "published_2026": 356,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2806
+    "source_urls": 2807
   },
   "countries": [
     {
@@ -553,7 +553,7 @@
     },
     {
       "country": "Япония",
-      "count": 89
+      "count": 90
     }
   ],
   "profiles": [
@@ -104081,7 +104081,7 @@
         {
           "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
           "title": "Официальная страница организатора",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         },
         {
           "title": "Текущий зимний набор: классы, цена и языки",
@@ -104106,10 +104106,10 @@
         {
           "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
           "title": "Официальная страница организатора",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "previous_source_checks": [
         {
           "title": "Дневные даты, часы и шаттл",
@@ -293455,6 +293455,108 @@
       "related_event_ids": [
         "L768"
       ]
+    },
+    {
+      "id": "CP1929",
+      "slug": "jica-tokyo-international-programming-dec-2026",
+      "provider": "Science Tokyo IDA · JICA LEGO Programming Workshop",
+      "country": "Япония",
+      "iso": "JPN",
+      "place": "JICA Tokyo Center · Nishihara · Shibuya",
+      "age": "Ученики 3–6 классов начальной школы с международным происхождением. Сопровождение родителя или опекуна обязательно.",
+      "programme": "Работа в паре с LEGO-роботом. Дети программируют движение, выполняют миссию по спасению леса и презентуют проект. Опыт не нужен.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор объявляет поддержку сотрудников на японском, английском и китайском. Полное обучение на английском не подтверждено.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "support",
+      "timing": {
+        "status": "published_2026",
+        "label": "13 декабря 2026, 14:00–16:00 JST. Форма доступна через анонс. Дедлайн и остаток мест не опубликованы.",
+        "sessions": [
+          [
+            "2026-12-13",
+            "2026-12-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec13",
+            "start": "2026-12-13",
+            "end": "2026-12-13",
+            "label": "13 декабря 2026, 14:00–16:00 JST. Форма доступна через анонс. Дедлайн и остаток мест не опубликованы.",
+            "price": "Участие бесплатно.",
+            "source": "https://tabunka.tokyo-tsunagari.or.jp/english/event/2026/11/05_21.html",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-13",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Tokyo",
+                "start_utc": "2026-12-13T05:00:00Z",
+                "end_utc": "2026-12-13T07:00:00Z",
+                "topic": "Работа в паре с LEGO-роботом. Дети программируют движение, выполняют миссию по спасению леса и презентуют проект. Опыт не нужен.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 0,
+        "currency": "JPY",
+        "unit": "session",
+        "label": "Участие бесплатно.",
+        "included": "Работа в паре с LEGO-роботом. Дети программируют движение, выполняют миссию по спасению леса и презентуют проект. Опыт не нужен.",
+        "extras": "Взять свой ноутбук или планшет.",
+        "deposit": "Оплата не требуется."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подходит при подтверждении 3–6 класса, наличия места и сопровождения взрослым."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Минимум 3 класс начальной школы. Для Оскара сейчас рассматривать другую возрастную группу."
+        }
+      },
+      "editorial_reason": "13 декабря 2026, 14:00–16:00 JST. Форма доступна через анонс. Дедлайн и остаток мест не опубликованы.",
+      "shortlist": [],
+      "questions": [
+        "Подходит при подтверждении 3–6 класса, наличия места и сопровождения взрослым."
+      ],
+      "sources": [
+        {
+          "url": "https://tabunka.tokyo-tsunagari.or.jp/english/event/2026/11/05_21.html",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "related_event_ids": [],
+      "confirmed_support_languages": [
+        "JA",
+        "EN",
+        "ZH"
+      ]
     }
   ],
   "gaps": [
@@ -298780,7 +298882,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 266,
+  "version": 267,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -312015,7 +312117,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1928,
+      "total_dossiers": 1929,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

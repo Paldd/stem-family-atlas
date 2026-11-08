@@ -580,15 +580,15 @@
       }
     ],
     "counts": {
-      "records": 4960,
+      "records": 4961,
       "holiday": 4618,
       "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1037,
       "en_es_instruction": 1583,
-      "en_es_support": 27,
+      "en_es_support": 28,
       "family_instruction": 1583,
-      "family_support": 27,
+      "family_support": 28,
       "ru_instruction": 4,
       "language_lessons": 410,
       "camp_life_language": 228,
@@ -177199,7 +177199,7 @@
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para dos, KRW 1978000 al inscribirse. Devolución del 5% tras participar si se cumplen las condiciones. Total estimado KRW 1879100. Autobús, seguro y gastos familiares por separado. Pago: sus propias reglas: hasta que comience el regreso 100% por 20 días, 90% por 10, 80% por uno; el día de la primera 70%, hasta la mitad del turno 50%, y luego no.. aplicabilidad para el conjunto seleccionado, el seguro y los gastos médicos del niño extranjero para verificar por contrato. Se acabó el descuento de septiembre. 18.09.2026.",
       "iso": [
@@ -177336,7 +177336,7 @@
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para dos, KRW 1978000 al inscribirse. Devolución del 5% tras participar si se cumplen las condiciones. Total estimado KRW 1879100. Autobús, seguro y gastos familiares por separado. Pago: sus propias reglas: hasta que comience el regreso 100% por 20 días, 90% por 10, 80% por uno; el día de la primera 70%, hasta la mitad del turno 50%, y luego no.. aplicabilidad para el conjunto seleccionado, el seguro y los gastos médicos del niño extranjero para verificar por contrato. Se acabó el descuento de septiembre. 18.09.2026.",
       "iso": [
@@ -397444,6 +397444,83 @@
           "start_utc": "2026-12-31T18:00:00Z",
           "end_utc": "2027-01-01T00:00:00Z",
           "topic": "Mission: Deep Sea",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1929-20261213-20261213-dec13",
+      "block": "Campamentos",
+      "title": "Science Tokyo IDA · JICA LEGO Programming Workshop · 13 de diciembre de 2026, 14:00–16:00 JST. El formulario está en el anuncio. No se publican plazo ni plazas restantes. · 2026-12-13–2026-12-13",
+      "country": "Japón",
+      "region": "Asia",
+      "city": "JICA Tokyo Center · Nishihara · Shibuya",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "period": "13 de diciembre de 2026, 14:00–16:00 JST. El formulario está en el anuncio. No se publican plazo ni plazas restantes.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Estudiantes de primaria de cursos 3–6 con antecedentes internacionales. Se exige acompañamiento de madre, padre o tutor.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Trabajo en pareja con un robot LEGO. Los niños programan su movimiento, completan una misión para salvar el bosque y presentan el proyecto. No se necesita experiencia.",
+      "language": "La organización anuncia apoyo del personal en japonés, inglés y chino. No se confirma instrucción íntegramente en inglés.",
+      "cost": "2026/27 · Participación gratuita. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Encaja si se confirman curso 3–6, plaza y acompañamiento adulto.",
+      "source": "https://tabunka.tokyo-tsunagari.or.jp/english/event/2026/11/05_21.html",
+      "references": [
+        {
+          "url": "https://tabunka.tokyo-tsunagari.or.jp/english/event/2026/11/05_21.html",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Encaja si se confirman curso 3–6, plaza y acompañamiento adulto. Oscar: Mínimo 3 de primaria. Para Oscar, considerar ahora otro grupo de edad. Suplementos: Llevar portátil o tableta propios. Pago: No se requiere pago.",
+      "iso": [
+        "JPN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "support",
+      "language_certainty": "La organización anuncia apoyo del personal en japonés, inglés y chino. No se confirma instrucción íntegramente en inglés.",
+      "participation": "workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "jica-tokyo-international-programming-dec-2026",
+      "camp_programme_id": "CP1929",
+      "support_languages": [
+        "JA",
+        "EN",
+        "ZH"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-13",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-12-13T05:00:00Z",
+          "end_utc": "2026-12-13T07:00:00Z",
+          "topic": "Trabajo en pareja con un robot LEGO. Los niños programan su movimiento, completan una misión para salvar el bosque y presentan el proyecto. No se necesita experiencia.",
           "ical_timed": true
         }
       ],

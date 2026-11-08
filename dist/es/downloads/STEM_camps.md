@@ -41188,7 +41188,7 @@ Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · sup
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Restricciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para dos, KRW 1978000 al inscribirse. Devolución del 5% tras participar si se cumplen las condiciones. Total estimado KRW 1879100. Autobús, seguro y gastos familiares por separado. Pago: sus propias reglas: hasta que comience el regreso 100% por 20 días, 90% por 10, 80% por uno; el día de la primera 70%, hasta la mitad del turno 50%, y luego no.. aplicabilidad para el conjunto seleccionado, el seguro y los gastos médicos del niño extranjero para verificar por contrato. Se acabó el descuento de septiembre. 18.09.2026.
 Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP877-20270118-20270122-2027-01-18 · D.CAMPS · Daewon English STEM Winter · Coding & Robotics · 2027-01-18–2027-01-22
 
@@ -41204,7 +41204,7 @@ Precio: 2027 · KRW 989000 por 5 días. El autobús se paga por separado. · sup
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Restricciones: Matvey: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Oscar: Condicional por grado escolar. Confirmar equivalencia del grado y disponibilidad. Suplementos: Para dos, KRW 1978000 al inscribirse. Devolución del 5% tras participar si se cumplen las condiciones. Total estimado KRW 1879100. Autobús, seguro y gastos familiares por separado. Pago: sus propias reglas: hasta que comience el regreso 100% por 20 días, 90% por 10, 80% por uno; el día de la primera 70%, hasta la mitad del turno 50%, y luego no.. aplicabilidad para el conjunto seleccionado, el seguro y los gastos médicos del niño extranjero para verificar por contrato. Se acabó el descuento de septiembre. 18.09.2026.
 Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP878-20270104-20270108 · D.CAMPS · Seoul National University STEM Boarding · 2027-01-04–2027-01-08
 
@@ -78148,6 +78148,22 @@ Precio: 2026/27 · USD 315 por 4 días. · suplementos y condiciones en el dossi
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Oscar: Cursos K–6. La organización admite estudiantes de distintas escuelas. Confirmar la equivalencia del curso y los documentos de una familia extranjera. Suplementos: Descuento para hermanos del 10%. Confirmar a quién se aplica. El almuerzo es opcional a jornada completa y se indica USD 80 para el paquete de ambos turnos. Pago: Reembolso íntegro hasta el 30 de noviembre de 2026 a las 23:59 HST. Del 1 al 15 de diciembre de 2026 a las 23:59 HST se retienen USD 50. Después no hay reembolso ordinario.
 Fuente: https://www.keikicoders.com/winter-camp
+Se ha comprobado: 2026-11-08
+
+### CP1929-20261213-20261213-dec13 · Science Tokyo IDA · JICA LEGO Programming Workshop · 13 de diciembre de 2026, 14:00–16:00 JST. El formulario está en el anuncio. No se publican plazo ni plazas restantes. · 2026-12-13–2026-12-13
+
+Lugar: Japón JICA Tokyo Center · Nishihara · Shibuya
+Fecha: 2026-12-13 — 2026-12-13
+edad: Estudiantes de primaria de cursos 3–6 con antecedentes internacionales. Se exige acompañamiento de madre, padre o tutor.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+formato: workshop
+Idioma: La organización anuncia apoyo del personal en japonés, inglés y chino. No se confirma instrucción íntegramente en inglés.
+Etiqueta de idioma: support; apoyo: JA, EN, ZH
+Precio: 2026/27 · Participación gratuita. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Encaja si se confirman curso 3–6, plaza y acompañamiento adulto. Oscar: Mínimo 3 de primaria. Para Oscar, considerar ahora otro grupo de edad. Suplementos: Llevar portátil o tableta propios. Pago: No se requiere pago.
+Fuente: https://tabunka.tokyo-tsunagari.or.jp/english/event/2026/11/05_21.html
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

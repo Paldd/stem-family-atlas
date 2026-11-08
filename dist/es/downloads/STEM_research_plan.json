@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 266,
+    "version": 267,
     "status": "implementation_snapshot",
-    "events": 10052,
-    "competitions": 4563,
+    "events": 10066,
+    "competitions": 4572,
     "league_profiles": 299,
-    "camp_dossiers": 1928,
+    "camp_dossiers": 1929,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 529,
+    "exhibitions_events": 533,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 265,
+    "version": 266,
     "status": "implementation_snapshot",
-    "events": 10043,
-    "competitions": 4556,
+    "events": 10052,
+    "competitions": 4563,
     "league_profiles": 299,
-    "camp_dossiers": 1927,
+    "camp_dossiers": 1928,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 528,
+    "exhibitions_events": 529,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 266,
+    "prepared_ui_version": 267,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 265,
-    "previous_verified_commit": "5e1f45ec7f5f2c17271039032d2d77ef8c22ffd6"
+    "previous_verified_ui_version": 266,
+    "previous_verified_commit": "cb7e18d890269353e57b74dda9239d6a9cce4d8b"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 265,
-    "published_version": 265,
-    "latest_source_commit": "5e1f45ec7f5f2c17271039032d2d77ef8c22ffd6",
-    "published_commit": "5e1f45ec7f5f2c17271039032d2d77ef8c22ffd6",
-    "latest_workflow": 42459960362,
+    "latest_source_version": 266,
+    "published_version": 266,
+    "latest_source_commit": "cb7e18d890269353e57b74dda9239d6a9cce4d8b",
+    "published_commit": "cb7e18d890269353e57b74dda9239d6a9cce4d8b",
+    "latest_workflow": 42461307949,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -26782,5 +26782,75 @@
     "source_requests": 21,
     "audit": "data/latin-america-family-and-school-events-audit-v266.json",
     "source_receipts": "data/latin-america-family-and-school-events-source-receipts-v266.json"
+  },
+  "east_asia_visit_and_qualification_v267": {
+    "version": 267,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E530",
+      "E531",
+      "C4565",
+      "C4566",
+      "C4567",
+      "C4568",
+      "C4569",
+      "C4570",
+      "C4571",
+      "C4572",
+      "C4573",
+      "E532",
+      "E533"
+    ],
+    "new_dossiers": [
+      "CP1929"
+    ],
+    "refreshed_dossiers": [
+      "CP877"
+    ],
+    "refreshed_event_ids": [
+      "E037",
+      "C053",
+      "C1268",
+      "E117",
+      "E363",
+      "C3168",
+      "C3167"
+    ],
+    "legacy_overlay_event_ids": [
+      "E037",
+      "C053",
+      "C1268",
+      "E117",
+      "E363",
+      "C3168",
+      "C3167"
+    ],
+    "tgs_public": "E530",
+    "tgs_business": "E531",
+    "tgs_family_watch": "E037",
+    "busan_qualifier": "C4565",
+    "busan_categories": [
+      "C4566",
+      "C4567",
+      "C4568",
+      "C4569",
+      "C4570",
+      "C4571",
+      "C4572",
+      "C4573"
+    ],
+    "busan_spectators": "E532",
+    "busan_explorer_available": false,
+    "autorobocon": "E533",
+    "taipei_public": "E117",
+    "taipei_business": "E363",
+    "rcko_infrared": "C3168",
+    "rcko_local_u12_min_age_confirmed": false,
+    "jica_workshop": "CP1929",
+    "source_requests": 30,
+    "audit": "data/east-asia-visit-and-qualification-audit-v267.json",
+    "source_receipts": "data/east-asia-visit-and-qualification-source-receipts-v267.json"
   }
 }

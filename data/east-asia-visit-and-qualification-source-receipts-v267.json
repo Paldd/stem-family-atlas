@@ -1,0 +1,304 @@
+{
+  "captures": [
+    {
+      "key": "tgs-cesa",
+      "url": "https://www.cesa.or.jp/information/info3/001293/2026_3.html",
+      "final_url": "https://www.cesa.or.jp/information/info3/001293/2026_3.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 40454,
+      "sha256": "32bc52d77ceca579d8ab1ef4d978e4a86da69671257722263965ee42cbfd037f",
+      "file": "tgs-cesa.html"
+    },
+    {
+      "key": "tgs-main",
+      "url": "https://www.tgs.cesa.or.jp/2026/en/",
+      "final_url": "https://www.tgs.cesa.or.jp/2026/en/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 620360,
+      "sha256": "5e86b66be5db5a37d75d5dfff1d7bd48e2f16e8b08679f964c0de444e46adc8f",
+      "file": "tgs-main.html"
+    },
+    {
+      "key": "tgs-family",
+      "url": "https://tgs.cesa.or.jp/2026/en/fgp/",
+      "final_url": "https://tgs.cesa.or.jp/2026/en/fgp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 606615,
+      "sha256": "93f83d33e761a4e07afc1b4f05c2476237db7dcea7f359e9d38935aeb1991c67",
+      "file": "tgs-family.html"
+    },
+    {
+      "key": "busan",
+      "url": "https://robofestbusan2026.com/",
+      "final_url": "https://robofestbusan2026.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 113050,
+      "sha256": "b4c727f06c5be109795c132e13123f6f9a351022becca7a05976d26373fb2da2",
+      "file": "busan.html"
+    },
+    {
+      "key": "busan-rules",
+      "url": "https://robofestbusan2026.com/rules/2027/general-2027-ko-v1.pdf",
+      "final_url": "https://robofestbusan2026.com/rules/2027/general-2027-ko-v1.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 381592,
+      "sha256": "cfd38effd252d299599ebdf0c47ed87e8d0018f8902257098e8bad22b712977c",
+      "file": "busan-rules.pdf"
+    },
+    {
+      "key": "busan-faq",
+      "url": "https://robofestbusan2026.com/faq",
+      "final_url": "https://robofestbusan2026.com/faq",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 64158,
+      "sha256": "9e57d70bc58dfb07101704305cff39463cf7ab5db93fd35d564571121c82bd2d",
+      "file": "busan-faq.html"
+    },
+    {
+      "key": "robofest-world",
+      "url": "https://www.robofest.net/index.php/world-championship-26",
+      "final_url": "https://www.robofest.net/index.php/world-championship-26",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 35694,
+      "sha256": "e50a5588f1fcc3d74e9b602fa297da43f1f5bff130e650f2af8eef41e8a00cbd",
+      "file": "robofest-world.html"
+    },
+    {
+      "key": "game",
+      "url": "https://robofestbusan2026.com/categories/game",
+      "final_url": "https://robofestbusan2026.com/categories/game",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 66541,
+      "sha256": "b6bb752e164e2c6bb277258f35695f61a8cafcd18256eadd013600d77c69922d",
+      "file": "game.html"
+    },
+    {
+      "key": "exhibition",
+      "url": "https://robofestbusan2026.com/categories/exhibition",
+      "final_url": "https://robofestbusan2026.com/categories/exhibition",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 67036,
+      "sha256": "b1dc4903a7e5aa3626c9171e943c80f04c359aca2308016ee83028f01df5d495",
+      "file": "exhibition.html"
+    },
+    {
+      "key": "umc",
+      "url": "https://robofestbusan2026.com/categories/umc",
+      "final_url": "https://robofestbusan2026.com/categories/umc",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 67823,
+      "sha256": "60fbeee489da4e9f4abb1014f3155f584418cedd351dc9e74dd35ed75516986e",
+      "file": "umc.html"
+    },
+    {
+      "key": "bottlesumo",
+      "url": "https://robofestbusan2026.com/categories/bottlesumo",
+      "final_url": "https://robofestbusan2026.com/categories/bottlesumo",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68597,
+      "sha256": "e0ea327c97061f5d159e0a4b58f698e5c725541f292f2fedba99162daa163edf",
+      "file": "bottlesumo.html"
+    },
+    {
+      "key": "vcc",
+      "url": "https://robofestbusan2026.com/categories/vcc",
+      "final_url": "https://robofestbusan2026.com/categories/vcc",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 64575,
+      "sha256": "5a262c9d43ff2287888f8582e7611c298b147e990b516fdd837f11f6207b73cc",
+      "file": "vcc.html"
+    },
+    {
+      "key": "roboparade",
+      "url": "https://robofestbusan2026.com/categories/roboparade",
+      "final_url": "https://robofestbusan2026.com/categories/roboparade",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 66918,
+      "sha256": "83789e16ec705578fab8f51061400aad7e48260d13503f760fd54ac9c146de09",
+      "file": "roboparade.html"
+    },
+    {
+      "key": "roboarts",
+      "url": "https://robofestbusan2026.com/categories/roboarts",
+      "final_url": "https://robofestbusan2026.com/categories/roboarts",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 67475,
+      "sha256": "7fa545bc2f9a389e2fdaf28cab610da24e8a48effc0bd48765b1f7bd07ddf225",
+      "file": "roboarts.html"
+    },
+    {
+      "key": "robomed",
+      "url": "https://robofestbusan2026.com/categories/robomed",
+      "final_url": "https://robofestbusan2026.com/categories/robomed",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68279,
+      "sha256": "cb5e79962c391a7900ab1633622231825984b6cbad9e61ef39a2119b78f083f9",
+      "file": "robomed.html"
+    },
+    {
+      "key": "autorobocon",
+      "url": "https://autorobocon.kr/infomation/about/",
+      "final_url": "https://autorobocon.kr/infomation/about/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1465913,
+      "sha256": "f469c9f5f9fbcfae9b4e8148b9df9cedb39778989cb4a4e06461f9c865ebba01",
+      "file": "autorobocon.html"
+    },
+    {
+      "key": "autorobocon-guide",
+      "url": "https://autorobocon.kr/visitor/guide/",
+      "final_url": "https://autorobocon.kr/visitor/guide/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1519465,
+      "sha256": "0e9784e0a3594cffb2cd2ec514d0dc8ca0cfd9bf573a8014ad8202f9ca4d8b27",
+      "file": "autorobocon-guide.html"
+    },
+    {
+      "key": "autorobocon-faq",
+      "url": "https://autorobocon.kr/contact/faq/",
+      "final_url": "https://autorobocon.kr/contact/faq/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1441975,
+      "sha256": "736a674e71d090e185c6c4eee2a194791a1c0842486d6f409f87c4def7a11b47",
+      "file": "autorobocon-faq.html"
+    },
+    {
+      "key": "taipei",
+      "url": "https://tgs.tca.org.tw/?p=event_info_e",
+      "final_url": "https://tgs.tca.org.tw/?p=event_info_e",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 15179,
+      "sha256": "9b43ba7886f1a487beab5a80b0141c4581969799a587f704a9a314b696e7506b",
+      "file": "taipei.html"
+    },
+    {
+      "key": "taipei-boardgame",
+      "url": "https://tgs.tca.org.tw/boardgame_wonderland.php",
+      "final_url": "https://tgs.tca.org.tw/boardgame_wonderland.php",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 40022,
+      "sha256": "fa547d784c18c2d6153f64e331091729f17c5032d2035d3bdd16ff5d34f8833a",
+      "file": "taipei-boardgame.html"
+    },
+    {
+      "key": "taipei-tickets",
+      "url": "https://tgs.tca.org.tw/?p=tickets_b2c_e",
+      "final_url": "https://tgs.tca.org.tw/?p=tickets_b2c_e",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 16704,
+      "sha256": "b32abc9f3284ebfcf95345a86148e613ca374534dc95da029427df87bc332442",
+      "file": "taipei-tickets.html"
+    },
+    {
+      "key": "taipei-b2b-current",
+      "url": "https://tgs.tca.org.tw/b2bzone_e.php",
+      "final_url": "https://tgs.tca.org.tw/b2bzone_e.php",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 34899,
+      "sha256": "21d2cd847c1339e39a489b5f871cb945125ee25eec43fd9b5a91749a4e4f5086",
+      "file": "taipei-b2b-current.html"
+    },
+    {
+      "key": "rcko-notice",
+      "url": "https://www.robocupkorea.org/notices/3e1b8588-54e0-803d-aa21-ec06b3c2005b",
+      "final_url": "https://www.robocupkorea.org/notices/3e1b8588-54e0-803d-aa21-ec06b3c2005b",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 70892,
+      "sha256": "7c770bed38eb0389ebb608127f3818500a29aac0672a56efda5ac4a1f5ad0ddf",
+      "file": "rcko-notice.html"
+    },
+    {
+      "key": "rcko-technical",
+      "url": "https://robocupkorea.org/notices/40bb8588-54e0-81a0-9c14-c54109c9dd97",
+      "final_url": "https://robocupkorea.org/notices/40bb8588-54e0-81a0-9c14-c54109c9dd97",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 63617,
+      "sha256": "97c582c7297ab7e42cf824510daf5b33d378fff348f99a06b2f0b545a2c2a4d9",
+      "file": "rcko-technical.html"
+    },
+    {
+      "key": "rcko-en",
+      "url": "https://robocupkorea.org/en/events/3f1b858854e080bf9ab6ce43b464fa85",
+      "final_url": "https://robocupkorea.org/en/events/3f1b858854e080bf9ab6ce43b464fa85",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 69958,
+      "sha256": "79f8c61f47e78d3aa8dbcb37645ec537a91e99b9481f034ef42d930ce7400581",
+      "file": "rcko-en.html"
+    },
+    {
+      "key": "rcko-soccer-pdf",
+      "url": "https://drive.usercontent.google.com/download?id=14Wq3lOXvxDp2CEtWOyYYtEbKW9X-7W6E&export=download",
+      "final_url": "https://drive.usercontent.google.com/download?id=14Wq3lOXvxDp2CEtWOyYYtEbKW9X-7W6E&export=download",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 1250767,
+      "sha256": "877ddab378f191c545f1b7e630e803ea9077d8b979ab22456a7532273b2cd318",
+      "file": "rcko-soccer-pdf.pdf"
+    },
+    {
+      "key": "rcko-reg",
+      "url": "https://www.robocupkorea.org/notices/3fcb8588-54e0-81af-ae3c-da886d75fce9",
+      "final_url": "https://www.robocupkorea.org/notices/3fcb8588-54e0-81af-ae3c-da886d75fce9",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 58631,
+      "sha256": "f110c1267c6428d1bcbee665dc162f2a5f5ab58aa8b7ed80848e065ae3908d30",
+      "file": "rcko-reg.html"
+    },
+    {
+      "key": "jica",
+      "url": "https://tabunka.tokyo-tsunagari.or.jp/english/event/2026/11/05_21.html",
+      "final_url": "https://tabunka.tokyo-tsunagari.or.jp/english/event/2026/11/05_21.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 35597,
+      "sha256": "4f5739da2dcd4110296688d201391f88c7c9ca7ed651adbf620ae002a56d5132",
+      "file": "jica.html"
+    },
+    {
+      "key": "dcamps",
+      "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+      "final_url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1068001,
+      "sha256": "d312c7146260cd8d24d43276a950fdafd770fe77934601c14bd62adac010f5c5",
+      "file": "dcamps.html"
+    },
+    {
+      "key": "dcamps-daewon",
+      "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
+      "final_url": "https://www.dcampskorea.com/post/2027-winter-daewon",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1103298,
+      "sha256": "e53e851ceccb287051e6be1d456c8da8a781433f9038f6a49ed98bc8a9225712",
+      "file": "dcamps-daewon.html"
+    }
+  ]
+}

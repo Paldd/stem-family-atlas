@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base a 2026-11-08. 1928 fichas en 126 países. Cada ficha incluye la fecha de consulta de sus fuentes.
+Estado de la base: 2026-11-08. 1929 fichas en 126 países. Las fechas de verificación de cada fuente constan en su ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -64998,7 +64998,7 @@ Singapur · Nexus International School · Singapore
 
 Corea del Sur · Daewon Campus · Gwangjin-gu · Seoul
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** Grados 1–3 de primaria.
 
@@ -65140,7 +65140,7 @@ STEM en inglés en Seúl: la semana y el curso escolar determinan las opciones d
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-11-07
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-11-08
 
 - [el conjunto actual de invierno: clases , precio y lenguas](https://www.dcampskorea.com/post/early1-winter-2027) · 2026-11-06
 
@@ -65150,7 +65150,7 @@ STEM en inglés en Seúl: la semana y el curso escolar determinan las opciones d
 
 - [condiciones de devolución](https://www.dcampskorea.com/policy) · 2026-11-06
 
-- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-07
+- [Página oficial del organizador](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-08
 
 ## CP878 · D.CAMPS · Seoul National University STEM Boarding
 
@@ -155135,6 +155135,56 @@ Perú · Colegio San José de Monterrico · Lima
 - [Página de la organización o reglamento de la categoría.](https://www.sanjosedemonterrico.edu.pe/landing) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://activekids.activemode-sjm.com/) · 2026-11-08
+
+## CP1929 · Science Tokyo IDA · JICA LEGO Programming Workshop
+
+Japón · JICA Tokyo Center · Nishihara · Shibuya
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Estudiantes de primaria de cursos 3–6 con antecedentes internacionales. Se exige acompañamiento de madre, padre o tutor.
+
+**Idioma:** La organización anuncia apoyo del personal en japonés, inglés y chino. No se confirma instrucción íntegramente en inglés.
+
+**Programa:** Trabajo en pareja con un robot LEGO. Los niños programan su movimiento, completan una misión para salvar el bosque y presentan el proyecto. No se necesita experiencia.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 13 de diciembre de 2026, 14:00–16:00 JST. El formulario está en el anuncio. No se publican plazo ni plazas restantes.
+
+**Precio / año:** 2026 · Participación gratuita.
+
+**Incluido:** Trabajo en pareja con un robot LEGO. Los niños programan su movimiento, completan una misión para salvar el bosque y presentan el proyecto. No se necesita experiencia.
+
+**Suplementos:** Llevar portátil o tableta propios.
+
+**Pago:** No se requiere pago.
+
+**Matvey:** Encaja si se confirman curso 3–6, plaza y acompañamiento adulto.
+
+**Oscar:** Mínimo 3 de primaria. Para Oscar, considerar ahora otro grupo de edad.
+
+**Motivo de selección:** 13 de diciembre de 2026, 14:00–16:00 JST. El formulario está en el anuncio. No se publican plazo ni plazas restantes.
+
+### Antes de solicitar plaza
+
+- Encaja si se confirman curso 3–6, plaza y acompañamiento adulto.
+
+### 13 de diciembre de 2026, 14:00–16:00 JST. El formulario está en el anuncio. No se publican plazo ni plazas restantes.
+
+**Fechas / estado:** 2026-12-13 — 2026-12-13
+
+**Precio:** Participación gratuita.
+
+- 2026-12-13 · 14:00–16:00 · Asia/Tokyo · Trabajo en pareja con un robot LEGO. Los niños programan su movimiento, completan una misión para salvar el bosque y presentan el proyecto. No se necesita experiencia.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://tabunka.tokyo-tsunagari.or.jp/english/event/2026/11/05_21.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://tabunka.tokyo-tsunagari.or.jp/english/event/2026/11/05_21.html) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

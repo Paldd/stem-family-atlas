@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10052,
-    "competition_cards": 4563,
-    "event_cards": 529,
-    "camp_cards": 4960,
+    "cards": 10066,
+    "competition_cards": 4572,
+    "event_cards": 533,
+    "camp_cards": 4961,
     "league_profiles": 299,
-    "major_exhibition_cards": 432,
+    "major_exhibition_cards": 436,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 2922,
+      "total": 2936,
       "countries_with_records": 49,
-      "competitions": 1130,
-      "events": 144,
-      "major_exhibitions": 131,
-      "camps": 1648,
+      "competitions": 1139,
+      "events": 148,
+      "major_exhibitions": 135,
+      "camps": 1649,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -2442,11 +2442,20 @@
         "C1272",
         "C1273",
         "C1274",
-        "C1275"
+        "C1275",
+        "C4565",
+        "C4566",
+        "C4567",
+        "C4568",
+        "C4569",
+        "C4570",
+        "C4571",
+        "C4572",
+        "C4573"
       ],
-      "cards": 16,
-      "future_dated": 11,
-      "linked_card_count": 18,
+      "cards": 25,
+      "future_dated": 20,
+      "linked_card_count": 28,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.robofest.net/index.php/current-competitions/main-page",
       "new": false
@@ -13414,6 +13423,50 @@
       "new": false
     },
     {
+      "id": "E530",
+      "name": "Tokyo Game Show 2027 · Public Days",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "2027-09-18",
+      "end": "2027-09-20",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.cesa.or.jp/information/info3/001293/2026_3.html",
+      "new": false
+    },
+    {
+      "id": "E531",
+      "name": "Tokyo Game Show 2027 · Business Days",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "2027-09-16",
+      "end": "2027-09-17",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.cesa.or.jp/information/info3/001293/2026_3.html",
+      "new": false
+    },
+    {
+      "id": "E532",
+      "name": "Robofest Korea · Busan · Spectator & Experience Zone",
+      "country": "Республика Корея",
+      "region": "Азия",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "visitor_policy": "confirm_children",
+      "source": "https://robofestbusan2026.com/faq",
+      "new": false
+    },
+    {
+      "id": "E533",
+      "name": "AutoRobocon 2027 · Construction Automation & Robotics",
+      "country": "Республика Корея",
+      "region": "Азия",
+      "start": "2027-02-17",
+      "end": "2027-02-20",
+      "visitor_policy": "confirm_children",
+      "source": "https://autorobocon.kr/infomation/about/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -15831,15 +15884,15 @@
       }
     ],
     "counts": {
-      "records": 4960,
+      "records": 4961,
       "holiday": 4618,
       "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1037,
       "en_es_instruction": 1583,
-      "en_es_support": 27,
+      "en_es_support": 28,
       "family_instruction": 1583,
-      "family_support": 27,
+      "family_support": 28,
       "ru_instruction": 4,
       "language_lessons": 410,
       "camp_life_language": 228,
