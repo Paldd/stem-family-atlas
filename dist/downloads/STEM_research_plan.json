@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 246,
+    "version": 247,
     "status": "implementation_snapshot",
-    "events": 8596,
-    "competitions": 3479,
+    "events": 8621,
+    "competitions": 3497,
     "league_profiles": 288,
-    "camp_dossiers": 1875,
+    "camp_dossiers": 1877,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 471
+    "exhibitions_events": 473
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -927,13 +927,13 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 245,
+    "version": 246,
     "status": "implementation_snapshot",
-    "events": 8571,
-    "competitions": 3473,
+    "events": 8596,
+    "competitions": 3479,
     "league_profiles": 288,
-    "camp_dossiers": 1874,
-    "budget_offers": 311,
+    "camp_dossiers": 1875,
+    "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
     "worldwide_complete": false,
@@ -942,7 +942,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 458
+    "exhibitions_events": 471
   },
   "research_passes": [
     {
@@ -13759,10 +13759,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 246,
+    "prepared_ui_version": 247,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 245,
-    "previous_verified_commit": "56090d59f5a1580bfb047acb9fcb57c47a2fa27d"
+    "previous_verified_ui_version": 246,
+    "previous_verified_commit": "b348653a8eafcc9b2cdfe23ce5850002f22d8149"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20809,11 +20809,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 245,
-    "published_version": 245,
-    "latest_source_commit": "56090d59f5a1580bfb047acb9fcb57c47a2fa27d",
-    "published_commit": "56090d59f5a1580bfb047acb9fcb57c47a2fa27d",
-    "latest_workflow": 42427524149,
+    "latest_source_version": 246,
+    "published_version": 246,
+    "latest_source_commit": "b348653a8eafcc9b2cdfe23ce5850002f22d8149",
+    "published_commit": "b348653a8eafcc9b2cdfe23ce5850002f22d8149",
+    "latest_workflow": 42429008209,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -24181,5 +24181,65 @@
     ],
     "audit": "data/junior-project-showcases-audit-v246.json",
     "source_receipts": "data/junior-project-showcases-source-receipts-v246.json"
+  },
+  "regional_robotics_visits_v247": {
+    "version": 247,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E472",
+      "C3481",
+      "C3482",
+      "C3483",
+      "C3484",
+      "C3485",
+      "E473",
+      "C3486",
+      "C3487",
+      "C3488",
+      "C3489",
+      "C3490",
+      "C3491",
+      "C3492",
+      "C3493",
+      "C3494",
+      "C3495",
+      "C3496",
+      "C3497",
+      "C3498",
+      "L708",
+      "L709",
+      "L710",
+      "L711"
+    ],
+    "refreshed_events": [
+      "E154",
+      "C022"
+    ],
+    "verified_existing_events": [
+      "E267",
+      "C2959"
+    ],
+    "new_camp_dossiers": {
+      "imdatbot-ashgabat-summer": "CP1876",
+      "tokyo-ymca-steam-winter-magic-2026": "CP1877"
+    },
+    "new_camp_options": 1,
+    "new_geographic_coverage": [
+      "TKM"
+    ],
+    "source_requests": 17,
+    "notes": [
+      "22 и 23 апреля 09:00–21:00, 24 апреля 09:00–около 17:00 по местному времени.",
+      "Возраст и состав команды в таблице рекомендательные. Регламент сезона ожидается в январе 2027.",
+      "В анонсе указано 30–31 мая 2026, в шаблоне списка участников 29–30 мая 2026. Отчёт подтверждает прошедший финал и 5 дисциплин.",
+      "Кнопка помечена 2027, презентация озаглавлена 2026. Для Explorer сайт указывает 12–18 лет, презентация 10–18. В 2026 в Кахике Explorer был демонстрационным. Возраст и отбор 2027 ждут регламента.",
+      "Июнь, июль и август. Кнопка анонсирует 2027, форма подписана 2026. Точные смены не опубликованы.",
+      "26–28 декабря 2026, 09:30–16:00. Приём детей 09:00–09:30, забрать в 16:00."
+    ],
+    "audit": "data/regional-robotics-visits-audit-v247.json",
+    "source_receipts": "data/regional-robotics-visits-source-receipts-v247.json"
   }
 }

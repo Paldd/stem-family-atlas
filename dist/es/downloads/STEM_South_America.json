@@ -429,45 +429,60 @@
     {
       "block": "Competiciones",
       "id": "C022",
-      "title": "MakeX Colombia  siguiente etapa",
+      "title": "MakeX Colombia 2027 · próxima temporada",
       "country": "Colombia",
       "region": "América del Sur",
       "city": "Cajicá / Bogotá",
       "start": "",
       "end": "",
-      "period": "primera etapa 02–03.09.2026 - ¿Qué pasa?; no se han anunciado nuevas fechas",
+      "period": "Próxima fecha sin anunciar. La primera fase de 2026 se celebró el 2–3 de septiembre.",
       "date_status": "No se ha anunciado",
       "deadline": "",
       "age": "de las categorías 2027 se comprobarán",
       "mat": "Condicional",
       "osc": "Condicional",
       "format": "Equipo; confirmar el tamaño según la categoría",
-      "entry": "TD Robótica; admisión internacional y categoría de solicitar",
+      "entry": "TD Robótica anuncia la temporada 2027. Confirmar fecha, reglamento de la categoría y acceso de equipos extranjeros.",
       "gear": "por el reglamento de la categoría",
-      "language": "ES",
+      "language": "Materiales en español. Confirmar el idioma del jurado para la próxima temporada.",
       "cost": "no se publicó / comprobar la actual edición",
       "level": "C  torneo abierto o nacional",
       "reward": "Puesto o premio según los resultados oficiales",
       "priority": "P2 — LATAM",
       "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
       "source": "https://www.tdrobotica.co/makex-2026",
-      "proof": "la página oficial se ha leído; la fecha de la siguiente etapa no se encuentra",
-      "checked": "2026-09-29",
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "checked": "2026-11-07",
       "status": "Idea",
-      "note": "La página dice que Explorer está en camino hacia la fase internacional de 2027; no es una declaración de la fecha del próximo torneo.",
+      "note": "El botón indica 2027, la presentación lleva el título 2026. Para Explorer, la web indica 12–18 años y la presentación 10–18. En 2026 Explorer fue una demostración en Cajicá. Edad y clasificación de 2027 pendientes de reglamento.",
       "iso": [
         "COL"
       ],
       "themes": [
         "robotics"
       ],
-      "scope": "unclassified",
-      "importance_reason": "C  torneo abierto o nacional",
-      "languages": [
-        "ES"
-      ],
+      "scope": "national",
+      "importance_reason": "Competición nacional",
+      "languages": [],
       "participation": "team",
-      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+      "language_certainty": "Materiales en español. Confirmar el idioma del jurado para la próxima temporada.",
+      "references": [
+        {
+          "url": "https://docs.google.com/presentation/d/1yT2ubUVCtH3669XE2JXJ5kVeF84KHd7oVINFgAQB5D4/edit",
+          "label": "Página o reglamento oficial de la organización."
+        },
+        {
+          "url": "https://docs.google.com/presentation/d/1yT2ubUVCtH3669XE2JXJ5kVeF84KHd7oVINFgAQB5D4/export/pdf",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "language_mode": "unconfirmed",
+      "related_ids": [
+        "C3495",
+        "C3496",
+        "C3497",
+        "C3498"
+      ]
     },
     {
       "block": "Competiciones",
@@ -16105,6 +16120,262 @@
       "participation": "individual_or_team",
       "admission_kind": "school",
       "evidence_level": "event_page"
+    },
+    {
+      "id": "C3495",
+      "title": "MakeX Colombia 2026 · Inspire Fruit Wonderland",
+      "block": "Competiciones",
+      "country": "Colombia",
+      "region": "América del Sur",
+      "iso": [
+        "COL"
+      ],
+      "city": "Cajicá · Cundinamarca",
+      "start": "2026-09-02",
+      "end": "2026-09-03",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "festival_window",
+      "checked": "2026-11-07",
+      "source": "https://www.tdrobotica.co/makex-2026",
+      "references": [
+        {
+          "url": "https://docs.google.com/presentation/d/1yT2ubUVCtH3669XE2JXJ5kVeF84KHd7oVINFgAQB5D4/export/pdf",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "4–7 años en los materiales de la edición 2026.",
+      "mat": "No por el límite de edad de la categoría de 2026.",
+      "osc": "Condicional por edad en la categoría de 2026. Confirmar nuevo reglamento y acceso.",
+      "format": "1 menor y 1 adulto.",
+      "entry": "La primera fase de MakeX Colombia 2026 ha terminado. Confirmar las reglas para equipos extranjeros y la selección de la nueva edición.",
+      "gear": "mTiny",
+      "language": "Materiales en español. Confirmar el idioma del jurado para la próxima temporada.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales en español. Confirmar el idioma del jurado para la próxima temporada.",
+      "cost": "Los materiales consultados no indican tarifa de la edición archivada ni de la próxima.",
+      "level": "Competición nacional",
+      "reward": "Puesto o premio según el acta de la fase.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Edición archivada. Esperar el reglamento de la próxima temporada.",
+      "note": "Las fechas corresponden a la fase en Cajicá. No se indica la hora de la disciplina.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Competición nacional",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "historical_program",
+      "team_min": 1,
+      "team_max": 1,
+      "availability": {
+        "status": "closed"
+      },
+      "registration_status": "La convocatoria de esta edición ha cerrado.",
+      "related_ids": [
+        "C022",
+        "C3496",
+        "C3497",
+        "C3498"
+      ]
+    },
+    {
+      "id": "C3496",
+      "title": "MakeX Colombia 2026 · Inspire Code Courier",
+      "block": "Competiciones",
+      "country": "Colombia",
+      "region": "América del Sur",
+      "iso": [
+        "COL"
+      ],
+      "city": "Cajicá · Cundinamarca",
+      "start": "2026-09-02",
+      "end": "2026-09-03",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "festival_window",
+      "checked": "2026-11-07",
+      "source": "https://www.tdrobotica.co/makex-2026",
+      "references": [
+        {
+          "url": "https://docs.google.com/presentation/d/1yT2ubUVCtH3669XE2JXJ5kVeF84KHd7oVINFgAQB5D4/export/pdf",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "6–12 años en los materiales de la edición 2026.",
+      "mat": "Condicional por edad en la categoría de 2026. Confirmar nuevo reglamento y acceso.",
+      "osc": "Condicional por edad en la categoría de 2026. Confirmar nuevo reglamento y acceso.",
+      "format": "1 menor y 1 adulto.",
+      "entry": "La primera fase de MakeX Colombia 2026 ha terminado. Confirmar las reglas para equipos extranjeros y la selección de la nueva edición.",
+      "gear": "mBot2 · BT Controller · Código de mensajería Kit",
+      "language": "Materiales en español. Confirmar el idioma del jurado para la próxima temporada.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales en español. Confirmar el idioma del jurado para la próxima temporada.",
+      "cost": "Los materiales consultados no indican tarifa de la edición archivada ni de la próxima.",
+      "level": "Competición nacional",
+      "reward": "Puesto o premio según el acta de la fase.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Edición archivada. Esperar el reglamento de la próxima temporada.",
+      "note": "Las fechas corresponden a la fase en Cajicá. No se indica la hora de la disciplina.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Competición nacional",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "historical_program",
+      "team_min": 1,
+      "team_max": 1,
+      "availability": {
+        "status": "closed"
+      },
+      "registration_status": "La convocatoria de esta edición ha cerrado.",
+      "related_ids": [
+        "C022",
+        "C3495",
+        "C3497",
+        "C3498"
+      ]
+    },
+    {
+      "id": "C3497",
+      "title": "MakeX Colombia 2026 · Spark Smart Terra",
+      "block": "Competiciones",
+      "country": "Colombia",
+      "region": "América del Sur",
+      "iso": [
+        "COL"
+      ],
+      "city": "Cajicá · Cundinamarca",
+      "start": "2026-09-02",
+      "end": "2026-09-03",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "festival_window",
+      "checked": "2026-11-07",
+      "source": "https://www.tdrobotica.co/makex-2026",
+      "references": [
+        {
+          "url": "https://docs.google.com/presentation/d/1yT2ubUVCtH3669XE2JXJ5kVeF84KHd7oVINFgAQB5D4/export/pdf",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "8–16 años en los materiales de la edición 2026.",
+      "mat": "Condicional por edad en la categoría de 2026. Confirmar nuevo reglamento y acceso.",
+      "osc": "No por el límite de edad de la categoría de 2026.",
+      "format": "2–4 estudiantes y 1–2 mentores.",
+      "entry": "La primera fase de MakeX Colombia 2026 ha terminado. Confirmar las reglas para equipos extranjeros y la selección de la nueva edición.",
+      "gear": "Cualquier plataforma Makeblock.",
+      "language": "Materiales en español. Confirmar el idioma del jurado para la próxima temporada.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales en español. Confirmar el idioma del jurado para la próxima temporada.",
+      "cost": "Los materiales consultados no indican tarifa de la edición archivada ni de la próxima.",
+      "level": "Competición nacional",
+      "reward": "Puesto o premio según el acta de la fase.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Edición archivada. Esperar el reglamento de la próxima temporada.",
+      "note": "Las fechas corresponden a la fase en Cajicá. No se indica la hora de la disciplina.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Competición nacional",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "historical_program",
+      "team_min": 2,
+      "team_max": 4,
+      "availability": {
+        "status": "closed"
+      },
+      "registration_status": "La convocatoria de esta edición ha cerrado.",
+      "related_ids": [
+        "C022",
+        "C3495",
+        "C3496",
+        "C3498"
+      ]
+    },
+    {
+      "id": "C3498",
+      "title": "MakeX Colombia 2026 · Starter Signal Rise",
+      "block": "Competiciones",
+      "country": "Colombia",
+      "region": "América del Sur",
+      "iso": [
+        "COL"
+      ],
+      "city": "Cajicá · Cundinamarca",
+      "start": "2026-09-02",
+      "end": "2026-09-03",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "festival_window",
+      "checked": "2026-11-07",
+      "source": "https://www.tdrobotica.co/makex-2026",
+      "references": [
+        {
+          "url": "https://docs.google.com/presentation/d/1yT2ubUVCtH3669XE2JXJ5kVeF84KHd7oVINFgAQB5D4/export/pdf",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "6–13 años en los materiales de la edición 2026.",
+      "mat": "Condicional por edad en la categoría de 2026. Confirmar nuevo reglamento y acceso.",
+      "osc": "Condicional por edad en la categoría de 2026. Confirmar nuevo reglamento y acceso.",
+      "format": "1–2 estudiantes y 1–2 mentores.",
+      "entry": "La primera fase de MakeX Colombia 2026 ha terminado. Confirmar las reglas para equipos extranjeros y la selección de la nueva edición.",
+      "gear": "mBot2 · Signal Rise Kit",
+      "language": "Materiales en español. Confirmar el idioma del jurado para la próxima temporada.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales en español. Confirmar el idioma del jurado para la próxima temporada.",
+      "cost": "Los materiales consultados no indican tarifa de la edición archivada ni de la próxima.",
+      "level": "Competición nacional",
+      "reward": "Puesto o premio según el acta de la fase.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Edición archivada. Esperar el reglamento de la próxima temporada.",
+      "note": "Las fechas corresponden a la fase en Cajicá. No se indica la hora de la disciplina.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Competición nacional",
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "historical_program",
+      "team_min": 1,
+      "team_max": 2,
+      "availability": {
+        "status": "closed"
+      },
+      "registration_status": "La convocatoria de esta edición ha cerrado.",
+      "related_ids": [
+        "C022",
+        "C3495",
+        "C3496",
+        "C3497"
+      ]
     },
     {
       "id": "CP047-20270103-20270108",

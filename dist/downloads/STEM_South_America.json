@@ -429,45 +429,60 @@
     {
       "block": "Соревнования",
       "id": "C022",
-      "title": "MakeX Colombia — следующий этап",
+      "title": "MakeX Colombia 2027 · следующий сезон",
       "country": "Колумбия",
       "region": "Южная Америка",
       "city": "Cajicá / Bogotá",
       "start": "",
       "end": "",
-      "period": "Первый этап 02–03.09.2026 прошёл; новые даты не объявлены",
+      "period": "Следующая дата не объявлена. Первый этап 2026 прошёл 2–3 сентября.",
       "date_status": "Не объявлено",
       "deadline": "",
       "age": "Категории 2027 ещё проверить",
       "mat": "Условно",
       "osc": "Условно",
       "format": "Команда; размер уточнить по категории",
-      "entry": "TD Robótica; международный допуск и категории запросить",
+      "entry": "TD Robótica анонсирует сезон 2027. Дату, регламент категории и допуск иностранной команды уточнить.",
       "gear": "По регламенту категории",
-      "language": "ES",
+      "language": "Материалы на испанском. Язык судейства подтвердить для нового сезона.",
       "cost": "Не опубликовано / проверить текущую редакцию",
       "level": "C — открытый или национальный турнир",
       "reward": "Место / награда только по официальному протоколу",
       "priority": "P2 — LATAM",
       "action": "Родитель: получить актуальные правила и подтверждение допуска до бронирования",
       "source": "https://www.tdrobotica.co/makex-2026",
-      "proof": "Официальная страница прочитана; дата следующего этапа не найдена",
-      "checked": "2026-09-29",
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "checked": "2026-11-07",
       "status": "Идея",
-      "note": "На странице говорится о пути Explorer к международному этапу 2027; это не объявление даты следующего турнира.",
+      "note": "Кнопка помечена 2027, презентация озаглавлена 2026. Для Explorer сайт указывает 12–18 лет, презентация 10–18. В 2026 в Кахике Explorer был демонстрационным. Возраст и отбор 2027 ждут регламента.",
       "iso": [
         "COL"
       ],
       "themes": [
         "robotics"
       ],
-      "scope": "unclassified",
-      "importance_reason": "Редакционная классификация по названию/формату и источнику. C — открытый или национальный турнир",
-      "languages": [
-        "ES"
-      ],
+      "scope": "national",
+      "importance_reason": "Национальное соревнование",
+      "languages": [],
       "participation": "team",
-      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+      "language_certainty": "Материалы на испанском. Язык судейства подтвердить для нового сезона.",
+      "references": [
+        {
+          "url": "https://docs.google.com/presentation/d/1yT2ubUVCtH3669XE2JXJ5kVeF84KHd7oVINFgAQB5D4/edit",
+          "label": "Официальная страница или регламент организатора."
+        },
+        {
+          "url": "https://docs.google.com/presentation/d/1yT2ubUVCtH3669XE2JXJ5kVeF84KHd7oVINFgAQB5D4/export/pdf",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "language_mode": "unconfirmed",
+      "related_ids": [
+        "C3495",
+        "C3496",
+        "C3497",
+        "C3498"
+      ]
     },
     {
       "block": "Соревнования",
@@ -16105,6 +16120,262 @@
       "participation": "individual_or_team",
       "admission_kind": "school",
       "evidence_level": "event_page"
+    },
+    {
+      "id": "C3495",
+      "title": "MakeX Colombia 2026 · Inspire Fruit Wonderland",
+      "block": "Соревнования",
+      "country": "Колумбия",
+      "region": "Южная Америка",
+      "iso": [
+        "COL"
+      ],
+      "city": "Cajicá · Cundinamarca",
+      "start": "2026-09-02",
+      "end": "2026-09-03",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "festival_window",
+      "checked": "2026-11-07",
+      "source": "https://www.tdrobotica.co/makex-2026",
+      "references": [
+        {
+          "url": "https://docs.google.com/presentation/d/1yT2ubUVCtH3669XE2JXJ5kVeF84KHd7oVINFgAQB5D4/export/pdf",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "4–7 лет в материалах выпуска 2026.",
+      "mat": "Нет по границе возраста категории 2026.",
+      "osc": "Условно по возрасту в категории 2026. Проверить новый регламент и допуск.",
+      "format": "1 ребёнок и 1 взрослый.",
+      "entry": "Первый этап MakeX Colombia 2026 завершён. Правила для зарубежных команд и способ отбора нового выпуска уточнить.",
+      "gear": "mTiny",
+      "language": "Материалы на испанском. Язык судейства подтвердить для нового сезона.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Материалы на испанском. Язык судейства подтвердить для нового сезона.",
+      "cost": "Тариф архива и нового выпуска в прочитанных материалах не указан.",
+      "level": "Национальное соревнование",
+      "reward": "Место или награда только по протоколу этапа.",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив выпуска. Ожидать регламент следующего сезона.",
+      "note": "Даты относятся к этапу в Кахике. Время конкретной дисциплины не указано.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальное соревнование",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "historical_program",
+      "team_min": 1,
+      "team_max": 1,
+      "availability": {
+        "status": "closed"
+      },
+      "registration_status": "Набор на этот выпуск завершён.",
+      "related_ids": [
+        "C022",
+        "C3496",
+        "C3497",
+        "C3498"
+      ]
+    },
+    {
+      "id": "C3496",
+      "title": "MakeX Colombia 2026 · Inspire Code Courier",
+      "block": "Соревнования",
+      "country": "Колумбия",
+      "region": "Южная Америка",
+      "iso": [
+        "COL"
+      ],
+      "city": "Cajicá · Cundinamarca",
+      "start": "2026-09-02",
+      "end": "2026-09-03",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "festival_window",
+      "checked": "2026-11-07",
+      "source": "https://www.tdrobotica.co/makex-2026",
+      "references": [
+        {
+          "url": "https://docs.google.com/presentation/d/1yT2ubUVCtH3669XE2JXJ5kVeF84KHd7oVINFgAQB5D4/export/pdf",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "6–12 лет в материалах выпуска 2026.",
+      "mat": "Условно по возрасту в категории 2026. Проверить новый регламент и допуск.",
+      "osc": "Условно по возрасту в категории 2026. Проверить новый регламент и допуск.",
+      "format": "1 ребёнок и 1 взрослый.",
+      "entry": "Первый этап MakeX Colombia 2026 завершён. Правила для зарубежных команд и способ отбора нового выпуска уточнить.",
+      "gear": "mBot2 · BT Controller · Code Courier Kit",
+      "language": "Материалы на испанском. Язык судейства подтвердить для нового сезона.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Материалы на испанском. Язык судейства подтвердить для нового сезона.",
+      "cost": "Тариф архива и нового выпуска в прочитанных материалах не указан.",
+      "level": "Национальное соревнование",
+      "reward": "Место или награда только по протоколу этапа.",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив выпуска. Ожидать регламент следующего сезона.",
+      "note": "Даты относятся к этапу в Кахике. Время конкретной дисциплины не указано.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальное соревнование",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "historical_program",
+      "team_min": 1,
+      "team_max": 1,
+      "availability": {
+        "status": "closed"
+      },
+      "registration_status": "Набор на этот выпуск завершён.",
+      "related_ids": [
+        "C022",
+        "C3495",
+        "C3497",
+        "C3498"
+      ]
+    },
+    {
+      "id": "C3497",
+      "title": "MakeX Colombia 2026 · Spark Smart Terra",
+      "block": "Соревнования",
+      "country": "Колумбия",
+      "region": "Южная Америка",
+      "iso": [
+        "COL"
+      ],
+      "city": "Cajicá · Cundinamarca",
+      "start": "2026-09-02",
+      "end": "2026-09-03",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "festival_window",
+      "checked": "2026-11-07",
+      "source": "https://www.tdrobotica.co/makex-2026",
+      "references": [
+        {
+          "url": "https://docs.google.com/presentation/d/1yT2ubUVCtH3669XE2JXJ5kVeF84KHd7oVINFgAQB5D4/export/pdf",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "8–16 лет в материалах выпуска 2026.",
+      "mat": "Условно по возрасту в категории 2026. Проверить новый регламент и допуск.",
+      "osc": "Нет по границе возраста категории 2026.",
+      "format": "2–4 ученика и 1–2 наставника.",
+      "entry": "Первый этап MakeX Colombia 2026 завершён. Правила для зарубежных команд и способ отбора нового выпуска уточнить.",
+      "gear": "Любая платформа Makeblock.",
+      "language": "Материалы на испанском. Язык судейства подтвердить для нового сезона.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Материалы на испанском. Язык судейства подтвердить для нового сезона.",
+      "cost": "Тариф архива и нового выпуска в прочитанных материалах не указан.",
+      "level": "Национальное соревнование",
+      "reward": "Место или награда только по протоколу этапа.",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив выпуска. Ожидать регламент следующего сезона.",
+      "note": "Даты относятся к этапу в Кахике. Время конкретной дисциплины не указано.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальное соревнование",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "historical_program",
+      "team_min": 2,
+      "team_max": 4,
+      "availability": {
+        "status": "closed"
+      },
+      "registration_status": "Набор на этот выпуск завершён.",
+      "related_ids": [
+        "C022",
+        "C3495",
+        "C3496",
+        "C3498"
+      ]
+    },
+    {
+      "id": "C3498",
+      "title": "MakeX Colombia 2026 · Starter Signal Rise",
+      "block": "Соревнования",
+      "country": "Колумбия",
+      "region": "Южная Америка",
+      "iso": [
+        "COL"
+      ],
+      "city": "Cajicá · Cundinamarca",
+      "start": "2026-09-02",
+      "end": "2026-09-03",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "festival_window",
+      "checked": "2026-11-07",
+      "source": "https://www.tdrobotica.co/makex-2026",
+      "references": [
+        {
+          "url": "https://docs.google.com/presentation/d/1yT2ubUVCtH3669XE2JXJ5kVeF84KHd7oVINFgAQB5D4/export/pdf",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "6–13 лет в материалах выпуска 2026.",
+      "mat": "Условно по возрасту в категории 2026. Проверить новый регламент и допуск.",
+      "osc": "Условно по возрасту в категории 2026. Проверить новый регламент и допуск.",
+      "format": "1–2 ученика и 1–2 наставника.",
+      "entry": "Первый этап MakeX Colombia 2026 завершён. Правила для зарубежных команд и способ отбора нового выпуска уточнить.",
+      "gear": "mBot2 · Signal Rise Kit",
+      "language": "Материалы на испанском. Язык судейства подтвердить для нового сезона.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Материалы на испанском. Язык судейства подтвердить для нового сезона.",
+      "cost": "Тариф архива и нового выпуска в прочитанных материалах не указан.",
+      "level": "Национальное соревнование",
+      "reward": "Место или награда только по протоколу этапа.",
+      "priority": "P2 — участие по условиям",
+      "action": "Архив выпуска. Ожидать регламент следующего сезона.",
+      "note": "Даты относятся к этапу в Кахике. Время конкретной дисциплины не указано.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальное соревнование",
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "historical_program",
+      "team_min": 1,
+      "team_max": 2,
+      "availability": {
+        "status": "closed"
+      },
+      "registration_status": "Набор на этот выпуск завершён.",
+      "related_ids": [
+        "C022",
+        "C3495",
+        "C3496",
+        "C3497"
+      ]
     },
     {
       "id": "CP047-20270103-20270108",

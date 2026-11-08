@@ -1968,30 +1968,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E154@family-stem.local
-DTSTAMP:20261006T205843Z
-SUMMARY:[Выставка · допуск детей уточнить] Fe
- stival Nacional de Robótica / RoboCup Portugal Open 2027 · посещ
- ение
-DTSTART;VALUE=DATE:20270421
+DTSTAMP:20261108T003618Z
+SUMMARY:[Выставка · семейный вариант] Festival Na
+ cional de Robótica / RoboCup Portugal Open 2027 · посещение
+DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270425
 DESCRIPTION:Идея посещения\, не принятая реги
- страция. Детский публичный доступ / час
- ы / стоимость требуют подтверждения. Вз
- рослый вход: Публичный билет и часы не у
- становлены\; регистрация участника не я
- вляется visitor pass. 21–24 апреля — весь фест
- иваль. 21-го часть программы относится к 
- подготовке команд\; предварительно инт
- ервью 22-го\, состязания 23-го\, финалы и на
- граждение 24-го. Точное публичное окно и 
- детская цена не объявлены в прочитанно
- м расписании. Национальный фестиваль н
- е является выставкой всех мировых комп
- аний. Компании: Команды Junior / Major\; фестив
- аль не обещает присутствие всех мировы
- х компаний. Источник проверен 2026-10-01.
+ страция. Бесплатный вход для публики. Р
+ егистрация команды для посещения не тр
+ ебуется. Взрослый вход: Бесплатный вход
+  для публики. Регистрация команды для п
+ осещения не требуется.. Фестиваль идёт 2
+ 1–24 апреля\, публичное окно 22–24 апреля. 
+ Часы по FAQ: 22 и 23 апреля 09:00–21:00\, 24 апреля
+  09:00–около 17:00 по местному времени. Комп
+ ании: Команды Junior / Major\; фестиваль не обе
+ щает присутствие всех мировых компаний
+ . Источник проверен 2026-11-07.
 LOCATION:Felgueiras · Mercado Municipal\, Португалия
-URL:https://www.festivalnacionalrobotica.pt/
+URL:https://www.festivalnacionalrobotica.pt/en/2027
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6940,6 +6935,27 @@ DESCRIPTION:Идея посещения\, не принятая реги
  ерен 2026-11-07.
 LOCATION:Technopolis · Mechelen\, Бельгия
 URL:https://coderdojobelgium.be/nl/events/coolest-projects-13-03-2027
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E472@family-stem.local
+DTSTAMP:20261108T003618Z
+SUMMARY:[Выставка · семейный вариант] ECER 2027 
+ · Linz · Besuch
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270410
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Вход свободный для всех возрас
+ тов. Часы по дням и зоны публики появятс
+ я в расписании. Взрослый вход: Вход своб
+ одный для всех возрастов. Часы по дням и
+  зоны публики появятся в расписании..  К
+ омпании: Полное расписание для зрителе
+ й организатор готовит.. Источник провер
+ ен 2026-11-07.
+LOCATION:Linzer Technikum · Paul-Hahn-Straße 4 · Linz\, Австрия
+URL:https://ecer.eraa.at/visit/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

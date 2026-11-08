@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1875,
-    "countries": 121,
+    "dossiers": 1877,
+    "countries": 122,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 261,
       "published_2027": 510,
       "partial_2027": 141,
-      "next_unannounced": 397,
-      "published_2026": 342,
+      "next_unannounced": 398,
+      "published_2026": 343,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 142,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2740
+    "source_urls": 2742
   },
   "countries": [
     {
@@ -448,6 +448,10 @@
       "count": 3
     },
     {
+      "country": "Туркменистан",
+      "count": 1
+    },
+    {
       "country": "Турция",
       "count": 1
     },
@@ -533,7 +537,7 @@
     },
     {
       "country": "Япония",
-      "count": 88
+      "count": 89
     }
   ],
   "profiles": [
@@ -278523,6 +278527,203 @@
       ],
       "programme_type": "family_visit",
       "catalog_participation": "family_visit"
+    },
+    {
+      "id": "CP1876",
+      "slug": "imdatbot-ashgabat-summer",
+      "provider": "Imdatbot · Summer Technology Camp",
+      "country": "Туркменистан",
+      "iso": "TKM",
+      "place": "Imdatbot · Mir-3 · Aşgabat",
+      "age": "От 6 лет. Группы до 10 человек.",
+      "programme": "Робототехника, ИИ, создание игр, ораторское мастерство и английский как предмет.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Английский заявлен как отдельный предмет. Язык технических занятий не указан.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Июнь, июль и август. Кнопка анонсирует 2027, форма подписана 2026. Точные смены не опубликованы.",
+        "session_details": [],
+        "variant_keyed": true,
+        "sessions": []
+      },
+      "price": {
+        "year": null,
+        "currency": "TMT",
+        "label": "На странице TMT 125 в день. Применимость тарифа к смене 2027 уточнить.",
+        "included": "По описанию обед включён.",
+        "extras": "Точный тариф выбранного набора не подтверждён.",
+        "deposit": "Точный тариф выбранного набора не подтверждён."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Сверить уровень, язык и наличие места."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Сверить уровень, язык и наличие места."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Условно. Возраст подходит. Сверить уровень, язык и наличие места."
+      ],
+      "sources": [
+        {
+          "url": "https://imdatbot.edu.tm/",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "games",
+        "technology",
+        "languages"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "language_evidence_role": "language_lessons",
+      "related_event_ids": [
+        "L711"
+      ]
+    },
+    {
+      "id": "CP1877",
+      "slug": "tokyo-ymca-steam-winter-magic-2026",
+      "provider": "Tokyo YMCA · Winter Magic · STEAM",
+      "country": "Япония",
+      "iso": "JPN",
+      "place": "Tokyo YMCA · Toyocho Language Education Center · 2-2-20 Toyo, Koto-ku",
+      "age": "От 4 лет до 7-го класса. Можно участвовать при общении на английском или японском.",
+      "programme": "Winter Magic: светящаяся поделка, запуск мяча, опыты и практическая инженерия.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Занятия на английском. Японский возможен для общения с двуязычными сотрудниками.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "26–28 декабря 2026, 09:30–16:00. Приём детей 09:00–09:30, забрать в 16:00.",
+        "session_details": [
+          {
+            "variant_key": "winter-magic-2026-12-26-toyocho",
+            "start": "2026-12-26",
+            "end": "2026-12-28",
+            "label": "Winter Magic",
+            "price": "JPY 43560 за ребёнка за 3 дня. Оплата банковским переводом.",
+            "source": "https://tokyo.ymca.or.jp/language/2026/10/ymcathree-days-in-tokyo-a-holiday-at-steam-seasonal-schoolymca3steam.html",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-26",
+                "start_time": "09:30",
+                "end_time": "16:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Winter Magic: светящаяся поделка, запуск мяча, опыты и практическая инженерия.",
+                "start_utc": "2026-12-26T00:30:00Z",
+                "end_utc": "2026-12-26T07:00:00Z"
+              },
+              {
+                "date": "2026-12-27",
+                "start_time": "09:30",
+                "end_time": "16:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Winter Magic: светящаяся поделка, запуск мяча, опыты и практическая инженерия.",
+                "start_utc": "2026-12-27T00:30:00Z",
+                "end_utc": "2026-12-27T07:00:00Z"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "09:30",
+                "end_time": "16:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Winter Magic: светящаяся поделка, запуск мяча, опыты и практическая инженерия.",
+                "start_utc": "2026-12-28T00:30:00Z",
+                "end_utc": "2026-12-28T07:00:00Z"
+              }
+            ],
+            "place": "Tokyo YMCA · Toyocho Language Education Center · 2-2-20 Toyo, Koto-ku",
+            "themes": [
+              "science",
+              "engineering",
+              "technology",
+              "makers",
+              "art"
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-12-26",
+            "2026-12-28"
+          ]
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "JPY",
+        "amount": 43560,
+        "unit": "session",
+        "label": "JPY 43560 за ребёнка за 3 дня. Оплата банковским переводом.",
+        "included": "Занятия 3 дня. Питание и материалы сверить у центра.",
+        "extras": "Семья привозит и забирает ребёнка. Проживание и дорога отдельно.",
+        "deposit": "В правилах есть шкала отмены. Точную сумму возврата сверить перед оплатой."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по опубликованному возрастному диапазону. Центр принимает детей из-за рубежа. Подтвердить класс и место."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по опубликованному возрастному диапазону. Центр принимает детей из-за рубежа. Подтвердить класс и место."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Сверить группу по классу, места для двоих, питание и материалы."
+      ],
+      "sources": [
+        {
+          "url": "https://tokyo.ymca.or.jp/language/2026/10/ymcathree-days-in-tokyo-a-holiday-at-steam-seasonal-schoolymca3steam.html",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "science",
+        "engineering",
+        "technology",
+        "makers",
+        "art"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "language_evidence_role": "primary"
     }
   ],
   "gaps": [
@@ -283848,7 +284049,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 246,
+  "version": 247,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -297083,7 +297284,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1875,
+      "total_dossiers": 1877,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

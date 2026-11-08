@@ -126,18 +126,18 @@ Limitaciones: 30.09.2026 oficial URL El directorio se abre en el mensaje de hosp
 Fuente: https://centrocampus.com
 Comprobado: 2026-09-30
 
-### # C022 · MakeX Colombia ○ siguiente paso
+### C022 · MakeX Colombia 2027 · próxima temporada
 
-Fecha: Primera etapa 02–03.09.2026 Ahí está.; No se han anunciado nuevas fechas
+Fecha: Próxima fecha sin anunciar. La primera fase de 2026 se celebró el 2–3 de septiembre.
 Edad: Categoría 2027
 Matway: Condicional
 Óscar: Condicional
-Idioma: ES
-Entrada: TD Robótica; admisión internacional y categorías para solicitar
+Idioma: Materiales en español. Confirmar el idioma del jurado para la próxima temporada.
+Acceso: TD Robótica anuncia la temporada 2027. Confirmar fecha, reglamento de la categoría y acceso de equipos extranjeros.
 Costo: No publicado / Comprobar la edición actual
-Limitaciones: En la página se describe el camino de Explorer a la fase internacional 2027; no es una declaración de la fecha del próximo torneo.
+Limitaciones: El botón indica 2027, la presentación lleva el título 2026. Para Explorer, la web indica 12–18 años y la presentación 10–18. En 2026 Explorer fue una demostración en Cajicá. Edad y clasificación de 2027 pendientes de reglamento.
 Fuente: https://www.tdrobotica.co/makex-2026
-Comprobado: 2026-09-29
+Se ha comprobado: 2026-11-07
 
 ### C046 · Robótica 2026 · Examen co-located OBR / CBR / MNR
 
@@ -3387,6 +3387,58 @@ Acceso: Festival para centros locales equipados con kits de robótica. Participa
 Precio: Confirmar la cuota de esta categoría.
 Limitaciones:
 Fuente: https://ugelchucuito.edu.pe/portal/2026/11/02/lanzamiento-del-v-festival-y-concurso-de-robotica-educativa-2026/
+Se ha comprobado: 2026-11-07
+
+### C3495 · MakeX Colombia 2026 · Inspire Fruit Wonderland
+
+Fecha: 2026-09-02 — 2026-09-03
+edad: 4–7 años en los materiales de la edición 2026.
+Matvey: No por el límite de edad de la categoría de 2026.
+Oscar: Condicional por edad en la categoría de 2026. Confirmar nuevo reglamento y acceso.
+Idioma: Materiales en español. Confirmar el idioma del jurado para la próxima temporada.
+Acceso: La primera fase de MakeX Colombia 2026 ha terminado. Confirmar las reglas para equipos extranjeros y la selección de la nueva edición.
+Precio: Los materiales consultados no indican tarifa de la edición archivada ni de la próxima.
+Limitaciones: Las fechas corresponden a la fase en Cajicá. No se indica la hora de la disciplina.
+Fuente: https://www.tdrobotica.co/makex-2026
+Se ha comprobado: 2026-11-07
+
+### C3496 · MakeX Colombia 2026 · Inspire Code Courier
+
+Fecha: 2026-09-02 — 2026-09-03
+edad: 6–12 años en los materiales de la edición 2026.
+Matvey: Condicional por edad en la categoría de 2026. Confirmar nuevo reglamento y acceso.
+Oscar: Condicional por edad en la categoría de 2026. Confirmar nuevo reglamento y acceso.
+Idioma: Materiales en español. Confirmar el idioma del jurado para la próxima temporada.
+Acceso: La primera fase de MakeX Colombia 2026 ha terminado. Confirmar las reglas para equipos extranjeros y la selección de la nueva edición.
+Precio: Los materiales consultados no indican tarifa de la edición archivada ni de la próxima.
+Limitaciones: Las fechas corresponden a la fase en Cajicá. No se indica la hora de la disciplina.
+Fuente: https://www.tdrobotica.co/makex-2026
+Se ha comprobado: 2026-11-07
+
+### C3497 · MakeX Colombia 2026 · Spark Smart Terra
+
+Fecha: 2026-09-02 — 2026-09-03
+edad: 8–16 años en los materiales de la edición 2026.
+Matvey: Condicional por edad en la categoría de 2026. Confirmar nuevo reglamento y acceso.
+Oscar: No por el límite de edad de la categoría de 2026.
+Idioma: Materiales en español. Confirmar el idioma del jurado para la próxima temporada.
+Acceso: La primera fase de MakeX Colombia 2026 ha terminado. Confirmar las reglas para equipos extranjeros y la selección de la nueva edición.
+Precio: Los materiales consultados no indican tarifa de la edición archivada ni de la próxima.
+Limitaciones: Las fechas corresponden a la fase en Cajicá. No se indica la hora de la disciplina.
+Fuente: https://www.tdrobotica.co/makex-2026
+Se ha comprobado: 2026-11-07
+
+### C3498 · MakeX Colombia 2026 · Starter Signal Rise
+
+Fecha: 2026-09-02 — 2026-09-03
+edad: 6–13 años en los materiales de la edición 2026.
+Matvey: Condicional por edad en la categoría de 2026. Confirmar nuevo reglamento y acceso.
+Oscar: Condicional por edad en la categoría de 2026. Confirmar nuevo reglamento y acceso.
+Idioma: Materiales en español. Confirmar el idioma del jurado para la próxima temporada.
+Acceso: La primera fase de MakeX Colombia 2026 ha terminado. Confirmar las reglas para equipos extranjeros y la selección de la nueva edición.
+Precio: Los materiales consultados no indican tarifa de la edición archivada ni de la próxima.
+Limitaciones: Las fechas corresponden a la fase en Cajicá. No se indica la hora de la disciplina.
+Fuente: https://www.tdrobotica.co/makex-2026
 Se ha comprobado: 2026-11-07
 
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08

@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8596,
-    "competition_cards": 3479,
-    "event_cards": 471,
-    "camp_cards": 4646,
+    "cards": 8621,
+    "competition_cards": 3497,
+    "event_cards": 473,
+    "camp_cards": 4651,
     "league_profiles": 288,
-    "major_exhibition_cards": 375,
+    "major_exhibition_cards": 376,
     "vex_cards": 521,
-    "countries_with_records": 203,
+    "countries_with_records": 204,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -48,9 +48,9 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 483,
+      "total": 487,
       "countries_with_records": 13,
-      "competitions": 251,
+      "competitions": 255,
       "events": 35,
       "major_exhibitions": 31,
       "camps": 197,
@@ -62,11 +62,11 @@
       "regions": [
         "Европа"
       ],
-      "total": 1955,
+      "total": 1962,
       "countries_with_records": 48,
-      "competitions": 444,
-      "events": 116,
-      "major_exhibitions": 92,
+      "competitions": 449,
+      "events": 118,
+      "major_exhibitions": 93,
       "camps": 1395,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 2550,
-      "countries_with_records": 47,
-      "competitions": 854,
+      "total": 2564,
+      "countries_with_records": 48,
+      "competitions": 863,
       "events": 127,
       "major_exhibitions": 114,
-      "camps": 1569,
+      "camps": 1574,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -1141,11 +1141,15 @@
         "C615",
         "C616",
         "C617",
-        "C618"
+        "C618",
+        "C3495",
+        "C3496",
+        "C3497",
+        "C3498"
       ],
-      "cards": 15,
+      "cards": 19,
       "future_dated": 11,
-      "linked_card_count": 15,
+      "linked_card_count": 19,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.makex.cc/en/2026-makex",
       "new": false
@@ -2223,11 +2227,12 @@
       "group": "international",
       "event_ids": [
         "C060",
-        "C778"
+        "C778",
+        "C3482"
       ],
-      "cards": 2,
-      "future_dated": 1,
-      "linked_card_count": 2,
+      "cards": 3,
+      "future_dated": 2,
+      "linked_card_count": 3,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.kipr.org/junior-botball-challenge",
       "new": false
@@ -2659,11 +2664,13 @@
       "id": "botball",
       "name": "Botball",
       "group": "advanced",
-      "event_ids": [],
-      "cards": 0,
-      "future_dated": 0,
-      "linked_card_count": 0,
-      "status": "Только профиль; календарь этапов не добавлен",
+      "event_ids": [
+        "C3481"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.kipr.org/botball",
       "new": false
     },
@@ -2732,11 +2739,12 @@
         "C3390",
         "C3391",
         "C3392",
-        "C3393"
+        "C3393",
+        "C3487"
       ],
-      "cards": 13,
+      "cards": 14,
       "future_dated": 1,
-      "linked_card_count": 14,
+      "linked_card_count": 15,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://first.global/fgc/",
       "new": false
@@ -8944,10 +8952,10 @@
       "name": "Festival Nacional de Robótica / RoboCup Portugal Open 2027 · посещение",
       "country": "Португалия",
       "region": "Европа",
-      "start": "2027-04-21",
+      "start": "2027-04-22",
       "end": "2027-04-24",
-      "visitor_policy": "confirm_children",
-      "source": "https://www.festivalnacionalrobotica.pt/",
+      "visitor_policy": "family",
+      "source": "https://www.festivalnacionalrobotica.pt/en/2027",
       "new": false
     },
     {
@@ -11657,6 +11665,17 @@
       "new": false
     },
     {
+      "id": "E472",
+      "name": "ECER 2027 · Linz · Besuch",
+      "country": "Австрия",
+      "region": "Европа",
+      "start": "2027-04-05",
+      "end": "2027-04-09",
+      "visitor_policy": "family",
+      "source": "https://ecer.eraa.at/visit/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -14074,20 +14093,20 @@
       }
     ],
     "counts": {
-      "records": 4646,
-      "holiday": 4336,
-      "regular": 146,
+      "records": 4651,
+      "holiday": 4338,
+      "regular": 149,
       "self_paced_materials": 2,
       "boarding": 1036,
-      "en_es_instruction": 1432,
+      "en_es_instruction": 1433,
       "en_es_support": 27,
-      "family_instruction": 1432,
+      "family_instruction": 1433,
       "family_support": 27,
       "ru_instruction": 4,
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 127
+      "countries": 128
     },
     "validation": {
       "version": 51,

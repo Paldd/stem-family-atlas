@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-07. 1875 dosieres en 121 países. Las fechas de verificación de las fuentes constan en cada dosier.
+Estado de la base: 2026-11-07. 1877 fichas en 122 países. Cada ficha indica cuándo se comprobó cada fuente.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -147741,6 +147741,100 @@ México · Ejido de Detiña · Acambay
 ### Fuentes
 
 - [Página o reglamento oficial de la organización.](https://www.sbkmexico.com/campamento.php) · 2026-11-07
+
+## CP1876 · Imdatbot · Summer Technology Camp
+
+Turkmenistán · Imdatbot · Mir-3 · Aşgabat
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 6 años. Grupos de hasta 10 personas.
+
+**Idioma:** Se anuncia inglés como asignatura. No se indica el idioma de las actividades técnicas.
+
+**Programa:** Robótica, IA, creación de juegos, oratoria e inglés como asignatura.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Junio, julio y agosto. El botón anuncia 2027 y el formulario indica 2026. Turnos exactos sin publicar.
+
+**Precio / año:** sin establecer · La página indica TMT 125 al día. Confirmar si la tarifa se aplica al turno de 2027.
+
+**Incluido:** Según la descripción, almuerzo incluido.
+
+**Suplementos:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Pago:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Matvey:** Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+**Oscar:** Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad.
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://imdatbot.edu.tm/) · 2026-11-07
+
+## CP1877 · Tokyo YMCA · Winter Magic · STEAM
+
+Japón · Tokyo YMCA · Toyocho Idioma Education Center · 2-2-20 Toyo, Koto-ku
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 4 años hasta 7.º curso. Se puede participar comunicándose en inglés o japonés.
+
+**Idioma:** Actividades en inglés. Se puede usar japonés para comunicarse con el personal bilingüe.
+
+**Programa:** Winter Magic: manualidad luminosa, lanzamiento de pelota, experimentos e ingeniería práctica.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 26–28 de diciembre de 2026, de 09:30 a 16:00. Recepción de 09:00 a 09:30, recogida a las 16:00.
+
+**Precio / año:** 2026 · JPY 43560 por menor por 3 días. Pago por transferencia bancaria.
+
+**Incluido:** Actividades durante 3 días. Confirmar comida y materiales con el centro.
+
+**Suplementos:** La familia deja y recoge al menor. Alojamiento y transporte aparte.
+
+**Pago:** Las reglas incluyen una escala de cancelación. Confirmar el reembolso exacto antes del pago.
+
+**Matvey:** Sí por el rango publicado. El centro admite a menores del extranjero. Confirmar curso y plaza.
+
+**Oscar:** Sí por el rango publicado. El centro admite a menores del extranjero. Confirmar curso y plaza.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Confirmar el grupo por curso, plazas para dos, comida y materiales.
+
+### Winter Magic
+
+**Fechas / estado:** 2026-12-26 — 2026-12-28
+
+**lugar:** Tokyo YMCA · Toyocho Idioma Education Center · 2-2-20 Toyo, Koto-ku
+
+**Precio:** JPY 43560 por menor por 3 días. Pago por transferencia bancaria.
+
+- 2026-12-26 · 09:30–16:00 · Asia/Tokyo · Winter Magic: manualidad luminosa, lanzamiento de pelota, experimentos e ingeniería práctica.
+
+- 2026-12-27 · 09:30–16:00 · Asia/Tokyo · Winter Magic: manualidad luminosa, lanzamiento de pelota, experimentos e ingeniería práctica.
+
+- 2026-12-28 · 09:30–16:00 · Asia/Tokyo · Winter Magic: manualidad luminosa, lanzamiento de pelota, experimentos e ingeniería práctica.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://tokyo.ymca.or.jp/language/2026/10/ymcathree-days-in-tokyo-a-holiday-at-steam-seasonal-schoolymca3steam.html)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://tokyo.ymca.or.jp/language/2026/10/ymcathree-days-in-tokyo-a-holiday-at-steam-seasonal-schoolymca3steam.html) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

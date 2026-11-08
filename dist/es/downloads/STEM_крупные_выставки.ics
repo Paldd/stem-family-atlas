@@ -1597,24 +1597,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E154@family-stem.local
-DTSTAMP:20261006T205843Z
-SUMMARY:[Exposición · confirmar admisión de menores] Festival Nacional
-  de Robótica / RoboCup Portugal Open 2027 · visita
-DTSTART;VALUE=DATE:20270421
+DTSTAMP:20261108T003618Z
+SUMMARY:[Exposición · visita en familia] Festival Nacional de Robótica
+  / RoboCup Portugal Open 2027 · visita
+DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270425
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. el acceso p
- úblico infantil / horas / costo requiere confirmación. Entrada de adul
- tos: el billete público y el reloj no están establecidos\; el registro
-  del participante no es visitor pass. 21–24 de abril — todo el festi
- val. 21-la parte del programa se refiere a la preparación de los equipo
- s\; Entrevista previa 22-¿Qué es eso ?\, Las competiciones 23-¿Qué e
- s eso ?\, finales y premios 24-¿Qué es eso ?. La ventana pública exac
- ta y el precio infantil no se anuncian en el horario leído. El festival
-  nacional no es una exposición de todas las compañías del mundo. Empr
- esas: Junior / Major\; el festival no promete la presencia de todas las 
- compañías del mundo. Fuente verificada el 2026-10-01.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Entrada gra
+ tuita para el público. No hace falta inscribirse como equipo para visit
+ ar. Entrada de adultos: Entrada gratuita para el público. No hace falta
+  inscribirse como equipo para visitar.. El festival se celebra del 21 al
+  24 de abril\, con acceso público del 22 al 24 de abril. Horario según
+  las preguntas frecuentes: 22 y 23 de abril de 09:00 a 21:00\, 24 de abr
+ il de 09:00 a aproximadamente 17:00\, hora local. Empresas: Junior / Maj
+ or\; el festival no promete la presencia de todas las compañías del mu
+ ndo. Fuente verificada el 2026-11-07.
 LOCATION:Felgueiras · Mercado Municipal\, Portugal
-URL:https://www.festivalnacionalrobotica.pt/
+URL:https://www.festivalnacionalrobotica.pt/en/2027
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5532,6 +5530,23 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. La organiza
  uente de la organización.. Fuente verificada el 2026-11-07.
 LOCATION:Technopolis · Mechelen\, Bélgica
 URL:https://coderdojobelgium.be/nl/events/coolest-projects-13-03-2027
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E472@family-stem.local
+DTSTAMP:20261108T003618Z
+SUMMARY:[Exposición · visita en familia] ECER 2027 · Linz · Besuch
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270410
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Acceso grat
+ uito para todas las edades. El horario diario y las zonas para el públi
+ co se publicarán en el programa. Entrada de adultos: Acceso gratuito pa
+ ra todas las edades. El horario diario y las zonas para el público se p
+ ublicarán en el programa..  Empresas: La organización prepara el progr
+ ama completo para visitantes.. Fuente verificada el 2026-11-07.
+LOCATION:Linzer Technikum · Paul-Hahn-Straße 4 · Linz\, Austria
+URL:https://ecer.eraa.at/visit/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -10102,6 +10102,70 @@ Limitaciones: Después se pueden presentar proyectos terminados a Coolest Projec
 Fuente: https://projects.raspberrypi.org/es-LA/
 Se ha comprobado: 2026-11-07
 
+### L708 · Imdatbot · RBT-01 · Makeblock mBot2
+
+lugar: Turkmenistán · Imdatbot · Mir-3 · Aşgabat
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Desde 6 años.
+Matvey: Condicional. Edad adecuada. Confirmar idioma, horario y acceso de una familia extranjera.
+Oscar: Condicional. Edad adecuada. Confirmar idioma, horario y acceso de una familia extranjera.
+Formato: regular
+Idioma: La descripción está en ruso. Confirmar el idioma de clase del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Desde TMT 1000 al mes según la página del centro.
+Acceso: Solicitud al centro. No se indican fecha de inicio de grupo ni reglas para familias del extranjero.
+Restricciones: La página describe el programa habitual. Confirmar inicio, plazas e idioma del grupo actual.
+Fuente: https://imdatbot.edu.tm/
+Se ha comprobado: 2026-11-07
+
+### L709 · Imdatbot · PRG-02 · Python
+
+lugar: Turkmenistán · Imdatbot · Mir-3 · Aşgabat
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 9 años.
+Matvey: Condicional. Edad adecuada. Confirmar idioma, horario y acceso de una familia extranjera.
+Oscar: No. Edad mínima publicada de 9 años.
+Formato: regular
+Idioma: La descripción está en ruso. Confirmar el idioma de clase del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Desde TMT 1000 al mes según la página del centro.
+Acceso: Solicitud al centro. No se indican fecha de inicio de grupo ni reglas para familias del extranjero.
+Restricciones: Se anuncia práctica de creación de juegos con Python. Confirmar experiencia requerida e idioma del grupo.
+Fuente: https://imdatbot.edu.tm/
+Se ha comprobado: 2026-11-07
+
+### L710 · Imdatbot · AI-03
+
+lugar: Turkmenistán · Imdatbot · Mir-3 · Aşgabat
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Desde 12 años.
+Matvey: No. Edad mínima publicada de 12 años.
+Oscar: No. Edad mínima publicada de 12 años.
+Formato: regular
+Idioma: La descripción está en ruso. Confirmar el idioma de clase del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Desde TMT 1000 al mes según la página del centro.
+Acceso: Solicitud al centro. No se indican fecha de inicio de grupo ni reglas para familias del extranjero.
+Restricciones: El programa se dirige a menores de más edad. No se indican fechas de inicio.
+Fuente: https://imdatbot.edu.tm/
+Se ha comprobado: 2026-11-07
+
+### L711 · Imdatbot · Summer Technology Camp
+
+lugar: Turkmenistán · Imdatbot · Mir-3 · Aşgabat
+Fecha: Junio, julio y agosto. El botón anuncia 2027 y el formulario indica 2026. Turnos exactos sin publicar.
+edad: Desde 6 años. Grupos de hasta 10 personas.
+Matvey: Condicional. Edad adecuada. Confirmar idioma, horario y acceso de una familia extranjera.
+Oscar: Condicional. Edad adecuada. Confirmar idioma, horario y acceso de una familia extranjera.
+Formato: day_camp
+Idioma: Se anuncia inglés como asignatura. No se indica el idioma de las actividades técnicas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La página indica TMT 125 al día. Confirmar si la tarifa se aplica al turno de 2027.
+Acceso: Solicitud al centro. No se indican fecha de inicio de grupo ni reglas para familias del extranjero.
+Restricciones: Se deben confirmar calendario y precio final del turno elegido. El inglés se anuncia como asignatura.
+Fuente: https://imdatbot.edu.tm/
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -73124,6 +73188,22 @@ Precio: 2026/27 · 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 ni
 Acceso: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.
 Limitaciones: Matvey: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Oscar: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Suplementos: Menú de 290 MXN por adulto, 220 MXN por niño. Alquiler de equipo y senderismo aparte. Pago: Para turnos regulares, reembolso con 7 días o más, con 3–6 días cambio o 50% de reembolso. Sin reembolso a menos de 3 días. Confirmar modalidad.
 Fuente: https://www.sbkmexico.com/campamento.php
+Se ha comprobado: 2026-11-07
+
+### CP1877-20261226-20261228-winter-magic-2026-12-26-toyocho · Tokyo YMCA · Winter Magic · STEAM · Winter Magic · 2026-12-26–2026-12-28
+
+Lugar: Japón · Tokyo YMCA · Toyocho Idioma Education Center · 2-2-20 Toyo, Koto-ku
+Fecha: 2026-12-26 — 2026-12-28
+edad: Desde 4 años hasta 7.º curso. Se puede participar comunicándose en inglés o japonés.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Actividades en inglés. Se puede usar japonés para comunicarse con el personal bilingüe.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · JPY 43560 por menor por 3 días. Pago por transferencia bancaria. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por el rango publicado. El centro admite a menores del extranjero. Confirmar curso y plaza. Oscar: Sí por el rango publicado. El centro admite a menores del extranjero. Confirmar curso y plaza. Suplementos: La familia deja y recoge al menor. Alojamiento y transporte aparte. Pago: Las reglas incluyen una escala de cancelación. Confirmar el reembolso exacto antes del pago.
+Fuente: https://tokyo.ymca.or.jp/language/2026/10/ymcathree-days-in-tokyo-a-holiday-at-steam-seasonal-schoolymca3steam.html
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

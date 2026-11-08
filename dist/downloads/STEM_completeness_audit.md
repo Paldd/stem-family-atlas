@@ -6,24 +6,24 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 8596; соревнований: 3479; событий: 471; лагерей / программ: 4646. Профилей лиг и программ: 288. Карточек крупных и профильных выставок: 375 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 8621; соревнований: 3497; событий: 473; лагерей / программ: 4651. Профилей лиг и программ: 288. Карточек крупных и профильных выставок: 376 — это издания и площадки, не число уникальных брендов.
 
-Конкретные записи есть для 203 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
+Конкретные записи есть для 204 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
 ## Охват по континентам
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
 | Северная Америка | 37 | 1530 | 84 | 1221 |
-| Южная Америка | 13 | 251 | 31 | 197 |
-| Европа | 48 | 444 | 92 | 1395 |
+| Южная Америка | 13 | 255 | 31 | 197 |
+| Европа | 48 | 449 | 93 | 1395 |
 | Африка | 47 | 144 | 27 | 78 |
-| Азия | 47 | 854 | 114 | 1569 |
+| Азия | 48 | 863 | 114 | 1574 |
 | Океания | 13 | 140 | 25 | 173 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 136. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 521 из 3479 карточек соревнований (15.0%). Это явный перекос охвата.
+VEX: 521 из 3497 карточек соревнований (14.9%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -97,7 +97,7 @@ VEX: 521 из 3479 карточек соревнований (15.0%). Это я�
 - **FIRST**: 312 карточек, 205 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.firstinspires.org/programs/fll/
 - **VEX Robotics**: 521 карточек, 420 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.vexrobotics.com/official-path
 - **RoboCupJunior**: 7 карточек, 3 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://junior.robocup.org/
-- **MakeX**: 15 карточек, 11 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.makex.cc/en/2026-makex
+- **MakeX**: 19 карточек, 11 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.makex.cc/en/2026-makex
 - **RECF Robotics**: 624 карточек, 527 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://recf.org/teams/recf-robotics-competition/
 - **RECF Aerial Drone**: 204 карточек, 174 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://recf.org/teams/competition/aerial-drone-competition/
 - **WER**: 3 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.wermexico.com/competencia
@@ -107,7 +107,7 @@ VEX: 521 из 3479 карточек соревнований (15.0%). Это я�
 - **Robotex International**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://robotex.international/lego-sumo
 - **RobotChallenge**: 17 карточек, 13 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robotchallenge.org.cn/competition-RobotSumo.html
 - **ENJOY AI**: 5 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.enjoyaiglobal.org/
-- **Junior Botball Challenge**: 2 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.kipr.org/junior-botball-challenge
+- **Junior Botball Challenge**: 3 карточек, 2 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.kipr.org/junior-botball-challenge
 - **International Robot Olympiad**: 11 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.iroc.org/home?l=ko&s=10280
 - **IYRC**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.myrobotacademy.ai/iyrcasean2026
 - **International Robot Challenge · Egypt**: 8 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://international-robotchallenge.org/competition/robo-boom
@@ -129,12 +129,12 @@ VEX: 521 из 3479 карточек соревнований (15.0%). Это я�
 - **FCTI · Costa Rica**: 2 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.mep.go.cr/sites/default/files/2026-04/ManualFCTI2026.pdf
 - **LUVÁ · Costa Rica**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.torneoluva.com
 - **Play! Pokémon**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://championships.pokemon.com/en-us/about/2027-season-changes/
-- **Botball**: 0 карточек, 0 с будущими точными датами. Только профиль; календарь этапов не добавлен. https://www.kipr.org/botball
+- **Botball**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.kipr.org/botball
 - **RoboMaster · University**: 0 карточек, 0 с будущими точными датами. Только профиль; календарь этапов не добавлен. https://www.robomaster.com/en-US/robo/rm
 - **IOAI · Олимпиада по ИИ**: 0 карточек, 0 с будущими точными датами. Только профиль; календарь этапов не добавлен. https://ioai-official.org/wp-content/uploads/2025/08/IOAI-regulations.pdf
 - **IOI · Олимпиада по информатике**: 0 карточек, 0 с будущими точными датами. Только профиль; календарь этапов не добавлен. https://ioinformatics.org/files/regulations24-web.pdf
 - **Regeneron ISEF**: 0 карточек, 0 с будущими точными датами. Только профиль; календарь этапов не добавлен. https://www.societyforscience.org/isef/international-rules/rules-for-all-projects/
-- **FIRST Global Challenge**: 13 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://first.global/fgc/
+- **FIRST Global Challenge**: 14 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://first.global/fgc/
 - **FIRA RoboWorld Cup / Youth**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/
 - **Universal Robotics Challenge (URC)**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.urc21.org/en/overview.php
 - **World Robot Contest (CIE)**: 109 карточек, 96 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.worldrobotconference.com/contest/regulations/2632.html
@@ -484,7 +484,7 @@ VEX: 521 из 3479 карточек соревнований (15.0%). Это я�
 - **Advanced Factories Barcelona 2027 · automation / robotics / AI** — Испания; 2027-03-31 – 2027-04-02. Детский допуск уточнить. https://www.advancedfactories.com/en/
 - **Machineering2027 · robots / industrial technology** — Бельгия; 2027-03-24 – 2027-03-26. Детский допуск уточнить. https://www.machineering.eu/nl/bezoeken/bezoekersprofiel/
 - **Smart City Expo World Congress2026 · технологии / AI / urban systems** — Испания; 2026-11-03 – 2026-11-05. Детский допуск уточнить. https://www.smartcityexpo.com/exhibitor-faqs/
-- **Festival Nacional de Robótica / RoboCup Portugal Open 2027 · посещение** — Португалия; 2027-04-21 – 2027-04-24. Детский допуск уточнить. https://www.festivalnacionalrobotica.pt/
+- **Festival Nacional de Robótica / RoboCup Portugal Open 2027 · посещение** — Португалия; 2027-04-22 – 2027-04-24. Со взрослым; условия взрослого входа отдельно. https://www.festivalnacionalrobotica.pt/en/2027
 - **WMF We Make Future 2027 · AI / robotics / tech expo** — Италия; 2027-06-10 – 2027-06-12. Детский допуск уточнить. https://www.wemakefuture.it/
 - **AI Festival Milano 2027 · AI-компании и технологии** — Италия; 2027-02-11 – 2027-02-12. Со взрослым; условия взрослого входа отдельно. https://www.aifestival.it/
 - **ITEX Malaysia2027 · invention / technology exhibition** — Малайзия; 2027-05-27 – 2027-05-28. Детский допуск уточнить. https://itex.com.my/
@@ -731,6 +731,7 @@ VEX: 521 из 3479 карточек соревнований (15.0%). Это я�
 - **Coolest Projects UK Bradford 2027 · Family visit** — Соединенное Королевство Великобритании и Северной Ирландии; 2027-05-15. Со взрослым; условия взрослого входа отдельно. https://online.coolestprojects.org/cp-uk-2026
 - **Coolest Projects UK Cardiff 2027 · Family visit** — Соединенное Королевство Великобритании и Северной Ирландии; 2027-05-22. Со взрослым; условия взрослого входа отдельно. https://online.coolestprojects.org/cp-cardiff-2027
 - **Coolest Projects Belgium 2027 · Techfair** — Бельгия; 2027-03-13. Детский допуск уточнить. https://coderdojobelgium.be/nl/events/coolest-projects-13-03-2027
+- **ECER 2027 · Linz · Besuch** — Австрия; 2027-04-05 – 2027-04-09. Со взрослым; условия взрослого входа отдельно. https://ecer.eraa.at/visit/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

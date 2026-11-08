@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1875,
-    "countries": 121,
+    "dossiers": 1877,
+    "countries": 122,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 261,
       "published_2027": 510,
       "partial_2027": 141,
-      "next_unannounced": 397,
-      "published_2026": 342,
+      "next_unannounced": 398,
+      "published_2026": 343,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 142,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2740
+    "source_urls": 2742
   },
   "countries": [
     {
@@ -448,6 +448,10 @@
       "count": 3
     },
     {
+      "country": "Turkmenistán",
+      "count": 1
+    },
+    {
       "country": "Turquía",
       "count": 1
     },
@@ -533,7 +537,7 @@
     },
     {
       "country": "Japón",
-      "count": 88
+      "count": 89
     }
   ],
   "profiles": [
@@ -318196,6 +318200,217 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1876",
+      "slug": "imdatbot-ashgabat-summer",
+      "provider": "Imdatbot · Summer Technology Camp",
+      "country": "Turkmenistán",
+      "iso": "TKM",
+      "place": "Imdatbot · Mir-3 · Aşgabat",
+      "age": "Desde 6 años. Grupos de hasta 10 personas.",
+      "programme": "Robótica, IA, creación de juegos, oratoria e inglés como asignatura.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Se anuncia inglés como asignatura. No se indica el idioma de las actividades técnicas.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Junio, julio y agosto. El botón anuncia 2027 y el formulario indica 2026. Turnos exactos sin publicar.",
+        "session_details": [],
+        "variant_keyed": true,
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "TMT",
+        "label": "La página indica TMT 125 al día. Confirmar si la tarifa se aplica al turno de 2027.",
+        "included": "Según la descripción, almuerzo incluido.",
+        "extras": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+        "deposit": "La tarifa exacta de la convocatoria elegida no está confirmada."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Condicional. Edad adecuada. Confirmar nivel, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://imdatbot.edu.tm/",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "games",
+        "technology",
+        "languages"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "language_evidence_role": "language_lessons",
+      "related_event_ids": [
+        "L711"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1877",
+      "slug": "tokyo-ymca-steam-winter-magic-2026",
+      "provider": "Tokyo YMCA · Winter Magic · STEAM",
+      "country": "Japón",
+      "iso": "JPN",
+      "place": "Tokyo YMCA · Toyocho Language Education Center · 2-2-20 Toyo, Koto-ku",
+      "age": "Desde 4 años hasta 7.º curso. Se puede participar comunicándose en inglés o japonés.",
+      "programme": "Winter Magic: manualidad luminosa, lanzamiento de pelota, experimentos e ingeniería práctica.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Actividades en inglés. Se puede usar japonés para comunicarse con el personal bilingüe.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "26–28 de diciembre de 2026, de 09:30 a 16:00. Recepción de 09:00 a 09:30, recogida a las 16:00.",
+        "session_details": [
+          {
+            "variant_key": "winter-magic-2026-12-26-toyocho",
+            "start": "2026-12-26",
+            "end": "2026-12-28",
+            "label": "Winter Magic",
+            "price": "JPY 43560 por menor por 3 días. Pago por transferencia bancaria.",
+            "source": "https://tokyo.ymca.or.jp/language/2026/10/ymcathree-days-in-tokyo-a-holiday-at-steam-seasonal-schoolymca3steam.html",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-26",
+                "start_time": "09:30",
+                "end_time": "16:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Winter Magic: manualidad luminosa, lanzamiento de pelota, experimentos e ingeniería práctica.",
+                "start_utc": "2026-12-26T00:30:00Z",
+                "end_utc": "2026-12-26T07:00:00Z"
+              },
+              {
+                "date": "2026-12-27",
+                "start_time": "09:30",
+                "end_time": "16:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Winter Magic: manualidad luminosa, lanzamiento de pelota, experimentos e ingeniería práctica.",
+                "start_utc": "2026-12-27T00:30:00Z",
+                "end_utc": "2026-12-27T07:00:00Z"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "09:30",
+                "end_time": "16:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Winter Magic: manualidad luminosa, lanzamiento de pelota, experimentos e ingeniería práctica.",
+                "start_utc": "2026-12-28T00:30:00Z",
+                "end_utc": "2026-12-28T07:00:00Z"
+              }
+            ],
+            "place": "Tokyo YMCA · Toyocho Language Education Center · 2-2-20 Toyo, Koto-ku",
+            "themes": [
+              "science",
+              "engineering",
+              "technology",
+              "makers",
+              "art"
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-12-26",
+            "2026-12-28"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "JPY",
+        "amount": 43560,
+        "unit": "session",
+        "label": "JPY 43560 por menor por 3 días. Pago por transferencia bancaria.",
+        "included": "Actividades durante 3 días. Confirmar comida y materiales con el centro.",
+        "extras": "La familia deja y recoge al menor. Alojamiento y transporte aparte.",
+        "deposit": "Las reglas incluyen una escala de cancelación. Confirmar el reembolso exacto antes del pago."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por el rango publicado. El centro admite a menores del extranjero. Confirmar curso y plaza."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por el rango publicado. El centro admite a menores del extranjero. Confirmar curso y plaza."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar el grupo por curso, plazas para dos, comida y materiales."
+      ],
+      "sources": [
+        {
+          "url": "https://tokyo.ymca.or.jp/language/2026/10/ymcathree-days-in-tokyo-a-holiday-at-steam-seasonal-schoolymca3steam.html",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "science",
+        "engineering",
+        "technology",
+        "makers",
+        "art"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "language_evidence_role": "primary",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-26",
+          "end": "2026-12-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1877-20261226-20261228-winter-magic-2026-12-26-toyocho"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -323521,7 +323736,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 246,
+  "version": 247,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -336756,7 +336971,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1875,
+      "total_dossiers": 1877,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -357536,6 +357751,16 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1876",
+      "event_id": "L711",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP1877",
+      "event_id": "CP1877-20261226-20261228-winter-magic-2026-12-26-toyocho",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -361905,10 +362130,11 @@
     "CP1875-20261107-20261108-family-2026-11-07",
     "CP1875-20261114-20261115-family-2026-11-14",
     "CP1875-20261205-20261206-family-2026-12-05",
-    "CP1875-20261212-20261213-family-2026-12-12"
+    "CP1875-20261212-20261213-family-2026-12-12",
+    "CP1877-20261226-20261228-winter-magic-2026-12-26-toyocho"
   ],
   "integration": {
-    "generated_sessions": 3939,
+    "generated_sessions": 3940,
     "reused_legacy_events": 73,
     "seasonal_windows": 73,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

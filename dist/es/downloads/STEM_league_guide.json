@@ -1627,7 +1627,11 @@
           "C615",
           "C616",
           "C617",
-          "C618"
+          "C618",
+          "C3495",
+          "C3496",
+          "C3497",
+          "C3498"
         ],
         "legacy_ids": [
           "C020",
@@ -1659,6 +1663,11 @@
             "title": "México: tarjeta del torneo local",
             "url": "https://www.creativakids.com/makex.php",
             "checked": "2026-09-30"
+          },
+          {
+            "title": "MakeX Colombia · TD Robótica",
+            "url": "https://www.tdrobotica.co/makex-2026",
+            "checked": "2026-11-07"
           }
         ],
         "evidence": "Se ha completado por las lecturas de las reglas oficiales / páginas 30.09.2026; la recepción local de la familia se confirma por separado."
@@ -3787,7 +3796,8 @@
         ],
         "event_ids": [
           "C060",
-          "C778"
+          "C778",
+          "C3482"
         ],
         "legacy_ids": [
           "C060"
@@ -3818,6 +3828,11 @@
             "title": "Taiwan SPARK local event",
             "url": "https://junior-botball-challenge-taiwan.github.io/",
             "checked": "2026-10-01"
+          },
+          {
+            "title": "ECER 2027 · Junior Botball",
+            "url": "https://ecer.eraa.at/competition",
+            "checked": "2026-11-07"
           }
         ],
         "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado."
@@ -6049,7 +6064,9 @@
             "entry": "Workshop → desarrollo → regional"
           }
         ],
-        "event_ids": [],
+        "event_ids": [
+          "C3481"
+        ],
         "legacy_ids": [],
         "route": "KIPR / regional → workshop y kit → 7–9 semana de desarrollo → regional. GCER y el acceso a la misma por separado.",
         "hardware": "KIPR Wombat y Botball kit; C / C++ / Java",
@@ -6071,6 +6088,11 @@
             "title": "Botball: fuente oficial",
             "url": "https://www.kipr.org/botball",
             "checked": "2026-09-30"
+          },
+          {
+            "title": "ECER 2027 · Botball",
+            "url": "https://ecer.eraa.at/competition",
+            "checked": "2026-11-07"
           }
         ],
         "evidence": "página oficial / reglas leídas 30.09.2026; las condiciones locales de la familia no se han confirmado."
@@ -6293,7 +6315,8 @@
           "C3390",
           "C3391",
           "C3392",
-          "C3393"
+          "C3393",
+          "C3487"
         ],
         "legacy_ids": [],
         "route": "equipo escolar → socio nacional → selección de equipo → FIRST Global.",
@@ -6337,6 +6360,11 @@
           {
             "url": "https://first.global/press-releases/a-world-united-in-incheon-2026-first-global-challenge-concludes-as-champions-are-crowned-and-madrid-revealed-as-2027-host/",
             "title": "Página oficial del organizador",
+            "checked": "2026-11-07"
+          },
+          {
+            "title": "Ýaş Inžener · Robototehnika",
+            "url": "https://bilim.gov.tm/baslesik/29/yas-inzener-2026-atly-robototehnika-we-programmirleme-baslesigi/",
             "checked": "2026-11-07"
           }
         ],
