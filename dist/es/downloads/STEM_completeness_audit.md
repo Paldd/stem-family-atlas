@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10305; competiciones: 4653; eventos: 593; campamentos / programas: 5059. Perfiles de ligas y programas: 301. Fichas de exposiciones grandes y especializadas: 497 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10314; competiciones: 4654; eventos: 594; campamentos / programas: 5066. Perfiles de ligas y programas: 301. Fichas de exposiciones grandes y especializadas: 498 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1921 | 122 | 1279 |
+| América del Norte | 40 | 1921 | 122 | 1285 |
 | América del Sur | 14 | 430 | 45 | 207 |
 | Europa | 54 | 602 | 123 | 1455 |
 | África | 53 | 242 | 31 | 110 |
 | Asia | 49 | 1155 | 145 | 1661 |
-| Oceanía | 25 | 163 | 29 | 332 |
+| Oceanía | 25 | 164 | 30 | 333 |
 
 Fichas interregionales o globales sin asignar a un continente: 162. Norteamérica incluye Centroamérica y el Caribe. Los recuentos muestran el inventario de la base, no un porcentaje de exhaustividad.
 
-VEX: 814 de 4653 fichas de competiciones (17.5%). Esta concentración revela un sesgo de cobertura.
+VEX: 814 de 4654 fichas de competiciones (17.5%). La cobertura se concentra en este circuito.
 
 ## Lo que queda
 
@@ -866,6 +866,7 @@ VEX: 814 de 4653 fichas de competiciones (17.5%). Esta concentración revela un 
 - **Noche de las Estrellas 2026 · México · BUAP** — México; 2026-11-14. con un adulto; condiciones de admisión adulta por separado. https://www.fcfm.buap.mx/nochedelasestrellas/
 - **Noche de las Estrellas 2026 · México · Ensenada** — México; 2026-11-14. con un adulto; condiciones de admisión adulta por separado. https://todos.cicese.mx/evento/ndee-2026/
 - **Planetario de San José · UCR · Telescopiadas** — Costa Rica. Actividad regular. Visita con un adulto. Confirmar las condiciones de acceso. https://planetario.ucr.ac.cr/horarios.html
+- **Fiji Tech Summit 2026 · Exhibitions & Business Forum** — Fiyi; 2026-11-12 – 2026-11-13. el permiso de entrada de niños. https://fijitechsummit.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

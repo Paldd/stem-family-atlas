@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1991,
+    "dossiers": 1998,
     "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
       "published_2027": 543,
       "partial_2027": 145,
-      "next_unannounced": 400,
-      "published_2026": 381,
+      "next_unannounced": 403,
+      "published_2026": 385,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2882
+    "source_urls": 2887
   },
   "countries": [
     {
@@ -441,7 +441,7 @@
     },
     {
       "country": "Estados Unidos",
-      "count": 151
+      "count": 157
     },
     {
       "country": "Sierra Leona",
@@ -485,7 +485,7 @@
     },
     {
       "country": "Fiyi",
-      "count": 1
+      "count": 2
     },
     {
       "country": "Filipinas",
@@ -293441,23 +293441,23 @@
       "provider": "Encode Education · Junior Christmas STEM",
       "country": "Hong Kong",
       "iso": "HKG",
-      "place": "G26B Monterey Place · 23 Tong Chun Street · Tseung Kwan O",
+      "place": "Hong Kong. Confirmar la sede del grupo elegido.",
       "themes": [
         "robotics",
-        "engineering",
         "coding",
-        "technology"
+        "3d",
+        "science"
       ],
       "formats": [
         "day"
       ],
-      "age": "3–7 años",
-      "language": "Página del programa en inglés. Idioma de clase y precio sin publicar.",
+      "age": "De 3 a 7 años.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
       "confirmed_instruction_languages": [],
-      "programme": "10:00–12:00 impresión 3D, 12:00–14:00 laboratorio, 14:00–16:00 Coding Lego.",
+      "programme": "Impresión 3D infantil de 10:00 a 12:00, Science Lab de 12:00 a 14:00 y programación LEGO de 14:00 a 16:00 en el horario general.",
       "timing": {
         "status": "published_2026_27",
-        "label": "Temporada del 14 de diciembre de 2026 al 2 de enero de 2027. Días del curso concreto y número de clases sin publicar.",
+        "label": "Periodo general del programa 14.12.2026–02.01.2027. La organización confirma los días exactos y la sede del itinerario.",
         "sessions": [
           [
             "2026-12-14",
@@ -293487,26 +293487,31 @@
       "family_fit": {
         "matvey": {
           "status": "not_eligible",
-          "detail": "No por edad para el grupo menor."
+          "detail": "Supera el límite de edad del grupo infantil."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "Condicional si ya ha cumplido 6 años al comenzar."
+          "detail": "Encaja por edad. Confirmar idioma, sede y fecha de la actividad elegida."
         }
       },
       "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
       "shortlist": [],
       "questions": [
-        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+        "Consultar plaza, días, sede e idioma del itinerario concreto. La ficha del turno no indica la sede."
       ],
       "sources": [
         {
           "url": "https://www.encode-world.com/stem-christmas-camp-hk-2026-coding-ai-camps-encode-education",
-          "title": "Página oficial del organizador",
-          "checked": "2026-11-07"
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.encode-world.com/contact-us",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "availability": {
         "status": "unconfirmed",
         "label": "Confirmar disponibilidad y admisión."
@@ -293529,24 +293534,23 @@
       "provider": "Encode Education · Senior Christmas STEM",
       "country": "Hong Kong",
       "iso": "HKG",
-      "place": "G26B Monterey Place · 23 Tong Chun Street · Tseung Kwan O",
+      "place": "Hong Kong. Confirmar la sede del grupo elegido.",
       "themes": [
-        "robotics",
+        "3d",
         "ai",
-        "coding",
         "games",
-        "technology"
+        "coding"
       ],
       "formats": [
         "day"
       ],
-      "age": "8+ años",
-      "language": "Página del programa en inglés. Idioma de clase y precio sin publicar.",
+      "age": "Desde los 8 años.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
       "confirmed_instruction_languages": [],
-      "programme": "10:00–12:00 impresión 3D, 12:00–14:00 Roblox o modding de Minecraft, 14:00–16:00 IA generativa.",
+      "programme": "Impresión 3D de 10:00 a 12:00, Roblox o Minecraft de 12:00 a 14:00 e IA generativa de 14:00 a 16:00 en el horario general.",
       "timing": {
         "status": "published_2026_27",
-        "label": "Temporada del 14 de diciembre de 2026 al 2 de enero de 2027. Días del curso concreto y número de clases sin publicar.",
+        "label": "Periodo general del programa 14.12.2026–02.01.2027. La organización confirma los días exactos y la sede del itinerario.",
         "sessions": [
           [
             "2026-12-14",
@@ -293575,27 +293579,32 @@
       "accommodation": "Programa diurno sin alojamiento.",
       "family_fit": {
         "matvey": {
-          "status": "candidate",
-          "detail": "La edad de 9 años está dentro del rango. Confirmar plaza."
+          "status": "conditional",
+          "detail": "Encaja por edad. Confirmar idioma, sede y fecha de la actividad elegida."
         },
         "oscar": {
           "status": "later",
-          "detail": "Edad mínima superior a la actual. Confirmar edad el primer día del turno."
+          "detail": "Podrá acceder cuando alcance la edad mínima del grupo mayor."
         }
       },
       "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
       "shortlist": [],
       "questions": [
-        "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
+        "Consultar plaza, días, sede e idioma del itinerario concreto. La ficha del turno no indica la sede."
       ],
       "sources": [
         {
           "url": "https://www.encode-world.com/stem-christmas-camp-hk-2026-coding-ai-camps-encode-education",
-          "title": "Página oficial del organizador",
-          "checked": "2026-11-07"
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.encode-world.com/contact-us",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "availability": {
         "status": "unconfirmed",
         "label": "Confirmar disponibilidad y admisión."
@@ -345235,7 +345244,7 @@
       "country": "Estados Unidos",
       "iso": "USA",
       "place": "Bell Museum · University of Minnesota · Saint Paul",
-      "age": "Grados 3–5.",
+      "age": "Grados 3 a 5.",
       "programme": "Observación de nubes, causas de las estaciones y experimentos de ingeniería con nieve.",
       "format": "day",
       "formats": [
@@ -345504,7 +345513,7 @@
       "country": "Estados Unidos",
       "iso": "USA",
       "place": "Bell Museum · University of Minnesota · Saint Paul",
-      "age": "Grados 3–5.",
+      "age": "Grados 3 a 5.",
       "programme": "Observación de aves invernales, comederos, huellas de animales y grabado.",
       "format": "day",
       "formats": [
@@ -345630,6 +345639,656 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1992",
+      "slug": "elevate-fiji-technology",
+      "provider": "Elevate Academy Fiji · Technology",
+      "country": "Fiyi",
+      "iso": "FJI",
+      "place": "Waqadra · Nadi",
+      "age": "De 6 a 15 años. Confirmar grupo y nivel concretos.",
+      "programme": "En Nadi se ofrece Scratch, micro:bit, LEGO SPIKE y creación de juegos. Confirmar por separado el contenido de vacaciones.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Clases regulares y lecciones en vacaciones para primaria. Aún no se publica un turno con fechas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "unknown",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "En Nadi se ofrece Scratch, micro:bit, LEGO SPIKE y creación de juegos. Confirmar por separado el contenido de vacaciones.",
+        "extras": "Solicitar una clase de prueba o una lección en vacaciones. Confirmar idioma, precio y posibilidad de una sola clase.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Encaja por edad. Confirmar idioma, grupo y horario."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Encaja por edad. Confirmar idioma, grupo y horario."
+        }
+      },
+      "editorial_reason": "Clases regulares y lecciones en vacaciones para primaria. Aún no se publica un turno con fechas.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://elevateacademyfiji.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://elevateacademyfiji.com/about-elevate-academy-fiji/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "programme_type": "regular_learning",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1993",
+      "slug": "explora-abq-winter-microbit",
+      "provider": "Explora · Micro:bit Robots Camp",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Explora Science Center · Albuquerque",
+      "age": "Grados 3 a 5.",
+      "programme": "Montaje de un robot con materiales sencillos y micro:bit. Programación de movimiento, luces y sonido.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Una actividad de 09:00 a 16:00, hora de Albuquerque.",
+        "sessions": [
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec26",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Micro:bit Robots Camp",
+            "price": "USD 95 por menor. USD 85 para miembros del museo.",
+            "source": "https://www.explora.us/programs/camps/winter-break-camps/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Denver",
+                "start_utc": "2026-12-22T16:00:00Z",
+                "end_utc": "2026-12-22T23:00:00Z",
+                "topic": "Montaje de un robot con materiales sencillos y micro:bit. Programación de movimiento, luces y sonido.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Inscripción individual en Explora. Confirmar grado escolar, idioma, plaza y comida."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 95,
+        "currency": "USD",
+        "unit": "per_child_course",
+        "label": "USD 95 por menor. USD 85 para miembros del museo.",
+        "included": "Montaje de un robot con materiales sencillos y micro:bit. Programación de movimiento, luces y sonido.",
+        "extras": "Cuidado antes o después de la sesión por USD 10 por periodo. Consultar comida y equipo.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar equivalencia del grado escolar y disponibilidad."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Primero cotejar el grado escolar de este programa."
+        }
+      },
+      "editorial_reason": "Una actividad de 09:00 a 16:00, hora de Albuquerque.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.explora.us/programs/camps/winter-break-camps/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1993-20261222-20261222-dec26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1994",
+      "slug": "explora-abq-winter-little-coders",
+      "provider": "Explora · Little Coders",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Explora Science Center · Albuquerque",
+      "age": "Pre-K y Kindergarten.",
+      "programme": "Actividades de iniciación a la programación sin ordenador, juegos y circuitos de obstáculos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Una actividad de 09:00 a 12:00, hora de Albuquerque.",
+        "sessions": [
+          [
+            "2026-12-22",
+            "2026-12-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec26",
+            "start": "2026-12-22",
+            "end": "2026-12-22",
+            "label": "Little Coders",
+            "price": "USD 55 por menor. USD 45 para miembros del museo.",
+            "source": "https://www.explora.us/programs/camps/winter-break-camps/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Denver",
+                "start_utc": "2026-12-22T16:00:00Z",
+                "end_utc": "2026-12-22T19:00:00Z",
+                "topic": "Actividades de iniciación a la programación sin ordenador, juegos y circuitos de obstáculos.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Inscripción individual en Explora. Confirmar grado escolar, idioma, plaza y comida."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 55,
+        "currency": "USD",
+        "unit": "per_child_course",
+        "label": "USD 55 por menor. USD 45 para miembros del museo.",
+        "included": "Actividades de iniciación a la programación sin ordenador, juegos y circuitos de obstáculos.",
+        "extras": "Cuidado antes o después de la sesión por USD 10 por periodo. Consultar comida y equipo.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Primero cotejar el grado escolar de este programa."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar equivalencia del grado escolar y disponibilidad."
+        }
+      },
+      "editorial_reason": "Una actividad de 09:00 a 12:00, hora de Albuquerque.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.explora.us/programs/camps/winter-break-camps/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1994-20261222-20261222-dec26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1995",
+      "slug": "explora-abq-winter-spark",
+      "provider": "Explora · Spark Your Imagination",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Explora Science Center · Albuquerque",
+      "age": "Pre-K y Kindergarten.",
+      "programme": "Electricidad estática y circuitos sencillos. El menor monta un robot dibujante motorizado.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Una actividad de 09:00 a 12:00, hora de Albuquerque.",
+        "sessions": [
+          [
+            "2026-12-29",
+            "2026-12-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec26",
+            "start": "2026-12-29",
+            "end": "2026-12-29",
+            "label": "Spark Your Imagination",
+            "price": "USD 55 por menor. USD 45 para miembros del museo.",
+            "source": "https://www.explora.us/programs/camps/winter-break-camps/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Denver",
+                "start_utc": "2026-12-29T16:00:00Z",
+                "end_utc": "2026-12-29T19:00:00Z",
+                "topic": "Electricidad estática y circuitos sencillos. El menor monta un robot dibujante motorizado.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Inscripción individual en Explora. Confirmar grado escolar, idioma, plaza y comida."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 55,
+        "currency": "USD",
+        "unit": "per_child_course",
+        "label": "USD 55 por menor. USD 45 para miembros del museo.",
+        "included": "Electricidad estática y circuitos sencillos. El menor monta un robot dibujante motorizado.",
+        "extras": "Cuidado antes o después de la sesión por USD 10 por periodo. Consultar comida y equipo.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Primero cotejar el grado escolar de este programa."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar equivalencia del grado escolar y disponibilidad."
+        }
+      },
+      "editorial_reason": "Una actividad de 09:00 a 12:00, hora de Albuquerque.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.explora.us/programs/camps/winter-break-camps/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "engineering",
+        "science"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1995-20261229-20261229-dec26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1996",
+      "slug": "explora-abq-winter-moving-forces",
+      "provider": "Explora · Moving Forces",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Explora Science Center · Albuquerque",
+      "age": "Kindergarten y grados 1 a 2.",
+      "programme": "Experimentos con imanes y electricidad estática y montaje de un electroimán.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Una actividad de 09:00 a 16:00, hora de Albuquerque.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-21"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec26",
+            "start": "2026-12-21",
+            "end": "2026-12-21",
+            "label": "Moving Forces",
+            "price": "USD 95 por menor. USD 85 para miembros del museo.",
+            "source": "https://www.explora.us/programs/camps/winter-break-camps/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Denver",
+                "start_utc": "2026-12-21T16:00:00Z",
+                "end_utc": "2026-12-21T23:00:00Z",
+                "topic": "Experimentos con imanes y electricidad estática y montaje de un electroimán.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Inscripción individual en Explora. Confirmar grado escolar, idioma, plaza y comida."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 95,
+        "currency": "USD",
+        "unit": "per_child_course",
+        "label": "USD 95 por menor. USD 85 para miembros del museo.",
+        "included": "Experimentos con imanes y electricidad estática y montaje de un electroimán.",
+        "extras": "Cuidado antes o después de la sesión por USD 10 por periodo. Consultar comida y equipo.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Primero cotejar el grado escolar de este programa."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar equivalencia del grado escolar y disponibilidad."
+        }
+      },
+      "editorial_reason": "Una actividad de 09:00 a 16:00, hora de Albuquerque.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.explora.us/programs/camps/winter-break-camps/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1996-20261221-20261221-dec26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1997",
+      "slug": "codingal-winter-explorer",
+      "provider": "Codingal · Winter · Scratch Explorer",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "En línea. Operador de Dover, DE.",
+      "age": "De 7 a 10 años en el itinerario elegido.",
+      "programme": "Fundamentos de Scratch, animación y creación de juegos.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 99,
+        "currency": "USD",
+        "unit": "per_child_course",
+        "label": "La página de EE. UU. indica USD 99 por curso con el código WINTER33. Confirmar el precio y la moneda al pagar desde Costa Rica o México.",
+        "included": "En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.",
+        "extras": "Enviar una solicitud individual. Clases 1:1 o en grupo según disponibilidad. Confirmar idioma, horario y acceso desde el país de residencia.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Encaja por edad. Acordar idioma, horario y acceso desde el país de residencia."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Desde los 7 años. El turno próximo exige cumplir esa edad."
+        }
+      },
+      "editorial_reason": "En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.codingal.com/en-us/kids-teens-coding-camps/winter/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "online_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1998",
+      "slug": "codingal-winter-champion",
+      "provider": "Codingal · Winter · Scratch Champion",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "En línea. Operador de Dover, DE.",
+      "age": "De 7 a 10 años en el itinerario elegido.",
+      "programme": "Creación de juegos en Scratch y actividades de gráfica digital.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 99,
+        "currency": "USD",
+        "unit": "per_child_course",
+        "label": "La página de EE. UU. indica USD 99 por curso con el código WINTER33. Confirmar el precio y la moneda al pagar desde Costa Rica o México.",
+        "included": "En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.",
+        "extras": "Enviar una solicitud individual. Clases 1:1 o en grupo según disponibilidad. Confirmar idioma, horario y acceso desde el país de residencia.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Encaja por edad. Acordar idioma, horario y acceso desde el país de residencia."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Desde los 7 años. El turno próximo exige cumplir esa edad."
+        }
+      },
+      "editorial_reason": "En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.codingal.com/en-us/kids-teens-coding-camps/winter/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "online_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -350955,7 +351614,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 282,
+  "version": 283,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -364190,7 +364849,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1991,
+      "total_dossiers": 1998,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -386745,6 +387404,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1993",
+      "event_id": "CP1993-20261222-20261222-dec26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1994",
+      "event_id": "CP1994-20261222-20261222-dec26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1995",
+      "event_id": "CP1995-20261229-20261229-dec26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1996",
+      "event_id": "CP1996-20261221-20261221-dec26",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -391453,10 +392132,14 @@
     "CP1988-20261228-20261229-dec26",
     "CP1989-20261228-20261229-dec26",
     "CP1990-20261230-20261231-dec26",
-    "CP1991-20261230-20261231-dec26"
+    "CP1991-20261230-20261231-dec26",
+    "CP1993-20261222-20261222-dec26",
+    "CP1994-20261222-20261222-dec26",
+    "CP1995-20261229-20261229-dec26",
+    "CP1996-20261221-20261221-dec26"
   ],
   "integration": {
-    "generated_sessions": 4278,
+    "generated_sessions": 4282,
     "reused_legacy_events": 74,
     "seasonal_windows": 76,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

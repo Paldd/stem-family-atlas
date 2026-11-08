@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 1991 fichas en 126 países. Cada ficha incluye las fechas de verificación de las fuentes.
+Estado de la base: 2026-11-08. 1998 fichas en 126 países. Cada ficha indica cuándo se revisaron sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -137134,19 +137134,19 @@ Taiwán · Taipei / Zhubei / Taichung
 
 ## CP1712 · Encode Education · Junior Christmas STEM
 
-Hong Kong · G26B Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+Hong Kong · Hong Kong. Confirmar la sede del grupo elegido.
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
-**edad:** 3–7 años
+**edad:** De 3 a 7 años.
 
-**Idioma:** Página del programa en inglés. Idioma de clase y precio sin publicar.
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
 
-**Programa:** 10:00–12:00 impresión 3D, 12:00–14:00 laboratorio, 14:00–16:00 Coding Lego.
+**Programa:** Impresión 3D infantil de 10:00 a 12:00, Science Lab de 12:00 a 14:00 y programación LEGO de 14:00 a 16:00 en el horario general.
 
 **Alojamiento:** Programa diurno sin alojamiento.
 
-**Fechas / estado:** Temporada del 14 de diciembre de 2026 al 2 de enero de 2027. Días del curso concreto y número de clases sin publicar.
+**Fechas / estado:** Periodo general del programa 14.12.2026–02.01.2027. La organización confirma los días exactos y la sede del itinerario.
 
 **Precio / año:** 2026 · Precio sin publicar.
 
@@ -137156,15 +137156,15 @@ Hong Kong · G26B Monterey Place · 23 Tong Chun Street · Tseung Kwan O
 
 **Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
-**Matvey:** No por edad para el grupo menor.
+**Matvey:** Supera el límite de edad del grupo infantil.
 
-**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+**Oscar:** Encaja por edad. Confirmar idioma, sede y fecha de la actividad elegida.
 
 **Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
 
 ### Antes de solicitar plaza
 
-- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+- Consultar plaza, días, sede e idioma del itinerario concreto. La ficha del turno no indica la sede.
 
 ### Junior
 
@@ -137176,23 +137176,25 @@ Hong Kong · G26B Monterey Place · 23 Tong Chun Street · Tseung Kwan O
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.encode-world.com/stem-christmas-camp-hk-2026-coding-ai-camps-encode-education) · 2026-11-07
+- [Página de la organización o reglamento de la categoría.](https://www.encode-world.com/stem-christmas-camp-hk-2026-coding-ai-camps-encode-education) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.encode-world.com/contact-us) · 2026-11-08
 
 ## CP1713 · Encode Education · Senior Christmas STEM
 
-Hong Kong · G26B Monterey Place · 23 Tong Chun Street · Tseung Kwan O
+Hong Kong · Hong Kong. Confirmar la sede del grupo elegido.
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
-**edad:** 8+ años
+**edad:** Desde los 8 años.
 
-**Idioma:** Página del programa en inglés. Idioma de clase y precio sin publicar.
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
 
-**Programa:** 10:00–12:00 impresión 3D, 12:00–14:00 Roblox o modding de Minecraft, 14:00–16:00 IA generativa.
+**Programa:** Impresión 3D de 10:00 a 12:00, Roblox o Minecraft de 12:00 a 14:00 e IA generativa de 14:00 a 16:00 en el horario general.
 
 **Alojamiento:** Programa diurno sin alojamiento.
 
-**Fechas / estado:** Temporada del 14 de diciembre de 2026 al 2 de enero de 2027. Días del curso concreto y número de clases sin publicar.
+**Fechas / estado:** Periodo general del programa 14.12.2026–02.01.2027. La organización confirma los días exactos y la sede del itinerario.
 
 **Precio / año:** 2026 · Precio sin publicar.
 
@@ -137202,15 +137204,15 @@ Hong Kong · G26B Monterey Place · 23 Tong Chun Street · Tseung Kwan O
 
 **Pago:** Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 
-**Matvey:** La edad de 9 años está dentro del rango. Confirmar plaza.
+**Matvey:** Encaja por edad. Confirmar idioma, sede y fecha de la actividad elegida.
 
-**Oscar:** Edad mínima superior a la actual. Confirmar edad el primer día del turno.
+**Oscar:** Podrá acceder cuando alcance la edad mínima del grupo mayor.
 
 **Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
 
 ### Antes de solicitar plaza
 
-- Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
+- Consultar plaza, días, sede e idioma del itinerario concreto. La ficha del turno no indica la sede.
 
 ### Senior
 
@@ -137222,7 +137224,9 @@ Hong Kong · G26B Monterey Place · 23 Tong Chun Street · Tseung Kwan O
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.encode-world.com/stem-christmas-camp-hk-2026-coding-ai-camps-encode-education) · 2026-11-07
+- [Página de la organización o reglamento de la categoría.](https://www.encode-world.com/stem-christmas-camp-hk-2026-coding-ai-camps-encode-education) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.encode-world.com/contact-us) · 2026-11-08
 
 ## CP1714 · AUC · RoboRush
 
@@ -159369,6 +159373,344 @@ Estados Unidos · Bell Museum · University of Minnesota · Saint Paul
 - [Página de la organización o reglamento de la categoría.](https://www.bellmuseum.umn.edu/winter-camps/) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://tickets.umn.edu/bell/online/article/BellYouthCamps) · 2026-11-08
+
+## CP1992 · Elevate Academy Fiji · Technology
+
+Fiyi · Waqadra · Nadi
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De 6 a 15 años. Confirmar grupo y nivel concretos.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** En Nadi se ofrece Scratch, micro:bit, LEGO SPIKE y creación de juegos. Confirmar por separado el contenido de vacaciones.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Clases regulares y lecciones en vacaciones para primaria. Aún no se publica un turno con fechas.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Incluido:** En Nadi se ofrece Scratch, micro:bit, LEGO SPIKE y creación de juegos. Confirmar por separado el contenido de vacaciones.
+
+**Suplementos:** Solicitar una clase de prueba o una lección en vacaciones. Confirmar idioma, precio y posibilidad de una sola clase.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Encaja por edad. Confirmar idioma, grupo y horario.
+
+**Oscar:** Encaja por edad. Confirmar idioma, grupo y horario.
+
+**Motivo de selección:** Clases regulares y lecciones en vacaciones para primaria. Aún no se publica un turno con fechas.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://elevateacademyfiji.com/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://elevateacademyfiji.com/about-elevate-academy-fiji/) · 2026-11-08
+
+## CP1993 · Explora · Micro:bit Robots Camp
+
+Estados Unidos · Explora Science Center · Albuquerque
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 3–5.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Montaje de un robot con materiales sencillos y micro:bit. Programación de movimiento, luces y sonido.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Una actividad de 09:00 a 16:00, hora de Albuquerque.
+
+**Precio / año:** 2026 · USD 95 por menor. USD 85 para miembros del museo.
+
+**Incluido:** Montaje de un robot con materiales sencillos y micro:bit. Programación de movimiento, luces y sonido.
+
+**Suplementos:** Cuidado antes o después de la sesión por USD 10 por periodo. Consultar comida y equipo.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Confirmar equivalencia del grado escolar y disponibilidad.
+
+**Oscar:** Primero cotejar el grado escolar de este programa.
+
+**Motivo de selección:** Una actividad de 09:00 a 16:00, hora de Albuquerque.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Micro:bit Robots Camp
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**Precio:** USD 95 por menor. USD 85 para miembros del museo.
+
+**condiciones de participación:** Inscripción individual en Explora. Confirmar grado escolar, idioma, plaza y comida.
+
+- 2026-12-22 · 09:00–16:00 · America/Denver · Montaje de un robot con materiales sencillos y micro:bit. Programación de movimiento, luces y sonido.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.explora.us/programs/camps/winter-break-camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.explora.us/programs/camps/winter-break-camps/) · 2026-11-08
+
+## CP1994 · Explora · Little Coders
+
+Estados Unidos · Explora Science Center · Albuquerque
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Pre-K y Kindergarten.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Actividades de iniciación a la programación sin ordenador, juegos y circuitos de obstáculos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Una actividad de 09:00 a 12:00, hora de Albuquerque.
+
+**Precio / año:** 2026 · USD 55 por menor. USD 45 para miembros del museo.
+
+**Incluido:** Actividades de iniciación a la programación sin ordenador, juegos y circuitos de obstáculos.
+
+**Suplementos:** Cuidado antes o después de la sesión por USD 10 por periodo. Consultar comida y equipo.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Primero cotejar el grado escolar de este programa.
+
+**Oscar:** Condicional. Confirmar equivalencia del grado escolar y disponibilidad.
+
+**Motivo de selección:** Una actividad de 09:00 a 12:00, hora de Albuquerque.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Little Coders
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**Precio:** USD 55 por menor. USD 45 para miembros del museo.
+
+**condiciones de participación:** Inscripción individual en Explora. Confirmar grado escolar, idioma, plaza y comida.
+
+- 2026-12-22 · 09:00–12:00 · America/Denver · Actividades de iniciación a la programación sin ordenador, juegos y circuitos de obstáculos.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.explora.us/programs/camps/winter-break-camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.explora.us/programs/camps/winter-break-camps/) · 2026-11-08
+
+## CP1995 · Explora · Spark Your Imagination
+
+Estados Unidos · Explora Science Center · Albuquerque
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Pre-K y Kindergarten.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Electricidad estática y circuitos sencillos. El menor monta un robot dibujante motorizado.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Una actividad de 09:00 a 12:00, hora de Albuquerque.
+
+**Precio / año:** 2026 · USD 55 por menor. USD 45 para miembros del museo.
+
+**Incluido:** Electricidad estática y circuitos sencillos. El menor monta un robot dibujante motorizado.
+
+**Suplementos:** Cuidado antes o después de la sesión por USD 10 por periodo. Consultar comida y equipo.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Primero cotejar el grado escolar de este programa.
+
+**Oscar:** Condicional. Confirmar equivalencia del grado escolar y disponibilidad.
+
+**Motivo de selección:** Una actividad de 09:00 a 12:00, hora de Albuquerque.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Spark Your Imagination
+
+**Fechas / estado:** 2026-12-29 — 2026-12-29
+
+**Precio:** USD 55 por menor. USD 45 para miembros del museo.
+
+**condiciones de participación:** Inscripción individual en Explora. Confirmar grado escolar, idioma, plaza y comida.
+
+- 2026-12-29 · 09:00–12:00 · America/Denver · Electricidad estática y circuitos sencillos. El menor monta un robot dibujante motorizado.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.explora.us/programs/camps/winter-break-camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.explora.us/programs/camps/winter-break-camps/) · 2026-11-08
+
+## CP1996 · Explora · Moving Forces
+
+Estados Unidos · Explora Science Center · Albuquerque
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Kindergarten y grados 1 a 2.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Experimentos con imanes y electricidad estática y montaje de un electroimán.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Una actividad de 09:00 a 16:00, hora de Albuquerque.
+
+**Precio / año:** 2026 · USD 95 por menor. USD 85 para miembros del museo.
+
+**Incluido:** Experimentos con imanes y electricidad estática y montaje de un electroimán.
+
+**Suplementos:** Cuidado antes o después de la sesión por USD 10 por periodo. Consultar comida y equipo.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Primero cotejar el grado escolar de este programa.
+
+**Oscar:** Condicional. Confirmar equivalencia del grado escolar y disponibilidad.
+
+**Motivo de selección:** Una actividad de 09:00 a 16:00, hora de Albuquerque.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Moving Forces
+
+**Fechas / estado:** 2026-12-21 — 2026-12-21
+
+**Precio:** USD 95 por menor. USD 85 para miembros del museo.
+
+**condiciones de participación:** Inscripción individual en Explora. Confirmar grado escolar, idioma, plaza y comida.
+
+- 2026-12-21 · 09:00–16:00 · America/Denver · Experimentos con imanes y electricidad estática y montaje de un electroimán.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.explora.us/programs/camps/winter-break-camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.explora.us/programs/camps/winter-break-camps/) · 2026-11-08
+
+## CP1997 · Codingal · Winter · Scratch Explorer
+
+Estados Unidos · En línea. Operador de Dover, DE.
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De 7 a 10 años en el itinerario elegido.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Fundamentos de Scratch, animación y creación de juegos.
+
+**Alojamiento:** En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.
+
+**Fechas / estado:** En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.
+
+**Precio / año:** 2026 · La página de EE. UU. indica USD 99 por curso con el código WINTER33. Confirmar el precio y la moneda al pagar desde Costa Rica o México.
+
+**Incluido:** En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.
+
+**Suplementos:** Enviar una solicitud individual. Clases 1:1 o en grupo según disponibilidad. Confirmar idioma, horario y acceso desde el país de residencia.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Encaja por edad. Acordar idioma, horario y acceso desde el país de residencia.
+
+**Oscar:** Desde los 7 años. El turno próximo exige cumplir esa edad.
+
+**Motivo de selección:** En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.codingal.com/en-us/kids-teens-coding-camps/winter/) · 2026-11-08
+
+## CP1998 · Codingal · Winter · Scratch Champion
+
+Estados Unidos · En línea. Operador de Dover, DE.
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De 7 a 10 años en el itinerario elegido.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Creación de juegos en Scratch y actividades de gráfica digital.
+
+**Alojamiento:** En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.
+
+**Fechas / estado:** En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.
+
+**Precio / año:** 2026 · La página de EE. UU. indica USD 99 por curso con el código WINTER33. Confirmar el precio y la moneda al pagar desde Costa Rica o México.
+
+**Incluido:** En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.
+
+**Suplementos:** Enviar una solicitud individual. Clases 1:1 o en grupo según disponibilidad. Confirmar idioma, horario y acceso desde el país de residencia.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Encaja por edad. Acordar idioma, horario y acceso desde el país de residencia.
+
+**Oscar:** Desde los 7 años. El turno próximo exige cumplir esa edad.
+
+**Motivo de selección:** En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.codingal.com/en-us/kids-teens-coding-camps/winter/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

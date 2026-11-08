@@ -11286,6 +11286,54 @@ Limitaciones: Formato y sede pendientes.
 Fuente: https://fundibots.org/training-2/
 Se ha comprobado: 2026-11-08
 
+### L782 · Elevate Academy Fiji · Scratch, micro:bit & LEGO SPIKE
+
+lugar: Fiyi · Waqadra · Nadi
+Fecha: No se ha fijado el período/plan de trabajo
+edad: De 6 a 15 años. Confirmar grupo y nivel concretos.
+Matvey: Condicional. Encaja por edad. Confirmar idioma, grupo y horario.
+Oscar: Condicional. Encaja por edad. Confirmar idioma, grupo y horario.
+Formato: regular
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Solicitar una clase de prueba o una lección en vacaciones. Confirmar idioma, precio y posibilidad de una sola clase.
+Limitaciones: Clases regulares y lecciones en vacaciones para primaria. Aún no se publica un turno con fechas.
+Fuente: https://elevateacademyfiji.com/
+Se ha comprobado: 2026-11-08
+
+### L783 · Codingal · Winter · Scratch Explorer
+
+Lugar: Estados Unidos · En línea. Operador de Dover, DE.
+Fecha: No se ha fijado el período/plan de trabajo
+edad: De 7 a 10 años en el itinerario elegido.
+Matvey: Condicional. Encaja por edad. Acordar idioma, horario y acceso desde el país de residencia.
+Oscar: No a la edad actual. Desde los 7 años. El turno próximo exige cumplir esa edad.
+Formato: online_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La página de EE. UU. indica USD 99 por curso con el código WINTER33. Confirmar el precio y la moneda al pagar desde Costa Rica o México.
+Acceso: Enviar una solicitud individual. Clases 1:1 o en grupo según disponibilidad. Confirmar idioma, horario y acceso desde el país de residencia.
+Limitaciones: En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.
+Fuente: https://www.codingal.com/en-us/kids-teens-coding-camps/winter/
+Se ha comprobado: 2026-11-08
+
+### L784 · Codingal · Winter · Scratch Champion
+
+Lugar: Estados Unidos · En línea. Operador de Dover, DE.
+Fecha: No se ha fijado el período/plan de trabajo
+edad: De 7 a 10 años en el itinerario elegido.
+Matvey: Condicional. Encaja por edad. Acordar idioma, horario y acceso desde el país de residencia.
+Oscar: No a la edad actual. Desde los 7 años. El turno próximo exige cumplir esa edad.
+Formato: online_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La página de EE. UU. indica USD 99 por curso con el código WINTER33. Confirmar el precio y la moneda al pagar desde Costa Rica o México.
+Acceso: Enviar una solicitud individual. Clases 1:1 o en grupo según disponibilidad. Confirmar idioma, horario y acceso desde el país de residencia.
+Limitaciones: En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y la zona horaria del grupo.
+Fuente: https://www.codingal.com/en-us/kids-teens-coding-camps/winter/
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -79732,6 +79780,70 @@ Precio: 2026/27 · USD 170 por menor por 2 días con inscripción general. USD 1
 Acceso: Solicitud en la taquilla del museo. Confirmar grado, edad, idioma del grupo y disponibilidad.
 Limitaciones: Matvey: Condicional. Puede encajar si corresponde al grado escolar indicado. Oscar: Confirmar primero el grado escolar real y el grupo adecuado. Suplementos: Confirmar materiales y comida del grupo. Consultar plazas en taquilla. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://www.bellmuseum.umn.edu/winter-camps/
+Se ha comprobado: 2026-11-08
+
+### CP1993-20261222-20261222-dec26 · Explora · Micro:bit Robots Camp · Micro:bit Robots Camp · 2026-12-22–2026-12-22
+
+lugar: Estados Unidos · Explora Science Center · Albuquerque
+Fecha: 2026-12-22 — 2026-12-22
+edad: Grados 3–5.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 95 por menor. USD 85 para miembros del museo. · suplementos y condiciones en el dossier
+Acceso: Inscripción individual en Explora. Confirmar grado escolar, idioma, plaza y comida.
+Limitaciones: Matvey: Condicional. Confirmar equivalencia del grado escolar y disponibilidad. Oscar: Primero cotejar el grado escolar de este programa. Suplementos: Cuidado antes o después de la sesión por USD 10 por periodo. Consultar comida y equipo. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.explora.us/programs/camps/winter-break-camps/
+Se ha comprobado: 2026-11-08
+
+### CP1994-20261222-20261222-dec26 · Explora · Little Coders · Little Coders · 2026-12-22–2026-12-22
+
+lugar: Estados Unidos · Explora Science Center · Albuquerque
+Fecha: 2026-12-22 — 2026-12-22
+edad: Pre-K y Kindergarten.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 55 por menor. USD 45 para miembros del museo. · suplementos y condiciones en el dossier
+Acceso: Inscripción individual en Explora. Confirmar grado escolar, idioma, plaza y comida.
+Limitaciones: Matvey: Primero cotejar el grado escolar de este programa. Oscar: Condicional. Confirmar equivalencia del grado escolar y disponibilidad. Suplementos: Cuidado antes o después de la sesión por USD 10 por periodo. Consultar comida y equipo. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.explora.us/programs/camps/winter-break-camps/
+Se ha comprobado: 2026-11-08
+
+### CP1995-20261229-20261229-dec26 · Explora · Spark Your Imagination · Spark Your Imagination · 2026-12-29–2026-12-29
+
+lugar: Estados Unidos · Explora Science Center · Albuquerque
+Fecha: 2026-12-29 — 2026-12-29
+edad: Pre-K y Kindergarten.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 55 por menor. USD 45 para miembros del museo. · suplementos y condiciones en el dossier
+Acceso: Inscripción individual en Explora. Confirmar grado escolar, idioma, plaza y comida.
+Limitaciones: Matvey: Primero cotejar el grado escolar de este programa. Oscar: Condicional. Confirmar equivalencia del grado escolar y disponibilidad. Suplementos: Cuidado antes o después de la sesión por USD 10 por periodo. Consultar comida y equipo. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.explora.us/programs/camps/winter-break-camps/
+Se ha comprobado: 2026-11-08
+
+### CP1996-20261221-20261221-dec26 · Explora · Moving Forces · Moving Forces · 2026-12-21–2026-12-21
+
+lugar: Estados Unidos · Explora Science Center · Albuquerque
+Fecha: 2026-12-21 — 2026-12-21
+edad: Kindergarten y grados 1 a 2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 95 por menor. USD 85 para miembros del museo. · suplementos y condiciones en el dossier
+Acceso: Inscripción individual en Explora. Confirmar grado escolar, idioma, plaza y comida.
+Limitaciones: Matvey: Primero cotejar el grado escolar de este programa. Oscar: Condicional. Confirmar equivalencia del grado escolar y disponibilidad. Suplementos: Cuidado antes o después de la sesión por USD 10 por periodo. Consultar comida y equipo. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.explora.us/programs/camps/winter-break-camps/
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

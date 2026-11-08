@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10305,
-    "competition_cards": 4653,
-    "event_cards": 593,
-    "camp_cards": 5059,
+    "cards": 10314,
+    "competition_cards": 4654,
+    "event_cards": 594,
+    "camp_cards": 5066,
     "league_profiles": 301,
-    "major_exhibition_cards": 497,
+    "major_exhibition_cards": 498,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3359,
+      "total": 3365,
       "countries_with_records": 40,
       "competitions": 1921,
       "events": 159,
       "major_exhibitions": 122,
-      "camps": 1279,
+      "camps": 1285,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -104,12 +104,12 @@
       "regions": [
         "Океания"
       ],
-      "total": 528,
+      "total": 531,
       "countries_with_records": 25,
-      "competitions": 163,
-      "events": 33,
-      "major_exhibitions": 29,
-      "camps": 332,
+      "competitions": 164,
+      "events": 34,
+      "major_exhibitions": 30,
+      "camps": 333,
       "status": "Частично исследовано",
       "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
     }
@@ -14193,6 +14193,17 @@
       "new": false
     },
     {
+      "id": "E594",
+      "name": "Fiji Tech Summit 2026 · Exhibitions & Business Forum",
+      "country": "Фиджи",
+      "region": "Океания",
+      "start": "2026-11-12",
+      "end": "2026-11-13",
+      "visitor_policy": "confirm_children",
+      "source": "https://fijitechsummit.com/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -16610,9 +16621,9 @@
       }
     ],
     "counts": {
-      "records": 5059,
-      "holiday": 4689,
-      "regular": 162,
+      "records": 5066,
+      "holiday": 4695,
+      "regular": 163,
       "self_paced_materials": 4,
       "boarding": 1038,
       "en_es_instruction": 1593,

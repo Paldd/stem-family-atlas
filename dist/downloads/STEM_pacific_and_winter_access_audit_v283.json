@@ -1,0 +1,147 @@
+{
+  "version": 283,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C4655",
+    "E594",
+    "L782",
+    "L783",
+    "L784"
+  ],
+  "new_dossiers": [
+    "CP1992",
+    "CP1993",
+    "CP1994",
+    "CP1995",
+    "CP1996",
+    "CP1997",
+    "CP1998"
+  ],
+  "new_dated_variants": 4,
+  "refreshed_event_ids": [
+    "C905",
+    "E351"
+  ],
+  "legacy_overlay_event_ids": [
+    "C905",
+    "E351"
+  ],
+  "source_requests": 12,
+  "tahiti": "C4655",
+  "fiji_tech": "E594",
+  "elevate": "L782",
+  "elevate_profile": "CP1992",
+  "guam": "E351",
+  "rechecked_encode_dossiers": [
+    "CP1712",
+    "CP1713"
+  ],
+  "explora_dossiers": [
+    "CP1993",
+    "CP1994",
+    "CP1995",
+    "CP1996"
+  ],
+  "codingal_rows": [
+    "L783",
+    "L784"
+  ],
+  "codingal_dossiers": [
+    "CP1997",
+    "CP1998"
+  ],
+  "fod": {
+    "source": "https://survey.zohopublic.com/zs/SjzWbS",
+    "rechecked_dossiers": [
+      "CP1124",
+      "CP1125",
+      "CP1126",
+      "CP1127",
+      "CP1128",
+      "CP1129",
+      "CP1130",
+      "CP1131",
+      "CP1132",
+      "CP1133",
+      "CP1134",
+      "CP1135"
+    ],
+    "rechecked_shifts": 17,
+    "pairs": [
+      {
+        "start": "2026-12-07",
+        "end": "2026-12-11",
+        "programme_ids": [
+          "CP1124",
+          "CP1127"
+        ],
+        "timezone": "America/Costa_Rica",
+        "hours": [
+          "08:00",
+          "12:00"
+        ],
+        "tuition_per_child": 60000,
+        "tuition_for_two": 120000,
+        "currency": "CRC",
+        "admission": "separate confirmation for each child"
+      },
+      {
+        "start": "2027-01-11",
+        "end": "2027-01-15",
+        "programme_ids": [
+          "CP1124",
+          "CP1127"
+        ],
+        "timezone": "America/Costa_Rica",
+        "hours": [
+          "08:00",
+          "12:00"
+        ],
+        "tuition_per_child": 60000,
+        "tuition_for_two": 120000,
+        "currency": "CRC",
+        "admission": "separate confirmation for each child"
+      }
+    ]
+  },
+  "source_limits": [
+    {
+      "event_id": "E594",
+      "status": "delegate_price_currency_unconfirmed_child_admission_unknown",
+      "display": "1,450",
+      "ignored_stale_2023_package_markup": true,
+      "checkout_readback": "login gate"
+    },
+    {
+      "programmes": [
+        "CP1712",
+        "CP1713"
+      ],
+      "status": "published_camp_window_exact_track_days_campus_price_and_instruction_language_unknown"
+    },
+    {
+      "programmes": [
+        "CP1997",
+        "CP1998"
+      ],
+      "status": "course_content_and_us_page_price_published_exact_days_and_local_price_unknown"
+    },
+    {
+      "provider": "LearnXCode",
+      "status": "not_added_operator_location_and_billing_currency_unverified",
+      "source": "https://www.learnxcode.com/winter-camp"
+    },
+    {
+      "provider": "CNMI PSS · VEX clinic",
+      "status": "historical_press_lead_no_current_primary_calendar",
+      "source": "https://marianaspress.com/news/article/pss-hosts-vex-robotics-clinic"
+    },
+    {
+      "provider": "La French Tech Polynésie · SPID",
+      "status": "current_press_date_pending_primary_access_readback",
+      "source": "https://www.tntvnews.pf/polynesie/high-tech/south-pacific-innovation-days-les-start-ups-doutre-mer-ont-rendez-vous-a-tahiti-en-decembre/"
+    }
+  ]
+}

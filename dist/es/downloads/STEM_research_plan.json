@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 282,
+    "version": 283,
     "status": "implementation_snapshot",
-    "events": 10305,
-    "competitions": 4653,
+    "events": 10314,
+    "competitions": 4654,
     "league_profiles": 299,
-    "camp_dossiers": 1991,
+    "camp_dossiers": 1998,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 593,
+    "exhibitions_events": 594,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 281,
+    "version": 282,
     "status": "implementation_snapshot",
-    "events": 10280,
-    "competitions": 4650,
+    "events": 10305,
+    "competitions": 4653,
     "league_profiles": 299,
-    "camp_dossiers": 1987,
+    "camp_dossiers": 1991,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 575,
+    "exhibitions_events": 593,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 282,
+    "prepared_ui_version": 283,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 281,
-    "previous_verified_commit": "49ce57faca0cdaa053f09c4e7746d1d509850831"
+    "previous_verified_ui_version": 282,
+    "previous_verified_commit": "56269e420984bde718a31251058841ccb2d3bf14"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 281,
-    "published_version": 281,
-    "latest_source_commit": "49ce57faca0cdaa053f09c4e7746d1d509850831",
-    "published_commit": "49ce57faca0cdaa053f09c4e7746d1d509850831",
-    "latest_workflow": 42484903258,
+    "latest_source_version": 282,
+    "published_version": 282,
+    "latest_source_commit": "56269e420984bde718a31251058841ccb2d3bf14",
+    "published_commit": "56269e420984bde718a31251058841ccb2d3bf14",
+    "latest_workflow": 42486697679,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -28135,5 +28135,154 @@
     ],
     "audit": "data/space-and-drone-opportunities-audit-v282.json",
     "source_receipts": "data/space-and-drone-opportunities-source-receipts-v282.json"
+  },
+  "pacific_and_winter_access_v283": {
+    "version": 283,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4655",
+      "E594",
+      "L782",
+      "L783",
+      "L784"
+    ],
+    "new_dossiers": [
+      "CP1992",
+      "CP1993",
+      "CP1994",
+      "CP1995",
+      "CP1996",
+      "CP1997",
+      "CP1998"
+    ],
+    "new_dated_variants": 4,
+    "refreshed_event_ids": [
+      "C905",
+      "E351"
+    ],
+    "legacy_overlay_event_ids": [
+      "C905",
+      "E351"
+    ],
+    "source_requests": 12,
+    "tahiti": "C4655",
+    "fiji_tech": "E594",
+    "elevate": "L782",
+    "elevate_profile": "CP1992",
+    "guam": "E351",
+    "rechecked_encode_dossiers": [
+      "CP1712",
+      "CP1713"
+    ],
+    "explora_dossiers": [
+      "CP1993",
+      "CP1994",
+      "CP1995",
+      "CP1996"
+    ],
+    "codingal_rows": [
+      "L783",
+      "L784"
+    ],
+    "codingal_dossiers": [
+      "CP1997",
+      "CP1998"
+    ],
+    "fod": {
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "rechecked_dossiers": [
+        "CP1124",
+        "CP1125",
+        "CP1126",
+        "CP1127",
+        "CP1128",
+        "CP1129",
+        "CP1130",
+        "CP1131",
+        "CP1132",
+        "CP1133",
+        "CP1134",
+        "CP1135"
+      ],
+      "rechecked_shifts": 17,
+      "pairs": [
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-11",
+          "programme_ids": [
+            "CP1124",
+            "CP1127"
+          ],
+          "timezone": "America/Costa_Rica",
+          "hours": [
+            "08:00",
+            "12:00"
+          ],
+          "tuition_per_child": 60000,
+          "tuition_for_two": 120000,
+          "currency": "CRC",
+          "admission": "separate confirmation for each child"
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "programme_ids": [
+            "CP1124",
+            "CP1127"
+          ],
+          "timezone": "America/Costa_Rica",
+          "hours": [
+            "08:00",
+            "12:00"
+          ],
+          "tuition_per_child": 60000,
+          "tuition_for_two": 120000,
+          "currency": "CRC",
+          "admission": "separate confirmation for each child"
+        }
+      ]
+    },
+    "source_limits": [
+      {
+        "event_id": "E594",
+        "status": "delegate_price_currency_unconfirmed_child_admission_unknown",
+        "display": "1,450",
+        "ignored_stale_2023_package_markup": true,
+        "checkout_readback": "login gate"
+      },
+      {
+        "programmes": [
+          "CP1712",
+          "CP1713"
+        ],
+        "status": "published_camp_window_exact_track_days_campus_price_and_instruction_language_unknown"
+      },
+      {
+        "programmes": [
+          "CP1997",
+          "CP1998"
+        ],
+        "status": "course_content_and_us_page_price_published_exact_days_and_local_price_unknown"
+      },
+      {
+        "provider": "LearnXCode",
+        "status": "not_added_operator_location_and_billing_currency_unverified",
+        "source": "https://www.learnxcode.com/winter-camp"
+      },
+      {
+        "provider": "CNMI PSS · VEX clinic",
+        "status": "historical_press_lead_no_current_primary_calendar",
+        "source": "https://marianaspress.com/news/article/pss-hosts-vex-robotics-clinic"
+      },
+      {
+        "provider": "La French Tech Polynésie · SPID",
+        "status": "current_press_date_pending_primary_access_readback",
+        "source": "https://www.tntvnews.pf/polynesie/high-tech/south-pacific-innovation-days-les-start-ups-doutre-mer-ont-rendez-vous-a-tahiti-en-decembre/"
+      }
+    ],
+    "audit": "data/pacific-and-winter-access-audit-v283.json",
+    "source_receipts": "data/pacific-and-winter-access-source-receipts-v283.json"
   }
 }
