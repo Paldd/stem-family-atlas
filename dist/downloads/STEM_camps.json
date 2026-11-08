@@ -580,9 +580,9 @@
       }
     ],
     "counts": {
-      "records": 5022,
-      "holiday": 4672,
-      "regular": 158,
+      "records": 5025,
+      "holiday": 4673,
+      "regular": 160,
       "self_paced_materials": 4,
       "boarding": 1037,
       "en_es_instruction": 1591,
@@ -39919,6 +39919,130 @@
       ],
       "date_precision": "announced_window",
       "date_rule": "Период программы по основным страницам. Начало расходится с FAQ."
+    },
+    {
+      "id": "L777",
+      "title": "FIRST LEGO League Brasil · Future Edition · K–2",
+      "block": "Лагеря",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Бразилия · школьная программа",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "checked": "2026-11-08",
+      "source": "https://educacional.com.br/noticia/first-lego-league-2026-2027/",
+      "references": [
+        {
+          "url": "https://www.firstinspires.org/programs/fll/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.firstinspires.org/programs/k-8",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Классы K–2, ориентир 5–7 лет по странице партнёра.",
+      "mat": "Условно. Сверить возраст, класс и порядок допуска.",
+      "osc": "Условно. Подходит по ориентиру 5–7 лет. Подтвердить класс.",
+      "format": "",
+      "entry": "Выбрать маршрут через школу или партнёра программы в Бразилии. Состав команды, тариф и иностранный допуск подтвердить.",
+      "gear": "LEGO Education Computer Science & AI",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Пилотный показ прошёл в Рио 17 октября 2026. Даты нового набора и площадки для этой группы ожидаются. Условия на будущие сезоны сверять с последним объявлением FIRST.",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Техническая учебная программа",
+      "participation": "regular",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "event_group": "FIRST LEGO League Brasil · BIOGLOW",
+      "related_ids": [
+        "C4637",
+        "L778"
+      ]
+    },
+    {
+      "id": "L778",
+      "title": "FIRST LEGO League Brasil · Future Edition · 3–5",
+      "block": "Лагеря",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Бразилия · школьная программа",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "checked": "2026-11-08",
+      "source": "https://educacional.com.br/noticia/first-lego-league-2026-2027/",
+      "references": [
+        {
+          "url": "https://www.firstinspires.org/programs/fll/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.firstinspires.org/programs/k-8",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Классы 3–5, ориентир 8–10 лет по странице партнёра.",
+      "mat": "Условно. Подходит по ориентиру 8–10 лет. Подтвердить класс.",
+      "osc": "Условно. Сверить возраст, класс и порядок допуска.",
+      "format": "",
+      "entry": "Выбрать маршрут через школу или партнёра программы в Бразилии. Состав команды, тариф и иностранный допуск подтвердить.",
+      "gear": "LEGO Education Computer Science & AI",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Пилотный показ прошёл в Рио 17 октября 2026. Даты нового набора и площадки для этой группы ожидаются. Условия на будущие сезоны сверять с последним объявлением FIRST.",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Техническая учебная программа",
+      "participation": "regular",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "event_group": "FIRST LEGO League Brasil · BIOGLOW",
+      "related_ids": [
+        "C4637",
+        "L777"
+      ]
     },
     {
       "id": "CP001-20270606-20270619",
@@ -404062,6 +404186,70 @@
           "ical_timed": true
         }
       ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
+      "id": "CP1972-20270104-20270104-start",
+      "block": "Лагеря",
+      "title": "Chio Lecca · Creación de Personajes y Mundos Kids · Опубликованный старт группы Kids. · 2027-01-04–2027-01-04",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "city": "Лима · Chio Lecca",
+      "start": "2027-01-04",
+      "end": "2027-01-04",
+      "period": "Старт 4 января 2027. 8 недель по понедельникам и средам, 08:30–12:35. Даты возможных исключений уточняются.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–10 лет.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Дневной формат без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "От рисунка и сюжета к цифровому персонажу и напечатанной 3D-фигуре. ИИ используется под руководством преподавателя.",
+      "language": "Описание программы на испанском. Язык преподавателя и поддержка другого языка уточняются.",
+      "cost": "2027 · PEN 895 за программу. Учебные материалы включены. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://www.chio-lecca.edu.pe/collections/creacion-de-personajes-y-mundos-kids-teens",
+      "references": [
+        {
+          "url": "https://www.chio-lecca.edu.pe/collections/creacion-de-personajes-y-mundos-kids-teens",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.chio-lecca.edu.pe/products/creacion-de-personajes-y-mundos-kids",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Допуск и место подтвердить отдельно. Оскар: Да по возрасту. Допуск и место подтвердить отдельно. Доплаты: Полная стоимость и наличие мест ещё не подтверждены. Оплата: Условия возврата и итоговый счёт уточнить до оплаты.",
+      "iso": [
+        "PER"
+      ],
+      "themes": [
+        "ai",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание программы на испанском. Язык преподавателя и поддержка другого языка уточняются.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "activity_start",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "chio-lecca-personajes-mundos-kids",
+      "camp_programme_id": "CP1972",
       "availability": {
         "status": "unconfirmed",
         "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."

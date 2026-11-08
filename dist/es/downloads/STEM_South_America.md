@@ -5820,6 +5820,97 @@ Limitaciones: El inicio y la sede dependen del grupo y la sucursal. Se deben con
 Fuente: https://pcmiraflores.com/taller/robotica-arduino
 Se ha comprobado: 2026-11-08
 
+### C4636 · FIRE Colombia 2027 · Campeonato Nacional · Exploradores
+
+Fecha: Febrero de 2027. Día y campus concreto aún pendientes.
+edad: Exploradores de 7–9 años según el esquema general de FIRE. Fecha de corte y composición del equipo en Colombia pendientes.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Vía mediante una institución y la convocatoria publicada. Aún no se confirma la admisión de equipos independientes o extranjeros.
+Precio: La referencia general F4 es USD 80 por equipo. Membresía institucional, viaje, alimentación y alojamiento se pagan aparte según la etapa.
+Limitaciones: La organización confirmó el mes y la universidad anfitriona. Bases, lista de pruebas y avance a la etapa internacional pendientes.
+Fuente: https://federacionfire.org/
+Se ha comprobado: 2026-11-08
+
+### C4637 · FIRST LEGO League Brasil · Explore Founders · apertura de inscripciones
+
+Fecha: Se anuncia la apertura en febrero de 2027. Día, precio y fechas de los festivales pendientes.
+edad: Aproximadamente 6–10 años y grados 2–4 según la página brasileña. Admisión según las bases locales.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Elegir la vía mediante colegio o socio del programa en Brasil. Confirmar composición del equipo, tarifa y admisión extranjera.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Explore es una muestra de proyectos de ingeniería e iniciación a la robótica. La clasificación al campeonato se rige por las bases separadas de Challenge.
+Fuente: https://educacional.com.br/noticia/first-lego-league-2026-2027/
+Se ha comprobado: 2026-11-08
+
+### L777 · FIRST LEGO League Brasil · Future Edition · K–2
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Grados K–2, referencia de 5–7 años según la página del socio.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Encaja en la referencia de 5–7 años. Confirmar el grado.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Elegir la vía mediante colegio o socio del programa en Brasil. Confirmar composición del equipo, tarifa y admisión extranjera.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: La muestra piloto se realizó en Río el 17 de octubre de 2026. Fechas de nueva convocatoria y sedes de este grupo pendientes. Cotejar los requisitos de temporadas futuras con el último anuncio de FIRST.
+Fuente: https://educacional.com.br/noticia/first-lego-league-2026-2027/
+Se ha comprobado: 2026-11-08
+
+### L778 · FIRST LEGO League Brasil · Future Edition · 3–5
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Grados 3–5, referencia de 8–10 años según la página del socio.
+Matvey: Condicional. Encaja en la referencia de 8–10 años. Confirmar el grado.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Elegir la vía mediante colegio o socio del programa en Brasil. Confirmar composición del equipo, tarifa y admisión extranjera.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: La muestra piloto se realizó en Río el 17 de octubre de 2026. Fechas de nueva convocatoria y sedes de este grupo pendientes. Cotejar los requisitos de temporadas futuras con el último anuncio de FIRST.
+Fuente: https://educacional.com.br/noticia/first-lego-league-2026-2027/
+Se ha comprobado: 2026-11-08
+
+### E563 · Futuristas 2026 · Chile es tu futuro
+
+Fecha: 2026-11-12 — 2026-11-12
+edad: Programa infantil y familiar. Requisitos de edad de estaciones concretas pendientes.
+Matvey: Sí, programa pensado para familias. Confirmar la plaza.
+Oscar: Sí, programa pensado para familias. Confirmar la plaza.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Entrada gratuita con inscripción previa. Confirmar plazas y restricciones de las estaciones concretas.
+Precio: Entrada gratuita.
+Limitaciones: Los participantes reciben un pasaporte de explorador. Hay constelaciones, surf mecánico, mapa interactivo y retos polares.
+Fuente: https://www.congresofuturo.cl/informate/futuristas-2026-una-aventura-gratuita-para-recorrer-chile-a-traves-de-la-ciencia-el-juego-y-la-tecnologia
+Se ha comprobado: 2026-11-08
+
+### E564 · Congreso Futuro 2027 · El Desafío de Ser Humanos
+
+Fecha: 2027-01-11 — 2027-01-16
+edad: Condicional. Cotejar edad, grado y requisitos de acceso.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Se anuncia un programa público gratuito. Requisitos de edad y acceso por sala aún pendientes.
+Precio: El programa anunciado es gratuito.
+Limitaciones: La organización anuncia una muestra de obras Chile Re-descubre en la apertura. Ese concurso admite obras de adultos desde 18 años según sus propias bases.
+Fuente: https://www.congresofuturo.cl/informate/congreso-futuro-anuncia-nueva-version-en-estacion-mapocho-enfocada-en-el-desafio-de-ser-humanos
+Se ha comprobado: 2026-11-08
+
+### E565 · Hot Wheels City Experience · Zona Gamer
+
+Fecha: 2026-12-03 — 2027-01-04
+edad: Exposición para todas las edades. Las atracciones tienen condiciones propias.
+Matvey: Sí, programa pensado para familias. Confirmar la plaza.
+Oscar: Sí, programa pensado para familias. Confirmar la plaza.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Entrada familiar con billete para el turno elegido. Desde 2 años se requiere entrada. Consultar aparte acceso y tarifa de karting.
+Precio: El precio general depende del turno elegido. Hay un paquete de 4 entradas. El karting se paga aparte.
+Limitaciones: Habitualmente 10:00–20:00. El 3 de diciembre desde las 12:00. El 24 y 31 de diciembre hasta las 13:00. Cerrado el 25 de diciembre y el 1 de enero.
+Fuente: https://larural.com.ar/evento/hot-wheels-city-experience/
+Se ha comprobado: 2026-11-08
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08
@@ -8120,6 +8211,19 @@ Precio: 2026/27 · COP 260000 por menor para público general. COP 210000 para c
 Limitaciones: Matvey: La página de la universidad indica plazas agotadas. Consultar la próxima edición. Oscar: La página de la universidad indica plazas agotadas. Consultar la próxima edición. Suplementos: La alimentación no está incluida. Pago: La página de la universidad indica plazas agotadas. Consultar la próxima edición.
 Fuente: https://centrodeeducacioncontinua.medellin.unal.edu.co/vacacional-ninos-y-ninas-cientificos-unal
 Se ha comprobado: 2026-11-07
+
+### CP1972-20270104-20270104-start · Chio Lecca · Creación de Personajes y Mundos Kids · Inicio publicado del grupo Kids. · 2027-01-04–2027-01-04
+
+Fecha: 2027-01-04 — 2027-01-04
+Edad: 6 a 10 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: La descripción está en español. Idioma docente y apoyo en otro idioma pendientes.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · PEN 895 por el programa. Materiales didácticos incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.chio-lecca.edu.pe/collections/creacion-de-personajes-y-mundos-kids-teens
+Se ha comprobado: 2026-11-08
 
 ### E298 · Brasil Game Show 2027 · public exhibition
 

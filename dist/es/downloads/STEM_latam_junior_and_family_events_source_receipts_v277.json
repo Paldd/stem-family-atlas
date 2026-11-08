@@ -1,0 +1,144 @@
+{
+  "captures": [
+    {
+      "key": "fire",
+      "url": "https://federacionfire.org/",
+      "final_url": "https://federacionfire.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 264940,
+      "sha256": "e3bfcaa8ca4cd8cb6f66cfa35fab3448884b5c2ead08b1b0e1f377e80b91eaf4",
+      "file": "fire.html"
+    },
+    {
+      "key": "fire-venues",
+      "url": "https://federacionfire.org/nuestras-sedes/",
+      "final_url": "https://federacionfire.org/nuestras-sedes/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 87356,
+      "sha256": "4053096f4fe487d88c6a12562ae933ca710987502b425f3107e5579b6faa3505",
+      "file": "fire-venues.html"
+    },
+    {
+      "key": "edu-bio",
+      "url": "https://educacional.com.br/noticia/first-lego-league-2026-2027/",
+      "final_url": "https://educacional.com.br/noticia/first-lego-league-2026-2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 486432,
+      "sha256": "1191a790d3e1cf62cebc50bea394208fcde71b4b5e8e969a77b5510da803954c",
+      "file": "edu-bio.html"
+    },
+    {
+      "key": "first-fll",
+      "url": "https://www.firstinspires.org/programs/fll/",
+      "final_url": "https://www.firstinspires.org/programs/fll/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 197790,
+      "sha256": "936f89985275c736610cd60963f0c0aca6be618cb5215c72d9ffd107912cb5a0",
+      "file": "first-fll.html"
+    },
+    {
+      "key": "first-next",
+      "url": "https://www.firstinspires.org/programs/k-8",
+      "final_url": "https://www.firstinspires.org/programs/k-8",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 140275,
+      "sha256": "2dd1b0f406bb86ba02599711a76d75a2d42b87e5d6eb662d325c1de9b0ed5d1b",
+      "file": "first-next.html"
+    },
+    {
+      "key": "cf-tickets",
+      "url": "https://congresofuturo.typeform.com/Futuristas",
+      "final_url": "https://congresofuturo.typeform.com/Futuristas",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 227277,
+      "sha256": "20cbc3cbd7c597d5042134ebe967b31f3aed2a06feb917ff17c49e4a306bb8e2",
+      "file": "cf-tickets.html"
+    },
+    {
+      "key": "cf-futuristas",
+      "url": "https://www.congresofuturo.cl/informate/futuristas-2026-una-aventura-gratuita-para-recorrer-chile-a-traves-de-la-ciencia-el-juego-y-la-tecnologia",
+      "final_url": "https://www.congresofuturo.cl/informate/futuristas-2026-una-aventura-gratuita-para-recorrer-chile-a-traves-de-la-ciencia-el-juego-y-la-tecnologia",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 23306,
+      "sha256": "0b4f976edaa6c02d085aaa90f7fe73585a8e172269addffcd4c7eaf88db2b5c1",
+      "file": "cf-futuristas.html"
+    },
+    {
+      "key": "cf-2027",
+      "url": "https://www.congresofuturo.cl/informate/congreso-futuro-anuncia-nueva-version-en-estacion-mapocho-enfocada-en-el-desafio-de-ser-humanos",
+      "final_url": "https://www.congresofuturo.cl/informate/congreso-futuro-anuncia-nueva-version-en-estacion-mapocho-enfocada-en-el-desafio-de-ser-humanos",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 25642,
+      "sha256": "bc1650dd36e182d0a9167724fae49e6db42d1ef7175b684619bffaed71e4aa03",
+      "file": "cf-2027.html"
+    },
+    {
+      "key": "cf-contest",
+      "url": "https://www.congresofuturo.cl/concurso",
+      "final_url": "https://www.congresofuturo.cl/concurso",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 23777,
+      "sha256": "ca8447db2e77c013e7a180056b31d64f6e6e33553c9d1126f5a19baed5cb7eff",
+      "file": "cf-contest.html"
+    },
+    {
+      "key": "cf-rules",
+      "url": "https://www.congresofuturo.cl/concurso/bases-concurso-chile-re-descubre-rev-20oct.pdf",
+      "final_url": "https://www.congresofuturo.cl/concurso/bases-concurso-chile-re-descubre-rev-20oct.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 162681,
+      "sha256": "e67f64d58710c7be4f2842d0d5c0b455144323ef1edda93ac85a1429909d2ee7",
+      "file": "cf-rules.pdf"
+    },
+    {
+      "key": "hw-tickets",
+      "url": "https://www.laruralticket.com.ar/event/hotwheels",
+      "final_url": "https://www.laruralticket.com.ar/event/hotwheels",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 82636,
+      "sha256": "05b00afcf0a7c5bf42b9d298c26971eb60e91df8b50694564c9040e87f006b46",
+      "file": "hw-tickets.html"
+    },
+    {
+      "key": "larural",
+      "url": "https://larural.com.ar/evento/hot-wheels-city-experience/",
+      "final_url": "https://larural.com.ar/evento/hot-wheels-city-experience/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 221389,
+      "sha256": "98c07b948e63f0b75acd6309fcdf5e5c6d52ecf703d9d4616831c75d7e0b1a09",
+      "file": "larural.html"
+    },
+    {
+      "key": "befun",
+      "url": "https://www.befunglobal.com/portafolio/hot-wheels-city-experience/",
+      "final_url": "https://www.befunglobal.com/portafolio/hot-wheels-city-experience/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 93132,
+      "sha256": "4e6508dc29ca055ab0f700090c7bc61f77c4ca9042442e5843b5bce5ee4fab55",
+      "file": "befun.html"
+    },
+    {
+      "key": "chio-collection",
+      "url": "https://www.chio-lecca.edu.pe/collections/creacion-de-personajes-y-mundos-kids-teens",
+      "final_url": "https://www.chio-lecca.edu.pe/collections/creacion-de-personajes-y-mundos-kids-teens",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1580909,
+      "sha256": "18a13c3bd8e29d18204d55ea7f3f7efdd1ceeafd25d43c62cb6b64fecbfc5d5f",
+      "file": "chio-collection.html"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10218; соревнований: 4634; событий: 562; лагерей / программ: 5022. Профилей лиг и программ: 299. Карточек крупных и профильных выставок: 466 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10226; соревнований: 4636; событий: 565; лагерей / программ: 5025. Профилей лиг и программ: 299. Карточек крупных и профильных выставок: 469 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 231 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -15,7 +15,7 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
 | Северная Америка | 40 | 1914 | 108 | 1266 |
-| Южная Америка | 14 | 428 | 37 | 204 |
+| Южная Америка | 14 | 430 | 40 | 207 |
 | Европа | 54 | 599 | 122 | 1455 |
 | Африка | 53 | 235 | 28 | 92 |
 | Азия | 49 | 1155 | 140 | 1658 |
@@ -23,7 +23,7 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 162. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 814 из 4634 карточек соревнований (17.6%). Это явный перекос охвата.
+VEX: 814 из 4636 карточек соревнований (17.6%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -238,7 +238,7 @@ VEX: 814 из 4634 карточек соревнований (17.6%). Это я�
 - **Infomatrix · SOLACYT · proyectos**: 40 карточек, 21 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://drive.google.com/file/d/1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27/view
 - **Robomatrix · Junior / Master**: 17 карточек, 5 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://drive.google.com/file/d/10BTty6JLpHxooXhXKXwx7OQOeY6KulVI/view
 - **FIRST LEGO League Costa Rica · BIOGLOW Founders**: 3 карточек, 3 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/
-- **FIRE · новая институциональная сеть**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://federacionfire.org/
+- **FIRE · новая институциональная сеть**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://federacionfire.org/
 - **RoboCupJunior Américas · Primary / SuperRegional**: 4 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://robocupamericas.org/es/
 - **Eduvisión Robotics Challenge Panamá**: 7 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.eduvisionpnm.com/challenge/
 - **FIRST Central Asia · Kazakhstan / Kyrgyzstan / Uzbekistan**: 111 карточек, 94 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://firstrobotics.kz/
@@ -833,6 +833,9 @@ VEX: 814 из 4634 карточек соревнований (17.6%). Это я�
 - **RoboNexus Expo 2027** — Саудовская Аравия; 2027-03-20 – 2027-03-22. Детский допуск уточнить. https://www.robonexus.org/attend
 - **Maker Faire Tokyo 2027** — Япония; 2027-09-25 – 2027-09-26. Детский допуск уточнить. https://makezine.jp/event/mft2026/
 - **Maker Faire Paris 2027** — Франция; дата неизвестна. Детский допуск уточнить. https://makerfaire.com/globalfaires/
+- **Futuristas 2026 · Chile es tu futuro** — Чили; 2026-11-12. Со взрослым; условия взрослого входа отдельно. https://www.congresofuturo.cl/informate/futuristas-2026-una-aventura-gratuita-para-recorrer-chile-a-traves-de-la-ciencia-el-juego-y-la-tecnologia
+- **Congreso Futuro 2027 · El Desafío de Ser Humanos** — Чили; 2027-01-11 – 2027-01-16. Детский допуск уточнить. https://www.congresofuturo.cl/informate/congreso-futuro-anuncia-nueva-version-en-estacion-mapocho-enfocada-en-el-desafio-de-ser-humanos
+- **Hot Wheels City Experience · Zona Gamer** — Аргентина; 2026-12-03 – 2027-01-04. Со взрослым; условия взрослого входа отдельно. https://larural.com.ar/evento/hot-wheels-city-experience/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

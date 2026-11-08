@@ -11206,6 +11206,38 @@ Limitaciones: Las páginas principales en ambos idiomas indican del 25 al 31 de 
 Fuente: https://www.crayola.com/learning/creativity-week
 Se ha comprobado: 2026-11-08
 
+### L777 · FIRST LEGO League Brasil · Future Edition · K–2
+
+lugar: Brasil · Brasil · programa escolar
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Grados K–2, referencia de 5–7 años según la página del socio.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Encaja en la referencia de 5–7 años. Confirmar el grado.
+Formato: regular
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Elegir la vía mediante colegio o socio del programa en Brasil. Confirmar composición del equipo, tarifa y admisión extranjera.
+Limitaciones: La muestra piloto se realizó en Río el 17 de octubre de 2026. Fechas de nueva convocatoria y sedes de este grupo pendientes. Cotejar los requisitos de temporadas futuras con el último anuncio de FIRST.
+Fuente: https://educacional.com.br/noticia/first-lego-league-2026-2027/
+Se ha comprobado: 2026-11-08
+
+### L778 · FIRST LEGO League Brasil · Future Edition · 3–5
+
+lugar: Brasil · Brasil · programa escolar
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Grados 3–5, referencia de 8–10 años según la página del socio.
+Matvey: Condicional. Encaja en la referencia de 8–10 años. Confirmar el grado.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+Formato: regular
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Elegir la vía mediante colegio o socio del programa en Brasil. Confirmar composición del equipo, tarifa y admisión extranjera.
+Limitaciones: La muestra piloto se realizó en Río el 17 de octubre de 2026. Fechas de nueva convocatoria y sedes de este grupo pendientes. Cotejar los requisitos de temporadas futuras con el último anuncio de FIRST.
+Fuente: https://educacional.com.br/noticia/first-lego-league-2026-2027/
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -79140,6 +79172,22 @@ Precio: 2027 · Precios de los días y la sede elegidos pendientes. Ambos format
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: El cuidado de 08:00–09:00 puede estar disponible en algunas sedes si se alcanza el mínimo. Pago: Si 1 semana antes de la fecha no se alcanza el mínimo, la organización devuelve el 100% del importe abonado.
 Fuente: https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/
+Se ha comprobado: 2026-11-08
+
+### CP1972-20270104-20270104-start · Chio Lecca · Creación de Personajes y Mundos Kids · Inicio publicado del grupo Kids. · 2027-01-04–2027-01-04
+
+lugar: Perú · Lima · Chio Lecca
+Fecha: 2027-01-04 — 2027-01-04
+Edad: 6 a 10 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: La descripción está en español. Idioma docente y apoyo en otro idioma pendientes.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · PEN 895 por el programa. Materiales didácticos incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.chio-lecca.edu.pe/collections/creacion-de-personajes-y-mundos-kids-teens
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

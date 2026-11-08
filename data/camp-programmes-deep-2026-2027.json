@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1971,
+    "dossiers": 1972,
     "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
-      "published_2027": 540,
+      "published_2027": 541,
       "partial_2027": 145,
       "next_unannounced": 399,
       "published_2026": 372,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2858
+    "source_urls": 2860
   },
   "countries": [
     {
@@ -389,7 +389,7 @@
     },
     {
       "country": "Перу",
-      "count": 20
+      "count": 21
     },
     {
       "country": "Польша",
@@ -300347,6 +300347,97 @@
       "programme_type": "day_camp",
       "catalog_participation": "day_camp",
       "related_event_ids": []
+    },
+    {
+      "id": "CP1972",
+      "slug": "chio-lecca-personajes-mundos-kids",
+      "provider": "Chio Lecca · Creación de Personajes y Mundos Kids",
+      "country": "Перу",
+      "iso": "PER",
+      "place": "Лима · Chio Lecca",
+      "age": "6–10 лет.",
+      "programme": "От рисунка и сюжета к цифровому персонажу и напечатанной 3D-фигуре. ИИ используется под руководством преподавателя.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание программы на испанском. Язык преподавателя и поддержка другого языка уточняются.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Старт 4 января 2027. 8 недель по понедельникам и средам, 08:30–12:35. Даты возможных исключений уточняются.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-04"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "start",
+            "start": "2027-01-04",
+            "end": "2027-01-04",
+            "label": "Опубликованный старт группы Kids.",
+            "price": "PEN 895 за программу. Учебные материалы включены.",
+            "source": "https://www.chio-lecca.edu.pe/collections/creacion-de-personajes-y-mundos-kids-teens",
+            "date_scope": "activity_start",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            }
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 895,
+        "currency": "PEN",
+        "unit": "programme",
+        "label": "PEN 895 за программу. Учебные материалы включены.",
+        "included": "От рисунка и сюжета к цифровому персонажу и напечатанной 3D-фигуре. ИИ используется под руководством преподавателя.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "Старт 4 января 2027. 8 недель по понедельникам и средам, 08:30–12:35. Даты возможных исключений уточняются.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.chio-lecca.edu.pe/collections/creacion-de-personajes-y-mundos-kids-teens",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.chio-lecca.edu.pe/products/creacion-de-personajes-y-mundos-kids",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "makers",
+        "technology"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": []
     }
   ],
   "gaps": [
@@ -305672,7 +305763,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 276,
+  "version": 277,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -318907,7 +318998,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1971,
+      "total_dossiers": 1972,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10218,
-    "competition_cards": 4634,
-    "event_cards": 562,
-    "camp_cards": 5022,
+    "cards": 10226,
+    "competition_cards": 4636,
+    "event_cards": 565,
+    "camp_cards": 5025,
     "league_profiles": 299,
-    "major_exhibition_cards": 466,
+    "major_exhibition_cards": 469,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 673,
+      "total": 681,
       "countries_with_records": 14,
-      "competitions": 428,
-      "events": 41,
-      "major_exhibitions": 37,
-      "camps": 204,
+      "competitions": 430,
+      "events": 44,
+      "major_exhibitions": 40,
+      "camps": 207,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -4990,11 +4990,12 @@
       "name": "FIRE · новая институциональная сеть",
       "group": "regional",
       "event_ids": [
-        "C1310"
+        "C1310",
+        "C4636"
       ],
-      "cards": 1,
+      "cards": 2,
       "future_dated": 0,
-      "linked_card_count": 1,
+      "linked_card_count": 2,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://federacionfire.org/",
       "new": false
@@ -13812,6 +13813,39 @@
       "new": false
     },
     {
+      "id": "E563",
+      "name": "Futuristas 2026 · Chile es tu futuro",
+      "country": "Чили",
+      "region": "Южная Америка",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "visitor_policy": "family",
+      "source": "https://www.congresofuturo.cl/informate/futuristas-2026-una-aventura-gratuita-para-recorrer-chile-a-traves-de-la-ciencia-el-juego-y-la-tecnologia",
+      "new": false
+    },
+    {
+      "id": "E564",
+      "name": "Congreso Futuro 2027 · El Desafío de Ser Humanos",
+      "country": "Чили",
+      "region": "Южная Америка",
+      "start": "2027-01-11",
+      "end": "2027-01-16",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.congresofuturo.cl/informate/congreso-futuro-anuncia-nueva-version-en-estacion-mapocho-enfocada-en-el-desafio-de-ser-humanos",
+      "new": false
+    },
+    {
+      "id": "E565",
+      "name": "Hot Wheels City Experience · Zona Gamer",
+      "country": "Аргентина",
+      "region": "Южная Америка",
+      "start": "2026-12-03",
+      "end": "2027-01-04",
+      "visitor_policy": "family",
+      "source": "https://larural.com.ar/evento/hot-wheels-city-experience/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -16229,9 +16263,9 @@
       }
     ],
     "counts": {
-      "records": 5022,
-      "holiday": 4672,
-      "regular": 158,
+      "records": 5025,
+      "holiday": 4673,
+      "regular": 160,
       "self_paced_materials": 4,
       "boarding": 1037,
       "en_es_instruction": 1591,

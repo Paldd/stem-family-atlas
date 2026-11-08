@@ -15303,7 +15303,8 @@
           }
         ],
         "event_ids": [
-          "C1310"
+          "C1310",
+          "C4636"
         ],
         "legacy_ids": [],
         "route": "F1 institución → F2 local / regional → F3 departamento → F4 nacional. Sin acreditar avance automático por pago; etapa internacional 2027 en definición.",
@@ -15326,9 +15327,15 @@
             "title": "Founding season / age groups / institutional fees",
             "url": "https://federacionfire.org/",
             "checked": "2026-11-05"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://federacionfire.org/nuestras-sedes/",
+            "checked": "2026-11-08"
           }
         ],
-        "evidence": "Leída página propia del operador, incluida provisionalidad de propuesta, ausencia de calendario y etapa internacional futura."
+        "evidence": "Leída página propia del operador, incluida provisionalidad de propuesta, ausencia de calendario y etapa internacional futura.",
+        "checked": "2026-11-08"
       },
       {
         "id": "rcj-americas-primary",

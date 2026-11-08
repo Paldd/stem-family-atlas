@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10218; competiciones: 4634; eventos: 562; campamentos / programas: 5022. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 466 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10226; competiciones: 4636; eventos: 565; campamentos / programas: 5025. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 469 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -15,7 +15,7 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
 | América del Norte | 40 | 1914 | 108 | 1266 |
-| América del Sur | 14 | 428 | 37 | 204 |
+| América del Sur | 14 | 430 | 40 | 207 |
 | Europa | 54 | 599 | 122 | 1455 |
 | África | 53 | 235 | 28 | 92 |
 | Asia | 49 | 1155 | 140 | 1658 |
@@ -23,7 +23,7 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 Fichas interregionales o globales sin asignar a un continente: 162. Norteamérica incluye Centroamérica y el Caribe. Los recuentos muestran el inventario de la base, no un porcentaje de exhaustividad.
 
-VEX: 814 de 4634 fichas de competiciones (17.6%). La cobertura está claramente concentrada.
+VEX: 814 de 4636 fichas de competición (17.6%). La cobertura presenta un desequilibrio evidente.
 
 ## Lo que queda
 
@@ -238,7 +238,7 @@ VEX: 814 de 4634 fichas de competiciones (17.6%). La cobertura está claramente 
 - **Infomatrix · SOLACYT · proyectos**: 40 fichas, 21 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/file/d/1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27/view
 - **Robomatrix · Junior / Master**: 17 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/file/d/10BTty6JLpHxooXhXKXwx7OQOeY6KulVI/view
 - **FIRST LEGO League Costa Rica · BIOGLOW Founders**: 3 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/
-- **FIRE · nueva red institucional**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://federacionfire.org/
+- **FIRE · nueva red institucional**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://federacionfire.org/
 - **RoboCupJunior Américas · Primary / SuperRegional**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robocupamericas.org/es/
 - **Eduvisión Robotics Challenge Panamá**: 7 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.eduvisionpnm.com/challenge/
 - **FIRST Central Asia · Kazakhstan / Kyrgyzstan / Uzbekistan**: 111 fichas, 94 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstrobotics.kz/
@@ -833,6 +833,9 @@ VEX: 814 de 4634 fichas de competiciones (17.6%). La cobertura está claramente 
 - **RoboNexus Expo 2027** — Arabia Saudí; 2027-03-20 – 2027-03-22. el permiso de entrada de niños. https://www.robonexus.org/attend
 - **Maker Faire Tokyo 2027** — Japón; 2027-09-25 – 2027-09-26. el permiso de entrada de niños. https://makezine.jp/event/mft2026/
 - **Maker Faire Paris 2027** — Francia; fecha desconocida. Confirmar acceso infantil. https://makerfaire.com/globalfaires/
+- **Futuristas 2026 · Chile es tu futuro** — Chile; 2026-11-12. con un adulto; condiciones de admisión adulta por separado. https://www.congresofuturo.cl/informate/futuristas-2026-una-aventura-gratuita-para-recorrer-chile-a-traves-de-la-ciencia-el-juego-y-la-tecnologia
+- **Congreso Futuro 2027 · El Desafío de Ser Humanos** — Chile; 2027-01-11 – 2027-01-16. el permiso de entrada de niños. https://www.congresofuturo.cl/informate/congreso-futuro-anuncia-nueva-version-en-estacion-mapocho-enfocada-en-el-desafio-de-ser-humanos
+- **Hot Wheels City Experience · Zona Gamer** — Argentina; 2026-12-03 – 2027-01-04. con un adulto; condiciones de admisión adulta por separado. https://larural.com.ar/evento/hot-wheels-city-experience/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

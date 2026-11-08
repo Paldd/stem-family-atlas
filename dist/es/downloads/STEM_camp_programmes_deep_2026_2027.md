@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 1971 fichas en 126 países. Las fechas de verificación de las fuentes se indican en cada ficha.
+Estado de la base: 2026-11-08. 1972 fichas en 126 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -158095,6 +158095,58 @@ España · Carrer de Salamanca, 54 · Valencia
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://lacasitadeingles.com/evento/campamento-de-semana-santa-2026/) · 2026-11-08
+
+## CP1972 · Chio Lecca · Creación de Personajes y Mundos Kids
+
+Perú · Lima · Chio Lecca
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–10 años.
+
+**Idioma:** La descripción está en español. Idioma docente y apoyo en otro idioma pendientes.
+
+**Programa:** Del dibujo y la historia al personaje digital y la figura impresa en 3D. La IA se usa con orientación docente.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Inicio el 4 de enero de 2027. 8 semanas los lunes y miércoles, 08:30–12:35. Fechas de posibles excepciones pendientes.
+
+**Precio / año:** 2027 · PEN 895 por el programa. Materiales didácticos incluidos.
+
+**Incluido:** Del dibujo y la historia al personaje digital y la figura impresa en 3D. La IA se usa con orientación docente.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Inicio el 4 de enero de 2027. 8 semanas los lunes y miércoles, 08:30–12:35. Fechas de posibles excepciones pendientes.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Inicio publicado del grupo Kids.
+
+**Fechas / estado:** 2027-01-04 — 2027-01-04
+
+**Precio:** PEN 895 por el programa. Materiales didácticos incluidos.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.chio-lecca.edu.pe/collections/creacion-de-personajes-y-mundos-kids-teens)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.chio-lecca.edu.pe/collections/creacion-de-personajes-y-mundos-kids-teens) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.chio-lecca.edu.pe/products/creacion-de-personajes-y-mundos-kids) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 
