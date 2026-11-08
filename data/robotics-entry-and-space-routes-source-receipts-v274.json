@@ -1,0 +1,184 @@
+{
+  "captures": [
+    {
+      "key": "wrl-register",
+      "url": "https://worldrobotleague.net/register",
+      "final_url": "https://worldrobotleague.net/register/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 316701,
+      "sha256": "a3de2ad0e611014129fcfe1eff794346feb9ed5e4d8bccd8391fa58e8f8a3fb8",
+      "file": "wrl-register.html"
+    },
+    {
+      "key": "wrl",
+      "url": "https://worldrobotleague.net/",
+      "final_url": "https://worldrobotleague.net/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 263407,
+      "sha256": "1b4728594b47ad69d8a3de39e4bf6fb05ace1c6699905d9924cf97243e2a52c7",
+      "file": "wrl.html"
+    },
+    {
+      "key": "wrl-guide",
+      "url": "https://worldrobotleague.net/register/guide/",
+      "final_url": "https://worldrobotleague.net/register/guide/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 83696,
+      "sha256": "0538bf282ac39c73b87367de05004aaacb061fb8d816995e215360f021f68837",
+      "file": "wrl-guide.html"
+    },
+    {
+      "key": "rr-korea",
+      "url": "https://roborave-korea.co.kr/",
+      "final_url": "https://roborave-korea.co.kr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 137307,
+      "sha256": "f83cc80961182660d1d128ccc28defdbce092735752a85002658470d621bf128",
+      "file": "rr-korea.html"
+    },
+    {
+      "key": "jaxa-release",
+      "url": "https://humans-in-space.jaxa.jp/en/biz-lab/news/detail/005855.html",
+      "final_url": "https://humans-in-space.jaxa.jp/en/biz-lab/news/detail/005855.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 31592,
+      "sha256": "e592b635ba4b3b5954156c59cc6b7761059e75d9a77236abcc439b5ed1e314c3",
+      "file": "jaxa-release.html"
+    },
+    {
+      "key": "jaxa-kibo",
+      "url": "https://jaxa.krpc.jp/",
+      "final_url": "https://jaxa.krpc.jp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 212364,
+      "sha256": "5a8e72e3f74110147b0e59def7d26c80848ec493dc96333a04aec3398f9f056d",
+      "file": "jaxa-kibo.html"
+    },
+    {
+      "key": "unoosa",
+      "url": "https://www.unoosa.org/oosa/en/ourwork/access2space4all/Kibo-RPC/kibo-rpc_7th_round.html",
+      "final_url": "https://www.unoosa.org/oosa/en/ourwork/access2space4all/Kibo-RPC/kibo-rpc_7th_round.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 54924,
+      "sha256": "eb99894ead92472f0d48d99fe046ee30f4030b6b3a9370889331a411aa609548",
+      "file": "unoosa.html"
+    },
+    {
+      "key": "kibo-mysa",
+      "url": "https://www.mysa.gov.my/kibo-rpcmalaysia/",
+      "final_url": "https://www.mysa.gov.my/kibo-rpcmalaysia/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 216990,
+      "sha256": "c1879ae2bb8bdd227655aa6213a98463cc8ee39c14f31061ca30764d9fe0a482",
+      "file": "kibo-mysa.html"
+    },
+    {
+      "key": "empire-little",
+      "url": "https://empirecode.co/little-tech-explorers-scratchjr-coding-challenge-2027/",
+      "final_url": "https://empirecode.co/little-tech-explorers-scratchjr-coding-challenge-2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 169473,
+      "sha256": "4a50fcde7b2300d5701696cac07b7975ec2d00170a77d5d5825b824cb41d716e",
+      "file": "empire-little.html"
+    },
+    {
+      "key": "empire-events",
+      "url": "https://empirecode.co/education/competitions/",
+      "final_url": "https://empirecode.co/education/competitions/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 156398,
+      "sha256": "8960d08d5d91f9cb871261904a988e8736bdaa05e0351f29afae7af48e23afb9",
+      "file": "empire-events.html"
+    },
+    {
+      "key": "crayola-en",
+      "url": "https://www.crayola.com/learning/creativity-week",
+      "final_url": "https://www.crayola.com/learning/creativity-week",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 165941,
+      "sha256": "421f461ac49b265a8b53a36ef6e5df73c3287c5481a4e3d4b6edbdf8ff5249a5",
+      "file": "crayola-en.html"
+    },
+    {
+      "key": "crayola-es",
+      "url": "https://www.crayola.com/es-mx/learning/creativity-week",
+      "final_url": "https://www.crayola.com/es-mx/learning/creativity-week",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 138300,
+      "sha256": "618efb2106ea699cb391c648b0a0408bf18c0a89ebd0317f7f0c189df3853bd9",
+      "file": "crayola-es.html"
+    },
+    {
+      "key": "crayola-date",
+      "url": "https://www.crayola.com/faqs/when-is-crayola-creativity-week-faq",
+      "final_url": "https://www.crayola.com/faqs/when-is-crayola-creativity-week-faq",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 106852,
+      "sha256": "958aa7fec12f58bf4b3ed1a90a01201b97a93052a38a8bddc2c74791fe198e4e",
+      "file": "crayola-date.html"
+    },
+    {
+      "key": "crayola-calendar",
+      "url": "https://www.crayola.com/learning/creativity-week/event-calendar-2026",
+      "final_url": "https://www.crayola.com/learning/creativity-week/event-calendar-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 108887,
+      "sha256": "3e1810857a7a56f0af6c7aad549f80e5b89253242c1389c7059411a9d7e48a05",
+      "file": "crayola-calendar.html"
+    },
+    {
+      "key": "crayola-content",
+      "url": "https://www.crayola.com/learning/creativity-week/content-resources",
+      "final_url": "https://www.crayola.com/learning/creativity-week/content-resources",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 118122,
+      "sha256": "0b4f0771c799f2792264452ea18b3e9c0cac6dd4bd8d25c6e287f87142dd18f0",
+      "file": "crayola-content.html"
+    },
+    {
+      "key": "japan-humanoids",
+      "url": "https://www.fiweek.jp/hub/ja-jp/exhibit/humanoidrobots.html",
+      "final_url": "https://www.fiweek.jp/hub/ja-jp/exhibit/humanoidrobots.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 183389,
+      "sha256": "2e80dd20671f67b47f9a81d1b426f0ec7e8b8e2b6f4acbe4e6162e2dc82f17b1",
+      "file": "japan-humanoids.html"
+    },
+    {
+      "key": "fiw-faq",
+      "url": "https://www.fiweek.jp/tokyo/en-gb/visit/faq.html",
+      "final_url": "https://www.fiweek.jp/tokyo/en-gb/visit/faq.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 122660,
+      "sha256": "ff1c79ebcdee4033032e91ced9c5de727bcdccdebc25972fc229b2b0a3fdfa5b",
+      "file": "fiw-faq.html"
+    },
+    {
+      "key": "fiw-tokyo",
+      "url": "https://www.fiweek.jp/tokyo/en-gb.html",
+      "final_url": "https://www.fiweek.jp/tokyo/en-gb.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 239750,
+      "sha256": "b65f9f290a87171714400b4be4fd710be4770d807679071392a3e233398c185b",
+      "file": "fiw-tokyo.html"
+    }
+  ]
+}

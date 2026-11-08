@@ -1,0 +1,83 @@
+{
+  "version": 274,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C4618",
+    "C4619",
+    "C4620",
+    "C4621",
+    "C4622",
+    "C4623",
+    "C4624",
+    "C4625",
+    "L776"
+  ],
+  "new_dossiers": [],
+  "new_dated_variants": 0,
+  "refreshed_event_ids": [
+    "C3176",
+    "C1145",
+    "C1146",
+    "C1147",
+    "C1148",
+    "C1149",
+    "C1150",
+    "C1180",
+    "C1181",
+    "C1182",
+    "C1183",
+    "C1151",
+    "C1046",
+    "C1047",
+    "E282"
+  ],
+  "legacy_overlay_event_ids": [
+    "C3176",
+    "C1145",
+    "C1146",
+    "C1147",
+    "C1148",
+    "C1149",
+    "C1150",
+    "C1180",
+    "C1181",
+    "C1182",
+    "C1183",
+    "C1151",
+    "C1046",
+    "C1047",
+    "E282"
+  ],
+  "legacy_overlay_league_ids": [
+    "world-robot-league"
+  ],
+  "source_requests": 18,
+  "korea_opening": "C4618",
+  "korea_divisions": [
+    "C3176",
+    "C1145",
+    "C1146",
+    "C1147",
+    "C1148",
+    "C1149",
+    "C1150",
+    "C1180",
+    "C1181",
+    "C1182",
+    "C1183",
+    "C4619"
+  ],
+  "korea_maze_conflict": "C1151",
+  "kibo_routes": [
+    "C4620",
+    "C4621",
+    "C4622",
+    "C4623",
+    "C4624"
+  ],
+  "scratchjr": "C4625",
+  "crayola": "L776",
+  "tokyo_humanoids": "E282"
+}

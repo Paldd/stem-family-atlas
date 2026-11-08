@@ -14758,10 +14758,13 @@
           "C1180",
           "C1181",
           "C1182",
-          "C1183"
+          "C1183",
+          "C3176",
+          "C4618",
+          "C4619"
         ],
         "legacy_ids": [],
-        "route": "Registro local e internacional 09.11–21.12.2026; formulario abre el 9 de noviembre. Clasificación según escuela actual; equipo mixto elementary / middle compite en mayor. Comprobar conjuntamente edades del reglamento y curso del alumno extranjero.",
+        "route": "Apertura el 9 de noviembre a las 00:00 KST, es decir, el 8 de noviembre a las 09:00 en Costa Rica. Se anuncia el cierre para el 21 de diciembre de 2026, sin hora indicada. Primero se inscribe el responsable del colegio, club o socio de IREA. Después se vinculan los participantes y entrenadores. En las pruebas por equipos, el capitán indica los integrantes y estos se incorporan con el código. El responsable recibe la factura del grupo. Elegir una prueba y cotejar la categoría escolar. Si el equipo es independiente, confirmar a quién se puede indicar como responsable. Un equipo mixto de primaria y secundaria compite en la categoría superior.",
         "hardware": "Othello: robot construido por el participante o comercial ≤500g; MRC: All LEGO; las categorías RoboRAVE usan distintas plataformas; Humanoid: TBA.",
         "language": "EN/ES reglas existen;Englishregistrationpromise. lengua de instrucción/tutoría no está establecida.",
         "importance": "Internationalopennetwork, No está comprobadotierFIRST/VEX/WRO y no la lista mundial de líderes.",
@@ -14809,10 +14812,20 @@
             "title": "Anuncio y reglas actuales WRL",
             "url": "https://worldrobotleague.net/rules/humanoid-battle/",
             "checked": "2026-11-04"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://worldrobotleague.net/register",
+            "checked": "2026-11-08"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://worldrobotleague.net/register/guide/",
+            "checked": "2026-11-08"
           }
         ],
         "evidence": "Primaryclauses propios se han leído; liderazgo mundial independiente / nuevoroster / teacherlanguage no se ha probado.",
-        "checked": "2026-10-05"
+        "checked": "2026-11-08"
       },
       {
         "id": "roboliga-virtual",

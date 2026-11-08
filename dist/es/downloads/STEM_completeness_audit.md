@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10177; competiciones: 4616; eventos: 556; campamentos / programas: 5005. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 459 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10186; competiciones: 4624; eventos: 556; campamentos / programas: 5006. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 459 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1909 | 104 | 1257 |
+| América del Norte | 40 | 1909 | 104 | 1258 |
 | América del Sur | 14 | 428 | 37 | 204 |
-| Europa | 52 | 595 | 121 | 1447 |
+| Europa | 54 | 597 | 121 | 1447 |
 | África | 53 | 235 | 28 | 92 |
-| Asia | 49 | 1146 | 138 | 1658 |
+| Asia | 49 | 1152 | 138 | 1658 |
 | Oceanía | 25 | 163 | 29 | 332 |
 
 Fichas interregionales o globales sin asignar a un continente: 162. Norteamérica incluye Centroamérica y el Caribe. Los recuentos muestran el inventario de la base, no un porcentaje de exhaustividad.
 
-VEX representa 814 de las 4616 fichas de competiciones (17.6%). La cobertura se concentra en este circuito.
+VEX: 814 de 4624 fichas de competiciones (17.6%). La cobertura está claramente concentrada.
 
 ## Lo que queda
 
@@ -233,7 +233,7 @@ VEX representa 814 de las 4616 fichas de competiciones (17.6%). La cobertura se 
 - **FIRST Japan · Explore / Challenge / Future 2026*27**: 11 tarjetas, 10 con fechas exactas futuras. https://firstjapan.jp/events/fll-explore-2026-2027/
 - **VEX IQ Japan · domestic qualification route**: 6 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4838.html
 - *China · junior VEX / FIRST through school or academy**: 3 tarjetas, 3 con fechas exactas futuras. https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme
-- **World Robot League / IREA · KoreaOpen**: 11 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://worldrobotleague.net/
+- **World Robot League / IREA · KoreaOpen**: 14 fichas, 13 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://worldrobotleague.net/
 - **RoboLiga Virtual**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://virtual.roboliga.ar/
 - **Infomatrix · SOLACYT · proyectos**: 40 fichas, 21 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/file/d/1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27/view
 - **Robomatrix · Junior / Master**: 17 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/file/d/10BTty6JLpHxooXhXKXwx7OQOeY6KulVI/view

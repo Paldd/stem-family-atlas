@@ -16,10 +16,10 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10177,
-    "competition_cards": 4616,
+    "cards": 10186,
+    "competition_cards": 4624,
     "event_cards": 556,
-    "camp_cards": 5005,
+    "camp_cards": 5006,
     "league_profiles": 299,
     "major_exhibition_cards": 459,
     "vex_cards": 814,
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3308,
+      "total": 3309,
       "countries_with_records": 40,
       "competitions": 1909,
       "events": 142,
       "major_exhibitions": 104,
-      "camps": 1257,
+      "camps": 1258,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -62,9 +62,9 @@
       "regions": [
         "Европа"
       ],
-      "total": 2188,
-      "countries_with_records": 52,
-      "competitions": 595,
+      "total": 2190,
+      "countries_with_records": 54,
+      "competitions": 597,
       "events": 146,
       "major_exhibitions": 121,
       "camps": 1447,
@@ -90,9 +90,9 @@
       "regions": [
         "Азия"
       ],
-      "total": 2955,
+      "total": 2961,
       "countries_with_records": 49,
-      "competitions": 1146,
+      "competitions": 1152,
       "events": 151,
       "major_exhibitions": 138,
       "camps": 1658,
@@ -4857,11 +4857,14 @@
         "C1180",
         "C1181",
         "C1182",
-        "C1183"
+        "C1183",
+        "C3176",
+        "C4618",
+        "C4619"
       ],
-      "cards": 11,
-      "future_dated": 10,
-      "linked_card_count": 11,
+      "cards": 14,
+      "future_dated": 13,
+      "linked_card_count": 14,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://worldrobotleague.net/",
       "new": false
@@ -16148,10 +16151,10 @@
       }
     ],
     "counts": {
-      "records": 5005,
+      "records": 5006,
       "holiday": 4656,
       "regular": 158,
-      "self_paced_materials": 3,
+      "self_paced_materials": 4,
       "boarding": 1037,
       "en_es_instruction": 1583,
       "en_es_support": 28,

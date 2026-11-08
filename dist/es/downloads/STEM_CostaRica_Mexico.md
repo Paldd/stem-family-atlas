@@ -5010,6 +5010,32 @@ Limitaciones: Premiación el 13 de noviembre de 2026 a las 08:30 hora de Costa R
 Fuente: https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
 Se ha comprobado: 2026-11-08
 
+### C4621 · Kibo Robot Programming Challenge · UNOOSA · Beginner
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Menores de 16 años en 2026, secundaria básica o inferior.
+Matvey: Condicional. La edad está dentro del límite superior. Se requiere condición de estudiante, equipo y admisión de UNOOSA.
+Oscar: Condicional. La edad está dentro del límite superior. Se requiere condición de estudiante, equipo y admisión de UNOOSA.
+Idioma: Materiales en inglés. El idioma de presentación y el apoyo dependen de la selección.
+Acceso: Para estudiantes de países fuera de la lista de socios de JAXA se aplica la clasificación de la ONU. Un equipo de Costa Rica o México debe confirmar la vinculación escolar y las condiciones de la próxima convocatoria. Se prevén hasta 50 equipos por curso.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: La categoría inicial se desarrolla íntegramente en el simulador. Esta categoría no da acceso a la final en la EEI.
+Fuente: https://www.unoosa.org/oosa/en/ourwork/access2space4all/Kibo-RPC/kibo-rpc_7th_round.html
+Se ha comprobado: 2026-11-08
+
+### C4622 · Kibo Robot Programming Challenge · UNOOSA · Regular
+
+Fecha: Entrega de código en enero de 2027. Resultados de la selección en enero–febrero de 2027.
+edad: Estudiantes hasta el nivel de posgrado. El socio local fija el mínimo y la condición escolar.
+Matvey: Condicional. Confirmar la admisión del equipo concreto.
+Oscar: Condicional. Confirmar la admisión del equipo concreto.
+Idioma: Materiales en inglés. El idioma de presentación y el apoyo dependen de la selección.
+Acceso: Para estudiantes de países fuera de la lista de socios de JAXA se aplica la clasificación de la ONU. Un equipo de Costa Rica o México debe confirmar la vinculación escolar y las condiciones de la próxima convocatoria. Se prevén hasta 50 equipos por curso.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Además del código se requiere una presentación PowerPoint: 1 diapositiva de título y hasta 5 de contenido. El ganador de la plaza pasa a la final.
+Fuente: https://www.unoosa.org/oosa/en/ourwork/access2space4all/Kibo-RPC/kibo-rpc_7th_round.html
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

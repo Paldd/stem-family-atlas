@@ -11190,6 +11190,22 @@ Limitaciones: La organización anuncia Semana Santa 2027 en Alicante. Aún falta
 Fuente: https://aikidsclub.org/
 Se ha comprobado: 2026-11-08
 
+### L776 · Crayola Creativity Week 2027 · STEAM at Home
+
+lugar: Estados Unidos · En línea
+Fecha: 2027-01-25 — 2027-01-31
+edad: Escolares y familias. No se publica un límite de edad numérico para los materiales en casa.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+Formato: individual
+Idioma: Páginas y materiales familiares en inglés y español. Los idiomas de las emisiones en directo están pendientes.
+Marca de idioma: materials; apoyo: no declarado
+Precio: El acceso al programa es gratuito.
+Acceso: Registro familiar gratuito y actividades descargables. El programa incluye actividades creativas y STEAM.
+Limitaciones: Las páginas principales en ambos idiomas indican del 25 al 31 de enero de 2027. Las preguntas frecuentes muestran del 27 al 31 de enero de 2027. El calendario de actividades individuales está pendiente.
+Fuente: https://www.crayola.com/learning/creativity-week
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
