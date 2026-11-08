@@ -9300,7 +9300,7 @@ Precio: Precio sin publicar.
 Acceso: Inscripción de temporada mediante el club. Mínimo 7 años en el programa principal; menores de 7 pueden indicar interés futuro.
 Limitaciones: La asistencia se anuncia como plan. Confirmar selección, plazas del equipo y acreditación de cupo.
 Fuente: https://www.345robotics.org/programs/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### L658 · Connecta · PlaySolve by Funpreneurs 2026
 
@@ -11476,6 +11476,70 @@ Precio: Las preguntas frecuentes indican PHP 2500 por nivel de programación por
 Acceso: Confirmar formato, idioma y horario adecuado para el país de residencia. Para ScratchJr se necesita una tableta compatible.
 Limitaciones: El nivel grupal incluye 3 clases en directo y 9 días de acceso a materiales. Acordar fechas y zona horaria.
 Fuente: https://www.mycode.ph/courses/
+Se ha comprobado: 2026-11-08
+
+### L794 · CODE Caribbean · Belize
+
+lugar: Belice · Belize
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 8–13 años según la descripción del programa escolar.
+Matvey: Condicional. Cumple por edad. Confirmar el acceso y las plazas.
+Oscar: No cumple por edad actualmente. Guardar para una temporada futura.
+formato: day_course
+Idioma: La fuente se publica en inglés. Confirmar el idioma del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Consultar al colegio o a Science and Technology Unit por un grupo activo y la admisión de estudiantes de otros colegios.
+Limitaciones: El piloto comenzó en septiembre de 2022 en 22 escuelas primarias. Desde septiembre de 2023 pasó a 25 escuelas. Siguen sin publicarse la lista vigente, el idioma de clase y el calendario de admisión.
+Fuente: https://www.moecst.gov.bz/code-caribbean/
+Se ha comprobado: 2026-11-08
+
+### L795 · Ascend Tech Academy · Summer Camp
+
+lugar: Islas Caimán · Windjammer Plaza · 461 Walkers Road · George Town
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 4–14 años. En 2026 hubo grupos separados de 4–6 y 7–9.
+Matvey: Condicional. Cumple por edad. Confirmar el acceso y las plazas.
+Oscar: Condicional. Cumple por edad. Confirmar el acceso y las plazas.
+Formato: day_camp
+Idioma: La fuente se publica en inglés. Confirmar el idioma del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026: 360 KYD por semana en jornada completa, 200 KYD en media jornada.
+Acceso: La inscripción abierta a la familia y las plazas siguen sin confirmarse.
+Limitaciones: La edición de 2026 se celebró del 29 de junio al 28 de agosto. Confirmar fechas, robótica por turno e idioma de instrucción para el siguiente verano.
+Fuente: https://ascendtechacademy.com/summer-camp-registration/
+Se ha comprobado: 2026-11-08
+
+### L796 · TITL · Tobago STEM Camp
+
+lugar: Trinidad y Tobago · 48 Signal Hill · Scarborough
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Grupo principal de 6–17 años. Early Explorers de 3–5 años.
+Matvey: Condicional. Cumple por edad. Confirmar el acceso y las plazas.
+Oscar: Condicional. Cumple por edad. Confirmar el acceso y las plazas.
+Formato: day_camp
+Idioma: La fuente se publica en inglés. Confirmar el idioma del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Archivo 2026: la página indica una tarifa de $1,200. Confirmar moneda de facturación, duración real y precio del próximo turno.
+Acceso: La inscripción abierta a la familia y las plazas siguen sin confirmarse.
+Limitaciones: En 2026, para 6–17 años, se publicaron los períodos 13–31 de julio y 3–21 de agosto. La misma página indica una duración de dos semanas. El horario exacto de futuros turnos requiere confirmación.
+Fuente: https://www.titl.tt/training-and-certification/about-stem/
+Se ha comprobado: 2026-11-08
+
+### L797 · SALCC · Faces of Development STEAM Camp
+
+lugar: Santa Lucía · Sir Arthur Lewis Community College
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Estudiantes de primaria y secundaria. La organización no especifica edad ni grado exactos.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+Formato: day_camp
+Idioma: La fuente se publica en inglés. Confirmar el idioma del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Consultar la próxima convocatoria con el centro o con Faces of Development. Edad, inscripción individual, idioma y precio siguen sin confirmarse.
+Limitaciones: Archivo de condiciones de 2026. Las fechas y condiciones de la siguiente edición siguen sin publicarse.
+Fuente: https://www.salcc.edu.lc/news/salcc-welcomes-sixty-students-for-faces-of-development-steam-camp-2026.php
 Se ha comprobado: 2026-11-08
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
@@ -80298,17 +80362,17 @@ Se ha comprobado: 2026-11-05
 
 lugar: Puerto Rico · Puerto Rico
 Fecha: No se ha fijado el período/plan de trabajo
-edad: 3–18 · fundamentos 6–12
-Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
-Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+edad: Grupo Foundations de 6–12 años. El programa completo abarca de 3–18 años.
+Matvey: Condicional. Cumple por edad. Confirmar el acceso y las plazas.
+Oscar: Condicional. Cumple por edad. Confirmar el acceso y las plazas.
 Formato: individual
-Idioma: Idioma de clases EN / ES / RU sin confirmar expresamente. Web inglesa / bilingüe no considerada prueba del idioma de enseñanza o evaluación.
-Marca de idioma: unconfirmed; apoyo: no declarado
+Idioma: Página en español e inglés. Confirmar el idioma de enseñanza del grupo presencial o virtual.
+Marca de idioma: materials; apoyo: no declarado
 Precio: Tarifa nueva, plazas y factura completa sin establecer; precio desconocido no equivale a cero.
-Acceso: Confirmar admisión extranjera individual, curso real, nivel tras tres años de competiciones, idioma del grupo, plazas y factura final. Sin solicitudes, consentimientos, mensajes ni pagos.
-Limitaciones: Campamento tecnológico presencial o virtual: robots, programación, videojuegos / eSports, proyecto y muestra de resultados. Etapas 3–5, 6–12, 13–18; ambos niños encajan en 6–12, pero acordar nivel adecuado. Página de verano dice June–August, invierno December, primavera Easter Week sin días ni año confirmados. Fechas y precios de edición pasada no trasladados a 2027; sesión nueva y disponibilidad desconocidas.
-Fuente: https://technoinventors.com/ofrecimientos/winter-camp
-Se ha comprobado: 2026-11-05
+Acceso: Hay un formulario de interés. La organización confirma edad, modalidad y grupo después de la consulta. Siguen sin publicarse turnos, precio, equipo y admisión desde otro país.
+Limitaciones: Se puede consultar por una plaza presencial en Puerto Rico o por un grupo virtual. La página bilingüe no confirma enseñanza bilingüe.
+Fuente: https://technoinventors.com/ofrecimientos/winter-camp/
+Se ha comprobado: 2026-11-08
 
 ### L506 · Techno Inventors · Spring Break Camp
 

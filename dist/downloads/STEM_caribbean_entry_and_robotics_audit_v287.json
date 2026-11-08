@@ -1,0 +1,149 @@
+{
+  "version": 287,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "L794",
+    "C4691",
+    "C4692",
+    "C4693",
+    "E603",
+    "E604",
+    "E605",
+    "E606",
+    "L795",
+    "L796",
+    "L797"
+  ],
+  "new_dossiers": [
+    "CP2011",
+    "CP2012",
+    "CP2013",
+    "CP2014"
+  ],
+  "new_dated_variants": 0,
+  "refreshed_event_ids": [
+    "C1769",
+    "C762",
+    "C3198",
+    "E390",
+    "E391",
+    "L657",
+    "C899",
+    "L505",
+    "C900",
+    "C901",
+    "E135",
+    "E392"
+  ],
+  "legacy_overlay_event_ids": [
+    "C1769",
+    "C762",
+    "C3198",
+    "E390",
+    "E391",
+    "L657",
+    "C899",
+    "L505",
+    "C900",
+    "C901",
+    "E135",
+    "E392"
+  ],
+  "source_requests": 23,
+  "belize_routes": [
+    "L794",
+    "C4691",
+    "C1769"
+  ],
+  "cayman_family": "E390",
+  "cayman_school": "E391",
+  "cayman_robotics": "L657",
+  "barbados_phase_ii": "C899",
+  "barbados_phase_i": [
+    "C4692",
+    "C4693"
+  ],
+  "barbados_briefings": [
+    "E603",
+    "E604",
+    "E605",
+    "E606"
+  ],
+  "caribbean_stem_olympiads": [
+    "C900",
+    "C901",
+    "E135",
+    "E392"
+  ],
+  "national_route_updates": [
+    {
+      "id": "NR-FGC-BLZ-2026",
+      "checked": "2026-11-08",
+      "website_note": "В Инчхоне в 2026 Белиз представляли ученики Belize High School. Правила отбора команды на 2027 ещё не опубликованы."
+    },
+    {
+      "id": "NR-FGC-GNB-2026",
+      "checked": "2026-11-08",
+      "website_note": "Официальный архив подтверждает сборные 2025 и 2026. В команде 2026 есть учащиеся из Бисау и из-за рубежа. Местный отбор и сроки на 2027 пока не опубликованы."
+    },
+    {
+      "id": "NR-FGC-ERI-2026",
+      "checked": "2026-11-08",
+      "website_note": "Сборную 2026 составили учащиеся эритрейской диаспоры. Регламент представительства и местный отбор на 2027 пока не опубликованы."
+    }
+  ],
+  "eritrea_representation_reference": "C762",
+  "puerto_rico_winter": "L505",
+  "camp_watch_dossiers": [
+    "CP2011",
+    "CP2012",
+    "CP2013",
+    "CP2014"
+  ],
+  "refreshed_dossiers": [
+    "CP1820",
+    "CP1821",
+    "CP1822"
+  ],
+  "source_limits": [
+    {
+      "event_id": "L794",
+      "status": "school_pilot_history_confirmed_current_enrollment_unconfirmed"
+    },
+    {
+      "event_id": "C4691",
+      "status": "developing_institutional_pathway_no_dated_tournament_or_age_division"
+    },
+    {
+      "event_id": "E390",
+      "status": "free_all_ages_registration_recommended"
+    },
+    {
+      "event_id": "C899",
+      "status": "previous_phase_ii_date_withdrawn_current_rules_list_phase_i_only",
+      "old_date": "2027-08-13"
+    },
+    {
+      "route_id": "NR-FGC-GNB-2026",
+      "status": "national_team_profile_international_event_not_a_local_tournament"
+    },
+    {
+      "event_id": "C762",
+      "status": "eritrea_diaspora_team_record_does_not_establish_local_tournament"
+    },
+    {
+      "programme_id": "CP2011",
+      "status": "bilingual_website_not_instruction_evidence_exact_schedule_unpublished"
+    },
+    {
+      "programme_id": "CP2013",
+      "status": "archived_published_date_ranges_conflict_with_stated_duration"
+    },
+    {
+      "programme_id": "CP2012",
+      "status": "published_historic_price_not_current_quote"
+    }
+  ]
+}

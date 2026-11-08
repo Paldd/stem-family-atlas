@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2010 fichas en 126 países. Cada ficha indica cuándo se revisaron sus fuentes.
+Estado de la base: 2026-11-08. 2014 fichas en 126 países. Cada ficha indica las fechas de revisión de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -146772,7 +146772,7 @@ Curazao · Biblioteka Nashonal Kòrsou · Fokkerweg 17 · Willemstad
 
 Jamaica · 3 Shenstone Dr, #39 · Kingston
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** El centro asigna según curso. Confirmar edad de la sesión.
 
@@ -146804,15 +146804,17 @@ Jamaica · 3 Shenstone Dr, #39 · Kingston
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.zebrarobotics.com/zedjamaica/camps) · 2026-11-07
+- [Página oficial del organizador](https://www.zebrarobotics.com/zedjamaica/camps) · 2026-11-08
 
 - [Página oficial del organizador](https://www.zedmakeylatechnologies.com/augustcamp2026) · 2026-11-07
+
+- [Página de la organización o reglamento de la categoría.](https://zebrarobotics.com/zedjamaica) · 2026-11-08
 
 ## CP1821 · Zebra Robotics · Kingston weekly classes
 
 Jamaica · 3 Shenstone Dr, #39 · Kingston
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** Cursos 1–12, aproximadamente 6–18 años.
 
@@ -146844,23 +146846,25 @@ Jamaica · 3 Shenstone Dr, #39 · Kingston
 
 ### Fuentes
 
-- [Página oficial del organizador](https://zebrarobotics.com/zedjamaica) · 2026-11-07
+- [Página oficial del organizador](https://zebrarobotics.com/zedjamaica) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.zebrarobotics.com/zedjamaica/camps) · 2026-11-08
 
 ## CP1822 · UTech, Jamaica · STEM Summer Camp
 
 Jamaica · Papine Campus · Kingston
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
-**edad:** 11–16 años en la edición de 2026.
+**edad:** 11–16 años según las condiciones de la edición de 2026.
 
 **Idioma:** El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.
 
-**Programa:** Campamento universitario de robótica, IA, animación y diseño de ingeniería. En 2026 participaron escolares de Kingston y St. Andrew.
+**Programa:** Animación, inteligencia artificial, robótica y diseño de ingeniería.
 
 **Alojamiento:** Campamento diurno sin alojamiento.
 
-**Fechas / estado:** La última sesión confirmada fue del 20 al 31 de julio de 2026. Próxima convocatoria sin anunciar.
+**Fechas / estado:** La tercera edición se celebró del 20 al 31 de julio de 2026 en el campus Papine. Participaron estudiantes de Kingston y St. Andrew. Confirmar edad y acceso territorial para la próxima temporada.
 
 **Precio / año:** sin establecer · Tarifa de la convocatoria actual sin confirmar.
 
@@ -146882,7 +146886,7 @@ Jamaica · Papine Campus · Kingston
 
 ### Fuentes
 
-- [Página oficial del organizador](https://www.utech.edu.jm/utech-jamaica-stem-summer-camp-equips-youth-with-skills-in-ai-robotics-innovation-and-sustainability/) · 2026-11-07
+- [Página oficial del organizador](https://www.utech.edu.jm/utech-jamaica-stem-summer-camp-equips-youth-with-skills-in-ai-robotics-innovation-and-sustainability/) · 2026-11-08
 
 ## CP1823 · The STEM Embassy · Ki’ ta bo STEM?
 
@@ -160307,6 +160311,168 @@ Filipinas · En línea
 - [Página de la organización o reglamento de la categoría.](https://www.mycode.ph/courses/) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://www.mycode.ph/faqs/) · 2026-11-08
+
+## CP2011 · Techno Inventors · Winter Camp Foundations
+
+Puerto Rico · Puerto Rico / online
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grupo Foundations de 6–12 años. El programa completo abarca de 3–18 años.
+
+**Idioma:** Página en español e inglés. Confirmar el idioma de enseñanza del grupo presencial o virtual.
+
+**Programa:** Robótica, programación por bloques y creación de prototipos de videojuegos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Hay un formulario de interés. La organización confirma edad, modalidad y grupo después de la consulta. Siguen sin publicarse turnos, precio, equipo y admisión desde otro país.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Incluido:** Robótica, programación por bloques y creación de prototipos de videojuegos.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cumple por edad. Confirmar el acceso y las plazas.
+
+**Oscar:** Condicional. Cumple por edad. Confirmar el acceso y las plazas.
+
+**Motivo de selección:** Hay un formulario de interés. La organización confirma edad, modalidad y grupo después de la consulta. Siguen sin publicarse turnos, precio, equipo y admisión desde otro país.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://technoinventors.com/ofrecimientos/winter-camp/) · 2026-11-08
+
+## CP2012 · Ascend Tech Academy · Summer Camp
+
+Islas Caimán · Windjammer Plaza · 461 Walkers Road · George Town
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–14 años. En 2026 hubo grupos separados de 4–6 y 7–9.
+
+**Idioma:** La fuente se publica en inglés. Confirmar el idioma del grupo concreto.
+
+**Programa:** Campamento general con robótica, LEGO, música, teatro y juegos en equipo.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** La edición de 2026 se celebró del 29 de junio al 28 de agosto. Confirmar fechas, robótica por turno e idioma de instrucción para el siguiente verano.
+
+**Precio / año:** 2026 · 2026: 360 KYD por semana en jornada completa, 200 KYD en media jornada.
+
+**Incluido:** Campamento general con robótica, LEGO, música, teatro y juegos en equipo.
+
+**Suplementos:** Tarifa publicada para 2026. Confirmar el precio de la próxima edición, el equipo, las comidas y el traslado.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cumple por edad. Confirmar el acceso y las plazas.
+
+**Oscar:** Condicional. Cumple por edad. Confirmar el acceso y las plazas.
+
+**Motivo de selección:** La edición de 2026 se celebró del 29 de junio al 28 de agosto. Confirmar fechas, robótica por turno e idioma de instrucción para el siguiente verano.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://ascendtechacademy.com/summer-camp-registration/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://ascendtechacademy.com/blogs/innovative-tech-workshops/) · 2026-11-08
+
+## CP2013 · TITL · Tobago STEM Camp
+
+Trinidad y Tobago · Signal Hill · Tobago
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grupo principal de 6–17 años. Early Explorers de 3–5 años.
+
+**Idioma:** La fuente se publica en inglés. Confirmar el idioma del grupo concreto.
+
+**Programa:** Robots LEGO, programación, electrónica, animación, realidad virtual y drones según el programa de 2026.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** En 2026, para 6–17 años, se publicaron los períodos 13–31 de julio y 3–21 de agosto. La misma página indica una duración de dos semanas. El horario exacto de futuros turnos requiere confirmación.
+
+**Precio / año:** 2026 · Archivo 2026: la página indica una tarifa de $1,200. Confirmar moneda de facturación, duración real y precio del próximo turno.
+
+**Incluido:** Robots LEGO, programación, electrónica, animación, realidad virtual y drones según el programa de 2026.
+
+**Suplementos:** En la edición de 2026 se pedían un portátil y un dispositivo Android. Las comidas no estaban incluidas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cumple por edad. Confirmar el acceso y las plazas.
+
+**Oscar:** Condicional. Cumple por edad. Confirmar el acceso y las plazas.
+
+**Motivo de selección:** En 2026, para 6–17 años, se publicaron los períodos 13–31 de julio y 3–21 de agosto. La misma página indica una duración de dos semanas. El horario exacto de futuros turnos requiere confirmación.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.titl.tt/training-and-certification/about-stem/) · 2026-11-08
+
+## CP2014 · SALCC · Faces of Development STEAM Camp
+
+Santa Lucía · Sir Arthur Lewis Community College
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Estudiantes de primaria y secundaria. La organización no especifica edad ni grado exactos.
+
+**Idioma:** La fuente se publica en inglés. Confirmar el idioma del grupo concreto.
+
+**Programa:** Programa STEAM anual para primaria y secundaria. La edición de 2026 incluyó matemáticas, biología, teatro y robótica.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Consultar la próxima convocatoria con el centro o con Faces of Development. Edad, inscripción individual, idioma y precio siguen sin confirmarse.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Incluido:** Programa STEAM anual para primaria y secundaria. La edición de 2026 incluyó matemáticas, biología, teatro y robótica.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cotejar edad, grado y requisitos de acceso.
+
+**Oscar:** Condicional. Cotejar edad, grado y requisitos de acceso.
+
+**Motivo de selección:** Consultar la próxima convocatoria con el centro o con Faces of Development. Edad, inscripción individual, idioma y precio siguen sin confirmarse.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.salcc.edu.lc/news/salcc-welcomes-sixty-students-for-faces-of-development-steam-camp-2026.php) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10371; competiciones: 4689; eventos: 602; campamentos / programas: 5080. Perfiles de ligas y programas: 301. Fichas de exposiciones grandes y especializadas: 506 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10382; competiciones: 4692; eventos: 606; campamentos / programas: 5084. Perfiles de ligas y programas: 301. Fichas de exposiciones grandes y especializadas: 506 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros específicos para 234 de 249 países y territorios y 0 países con auditoría completa. Revisión del archivo v51: se añadieron 21 fichas y 3 perfiles. Se conservaron todas las fichas anteriores.
 
@@ -14,7 +14,7 @@ Hay registros específicos para 234 de 249 países y territorios y 0 países con
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1926 | 124 | 1290 |
+| América del Norte | 40 | 1929 | 124 | 1294 |
 | América del Sur | 14 | 433 | 45 | 207 |
 | Europa | 54 | 611 | 123 | 1457 |
 | África | 55 | 245 | 31 | 110 |
@@ -23,7 +23,7 @@ Hay registros específicos para 234 de 249 países y territorios y 0 países con
 
 Fichas interregionales o globales sin asignación a un continente: 164. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y su alcance documentado.
 
-VEX: 814 de 4689 fichas de competiciones (17.4%). La cobertura se concentra en este circuito.
+VEX: 814 de 4692 fichas de competición (17.3%). La cobertura está claramente concentrada.
 
 ## Lo que queda
 
@@ -174,7 +174,7 @@ VEX: 814 de 4689 fichas de competiciones (17.4%). La cobertura se concentra en e
 - **SUAS · Student Unmanned Aerial Systems**: 1 tarjeta, 1 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://suas-competition.org/competitions
 - **IGVC · Intelligent Ground Vehicle Competition**: 1 tarjeta, 1 con fechas exactas futuras. https://robonation.org/2027-season-launch/
 - **IARC · International Aerial Robotics Competition**: 1 tarjeta, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://robonation.org/2027-season-launch/
-- *Barbados Robotics Innovation Challenge**: 1 tarjeta, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://caribbeanscience.org/bric/
+- **Barbados Robotics Innovation Challenge**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://caribbeanscience.org/bric/
 - **Caribbean STEM Olympiads**: 3 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://caribbeanscience.org/cso/
 - **CoderZ League · robótica virtual**: 1 tarjeta, 0 con fechas exactas futuras. https://competition.gocoderz.com/fall-league/
 - **CodeAI / Hour of AI · capacitación**: 0 tarjetas, 0 con fechas exactas futuras; programa de capacitación y asistencia; no hay etapas de concurso. https://code.org/es/curriculum/computer-science-fundamentals

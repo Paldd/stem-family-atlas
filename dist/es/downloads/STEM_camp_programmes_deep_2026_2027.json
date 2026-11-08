@@ -30,14 +30,14 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2010,
+    "dossiers": 2014,
     "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
       "published_2027": 543,
       "partial_2027": 145,
-      "next_unannounced": 410,
+      "next_unannounced": 414,
       "published_2026": 390,
       "partial_2026_27": 38,
       "partial_2026": 24,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2902
+    "source_urls": 2907
   },
   "countries": [
     {
@@ -241,7 +241,7 @@
     },
     {
       "country": "Islas Caimán",
-      "count": 2
+      "count": 3
     },
     {
       "country": "Camboya",
@@ -405,7 +405,7 @@
     },
     {
       "country": "Puerto Rico",
-      "count": 6
+      "count": 7
     },
     {
       "country": "Corea del Sur",
@@ -433,7 +433,7 @@
     },
     {
       "country": "Santa Lucía",
-      "count": 3
+      "count": 4
     },
     {
       "country": "Singapur",
@@ -461,7 +461,7 @@
     },
     {
       "country": "Trinidad y Tobago",
-      "count": 4
+      "count": 5
     },
     {
       "country": "Turkmenistán",
@@ -316256,15 +316256,20 @@
         {
           "url": "https://www.zebrarobotics.com/zedjamaica/camps",
           "title": "Página oficial del organizador",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         },
         {
           "url": "https://www.zedmakeylatechnologies.com/augustcamp2026",
           "title": "Página oficial del organizador",
           "checked": "2026-11-07"
+        },
+        {
+          "url": "https://zebrarobotics.com/zedjamaica",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "programme_type": "holiday_camp",
       "catalog_participation": "day_camp",
       "related_event_ids": [],
@@ -316327,10 +316332,15 @@
         {
           "url": "https://zebrarobotics.com/zedjamaica",
           "title": "Página oficial del organizador",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.zebrarobotics.com/zedjamaica/camps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "programme_type": "regular_course",
       "catalog_participation": "regular",
       "related_event_ids": [],
@@ -316343,7 +316353,7 @@
       "country": "Jamaica",
       "iso": "JAM",
       "place": "Papine Campus · Kingston",
-      "age": "11–16 años en la edición de 2026.",
+      "age": "11–16 años según las condiciones de la edición de 2026.",
       "themes": [
         "robotics",
         "ai",
@@ -316355,10 +316365,10 @@
       ],
       "language": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
       "confirmed_instruction_languages": [],
-      "programme": "Campamento universitario de robótica, IA, animación y diseño de ingeniería. En 2026 participaron escolares de Kingston y St. Andrew.",
+      "programme": "Animación, inteligencia artificial, robótica y diseño de ingeniería.",
       "timing": {
         "status": "next_unannounced",
-        "label": "La última sesión confirmada fue del 20 al 31 de julio de 2026. Próxima convocatoria sin anunciar.",
+        "label": "La tercera edición se celebró del 20 al 31 de julio de 2026 en el campus Papine. Participaron estudiantes de Kingston y St. Andrew. Confirmar edad y acceso territorial para la próxima temporada.",
         "sessions": [],
         "session_details": [],
         "precision": "published_sessions"
@@ -316393,10 +316403,10 @@
         {
           "url": "https://www.utech.edu.jm/utech-jamaica-stem-summer-camp-equips-youth-with-skills-in-ai-robotics-innovation-and-sustainability/",
           "title": "Página oficial del organizador",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "programme_type": "holiday_camp",
       "catalog_participation": "day_camp",
       "related_event_ids": [],
@@ -347424,6 +347434,292 @@
       "catalog_participation": "regular",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP2011",
+      "slug": "techno-inventors-winter-foundations",
+      "provider": "Techno Inventors · Winter Camp Foundations",
+      "country": "Puerto Rico",
+      "iso": "PRI",
+      "place": "Puerto Rico / online",
+      "age": "Grupo Foundations de 6–12 años. El programa completo abarca de 3–18 años.",
+      "programme": "Robótica, programación por bloques y creación de prototipos de videojuegos.",
+      "format": "day",
+      "formats": [
+        "day",
+        "online"
+      ],
+      "language": "Página en español e inglés. Confirmar el idioma de enseñanza del grupo presencial o virtual.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Hay un formulario de interés. La organización confirma edad, modalidad y grupo después de la consulta. Siguen sin publicarse turnos, precio, equipo y admisión desde otro país.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "Robótica, programación por bloques y creación de prototipos de videojuegos.",
+        "extras": "Aún no se confirman el coste total ni las plazas.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Cumple por edad. Confirmar el acceso y las plazas."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Cumple por edad. Confirmar el acceso y las plazas."
+        }
+      },
+      "editorial_reason": "Hay un formulario de interés. La organización confirma edad, modalidad y grupo después de la consulta. Siguen sin publicarse turnos, precio, equipo y admisión desde otro país.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://technoinventors.com/ofrecimientos/winter-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2012",
+      "slug": "ascend-cayman-summer",
+      "provider": "Ascend Tech Academy · Summer Camp",
+      "country": "Islas Caimán",
+      "iso": "CYM",
+      "place": "Windjammer Plaza · 461 Walkers Road · George Town",
+      "age": "4–14 años. En 2026 hubo grupos separados de 4–6 y 7–9.",
+      "programme": "Campamento general con robótica, LEGO, música, teatro y juegos en equipo.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La fuente se publica en inglés. Confirmar el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La edición de 2026 se celebró del 29 de junio al 28 de agosto. Confirmar fechas, robótica por turno e idioma de instrucción para el siguiente verano.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "2026: 360 KYD por semana en jornada completa, 200 KYD en media jornada.",
+        "included": "Campamento general con robótica, LEGO, música, teatro y juegos en equipo.",
+        "extras": "Tarifa publicada para 2026. Confirmar el precio de la próxima edición, el equipo, las comidas y el traslado.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Cumple por edad. Confirmar el acceso y las plazas."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Cumple por edad. Confirmar el acceso y las plazas."
+        }
+      },
+      "editorial_reason": "La edición de 2026 se celebró del 29 de junio al 28 de agosto. Confirmar fechas, robótica por turno e idioma de instrucción para el siguiente verano.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://ascendtechacademy.com/summer-camp-registration/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://ascendtechacademy.com/blogs/innovative-tech-workshops/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "general",
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2013",
+      "slug": "titl-tobago-stem-camp",
+      "provider": "TITL · Tobago STEM Camp",
+      "country": "Trinidad y Tobago",
+      "iso": "TTO",
+      "place": "Signal Hill · Tobago",
+      "age": "Grupo principal de 6–17 años. Early Explorers de 3–5 años.",
+      "programme": "Robots LEGO, programación, electrónica, animación, realidad virtual y drones según el programa de 2026.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La fuente se publica en inglés. Confirmar el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "En 2026, para 6–17 años, se publicaron los períodos 13–31 de julio y 3–21 de agosto. La misma página indica una duración de dos semanas. El horario exacto de futuros turnos requiere confirmación.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Archivo 2026: la página indica una tarifa de $1,200. Confirmar moneda de facturación, duración real y precio del próximo turno.",
+        "included": "Robots LEGO, programación, electrónica, animación, realidad virtual y drones según el programa de 2026.",
+        "extras": "En la edición de 2026 se pedían un portátil y un dispositivo Android. Las comidas no estaban incluidas.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Cumple por edad. Confirmar el acceso y las plazas."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Cumple por edad. Confirmar el acceso y las plazas."
+        }
+      },
+      "editorial_reason": "En 2026, para 6–17 años, se publicaron los períodos 13–31 de julio y 3–21 de agosto. La misma página indica una duración de dos semanas. El horario exacto de futuros turnos requiere confirmación.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.titl.tt/training-and-certification/about-stem/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "games",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2014",
+      "slug": "salcc-faces-of-development-steam",
+      "provider": "SALCC · Faces of Development STEAM Camp",
+      "country": "Santa Lucía",
+      "iso": "LCA",
+      "place": "Sir Arthur Lewis Community College",
+      "age": "Estudiantes de primaria y secundaria. La organización no especifica edad ni grado exactos.",
+      "programme": "Programa STEAM anual para primaria y secundaria. La edición de 2026 incluyó matemáticas, biología, teatro y robótica.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La fuente se publica en inglés. Confirmar el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Consultar la próxima convocatoria con el centro o con Faces of Development. Edad, inscripción individual, idioma y precio siguen sin confirmarse.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "Programa STEAM anual para primaria y secundaria. La edición de 2026 incluyó matemáticas, biología, teatro y robótica.",
+        "extras": "Aún no se confirman el coste total ni las plazas.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Condicional. Cotejar edad, grado y requisitos de acceso."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Condicional. Cotejar edad, grado y requisitos de acceso."
+        }
+      },
+      "editorial_reason": "Consultar la próxima convocatoria con el centro o con Faces of Development. Edad, inscripción individual, idioma y precio siguen sin confirmarse.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.salcc.edu.lc/news/salcc-welcomes-sixty-students-for-faces-of-development-steam-camp-2026.php",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "robotics",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -352749,7 +353045,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 286,
+  "version": 287,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -365984,7 +366280,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2010,
+      "total_dossiers": 2014,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
