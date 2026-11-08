@@ -630,21 +630,21 @@ Limitaciones: no se ha registrado a la familia
 Fuente: https://www.nextthing.education/
 Comprobado: 2026-09-30
 
-### ~ ~L032 · STEM Camp Ontario ○ la próxima temporada de verano
+### L032 · STEM Camp Ontario · verano 2027 · confirmar condiciones
 
 Lugar: Canadá Ontario, varias ciudades
 Fecha: Semanas de verano; 2026 han pasado, 2027 no confirmado
-Edad: 4–13 en 01.01.2026; El corte de la nueva temporada para comprobar
-Matway: Sí, por edad
-Oscar: Sí por edad
+edad: Las preguntas frecuentes indican 4–13 años y el corte anterior del 01.01.2026. Se debe confirmar la regla de 2027.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
 Formato: day_camp
 Idioma: Candidato en idioma inglés; enseñanza/recepción extranjera
 Marca de idioma: no clasificada; soporte: no declarada
 Costo: No se confirma el precio actual
-Entrada: Seleccione la ciudad, luego Campbrain; el próximo turno confirmar
-Limitaciones: El STEM general no garantiza robots ni AI todos los días. El sitio en inglés no es una prueba separada del idioma de la clase.
+Acceso: La portada anuncia inscripciones para 2027. Confirmar fechas, plazas y edad en la página del campamento elegido.
+Limitaciones: Las preguntas frecuentes indican apertura el 02.11.2027 y la portada anuncia inscripciones ya abiertas para el verano de 2027. El calendario y el precio de la sede quedan por confirmar.
 Fuente: https://stemcamp.ca/summer-camp/stem-camp-faq/
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-08
 
 ### L033 · TechLab Kids Chile · programas vacacionales vigentes de 2026–27
 
@@ -84244,6 +84244,38 @@ Precio: 2027 · La página muestra 1 800 por el programa y 500 de anticipo no re
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad de Matvey encaja. La organización revisa la solicitud y el nivel de inglés. Oscar: No cumple la edad mínima publicada. Suplementos: Alojamiento, vuelos, comidas y seguro aparte. El fin de semana familiar en Machu Picchu es un extra de pago. Pago: El anticipo no es reembolsable. Consultar a la organización el plazo del saldo y las condiciones de devolución del resto.
 Fuente: https://www.worldwiselearningadventures.org/upcoming-adventures-folder/empire-engineers-2027
+Se ha comprobado: 2026-11-08
+
+### CP2121-20270621-20270709-session-one · Camp Asimov · Robotics Engineering · Turno 1 · 2027-06-21–2027-07-09
+
+lugar: Estados Unidos · 2341 Michigan Ave · Santa Monica, California
+Fecha: 2027-06-21 — 2027-07-09
+edad: 10–17 años. Confirmar la fecha de referencia para la edad.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El programa y las instrucciones para familias están publicados en inglés. Confirmar el idioma de instrucción con el campamento.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 3600 USD por 15 días lectivos. · suplementos y condiciones en el dossier
+Acceso: Solicitudes abiertas. El campamento revisa cada solicitud antes del depósito. Cada turno requiere una inscripción mínima.
+Limitaciones: Matvey: En 2027 cumple 10 años. Confirmar si ya tiene 10 en la fecha de corte del turno elegido. Oscar: En 2027 tiene menos de 10 años. Suplementos: Llevar almuerzo de lunes a jueves. Alojamiento y viaje aparte. Pago: El depósito de 1200 USD tras la aceptación se descuenta del precio. Saldo de 2400 USD.
+Fuente: https://www.campasimov.com/faq
+Se ha comprobado: 2026-11-08
+
+### CP2121-20270712-20270730-session-two · Camp Asimov · Robotics Engineering · Turno 2 · 2027-07-12–2027-07-30
+
+lugar: Estados Unidos · 2341 Michigan Ave · Santa Monica, California
+Fecha: 2027-07-12 — 2027-07-30
+edad: 10–17 años. Confirmar la fecha de referencia para la edad.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El programa y las instrucciones para familias están publicados en inglés. Confirmar el idioma de instrucción con el campamento.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 3600 USD por 15 días lectivos. · suplementos y condiciones en el dossier
+Acceso: Solicitudes abiertas. El campamento revisa cada solicitud antes del depósito. Cada turno requiere una inscripción mínima.
+Limitaciones: Matvey: En 2027 cumple 10 años. Confirmar si ya tiene 10 en la fecha de corte del turno elegido. Oscar: En 2027 tiene menos de 10 años. Suplementos: Llevar almuerzo de lunes a jueves. Alojamiento y viaje aparte. Pago: El depósito de 1200 USD tras la aceptación se descuenta del precio. Saldo de 2400 USD.
+Fuente: https://www.campasimov.com/faq
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10833,
-    "competition_cards": 4818,
-    "event_cards": 674,
-    "camp_cards": 5341,
+    "cards": 10848,
+    "competition_cards": 4820,
+    "event_cards": 685,
+    "camp_cards": 5343,
     "league_profiles": 309,
-    "major_exhibition_cards": 575,
+    "major_exhibition_cards": 586,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3534,
+      "total": 3541,
       "countries_with_records": 41,
-      "competitions": 1966,
-      "events": 190,
-      "major_exhibitions": 149,
-      "camps": 1378,
+      "competitions": 1967,
+      "events": 194,
+      "major_exhibitions": 153,
+      "camps": 1380,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -62,11 +62,11 @@
       "regions": [
         "Europa"
       ],
-      "total": 2342,
+      "total": 2350,
       "countries_with_records": 55,
-      "competitions": 636,
-      "events": 166,
-      "major_exhibitions": 141,
+      "competitions": 637,
+      "events": 173,
+      "major_exhibitions": 148,
       "camps": 1540,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
@@ -15243,6 +15243,127 @@
       "new": false
     },
     {
+      "id": "E675",
+      "name": "Great Exhibition Road Festival 2027",
+      "country": "Reino Unido",
+      "region": "Europa",
+      "start": "2027-06-19",
+      "end": "2027-06-20",
+      "visitor_policy": "family",
+      "source": "https://www.greatexhibitionroadfestival.co.uk/",
+      "new": false
+    },
+    {
+      "id": "E676",
+      "name": "National STEM Festival UK · Open Build Days 2027",
+      "country": "Reino Unido",
+      "region": "Europa",
+      "start": "2027-05-08",
+      "end": "2027-05-09",
+      "visitor_policy": "family",
+      "source": "https://www.nationalstemfestival.com/attend-uk-2027",
+      "new": false
+    },
+    {
+      "id": "E677",
+      "name": "Festival der Zukunft 2027 · Family Festival",
+      "country": "Alemania",
+      "region": "Europa",
+      "start": "2027-07-03",
+      "end": "2027-07-04",
+      "visitor_policy": "family",
+      "source": "https://festivalderzukunft.com/en",
+      "new": false
+    },
+    {
+      "id": "E678",
+      "name": "Festival der Zukunft 2027 · AI Conference",
+      "country": "Alemania",
+      "region": "Europa",
+      "start": "2027-07-01",
+      "end": "2027-07-02",
+      "visitor_policy": "confirm_children",
+      "source": "https://festivalderzukunft.com/en",
+      "new": false
+    },
+    {
+      "id": "E679",
+      "name": "Canada-Wide Science Fair 2027 · Sunday public viewing",
+      "country": "Canadá",
+      "region": "América del Norte",
+      "start": "2027-05-30",
+      "end": "2027-05-30",
+      "visitor_policy": "family",
+      "source": "https://cwsf-espc.ca/visit/",
+      "new": false
+    },
+    {
+      "id": "E680",
+      "name": "Canada-Wide Science Fair 2027 · Project Zone / STEM Expo",
+      "country": "Canadá",
+      "region": "América del Norte",
+      "start": "2027-06-03",
+      "end": "2027-06-04",
+      "visitor_policy": "family",
+      "source": "https://cwsf-espc.ca/visit/",
+      "new": false
+    },
+    {
+      "id": "E681",
+      "name": "Science Rendezvous 2027",
+      "country": "Canadá",
+      "region": "América del Norte",
+      "start": "2027-05-08",
+      "end": "2027-05-08",
+      "visitor_policy": "family",
+      "source": "https://www.sciencerendezvous.ca/",
+      "new": false
+    },
+    {
+      "id": "E682",
+      "name": "Science Festival Luxembourg 2027 · Public weekend",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "start": "2027-11-13",
+      "end": "2027-11-14",
+      "visitor_policy": "family",
+      "source": "https://www.science-festival.lu/en/infos-pour-grand-public/",
+      "new": false
+    },
+    {
+      "id": "E683",
+      "name": "Science is Wonderful! 2027 · MSCA",
+      "country": "Bélgica",
+      "region": "Europa",
+      "start": "2027-03-17",
+      "end": "2027-03-19",
+      "visitor_policy": "confirm_children",
+      "source": "https://marie-sklodowska-curie-actions.ec.europa.eu/whats-new/news/science-is-wonderful-2027-call",
+      "new": false
+    },
+    {
+      "id": "E684",
+      "name": "British Science Week 2027",
+      "country": "Reino Unido",
+      "region": "Europa",
+      "start": "2027-03-05",
+      "end": "2027-03-14",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.britishscienceweek.org/",
+      "new": false
+    },
+    {
+      "id": "E685",
+      "name": "National STEM Festival US 2027 · public programme watch",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2027-10-19",
+      "end": "2027-10-24",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.nationalstemfestival.com/attend",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -17660,8 +17781,8 @@
       }
     ],
     "counts": {
-      "records": 5341,
-      "holiday": 4832,
+      "records": 5343,
+      "holiday": 4834,
       "regular": 201,
       "self_paced_materials": 4,
       "boarding": 1039,

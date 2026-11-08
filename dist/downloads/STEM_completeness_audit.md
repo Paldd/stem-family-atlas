@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10833; соревнований: 4818; событий: 674; лагерей / программ: 5341. Профилей лиг и программ: 309. Карточек крупных и профильных выставок: 575 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10848; соревнований: 4820; событий: 685; лагерей / программ: 5343. Профилей лиг и программ: 309. Карточек крупных и профильных выставок: 586 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,16 +14,16 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 41 | 1966 | 149 | 1378 |
+| Северная Америка | 41 | 1967 | 153 | 1380 |
 | Южная Америка | 15 | 452 | 51 | 233 |
-| Европа | 55 | 636 | 141 | 1540 |
+| Европа | 55 | 637 | 148 | 1540 |
 | Африка | 60 | 247 | 40 | 130 |
 | Азия | 50 | 1183 | 160 | 1709 |
 | Океания | 27 | 167 | 32 | 336 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 189. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 815 из 4818 карточек соревнований (16.9%). Это явный перекос охвата.
+VEX: 815 из 4820 карточек соревнований (16.9%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -952,6 +952,17 @@ VEX: 815 из 4818 карточек соревнований (16.9%). Это я�
 - **Robotics Expo Finland · 2027** — Финляндия; дата неизвестна. Детский допуск уточнить. https://roboticaexpo.com/finland
 - **ExpoGame Chile · сезон 2027** — Чили; дата неизвестна. Детский допуск уточнить. https://www.expogamechile.cl/
 - **ROBOTICS Slovenia · IFAM / INTRONIKA · 2027** — Словения; дата неизвестна. Детский допуск уточнить. https://icm.si/events/robotics-slovenia/
+- **Great Exhibition Road Festival 2027** — Соединенное Королевство Великобритании и Северной Ирландии; 2027-06-19 – 2027-06-20. Со взрослым; условия взрослого входа отдельно. https://www.greatexhibitionroadfestival.co.uk/
+- **National STEM Festival UK · Open Build Days 2027** — Соединенное Королевство Великобритании и Северной Ирландии; 2027-05-08 – 2027-05-09. Со взрослым; условия взрослого входа отдельно. https://www.nationalstemfestival.com/attend-uk-2027
+- **Festival der Zukunft 2027 · Family Festival** — Германия; 2027-07-03 – 2027-07-04. Со взрослым; условия взрослого входа отдельно. https://festivalderzukunft.com/en
+- **Festival der Zukunft 2027 · AI Conference** — Германия; 2027-07-01 – 2027-07-02. Детский допуск уточнить. https://festivalderzukunft.com/en
+- **Canada-Wide Science Fair 2027 · Sunday public viewing** — Канада; 2027-05-30. Со взрослым; условия взрослого входа отдельно. https://cwsf-espc.ca/visit/
+- **Canada-Wide Science Fair 2027 · Project Zone / STEM Expo** — Канада; 2027-06-03 – 2027-06-04. Со взрослым; условия взрослого входа отдельно. https://cwsf-espc.ca/visit/
+- **Science Rendezvous 2027** — Канада; 2027-05-08. Со взрослым; условия взрослого входа отдельно. https://www.sciencerendezvous.ca/
+- **Science Festival Luxembourg 2027 · Public weekend** — Люксембург; 2027-11-13 – 2027-11-14. Со взрослым; условия взрослого входа отдельно. https://www.science-festival.lu/en/infos-pour-grand-public/
+- **Science is Wonderful! 2027 · MSCA** — Бельгия; 2027-03-17 – 2027-03-19. Детский допуск уточнить. https://marie-sklodowska-curie-actions.ec.europa.eu/whats-new/news/science-is-wonderful-2027-call
+- **British Science Week 2027** — Соединенное Королевство Великобритании и Северной Ирландии; 2027-03-05 – 2027-03-14. Детский допуск уточнить. https://www.britishscienceweek.org/
+- **National STEM Festival US 2027 · public programme watch** — Соединенные Штаты Америки; 2027-10-19 – 2027-10-24. Детский допуск уточнить. https://www.nationalstemfestival.com/attend
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

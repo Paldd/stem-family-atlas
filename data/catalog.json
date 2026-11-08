@@ -7873,7 +7873,7 @@
     {
       "block": "Лагеря",
       "id": "L032",
-      "title": "STEM Camp Ontario — следующий летний сезон",
+      "title": "STEM Camp Ontario · лето 2027 · условия сверить",
       "country": "Канада",
       "region": "Северная Америка",
       "city": "Онтарио, несколько городов",
@@ -7882,23 +7882,23 @@
       "period": "Летние недели; 2026 прошло, 2027 ещё не подтверждён",
       "date_status": "Не объявлено",
       "deadline": "",
-      "age": "4–13 на 01.01.2026; отсечку нового сезона проверить",
-      "mat": "Да по возрасту",
-      "osc": "Да по возрасту",
+      "age": "В FAQ указан возраст 4–13 и прежняя отсечка 01.01.2026. Правило 2027 требует проверки.",
+      "mat": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "osc": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
       "format": "Полная недельная дневная программа; частичная неделя не дешевле",
-      "entry": "Выбрать город, затем CampBrain; будущую смену подтвердить",
+      "entry": "На главной открытие записи на 2027 объявлено. Сроки, место и возраст проверить на странице выбранного лагеря.",
       "gear": "По программе",
       "language": "EN-кандидат; преподавание/иностранный приём подтвердить",
       "cost": "Актуальная цена не подтверждена",
       "level": "D — обучение",
       "reward": "Учебный проект/сертификат; не победа в международном турнире",
       "priority": "P2 — каникулы",
-      "action": "Проверить дату отсечки 2027, язык, условия приёма гостей и конкретные tech-темы недели",
+      "action": "Сверить конкретный филиал, возрастную отсечку и итоговый счёт.",
       "source": "https://stemcamp.ca/summer-camp/stem-camp-faq/",
       "proof": "Открыт FAQ: возраст без исключений, дневной формат и правила бронирования; даты нового года отсутствуют",
-      "checked": "2026-09-30",
+      "checked": "2026-11-08",
       "status": "Идея",
-      "note": "Общий STEM не гарантирует роботов или AI каждый день. Англоязычный сайт не является отдельным подтверждением языка занятия.",
+      "note": "FAQ указывает открытие записи 02.11.2027, а главная сообщает, что запись на лето 2027 уже открыта. Расписание и цена филиала не подтверждены.",
       "scope": "regional",
       "themes": [
         "technology"
@@ -7911,7 +7911,13 @@
       "iso": [
         "CAN"
       ],
-      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью",
+      "references": [
+        {
+          "url": "https://stemcamp.ca/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ]
     },
     {
       "block": "Лагеря",
@@ -198164,15 +198170,24 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "language_certainty": "Язык конкретной мастерской или демонстрации уточнить.",
-      "cost": "Тариф для этого выпуска пока не подтверждён.",
+      "cost": "Продажа билетов открыта. Сумма и категории зависят от выбора в форме организатора.",
       "level": "Семейная выставка или maker-фестиваль",
       "reward": "Демонстрации и знакомство с проектами.",
       "priority": "P3 — посещение по программе",
-      "action": "Уточнить условия входа и выбрать занятия по возрасту и языку.",
+      "action": "Открыть официальную форму билетов. Перед покупкой проверить детский тариф и запись на мастерские.",
       "source": "https://makerfaire.cz/praha/",
-      "references": [],
+      "references": [
+        {
+          "url": "https://makerfaire.cz/en/prague/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://makerfaire.cz/en/prague-tickets/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
       "proof": "Дата и сведения о входе сверены по источнику организатора.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Идея",
       "note": "Информация о билетах 2027 будет на странице организатора. Стоимость мастерских может отличаться от входного билета.",
       "themes": [
@@ -359563,6 +359578,888 @@
       "exhibitor_note": "Проверить у организатора допуск детей, вид билета и список экспонентов на нужный день.",
       "exhibitor_directory_url": "",
       "delivery_mode": "in_person"
+    },
+    {
+      "id": "E675",
+      "title": "Great Exhibition Road Festival 2027",
+      "block": "События",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR"
+      ],
+      "city": "South Kensington · London",
+      "start": "2027-06-19",
+      "end": "2027-06-20",
+      "period": "19–20 июня 2027, 12:00–18:00 по Лондону.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.greatexhibitionroadfestival.co.uk/",
+      "references": [
+        {
+          "url": "https://www.greatexhibitionroadfestival.co.uk/visit-us/faqs/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Для всех возрастов.",
+      "mat": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "osc": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "format": "Семейный научно-технический фестиваль.",
+      "entry": "Большинство занятий свободного посещения. На часть мероприятий выпускают бесплатные билеты.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Вход бесплатный.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "note": "",
+      "themes": [
+        "technology",
+        "engineering",
+        "general"
+      ],
+      "scope": "national",
+      "importance_reason": "Программа фестиваля 2027 с отдельными условиями посещения.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "child_entry": "Дети на всех занятиях со взрослым. Family Fun Zone рассчитана на детей до 12 лет включительно. Adults Only Zone — от 18 лет.",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "exhibition_tier": "profile",
+      "highlights": [
+        "Наука, технологии и искусство на площадках South Kensington. Программа 2027 выйдет отдельно."
+      ],
+      "exhibitor_note": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "exhibitor_directory_url": "",
+      "delivery_mode": "in_person",
+      "date_precision": "published_session"
+    },
+    {
+      "id": "E676",
+      "title": "National STEM Festival UK · Open Build Days 2027",
+      "block": "События",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR"
+      ],
+      "city": "26 Leake Street · Waterloo · London",
+      "start": "2027-05-08",
+      "end": "2027-05-09",
+      "period": "8–9 мая 2027 — два дня для публики.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.nationalstemfestival.com/attend-uk-2027",
+      "references": [
+        {
+          "url": "https://www.nationalstemfestival.com/attend",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Для всех возрастов.",
+      "mat": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "osc": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "format": "Семейный научно-технический фестиваль.",
+      "entry": "Обычным посетителям регистрация не требуется.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Вход бесплатный.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "note": "",
+      "themes": [
+        "technology",
+        "engineering",
+        "ai",
+        "general"
+      ],
+      "scope": "national",
+      "importance_reason": "Программа фестиваля 2027 с отдельными условиями посещения.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Обычным посетителям регистрация не требуется.",
+      "child_entry": "Доступно для семей с детьми.",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "exhibition_tier": "profile",
+      "highlights": [
+        "Инженерные эксперименты и практическая сборка. Расписание отдельных занятий ещё выйдет."
+      ],
+      "exhibitor_note": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "exhibitor_directory_url": "",
+      "delivery_mode": "in_person",
+      "date_precision": "published_session",
+      "related_ids": [
+        "C4820"
+      ]
+    },
+    {
+      "id": "E677",
+      "title": "Festival der Zukunft 2027 · Family Festival",
+      "block": "События",
+      "country": "Германия",
+      "region": "Европа",
+      "iso": [
+        "DEU"
+      ],
+      "city": "Deutsches Museum · Munich",
+      "start": "2027-07-03",
+      "end": "2027-07-04",
+      "period": "3–4 июля 2027 — семейные выходные фестиваля 1–4 июля.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://festivalderzukunft.com/en",
+      "references": [
+        {
+          "url": "https://festivalderzukunft.com/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Семейная программа для всех поколений. Возраст отдельных активностей уточнить.",
+      "mat": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "osc": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "format": "Семейный научно-технический фестиваль.",
+      "entry": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Вход бесплатный.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "note": "",
+      "themes": [
+        "robotics",
+        "ai",
+        "technology",
+        "engineering"
+      ],
+      "scope": "national",
+      "importance_reason": "Программа фестиваля 2027 с отдельными условиями посещения.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "child_entry": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "exhibition_tier": "profile",
+      "highlights": [
+        "Робототехника, искусственный интеллект, практические мастерские и демонстрации."
+      ],
+      "exhibitor_note": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "exhibitor_directory_url": "",
+      "delivery_mode": "in_person",
+      "date_precision": "published_session",
+      "related_ids": [
+        "E678"
+      ]
+    },
+    {
+      "id": "E678",
+      "title": "Festival der Zukunft 2027 · AI Conference",
+      "block": "События",
+      "country": "Германия",
+      "region": "Европа",
+      "iso": [
+        "DEU"
+      ],
+      "city": "Deutsches Museum · Munich",
+      "start": "2027-07-01",
+      "end": "2027-07-02",
+      "period": "1–2 июля 2027 — конференция. Семейные дни вынесены в отдельную карточку.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://festivalderzukunft.com/en",
+      "references": [
+        {
+          "url": "https://festivalderzukunft.com/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "mat": "Условия для детей и расписание общего входа ещё уточняются.",
+      "osc": "Условия для детей и расписание общего входа ещё уточняются.",
+      "format": "Выставка и практические демонстрации.",
+      "entry": "Билет конференции. Условия для несовершеннолетних уточнить.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Тариф Super Early Bird до 31.12.2026: Regular 99 EUR за два дня, AI Business 299 EUR, Student 29 EUR при подтверждении статуса.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "note": "",
+      "themes": [
+        "robotics",
+        "ai",
+        "technology",
+        "engineering"
+      ],
+      "scope": "national",
+      "importance_reason": "Программа фестиваля 2027 с отдельными условиями посещения.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "child_entry": "Условия для детей и расписание общего входа ещё уточняются.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Условия для детей и расписание общего входа ещё уточняются.",
+      "exhibition_tier": "profile",
+      "highlights": [
+        "Выставка и практические демонстрации."
+      ],
+      "exhibitor_note": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "exhibitor_directory_url": "",
+      "delivery_mode": "in_person",
+      "date_precision": "published_session",
+      "related_ids": [
+        "E677"
+      ]
+    },
+    {
+      "id": "E679",
+      "title": "Canada-Wide Science Fair 2027 · Sunday public viewing",
+      "block": "События",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "iso": [
+        "CAN"
+      ],
+      "city": "Hamilton Convention Centre · Hamilton",
+      "start": "2027-05-30",
+      "end": "2027-05-30",
+      "period": "30 мая 2027, 15:00–16:30 по Гамильтону.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://cwsf-espc.ca/visit/",
+      "references": [
+        {
+          "url": "https://cwsf-espc.ca/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://cwsf-espc.ca/faq/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Публичное посещение для семей. Возраст отдельных активностей уточнить.",
+      "mat": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "osc": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "format": "Семейный научно-технический фестиваль.",
+      "entry": "Обычным посетителям регистрация не требуется.",
+      "gear": "",
+      "language": "Организатор подтверждает двуязычный формат на английском и французском.",
+      "languages": [
+        "EN",
+        "FR"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Организатор подтверждает двуязычный формат на английском и французском.",
+      "cost": "Вход бесплатный.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "note": "Главная и страница посещения указывают это короткое окно. FAQ отдельно перечисляет 3–4 июня.",
+      "themes": [
+        "engineering",
+        "technology",
+        "general"
+      ],
+      "scope": "national",
+      "importance_reason": "Программа фестиваля 2027 с отдельными условиями посещения.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Обычным посетителям регистрация не требуется.",
+      "child_entry": "Доступно для семей с детьми.",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "exhibition_tier": "profile",
+      "highlights": [
+        "Школьные инженерные проекты в Project Zone. Доступ к отдельным стендам проверить по часам."
+      ],
+      "exhibitor_note": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "exhibitor_directory_url": "",
+      "delivery_mode": "in_person",
+      "date_precision": "published_session",
+      "related_ids": [
+        "E680"
+      ]
+    },
+    {
+      "id": "E680",
+      "title": "Canada-Wide Science Fair 2027 · Project Zone / STEM Expo",
+      "block": "События",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "iso": [
+        "CAN"
+      ],
+      "city": "Hamilton Convention Centre · Hamilton",
+      "start": "2027-06-03",
+      "end": "2027-06-04",
+      "period": "3–4 июня 2027, 09:00–14:30 ежедневно по Гамильтону.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://cwsf-espc.ca/visit/",
+      "references": [
+        {
+          "url": "https://cwsf-espc.ca/faq/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://cwsf-espc.ca/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Публичное посещение для семей. Возраст отдельных активностей уточнить.",
+      "mat": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "osc": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "format": "Семейный научно-технический фестиваль.",
+      "entry": "Обычным посетителям регистрация не требуется.",
+      "gear": "",
+      "language": "Организатор подтверждает двуязычный формат на английском и французском.",
+      "languages": [
+        "EN",
+        "FR"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Организатор подтверждает двуязычный формат на английском и французском.",
+      "cost": "Вход бесплатный.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "note": "Школьным группам нужна предварительная запись.",
+      "themes": [
+        "engineering",
+        "technology",
+        "general"
+      ],
+      "scope": "national",
+      "importance_reason": "Программа фестиваля 2027 с отдельными условиями посещения.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Обычным посетителям регистрация не требуется.",
+      "child_entry": "Доступно для семей с детьми.",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "exhibition_tier": "profile",
+      "highlights": [
+        "Школьные инженерные проекты в Project Zone. Доступ к отдельным стендам проверить по часам."
+      ],
+      "exhibitor_note": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "exhibitor_directory_url": "",
+      "delivery_mode": "in_person",
+      "date_precision": "published_session",
+      "related_ids": [
+        "E679"
+      ]
+    },
+    {
+      "id": "E681",
+      "title": "Science Rendezvous 2027",
+      "block": "События",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "iso": [
+        "CAN"
+      ],
+      "city": "Canada · multiple cities",
+      "start": "2027-05-08",
+      "end": "2027-05-08",
+      "period": "8 мая 2027 — национальная дата сети. Даты и часы выбранной площадки сверить отдельно.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.sciencerendezvous.ca/",
+      "references": [
+        {
+          "url": "https://www.sciencerendezvous.ca/event-sites/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Семейная аудитория. У площадок свои правила занятий.",
+      "mat": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "osc": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "format": "Семейный научно-технический фестиваль.",
+      "entry": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Проверить тариф и необходимость записи у выбранной площадки.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "note": "Список площадок содержит прошлые выпуски. Местные даты 2026 не перенесены в 2027.",
+      "themes": [
+        "engineering",
+        "technology",
+        "general"
+      ],
+      "scope": "national",
+      "importance_reason": "Программа фестиваля 2027 с отдельными условиями посещения.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "child_entry": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "exhibition_tier": "profile",
+      "highlights": [
+        "Выставка и практические демонстрации."
+      ],
+      "exhibitor_note": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "exhibitor_directory_url": "",
+      "delivery_mode": "in_person",
+      "date_precision": "published_session"
+    },
+    {
+      "id": "E682",
+      "title": "Science Festival Luxembourg 2027 · Public weekend",
+      "block": "События",
+      "country": "Люксембург",
+      "region": "Европа",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Naturmusée / Abbaye Neumünster · Luxembourg-Grund",
+      "start": "2027-11-13",
+      "end": "2027-11-14",
+      "period": "13–14 ноября 2027 — публика. 11–12 ноября — школы и группы.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.science-festival.lu/en/infos-pour-grand-public/",
+      "references": [
+        {
+          "url": "https://www.science-festival.lu/appel-a-proposition-2027/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.science-festival.lu/en/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Целевая аудитория от 6 лет.",
+      "mat": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "osc": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "format": "Семейный научно-технический фестиваль.",
+      "entry": "С сентября 2027 доступна предварительная запись на отдельные шоу.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Проверить цену фестиваля и конкретных занятий при открытии бронирования.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "note": "",
+      "themes": [
+        "engineering",
+        "technology",
+        "general"
+      ],
+      "scope": "national",
+      "importance_reason": "Программа фестиваля 2027 с отдельными условиями посещения.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "child_entry": "Дети от 6 лет входят в целевую аудиторию. У отдельных занятий могут быть свои правила.",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Да для семейного визита. Возраст и язык отдельных занятий уточнить.",
+      "exhibition_tier": "profile",
+      "highlights": [
+        "Выставка и практические демонстрации."
+      ],
+      "exhibitor_note": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "exhibitor_directory_url": "",
+      "delivery_mode": "in_person",
+      "date_precision": "published_session",
+      "visitor_age_min": 6
+    },
+    {
+      "id": "E683",
+      "title": "Science is Wonderful! 2027 · MSCA",
+      "block": "События",
+      "country": "Бельгия",
+      "region": "Европа",
+      "iso": [
+        "BEL"
+      ],
+      "city": "Brussels",
+      "start": "2027-03-17",
+      "end": "2027-03-19",
+      "period": "17–19 марта 2027 — выставка. 16 марта — монтаж экспонентов.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://marie-sklodowska-curie-actions.ec.europa.eu/whats-new/news/science-is-wonderful-2027-call",
+      "references": [
+        {
+          "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/science-is-wonderful",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/es/science-is-wonderful",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Обычно школьные группы 7–18 лет. Организатор просит стенды готовить задания для разных возрастов.",
+      "mat": "Условия для детей и расписание общего входа ещё уточняются.",
+      "osc": "Условия для детей и расписание общего входа ещё уточняются.",
+      "format": "Выставка и практические демонстрации.",
+      "entry": "Для школьных групп действует предварительная запись. Семье уточнить самостоятельный вход.",
+      "gear": "",
+      "language": "Исследователи должны владеть английским. Для посетителей предусмотрена помощь на французском и нидерландском.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Выставка заявлена бесплатной. Порядок посещения семьёй уточнить.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "note": "",
+      "themes": [
+        "engineering",
+        "technology",
+        "general"
+      ],
+      "scope": "national",
+      "importance_reason": "Программа фестиваля 2027 с отдельными условиями посещения.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "child_entry": "Допуск самостоятельного семейного визита и ограничения отдельных шоу уточнить.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Условия для детей и расписание общего входа ещё уточняются.",
+      "exhibition_tier": "profile",
+      "highlights": [
+        "Выставка и практические демонстрации."
+      ],
+      "exhibitor_note": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "exhibitor_directory_url": "",
+      "delivery_mode": "in_person",
+      "date_precision": "published_session"
+    },
+    {
+      "id": "E684",
+      "title": "British Science Week 2027",
+      "block": "События",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR"
+      ],
+      "city": "United Kingdom · multiple venues",
+      "start": "2027-03-05",
+      "end": "2027-03-14",
+      "period": "5–14 марта 2027 — общая неделя. Даты местных программ различаются.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.britishscienceweek.org/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "mat": "Условия для детей и расписание общего входа ещё уточняются.",
+      "osc": "Условия для детей и расписание общего входа ещё уточняются.",
+      "format": "Национальная сеть STEM-активностей.",
+      "entry": "Выбрать местное событие с опубликованной программой или взять задания для дома.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Стартовый набор бесплатный. Цена местных мероприятий зависит от площадки.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "note": "",
+      "themes": [
+        "engineering",
+        "technology",
+        "general"
+      ],
+      "scope": "national",
+      "importance_reason": "Программа фестиваля 2027 с отдельными условиями посещения.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "child_entry": "Условия для детей и расписание общего входа ещё уточняются.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Условия для детей и расписание общего входа ещё уточняются.",
+      "exhibition_tier": "profile",
+      "highlights": [
+        "Тема 2027 — творчество. Стартовый набор домашних заданий доступен бесплатно."
+      ],
+      "exhibitor_note": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "exhibitor_directory_url": "",
+      "delivery_mode": "in_person",
+      "date_precision": "published_session"
+    },
+    {
+      "id": "E685",
+      "title": "National STEM Festival US 2027 · public programme watch",
+      "block": "События",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "iso": [
+        "USA"
+      ],
+      "city": "Washington, DC",
+      "start": "2027-10-19",
+      "end": "2027-10-24",
+      "period": "19–24 октября 2027 — окно фестиваля. Дни для широкой публики уточняются.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://www.nationalstemfestival.com/attend",
+      "references": [
+        {
+          "url": "https://www.nationalstemfestival.com/rules-guidelines-us",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "mat": "Условия для детей и расписание общего входа ещё уточняются.",
+      "osc": "Условия для детей и расписание общего входа ещё уточняются.",
+      "format": "Выставка и практические демонстрации.",
+      "entry": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "note": "",
+      "themes": [
+        "engineering",
+        "technology",
+        "ai",
+        "general"
+      ],
+      "scope": "national",
+      "importance_reason": "Программа фестиваля 2027 с отдельными условиями посещения.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "child_entry": "Условия для детей и расписание общего входа ещё уточняются.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Условия для детей и расписание общего входа ещё уточняются.",
+      "exhibition_tier": "profile",
+      "highlights": [
+        "Выставка и практические демонстрации."
+      ],
+      "exhibitor_note": "Проверьте программу, часы и отдельную запись на мастерские.",
+      "exhibitor_directory_url": "",
+      "delivery_mode": "in_person",
+      "date_precision": "announced_window",
+      "date_rule": "19–24 октября 2027 — окно фестиваля. Дни для широкой публики уточняются.",
+      "related_ids": [
+        "C4821"
+      ]
+    },
+    {
+      "id": "C4820",
+      "title": "National STEM Festival UK 2027 · Project Competition",
+      "block": "Соревнования",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR"
+      ],
+      "city": "Online / London",
+      "start": "2026-09-16",
+      "end": "2026-11-22",
+      "period": "Заявка до 22.11.2026, 23:59 GMT. Очная программа для выбранных участников 5–10 мая 2027.",
+      "deadline": "2026-11-22",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.nationalstemfestival.com/rules-guidelines-uk",
+      "references": [
+        {
+          "url": "https://www.nationalstemfestival.com/apply-uk-2027",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.nationalstemfestival.com/attend-uk-2027",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "От 13 лет на момент подачи, до 19 лет включительно на 22.11.2026. Нужен подходящий британский учебный трек.",
+      "mat": "Нет. Не достигает минимального возраста конкурса.",
+      "osc": "Нет. Не достигает минимального возраста конкурса.",
+      "format": "Индивидуальный конкурс проектов с очной встречей для выбранных участников.",
+      "entry": "Один индивидуальный проект. Сначала онлайн-заявка и отбор, затем приглашение отобранным участникам.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P4 — возраст пока ниже минимума",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Правила требуют обычного проживания в стране подачи и соответствующего уровня образования. Гражданство страны не обязательно.",
+      "themes": [
+        "engineering",
+        "technology",
+        "ai",
+        "general"
+      ],
+      "scope": "national",
+      "importance_reason": "Региональный этап",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "submission_window",
+      "delivery_mode": "hybrid",
+      "date_precision": "published_session",
+      "team_min": 1,
+      "team_max": 1,
+      "related_ids": [
+        "E676"
+      ]
+    },
+    {
+      "id": "C4821",
+      "title": "National STEM Festival US 2027 · Project Competition",
+      "block": "Соревнования",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "iso": [
+        "USA"
+      ],
+      "city": "Online / Washington, DC",
+      "start": "2027-01-11",
+      "end": "2027-04-11",
+      "period": "Заявка до 11.04.2027, 23:59 по восточному времени США. Очный фестиваль 19–24 октября 2027.",
+      "deadline": "2027-04-11",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.nationalstemfestival.com/rules-guidelines-us",
+      "references": [
+        {
+          "url": "https://www.nationalstemfestival.com/attend",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Минимум 13 лет на 11.04.2027. Требуется 7–12 класс на дату заявки и проживание в допустимом регионе США.",
+      "mat": "Нет. Не достигает минимального возраста конкурса.",
+      "osc": "Нет. Не достигает минимального возраста конкурса.",
+      "format": "Индивидуальный конкурс проектов с очной встречей для выбранных участников.",
+      "entry": "Один индивидуальный проект. Сначала онлайн-заявка и отбор, затем приглашение отобранным участникам.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P4 — возраст пока ниже минимума",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Правила требуют обычного проживания в стране подачи и соответствующего уровня образования. Гражданство страны не обязательно.",
+      "themes": [
+        "engineering",
+        "technology",
+        "ai",
+        "general"
+      ],
+      "scope": "national",
+      "importance_reason": "Региональный этап",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "submission_window",
+      "delivery_mode": "hybrid",
+      "date_precision": "published_session",
+      "team_min": 1,
+      "team_max": 1,
+      "related_ids": [
+        "E685"
+      ]
     },
     {
       "id": "CP001-20270606-20270619",
@@ -755516,6 +756413,168 @@
       }
     },
     {
+      "id": "CP2121-20270621-20270709-session-one",
+      "block": "Лагеря",
+      "title": "Camp Asimov · Robotics Engineering · Смена 1 · 2027-06-21–2027-07-09",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "city": "2341 Michigan Ave · Santa Monica, California",
+      "start": "2027-06-21",
+      "end": "2027-07-09",
+      "period": "Две смены летом 2027. Каждая по 15 учебных дней. 5 июля входит в первую смену.",
+      "date_status": "Анонсировано",
+      "deadline": "",
+      "age": "10–17 лет. Дату расчёта возраста подтвердить.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневная программа, понедельник–пятница, 09:00–16:00. Проживание не входит.",
+      "entry": "Заявка открыта. Лагерь рассматривает её до оплаты депозита. Для проведения смены нужен минимальный набор.",
+      "gear": "Каждый строит собственного робота. В программе CAD, механика, электромонтаж, датчики, Java, испытания и инженерный журнал. До 12 учеников в группе.",
+      "language": "Программа и инструкции для родителей опубликованы на английском. Язык занятий подтвердить у лагеря.",
+      "cost": "2027 · 3600 USD за 15 учебных дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить возраст, язык занятий, приём иностранцев и набор группы до оплаты.",
+      "source": "https://www.campasimov.com/faq",
+      "references": [
+        {
+          "url": "https://www.campasimov.com/faq",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.campasimov.com/program",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: В 2027 исполняется 10 лет. Проверить, исполнилось ли 10 к дате отсечки для выбранной смены. Оскар: В 2027 младше 10 лет. Доплаты: Обед с собой с понедельника по четверг. Проживание и поездка отдельно. Оплата: 1200 USD после принятия заявки входят в цену. Остаток 2400 USD.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Программа и инструкции для родителей опубликованы на английском. Язык занятий подтвердить у лагеря.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "camp-asimov-santa-monica",
+      "camp_programme_id": "CP2121",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Заявка открыта. Лагерь рассматривает её до оплаты депозита. Для проведения смены нужен минимальный набор."
+      },
+      "date_rule": "Две смены летом 2027. Каждая по 15 учебных дней. 5 июля входит в первую смену."
+    },
+    {
+      "id": "CP2121-20270712-20270730-session-two",
+      "block": "Лагеря",
+      "title": "Camp Asimov · Robotics Engineering · Смена 2 · 2027-07-12–2027-07-30",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "city": "2341 Michigan Ave · Santa Monica, California",
+      "start": "2027-07-12",
+      "end": "2027-07-30",
+      "period": "Две смены летом 2027. Каждая по 15 учебных дней. 5 июля входит в первую смену.",
+      "date_status": "Анонсировано",
+      "deadline": "",
+      "age": "10–17 лет. Дату расчёта возраста подтвердить.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневная программа, понедельник–пятница, 09:00–16:00. Проживание не входит.",
+      "entry": "Заявка открыта. Лагерь рассматривает её до оплаты депозита. Для проведения смены нужен минимальный набор.",
+      "gear": "Каждый строит собственного робота. В программе CAD, механика, электромонтаж, датчики, Java, испытания и инженерный журнал. До 12 учеников в группе.",
+      "language": "Программа и инструкции для родителей опубликованы на английском. Язык занятий подтвердить у лагеря.",
+      "cost": "2027 · 3600 USD за 15 учебных дней. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Подтвердить возраст, язык занятий, приём иностранцев и набор группы до оплаты.",
+      "source": "https://www.campasimov.com/faq",
+      "references": [
+        {
+          "url": "https://www.campasimov.com/faq",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.campasimov.com/program",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: В 2027 исполняется 10 лет. Проверить, исполнилось ли 10 к дате отсечки для выбранной смены. Оскар: В 2027 младше 10 лет. Доплаты: Обед с собой с понедельника по четверг. Проживание и поездка отдельно. Оплата: 1200 USD после принятия заявки входят в цену. Остаток 2400 USD.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Программа и инструкции для родителей опубликованы на английском. Язык занятий подтвердить у лагеря.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "camp-asimov-santa-monica",
+      "camp_programme_id": "CP2121",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Заявка открыта. Лагерь рассматривает её до оплаты депозита. Для проведения смены нужен минимальный набор."
+      },
+      "date_rule": "Две смены летом 2027. Каждая по 15 учебных дней. 5 июля входит в первую смену."
+    },
+    {
       "id": "TC2027-SHOWCASE",
       "block": "События",
       "title": "The Tech Challenge 2027 · Game On! · показ инженерных проектов",
@@ -799054,7 +800113,7 @@
       "checked": "2026-09-29"
     }
   ],
-  "source_count": 9506,
+  "source_count": 9532,
   "sources": [
     {
       "url": "https://www.torneoluva.com",
@@ -799731,7 +800790,7 @@
       "url": "https://stemcamp.ca/summer-camp/stem-camp-faq/",
       "title": "STEM Camp Ontario — следующий летний сезон",
       "evidence": "Открыт FAQ: возраст без исключений, дневной формат и правила бронирования; даты нового года отсутствуют",
-      "checked": "2026-09-30"
+      "checked": "2026-11-08"
     },
     {
       "url": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2026/",
@@ -855988,6 +857047,162 @@
       "title": "Страница организатора или регламент категории.",
       "checked": "2026-11-08",
       "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.greatexhibitionroadfestival.co.uk/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.greatexhibitionroadfestival.co.uk/visit-us/faqs/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.nationalstemfestival.com/attend-uk-2027",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.nationalstemfestival.com/attend",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://festivalderzukunft.com/en",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://festivalderzukunft.com/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://cwsf-espc.ca/visit/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://cwsf-espc.ca/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://cwsf-espc.ca/faq/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.sciencerendezvous.ca/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.sciencerendezvous.ca/event-sites/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.science-festival.lu/en/infos-pour-grand-public/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.science-festival.lu/appel-a-proposition-2027/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.science-festival.lu/en/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/whats-new/news/science-is-wonderful-2027-call",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/science-is-wonderful",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/es/science-is-wonderful",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.britishscienceweek.org/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.nationalstemfestival.com/rules-guidelines-us",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.nationalstemfestival.com/rules-guidelines-uk",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.nationalstemfestival.com/apply-uk-2027",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://makerfaire.cz/en/prague/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://makerfaire.cz/en/prague-tickets/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://stemcamp.ca/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.campasimov.com/faq",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.campasimov.com/program",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
     }
   ],
   "wro_members": 108,
@@ -858764,9 +859979,9 @@
       "region": "Северная Америка",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 61,
-      "exhibitions": 8,
+      "exhibitions": 11,
       "camps": 556,
-      "dated": 622,
+      "dated": 625,
       "organizer": "Zone01 Robotics",
       "organizer_url": "http://www.zone01.ca",
       "network_routes": 4,
@@ -858805,10 +860020,10 @@
       "country": "Соединенные Штаты Америки",
       "region": "Северная Америка",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 1427,
-      "exhibitions": 58,
-      "camps": 473,
-      "dated": 1930,
+      "competitions": 1428,
+      "exhibitions": 59,
+      "camps": 475,
+      "dated": 1934,
       "organizer": "US Engineering League",
       "organizer_url": "https://www.uselyouthrobotics.com",
       "network_routes": 4,
@@ -859883,10 +861098,10 @@
       "country": "Соединенное Королевство Великобритании и Северной Ирландии",
       "region": "Европа",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 47,
-      "exhibitions": 15,
+      "competitions": 48,
+      "exhibitions": 18,
       "camps": 65,
-      "dated": 119,
+      "dated": 123,
       "organizer": "STEMpura CIC",
       "organizer_url": "https://www.stempura.org/",
       "network_routes": 4,
@@ -860136,9 +861351,9 @@
       "region": "Европа",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 21,
-      "exhibitions": 6,
+      "exhibitions": 7,
       "camps": 1,
-      "dated": 25,
+      "dated": 26,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
       "network_routes": 3,
@@ -860164,9 +861379,9 @@
       "region": "Европа",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 26,
-      "exhibitions": 26,
+      "exhibitions": 28,
       "camps": 36,
-      "dated": 72,
+      "dated": 74,
       "organizer": "TECHNIK BEGEISTERT e.V.",
       "organizer_url": "https://www.worldrobotolympiad.de",
       "network_routes": 4,
@@ -860192,9 +861407,9 @@
       "region": "Европа",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 10,
-      "exhibitions": 3,
+      "exhibitions": 4,
       "camps": 21,
-      "dated": 34,
+      "dated": 35,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
       "network_routes": 2,
@@ -891333,12 +892548,12 @@
       "fully_audited_countries": 0
     },
     "counts": {
-      "cards": 10833,
-      "competition_cards": 4818,
-      "event_cards": 674,
-      "camp_cards": 5341,
+      "cards": 10848,
+      "competition_cards": 4820,
+      "event_cards": 685,
+      "camp_cards": 5343,
       "league_profiles": 309,
-      "major_exhibition_cards": 575,
+      "major_exhibition_cards": 586,
       "vex_cards": 815,
       "countries_with_records": 242,
       "fully_audited_countries": 0
@@ -891351,12 +892566,12 @@
           "Центральная Америка",
           "Карибский регион"
         ],
-        "total": 3534,
+        "total": 3541,
         "countries_with_records": 41,
-        "competitions": 1966,
-        "events": 190,
-        "major_exhibitions": 149,
-        "camps": 1378,
+        "competitions": 1967,
+        "events": 194,
+        "major_exhibitions": 153,
+        "camps": 1380,
         "status": "Частично исследовано",
         "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
       },
@@ -891379,11 +892594,11 @@
         "regions": [
           "Европа"
         ],
-        "total": 2342,
+        "total": 2350,
         "countries_with_records": 55,
-        "competitions": 636,
-        "events": 166,
-        "major_exhibitions": 141,
+        "competitions": 637,
+        "events": 173,
+        "major_exhibitions": 148,
         "camps": 1540,
         "status": "Частично исследовано",
         "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
@@ -906560,6 +907775,127 @@
         "new": false
       },
       {
+        "id": "E675",
+        "name": "Great Exhibition Road Festival 2027",
+        "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+        "region": "Европа",
+        "start": "2027-06-19",
+        "end": "2027-06-20",
+        "visitor_policy": "family",
+        "source": "https://www.greatexhibitionroadfestival.co.uk/",
+        "new": false
+      },
+      {
+        "id": "E676",
+        "name": "National STEM Festival UK · Open Build Days 2027",
+        "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+        "region": "Европа",
+        "start": "2027-05-08",
+        "end": "2027-05-09",
+        "visitor_policy": "family",
+        "source": "https://www.nationalstemfestival.com/attend-uk-2027",
+        "new": false
+      },
+      {
+        "id": "E677",
+        "name": "Festival der Zukunft 2027 · Family Festival",
+        "country": "Германия",
+        "region": "Европа",
+        "start": "2027-07-03",
+        "end": "2027-07-04",
+        "visitor_policy": "family",
+        "source": "https://festivalderzukunft.com/en",
+        "new": false
+      },
+      {
+        "id": "E678",
+        "name": "Festival der Zukunft 2027 · AI Conference",
+        "country": "Германия",
+        "region": "Европа",
+        "start": "2027-07-01",
+        "end": "2027-07-02",
+        "visitor_policy": "confirm_children",
+        "source": "https://festivalderzukunft.com/en",
+        "new": false
+      },
+      {
+        "id": "E679",
+        "name": "Canada-Wide Science Fair 2027 · Sunday public viewing",
+        "country": "Канада",
+        "region": "Северная Америка",
+        "start": "2027-05-30",
+        "end": "2027-05-30",
+        "visitor_policy": "family",
+        "source": "https://cwsf-espc.ca/visit/",
+        "new": false
+      },
+      {
+        "id": "E680",
+        "name": "Canada-Wide Science Fair 2027 · Project Zone / STEM Expo",
+        "country": "Канада",
+        "region": "Северная Америка",
+        "start": "2027-06-03",
+        "end": "2027-06-04",
+        "visitor_policy": "family",
+        "source": "https://cwsf-espc.ca/visit/",
+        "new": false
+      },
+      {
+        "id": "E681",
+        "name": "Science Rendezvous 2027",
+        "country": "Канада",
+        "region": "Северная Америка",
+        "start": "2027-05-08",
+        "end": "2027-05-08",
+        "visitor_policy": "family",
+        "source": "https://www.sciencerendezvous.ca/",
+        "new": false
+      },
+      {
+        "id": "E682",
+        "name": "Science Festival Luxembourg 2027 · Public weekend",
+        "country": "Люксембург",
+        "region": "Европа",
+        "start": "2027-11-13",
+        "end": "2027-11-14",
+        "visitor_policy": "family",
+        "source": "https://www.science-festival.lu/en/infos-pour-grand-public/",
+        "new": false
+      },
+      {
+        "id": "E683",
+        "name": "Science is Wonderful! 2027 · MSCA",
+        "country": "Бельгия",
+        "region": "Европа",
+        "start": "2027-03-17",
+        "end": "2027-03-19",
+        "visitor_policy": "confirm_children",
+        "source": "https://marie-sklodowska-curie-actions.ec.europa.eu/whats-new/news/science-is-wonderful-2027-call",
+        "new": false
+      },
+      {
+        "id": "E684",
+        "name": "British Science Week 2027",
+        "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+        "region": "Европа",
+        "start": "2027-03-05",
+        "end": "2027-03-14",
+        "visitor_policy": "confirm_children",
+        "source": "https://www.britishscienceweek.org/",
+        "new": false
+      },
+      {
+        "id": "E685",
+        "name": "National STEM Festival US 2027 · public programme watch",
+        "country": "Соединенные Штаты Америки",
+        "region": "Северная Америка",
+        "start": "2027-10-19",
+        "end": "2027-10-24",
+        "visitor_policy": "confirm_children",
+        "source": "https://www.nationalstemfestival.com/attend",
+        "new": false
+      },
+      {
         "id": "E240",
         "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
         "country": "Польша",
@@ -908977,8 +910313,8 @@
         }
       ],
       "counts": {
-        "records": 5341,
-        "holiday": 4832,
+        "records": 5343,
+        "holiday": 4834,
         "regular": 201,
         "self_paced_materials": 4,
         "boarding": 1039,
@@ -911796,8 +913132,8 @@
       }
     ],
     "counts": {
-      "records": 5341,
-      "holiday": 4832,
+      "records": 5343,
+      "holiday": 4834,
       "regular": 201,
       "self_paced_materials": 4,
       "boarding": 1039,
@@ -937233,12 +938569,12 @@
       "school_grades_known": false
     },
     "counts": {
-      "dossiers": 2120,
+      "dossiers": 2121,
       "countries": 136,
       "swiss": 137,
       "by_status": {
         "published_2026_27": 290,
-        "published_2027": 568,
+        "published_2027": 569,
         "partial_2027": 152,
         "next_unannounced": 440,
         "published_2026": 426,
@@ -937251,7 +938587,7 @@
         "announced_dates_programme_pending": 6,
         "confirmed_2027": 1
       },
-      "source_urls": 3026
+      "source_urls": 3028
     },
     "countries": [
       {
@@ -937668,7 +939004,7 @@
       },
       {
         "country": "Соединенные Штаты Америки",
-        "count": 163
+        "count": 164
       },
       {
         "country": "Суринам",
@@ -1307940,6 +1309276,151 @@
             "EN"
           ]
         }
+      },
+      {
+        "id": "CP2121",
+        "slug": "camp-asimov-santa-monica",
+        "provider": "Camp Asimov · Robotics Engineering",
+        "country": "Соединенные Штаты Америки",
+        "iso": "USA",
+        "place": "2341 Michigan Ave · Santa Monica, California",
+        "age": "10–17 лет. Дату расчёта возраста подтвердить.",
+        "programme": "Каждый строит собственного робота. В программе CAD, механика, электромонтаж, датчики, Java, испытания и инженерный журнал. До 12 учеников в группе.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Программа и инструкции для родителей опубликованы на английском. Язык занятий подтвердить у лагеря.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "materials_only",
+        "materials_languages": [
+          "EN"
+        ],
+        "timing": {
+          "status": "published_2027",
+          "label": "Две смены летом 2027. Каждая по 15 учебных дней. 5 июля входит в первую смену.",
+          "sessions": [
+            [
+              "2027-06-21",
+              "2027-07-09"
+            ],
+            [
+              "2027-07-12",
+              "2027-07-30"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "session-one",
+              "start": "2027-06-21",
+              "end": "2027-07-09",
+              "label": "Смена 1",
+              "price": "3600 USD за 15 учебных дней.",
+              "source": "https://www.campasimov.com/faq",
+              "date_scope": "day_camp_window",
+              "date_status": "Анонсировано",
+              "date_precision": "announced_window",
+              "date_rule": "Две смены летом 2027. Каждая по 15 учебных дней. 5 июля входит в первую смену.",
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Заявка открыта. Лагерь рассматривает её до оплаты депозита. Для проведения смены нужен минимальный набор."
+              },
+              "entry": "Заявка открыта. Лагерь рассматривает её до оплаты депозита. Для проведения смены нужен минимальный набор.",
+              "delivery_mode": "in_person"
+            },
+            {
+              "variant_key": "session-two",
+              "start": "2027-07-12",
+              "end": "2027-07-30",
+              "label": "Смена 2",
+              "price": "3600 USD за 15 учебных дней.",
+              "source": "https://www.campasimov.com/faq",
+              "date_scope": "day_camp_window",
+              "date_status": "Анонсировано",
+              "date_precision": "announced_window",
+              "date_rule": "Две смены летом 2027. Каждая по 15 учебных дней. 5 июля входит в первую смену.",
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Заявка открыта. Лагерь рассматривает её до оплаты депозита. Для проведения смены нужен минимальный набор."
+              },
+              "entry": "Заявка открыта. Лагерь рассматривает её до оплаты депозита. Для проведения смены нужен минимальный набор.",
+              "delivery_mode": "in_person"
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2027,
+          "amount": 3600,
+          "currency": "USD",
+          "unit": "за смену",
+          "label": "3600 USD за 15 учебных дней.",
+          "included": "Преподавание, инструменты, материалы, средства защиты и доступ к Engineering Portal.",
+          "extras": "Обед с собой с понедельника по четверг. Проживание и поездка отдельно.",
+          "deposit": "1200 USD после принятия заявки входят в цену. Остаток 2400 USD."
+        },
+        "accommodation": "Дневная программа, понедельник–пятница, 09:00–16:00. Проживание не входит.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "В 2027 исполняется 10 лет. Проверить, исполнилось ли 10 к дате отсечки для выбранной смены."
+          },
+          "oscar": {
+            "status": "later",
+            "detail": "В 2027 младше 10 лет."
+          }
+        },
+        "editorial_reason": "Две смены летом 2027. Каждая по 15 учебных дней. 5 июля входит в первую смену.",
+        "shortlist": [],
+        "questions": [
+          "Подтвердить возраст, язык занятий, приём иностранцев и набор группы до оплаты."
+        ],
+        "sources": [
+          {
+            "url": "https://www.campasimov.com/faq",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.campasimov.com/program",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "robotics",
+          "engineering",
+          "coding",
+          "technology"
+        ],
+        "programme_type": "day_camp",
+        "catalog_participation": "day_camp",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2027-06-21",
+            "end": "2027-07-09",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP2121-20270621-20270709-session-one"
+            ]
+          },
+          {
+            "start": "2027-07-12",
+            "end": "2027-07-30",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP2121-20270712-20270730-session-two"
+            ]
+          }
+        ],
+        "language_roles": {
+          "materials": [
+            "EN"
+          ]
+        }
       }
     ],
     "gaps": [
@@ -1313265,7 +1314746,7 @@
       "Младшие группы и языковое доказательство для всех приоритетных операторов.",
       "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
     ],
-    "version": 307,
+    "version": 308,
     "family_review": {
       "version": 150,
       "asof": "2026-11-05",
@@ -1326500,7 +1327981,7 @@
         }
       ],
       "coverage": {
-        "total_dossiers": 2120,
+        "total_dossiers": 2121,
         "reviewed": 71,
         "refresh_pending": 4,
         "review_dossiers": 75,
@@ -1350225,6 +1351706,16 @@
         "relation": "catalogue_session"
       },
       {
+        "programme_id": "CP2121",
+        "event_id": "CP2121-20270621-20270709-session-one",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP2121",
+        "event_id": "CP2121-20270712-20270730-session-two",
+        "relation": "catalogue_session"
+      },
+      {
         "programme_id": "CP1294",
         "event_id": "L464",
         "relation": "existing_programme"
@@ -1355093,10 +1356584,12 @@
       "CP2117-20270104-20270115-ciclo-1",
       "CP2117-20270118-20270129-ciclo-2",
       "CP2118-20270111-20270211-anatomy",
-      "CP2119-20270329-20270429-empire"
+      "CP2119-20270329-20270429-empire",
+      "CP2121-20270621-20270709-session-one",
+      "CP2121-20270712-20270730-session-two"
     ],
     "integration": {
-      "generated_sessions": 4458,
+      "generated_sessions": 4460,
       "reused_legacy_events": 74,
       "seasonal_windows": 78,
       "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

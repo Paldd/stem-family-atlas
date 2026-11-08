@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2120,
+    "dossiers": 2121,
     "countries": 136,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 290,
-      "published_2027": 568,
+      "published_2027": 569,
       "partial_2027": 152,
       "next_unannounced": 440,
       "published_2026": 426,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 6,
       "confirmed_2027": 1
     },
-    "source_urls": 3026
+    "source_urls": 3028
   },
   "countries": [
     {
@@ -465,7 +465,7 @@
     },
     {
       "country": "Соединенные Штаты Америки",
-      "count": 163
+      "count": 164
     },
     {
       "country": "Суринам",
@@ -320564,6 +320564,127 @@
       "programme_type": "day_camp",
       "catalog_participation": "day_camp",
       "related_event_ids": []
+    },
+    {
+      "id": "CP2121",
+      "slug": "camp-asimov-santa-monica",
+      "provider": "Camp Asimov · Robotics Engineering",
+      "country": "Соединенные Штаты Америки",
+      "iso": "USA",
+      "place": "2341 Michigan Ave · Santa Monica, California",
+      "age": "10–17 лет. Дату расчёта возраста подтвердить.",
+      "programme": "Каждый строит собственного робота. В программе CAD, механика, электромонтаж, датчики, Java, испытания и инженерный журнал. До 12 учеников в группе.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Программа и инструкции для родителей опубликованы на английском. Язык занятий подтвердить у лагеря.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Две смены летом 2027. Каждая по 15 учебных дней. 5 июля входит в первую смену.",
+        "sessions": [
+          [
+            "2027-06-21",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "session-one",
+            "start": "2027-06-21",
+            "end": "2027-07-09",
+            "label": "Смена 1",
+            "price": "3600 USD за 15 учебных дней.",
+            "source": "https://www.campasimov.com/faq",
+            "date_scope": "day_camp_window",
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Две смены летом 2027. Каждая по 15 учебных дней. 5 июля входит в первую смену.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Заявка открыта. Лагерь рассматривает её до оплаты депозита. Для проведения смены нужен минимальный набор."
+            },
+            "entry": "Заявка открыта. Лагерь рассматривает её до оплаты депозита. Для проведения смены нужен минимальный набор.",
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "session-two",
+            "start": "2027-07-12",
+            "end": "2027-07-30",
+            "label": "Смена 2",
+            "price": "3600 USD за 15 учебных дней.",
+            "source": "https://www.campasimov.com/faq",
+            "date_scope": "day_camp_window",
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Две смены летом 2027. Каждая по 15 учебных дней. 5 июля входит в первую смену.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Заявка открыта. Лагерь рассматривает её до оплаты депозита. Для проведения смены нужен минимальный набор."
+            },
+            "entry": "Заявка открыта. Лагерь рассматривает её до оплаты депозита. Для проведения смены нужен минимальный набор.",
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 3600,
+        "currency": "USD",
+        "unit": "за смену",
+        "label": "3600 USD за 15 учебных дней.",
+        "included": "Преподавание, инструменты, материалы, средства защиты и доступ к Engineering Portal.",
+        "extras": "Обед с собой с понедельника по четверг. Проживание и поездка отдельно.",
+        "deposit": "1200 USD после принятия заявки входят в цену. Остаток 2400 USD."
+      },
+      "accommodation": "Дневная программа, понедельник–пятница, 09:00–16:00. Проживание не входит.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "В 2027 исполняется 10 лет. Проверить, исполнилось ли 10 к дате отсечки для выбранной смены."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "В 2027 младше 10 лет."
+        }
+      },
+      "editorial_reason": "Две смены летом 2027. Каждая по 15 учебных дней. 5 июля входит в первую смену.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возраст, язык занятий, приём иностранцев и набор группы до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.campasimov.com/faq",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.campasimov.com/program",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
     }
   ],
   "gaps": [
@@ -325889,7 +326010,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 307,
+  "version": 308,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -339124,7 +339245,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2120,
+      "total_dossiers": 2121,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

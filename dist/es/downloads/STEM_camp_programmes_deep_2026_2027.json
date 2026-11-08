@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2120,
+    "dossiers": 2121,
     "countries": 136,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 290,
-      "published_2027": 568,
+      "published_2027": 569,
       "partial_2027": 152,
       "next_unannounced": 440,
       "published_2026": 426,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 6,
       "confirmed_2027": 1
     },
-    "source_urls": 3026
+    "source_urls": 3028
   },
   "countries": [
     {
@@ -465,7 +465,7 @@
     },
     {
       "country": "Estados Unidos",
-      "count": 163
+      "count": 164
     },
     {
       "country": "Surinam",
@@ -370737,6 +370737,151 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2121",
+      "slug": "camp-asimov-santa-monica",
+      "provider": "Camp Asimov · Robotics Engineering",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "2341 Michigan Ave · Santa Monica, California",
+      "age": "10–17 años. Confirmar la fecha de referencia para la edad.",
+      "programme": "Cada participante construye su propio robot. El programa incluye CAD, mecánica, cableado, sensores, Java, pruebas y un diario de ingeniería. Hasta 12 estudiantes por grupo.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "El programa y las instrucciones para familias están publicados en inglés. Confirmar el idioma de instrucción con el campamento.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Dos turnos en verano de 2027, cada uno de 15 días lectivos. El 5 de julio se incluye en el primer turno.",
+        "sessions": [
+          [
+            "2027-06-21",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "session-one",
+            "start": "2027-06-21",
+            "end": "2027-07-09",
+            "label": "Turno 1",
+            "price": "3600 USD por 15 días lectivos.",
+            "source": "https://www.campasimov.com/faq",
+            "date_scope": "day_camp_window",
+            "date_status": "Anunciado",
+            "date_precision": "announced_window",
+            "date_rule": "Dos turnos en verano de 2027, cada uno de 15 días lectivos. El 5 de julio se incluye en el primer turno.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Solicitudes abiertas. El campamento revisa cada solicitud antes del depósito. Cada turno requiere una inscripción mínima."
+            },
+            "entry": "Solicitudes abiertas. El campamento revisa cada solicitud antes del depósito. Cada turno requiere una inscripción mínima.",
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "session-two",
+            "start": "2027-07-12",
+            "end": "2027-07-30",
+            "label": "Turno 2",
+            "price": "3600 USD por 15 días lectivos.",
+            "source": "https://www.campasimov.com/faq",
+            "date_scope": "day_camp_window",
+            "date_status": "Anunciado",
+            "date_precision": "announced_window",
+            "date_rule": "Dos turnos en verano de 2027, cada uno de 15 días lectivos. El 5 de julio se incluye en el primer turno.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Solicitudes abiertas. El campamento revisa cada solicitud antes del depósito. Cada turno requiere una inscripción mínima."
+            },
+            "entry": "Solicitudes abiertas. El campamento revisa cada solicitud antes del depósito. Cada turno requiere una inscripción mínima.",
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 3600,
+        "currency": "USD",
+        "unit": "por turno",
+        "label": "3600 USD por 15 días lectivos.",
+        "included": "Instrucción, herramientas, materiales, equipo de protección y acceso a Engineering Portal.",
+        "extras": "Llevar almuerzo de lunes a jueves. Alojamiento y viaje aparte.",
+        "deposit": "El depósito de 1200 USD tras la aceptación se descuenta del precio. Saldo de 2400 USD."
+      },
+      "accommodation": "Programa diurno, lunes a viernes, de 09:00 a 16:00. No incluye alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "En 2027 cumple 10 años. Confirmar si ya tiene 10 en la fecha de corte del turno elegido."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "En 2027 tiene menos de 10 años."
+        }
+      },
+      "editorial_reason": "Dos turnos en verano de 2027, cada uno de 15 días lectivos. El 5 de julio se incluye en el primer turno.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad, idioma de instrucción, admisión internacional y formación del grupo antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.campasimov.com/faq",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.campasimov.com/program",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-06-21",
+          "end": "2027-07-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2121-20270621-20270709-session-one"
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2121-20270712-20270730-session-two"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -376062,7 +376207,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 307,
+  "version": 308,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -389297,7 +389442,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2120,
+      "total_dossiers": 2121,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -413022,6 +413167,16 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2121",
+      "event_id": "CP2121-20270621-20270709-session-one",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2121",
+      "event_id": "CP2121-20270712-20270730-session-two",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -417890,10 +418045,12 @@
     "CP2117-20270104-20270115-ciclo-1",
     "CP2117-20270118-20270129-ciclo-2",
     "CP2118-20270111-20270211-anatomy",
-    "CP2119-20270329-20270429-empire"
+    "CP2119-20270329-20270429-empire",
+    "CP2121-20270621-20270709-session-one",
+    "CP2121-20270712-20270730-session-two"
   ],
   "integration": {
-    "generated_sessions": 4458,
+    "generated_sessions": 4460,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

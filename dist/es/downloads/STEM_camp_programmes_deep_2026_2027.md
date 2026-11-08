@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2120 fichas en 136 países. Cada ficha indica la fecha de comprobación de sus fuentes.
+Estado de la base: 2026-11-08. 2121 fichas en 136 países. Cada ficha indica la fecha de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -167529,6 +167529,70 @@ Panamá · Campus Central Víctor Levi Sasso · Panamá
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://utp.ac.pa/curso-de-verano-para-ninos-y-adolescentes) · 2026-11-08
+
+## CP2121 · Camp Asimov · Robotics Engineering
+
+Estados Unidos · 2341 Michigan Ave · Santa Monica, California
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 10–17 años. Confirmar la fecha de referencia para la edad.
+
+**Idioma:** El programa y las instrucciones para familias están publicados en inglés. Confirmar el idioma de instrucción con el campamento.
+
+**Programa:** Cada participante construye su propio robot. El programa incluye CAD, mecánica, cableado, sensores, Java, pruebas y un diario de ingeniería. Hasta 12 estudiantes por grupo.
+
+**Alojamiento:** Programa diurno, lunes a viernes, de 09:00 a 16:00. No incluye alojamiento.
+
+**Fechas / estado:** Dos turnos en verano de 2027, cada uno de 15 días lectivos. El 5 de julio se incluye en el primer turno.
+
+**Precio / año:** 2027 · 3600 USD por 15 días lectivos.
+
+**Incluido:** Instrucción, herramientas, materiales, equipo de protección y acceso a Engineering Portal.
+
+**Suplementos:** Llevar almuerzo de lunes a jueves. Alojamiento y viaje aparte.
+
+**Pago:** El depósito de 1200 USD tras la aceptación se descuenta del precio. Saldo de 2400 USD.
+
+**Matvey:** En 2027 cumple 10 años. Confirmar si ya tiene 10 en la fecha de corte del turno elegido.
+
+**Oscar:** En 2027 tiene menos de 10 años.
+
+**Motivo de selección:** Dos turnos en verano de 2027, cada uno de 15 días lectivos. El 5 de julio se incluye en el primer turno.
+
+### Antes de solicitar plaza
+
+- Confirmar edad, idioma de instrucción, admisión internacional y formación del grupo antes de pagar.
+
+### Turno 1
+
+**Fechas / estado:** 2027-06-21 — 2027-07-09
+
+**Precio:** 3600 USD por 15 días lectivos.
+
+**condiciones de participación:** Solicitudes abiertas. El campamento revisa cada solicitud antes del depósito. Cada turno requiere una inscripción mínima.
+
+**Disponibilidad de plazas:** Solicitudes abiertas. El campamento revisa cada solicitud antes del depósito. Cada turno requiere una inscripción mínima.
+
+[fuente](https://www.campasimov.com/faq)
+
+### Turno 2
+
+**Fechas / estado:** 2027-07-12 — 2027-07-30
+
+**Precio:** 3600 USD por 15 días lectivos.
+
+**condiciones de participación:** Solicitudes abiertas. El campamento revisa cada solicitud antes del depósito. Cada turno requiere una inscripción mínima.
+
+**Disponibilidad de plazas:** Solicitudes abiertas. El campamento revisa cada solicitud antes del depósito. Cada turno requiere una inscripción mínima.
+
+[fuente](https://www.campasimov.com/faq)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.campasimov.com/faq) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.campasimov.com/program) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

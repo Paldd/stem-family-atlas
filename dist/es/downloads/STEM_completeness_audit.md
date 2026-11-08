@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10833; competiciones: 4818; eventos: 674; campamentos / programas: 5341. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 575 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10848; competiciones: 4820; eventos: 685; campamentos / programas: 5343. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 586 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 1966 | 149 | 1378 |
+| América del Norte | 41 | 1967 | 153 | 1380 |
 | América del Sur | 15 | 452 | 51 | 233 |
-| Europa | 55 | 636 | 141 | 1540 |
+| Europa | 55 | 637 | 148 | 1540 |
 | África | 60 | 247 | 40 | 130 |
 | Asia | 50 | 1183 | 160 | 1709 |
 | Oceanía | 27 | 167 | 32 | 336 |
 
 Fichas interregionales o globales sin un solo continente asignado: 189. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base y la cobertura sigue siendo parcial.
 
-VEX: 815 de 4818 fichas de competiciones (16.9%). La cobertura muestra un claro sesgo.
+VEX: 815 de 4820 fichas de competiciones (16.9%). La cobertura se concentra en este circuito.
 
 ## Lo que queda
 
@@ -952,6 +952,17 @@ VEX: 815 de 4818 fichas de competiciones (16.9%). La cobertura muestra un claro 
 - **Robotics Expo Finland · 2027** — Finlandia; fecha desconocida. Confirmar acceso infantil. https://roboticaexpo.com/finland
 - **ExpoGame Chile · temporada 2027** — Chile; fecha desconocida. Confirmar acceso infantil. https://www.expogamechile.cl/
 - **ROBOTICS Slovenia · IFAM / INTRONIKA · 2027** — Eslovenia; fecha desconocida. Confirmar acceso infantil. https://icm.si/events/robotics-slovenia/
+- **Great Exhibition Road Festival 2027** — Reino Unido; 2027-06-19 – 2027-06-20. con un adulto; condiciones de admisión adulta por separado. https://www.greatexhibitionroadfestival.co.uk/
+- **National STEM Festival UK · Open Build Days 2027** — Reino Unido; 2027-05-08 – 2027-05-09. con un adulto; condiciones de admisión adulta por separado. https://www.nationalstemfestival.com/attend-uk-2027
+- **Festival der Zukunft 2027 · Family Festival** — Alemania; 2027-07-03 – 2027-07-04. con un adulto; condiciones de admisión adulta por separado. https://festivalderzukunft.com/en
+- **Festival der Zukunft 2027 · AI Conference** — Alemania; 2027-07-01 – 2027-07-02. el permiso de entrada de niños. https://festivalderzukunft.com/en
+- **Canada-Wide Science Fair 2027 · Sunday public viewing** — Canadá; 2027-05-30. con un adulto; condiciones de admisión adulta por separado. https://cwsf-espc.ca/visit/
+- **Canada-Wide Science Fair 2027 · Project Zone / STEM Expo** — Canadá; 2027-06-03 – 2027-06-04. con un adulto; condiciones de admisión adulta por separado. https://cwsf-espc.ca/visit/
+- **Science Rendezvous 2027** — Canadá; 2027-05-08. con un adulto; condiciones de admisión adulta por separado. https://www.sciencerendezvous.ca/
+- **Science Festival Luxembourg 2027 · Public weekend** — Luxemburgo; 2027-11-13 – 2027-11-14. con un adulto; condiciones de admisión adulta por separado. https://www.science-festival.lu/en/infos-pour-grand-public/
+- **Science is Wonderful! 2027 · MSCA** — Bélgica; 2027-03-17 – 2027-03-19. el permiso de entrada de niños. https://marie-sklodowska-curie-actions.ec.europa.eu/whats-new/news/science-is-wonderful-2027-call
+- **British Science Week 2027** — Reino Unido; 2027-03-05 – 2027-03-14. el permiso de entrada de niños. https://www.britishscienceweek.org/
+- **National STEM Festival US 2027 · public programme watch** — Estados Unidos; 2027-10-19 – 2027-10-24. el permiso de entrada de niños. https://www.nationalstemfestival.com/attend
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

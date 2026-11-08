@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 307,
+    "version": 308,
     "status": "implementation_snapshot",
-    "events": 10833,
-    "competitions": 4818,
+    "events": 10848,
+    "competitions": 4820,
     "league_profiles": 309,
-    "camp_dossiers": 2120,
+    "camp_dossiers": 2121,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 674,
+    "exhibitions_events": 685,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,10 +928,10 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 306,
+    "version": 307,
     "status": "implementation_snapshot",
-    "events": 10819,
-    "competitions": 4812,
+    "events": 10833,
+    "competitions": 4818,
     "league_profiles": 309,
     "camp_dossiers": 2120,
     "budget_offers": 312,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 669,
+    "exhibitions_events": 674,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 307,
+    "prepared_ui_version": 308,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 306,
-    "previous_verified_commit": "366031828ccc1dea89bcc4ef7b68f29e6e6fe7f7"
+    "previous_verified_ui_version": 307,
+    "previous_verified_commit": "122bd0fbd695439a369cafccec0bbce03ad6698c"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 306,
-    "published_version": 306,
-    "latest_source_commit": "366031828ccc1dea89bcc4ef7b68f29e6e6fe7f7",
-    "published_commit": "366031828ccc1dea89bcc4ef7b68f29e6e6fe7f7",
-    "latest_workflow": 42531799496,
+    "latest_source_version": 307,
+    "published_version": 307,
+    "latest_source_commit": "122bd0fbd695439a369cafccec0bbce03ad6698c",
+    "published_commit": "122bd0fbd695439a369cafccec0bbce03ad6698c",
+    "latest_workflow": 42533552011,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -31662,5 +31662,66 @@
     ],
     "sia": "E126",
     "first": "C1049"
+  },
+  "family_festivals_and_stem_projects_v308": {
+    "version": 308,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E675",
+      "E676",
+      "E677",
+      "E678",
+      "E679",
+      "E680",
+      "E681",
+      "E682",
+      "E683",
+      "E684",
+      "E685",
+      "C4820",
+      "C4821",
+      "CP2121-20270621-20270709-session-one",
+      "CP2121-20270712-20270730-session-two"
+    ],
+    "refreshed_event_ids": [
+      "E277",
+      "L032"
+    ],
+    "legacy_overlay_event_ids": [
+      "E277",
+      "L032"
+    ],
+    "source_requests": 27,
+    "family_visits": [
+      "E675",
+      "E676",
+      "E677",
+      "E679",
+      "E680",
+      "E681",
+      "E682"
+    ],
+    "separate_professional_or_school_visits": [
+      "E678",
+      "E683",
+      "E684",
+      "E685"
+    ],
+    "project_competitions": [
+      "C4820",
+      "C4821"
+    ],
+    "new_camp_dossier": "CP2121",
+    "new_camp_session_ids": [
+      "CP2121-20270621-20270709-session-one",
+      "CP2121-20270712-20270730-session-two"
+    ],
+    "open_questions": {
+      "ontario_age_and_local_schedules": "L032",
+      "prague_ticket_price": "E277",
+      "us_public_dates": "E685"
+    }
   }
 }

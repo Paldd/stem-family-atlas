@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5341,
-      "holiday": 4832,
+      "records": 5343,
+      "holiday": 4834,
       "regular": 201,
       "self_paced_materials": 4,
       "boarding": 1039,
@@ -2032,7 +2032,7 @@
     {
       "block": "Campamentos",
       "id": "L032",
-      "title": "STEM Camp Ontario  la próxima temporada de verano",
+      "title": "STEM Camp Ontario · verano 2027 · confirmar condiciones",
       "country": "Canadá",
       "region": "América del Norte",
       "city": "Ontario, varias ciudades",
@@ -2041,23 +2041,23 @@
       "period": "las semanas de verano; 2026 ha pasado, 2027 aún no confirmado",
       "date_status": "No se ha anunciado",
       "deadline": "",
-      "age": "4–13 en el 01.01.2026; comprobar el recorte de la nueva temporada",
-      "mat": "Sí, por edad",
-      "osc": "Sí, por edad",
+      "age": "Las preguntas frecuentes indican 4–13 años y el corte anterior del 01.01.2026. Se debe confirmar la regla de 2027.",
+      "mat": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "osc": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
       "format": "programa diario de una semana completa; una semana parcial no más barata",
-      "entry": "Seleccione la ciudad, luego CampBrain; confirma el cambio futuro",
+      "entry": "La portada anuncia inscripciones para 2027. Confirmar fechas, plazas y edad en la página del campamento elegido.",
       "gear": "por el programa",
       "language": "Candidato EN; enseñanza / admisión en el extranjero confirmar",
       "cost": "el precio actual no se confirmó",
       "level": "D — formación",
       "reward": "proyecto de estudio / certificado; no victoria en el torneo internacional",
       "priority": "P2  vacaciones",
-      "action": "comprobar la fecha del apartado 2027, la lengua, las condiciones de acogida y los temas técnicos específicos de la semana.",
+      "action": "Confirmar la sede concreta, el corte de edad y el coste final.",
       "source": "https://stemcamp.ca/summer-camp/stem-camp-faq/",
       "proof": "FAQ abierto: edad sin excepciones, formato diurno y reglas de reserva; no hay fechas del Año Nuevo",
-      "checked": "2026-09-30",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "El STEM general no garantiza robots o IA todos los días.",
+      "note": "Las preguntas frecuentes indican apertura el 02.11.2027 y la portada anuncia inscripciones ya abiertas para el verano de 2027. El calendario y el precio de la sede quedan por confirmar.",
       "scope": "regional",
       "themes": [
         "technology"
@@ -2070,7 +2070,13 @@
       "iso": [
         "CAN"
       ],
-      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse.",
+      "references": [
+        {
+          "url": "https://stemcamp.ca/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ]
     },
     {
       "block": "Campamentos",
@@ -443204,6 +443210,168 @@
         "status": "unconfirmed",
         "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
       }
+    },
+    {
+      "id": "CP2121-20270621-20270709-session-one",
+      "block": "Campamentos",
+      "title": "Camp Asimov · Robotics Engineering · Turno 1 · 2027-06-21–2027-07-09",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "2341 Michigan Ave · Santa Monica, California",
+      "start": "2027-06-21",
+      "end": "2027-07-09",
+      "period": "Dos turnos en verano de 2027, cada uno de 15 días lectivos. El 5 de julio se incluye en el primer turno.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "10–17 años. Confirmar la fecha de referencia para la edad.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno, lunes a viernes, de 09:00 a 16:00. No incluye alojamiento.",
+      "entry": "Solicitudes abiertas. El campamento revisa cada solicitud antes del depósito. Cada turno requiere una inscripción mínima.",
+      "gear": "Cada participante construye su propio robot. El programa incluye CAD, mecánica, cableado, sensores, Java, pruebas y un diario de ingeniería. Hasta 12 estudiantes por grupo.",
+      "language": "El programa y las instrucciones para familias están publicados en inglés. Confirmar el idioma de instrucción con el campamento.",
+      "cost": "2027 · 3600 USD por 15 días lectivos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad, idioma de instrucción, admisión internacional y formación del grupo antes de pagar.",
+      "source": "https://www.campasimov.com/faq",
+      "references": [
+        {
+          "url": "https://www.campasimov.com/faq",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.campasimov.com/program",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: En 2027 cumple 10 años. Confirmar si ya tiene 10 en la fecha de corte del turno elegido. Oscar: En 2027 tiene menos de 10 años. Suplementos: Llevar almuerzo de lunes a jueves. Alojamiento y viaje aparte. Pago: El depósito de 1200 USD tras la aceptación se descuenta del precio. Saldo de 2400 USD.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El programa y las instrucciones para familias están publicados en inglés. Confirmar el idioma de instrucción con el campamento.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "camp-asimov-santa-monica",
+      "camp_programme_id": "CP2121",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Solicitudes abiertas. El campamento revisa cada solicitud antes del depósito. Cada turno requiere una inscripción mínima."
+      },
+      "date_rule": "Dos turnos en verano de 2027, cada uno de 15 días lectivos. El 5 de julio se incluye en el primer turno."
+    },
+    {
+      "id": "CP2121-20270712-20270730-session-two",
+      "block": "Campamentos",
+      "title": "Camp Asimov · Robotics Engineering · Turno 2 · 2027-07-12–2027-07-30",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "2341 Michigan Ave · Santa Monica, California",
+      "start": "2027-07-12",
+      "end": "2027-07-30",
+      "period": "Dos turnos en verano de 2027, cada uno de 15 días lectivos. El 5 de julio se incluye en el primer turno.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "10–17 años. Confirmar la fecha de referencia para la edad.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Programa diurno, lunes a viernes, de 09:00 a 16:00. No incluye alojamiento.",
+      "entry": "Solicitudes abiertas. El campamento revisa cada solicitud antes del depósito. Cada turno requiere una inscripción mínima.",
+      "gear": "Cada participante construye su propio robot. El programa incluye CAD, mecánica, cableado, sensores, Java, pruebas y un diario de ingeniería. Hasta 12 estudiantes por grupo.",
+      "language": "El programa y las instrucciones para familias están publicados en inglés. Confirmar el idioma de instrucción con el campamento.",
+      "cost": "2027 · 3600 USD por 15 días lectivos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar edad, idioma de instrucción, admisión internacional y formación del grupo antes de pagar.",
+      "source": "https://www.campasimov.com/faq",
+      "references": [
+        {
+          "url": "https://www.campasimov.com/faq",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.campasimov.com/program",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: En 2027 cumple 10 años. Confirmar si ya tiene 10 en la fecha de corte del turno elegido. Oscar: En 2027 tiene menos de 10 años. Suplementos: Llevar almuerzo de lunes a jueves. Alojamiento y viaje aparte. Pago: El depósito de 1200 USD tras la aceptación se descuenta del precio. Saldo de 2400 USD.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "El programa y las instrucciones para familias están publicados en inglés. Confirmar el idioma de instrucción con el campamento.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "camp-asimov-santa-monica",
+      "camp_programme_id": "CP2121",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Solicitudes abiertas. El campamento revisa cada solicitud antes del depósito. Cada turno requiere una inscripción mínima."
+      },
+      "date_rule": "Dos turnos en verano de 2027, cada uno de 15 días lectivos. El 5 de julio se incluye en el primer turno."
     },
     {
       "id": "L491",
