@@ -30,25 +30,25 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2014,
+    "dossiers": 2024,
     "countries": 126,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 286,
-      "published_2027": 543,
+      "published_2026_27": 288,
+      "published_2027": 552,
       "partial_2027": 145,
       "next_unannounced": 414,
-      "published_2026": 390,
+      "published_2026": 388,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
       "regular_programme": 19,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
-      "announced_dates_programme_pending": 4,
+      "announced_dates_programme_pending": 5,
       "confirmed_2027": 1
     },
-    "source_urls": 2907
+    "source_urls": 2917
   },
   "countries": [
     {
@@ -277,7 +277,7 @@
     },
     {
       "country": "Коста-Рика",
-      "count": 58
+      "count": 59
     },
     {
       "country": "Кувейт",
@@ -497,7 +497,7 @@
     },
     {
       "country": "Франция",
-      "count": 125
+      "count": 134
     },
     {
       "country": "Французская Полинезия",
@@ -303674,12 +303674,16 @@
       "confirmed_instruction_languages": [],
       "language_evidence_role": "unconfirmed",
       "timing": {
-        "status": "published_2026",
-        "label": "Занятие с 15:00 до 17:00 по времени Парижа.",
+        "status": "published_2026_27",
+        "label": "Выберите конкретное занятие. Возраст проверяется на дату сеанса.",
         "sessions": [
           [
             "2026-12-12",
             "2026-12-12"
+          ],
+          [
+            "2027-04-10",
+            "2027-04-10"
           ]
         ],
         "session_details": [
@@ -303708,6 +303712,42 @@
               }
             ],
             "entry": "Выбрать дату и билет. Подтвердить язык ведущего, свободное место и единицу тарифа."
+          },
+          {
+            "variant_key": "20270410-1500",
+            "start": "2027-04-10",
+            "end": "2027-04-10",
+            "label": "CoMo-education · Création",
+            "price": "Тариф 8 EUR. Для парного занятия уточнить, как оплачивается взрослый.",
+            "source": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-avril2027",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-04-10",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "start_utc": "2027-04-10T13:00:00Z",
+                "end_utc": "2027-04-10T15:00:00Z",
+                "topic": "Ребёнок и взрослый создают звуковую историю из движений с интерактивной технологией CoMo.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Ребёнок участвует вместе со взрослым. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту сейчас. Сверить возраст на дату занятия."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Возраст подходит. Подтвердить язык и место."
+              }
+            }
           }
         ],
         "variant_keyed": true
@@ -303744,6 +303784,16 @@
           "url": "https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1",
           "title": "Страница организатора или регламент категории.",
           "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-avril2027",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
         }
       ],
       "checked": "2026-11-08",
@@ -303773,12 +303823,20 @@
       "confirmed_instruction_languages": [],
       "language_evidence_role": "unconfirmed",
       "timing": {
-        "status": "published_2026",
-        "label": "Занятие с 15:00 до 17:00 по времени Парижа.",
+        "status": "published_2026_27",
+        "label": "Выберите конкретное занятие. Возраст проверяется на дату сеанса.",
         "sessions": [
           [
             "2026-12-13",
             "2026-12-13"
+          ],
+          [
+            "2027-03-13",
+            "2027-03-13"
+          ],
+          [
+            "2027-06-13",
+            "2027-06-13"
           ]
         ],
         "session_details": [
@@ -303807,6 +303865,78 @@
               }
             ],
             "entry": "Выбрать дату и билет. Подтвердить язык ведущего, свободное место и единицу тарифа."
+          },
+          {
+            "variant_key": "20270313-1500",
+            "start": "2027-03-13",
+            "end": "2027-03-13",
+            "label": "Bestio-robot",
+            "price": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+            "source": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mars2027",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-13",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "start_utc": "2027-03-13T14:00:00Z",
+                "end_utc": "2027-03-13T16:00:00Z",
+                "topic": "Ребёнок придумывает говорящую машину и знакомится с микрофонами и ИИ для голоса.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возраст подходит. Подтвердить язык и место."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Если к дате занятия исполнится 7 лет."
+              }
+            }
+          },
+          {
+            "variant_key": "20270613-1500",
+            "start": "2027-06-13",
+            "end": "2027-06-13",
+            "label": "Bestio-robot",
+            "price": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+            "source": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-juin2027",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-06-13",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "start_utc": "2027-06-13T13:00:00Z",
+                "end_utc": "2027-06-13T15:00:00Z",
+                "topic": "Ребёнок придумывает говорящую машину и знакомится с микрофонами и ИИ для голоса.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возраст подходит. Подтвердить язык и место."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Если к дате занятия исполнится 7 лет."
+              }
+            }
           }
         ],
         "variant_keyed": true
@@ -303841,6 +303971,21 @@
       "sources": [
         {
           "url": "https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mars2027",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-juin2027",
           "title": "Страница организатора или регламент категории.",
           "checked": "2026-11-08"
         }
@@ -304826,6 +304971,1083 @@
       "catalog_participation": "day_camp",
       "related_event_ids": [
         "L797"
+      ]
+    },
+    {
+      "id": "CP2015",
+      "slug": "ircam-lutherie-numerique-jan",
+      "provider": "IRCAM · Lutherie numérique",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Maison Pompidou · 50 Rue Rambuteau · Paris",
+      "age": "7–12 лет.",
+      "programme": "Цифровые музыкальные инструменты из простых предметов и подручных материалов.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Страница на французском. Обучение на английском или испанском не подтверждено.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "В программе указано занятие для детей с родителями, а в FAQ парный формат назван только для CoMo. Роль взрослого нужно подтвердить. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "sessions": [
+          [
+            "2027-01-09",
+            "2027-01-09"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "20270109-1500",
+            "start": "2027-01-09",
+            "end": "2027-01-09",
+            "label": "Lutherie numérique",
+            "price": "Тариф 8 EUR. Для парного занятия уточнить, как оплачивается взрослый.",
+            "source": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-janv2027",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-09",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "start_utc": "2027-01-09T14:00:00Z",
+                "end_utc": "2027-01-09T16:00:00Z",
+                "topic": "Цифровые музыкальные инструменты из простых предметов и подручных материалов.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "В программе указано занятие для детей с родителями, а в FAQ парный формат назван только для CoMo. Роль взрослого нужно подтвердить. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 8,
+        "currency": "EUR",
+        "unit": "unknown",
+        "label": "Тариф 8 EUR. Для парного занятия уточнить, как оплачивается взрослый.",
+        "included": "Цифровые музыкальные инструменты из простых предметов и подручных материалов.",
+        "extras": "В программе указано занятие для детей с родителями, а в FAQ парный формат назван только для CoMo. Роль взрослого нужно подтвердить. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Подтвердить язык и место."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Если к дате занятия исполнится 7 лет."
+        }
+      },
+      "editorial_reason": "В программе указано занятие для детей с родителями, а в FAQ парный формат назван только для CoMo. Роль взрослого нужно подтвердить. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-janv2027",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "engineering",
+        "arts"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2016",
+      "slug": "ircam-spouik-jan",
+      "provider": "IRCAM · Spouik",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Maison Pompidou · 50 Rue Rambuteau · Paris",
+      "age": "8–12 лет.",
+      "programme": "Звуковой дизайн для игр и кино. Дети создают и записывают звуки.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Страница на французском. Обучение на английском или испанском не подтверждено.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "sessions": [
+          [
+            "2027-01-10",
+            "2027-01-10"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "20270110-1500",
+            "start": "2027-01-10",
+            "end": "2027-01-10",
+            "label": "Spouik",
+            "price": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+            "source": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-janv2027",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-10",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "start_utc": "2027-01-10T14:00:00Z",
+                "end_utc": "2027-01-10T16:00:00Z",
+                "topic": "Звуковой дизайн для игр и кино. Дети создают и записывают звуки.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 8,
+        "currency": "EUR",
+        "unit": "unknown",
+        "label": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+        "included": "Звуковой дизайн для игр и кино. Дети создают и записывают звуки.",
+        "extras": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Подтвердить язык и место."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту сейчас. Сверить возраст на дату занятия."
+        }
+      },
+      "editorial_reason": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-janv2027",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "technology",
+        "arts"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2017",
+      "slug": "ircam-como-narration-feb",
+      "provider": "IRCAM · CoMo-education · Narration",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Maison Pompidou · 50 Rue Rambuteau · Paris",
+      "age": "4–6 лет.",
+      "programme": "Дети используют движение, звук и интерактивные датчики для рассказа истории.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Страница на французском. Обучение на английском или испанском не подтверждено.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "sessions": [
+          [
+            "2027-02-13",
+            "2027-02-13"
+          ],
+          [
+            "2027-02-13",
+            "2027-02-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "20270213-1430",
+            "start": "2027-02-13",
+            "end": "2027-02-13",
+            "label": "CoMo-education · Narration",
+            "price": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+            "source": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-fev2027",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-13",
+                "start_time": "14:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Paris",
+                "start_utc": "2027-02-13T13:30:00Z",
+                "end_utc": "2027-02-13T14:30:00Z",
+                "topic": "Дети используют движение, звук и интерактивные датчики для рассказа истории.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место."
+          },
+          {
+            "variant_key": "20270213-1600",
+            "start": "2027-02-13",
+            "end": "2027-02-13",
+            "label": "CoMo-education · Narration",
+            "price": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+            "source": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-fev2027",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-13",
+                "start_time": "16:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "start_utc": "2027-02-13T15:00:00Z",
+                "end_utc": "2027-02-13T16:00:00Z",
+                "topic": "Дети используют движение, звук и интерактивные датчики для рассказа истории.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 8,
+        "currency": "EUR",
+        "unit": "unknown",
+        "label": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+        "included": "Дети используют движение, звук и интерактивные датчики для рассказа истории.",
+        "extras": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту сейчас. Сверить возраст на дату занятия."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Подходит, если на дату занятия ещё 6 лет."
+        }
+      },
+      "editorial_reason": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-fev2027",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "arts"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2018",
+      "slug": "ircam-cinesons-feb",
+      "provider": "IRCAM · Cinésons",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Maison Pompidou · 50 Rue Rambuteau · Paris",
+      "age": "8–12 лет.",
+      "programme": "Дети исследуют звук для кино и подбирают эффекты для изображения.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Страница на французском. Обучение на английском или испанском не подтверждено.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "sessions": [
+          [
+            "2027-02-14",
+            "2027-02-14"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "20270214-1500",
+            "start": "2027-02-14",
+            "end": "2027-02-14",
+            "label": "Cinésons",
+            "price": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+            "source": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-fev2027",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-02-14",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "start_utc": "2027-02-14T14:00:00Z",
+                "end_utc": "2027-02-14T16:00:00Z",
+                "topic": "Дети исследуют звук для кино и подбирают эффекты для изображения.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 8,
+        "currency": "EUR",
+        "unit": "unknown",
+        "label": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+        "included": "Дети исследуют звук для кино и подбирают эффекты для изображения.",
+        "extras": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Подтвердить язык и место."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту сейчас. Сверить возраст на дату занятия."
+        }
+      },
+      "editorial_reason": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-fev2027",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "arts"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2019",
+      "slug": "ircam-des-mots-et-des-sons-mars",
+      "provider": "IRCAM · Des mots et des sons",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Maison Pompidou · 50 Rue Rambuteau · Paris",
+      "age": "11–15 лет.",
+      "programme": "Звуковой дизайн для кино, игр и повседневных устройств.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Страница на французском. Обучение на английском или испанском не подтверждено.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "sessions": [
+          [
+            "2027-03-14",
+            "2027-03-14"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "20270314-1500",
+            "start": "2027-03-14",
+            "end": "2027-03-14",
+            "label": "Des mots et des sons",
+            "price": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+            "source": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mars2027",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-14",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "start_utc": "2027-03-14T14:00:00Z",
+                "end_utc": "2027-03-14T16:00:00Z",
+                "topic": "Звуковой дизайн для кино, игр и повседневных устройств.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 8,
+        "currency": "EUR",
+        "unit": "unknown",
+        "label": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+        "included": "Звуковой дизайн для кино, игр и повседневных устройств.",
+        "extras": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту сейчас. Сверить возраст на дату занятия."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту сейчас. Сверить возраст на дату занятия."
+        }
+      },
+      "editorial_reason": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mars2027",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "technology",
+        "arts"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2020",
+      "slug": "ircam-lutherie-numerique-avr",
+      "provider": "IRCAM · Lutherie numérique",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Maison Pompidou · 50 Rue Rambuteau · Paris",
+      "age": "7–12 лет.",
+      "programme": "Цифровые музыкальные инструменты из простых предметов и подручных материалов.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Страница на французском. Обучение на английском или испанском не подтверждено.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "sessions": [
+          [
+            "2027-04-11",
+            "2027-04-11"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "20270411-1500",
+            "start": "2027-04-11",
+            "end": "2027-04-11",
+            "label": "Lutherie numérique",
+            "price": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+            "source": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-avril2027",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-04-11",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "start_utc": "2027-04-11T13:00:00Z",
+                "end_utc": "2027-04-11T15:00:00Z",
+                "topic": "Цифровые музыкальные инструменты из простых предметов и подручных материалов.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 8,
+        "currency": "EUR",
+        "unit": "unknown",
+        "label": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+        "included": "Цифровые музыкальные инструменты из простых предметов и подручных материалов.",
+        "extras": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Подтвердить язык и место."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Если к дате занятия исполнится 7 лет."
+        }
+      },
+      "editorial_reason": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-avril2027",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "engineering",
+        "arts"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2021",
+      "slug": "ircam-cinesons-mai",
+      "provider": "IRCAM · Cinésons",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Maison Pompidou · 50 Rue Rambuteau · Paris",
+      "age": "8–12 лет.",
+      "programme": "Дети исследуют звук для кино и подбирают эффекты для изображения.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Страница на французском. Обучение на английском или испанском не подтверждено.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "sessions": [
+          [
+            "2027-05-08",
+            "2027-05-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "20270508-1500",
+            "start": "2027-05-08",
+            "end": "2027-05-08",
+            "label": "Cinésons",
+            "price": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+            "source": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mai2027",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-05-08",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "start_utc": "2027-05-08T13:00:00Z",
+                "end_utc": "2027-05-08T15:00:00Z",
+                "topic": "Дети исследуют звук для кино и подбирают эффекты для изображения.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 8,
+        "currency": "EUR",
+        "unit": "unknown",
+        "label": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+        "included": "Дети исследуют звук для кино и подбирают эффекты для изображения.",
+        "extras": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Подтвердить язык и место."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту сейчас. Сверить возраст на дату занятия."
+        }
+      },
+      "editorial_reason": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mai2027",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "arts"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2022",
+      "slug": "ircam-spouik-mai",
+      "provider": "IRCAM · Spouik",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Maison Pompidou · 50 Rue Rambuteau · Paris",
+      "age": "8–12 лет.",
+      "programme": "Звуковой дизайн для игр и кино. Дети создают и записывают звуки.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Страница на французском. Обучение на английском или испанском не подтверждено.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "sessions": [
+          [
+            "2027-05-09",
+            "2027-05-09"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "20270509-1500",
+            "start": "2027-05-09",
+            "end": "2027-05-09",
+            "label": "Spouik",
+            "price": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+            "source": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mai2027",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-05-09",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "start_utc": "2027-05-09T13:00:00Z",
+                "end_utc": "2027-05-09T15:00:00Z",
+                "topic": "Звуковой дизайн для игр и кино. Дети создают и записывают звуки.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 8,
+        "currency": "EUR",
+        "unit": "unknown",
+        "label": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+        "included": "Звуковой дизайн для игр и кино. Дети создают и записывают звуки.",
+        "extras": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Подтвердить язык и место."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту сейчас. Сверить возраст на дату занятия."
+        }
+      },
+      "editorial_reason": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mai2027",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "technology",
+        "arts"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2023",
+      "slug": "ircam-como-narration-juin",
+      "provider": "IRCAM · CoMo-education · Narration",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Maison Pompidou · 50 Rue Rambuteau · Paris",
+      "age": "4–6 лет.",
+      "programme": "Дети используют движение, звук и интерактивные датчики для рассказа истории.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Страница на французском. Обучение на английском или испанском не подтверждено.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "sessions": [
+          [
+            "2027-06-12",
+            "2027-06-12"
+          ],
+          [
+            "2027-06-12",
+            "2027-06-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "20270612-1430",
+            "start": "2027-06-12",
+            "end": "2027-06-12",
+            "label": "CoMo-education · Narration",
+            "price": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+            "source": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-juin2027",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-06-12",
+                "start_time": "14:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Paris",
+                "start_utc": "2027-06-12T12:30:00Z",
+                "end_utc": "2027-06-12T13:30:00Z",
+                "topic": "Дети используют движение, звук и интерактивные датчики для рассказа истории.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место."
+          },
+          {
+            "variant_key": "20270612-1600",
+            "start": "2027-06-12",
+            "end": "2027-06-12",
+            "label": "CoMo-education · Narration",
+            "price": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+            "source": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-juin2027",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-06-12",
+                "start_time": "16:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "start_utc": "2027-06-12T14:00:00Z",
+                "end_utc": "2027-06-12T15:00:00Z",
+                "topic": "Дети используют движение, звук и интерактивные датчики для рассказа истории.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 8,
+        "currency": "EUR",
+        "unit": "unknown",
+        "label": "Тариф 8 EUR по странице мастерской. Свободные места уточнить.",
+        "included": "Дети используют движение, звук и интерактивные датчики для рассказа истории.",
+        "extras": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту сейчас. Сверить возраст на дату занятия."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Подходит, если на дату занятия ещё 6 лет."
+        }
+      },
+      "editorial_reason": "Детская группа без присутствия родителей на занятии. Выбрать дату и сеанс. Подтвердить язык ведущего и свободное место.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-juin2027",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "arts"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2024",
+      "slug": "fod-lideres-futuro-vacaciones-2026-27",
+      "provider": "Fundación Omar Dengo · Líderes del Futuro",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "San José",
+      "age": "6–16 лет для всей программы. Возрастные группы отдельных занятий уточнить.",
+      "programme": "Робототехника, программирование, дизайн и инженерные проекты на каникулах.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Анонс на испанском. Язык преподавания выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "announced_dates_programme_pending",
+        "label": "Анонс на декабрь 2026 и январь 2027. Дни, часы, цена и техника по группам пока не подтверждены.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "announced_month",
+        "announced_months": [
+          "2026-12",
+          "2027-01"
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "CRC",
+        "unit": "unknown",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "Робототехника, программирование, дизайн и инженерные проекты на каникулах.",
+        "extras": "Запросить у фонда расписание по возрастам, стоимость и места. О наборе сообщает радио по просьбе фонда. На сайте фонда точных смен пока нет.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Подтвердить язык и место."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Подтвердить язык и место."
+        }
+      },
+      "editorial_reason": "Анонс на декабрь 2026 и январь 2027. Дни, часы, цена и техника по группам пока не подтверждены.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://fod.ac.cr/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.panoramadigital.co.cr/matricula-para-los-cursos-del-programa-fod-lideres-del-futuro/",
+          "title": "Сообщение о программе со слов фонда.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://elmundo.cr/tendencias/fundacion-omar-dengo-abre-matricula-para-cursos-de-tecnologia-dirigidos-a-ninos-y-adolescentes/",
+          "title": "Сообщение о программе со слов фонда.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "L798"
       ]
     }
   ],
@@ -310152,7 +311374,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 287,
+  "version": 288,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -323387,7 +324609,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2014,
+      "total_dossiers": 2024,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

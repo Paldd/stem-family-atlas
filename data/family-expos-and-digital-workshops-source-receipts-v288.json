@@ -1,0 +1,314 @@
+{
+  "captures": [
+    {
+      "key": "fr-ircam-jan",
+      "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-janv2027",
+      "final_url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-janv2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 203353,
+      "sha256": "49e0c0bb63facbe72ab8d82594c13c4a11b52c2c6908aa53d92806c60fd14375",
+      "file": "fr-ircam-jan.html"
+    },
+    {
+      "key": "fr-ircam-series",
+      "url": "https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques",
+      "final_url": "https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 337683,
+      "sha256": "7ca44647f788a29d2a4c1d10a700dca48c8c74c709132dc705518bd5b5410937",
+      "file": "fr-ircam-series.html"
+    },
+    {
+      "key": "fr-ircam-feb",
+      "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-fev2027",
+      "final_url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-fev2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 203544,
+      "sha256": "4fa2f6ed6f1d09bb787782dbb59a853c0ae2456f8a158d5ef79a61151778f356",
+      "file": "fr-ircam-feb.html"
+    },
+    {
+      "key": "fr-ircam-ateliers",
+      "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mars2027",
+      "final_url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mars2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 207535,
+      "sha256": "74286e25ea3a3ab141df2c4ab22133ab1a9790b22a1cd32f1583917d10ee447c",
+      "file": "fr-ircam-ateliers.html"
+    },
+    {
+      "key": "fr-ircam-apr",
+      "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-avril2027",
+      "final_url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-avril2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 204247,
+      "sha256": "e1539771a786955fc620f01fe7e04f4dfe9681acfa8be243f6f84e0ddd785ee4",
+      "file": "fr-ircam-apr.html"
+    },
+    {
+      "key": "fr-ircam-may",
+      "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mai2027",
+      "final_url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mai2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 203164,
+      "sha256": "d4d8d5404b1892984bc3051f7e66459ded0a48883c47af060977ab62ebb28ebf",
+      "file": "fr-ircam-may.html"
+    },
+    {
+      "key": "fr-ircam-jun",
+      "url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-juin2027",
+      "final_url": "https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-juin2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 203295,
+      "sha256": "46e3cda02b01b8738ad802eab5ca3bac7308fcfc9352e6ea3acf3d481fc26f71",
+      "file": "fr-ircam-jun.html"
+    },
+    {
+      "key": "jm-tech-expo",
+      "url": "https://caribbeantechexpo.com/",
+      "final_url": "https://caribbeantechexpo.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 56211,
+      "sha256": "1d6d857ca238b98f5be592e6106b26e171d86cad4ae2d751ef8e23921987fda4",
+      "file": "jm-tech-expo.html"
+    },
+    {
+      "key": "jm-tech-expo-tickets",
+      "url": "https://caribbeantechexpo.com/attend",
+      "final_url": "https://caribbeantechexpo.com/attend",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 48165,
+      "sha256": "69153b30a37c89d8359c3344c5753307724f060a3541c71648d0630ab43dd3b5",
+      "file": "jm-tech-expo-tickets.html"
+    },
+    {
+      "key": "tw-tainan",
+      "url": "https://cec.ctee.com.tw/ctms/tn-visitor/",
+      "final_url": "https://cec.ctee.com.tw/ctms/tn-visitor/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 86349,
+      "sha256": "37593eaa467fcabe3d73b311ae22f187823f93c0e5528e46eed31488d6e7b08e",
+      "file": "tw-tainan.html"
+    },
+    {
+      "key": "za-aatf",
+      "url": "https://www.africaautomationtechnologyfair.com/africa-automation-trade-fair/en-gb.html",
+      "final_url": "https://www.africaautomationtechnologyfair.com/africa-automation-trade-fair/en-gb.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 110547,
+      "sha256": "c102183142ff35c70d058a77926cf6ab70f9fcd2c4048db9f69cd85f6bd6eadc",
+      "file": "za-aatf.html"
+    },
+    {
+      "key": "za-aatf-admission",
+      "url": "https://www.africaautomationtechnologyfair.com/africa-automation-trade-fair/en-gb/footer/admission-policy.html",
+      "final_url": "https://www.africaautomationtechnologyfair.com/africa-automation-trade-fair/en-gb/footer/admission-policy.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 95178,
+      "sha256": "16502af62d43078a96160ce45dbcbb8afd8a11bcba38e58af6d7fcd30e2ca1a3",
+      "file": "za-aatf-admission.html"
+    },
+    {
+      "key": "es-granada-fair",
+      "url": "https://www.parqueciencias.com/29a-feria-de-la-ciencia/",
+      "final_url": "https://www.parqueciencias.com/29a-feria-de-la-ciencia/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 239477,
+      "sha256": "5c47ebf34f902f27e3d9f8784f94758d4fbd9b42a6d5e670a5703535031934bf",
+      "file": "es-granada-fair.html"
+    },
+    {
+      "key": "es-granada-rules",
+      "url": "https://www.parqueciencias.com/wp-content/uploads/2026/09/260924_convocatoria-larga-29feriadelaciencia_parque-de-las-ciencias.pdf",
+      "final_url": "https://www.parqueciencias.com/wp-content/uploads/2026/09/260924_convocatoria-larga-29feriadelaciencia_parque-de-las-ciencias.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 455237,
+      "sha256": "f6553173caf688ef88c0be31e14a7c6f3756ad77f5bfacb4df5fe3e9981221c9",
+      "file": "es-granada-rules.pdf"
+    },
+    {
+      "key": "jp-nanairo-en",
+      "url": "https://www.miraikan.jst.go.jp/en/exhibitions/future/nanairoquest/",
+      "final_url": "https://www.miraikan.jst.go.jp/en/exhibitions/future/nanairoquest/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 66072,
+      "sha256": "22a1acea91c11eabd29e84d3e123e5a82a8de39827775e01407ed262824a304f",
+      "file": "jp-nanairo-en.html"
+    },
+    {
+      "key": "jp-nanairo",
+      "url": "https://www.miraikan.jst.go.jp/exhibitions/future/nanairoquest/",
+      "final_url": "https://www.miraikan.jst.go.jp/exhibitions/future/nanairoquest/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 74306,
+      "sha256": "6a6d558af3206c89009bcc9793eb0da2c5d17de9cc1804db684b0d14428856b0",
+      "file": "jp-nanairo.html"
+    },
+    {
+      "key": "jp-miraikan-admission",
+      "url": "https://www.miraikan.jst.go.jp/en/visit/admission/",
+      "final_url": "https://www.miraikan.jst.go.jp/en/visit/admission/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 48848,
+      "sha256": "dd5a3344a7939454c240d9333fb5b7a9f82b2ae3f77793acaf1fcd2668bf6822",
+      "file": "jp-miraikan-admission.html"
+    },
+    {
+      "key": "de-robocup-visitors",
+      "url": "https://2027.robocup.org/visit/visitors",
+      "final_url": "https://2027.robocup.org/visit/visitors",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 118795,
+      "sha256": "d6168b2a5d9c23108efb368435130b99c2022d29f20a98f8b8ff34606b058cb5",
+      "file": "de-robocup-visitors.html"
+    },
+    {
+      "key": "de-robocup-family",
+      "url": "https://2027.robocup.org/wm27/participation/family-day",
+      "final_url": "https://2027.robocup.org/wm27/participation/family-day",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 73248,
+      "sha256": "233859277574181629b60fa1f1be82a5762a295db5a2aefd2dfa07f3de63f76f",
+      "file": "de-robocup-family.html"
+    },
+    {
+      "key": "jp-sumida",
+      "url": "https://fes.sakura-tempesta.or.jp/en/",
+      "final_url": "https://fes.sakura-tempesta.or.jp/en/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 32779,
+      "sha256": "c59b8cde91b9d6c68bc5c5dd3430bb40d7cb6a613db96ae42e5636aa9630c4a1",
+      "file": "jp-sumida.html"
+    },
+    {
+      "key": "tw-tairos",
+      "url": "https://tairos.chanchao.com.tw/en/VisitorInfo",
+      "final_url": "https://tairos.chanchao.com.tw/en/VisitorInfo",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 383213,
+      "sha256": "74b25da243a38d882a7d5aab0a02bc3642fd66f090913379051cc2245fedb3d7",
+      "file": "tw-tairos.html"
+    },
+    {
+      "key": "ca-scwist",
+      "url": "https://stemexpo.scwist.ca/about",
+      "final_url": "https://stemexpo.scwist.ca/about",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 45847,
+      "sha256": "1aeb5978501e0aef93576b539e4f6bc5d9d29ed91c40bb27489a9eb31509fc4f",
+      "file": "ca-scwist.html"
+    },
+    {
+      "key": "cri-animacon",
+      "url": "https://animaconcr.com/activities",
+      "final_url": "https://animaconcr.com/activities",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 16583,
+      "sha256": "6afdd3c19f5b7a8d6886944be2a9eb014d4e2af85cf0a964c29c47316d63f5ce",
+      "file": "cri-animacon.html"
+    },
+    {
+      "key": "cr-fod-broadcast",
+      "url": "https://www.panoramadigital.co.cr/matricula-para-los-cursos-del-programa-fod-lideres-del-futuro/",
+      "final_url": "https://www.panoramadigital.co.cr/matricula-para-los-cursos-del-programa-fod-lideres-del-futuro/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 173496,
+      "sha256": "5566db8d153b7e36063107d410ce26dcd240929bb401afd7468299f9525b35a9",
+      "file": "cr-fod-broadcast.html"
+    },
+    {
+      "key": "cr-fod-announcement",
+      "url": "https://elmundo.cr/tendencias/fundacion-omar-dengo-abre-matricula-para-cursos-de-tecnologia-dirigidos-a-ninos-y-adolescentes/",
+      "final_url": "https://elmundo.cr/tendencias/fundacion-omar-dengo-abre-matricula-para-cursos-de-tecnologia-dirigidos-a-ninos-y-adolescentes/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 283087,
+      "sha256": "7e2138fdd5194f0a4d03651736747bb5dadfa54bc44de41c0c055602b80a6487",
+      "file": "cr-fod-announcement.html"
+    },
+    {
+      "key": "cr-fod",
+      "url": "https://fod.ac.cr/",
+      "final_url": "https://fod.ac.cr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 675888,
+      "sha256": "dbbf3e62f7b4ab59ab063b826e55ad58c1c00e277219ea8a54ea6a244e4b74a1",
+      "file": "cr-fod.html"
+    },
+    {
+      "key": "idn-game",
+      "url": "https://itfest.idn.sch.id/competitions/scratch-game-development",
+      "final_url": "https://itfest.idn.sch.id/competitions/scratch-game-development",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 96072,
+      "sha256": "6585c4a8740e4512dbb40dfb65543082bd9c49f76ba48afdf6a9085b42c722cd",
+      "file": "idn-game.html"
+    },
+    {
+      "key": "idn-it-fest",
+      "url": "https://itfest.idn.sch.id/",
+      "final_url": "https://itfest.idn.sch.id/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 213257,
+      "sha256": "9fc6bc5dc2890189beef0b1e31db9e772f5c19c85d565f9194d80e7639d98335",
+      "file": "idn-it-fest.html"
+    },
+    {
+      "key": "idn-sumo",
+      "url": "https://itfest.idn.sch.id/competitions/sumo-robot-1-kg",
+      "final_url": "https://itfest.idn.sch.id/competitions/sumo-robot-1-kg",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 71766,
+      "sha256": "bd384b8d6060a6e986b9ccddd20f4a7db5421619dd851c318ea1a49d24fd5439",
+      "file": "idn-sumo.html"
+    },
+    {
+      "key": "mx-vex-final",
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66606.html",
+      "final_url": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66606.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 34451,
+      "sha256": "863498b8d8a4ee00b9600dcf06cfd40ce85ea8da5c5b8644ec785ebbd122a2cd",
+      "file": "mx-vex-final.html"
+    },
+    {
+      "key": "recf-season-updates",
+      "url": "https://kb.roboticseducation.org/hc/en-us/articles/32326699835799-2026-2027-RECF-Robotics-Season-Updates",
+      "final_url": "https://kb.roboticseducation.org/hc/en-us/articles/32326699835799-2026-2027-RECF-Robotics-Season-Updates",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 71694,
+      "sha256": "40f30055993b5367ffe5bd5c72a7b5cef314d5e6df9c4de70e15fb0bc0ad7c2c",
+      "file": "recf-season-updates.html"
+    }
+  ]
+}

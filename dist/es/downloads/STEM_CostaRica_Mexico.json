@@ -13371,7 +13371,7 @@
           "label": "Reglas y condiciones de admisión"
         }
       ],
-      "age": "De 4 a 6 años.",
+      "age": "4–6 años.",
       "mat": "No por edad indicada para este grupo.",
       "osc": "Condicional. La edad encaja según la ficha; confirmar grupo y nivel.",
       "format": "Clases presenciales semanales en grupos pequeños.",
@@ -25055,7 +25055,7 @@
       ],
       "proof": "Cotejado con la página oficial y las condiciones publicadas.",
       "status": "Idea",
-      "age": "De 4 a 6 años.",
+      "age": "4–6 años.",
       "mat": "No. Supera el rango del club infantil.",
       "osc": "Condicional. La edad está dentro del rango general. Confirmar el grupo.",
       "format": "Programa regular de CIJ. Aún no se indican fechas próximas ni horario de cada grupo.",
@@ -25148,6 +25148,73 @@
       "related_ids": [
         "L787"
       ]
+    },
+    {
+      "id": "L798",
+      "title": "FOD Líderes del Futuro · Vacaciones 2026–27",
+      "block": "Campamentos",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "San José",
+      "start": "",
+      "end": "",
+      "period": "Anuncio para diciembre de 2026 y enero de 2027. Siguen sin confirmarse días, horas, precio y equipo por grupo.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://fod.ac.cr/",
+      "references": [
+        {
+          "url": "https://www.panoramadigital.co.cr/matricula-para-los-cursos-del-programa-fod-lideres-del-futuro/",
+          "label": "Información sobre el programa comunicada por la fundación."
+        },
+        {
+          "url": "https://elmundo.cr/tendencias/fundacion-omar-dengo-abre-matricula-para-cursos-de-tecnologia-dirigidos-a-ninos-y-adolescentes/",
+          "label": "Información sobre el programa comunicada por la fundación."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "6–16 años para el programa general. Confirmar edades de cada grupo.",
+      "mat": "Condicional. Cumple por edad. Confirmar idioma y plaza.",
+      "osc": "Condicional. Cumple por edad. Confirmar idioma y plaza.",
+      "format": "Robótica, programación, diseño y proyectos de ingeniería durante las vacaciones.",
+      "entry": "Pedir a la fundación horarios por edad, precio y plazas. La radio anunció la matrícula a petición de la fundación. La web de la fundación aún no publica los turnos exactos.",
+      "gear": "",
+      "language": "Anuncio en español. Confirmar el idioma de enseñanza del grupo elegido.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Anuncio en español. Confirmar el idioma de enseñanza del grupo elegido.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P1 — inicio local para la familia",
+      "action": "Pedir a la fundación horarios por edad, precio y plazas. La radio anunció la matrícula a petición de la fundación. La web de la fundación aún no publica los turnos exactos.",
+      "note": "Pedir a la fundación horarios por edad, precio y plazas. La radio anunció la matrícula a petición de la fundación. La web de la fundación aún no publica los turnos exactos.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "organizer_announcement",
+      "date_scope": "programme_watch",
+      "date_precision": "month",
+      "announced_months": [
+        "2026-12",
+        "2027-01"
+      ],
+      "camp_programme_id": "CP2024",
+      "camp_dossier_slug": "fod-lideres-futuro-vacaciones-2026-27"
     },
     {
       "id": "CP041-20270329-20270402",

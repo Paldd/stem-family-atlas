@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10382,
-    "competition_cards": 4692,
-    "event_cards": 606,
-    "camp_cards": 5084,
+    "cards": 10405,
+    "competition_cards": 4695,
+    "event_cards": 611,
+    "camp_cards": 5099,
     "league_profiles": 301,
-    "major_exhibition_cards": 506,
+    "major_exhibition_cards": 511,
     "vex_cards": 814,
     "countries_with_records": 234,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3388,
+      "total": 3390,
       "countries_with_records": 40,
       "competitions": 1929,
-      "events": 165,
-      "major_exhibitions": 124,
-      "camps": 1294,
+      "events": 166,
+      "major_exhibitions": 125,
+      "camps": 1295,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2216,
+      "total": 2231,
       "countries_with_records": 54,
       "competitions": 611,
-      "events": 148,
-      "major_exhibitions": 123,
-      "camps": 1457,
+      "events": 149,
+      "major_exhibitions": 124,
+      "camps": 1471,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -76,11 +76,11 @@
       "regions": [
         "África"
       ],
-      "total": 394,
+      "total": 395,
       "countries_with_records": 55,
       "competitions": 245,
-      "events": 39,
-      "major_exhibitions": 31,
+      "events": 40,
+      "major_exhibitions": 32,
       "camps": 110,
       "status": "Se ha estudiado parcialmente",
       "remaining": "Antes de la ampliación casi todas las competiciones fueron en Sudáfrica. se añadió PARC Senegal; Maghreb, África Oriental / Oeste y selecciones locales siguen siendo vacíos."
@@ -90,11 +90,11 @@
       "regions": [
         "Asia"
       ],
-      "total": 2996,
+      "total": 3001,
       "countries_with_records": 50,
-      "competitions": 1165,
-      "events": 164,
-      "major_exhibitions": 151,
+      "competitions": 1168,
+      "events": 166,
+      "major_exhibitions": 153,
       "camps": 1667,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
@@ -14322,6 +14322,61 @@
       "new": false
     },
     {
+      "id": "E607",
+      "name": "Caribbean Tech Expo 2K27",
+      "country": "Jamaica",
+      "region": "Caribe",
+      "start": "2027-02-20",
+      "end": "2027-02-20",
+      "visitor_policy": "family",
+      "source": "https://caribbeantechexpo.com/",
+      "new": false
+    },
+    {
+      "id": "E608",
+      "name": "Tainan Automatic Machinery & Intelligent Manufacturing Show 2027",
+      "country": "Taiwán",
+      "region": "Asia",
+      "start": "2027-04-22",
+      "end": "2027-04-25",
+      "visitor_policy": "adults_only",
+      "source": "https://cec.ctee.com.tw/ctms/tn-visitor/",
+      "new": false
+    },
+    {
+      "id": "E609",
+      "name": "Africa Automation Technology Fair 2027",
+      "country": "Sudáfrica",
+      "region": "África",
+      "start": "2027-07-06",
+      "end": "2027-07-08",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.africaautomationtechnologyfair.com/africa-automation-trade-fair/en-gb.html",
+      "new": false
+    },
+    {
+      "id": "E610",
+      "name": "29ª Feria de la Ciencia · Granada",
+      "country": "España",
+      "region": "Europa",
+      "start": "2027-05-08",
+      "end": "2027-05-08",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.parqueciencias.com/29a-feria-de-la-ciencia/",
+      "new": false
+    },
+    {
+      "id": "E611",
+      "name": "Miraikan · Nanairo Quest · Friend Robot Tour",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://www.miraikan.jst.go.jp/en/exhibitions/future/nanairoquest/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -16739,8 +16794,8 @@
       }
     ],
     "counts": {
-      "records": 5084,
-      "holiday": 4705,
+      "records": 5099,
+      "holiday": 4720,
       "regular": 170,
       "self_paced_materials": 4,
       "boarding": 1038,

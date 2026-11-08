@@ -1055,6 +1055,19 @@ Limitaciones: 18–21 de marzo de 2027. De 10:00 a 18:00, el último día hasta 
 Fuente: https://www.tibs.org.tw/visitor.asp
 Se ha comprobado: 2026-11-08
 
+### E608 · Tainan Automatic Machinery & Intelligent Manufacturing Show 2027
+
+Fecha: 2027-04-22 - 2027-04-25
+edad: Acceso a partir de 12 años.
+Matvey: No. Los menores no pueden entrar en esta zona.
+Oscar: No. Los menores no pueden entrar en esta zona.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Feria profesional. No se admite a menores de 12 años, incluidos bebés. La organización recomienda preinscripción para adultos.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: La página indica el intervalo 22–25 de abril de 2027. La nota de cierre anticipado se refiere al 17 de mayo, así que queda por confirmar la hora de cierre del último día.
+Fuente: https://cec.ctee.com.tw/ctms/tn-visitor/
+Se ha comprobado: 2026-11-08
+
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
 
 Fecha: 2027-07-05 2027-07-10

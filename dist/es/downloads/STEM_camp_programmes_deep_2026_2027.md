@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2014 fichas en 126 países. Cada ficha indica las fechas de revisión de sus fuentes.
+Estado de la base: 2026-11-08. 2024 fichas en 126 países. Cada ficha indica las fechas de revisión de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -159838,7 +159838,7 @@ Francia · Maison Pompidou · 50 rue Rambuteau · Paris
 
 **Alojamiento:** Taller familiar para una pareja de menor y adulto.
 
-**Fechas / estado:** Actividad de 15:00 a 17:00, hora de París.
+**Fechas / estado:** Elegir un taller concreto. La edad se comprueba en la fecha de la sesión.
 
 **Precio / año:** 2026 · La tarifa de EUR 8 se publica sin desglose de entrada. Confirmar el precio para una pareja de adulto y menor.
 
@@ -159874,9 +159874,31 @@ Francia · Maison Pompidou · 50 rue Rambuteau · Paris
 
 [fuente](https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1)
 
+### CoMo-education · Création
+
+**Fechas / estado:** 2027-04-10 — 2027-04-10
+
+**Precio:** Tarifa de 8 EUR. En el taller en pareja, confirmar cómo se paga la plaza adulta.
+
+**condiciones de participación:** El menor participa junto con una persona adulta. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+- 2027-04-10 · 15:00–17:00 · Europe/Paris · El menor y la persona adulta crean una historia sonora con movimientos y la tecnología interactiva CoMo.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+**Matvey:** No cumple por edad actualmente. Comprobar la edad en la fecha del taller.
+
+**Oscar:** Condicional. Encaja por edad. Confirmar idioma y plaza.
+
+[fuente](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-avril2027)
+
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-avril2027) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques) · 2026-11-08
 
 ## CP2002 · Maison Pompidou · Bestio-robot
 
@@ -159892,7 +159914,7 @@ Francia · Maison Pompidou · 50 rue Rambuteau · Paris
 
 **Alojamiento:** Taller de dos horas para menores.
 
-**Fechas / estado:** Actividad de 15:00 a 17:00, hora de París.
+**Fechas / estado:** Elegir un taller concreto. La edad se comprueba en la fecha de la sesión.
 
 **Precio / año:** 2026 · La tarifa de EUR 8 se publica sin desglose de entrada. Confirmar el precio para una pareja de adulto y menor.
 
@@ -159928,9 +159950,51 @@ Francia · Maison Pompidou · 50 rue Rambuteau · Paris
 
 [fuente](https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1)
 
+### Bestio-robot
+
+**Fechas / estado:** 2027-03-13 — 2027-03-13
+
+**Precio:** Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**condiciones de participación:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+- 2027-03-13 · 15:00–17:00 · Europe/Paris · El menor inventa una máquina que habla y descubre micrófonos e IA para la voz.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+**Matvey:** Condicional. Encaja por edad. Confirmar idioma y plaza.
+
+**Oscar:** Condicional. Si cumple 7 años para la fecha del taller.
+
+[fuente](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mars2027)
+
+### Bestio-robot
+
+**Fechas / estado:** 2027-06-13 — 2027-06-13
+
+**Precio:** Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**condiciones de participación:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+- 2027-06-13 · 15:00–17:00 · Europe/Paris · El menor inventa una máquina que habla y descubre micrófonos e IA para la voz.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+**Matvey:** Condicional. Encaja por edad. Confirmar idioma y plaza.
+
+**Oscar:** Condicional. Si cumple 7 años para la fecha del taller.
+
+[fuente](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-juin2027)
+
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mars2027) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-juin2027) · 2026-11-08
 
 ## CP2003 · Parque La Libertad · CIJ · Peques STEAM
 
@@ -160473,6 +160537,582 @@ Santa Lucía · Sir Arthur Lewis Community College
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://www.salcc.edu.lc/news/salcc-welcomes-sixty-students-for-faces-of-development-steam-camp-2026.php) · 2026-11-08
+
+## CP2015 · IRCAM · Lutherie numérique
+
+Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–12 años.
+
+**Idioma:** Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+
+**Programa:** Instrumentos musicales digitales con objetos simples y materiales reutilizados.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El programa indica un taller con familias y las preguntas frecuentes reservan el formato en pareja para CoMo. Confirmar la participación adulta. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Precio / año:** 2027 · Tarifa de 8 EUR. En el taller en pareja, confirmar cómo se paga la plaza adulta.
+
+**Incluido:** Instrumentos musicales digitales con objetos simples y materiales reutilizados.
+
+**Suplementos:** El programa indica un taller con familias y las preguntas frecuentes reservan el formato en pareja para CoMo. Confirmar la participación adulta. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Encaja por edad. Confirmar idioma y plaza.
+
+**Oscar:** Condicional. Si cumple 7 años para la fecha del taller.
+
+**Motivo de selección:** El programa indica un taller con familias y las preguntas frecuentes reservan el formato en pareja para CoMo. Confirmar la participación adulta. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Lutherie numérique
+
+**Fechas / estado:** 2027-01-09 — 2027-01-09
+
+**Precio:** Tarifa de 8 EUR. En el taller en pareja, confirmar cómo se paga la plaza adulta.
+
+**condiciones de participación:** El programa indica un taller con familias y las preguntas frecuentes reservan el formato en pareja para CoMo. Confirmar la participación adulta. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+- 2027-01-09 · 15:00–17:00 · Europe/Paris · Instrumentos musicales digitales con objetos simples y materiales reutilizados.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-janv2027)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-janv2027) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques) · 2026-11-08
+
+## CP2016 · IRCAM · Spouik
+
+Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–12 años.
+
+**Idioma:** Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+
+**Programa:** Diseño sonoro para videojuegos y cine. El grupo crea y graba sonidos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Precio / año:** 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**Incluido:** Diseño sonoro para videojuegos y cine. El grupo crea y graba sonidos.
+
+**Suplementos:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Encaja por edad. Confirmar idioma y plaza.
+
+**Oscar:** No cumple por edad actualmente. Comprobar la edad en la fecha del taller.
+
+**Motivo de selección:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Spouik
+
+**Fechas / estado:** 2027-01-10 — 2027-01-10
+
+**Precio:** Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**condiciones de participación:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+- 2027-01-10 · 15:00–17:00 · Europe/Paris · Diseño sonoro para videojuegos y cine. El grupo crea y graba sonidos.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-janv2027)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-janv2027) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques) · 2026-11-08
+
+## CP2017 · IRCAM · CoMo-education · Narration
+
+Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–6 años.
+
+**Idioma:** Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+
+**Programa:** El grupo utiliza movimiento, sonido y sensores interactivos para contar una historia.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Precio / año:** 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**Incluido:** El grupo utiliza movimiento, sonido y sensores interactivos para contar una historia.
+
+**Suplementos:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No cumple por edad actualmente. Comprobar la edad en la fecha del taller.
+
+**Oscar:** Condicional. Puede asistir si aún tiene 6 años en la fecha del taller.
+
+**Motivo de selección:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### CoMo-education · Narration
+
+**Fechas / estado:** 2027-02-13 — 2027-02-13
+
+**Precio:** Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**condiciones de participación:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+- 2027-02-13 · 14:30–15:30 · Europe/Paris · El grupo utiliza movimiento, sonido y sensores interactivos para contar una historia.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-fev2027)
+
+### CoMo-education · Narration
+
+**Fechas / estado:** 2027-02-13 — 2027-02-13
+
+**Precio:** Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**condiciones de participación:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+- 2027-02-13 · 16:00–17:00 · Europe/Paris · El grupo utiliza movimiento, sonido y sensores interactivos para contar una historia.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-fev2027)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-fev2027) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques) · 2026-11-08
+
+## CP2018 · IRCAM · Cinésons
+
+Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–12 años.
+
+**Idioma:** Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+
+**Programa:** El grupo explora el sonido para cine y elige efectos para una imagen.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Precio / año:** 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**Incluido:** El grupo explora el sonido para cine y elige efectos para una imagen.
+
+**Suplementos:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Encaja por edad. Confirmar idioma y plaza.
+
+**Oscar:** No cumple por edad actualmente. Comprobar la edad en la fecha del taller.
+
+**Motivo de selección:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Cinésons
+
+**Fechas / estado:** 2027-02-14 — 2027-02-14
+
+**Precio:** Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**condiciones de participación:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+- 2027-02-14 · 15:00–17:00 · Europe/Paris · El grupo explora el sonido para cine y elige efectos para una imagen.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-fev2027)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-fev2027) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques) · 2026-11-08
+
+## CP2019 · IRCAM · Des mots et des sons
+
+Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 11–15 años.
+
+**Idioma:** Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+
+**Programa:** Diseño sonoro para cine, videojuegos y dispositivos cotidianos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Precio / año:** 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**Incluido:** Diseño sonoro para cine, videojuegos y dispositivos cotidianos.
+
+**Suplementos:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No cumple por edad actualmente. Comprobar la edad en la fecha del taller.
+
+**Oscar:** No cumple por edad actualmente. Comprobar la edad en la fecha del taller.
+
+**Motivo de selección:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Des mots et des sons
+
+**Fechas / estado:** 2027-03-14 — 2027-03-14
+
+**Precio:** Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**condiciones de participación:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+- 2027-03-14 · 15:00–17:00 · Europe/Paris · Diseño sonoro para cine, videojuegos y dispositivos cotidianos.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mars2027)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mars2027) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques) · 2026-11-08
+
+## CP2020 · IRCAM · Lutherie numérique
+
+Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–12 años.
+
+**Idioma:** Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+
+**Programa:** Instrumentos musicales digitales con objetos simples y materiales reutilizados.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Precio / año:** 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**Incluido:** Instrumentos musicales digitales con objetos simples y materiales reutilizados.
+
+**Suplementos:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Encaja por edad. Confirmar idioma y plaza.
+
+**Oscar:** Condicional. Si cumple 7 años para la fecha del taller.
+
+**Motivo de selección:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Lutherie numérique
+
+**Fechas / estado:** 2027-04-11 — 2027-04-11
+
+**Precio:** Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**condiciones de participación:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+- 2027-04-11 · 15:00–17:00 · Europe/Paris · Instrumentos musicales digitales con objetos simples y materiales reutilizados.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-avril2027)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-avril2027) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques) · 2026-11-08
+
+## CP2021 · IRCAM · Cinésons
+
+Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–12 años.
+
+**Idioma:** Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+
+**Programa:** El grupo explora el sonido para cine y elige efectos para una imagen.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Precio / año:** 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**Incluido:** El grupo explora el sonido para cine y elige efectos para una imagen.
+
+**Suplementos:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Encaja por edad. Confirmar idioma y plaza.
+
+**Oscar:** No cumple por edad actualmente. Comprobar la edad en la fecha del taller.
+
+**Motivo de selección:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Cinésons
+
+**Fechas / estado:** 2027-05-08 — 2027-05-08
+
+**Precio:** Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**condiciones de participación:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+- 2027-05-08 · 15:00–17:00 · Europe/Paris · El grupo explora el sonido para cine y elige efectos para una imagen.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mai2027)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mai2027) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques) · 2026-11-08
+
+## CP2022 · IRCAM · Spouik
+
+Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–12 años.
+
+**Idioma:** Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+
+**Programa:** Diseño sonoro para videojuegos y cine. El grupo crea y graba sonidos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Precio / año:** 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**Incluido:** Diseño sonoro para videojuegos y cine. El grupo crea y graba sonidos.
+
+**Suplementos:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Encaja por edad. Confirmar idioma y plaza.
+
+**Oscar:** No cumple por edad actualmente. Comprobar la edad en la fecha del taller.
+
+**Motivo de selección:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Spouik
+
+**Fechas / estado:** 2027-05-09 — 2027-05-09
+
+**Precio:** Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**condiciones de participación:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+- 2027-05-09 · 15:00–17:00 · Europe/Paris · Diseño sonoro para videojuegos y cine. El grupo crea y graba sonidos.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mai2027)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mai2027) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques) · 2026-11-08
+
+## CP2023 · IRCAM · CoMo-education · Narration
+
+Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–6 años.
+
+**Idioma:** Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+
+**Programa:** El grupo utiliza movimiento, sonido y sensores interactivos para contar una historia.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Precio / año:** 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**Incluido:** El grupo utiliza movimiento, sonido y sensores interactivos para contar una historia.
+
+**Suplementos:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No cumple por edad actualmente. Comprobar la edad en la fecha del taller.
+
+**Oscar:** Condicional. Puede asistir si aún tiene 6 años en la fecha del taller.
+
+**Motivo de selección:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### CoMo-education · Narration
+
+**Fechas / estado:** 2027-06-12 — 2027-06-12
+
+**Precio:** Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**condiciones de participación:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+- 2027-06-12 · 14:30–15:30 · Europe/Paris · El grupo utiliza movimiento, sonido y sensores interactivos para contar una historia.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-juin2027)
+
+### CoMo-education · Narration
+
+**Fechas / estado:** 2027-06-12 — 2027-06-12
+
+**Precio:** Tarifa de 8 EUR según la página del taller. Confirmar las plazas.
+
+**condiciones de participación:** Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+
+- 2027-06-12 · 16:00–17:00 · Europe/Paris · El grupo utiliza movimiento, sonido y sensores interactivos para contar una historia.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-juin2027)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-juin2027) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www-prod.ircam.fr/fr/events?categories=ateliers-numeriques) · 2026-11-08
+
+## CP2024 · Fundación Omar Dengo · Líderes del Futuro
+
+Costa Rica · San José
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–16 años para el programa general. Confirmar edades de cada grupo.
+
+**Idioma:** Anuncio en español. Confirmar el idioma de enseñanza del grupo elegido.
+
+**Programa:** Robótica, programación, diseño y proyectos de ingeniería durante las vacaciones.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Anuncio para diciembre de 2026 y enero de 2027. Siguen sin confirmarse días, horas, precio y equipo por grupo.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Incluido:** Robótica, programación, diseño y proyectos de ingeniería durante las vacaciones.
+
+**Suplementos:** Pedir a la fundación horarios por edad, precio y plazas. La radio anunció la matrícula a petición de la fundación. La web de la fundación aún no publica los turnos exactos.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Encaja por edad. Confirmar idioma y plaza.
+
+**Oscar:** Condicional. Encaja por edad. Confirmar idioma y plaza.
+
+**Motivo de selección:** Anuncio para diciembre de 2026 y enero de 2027. Siguen sin confirmarse días, horas, precio y equipo por grupo.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://fod.ac.cr/) · 2026-11-08
+
+- [Información sobre el programa comunicada por la fundación.](https://www.panoramadigital.co.cr/matricula-para-los-cursos-del-programa-fod-lideres-del-futuro/) · 2026-11-08
+
+- [Información sobre el programa comunicada por la fundación.](https://elmundo.cr/tendencias/fundacion-omar-dengo-abre-matricula-para-cursos-de-tecnologia-dirigidos-a-ninos-y-adolescentes/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

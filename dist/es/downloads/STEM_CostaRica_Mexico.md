@@ -5257,6 +5257,19 @@ Limitaciones: Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de 
 Fuente: https://lalibertadcr.org/centro-infantil-y-juvenil-2/
 Se ha comprobado: 2026-11-08
 
+### L798 · FOD Líderes del Futuro · Vacaciones 2026–27
+
+Fecha: Anuncio para diciembre de 2026 y enero de 2027. Siguen sin confirmarse días, horas, precio y equipo por grupo.
+edad: 6–16 años para el programa general. Confirmar edades de cada grupo.
+Matvey: Condicional. Cumple por edad. Confirmar idioma y plaza.
+Oscar: Condicional. Cumple por edad. Confirmar idioma y plaza.
+Idioma: Anuncio en español. Confirmar el idioma de enseñanza del grupo elegido.
+Acceso: Pedir a la fundación horarios por edad, precio y plazas. La radio anunció la matrícula a petición de la fundación. La web de la fundación aún no publica los turnos exactos.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Pedir a la fundación horarios por edad, precio y plazas. La radio anunció la matrícula a petición de la fundación. La web de la fundación aún no publica los turnos exactos.
+Fuente: https://fod.ac.cr/
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

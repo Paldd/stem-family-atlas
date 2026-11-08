@@ -1,0 +1,153 @@
+{
+  "version": 288,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "E607",
+    "E608",
+    "E609",
+    "E610",
+    "E611",
+    "L798",
+    "C4694",
+    "C4695",
+    "C4696"
+  ],
+  "new_dossiers": [
+    "CP2015",
+    "CP2016",
+    "CP2017",
+    "CP2018",
+    "CP2019",
+    "CP2020",
+    "CP2021",
+    "CP2022",
+    "CP2023",
+    "CP2024"
+  ],
+  "new_dated_variants": 14,
+  "refreshed_event_ids": [
+    "E442",
+    "E013",
+    "E521",
+    "E280",
+    "E021",
+    "E407",
+    "E327",
+    "C4193"
+  ],
+  "legacy_overlay_event_ids": [
+    "E442",
+    "E013",
+    "E521",
+    "E280",
+    "E021",
+    "E407",
+    "E327",
+    "C4193"
+  ],
+  "source_requests": 31,
+  "ircam_variants": {
+    "CP2015": [
+      "20270109-1500"
+    ],
+    "CP2016": [
+      "20270110-1500"
+    ],
+    "CP2017": [
+      "20270213-1430",
+      "20270213-1600"
+    ],
+    "CP2018": [
+      "20270214-1500"
+    ],
+    "CP2002": [
+      "20270313-1500",
+      "20270613-1500"
+    ],
+    "CP2019": [
+      "20270314-1500"
+    ],
+    "CP2001": [
+      "20270410-1500"
+    ],
+    "CP2020": [
+      "20270411-1500"
+    ],
+    "CP2021": [
+      "20270508-1500"
+    ],
+    "CP2022": [
+      "20270509-1500"
+    ],
+    "CP2023": [
+      "20270612-1430",
+      "20270612-1600"
+    ]
+  },
+  "updated_dossiers": [
+    "CP2002",
+    "CP2001"
+  ],
+  "family_expos": [
+    "E607",
+    "E611"
+  ],
+  "trade_expos": [
+    "E608",
+    "E609"
+  ],
+  "granada_fair": "E610",
+  "costa_rica_fod": "L798",
+  "costa_rica_fod_dossier": "CP2024",
+  "indonesia": [
+    "C4694",
+    "C4695",
+    "C4696"
+  ],
+  "paraguay_vex": "C4193",
+  "source_limits": [
+    {
+      "event_id": "E607",
+      "status": "families_invited_child_ticket_category_unpublished"
+    },
+    {
+      "event_id": "E608",
+      "status": "admission_12_plus_last_day_hours_source_mismatch"
+    },
+    {
+      "event_id": "E609",
+      "status": "under_16_requires_prior_written_approval_and_end_dates_conflict",
+      "common_end": "2027-07-08",
+      "footer_end": "2027-07-09"
+    },
+    {
+      "event_id": "E611",
+      "status": "permanent_exhibit_museum_closed_through_2027_04_22_check_tour_after_reopening"
+    },
+    {
+      "event_id": "E610",
+      "status": "exhibitor_application_closed_public_ticket_conditions_pending"
+    },
+    {
+      "programme_id": "CP2024",
+      "status": "organizer_announcement_via_quoted_media_months_only"
+    },
+    {
+      "event_ids": [
+        "C4694",
+        "C4695"
+      ],
+      "status": "age_and_school_grade_wording_conflict"
+    },
+    {
+      "event_id": "C4696",
+      "status": "published_category_match_date_separate_from_festival_main_days"
+    },
+    {
+      "event_id": "C4193",
+      "status": "vex_world_qualification_claim_separate_from_recf_world"
+    }
+  ]
+}

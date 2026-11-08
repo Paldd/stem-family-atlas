@@ -87,21 +87,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E013@family-stem.local
-DTSTAMP:20261108T145309Z
+DTSTAMP:20261108T160329Z
 SUMMARY:[Exposición · visita en familia] RoboCup 2027 · public visitor
   days
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270621
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Se espera a
- l público 17–20.06.2027. Horario orientativo 09:00–17:00\, aún sin
-  horas definitivas ni precios. Entrada de adultos: Los días de visita e
- stán abiertos al público. La organización publicará más adelante la
- s tarifas y las condiciones de las entradas infantiles.. Días públicos
-  del 17 al 20 de junio de 2027. Horario provisional aproximado de 09:00 
- a 17:00. Aún faltan el horario definitivo y la tarifa. Empresas: Centro
-  de exposiciones de Núremberg. Fútbol de robots\, robótica de rescate
-  y de servicio\, robótica industrial y RoboCupJunior. Finales el 20 de 
- junio.. Fuente verificada el 2026-11-08.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Las jornada
+ s de público en el recinto ferial están abiertas a visitantes. Siguen 
+ sin publicarse los precios y el programa escolar específico. El día fa
+ miliar se celebra en otra sede. Entrada de adultos: Los días de visita 
+ están abiertos al público. La organización publicará más adelante l
+ as tarifas y las condiciones de las entradas infantiles.. Días público
+ s del 17 al 20 de junio de 2027. Horario provisional aproximado de 09:00
+  a 17:00. Aún faltan el horario definitivo y la tarifa. Empresas: Centr
+ o de exposiciones de Núremberg. Fútbol de robots\, robótica de rescat
+ e y de servicio\, robótica industrial y RoboCupJunior. Finales el 20 de
+  junio.. Fuente verificada el 2026-11-08.
 LOCATION:NürnbergMesse · Nürnberg\, Alemania
 URL:https://2027.robocup.org/visit/visitors
 STATUS:TENTATIVE
@@ -2858,7 +2859,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E280@family-stem.local
-DTSTAMP:20261107T075407Z
+DTSTAMP:20261108T160329Z
 SUMMARY:[Exposición · visita en familia] Sumida STEAM Fes 2027 · Tokyo
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
@@ -2868,7 +2869,7 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Pueden entr
  ntrada y actividades gratuitas. Registrar a toda la familia\, incluidos 
  menores. Se admite registro presencial el mismo día..  Empresas: Consul
  tar la lista de expositores de esta edición en el catálogo del organiz
- ador.. Fuente verificada el 2026-11-07.
+ ador.. Fuente verificada el 2026-11-08.
 LOCATION:iU Sumida Campus · 1-18-13 Bunka\, Sumida-ku\, Tokyo\, Japón
 URL:https://fes.sakura-tempesta.or.jp/en/
 STATUS:TENTATIVE
@@ -4915,7 +4916,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E407@family-stem.local
-DTSTAMP:20261107T184710Z
+DTSTAMP:20261108T160329Z
 SUMMARY:[Exposición · visita en familia] SCWIST STEM Expo 2027
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270206
@@ -4926,7 +4927,7 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Menores de
   IA. Confirmar la edad para cada taller. Empresas: Demostraciones y acti
  vidades prácticas en 10 pabellones sectoriales. Robótica\, fabricació
  n avanzada e IA. Confirmar la edad para cada taller.. Fuente verificada 
- el 2026-11-07.
+ el 2026-11-08.
 LOCATION:Enercare Centre · 100 Princes’ Blvd · Toronto\, Canadá
 URL:https://stemexpo.scwist.ca/about
 STATUS:TENTATIVE
@@ -5181,7 +5182,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E442@family-stem.local
-DTSTAMP:20261107T221638Z
+DTSTAMP:20261108T160329Z
 SUMMARY:[Exposición · confirmar admisión de menores] Miraikan · Trans
  formation
 DTSTART;VALUE=DATE:20270423
@@ -5196,7 +5197,7 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Exposición
  el área infantil. La tarifa publicada de la exposición permanente no f
  ija el precio de la temporal. Empresas: Cómo la IA\, los avatares y la 
  robótica cambian la apariencia y las capacidades humanas.. Fuente verif
- icada el 2026-11-07.
+ icada el 2026-11-08.
 LOCATION:Miraikan · Odaiba\, Tokyo\, Japón
 URL:https://www.miraikan.jst.go.jp/news/press/202609084737.html
 STATUS:TENTATIVE
@@ -7641,6 +7642,90 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Acceso libr
  -11-08.
 LOCATION:The Warehouse by IT Quarter · Limassol\, Chipre
 URL:https://youthtechfest.com/edutainment-fair/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E607@family-stem.local
+DTSTAMP:20261108T160329Z
+SUMMARY:[Exposición · visita en familia] Caribbean Tech Expo 2K27
+DTSTART:20270220T133000Z
+DTEND:20270221T010000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. La organiza
+ ción invita a familias. Confirmar la edad mínima y categoría de entra
+ da del menor. Algunas áreas de videojuegos pueden tener reglas propias.
+  Entrada de adultos: El precio y la categoría del billete infantil sigu
+ en sin confirmarse.. Las puertas abren a las 08:30 EST. El calendario de
+  la organización indica el cierre a las 20:00 EST. Cotejar los horarios
+  de las demostraciones y las condiciones finales de las entradas antes d
+ e viajar. Empresas: Desarrollos caribeños de robótica\, IA\, videojueg
+ os\, fintech y dispositivos inteligentes.. Fuente verificada el 2026-11-
+ 08.
+LOCATION:The Summit · Kingston\, Jamaica
+URL:https://caribbeantechexpo.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E608@family-stem.local
+DTSTAMP:20261108T160329Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] Tainan Automati
+ c Machinery & Intelligent Manufacturing Show 2027
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270426
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Feria profe
+ sional. No se admite a menores de 12 años\, incluidos bebés. La organi
+ zación recomienda preinscripción para adultos. Entrada de adultos: Aú
+ n no se confirman el coste total ni las plazas.. La página indica el in
+ tervalo 22–25 de abril de 2027. La nota de cierre anticipado se refier
+ e al 17 de mayo\, así que queda por confirmar la hora de cierre del úl
+ timo día. Empresas: Robótica industrial\, automatización y fabricaci
+ ón inteligente.. Fuente verificada el 2026-11-08.
+LOCATION:ICC Tainan · Guiren\, Taiwán
+URL:https://cec.ctee.com.tw/ctms/tn-visitor/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E609@family-stem.local
+DTSTAMP:20261108T160525Z
+SUMMARY:[Exposición · confirmar admisión de menores] Africa Automation
+  Technology Fair 2027
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270709
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Feria profe
+ sional. Para menores se requiere autorización escrita\, responsabilidad
+  de una persona adulta y pulsera infantil con su número de teléfono. E
+ ntrada de adultos: Aún no se confirman el coste total ni las plazas.. L
+ a cabecera y la descripción principal indican 6–8 de julio de 2027 y 
+ el bloque inferior indica 6–9 de julio de 2027. El calendario muestra 
+ los días comunes. Confirmar el acceso el 9 de julio. Empresas: Automati
+ zación industrial\, control\, medición y fabricación inteligente.. Fu
+ ente verificada el 2026-11-08.
+LOCATION:Gallagher Convention Centre · Johannesburg\, Sudáfrica
+URL:https://www.africaautomationtechnologyfair.com/africa-automation-trade-fair/en-gb.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E610@family-stem.local
+DTSTAMP:20261108T160329Z
+SUMMARY:[Exposición · confirmar admisión de menores] 29ª Feria de la 
+ Ciencia · Granada
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Confirmar c
+ on el museo la entrada de visita\, el horario de las demostraciones abie
+ rtas y las condiciones para menores. Las propuestas de proyectos se reci
+ bían de centros educativos. Entrada de adultos: Aún no se confirman el
+  coste total ni las plazas.. La presentación de los proyectos seleccion
+ ados está prevista de 10:00 a 17:00. La información de los participant
+ es seleccionados se recoge del 1 de diciembre de 2026 al 9 de marzo de 2
+ 027. Cotejar aparte las condiciones de visita. Empresas: Proyectos cient
+ íficos escolares y puestos interactivos en el Parque de las Ciencias.. 
+ Fuente verificada el 2026-11-08.
+LOCATION:Parque de las Ciencias · Granada\, España
+URL:https://www.parqueciencias.com/29a-feria-de-la-ciencia/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

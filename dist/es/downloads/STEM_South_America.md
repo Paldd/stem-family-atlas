@@ -5517,9 +5517,9 @@ Oscar: Condicional. Cumple el máximo de edad, confirmar grupo escolar y admisi�
 Idioma: Confirmar idioma de entrevistas y jurado en la sede.
 Acceso: El portal muestra inscripción abierta. Confirmar por separado el acceso del equipo y su plaza. Registrar el equipo en VEX Events y elegir una división permitida. Confirmar condiciones locales.
 Precio: La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.
-Limitaciones: La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.
+Limitaciones: La ficha local de VEX anuncia plazas para VEX Robotics World Championship 2027 en Las Vegas. No indica el número de plazas ni los premios clasificatorios. El campeonato RECF de San Luis se gestiona por separado.
 Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66606.html
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### C4209 · Vex IQ Competition- Final de la Liga Nacional de Robótica · Elementary
 

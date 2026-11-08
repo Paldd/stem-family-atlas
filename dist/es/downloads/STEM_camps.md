@@ -11542,6 +11542,22 @@ Limitaciones: Archivo de condiciones de 2026. Las fechas y condiciones de la sig
 Fuente: https://www.salcc.edu.lc/news/salcc-welcomes-sixty-students-for-faces-of-development-steam-camp-2026.php
 Se ha comprobado: 2026-11-08
 
+### L798 · FOD Líderes del Futuro · Vacaciones 2026–27
+
+Lugar: Costa Rica San José
+Fecha: Anuncio para diciembre de 2026 y enero de 2027. Siguen sin confirmarse días, horas, precio y equipo por grupo.
+edad: 6–16 años para el programa general. Confirmar edades de cada grupo.
+Matvey: Condicional. Cumple por edad. Confirmar idioma y plaza.
+Oscar: Condicional. Cumple por edad. Confirmar idioma y plaza.
+Formato: day_camp
+Idioma: Anuncio en español. Confirmar el idioma de enseñanza del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Pedir a la fundación horarios por edad, precio y plazas. La radio anunció la matrícula a petición de la fundación. La web de la fundación aún no publica los turnos exactos.
+Limitaciones: Pedir a la fundación horarios por edad, precio y plazas. La radio anunció la matrícula a petición de la fundación. La web de la fundación aún no publica los turnos exactos.
+Fuente: https://fod.ac.cr/
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -80070,6 +80086,22 @@ Limitaciones: Matvey: Supera el rango de edad del grupo. Oscar: Condicional. Enc
 Fuente: https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1
 Se ha comprobado: 2026-11-08
 
+### CP2001-20270410-20270410-20270410-1500 · Maison Pompidou · CoMo-education · Histoires en sons et en mouvements · CoMo-education · Création · 2027-04-10–2027-04-10
+
+lugar: Francia · Maison Pompidou · 50 rue Rambuteau · Paris
+Fecha: 2027-04-10 — 2027-04-10
+edad: De 6 a 8 años, menor con un adulto.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El programa se publica en francés. No se indica el idioma del taller ni apoyo en inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa de 8 EUR. En el taller en pareja, confirmar cómo se paga la plaza adulta. · suplementos y condiciones en el dossier
+Acceso: El menor participa junto con una persona adulta. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+Limitaciones: Matvey: No cumple por edad actualmente. Comprobar la edad en la fecha del taller. Oscar: Condicional. Cumple por edad. Confirmar idioma y plaza. Suplementos: Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-avril2027
+Se ha comprobado: 2026-11-08
+
 ### CP2002-20261213-20261213-dec26 · Maison Pompidou · Bestio-robot · Bestio-robot · 2026-12-13–2026-12-13
 
 lugar: Francia · Maison Pompidou · 50 rue Rambuteau · Paris
@@ -80084,6 +80116,38 @@ Precio: 2026/27 · La tarifa de EUR 8 se publica sin desglose de entrada. Confir
 Acceso: Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa.
 Limitaciones: Matvey: Condicional. Encaja por edad. Confirmar idioma y plaza. Oscar: Por debajo de la edad mínima del grupo. Suplementos: Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1
+Se ha comprobado: 2026-11-08
+
+### CP2002-20270313-20270313-20270313-1500 · Maison Pompidou · Bestio-robot · Bestio-robot · 2027-03-13–2027-03-13
+
+lugar: Francia · Maison Pompidou · 50 rue Rambuteau · Paris
+Fecha: 2027-03-13 — 2027-03-13
+edad: De 7 a 12 años, grupo infantil.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El programa se publica en francés. No se indica el idioma del taller ni apoyo en inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas. · suplementos y condiciones en el dossier
+Acceso: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+Limitaciones: Matvey: Condicional. Cumple por edad. Confirmar idioma y plaza. Oscar: Condicional. Si cumple 7 años para la fecha del taller. Suplementos: Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mars2027
+Se ha comprobado: 2026-11-08
+
+### CP2002-20270613-20270613-20270613-1500 · Maison Pompidou · Bestio-robot · Bestio-robot · 2027-06-13–2027-06-13
+
+lugar: Francia · Maison Pompidou · 50 rue Rambuteau · Paris
+Fecha: 2027-06-13 — 2027-06-13
+edad: De 7 a 12 años, grupo infantil.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El programa se publica en francés. No se indica el idioma del taller ni apoyo en inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas. · suplementos y condiciones en el dossier
+Acceso: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+Limitaciones: Matvey: Condicional. Cumple por edad. Confirmar idioma y plaza. Oscar: Condicional. Si cumple 7 años para la fecha del taller. Suplementos: Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-juin2027
 Se ha comprobado: 2026-11-08
 
 ### CP2006-20261221-20261221-day-21 · DigiCamp · Video Game Programming · Un día · 2026-12-21–2026-12-21
@@ -80132,6 +80196,182 @@ Precio: 2026/27 · USD 92 por un día. El formulario indica 10% de descuento al 
 Acceso: Elegir día o paquete en el formulario. Confirmar idioma, plaza y condiciones de cambio.
 Limitaciones: Matvey: Condicional. Encaja por edad. Confirmar plaza e idioma del grupo. Oscar: Condicional. Encaja por edad. Confirmar plaza e idioma del grupo. Suplementos: Elegir día o paquete en el formulario. Confirmar idioma, plaza y condiciones de cambio. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://fs23.formsite.com/XdHU7i/8ayre6zfms/index
+Se ha comprobado: 2026-11-08
+
+### CP2015-20270109-20270109-20270109-1500 · IRCAM · Lutherie numérique · Lutherie numérique · 2027-01-09–2027-01-09
+
+lugar: Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+Fecha: 2027-01-09 — 2027-01-09
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa de 8 EUR. En el taller en pareja, confirmar cómo se paga la plaza adulta. · suplementos y condiciones en el dossier
+Acceso: El programa indica un taller con familias y las preguntas frecuentes reservan el formato en pareja para CoMo. Confirmar la participación adulta. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+Limitaciones: Matvey: Condicional. Cumple por edad. Confirmar idioma y plaza. Oscar: Condicional. Si cumple 7 años para la fecha del taller. Suplementos: El programa indica un taller con familias y las preguntas frecuentes reservan el formato en pareja para CoMo. Confirmar la participación adulta. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-janv2027
+Se ha comprobado: 2026-11-08
+
+### CP2016-20270110-20270110-20270110-1500 · IRCAM · Spouik · Spouik · 2027-01-10–2027-01-10
+
+lugar: Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+Fecha: 2027-01-10 国 2027-01-10
+Edad: 8 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: holiday_workshop
+Idioma: Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas. · suplementos y condiciones en el dossier
+Acceso: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+Limitaciones: Matvey: Condicional. Cumple por edad. Confirmar idioma y plaza. Oscar: No cumple por edad actualmente. Comprobar la edad en la fecha del taller. Suplementos: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-janv2027
+Se ha comprobado: 2026-11-08
+
+### CP2017-20270213-20270213-20270213-1430 · IRCAM · CoMo-education · Narration · CoMo-education · Narration · 2027-02-13–2027-02-13
+
+lugar: Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+Fecha: 2027-02-13 ♫ 2027-02-13
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas. · suplementos y condiciones en el dossier
+Acceso: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+Limitaciones: Matvey: No cumple por edad actualmente. Comprobar la edad en la fecha del taller. Oscar: Condicional. Puede asistir si aún tiene 6 años en la fecha del taller. Suplementos: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-fev2027
+Se ha comprobado: 2026-11-08
+
+### CP2017-20270213-20270213-20270213-1600 · IRCAM · CoMo-education · Narration · CoMo-education · Narration · 2027-02-13–2027-02-13
+
+lugar: Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+Fecha: 2027-02-13 ♫ 2027-02-13
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas. · suplementos y condiciones en el dossier
+Acceso: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+Limitaciones: Matvey: No cumple por edad actualmente. Comprobar la edad en la fecha del taller. Oscar: Condicional. Puede asistir si aún tiene 6 años en la fecha del taller. Suplementos: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-fev2027
+Se ha comprobado: 2026-11-08
+
+### CP2018-20270214-20270214-20270214-1500 · IRCAM · Cinésons · Cinésons · 2027-02-14–2027-02-14
+
+lugar: Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+Fecha: 2027-02-14 国 2027-02-14
+Edad: 8 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: holiday_workshop
+Idioma: Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas. · suplementos y condiciones en el dossier
+Acceso: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+Limitaciones: Matvey: Condicional. Cumple por edad. Confirmar idioma y plaza. Oscar: No cumple por edad actualmente. Comprobar la edad en la fecha del taller. Suplementos: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-fev2027
+Se ha comprobado: 2026-11-08
+
+### CP2019-20270314-20270314-20270314-1500 · IRCAM · Des mots et des sons · Des mots et des sons · 2027-03-14–2027-03-14
+
+lugar: Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+Fecha: 2027-03-14 — 2027-03-14
+edad: 11–15 años.
+Matway: No según la pista seleccionada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: holiday_workshop
+Idioma: Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas. · suplementos y condiciones en el dossier
+Acceso: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+Limitaciones: Matvey: No cumple por edad actualmente. Comprobar la edad en la fecha del taller. Oscar: No cumple por edad actualmente. Comprobar la edad en la fecha del taller. Suplementos: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mars2027
+Se ha comprobado: 2026-11-08
+
+### CP2020-20270411-20270411-20270411-1500 · IRCAM · Lutherie numérique · Lutherie numérique · 2027-04-11–2027-04-11
+
+lugar: Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+Fecha: 2027-04-11 — 2027-04-11
+Edad: 7 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas. · suplementos y condiciones en el dossier
+Acceso: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+Limitaciones: Matvey: Condicional. Cumple por edad. Confirmar idioma y plaza. Oscar: Condicional. Si cumple 7 años para la fecha del taller. Suplementos: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-avril2027
+Se ha comprobado: 2026-11-08
+
+### CP2021-20270508-20270508-20270508-1500 · IRCAM · Cinésons · Cinésons · 2027-05-08–2027-05-08
+
+lugar: Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+Fecha: 2027-05-08 — 2027-05-08
+Edad: 8 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: holiday_workshop
+Idioma: Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas. · suplementos y condiciones en el dossier
+Acceso: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+Limitaciones: Matvey: Condicional. Cumple por edad. Confirmar idioma y plaza. Oscar: No cumple por edad actualmente. Comprobar la edad en la fecha del taller. Suplementos: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mai2027
+Se ha comprobado: 2026-11-08
+
+### CP2022-20270509-20270509-20270509-1500 · IRCAM · Spouik · Spouik · 2027-05-09–2027-05-09
+
+lugar: Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+Fecha: 2027-05-09 — 2027-05-09
+Edad: 8 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: holiday_workshop
+Idioma: Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas. · suplementos y condiciones en el dossier
+Acceso: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+Limitaciones: Matvey: Condicional. Cumple por edad. Confirmar idioma y plaza. Oscar: No cumple por edad actualmente. Comprobar la edad en la fecha del taller. Suplementos: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-mai2027
+Se ha comprobado: 2026-11-08
+
+### CP2023-20270612-20270612-20270612-1430 · IRCAM · CoMo-education · Narration · CoMo-education · Narration · 2027-06-12–2027-06-12
+
+lugar: Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+Fecha: 2027-06-12 — 2027-06-12
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas. · suplementos y condiciones en el dossier
+Acceso: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+Limitaciones: Matvey: No cumple por edad actualmente. Comprobar la edad en la fecha del taller. Oscar: Condicional. Puede asistir si aún tiene 6 años en la fecha del taller. Suplementos: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-juin2027
+Se ha comprobado: 2026-11-08
+
+### CP2023-20270612-20270612-20270612-1600 · IRCAM · CoMo-education · Narration · CoMo-education · Narration · 2027-06-12–2027-06-12
+
+lugar: Francia · Maison Pompidou · 50 Rue Rambuteau · Paris
+Fecha: 2027-06-12 — 2027-06-12
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Página en francés. La enseñanza en inglés o español sigue sin confirmarse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plazas. · suplementos y condiciones en el dossier
+Acceso: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
+Limitaciones: Matvey: No cumple por edad actualmente. Comprobar la edad en la fecha del taller. Oscar: Condicional. Puede asistir si aún tiene 6 años en la fecha del taller. Suplementos: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-juin2027
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10382; competiciones: 4692; eventos: 606; campamentos / programas: 5084. Perfiles de ligas y programas: 301. Fichas de exposiciones grandes y especializadas: 506 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10405; competiciones: 4695; eventos: 611; campamentos / programas: 5099. Perfiles de ligas y programas: 301. Fichas de exposiciones grandes y especializadas: 511 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros específicos para 234 de 249 países y territorios y 0 países con auditoría completa. Revisión del archivo v51: se añadieron 21 fichas y 3 perfiles. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros específicos para 234 de 249 países y territorios y 0 países con
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1929 | 124 | 1294 |
+| América del Norte | 40 | 1929 | 125 | 1295 |
 | América del Sur | 14 | 433 | 45 | 207 |
-| Europa | 54 | 611 | 123 | 1457 |
-| África | 55 | 245 | 31 | 110 |
-| Asia | 50 | 1165 | 151 | 1667 |
+| Europa | 54 | 611 | 124 | 1471 |
+| África | 55 | 245 | 32 | 110 |
+| Asia | 50 | 1168 | 153 | 1667 |
 | Oceanía | 25 | 167 | 30 | 334 |
 
 Fichas interregionales o globales sin asignación a un continente: 164. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y su alcance documentado.
 
-VEX: 814 de 4692 fichas de competición (17.3%). La cobertura está claramente concentrada.
+VEX: 814 de 4695 fichas de competición (17.3%). La cobertura está claramente concentrada.
 
 ## Lo que queda
 
@@ -875,6 +875,11 @@ VEX: 814 de 4692 fichas de competición (17.3%). La cobertura está claramente c
 - **Maker Faire Philadelphia 2027** — Estados Unidos; 2027-04-18. con un adulto; condiciones de admisión adulta por separado. https://philly.makerfaire.com/
 - **CSITF 2027 · AI Computing Power & Infrastructure Expo** — China; 2027-06-02 – 2027-06-04. el permiso de entrada de niños. https://www.itaiexpo.com/
 - **Youth Tech Fest Cyprus 2027 · Edutainment Fair** — Chipre; 2027-02-06. con un adulto; condiciones de admisión adulta por separado. https://youthtechfest.com/edutainment-fair/
+- **Caribbean Tech Expo 2K27** — Jamaica; 2027-02-20. con un adulto; condiciones de admisión adulta por separado. https://caribbeantechexpo.com/
+- **Tainan Automatic Machinery & Intelligent Manufacturing Show 2027** — Taiwán; 2027-04-22 – 2027-04-25. Los niños del 6/9 no pueden. https://cec.ctee.com.tw/ctms/tn-visitor/
+- **Africa Automation Technology Fair 2027** — Sudáfrica; 2027-07-06 – 2027-07-08. el permiso de entrada de niños. https://www.africaautomationtechnologyfair.com/africa-automation-trade-fair/en-gb.html
+- **29ª Feria de la Ciencia · Granada** — España; 2027-05-08. el permiso de entrada de niños. https://www.parqueciencias.com/29a-feria-de-la-ciencia/
+- **Miraikan · Nanairo Quest · Friend Robot Tour** — Japón, fecha sin confirmar. Con una persona adulta, consultar aparte sus condiciones de entrada. https://www.miraikan.jst.go.jp/en/exhibitions/future/nanairoquest/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors
