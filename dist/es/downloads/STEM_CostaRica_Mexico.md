@@ -4009,6 +4009,45 @@ Limitaciones: La organización publica modalidad virtual separada y 150 plazas v
 Fuente: https://www.spaceappschallenge.org/2026/local-events/san-jose-costa-rica/
 Se ha comprobado: 2026-11-07
 
+### L725 · Museo Jumex · Telarañas de píxel
+
+Fecha: 2026-12-13 — 2026-12-13
+edad: Edades de 6 a 12 años.
+Matvey: Sí por edad. Se requieren plaza e inscripción.
+Oscar: Sí por edad. Se requieren plaza e inscripción.
+Idioma: Aviso e inscripción en español. Confirmar el idioma de la persona que imparte el taller.
+Acceso: Gratis con inscripción previa. Aforo limitado.
+Precio: Gratuito.
+Limitaciones: Gratis con inscripción previa. Aforo limitado.
+Fuente: https://www.fundacionjumex.org/es/programa/4620-mini-domingo-telaranas-de-pixel
+Se ha comprobado: 2026-11-07
+
+### L726 · Museo Jumex · Haciendo mi propio internet
+
+Fecha: 2026-12-20 国 2026-12-20
+edad: Edades de 5 a 11 años.
+Matvey: Sí por edad. Se requieren plaza e inscripción.
+Oscar: Sí por edad. Se requieren plaza e inscripción.
+Idioma: Aviso e inscripción en español. Confirmar el idioma de la persona que imparte el taller.
+Acceso: Gratis con inscripción previa. Aforo limitado.
+Precio: Gratuito.
+Limitaciones: Gratis con inscripción previa. Aforo limitado.
+Fuente: https://www.fundacionjumex.org/es/programa/4552-mini-domingo-haciendo-mi-propio-internet
+Se ha comprobado: 2026-11-07
+
+### L727 · Museo Jumex · Telarañas de píxel
+
+Fecha: 2027-02-07 国 2027-02-07
+edad: Edades de 6 a 12 años.
+Matvey: Sí por edad. Se requieren plaza e inscripción.
+Oscar: Sí por edad. Se requieren plaza e inscripción.
+Idioma: Aviso e inscripción en español. Confirmar el idioma de la persona que imparte el taller.
+Acceso: Gratis con inscripción previa. Aforo limitado.
+Precio: Gratuito.
+Limitaciones: Gratis con inscripción previa. Aforo limitado.
+Fuente: https://www.fundacionjumex.org/es/programa/4620-mini-domingo-telaranas-de-pixel
+Se ha comprobado: 2026-11-07
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

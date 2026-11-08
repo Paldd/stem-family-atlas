@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 9434,
+    "cards": 9494,
     "competition_cards": 4136,
-    "event_cards": 481,
-    "camp_cards": 4817,
+    "event_cards": 482,
+    "camp_cards": 4876,
     "league_profiles": 288,
-    "major_exhibition_cards": 384,
+    "major_exhibition_cards": 385,
     "vex_cards": 522,
     "countries_with_records": 208,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2986,
+      "total": 2996,
       "countries_with_records": 37,
       "competitions": 1639,
       "events": 123,
       "major_exhibitions": 85,
-      "camps": 1224,
+      "camps": 1234,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 2799,
+      "total": 2849,
       "countries_with_records": 48,
       "competitions": 1089,
-      "events": 130,
-      "major_exhibitions": 117,
-      "camps": 1580,
+      "events": 131,
+      "major_exhibitions": 118,
+      "camps": 1629,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -12359,6 +12359,17 @@
       "new": false
     },
     {
+      "id": "E482",
+      "name": "HMGICS · Discovery Tour / Mobility Exhibits",
+      "country": "Сингапур",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://www.hyundai.com/sg/experience/tour/discovery",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -14776,8 +14787,8 @@
       }
     ],
     "counts": {
-      "records": 4817,
-      "holiday": 4494,
+      "records": 4876,
+      "holiday": 4553,
       "regular": 150,
       "self_paced_materials": 2,
       "boarding": 1036,

@@ -1577,7 +1577,7 @@ Comprobado: 2026-09-30
 ### L091 · Nullspace LEGO Robotics Engineer Innovate — Rochester Mall, December 2026
 
 Lugar: Singapur · Singapore 国 Rochester Mall
-Fecha: 2026-12-28 - 2026-12-31
+Fecha: El turno no aparece en los dos calendarios actuales de Nullspace. Confirmar estado y fechas en el portal.
 Edad: 9–13 por página actual; Recomendación de la 9
 Matway: Sí, por edad; idioma y aceptación extranjera
 Oscar: No: recomendación de 9
@@ -1586,9 +1586,9 @@ Idioma: EN sitio web; idioma de enseñanza no confirmado
 Marca de idioma: no clasificada; soporte: no declarada
 Costo: SGD 520 por paquete de 10 horas; condiciones de crédito/retirada por separado
 Entrada: Seleccione el grupo indicado en Parent Portal, compruebe los espacios abiertos, la recepción extranjera y el idioma
-Limitaciones: El nuevo alumno puede empezar sin experiencia. La página 9-13 indica que otros programas de examen 9-12 no sustituyen la edad de este grupo. El flujo declarado no significa espacio disponible. La cancelación de la licencia de crédito puede cancelarse por menos de 72 horas; y la política de refund no puede ser verificada.
+Limitaciones: El turno no aparece en los dos calendarios actuales de Nullspace. Confirmar estado y fechas en el portal.
 Fuente: https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-07
 
 ### L092 · Nullspace LEGO Robotics Engineer Innovate — Kallang Wave Mall, December 2026
 
@@ -10356,6 +10356,70 @@ Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
 Acceso: No se publican grupo infantil ni edades admitidas. Comprobar la convocatoria cuando salga el programa.
 Limitaciones: Anuncio de programa formativo. Quedan pendientes fechas, precio, nivel y posible modalidad infantil.
 Fuente: https://femexrobotica.org/fmr/eventos/
+Se ha comprobado: 2026-11-07
+
+### L724 · HMGICS · SPOT Robot Coding Workshop
+
+Lugar: Singapur Singapore
+Fecha: Sábado y domingo, 10:00 o 16:00, 90 minutos. Elegir fecha y plaza en el formulario.
+edad: Edades de 6 a 12 años.
+Matvey: Sí por edad. Se requieren plaza e inscripción.
+Oscar: Sí por edad. Se requieren plaza e inscripción.
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: $25 por menor, $50 por dos. La página del taller no indica el código de moneda.
+Acceso: Se inscribe a cada menor por separado. Su progenitor o tutor acude a la acreditación y firma el consentimiento. El operador recomienda supervisión mínima.
+Limitaciones: Se inscribe a cada menor por separado. Su progenitor o tutor acude a la acreditación y firma el consentimiento. El operador recomienda supervisión mínima.
+Fuente: https://www.hyundai.com/sg/experience/reservations/kidsworkshop
+Se ha comprobado: 2026-11-07
+
+### L725 · Museo Jumex · Telarañas de píxel
+
+lugar: México · Ciudad de México
+Fecha: 2026-12-13 — 2026-12-13
+edad: Edades de 6 a 12 años.
+Matvey: Sí por edad. Se requieren plaza e inscripción.
+Oscar: Sí por edad. Se requieren plaza e inscripción.
+Formato: holiday_workshop
+Idioma: Aviso e inscripción en español. Confirmar el idioma de la persona que imparte el taller.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Gratis con inscripción previa. Aforo limitado.
+Limitaciones: Gratis con inscripción previa. Aforo limitado.
+Fuente: https://www.fundacionjumex.org/es/programa/4620-mini-domingo-telaranas-de-pixel
+Se ha comprobado: 2026-11-07
+
+### L726 · Museo Jumex · Haciendo mi propio internet
+
+lugar: México · Ciudad de México
+Fecha: 2026-12-20 国 2026-12-20
+edad: Edades de 5 a 11 años.
+Matvey: Sí por edad. Se requieren plaza e inscripción.
+Oscar: Sí por edad. Se requieren plaza e inscripción.
+Formato: holiday_workshop
+Idioma: Aviso e inscripción en español. Confirmar el idioma de la persona que imparte el taller.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Gratis con inscripción previa. Aforo limitado.
+Limitaciones: Gratis con inscripción previa. Aforo limitado.
+Fuente: https://www.fundacionjumex.org/es/programa/4552-mini-domingo-haciendo-mi-propio-internet
+Se ha comprobado: 2026-11-07
+
+### L727 · Museo Jumex · Telarañas de píxel
+
+lugar: México · Ciudad de México
+Fecha: 2027-02-07 国 2027-02-07
+edad: Edades de 6 a 12 años.
+Matvey: Sí por edad. Se requieren plaza e inscripción.
+Oscar: Sí por edad. Se requieren plaza e inscripción.
+Formato: holiday_workshop
+Idioma: Aviso e inscripción en español. Confirmar el idioma de la persona que imparte el taller.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Gratis con inscripción previa. Aforo limitado.
+Limitaciones: Gratis con inscripción previa. Aforo limitado.
+Fuente: https://www.fundacionjumex.org/es/programa/4620-mini-domingo-telaranas-de-pixel
 Se ha comprobado: 2026-11-07
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
@@ -24806,85 +24870,85 @@ Limitaciones: Matvey: Si Grade 3–6, se ajusta a la categoría de formación; p
 Fuente: https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/
 Se ha comprobado: 2026-11-06
 
-### CP379-20261221-20261224-rochester-ingenious · Nullspace · EV3 Robotics Engineer · Ingenious · 09:30–12:00 · rochester · 2026-12-21–2026-12-24
+### CP379-20261221-20261224-rochester-ingenious · Nullspace · EV3 Robotics Engineer · LEGO Robotics Engineer: Camp Ingenious · Rochester Mall · 09:30–12:00 · 2026-12-21–2026-12-24
 
 Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
 Fecha: 2026-12-21 - 2026-12-24
 Edad: Título/menú 9–12, tabla de curso 9–13: La frontera superior se separa.
-Matway: Condicional; comprobar la edad, clase y admisión
+Matway: Sí, por edad; inscripción separada
 Óscar: No ahora; la edad futura
 Formato: day_camp
 Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2026/27 · $520 / 10 horas; la moneda requiere confirmación de los pagos y las condiciones del expediente
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Sólo después 9-años; Matvey en 2026 Sí. 8–9. Nivel e inglés de confirmación; No se han verificado los lugares. Oscar: Antes 9 No se aplica el curso actual; Opciones y exenciones adicionales no confirmadas. Gastos adicionales: Almuerzo/No se ha declarado la atención diaria completa. Moneda, Impuestos, La admisión y utilización de un paquete familiar extranjero. Pago: Traslado/eliminar el mínimo por 72 horas, de otro modo course credit Perdido; Exenciones médicas documentadas. Devolver por pases — préstamos de capacitación, no por la devolución de dinero normal. Después 10 Minutos de la valla de gracia es posible pagar más $1/min.
+Precio: 2026/27 · $520 por 10 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Restricciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Recargos: No se indican almuerzo ni cuidado de día completo. Confirmar moneda, impuestos, admisión desde el extranjero y uso del paquete familiar. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
 Fuente: https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-07
 
-### CP379-20261228-20261231-rochester-innovate · Nullspace · EV3 Robotics Engineer · Innovate · 09:30–12:00 · rochester · 2026-12-28–2026-12-31
-
-Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
-Fecha: 2026-12-28 - 2026-12-31
-Edad: Título/menú 9–12, tabla de curso 9–13: La frontera superior se separa.
-Matway: Condicional; comprobar la edad, clase y admisión
-Óscar: No ahora; la edad futura
-Formato: day_camp
-Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
-Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2026/27 · $520 / 10 horas; la moneda requiere confirmación de los pagos y las condiciones del expediente
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Sólo después 9-años; Matvey en 2026 Sí. 8–9. Nivel e inglés de confirmación; No se han verificado los lugares. Oscar: Antes 9 No se aplica el curso actual; Opciones y exenciones adicionales no confirmadas. Gastos adicionales: Almuerzo/No se ha declarado la atención diaria completa. Moneda, Impuestos, La admisión y utilización de un paquete familiar extranjero. Pago: Traslado/eliminar el mínimo por 72 horas, de otro modo course credit Perdido; Exenciones médicas documentadas. Devolver por pases — préstamos de capacitación, no por la devolución de dinero normal. Después 10 Minutos de la valla de gracia es posible pagar más $1/min.
-Fuente: https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/
-Comprobado: 2026-10-05
-
-### CP379-20261228-20261231-kallang-innovate · Nullspace · EV3 Robotics Engineer · Innovate · 09:30–12:00 · kallang · 2026-12-28–2026-12-31
+### CP379-20261228-20261231-kallang-innovate · Nullspace · EV3 Robotics Engineer · LEGO Robotics Engineer: Camp Innovate · Kallang Wave Mall · 09:30–12:00 · 2026-12-28–2026-12-31
 
 Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
 Fecha: 2026-12-28 - 2026-12-31
 Edad: Título/menú 9–12, tabla de curso 9–13: La frontera superior se separa.
-Matway: Condicional; comprobar la edad, clase y admisión
+Matway: Sí, por edad; inscripción separada
 Óscar: No ahora; la edad futura
 Formato: day_camp
 Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2026/27 · $520 / 10 horas; la moneda requiere confirmación de los pagos y las condiciones del expediente
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Sólo después 9-años; Matvey en 2026 Sí. 8–9. Nivel e inglés de confirmación; No se han verificado los lugares. Oscar: Antes 9 No se aplica el curso actual; Opciones y exenciones adicionales no confirmadas. Gastos adicionales: Almuerzo/No se ha declarado la atención diaria completa. Moneda, Impuestos, La admisión y utilización de un paquete familiar extranjero. Pago: Traslado/eliminar el mínimo por 72 horas, de otro modo course credit Perdido; Exenciones médicas documentadas. Devolver por pases — préstamos de capacitación, no por la devolución de dinero normal. Después 10 Minutos de la valla de gracia es posible pagar más $1/min.
+Precio: 2026/27 · $520 por 10 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Restricciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Recargos: No se indican almuerzo ni cuidado de día completo. Confirmar moneda, impuestos, admisión desde el extranjero y uso del paquete familiar. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
 Fuente: https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-07
 
-### CP379-20261221-20261224-tampines-ingenious · Nullspace · EV3 Robotics Engineer · Ingenious · 09:30–12:00 · tampines · 2026-12-21–2026-12-24
+### CP379-20261221-20261224-tampines-ingenious · Nullspace · EV3 Robotics Engineer · LEGO Robotics Engineer: Camp Ingenious · SAFRA Tampines · 09:30–12:00 · 2026-12-21–2026-12-24
 
 Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
 Fecha: 2026-12-21 - 2026-12-24
 Edad: Título/menú 9–12, tabla de curso 9–13: La frontera superior se separa.
-Matway: Condicional; comprobar la edad, clase y admisión
+Matway: Sí, por edad; inscripción separada
 Óscar: No ahora; la edad futura
 Formato: day_camp
 Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2026/27 · $520 / 10 horas; la moneda requiere confirmación de los pagos y las condiciones del expediente
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Sólo después 9-años; Matvey en 2026 Sí. 8–9. Nivel e inglés de confirmación; No se han verificado los lugares. Oscar: Antes 9 No se aplica el curso actual; Opciones y exenciones adicionales no confirmadas. Gastos adicionales: Almuerzo/No se ha declarado la atención diaria completa. Moneda, Impuestos, La admisión y utilización de un paquete familiar extranjero. Pago: Traslado/eliminar el mínimo por 72 horas, de otro modo course credit Perdido; Exenciones médicas documentadas. Devolver por pases — préstamos de capacitación, no por la devolución de dinero normal. Después 10 Minutos de la valla de gracia es posible pagar más $1/min.
+Precio: 2026/27 · $520 por 10 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Restricciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Recargos: No se indican almuerzo ni cuidado de día completo. Confirmar moneda, impuestos, admisión desde el extranjero y uso del paquete familiar. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
 Fuente: https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-07
 
-### CP379-20261228-20261231-tampines-innovate · Nullspace · EV3 Robotics Engineer · Innovate · 09:30–12:00 · tampines · 2026-12-28–2026-12-31
+### CP379-20261228-20261231-tampines-innovate · Nullspace · EV3 Robotics Engineer · LEGO Robotics Engineer: Camp Innovate · SAFRA Tampines · 09:30–12:00 · 2026-12-28–2026-12-31
 
 Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
 Fecha: 2026-12-28 - 2026-12-31
 Edad: Título/menú 9–12, tabla de curso 9–13: La frontera superior se separa.
-Matway: Condicional; comprobar la edad, clase y admisión
+Matway: Sí, por edad; inscripción separada
 Óscar: No ahora; la edad futura
 Formato: day_camp
 Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: 2026/27 · $520 / 10 horas; la moneda requiere confirmación de los pagos y las condiciones del expediente
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Sólo después 9-años; Matvey en 2026 Sí. 8–9. Nivel e inglés de confirmación; No se han verificado los lugares. Oscar: Antes 9 No se aplica el curso actual; Opciones y exenciones adicionales no confirmadas. Gastos adicionales: Almuerzo/No se ha declarado la atención diaria completa. Moneda, Impuestos, La admisión y utilización de un paquete familiar extranjero. Pago: Traslado/eliminar el mínimo por 72 horas, de otro modo course credit Perdido; Exenciones médicas documentadas. Devolver por pases — préstamos de capacitación, no por la devolución de dinero normal. Después 10 Minutos de la valla de gracia es posible pagar más $1/min.
+Precio: 2026/27 · $520 por 10 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Restricciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Recargos: No se indican almuerzo ni cuidado de día completo. Confirmar moneda, impuestos, admisión desde el extranjero y uso del paquete familiar. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
 Fuente: https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-07
+
+### CP379-20261228-20261231-rochester-innovate · Nullspace · EV3 Robotics Engineer · Innovate · 09:30–12:00 · rochester
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: El turno no aparece en los dos calendarios actuales de Nullspace. Confirmar estado y fechas en el portal.
+Edad: Título/menú 9–12, tabla de curso 9–13: La frontera superior se separa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: $ 520 / 10 horas; la página no indica la ISO de la moneda. paquetes 20/40/80 horas: $1 000 / 1 920 / 3 600; no el precio de un cambio.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: El turno no aparece en los dos calendarios actuales de Nullspace. Confirmar estado y fechas en el portal.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/
+Se ha comprobado: 2026-11-07
 
 ### CP380-20261013-20261013-rochester-13 · Nullspace · AI Comic Story Creator · AI Comic Story Creator · 09:30–12:00 · rochester · 2026-10-13–2026-10-13
 
@@ -24934,6 +24998,54 @@ Limitaciones: Matvey: Sólo después 9-años; Matvey en 2026 Sí. 8–9. Nivel e
 Fuente: https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/
 Comprobado: 2026-10-05
 
+### CP380-20261218-20261218-rochester-2026-12-18 · Nullspace · AI Comic Story Creator · Generative AI Workshop: AI Comic Story Creator · Rochester Mall · 15:00–17:30 · 2026-12-18–2026-12-18
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: 2026-12-18 — 2026-12-18
+Edad: 9–14; La experiencia en materia de programación no es obligatoria.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $137,50 por 2,5 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/
+Se ha comprobado: 2026-11-07
+
+### CP380-20261211-20261211-kallang-2026-12-11 · Nullspace · AI Comic Story Creator · Generative AI Workshop: AI Comic Story Creator · Kallang Wave Mall · 15:00–17:30 · 2026-12-11–2026-12-11
+
+Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+Fecha: 2026-12-11 — 2026-12-11
+Edad: 9–14; La experiencia en materia de programación no es obligatoria.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $137,50 por 2,5 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/
+Se ha comprobado: 2026-11-07
+
+### CP380-20261211-20261211-tampines-2026-12-11 · Nullspace · AI Comic Story Creator · Generative AI Workshop: AI Comic Story Creator · SAFRA Tampines · 15:00–17:30 · 2026-12-11–2026-12-11
+
+Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+Fecha: 2026-12-11 — 2026-12-11
+Edad: 9–14; La experiencia en materia de programación no es obligatoria.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $137,50 por 2,5 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/
+Se ha comprobado: 2026-11-07
+
 ### CP381-20261012-20261012-rochester-12 · Nullspace · AI Game Creator · AI Game Creator · 09:30–12:00 · rochester · 2026-10-12–2026-10-12
 
 Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
@@ -24981,6 +25093,534 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Limitaciones: Matvey: Sólo después 9-años; Matvey en 2026 Sí. 8–9. Nivel e inglés de confirmación; No se han verificado los lugares. Oscar: Antes 9 No se aplica el curso actual; Opciones y exenciones adicionales no confirmadas. Gastos adicionales: Comprobar licencias, Condiciones de edad AI-Servicios, Acceso de los niños a la educación, - publicación de proyectos e impuestos;; Almuerzo/No se ha solicitado la asistencia externa. Pago: Traslado/eliminar el mínimo por 72 horas, de otro modo course credit Perdido; Exenciones médicas documentadas. Devolver por pases — préstamos de capacitación, No por la devolución de dinero normal. Después 10 Minutos de la valla de gracia es posible pagar más $1/min.
 Fuente: https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/
 Comprobado: 2026-10-05
+
+### CP381-20261204-20261204-rochester-2026-12-04 · Nullspace · AI Game Creator · Generative AI Workshop: AI Game Creator · Rochester Mall · 15:00–17:30 · 2026-12-04–2026-12-04
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: 2026-12-04 — 2026-12-04
+Edad: 9–14; La experiencia en materia de programación no es obligatoria.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $137,50 por 2,5 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/
+Se ha comprobado: 2026-11-07
+
+### CP381-20261127-20261127-kallang-2026-11-27 · Nullspace · AI Game Creator · Generative AI Workshop: AI Game Creator · Kallang Wave Mall · 15:00–17:30 · 2026-11-27–2026-11-27
+
+Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+Fecha: 2026-11-27 2026-11-27
+Edad: 9–14; La experiencia en materia de programación no es obligatoria.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $137,50 por 2,5 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/
+Se ha comprobado: 2026-11-07
+
+### CP381-20261231-20261231-tampines-2026-12-31 · Nullspace · AI Game Creator · Generative AI Workshop: AI Game Creator · SAFRA Tampines · 09:30–12:00 · 2026-12-31–2026-12-31
+
+Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+Fecha: 2026-12-31 — 2026-12-31
+Edad: 9–14; La experiencia en materia de programación no es obligatoria.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $137,50 por 2,5 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261123-20261127-rochester-2026-11-23 · Nullspace · STEM Explorer Holiday · Camp Create · Rochester Mall · 10:00–12:00 · 2026-11-23–2026-11-27
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: 2026-11-23 国 2026-11-27
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por las 10 horas estándar. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261130-20261204-rochester-2026-11-30 · Nullspace · STEM Explorer Holiday · Camp Discover · Rochester Mall · 10:00–12:00 · 2026-11-30–2026-12-04
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: 2026-11-30 — 2026-12-04
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por las 10 horas estándar. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261207-20261211-rochester-2026-12-07 · Nullspace · STEM Explorer Holiday · Camp Adventure · Rochester Mall · 10:00–12:00 · 2026-12-07–2026-12-11
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: 2026-12-07 — 2026-12-11
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por las 10 horas estándar. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261214-20261218-rochester-2026-12-14 · Nullspace · STEM Explorer Holiday · Camp Brilliance · Rochester Mall · 10:00–12:00 · 2026-12-14–2026-12-18
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: 2026-12-14 - 2026-12-18
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por las 10 horas estándar. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261221-20261224-rochester-2026-12-21 · Nullspace · STEM Explorer Holiday · Camp Create · Rochester Mall · 10:00–12:00 · 2026-12-21–2026-12-24
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: 2026-12-21 - 2026-12-24
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · No se indica la tarifa del turno de 8 horas. La tarifa estándar de $550 corresponde a 10 horas. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261228-20261231-rochester-2026-12-28 · Nullspace · STEM Explorer Holiday · Camp Discover · Rochester Mall · 10:00–12:00 · 2026-12-28–2026-12-31
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: 2026-12-28 - 2026-12-31
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · No se indica la tarifa del turno de 8 horas. La tarifa estándar de $550 corresponde a 10 horas. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261123-20261127-kallang-2026-11-23 · Nullspace · STEM Explorer Holiday · Camp Brilliance · Kallang Wave Mall · 10:00–12:00 · 2026-11-23–2026-11-27
+
+Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+Fecha: 2026-11-23 国 2026-11-27
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por las 10 horas estándar. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261130-20261204-kallang-2026-11-30 · Nullspace · STEM Explorer Holiday · Camp Create · Kallang Wave Mall · 10:00–12:00 · 2026-11-30–2026-12-04
+
+Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+Fecha: 2026-11-30 — 2026-12-04
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por las 10 horas estándar. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261207-20261211-kallang-2026-12-07 · Nullspace · STEM Explorer Holiday · Camp Discover · Kallang Wave Mall · 10:00–12:00 · 2026-12-07–2026-12-11
+
+Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+Fecha: 2026-12-07 — 2026-12-11
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por las 10 horas estándar. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261214-20261218-kallang-2026-12-14 · Nullspace · STEM Explorer Holiday · Camp Adventure · Kallang Wave Mall · 10:00–12:00 · 2026-12-14–2026-12-18
+
+Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+Fecha: 2026-12-14 - 2026-12-18
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por las 10 horas estándar. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261221-20261224-kallang-2026-12-21 · Nullspace · STEM Explorer Holiday · Camp Brilliance · Kallang Wave Mall · 10:00–12:00 · 2026-12-21–2026-12-24
+
+Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+Fecha: 2026-12-21 - 2026-12-24
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · No se indica la tarifa del turno de 8 horas. La tarifa estándar de $550 corresponde a 10 horas. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261228-20261231-kallang-2026-12-28 · Nullspace · STEM Explorer Holiday · Camp Create · Kallang Wave Mall · 10:00–12:00 · 2026-12-28–2026-12-31
+
+Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+Fecha: 2026-12-28 - 2026-12-31
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · No se indica la tarifa del turno de 8 horas. La tarifa estándar de $550 corresponde a 10 horas. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261123-20261127-tampines-2026-11-23 · Nullspace · STEM Explorer Holiday · Camp Create · SAFRA Tampines · 10:00–12:00 · 2026-11-23–2026-11-27
+
+Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+Fecha: 2026-11-23 国 2026-11-27
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por las 10 horas estándar. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261130-20261204-tampines-2026-11-30 · Nullspace · STEM Explorer Holiday · Camp Discover · SAFRA Tampines · 10:00–12:00 · 2026-11-30–2026-12-04
+
+Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+Fecha: 2026-11-30 — 2026-12-04
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por las 10 horas estándar. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261207-20261211-tampines-2026-12-07 · Nullspace · STEM Explorer Holiday · Camp Adventure · SAFRA Tampines · 10:00–12:00 · 2026-12-07–2026-12-11
+
+Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+Fecha: 2026-12-07 — 2026-12-11
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por las 10 horas estándar. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261214-20261218-tampines-2026-12-14 · Nullspace · STEM Explorer Holiday · Camp Brilliance · SAFRA Tampines · 10:00–12:00 · 2026-12-14–2026-12-18
+
+Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+Fecha: 2026-12-14 - 2026-12-18
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por las 10 horas estándar. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261221-20261224-tampines-2026-12-21 · Nullspace · STEM Explorer Holiday · Camp Create · SAFRA Tampines · 10:00–12:00 · 2026-12-21–2026-12-24
+
+Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+Fecha: 2026-12-21 - 2026-12-24
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · No se indica la tarifa del turno de 8 horas. La tarifa estándar de $550 corresponde a 10 horas. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP382-20261228-20261231-tampines-2026-12-28 · Nullspace · STEM Explorer Holiday · Camp Discover · SAFRA Tampines · 10:00–12:00 · 2026-12-28–2026-12-31
+
+Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+Fecha: 2026-12-28 - 2026-12-31
+edad: Edades de 7 a 8 años.
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · No se indica la tarifa del turno de 8 horas. La tarifa estándar de $550 corresponde a 10 horas. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: En la página de prueba diferentes $60 y $100; es una prueba de clase semanal, no todo el campo. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP383-20261123-20261127-rochester-2026-11-23 · Nullspace · Minecraft Xcite / Xplore · Minecraft: Camp Xcite · Rochester Mall · 09:00–12:00 · 2026-11-23–2026-11-27
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: 2026-11-23 国 2026-11-27
+edad: Edades de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $825 por el campamento de 15 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La licencia de Minecraft Education se adquiere por separado; el precio no se ha publicado. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP383-20261207-20261211-rochester-2026-12-07 · Nullspace · Minecraft Xcite / Xplore · Minecraft: Camp Xplore · Rochester Mall · 09:00–12:00 · 2026-12-07–2026-12-11
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: 2026-12-07 — 2026-12-11
+edad: Edades de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $825 por el campamento de 15 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La licencia de Minecraft Education se adquiere por separado; el precio no se ha publicado. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP383-20261130-20261204-kallang-2026-11-30 · Nullspace · Minecraft Xcite / Xplore · Minecraft: Camp Xplore · Kallang Wave Mall · 09:00–12:00 · 2026-11-30–2026-12-04
+
+Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+Fecha: 2026-11-30 — 2026-12-04
+edad: Edades de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $825 por el campamento de 15 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La licencia de Minecraft Education se adquiere por separado; el precio no se ha publicado. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP383-20261214-20261218-kallang-2026-12-14 · Nullspace · Minecraft Xcite / Xplore · Minecraft: Camp Xcite · Kallang Wave Mall · 09:00–12:00 · 2026-12-14–2026-12-18
+
+Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+Fecha: 2026-12-14 - 2026-12-18
+edad: Edades de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $825 por el campamento de 15 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La licencia de Minecraft Education se adquiere por separado; el precio no se ha publicado. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP383-20261123-20261127-tampines-2026-11-23 · Nullspace · Minecraft Xcite / Xplore · Minecraft: Camp Xcite · SAFRA Tampines · 15:00–18:00 · 2026-11-23–2026-11-27
+
+Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+Fecha: 2026-11-23 国 2026-11-27
+edad: Edades de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $825 por el campamento de 15 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La licencia de Minecraft Education se adquiere por separado; el precio no se ha publicado. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP383-20261207-20261211-tampines-2026-12-07 · Nullspace · Minecraft Xcite / Xplore · Minecraft: Camp Xplore · SAFRA Tampines · 15:00–18:00 · 2026-12-07–2026-12-11
+
+Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+Fecha: 2026-12-07 — 2026-12-11
+edad: Edades de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $825 por el campamento de 15 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La licencia de Minecraft Education se adquiere por separado; el precio no se ha publicado. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP384-20261130-20261204-rochester-2026-11-30 · Nullspace · BuildUp 3D Print Design · 3D Print Design Workshop · Rochester Mall · 10:00–12:00 · 2026-11-30–2026-12-04
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: 2026-11-30 — 2026-12-04
+edad: El calendario indica 9–12 años y la descripción 9–16 años. Matvey entra en ambos intervalos.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por 10 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Necesitamos una disponible email-registro de la cuenta para guardar Tinkercad, para comprobar 2FA y acceso de los niños. la entrega del producto puede requerir más 1–2 días de estancia. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP384-20261214-20261218-rochester-2026-12-14 · Nullspace · BuildUp 3D Print Design · 3D Print Design Workshop · Rochester Mall · 10:00–12:00 · 2026-12-14–2026-12-18
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: 2026-12-14 - 2026-12-18
+edad: El calendario indica 9–12 años y la descripción 9–16 años. Matvey entra en ambos intervalos.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por 10 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Necesitamos una disponible email-registro de la cuenta para guardar Tinkercad, para comprobar 2FA y acceso de los niños. la entrega del producto puede requerir más 1–2 días de estancia. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP384-20261123-20261127-kallang-2026-11-23 · Nullspace · BuildUp 3D Print Design · 3D Print Design Workshop · Kallang Wave Mall · 10:00–12:00 · 2026-11-23–2026-11-27
+
+Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+Fecha: 2026-11-23 国 2026-11-27
+edad: El calendario indica 9–12 años y la descripción 9–16 años. Matvey entra en ambos intervalos.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por 10 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Necesitamos una disponible email-registro de la cuenta para guardar Tinkercad, para comprobar 2FA y acceso de los niños. la entrega del producto puede requerir más 1–2 días de estancia. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP384-20261207-20261211-kallang-2026-12-07 · Nullspace · BuildUp 3D Print Design · 3D Print Design Workshop · Kallang Wave Mall · 10:00–12:00 · 2026-12-07–2026-12-11
+
+Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+Fecha: 2026-12-07 — 2026-12-11
+edad: El calendario indica 9–12 años y la descripción 9–16 años. Matvey entra en ambos intervalos.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por 10 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Necesitamos una disponible email-registro de la cuenta para guardar Tinkercad, para comprobar 2FA y acceso de los niños. la entrega del producto puede requerir más 1–2 días de estancia. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP384-20261130-20261204-tampines-2026-11-30 · Nullspace · BuildUp 3D Print Design · 3D Print Design Workshop · SAFRA Tampines · 10:00–12:00 · 2026-11-30–2026-12-04
+
+Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+Fecha: 2026-11-30 — 2026-12-04
+edad: El calendario indica 9–12 años y la descripción 9–16 años. Matvey entra en ambos intervalos.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por 10 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Necesitamos una disponible email-registro de la cuenta para guardar Tinkercad, para comprobar 2FA y acceso de los niños. la entrega del producto puede requerir más 1–2 días de estancia. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP384-20261214-20261218-tampines-2026-12-14 · Nullspace · BuildUp 3D Print Design · 3D Print Design Workshop · SAFRA Tampines · 10:00–12:00 · 2026-12-14–2026-12-18
+
+Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+Fecha: 2026-12-14 - 2026-12-18
+edad: El calendario indica 9–12 años y la descripción 9–16 años. Matvey entra en ambos intervalos.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El idioma de una clase técnica específica no se menciona en las normas que se leen; el sitio en inglés no prueba el flujo inglés; se requiere confirmación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por 10 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Necesitamos una disponible email-registro de la cuenta para guardar Tinkercad, para comprobar 2FA y acceso de los niños. la entrega del producto puede requerir más 1–2 días de estancia. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
 
 ### CP386-20261214-20261218-survival · Osaka YMCA International School · Winter Intensive · Survival Island · 09:30–15:00 · 2026-12-14–2026-12-18
 
@@ -75860,6 +76500,310 @@ Precio: 2027 · Precio sin publicar. · suplementos y condiciones en el dossier
 Acceso: La escuela pide el centro de origen. Esto no confirma admisión de alumnado externo ni plaza.
 Limitaciones: Matvey: Condicional. El formulario pide edad y curso. No hay límites de edad publicados. Oscar: Condicional. El formulario pide edad y curso. No hay límites de edad publicados. Suplementos: Almuerzo y merienda son opciones separadas. Tarifa y transporte sin publicar. Pago: Pedir el cálculo completo y las condiciones de cancelación antes de pagar.
 Fuente: https://form.jotform.com/252805351014851
+Se ha comprobado: 2026-11-07
+
+### CP1892-20261127-20261127-rochester-2026-11-27 · Nullspace · Beyblade Design · Beyblade Design Workshop · Rochester Mall · 15:00–17:00 · 2026-11-27–2026-11-27
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: 2026-11-27 2026-11-27
+edad: Edades de 9 a 14 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $110 por 2 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP1892-20261127-20261127-tampines-2026-11-27 · Nullspace · Beyblade Design · Beyblade Design Workshop · SAFRA Tampines · 15:00–17:00 · 2026-11-27–2026-11-27
+
+Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+Fecha: 2026-11-27 2026-11-27
+edad: Edades de 9 a 14 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $110 por 2 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP1892-20261224-20261224-rochester-2026-12-24 · Nullspace · Beyblade Design · Beyblade Design Workshop · Rochester Mall · 13:00–15:00 · 2026-12-24–2026-12-24
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: 2026-12-24 — 2026-12-24
+edad: Edades de 9 a 14 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $110 por 2 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP1892-20261224-20261224-tampines-2026-12-24 · Nullspace · Beyblade Design · Beyblade Design Workshop · SAFRA Tampines · 13:00–15:00 · 2026-12-24–2026-12-24
+
+Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+Fecha: 2026-12-24 — 2026-12-24
+edad: Edades de 9 a 14 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $110 por 2 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP1892-20261231-20261231-kallang-2026-12-31 · Nullspace · Beyblade Design · Beyblade Design Workshop · Kallang Wave Mall · 10:00–12:00 · 2026-12-31–2026-12-31
+
+Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+Fecha: 2026-12-31 — 2026-12-31
+edad: Edades de 9 a 14 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $110 por 2 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP1893-20261211-20261211-rochester-2026-12-11 · Nullspace · SpeakUp Portfolio / Interview · DSA Preparation Workshop: Portfolio Website · Rochester Mall · 15:00–17:30 · 2026-12-11–2026-12-11
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: 2026-12-11 — 2026-12-11
+edad: Edades de 10 a 12 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $137,50 por 2,5 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad aún es inferior al mínimo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP1893-20261204-20261204-kallang-2026-12-04 · Nullspace · SpeakUp Portfolio / Interview · DSA Preparation Workshop: Portfolio Website · Kallang Wave Mall · 15:00–17:30 · 2026-12-04–2026-12-04
+
+Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+Fecha: 2026-12-04 — 2026-12-04
+edad: Edades de 10 a 12 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $137,50 por 2,5 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad aún es inferior al mínimo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP1893-20261218-20261218-kallang-2026-12-18 · Nullspace · SpeakUp Portfolio / Interview · DSA Preparation Workshop: Interview techniques · Kallang Wave Mall · 15:00–17:30 · 2026-12-18–2026-12-18
+
+Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+Fecha: 2026-12-18 — 2026-12-18
+edad: Edades de 10 a 12 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $137,50 por 2,5 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad aún es inferior al mínimo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP1893-20261204-20261204-tampines-2026-12-04 · Nullspace · SpeakUp Portfolio / Interview · DSA Preparation Workshop: Interview techniques · SAFRA Tampines · 15:00–17:30 · 2026-12-04–2026-12-04
+
+Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+Fecha: 2026-12-04 — 2026-12-04
+edad: Edades de 10 a 12 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $137,50 por 2,5 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad aún es inferior al mínimo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP1893-20261218-20261218-tampines-2026-12-18 · Nullspace · SpeakUp Portfolio / Interview · DSA Preparation Workshop: Portfolio Website · SAFRA Tampines · 15:00–17:30 · 2026-12-18–2026-12-18
+
+Lugar: Singapur · SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+Fecha: 2026-12-18 — 2026-12-18
+edad: Edades de 10 a 12 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $137,50 por 2,5 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad aún es inferior al mínimo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP1894-20261221-20261224-kallang-2026-12-21 · Nullspace · Youth AI Hackathon · Youth AI Hackathon · Kallang Wave Mall · 09:30–12:00 · 2026-12-21–2026-12-24
+
+Lugar: Singapur · Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+Fecha: 2026-12-21 - 2026-12-24
+edad: 12–16 años. Mínimo de 12 años en el año natural en curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por 4 clases de 2,5 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad aún es inferior al mínimo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP1894-20261228-20261231-rochester-2026-12-28 · Nullspace · Youth AI Hackathon · Youth AI Hackathon · Rochester Mall · 09:30–12:00 · 2026-12-28–2026-12-31
+
+Lugar: Singapur · Rochester Mall · 35 Rochester Drive #03-07, Singapur 138639
+Fecha: 2026-12-28 - 2026-12-31
+edad: 12–16 años. Mínimo de 12 años en el año natural en curso.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · $550 por 4 clases de 2,5 horas. Código de moneda sin indicar. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: La edad aún es inferior al mínimo del grupo. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal. Pago: Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+Fuente: https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/
+Se ha comprobado: 2026-11-07
+
+### CP1896-20270130-20270130-junior-2027-01-30 · The Discovery · LEGO Robot Rumble · Junior · Junior · 10:00–11:30 · 2027-01-30–2027-01-30
+
+lugar: Estados Unidos · The Discovery · 490 S Center St · Reno, NV
+Fecha: 2027-01-30 国 2027-01-30
+edad: Edades de 5 a 8 años. Se exige la presencia de un adulto acompañante para el grupo de 5–8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 30 con membresía o USD 35 sin membresía. · suplementos y condiciones en el dossier
+Acceso: Se exige la presencia de un adulto acompañante para el grupo de 5–8 años.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Confirmar por separado el precio para el adulto y el acceso al museo fuera del taller. Pago: Precio base de dos talleres el mismo día USD 75 sin membresía o USD 65 con tarifa de socio. Confirmar recargos del adulto.
+Fuente: https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-01-30/
+Se ha comprobado: 2026-11-07
+
+### CP1896-20270213-20270213-junior-2027-02-13 · The Discovery · LEGO Robot Rumble · Junior · Junior · 10:00–11:30 · 2027-02-13–2027-02-13
+
+lugar: Estados Unidos · The Discovery · 490 S Center St · Reno, NV
+Fecha: 2027-02-13 ♫ 2027-02-13
+edad: Edades de 5 a 8 años. Se exige la presencia de un adulto acompañante para el grupo de 5–8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 30 con membresía o USD 35 sin membresía. · suplementos y condiciones en el dossier
+Acceso: Se exige la presencia de un adulto acompañante para el grupo de 5–8 años.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Confirmar por separado el precio para el adulto y el acceso al museo fuera del taller. Pago: Precio base de dos talleres el mismo día USD 75 sin membresía o USD 65 con tarifa de socio. Confirmar recargos del adulto.
+Fuente: https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-02-13/
+Se ha comprobado: 2026-11-07
+
+### CP1896-20270227-20270227-junior-2027-02-27 · The Discovery · LEGO Robot Rumble · Junior · Junior · 10:00–11:30 · 2027-02-27–2027-02-27
+
+lugar: Estados Unidos · The Discovery · 490 S Center St · Reno, NV
+Fecha: 2027-02-27 — 2027-02-27
+edad: Edades de 5 a 8 años. Se exige la presencia de un adulto acompañante para el grupo de 5–8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 30 con membresía o USD 35 sin membresía. · suplementos y condiciones en el dossier
+Acceso: Se exige la presencia de un adulto acompañante para el grupo de 5–8 años.
+Limitaciones: Matvey: La edad supera el límite máximo del grupo. Oscar: Sí por edad. Se requieren plaza e inscripción. Suplementos: Confirmar por separado el precio para el adulto y el acceso al museo fuera del taller. Pago: Precio base de dos talleres el mismo día USD 75 sin membresía o USD 65 con tarifa de socio. Confirmar recargos del adulto.
+Fuente: https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-02-27/
+Se ha comprobado: 2026-11-07
+
+### CP1897-20270130-20270130-senior-2027-01-30 · The Discovery · LEGO Robot Rumble · Senior · Senior · 13:00–16:00 · 2027-01-30–2027-01-30
+
+lugar: Estados Unidos · The Discovery · 490 S Center St · Reno, NV
+Fecha: 2027-01-30 国 2027-01-30
+edad: Edades de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 35 con membresía o USD 40 sin membresía. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Confirmar por separado el precio para el adulto y el acceso al museo fuera del taller. Pago: Precio base de dos talleres el mismo día USD 75 sin membresía o USD 65 con tarifa de socio. Confirmar recargos del adulto.
+Fuente: https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-01-30/
+Se ha comprobado: 2026-11-07
+
+### CP1897-20270213-20270213-senior-2027-02-13 · The Discovery · LEGO Robot Rumble · Senior · Senior · 13:00–16:00 · 2027-02-13–2027-02-13
+
+lugar: Estados Unidos · The Discovery · 490 S Center St · Reno, NV
+Fecha: 2027-02-13 ♫ 2027-02-13
+edad: Edades de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 35 con membresía o USD 40 sin membresía. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Confirmar por separado el precio para el adulto y el acceso al museo fuera del taller. Pago: Precio base de dos talleres el mismo día USD 75 sin membresía o USD 65 con tarifa de socio. Confirmar recargos del adulto.
+Fuente: https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-02-13/
+Se ha comprobado: 2026-11-07
+
+### CP1897-20270227-20270227-senior-2027-02-27 · The Discovery · LEGO Robot Rumble · Senior · Senior · 13:00–16:00 · 2027-02-27–2027-02-27
+
+lugar: Estados Unidos · The Discovery · 490 S Center St · Reno, NV
+Fecha: 2027-02-27 — 2027-02-27
+edad: Edades de 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 35 con membresía o USD 40 sin membresía. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Sí por edad. Se requieren plaza e inscripción. Oscar: La edad aún es inferior al mínimo del grupo. Suplementos: Confirmar por separado el precio para el adulto y el acceso al museo fuera del taller. Pago: Precio base de dos talleres el mismo día USD 75 sin membresía o USD 65 con tarifa de socio. Confirmar recargos del adulto.
+Fuente: https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-02-27/
+Se ha comprobado: 2026-11-07
+
+### CP1898-20261229-20261229-tech-toys · Putnam Museum · Tech Toys · Tech Toys · 09:00–15:00 · 2026-12-29–2026-12-29
+
+lugar: Estados Unidos · Putnam Museum and Science Center · 1717 W. 12th St. · Davenport, IA
+Fecha: 2026-12-29 — 2026-12-29
+edad: Alumnado de 1.º a 3.er curso inclusive.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 60 con membresía o USD 70 sin membresía por menor. · suplementos y condiciones en el dossier
+Acceso: Inscripción y plazas actuales en el portal oficial del operador.
+Limitaciones: Matvey: Condicional si el curso escolar actual coincide con los requisitos. Oscar: Condicional si el curso escolar actual coincide con los requisitos. Suplementos: Confirmar comidas y cargos de tramitación en el formulario. Pago: Consultar las condiciones de cancelación en el formulario de inscripción.
+Fuente: https://27223.blackbaudhosting.com/27223/Tech-Toys-29Dec2026
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

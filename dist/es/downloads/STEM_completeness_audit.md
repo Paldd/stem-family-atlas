@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 9434; competiciones: 4136; eventos: 481; campamentos / programas: 4817. Perfiles de ligas y programas: 288. Fichas de exposiciones grandes y especializadas: 384 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 9494; competiciones: 4136; eventos: 482; campamentos / programas: 4876. Perfiles de ligas y programas: 288. Fichas de exposiciones grandes y especializadas: 385 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros para 208 de 249 países y territorios; países con auditoría completa: 0. En la revisión archivada v51 se añadieron 21 fichas y 3 perfiles. Se conservaron todas las fichas anteriores.
 
@@ -14,11 +14,11 @@ Hay registros para 208 de 249 países y territorios; países con auditoría comp
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 37 | 1639 | 85 | 1224 |
+| América del Norte | 37 | 1639 | 85 | 1234 |
 | América del Sur | 13 | 410 | 32 | 198 |
 | Europa | 50 | 514 | 94 | 1398 |
 | África | 47 | 223 | 27 | 78 |
-| Asia | 48 | 1089 | 117 | 1580 |
+| Asia | 48 | 1089 | 118 | 1629 |
 | Oceanía | 15 | 145 | 27 | 326 |
 
 Fichas interregionales o globales sin continente único: 136. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y la cobertura completa sigue pendiente.
@@ -740,6 +740,7 @@ VEX: 522 de 4136 fichas de competición (12.6%). La cobertura está sesgada haci
 - **Galaxcity · pista familiar de robots y pilotaje de drones** — Japón; 2026-12-05 – 2026-12-06. con un adulto; condiciones de admisión adulta por separado. https://galaxcity.jp/future-creation-hall/event/20261206-009270.html
 - **KONDO BATTLE · público en Galaxcity** — Japón; 2026-12-05 – 2026-12-06. con un adulto; condiciones de admisión adulta por separado. https://www.galaxcity.jp/future-creation-hall/event/20261206-009267.html
 - **Advanced Humanoid Forum 2027 · Munich** — Alemania; 2027-01-20 – 2027-01-21. el permiso de entrada de niños. https://www.advancedhumanoidforum.com/humanoid-robotics-forum-2027-tickets.html
+- **HMGICS · Discovery Tour / Mobility Exhibits** — Singapur; fecha sin determinar. Con un adulto; consultar aparte las condiciones de entrada de adultos. https://www.hyundai.com/sg/experience/tour/discovery
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

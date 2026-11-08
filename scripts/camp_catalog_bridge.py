@@ -122,6 +122,7 @@ RELATED.update({
     'citc-san-jose-galileo-technic': ['L649'],
     'citc-san-jose-robotoys': ['L650'],
     'citc-san-jose-algoc': ['L651'],
+    'hyundai-singapore-spot-coding': ['L724'],
     'pulediamante-parquesol-navidad': ['L652'],
 })
 FIT = {'candidate':'Да по возрасту; зачисление отдельно',

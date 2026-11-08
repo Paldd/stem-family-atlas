@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1891 fichas en 123 países. Cada ficha indica cuándo se verificaron sus fuentes.
+Estado de la base: 2026-11-07. 1899 fichas en 123 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -32428,7 +32428,7 @@ Experimentos de ingeniería en inglés; el curso y el nivel lingüístico import
 
 Singapur · Rochester / Kallang / SAFRA Tampines
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-07
 
 **Edad:** Título/menú 9–12, tabla de curso 9–13: La frontera superior se separa.
 
@@ -32438,7 +32438,7 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 ** Residencia:** Centro de Media jornada; un máximo de cinco alumnos por maestro, no hay internado.
 
-** Fechas/estatuto:** 21*24 y 28}31 de diciembre de 2026, 09:30}12:00; cinco opciones de emplazamiento/temas, cuatro días, sin viernes.
+**Fechas / estado:** Turnos publicados de noviembre y diciembre de 2026. Sede y horas en cada opción.
 
 **Precio / año:** 2026 · $520 / 10 horas; página no indica ISO Monedas. Paquetes 20/40/80 horas: $1 000 / 1 920 / 3 600; No es un precio de un turno..
 
@@ -32448,9 +32448,9 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 **el pago:** traslado/cancelación de la cantidad mínima de 72 horas, de otro modo course credit Se pierde; excepciones médicas documentadas. devueltos por los permisos — de los créditos de formación, y no con el reembolso de dinero ordinario. después de 10 minutos de cerco privilegiado es posible pagar un suplemento $1/de la ciudad.
 
-**Matvey:** Sólo después 9-años; Matvey en 2026 Sí, lo será. 8–9. Nivel e inglés confirmando; no verificados.
+**Matvey:** Sí por edad. Se requieren plaza e inscripción.
 
-**Oscar: ** El curso actual no es apropiado hasta los 9 años; no se han confirmado las futuras opciones y excepciones menores.
+**Oscar:** La edad aún es inferior al mínimo del grupo.
 
 ** Por qué en la selección:** EV3 de la versión práctica de Matway con fechas publicadas en diciembre; para un niño experimentado, verificar la complejidad.
 
@@ -32458,61 +32458,117 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 - confirmar el límite de edad, el tipo de ingreso, la moneda/impuestos, el ingreso en el extranjero y la presencia de un lugar en el lugar elegido.
 
-### Ingenious · 09:30–12:00 · rochester
+### LEGO Robotics Engineer: Camp Ingenious · Rochester Mall · 09:30–12:00
 
 **Fechas / estado:** 2026-12-21 — 2026-12-24
 
 **lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
 
-**Precio:** $520 / 10 horas; la moneda requiere confirmación
+**Precio:** $520 por 10 horas. Código de moneda sin indicar.
+
+** Subvención:** Almuerzo/vigilancia diaria completa no declarada: moneda, impuestos, admisión extranjera y utilización del paquete familiar.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-21 · 09:30–12:00 · Asia/Singapore · Montaje y programación de LEGO Mindstorms EV3. Ingenious e Innovate tienen modelos distintos.
+
+- 2026-12-22 · 09:30–12:00 · Asia/Singapore · Montaje y programación de LEGO Mindstorms EV3. Ingenious e Innovate tienen modelos distintos.
+
+- 2026-12-23 · 09:30–12:00 · Asia/Singapore · Montaje y programación de LEGO Mindstorms EV3. Ingenious e Innovate tienen modelos distintos.
+
+- 2026-12-24 · 09:30–12:00 · Asia/Singapore · Montaje y programación de LEGO Mindstorms EV3. Ingenious e Innovate tienen modelos distintos.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
 
 [fuente](https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/)
 
-### Innovate · 09:30–12:00 · rochester
-
-**Fechas / estado:** 2026-12-28 — 2026-12-31
-
-**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
-
-**Precio:** $520 / 10 horas; la moneda requiere confirmación
-
-[fuente](https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/)
-
-### Innovate · 09:30–12:00 · kallang
+### LEGO Robotics Engineer: Camp Innovate · Kallang Wave Mall · 09:30–12:00
 
 **Fechas / estado:** 2026-12-28 — 2026-12-31
 
 **lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
 
-**Precio:** $520 / 10 horas; la moneda requiere confirmación
+**Precio:** $520 por 10 horas. Código de moneda sin indicar.
+
+** Subvención:** Almuerzo/vigilancia diaria completa no declarada: moneda, impuestos, admisión extranjera y utilización del paquete familiar.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-28 · 09:30–12:00 · Asia/Singapore · Montaje y programación de LEGO Mindstorms EV3. Ingenious e Innovate tienen modelos distintos.
+
+- 2026-12-29 · 09:30–12:00 · Asia/Singapore · Montaje y programación de LEGO Mindstorms EV3. Ingenious e Innovate tienen modelos distintos.
+
+- 2026-12-30 · 09:30–12:00 · Asia/Singapore · Montaje y programación de LEGO Mindstorms EV3. Ingenious e Innovate tienen modelos distintos.
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Montaje y programación de LEGO Mindstorms EV3. Ingenious e Innovate tienen modelos distintos.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
 
 [fuente](https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/)
 
-### Ingenious · 09:30–12:00 · tampines
+### LEGO Robotics Engineer: Camp Ingenious · SAFRA Tampines · 09:30–12:00
 
 **Fechas / estado:** 2026-12-21 — 2026-12-24
 
 **lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
 
-**Precio:** $520 / 10 horas; la moneda requiere confirmación
+**Precio:** $520 por 10 horas. Código de moneda sin indicar.
+
+** Subvención:** Almuerzo/vigilancia diaria completa no declarada: moneda, impuestos, admisión extranjera y utilización del paquete familiar.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-21 · 09:30–12:00 · Asia/Singapore · Montaje y programación de LEGO Mindstorms EV3. Ingenious e Innovate tienen modelos distintos.
+
+- 2026-12-22 · 09:30–12:00 · Asia/Singapore · Montaje y programación de LEGO Mindstorms EV3. Ingenious e Innovate tienen modelos distintos.
+
+- 2026-12-23 · 09:30–12:00 · Asia/Singapore · Montaje y programación de LEGO Mindstorms EV3. Ingenious e Innovate tienen modelos distintos.
+
+- 2026-12-24 · 09:30–12:00 · Asia/Singapore · Montaje y programación de LEGO Mindstorms EV3. Ingenious e Innovate tienen modelos distintos.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
 
 [fuente](https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/)
 
-### Innovate · 09:30–12:00 · tampines
+### LEGO Robotics Engineer: Camp Innovate · SAFRA Tampines · 09:30–12:00
 
 **Fechas / estado:** 2026-12-28 — 2026-12-31
 
 **lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
 
-**Precio:** $520 / 10 horas; la moneda requiere confirmación
+**Precio:** $520 por 10 horas. Código de moneda sin indicar.
+
+** Subvención:** Almuerzo/vigilancia diaria completa no declarada: moneda, impuestos, admisión extranjera y utilización del paquete familiar.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-28 · 09:30–12:00 · Asia/Singapore · Montaje y programación de LEGO Mindstorms EV3. Ingenious e Innovate tienen modelos distintos.
+
+- 2026-12-29 · 09:30–12:00 · Asia/Singapore · Montaje y programación de LEGO Mindstorms EV3. Ingenious e Innovate tienen modelos distintos.
+
+- 2026-12-30 · 09:30–12:00 · Asia/Singapore · Montaje y programación de LEGO Mindstorms EV3. Ingenious e Innovate tienen modelos distintos.
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Montaje y programación de LEGO Mindstorms EV3. Ingenious e Innovate tienen modelos distintos.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
 
 [fuente](https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/)
 
 ### Fuentes
 
-- [su propio programa y horario](https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/) · 2026-10-05
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/) · 2026-11-07
 
-- [equipo y reglas](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-10-05
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-11-07
 
 - [Direcciones exactas de los centros](https://sg.nullspace.co/contact-us/) · 2026-10-05
 
@@ -32520,7 +32576,7 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 Singapur · Rochester / Kallang / SAFRA Tampines
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-07
 
 **Edad:** 9–14; La experiencia en materia de programación no es obligatoria.
 
@@ -32530,7 +32586,7 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 ** Residencia:** Taller diurno corto; cinco hijos por maestro.
 
-**Fechas / situación:** 12–13 octubre 2026, 09:30–12:00; el tema depende del lugar. Sesiones publicadas 2 El mes de octubre ya se ha completado.
+**Fechas / estado:** Turnos publicados de noviembre y diciembre de 2026. Sede y horas en cada opción.
 
 **Precio / año:** 2026 · $137,50 / 2,5 horas; ISO No se indica ninguna moneda. Cada taller se paga por separado o por un curso-Paquete.
 
@@ -32540,9 +32596,9 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 **el pago:** traslado/cancelación de la cantidad mínima de 72 horas, de otro modo course credit Se pierde; excepciones médicas documentadas. devueltos por los permisos — de los créditos de formación, y no con el reembolso de dinero ordinario. después de 10 minutos de cerco privilegiado es posible pagar un suplemento $1/de la ciudad.
 
-**Matvey:** Sólo después 9-años; Matvey en 2026 Sí, lo será. 8–9. Nivel e inglés confirmando; no verificados.
+**Matvey:** Sí por edad. Se requieren plaza e inscripción.
 
-**Oscar: ** El curso actual no es apropiado hasta los 9 años; no se han confirmado las futuras opciones y excepciones menores.
+**Oscar:** La edad aún es inferior al mínimo del grupo.
 
 ** Por qué en la selección:** Muestras cortas de creación digital de Matway, acceso a los servicios de AI y dificultad de evaluar antes de elegir.
 
@@ -32558,6 +32614,10 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 **Precio:** $137,50; la moneda no está confirmada
 
+**Matvey:** Sólo después 9-años; Matvey en 2026 Sí, lo será. 8–9. Nivel e inglés confirmando; no verificados.
+
+**Oscar: ** El curso actual no es apropiado hasta los 9 años; no se han confirmado las futuras opciones y excepciones menores.
+
 [fuente](https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/)
 
 ### AI Comic Story Creator · 09:30–12:00 · kallang
@@ -32567,6 +32627,10 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 **lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
 
 **Precio:** $137,50; la moneda no está confirmada
+
+**Matvey:** Sólo después 9-años; Matvey en 2026 Sí, lo será. 8–9. Nivel e inglés confirmando; no verificados.
+
+**Oscar: ** El curso actual no es apropiado hasta los 9 años; no se han confirmado las futuras opciones y excepciones menores.
 
 [fuente](https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/)
 
@@ -32578,13 +32642,79 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 **Precio:** $137,50; la moneda no está confirmada
 
+**Matvey:** Sólo después 9-años; Matvey en 2026 Sí, lo será. 8–9. Nivel e inglés confirmando; no verificados.
+
+**Oscar: ** El curso actual no es apropiado hasta los 9 años; no se han confirmado las futuras opciones y excepciones menores.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/)
+
+### Generative AI Workshop: AI Comic Story Creator · Rochester Mall · 15:00–17:30
+
+**Fechas / estado:** 2026-12-18 — 2026-12-18
+
+**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
+
+**Precio:** $137,50 por 2,5 horas. Código de moneda sin indicar.
+
+**Suplementos:** La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-18 · 15:00–17:30 · Asia/Singapore · Creación de una historia ilustrada con IA generativa.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/)
+
+### Generative AI Workshop: AI Comic Story Creator · Kallang Wave Mall · 15:00–17:30
+
+**Fechas / estado:** 2026-12-11 — 2026-12-11
+
+**lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+
+**Precio:** $137,50 por 2,5 horas. Código de moneda sin indicar.
+
+**Suplementos:** La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-11 · 15:00–17:30 · Asia/Singapore · Creación de una historia ilustrada con IA generativa.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/)
+
+### Generative AI Workshop: AI Comic Story Creator · SAFRA Tampines · 15:00–17:30
+
+**Fechas / estado:** 2026-12-11 — 2026-12-11
+
+**lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+
+**Precio:** $137,50 por 2,5 horas. Código de moneda sin indicar.
+
+**Suplementos:** La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-11 · 15:00–17:30 · Asia/Singapore · Creación de una historia ilustrada con IA generativa.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
 [fuente](https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/)
 
 ### Fuentes
 
-- [su propio programa y horario](https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/) · 2026-10-05
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/) · 2026-11-07
 
-- [equipo y reglas](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-10-05
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-11-07
 
 - [Direcciones exactas de los centros](https://sg.nullspace.co/contact-us/) · 2026-10-05
 
@@ -32592,7 +32722,7 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 Singapur · Rochester / Kallang / SAFRA Tampines
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-07
 
 **Edad:** 9–14; La experiencia en materia de programación no es obligatoria.
 
@@ -32602,7 +32732,7 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 ** Residencia:** Taller diurno corto; cinco hijos por maestro.
 
-**Fechas / situación:** 12–13 octubre 2026, 09:30–12:00; el tema depende del lugar. Sesiones publicadas 2 El mes de octubre ya se ha completado.
+**Fechas / estado:** Turnos publicados de noviembre y diciembre de 2026. Sede y horas en cada opción.
 
 **Precio / año:** 2026 · $137,50 / 2,5 horas; ISO No se indica ninguna moneda. Cada taller se paga por separado o por un curso-Paquete.
 
@@ -32612,9 +32742,9 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 **el pago:** traslado/cancelación de la cantidad mínima de 72 horas, de otro modo course credit Se pierde; excepciones médicas documentadas. devueltos por los permisos — de los créditos de formación, y no con el reembolso de dinero ordinario. después de 10 minutos de cerco privilegiado es posible pagar un suplemento $1/de la ciudad.
 
-**Matvey:** Sólo después 9-años; Matvey en 2026 Sí, lo será. 8–9. Nivel e inglés confirmando; no verificados.
+**Matvey:** Sí por edad. Se requieren plaza e inscripción.
 
-**Oscar: ** El curso actual no es apropiado hasta los 9 años; no se han confirmado las futuras opciones y excepciones menores.
+**Oscar:** La edad aún es inferior al mínimo del grupo.
 
 ** Por qué en la selección:** Muestras cortas de creación digital de Matway, acceso a los servicios de AI y dificultad de evaluar antes de elegir.
 
@@ -32630,6 +32760,10 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 **Precio:** $137,50; la moneda no está confirmada
 
+**Matvey:** Sólo después 9-años; Matvey en 2026 Sí, lo será. 8–9. Nivel e inglés confirmando; no verificados.
+
+**Oscar: ** El curso actual no es apropiado hasta los 9 años; no se han confirmado las futuras opciones y excepciones menores.
+
 [fuente](https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/)
 
 ### AI Game Creator · 09:30–12:00 · kallang
@@ -32639,6 +32773,10 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 **lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
 
 **Precio:** $137,50; la moneda no está confirmada
+
+**Matvey:** Sólo después 9-años; Matvey en 2026 Sí, lo será. 8–9. Nivel e inglés confirmando; no verificados.
+
+**Oscar: ** El curso actual no es apropiado hasta los 9 años; no se han confirmado las futuras opciones y excepciones menores.
 
 [fuente](https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/)
 
@@ -32650,13 +32788,79 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 **Precio:** $137,50; la moneda no está confirmada
 
+**Matvey:** Sólo después 9-años; Matvey en 2026 Sí, lo será. 8–9. Nivel e inglés confirmando; no verificados.
+
+**Oscar: ** El curso actual no es apropiado hasta los 9 años; no se han confirmado las futuras opciones y excepciones menores.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/)
+
+### Generative AI Workshop: AI Game Creator · Rochester Mall · 15:00–17:30
+
+**Fechas / estado:** 2026-12-04 — 2026-12-04
+
+**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
+
+**Precio:** $137,50 por 2,5 horas. Código de moneda sin indicar.
+
+**Suplementos:** La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-04 · 15:00–17:30 · Asia/Singapore · Prototipo de videojuego con IA generativa. El operador indica hasta 5 alumnos por docente y no exige experiencia previa.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/)
+
+### Generative AI Workshop: AI Game Creator · Kallang Wave Mall · 15:00–17:30
+
+**Fechas / estado:** 2026-11-27 — 2026-11-27
+
+**lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+
+**Precio:** $137,50 por 2,5 horas. Código de moneda sin indicar.
+
+**Suplementos:** La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-11-27 · 15:00–17:30 · Asia/Singapore · Prototipo de videojuego con IA generativa. El operador indica hasta 5 alumnos por docente y no exige experiencia previa.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/)
+
+### Generative AI Workshop: AI Game Creator · SAFRA Tampines · 09:30–12:00
+
+**Fechas / estado:** 2026-12-31 — 2026-12-31
+
+**lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+
+**Precio:** $137,50 por 2,5 horas. Código de moneda sin indicar.
+
+**Suplementos:** La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Prototipo de videojuego con IA generativa. El operador indica hasta 5 alumnos por docente y no exige experiencia previa.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
 [fuente](https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/)
 
 ### Fuentes
 
-- [su propio programa y horario](https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/) · 2026-10-05
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/) · 2026-11-07
 
-- [equipo y reglas](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-10-05
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-11-07
 
 - [Direcciones exactas de los centros](https://sg.nullspace.co/contact-us/) · 2026-10-05
 
@@ -32664,9 +32868,9 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 Singapur · Rochester / Kallang / SAFRA Tampines
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-07
 
-**Edad:** 7–8; la edad se corresponde con la edad Explorer, de red no total.
+**edad:** Edades de 7 a 8 años.
 
 ** Idioma: ** El idioma de una clase técnica específica no figura en las normas que se leen; el sitio en inglés no demuestra el flujo inglés; se requiere confirmación.
 
@@ -32674,9 +32878,9 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 ** Residencia: ** Centro de formación diurna, cinco alumnos por profesor.
 
-**Fechas / situación:** Los cambios correctos no aparecen en la tabla de texto que se lee. El bloque principal promete 5×2 horas, FAQ "Cuatro días" bootcamp: formato que se ha de acordar.
+**Fechas / estado:** Turnos publicados de noviembre y diciembre de 2026. Sede y horas en cada opción.
 
-**Precio / año:** No se ha establecido · $550 / 10 Horas en el bloque principal; Aranceles y moneda no especificados. Weekly term $1 000 — individuales 10 Enseñanza.
+**Precio / año:** 2026 · $550 por las 10 horas estándar. Código de moneda sin indicar.
 
 ** Incluye:** Equipo y materiales necesarios; proyectos de madera terminados.
 
@@ -32684,9 +32888,9 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 **el pago:** traslado/cancelación de la cantidad mínima de 72 horas, de otro modo course credit Se pierde; excepciones médicas documentadas. devueltos por los permisos — de los créditos de formación, y no con el reembolso de dinero ordinario. después de 10 minutos de cerco privilegiado es posible pagar un suplemento $1/de la ciudad.
 
-**Matvey:** B 2026 Sólo se ajusta a las reglas. 9-años; Después de elegir EV3/certificate. Nuevos turnos desconocidos.
+**Matvey:** La edad supera el límite máximo del grupo.
 
-**Oscar:** Sólo después 7-verano en 2027; Adiós. 5–6 — otro Little Explorer. Fechas y excepciones no declaradas.
+**Oscar:** La edad aún es inferior al mínimo del grupo.
 
 ** Por qué en la selección:** Escalón de Ingeniería Secundaria; FLL Explore requiere 15 ó 20 sesiones en diferentes páginas, más de una semana de vacaciones.
 
@@ -32694,11 +32898,541 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 - Nuevos turnos, cuatro o cinco días, flujo de inglés, edad para comenzar y requisitos actuales Explore: 15 o 20 clases.
 
+### Camp Create · Rochester Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** $550 por las 10 horas estándar. Código de moneda sin indicar.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-11-23 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-11-24 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-11-25 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-11-26 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-11-27 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Discover · Rochester Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** $550 por las 10 horas estándar. Código de moneda sin indicar.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-11-30 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-01 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-02 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-03 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-04 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Adventure · Rochester Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** $550 por las 10 horas estándar. Código de moneda sin indicar.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-07 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-08 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-09 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-10 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-11 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Brilliance · Rochester Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** $550 por las 10 horas estándar. Código de moneda sin indicar.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-14 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-15 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-16 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-17 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-18 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Create · Rochester Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** No se indica la tarifa del turno de 8 horas. La tarifa estándar de $550 corresponde a 10 horas.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-21 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-22 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-23 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-24 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Discover · Rochester Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** No se indica la tarifa del turno de 8 horas. La tarifa estándar de $550 corresponde a 10 horas.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-28 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-29 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-30 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-31 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Brilliance · Kallang Wave Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** $550 por las 10 horas estándar. Código de moneda sin indicar.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-11-23 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-11-24 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-11-25 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-11-26 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-11-27 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Create · Kallang Wave Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** $550 por las 10 horas estándar. Código de moneda sin indicar.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-11-30 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-01 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-02 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-03 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-04 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Discover · Kallang Wave Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** $550 por las 10 horas estándar. Código de moneda sin indicar.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-07 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-08 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-09 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-10 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-11 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Adventure · Kallang Wave Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** $550 por las 10 horas estándar. Código de moneda sin indicar.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-14 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-15 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-16 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-17 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-18 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Brilliance · Kallang Wave Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** No se indica la tarifa del turno de 8 horas. La tarifa estándar de $550 corresponde a 10 horas.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-21 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-22 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-23 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-24 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Create · Kallang Wave Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** No se indica la tarifa del turno de 8 horas. La tarifa estándar de $550 corresponde a 10 horas.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-28 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-29 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-30 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-31 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Create · SAFRA Tampines · 10:00–12:00
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** $550 por las 10 horas estándar. Código de moneda sin indicar.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-11-23 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-11-24 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-11-25 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-11-26 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-11-27 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Discover · SAFRA Tampines · 10:00–12:00
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** $550 por las 10 horas estándar. Código de moneda sin indicar.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-11-30 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-01 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-02 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-03 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-04 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Adventure · SAFRA Tampines · 10:00–12:00
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** $550 por las 10 horas estándar. Código de moneda sin indicar.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-07 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-08 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-09 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-10 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-11 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Brilliance · SAFRA Tampines · 10:00–12:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** $550 por las 10 horas estándar. Código de moneda sin indicar.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-14 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-15 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-16 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-17 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-18 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Create · SAFRA Tampines · 10:00–12:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** No se indica la tarifa del turno de 8 horas. La tarifa estándar de $550 corresponde a 10 horas.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-21 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-22 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-23 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-24 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Camp Discover · SAFRA Tampines · 10:00–12:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+
+**edad:** Edades de 7 a 8 años.
+
+**Precio:** No se indica la tarifa del turno de 8 horas. La tarifa estándar de $550 corresponde a 10 horas.
+
+**Gastos adicionales:** en la página diferentes trial $60 y $100; Es una prueba. weekly class, No todo el campo.. comprobar las cobranzas/de la moneda.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-28 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-29 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-30 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+- 2026-12-31 · 10:00–12:00 · Asia/Singapore · LEGO WeDo 2.0, Scratch y manualidades de ingeniería según el turno.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
 ### Fuentes
 
-- [su propio programa y horario](https://sg.nullspace.co/centre-for-robotics-learning/stem-explorer-class-7-8/) · 2026-10-05
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/stem-explorer-class-7-8/) · 2026-11-07
 
-- [equipo y reglas](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-10-05
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-11-07
 
 - [Direcciones exactas de los centros](https://sg.nullspace.co/contact-us/) · 2026-10-05
 
@@ -32706,9 +33440,9 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 Singapur · Rochester / Kallang / SAFRA Tampines
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-07
 
-**Edad:** 9–12; El operador advierte, Que el menor puede ser demasiado rápido..
+**edad:** Edades de 9 a 12 años.
 
 ** Idioma: ** El idioma de una clase técnica específica no figura en las normas que se leen; el sitio en inglés no demuestra el flujo inglés; se requiere confirmación.
 
@@ -32716,9 +33450,9 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 ** Residencia:** Centro diurno; cinco hijos por maestro.
 
-**Fechas / situación:** Calendario publicado — Junio 2026, Ya pasó.. Diciembre 2026 y verano 2027 no se confirma en esta página.
+**Fechas / estado:** Turnos publicados de noviembre y diciembre de 2026. Sede y horas en cada opción.
 
-**Capital/año:** 2026 $825 / 15 horas; la moneda de la ISO no se indica.
+**Precio / año:** 2026 · $825 por el campamento de 15 horas. Código de moneda sin indicar.
 
 ** Incluida:** Laptop está disponible, Minecraft Education for Clase.
 
@@ -32726,9 +33460,9 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 **el pago:** traslado/cancelación de la cantidad mínima de 72 horas, de otro modo course credit Se pierde; excepciones médicas documentadas. devueltos por los permisos — de los créditos de formación, y no con el reembolso de dinero ordinario. después de 10 minutos de cerco privilegiado es posible pagar un suplemento $1/de la ciudad.
 
-**Matvey:** Sólo después 9-años; Matvey en 2026 Sí, lo será. 8–9. Nivel e inglés confirmando; no verificados.
+**Matvey:** Sí por edad. Se requieren plaza e inscripción.
 
-**Oscar: ** El curso actual no es apropiado hasta los 9 años; no se han confirmado las futuras opciones y excepciones menores.
+**Oscar:** La edad aún es inferior al mínimo del grupo.
 
 ** Por qué en la selección:** Ingeniería de juegos Matvei cuando se presentan nuevas fechas; la página de archivo del verano no prueba que haya un juego de invierno.
 
@@ -32736,11 +33470,193 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 - nueva temporada, en inglés, un precio completo y un juego para un niño con experiencia; el Minecraft normal no reemplaza a Education.
 
+### Minecraft: Camp Xcite · Rochester Mall · 09:00–12:00
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
+
+**edad:** Edades de 9 a 12 años.
+
+**Precio:** $825 por el campamento de 15 horas. Código de moneda sin indicar.
+
+** Pagadero: ** La licencia de estudios de Minecraft se adquiere por separado; el costo no se ha publicado.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-11-23 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-11-24 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-11-25 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-11-26 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-11-27 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Minecraft: Camp Xplore · Rochester Mall · 09:00–12:00
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
+
+**edad:** Edades de 9 a 12 años.
+
+**Precio:** $825 por el campamento de 15 horas. Código de moneda sin indicar.
+
+** Pagadero: ** La licencia de estudios de Minecraft se adquiere por separado; el costo no se ha publicado.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-07 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-12-08 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-12-09 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-12-10 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-12-11 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Minecraft: Camp Xplore · Kallang Wave Mall · 09:00–12:00
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+
+**edad:** Edades de 9 a 12 años.
+
+**Precio:** $825 por el campamento de 15 horas. Código de moneda sin indicar.
+
+** Pagadero: ** La licencia de estudios de Minecraft se adquiere por separado; el costo no se ha publicado.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-11-30 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-12-01 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-12-02 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-12-03 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-12-04 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Minecraft: Camp Xcite · Kallang Wave Mall · 09:00–12:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+
+**edad:** Edades de 9 a 12 años.
+
+**Precio:** $825 por el campamento de 15 horas. Código de moneda sin indicar.
+
+** Pagadero: ** La licencia de estudios de Minecraft se adquiere por separado; el costo no se ha publicado.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-14 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-12-15 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-12-16 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-12-17 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-12-18 · 09:00–12:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Minecraft: Camp Xcite · SAFRA Tampines · 15:00–18:00
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+
+**edad:** Edades de 9 a 12 años.
+
+**Precio:** $825 por el campamento de 15 horas. Código de moneda sin indicar.
+
+** Pagadero: ** La licencia de estudios de Minecraft se adquiere por separado; el costo no se ha publicado.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-11-23 · 15:00–18:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-11-24 · 15:00–18:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-11-25 · 15:00–18:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-11-26 · 15:00–18:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-11-27 · 15:00–18:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Minecraft: Camp Xplore · SAFRA Tampines · 15:00–18:00
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+
+**edad:** Edades de 9 a 12 años.
+
+**Precio:** $825 por el campamento de 15 horas. Código de moneda sin indicar.
+
+** Pagadero: ** La licencia de estudios de Minecraft se adquiere por separado; el costo no se ha publicado.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-07 · 15:00–18:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-12-08 · 15:00–18:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-12-09 · 15:00–18:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-12-10 · 15:00–18:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+- 2026-12-11 · 15:00–18:00 · Asia/Singapore · Minecraft Education, circuitos lógicos Redstone y retos de programación. Xcite y Xplore se pueden elegir por separado.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
 ### Fuentes
 
-- [su propio programa y horario](https://sg.nullspace.co/centre-for-robotics-learning/minecraft-holiday-camp/) · 2026-10-05
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/minecraft-holiday-camp/) · 2026-11-07
 
-- [equipo y reglas](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-10-05
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-11-07
 
 - [Direcciones exactas de los centros](https://sg.nullspace.co/contact-us/) · 2026-10-05
 
@@ -32748,9 +33664,9 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 Singapur · Rochester / Kallang / SAFRA Tampines
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-07
 
-**Edad:** Cuadro detallado 9–16; menú 9–12 se separa.
+**edad:** El calendario indica 9–12 años y la descripción 9–16 años. Matvey entra en ambos intervalos.
 
 ** Idioma: ** El idioma de una clase técnica específica no figura en las normas que se leen; el sitio en inglés no demuestra el flujo inglés; se requiere confirmación.
 
@@ -32758,9 +33674,9 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 ** Residencia: ** Centro diurno, cinco alumnos por profesor.
 
-**Fechas / situación:** Sólo el calendario anterior 7–11 septiembre 2026; Una versión separada de cuatro días 8–11.09 hasta 2,5 horas. Fechas 2027 desconocidos.
+**Fechas / estado:** Turnos publicados de noviembre y diciembre de 2026. Sede y horas en cada opción.
 
-**Precio / año:** 2026 · $550 / 10 horas; ISO No se indica ninguna moneda. Este es el price original de los turnos de archivo., no propuesta 2027.
+**Precio / año:** 2026 · $550 por 10 horas. Código de moneda sin indicar.
 
 ** Incluida:** Laptop y el trabajo en la impresora 3D; se ha publicado por lo menos un producto impreso por ocupación.
 
@@ -32768,9 +33684,9 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 **el pago:** traslado/cancelación de la cantidad mínima de 72 horas, de otro modo course credit Se pierde; excepciones médicas documentadas. devueltos por los permisos — de los créditos de formación, y no con el reembolso de dinero ordinario. después de 10 minutos de cerco privilegiado es posible pagar un suplemento $1/de la ciudad.
 
-**Matvey:** Sólo después 9-años; Matvey en 2026 Sí, lo será. 8–9. Nivel e inglés confirmando; no verificados.
+**Matvey:** Sí por edad. Se requieren plaza e inscripción.
 
-**Oscar: ** El curso actual no es apropiado hasta los 9 años; no se han confirmado las futuras opciones y excepciones menores.
+**Oscar:** La edad aún es inferior al mínimo del grupo.
 
 ** Por qué en la selección:** buen puente entre los modelos de robots y el diseño de los detalles reales; el antiguo calendario no es una futura disponibilidad.
 
@@ -32778,11 +33694,193 @@ Singapur · Rochester / Kallang / SAFRA Tampines
 
 - TKKYIA mentoring después del curso requiere una preparación y admisión separadas.
 
+### 3D Print Design Workshop · Rochester Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
+
+**edad:** El calendario indica 9–12 años y la descripción 9–16 años. Matvey entra en ambos intervalos.
+
+**Precio:** $550 por 10 horas. Código de moneda sin indicar.
+
+**Gastos adicionales:** Necesito algo disponible. email-Cuenta para guardar Tinkercad, Ver 2FA y el acceso de los niños. La entrega de un producto puede requerir más 1–2 Días de estancia.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-11-30 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-01 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-02 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-03 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-04 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### 3D Print Design Workshop · Rochester Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
+
+**edad:** El calendario indica 9–12 años y la descripción 9–16 años. Matvey entra en ambos intervalos.
+
+**Precio:** $550 por 10 horas. Código de moneda sin indicar.
+
+**Gastos adicionales:** Necesito algo disponible. email-Cuenta para guardar Tinkercad, Ver 2FA y el acceso de los niños. La entrega de un producto puede requerir más 1–2 Días de estancia.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-14 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-15 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-16 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-17 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-18 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### 3D Print Design Workshop · Kallang Wave Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-11-23 — 2026-11-27
+
+**lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+
+**edad:** El calendario indica 9–12 años y la descripción 9–16 años. Matvey entra en ambos intervalos.
+
+**Precio:** $550 por 10 horas. Código de moneda sin indicar.
+
+**Gastos adicionales:** Necesito algo disponible. email-Cuenta para guardar Tinkercad, Ver 2FA y el acceso de los niños. La entrega de un producto puede requerir más 1–2 Días de estancia.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-11-23 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-11-24 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-11-25 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-11-26 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-11-27 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### 3D Print Design Workshop · Kallang Wave Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-12-07 — 2026-12-11
+
+**lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+
+**edad:** El calendario indica 9–12 años y la descripción 9–16 años. Matvey entra en ambos intervalos.
+
+**Precio:** $550 por 10 horas. Código de moneda sin indicar.
+
+**Gastos adicionales:** Necesito algo disponible. email-Cuenta para guardar Tinkercad, Ver 2FA y el acceso de los niños. La entrega de un producto puede requerir más 1–2 Días de estancia.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-07 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-08 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-09 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-10 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-11 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### 3D Print Design Workshop · SAFRA Tampines · 10:00–12:00
+
+**Fechas / estado:** 2026-11-30 — 2026-12-04
+
+**lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+
+**edad:** El calendario indica 9–12 años y la descripción 9–16 años. Matvey entra en ambos intervalos.
+
+**Precio:** $550 por 10 horas. Código de moneda sin indicar.
+
+**Gastos adicionales:** Necesito algo disponible. email-Cuenta para guardar Tinkercad, Ver 2FA y el acceso de los niños. La entrega de un producto puede requerir más 1–2 Días de estancia.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-11-30 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-01 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-02 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-03 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-04 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### 3D Print Design Workshop · SAFRA Tampines · 10:00–12:00
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+
+**edad:** El calendario indica 9–12 años y la descripción 9–16 años. Matvey entra en ambos intervalos.
+
+**Precio:** $550 por 10 horas. Código de moneda sin indicar.
+
+**Gastos adicionales:** Necesito algo disponible. email-Cuenta para guardar Tinkercad, Ver 2FA y el acceso de los niños. La entrega de un producto puede requerir más 1–2 Días de estancia.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-14 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-15 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-16 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-17 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+- 2026-12-18 · 10:00–12:00 · Asia/Singapore · Diseño en Tinkercad e impresión del modelo en una impresora 3D.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
 ### Fuentes
 
-- [su propio programa y horario](https://sg.nullspace.co/centre-for-robotics-learning/buildup-series-3d-print-design-holiday-camp/) · 2026-10-05
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/buildup-series-3d-print-design-holiday-camp/) · 2026-11-07
 
-- [equipo y reglas](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-10-05
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-11-07
 
 - [Direcciones exactas de los centros](https://sg.nullspace.co/contact-us/) · 2026-10-05
 
@@ -151215,6 +152313,662 @@ España · Varios centros de Codelearn en España.
 ### Fuentes
 
 - [Página oficial, reglamento o calendario de la asociación del sector.](https://codelearn.es/blog/talleres-tecnologicos-navidad-2026/) · 2026-11-07
+
+## CP1892 · Nullspace · Beyblade Design
+
+Singapur · Singapore · Rochester Mall / Kallang Wave Mall / SAFRA Tampines
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Edades de 9 a 14 años.
+
+**Idioma:** Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+
+**Programa:** Diseñar una peonza en Tinkercad, imprimirla y probarla en un duelo de clase.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Turnos publicados de noviembre y diciembre de 2026. Sede y horas en cada opción.
+
+**Precio / año:** 2026 · $110 por 2 horas. Código de moneda sin indicar.
+
+**Incluido:** Equipo didáctico durante la clase.
+
+**Suplementos:** La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**Matvey:** Sí por edad. Se requieren plaza e inscripción.
+
+**Oscar:** La edad aún es inferior al mínimo del grupo.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+
+### Beyblade Design Workshop · Rochester Mall · 15:00–17:00
+
+**Fechas / estado:** 2026-11-27 — 2026-11-27
+
+**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
+
+**Precio:** $110 por 2 horas. Código de moneda sin indicar.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-11-27 · 15:00–17:00 · Asia/Singapore · Diseñar una peonza en Tinkercad, imprimirla y probarla en un duelo de clase.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Beyblade Design Workshop · SAFRA Tampines · 15:00–17:00
+
+**Fechas / estado:** 2026-11-27 — 2026-11-27
+
+**lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+
+**Precio:** $110 por 2 horas. Código de moneda sin indicar.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-11-27 · 15:00–17:00 · Asia/Singapore · Diseñar una peonza en Tinkercad, imprimirla y probarla en un duelo de clase.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Beyblade Design Workshop · Rochester Mall · 13:00–15:00
+
+**Fechas / estado:** 2026-12-24 — 2026-12-24
+
+**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
+
+**Precio:** $110 por 2 horas. Código de moneda sin indicar.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-24 · 13:00–15:00 · Asia/Singapore · Diseñar una peonza en Tinkercad, imprimirla y probarla en un duelo de clase.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Beyblade Design Workshop · SAFRA Tampines · 13:00–15:00
+
+**Fechas / estado:** 2026-12-24 — 2026-12-24
+
+**lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+
+**Precio:** $110 por 2 horas. Código de moneda sin indicar.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-24 · 13:00–15:00 · Asia/Singapore · Diseñar una peonza en Tinkercad, imprimirla y probarla en un duelo de clase.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Beyblade Design Workshop · Kallang Wave Mall · 10:00–12:00
+
+**Fechas / estado:** 2026-12-31 — 2026-12-31
+
+**lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+
+**Precio:** $110 por 2 horas. Código de moneda sin indicar.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-31 · 10:00–12:00 · Asia/Singapore · Diseñar una peonza en Tinkercad, imprimirla y probarla en un duelo de clase.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/buildup-series-beyblade-design-workshop/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-11-07
+
+## CP1893 · Nullspace · SpeakUp Portfolio / Interview
+
+Singapur · Singapore · Rochester Mall / Kallang Wave Mall / SAFRA Tampines
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Edades de 10 a 12 años.
+
+**Idioma:** Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+
+**Programa:** Creación de una web de portafolio o práctica de entrevista por separado. El contenido depende de la opción.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Turnos publicados de noviembre y diciembre de 2026. Sede y horas en cada opción.
+
+**Precio / año:** 2026 · $137,50 por 2,5 horas. Código de moneda sin indicar.
+
+**Incluido:** Equipo didáctico durante la clase.
+
+**Suplementos:** La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**Matvey:** La edad aún es inferior al mínimo del grupo.
+
+**Oscar:** La edad aún es inferior al mínimo del grupo.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+
+### DSA Preparation Workshop: Portfolio Website · Rochester Mall · 15:00–17:30
+
+**Fechas / estado:** 2026-12-11 — 2026-12-11
+
+**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
+
+**Precio:** $137,50 por 2,5 horas. Código de moneda sin indicar.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-11 · 15:00–17:30 · Asia/Singapore · Creación de una web de portafolio o práctica de entrevista por separado. El contenido depende de la opción.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### DSA Preparation Workshop: Portfolio Website · Kallang Wave Mall · 15:00–17:30
+
+**Fechas / estado:** 2026-12-04 — 2026-12-04
+
+**lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+
+**Precio:** $137,50 por 2,5 horas. Código de moneda sin indicar.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-04 · 15:00–17:30 · Asia/Singapore · Creación de una web de portafolio o práctica de entrevista por separado. El contenido depende de la opción.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### DSA Preparation Workshop: Interview techniques · Kallang Wave Mall · 15:00–17:30
+
+**Fechas / estado:** 2026-12-18 — 2026-12-18
+
+**lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+
+**Precio:** $137,50 por 2,5 horas. Código de moneda sin indicar.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-18 · 15:00–17:30 · Asia/Singapore · Creación de una web de portafolio o práctica de entrevista por separado. El contenido depende de la opción.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### DSA Preparation Workshop: Interview techniques · SAFRA Tampines · 15:00–17:30
+
+**Fechas / estado:** 2026-12-04 — 2026-12-04
+
+**lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+
+**Precio:** $137,50 por 2,5 horas. Código de moneda sin indicar.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-04 · 15:00–17:30 · Asia/Singapore · Creación de una web de portafolio o práctica de entrevista por separado. El contenido depende de la opción.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### DSA Preparation Workshop: Portfolio Website · SAFRA Tampines · 15:00–17:30
+
+**Fechas / estado:** 2026-12-18 — 2026-12-18
+
+**lugar:** SAFRA Tampines · 1A Tampines Street 92 #02-03, Singapore 528882
+
+**Precio:** $137,50 por 2,5 horas. Código de moneda sin indicar.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-18 · 15:00–17:30 · Asia/Singapore · Creación de una web de portafolio o práctica de entrevista por separado. El contenido depende de la opción.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/portfolio-interview-skills-kids/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-11-07
+
+## CP1894 · Nullspace · Youth AI Hackathon
+
+Singapur · Singapore · Rochester Mall / Kallang Wave Mall / SAFRA Tampines
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 12–16 años. Mínimo de 12 años en el año natural en curso.
+
+**Idioma:** Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+
+**Programa:** Sprint formativo de IA sobre Zero Hunger. Búsqueda, visualización, prototipo y presentación ante sus pares.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Turnos publicados de noviembre y diciembre de 2026. Sede y horas en cada opción.
+
+**Precio / año:** 2026 · $550 por 4 clases de 2,5 horas. Código de moneda sin indicar.
+
+**Incluido:** Equipo didáctico durante la clase.
+
+**Suplementos:** La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**Matvey:** La edad aún es inferior al mínimo del grupo.
+
+**Oscar:** La edad aún es inferior al mínimo del grupo.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+
+### Youth AI Hackathon · Kallang Wave Mall · 09:30–12:00
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**lugar:** Kallang Wave Mall · 1 Stadium Place #01-72, Singapore 397628
+
+**Precio:** $550 por 4 clases de 2,5 horas. Código de moneda sin indicar.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-21 · 09:30–12:00 · Asia/Singapore · Sprint formativo de IA sobre Zero Hunger. Búsqueda, visualización, prototipo y presentación ante sus pares.
+
+- 2026-12-22 · 09:30–12:00 · Asia/Singapore · Sprint formativo de IA sobre Zero Hunger. Búsqueda, visualización, prototipo y presentación ante sus pares.
+
+- 2026-12-23 · 09:30–12:00 · Asia/Singapore · Sprint formativo de IA sobre Zero Hunger. Búsqueda, visualización, prototipo y presentación ante sus pares.
+
+- 2026-12-24 · 09:30–12:00 · Asia/Singapore · Sprint formativo de IA sobre Zero Hunger. Búsqueda, visualización, prototipo y presentación ante sus pares.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Youth AI Hackathon · Rochester Mall · 09:30–12:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Rochester Mall · 35 Rochester Drive #03-07, Singapore 138639
+
+**Precio:** $550 por 4 clases de 2,5 horas. Código de moneda sin indicar.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-28 · 09:30–12:00 · Asia/Singapore · Sprint formativo de IA sobre Zero Hunger. Búsqueda, visualización, prototipo y presentación ante sus pares.
+
+- 2026-12-29 · 09:30–12:00 · Asia/Singapore · Sprint formativo de IA sobre Zero Hunger. Búsqueda, visualización, prototipo y presentación ante sus pares.
+
+- 2026-12-30 · 09:30–12:00 · Asia/Singapore · Sprint formativo de IA sobre Zero Hunger. Búsqueda, visualización, prototipo y presentación ante sus pares.
+
+- 2026-12-31 · 09:30–12:00 · Asia/Singapore · Sprint formativo de IA sobre Zero Hunger. Búsqueda, visualización, prototipo y presentación ante sus pares.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/)
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/youth-ai-hackathon-series/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-11-07
+
+## CP1895 · Nullspace · STEM Little Explorer
+
+Singapur · Singapore · Rochester Mall / Kallang Wave Mall / SAFRA Tampines
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Edades de 5 a 6 años.
+
+**Idioma:** Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+
+**Programa:** LEGO Technic y Bee-Bot para 5–6 años. Se publican clases regulares de fin de semana en tres centros.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Clase de prueba o regular. Elegir fecha y hora concretas en el portal.
+
+**Precio / año:** 2026 · $55 por la clase de prueba y $520 por 10 clases semanales. Código de moneda sin indicar.
+
+**Incluido:** Equipo didáctico durante la clase.
+
+**Suplementos:** La página usa el signo $. Confirmar código de moneda, impuestos y posibles recargos en el portal.
+
+**Pago:** Las reglas de créditos, cambio y cancelación se publican aparte. Comprobar en el portal las condiciones de la reserva elegida.
+
+**Matvey:** La edad supera el límite máximo del grupo.
+
+**Oscar:** Sí por edad. Se requieren plaza e inscripción.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/stem-little-explorer-class-5-6/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/school-holiday-robotics-classes/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-11-07
+
+## CP1896 · The Discovery · LEGO Robot Rumble · Junior
+
+Estados Unidos · The Discovery · 490 S Center St · Reno, NV
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Edades de 5 a 8 años. Se exige la presencia de un adulto acompañante para el grupo de 5–8 años.
+
+**Idioma:** Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+
+**Programa:** Montaje de LEGO Mindstorms y sumo robótico formativo en el ring.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 30 de enero, 13 y 27 de febrero de 2027. Grupo menor por la mañana y mayor por la tarde.
+
+**Precio / año:** 2027 · USD 30 con membresía o USD 35 sin membresía.
+
+**Incluido:** Equipo didáctico durante la clase.
+
+**Suplementos:** Confirmar por separado el precio para el adulto y el acceso al museo fuera del taller.
+
+**Pago:** Precio base de dos talleres el mismo día USD 75 sin membresía o USD 65 con tarifa de socio. Confirmar recargos del adulto.
+
+**Matvey:** La edad supera el límite máximo del grupo.
+
+**Oscar:** Sí por edad. Se requieren plaza e inscripción.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- En febrero ambos menores pueden asistir el mismo día. Oscar en el grupo de mañana, Matvey en el de tarde. Sin plazas la mañana del 30 de enero.
+
+- Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+
+### Junior · 10:00–11:30
+
+**Fechas / estado:** 2027-01-30 — 2027-01-30
+
+**lugar:** The Discovery · 490 S Center St · Reno, NV
+
+**Precio:** USD 30 con membresía o USD 35 sin membresía.
+
+**condiciones de participación:** Se exige la presencia de un adulto acompañante para el grupo de 5–8 años.
+
+- 2027-01-30 · 10:00–11:30 · America/Los_Angeles · Montaje de LEGO Mindstorms y sumo robótico formativo en el ring.
+
+**Disponibilidad de plazas:** Grupo completo según la página del museo.
+
+[fuente](https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-01-30/)
+
+### Junior · 10:00–11:30
+
+**Fechas / estado:** 2027-02-13 — 2027-02-13
+
+**lugar:** The Discovery · 490 S Center St · Reno, NV
+
+**Precio:** USD 30 con membresía o USD 35 sin membresía.
+
+**condiciones de participación:** Se exige la presencia de un adulto acompañante para el grupo de 5–8 años.
+
+- 2027-02-13 · 10:00–11:30 · America/Los_Angeles · Montaje de LEGO Mindstorms y sumo robótico formativo en el ring.
+
+**Disponibilidad de plazas:** Plazas indicadas al consultar: 17.
+
+[fuente](https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-02-13/)
+
+### Junior · 10:00–11:30
+
+**Fechas / estado:** 2027-02-27 — 2027-02-27
+
+**lugar:** The Discovery · 490 S Center St · Reno, NV
+
+**Precio:** USD 30 con membresía o USD 35 sin membresía.
+
+**condiciones de participación:** Se exige la presencia de un adulto acompañante para el grupo de 5–8 años.
+
+- 2027-02-27 · 10:00–11:30 · America/Los_Angeles · Montaje de LEGO Mindstorms y sumo robótico formativo en el ring.
+
+**Disponibilidad de plazas:** Plazas indicadas al consultar: 19.
+
+[fuente](https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-02-27/)
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://nvdm.org/learn/lego-robot-rumble/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-01-30/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-02-13/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-02-27/) · 2026-11-07
+
+## CP1897 · The Discovery · LEGO Robot Rumble · Senior
+
+Estados Unidos · The Discovery · 490 S Center St · Reno, NV
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Edades de 9 a 12 años.
+
+**Idioma:** Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+
+**Programa:** Montaje de LEGO Mindstorms y sumo robótico formativo en el ring.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 30 de enero, 13 y 27 de febrero de 2027. Grupo menor por la mañana y mayor por la tarde.
+
+**Precio / año:** 2027 · USD 35 con membresía o USD 40 sin membresía.
+
+**Incluido:** Equipo didáctico durante la clase.
+
+**Suplementos:** Confirmar por separado el precio para el adulto y el acceso al museo fuera del taller.
+
+**Pago:** Precio base de dos talleres el mismo día USD 75 sin membresía o USD 65 con tarifa de socio. Confirmar recargos del adulto.
+
+**Matvey:** Sí por edad. Se requieren plaza e inscripción.
+
+**Oscar:** La edad aún es inferior al mínimo del grupo.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- En febrero ambos menores pueden asistir el mismo día. Oscar en el grupo de mañana, Matvey en el de tarde. Sin plazas la mañana del 30 de enero.
+
+- Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+
+### Senior · 13:00–16:00
+
+**Fechas / estado:** 2027-01-30 — 2027-01-30
+
+**lugar:** The Discovery · 490 S Center St · Reno, NV
+
+**Precio:** USD 35 con membresía o USD 40 sin membresía.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2027-01-30 · 13:00–16:00 · America/Los_Angeles · Montaje de LEGO Mindstorms y sumo robótico formativo en el ring.
+
+**Disponibilidad de plazas:** Plazas indicadas al consultar: 13.
+
+[fuente](https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-01-30/)
+
+### Senior · 13:00–16:00
+
+**Fechas / estado:** 2027-02-13 — 2027-02-13
+
+**lugar:** The Discovery · 490 S Center St · Reno, NV
+
+**Precio:** USD 35 con membresía o USD 40 sin membresía.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2027-02-13 · 13:00–16:00 · America/Los_Angeles · Montaje de LEGO Mindstorms y sumo robótico formativo en el ring.
+
+**Disponibilidad de plazas:** Plazas indicadas al consultar: 19.
+
+[fuente](https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-02-13/)
+
+### Senior · 13:00–16:00
+
+**Fechas / estado:** 2027-02-27 — 2027-02-27
+
+**lugar:** The Discovery · 490 S Center St · Reno, NV
+
+**Precio:** USD 35 con membresía o USD 40 sin membresía.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2027-02-27 · 13:00–16:00 · America/Los_Angeles · Montaje de LEGO Mindstorms y sumo robótico formativo en el ring.
+
+**Disponibilidad de plazas:** Plazas indicadas al consultar: 18.
+
+[fuente](https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-02-27/)
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://nvdm.org/learn/lego-robot-rumble/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-01-30/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-02-13/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://nvdm.org/event/lego-robot-rumble-2027-01-30/2027-02-27/) · 2026-11-07
+
+## CP1898 · Putnam Museum · Tech Toys
+
+Estados Unidos · Putnam Museum and Science Center · 1717 W. 12th St. · Davenport, IA
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Alumnado de 1.º a 3.er curso inclusive.
+
+**Idioma:** Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+
+**Programa:** Robots Dot & Dash, lápices 3D y circuitos eléctricos sencillos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 29 de diciembre de 2026 de 09:00 a 15:00 hora local.
+
+**Precio / año:** 2026 · USD 60 con membresía o USD 70 sin membresía por menor.
+
+**Incluido:** Equipo didáctico durante la clase.
+
+**Suplementos:** Confirmar comidas y cargos de tramitación en el formulario.
+
+**Pago:** Consultar las condiciones de cancelación en el formulario de inscripción.
+
+**Matvey:** Condicional si el curso escolar actual coincide con los requisitos.
+
+**Oscar:** Condicional si el curso escolar actual coincide con los requisitos.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+
+### Tech Toys · 09:00–15:00
+
+**Fechas / estado:** 2026-12-29 — 2026-12-29
+
+**lugar:** Putnam Museum and Science Center · 1717 W. 12th St. · Davenport, IA
+
+**Precio:** USD 60 con membresía o USD 70 sin membresía por menor.
+
+**condiciones de participación:** Inscripción y plazas actuales en el portal oficial del operador.
+
+- 2026-12-29 · 09:00–15:00 · America/Chicago · Robots Dot & Dash, lápices 3D y circuitos eléctricos sencillos.
+
+**Disponibilidad de plazas:** Horario publicado. Confirmar por separado las plazas y la admisión.
+
+[fuente](https://27223.blackbaudhosting.com/27223/Tech-Toys-29Dec2026)
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://www.putnam.org/events/tech-toys-2/) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://27223.blackbaudhosting.com/27223/Tech-Toys-29Dec2026) · 2026-11-07
+
+## CP1899 · HMGICS · SPOT Robot Coding Workshop
+
+Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim Avenue
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Edades de 6 a 12 años.
+
+**Idioma:** Las condiciones del grupo no indican el idioma de clase. Confirmarlo antes de pagar.
+
+**Programa:** Montar un modelo SPOT con LEGO, programar misiones y conocer el robot. Se proporciona el equipo.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Sábado y domingo, 10:00 o 16:00, 90 minutos. Elegir fecha y plaza en el formulario.
+
+**Precio / año:** 2026 · $25 por menor, $50 por dos. La página del taller no indica el código de moneda.
+
+**Incluido:** Equipo didáctico durante la clase.
+
+**Suplementos:** Se inscribe a cada menor por separado. Su progenitor o tutor acude a la acreditación y firma el consentimiento. El operador recomienda supervisión mínima.
+
+**Pago:** El operador indica que la tarifa no es reembolsable ni transferible.
+
+**Matvey:** Sí por edad. Se requieren plaza e inscripción.
+
+**Oscar:** Sí por edad. Se requieren plaza e inscripción.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://www.hyundai.com/sg/experience/reservations/kidsworkshop) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://www.hyundai.com/sg/experience/tour/discovery/terms-and-conditions) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 
