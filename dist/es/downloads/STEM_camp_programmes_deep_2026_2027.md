@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Base actualizada al 2026-11-08. 2061 fichas en 132 países. Cada ficha indica las fechas de revisión de sus fuentes.
+Base actualizada al 2026-11-08. 2069 fichas en 132 países. Cada ficha indica las fechas de revisión de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -163261,6 +163261,326 @@ Guayana Francesa · Guyaspace Expérience · Kourou
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://visite.centrespatialguyanais.cnes.fr/fr/enseignant) · 2026-11-08
+
+## CP2062 · Technology Bit · Robótica Kids online
+
+Perú · Online · Peru
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–6 años.
+
+**Idioma:** Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+
+**Programa:** Máquinas simples LEGO. Palancas, engranajes y estructuras, 8 clases en línea de 90 minutos por nivel.
+
+**Alojamiento:** Clases en directo desde casa, también disponibles desde otros países.
+
+**Fechas / estado:** Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** LEGO Education Early Simple Machines. Para domicilios extranjeros ofrecen el paquete de clases sin envío del kit. Hace falta tener el kit necesario en casa.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No cumple. El máximo es 6 años.
+
+**Oscar:** Condicional. En enero de 2027 comprobar si ya cumplió 7 años. Al inicio, Kids es para menores de hasta 6 años inclusive.
+
+**Motivo de selección:** Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+
+### Antes de solicitar plaza
+
+- Solicitar horario, idioma de instrucción y coste completo. Para participar desde el extranjero, confirmar la disponibilidad del kit necesario.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboticaeducativa.pe/landing-robotica?utm_campaign=robotica_online&utm_content=home_enlace_kids&utm_medium=owned_web&utm_source=roboticaeducativa_pe) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/) · 2026-11-08
+
+## CP2063 · Technology Bit · Robótica Junior online
+
+Perú · Online · Peru
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–12 años.
+
+**Idioma:** Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+
+**Programa:** LEGO WeDo 2.0, sensores y código visual. 8 clases en directo de 90 minutos por nivel.
+
+**Alojamiento:** Clases en directo desde casa, también disponibles desde otros países.
+
+**Fechas / estado:** Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** LEGO WeDo 2.0. Para domicilios extranjeros ofrecen el paquete de clases sin envío del kit. Hace falta tener el kit necesario en casa.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Actualmente no cumple. En enero de 2027 comprobar si ya cumplió 7 años al inicio.
+
+**Motivo de selección:** Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+
+### Antes de solicitar plaza
+
+- Solicitar horario, idioma de instrucción y coste completo. Para participar desde el extranjero, confirmar la disponibilidad del kit necesario.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboticaeducativa.pe/landing-robotica?utm_campaign=robotica_online&utm_content=home_enlace_kids&utm_medium=owned_web&utm_source=roboticaeducativa_pe) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/) · 2026-11-08
+
+## CP2064 · Technology Bit · Creación de Mini-Videojuegos
+
+Perú · Online · Peru
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–9 años.
+
+**Idioma:** Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+
+**Programa:** 10 clases de 90 minutos en directo. Se crean personajes, escenas, sonidos y minijuegos en Scratch.
+
+**Alojamiento:** Clases en directo desde casa, también disponibles desde otros países.
+
+**Fechas / estado:** Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Se requiere un ordenador Core i3 o superior y al menos 4 GB de RAM. La tableta no es adecuada.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cotejar la edad efectiva, el curso y las reglas de acceso.
+
+**Oscar:** Actualmente no cumple. En enero de 2027 comprobar si ya cumplió 7 años al inicio.
+
+**Motivo de selección:** Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+
+### Antes de solicitar plaza
+
+- Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboticaeducativa.pe/programacion-de-videojuegos-para-ninos) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/) · 2026-11-08
+
+## CP2065 · Technology Bit · Programación de Videojuegos Retro
+
+Perú · Online · Peru
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 10–13 años.
+
+**Idioma:** Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+
+**Programa:** 3 niveles de 10 clases. Variables, condicionales, bucles, clones, física de plataformas y niveles de juego.
+
+**Alojamiento:** Clases en directo desde casa, también disponibles desde otros países.
+
+**Fechas / estado:** Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Se requiere un ordenador Core i3 o superior y al menos 4 GB de RAM. La tableta no es adecuada.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Mínimo de 10 años al inicio del curso.
+
+**Oscar:** Actualmente no cumple. Mínimo de 10 años.
+
+**Motivo de selección:** Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+
+### Antes de solicitar plaza
+
+- Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboticaeducativa.pe/programacion-de-videojuegos-para-ninos) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/) · 2026-11-08
+
+## CP2066 · Technology Bit · Diseño Gráfico con IA
+
+Perú · Online · Peru
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–16 años.
+
+**Idioma:** Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+
+**Programa:** Gráficos y personajes con IA, Photopea y edición de vídeo. 3 niveles de 8 clases en directo de 90 minutos.
+
+**Alojamiento:** Clases en directo desde casa, también disponibles desde otros países.
+
+**Fechas / estado:** Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Navegador Google Chrome. El operador indica hasta 10 estudiantes por grupo.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Actualmente no cumple. Mínimo de 9 años en la fecha elegida.
+
+**Motivo de selección:** Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+
+### Antes de solicitar plaza
+
+- Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://disenograficokids.technologybit.pe/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/) · 2026-11-08
+
+## CP2067 · Technology Bit · Chosica Robótica Kids
+
+Perú · Chosica · Lima
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–6 años.
+
+**Idioma:** Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+
+**Programa:** Mecánica LEGO sin pantalla. Palancas, poleas y engranajes.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+
+**Precio y año:** 2026 · La clase de prueba en Chosica cuesta PEN 20. Consultar el coste total del curso.
+
+**Suplementos:** La clase de prueba en Chosica cuesta PEN 20. Consultar el coste total del curso.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No cumple. El máximo es 6 años.
+
+**Oscar:** Condicional. En enero de 2027 comprobar si ya cumplió 7 años. Al inicio, Kids es para menores de hasta 6 años inclusive.
+
+**Motivo de selección:** Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+
+### Antes de solicitar plaza
+
+- Solicitar fecha de inicio, idioma del grupo y coste total del curso presencial en Chosica.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://roboticachosica.technologybit.pe/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/) · 2026-11-08
+
+## CP2068 · Technology Bit · Chosica Robótica Junior
+
+Perú · Chosica · Lima
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–11 años.
+
+**Idioma:** Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+
+**Programa:** Proyectos con motor y sensores, programación visual con LEGO WeDo 2.0.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+
+**Precio y año:** 2026 · La clase de prueba en Chosica cuesta PEN 20. Consultar el coste total del curso.
+
+**Suplementos:** La clase de prueba en Chosica cuesta PEN 20. Consultar el coste total del curso.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Actualmente no cumple. En enero de 2027 comprobar si ya cumplió 7 años al inicio.
+
+**Motivo de selección:** Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+
+### Antes de solicitar plaza
+
+- Solicitar fecha de inicio, idioma del grupo y coste total del curso presencial en Chosica.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://roboticachosica.technologybit.pe/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/) · 2026-11-08
+
+## CP2069 · Curio Kids · Future Engineers Winter Tech Camp
+
+Taiwán · Curio Salon · Songshan · Taipei
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–12 años, principalmente grados 2–6.
+
+**Idioma:** Enseñanza en chino. No se anuncia un grupo en inglés.
+
+**Programa:** Montaje de coche WiFi con ESP32 y C/C++, iniciación a soldadura, visita a fábrica de robots y carrera de coches construidos por el alumnado.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 09:30–16:30. Grupo de 6–10 personas. Incluye almuerzo, merienda, visitas y coche con mando para llevar a casa.
+
+**Precio / año:** 2026 · TWD 12000 por 3 días. Confirmar la plaza y las condiciones de devolución.
+
+**Incluido:** 09:30–16:30. Grupo de 6–10 personas. Incluye almuerzo, merienda, visitas y coche con mando para llevar a casa.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cumple por edad y la enseñanza es en chino.
+
+**Oscar:** Actualmente no cumple. Mínimo de 7 años en la fecha elegida.
+
+**Motivo de selección:** 09:30–16:30. Grupo de 6–10 personas. Incluye almuerzo, merienda, visitas y coche con mando para llevar a casa.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Curio Kids · Future Engineers Winter Tech Camp
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**Precio:** TWD 12000 por 3 días. Confirmar la plaza y las condiciones de devolución.
+
+- 2026-12-28 · 09:30–16:30 · Asia/Taipei · Curio Kids · Future Engineers Winter Tech Camp
+
+- 2026-12-29 · 09:30–16:30 · Asia/Taipei · Curio Kids · Future Engineers Winter Tech Camp
+
+- 2026-12-30 · 09:30–16:30 · Asia/Taipei · Curio Kids · Future Engineers Winter Tech Camp
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.curio.kids/products/future-engineers-winter-2026)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.curio.kids/products/future-engineers-winter-2026) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

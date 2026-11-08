@@ -580,14 +580,14 @@
       }
     ],
     "counts": {
-      "records": 5174,
-      "holiday": 4758,
-      "regular": 183,
+      "records": 5184,
+      "holiday": 4759,
+      "regular": 187,
       "self_paced_materials": 4,
       "boarding": 1038,
-      "en_es_instruction": 1595,
+      "en_es_instruction": 1596,
       "en_es_support": 28,
-      "family_instruction": 1595,
+      "family_instruction": 1596,
       "family_support": 28,
       "ru_instruction": 4,
       "language_lessons": 414,
@@ -44149,6 +44149,907 @@
       "related_ids": [
         "E451",
         "C3457"
+      ]
+    },
+    {
+      "id": "L839",
+      "title": "Mirai Minds · SIS Cambridge Minecraft",
+      "block": "Campamentos",
+      "country": "Japón",
+      "region": "Asia",
+      "iso": [
+        "JPN"
+      ],
+      "city": "Shinagawa International School Samezu · Tokyo",
+      "start": "2026-11-07",
+      "end": "2027-05-15",
+      "period": "18 sábados, de 09:30 a 12:30. Los dos clubes son simultáneos en el campus Samezu. Confirmar admisión externa, grupo y plaza.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://miraiminds.jp/classes/sis-saturday-clubs/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "6–10 años, Grade 1–4. Explorers 6–7, Engineers 8–10.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Condicional. Cotejar la edad efectiva, el curso y las reglas de acceso.",
+      "format": "Minecraft Education. Construcción en equipo, pruebas y presentación del proyecto en inglés.",
+      "entry": "Solicitud en el sitio web. El operador confirma la plaza y la fecha de inicio antes del pago.",
+      "gear": "",
+      "language": "Programa en inglés.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Programa en inglés.",
+      "cost": "JPY 6600 por sesión. El operador confirma la plaza, el número de asistencias y el pago.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Solicitud en el sitio web. El operador confirma la plaza y la fecha de inicio antes del pago.",
+      "note": "18 sábados, de 09:30 a 12:30. Los dos clubes son simultáneos en el campus Samezu. Confirmar admisión externa, grupo y plaza.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Minecraft Education. Construcción en equipo, pruebas y presentación del proyecto en inglés.",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "sessions": [
+        {
+          "date": "2026-11-07",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-11-07T00:30:00Z",
+          "end_utc": "2026-11-07T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-14",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-11-14T00:30:00Z",
+          "end_utc": "2026-11-14T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-28",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-11-28T00:30:00Z",
+          "end_utc": "2026-11-28T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-05",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-12-05T00:30:00Z",
+          "end_utc": "2026-12-05T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-12",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-12-12T00:30:00Z",
+          "end_utc": "2026-12-12T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-16",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-01-16T00:30:00Z",
+          "end_utc": "2027-01-16T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-23",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-01-23T00:30:00Z",
+          "end_utc": "2027-01-23T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-30",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-01-30T00:30:00Z",
+          "end_utc": "2027-01-30T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-06",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-02-06T00:30:00Z",
+          "end_utc": "2027-02-06T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-13",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-02-13T00:30:00Z",
+          "end_utc": "2027-02-13T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-20",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-02-20T00:30:00Z",
+          "end_utc": "2027-02-20T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-27",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-02-27T00:30:00Z",
+          "end_utc": "2027-02-27T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-06",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-03-06T00:30:00Z",
+          "end_utc": "2027-03-06T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-03",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-04-03T00:30:00Z",
+          "end_utc": "2027-04-03T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-10",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-04-10T00:30:00Z",
+          "end_utc": "2027-04-10T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-24",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-04-24T00:30:00Z",
+          "end_utc": "2027-04-24T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-08",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-05-08T00:30:00Z",
+          "end_utc": "2027-05-08T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-15",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-05-15T00:30:00Z",
+          "end_utc": "2027-05-15T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        }
+      ],
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "L840"
+      ]
+    },
+    {
+      "id": "L840",
+      "title": "Mirai Minds · SIS Robotics & Coding",
+      "block": "Campamentos",
+      "country": "Japón",
+      "region": "Asia",
+      "iso": [
+        "JPN"
+      ],
+      "city": "Shinagawa International School Samezu · Tokyo",
+      "start": "2026-11-07",
+      "end": "2027-05-15",
+      "period": "18 sábados, de 09:30 a 12:30. Los dos clubes son simultáneos en el campus Samezu. Confirmar admisión externa, grupo y plaza.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://miraiminds.jp/classes/sis-saturday-clubs/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "7–12 años, Grade 2–6. Block Coders 7–9, Text Coders 10–12.",
+      "mat": "Condicional. Cotejar la edad efectiva, el curso y las reglas de acceso.",
+      "osc": "Actualmente no cumple. Mínimo de 7 años en la fecha elegida.",
+      "format": "Montaje de robots, sensores, programación, pruebas en laberinto y misión final.",
+      "entry": "Solicitud en el sitio web. El operador confirma la plaza y la fecha de inicio antes del pago.",
+      "gear": "",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "JPY 6600 por sesión. El operador confirma la plaza, el número de asistencias y el pago.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Solicitud en el sitio web. El operador confirma la plaza y la fecha de inicio antes del pago.",
+      "note": "18 sábados, de 09:30 a 12:30. Los dos clubes son simultáneos en el campus Samezu. Confirmar admisión externa, grupo y plaza.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Montaje de robots, sensores, programación, pruebas en laberinto y misión final.",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "sessions": [
+        {
+          "date": "2026-11-07",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-11-07T00:30:00Z",
+          "end_utc": "2026-11-07T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-14",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-11-14T00:30:00Z",
+          "end_utc": "2026-11-14T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-28",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-11-28T00:30:00Z",
+          "end_utc": "2026-11-28T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-05",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-12-05T00:30:00Z",
+          "end_utc": "2026-12-05T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-12",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-12-12T00:30:00Z",
+          "end_utc": "2026-12-12T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-16",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-01-16T00:30:00Z",
+          "end_utc": "2027-01-16T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-23",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-01-23T00:30:00Z",
+          "end_utc": "2027-01-23T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-30",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-01-30T00:30:00Z",
+          "end_utc": "2027-01-30T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-06",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-02-06T00:30:00Z",
+          "end_utc": "2027-02-06T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-13",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-02-13T00:30:00Z",
+          "end_utc": "2027-02-13T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-20",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-02-20T00:30:00Z",
+          "end_utc": "2027-02-20T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-27",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-02-27T00:30:00Z",
+          "end_utc": "2027-02-27T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-06",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-03-06T00:30:00Z",
+          "end_utc": "2027-03-06T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-03",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-04-03T00:30:00Z",
+          "end_utc": "2027-04-03T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-10",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-04-10T00:30:00Z",
+          "end_utc": "2027-04-10T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-24",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-04-24T00:30:00Z",
+          "end_utc": "2027-04-24T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-08",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-05-08T00:30:00Z",
+          "end_utc": "2027-05-08T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-15",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-05-15T00:30:00Z",
+          "end_utc": "2027-05-15T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        }
+      ],
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "L839"
+      ]
+    },
+    {
+      "id": "L841",
+      "title": "Technology Bit · Robótica Kids online",
+      "block": "Campamentos",
+      "country": "Perú",
+      "region": "América del Sur",
+      "iso": [
+        "PER"
+      ],
+      "city": "Online · Peru",
+      "start": "",
+      "end": "",
+      "period": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://www.roboticaeducativa.pe/landing-robotica?utm_campaign=robotica_online&utm_content=home_enlace_kids&utm_medium=owned_web&utm_source=roboticaeducativa_pe",
+      "references": [
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "4–6 años.",
+      "mat": "No cumple. El máximo es 6 años.",
+      "osc": "Condicional. En enero de 2027 comprobar si ya cumplió 7 años. Al inicio, Kids es para menores de hasta 6 años inclusive.",
+      "format": "Máquinas simples LEGO. Palancas, engranajes y estructuras, 8 clases en línea de 90 minutos por nivel.",
+      "entry": "Solicitar horario, idioma de instrucción y coste completo. Para participar desde el extranjero, confirmar la disponibilidad del kit necesario.",
+      "gear": "LEGO Education Early Simple Machines. Para domicilios extranjeros ofrecen el paquete de clases sin envío del kit. Hace falta tener el kit necesario en casa.",
+      "language": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Solicitar horario, idioma de instrucción y coste completo. Para participar desde el extranjero, confirmar la disponibilidad del kit necesario.",
+      "note": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "international",
+      "importance_reason": "Máquinas simples LEGO. Palancas, engranajes y estructuras, 8 clases en línea de 90 minutos por nivel.",
+      "participation": "online",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "virtual",
+      "camp_dossier_slug": "technology-bit-peru-online-kids-2027",
+      "related_ids": [
+        "L842",
+        "L843",
+        "L844",
+        "L845"
+      ]
+    },
+    {
+      "id": "L842",
+      "title": "Technology Bit · Robótica Junior online",
+      "block": "Campamentos",
+      "country": "Perú",
+      "region": "América del Sur",
+      "iso": [
+        "PER"
+      ],
+      "city": "Online · Peru",
+      "start": "",
+      "end": "",
+      "period": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://www.roboticaeducativa.pe/landing-robotica?utm_campaign=robotica_online&utm_content=home_enlace_kids&utm_medium=owned_web&utm_source=roboticaeducativa_pe",
+      "references": [
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "7–12 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Actualmente no cumple. En enero de 2027 comprobar si ya cumplió 7 años al inicio.",
+      "format": "LEGO WeDo 2.0, sensores y código visual. 8 clases en directo de 90 minutos por nivel.",
+      "entry": "Solicitar horario, idioma de instrucción y coste completo. Para participar desde el extranjero, confirmar la disponibilidad del kit necesario.",
+      "gear": "LEGO WeDo 2.0. Para domicilios extranjeros ofrecen el paquete de clases sin envío del kit. Hace falta tener el kit necesario en casa.",
+      "language": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Solicitar horario, idioma de instrucción y coste completo. Para participar desde el extranjero, confirmar la disponibilidad del kit necesario.",
+      "note": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "international",
+      "importance_reason": "LEGO WeDo 2.0, sensores y código visual. 8 clases en directo de 90 minutos por nivel.",
+      "participation": "online",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "virtual",
+      "camp_dossier_slug": "technology-bit-peru-online-junior-2027",
+      "related_ids": [
+        "L841",
+        "L843",
+        "L844",
+        "L845"
+      ]
+    },
+    {
+      "id": "L843",
+      "title": "Technology Bit · Creación de Mini-Videojuegos",
+      "block": "Campamentos",
+      "country": "Perú",
+      "region": "América del Sur",
+      "iso": [
+        "PER"
+      ],
+      "city": "Online · Peru",
+      "start": "",
+      "end": "",
+      "period": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://www.roboticaeducativa.pe/programacion-de-videojuegos-para-ninos",
+      "references": [
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "De 7 a 9 años.",
+      "mat": "Condicional. Cotejar la edad efectiva, el curso y las reglas de acceso.",
+      "osc": "Actualmente no cumple. En enero de 2027 comprobar si ya cumplió 7 años al inicio.",
+      "format": "10 clases de 90 minutos en directo. Se crean personajes, escenas, sonidos y minijuegos en Scratch.",
+      "entry": "Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse.",
+      "gear": "Se requiere un ordenador Core i3 o superior y al menos 4 GB de RAM. La tableta no es adecuada.",
+      "language": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse.",
+      "note": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "scope": "international",
+      "importance_reason": "10 clases de 90 minutos en directo. Se crean personajes, escenas, sonidos y minijuegos en Scratch.",
+      "participation": "online",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "virtual",
+      "camp_dossier_slug": "technology-bit-peru-mini-games-2027",
+      "related_ids": [
+        "L841",
+        "L842",
+        "L844",
+        "L845"
+      ]
+    },
+    {
+      "id": "L844",
+      "title": "Technology Bit · Programación de Videojuegos Retro",
+      "block": "Campamentos",
+      "country": "Perú",
+      "region": "América del Sur",
+      "iso": [
+        "PER"
+      ],
+      "city": "Online · Peru",
+      "start": "",
+      "end": "",
+      "period": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://www.roboticaeducativa.pe/programacion-de-videojuegos-para-ninos",
+      "references": [
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "10–13 años.",
+      "mat": "Condicional. Mínimo de 10 años al inicio del curso.",
+      "osc": "Actualmente no cumple. Mínimo de 10 años.",
+      "format": "3 niveles de 10 clases. Variables, condicionales, bucles, clones, física de plataformas y niveles de juego.",
+      "entry": "Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse.",
+      "gear": "Se requiere un ordenador Core i3 o superior y al menos 4 GB de RAM. La tableta no es adecuada.",
+      "language": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse.",
+      "note": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "scope": "international",
+      "importance_reason": "3 niveles de 10 clases. Variables, condicionales, bucles, clones, física de plataformas y niveles de juego.",
+      "participation": "online",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "virtual",
+      "camp_dossier_slug": "technology-bit-peru-retro-games-2027",
+      "related_ids": [
+        "L841",
+        "L842",
+        "L843",
+        "L845"
+      ]
+    },
+    {
+      "id": "L845",
+      "title": "Technology Bit · Diseño Gráfico con IA",
+      "block": "Campamentos",
+      "country": "Perú",
+      "region": "América del Sur",
+      "iso": [
+        "PER"
+      ],
+      "city": "Online · Peru",
+      "start": "",
+      "end": "",
+      "period": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://disenograficokids.technologybit.pe/",
+      "references": [
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "9–16 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Actualmente no cumple. Mínimo de 9 años en la fecha elegida.",
+      "format": "Gráficos y personajes con IA, Photopea y edición de vídeo. 3 niveles de 8 clases en directo de 90 minutos.",
+      "entry": "Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse.",
+      "gear": "Navegador Google Chrome. El operador indica hasta 10 estudiantes por grupo.",
+      "language": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse.",
+      "note": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "themes": [
+        "ai",
+        "technology",
+        "design"
+      ],
+      "scope": "international",
+      "importance_reason": "Gráficos y personajes con IA, Photopea y edición de vídeo. 3 niveles de 8 clases en directo de 90 minutos.",
+      "participation": "online",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "virtual",
+      "camp_dossier_slug": "technology-bit-peru-ai-design-2027",
+      "related_ids": [
+        "L841",
+        "L842",
+        "L843",
+        "L844"
+      ]
+    },
+    {
+      "id": "L846",
+      "title": "Technology Bit · Chosica Robótica Kids",
+      "block": "Campamentos",
+      "country": "Perú",
+      "region": "América del Sur",
+      "iso": [
+        "PER"
+      ],
+      "city": "Chosica · Lima",
+      "start": "",
+      "end": "",
+      "period": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://roboticachosica.technologybit.pe/",
+      "references": [
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "4–6 años.",
+      "mat": "No cumple. El máximo es 6 años.",
+      "osc": "Condicional. En enero de 2027 comprobar si ya cumplió 7 años. Al inicio, Kids es para menores de hasta 6 años inclusive.",
+      "format": "Mecánica LEGO sin pantalla. Palancas, poleas y engranajes.",
+      "entry": "Solicitar fecha de inicio, idioma del grupo y coste total del curso presencial en Chosica.",
+      "gear": "LEGO Education Early Simple Machines",
+      "language": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "cost": "La clase de prueba en Chosica cuesta PEN 20. Consultar el coste total del curso.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Solicitar fecha de inicio, idioma del grupo y coste total del curso presencial en Chosica.",
+      "note": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Mecánica LEGO sin pantalla. Palancas, poleas y engranajes.",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "camp_dossier_slug": "technology-bit-chosica-kids-2027",
+      "related_ids": [
+        "L847"
+      ]
+    },
+    {
+      "id": "L847",
+      "title": "Technology Bit · Chosica Robótica Junior",
+      "block": "Campamentos",
+      "country": "Perú",
+      "region": "América del Sur",
+      "iso": [
+        "PER"
+      ],
+      "city": "Chosica · Lima",
+      "start": "",
+      "end": "",
+      "period": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://roboticachosica.technologybit.pe/",
+      "references": [
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "7–11 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Actualmente no cumple. En enero de 2027 comprobar si ya cumplió 7 años al inicio.",
+      "format": "Proyectos con motor y sensores, programación visual con LEGO WeDo 2.0.",
+      "entry": "Solicitar fecha de inicio, idioma del grupo y coste total del curso presencial en Chosica.",
+      "gear": "LEGO WeDo 2.0",
+      "language": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "cost": "La clase de prueba en Chosica cuesta PEN 20. Consultar el coste total del curso.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Solicitar fecha de inicio, idioma del grupo y coste total del curso presencial en Chosica.",
+      "note": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Proyectos con motor y sensores, programación visual con LEGO WeDo 2.0.",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "camp_dossier_slug": "technology-bit-chosica-junior-2027",
+      "related_ids": [
+        "L846"
       ]
     },
     {
@@ -415423,6 +416324,101 @@
       "availability": {
         "status": "operator_listed",
         "label": "La página del organizador indicaba 14 plazas al comprobarla. La disponibilidad puede cambiar."
+      }
+    },
+    {
+      "id": "CP2069-20261228-20261230-future-engineers",
+      "block": "Campamentos",
+      "title": "Curio Kids · Future Engineers Winter Tech Camp · Curio Kids · Future Engineers Winter Tech Camp · 2026-12-28–2026-12-30",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Curio Salon · Songshan · Taipei",
+      "start": "2026-12-28",
+      "end": "2026-12-30",
+      "period": "09:30–16:30. Grupo de 6–10 personas. Incluye almuerzo, merienda, visitas y coche con mando para llevar a casa.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–12 años, principalmente grados 2–6.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Montaje de coche WiFi con ESP32 y C/C++, iniciación a soldadura, visita a fábrica de robots y carrera de coches construidos por el alumnado.",
+      "language": "Enseñanza en chino. No se anuncia un grupo en inglés.",
+      "cost": "2026/27 · TWD 12000 por 3 días. Confirmar la plaza y las condiciones de devolución. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://www.curio.kids/products/future-engineers-winter-2026",
+      "references": [
+        {
+          "url": "https://www.curio.kids/products/future-engineers-winter-2026",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Cumple por edad y la enseñanza es en chino. Oscar: Actualmente no cumple. Mínimo de 7 años en la fecha elegida. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "electronics"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "ZH"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Enseñanza en chino. No se anuncia un grupo en inglés.",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "curio-kids-taipei-future-engineers-2026",
+      "camp_programme_id": "CP2069",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "09:30",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2026-12-28T01:30:00Z",
+          "end_utc": "2026-12-28T08:30:00Z",
+          "topic": "Curio Kids · Future Engineers Winter Tech Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:30",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2026-12-29T01:30:00Z",
+          "end_utc": "2026-12-29T08:30:00Z",
+          "topic": "Curio Kids · Future Engineers Winter Tech Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "09:30",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2026-12-30T01:30:00Z",
+          "end_utc": "2026-12-30T08:30:00Z",
+          "topic": "Curio Kids · Future Engineers Winter Tech Camp",
+          "ical_timed": true
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
       }
     },
     {

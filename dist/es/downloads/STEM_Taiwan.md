@@ -48,11 +48,11 @@ Edad: VEX IQ Elementary; normas de edad de C024
 Matway: No para el equipo de la región de Costa Rica, sin excepción, organizador
 Oscar: No hay un organizador para el equipo de la región de Costa Rica sin excepción
 Idioma: Idioma nacional; EN / ES
-Entrada: 100% de la capacidad está reservada a Chinese Taipei. No se ha confirmado la entrada del equipo de Costa Rica; se necesita una respuesta directa del organizador de la exclusión.
-Costo: USD$252.57 / HK$1980.09 / Orden por el portal; costo estimado
-Limitaciones: Código RE-VIQRC-26-4609. Dirección de directorio: 中正區海濱里北寧路2號, 基隆市, 202, Taiwan. Título Open Tournament no cancela las invitaciones, y selección. La compatibilidad de edad no es igual a la solicitud aceptada. La judicatura: All In-Person Judging. 100% capacity Reservados para Chinese Taipei.
+Acceso: El 100% de plazas se reserva para equipos de Chinese Taipei. Un equipo de Costa Rica requiere una excepción expresa del organizador.
+Precio: El portal muestra USD 252.57 o HKD 1980.09. Confirmar la divisa de la factura y posibles suplementos.
+Limitaciones: Inscripción hasta el 22 de diciembre de 2026, 09:00 EST. Pago hasta el 22 de diciembre de 2026, 22:00 de Taiwán. Es el mismo instante.
 Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4609.html
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-08
 
 ### C033 · FIRST Taiwan — FLL Explore
 
@@ -278,13 +278,13 @@ Se ha comprobado: 2026-11-07
 ### E117 · Taipei Game Show 2027 · B2C public zone
 
 Fecha: 2027-01-21 国 2027-01-24
-edad: Board Game Wonderland está confirmada del 21–24 de enero de 2027. La página de entradas aún muestra las condiciones de 2026. Confirmar tarifa y acceso infantil de 2027.
+edad: Zona pública del 21 al 24 de enero de 2027, TaiNEX 1. Falta cotejar acceso para 6 y 9 años, horas y tarifas de 2027.
 Matvey: Confidente de autorización
 Oscar: Confidentemente a confirmar la admisión
 Idioma: No se ha confirmado el idioma de la actividad específica
-Acceso: Board Game Wonderland está confirmada del 21–24 de enero de 2027. La página de entradas aún muestra las condiciones de 2026. Confirmar tarifa y acceso infantil de 2027.
+Acceso: Zona pública del 21 al 24 de enero de 2027, TaiNEX 1. Falta cotejar acceso para 6 y 9 años, horas y tarifas de 2027.
 Precio: Aún no se confirman el coste total ni las plazas.
-Limitaciones: Días públicos del 21 al 24 de enero confirmados; las normas de edad de 2023 u otros programas de Taiwán no se han aplazado hasta 2027.
+Limitaciones: El anuncio vigente confirma las fechas B2C. El plano y la lista de expositores de la página describen 2026. Para 2027 se publican aparte las condiciones de stands de juegos de mesa.
 Fuente: https://tgs.tca.org.tw/?p=event_info_e
 Se ha comprobado: 2026-11-08
 
@@ -308,11 +308,11 @@ Edad: Niveles inferiores y grupos escolares; año de nacimiento exacto/clase loc
 Matwey: Condicionalmente ________________ confirmar clase y admisión extranjera; año de nacimiento 2017
 Óscar: Con condición de confirmar la clase y la admisión extranjera; año de nacimiento 2020
 Idioma: No se ha confirmado el idioma de la ocupación/juez
-Acceso: La organización indica inscripción cerrada. Las condiciones de entrada de espectadores no están publicadas en la página.
+Acceso: Inscripción cerrada. Los progenitores de participantes pueden entrar a la apertura y premiación y salen del recinto durante las pruebas.
 Costo: Aclarar el costo actual
-Limitaciones: Acceso a los extranjeros, número de jugadores, costo, deadline y en el sistema judicial no se confirma. El nombre del certificado de futuro internacional no lo convierte en una victoria internacional. La promesa local de la GCER USA July 2027 no se ha conciliado con el KIPR; no se ha prometido un cupo automático/viaje pagado.
+Limitaciones: Horario para progenitores de participantes: entrada matinal 09:00 y reingreso 11:25. Entrada de tarde 13:30 y reingreso 16:20. No se anuncia acceso libre para otros espectadores.
 Fuente: https://junior-botball-challenge-taiwan.github.io/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### C780 · TIRT 2026 · Autonomous Vehicle Maker · Open Elementary
 
@@ -3705,6 +3705,19 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · Precio vigente indicado TWD 9800. Almuerzo opcional por TWD 150 al día o TWD 750 por turno. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Confirmar grado 3 o superior, idioma docente y admisión extranjera. Oscar: Para la trayectoria escolar habitual de Oscar hay que esperar a grado 3. Suplementos: El almuerzo se cobra aparte. El kit de regalo para los primeros 30 pagos depende de disponibilidad. Pago: Con 10 días o más, devolución íntegra; con 7–9 días, 80%; con 4–6 días, 50%; con 1–3 días, sin devolución.
 Fuente: https://greenmail1011.github.io/camp2027/
+Se ha comprobado: 2026-11-08
+
+### CP2069-20261228-20261230-future-engineers · Curio Kids · Future Engineers Winter Tech Camp · Curio Kids · Future Engineers Winter Tech Camp · 2026-12-28–2026-12-30
+
+Fecha: 2026-12-28 — 2026-12-30
+edad: 7–12 años, principalmente grados 2–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Enseñanza en chino. No se anuncia un grupo en inglés.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · TWD 12000 por 3 días. Confirmar la plaza y las condiciones de devolución. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. Cumple por edad y la enseñanza es en chino. Oscar: Actualmente no cumple. Mínimo de 7 años en la fecha elegida. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.curio.kids/products/future-engineers-winter-2026
 Se ha comprobado: 2026-11-08
 
 ## ~ Comprobar de nuevo

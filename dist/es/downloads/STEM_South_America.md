@@ -6002,6 +6002,97 @@ Limitaciones:
 Fuente: https://oiec-edu.org/
 Se ha comprobado: 2026-11-08
 
+### L841 · Technology Bit · Robótica Kids online
+
+Fecha: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Edad: 4–6 años.
+Matvey: No cumple. El máximo es 6 años.
+Oscar: Condicional. En enero de 2027 comprobar si ya cumplió 7 años. Al inicio, Kids es para menores de hasta 6 años inclusive.
+Idioma: Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+Acceso: Solicitar horario, idioma de instrucción y coste completo. Para participar desde el extranjero, confirmar la disponibilidad del kit necesario.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Fuente: https://www.roboticaeducativa.pe/landing-robotica?utm_campaign=robotica_online&utm_content=home_enlace_kids&utm_medium=owned_web&utm_source=roboticaeducativa_pe
+Se ha comprobado: 2026-11-08
+
+### L842 · Technology Bit · Robótica Junior online
+
+Fecha: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Edad: 7 a 12 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Actualmente no cumple. En enero de 2027 comprobar si ya cumplió 7 años al inicio.
+Idioma: Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+Acceso: Solicitar horario, idioma de instrucción y coste completo. Para participar desde el extranjero, confirmar la disponibilidad del kit necesario.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Fuente: https://www.roboticaeducativa.pe/landing-robotica?utm_campaign=robotica_online&utm_content=home_enlace_kids&utm_medium=owned_web&utm_source=roboticaeducativa_pe
+Se ha comprobado: 2026-11-08
+
+### L843 · Technology Bit · Creación de Mini-Videojuegos
+
+Fecha: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Edad: 7–9 años.
+Matvey: Condicional. Cotejar la edad efectiva, el curso y las reglas de acceso.
+Oscar: Actualmente no cumple. En enero de 2027 comprobar si ya cumplió 7 años al inicio.
+Idioma: Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+Acceso. Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Fuente: https://www.roboticaeducativa.pe/programacion-de-videojuegos-para-ninos
+Se ha comprobado: 2026-11-08
+
+### L844 · Technology Bit · Programación de Videojuegos Retro
+
+Fecha: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Edad: 10 a 13 años.
+Matvey: Condicional. Mínimo de 10 años al inicio del curso.
+Oscar: Actualmente no cumple. Mínimo de 10 años.
+Idioma: Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+Acceso. Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Fuente: https://www.roboticaeducativa.pe/programacion-de-videojuegos-para-ninos
+Se ha comprobado: 2026-11-08
+
+### L845 · Technology Bit · Diseño Gráfico con IA
+
+Fecha: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Edad: 9*16 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Actualmente no cumple. Mínimo de 9 años en la fecha elegida.
+Idioma: Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+Acceso. Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Fuente: https://disenograficokids.technologybit.pe/
+Se ha comprobado: 2026-11-08
+
+### L846 · Technology Bit · Chosica Robótica Kids
+
+Fecha: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Edad: 4–6 años.
+Matvey: No cumple. El máximo es 6 años.
+Oscar: Condicional. En enero de 2027 comprobar si ya cumplió 7 años. Al inicio, Kids es para menores de hasta 6 años inclusive.
+Idioma: Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+Acceso. Solicitar fecha de inicio, idioma del grupo y coste total del curso presencial en Chosica.
+Coste. La clase de prueba en Chosica cuesta PEN 20. Consultar el coste total del curso.
+Limitaciones: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Fuente: https://roboticachosica.technologybit.pe/
+Se ha comprobado: 2026-11-08
+
+### L847 · Technology Bit · Chosica Robótica Junior
+
+Fecha: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Edad: 7–11 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Actualmente no cumple. En enero de 2027 comprobar si ya cumplió 7 años al inicio.
+Idioma: Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+Acceso. Solicitar fecha de inicio, idioma del grupo y coste total del curso presencial en Chosica.
+Coste. La clase de prueba en Chosica cuesta PEN 20. Consultar el coste total del curso.
+Limitaciones: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Fuente: https://roboticachosica.technologybit.pe/
+Se ha comprobado: 2026-11-08
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

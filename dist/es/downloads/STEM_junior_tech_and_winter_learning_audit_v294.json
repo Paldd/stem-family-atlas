@@ -1,0 +1,119 @@
+{
+  "version": 294,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "L839",
+    "L840",
+    "L841",
+    "L842",
+    "L843",
+    "L844",
+    "L845",
+    "L846",
+    "L847",
+    "E632",
+    "E633",
+    "C4711",
+    "C4712",
+    "C4713",
+    "C4714",
+    "E634",
+    "CP2069-20261228-20261230-future-engineers"
+  ],
+  "new_dossiers": [
+    "CP2062",
+    "CP2063",
+    "CP2064",
+    "CP2065",
+    "CP2066",
+    "CP2067",
+    "CP2068",
+    "CP2069"
+  ],
+  "new_dated_variants": 1,
+  "refreshed_event_ids": [
+    "C778",
+    "C060",
+    "C480",
+    "C027",
+    "E117"
+  ],
+  "legacy_overlay_event_ids": [
+    "C778",
+    "C060",
+    "C480",
+    "C027",
+    "E117"
+  ],
+  "legacy_overlay_league_ids": [
+    "juniorbotball"
+  ],
+  "dossier_event_links": {
+    "technology-bit-peru-online-kids-2027": [
+      "L841"
+    ],
+    "technology-bit-peru-online-junior-2027": [
+      "L842"
+    ],
+    "technology-bit-peru-mini-games-2027": [
+      "L843"
+    ],
+    "technology-bit-peru-retro-games-2027": [
+      "L844"
+    ],
+    "technology-bit-peru-ai-design-2027": [
+      "L845"
+    ],
+    "technology-bit-chosica-kids-2027": [
+      "L846"
+    ],
+    "technology-bit-chosica-junior-2027": [
+      "L847"
+    ]
+  },
+  "source_requests": 22,
+  "asia": {
+    "mirai": [
+      "L839",
+      "L840"
+    ],
+    "mirai_session_count": 18,
+    "curio": "CP2069-20261228-20261230-future-engineers",
+    "singapore_open_houses": [
+      "E632",
+      "E633"
+    ],
+    "taipei_game_show": "E117",
+    "taichung_closed": "C778",
+    "vex_local_only": [
+      "C480",
+      "C027"
+    ],
+    "smarthon_singapore": "C4711",
+    "smarthon_hong_kong": "C4712",
+    "smarthon_international": "C4713"
+  },
+  "america": {
+    "gcer_team": "C4714",
+    "gcer_visitor": "E634",
+    "techbit_online": [
+      "L841",
+      "L842",
+      "L843",
+      "L844",
+      "L845"
+    ],
+    "techbit_chosica": [
+      "L846",
+      "L847"
+    ]
+  },
+  "source_limits": {
+    "smarthon_hong_kong": "organizer pages give 2027-04-24 and May 2027",
+    "smarthon_international": "2027-07-14 confirmed across pages, online assessment and onsite final both described",
+    "gcer_registration": "2027 date and venue announced; linked ticket page still explicitly 2026",
+    "techbit": "January 2027 month-only. No start days, teaching-language promise or full fee transferred from another edition."
+  }
+}

@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10514,
-    "competition_cards": 4709,
-    "event_cards": 631,
-    "camp_cards": 5174,
+    "cards": 10531,
+    "competition_cards": 4713,
+    "event_cards": 634,
+    "camp_cards": 5184,
     "league_profiles": 303,
-    "major_exhibition_cards": 532,
+    "major_exhibition_cards": 535,
     "vex_cards": 814,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3439,
+      "total": 3441,
       "countries_with_records": 41,
-      "competitions": 1938,
-      "events": 172,
-      "major_exhibitions": 131,
+      "competitions": 1939,
+      "events": 173,
+      "major_exhibitions": 132,
       "camps": 1329,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 692,
+      "total": 699,
       "countries_with_records": 15,
       "competitions": 433,
       "events": 51,
       "major_exhibitions": 47,
-      "camps": 208,
+      "camps": 215,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 3001,
+      "total": 3009,
       "countries_with_records": 50,
-      "competitions": 1168,
-      "events": 166,
-      "major_exhibitions": 153,
-      "camps": 1667,
+      "competitions": 1171,
+      "events": 168,
+      "major_exhibitions": 155,
+      "camps": 1670,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -2534,11 +2534,12 @@
       "event_ids": [
         "C060",
         "C778",
-        "C3482"
+        "C3482",
+        "C4714"
       ],
-      "cards": 3,
-      "future_dated": 2,
-      "linked_card_count": 3,
+      "cards": 4,
+      "future_dated": 3,
+      "linked_card_count": 4,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.kipr.org/junior-botball-challenge",
       "new": false
@@ -14641,6 +14642,39 @@
       "new": false
     },
     {
+      "id": "E632",
+      "name": "Bricks 4 Kidz Singapore · LEGO STEM Open House · 2026-12-12",
+      "country": "Сингапур",
+      "region": "Азия",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "visitor_policy": "family",
+      "source": "https://bricks4kidz.sg/",
+      "new": false
+    },
+    {
+      "id": "E633",
+      "name": "Bricks 4 Kidz Singapore · LEGO STEM Open House · 2026-12-19",
+      "country": "Сингапур",
+      "region": "Азия",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "visitor_policy": "family",
+      "source": "https://bricks4kidz.sg/",
+      "new": false
+    },
+    {
+      "id": "E634",
+      "name": "GCER 2027 · Educational Robotics Conference",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-07-04",
+      "end": "2027-07-08",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.kipr.org/gcer",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -17058,14 +17092,14 @@
       }
     ],
     "counts": {
-      "records": 5174,
-      "holiday": 4758,
-      "regular": 183,
+      "records": 5184,
+      "holiday": 4759,
+      "regular": 187,
       "self_paced_materials": 4,
       "boarding": 1038,
-      "en_es_instruction": 1595,
+      "en_es_instruction": 1596,
       "en_es_support": 28,
-      "family_instruction": 1595,
+      "family_instruction": 1596,
       "family_support": 28,
       "ru_instruction": 4,
       "language_lessons": 414,

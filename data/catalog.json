@@ -1408,19 +1408,19 @@
       "mat": "Нет для команды региона Коста-Рика без исключения организатора",
       "osc": "Нет для команды региона Коста-Рика без исключения организатора",
       "format": "Зарегистрированная VEX IQ команда 2+ и сопровождающий взрослый",
-      "entry": "100% capacity зарезервировано за Chinese Taipei. Для команды Коста-Рики вход не подтверждён; нужен прямой ответ организатора об исключении.",
+      "entry": "100% мест зарезервировано за командами Chinese Taipei. Допуск команды из Коста-Рики требует отдельного исключения от организатора.",
       "gear": "VEX IQ Level Up; робот, соответствующий manual; LEGO не заменяет",
       "language": "Национальный язык; EN / ES не подтверждены",
-      "cost": "USD$252.57 / HK$1980.09 / команда по порталу; состав расходов уточнить",
+      "cost": "Портал показывает USD 252.57 или HKD 1980.09. Валюту счёта и возможные доплаты подтвердить.",
       "level": "C — национальный этап",
       "reward": "Награды и квалификацию проверить в Awards карточки; результата ещё нет",
       "priority": "P4 — региональная квота",
-      "action": "Открыть актуальную карточку; подтвердить категории, регион команды, места, взносы и notebook перед записью",
+      "action": "100% мест зарезервировано за командами Chinese Taipei. Допуск команды из Коста-Рики требует отдельного исключения от организатора.",
       "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4609.html",
       "proof": "Прочитана отдельная официальная карточка, категория, сроки и условия; подтверждения приёма семьи нет.",
-      "checked": "2026-09-30",
+      "checked": "2026-11-08",
       "status": "Идея",
-      "note": "Код RE-VIQRC-26-4609. Адрес по каталогу: 中正區海濱里北寧路2號, 基隆市, 202, Taiwan. Название Open Tournament не отменяет приглашения, квоты и отбор. Возрастная совместимость не равна принятой заявке. Судейство: All In-Person Judging. 100% capacity зарезервировано за Chinese Taipei.",
+      "note": "Регистрация до 22 декабря 2026, 09:00 EST. Оплата до 22 декабря 2026, 22:00 по Тайваню. Это один и тот же момент.",
       "iso": [
         "TWN"
       ],
@@ -1434,7 +1434,7 @@
       "language_certainty": "Язык страны/описания — только кандидат. Язык интервью и notebook для данной команды отдельно согласовать.",
       "deadline_label": "Регистрация",
       "deadline_note": "По странице: 22-Dec-2026 09:00 EST; Коста-Рика: 2026-12-22 08:00 (UTC−6)",
-      "deadline_utc": "2026-12-22T14:00:00.000Z",
+      "deadline_utc": "2026-12-22T14:00:00Z",
       "references": [
         {
           "label": "Правила возраста и команды VEX",
@@ -1465,7 +1465,7 @@
       "venue": "中正區海濱里北寧路2號, 基隆市, 202, Taiwan",
       "admission_kind": "qualifier",
       "evidence_level": "event_page",
-      "registration_status": "Портал показывает открытую запись. Допуск команды и место подтвердить отдельно.",
+      "registration_status": "100% мест зарезервировано за командами Chinese Taipei. Допуск команды из Коста-Рики требует отдельного исключения от организатора.",
       "event_type": "Open Tournament",
       "availability": {
         "status": "open",
@@ -3196,9 +3196,9 @@
       "action": "Родитель: получить актуальные правила и подтверждение допуска до бронирования",
       "source": "https://www.kipr.org/junior-botball-challenge",
       "proof": "Кандидат для проверки; актуальная страница и календарь не исследованы",
-      "checked": "2026-09-29",
+      "checked": "2026-11-08",
       "status": "Идея",
-      "note": "Возрастная совместимость не равна допуску к конкретному турниру",
+      "note": "KIPR подтвердил неделю конференции. Дни отдельных стартов, класс, комплекты, взнос и порядок допуска зарубежной команды сверить по регламенту 2027.",
       "iso": [
         "USA"
       ],
@@ -3209,7 +3209,22 @@
       "importance_reason": "Редакционная классификация по названию/формату и источнику. C — открытый или национальный турнир",
       "languages": [],
       "participation": "team",
-      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью"
+      "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью",
+      "references": [
+        {
+          "url": "https://www.kipr.org/gcer",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.kipr.org/botball-explorer/events",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "related_ids": [
+        "C778",
+        "C4714",
+        "E634"
+      ]
     },
     {
       "block": "Соревнования",
@@ -37115,22 +37130,22 @@
       "deadline_label": "Регистрация",
       "deadline_note": "",
       "deadline_utc": "",
-      "age": "VEX IQ: запись фильтра Elementary / blended; конкретную категорию проверить",
-      "mat": "Условно: возраст VEX подходит, категория и местный вход ещё не проверены",
-      "osc": "Условно: возраст VEX подходит, категория и местный вход ещё не проверены",
+      "age": "VEX IQ Elementary. Право на старт определяет местный отбор.",
+      "mat": "Условно для местной команды после отбора.",
+      "osc": "Условно. Сверить фактический возраст, класс и правила допуска.",
       "format": "Зарегистрированная VEX IQ команда 2+ и сопровождающий взрослый",
-      "entry": "Проверить национальный/региональный отбор и квоту; свободную международную запись не считать подтверждённой",
+      "entry": "Только команды Гонконга. Нужно получить место на одном из местных отборов, затем приглашение. Свободной заявки нет.",
       "gear": "VEX IQ Level Up; робот, соответствующий manual; LEGO не заменяет",
       "language": "Национальный язык; EN / ES не подтверждены",
       "languages": [],
       "language_certainty": "Язык страны/описания — только кандидат. Язык интервью и notebook для данной команды отдельно согласовать.",
-      "cost": "Цена в списке не указана; открыть карточку",
+      "cost": "Взнос на странице указан как бесплатный.",
       "scope": "national",
       "level": "C — национальный этап",
       "importance_reason": "Редакционная оценка по формату и названию. Этап международной сети VEX, но сам турнир не становится мировым.",
       "reward": "Награды и квалификацию проверить в Awards карточки; результата ещё нет",
       "priority": "P3 — местный этап при удобной поездке",
-      "action": "Открыть актуальную карточку; подтвердить категории, регион команды, места, взносы и notebook перед записью",
+      "action": "Только команды Гонконга. Нужно получить место на одном из местных отборов, затем приглашение. Свободной заявки нет.",
       "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4552.html",
       "references": [
         {
@@ -37147,9 +37162,9 @@
         }
       ],
       "proof": "Прочитан официальный каталог: дата, адрес, тип и статус. Подробный местный регламент ещё не проверен.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Идея",
-      "note": "Код RE-VIQRC-26-4552. Адрес по каталогу: New Territories, Hong Kong. Название Open Tournament не отменяет приглашения, квоты и отбор. Возрастная совместимость не равна принятой заявке.",
+      "note": "Портал показывает окно 20 декабря 2026 – 10 января 2027 для приглашённых. Вход для команды из другой страны не заявлен.",
       "iso": [
         "HKG"
       ],
@@ -37165,7 +37180,7 @@
       "venue": "New Territories, Hong Kong",
       "admission_kind": "qualifier",
       "evidence_level": "catalog",
-      "registration_status": "Портал показывает открытие 20-Dec-2026. Проверить, какой группе команд доступно.",
+      "registration_status": "Портал показывает окно 20 декабря 2026 – 10 января 2027 для приглашённых. Вход для команды из другой страны не заявлен.",
       "event_type": "Open Tournament",
       "availability": {
         "status": "not_open_yet",
@@ -68752,11 +68767,11 @@
       "period": "",
       "date_status": "Подтверждено",
       "deadline": "",
-      "age": "Board Game Wonderland подтверждена на 21–24 января 2027. На странице билетов пока условия 2026. Тариф и детский вход 2027 нужно подтвердить.",
+      "age": "Публичная зона 21–24 января 2027, TaiNEX 1. Условия входа для 6 и 9 лет, время и тарифы 2027 ещё нужно сверить.",
       "mat": "Условно — подтвердить допуск",
       "osc": "Условно — подтвердить допуск",
       "format": "B2C публичная игровая выставка",
-      "entry": "Board Game Wonderland подтверждена на 21–24 января 2027. На странице билетов пока условия 2026. Тариф и детский вход 2027 нужно подтвердить.",
+      "entry": "Публичная зона 21–24 января 2027, TaiNEX 1. Условия входа для 6 и 9 лет, время и тарифы 2027 ещё нужно сверить.",
       "gear": "Не нужен для входа",
       "language": "Язык конкретной активности не подтверждён",
       "languages": [],
@@ -68767,7 +68782,7 @@
       "importance_reason": "Редакционный ориентир по опубликованной программе и географии; не официальный мировой рейтинг.",
       "reward": "Обучение / посещение; не соревновательная победа",
       "priority": "P3 — посещение при удобной поездке",
-      "action": "Подтвердить возраст на дату события, язык, места и условия регистрации.",
+      "action": "Публичная зона 21–24 января 2027, TaiNEX 1. Условия входа для 6 и 9 лет, время и тарифы 2027 ещё нужно сверить.",
       "source": "https://tgs.tca.org.tw/?p=event_info_e",
       "references": [
         {
@@ -68785,12 +68800,20 @@
         {
           "url": "https://tgs.tca.org.tw/?p=tickets_b2c_e",
           "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://tgs.tca.org.tw/?p=event_info",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://tgs.tca.org.tw/?p=bg_method_e",
+          "label": "Страница организатора или регламент категории."
         }
       ],
       "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
       "checked": "2026-11-08",
       "status": "Идея",
-      "note": "Публичные дни 21–24 января подтверждены; возрастные правила 2023 или других шоу Тайваня не перенесены на 2027.",
+      "note": "Актуальное объявление подтверждает даты B2C. Карта и список экспонентов на странице описывают 2026. Для 2027 отдельно опубликованы условия стендов настольных игр.",
       "themes": [
         "games",
         "technology"
@@ -68801,7 +68824,7 @@
       "registration_status": "Семья не записана; дата и опубликованный тариф не гарантируют наличие мест.",
       "exhibition_tier": "global",
       "visitor_policy": "confirm_children",
-      "visitor_policy_note": "Board Game Wonderland подтверждена на 21–24 января 2027. На странице билетов пока условия 2026. Тариф и детский вход 2027 нужно подтвердить.",
+      "visitor_policy_note": "Публичная зона 21–24 января 2027, TaiNEX 1. Условия входа для 6 и 9 лет, время и тарифы 2027 ещё нужно сверить.",
       "adult_entry": "Board Game Wonderland подтверждена на 21–24 января 2027. На странице билетов пока условия 2026. Тариф и детский вход 2027 нужно подтвердить.",
       "highlights": [
         "B2C game exhibition",
@@ -68817,7 +68840,8 @@
       ],
       "related_ids": [
         "E363"
-      ]
+      ],
+      "child_entry": "Публичная зона 21–24 января 2027, TaiNEX 1. Условия входа для 6 и 9 лет, время и тарифы 2027 ещё нужно сверить."
     },
     {
       "id": "E118",
@@ -69836,19 +69860,32 @@
       "region": "Азия",
       "city": "Taichung · Wagor International Conference Center, 328 Junfu 18th Road, Beitun",
       "source": "https://junior-botball-challenge-taiwan.github.io/",
-      "references": [],
-      "checked": "2026-11-07",
+      "references": [
+        {
+          "url": "https://spark-taiwan-association.github.io/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.kipr.org/gcer",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.kipr.org/botball-explorer/events",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "checked": "2026-11-08",
       "start": "2026-12-13",
       "end": "2026-12-13",
       "date_status": "Подтверждено",
-      "period": "Утром 09:00–12:15 школьные группы; 13:30–17:30 младшие уровни",
+      "period": "13 декабря 2026. Списки и расписание команд опубликованы 8 ноября 2026.",
       "deadline": "",
       "age": "Младшие уровни и школьные группы; точный год рождения / класс по локальной категории не установлен",
       "mat": "Условно — подтвердить класс и иностранный допуск; год рождения 2017",
       "osc": "Условно — подтвердить класс и иностранный допуск; год рождения 2020",
       "format": "Задачи Junior Botball; конкретные составы команд по руководству",
       "participation": "team",
-      "entry": "Организатор сообщает, что запись закрыта. Условия зрительского входа не опубликованы на странице.",
+      "entry": "Запись закрыта. Родители участников могут зайти на открытие и награждение, но покидают зал на время стартов.",
       "gear": "Своя платформа / kit по правилам локального уровня; совместимость LEGO не подтверждена",
       "cost": "Действующую стоимость уточнить",
       "language": "Язык занятий / судейства не подтверждён",
@@ -69860,18 +69897,23 @@
       "reward": "Сертификат выполненных задач; место / награда только по протоколу выбранного уровня",
       "priority": "P3 — только после проверки входа для зрителей",
       "status": "Идея",
-      "action": "Проверить правила зрительского входа и объявление следующего отбора Junior Botball.",
+      "action": "Запись закрыта. Родители участников могут зайти на открытие и награждение, но покидают зал на время стартов.",
       "themes": [
         "robotics",
         "technology"
       ],
       "admission_kind": "open_application",
       "evidence_level": "event_page",
-      "registration_status": "Организатор сообщает, что запись закрыта. Условия зрительского входа не опубликованы на странице.",
+      "registration_status": "Запись закрыта. Родители участников могут зайти на открытие и награждение, но покидают зал на время стартов.",
       "proof": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно.",
-      "note": "Доступность иностранцам, число игроков, стоимость, deadline и EN-судейство не подтверждены. Название сертификата «international future engineer» не превращает его в международную победу. Локальное обещание GCER USA July 2027 не сверено с KIPR; автоматическая квота / оплаченная поездка не обещаны.",
+      "note": "Публичный регламент для родителей участников: утренний вход 09:00, повторный вход 11:25. Дневной вход 13:30, повторный вход 16:20. Свободный вход для посторонних зрителей не заявлен.",
       "iso": [
         "TWN"
+      ],
+      "related_ids": [
+        "C060",
+        "C4714",
+        "E634"
       ]
     },
     {
@@ -346456,6 +346498,1378 @@
       "related_ids": [
         "E451",
         "C3457"
+      ]
+    },
+    {
+      "id": "L839",
+      "title": "Mirai Minds · SIS Cambridge Minecraft",
+      "block": "Лагеря",
+      "country": "Япония",
+      "region": "Азия",
+      "iso": [
+        "JPN"
+      ],
+      "city": "Shinagawa International School Samezu · Tokyo",
+      "start": "2026-11-07",
+      "end": "2027-05-15",
+      "period": "18 суббот, 09:30–12:30. Два кружка идут параллельно в кампусе Samezu. Допуск внешних учеников, группу и место подтвердить.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://miraiminds.jp/classes/sis-saturday-clubs/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "6–10 лет, Grade 1–4. Explorers 6–7, Engineers 8–10.",
+      "mat": "Да по возрасту. Допуск и место подтвердить отдельно.",
+      "osc": "Условно. Сверить фактический возраст, класс и правила допуска.",
+      "format": "Minecraft Education. Командная постройка, испытания и презентация проекта на английском.",
+      "entry": "Заявка на сайте. Оператор подтверждает место и дату старта до оплаты.",
+      "gear": "",
+      "language": "Программа на английском.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Программа на английском.",
+      "cost": "JPY 6600 за занятие. Место, число посещений и оплату подтверждает оператор.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Заявка на сайте. Оператор подтверждает место и дату старта до оплаты.",
+      "note": "18 суббот, 09:30–12:30. Два кружка идут параллельно в кампусе Samezu. Допуск внешних учеников, группу и место подтвердить.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Minecraft Education. Командная постройка, испытания и презентация проекта на английском.",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "sessions": [
+        {
+          "date": "2026-11-07",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-11-07T00:30:00Z",
+          "end_utc": "2026-11-07T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-14",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-11-14T00:30:00Z",
+          "end_utc": "2026-11-14T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-28",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-11-28T00:30:00Z",
+          "end_utc": "2026-11-28T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-05",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-12-05T00:30:00Z",
+          "end_utc": "2026-12-05T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-12",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-12-12T00:30:00Z",
+          "end_utc": "2026-12-12T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-16",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-01-16T00:30:00Z",
+          "end_utc": "2027-01-16T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-23",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-01-23T00:30:00Z",
+          "end_utc": "2027-01-23T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-30",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-01-30T00:30:00Z",
+          "end_utc": "2027-01-30T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-06",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-02-06T00:30:00Z",
+          "end_utc": "2027-02-06T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-13",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-02-13T00:30:00Z",
+          "end_utc": "2027-02-13T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-20",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-02-20T00:30:00Z",
+          "end_utc": "2027-02-20T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-27",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-02-27T00:30:00Z",
+          "end_utc": "2027-02-27T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-06",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-03-06T00:30:00Z",
+          "end_utc": "2027-03-06T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-03",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-04-03T00:30:00Z",
+          "end_utc": "2027-04-03T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-10",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-04-10T00:30:00Z",
+          "end_utc": "2027-04-10T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-24",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-04-24T00:30:00Z",
+          "end_utc": "2027-04-24T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-08",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-05-08T00:30:00Z",
+          "end_utc": "2027-05-08T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-15",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-05-15T00:30:00Z",
+          "end_utc": "2027-05-15T03:30:00Z",
+          "topic": "Mirai Minds · SIS Cambridge Minecraft",
+          "ical_timed": true
+        }
+      ],
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "L840"
+      ]
+    },
+    {
+      "id": "L840",
+      "title": "Mirai Minds · SIS Robotics & Coding",
+      "block": "Лагеря",
+      "country": "Япония",
+      "region": "Азия",
+      "iso": [
+        "JPN"
+      ],
+      "city": "Shinagawa International School Samezu · Tokyo",
+      "start": "2026-11-07",
+      "end": "2027-05-15",
+      "period": "18 суббот, 09:30–12:30. Два кружка идут параллельно в кампусе Samezu. Допуск внешних учеников, группу и место подтвердить.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://miraiminds.jp/classes/sis-saturday-clubs/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "7–12 лет, Grade 2–6. Block Coders 7–9, Text Coders 10–12.",
+      "mat": "Условно. Сверить фактический возраст, класс и правила допуска.",
+      "osc": "Нет сейчас. Минимум 7 лет на выбранную дату.",
+      "format": "Сборка роботов, датчики, программирование, испытания в лабиринте и итоговая миссия.",
+      "entry": "Заявка на сайте. Оператор подтверждает место и дату старта до оплаты.",
+      "gear": "",
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "cost": "JPY 6600 за занятие. Место, число посещений и оплату подтверждает оператор.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Заявка на сайте. Оператор подтверждает место и дату старта до оплаты.",
+      "note": "18 суббот, 09:30–12:30. Два кружка идут параллельно в кампусе Samezu. Допуск внешних учеников, группу и место подтвердить.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Сборка роботов, датчики, программирование, испытания в лабиринте и итоговая миссия.",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "sessions": [
+        {
+          "date": "2026-11-07",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-11-07T00:30:00Z",
+          "end_utc": "2026-11-07T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-14",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-11-14T00:30:00Z",
+          "end_utc": "2026-11-14T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-28",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-11-28T00:30:00Z",
+          "end_utc": "2026-11-28T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-05",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-12-05T00:30:00Z",
+          "end_utc": "2026-12-05T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-12",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2026-12-12T00:30:00Z",
+          "end_utc": "2026-12-12T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-16",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-01-16T00:30:00Z",
+          "end_utc": "2027-01-16T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-23",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-01-23T00:30:00Z",
+          "end_utc": "2027-01-23T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-30",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-01-30T00:30:00Z",
+          "end_utc": "2027-01-30T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-06",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-02-06T00:30:00Z",
+          "end_utc": "2027-02-06T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-13",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-02-13T00:30:00Z",
+          "end_utc": "2027-02-13T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-20",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-02-20T00:30:00Z",
+          "end_utc": "2027-02-20T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-27",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-02-27T00:30:00Z",
+          "end_utc": "2027-02-27T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-06",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-03-06T00:30:00Z",
+          "end_utc": "2027-03-06T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-03",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-04-03T00:30:00Z",
+          "end_utc": "2027-04-03T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-10",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-04-10T00:30:00Z",
+          "end_utc": "2027-04-10T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-24",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-04-24T00:30:00Z",
+          "end_utc": "2027-04-24T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-08",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-05-08T00:30:00Z",
+          "end_utc": "2027-05-08T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-15",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Asia/Tokyo",
+          "start_utc": "2027-05-15T00:30:00Z",
+          "end_utc": "2027-05-15T03:30:00Z",
+          "topic": "Mirai Minds · SIS Robotics & Coding",
+          "ical_timed": true
+        }
+      ],
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "L839"
+      ]
+    },
+    {
+      "id": "L841",
+      "title": "Technology Bit · Robótica Kids online",
+      "block": "Лагеря",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "iso": [
+        "PER"
+      ],
+      "city": "Online · Peru",
+      "start": "",
+      "end": "",
+      "period": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://www.roboticaeducativa.pe/landing-robotica?utm_campaign=robotica_online&utm_content=home_enlace_kids&utm_medium=owned_web&utm_source=roboticaeducativa_pe",
+      "references": [
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "4–6 лет.",
+      "mat": "Нет. Верхняя граница 6 лет.",
+      "osc": "Условно. В январе 2027 сверить, исполнилось ли 7 лет. На момент старта Kids рассчитан на детей до 6 лет включительно.",
+      "format": "Простые машины LEGO. Рычаги, шестерни и конструкции, 8 онлайн-уроков по 90 минут на уровень.",
+      "entry": "Запросить расписание, язык преподавателя и полный счёт. Для зарубежного участия уточнить наличие нужного набора.",
+      "gear": "LEGO Education Early Simple Machines. Для иностранного адреса предлагают пакет занятий без доставки набора. Нужный комплект надо иметь дома.",
+      "language": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Запросить расписание, язык преподавателя и полный счёт. Для зарубежного участия уточнить наличие нужного набора.",
+      "note": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "international",
+      "importance_reason": "Простые машины LEGO. Рычаги, шестерни и конструкции, 8 онлайн-уроков по 90 минут на уровень.",
+      "participation": "online",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "virtual",
+      "camp_dossier_slug": "technology-bit-peru-online-kids-2027",
+      "related_ids": [
+        "L842",
+        "L843",
+        "L844",
+        "L845"
+      ]
+    },
+    {
+      "id": "L842",
+      "title": "Technology Bit · Robótica Junior online",
+      "block": "Лагеря",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "iso": [
+        "PER"
+      ],
+      "city": "Online · Peru",
+      "start": "",
+      "end": "",
+      "period": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://www.roboticaeducativa.pe/landing-robotica?utm_campaign=robotica_online&utm_content=home_enlace_kids&utm_medium=owned_web&utm_source=roboticaeducativa_pe",
+      "references": [
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "7–12 лет.",
+      "mat": "Да по возрасту. Допуск и место подтвердить отдельно.",
+      "osc": "Нет сейчас. В январе 2027 проверить, исполнилось ли 7 лет к старту.",
+      "format": "LEGO WeDo 2.0, датчики и визуальный код. 8 живых занятий по 90 минут на уровень.",
+      "entry": "Запросить расписание, язык преподавателя и полный счёт. Для зарубежного участия уточнить наличие нужного набора.",
+      "gear": "LEGO WeDo 2.0. Для иностранного адреса предлагают пакет занятий без доставки набора. Нужный комплект надо иметь дома.",
+      "language": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Запросить расписание, язык преподавателя и полный счёт. Для зарубежного участия уточнить наличие нужного набора.",
+      "note": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "international",
+      "importance_reason": "LEGO WeDo 2.0, датчики и визуальный код. 8 живых занятий по 90 минут на уровень.",
+      "participation": "online",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "virtual",
+      "camp_dossier_slug": "technology-bit-peru-online-junior-2027",
+      "related_ids": [
+        "L841",
+        "L843",
+        "L844",
+        "L845"
+      ]
+    },
+    {
+      "id": "L843",
+      "title": "Technology Bit · Creación de Mini-Videojuegos",
+      "block": "Лагеря",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "iso": [
+        "PER"
+      ],
+      "city": "Online · Peru",
+      "start": "",
+      "end": "",
+      "period": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://www.roboticaeducativa.pe/programacion-de-videojuegos-para-ninos",
+      "references": [
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "7–9 лет.",
+      "mat": "Условно. Сверить фактический возраст, класс и правила допуска.",
+      "osc": "Нет сейчас. В январе 2027 проверить, исполнилось ли 7 лет к старту.",
+      "format": "10 занятий по 90 минут в прямом эфире. Дети создают персонажей, сцены, звуки и мини-игры в Scratch.",
+      "entry": "Запросить расписание, язык группы и полный счёт. До записи сверить требования к компьютеру.",
+      "gear": "Нужен компьютер Core i3 или выше, от 4 GB RAM. Планшет не подходит.",
+      "language": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Запросить расписание, язык группы и полный счёт. До записи сверить требования к компьютеру.",
+      "note": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "scope": "international",
+      "importance_reason": "10 занятий по 90 минут в прямом эфире. Дети создают персонажей, сцены, звуки и мини-игры в Scratch.",
+      "participation": "online",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "virtual",
+      "camp_dossier_slug": "technology-bit-peru-mini-games-2027",
+      "related_ids": [
+        "L841",
+        "L842",
+        "L844",
+        "L845"
+      ]
+    },
+    {
+      "id": "L844",
+      "title": "Technology Bit · Programación de Videojuegos Retro",
+      "block": "Лагеря",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "iso": [
+        "PER"
+      ],
+      "city": "Online · Peru",
+      "start": "",
+      "end": "",
+      "period": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://www.roboticaeducativa.pe/programacion-de-videojuegos-para-ninos",
+      "references": [
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "10–13 лет.",
+      "mat": "Условно. Минимум 10 лет на момент начала курса.",
+      "osc": "Нет сейчас. Минимум 10 лет.",
+      "format": "3 уровня по 10 занятий. Переменные, условия, циклы, клоны, физика платформера и игровые уровни.",
+      "entry": "Запросить расписание, язык группы и полный счёт. До записи сверить требования к компьютеру.",
+      "gear": "Нужен компьютер Core i3 или выше, от 4 GB RAM. Планшет не подходит.",
+      "language": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Запросить расписание, язык группы и полный счёт. До записи сверить требования к компьютеру.",
+      "note": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "scope": "international",
+      "importance_reason": "3 уровня по 10 занятий. Переменные, условия, циклы, клоны, физика платформера и игровые уровни.",
+      "participation": "online",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "virtual",
+      "camp_dossier_slug": "technology-bit-peru-retro-games-2027",
+      "related_ids": [
+        "L841",
+        "L842",
+        "L843",
+        "L845"
+      ]
+    },
+    {
+      "id": "L845",
+      "title": "Technology Bit · Diseño Gráfico con IA",
+      "block": "Лагеря",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "iso": [
+        "PER"
+      ],
+      "city": "Online · Peru",
+      "start": "",
+      "end": "",
+      "period": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://disenograficokids.technologybit.pe/",
+      "references": [
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "9–16 лет.",
+      "mat": "Да по возрасту. Допуск и место подтвердить отдельно.",
+      "osc": "Нет сейчас. Минимум 9 лет на выбранную дату.",
+      "format": "Графика и персонажи с ИИ, Photopea, видеомонтаж. 3 уровня по 8 живых занятий по 90 минут.",
+      "entry": "Запросить расписание, язык группы и полный счёт. До записи сверить требования к компьютеру.",
+      "gear": "Браузер Google Chrome. Оператор заявляет до 10 учеников в группе.",
+      "language": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Запросить расписание, язык группы и полный счёт. До записи сверить требования к компьютеру.",
+      "note": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+      "themes": [
+        "ai",
+        "technology",
+        "design"
+      ],
+      "scope": "international",
+      "importance_reason": "Графика и персонажи с ИИ, Photopea, видеомонтаж. 3 уровня по 8 живых занятий по 90 минут.",
+      "participation": "online",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "virtual",
+      "camp_dossier_slug": "technology-bit-peru-ai-design-2027",
+      "related_ids": [
+        "L841",
+        "L842",
+        "L843",
+        "L844"
+      ]
+    },
+    {
+      "id": "L846",
+      "title": "Technology Bit · Chosica Robótica Kids",
+      "block": "Лагеря",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "iso": [
+        "PER"
+      ],
+      "city": "Chosica · Lima",
+      "start": "",
+      "end": "",
+      "period": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://roboticachosica.technologybit.pe/",
+      "references": [
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "4–6 лет.",
+      "mat": "Нет. Верхняя граница 6 лет.",
+      "osc": "Условно. В январе 2027 сверить, исполнилось ли 7 лет. На момент старта Kids рассчитан на детей до 6 лет включительно.",
+      "format": "Механика LEGO без экрана. Рычаги, блоки и шестерни.",
+      "entry": "Запросить дату старта, язык группы и полную стоимость очного курса в Чосике.",
+      "gear": "LEGO Education Early Simple Machines",
+      "language": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+      "cost": "Пробное занятие в Чосике стоит PEN 20. Полная стоимость курса уточняется.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Запросить дату старта, язык группы и полную стоимость очного курса в Чосике.",
+      "note": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Механика LEGO без экрана. Рычаги, блоки и шестерни.",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "camp_dossier_slug": "technology-bit-chosica-kids-2027",
+      "related_ids": [
+        "L847"
+      ]
+    },
+    {
+      "id": "L847",
+      "title": "Technology Bit · Chosica Robótica Junior",
+      "block": "Лагеря",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "iso": [
+        "PER"
+      ],
+      "city": "Chosica · Lima",
+      "start": "",
+      "end": "",
+      "period": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://roboticachosica.technologybit.pe/",
+      "references": [
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "7–11 лет.",
+      "mat": "Да по возрасту. Допуск и место подтвердить отдельно.",
+      "osc": "Нет сейчас. В январе 2027 проверить, исполнилось ли 7 лет к старту.",
+      "format": "Проекты с мотором и датчиками, визуальное программирование LEGO WeDo 2.0.",
+      "entry": "Запросить дату старта, язык группы и полную стоимость очного курса в Чосике.",
+      "gear": "LEGO WeDo 2.0",
+      "language": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+      "cost": "Пробное занятие в Чосике стоит PEN 20. Полная стоимость курса уточняется.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Запросить дату старта, язык группы и полную стоимость очного курса в Чосике.",
+      "note": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Проекты с мотором и датчиками, визуальное программирование LEGO WeDo 2.0.",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "camp_dossier_slug": "technology-bit-chosica-junior-2027",
+      "related_ids": [
+        "L846"
+      ]
+    },
+    {
+      "id": "E632",
+      "title": "Bricks 4 Kidz Singapore · LEGO STEM Open House · 2026-12-12",
+      "block": "События",
+      "country": "Сингапур",
+      "region": "Азия",
+      "iso": [
+        "SGP"
+      ],
+      "city": "12 Jalan Kuras · Singapore",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://bricks4kidz.sg/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Открытые двери для семей с детьми 4–12 лет. Знакомство с преподавателями и программами LEGO, робототехники и кода.",
+      "mat": "Да по возрасту. Допуск и место подтвердить отдельно.",
+      "osc": "Да по возрасту. Допуск и место подтвердить отдельно.",
+      "format": "Открытые двери для семей с детьми 4–12 лет. Знакомство с преподавателями и программами LEGO, робототехники и кода.",
+      "entry": "Бесплатно по предварительной записи.",
+      "gear": "",
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "cost": "Бесплатно по предварительной записи.",
+      "level": "Региональный этап",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Бесплатно по предварительной записи.",
+      "note": "",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Открытые двери для семей с детьми 4–12 лет. Знакомство с преподавателями и программами LEGO, робототехники и кода.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "public_days": [
+        {
+          "date": "2026-12-12",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Singapore",
+          "start_utc": "2026-12-12T06:00:00Z",
+          "end_utc": "2026-12-12T08:00:00Z",
+          "topic": "Bricks 4 Kidz Singapore · LEGO STEM Open House",
+          "ical_timed": true
+        }
+      ],
+      "delivery_mode": "in_person",
+      "exhibition_tier": "regional",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Открытые двери для семей с детьми 4–12 лет. Знакомство с преподавателями и программами LEGO, робототехники и кода.",
+      "adult_entry": "Бесплатно по предварительной записи.",
+      "child_entry": "Открытые двери для семей с детьми 4–12 лет. Знакомство с преподавателями и программами LEGO, робототехники и кода.",
+      "exhibitor_note": "Открытые двери для семей с детьми 4–12 лет. Знакомство с преподавателями и программами LEGO, робототехники и кода.",
+      "related_ids": [
+        "E633"
+      ]
+    },
+    {
+      "id": "E633",
+      "title": "Bricks 4 Kidz Singapore · LEGO STEM Open House · 2026-12-19",
+      "block": "События",
+      "country": "Сингапур",
+      "region": "Азия",
+      "iso": [
+        "SGP"
+      ],
+      "city": "12 Jalan Kuras · Singapore",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://bricks4kidz.sg/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Открытые двери для семей с детьми 4–12 лет. Знакомство с преподавателями и программами LEGO, робототехники и кода.",
+      "mat": "Да по возрасту. Допуск и место подтвердить отдельно.",
+      "osc": "Да по возрасту. Допуск и место подтвердить отдельно.",
+      "format": "Открытые двери для семей с детьми 4–12 лет. Знакомство с преподавателями и программами LEGO, робототехники и кода.",
+      "entry": "Бесплатно по предварительной записи.",
+      "gear": "",
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "cost": "Бесплатно по предварительной записи.",
+      "level": "Региональный этап",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Бесплатно по предварительной записи.",
+      "note": "",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Открытые двери для семей с детьми 4–12 лет. Знакомство с преподавателями и программами LEGO, робототехники и кода.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "public_days": [
+        {
+          "date": "2026-12-19",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Singapore",
+          "start_utc": "2026-12-19T06:00:00Z",
+          "end_utc": "2026-12-19T08:00:00Z",
+          "topic": "Bricks 4 Kidz Singapore · LEGO STEM Open House",
+          "ical_timed": true
+        }
+      ],
+      "delivery_mode": "in_person",
+      "exhibition_tier": "regional",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Открытые двери для семей с детьми 4–12 лет. Знакомство с преподавателями и программами LEGO, робототехники и кода.",
+      "adult_entry": "Бесплатно по предварительной записи.",
+      "child_entry": "Открытые двери для семей с детьми 4–12 лет. Знакомство с преподавателями и программами LEGO, робототехники и кода.",
+      "exhibitor_note": "Открытые двери для семей с детьми 4–12 лет. Знакомство с преподавателями и программами LEGO, робототехники и кода.",
+      "related_ids": [
+        "E632"
+      ]
+    },
+    {
+      "id": "C4711",
+      "title": "Smarthon Cup 2027 · Singapore Regional Grand Final",
+      "block": "Соревнования",
+      "country": "Сингапур",
+      "region": "Азия",
+      "iso": [
+        "SGP"
+      ],
+      "city": "EP Education · Singapore",
+      "start": "2027-04-14",
+      "end": "2027-04-14",
+      "period": "",
+      "deadline": "2027-01-15",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://smarthon.cc/singapore-smarthon-cup-2026/",
+      "references": [
+        {
+          "url": "https://smarthon.cc/global-competition/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://smarthon.cc/smarthon-cup-competition/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Junior 7–12 лет, Senior 13–18 лет.",
+      "mat": "Условно по возрасту. Нужна команда, допущенная к сингапурскому отбору.",
+      "osc": "Нет сейчас. Минимум 7 лет на выбранную дату.",
+      "format": "Команда из 2–4 школьников и 1 наставника. Оригинальный проект школьники делают сами.",
+      "entry": "Сингапурский региональный отбор. Школа подаёт заявку до 15 января 2027. Первый этап онлайн до 1 марта 2027, очный финал для отобранных команд.",
+      "gear": "Нужны micro:bit и IoT:bit (ESP32). ИИ-камера и голосовой модуль опциональны.",
+      "language": "Правила опубликованы на английском. Язык защиты подтвердить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Правила опубликованы на английском. Язык защиты подтвердить.",
+      "cost": "SGD 50 за команду. Оборудование проверить отдельно.",
+      "level": "Региональный этап",
+      "reward": "Рейтинг команд, призовые места и отдельные награды за инженерную работу и ИИ.",
+      "priority": "P3 — условия подтвердить",
+      "action": "Сингапурский региональный отбор. Школа подаёт заявку до 15 января 2027. Первый этап онлайн до 1 марта 2027, очный финал для отобранных команд.",
+      "note": "Первый этап: аннотация до 500 слов, схема и 5-минутное видео. В Сингапуре отбирают 10 команд.",
+      "themes": [
+        "ai",
+        "coding",
+        "electronics",
+        "engineering"
+      ],
+      "scope": "regional",
+      "importance_reason": "Проект умного города, дома или фермы с применением ИИ, IoT и датчиков.",
+      "participation": "team",
+      "admission_kind": "qualifier",
+      "evidence_level": "rules",
+      "date_scope": "competition",
+      "delivery_mode": "in_person",
+      "deadline_label": "Заявка команды на сингапурский отбор",
+      "related_ids": [
+        "C4712",
+        "C4713"
+      ]
+    },
+    {
+      "id": "C4712",
+      "title": "Smarthon Cup 2027 · Hong Kong regional selection",
+      "block": "Соревнования",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "iso": [
+        "HKG"
+      ],
+      "city": "Cyberport · Hong Kong",
+      "start": "",
+      "end": "",
+      "period": "Региональная карточка указывает 24 апреля 2027 и Cyberport. В сводном календаре написано май 2027. Дату сверить у организатора.",
+      "deadline": "2026-11-15",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://smarthon.cc/smarthon-cup-competition/",
+      "references": [
+        {
+          "url": "https://smarthon.cc/global-competition/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "mat": "Условно. Сверить фактический возраст, класс и правила допуска.",
+      "osc": "Условно. Сверить фактический возраст, класс и правила допуска.",
+      "format": "В списке региональных этапов заявка до 15 ноября 2026. Региональные возрастные группы, команда и допуск иностранцев требуют подтверждения.",
+      "entry": "В списке региональных этапов заявка до 15 ноября 2026. Региональные возрастные группы, команда и допуск иностранцев требуют подтверждения.",
+      "gear": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "language": "Правила опубликованы на английском. Язык защиты подтвердить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Правила опубликованы на английском. Язык защиты подтвердить.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Региональный этап",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "В списке региональных этапов заявка до 15 ноября 2026. Региональные возрастные группы, команда и допуск иностранцев требуют подтверждения.",
+      "note": "Региональная карточка указывает 24 апреля 2027 и Cyberport. В сводном календаре написано май 2027. Дату сверить у организатора.",
+      "themes": [
+        "ai",
+        "coding",
+        "electronics",
+        "engineering"
+      ],
+      "scope": "regional",
+      "importance_reason": "Проект умного города, дома или фермы с применением ИИ, IoT и датчиков.",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "delivery_mode": "in_person",
+      "deadline_label": "Региональная заявка по опубликованному списку",
+      "related_ids": [
+        "C4711",
+        "C4713"
+      ]
+    },
+    {
+      "id": "C4713",
+      "title": "Smarthon Cup 2027 · International Invitational",
+      "block": "Соревнования",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "iso": [
+        "HKG"
+      ],
+      "city": "Hong Kong · format pending",
+      "start": "2027-07-14",
+      "end": "2027-07-14",
+      "period": "На 14 июля 2027 указан международный этап. Карточка называет онлайн-оценку, общая программа — очный финал в Гонконге. Отдельный этап в Шэньчжэне в тот же день указан по приглашениям.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://smarthon.cc/global-competition/",
+      "references": [
+        {
+          "url": "https://smarthon.cc/smarthon-cup-competition/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://smarthon.cc/singapore-smarthon-cup-2026/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Junior 7–12 лет, Senior 13–18 лет.",
+      "mat": "Условно. По возрасту подходит Junior. Нужна команда и проверка международного допуска.",
+      "osc": "Нет сейчас. Минимум 7 лет на выбранную дату.",
+      "format": "Команда из 2–4 школьников и 1 наставника. Оригинальный проект школьники делают сами.",
+      "entry": "Иностранная школа или международная команда может запросить fast-track. Нужны проверка допуска и приглашение. Какой финал доступен и в какой срок подать заявку, подтвердить до оплаты.",
+      "gear": "Нужны micro:bit и IoT:bit (ESP32). ИИ-камера и голосовой модуль опциональны.",
+      "language": "Правила опубликованы на английском. Язык защиты подтвердить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Правила опубликованы на английском. Язык защиты подтвердить.",
+      "cost": "На странице указано SGD 50 за команду. Стоимость международного трека уточнить.",
+      "level": "Региональный этап",
+      "reward": "Рейтинг команд, призовые места и отдельные награды за инженерную работу и ИИ.",
+      "priority": "P3 — условия подтвердить",
+      "action": "Иностранная школа или международная команда может запросить fast-track. Нужны проверка допуска и приглашение. Какой финал доступен и в какой срок подать заявку, подтвердить до оплаты.",
+      "note": "На 14 июля 2027 указан международный этап. Карточка называет онлайн-оценку, общая программа — очный финал в Гонконге. Отдельный этап в Шэньчжэне в тот же день указан по приглашениям.",
+      "themes": [
+        "ai",
+        "coding",
+        "electronics",
+        "engineering"
+      ],
+      "scope": "international",
+      "importance_reason": "Проект умного города, дома или фермы с применением ИИ, IoT и датчиков.",
+      "participation": "team",
+      "admission_kind": "invitation",
+      "evidence_level": "rules",
+      "date_scope": "competition",
+      "date_precision": "announced_window",
+      "date_rule": "На 14 июля 2027 указан международный этап. Карточка называет онлайн-оценку, общая программа — очный финал в Гонконге. Отдельный этап в Шэньчжэне в тот же день указан по приглашениям.",
+      "delivery_mode": "unconfirmed",
+      "related_ids": [
+        "C4711",
+        "C4712"
+      ]
+    },
+    {
+      "id": "C4714",
+      "title": "GCER 2027 · International Junior Botball Challenge",
+      "block": "Соревнования",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "iso": [
+        "USA"
+      ],
+      "city": "Embassy Suites by Hilton Nashville SE Murfreesboro · TN",
+      "start": "2027-07-04",
+      "end": "2027-07-08",
+      "period": "KIPR подтвердил неделю конференции. Дни отдельных стартов, класс, комплекты, взнос и порядок допуска зарубежной команды сверить по регламенту 2027.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.kipr.org/gcer",
+      "references": [
+        {
+          "url": "https://www.kipr.org/botball-explorer/events",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Школьные категории. Точный возраст и класс сверить по Junior Botball Challenge 2027.",
+      "mat": "Условно. Сверить фактический возраст, класс и правила допуска.",
+      "osc": "Условно. Сверить фактический возраст, класс и правила допуска.",
+      "format": "Очные задачи для автономных роботов в рамках конференции.",
+      "entry": "KIPR подтвердил неделю конференции. Дни отдельных стартов, класс, комплекты, взнос и порядок допуска зарубежной команды сверить по регламенту 2027.",
+      "gear": "",
+      "language": "Правила опубликованы на английском. Язык защиты подтвердить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Правила опубликованы на английском. Язык защиты подтвердить.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Региональный этап",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "KIPR подтвердил неделю конференции. Дни отдельных стартов, класс, комплекты, взнос и порядок допуска зарубежной команды сверить по регламенту 2027.",
+      "note": "KIPR подтвердил неделю конференции. Дни отдельных стартов, класс, комплекты, взнос и порядок допуска зарубежной команды сверить по регламенту 2027.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "international",
+      "importance_reason": "KIPR подтвердил неделю конференции. Дни отдельных стартов, класс, комплекты, взнос и порядок допуска зарубежной команды сверить по регламенту 2027.",
+      "participation": "team",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "C778",
+        "C060",
+        "E634"
+      ]
+    },
+    {
+      "id": "E634",
+      "title": "GCER 2027 · Educational Robotics Conference",
+      "block": "События",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "iso": [
+        "USA"
+      ],
+      "city": "Embassy Suites by Hilton Nashville SE Murfreesboro · TN",
+      "start": "2027-07-04",
+      "end": "2027-07-08",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.kipr.org/gcer",
+      "references": [
+        {
+          "url": "https://www.kipr.org/botball-explorer/events",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.kipr.org/gcer/register-gcer",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Школьные категории. Точный возраст и класс сверить по Junior Botball Challenge 2027.",
+      "mat": "Условно. Сверить фактический возраст, класс и правила допуска.",
+      "osc": "Условно. Сверить фактический возраст, класс и правила допуска.",
+      "format": "KIPR подтвердил неделю конференции. Дни отдельных стартов, класс, комплекты, взнос и порядок допуска зарубежной команды сверить по регламенту 2027.",
+      "entry": "Страница билетов пока относится к 2026. Тарифы, запись и детский доступ для 2027 ещё нужно подтвердить.",
+      "gear": "",
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Региональный этап",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Страница билетов пока относится к 2026. Тарифы, запись и детский доступ для 2027 ещё нужно подтвердить.",
+      "note": "Страница билетов пока относится к 2026. Тарифы, запись и детский доступ для 2027 ещё нужно подтвердить.",
+      "themes": [
+        "robotics",
+        "technology",
+        "engineering"
+      ],
+      "scope": "international",
+      "importance_reason": "KIPR подтвердил неделю конференции. Дни отдельных стартов, класс, комплекты, взнос и порядок допуска зарубежной команды сверить по регламенту 2027.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "profile",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Страница билетов пока относится к 2026. Тарифы, запись и детский доступ для 2027 ещё нужно подтвердить.",
+      "adult_entry": "Страница билетов пока относится к 2026. Тарифы, запись и детский доступ для 2027 ещё нужно подтвердить.",
+      "child_entry": "Страница билетов пока относится к 2026. Тарифы, запись и детский доступ для 2027 ещё нужно подтвердить.",
+      "exhibitor_note": "KIPR подтвердил неделю конференции. Дни отдельных стартов, класс, комплекты, взнос и порядок допуска зарубежной команды сверить по регламенту 2027.",
+      "related_ids": [
+        "C778",
+        "C060",
+        "C4714"
       ]
     },
     {
@@ -717733,6 +719147,101 @@
       }
     },
     {
+      "id": "CP2069-20261228-20261230-future-engineers",
+      "block": "Лагеря",
+      "title": "Curio Kids · Future Engineers Winter Tech Camp · Curio Kids · Future Engineers Winter Tech Camp · 2026-12-28–2026-12-30",
+      "country": "Тайвань",
+      "region": "Азия",
+      "city": "Curio Salon · Songshan · Taipei",
+      "start": "2026-12-28",
+      "end": "2026-12-30",
+      "period": "09:30–16:30. Группа 6–10 человек. В цену входят обед, перекус, поездки и машинка с пультом, которую забирают домой.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "7–12 лет, преимущественно классы 2–6.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Дневной формат без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Сборка WiFi-машинки с ESP32 и C/C++, знакомство с пайкой, визит на фабрику роботов и заезд самодельных машин.",
+      "language": "Преподавание на китайском. Английский поток не заявлен.",
+      "cost": "2026/27 · TWD 12000 за 3 дня. Проверить место и условия возврата. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Перед записью сверить допуск, язык и наличие места.; Условия возврата и итоговый счёт уточнить до оплаты.",
+      "source": "https://www.curio.kids/products/future-engineers-winter-2026",
+      "references": [
+        {
+          "url": "https://www.curio.kids/products/future-engineers-winter-2026",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Возраст подходит, язык преподавания китайский. Оскар: Нет сейчас. Минимум 7 лет на выбранную дату. Доплаты:  Оплата: Условия возврата и итоговый счёт уточнить до оплаты.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "electronics"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [
+        "ZH"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Преподавание на китайском. Английский поток не заявлен.",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "curio-kids-taipei-future-engineers-2026",
+      "camp_programme_id": "CP2069",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "09:30",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2026-12-28T01:30:00Z",
+          "end_utc": "2026-12-28T08:30:00Z",
+          "topic": "Curio Kids · Future Engineers Winter Tech Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:30",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2026-12-29T01:30:00Z",
+          "end_utc": "2026-12-29T08:30:00Z",
+          "topic": "Curio Kids · Future Engineers Winter Tech Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "09:30",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2026-12-30T01:30:00Z",
+          "end_utc": "2026-12-30T08:30:00Z",
+          "topic": "Curio Kids · Future Engineers Winter Tech Camp",
+          "ical_timed": true
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
+    },
+    {
       "id": "TC2027-SHOWCASE",
       "block": "События",
       "title": "The Tech Challenge 2027 · Game On! · показ инженерных проектов",
@@ -761230,7 +762739,7 @@
       "checked": "2026-09-29"
     }
   ],
-  "source_count": 9282,
+  "source_count": 9299,
   "sources": [
     {
       "url": "https://www.torneoluva.com",
@@ -762201,7 +763710,7 @@
       "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4609.html",
       "title": "VTO VEX IQ Elementary Championship",
       "evidence": "Прочитана отдельная официальная карточка, категория, сроки и условия; подтверждения приёма семьи нет.",
-      "checked": "2026-09-30"
+      "checked": "2026-11-08"
     },
     {
       "url": "https://events.vex.com/robot-competitions/vex-iq-competition?country_id=*&seasonId=203&grade_level_id=1&from_date=2026-09-30&page=21",
@@ -764607,7 +766116,7 @@
       "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4552.html",
       "title": "Hong Kong Tech Challenge Junior 2027 VEX IQ Elementary School - Hong Kong Championship",
       "evidence": "URL отдельного турнира найден в прочитанном официальном каталоге. Дата / адрес / тип взяты из каталога; отдельная страница и местный регламент ещё не прочитаны.",
-      "checked": "2026-09-30"
+      "checked": "2026-11-08"
     },
     {
       "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4728.html",
@@ -767457,7 +768966,7 @@
       "url": "https://junior-botball-challenge-taiwan.github.io/",
       "title": "Junior Botball Challenge Taiwan · Taichung · 2026",
       "evidence": "Прочитана страница SPARK: 13.12.2026, площадка, две части дня, младшие уровни и документы отдельной папкой.",
-      "checked": "2026-10-01"
+      "checked": "2026-11-08"
     },
     {
       "url": "https://www.tirtpointsrace.org/Files/Docs/EventDoc/ca28e72a-26a0-49fc-8bc6-8e26fac27c68/2026%20TIRT%20%E2%80%93%20Lightweight%20Sumo%20Robot%20Competition%20Robot%20Specifications.pdf",
@@ -800462,7 +801971,7 @@
     {
       "url": "https://tgs.tca.org.tw/method_e.php",
       "title": "Официальная страница организатора",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
     },
     {
@@ -816820,6 +818329,108 @@
       "title": "Страница организатора или регламент категории.",
       "checked": "2026-11-08",
       "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://miraiminds.jp/classes/sis-saturday-clubs/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.roboticaeducativa.pe/landing-robotica?utm_campaign=robotica_online&utm_content=home_enlace_kids&utm_medium=owned_web&utm_source=roboticaeducativa_pe",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.roboticaeducativa.pe/programacion-de-videojuegos-para-ninos",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://disenograficokids.technologybit.pe/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://roboticachosica.technologybit.pe/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.curio.kids/products/future-engineers-winter-2026",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://bricks4kidz.sg/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://smarthon.cc/singapore-smarthon-cup-2026/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://smarthon.cc/global-competition/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://smarthon.cc/smarthon-cup-competition/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.kipr.org/gcer",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.kipr.org/botball-explorer/events",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.kipr.org/gcer/register-gcer",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://spark-taiwan-association.github.io/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://tgs.tca.org.tw/?p=event_info",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://tgs.tca.org.tw/?p=bg_method_e",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
     }
   ],
   "wro_members": 108,
@@ -819513,7 +821124,7 @@
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 32,
       "exhibitions": 0,
-      "camps": 32,
+      "camps": 39,
       "dated": 55,
       "organizer": "CONECTA - Center for Comprehensive Educational Development",
       "organizer_url": "https://cendeit.pe/",
@@ -819637,10 +821248,10 @@
       "country": "Соединенные Штаты Америки",
       "region": "Северная Америка",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 1408,
-      "exhibitions": 53,
+      "competitions": 1409,
+      "exhibitions": 54,
       "camps": 457,
-      "dated": 1893,
+      "dated": 1895,
       "organizer": "US Engineering League",
       "organizer_url": "https://www.uselyouthrobotics.com",
       "network_routes": 4,
@@ -819749,10 +821360,10 @@
       "country": "Китай, Специальный административный район Гонконг",
       "region": "Азия",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 29,
+      "competitions": 31,
       "exhibitions": 6,
       "camps": 373,
-      "dated": 399,
+      "dated": 400,
       "organizer": "Peach Creative Production Limited",
       "organizer_url": "https://wrohk.org/",
       "network_routes": 5,
@@ -819793,8 +821404,8 @@
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 47,
       "exhibitions": 24,
-      "camps": 122,
-      "dated": 180,
+      "camps": 124,
+      "dated": 182,
       "organizer": "NPO WRO Japan",
       "organizer_url": "https://www.wroj.org",
       "network_routes": 4,
@@ -819931,10 +821542,10 @@
       "country": "Сингапур",
       "region": "Азия",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 32,
-      "exhibitions": 10,
+      "competitions": 33,
+      "exhibitions": 12,
       "camps": 626,
-      "dated": 640,
+      "dated": 643,
       "organizer": "Space Faculty",
       "organizer_url": "https://spacefaculty.asia/world-robot-olympiad/",
       "network_routes": 3,
@@ -821487,8 +823098,8 @@
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 47,
       "exhibitions": 20,
-      "camps": 216,
-      "dated": 266,
+      "camps": 217,
+      "dated": 267,
       "organizer": "ESUN Robot Association in Taiwan",
       "organizer_url": "https://www.facebook.com/ESUNRA",
       "network_routes": 5,
@@ -825680,7 +827291,8 @@
         "event_ids": [
           "C060",
           "C778",
-          "C3482"
+          "C3482",
+          "C4714"
         ],
         "legacy_ids": [
           "C060"
@@ -851500,12 +853112,12 @@
       "fully_audited_countries": 0
     },
     "counts": {
-      "cards": 10514,
-      "competition_cards": 4709,
-      "event_cards": 631,
-      "camp_cards": 5174,
+      "cards": 10531,
+      "competition_cards": 4713,
+      "event_cards": 634,
+      "camp_cards": 5184,
       "league_profiles": 303,
-      "major_exhibition_cards": 532,
+      "major_exhibition_cards": 535,
       "vex_cards": 814,
       "countries_with_records": 242,
       "fully_audited_countries": 0
@@ -851518,11 +853130,11 @@
           "Центральная Америка",
           "Карибский регион"
         ],
-        "total": 3439,
+        "total": 3441,
         "countries_with_records": 41,
-        "competitions": 1938,
-        "events": 172,
-        "major_exhibitions": 131,
+        "competitions": 1939,
+        "events": 173,
+        "major_exhibitions": 132,
         "camps": 1329,
         "status": "Частично исследовано",
         "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -851532,12 +853144,12 @@
         "regions": [
           "Южная Америка"
         ],
-        "total": 692,
+        "total": 699,
         "countries_with_records": 15,
         "competitions": 433,
         "events": 51,
         "major_exhibitions": 47,
-        "camps": 208,
+        "camps": 215,
         "status": "Частично исследовано",
         "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
       },
@@ -851574,12 +853186,12 @@
         "regions": [
           "Азия"
         ],
-        "total": 3001,
+        "total": 3009,
         "countries_with_records": 50,
-        "competitions": 1168,
-        "events": 166,
-        "major_exhibitions": 153,
-        "camps": 1667,
+        "competitions": 1171,
+        "events": 168,
+        "major_exhibitions": 155,
+        "camps": 1670,
         "status": "Частично исследовано",
         "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
       },
@@ -854018,11 +855630,12 @@
         "event_ids": [
           "C060",
           "C778",
-          "C3482"
+          "C3482",
+          "C4714"
         ],
-        "cards": 3,
-        "future_dated": 2,
-        "linked_card_count": 3,
+        "cards": 4,
+        "future_dated": 3,
+        "linked_card_count": 4,
         "status": "Есть профиль и карточки; местный охват частичный",
         "source": "https://www.kipr.org/junior-botball-challenge",
         "new": false
@@ -866125,6 +867738,39 @@
         "new": false
       },
       {
+        "id": "E632",
+        "name": "Bricks 4 Kidz Singapore · LEGO STEM Open House · 2026-12-12",
+        "country": "Сингапур",
+        "region": "Азия",
+        "start": "2026-12-12",
+        "end": "2026-12-12",
+        "visitor_policy": "family",
+        "source": "https://bricks4kidz.sg/",
+        "new": false
+      },
+      {
+        "id": "E633",
+        "name": "Bricks 4 Kidz Singapore · LEGO STEM Open House · 2026-12-19",
+        "country": "Сингапур",
+        "region": "Азия",
+        "start": "2026-12-19",
+        "end": "2026-12-19",
+        "visitor_policy": "family",
+        "source": "https://bricks4kidz.sg/",
+        "new": false
+      },
+      {
+        "id": "E634",
+        "name": "GCER 2027 · Educational Robotics Conference",
+        "country": "Соединенные Штаты Америки",
+        "region": "Северная Америка",
+        "start": "2027-07-04",
+        "end": "2027-07-08",
+        "visitor_policy": "confirm_children",
+        "source": "https://www.kipr.org/gcer",
+        "new": false
+      },
+      {
         "id": "E240",
         "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
         "country": "Польша",
@@ -868542,14 +870188,14 @@
         }
       ],
       "counts": {
-        "records": 5174,
-        "holiday": 4758,
-        "regular": 183,
+        "records": 5184,
+        "holiday": 4759,
+        "regular": 187,
         "self_paced_materials": 4,
         "boarding": 1038,
-        "en_es_instruction": 1595,
+        "en_es_instruction": 1596,
         "en_es_support": 28,
-        "family_instruction": 1595,
+        "family_instruction": 1596,
         "family_support": 28,
         "ru_instruction": 4,
         "language_lessons": 414,
@@ -871361,14 +873007,14 @@
       }
     ],
     "counts": {
-      "records": 5174,
-      "holiday": 4758,
-      "regular": 183,
+      "records": 5184,
+      "holiday": 4759,
+      "regular": 187,
       "self_paced_materials": 4,
       "boarding": 1038,
-      "en_es_instruction": 1595,
+      "en_es_instruction": 1596,
       "en_es_support": 28,
-      "family_instruction": 1595,
+      "family_instruction": 1596,
       "family_support": 28,
       "ru_instruction": 4,
       "language_lessons": 414,
@@ -896798,15 +898444,15 @@
       "school_grades_known": false
     },
     "counts": {
-      "dossiers": 2061,
+      "dossiers": 2069,
       "countries": 132,
       "swiss": 137,
       "by_status": {
         "published_2026_27": 289,
         "published_2027": 552,
-        "partial_2027": 145,
+        "partial_2027": 152,
         "next_unannounced": 432,
-        "published_2026": 404,
+        "published_2026": 405,
         "partial_2026_27": 38,
         "partial_2026": 24,
         "archive_next_unannounced": 147,
@@ -896816,7 +898462,7 @@
         "announced_dates_programme_pending": 5,
         "confirmed_2027": 1
       },
-      "source_urls": 2966
+      "source_urls": 2972
     },
     "countries": [
       {
@@ -897173,7 +898819,7 @@
       },
       {
         "country": "Перу",
-        "count": 21
+        "count": 28
       },
       {
         "country": "Польша",
@@ -897237,7 +898883,7 @@
       },
       {
         "country": "Тайвань",
-        "count": 173
+        "count": 174
       },
       {
         "country": "Тринидад и Тобаго",
@@ -1250591,6 +1252237,679 @@
           "L838"
         ],
         "calendar_links": []
+      },
+      {
+        "id": "CP2062",
+        "slug": "technology-bit-peru-online-kids-2027",
+        "provider": "Technology Bit · Robótica Kids online",
+        "country": "Перу",
+        "iso": "PER",
+        "place": "Online · Peru",
+        "age": "4–6 лет.",
+        "programme": "Простые машины LEGO. Рычаги, шестерни и конструкции, 8 онлайн-уроков по 90 минут на уровень.",
+        "format": "online",
+        "formats": [
+          "online"
+        ],
+        "language": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "partial_2027",
+          "label": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+          "sessions": [],
+          "session_details": [],
+          "variant_keyed": true,
+          "precision": "announced_month",
+          "announced_months": [
+            "2027-01"
+          ]
+        },
+        "price": {
+          "year": 2026,
+          "amount": null,
+          "currency": "PEN",
+          "unit": "programme",
+          "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+          "included": "",
+          "extras": "LEGO Education Early Simple Machines. Для иностранного адреса предлагают пакет занятий без доставки набора. Нужный комплект надо иметь дома.",
+          "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+        },
+        "accommodation": "Живые занятия из дома, доступны также из других стран.",
+        "family_fit": {
+          "matvey": {
+            "status": "not_eligible",
+            "detail": "Нет. Верхняя граница 6 лет."
+          },
+          "oscar": {
+            "status": "conditional",
+            "detail": "Условно. В январе 2027 сверить, исполнилось ли 7 лет. На момент старта Kids рассчитан на детей до 6 лет включительно."
+          }
+        },
+        "editorial_reason": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+        "shortlist": [],
+        "questions": [
+          "Запросить расписание, язык преподавателя и полный счёт. Для зарубежного участия уточнить наличие нужного набора."
+        ],
+        "sources": [
+          {
+            "url": "https://www.roboticaeducativa.pe/landing-robotica?utm_campaign=robotica_online&utm_content=home_enlace_kids&utm_medium=owned_web&utm_source=roboticaeducativa_pe",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "robotics",
+          "engineering"
+        ],
+        "programme_type": "online_course",
+        "catalog_participation": "online",
+        "related_event_ids": [
+          "L841"
+        ],
+        "calendar_links": []
+      },
+      {
+        "id": "CP2063",
+        "slug": "technology-bit-peru-online-junior-2027",
+        "provider": "Technology Bit · Robótica Junior online",
+        "country": "Перу",
+        "iso": "PER",
+        "place": "Online · Peru",
+        "age": "7–12 лет.",
+        "programme": "LEGO WeDo 2.0, датчики и визуальный код. 8 живых занятий по 90 минут на уровень.",
+        "format": "online",
+        "formats": [
+          "online"
+        ],
+        "language": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "partial_2027",
+          "label": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+          "sessions": [],
+          "session_details": [],
+          "variant_keyed": true,
+          "precision": "announced_month",
+          "announced_months": [
+            "2027-01"
+          ]
+        },
+        "price": {
+          "year": 2026,
+          "amount": null,
+          "currency": "PEN",
+          "unit": "programme",
+          "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+          "included": "",
+          "extras": "LEGO WeDo 2.0. Для иностранного адреса предлагают пакет занятий без доставки набора. Нужный комплект надо иметь дома.",
+          "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+        },
+        "accommodation": "Живые занятия из дома, доступны также из других стран.",
+        "family_fit": {
+          "matvey": {
+            "status": "candidate",
+            "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+          },
+          "oscar": {
+            "status": "later",
+            "detail": "Нет сейчас. В январе 2027 проверить, исполнилось ли 7 лет к старту."
+          }
+        },
+        "editorial_reason": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+        "shortlist": [],
+        "questions": [
+          "Запросить расписание, язык преподавателя и полный счёт. Для зарубежного участия уточнить наличие нужного набора."
+        ],
+        "sources": [
+          {
+            "url": "https://www.roboticaeducativa.pe/landing-robotica?utm_campaign=robotica_online&utm_content=home_enlace_kids&utm_medium=owned_web&utm_source=roboticaeducativa_pe",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "robotics",
+          "coding"
+        ],
+        "programme_type": "online_course",
+        "catalog_participation": "online",
+        "related_event_ids": [
+          "L842"
+        ],
+        "calendar_links": []
+      },
+      {
+        "id": "CP2064",
+        "slug": "technology-bit-peru-mini-games-2027",
+        "provider": "Technology Bit · Creación de Mini-Videojuegos",
+        "country": "Перу",
+        "iso": "PER",
+        "place": "Online · Peru",
+        "age": "7–9 лет.",
+        "programme": "10 занятий по 90 минут в прямом эфире. Дети создают персонажей, сцены, звуки и мини-игры в Scratch.",
+        "format": "online",
+        "formats": [
+          "online"
+        ],
+        "language": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "partial_2027",
+          "label": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+          "sessions": [],
+          "session_details": [],
+          "variant_keyed": true,
+          "precision": "announced_month",
+          "announced_months": [
+            "2027-01"
+          ]
+        },
+        "price": {
+          "year": 2026,
+          "amount": null,
+          "currency": "PEN",
+          "unit": "programme",
+          "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+          "included": "",
+          "extras": "Нужен компьютер Core i3 или выше, от 4 GB RAM. Планшет не подходит.",
+          "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+        },
+        "accommodation": "Живые занятия из дома, доступны также из других стран.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Условно. Сверить фактический возраст, класс и правила допуска."
+          },
+          "oscar": {
+            "status": "later",
+            "detail": "Нет сейчас. В январе 2027 проверить, исполнилось ли 7 лет к старту."
+          }
+        },
+        "editorial_reason": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+        "shortlist": [],
+        "questions": [
+          "Запросить расписание, язык группы и полный счёт. До записи сверить требования к компьютеру."
+        ],
+        "sources": [
+          {
+            "url": "https://www.roboticaeducativa.pe/programacion-de-videojuegos-para-ninos",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "games",
+          "coding"
+        ],
+        "programme_type": "online_course",
+        "catalog_participation": "online",
+        "related_event_ids": [
+          "L843"
+        ],
+        "calendar_links": []
+      },
+      {
+        "id": "CP2065",
+        "slug": "technology-bit-peru-retro-games-2027",
+        "provider": "Technology Bit · Programación de Videojuegos Retro",
+        "country": "Перу",
+        "iso": "PER",
+        "place": "Online · Peru",
+        "age": "10–13 лет.",
+        "programme": "3 уровня по 10 занятий. Переменные, условия, циклы, клоны, физика платформера и игровые уровни.",
+        "format": "online",
+        "formats": [
+          "online"
+        ],
+        "language": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "partial_2027",
+          "label": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+          "sessions": [],
+          "session_details": [],
+          "variant_keyed": true,
+          "precision": "announced_month",
+          "announced_months": [
+            "2027-01"
+          ]
+        },
+        "price": {
+          "year": 2026,
+          "amount": null,
+          "currency": "PEN",
+          "unit": "programme",
+          "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+          "included": "",
+          "extras": "Нужен компьютер Core i3 или выше, от 4 GB RAM. Планшет не подходит.",
+          "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+        },
+        "accommodation": "Живые занятия из дома, доступны также из других стран.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Условно. Минимум 10 лет на момент начала курса."
+          },
+          "oscar": {
+            "status": "later",
+            "detail": "Нет сейчас. Минимум 10 лет."
+          }
+        },
+        "editorial_reason": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+        "shortlist": [],
+        "questions": [
+          "Запросить расписание, язык группы и полный счёт. До записи сверить требования к компьютеру."
+        ],
+        "sources": [
+          {
+            "url": "https://www.roboticaeducativa.pe/programacion-de-videojuegos-para-ninos",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "games",
+          "coding"
+        ],
+        "programme_type": "online_course",
+        "catalog_participation": "online",
+        "related_event_ids": [
+          "L844"
+        ],
+        "calendar_links": []
+      },
+      {
+        "id": "CP2066",
+        "slug": "technology-bit-peru-ai-design-2027",
+        "provider": "Technology Bit · Diseño Gráfico con IA",
+        "country": "Перу",
+        "iso": "PER",
+        "place": "Online · Peru",
+        "age": "9–16 лет.",
+        "programme": "Графика и персонажи с ИИ, Photopea, видеомонтаж. 3 уровня по 8 живых занятий по 90 минут.",
+        "format": "online",
+        "formats": [
+          "online"
+        ],
+        "language": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "partial_2027",
+          "label": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+          "sessions": [],
+          "session_details": [],
+          "variant_keyed": true,
+          "precision": "announced_month",
+          "announced_months": [
+            "2027-01"
+          ]
+        },
+        "price": {
+          "year": 2026,
+          "amount": null,
+          "currency": "PEN",
+          "unit": "programme",
+          "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+          "included": "",
+          "extras": "Браузер Google Chrome. Оператор заявляет до 10 учеников в группе.",
+          "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+        },
+        "accommodation": "Живые занятия из дома, доступны также из других стран.",
+        "family_fit": {
+          "matvey": {
+            "status": "candidate",
+            "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+          },
+          "oscar": {
+            "status": "later",
+            "detail": "Нет сейчас. Минимум 9 лет на выбранную дату."
+          }
+        },
+        "editorial_reason": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+        "shortlist": [],
+        "questions": [
+          "Запросить расписание, язык группы и полный счёт. До записи сверить требования к компьютеру."
+        ],
+        "sources": [
+          {
+            "url": "https://disenograficokids.technologybit.pe/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "ai",
+          "technology",
+          "design"
+        ],
+        "programme_type": "online_course",
+        "catalog_participation": "online",
+        "related_event_ids": [
+          "L845"
+        ],
+        "calendar_links": []
+      },
+      {
+        "id": "CP2067",
+        "slug": "technology-bit-chosica-kids-2027",
+        "provider": "Technology Bit · Chosica Robótica Kids",
+        "country": "Перу",
+        "iso": "PER",
+        "place": "Chosica · Lima",
+        "age": "4–6 лет.",
+        "programme": "Механика LEGO без экрана. Рычаги, блоки и шестерни.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "partial_2027",
+          "label": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+          "sessions": [],
+          "session_details": [],
+          "variant_keyed": true,
+          "precision": "announced_month",
+          "announced_months": [
+            "2027-01"
+          ]
+        },
+        "price": {
+          "year": 2026,
+          "amount": null,
+          "currency": "PEN",
+          "unit": "programme",
+          "label": "Пробное занятие в Чосике стоит PEN 20. Полная стоимость курса уточняется.",
+          "included": "",
+          "extras": "Пробное занятие в Чосике стоит PEN 20. Полная стоимость курса уточняется.",
+          "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "not_eligible",
+            "detail": "Нет. Верхняя граница 6 лет."
+          },
+          "oscar": {
+            "status": "conditional",
+            "detail": "Условно. В январе 2027 сверить, исполнилось ли 7 лет. На момент старта Kids рассчитан на детей до 6 лет включительно."
+          }
+        },
+        "editorial_reason": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+        "shortlist": [],
+        "questions": [
+          "Запросить дату старта, язык группы и полную стоимость очного курса в Чосике."
+        ],
+        "sources": [
+          {
+            "url": "https://roboticachosica.technologybit.pe/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "robotics",
+          "engineering"
+        ],
+        "programme_type": "day_course",
+        "catalog_participation": "regular",
+        "related_event_ids": [
+          "L846"
+        ],
+        "calendar_links": []
+      },
+      {
+        "id": "CP2068",
+        "slug": "technology-bit-chosica-junior-2027",
+        "provider": "Technology Bit · Chosica Robótica Junior",
+        "country": "Перу",
+        "iso": "PER",
+        "place": "Chosica · Lima",
+        "age": "7–11 лет.",
+        "programme": "Проекты с мотором и датчиками, визуальное программирование LEGO WeDo 2.0.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Программа и общение с оператором на испанском. Язык конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "partial_2027",
+          "label": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+          "sessions": [],
+          "session_details": [],
+          "variant_keyed": true,
+          "precision": "announced_month",
+          "announced_months": [
+            "2027-01"
+          ]
+        },
+        "price": {
+          "year": 2026,
+          "amount": null,
+          "currency": "PEN",
+          "unit": "programme",
+          "label": "Пробное занятие в Чосике стоит PEN 20. Полная стоимость курса уточняется.",
+          "included": "",
+          "extras": "Пробное занятие в Чосике стоит PEN 20. Полная стоимость курса уточняется.",
+          "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "candidate",
+            "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+          },
+          "oscar": {
+            "status": "later",
+            "detail": "Нет сейчас. В январе 2027 проверить, исполнилось ли 7 лет к старту."
+          }
+        },
+        "editorial_reason": "Анонсирован старт в январе 2027. Даты группы, часы по Перу и стоимость сообщит оператор.",
+        "shortlist": [],
+        "questions": [
+          "Запросить дату старта, язык группы и полную стоимость очного курса в Чосике."
+        ],
+        "sources": [
+          {
+            "url": "https://roboticachosica.technologybit.pe/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "robotics",
+          "coding"
+        ],
+        "programme_type": "day_course",
+        "catalog_participation": "regular",
+        "related_event_ids": [
+          "L847"
+        ],
+        "calendar_links": []
+      },
+      {
+        "id": "CP2069",
+        "slug": "curio-kids-taipei-future-engineers-2026",
+        "provider": "Curio Kids · Future Engineers Winter Tech Camp",
+        "country": "Тайвань",
+        "iso": "TWN",
+        "place": "Curio Salon · Songshan · Taipei",
+        "age": "7–12 лет, преимущественно классы 2–6.",
+        "programme": "Сборка WiFi-машинки с ESP32 и C/C++, знакомство с пайкой, визит на фабрику роботов и заезд самодельных машин.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Преподавание на китайском. Английский поток не заявлен.",
+        "confirmed_instruction_languages": [
+          "ZH"
+        ],
+        "language_evidence_role": "primary",
+        "timing": {
+          "status": "published_2026",
+          "label": "09:30–16:30. Группа 6–10 человек. В цену входят обед, перекус, поездки и машинка с пультом, которую забирают домой.",
+          "sessions": [
+            [
+              "2026-12-28",
+              "2026-12-30"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "future-engineers",
+              "start": "2026-12-28",
+              "end": "2026-12-30",
+              "label": "Curio Kids · Future Engineers Winter Tech Camp",
+              "price": "TWD 12000 за 3 дня. Проверить место и условия возврата.",
+              "source": "https://www.curio.kids/products/future-engineers-winter-2026",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+              },
+              "sessions": [
+                {
+                  "date": "2026-12-28",
+                  "start_time": "09:30",
+                  "end_time": "16:30",
+                  "timezone": "Asia/Taipei",
+                  "start_utc": "2026-12-28T01:30:00Z",
+                  "end_utc": "2026-12-28T08:30:00Z",
+                  "topic": "Curio Kids · Future Engineers Winter Tech Camp",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-12-29",
+                  "start_time": "09:30",
+                  "end_time": "16:30",
+                  "timezone": "Asia/Taipei",
+                  "start_utc": "2026-12-29T01:30:00Z",
+                  "end_utc": "2026-12-29T08:30:00Z",
+                  "topic": "Curio Kids · Future Engineers Winter Tech Camp",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-12-30",
+                  "start_time": "09:30",
+                  "end_time": "16:30",
+                  "timezone": "Asia/Taipei",
+                  "start_utc": "2026-12-30T01:30:00Z",
+                  "end_utc": "2026-12-30T08:30:00Z",
+                  "topic": "Curio Kids · Future Engineers Winter Tech Camp",
+                  "ical_timed": true
+                }
+              ],
+              "delivery_mode": "in_person",
+              "admission_kind": "program"
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "amount": 12000,
+          "currency": "TWD",
+          "unit": "programme",
+          "label": "TWD 12000 за 3 дня. Проверить место и условия возврата.",
+          "included": "09:30–16:30. Группа 6–10 человек. В цену входят обед, перекус, поездки и машинка с пультом, которую забирают домой.",
+          "extras": "",
+          "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Условно. Возраст подходит, язык преподавания китайский."
+          },
+          "oscar": {
+            "status": "later",
+            "detail": "Нет сейчас. Минимум 7 лет на выбранную дату."
+          }
+        },
+        "editorial_reason": "09:30–16:30. Группа 6–10 человек. В цену входят обед, перекус, поездки и машинка с пультом, которую забирают домой.",
+        "shortlist": [],
+        "questions": [
+          "Перед записью сверить допуск, язык и наличие места.",
+          "Условия возврата и итоговый счёт уточнить до оплаты."
+        ],
+        "sources": [
+          {
+            "url": "https://www.curio.kids/products/future-engineers-winter-2026",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "robotics",
+          "coding",
+          "electronics"
+        ],
+        "programme_type": "day_camp",
+        "catalog_participation": "day_camp",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-30",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP2069-20261228-20261230-future-engineers"
+            ]
+          }
+        ]
       }
     ],
     "gaps": [
@@ -1255916,7 +1258235,7 @@
       "Младшие группы и языковое доказательство для всех приоритетных операторов.",
       "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
     ],
-    "version": 293,
+    "version": 294,
     "family_review": {
       "version": 150,
       "asof": "2026-11-05",
@@ -1269151,7 +1271470,7 @@
         }
       ],
       "coverage": {
-        "total_dossiers": 2061,
+        "total_dossiers": 2069,
         "reviewed": 71,
         "refresh_pending": 4,
         "review_dossiers": 75,
@@ -1292161,6 +1294480,46 @@
         "relation": "related_track_or_operator"
       },
       {
+        "programme_id": "CP2062",
+        "event_id": "L841",
+        "relation": "related_track_or_operator"
+      },
+      {
+        "programme_id": "CP2063",
+        "event_id": "L842",
+        "relation": "related_track_or_operator"
+      },
+      {
+        "programme_id": "CP2064",
+        "event_id": "L843",
+        "relation": "related_track_or_operator"
+      },
+      {
+        "programme_id": "CP2065",
+        "event_id": "L844",
+        "relation": "related_track_or_operator"
+      },
+      {
+        "programme_id": "CP2066",
+        "event_id": "L845",
+        "relation": "related_track_or_operator"
+      },
+      {
+        "programme_id": "CP2067",
+        "event_id": "L846",
+        "relation": "related_track_or_operator"
+      },
+      {
+        "programme_id": "CP2068",
+        "event_id": "L847",
+        "relation": "related_track_or_operator"
+      },
+      {
+        "programme_id": "CP2069",
+        "event_id": "CP2069-20261228-20261230-future-engineers",
+        "relation": "catalogue_session"
+      },
+      {
         "programme_id": "CP1294",
         "event_id": "L464",
         "relation": "existing_programme"
@@ -1296907,10 +1299266,11 @@
       "CP2055-20261205-20261205-day",
       "CP2056-20261212-20261212-day",
       "CP2057-20261219-20261219-day",
-      "CP2058-20270102-20270102-day"
+      "CP2058-20270102-20270102-day",
+      "CP2069-20261228-20261230-future-engineers"
     ],
     "integration": {
-      "generated_sessions": 4336,
+      "generated_sessions": 4337,
       "reused_legacy_events": 74,
       "seasonal_windows": 78,
       "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

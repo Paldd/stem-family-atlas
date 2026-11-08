@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10514; competiciones: 4709; eventos: 631; campamentos / programas: 5174. Perfiles de ligas y programas: 303. Fichas de exposiciones grandes y especializadas: 532 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10531; competiciones: 4713; eventos: 634; campamentos / programas: 5184. Perfiles de ligas y programas: 303. Fichas de exposiciones grandes y especializadas: 535 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 1938 | 131 | 1329 |
-| América del Sur | 15 | 433 | 47 | 208 |
+| América del Norte | 41 | 1939 | 132 | 1329 |
+| América del Sur | 15 | 433 | 47 | 215 |
 | Europa | 55 | 612 | 129 | 1491 |
 | África | 60 | 247 | 40 | 128 |
-| Asia | 50 | 1168 | 153 | 1667 |
+| Asia | 50 | 1171 | 155 | 1670 |
 | Oceanía | 27 | 167 | 30 | 336 |
 
 Fichas interregionales o globales sin continente único: 166. América del Norte incluye América Central y el Caribe. Los recuentos describen el inventario de la base y no miden su exhaustividad.
 
-VEX: 814 de las 4709 fichas de competiciones (17.3%). Existe un sesgo de cobertura claro.
+VEX: 814 de las 4713 fichas de competiciones (17.3%). El inventario está concentrado en este circuito.
 
 ## Lo que queda
 
@@ -107,7 +107,7 @@ VEX: 814 de las 4709 fichas de competiciones (17.3%). Existe un sesgo de cobertu
 - **Robotex International**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robotex.international/lego-sumo
 - **RobotChallenge**: 17 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robotchallenge.org.cn/competition-RobotSumo.html
 - **ENJOY AI**: 5 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.enjoyaiglobal.org/
-- **Junior Botball Challenge**: 3 fichas, 2 con fechas futuras exactas. Hay perfil y fichas; cobertura local parcial. https://www.kipr.org/junior-botball-challenge
+- **Junior Botball Challenge**: 4 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.kipr.org/junior-botball-challenge
 - **International Robot Olympiad**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.iroc.org/home?l=ko&s=10280
 - **IYRC**: 1 tarjeta, 0 con fechas exactas futuras. https://www.myrobotacademy.ai/iyrcasean2026
 - **International Robot Challenge · Egypt**: 8 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://international-robotchallenge.org/competition/robo-boom
@@ -903,6 +903,9 @@ VEX: 814 de las 4709 fichas de competiciones (17.3%). Existe un sesgo de cobertu
 - **OVSM-IPGP · Observatoire volcanologique et sismologique** — Martinica; 2026-11-14. con un adulto; condiciones de admisión adulta por separado. https://www.fetedelascience.fr/visite-guidee-de-l-observatoire-volcanologique-et-sismologique-de-la-martinique-ovsm-ipgp-1
 - **BRGM · Géosciences en Martinique** — Martinica; 2026-11-21. con un adulto; condiciones de admisión adulta por separado. https://www.fetedelascience.fr/geosciences-en-martinique
 - **Cité du Volcan · Village des Sciences 2026** — Reunión; 2026-10-02 – 2026-10-12. el permiso de entrada de niños. https://www.fetedelascience.fr/village-des-sciences-de-la-cite-du-volcan-2026
+- **Bricks 4 Kidz Singapore · LEGO STEM Open House · 2026-12-12** — Singapur; 2026-12-12. con un adulto; condiciones de admisión adulta por separado. https://bricks4kidz.sg/
+- **Bricks 4 Kidz Singapore · LEGO STEM Open House · 2026-12-19** — Singapur; 2026-12-19. con un adulto; condiciones de admisión adulta por separado. https://bricks4kidz.sg/
+- **GCER 2027 · Educational Robotics Conference** — Estados Unidos; 2027-07-04 – 2027-07-08. el permiso de entrada de niños. https://www.kipr.org/gcer
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

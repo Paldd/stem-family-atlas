@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10514; соревнований: 4709; событий: 631; лагерей / программ: 5174. Профилей лиг и программ: 303. Карточек крупных и профильных выставок: 532 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10531; соревнований: 4713; событий: 634; лагерей / программ: 5184. Профилей лиг и программ: 303. Карточек крупных и профильных выставок: 535 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,16 +14,16 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 41 | 1938 | 131 | 1329 |
-| Южная Америка | 15 | 433 | 47 | 208 |
+| Северная Америка | 41 | 1939 | 132 | 1329 |
+| Южная Америка | 15 | 433 | 47 | 215 |
 | Европа | 55 | 612 | 129 | 1491 |
 | Африка | 60 | 247 | 40 | 128 |
-| Азия | 50 | 1168 | 153 | 1667 |
+| Азия | 50 | 1171 | 155 | 1670 |
 | Океания | 27 | 167 | 30 | 336 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 166. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 814 из 4709 карточек соревнований (17.3%). Это явный перекос охвата.
+VEX: 814 из 4713 карточек соревнований (17.3%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -107,7 +107,7 @@ VEX: 814 из 4709 карточек соревнований (17.3%). Это я�
 - **Robotex International**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://robotex.international/lego-sumo
 - **RobotChallenge**: 17 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robotchallenge.org.cn/competition-RobotSumo.html
 - **ENJOY AI**: 5 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.enjoyaiglobal.org/
-- **Junior Botball Challenge**: 3 карточек, 2 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.kipr.org/junior-botball-challenge
+- **Junior Botball Challenge**: 4 карточек, 3 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.kipr.org/junior-botball-challenge
 - **International Robot Olympiad**: 11 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.iroc.org/home?l=ko&s=10280
 - **IYRC**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.myrobotacademy.ai/iyrcasean2026
 - **International Robot Challenge · Egypt**: 8 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://international-robotchallenge.org/competition/robo-boom
@@ -903,6 +903,9 @@ VEX: 814 из 4709 карточек соревнований (17.3%). Это я�
 - **OVSM-IPGP · Observatoire volcanologique et sismologique** — Мартиника; 2026-11-14. Со взрослым; условия взрослого входа отдельно. https://www.fetedelascience.fr/visite-guidee-de-l-observatoire-volcanologique-et-sismologique-de-la-martinique-ovsm-ipgp-1
 - **BRGM · Géosciences en Martinique** — Мартиника; 2026-11-21. Со взрослым; условия взрослого входа отдельно. https://www.fetedelascience.fr/geosciences-en-martinique
 - **Cité du Volcan · Village des Sciences 2026** — Реюньон; 2026-10-02 – 2026-10-12. Детский допуск уточнить. https://www.fetedelascience.fr/village-des-sciences-de-la-cite-du-volcan-2026
+- **Bricks 4 Kidz Singapore · LEGO STEM Open House · 2026-12-12** — Сингапур; 2026-12-12. Со взрослым; условия взрослого входа отдельно. https://bricks4kidz.sg/
+- **Bricks 4 Kidz Singapore · LEGO STEM Open House · 2026-12-19** — Сингапур; 2026-12-19. Со взрослым; условия взрослого входа отдельно. https://bricks4kidz.sg/
+- **GCER 2027 · Educational Robotics Conference** — Соединенные Штаты Америки; 2027-07-04 – 2027-07-08. Детский допуск уточнить. https://www.kipr.org/gcer
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

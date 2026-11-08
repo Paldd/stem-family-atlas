@@ -12198,6 +12198,150 @@ Limitaciones: Proyecto para el curso escolar. CNES anuncia invitaciones a centro
 Fuente: https://visite.centrespatialguyanais.cnes.fr/fr/enseignant
 Se ha comprobado: 2026-11-08
 
+### L839 · Mirai Minds · SIS Cambridge Minecraft
+
+Lugar: Japón Shinagawa International School Samezu · Tokyo
+Fecha: 2026-11-07 — 2027-05-15
+edad: 6–10 años, Grade 1–4. Explorers 6–7, Engineers 8–10.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Condicional. Cotejar la edad efectiva, el curso y las reglas de acceso.
+Formato: regular
+Idioma: Programa en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: JPY 6600 por sesión. El operador confirma la plaza, el número de asistencias y el pago.
+Acceso: Solicitud en el sitio web. El operador confirma la plaza y la fecha de inicio antes del pago.
+Limitaciones: 18 sábados, de 09:30 a 12:30. Los dos clubes son simultáneos en el campus Samezu. Confirmar admisión externa, grupo y plaza.
+Fuente: https://miraiminds.jp/classes/sis-saturday-clubs/
+Se ha comprobado: 2026-11-08
+
+### L840 · Mirai Minds · SIS Robotics & Coding
+
+Lugar: Japón Shinagawa International School Samezu · Tokyo
+Fecha: 2026-11-07 — 2027-05-15
+edad: 7–12 años, Grade 2–6. Block Coders 7–9, Text Coders 10–12.
+Matvey: Condicional. Cotejar la edad efectiva, el curso y las reglas de acceso.
+Oscar: Actualmente no cumple. Mínimo de 7 años en la fecha elegida.
+Formato: regular
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: JPY 6600 por sesión. El operador confirma la plaza, el número de asistencias y el pago.
+Acceso: Solicitud en el sitio web. El operador confirma la plaza y la fecha de inicio antes del pago.
+Limitaciones: 18 sábados, de 09:30 a 12:30. Los dos clubes son simultáneos en el campus Samezu. Confirmar admisión externa, grupo y plaza.
+Fuente: https://miraiminds.jp/classes/sis-saturday-clubs/
+Se ha comprobado: 2026-11-08
+
+### L841 · Technology Bit · Robótica Kids online
+
+lugar: Perú · Online · Peru
+Fecha: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Edad: 4–6 años.
+Matvey: No cumple. El máximo es 6 años.
+Oscar: Condicional. En enero de 2027 comprobar si ya cumplió 7 años. Al inicio, Kids es para menores de hasta 6 años inclusive.
+Formato: online
+Idioma: Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Solicitar horario, idioma de instrucción y coste completo. Para participar desde el extranjero, confirmar la disponibilidad del kit necesario.
+Limitaciones: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Fuente: https://www.roboticaeducativa.pe/landing-robotica?utm_campaign=robotica_online&utm_content=home_enlace_kids&utm_medium=owned_web&utm_source=roboticaeducativa_pe
+Se ha comprobado: 2026-11-08
+
+### L842 · Technology Bit · Robótica Junior online
+
+lugar: Perú · Online · Peru
+Fecha: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Edad: 7 a 12 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Actualmente no cumple. En enero de 2027 comprobar si ya cumplió 7 años al inicio.
+Formato: online
+Idioma: Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Solicitar horario, idioma de instrucción y coste completo. Para participar desde el extranjero, confirmar la disponibilidad del kit necesario.
+Limitaciones: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Fuente: https://www.roboticaeducativa.pe/landing-robotica?utm_campaign=robotica_online&utm_content=home_enlace_kids&utm_medium=owned_web&utm_source=roboticaeducativa_pe
+Se ha comprobado: 2026-11-08
+
+### L843 · Technology Bit · Creación de Mini-Videojuegos
+
+lugar: Perú · Online · Peru
+Fecha: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Edad: 7–9 años.
+Matvey: Condicional. Cotejar la edad efectiva, el curso y las reglas de acceso.
+Oscar: Actualmente no cumple. En enero de 2027 comprobar si ya cumplió 7 años al inicio.
+Formato: online
+Idioma: Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso. Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse.
+Limitaciones: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Fuente: https://www.roboticaeducativa.pe/programacion-de-videojuegos-para-ninos
+Se ha comprobado: 2026-11-08
+
+### L844 · Technology Bit · Programación de Videojuegos Retro
+
+lugar: Perú · Online · Peru
+Fecha: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Edad: 10 a 13 años.
+Matvey: Condicional. Mínimo de 10 años al inicio del curso.
+Oscar: Actualmente no cumple. Mínimo de 10 años.
+Formato: online
+Idioma: Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso. Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse.
+Limitaciones: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Fuente: https://www.roboticaeducativa.pe/programacion-de-videojuegos-para-ninos
+Se ha comprobado: 2026-11-08
+
+### L845 · Technology Bit · Diseño Gráfico con IA
+
+lugar: Perú · Online · Peru
+Fecha: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Edad: 9*16 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Actualmente no cumple. Mínimo de 9 años en la fecha elegida.
+Formato: online
+Idioma: Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso. Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse.
+Limitaciones: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Fuente: https://disenograficokids.technologybit.pe/
+Se ha comprobado: 2026-11-08
+
+### L846 · Technology Bit · Chosica Robótica Kids
+
+lugar: Perú · Chosica · Lima
+Fecha: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Edad: 4–6 años.
+Matvey: No cumple. El máximo es 6 años.
+Oscar: Condicional. En enero de 2027 comprobar si ya cumplió 7 años. Al inicio, Kids es para menores de hasta 6 años inclusive.
+Formato: regular
+Idioma: Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste. La clase de prueba en Chosica cuesta PEN 20. Consultar el coste total del curso.
+Acceso. Solicitar fecha de inicio, idioma del grupo y coste total del curso presencial en Chosica.
+Limitaciones: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Fuente: https://roboticachosica.technologybit.pe/
+Se ha comprobado: 2026-11-08
+
+### L847 · Technology Bit · Chosica Robótica Junior
+
+lugar: Perú · Chosica · Lima
+Fecha: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Edad: 7–11 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Actualmente no cumple. En enero de 2027 comprobar si ya cumplió 7 años al inicio.
+Formato: regular
+Idioma: Programa y atención del operador en español. Confirmar el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Coste. La clase de prueba en Chosica cuesta PEN 20. Consultar el coste total del curso.
+Acceso. Solicitar fecha de inicio, idioma del grupo y coste total del curso presencial en Chosica.
+Limitaciones: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
+Fuente: https://roboticachosica.technologybit.pe/
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -81572,6 +81716,22 @@ Precio: 2027 · 50 EUR por menor. · suplementos y condiciones en el dossier
 Acceso: Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción.
 Limitaciones: Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: Sí por edad. Confirmar las plazas y las condiciones de participación. Suplementos: Llevar merienda sin frutos secos, bebida e impermeable. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://junioreinsteinsscienceclub.com/events/junior-astronauts-space-science-camp-in-glasnevin-dublin-saturday-2nd-january-2pm-5pm/
+Se ha comprobado: 2026-11-08
+
+### CP2069-20261228-20261230-future-engineers · Curio Kids · Future Engineers Winter Tech Camp · Curio Kids · Future Engineers Winter Tech Camp · 2026-12-28–2026-12-30
+
+lugar: Taiwán · Curio Salon · Songshan · Taipei
+Fecha: 2026-12-28 — 2026-12-30
+edad: 7–12 años, principalmente grados 2–6.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Enseñanza en chino. No se anuncia un grupo en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · TWD 12000 por 3 días. Confirmar la plaza y las condiciones de devolución. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Cumple por edad y la enseñanza es en chino. Oscar: Actualmente no cumple. Mínimo de 7 años en la fecha elegida. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.curio.kids/products/future-engineers-winter-2026
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

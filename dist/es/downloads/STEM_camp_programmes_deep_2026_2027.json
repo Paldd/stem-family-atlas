@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2061,
+    "dossiers": 2069,
     "countries": 132,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 289,
       "published_2027": 552,
-      "partial_2027": 145,
+      "partial_2027": 152,
       "next_unannounced": 432,
-      "published_2026": 404,
+      "published_2026": 405,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1
     },
-    "source_urls": 2966
+    "source_urls": 2972
   },
   "countries": [
     {
@@ -405,7 +405,7 @@
     },
     {
       "country": "Perú",
-      "count": 21
+      "count": 28
     },
     {
       "country": "Polonia",
@@ -469,7 +469,7 @@
     },
     {
       "country": "Taiwán",
-      "count": 173
+      "count": 174
     },
     {
       "country": "Trinidad y Tobago",
@@ -353823,6 +353823,679 @@
         "L838"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP2062",
+      "slug": "technology-bit-peru-online-kids-2027",
+      "provider": "Technology Bit · Robótica Kids online",
+      "country": "Perú",
+      "iso": "PER",
+      "place": "Online · Peru",
+      "age": "4–6 años.",
+      "programme": "Máquinas simples LEGO. Palancas, engranajes y estructuras, 8 clases en línea de 90 minutos por nivel.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-01"
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "PEN",
+        "unit": "programme",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "LEGO Education Early Simple Machines. Para domicilios extranjeros ofrecen el paquete de clases sin envío del kit. Hace falta tener el kit necesario en casa.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Clases en directo desde casa, también disponibles desde otros países.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No cumple. El máximo es 6 años."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. En enero de 2027 comprobar si ya cumplió 7 años. Al inicio, Kids es para menores de hasta 6 años inclusive."
+        }
+      },
+      "editorial_reason": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "shortlist": [],
+      "questions": [
+        "Solicitar horario, idioma de instrucción y coste completo. Para participar desde el extranjero, confirmar la disponibilidad del kit necesario."
+      ],
+      "sources": [
+        {
+          "url": "https://www.roboticaeducativa.pe/landing-robotica?utm_campaign=robotica_online&utm_content=home_enlace_kids&utm_medium=owned_web&utm_source=roboticaeducativa_pe",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "programme_type": "online_course",
+      "catalog_participation": "online",
+      "related_event_ids": [
+        "L841"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2063",
+      "slug": "technology-bit-peru-online-junior-2027",
+      "provider": "Technology Bit · Robótica Junior online",
+      "country": "Perú",
+      "iso": "PER",
+      "place": "Online · Peru",
+      "age": "7–12 años.",
+      "programme": "LEGO WeDo 2.0, sensores y código visual. 8 clases en directo de 90 minutos por nivel.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-01"
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "PEN",
+        "unit": "programme",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "LEGO WeDo 2.0. Para domicilios extranjeros ofrecen el paquete de clases sin envío del kit. Hace falta tener el kit necesario en casa.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Clases en directo desde casa, también disponibles desde otros países.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Actualmente no cumple. En enero de 2027 comprobar si ya cumplió 7 años al inicio."
+        }
+      },
+      "editorial_reason": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "shortlist": [],
+      "questions": [
+        "Solicitar horario, idioma de instrucción y coste completo. Para participar desde el extranjero, confirmar la disponibilidad del kit necesario."
+      ],
+      "sources": [
+        {
+          "url": "https://www.roboticaeducativa.pe/landing-robotica?utm_campaign=robotica_online&utm_content=home_enlace_kids&utm_medium=owned_web&utm_source=roboticaeducativa_pe",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "online_course",
+      "catalog_participation": "online",
+      "related_event_ids": [
+        "L842"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2064",
+      "slug": "technology-bit-peru-mini-games-2027",
+      "provider": "Technology Bit · Creación de Mini-Videojuegos",
+      "country": "Perú",
+      "iso": "PER",
+      "place": "Online · Peru",
+      "age": "De 7 a 9 años.",
+      "programme": "10 clases de 90 minutos en directo. Se crean personajes, escenas, sonidos y minijuegos en Scratch.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-01"
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "PEN",
+        "unit": "programme",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "Se requiere un ordenador Core i3 o superior y al menos 4 GB de RAM. La tableta no es adecuada.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Clases en directo desde casa, también disponibles desde otros países.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Cotejar la edad efectiva, el curso y las reglas de acceso."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Actualmente no cumple. En enero de 2027 comprobar si ya cumplió 7 años al inicio."
+        }
+      },
+      "editorial_reason": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "shortlist": [],
+      "questions": [
+        "Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://www.roboticaeducativa.pe/programacion-de-videojuegos-para-ninos",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "programme_type": "online_course",
+      "catalog_participation": "online",
+      "related_event_ids": [
+        "L843"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2065",
+      "slug": "technology-bit-peru-retro-games-2027",
+      "provider": "Technology Bit · Programación de Videojuegos Retro",
+      "country": "Perú",
+      "iso": "PER",
+      "place": "Online · Peru",
+      "age": "10–13 años.",
+      "programme": "3 niveles de 10 clases. Variables, condicionales, bucles, clones, física de plataformas y niveles de juego.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-01"
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "PEN",
+        "unit": "programme",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "Se requiere un ordenador Core i3 o superior y al menos 4 GB de RAM. La tableta no es adecuada.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Clases en directo desde casa, también disponibles desde otros países.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Mínimo de 10 años al inicio del curso."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Actualmente no cumple. Mínimo de 10 años."
+        }
+      },
+      "editorial_reason": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "shortlist": [],
+      "questions": [
+        "Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://www.roboticaeducativa.pe/programacion-de-videojuegos-para-ninos",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "programme_type": "online_course",
+      "catalog_participation": "online",
+      "related_event_ids": [
+        "L844"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2066",
+      "slug": "technology-bit-peru-ai-design-2027",
+      "provider": "Technology Bit · Diseño Gráfico con IA",
+      "country": "Perú",
+      "iso": "PER",
+      "place": "Online · Peru",
+      "age": "9–16 años.",
+      "programme": "Gráficos y personajes con IA, Photopea y edición de vídeo. 3 niveles de 8 clases en directo de 90 minutos.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-01"
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "PEN",
+        "unit": "programme",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "Navegador Google Chrome. El operador indica hasta 10 estudiantes por grupo.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Clases en directo desde casa, también disponibles desde otros países.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Actualmente no cumple. Mínimo de 9 años en la fecha elegida."
+        }
+      },
+      "editorial_reason": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "shortlist": [],
+      "questions": [
+        "Solicitar horario, idioma del grupo y coste completo. Cotejar los requisitos del ordenador antes de inscribirse."
+      ],
+      "sources": [
+        {
+          "url": "https://disenograficokids.technologybit.pe/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "technology",
+        "design"
+      ],
+      "programme_type": "online_course",
+      "catalog_participation": "online",
+      "related_event_ids": [
+        "L845"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2067",
+      "slug": "technology-bit-chosica-kids-2027",
+      "provider": "Technology Bit · Chosica Robótica Kids",
+      "country": "Perú",
+      "iso": "PER",
+      "place": "Chosica · Lima",
+      "age": "4–6 años.",
+      "programme": "Mecánica LEGO sin pantalla. Palancas, poleas y engranajes.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-01"
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "PEN",
+        "unit": "programme",
+        "label": "La clase de prueba en Chosica cuesta PEN 20. Consultar el coste total del curso.",
+        "included": "",
+        "extras": "La clase de prueba en Chosica cuesta PEN 20. Consultar el coste total del curso.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No cumple. El máximo es 6 años."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. En enero de 2027 comprobar si ya cumplió 7 años. Al inicio, Kids es para menores de hasta 6 años inclusive."
+        }
+      },
+      "editorial_reason": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "shortlist": [],
+      "questions": [
+        "Solicitar fecha de inicio, idioma del grupo y coste total del curso presencial en Chosica."
+      ],
+      "sources": [
+        {
+          "url": "https://roboticachosica.technologybit.pe/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L846"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2068",
+      "slug": "technology-bit-chosica-junior-2027",
+      "provider": "Technology Bit · Chosica Robótica Junior",
+      "country": "Perú",
+      "iso": "PER",
+      "place": "Chosica · Lima",
+      "age": "7–11 años.",
+      "programme": "Proyectos con motor y sensores, programación visual con LEGO WeDo 2.0.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Programa y atención del operador en español. Confirmar el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "announced_month",
+        "announced_months": [
+          "2027-01"
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "PEN",
+        "unit": "programme",
+        "label": "La clase de prueba en Chosica cuesta PEN 20. Consultar el coste total del curso.",
+        "included": "",
+        "extras": "La clase de prueba en Chosica cuesta PEN 20. Consultar el coste total del curso.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Actualmente no cumple. En enero de 2027 comprobar si ya cumplió 7 años al inicio."
+        }
+      },
+      "editorial_reason": "Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.",
+      "shortlist": [],
+      "questions": [
+        "Solicitar fecha de inicio, idioma del grupo y coste total del curso presencial en Chosica."
+      ],
+      "sources": [
+        {
+          "url": "https://roboticachosica.technologybit.pe/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.roboticaeducativa.pe/talleres-de-robotica-educativa-vacaciones-utiles-verano-en-lima-peru/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L847"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2069",
+      "slug": "curio-kids-taipei-future-engineers-2026",
+      "provider": "Curio Kids · Future Engineers Winter Tech Camp",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Curio Salon · Songshan · Taipei",
+      "age": "7–12 años, principalmente grados 2–6.",
+      "programme": "Montaje de coche WiFi con ESP32 y C/C++, iniciación a soldadura, visita a fábrica de robots y carrera de coches construidos por el alumnado.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Enseñanza en chino. No se anuncia un grupo en inglés.",
+      "confirmed_instruction_languages": [
+        "ZH"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026",
+        "label": "09:30–16:30. Grupo de 6–10 personas. Incluye almuerzo, merienda, visitas y coche con mando para llevar a casa.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "future-engineers",
+            "start": "2026-12-28",
+            "end": "2026-12-30",
+            "label": "Curio Kids · Future Engineers Winter Tech Camp",
+            "price": "TWD 12000 por 3 días. Confirmar la plaza y las condiciones de devolución.",
+            "source": "https://www.curio.kids/products/future-engineers-winter-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2026-12-28T01:30:00Z",
+                "end_utc": "2026-12-28T08:30:00Z",
+                "topic": "Curio Kids · Future Engineers Winter Tech Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2026-12-29T01:30:00Z",
+                "end_utc": "2026-12-29T08:30:00Z",
+                "topic": "Curio Kids · Future Engineers Winter Tech Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:30",
+                "end_time": "16:30",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2026-12-30T01:30:00Z",
+                "end_utc": "2026-12-30T08:30:00Z",
+                "topic": "Curio Kids · Future Engineers Winter Tech Camp",
+                "ical_timed": true
+              }
+            ],
+            "delivery_mode": "in_person",
+            "admission_kind": "program"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 12000,
+        "currency": "TWD",
+        "unit": "programme",
+        "label": "TWD 12000 por 3 días. Confirmar la plaza y las condiciones de devolución.",
+        "included": "09:30–16:30. Grupo de 6–10 personas. Incluye almuerzo, merienda, visitas y coche con mando para llevar a casa.",
+        "extras": "",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Cumple por edad y la enseñanza es en chino."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Actualmente no cumple. Mínimo de 7 años en la fecha elegida."
+        }
+      },
+      "editorial_reason": "09:30–16:30. Grupo de 6–10 personas. Incluye almuerzo, merienda, visitas y coche con mando para llevar a casa.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.curio.kids/products/future-engineers-winter-2026",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "electronics"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2069-20261228-20261230-future-engineers"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -359148,7 +359821,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 293,
+  "version": 294,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -372383,7 +373056,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2061,
+      "total_dossiers": 2069,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -395393,6 +396066,46 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP2062",
+      "event_id": "L841",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2063",
+      "event_id": "L842",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2064",
+      "event_id": "L843",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2065",
+      "event_id": "L844",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2066",
+      "event_id": "L845",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2067",
+      "event_id": "L846",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2068",
+      "event_id": "L847",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2069",
+      "event_id": "CP2069-20261228-20261230-future-engineers",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -400139,10 +400852,11 @@
     "CP2055-20261205-20261205-day",
     "CP2056-20261212-20261212-day",
     "CP2057-20261219-20261219-day",
-    "CP2058-20270102-20270102-day"
+    "CP2058-20270102-20270102-day",
+    "CP2069-20261228-20261230-future-engineers"
   ],
   "integration": {
-    "generated_sessions": 4336,
+    "generated_sessions": 4337,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."
