@@ -1,0 +1,180 @@
+{
+  "version": 297,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C4739",
+    "C4740",
+    "C4741",
+    "C4742",
+    "C4743",
+    "C4744",
+    "C4745",
+    "C4746",
+    "C4747",
+    "C4748",
+    "C4749",
+    "C4750",
+    "C4751",
+    "C4752",
+    "C4753",
+    "E640",
+    "E641",
+    "E642",
+    "E643",
+    "E644",
+    "E645",
+    "E646",
+    "E647",
+    "E648",
+    "C4754",
+    "E649",
+    "L871",
+    "L872",
+    "L873",
+    "L874",
+    "CP2090-20261121-20261121-scratch",
+    "CP2091-20261121-20261121-lego",
+    "CP2092-20261121-20261121-sounds",
+    "CP2093-20261121-20261121-simon",
+    "CP2094-20261109-20261109-morning",
+    "CP2094-20261109-20261109-afternoon",
+    "CP2095-20270111-20270115-january",
+    "CP2096-20270111-20270115-january",
+    "CP2097-20270111-20270115-january"
+  ],
+  "new_dossiers": [
+    "CP2090",
+    "CP2091",
+    "CP2092",
+    "CP2093",
+    "CP2094",
+    "CP2095",
+    "CP2096",
+    "CP2097",
+    "CP2098",
+    "CP2099",
+    "CP2100",
+    "CP2101"
+  ],
+  "new_dated_variants": 9,
+  "refreshed_event_ids": [
+    "L163",
+    "CP944-20270118-20270121"
+  ],
+  "legacy_overlay_event_ids": [
+    "L163"
+  ],
+  "dossier_event_links": {
+    "umsa-iime-robotica-noviembre-2026": [
+      "L163"
+    ],
+    "firvi-2026-scratch": [
+      "E648"
+    ],
+    "firvi-2026-lego": [
+      "E648"
+    ],
+    "firvi-2026-sounds": [
+      "E648"
+    ],
+    "firvi-2026-simon": [
+      "E648"
+    ],
+    "ctic-uni-lego-junior": [
+      "L871"
+    ],
+    "ctic-uni-vr-junior": [
+      "L872"
+    ],
+    "ctic-uni-ai-teens": [
+      "L873"
+    ],
+    "udb-american-space-stem-camp": [
+      "L874"
+    ]
+  },
+  "source_requests": 25,
+  "new_league_ids": [
+    "iyrc-colombia-edubotica"
+  ],
+  "iyrc_colombia_ids": [
+    "C4739",
+    "C4740",
+    "C4741",
+    "C4742",
+    "C4743",
+    "C4744",
+    "C4745",
+    "C4746"
+  ],
+  "utch_ids": [
+    "C4747",
+    "C4748",
+    "C4749"
+  ],
+  "xraic_ids": [
+    "C4750",
+    "C4751",
+    "C4752",
+    "C4753"
+  ],
+  "neurofest": {
+    "visitor": "E640",
+    "activities": [
+      "E641",
+      "E642",
+      "E643",
+      "E644",
+      "E645",
+      "E646",
+      "E647"
+    ]
+  },
+  "firvi": {
+    "visitor": "E648",
+    "final": "C4754",
+    "workshops": [
+      "CP2090",
+      "CP2091",
+      "CP2092",
+      "CP2093"
+    ]
+  },
+  "generation": "E649",
+  "umsa_dossier": "CP2094",
+  "edv_dossiers": [
+    "CP2095",
+    "CP2096",
+    "CP2097"
+  ],
+  "watch_dossiers": [
+    "CP2098",
+    "CP2099",
+    "CP2100",
+    "CP2101"
+  ],
+  "costa_rica": {
+    "matenciar": "CP944",
+    "newhope_checked": true,
+    "newhope_preserved_windows": [
+      [
+        "2026-12-02",
+        "2026-12-18"
+      ],
+      [
+        "2027-01-04",
+        "2027-01-29"
+      ]
+    ]
+  },
+  "source_limits": {
+    "iyrc": "Organizer announces 2027 dates and fees. General rules still label 2026 and the venue is pending.",
+    "newhope": "Direct current form dates corroborate existing windows; indexed snippet differs. No daily schedule or camp admission inferred.",
+    "ctic": "January dates without a year coexist with 2026 terms and incompatible weekdays. No exact 2027 lesson schedule created.",
+    "firvi": "Organizer ticket portal controls public hours and workshop ages. The secondary listing showed a different end time.",
+    "neurofest": "Activity windows, capacity and age are from the museum. Window is not a confirmed slot.",
+    "umsa": "Both schedules share the posted start. No inferred end date or individual session dates."
+  }
+}

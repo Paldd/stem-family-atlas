@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2089,
-    "countries": 135,
+    "dossiers": 2101,
+    "countries": 136,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 289,
-      "published_2027": 554,
+      "published_2027": 557,
       "partial_2027": 152,
-      "next_unannounced": 436,
-      "published_2026": 415,
+      "next_unannounced": 440,
+      "published_2026": 420,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1
     },
-    "source_urls": 2995
+    "source_urls": 3003
   },
   "countries": [
     {
@@ -106,6 +106,10 @@
     {
       "country": "Бермудские острова",
       "count": 4
+    },
+    {
+      "country": "Боливия (Многонациональное Государство)",
+      "count": 1
     },
     {
       "country": "Ботсвана",
@@ -409,7 +413,7 @@
     },
     {
       "country": "Перу",
-      "count": 28
+      "count": 31
     },
     {
       "country": "Польша",
@@ -433,7 +437,7 @@
     },
     {
       "country": "Сальвадор",
-      "count": 4
+      "count": 5
     },
     {
       "country": "Саудовская Аравия",
@@ -545,7 +549,7 @@
     },
     {
       "country": "Чили",
-      "count": 33
+      "count": 40
     },
     {
       "country": "Швейцария",
@@ -130821,7 +130825,7 @@
             "deadline": "2026-12-18",
             "date_scope": "session_days",
             "source": "https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html",
-            "entry": "Заполнить заявку до 18 декабря 2026. UCR проверяет условия и подтверждает место письмом опекуну.",
+            "entry": "Подать заявку до 18 декабря 2026. UCR сначала проверяет требования и сообщает опекуну о выделенном месте, затем присылает реквизиты. Занятия для 10–12 лет. Нужно присутствовать все 3,5 часа в день.",
             "price": "5000 CRC за смену, включая страховку INS.",
             "sessions": [
               {
@@ -130899,7 +130903,7 @@
           "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-11-06",
+      "checked": "2026-11-08",
       "previous_programme": {
         "place": "Aula15, Instalaciones Deportivas UCR · Sabanilla, Montes de Oca",
         "age": "9–12 И matriculado4°, 5° или 6° primaria",
@@ -359360,6 +359364,1353 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP2090",
+      "slug": "firvi-2026-scratch",
+      "provider": "FIRVI 2026 · Creación de videojuegos con Scratch",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Universidad Técnica Federico Santa María · Los Placeres 401 · Valparaíso · Edificio P · PC01",
+      "age": "12–17 лет.",
+      "programme": "Создание видеоигры в Scratch.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и условия на испанском. Язык занятия или судейства уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "11:30–13:00",
+        "sessions": [
+          [
+            "2026-11-21",
+            "2026-11-21"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "scratch",
+            "start": "2026-11-21",
+            "end": "2026-11-21",
+            "label": "11:30–13:00",
+            "price": "Бесплатно.",
+            "source": "https://welcu.com/fundacion-mustakis/firvi2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-21",
+                "start_time": "11:30",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "start_utc": "2026-11-21T14:30:00Z",
+                "end_utc": "2026-11-21T16:00:00Z",
+                "topic": "11:30–13:00",
+                "ical_timed": true
+              }
+            ],
+            "delivery_mode": "in_person",
+            "entry": "Нужен отдельный бесплатный билет на мастерскую. Количество мест ограничено."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 0,
+        "currency": "CLP",
+        "unit": "session",
+        "label": "Бесплатно.",
+        "included": "",
+        "extras": "",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет сейчас по возрасту."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас по возрасту."
+        }
+      },
+      "editorial_reason": "11:30–13:00",
+      "shortlist": [],
+      "questions": [
+        "Нужен отдельный бесплатный билет на мастерскую. Количество мест ограничено."
+      ],
+      "sources": [
+        {
+          "url": "https://welcu.com/fundacion-mustakis/firvi2026",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "E648"
+      ],
+      "materials_languages": [
+        "ES"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-11-21",
+          "end": "2026-11-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2090-20261121-20261121-scratch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2091",
+      "slug": "firvi-2026-lego",
+      "provider": "FIRVI 2026 · Introducción a la robótica educativa con Lego",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Universidad Técnica Federico Santa María · Los Placeres 401 · Valparaíso · Edificio P · PC02",
+      "age": "10–17 лет.",
+      "programme": "Программирование робота LEGO EV3.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и условия на испанском. Язык занятия или судейства уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "11:30–13:00",
+        "sessions": [
+          [
+            "2026-11-21",
+            "2026-11-21"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "lego",
+            "start": "2026-11-21",
+            "end": "2026-11-21",
+            "label": "11:30–13:00",
+            "price": "Бесплатно.",
+            "source": "https://welcu.com/fundacion-mustakis/firvi2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-21",
+                "start_time": "11:30",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "start_utc": "2026-11-21T14:30:00Z",
+                "end_utc": "2026-11-21T16:00:00Z",
+                "topic": "11:30–13:00",
+                "ical_timed": true
+              }
+            ],
+            "delivery_mode": "in_person",
+            "entry": "Нужен отдельный бесплатный билет на мастерскую. Количество мест ограничено."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 0,
+        "currency": "CLP",
+        "unit": "session",
+        "label": "Бесплатно.",
+        "included": "",
+        "extras": "",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет сейчас по возрасту."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас по возрасту."
+        }
+      },
+      "editorial_reason": "11:30–13:00",
+      "shortlist": [],
+      "questions": [
+        "Нужен отдельный бесплатный билет на мастерскую. Количество мест ограничено."
+      ],
+      "sources": [
+        {
+          "url": "https://welcu.com/fundacion-mustakis/firvi2026",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "E648"
+      ],
+      "materials_languages": [
+        "ES"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-11-21",
+          "end": "2026-11-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2091-20261121-20261121-lego"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2092",
+      "slug": "firvi-2026-sounds",
+      "provider": "FIRVI 2026 · Electrónica e instrumentos sonoros",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Universidad Técnica Federico Santa María · Los Placeres 401 · Valparaíso · Edificio P · PC06",
+      "age": "14–17 лет.",
+      "programme": "Синтезатор на микросхеме 555, датчике света LDR и динамике.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и условия на испанском. Язык занятия или судейства уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "11:30–13:00",
+        "sessions": [
+          [
+            "2026-11-21",
+            "2026-11-21"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "sounds",
+            "start": "2026-11-21",
+            "end": "2026-11-21",
+            "label": "11:30–13:00",
+            "price": "Бесплатно.",
+            "source": "https://welcu.com/fundacion-mustakis/firvi2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-21",
+                "start_time": "11:30",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "start_utc": "2026-11-21T14:30:00Z",
+                "end_utc": "2026-11-21T16:00:00Z",
+                "topic": "11:30–13:00",
+                "ical_timed": true
+              }
+            ],
+            "delivery_mode": "in_person",
+            "entry": "Нужен отдельный бесплатный билет на мастерскую. Количество мест ограничено."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 0,
+        "currency": "CLP",
+        "unit": "session",
+        "label": "Бесплатно.",
+        "included": "",
+        "extras": "",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет сейчас по возрасту."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас по возрасту."
+        }
+      },
+      "editorial_reason": "11:30–13:00",
+      "shortlist": [],
+      "questions": [
+        "Нужен отдельный бесплатный билет на мастерскую. Количество мест ограничено."
+      ],
+      "sources": [
+        {
+          "url": "https://welcu.com/fundacion-mustakis/firvi2026",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "electronics",
+        "engineering"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "E648"
+      ],
+      "materials_languages": [
+        "ES"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-11-21",
+          "end": "2026-11-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2092-20261121-20261121-sounds"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2093",
+      "slug": "firvi-2026-simon",
+      "provider": "FIRVI 2026 · «Simón Dice» con Arduino",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Universidad Técnica Federico Santa María · Los Placeres 401 · Valparaíso · Edificio P · PC05",
+      "age": "14–17 лет.",
+      "programme": "Игра на память на Arduino UNO, с кнопками, светодиодами и зуммером.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и условия на испанском. Язык занятия или судейства уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "11:30–13:00",
+        "sessions": [
+          [
+            "2026-11-21",
+            "2026-11-21"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "simon",
+            "start": "2026-11-21",
+            "end": "2026-11-21",
+            "label": "11:30–13:00",
+            "price": "Бесплатно.",
+            "source": "https://welcu.com/fundacion-mustakis/firvi2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-21",
+                "start_time": "11:30",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "start_utc": "2026-11-21T14:30:00Z",
+                "end_utc": "2026-11-21T16:00:00Z",
+                "topic": "11:30–13:00",
+                "ical_timed": true
+              }
+            ],
+            "delivery_mode": "in_person",
+            "entry": "Нужен отдельный бесплатный билет на мастерскую. Количество мест ограничено."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 0,
+        "currency": "CLP",
+        "unit": "session",
+        "label": "Бесплатно.",
+        "included": "",
+        "extras": "",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет сейчас по возрасту."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас по возрасту."
+        }
+      },
+      "editorial_reason": "11:30–13:00",
+      "shortlist": [],
+      "questions": [
+        "Нужен отдельный бесплатный билет на мастерскую. Количество мест ограничено."
+      ],
+      "sources": [
+        {
+          "url": "https://welcu.com/fundacion-mustakis/firvi2026",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "electronics",
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "E648"
+      ],
+      "materials_languages": [
+        "ES"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-11-21",
+          "end": "2026-11-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2093-20261121-20261121-simon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2094",
+      "slug": "umsa-iime-robotica-noviembre-2026",
+      "provider": "UMSA IIME · Robótica Especializada Nivel 1 · noviembre",
+      "country": "Боливия (Многонациональное Государство)",
+      "iso": "BOL",
+      "place": "Instituto de Investigaciones Mecánicas y Electromecánicas · La Paz",
+      "age": "9–14 лет.",
+      "programme": "Электроника, Tinkercad, блочное программирование, Arduino, моторы и ультразвуковой датчик. В конце учебная проверка и внутренний турнир.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и условия на испанском. Язык занятия или судейства уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "Старт 9 ноября 2026. Организатор указывает понедельник, среду и пятницу и 12 занятий. Конечную дату и наличие мест сверить для выбранной группы.",
+        "sessions": [
+          [
+            "2026-11-09",
+            "2026-11-09"
+          ],
+          [
+            "2026-11-09",
+            "2026-11-09"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "morning",
+            "start": "2026-11-09",
+            "end": "2026-11-09",
+            "label": "09:00–11:30",
+            "price": "250 BOB за курс с использованием комплекта и сертификатом.",
+            "source": "https://ingenieriamecanica.umsa.bo/index.php/2026/10/15/robotica-especializada-nivel-1-9-a-14-anos/",
+            "date_scope": "activity_start",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "entry": "Старт 9 ноября 2026. Организатор указывает понедельник, среду и пятницу и 12 занятий. Конечную дату и наличие мест сверить для выбранной группы.",
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "afternoon",
+            "start": "2026-11-09",
+            "end": "2026-11-09",
+            "label": "15:00–17:30",
+            "price": "250 BOB за курс с использованием комплекта и сертификатом.",
+            "source": "https://ingenieriamecanica.umsa.bo/index.php/2026/10/15/robotica-especializada-nivel-1-9-a-14-anos/",
+            "date_scope": "activity_start",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "entry": "Старт 9 ноября 2026. Организатор указывает понедельник, среду и пятницу и 12 занятий. Конечную дату и наличие мест сверить для выбранной группы.",
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 250,
+        "currency": "BOB",
+        "unit": "programme",
+        "label": "250 BOB за курс с использованием комплекта и сертификатом.",
+        "included": "250 BOB за курс с использованием комплекта и сертификатом.",
+        "extras": "",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас по возрасту."
+        }
+      },
+      "editorial_reason": "Старт 9 ноября 2026. Организатор указывает понедельник, среду и пятницу и 12 занятий. Конечную дату и наличие мест сверить для выбранной группы.",
+      "shortlist": [],
+      "questions": [
+        "Старт 9 ноября 2026. Организатор указывает понедельник, среду и пятницу и 12 занятий. Конечную дату и наличие мест сверить для выбранной группы."
+      ],
+      "sources": [
+        {
+          "url": "https://ingenieriamecanica.umsa.bo/index.php/2026/10/15/robotica-especializada-nivel-1-9-a-14-anos/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "electronics",
+        "coding"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L163"
+      ],
+      "materials_languages": [
+        "ES"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-11-09",
+          "end": "2026-11-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2094-20261109-20261109-morning"
+          ]
+        },
+        {
+          "start": "2026-11-09",
+          "end": "2026-11-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2094-20261109-20261109-afternoon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2095",
+      "slug": "uchile-edv-energia-enero-2027",
+      "provider": "Universidad de Chile · EdV · Transformando la energía",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Facultad de Ciencias Físicas y Matemáticas · Beauchef 850 · Santiago",
+      "age": "5–6 классы Educación Básica в 2026 году.",
+      "programme": "Эксперименты с преобразованием энергии, LED, фотоэлектрическими панелями и моторами.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и условия на испанском. Язык занятия или судейства уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "january",
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+            "price": "98 000 CLP по странице курса.",
+            "source": "https://www.edv.uchile.cl/portfolio/transformando-la-energia-descubre-que-hace-funcionar-el-mundo/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-11T12:00:00Z",
+                "end_utc": "2027-01-11T15:30:00Z",
+                "topic": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-12T12:00:00Z",
+                "end_utc": "2027-01-12T15:30:00Z",
+                "topic": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-13T12:00:00Z",
+                "end_utc": "2027-01-13T15:30:00Z",
+                "topic": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-14T12:00:00Z",
+                "end_utc": "2027-01-14T15:30:00Z",
+                "topic": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-15T12:00:00Z",
+                "end_utc": "2027-01-15T15:30:00Z",
+                "topic": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+                "ical_timed": true
+              }
+            ],
+            "delivery_mode": "in_person",
+            "entry": "Организатор требует сертификат об учёбе за 2025 год и указывает допустимые классы за 2026 год. Формат иностранного документа и места уточнить."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 98000,
+        "currency": "CLP",
+        "unit": "session",
+        "label": "98 000 CLP по странице курса.",
+        "included": "",
+        "extras": "",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Проверить, как организатор засчитывает класс, пройденный в 2026 году за рубежом."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет. Категория требует более старшего класса или уровня обучения."
+        }
+      },
+      "editorial_reason": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+      "shortlist": [],
+      "questions": [
+        "Организатор требует сертификат об учёбе за 2025 год и указывает допустимые классы за 2026 год. Формат иностранного документа и места уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.edv.uchile.cl/portfolio/transformando-la-energia-descubre-que-hace-funcionar-el-mundo/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "science"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [],
+      "materials_languages": [
+        "ES"
+      ],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2095-20270111-20270115-january"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2096",
+      "slug": "uchile-edv-ciencia-enero-2027",
+      "provider": "Universidad de Chile · EdV · Ciencia COOLinaria",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Facultad de Ciencias Físicas y Matemáticas · Beauchef 850 · Santiago",
+      "age": "5–7 классы Educación Básica в 2026 году.",
+      "programme": "Эксперименты по физическим и химическим изменениям в продуктах.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и условия на испанском. Язык занятия или судейства уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "january",
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+            "price": "98 000 CLP по странице курса.",
+            "source": "https://www.edv.uchile.cl/portfolio/ciencia-coolinaria-ciencia-y-cocina-en-movimiento/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-11T12:00:00Z",
+                "end_utc": "2027-01-11T15:30:00Z",
+                "topic": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-12T12:00:00Z",
+                "end_utc": "2027-01-12T15:30:00Z",
+                "topic": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-13T12:00:00Z",
+                "end_utc": "2027-01-13T15:30:00Z",
+                "topic": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-14T12:00:00Z",
+                "end_utc": "2027-01-14T15:30:00Z",
+                "topic": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-15T12:00:00Z",
+                "end_utc": "2027-01-15T15:30:00Z",
+                "topic": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+                "ical_timed": true
+              }
+            ],
+            "delivery_mode": "in_person",
+            "entry": "Организатор требует сертификат об учёбе за 2025 год и указывает допустимые классы за 2026 год. Формат иностранного документа и места уточнить."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 98000,
+        "currency": "CLP",
+        "unit": "session",
+        "label": "98 000 CLP по странице курса.",
+        "included": "",
+        "extras": "",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Проверить, как организатор засчитывает класс, пройденный в 2026 году за рубежом."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет. Категория требует более старшего класса или уровня обучения."
+        }
+      },
+      "editorial_reason": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+      "shortlist": [],
+      "questions": [
+        "Организатор требует сертификат об учёбе за 2025 год и указывает допустимые классы за 2026 год. Формат иностранного документа и места уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.edv.uchile.cl/portfolio/ciencia-coolinaria-ciencia-y-cocina-en-movimiento/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [],
+      "materials_languages": [
+        "ES"
+      ],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2096-20270111-20270115-january"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2097",
+      "slug": "uchile-edv-robotics-enero-2027",
+      "provider": "Universidad de Chile · EdV · Robótica & Innovación",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Facultad de Ciencias Físicas y Matemáticas · Beauchef 850 · Santiago",
+      "age": "1–4 классы Educación Media в 2026 году.",
+      "programme": "Роботы на сенсорах, исполнительных устройствах и электронных схемах.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и условия на испанском. Язык занятия или судейства уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "january",
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+            "price": "98 000 CLP по странице курса.",
+            "source": "https://www.edv.uchile.cl/portfolio/robotica-innovacion-de-los-fundamentos-a-las-maquinas-que-cambian-el-mundo-2/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-11T12:00:00Z",
+                "end_utc": "2027-01-11T15:30:00Z",
+                "topic": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-12T12:00:00Z",
+                "end_utc": "2027-01-12T15:30:00Z",
+                "topic": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-13T12:00:00Z",
+                "end_utc": "2027-01-13T15:30:00Z",
+                "topic": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-14T12:00:00Z",
+                "end_utc": "2027-01-14T15:30:00Z",
+                "topic": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-15T12:00:00Z",
+                "end_utc": "2027-01-15T15:30:00Z",
+                "topic": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+                "ical_timed": true
+              }
+            ],
+            "delivery_mode": "in_person",
+            "entry": "Организатор требует сертификат об учёбе за 2025 год и указывает допустимые классы за 2026 год. Формат иностранного документа и места уточнить."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 98000,
+        "currency": "CLP",
+        "unit": "session",
+        "label": "98 000 CLP по странице курса.",
+        "included": "",
+        "extras": "",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет. Категория требует более старшего класса или уровня обучения."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет. Категория требует более старшего класса или уровня обучения."
+        }
+      },
+      "editorial_reason": "2027-01-11 – 2027-01-15 · 09:00–12:30",
+      "shortlist": [],
+      "questions": [
+        "Организатор требует сертификат об учёбе за 2025 год и указывает допустимые классы за 2026 год. Формат иностранного документа и места уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.edv.uchile.cl/portfolio/robotica-innovacion-de-los-fundamentos-a-las-maquinas-que-cambian-el-mundo-2/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "electronics",
+        "coding"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [],
+      "materials_languages": [
+        "ES"
+      ],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2097-20270111-20270115-january"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2098",
+      "slug": "ctic-uni-lego-junior",
+      "provider": "CTIC UNI · LEGO Junior",
+      "country": "Перу",
+      "iso": "PER",
+      "place": "Aulas CTIC-UNI · Puerta 5 · Lima",
+      "age": "9–12 лет.",
+      "programme": "LEGO Mindstorms NXT и EV3, механика и блочное программирование.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и условия на испанском. Язык занятия или судейства уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Страница даёт число и месяц, но условия записи ссылаются на лето 2026. Запросить год набора, согласованный календарь, тариф и допуск без перуанского DNI.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "programme",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "",
+        "extras": "",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Страница даёт число и месяц, но условия записи ссылаются на лето 2026. Запросить год набора, согласованный календарь, тариф и допуск без перуанского DNI."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас по возрасту."
+        }
+      },
+      "editorial_reason": "Страница даёт число и месяц, но условия записи ссылаются на лето 2026. Запросить год набора, согласованный календарь, тариф и допуск без перуанского DNI.",
+      "shortlist": [],
+      "questions": [
+        "Страница даёт число и месяц, но условия записи ссылаются на лето 2026. Запросить год набора, согласованный календарь, тариф и допуск без перуанского DNI."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ctic.uni.edu.pe/educacion/robotica-con-lego-junior/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ctic.uni.edu.pe/categoria/talleres/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L871"
+      ],
+      "materials_languages": [
+        "ES"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2099",
+      "slug": "ctic-uni-vr-junior",
+      "provider": "CTIC UNI · Realidad Virtual y Aumentada",
+      "country": "Перу",
+      "iso": "PER",
+      "place": "Aulas CTIC-UNI · Puerta 5 · Lima",
+      "age": "9–12 лет.",
+      "programme": "Создание интерактивных сцен и 3D-моделей для дополненной реальности.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и условия на испанском. Язык занятия или судейства уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Страница даёт число и месяц, но условия записи ссылаются на лето 2026. Запросить год набора, согласованный календарь, тариф и допуск без перуанского DNI.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "programme",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "",
+        "extras": "",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Страница даёт число и месяц, но условия записи ссылаются на лето 2026. Запросить год набора, согласованный календарь, тариф и допуск без перуанского DNI."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас по возрасту."
+        }
+      },
+      "editorial_reason": "Страница даёт число и месяц, но условия записи ссылаются на лето 2026. Запросить год набора, согласованный календарь, тариф и допуск без перуанского DNI.",
+      "shortlist": [],
+      "questions": [
+        "Страница даёт число и месяц, но условия записи ссылаются на лето 2026. Запросить год набора, согласованный календарь, тариф и допуск без перуанского DNI."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ctic.uni.edu.pe/educacion/taller-de-robotica-con-arduino-junior/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ctic.uni.edu.pe/categoria/talleres/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "coding"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L872"
+      ],
+      "materials_languages": [
+        "ES"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2100",
+      "slug": "ctic-uni-ai-teens",
+      "provider": "CTIC UNI · IA y Machine Learning",
+      "country": "Перу",
+      "iso": "PER",
+      "place": "Aulas CTIC-UNI · Puerta 5 · Lima",
+      "age": "13–17 лет.",
+      "programme": "Введение в машинное обучение с практическими проектами.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и условия на испанском. Язык занятия или судейства уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Страница даёт число и месяц, но условия записи ссылаются на лето 2026. Запросить год набора, согласованный календарь, тариф и допуск без перуанского DNI.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "programme",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "",
+        "extras": "",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет сейчас по возрасту."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас по возрасту."
+        }
+      },
+      "editorial_reason": "Страница даёт число и месяц, но условия записи ссылаются на лето 2026. Запросить год набора, согласованный календарь, тариф и допуск без перуанского DNI.",
+      "shortlist": [],
+      "questions": [
+        "Страница даёт число и месяц, но условия записи ссылаются на лето 2026. Запросить год набора, согласованный календарь, тариф и допуск без перуанского DNI."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ctic.uni.edu.pe/educacion/machine-learning-para-primaria/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.ctic.uni.edu.pe/categoria/talleres/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "coding"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L873"
+      ],
+      "materials_languages": [
+        "ES"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2101",
+      "slug": "udb-american-space-stem-camp",
+      "provider": "Universidad Don Bosco · American Spaces · STEM Camp",
+      "country": "Сальвадор",
+      "iso": "SLV",
+      "place": "Campus Soyapango",
+      "age": "8–15 лет.",
+      "programme": "3D-дизайн, аэродинамика, Arduino и практическая работа с наставниками UDB.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и условия на испанском. Язык занятия или судейства уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Набор 2026 уже начался. Вуз сообщает о занятиях по субботам до декабря. Следующий набор, цену, язык и внешнюю заявку нужно подтвердить.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "programme",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "",
+        "extras": "",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Набор 2026 уже начался. Вуз сообщает о занятиях по субботам до декабря. Следующий набор, цену, язык и внешнюю заявку нужно подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас по возрасту."
+        }
+      },
+      "editorial_reason": "Набор 2026 уже начался. Вуз сообщает о занятиях по субботам до декабря. Следующий набор, цену, язык и внешнюю заявку нужно подтвердить.",
+      "shortlist": [],
+      "questions": [
+        "Набор 2026 уже начался. Вуз сообщает о занятиях по субботам до декабря. Следующий набор, цену, язык и внешнюю заявку нужно подтвердить."
+      ],
+      "sources": [
+        {
+          "url": "https://www.udb.edu.sv/udb/noticia/formacion-y-tecnologia--udb-inicia-segunda-edicion-2026-de-los-programas-american-spaces",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L874"
+      ],
+      "materials_languages": [
+        "ES"
+      ],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -364685,7 +366036,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 296,
+  "version": 297,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -377920,7 +379271,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2089,
+      "total_dossiers": 2101,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -401225,6 +402576,96 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2090",
+      "event_id": "CP2090-20261121-20261121-scratch",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2090",
+      "event_id": "E648",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2091",
+      "event_id": "CP2091-20261121-20261121-lego",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2091",
+      "event_id": "E648",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2092",
+      "event_id": "CP2092-20261121-20261121-sounds",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2092",
+      "event_id": "E648",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2093",
+      "event_id": "CP2093-20261121-20261121-simon",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2093",
+      "event_id": "E648",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2094",
+      "event_id": "CP2094-20261109-20261109-morning",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2094",
+      "event_id": "CP2094-20261109-20261109-afternoon",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2094",
+      "event_id": "L163",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2095",
+      "event_id": "CP2095-20270111-20270115-january",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2096",
+      "event_id": "CP2096-20270111-20270115-january",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2097",
+      "event_id": "CP2097-20270111-20270115-january",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2098",
+      "event_id": "L871",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2099",
+      "event_id": "L872",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2100",
+      "event_id": "L873",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2101",
+      "event_id": "L874",
+      "relation": "related_track_or_operator"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -406019,10 +407460,19 @@
     "CP2086-20261214-20261218-richer-christmas-advanced",
     "CP2087-20261214-20261218-richer-nao",
     "CP2088-20270215-20270219-richer-feb-science",
-    "CP2089-20270215-20270219-richer-feb-nao"
+    "CP2089-20270215-20270219-richer-feb-nao",
+    "CP2090-20261121-20261121-scratch",
+    "CP2091-20261121-20261121-lego",
+    "CP2092-20261121-20261121-sounds",
+    "CP2093-20261121-20261121-simon",
+    "CP2094-20261109-20261109-morning",
+    "CP2094-20261109-20261109-afternoon",
+    "CP2095-20270111-20270115-january",
+    "CP2096-20270111-20270115-january",
+    "CP2097-20270111-20270115-january"
   ],
   "integration": {
-    "generated_sessions": 4384,
+    "generated_sessions": 4393,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

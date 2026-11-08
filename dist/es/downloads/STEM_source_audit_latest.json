@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10630,
-    "competition_cards": 4737,
-    "event_cards": 639,
-    "camp_cards": 5254,
-    "league_profiles": 304,
-    "major_exhibition_cards": 540,
+    "cards": 10669,
+    "competition_cards": 4753,
+    "event_cards": 649,
+    "camp_cards": 5267,
+    "league_profiles": 305,
+    "major_exhibition_cards": 550,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3453,
+      "total": 3469,
       "countries_with_records": 41,
-      "competitions": 1949,
-      "events": 175,
-      "major_exhibitions": 134,
-      "camps": 1329,
+      "competitions": 1956,
+      "events": 183,
+      "major_exhibitions": 142,
+      "camps": 1330,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -48,12 +48,12 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 703,
+      "total": 726,
       "countries_with_records": 15,
-      "competitions": 434,
-      "events": 51,
-      "major_exhibitions": 47,
-      "camps": 218,
+      "competitions": 443,
+      "events": 53,
+      "major_exhibitions": 49,
+      "camps": 230,
       "status": "Se ha estudiado parcialmente",
       "remaining": "muchos tarjetas de Ecuador y rutas regionales de Chile; Brasil, Perú y otros países requieren etapas, cuotas y calendarios locales."
     },
@@ -7821,6 +7821,27 @@
       "new": false
     },
     {
+      "id": "iyrc-colombia-edubotica",
+      "name": "IYRC Colombia · Edubótica 2027",
+      "group": "regional",
+      "event_ids": [
+        "C4739",
+        "C4740",
+        "C4741",
+        "C4742",
+        "C4743",
+        "C4744",
+        "C4745",
+        "C4746"
+      ],
+      "cards": 8,
+      "future_dated": 6,
+      "linked_card_count": 8,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.edubotica.com.co/IYRC/iyrc-colombia-2027",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · programa de ingeniería y showcase",
       "group": "regional",
@@ -14754,6 +14775,116 @@
       "new": false
     },
     {
+      "id": "E640",
+      "name": "Neurofest 2026 · Universum UNAM",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-27",
+      "end": "2026-11-28",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/e/388/neurofest-2026",
+      "new": false
+    },
+    {
+      "id": "E641",
+      "name": "Neurofest 2026 · El cerebro ejecutivo",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/e/388/neurofest-2026",
+      "new": false
+    },
+    {
+      "id": "E642",
+      "name": "Neurofest 2026 · Sueños eléctricos",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/e/388/neurofest-2026",
+      "new": false
+    },
+    {
+      "id": "E643",
+      "name": "Neurofest 2026 · Neuroimagen y acuarela",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/e/388/neurofest-2026",
+      "new": false
+    },
+    {
+      "id": "E644",
+      "name": "Neurofest 2026 · Neuroplasticidad: una experiencia inmersiva",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-27",
+      "end": "2026-11-28",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/e/388/neurofest-2026",
+      "new": false
+    },
+    {
+      "id": "E645",
+      "name": "Neurofest 2026 · ¡Cerebro en vivo! Ondas, arte y pensamientos en tiempo real",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-27",
+      "end": "2026-11-28",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/e/388/neurofest-2026",
+      "new": false
+    },
+    {
+      "id": "E646",
+      "name": "Neurofest 2026 · Neurorrehabilitación robótica: pasos que inspiran",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-27",
+      "end": "2026-11-28",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/e/388/neurofest-2026",
+      "new": false
+    },
+    {
+      "id": "E647",
+      "name": "Neurofest 2026 · Jugar para recuperar: videojuegos y neuro-rehabilitación",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "visitor_policy": "family",
+      "source": "https://www.universum.unam.mx/actividades/e/388/neurofest-2026",
+      "new": false
+    },
+    {
+      "id": "E648",
+      "name": "FIRVI 2026 · Final Nacional · visita",
+      "country": "Chile",
+      "region": "América del Sur",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "visitor_policy": "family",
+      "source": "https://welcu.com/fundacion-mustakis/firvi2026",
+      "new": false
+    },
+    {
+      "id": "E649",
+      "name": "GENERACIÓN · Festival de Streamers 2026",
+      "country": "Argentina",
+      "region": "América del Sur",
+      "start": "2026-12-11",
+      "end": "2026-12-12",
+      "visitor_policy": "family",
+      "source": "https://generacion.com/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -17171,9 +17302,9 @@
       }
     ],
     "counts": {
-      "records": 5254,
+      "records": 5267,
       "holiday": 4768,
-      "regular": 197,
+      "regular": 201,
       "self_paced_materials": 4,
       "boarding": 1038,
       "en_es_instruction": 1616,
@@ -17184,7 +17315,7 @@
       "language_lessons": 414,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 157
+      "countries": 158
     },
     "validation": {
       "version": 51,

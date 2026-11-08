@@ -5374,6 +5374,201 @@ Limitaciones: La organización anunció un formato de 24 horas. La página del e
 Fuente: https://revolution-hackclub.vercel.app/es/
 Se ha comprobado: 2026-11-08
 
+### C4747 · RoboRally UTCH 2026 · Sumo RC
+
+Fecha: 2026-11-13 — 2026-11-13
+edad: Estudiantes de preparatoria y universidad del estado de Chihuahua.
+Matvey: No cumple. La categoría requiere un curso o nivel educativo superior.
+Oscar: No cumple. La categoría requiere un curso o nivel educativo superior.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Solicitudes hasta el 9 de noviembre de 2026. Equipo de hasta 3 participantes y 2 asesores. Confirmar la solicitud de la categoría.
+Precio: 300 MXN por equipo según la convocatoria de UTCH.
+Limitaciones: Inicio a las 09:00. Se usa el 13 de noviembre de 2026 de la convocatoria vigente. El pie de la página conserva un texto de 2025.
+Fuente: https://www.utch.edu.mx/wp-content/uploads/2026/09/reglamento-sumo2026.pdf
+Se ha comprobado: 2026-11-08
+
+### C4748 · RoboRally UTCH 2026 · Seguidor de Línea
+
+Fecha: 2026-11-13 — 2026-11-13
+edad: Estudiantes de preparatoria y universidad del estado de Chihuahua.
+Matvey: No cumple. La categoría requiere un curso o nivel educativo superior.
+Oscar: No cumple. La categoría requiere un curso o nivel educativo superior.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Solicitudes hasta el 9 de noviembre de 2026. Equipo de hasta 3 participantes y 2 asesores. Confirmar la solicitud de la categoría.
+Precio: 300 MXN por equipo según la convocatoria de UTCH.
+Limitaciones: Inicio a las 09:00. Se usa el 13 de noviembre de 2026 de la convocatoria vigente. El pie de la página conserva un texto de 2025.
+Fuente: https://www.utch.edu.mx/wp-content/uploads/2026/09/reglamento-seguidor2026.pdf
+Se ha comprobado: 2026-11-08
+
+### C4749 · RoboRally UTCH 2026 · RoboFut 3 vs 3
+
+Fecha: 2026-11-13 — 2026-11-13
+edad: Estudiantes de preparatoria y universidad del estado de Chihuahua.
+Matvey: No cumple. La categoría requiere un curso o nivel educativo superior.
+Oscar: No cumple. La categoría requiere un curso o nivel educativo superior.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Solicitudes hasta el 9 de noviembre de 2026. Equipo de hasta 3 participantes y 2 asesores. Confirmar la solicitud de la categoría.
+Precio: 300 MXN por equipo según la convocatoria de UTCH.
+Limitaciones: Inicio a las 09:00. Se usa el 13 de noviembre de 2026 de la convocatoria vigente. El pie de la página conserva un texto de 2025.
+Fuente: https://www.utch.edu.mx/wp-content/uploads/2026/09/reglamento-robofut2026.pdf
+Se ha comprobado: 2026-11-08
+
+### C4750 · X-RAIC UANL 2026 · Robot autónomo recolector de basura
+
+Fecha: 2026-11-11 — 2026-11-12
+edad: Equipo universitario. No se publican condiciones de solicitud para escolares.
+Matvey: No cumple. La categoría requiere un curso o nivel educativo superior.
+Oscar: No cumple. La categoría requiere un curso o nivel educativo superior.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Inscripción cerrada el 21 de octubre de 2026. Equipos de 3–6 personas, mentor opcional.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://xraic.mx/
+Se ha comprobado: 2026-11-08
+
+### C4751 · X-RAIC UANL 2026 · Del expediente al insight
+
+Fecha: 2026-11-11 — 2026-11-12
+edad: Equipo universitario. No se publican condiciones de solicitud para escolares.
+Matvey: No cumple. La categoría requiere un curso o nivel educativo superior.
+Oscar: No cumple. La categoría requiere un curso o nivel educativo superior.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Inscripción cerrada el 21 de octubre de 2026. Equipos de 3–6 personas, mentor opcional.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://xraic.mx/
+Se ha comprobado: 2026-11-08
+
+### C4752 · X-RAIC UANL 2026 · Smart Kitting
+
+Fecha: 2026-11-11 — 2026-11-12
+edad: Equipo universitario. No se publican condiciones de solicitud para escolares.
+Matvey: No cumple. La categoría requiere un curso o nivel educativo superior.
+Oscar: No cumple. La categoría requiere un curso o nivel educativo superior.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Inscripción cerrada el 21 de octubre de 2026. Equipos de 3–6 personas, mentor opcional.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://xraic.mx/
+Se ha comprobado: 2026-11-08
+
+### C4753 · X-RAIC UANL 2026 · ErgoAI
+
+Fecha: 2026-11-11 — 2026-11-12
+edad: Equipo universitario. No se publican condiciones de solicitud para escolares.
+Matvey: No cumple. La categoría requiere un curso o nivel educativo superior.
+Oscar: No cumple. La categoría requiere un curso o nivel educativo superior.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Inscripción cerrada el 21 de octubre de 2026. Equipos de 3–6 personas, mentor opcional.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://xraic.mx/
+Se ha comprobado: 2026-11-08
+
+### E640 · Neurofest 2026 · Universum UNAM
+
+Fecha: 2026-11-27 2026-11-28
+edad: Entrada familiar al museo. La edad mínima depende de la actividad.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Las actividades de la sala requieren entrada de Universum. Cada actividad tiene edad, horario y aforo propios.
+Precio: Entrada de Universum según la tarifa del museo: 90 MXN, menores de 2–12 años 80 MXN. Confirmar plazas de la actividad.
+Limitaciones:
+Fuente: https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+Se ha comprobado: 2026-11-08
+
+### E641 · Neurofest 2026 · El cerebro ejecutivo
+
+Fecha: 2026-11-27 2026-11-27
+edad: Desde 6 años, para escolares de primaria en adelante.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Condicional. Los 6 años encajan. Confirmar nivel escolar y plazas.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Las actividades de la sala requieren entrada de Universum. Cada actividad tiene edad, horario y aforo propios.
+Precio: Entrada de Universum según la tarifa del museo: 90 MXN, menores de 2–12 años 80 MXN. Confirmar plazas de la actividad.
+Limitaciones:
+Fuente: https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+Se ha comprobado: 2026-11-08
+
+### E642 · Neurofest 2026 · Sueños eléctricos
+
+Fecha: 2026-11-27 2026-11-27
+edad: Desde 6 años, para escolares de primaria en adelante.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Condicional. Los 6 años encajan. Confirmar nivel escolar y plazas.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Las actividades de la sala requieren entrada de Universum. Cada actividad tiene edad, horario y aforo propios.
+Precio: Entrada de Universum según la tarifa del museo: 90 MXN, menores de 2–12 años 80 MXN. Confirmar plazas de la actividad.
+Limitaciones:
+Fuente: https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+Se ha comprobado: 2026-11-08
+
+### E643 · Neurofest 2026 · Neuroimagen y acuarela
+
+Fecha: 2026-11-28 — 2026-11-28
+edad: Desde 6 años, para escolares de primaria en adelante.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Condicional. Los 6 años encajan. Confirmar nivel escolar y plazas.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Las actividades de la sala requieren entrada de Universum. Cada actividad tiene edad, horario y aforo propios.
+Precio: Entrada de Universum según la tarifa del museo: 90 MXN, menores de 2–12 años 80 MXN. Confirmar plazas de la actividad.
+Limitaciones:
+Fuente: https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+Se ha comprobado: 2026-11-08
+
+### E644 · Neurofest 2026 · Neuroplasticidad: una experiencia inmersiva
+
+Fecha: 2026-11-27 2026-11-28
+edad: Desde 8 años, para escolares de primaria en adelante.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: No cumple actualmente por edad.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Las actividades de la sala requieren entrada de Universum. Cada actividad tiene edad, horario y aforo propios.
+Precio: Entrada de Universum según la tarifa del museo: 90 MXN, menores de 2–12 años 80 MXN. Confirmar plazas de la actividad.
+Limitaciones:
+Fuente: https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+Se ha comprobado: 2026-11-08
+
+### E645 · Neurofest 2026 · ¡Cerebro en vivo! Ondas, arte y pensamientos en tiempo real
+
+Fecha: 2026-11-27 2026-11-28
+edad: Desde 8 años, para escolares de primaria en adelante.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: No cumple actualmente por edad.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Las actividades de la sala requieren entrada de Universum. Cada actividad tiene edad, horario y aforo propios.
+Precio: Entrada de Universum según la tarifa del museo: 90 MXN, menores de 2–12 años 80 MXN. Confirmar plazas de la actividad.
+Limitaciones:
+Fuente: https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+Se ha comprobado: 2026-11-08
+
+### E646 · Neurofest 2026 · Neurorrehabilitación robótica: pasos que inspiran
+
+Fecha: 2026-11-27 2026-11-28
+edad: Desde 8 años, para escolares de primaria en adelante.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: No cumple actualmente por edad.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Las actividades de la sala requieren entrada de Universum. Cada actividad tiene edad, horario y aforo propios.
+Precio: Entrada de Universum según la tarifa del museo: 90 MXN, menores de 2–12 años 80 MXN. Confirmar plazas de la actividad.
+Limitaciones:
+Fuente: https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+Se ha comprobado: 2026-11-08
+
+### E647 · Neurofest 2026 · Jugar para recuperar: videojuegos y neuro-rehabilitación
+
+Fecha: 2026-11-27 2026-11-27
+edad: Desde 10 años, para escolares de primaria en adelante.
+Matvey: No cumple actualmente por edad.
+Oscar: No cumple actualmente por edad.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Las actividades de la sala requieren entrada de Universum. Cada actividad tiene edad, horario y aforo propios.
+Precio: Entrada de Universum según la tarifa del museo: 90 MXN, menores de 2–12 años 80 MXN. Confirmar plazas de la actividad.
+Limitaciones:
+Fuente: https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -5745,11 +5940,11 @@ edad: 10–12 años. Las bases 2027 indican la edad. Confirmar grado equivalente
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Idioma: Confirmar con el operador el idioma del grupo concreto.
-Acceso: Completar solicitud hasta el 18 de diciembre de 2026. UCR comprueba requisitos y confirma la plaza al tutor por correo.
+Acceso: Presentar solicitud hasta el 18 de diciembre de 2026. UCR primero verifica requisitos y comunica al tutor la plaza asignada, y luego facilita los datos de pago. Clases para 10–12 años. Se exige asistir las 3,5 horas diarias.
 Precio: 2027 · 5000 CRC por turno, incluido seguro INS. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Año de nacimiento 2017. Confirmar cuándo UCR verifica que tiene 10 años y si exige constancia de grado. Oscar: Nació en 2020. Este turno requiere tener al menos 10 años. Suplementos: El menor trae su merienda. Transporte por separado. Pago: Tras verificar requisitos, UCR envía al tutor confirmación de plaza y datos de pago.
 Fuente: https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### CP1080-20261207-20261211 · CENFOTEC · Explorador IA · El IE de la adolescencia · 2026-12-07–2026-12-11
 

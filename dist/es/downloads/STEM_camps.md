@@ -2738,9 +2738,9 @@ Idioma: Idioma de la ocupación/Juez ES/EN no confirmado
 Marca de idioma: no clasificada; soporte: no declarada
 Valor: Oferta pasada: Bs250 utilizando juegos; no se ha anunciado una nueva cuenta ni un nuevo conjunto
 Entrada: Convenir en una categoría específica, documentos, recepción extranjera y lengua antes del viaje.
-Las restricciones son: las fechas ya han pasado: el título está fechado el 14 de agosto, bloque inferior ♫ 13 de septiembre; el domingo 2 de agosto se inicia, aunque se indica un pn / sp/p. La ventana amplia y 30 horas académicas no se convierten en un calendario diario futuro. El concurso final de aprendizaje no ha sido anunciado por un torneo internacional separado.
+Limitaciones: Inicio el 9 de noviembre de 2026. La organización indica lunes, miércoles y viernes y 12 clases. Confirmar la fecha final y las plazas del grupo elegido.
 Fuente: https://ingenieriamecanica.umsa.bo/index.php/2026/08/14/titulo/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-08
 
 ### L164 · Jopoi Bolivia · Taller de Robótica micro:bit · siguiente
 
@@ -12708,6 +12708,70 @@ Precio: Aún no se confirman el coste total ni las plazas.
 Acceso: Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.
 Limitaciones: Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.
 Fuente: https://www.allforkids.mg/
+Se ha comprobado: 2026-11-08
+
+### L871 · CTIC UNI · LEGO Junior
+
+lugar: Perú · Aulas CTIC-UNI · Puerta 5 · Lima
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 9 a 12 años.
+Matvey: Condicional. La edad encaja si se mantiene el intervalo. Confirmar próxima cohorte y admisión.
+Oscar: No cumple actualmente por edad.
+Formato: regular
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: La página da día y mes, pero las condiciones de inscripción remiten al verano de 2026. Confirmar año de admisión, calendario coherente, tarifa y acceso sin DNI peruano.
+Limitaciones: La página da día y mes, pero las condiciones de inscripción remiten al verano de 2026. Confirmar año de admisión, calendario coherente, tarifa y acceso sin DNI peruano.
+Fuente: https://www.ctic.uni.edu.pe/educacion/robotica-con-lego-junior/
+Se ha comprobado: 2026-11-08
+
+### L872 · CTIC UNI · Realidad Virtual y Aumentada
+
+lugar: Perú · Aulas CTIC-UNI · Puerta 5 · Lima
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 9 a 12 años.
+Matvey: Condicional. La edad encaja si se mantiene el intervalo. Confirmar próxima cohorte y admisión.
+Oscar: No cumple actualmente por edad.
+Formato: regular
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: La página da día y mes, pero las condiciones de inscripción remiten al verano de 2026. Confirmar año de admisión, calendario coherente, tarifa y acceso sin DNI peruano.
+Limitaciones: La página da día y mes, pero las condiciones de inscripción remiten al verano de 2026. Confirmar año de admisión, calendario coherente, tarifa y acceso sin DNI peruano.
+Fuente: https://www.ctic.uni.edu.pe/educacion/taller-de-robotica-con-arduino-junior/
+Se ha comprobado: 2026-11-08
+
+### L873 · CTIC UNI · IA y Machine Learning
+
+lugar: Perú · Aulas CTIC-UNI · Puerta 5 · Lima
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 13*17 años.
+Matvey: No cumple actualmente por edad.
+Oscar: No cumple actualmente por edad.
+Formato: regular
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: La página da día y mes, pero las condiciones de inscripción remiten al verano de 2026. Confirmar año de admisión, calendario coherente, tarifa y acceso sin DNI peruano.
+Limitaciones: La página da día y mes, pero las condiciones de inscripción remiten al verano de 2026. Confirmar año de admisión, calendario coherente, tarifa y acceso sin DNI peruano.
+Fuente: https://www.ctic.uni.edu.pe/educacion/machine-learning-para-primaria/
+Se ha comprobado: 2026-11-08
+
+### L874 · Universidad Don Bosco · American Spaces · STEM Camp
+
+lugar: El Salvador · Campus Soyapango
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 8–15 años.
+Matvey: Condicional. La edad encaja si se mantiene el intervalo. Confirmar próxima cohorte y admisión.
+Oscar: No cumple actualmente por edad.
+Formato: regular
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: La cohorte de 2026 ya comenzó. La universidad indica clases los sábados hasta diciembre. Confirmar próxima admisión, precio, idioma y solicitud externa.
+Limitaciones: La cohorte de 2026 ya comenzó. La universidad indica clases los sábados hasta diciembre. Confirmar próxima admisión, precio, idioma y solicitud externa.
+Fuente: https://www.udb.edu.sv/udb/noticia/formacion-y-tecnologia--udb-inicia-segunda-edicion-2026-de-los-programas-american-spaces
 Se ha comprobado: 2026-11-08
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
@@ -44593,10 +44657,10 @@ Formato: day_camp
 Idioma: Confirmar con el operador el idioma del grupo concreto.
 Marca de idioma: unconfirmed; apoyo: no declarado
 Precio: 2027 · 5000 CRC por turno, incluido seguro INS. · suplementos y condiciones en el dossier
-Acceso: Completar solicitud hasta el 18 de diciembre de 2026. UCR comprueba requisitos y confirma la plaza al tutor por correo.
+Acceso: Presentar solicitud hasta el 18 de diciembre de 2026. UCR primero verifica requisitos y comunica al tutor la plaza asignada, y luego facilita los datos de pago. Clases para 10–12 años. Se exige asistir las 3,5 horas diarias.
 Limitaciones: Matvey: Año de nacimiento 2017. Confirmar cuándo UCR verifica que tiene 10 años y si exige constancia de grado. Oscar: Nació en 2020. Este turno requiere tener al menos 10 años. Suplementos: El menor trae su merienda. Transporte por separado. Pago: Tras verificar requisitos, UCR envía al tutor confirmación de plaza y datos de pago.
 Fuente: https://www.ucr.ac.cr/actividades/2026/11/05/campamento-de-verano-matenciar.html
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### CP950-20270104-20270110 · Movimento Manque Chile · International Summer2027 · Manque Chile/IFM-SEI · autorización para aclarar · 2027-01-04________________2027-01-10
 
@@ -82852,6 +82916,150 @@ Precio: 2027 · 899 GBP por 5 días según la tarifa de la organización. · sup
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos: Programa diurno. Hay que llevar comida, tentempiés y agua. La organización agrupa por edad y nivel. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://www.richereducation.co.uk/humanoid-robotics-february-half-term/
+Se ha comprobado: 2026-11-08
+
+### CP2090-20261121-20261121-scratch · FIRVI 2026 · Creación de videojuegos con Scratch · 11:30–13:00 · 2026-11-21–2026-11-21
+
+lugar: Chile · Universidad Técnica Federico Santa María · Los Placeres 401 · Valparaíso · Edificio P · PC01
+Fecha: 2026-11-21 — 2026-11-21
+Edad: 12*17 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+formato: day_course
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Acceso: Hace falta una entrada gratuita específica para el taller. Plazas limitadas.
+Limitaciones: Matvey: No cumple actualmente por edad. Oscar: No cumple actualmente por edad. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://welcu.com/fundacion-mustakis/firvi2026
+Se ha comprobado: 2026-11-08
+
+### CP2091-20261121-20261121-lego · FIRVI 2026 · Introducción a la robótica educativa con Lego · 11:30–13:00 · 2026-11-21–2026-11-21
+
+lugar: Chile · Universidad Técnica Federico Santa María · Los Placeres 401 · Valparaíso · Edificio P · PC02
+Fecha: 2026-11-21 — 2026-11-21
+Edad: 10–17 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+formato: day_course
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Acceso: Hace falta una entrada gratuita específica para el taller. Plazas limitadas.
+Limitaciones: Matvey: No cumple actualmente por edad. Oscar: No cumple actualmente por edad. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://welcu.com/fundacion-mustakis/firvi2026
+Se ha comprobado: 2026-11-08
+
+### CP2092-20261121-20261121-sounds · FIRVI 2026 · Electrónica e instrumentos sonoros · 11:30–13:00 · 2026-11-21–2026-11-21
+
+lugar: Chile · Universidad Técnica Federico Santa María · Los Placeres 401 · Valparaíso · Edificio P · PC06
+Fecha: 2026-11-21 — 2026-11-21
+Edad: 14*17 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+formato: day_course
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Acceso: Hace falta una entrada gratuita específica para el taller. Plazas limitadas.
+Limitaciones: Matvey: No cumple actualmente por edad. Oscar: No cumple actualmente por edad. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://welcu.com/fundacion-mustakis/firvi2026
+Se ha comprobado: 2026-11-08
+
+### CP2093-20261121-20261121-simon · FIRVI 2026 · «Simón Dice» con Arduino · 11:30–13:00 · 2026-11-21–2026-11-21
+
+lugar: Chile · Universidad Técnica Federico Santa María · Los Placeres 401 · Valparaíso · Edificio P · PC05
+Fecha: 2026-11-21 — 2026-11-21
+Edad: 14*17 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+formato: day_course
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Acceso: Hace falta una entrada gratuita específica para el taller. Plazas limitadas.
+Limitaciones: Matvey: No cumple actualmente por edad. Oscar: No cumple actualmente por edad. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://welcu.com/fundacion-mustakis/firvi2026
+Se ha comprobado: 2026-11-08
+
+### CP2094-20261109-20261109-morning · UMSA IIME · Robótica Especializada Nivel 1 · noviembre · 09:00–11:30 · 2026-11-09–2026-11-09
+
+lugar: Bolivia · Instituto de Investigaciones Mecánicas y Electromecánicas · La Paz
+Fecha: 2026-11-09 — 2026-11-09
+Edad: 9–14 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+formato: day_course
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 250 BOB por el curso con uso del kit y certificado. · suplementos y condiciones en el dossier
+Acceso: Inicio el 9 de noviembre de 2026. La organización indica lunes, miércoles y viernes y 12 clases. Confirmar la fecha final y las plazas del grupo elegido.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple actualmente por edad. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://ingenieriamecanica.umsa.bo/index.php/2026/10/15/robotica-especializada-nivel-1-9-a-14-anos/
+Se ha comprobado: 2026-11-08
+
+### CP2094-20261109-20261109-afternoon · UMSA IIME · Robótica Especializada Nivel 1 · noviembre · 15:00–17:30 · 2026-11-09–2026-11-09
+
+lugar: Bolivia · Instituto de Investigaciones Mecánicas y Electromecánicas · La Paz
+Fecha: 2026-11-09 — 2026-11-09
+Edad: 9–14 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+formato: day_course
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 250 BOB por el curso con uso del kit y certificado. · suplementos y condiciones en el dossier
+Acceso: Inicio el 9 de noviembre de 2026. La organización indica lunes, miércoles y viernes y 12 clases. Confirmar la fecha final y las plazas del grupo elegido.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple actualmente por edad. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://ingenieriamecanica.umsa.bo/index.php/2026/10/15/robotica-especializada-nivel-1-9-a-14-anos/
+Se ha comprobado: 2026-11-08
+
+### CP2095-20270111-20270115-january · Universidad de Chile · EdV · Transformando la energía · 2027-01-11 – 2027-01-15 · 09:00–12:30 · 2027-01-11–2027-01-15
+
+lugar: Chile · Facultad de Ciencias Físicas y Matemáticas · Beauchef 850 · Santiago
+Fecha: 2027-01-11 — 2027-01-15
+edad: 5.º–6.º de Educación Básica en 2026.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+formato: day_course
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 98 000 CLP según la página del curso. · suplementos y condiciones en el dossier
+Acceso: La organización pide certificado de estudios de 2025 e indica los cursos admisibles en 2026. Confirmar formato de documento extranjero y plazas.
+Limitaciones: Matvey: Condicional. Confirmar cómo reconoce la organización el curso realizado en 2026 fuera de Chile. Oscar: No cumple. La categoría requiere un curso o nivel educativo superior. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.edv.uchile.cl/portfolio/transformando-la-energia-descubre-que-hace-funcionar-el-mundo/
+Se ha comprobado: 2026-11-08
+
+### CP2096-20270111-20270115-january · Universidad de Chile · EdV · Ciencia COOLinaria · 2027-01-11 – 2027-01-15 · 09:00–12:30 · 2027-01-11–2027-01-15
+
+lugar: Chile · Facultad de Ciencias Físicas y Matemáticas · Beauchef 850 · Santiago
+Fecha: 2027-01-11 — 2027-01-15
+edad: 5.º–7.º de Educación Básica en 2026.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+formato: day_course
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 98 000 CLP según la página del curso. · suplementos y condiciones en el dossier
+Acceso: La organización pide certificado de estudios de 2025 e indica los cursos admisibles en 2026. Confirmar formato de documento extranjero y plazas.
+Limitaciones: Matvey: Condicional. Confirmar cómo reconoce la organización el curso realizado en 2026 fuera de Chile. Oscar: No cumple. La categoría requiere un curso o nivel educativo superior. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.edv.uchile.cl/portfolio/ciencia-coolinaria-ciencia-y-cocina-en-movimiento/
+Se ha comprobado: 2026-11-08
+
+### CP2097-20270111-20270115-january · Universidad de Chile · EdV · Robótica & Innovación · 2027-01-11 – 2027-01-15 · 09:00–12:30 · 2027-01-11–2027-01-15
+
+lugar: Chile · Facultad de Ciencias Físicas y Matemáticas · Beauchef 850 · Santiago
+Fecha: 2027-01-11 — 2027-01-15
+edad: 1.º–4.º de Educación Media en 2026.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+formato: day_course
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 98 000 CLP según la página del curso. · suplementos y condiciones en el dossier
+Acceso: La organización pide certificado de estudios de 2025 e indica los cursos admisibles en 2026. Confirmar formato de documento extranjero y plazas.
+Limitaciones: Matvey: No cumple. La categoría requiere un curso o nivel educativo superior. Oscar: No cumple. La categoría requiere un curso o nivel educativo superior. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.edv.uchile.cl/portfolio/robotica-innovacion-de-los-fundamentos-a-las-maquinas-que-cambian-el-mundo-2/
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

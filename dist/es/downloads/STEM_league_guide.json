@@ -24445,6 +24445,126 @@
         "evidence": "Cotejado con la página oficial y las condiciones publicadas."
       },
       {
+        "id": "iyrc-colombia-edubotica",
+        "name": "IYRC Colombia · Edubótica 2027",
+        "group": "regional",
+        "age_summary": "Junior 7–9, Mid 10–13, Senior 14–17 años.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Competición nacional colombiana. Road y Math en Junior, Sumo y Math en Mid, Sumo y Soccer en Senior.",
+        "categories": [
+          {
+            "name": "Junior · Road Challenge",
+            "age": "De 7 a 9 años.",
+            "age_rule": "En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida.",
+            "team": "Comprobar la composición de equipos y el acceso individual en las bases vigentes.",
+            "hardware": "MRT 1 (Brain A+B)",
+            "entry": "La página anuncia inscripciones abiertas. La sede aún no se ha publicado. Confirmar fecha de corte de edad, composición de la inscripción, plazas y condiciones para equipos extranjeros.",
+            "event_id": "C4739"
+          },
+          {
+            "name": "Junior · Math Challenge",
+            "age": "De 7 a 9 años.",
+            "age_rule": "En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida.",
+            "team": "Comprobar la composición de equipos y el acceso individual en las bases vigentes.",
+            "hardware": "MRT 1 (Brain A+B)",
+            "entry": "La página anuncia inscripciones abiertas. La sede aún no se ha publicado. Confirmar fecha de corte de edad, composición de la inscripción, plazas y condiciones para equipos extranjeros.",
+            "event_id": "C4740"
+          },
+          {
+            "name": "Mid · Sumo teleoperado",
+            "age": "10–13 años.",
+            "age_rule": "En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida.",
+            "team": "Comprobar la composición de equipos y el acceso individual en las bases vigentes.",
+            "hardware": "MRT 3",
+            "entry": "La página anuncia inscripciones abiertas. La sede aún no se ha publicado. Confirmar fecha de corte de edad, composición de la inscripción, plazas y condiciones para equipos extranjeros.",
+            "event_id": "C4741"
+          },
+          {
+            "name": "Mid · Math Challenge",
+            "age": "10–13 años.",
+            "age_rule": "En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida.",
+            "team": "Comprobar la composición de equipos y el acceso individual en las bases vigentes.",
+            "hardware": "MRT 3",
+            "entry": "La página anuncia inscripciones abiertas. La sede aún no se ha publicado. Confirmar fecha de corte de edad, composición de la inscripción, plazas y condiciones para equipos extranjeros.",
+            "event_id": "C4742"
+          },
+          {
+            "name": "Senior · Sumo Autónomo",
+            "age": "14–17 años.",
+            "age_rule": "En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida.",
+            "team": "Comprobar la composición de equipos y el acceso individual en las bases vigentes.",
+            "hardware": "Plataforma de hardware abierta.",
+            "entry": "La página anuncia inscripciones abiertas. La sede aún no se ha publicado. Confirmar fecha de corte de edad, composición de la inscripción, plazas y condiciones para equipos extranjeros.",
+            "event_id": "C4743"
+          },
+          {
+            "name": "Senior · Soccer",
+            "age": "14–17 años.",
+            "age_rule": "En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida.",
+            "team": "Comprobar la composición de equipos y el acceso individual en las bases vigentes.",
+            "hardware": "Plataforma de hardware abierta.",
+            "entry": "La página anuncia inscripciones abiertas. La sede aún no se ha publicado. Confirmar fecha de corte de edad, composición de la inscripción, plazas y condiciones para equipos extranjeros.",
+            "event_id": "C4744"
+          },
+          {
+            "name": "Mid · Creative",
+            "age": "10–13 años.",
+            "age_rule": "En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida.",
+            "team": "Comprobar la composición de equipos y el acceso individual en las bases vigentes.",
+            "hardware": "Plataforma de hardware abierta.",
+            "entry": "Categoría asíncrona. Confirmar el plazo de entrega, formato de demostración y precio de esta categoría.",
+            "event_id": "C4745"
+          },
+          {
+            "name": "Senior · Creative",
+            "age": "14–17 años.",
+            "age_rule": "En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida.",
+            "team": "Comprobar la composición de equipos y el acceso individual en las bases vigentes.",
+            "hardware": "Plataforma de hardware abierta.",
+            "entry": "Categoría asíncrona. Confirmar el plazo de entrega, formato de demostración y precio de esta categoría.",
+            "event_id": "C4746"
+          }
+        ],
+        "event_ids": [
+          "C4739",
+          "C4740",
+          "C4741",
+          "C4742",
+          "C4743",
+          "C4744",
+          "C4745",
+          "C4746"
+        ],
+        "legacy_ids": [],
+        "route": "La página anuncia inscripciones abiertas. La sede aún no se ha publicado. Confirmar fecha de corte de edad, composición de la inscripción, plazas y condiciones para equipos extranjeros.",
+        "hardware": "MRT 1 (Brain A+B) · MRT 3",
+        "language": "Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.",
+        "importance": "Etapa nacional",
+        "strengths": "Competición nacional colombiana. Road y Math en Junior, Sumo y Math en Mid, Sumo y Soccer en Senior.",
+        "requirements": [
+          "Comprobar la composición de equipos y el acceso individual en las bases vigentes.",
+          "En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida."
+        ],
+        "nuances": [
+          "Categoría asíncrona. Confirmar el plazo de entrega, formato de demostración y precio de esta categoría."
+        ],
+        "cost": "230 000 COP por 1 modalidad o 280 000 COP por 2. Confirmar qué cubre la inscripción y si incluye el kit.",
+        "award": "Los premios y el acceso a una etapa internacional no constan en los materiales de la temporada 2027.",
+        "sources": [
+          {
+            "url": "https://www.edubotica.com.co/IYRC/iyrc-colombia-2027",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -29721,7 +29841,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, circuitos y programas: 304. Se conservan las 46 vías anteriores. Los formatos brasileños se presentan por separado. Robofest LATAM y BajaBot se describen según sus categorías. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, circuitos y programas: 305. Se conservan las 46 vías anteriores. Los formatos brasileños se presentan por separado. Robofest LATAM y BajaBot se describen según sus categorías. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

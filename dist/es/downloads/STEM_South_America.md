@@ -6093,6 +6093,188 @@ Limitaciones: Se anuncia el inicio en enero de 2027. El operador indicará fecha
 Fuente: https://roboticachosica.technologybit.pe/
 Se ha comprobado: 2026-11-08
 
+### C4739 · IYRC Colombia 2027 · Junior · Road Challenge
+
+Fecha: 2027-04-10 — 2027-04-10
+Edad: 7–9 años.
+Matvey: Condicional. Matvey nació en 2017. Junior encaja si tiene 9 años en la fecha de corte.
+Oscar: Condicional. Oscar nació en 2020. Para Junior debe cumplir 7 años en la fecha de corte.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: La página anuncia inscripciones abiertas. La sede aún no se ha publicado. Confirmar fecha de corte de edad, composición de la inscripción, plazas y condiciones para equipos extranjeros.
+Precio: 230 000 COP por 1 modalidad o 280 000 COP por 2. Confirmar qué cubre la inscripción y si incluye el kit.
+Limitaciones: En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida.
+Fuente: https://www.edubotica.com.co/IYRC/iyrc-colombia-2027
+Se ha comprobado: 2026-11-08
+
+### C4740 · IYRC Colombia 2027 · Junior · Math Challenge
+
+Fecha: 2027-04-10 — 2027-04-10
+Edad: 7–9 años.
+Matvey: Condicional. Matvey nació en 2017. Junior encaja si tiene 9 años en la fecha de corte.
+Oscar: Condicional. Oscar nació en 2020. Para Junior debe cumplir 7 años en la fecha de corte.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: La página anuncia inscripciones abiertas. La sede aún no se ha publicado. Confirmar fecha de corte de edad, composición de la inscripción, plazas y condiciones para equipos extranjeros.
+Precio: 230 000 COP por 1 modalidad o 280 000 COP por 2. Confirmar qué cubre la inscripción y si incluye el kit.
+Limitaciones: En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida.
+Fuente: https://www.edubotica.com.co/IYRC/iyrc-colombia-2027
+Se ha comprobado: 2026-11-08
+
+### C4741 · IYRC Colombia 2027 · Mid · Sumo teleoperado
+
+Fecha: 2027-04-10 — 2027-04-10
+Edad: 10 a 13 años.
+Matvey: Condicional. Matvey nació en 2017. Para Mid debe cumplir 10 años en la fecha de corte.
+Oscar: No cumple actualmente por edad.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: La página anuncia inscripciones abiertas. La sede aún no se ha publicado. Confirmar fecha de corte de edad, composición de la inscripción, plazas y condiciones para equipos extranjeros.
+Precio: 230 000 COP por 1 modalidad o 280 000 COP por 2. Confirmar qué cubre la inscripción y si incluye el kit.
+Limitaciones: En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida.
+Fuente: https://www.edubotica.com.co/IYRC/iyrc-colombia-2027
+Se ha comprobado: 2026-11-08
+
+### C4742 · IYRC Colombia 2027 · Mid · Math Challenge
+
+Fecha: 2027-04-10 — 2027-04-10
+Edad: 10 a 13 años.
+Matvey: Condicional. Matvey nació en 2017. Para Mid debe cumplir 10 años en la fecha de corte.
+Oscar: No cumple actualmente por edad.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: La página anuncia inscripciones abiertas. La sede aún no se ha publicado. Confirmar fecha de corte de edad, composición de la inscripción, plazas y condiciones para equipos extranjeros.
+Precio: 230 000 COP por 1 modalidad o 280 000 COP por 2. Confirmar qué cubre la inscripción y si incluye el kit.
+Limitaciones: En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida.
+Fuente: https://www.edubotica.com.co/IYRC/iyrc-colombia-2027
+Se ha comprobado: 2026-11-08
+
+### C4743 · IYRC Colombia 2027 · Senior · Sumo Autónomo
+
+Fecha: 2027-04-10 — 2027-04-10
+Edad: 14*17 años.
+Matvey: No cumple actualmente por edad.
+Oscar: No cumple actualmente por edad.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: La página anuncia inscripciones abiertas. La sede aún no se ha publicado. Confirmar fecha de corte de edad, composición de la inscripción, plazas y condiciones para equipos extranjeros.
+Precio: 230 000 COP por 1 modalidad o 280 000 COP por 2. Confirmar qué cubre la inscripción y si incluye el kit.
+Limitaciones: En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida.
+Fuente: https://www.edubotica.com.co/IYRC/iyrc-colombia-2027
+Se ha comprobado: 2026-11-08
+
+### C4744 · IYRC Colombia 2027 · Senior · Soccer
+
+Fecha: 2027-04-10 — 2027-04-10
+Edad: 14*17 años.
+Matvey: No cumple actualmente por edad.
+Oscar: No cumple actualmente por edad.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: La página anuncia inscripciones abiertas. La sede aún no se ha publicado. Confirmar fecha de corte de edad, composición de la inscripción, plazas y condiciones para equipos extranjeros.
+Precio: 230 000 COP por 1 modalidad o 280 000 COP por 2. Confirmar qué cubre la inscripción y si incluye el kit.
+Limitaciones: En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida.
+Fuente: https://www.edubotica.com.co/IYRC/iyrc-colombia-2027
+Se ha comprobado: 2026-11-08
+
+### C4745 · IYRC Colombia 2027 · Mid · Creative
+
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 10 a 13 años.
+Matvey: Condicional. Matvey nació en 2017. Para Mid debe cumplir 10 años en la fecha de corte.
+Oscar: No cumple actualmente por edad.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: La página anuncia inscripciones abiertas. La sede aún no se ha publicado. Confirmar fecha de corte de edad, composición de la inscripción, plazas y condiciones para equipos extranjeros.
+Precio: Categoría asíncrona. Confirmar el plazo de entrega, formato de demostración y precio de esta categoría.
+Limitaciones: En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida.
+Fuente: https://www.edubotica.com.co/IYRC/iyrc-colombia-2027
+Se ha comprobado: 2026-11-08
+
+### C4746 · IYRC Colombia 2027 · Senior · Creative
+
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 14*17 años.
+Matvey: No cumple actualmente por edad.
+Oscar: No cumple actualmente por edad.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: La página anuncia inscripciones abiertas. La sede aún no se ha publicado. Confirmar fecha de corte de edad, composición de la inscripción, plazas y condiciones para equipos extranjeros.
+Precio: Categoría asíncrona. Confirmar el plazo de entrega, formato de demostración y precio de esta categoría.
+Limitaciones: En la página de la temporada 2027, las reglas generales enlazadas se identifican como de 2026. Hace falta la versión vigente para la categoría elegida.
+Fuente: https://www.edubotica.com.co/IYRC/iyrc-colombia-2027
+Se ha comprobado: 2026-11-08
+
+### E648 · FIRVI 2026 · Final Nacional · visita
+
+Fecha: 2026-11-21 — 2026-11-21
+edad: Entrada para público general. Cada taller tiene su propio umbral de edad.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Entrada gratuita. Cada espectador obtiene una entrada individual en Welcu.
+Precio: Gratuito.
+Limitaciones:
+Fuente: https://welcu.com/fundacion-mustakis/firvi2026
+Se ha comprobado: 2026-11-08
+
+### C4754 · FIRVI 2026 · Final Nacional · equipos
+
+Fecha: 2026-11-21 — 2026-11-21
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Confirmar la participación del equipo según la selección de Fundación Mustakis. La entrada de Welcu corresponde a la visita.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Confirmar la participación del equipo según la selección de Fundación Mustakis. La entrada de Welcu corresponde a la visita.
+Fuente: https://welcu.com/fundacion-mustakis/firvi2026
+Se ha comprobado: 2026-11-08
+
+### E649 · GENERACIÓN · Festival de Streamers 2026
+
+Fecha: 2026-12-11 — 2026-12-12
+edad: Entrada desde los 2 años. Menores de 14 años deben entrar y permanecer con una persona adulta. Confirmar el acceso al escenario y espectáculo concreto con la entrada elegida.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Entrada desde los 2 años. Menores de 14 años deben entrar y permanecer con una persona adulta. Confirmar el acceso al escenario y espectáculo concreto con la entrada elegida.
+Precio: Entrada a un espectáculo desde 38 500 ARS más cargo por servicio. Precio según escenario, paquete y fase de venta.
+Limitaciones:
+Fuente: https://generacion.com/
+Se ha comprobado: 2026-11-08
+
+### L871 · CTIC UNI · LEGO Junior
+
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 9 a 12 años.
+Matvey: Condicional. La edad encaja si se mantiene el intervalo. Confirmar próxima cohorte y admisión.
+Oscar: No cumple actualmente por edad.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: La página da día y mes, pero las condiciones de inscripción remiten al verano de 2026. Confirmar año de admisión, calendario coherente, tarifa y acceso sin DNI peruano.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: La página da día y mes, pero las condiciones de inscripción remiten al verano de 2026. Confirmar año de admisión, calendario coherente, tarifa y acceso sin DNI peruano.
+Fuente: https://www.ctic.uni.edu.pe/educacion/robotica-con-lego-junior/
+Se ha comprobado: 2026-11-08
+
+### L872 · CTIC UNI · Realidad Virtual y Aumentada
+
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 9 a 12 años.
+Matvey: Condicional. La edad encaja si se mantiene el intervalo. Confirmar próxima cohorte y admisión.
+Oscar: No cumple actualmente por edad.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: La página da día y mes, pero las condiciones de inscripción remiten al verano de 2026. Confirmar año de admisión, calendario coherente, tarifa y acceso sin DNI peruano.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: La página da día y mes, pero las condiciones de inscripción remiten al verano de 2026. Confirmar año de admisión, calendario coherente, tarifa y acceso sin DNI peruano.
+Fuente: https://www.ctic.uni.edu.pe/educacion/taller-de-robotica-con-arduino-junior/
+Se ha comprobado: 2026-11-08
+
+### L873 · CTIC UNI · IA y Machine Learning
+
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 13*17 años.
+Matvey: No cumple actualmente por edad.
+Oscar: No cumple actualmente por edad.
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: La página da día y mes, pero las condiciones de inscripción remiten al verano de 2026. Confirmar año de admisión, calendario coherente, tarifa y acceso sin DNI peruano.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: La página da día y mes, pero las condiciones de inscripción remiten al verano de 2026. Confirmar año de admisión, calendario coherente, tarifa y acceso sin DNI peruano.
+Fuente: https://www.ctic.uni.edu.pe/educacion/machine-learning-para-primaria/
+Se ha comprobado: 2026-11-08
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08
@@ -8405,6 +8587,123 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · PEN 895 por el programa. Materiales didácticos incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://www.chio-lecca.edu.pe/collections/creacion-de-personajes-y-mundos-kids-teens
+Se ha comprobado: 2026-11-08
+
+### CP2090-20261121-20261121-scratch · FIRVI 2026 · Creación de videojuegos con Scratch · 11:30–13:00 · 2026-11-21–2026-11-21
+
+Fecha: 2026-11-21 — 2026-11-21
+Edad: 12*17 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Hace falta una entrada gratuita específica para el taller. Plazas limitadas.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: No cumple actualmente por edad. Oscar: No cumple actualmente por edad. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://welcu.com/fundacion-mustakis/firvi2026
+Se ha comprobado: 2026-11-08
+
+### CP2091-20261121-20261121-lego · FIRVI 2026 · Introducción a la robótica educativa con Lego · 11:30–13:00 · 2026-11-21–2026-11-21
+
+Fecha: 2026-11-21 — 2026-11-21
+Edad: 10–17 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Hace falta una entrada gratuita específica para el taller. Plazas limitadas.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: No cumple actualmente por edad. Oscar: No cumple actualmente por edad. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://welcu.com/fundacion-mustakis/firvi2026
+Se ha comprobado: 2026-11-08
+
+### CP2092-20261121-20261121-sounds · FIRVI 2026 · Electrónica e instrumentos sonoros · 11:30–13:00 · 2026-11-21–2026-11-21
+
+Fecha: 2026-11-21 — 2026-11-21
+Edad: 14*17 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Hace falta una entrada gratuita específica para el taller. Plazas limitadas.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: No cumple actualmente por edad. Oscar: No cumple actualmente por edad. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://welcu.com/fundacion-mustakis/firvi2026
+Se ha comprobado: 2026-11-08
+
+### CP2093-20261121-20261121-simon · FIRVI 2026 · «Simón Dice» con Arduino · 11:30–13:00 · 2026-11-21–2026-11-21
+
+Fecha: 2026-11-21 — 2026-11-21
+Edad: 14*17 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Hace falta una entrada gratuita específica para el taller. Plazas limitadas.
+Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: No cumple actualmente por edad. Oscar: No cumple actualmente por edad. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://welcu.com/fundacion-mustakis/firvi2026
+Se ha comprobado: 2026-11-08
+
+### CP2094-20261109-20261109-morning · UMSA IIME · Robótica Especializada Nivel 1 · noviembre · 09:00–11:30 · 2026-11-09–2026-11-09
+
+Fecha: 2026-11-09 — 2026-11-09
+Edad: 9–14 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Inicio el 9 de noviembre de 2026. La organización indica lunes, miércoles y viernes y 12 clases. Confirmar la fecha final y las plazas del grupo elegido.
+Precio: 2026/27 · 250 BOB por el curso con uso del kit y certificado. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple actualmente por edad. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://ingenieriamecanica.umsa.bo/index.php/2026/10/15/robotica-especializada-nivel-1-9-a-14-anos/
+Se ha comprobado: 2026-11-08
+
+### CP2094-20261109-20261109-afternoon · UMSA IIME · Robótica Especializada Nivel 1 · noviembre · 15:00–17:30 · 2026-11-09–2026-11-09
+
+Fecha: 2026-11-09 — 2026-11-09
+Edad: 9–14 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: Inicio el 9 de noviembre de 2026. La organización indica lunes, miércoles y viernes y 12 clases. Confirmar la fecha final y las plazas del grupo elegido.
+Precio: 2026/27 · 250 BOB por el curso con uso del kit y certificado. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple actualmente por edad. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://ingenieriamecanica.umsa.bo/index.php/2026/10/15/robotica-especializada-nivel-1-9-a-14-anos/
+Se ha comprobado: 2026-11-08
+
+### CP2095-20270111-20270115-january · Universidad de Chile · EdV · Transformando la energía · 2027-01-11 – 2027-01-15 · 09:00–12:30 · 2027-01-11–2027-01-15
+
+Fecha: 2027-01-11 — 2027-01-15
+edad: 5.º–6.º de Educación Básica en 2026.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: La organización pide certificado de estudios de 2025 e indica los cursos admisibles en 2026. Confirmar formato de documento extranjero y plazas.
+Precio: 2027 · 98 000 CLP según la página del curso. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. Confirmar cómo reconoce la organización el curso realizado en 2026 fuera de Chile. Oscar: No cumple. La categoría requiere un curso o nivel educativo superior. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.edv.uchile.cl/portfolio/transformando-la-energia-descubre-que-hace-funcionar-el-mundo/
+Se ha comprobado: 2026-11-08
+
+### CP2096-20270111-20270115-january · Universidad de Chile · EdV · Ciencia COOLinaria · 2027-01-11 – 2027-01-15 · 09:00–12:30 · 2027-01-11–2027-01-15
+
+Fecha: 2027-01-11 — 2027-01-15
+edad: 5.º–7.º de Educación Básica en 2026.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: La organización pide certificado de estudios de 2025 e indica los cursos admisibles en 2026. Confirmar formato de documento extranjero y plazas.
+Precio: 2027 · 98 000 CLP según la página del curso. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. Confirmar cómo reconoce la organización el curso realizado en 2026 fuera de Chile. Oscar: No cumple. La categoría requiere un curso o nivel educativo superior. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.edv.uchile.cl/portfolio/ciencia-coolinaria-ciencia-y-cocina-en-movimiento/
+Se ha comprobado: 2026-11-08
+
+### CP2097-20270111-20270115-january · Universidad de Chile · EdV · Robótica & Innovación · 2027-01-11 – 2027-01-15 · 09:00–12:30 · 2027-01-11–2027-01-15
+
+Fecha: 2027-01-11 — 2027-01-15
+edad: 1.º–4.º de Educación Media en 2026.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Descripción y condiciones en español. Confirmar el idioma de la actividad o del jurado.
+Acceso: La organización pide certificado de estudios de 2025 e indica los cursos admisibles en 2026. Confirmar formato de documento extranjero y plazas.
+Precio: 2027 · 98 000 CLP según la página del curso. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: No cumple. La categoría requiere un curso o nivel educativo superior. Oscar: No cumple. La categoría requiere un curso o nivel educativo superior. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.edv.uchile.cl/portfolio/robotica-innovacion-de-los-fundamentos-a-las-maquinas-que-cambian-el-mundo-2/
 Se ha comprobado: 2026-11-08
 
 ### E298 · Brasil Game Show 2027 · public exhibition

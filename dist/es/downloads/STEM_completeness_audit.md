@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10630; competiciones: 4737; eventos: 639; campamentos / programas: 5254. Perfiles de ligas y programas: 304. Fichas de exposiciones grandes y especializadas: 540 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10669; competiciones: 4753; eventos: 649; campamentos / programas: 5267. Perfiles de ligas y programas: 305. Fichas de exposiciones grandes y especializadas: 550 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,8 +14,8 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 1949 | 134 | 1329 |
-| América del Sur | 15 | 434 | 47 | 218 |
+| América del Norte | 41 | 1956 | 142 | 1330 |
+| América del Sur | 15 | 443 | 49 | 230 |
 | Europa | 55 | 621 | 132 | 1528 |
 | África | 60 | 247 | 40 | 130 |
 | Asia | 50 | 1175 | 155 | 1698 |
@@ -23,7 +23,7 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 Fichas interregionales o globales sin continente único: 166. América del Norte incluye América Central y el Caribe. Los recuentos describen el inventario de la base y no miden su exhaustividad.
 
-VEX: 815 de 4737 fichas de competiciones (17.2%). La cobertura se concentra en este circuito.
+VEX: 815 de 4753 fichas de competiciones (17.1%). La cobertura se concentra en este circuito.
 
 ## Lo que queda
 
@@ -330,6 +330,7 @@ VEX: 815 de 4737 fichas de competiciones (17.2%). La cobertura se concentra en e
 - **FIRST LEGO League · Honduras**: 3 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firsthonduras.org/bioglow-2026
 - **World Robot Olympiad · Honduras**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wrohonduras.org/wro-2026
 - **Robot Drone League · Urban Rescue 2026/27**: 10 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robotdroneleague.com/
+- **IYRC Colombia · Edubótica 2027**: 8 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.edubotica.com.co/IYRC/iyrc-colombia-2027
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -912,6 +913,16 @@ VEX: 815 de 4737 fichas de competiciones (17.2%). La cobertura se concentra en e
 - **Guernsey Bricktacular 2026** — Guernesey; 2026-11-14. con un adulto; condiciones de admisión adulta por separado. https://www.visitguernsey.com/experiences/events/guernsey-bricktacular-2026/
 - **Nuuk 2027 · Science Learning Festival for educators** — Groenlandia; 2027-01-28 – 2027-01-30. Los niños del 6/9 no pueden. https://iserasuaat.gl/da/nyheder/laeringsfestival-for-matematik-og-naturfagsundervisere
 - **Robot Drone League · Campeonato nacional 2027 · Spectator visit** — Estados Unidos; 2027-03-11 – 2027-03-13. el permiso de entrada de niños. https://www.robotdroneleague.com/general-5
+- **Neurofest 2026 · Universum UNAM** — México; 2026-11-27 – 2026-11-28. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **Neurofest 2026 · El cerebro ejecutivo** — México; 2026-11-27. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **Neurofest 2026 · Sueños eléctricos** — México; 2026-11-27. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **Neurofest 2026 · Neuroimagen y acuarela** — México; 2026-11-28. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **Neurofest 2026 · Neuroplasticidad: una experiencia inmersiva** — México; 2026-11-27 – 2026-11-28. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **Neurofest 2026 · ¡Cerebro en vivo! Ondas, arte y pensamientos en tiempo real** — México; 2026-11-27 – 2026-11-28. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **Neurofest 2026 · Neurorrehabilitación robótica: pasos que inspiran** — México; 2026-11-27 – 2026-11-28. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **Neurofest 2026 · Jugar para recuperar: videojuegos y neuro-rehabilitación** — México; 2026-11-27. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **FIRVI 2026 · Final Nacional · visita** — Chile; 2026-11-21. con un adulto; condiciones de admisión adulta por separado. https://welcu.com/fundacion-mustakis/firvi2026
+- **GENERACIÓN · Festival de Streamers 2026** — Argentina; 2026-12-11 – 2026-12-12. con un adulto; condiciones de admisión adulta por separado. https://generacion.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

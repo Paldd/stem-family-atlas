@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10630; соревнований: 4737; событий: 639; лагерей / программ: 5254. Профилей лиг и программ: 304. Карточек крупных и профильных выставок: 540 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10669; соревнований: 4753; событий: 649; лагерей / программ: 5267. Профилей лиг и программ: 305. Карточек крупных и профильных выставок: 550 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,8 +14,8 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 41 | 1949 | 134 | 1329 |
-| Южная Америка | 15 | 434 | 47 | 218 |
+| Северная Америка | 41 | 1956 | 142 | 1330 |
+| Южная Америка | 15 | 443 | 49 | 230 |
 | Европа | 55 | 621 | 132 | 1528 |
 | Африка | 60 | 247 | 40 | 130 |
 | Азия | 50 | 1175 | 155 | 1698 |
@@ -23,7 +23,7 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 166. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 815 из 4737 карточек соревнований (17.2%). Это явный перекос охвата.
+VEX: 815 из 4753 карточек соревнований (17.1%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -330,6 +330,7 @@ VEX: 815 из 4737 карточек соревнований (17.2%). Это я�
 - **FIRST LEGO League · Honduras**: 3 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://firsthonduras.org/bioglow-2026
 - **World Robot Olympiad · Honduras**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wrohonduras.org/wro-2026
 - **Robot Drone League · Urban Rescue 2026/27**: 10 карточек, 10 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robotdroneleague.com/
+- **IYRC Colombia · Edubótica 2027**: 8 карточек, 6 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.edubotica.com.co/IYRC/iyrc-colombia-2027
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 11 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -912,6 +913,16 @@ VEX: 815 из 4737 карточек соревнований (17.2%). Это я�
 - **Guernsey Bricktacular 2026** — Гернси; 2026-11-14. Со взрослым; условия взрослого входа отдельно. https://www.visitguernsey.com/experiences/events/guernsey-bricktacular-2026/
 - **Nuuk 2027 · Science Learning Festival for educators** — Гренландия; 2027-01-28 – 2027-01-30. Детям 6/9 нельзя. https://iserasuaat.gl/da/nyheder/laeringsfestival-for-matematik-og-naturfagsundervisere
 - **Robot Drone League · National Championship 2027 · Spectator visit** — Соединенные Штаты Америки; 2027-03-11 – 2027-03-13. Детский допуск уточнить. https://www.robotdroneleague.com/general-5
+- **Neurofest 2026 · Universum UNAM** — Мексика; 2026-11-27 – 2026-11-28. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **Neurofest 2026 · El cerebro ejecutivo** — Мексика; 2026-11-27. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **Neurofest 2026 · Sueños eléctricos** — Мексика; 2026-11-27. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **Neurofest 2026 · Neuroimagen y acuarela** — Мексика; 2026-11-28. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **Neurofest 2026 · Neuroplasticidad: una experiencia inmersiva** — Мексика; 2026-11-27 – 2026-11-28. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **Neurofest 2026 · ¡Cerebro en vivo! Ondas, arte y pensamientos en tiempo real** — Мексика; 2026-11-27 – 2026-11-28. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **Neurofest 2026 · Neurorrehabilitación robótica: pasos que inspiran** — Мексика; 2026-11-27 – 2026-11-28. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **Neurofest 2026 · Jugar para recuperar: videojuegos y neuro-rehabilitación** — Мексика; 2026-11-27. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+- **FIRVI 2026 · Final Nacional · visita** — Чили; 2026-11-21. Со взрослым; условия взрослого входа отдельно. https://welcu.com/fundacion-mustakis/firvi2026
+- **GENERACIÓN · Festival de Streamers 2026** — Аргентина; 2026-12-11 – 2026-12-12. Со взрослым; условия взрослого входа отдельно. https://generacion.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors
