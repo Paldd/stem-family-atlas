@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8801,
-    "competition_cards": 3509,
-    "event_cards": 478,
-    "camp_cards": 4814,
+    "cards": 8842,
+    "competition_cards": 3544,
+    "event_cards": 481,
+    "camp_cards": 4817,
     "league_profiles": 288,
-    "major_exhibition_cards": 381,
+    "major_exhibition_cards": 384,
     "vex_cards": 522,
     "countries_with_records": 207,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 2876,
+      "total": 2879,
       "countries_with_records": 37,
       "competitions": 1532,
       "events": 123,
       "major_exhibitions": 85,
-      "camps": 1221,
+      "camps": 1224,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -48,9 +48,9 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 499,
+      "total": 532,
       "countries_with_records": 13,
-      "competitions": 265,
+      "competitions": 298,
       "events": 36,
       "major_exhibitions": 32,
       "camps": 198,
@@ -62,11 +62,11 @@
       "regions": [
         "Europa"
       ],
-      "total": 1965,
+      "total": 1966,
       "countries_with_records": 49,
       "competitions": 449,
-      "events": 118,
-      "major_exhibitions": 93,
+      "events": 119,
+      "major_exhibitions": 94,
       "camps": 1398,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
@@ -90,11 +90,11 @@
       "regions": [
         "Asia"
       ],
-      "total": 2571,
+      "total": 2575,
       "countries_with_records": 48,
-      "competitions": 863,
-      "events": 128,
-      "major_exhibitions": 115,
+      "competitions": 865,
+      "events": 130,
+      "major_exhibitions": 117,
       "camps": 1580,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
@@ -11732,6 +11732,39 @@
       "new": false
     },
     {
+      "id": "E479",
+      "name": "Galaxcity · pista familiar de robots y pilotaje de drones",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "visitor_policy": "family",
+      "source": "https://galaxcity.jp/future-creation-hall/event/20261206-009270.html",
+      "new": false
+    },
+    {
+      "id": "E480",
+      "name": "KONDO BATTLE · público en Galaxcity",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "visitor_policy": "family",
+      "source": "https://www.galaxcity.jp/future-creation-hall/event/20261206-009267.html",
+      "new": false
+    },
+    {
+      "id": "E481",
+      "name": "Advanced Humanoid Forum 2027 · Munich",
+      "country": "Alemania",
+      "region": "Europa",
+      "start": "2027-01-20",
+      "end": "2027-01-21",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.advancedhumanoidforum.com/humanoid-robotics-forum-2027-tickets.html",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -14149,8 +14182,8 @@
       }
     ],
     "counts": {
-      "records": 4814,
-      "holiday": 4492,
+      "records": 4817,
+      "holiday": 4494,
       "regular": 150,
       "self_paced_materials": 2,
       "boarding": 1036,

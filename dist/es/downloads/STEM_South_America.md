@@ -3597,6 +3597,435 @@ Limitaciones: La página del colegio indica la edad. Las fechas y el acceso a to
 Fuente: https://liceolosdelfines.edu.ec/club-de-robotica-deltronic-programacion-y-mecanica-desde-cero/
 Se ha comprobado: 2026-11-07
 
+### C3511 · TAITA ROBOT 2026 · JUANCA3D ROBOTICS
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Confirmar edad y acceso con la organización.
+Matvey: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Oscar: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Categoría abierta según la fuente. Confirmar condiciones para menores.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: Se encontraron 21 documentos de bases y fichas de pruebas. Las fechas corresponden al torneo completo. Confirmar sede y horarios por prueba.
+Fuente: https://sensor.ec/
+Se ha comprobado: 2026-11-07
+
+### C3512 · Black Scorpions Robotics Cup I
+
+Fecha: 2026-11-21 — 2026-11-21
+edad: La asociación indica primaria y secundaria. No publica cursos ni edades exactas.
+Matvey: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Oscar: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: La asociación indica primaria y secundaria. No publica cursos ni edades exactas.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: El cartel de Black Scorpions anuncia Soccer y Sumo Makeblock, Mini Sumo, seguimiento de línea, carreras y otras pruebas. La sede no está publicada.
+Fuente: https://sensor.ec/
+Se ha comprobado: 2026-11-07
+
+### C3513 · ROBOTI OPEN GAMES · Roboti Academy
+
+Fecha: 2026-11-28 — 2026-11-28
+edad: Confirmar edad y acceso con la organización.
+Matvey: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Oscar: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Categoría abierta según la fuente. Confirmar condiciones para menores.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: Formato nacional abierto según el calendario. Sede, categorías y admisión de menores requieren confirmación aparte.
+Fuente: https://sensor.ec/
+Se ha comprobado: 2026-11-07
+
+### C3514 · DRC Space Challenge · Liceo Los Delfines
+
+Fecha: 2026-12-11 — 2026-12-12
+edad: La asociación indica primaria y secundaria. No publica cursos ni edades exactas.
+Matvey: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Oscar: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: La asociación indica primaria y secundaria. No publica cursos ni edades exactas.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: Tercera edición interescolar. SENSOR anuncia más de 40 categorías, incluidas infantiles. Las bases y edades específicas no constan en el calendario.
+Fuente: https://sensor.ec/
+Se ha comprobado: 2026-11-07
+
+### C3515 · Robot Champions · Der Robotikmeister
+
+Fecha: 2027-01-16 — 2027-01-16
+edad: La asociación indica primaria y secundaria. No publica cursos ni edades exactas.
+Matvey: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Oscar: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: La asociación indica primaria y secundaria. No publica cursos ni edades exactas.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: Cuarta edición del club escolar Der Robotikmeister. El calendario confirma escuela y fecha. No se encontraron formulario ni categorías exactas.
+Fuente: https://sensor.ec/
+Se ha comprobado: 2026-11-07
+
+### C3516 · Santitronic Robotics Tournament · SRT 2026
+
+Fecha: 2027-01-30 国 2027-01-30
+edad: Confirmar edad y acceso con la organización.
+Matvey: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Oscar: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Categoría abierta según la fuente. Confirmar condiciones para menores.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: El nombre contiene 2026, pero la ficha de SENSOR indica 30 de enero de 2027. El calendario recoge formatos escolar y abierto.
+Fuente: https://sensor.ec/
+Se ha comprobado: 2026-11-07
+
+### C3517 · NASA Space Apps Challenge 2026 · Sangolquí
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Sí por edad. Para menores se exige inscripción por progenitor o tutor y su presencia durante todo el evento.
+Matvey: Sí por edad. Para menores se exige inscripción por progenitor o tutor y su presencia durante todo el evento.
+Oscar: Sí por edad. Para menores se exige inscripción por progenitor o tutor y su presencia durante todo el evento.
+Idioma: Colaboración local en español. Proyecto final y vídeo para el jurado global en inglés.
+Acceso: Inscripción individual o equipo de 1–6 personas. Elegir el evento local en la cuenta de NASA Space Apps.
+Precio: Gratuito.
+Limitaciones: Confirmar dirección final, horario y modalidad híbrida en el correo de la organización local.
+Fuente: https://www.spaceappschallenge.org/2026/local-events/sangolqui
+Se ha comprobado: 2026-11-07
+
+### C3518 · Campanil Challenge 2026 · Sumo Bot Open
+
+Fecha: 2026-12-04 — 2026-12-04
+edad: Categoría abierta según las bases vigentes. El calendario IEEE describe una modalidad escolar. Confirmar edad mínima y acceso desde el extranjero.
+Matvey: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Oscar: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Categoría abierta según las bases vigentes. El calendario IEEE describe una modalidad escolar. Confirmar edad mínima y acceso desde el extranjero.
+Precio: Inscripción y participación gratuitas. Plazas limitadas por categoría.
+Limitaciones: La web del torneo indica Universidad de Concepción. El calendario IEEE indica Colegio San Agustín, Tucapel 219. Hay que confirmar la sede de cada prueba.
+Fuente: https://campanilchallenge.cl/docs/bases-sumo-campanil-challenge.pdf
+Se ha comprobado: 2026-11-07
+
+### C3519 · Campanil Challenge 2026 · Battlebots Open
+
+Fecha: 2026-12-04 — 2026-12-04
+edad: Categoría abierta según la fuente. Confirmar condiciones para menores.
+Matvey: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Oscar: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Categoría abierta según la fuente. Confirmar condiciones para menores.
+Precio: Inscripción y participación gratuitas. Plazas limitadas por categoría.
+Limitaciones: La web del torneo indica Universidad de Concepción. El calendario IEEE indica Colegio San Agustín, Tucapel 219. Hay que confirmar la sede de cada prueba.
+Fuente: https://campanilchallenge.cl/docs/Bases_Battlebots.pdf
+Se ha comprobado: 2026-11-07
+
+### C3520 · Campanil Challenge 2026 · Velocistas Open
+
+Fecha: 2026-12-04 — 2026-12-04
+edad: Categoría abierta según la fuente. Confirmar condiciones para menores.
+Matvey: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Oscar: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Categoría abierta según la fuente. Confirmar condiciones para menores.
+Precio: Inscripción y participación gratuitas. Plazas limitadas por categoría.
+Limitaciones: La web del torneo indica Universidad de Concepción. El calendario IEEE indica Colegio San Agustín, Tucapel 219. Hay que confirmar la sede de cada prueba.
+Fuente: https://campanilchallenge.cl/docs/Bases_Velocistas_Open.pdf
+Se ha comprobado: 2026-11-07
+
+### C3521 · Campanil Challenge 2026 · Velocistas Universitarios
+
+Fecha: 2026-12-05 — 2026-12-05
+edad: No. Se requiere cursar pregrado en una universidad chilena.
+Matvey: No. Se requiere cursar pregrado en una universidad chilena.
+Oscar: No. Se requiere cursar pregrado en una universidad chilena.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: No. Se requiere cursar pregrado en una universidad chilena.
+Precio: Inscripción y participación gratuitas. Plazas limitadas por categoría.
+Limitaciones: La web del torneo indica Universidad de Concepción. El calendario IEEE indica Colegio San Agustín, Tucapel 219. Hay que confirmar la sede de cada prueba.
+Fuente: https://campanilchallenge.cl/docs/Bases_Velocistas_Universitarios.pdf
+Se ha comprobado: 2026-11-07
+
+### C3522 · Campanil Challenge 2026 · Programación Competitiva
+
+Fecha: 2026-12-05 — 2026-12-05
+edad: Confirmar edad y acceso con la organización.
+Matvey: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Oscar: Condicional. Confirmar edad mínima y acceso de equipos extranjeros.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Confirmar edad y acceso con la organización.
+Precio: Inscripción y participación gratuitas. Plazas limitadas por categoría.
+Limitaciones: La web del torneo indica Universidad de Concepción. El calendario IEEE indica Colegio San Agustín, Tucapel 219. Hay que confirmar la sede de cada prueba.
+Fuente: https://campanilchallenge.cl/docs/Bases_Programacion.pdf
+Se ha comprobado: 2026-11-07
+
+### C3523 · TAITA ROBOT 2026 · Barcos RC
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Confirmar edad y acceso con la organización.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Confirmar edad y acceso con la organización.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1e-DpgKcRl1lgT7r9zeKWhwRtRKrjGoe-/view
+Se ha comprobado: 2026-11-07
+
+### C3524 · TAITA ROBOT 2026 · Batalla de Robots 1 lb
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Confirmar edad y acceso con la organización.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Confirmar edad y acceso con la organización.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1lr0zW35GHL3a500WzFXdmeY-SxhcoGZC/view
+Se ha comprobado: 2026-11-07
+
+### C3525 · TAITA ROBOT 2026 · Batalla de Robots 3 lb
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Confirmar edad y acceso con la organización.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Confirmar edad y acceso con la organización.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1a_1YKV5AoCX3qmTD3-ApJgAUpWVgA2xr/view
+Se ha comprobado: 2026-11-07
+
+### C3526 · TAITA ROBOT 2026 · Batalla de Robots 150 g
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Confirmar edad y acceso con la organización.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Confirmar edad y acceso con la organización.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1oY1nnB6TehBoNQejw8WgheCGUvRXxUTs/view
+Se ha comprobado: 2026-11-07
+
+### C3527 · TAITA ROBOT 2026 · Batalla de Robots · Impresión 3D 1 lb
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Confirmar edad y acceso con la organización.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Confirmar edad y acceso con la organización.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1AtYxPmTA9k35uqx6f0yNb5Dk6c0Za1jX/view
+Se ha comprobado: 2026-11-07
+
+### C3528 · TAITA ROBOT 2026 · Battleglobos Colegial
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Clase escolar según las bases. No se indican los cursos exactos ni la edad mínima.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Clase escolar según las bases. No se indican los cursos exactos ni la edad mínima.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1n1iWIZUfl-lSsX4o7ObQPf71Q9n_xUO9/view
+Se ha comprobado: 2026-11-07
+
+### C3529 · TAITA ROBOT 2026 · Car Racing RC Colegial
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Clase escolar según las bases. No se indican los cursos exactos ni la edad mínima.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Clase escolar según las bases. No se indican los cursos exactos ni la edad mínima.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/13hnq1ssmtRDMJKHEKAfIELYG5qSJLGrB/view
+Se ha comprobado: 2026-11-07
+
+### C3530 · TAITA ROBOT 2026 · Carrera de Insectos Colegial
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Clase escolar según las bases. No se indican los cursos exactos ni la edad mínima.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Clase escolar según las bases. No se indican los cursos exactos ni la edad mínima.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/187Dd8wSWRIUV-8pJsKB9UYAQ9aI99M4g/view
+Se ha comprobado: 2026-11-07
+
+### C3531 · TAITA ROBOT 2026 · Carrera de Insectos Profesional
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Clase PRO según el nombre de las bases. Confirmar edad y requisitos de nivel.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Clase PRO según el nombre de las bases. Confirmar edad y requisitos de nivel.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1jWTeoDrV0UzuM7qCAbNzpQnhCdGzVRT8/view
+Se ha comprobado: 2026-11-07
+
+### C3532 · TAITA ROBOT 2026 · Destreza y Velocidad RC
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Confirmar edad y acceso con la organización.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Confirmar edad y acceso con la organización.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1D27-A1WqVu15lC2H0eXFOYPy20XVdVva/view
+Se ha comprobado: 2026-11-07
+
+### C3533 · TAITA ROBOT 2026 · Drones Racing
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Confirmar edad y acceso con la organización.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Confirmar edad y acceso con la organización.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1g_zHnBxvm_onM2p71ThD1nRtf_2px7Rj/view
+Se ha comprobado: 2026-11-07
+
+### C3534 · TAITA ROBOT 2026 · MiniSumo · Autónomo / RC
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Confirmar edad y acceso con la organización.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Confirmar edad y acceso con la organización.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/18WAi0rrjOy5-Ev8V2fNgtsE0xqZ0zBKR/view
+Se ha comprobado: 2026-11-07
+
+### C3535 · TAITA ROBOT 2026 · Pelea Humanoides
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Clase PRO según el nombre de las bases. Confirmar edad y requisitos de nivel.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Clase PRO según el nombre de las bases. Confirmar edad y requisitos de nivel.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1mJC9FErqxd3hwJzULRqYicAXz2yOJx6q/view
+Se ha comprobado: 2026-11-07
+
+### C3536 · TAITA ROBOT 2026 · Robot Bailarín
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Clase PRO según el nombre de las bases. Confirmar edad y requisitos de nivel.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Clase PRO según el nombre de las bases. Confirmar edad y requisitos de nivel.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1d63L2nNgRvW5CeAojSz-N51M3vzvx_Xo/view
+Se ha comprobado: 2026-11-07
+
+### C3537 · TAITA ROBOT 2026 · Seguidor de Línea Colegial
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Clase escolar según las bases. No se indican los cursos exactos ni la edad mínima.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Clase escolar según las bases. No se indican los cursos exactos ni la edad mínima.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1GPHRdrmDrkqKz_5VPZWlbLxORN0Q-vzV/view
+Se ha comprobado: 2026-11-07
+
+### C3538 · TAITA ROBOT 2026 · Seguidor de Línea · con turbina
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Confirmar edad y acceso con la organización.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Confirmar edad y acceso con la organización.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1wHFIAs8aiZ6Kq8f-b3DNm6d_IvVut6vH/view
+Se ha comprobado: 2026-11-07
+
+### C3539 · TAITA ROBOT 2026 · Seguidor de Línea · sin turbina
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Confirmar edad y acceso con la organización.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Confirmar edad y acceso con la organización.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1gTc8UI93zDxNSFGnMMDUPc2VD8rTqUSR/view
+Se ha comprobado: 2026-11-07
+
+### C3540 · TAITA ROBOT 2026 · Seguidor de Luz Colegial
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Clase escolar según las bases. No se indican los cursos exactos ni la edad mínima.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Clase escolar según las bases. No se indican los cursos exactos ni la edad mínima.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/12CaybmlBT5Nl_RLZT6qF59zv1IVOTU-a/view
+Se ha comprobado: 2026-11-07
+
+### C3541 · TAITA ROBOT 2026 · Soccer Colegial
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Clase escolar hasta 17 años. No se indican la edad mínima ni el curso.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Clase escolar hasta 17 años. No se indican la edad mínima ni el curso.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1fH_iZNh8ZoiA3ZYbYUeyaBmmx6o9fUzN/view
+Se ha comprobado: 2026-11-07
+
+### C3542 · TAITA ROBOT 2026 · Soccer Profesional
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Clase PRO según el nombre de las bases. Confirmar edad y requisitos de nivel.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Clase PRO según el nombre de las bases. Confirmar edad y requisitos de nivel.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/10xWZ7gvoLWGkVF0HC4aOceUdU6Qf4Hb6/view
+Se ha comprobado: 2026-11-07
+
+### C3543 · TAITA ROBOT 2026 · Todo Terreno RC
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Confirmar edad y acceso con la organización.
+Matvey: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Oscar: Condicional. Confirmar edad y acceso a la clase elegida, día exacto y disponibilidad.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: Confirmar edad y acceso con la organización.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1X3Wpa97KHdHGjjGHTjC1l4aWZSr_9MlH/view
+Se ha comprobado: 2026-11-07
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

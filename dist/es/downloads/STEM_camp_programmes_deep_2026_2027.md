@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1889 fichas en 123 países. Cada ficha indica cuándo se comprobó cada fuente.
+Estado de la base: 2026-11-07. 1891 fichas en 123 países. Cada ficha indica cuándo se verificaron sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -128156,7 +128156,7 @@ España · Getafe · DigiKids Getafe Centro / Los Molinos
 
 **Alojamiento:** Programa diurno sin alojamiento.
 
-**Fechas / estado:** 23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. Horario 09:30–13:30. Confirmar sede concreta de cada día.
+**Fechas / estado:** Fechas del bloque de inscripción: 23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. El bloque superior contiene una errata para el 29 de diciembre.
 
 **Precio / año:** 2026 · EUR 30 / 55 / 80 / 105 / 130 / 155 por 1 / 2 / 3 / 4 / 5 / 6 días por menor.
 
@@ -128170,7 +128170,7 @@ España · Getafe · DigiKids Getafe Centro / Los Molinos
 
 **Oscar:** Condicional. Confirmar grupo de edad e idioma antes de inscribirse.
 
-**Motivo de selección:** Se verificaron fechas, contenido formativo y tarifas disponibles.
+**Motivo de selección:** Dos sedes en Getafe, talleres diurnos de robótica, juegos e IA. Confirmar reparto de temas, edad e idioma del grupo concreto.
 
 ### Antes de solicitar plaza
 
@@ -128298,13 +128298,11 @@ España · Getafe · DigiKids Getafe Centro / Los Molinos
 
 ### Fuentes
 
-- [Página oficial del organizador](https://digikids.es/talleres-de-navidad/) · 2026-11-07
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://digikids.es/talleres-de-navidad/) · 2026-11-07
 
-- [Página oficial del organizador](https://digikids.es/) · 2026-11-07
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3-1024x576.png) · 2026-11-07
 
-- [Página oficial del organizador](https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2.png) · 2026-11-07
-
-- [Página oficial del organizador](https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3.png) · 2026-11-07
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2-1024x456.png) · 2026-11-07
 
 ## CP1644 · Salamanca Tech · Navidad 2026/27
 
@@ -151113,6 +151111,110 @@ Nueva Zelanda · Auckland · elegir sede
 - [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-07
 
 - [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-07
+
+## CP1890 · New Hope · Summer Camp STEAM
+
+Costa Rica · San Juan de Santa Bárbara · Heredia · New Hope
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** El formulario pide edad y curso. No indica el intervalo admitido.
+
+**Idioma:** El formulario separa English Program. No indica el idioma de robótica ni de laboratorio STEAM.
+
+**Programa:** STEAM Program diurno de 07:00 a 16:00. Robótica, laboratorio científico, arte, música, cocina, deporte y medio ambiente.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El formulario ofrece dos ventanas: 2–18 de diciembre de 2026 y 4–29 de enero de 2027. No publica los días de clase dentro de cada ventana.
+
+**Cabe/año:** no se ha fijado el precio.
+
+**Incluido:** STEAM Program diurno de 07:00 a 16:00. Robótica, laboratorio científico, arte, música, cocina, deporte y medio ambiente.
+
+**Suplementos:** Almuerzo y merienda son opciones separadas. Tarifa y transporte sin publicar.
+
+**Pago:** Pedir el cálculo completo y las condiciones de cancelación antes de pagar.
+
+**Matvey:** Condicional. El formulario pide edad y curso. No hay límites de edad publicados.
+
+**Oscar:** Condicional. El formulario pide edad y curso. No hay límites de edad publicados.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Confirmar días de asistencia, edad, idioma, precio y acceso desde otra escuela.
+
+- La escuela pide el centro de origen. Esto no confirma admisión de alumnado externo ni plaza.
+
+### Ventana del programa diurno STEAM
+
+**Fechas / estado:** 2026-12-02 — 2026-12-18
+
+**Precio:** Precio sin publicar.
+
+**condiciones de participación:** La escuela pide el centro de origen. Esto no confirma admisión de alumnado externo ni plaza.
+
+**Disponibilidad de plazas:** El operador confirma las plazas y la aceptación de la solicitud.
+
+[fuente](https://form.jotform.com/252805351014851)
+
+### Ventana del programa diurno STEAM
+
+**Fechas / estado:** 2027-01-04 — 2027-01-29
+
+**Precio:** Precio sin publicar.
+
+**condiciones de participación:** La escuela pide el centro de origen. Esto no confirma admisión de alumnado externo ni plaza.
+
+**Disponibilidad de plazas:** El operador confirma las plazas y la aceptación de la solicitud.
+
+[fuente](https://form.jotform.com/252805351014851)
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://form.jotform.com/252805351014851) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://complejonewhope.co.cr/quienes-somos/) · 2026-11-07
+
+## CP1891 · Codelearn · Talleres Tecnológicos de Navidad 2026
+
+España · Varios centros de Codelearn en España.
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Anuncio de invierno de la red desde 8 años. Confirmar edad y nivel del taller en el centro.
+
+**Idioma:** El idioma de enseñanza del grupo elegido no está confirmado.
+
+**Programa:** Según el centro: programación en Minecraft, creación de videojuegos, robótica educativa, lógica y estrategia.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Vacaciones de Navidad 2026. La red anunció la inscripción, con fechas y oferta según el centro.
+
+**Cabe/año:** no se ha fijado el precio.
+
+**Incluido:** Según el centro: programación en Minecraft, creación de videojuegos, robótica educativa, lógica y estrategia.
+
+**Suplementos:** Precio sin publicar.
+
+**Pago:** El operador confirma las plazas y la aceptación de la solicitud.
+
+**Matvey:** Cumple el mínimo general de 8 años. Confirmar centro, taller, idioma, precio y plaza.
+
+**Oscar:** No según el mínimo general de 8 años de los talleres de invierno 2026.
+
+**Motivo de selección:** Es un anuncio de temporada de la red. Se conservan aparte los cursos anteriores de Codelearn sin atribuirles estas fechas.
+
+### Antes de solicitar plaza
+
+- Elegir centro y pedir horario, edad, precio e idioma del taller seleccionado.
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://codelearn.es/blog/talleres-tecnologicos-navidad-2026/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

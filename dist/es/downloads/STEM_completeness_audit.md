@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 8801; competiciones: 3509; eventos: 478; campamentos / programas: 4814. Perfiles de ligas y programas: 288. Fichas de exposiciones grandes y especializadas: 381 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 8842; competiciones: 3544; eventos: 481; campamentos / programas: 4817. Perfiles de ligas y programas: 288. Fichas de exposiciones grandes y especializadas: 384 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros específicos para 207 de 249 países y territorios; países auditados por completo: 0. Revisión archivada v51: se añadieron fichas 21 y perfiles 3. Se conservaron todas las fichas previas.
 
@@ -14,16 +14,16 @@ Hay registros específicos para 207 de 249 países y territorios; países audita
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 37 | 1532 | 85 | 1221 |
-| América del Sur | 13 | 265 | 32 | 198 |
-| Europa | 49 | 449 | 93 | 1398 |
+| América del Norte | 37 | 1532 | 85 | 1224 |
+| América del Sur | 13 | 298 | 32 | 198 |
+| Europa | 49 | 449 | 94 | 1398 |
 | África | 47 | 144 | 27 | 78 |
-| Asia | 48 | 863 | 115 | 1580 |
+| Asia | 48 | 865 | 117 | 1580 |
 | Oceanía | 15 | 140 | 27 | 326 |
 
 Fichas interregionales o globales sin continente único: 136. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y la cobertura completa sigue pendiente.
 
-VEX: 522 de 3509 fichas de competiciones (14.9%). La cobertura tiene un sesgo evidente.
+VEX: 522 de 3544 fichas de competición (14.7%). La cobertura está sesgada hacia VEX.
 
 ## Lo que queda
 
@@ -737,6 +737,9 @@ VEX: 522 de 3509 fichas de competiciones (14.9%). La cobertura tiene un sesgo ev
 - **XIX Olimpiadas de Robótica · Cúcuta · visita** — Colombia; 2026-12-11 – 2026-12-12. con un adulto; condiciones de admisión adulta por separado. https://olimpiadasroboticaup.com/
 - **Geo Connect Asia · Drones & Uncrewed Asia 2027** — Singapur; 2027-03-17 – 2027-03-18. Los niños del 6/9 no pueden. https://www.geoconnectasia.com/visit
 - **STEM Fair and Student Showcase · Lae International School 2026** — Papúa Nueva Guinea; fecha desconocida. Confirmar acceso infantil. https://www.orica.com/en/news-and-media/blog/2026/building-lasting-stem-capability-in-papua-new-guinea
+- **Galaxcity · pista familiar de robots y pilotaje de drones** — Japón; 2026-12-05 – 2026-12-06. con un adulto; condiciones de admisión adulta por separado. https://galaxcity.jp/future-creation-hall/event/20261206-009270.html
+- **KONDO BATTLE · público en Galaxcity** — Japón; 2026-12-05 – 2026-12-06. con un adulto; condiciones de admisión adulta por separado. https://www.galaxcity.jp/future-creation-hall/event/20261206-009267.html
+- **Advanced Humanoid Forum 2027 · Munich** — Alemania; 2027-01-20 – 2027-01-21. el permiso de entrada de niños. https://www.advancedhumanoidforum.com/humanoid-robotics-forum-2027-tickets.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

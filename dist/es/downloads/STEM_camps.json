@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 4814,
-      "holiday": 4492,
+      "records": 4817,
+      "holiday": 4494,
       "regular": 150,
       "self_paced_materials": 2,
       "boarding": 1036,
@@ -36948,7 +36948,58 @@
       "importance_reason": "Taller o programa formativo",
       "participation": "regular",
       "admission_kind": "school_selection",
-      "evidence_level": "event_page"
+      "evidence_level": "event_page",
+      "related_ids": [
+        "C3514"
+      ]
+    },
+    {
+      "id": "L723",
+      "title": "Escuela de Invierno de Robótica 2026–2027 · FMR / Universidad Veracruzana",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Veracruz",
+      "start": "",
+      "end": "",
+      "period": "La Federación indica diciembre de 2026. No se publican días ni horarios.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://femexrobotica.org/fmr/eventos/",
+      "references": [],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "No se publican grupo infantil ni edades admitidas. Comprobar la convocatoria cuando salga el programa.",
+      "mat": "No se publican grupo infantil ni edades admitidas. Comprobar la convocatoria cuando salga el programa.",
+      "osc": "No se publican grupo infantil ni edades admitidas. Comprobar la convocatoria cuando salga el programa.",
+      "format": "",
+      "entry": "No se publican grupo infantil ni edades admitidas. Comprobar la convocatoria cuando salga el programa.",
+      "gear": "",
+      "language": "Materiales en español. El idioma oral del jurado no está confirmado.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "No se publican grupo infantil ni edades admitidas. Comprobar la convocatoria cuando salga el programa.",
+      "note": "Anuncio de programa formativo. Quedan pendientes fechas, precio, nivel y posible modalidad infantil.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Fase regional",
+      "participation": "unconfirmed_program",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "venue": "Instituto de Investigaciones en Inteligencia Artificial · Universidad Veracruzana"
     },
     {
       "id": "CP001-20270606-20270619",
@@ -326160,7 +326211,7 @@
       "city": "Getafe · DigiKids Getafe Centro / Los Molinos",
       "start": "2026-12-23",
       "end": "2026-12-23",
-      "period": "23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. Horario 09:30–13:30. Confirmar sede concreta de cada día.",
+      "period": "Fechas del bloque de inscripción: 23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. El bloque superior contiene una errata para el 29 de diciembre.",
       "date_status": "Confirmado",
       "deadline": "",
       "age": "Los límites de edad de los grupos de invierno aún no se indican.",
@@ -326179,19 +326230,15 @@
       "references": [
         {
           "url": "https://digikids.es/talleres-de-navidad/",
-          "label": "Página oficial del organizador"
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         },
         {
-          "url": "https://digikids.es/",
-          "label": "Página oficial del organizador"
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3-1024x576.png",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         },
         {
-          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2.png",
-          "label": "Página oficial del organizador"
-        },
-        {
-          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3.png",
-          "label": "Página oficial del organizador"
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2-1024x456.png",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
@@ -326246,7 +326293,7 @@
       "city": "Getafe · DigiKids Getafe Centro / Los Molinos",
       "start": "2026-12-28",
       "end": "2026-12-28",
-      "period": "23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. Horario 09:30–13:30. Confirmar sede concreta de cada día.",
+      "period": "Fechas del bloque de inscripción: 23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. El bloque superior contiene una errata para el 29 de diciembre.",
       "date_status": "Confirmado",
       "deadline": "",
       "age": "Los límites de edad de los grupos de invierno aún no se indican.",
@@ -326265,19 +326312,15 @@
       "references": [
         {
           "url": "https://digikids.es/talleres-de-navidad/",
-          "label": "Página oficial del organizador"
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         },
         {
-          "url": "https://digikids.es/",
-          "label": "Página oficial del organizador"
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3-1024x576.png",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         },
         {
-          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2.png",
-          "label": "Página oficial del organizador"
-        },
-        {
-          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3.png",
-          "label": "Página oficial del organizador"
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2-1024x456.png",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
@@ -326332,7 +326375,7 @@
       "city": "Getafe · DigiKids Getafe Centro / Los Molinos",
       "start": "2026-12-29",
       "end": "2026-12-29",
-      "period": "23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. Horario 09:30–13:30. Confirmar sede concreta de cada día.",
+      "period": "Fechas del bloque de inscripción: 23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. El bloque superior contiene una errata para el 29 de diciembre.",
       "date_status": "Confirmado",
       "deadline": "",
       "age": "Los límites de edad de los grupos de invierno aún no se indican.",
@@ -326351,19 +326394,15 @@
       "references": [
         {
           "url": "https://digikids.es/talleres-de-navidad/",
-          "label": "Página oficial del organizador"
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         },
         {
-          "url": "https://digikids.es/",
-          "label": "Página oficial del organizador"
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3-1024x576.png",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         },
         {
-          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2.png",
-          "label": "Página oficial del organizador"
-        },
-        {
-          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3.png",
-          "label": "Página oficial del organizador"
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2-1024x456.png",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
@@ -326418,7 +326457,7 @@
       "city": "Getafe · DigiKids Getafe Centro / Los Molinos",
       "start": "2026-12-30",
       "end": "2026-12-30",
-      "period": "23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. Horario 09:30–13:30. Confirmar sede concreta de cada día.",
+      "period": "Fechas del bloque de inscripción: 23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. El bloque superior contiene una errata para el 29 de diciembre.",
       "date_status": "Confirmado",
       "deadline": "",
       "age": "Los límites de edad de los grupos de invierno aún no se indican.",
@@ -326437,19 +326476,15 @@
       "references": [
         {
           "url": "https://digikids.es/talleres-de-navidad/",
-          "label": "Página oficial del organizador"
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         },
         {
-          "url": "https://digikids.es/",
-          "label": "Página oficial del organizador"
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3-1024x576.png",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         },
         {
-          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2.png",
-          "label": "Página oficial del organizador"
-        },
-        {
-          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3.png",
-          "label": "Página oficial del organizador"
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2-1024x456.png",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
@@ -326504,7 +326539,7 @@
       "city": "Getafe · DigiKids Getafe Centro / Los Molinos",
       "start": "2027-01-04",
       "end": "2027-01-04",
-      "period": "23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. Horario 09:30–13:30. Confirmar sede concreta de cada día.",
+      "period": "Fechas del bloque de inscripción: 23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. El bloque superior contiene una errata para el 29 de diciembre.",
       "date_status": "Confirmado",
       "deadline": "",
       "age": "Los límites de edad de los grupos de invierno aún no se indican.",
@@ -326523,19 +326558,15 @@
       "references": [
         {
           "url": "https://digikids.es/talleres-de-navidad/",
-          "label": "Página oficial del organizador"
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         },
         {
-          "url": "https://digikids.es/",
-          "label": "Página oficial del organizador"
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3-1024x576.png",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         },
         {
-          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2.png",
-          "label": "Página oficial del organizador"
-        },
-        {
-          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3.png",
-          "label": "Página oficial del organizador"
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2-1024x456.png",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
@@ -326590,7 +326621,7 @@
       "city": "Getafe · DigiKids Getafe Centro / Los Molinos",
       "start": "2027-01-05",
       "end": "2027-01-05",
-      "period": "23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. Horario 09:30–13:30. Confirmar sede concreta de cada día.",
+      "period": "Fechas del bloque de inscripción: 23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. El bloque superior contiene una errata para el 29 de diciembre.",
       "date_status": "Confirmado",
       "deadline": "",
       "age": "Los límites de edad de los grupos de invierno aún no se indican.",
@@ -326609,19 +326640,15 @@
       "references": [
         {
           "url": "https://digikids.es/talleres-de-navidad/",
-          "label": "Página oficial del organizador"
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         },
         {
-          "url": "https://digikids.es/",
-          "label": "Página oficial del organizador"
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3-1024x576.png",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         },
         {
-          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2.png",
-          "label": "Página oficial del organizador"
-        },
-        {
-          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3.png",
-          "label": "Página oficial del organizador"
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2-1024x456.png",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
         }
       ],
       "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
@@ -385260,6 +385287,138 @@
         "label": "La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede."
       },
       "date_rule": "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+    },
+    {
+      "id": "CP1890-20261202-20261218",
+      "block": "Campamentos",
+      "title": "New Hope · Summer Camp STEAM · Ventana del programa diurno STEAM · 2026-12-02–2026-12-18",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "San Juan de Santa Bárbara · Heredia · New Hope",
+      "start": "2026-12-02",
+      "end": "2026-12-18",
+      "period": "El formulario ofrece dos ventanas: 2–18 de diciembre de 2026 y 4–29 de enero de 2027. No publica los días de clase dentro de cada ventana.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "El formulario pide edad y curso. No indica el intervalo admitido.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "La escuela pide el centro de origen. Esto no confirma admisión de alumnado externo ni plaza.",
+      "gear": "STEAM Program diurno de 07:00 a 16:00. Robótica, laboratorio científico, arte, música, cocina, deporte y medio ambiente.",
+      "language": "El formulario separa English Program. No indica el idioma de robótica ni de laboratorio STEAM.",
+      "cost": "2026/27 · Precio sin publicar. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar días de asistencia, edad, idioma, precio y acceso desde otra escuela.; La escuela pide el centro de origen. Esto no confirma admisión de alumnado externo ni plaza.",
+      "source": "https://form.jotform.com/252805351014851",
+      "references": [
+        {
+          "url": "https://form.jotform.com/252805351014851",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://complejonewhope.co.cr/quienes-somos/",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Condicional. El formulario pide edad y curso. No hay límites de edad publicados. Oscar: Condicional. El formulario pide edad y curso. No hay límites de edad publicados. Suplementos: Almuerzo y merienda son opciones separadas. Tarifa y transporte sin publicar. Pago: Pedir el cálculo completo y las condiciones de cancelación antes de pagar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "robotics",
+        "science",
+        "technology",
+        "arts",
+        "sports"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El formulario separa English Program. No indica el idioma de robótica ni de laboratorio STEAM.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "new-hope-heredia-steam-2026-27",
+      "camp_programme_id": "CP1890",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "El operador confirma las plazas y la aceptación de la solicitud."
+      }
+    },
+    {
+      "id": "CP1890-20270104-20270129",
+      "block": "Campamentos",
+      "title": "New Hope · Summer Camp STEAM · Ventana del programa diurno STEAM · 2027-01-04–2027-01-29",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "San Juan de Santa Bárbara · Heredia · New Hope",
+      "start": "2027-01-04",
+      "end": "2027-01-29",
+      "period": "El formulario ofrece dos ventanas: 2–18 de diciembre de 2026 y 4–29 de enero de 2027. No publica los días de clase dentro de cada ventana.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "El formulario pide edad y curso. No indica el intervalo admitido.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "La escuela pide el centro de origen. Esto no confirma admisión de alumnado externo ni plaza.",
+      "gear": "STEAM Program diurno de 07:00 a 16:00. Robótica, laboratorio científico, arte, música, cocina, deporte y medio ambiente.",
+      "language": "El formulario separa English Program. No indica el idioma de robótica ni de laboratorio STEAM.",
+      "cost": "2027 · Precio sin publicar. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar días de asistencia, edad, idioma, precio y acceso desde otra escuela.; La escuela pide el centro de origen. Esto no confirma admisión de alumnado externo ni plaza.",
+      "source": "https://form.jotform.com/252805351014851",
+      "references": [
+        {
+          "url": "https://form.jotform.com/252805351014851",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://complejonewhope.co.cr/quienes-somos/",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Condicional. El formulario pide edad y curso. No hay límites de edad publicados. Oscar: Condicional. El formulario pide edad y curso. No hay límites de edad publicados. Suplementos: Almuerzo y merienda son opciones separadas. Tarifa y transporte sin publicar. Pago: Pedir el cálculo completo y las condiciones de cancelación antes de pagar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "robotics",
+        "science",
+        "technology",
+        "arts",
+        "sports"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El formulario separa English Program. No indica el idioma de robótica ni de laboratorio STEAM.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "new-hope-heredia-steam-2026-27",
+      "camp_programme_id": "CP1890",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "El operador confirma las plazas y la aceptación de la solicitud."
+      }
     },
     {
       "id": "L491",

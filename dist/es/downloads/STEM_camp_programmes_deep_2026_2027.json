@@ -30,14 +30,14 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1889,
+    "dossiers": 1891,
     "countries": 123,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 267,
+      "published_2026_27": 268,
       "published_2027": 517,
       "partial_2027": 141,
-      "next_unannounced": 395,
+      "next_unannounced": 396,
       "published_2026": 345,
       "partial_2026_27": 32,
       "partial_2026": 23,
@@ -225,7 +225,7 @@
     },
     {
       "country": "España",
-      "count": 138
+      "count": 139
     },
     {
       "country": "Italia",
@@ -269,7 +269,7 @@
     },
     {
       "country": "Costa Rica",
-      "count": 54
+      "count": 55
     },
     {
       "country": "Kuwait",
@@ -272104,7 +272104,7 @@
       "programme": "Juegos con Scratch, Python o Unity, LEGO Education SPIKE, IA, impresión 3D, Roblox Studio, drones y RV según el programa. Confirmar reparto por días y edades.",
       "timing": {
         "status": "published_2026_27",
-        "label": "23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. Horario 09:30–13:30. Confirmar sede concreta de cada día.",
+        "label": "Fechas del bloque de inscripción: 23, 28, 29 y 30 de diciembre de 2026, 4 y 5 de enero de 2027. El bloque superior contiene una errata para el 29 de diciembre.",
         "sessions": [
           [
             "2026-12-23",
@@ -272360,7 +272360,7 @@
           "detail": "Condicional. Confirmar grupo de edad e idioma antes de inscribirse."
         }
       },
-      "editorial_reason": "Se verificaron fechas, contenido formativo y tarifas disponibles.",
+      "editorial_reason": "Dos sedes en Getafe, talleres diurnos de robótica, juegos e IA. Confirmar reparto de temas, edad e idioma del grupo concreto.",
       "shortlist": [],
       "questions": [
         "Confirmar plaza, idioma del grupo, pago y reembolso con el organizador."
@@ -272368,22 +272368,17 @@
       "sources": [
         {
           "url": "https://digikids.es/talleres-de-navidad/",
-          "title": "Página oficial del organizador",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
           "checked": "2026-11-07"
         },
         {
-          "url": "https://digikids.es/",
-          "title": "Página oficial del organizador",
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3-1024x576.png",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
           "checked": "2026-11-07"
         },
         {
-          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2.png",
-          "title": "Página oficial del organizador",
-          "checked": "2026-11-07"
-        },
-        {
-          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3.png",
-          "title": "Página oficial del organizador",
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2-1024x456.png",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
           "checked": "2026-11-07"
         }
       ],
@@ -326138,6 +326133,199 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1890",
+      "slug": "new-hope-heredia-steam-2026-27",
+      "provider": "New Hope · Summer Camp STEAM",
+      "country": "Costa Rica",
+      "iso": "CRI",
+      "place": "San Juan de Santa Bárbara · Heredia · New Hope",
+      "age": "El formulario pide edad y curso. No indica el intervalo admitido.",
+      "programme": "STEAM Program diurno de 07:00 a 16:00. Robótica, laboratorio científico, arte, música, cocina, deporte y medio ambiente.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "El formulario separa English Program. No indica el idioma de robótica ni de laboratorio STEAM.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "El formulario ofrece dos ventanas: 2–18 de diciembre de 2026 y 4–29 de enero de 2027. No publica los días de clase dentro de cada ventana.",
+        "session_details": [
+          {
+            "start": "2026-12-02",
+            "end": "2026-12-18",
+            "label": "Ventana del programa diurno STEAM",
+            "source": "https://form.jotform.com/252805351014851",
+            "price": "Precio sin publicar.",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "El operador confirma las plazas y la aceptación de la solicitud."
+            },
+            "admission_kind": "open_application",
+            "entry": "La escuela pide el centro de origen. Esto no confirma admisión de alumnado externo ni plaza."
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-29",
+            "label": "Ventana del programa diurno STEAM",
+            "source": "https://form.jotform.com/252805351014851",
+            "price": "Precio sin publicar.",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "El operador confirma las plazas y la aceptación de la solicitud."
+            },
+            "admission_kind": "open_application",
+            "entry": "La escuela pide el centro de origen. Esto no confirma admisión de alumnado externo ni plaza."
+          }
+        ],
+        "sessions": [
+          [
+            "2026-12-02",
+            "2026-12-18"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-29"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Precio sin publicar.",
+        "included": "STEAM Program diurno de 07:00 a 16:00. Robótica, laboratorio científico, arte, música, cocina, deporte y medio ambiente.",
+        "extras": "Almuerzo y merienda son opciones separadas. Tarifa y transporte sin publicar.",
+        "deposit": "Pedir el cálculo completo y las condiciones de cancelación antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. El formulario pide edad y curso. No hay límites de edad publicados."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. El formulario pide edad y curso. No hay límites de edad publicados."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar días de asistencia, edad, idioma, precio y acceso desde otra escuela.",
+        "La escuela pide el centro de origen. Esto no confirma admisión de alumnado externo ni plaza."
+      ],
+      "sources": [
+        {
+          "url": "https://form.jotform.com/252805351014851",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://complejonewhope.co.cr/quienes-somos/",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "science",
+        "technology",
+        "arts",
+        "sports"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-02",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1890-20261202-20261218"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1890-20270104-20270129"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1891",
+      "slug": "codelearn-navidad-network-2026",
+      "provider": "Codelearn · Talleres Tecnológicos de Navidad 2026",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Varios centros de Codelearn en España.",
+      "age": "Anuncio de invierno de la red desde 8 años. Confirmar edad y nivel del taller en el centro.",
+      "programme": "Según el centro: programación en Minecraft, creación de videojuegos, robótica educativa, lógica y estrategia.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "El idioma de enseñanza del grupo elegido no está confirmado.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Vacaciones de Navidad 2026. La red anunció la inscripción, con fechas y oferta según el centro.",
+        "session_details": [],
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Precio sin publicar.",
+        "included": "Según el centro: programación en Minecraft, creación de videojuegos, robótica educativa, lógica y estrategia.",
+        "extras": "Precio sin publicar.",
+        "deposit": "El operador confirma las plazas y la aceptación de la solicitud."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Cumple el mínimo general de 8 años. Confirmar centro, taller, idioma, precio y plaza."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No según el mínimo general de 8 años de los talleres de invierno 2026."
+        }
+      },
+      "editorial_reason": "Es un anuncio de temporada de la red. Se conservan aparte los cursos anteriores de Codelearn sin atribuirles estas fechas.",
+      "shortlist": [],
+      "questions": [
+        "Elegir centro y pedir horario, edad, precio e idioma del taller seleccionado."
+      ],
+      "sources": [
+        {
+          "url": "https://codelearn.es/blog/talleres-tecnologicos-navidad-2026/",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -331463,7 +331651,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 249,
+  "version": 250,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -344698,7 +344886,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1889,
+      "total_dossiers": 1891,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -366258,6 +366446,16 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1890",
+      "event_id": "CP1890-20261202-20261218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1890",
+      "event_id": "CP1890-20270104-20270129",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -370780,10 +370978,12 @@
     "CP1888-20270113-20270113-2027-01-13-short",
     "CP1888-20270113-20270113-2027-01-13-long",
     "CP1889-20270120-20270120-2027-01-20-short",
-    "CP1889-20270120-20270120-2027-01-20-long"
+    "CP1889-20270120-20270120-2027-01-20-long",
+    "CP1890-20261202-20261218",
+    "CP1890-20270104-20270129"
   ],
   "integration": {
-    "generated_sessions": 4092,
+    "generated_sessions": 4094,
     "reused_legacy_events": 73,
     "seasonal_windows": 73,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

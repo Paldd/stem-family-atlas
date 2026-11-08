@@ -3697,6 +3697,19 @@ Limitaciones: Fecha de cierre publicada. Disponibilidad y hora de cierre sin con
 Fuente: https://www.uteq.edu.mx/Noticias/Noticia.aspx?gINotr=580
 Se ha comprobado: 2026-11-07
 
+### L723 · Escuela de Invierno de Robótica 2026–2027 · FMR / Universidad Veracruzana
+
+Fecha: La Federación indica diciembre de 2026. No se publican días ni horarios.
+edad: No se publican grupo infantil ni edades admitidas. Comprobar la convocatoria cuando salga el programa.
+Matvey: No se publican grupo infantil ni edades admitidas. Comprobar la convocatoria cuando salga el programa.
+Oscar: No se publican grupo infantil ni edades admitidas. Comprobar la convocatoria cuando salga el programa.
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Acceso: No se publican grupo infantil ni edades admitidas. Comprobar la convocatoria cuando salga el programa.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: Anuncio de programa formativo. Quedan pendientes fechas, precio, nivel y posible modalidad infantil.
+Fuente: https://femexrobotica.org/fmr/eventos/
+Se ha comprobado: 2026-11-07
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -4878,6 +4891,32 @@ Acceso: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante,
 Precio: 2026/27 · 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Oscar: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Suplementos: Menú de 290 MXN por adulto, 220 MXN por niño. Alquiler de equipo y senderismo aparte. Pago: Para turnos regulares, reembolso con 7 días o más, con 3–6 días cambio o 50% de reembolso. Sin reembolso a menos de 3 días. Confirmar modalidad.
 Fuente: https://www.sbkmexico.com/campamento.php
+Se ha comprobado: 2026-11-07
+
+### CP1890-20261202-20261218 · New Hope · Summer Camp STEAM · Ventana del programa diurno STEAM · 2026-12-02–2026-12-18
+
+Fecha: 2026-12-02 — 2026-12-18
+edad: El formulario pide edad y curso. No indica el intervalo admitido.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El formulario separa English Program. No indica el idioma de robótica ni de laboratorio STEAM.
+Acceso: La escuela pide el centro de origen. Esto no confirma admisión de alumnado externo ni plaza.
+Precio: 2026/27 · Precio sin publicar. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. El formulario pide edad y curso. No hay límites de edad publicados. Oscar: Condicional. El formulario pide edad y curso. No hay límites de edad publicados. Suplementos: Almuerzo y merienda son opciones separadas. Tarifa y transporte sin publicar. Pago: Pedir el cálculo completo y las condiciones de cancelación antes de pagar.
+Fuente: https://form.jotform.com/252805351014851
+Se ha comprobado: 2026-11-07
+
+### CP1890-20270104-20270129 · New Hope · Summer Camp STEAM · Ventana del programa diurno STEAM · 2027-01-04–2027-01-29
+
+Fecha: 2027-01-04 — 2027-01-29
+edad: El formulario pide edad y curso. No indica el intervalo admitido.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El formulario separa English Program. No indica el idioma de robótica ni de laboratorio STEAM.
+Acceso: La escuela pide el centro de origen. Esto no confirma admisión de alumnado externo ni plaza.
+Precio: 2027 · Precio sin publicar. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. El formulario pide edad y curso. No hay límites de edad publicados. Oscar: Condicional. El formulario pide edad y curso. No hay límites de edad publicados. Suplementos: Almuerzo y merienda son opciones separadas. Tarifa y transporte sin publicar. Pago: Pedir el cálculo completo y las condiciones de cancelación antes de pagar.
+Fuente: https://form.jotform.com/252805351014851
 Se ha comprobado: 2026-11-07
 
 ### C1155 · XVIII Campeonato Nacional de Robótica y STEM · VEX IQ Middle

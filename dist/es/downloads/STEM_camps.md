@@ -10342,6 +10342,22 @@ Limitaciones: La página del colegio indica la edad. Las fechas y el acceso a to
 Fuente: https://liceolosdelfines.edu.ec/club-de-robotica-deltronic-programacion-y-mecanica-desde-cero/
 Se ha comprobado: 2026-11-07
 
+### L723 · Escuela de Invierno de Robótica 2026–2027 · FMR / Universidad Veracruzana
+
+Lugar: México Veracruz
+Fecha: La Federación indica diciembre de 2026. No se publican días ni horarios.
+edad: No se publican grupo infantil ni edades admitidas. Comprobar la convocatoria cuando salga el programa.
+Matvey: No se publican grupo infantil ni edades admitidas. Comprobar la convocatoria cuando salga el programa.
+Oscar: No se publican grupo infantil ni edades admitidas. Comprobar la convocatoria cuando salga el programa.
+Formato: unconfirmed_program
+Idioma: Materiales en español. El idioma oral del jurado no está confirmado.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: No se publican grupo infantil ni edades admitidas. Comprobar la convocatoria cuando salga el programa.
+Limitaciones: Anuncio de programa formativo. Quedan pendientes fechas, precio, nivel y posible modalidad infantil.
+Fuente: https://femexrobotica.org/fmr/eventos/
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -75812,6 +75828,38 @@ Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones e
 Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
 Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
 Fuente: https://scratchpad.co.nz/product/introduction-developing-websites/
+Se ha comprobado: 2026-11-07
+
+### CP1890-20261202-20261218 · New Hope · Summer Camp STEAM · Ventana del programa diurno STEAM · 2026-12-02–2026-12-18
+
+Lugar: Costa Rica San Juan de Santa Bárbara · Heredia · New Hope
+Fecha: 2026-12-02 — 2026-12-18
+edad: El formulario pide edad y curso. No indica el intervalo admitido.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El formulario separa English Program. No indica el idioma de robótica ni de laboratorio STEAM.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio sin publicar. · suplementos y condiciones en el dossier
+Acceso: La escuela pide el centro de origen. Esto no confirma admisión de alumnado externo ni plaza.
+Limitaciones: Matvey: Condicional. El formulario pide edad y curso. No hay límites de edad publicados. Oscar: Condicional. El formulario pide edad y curso. No hay límites de edad publicados. Suplementos: Almuerzo y merienda son opciones separadas. Tarifa y transporte sin publicar. Pago: Pedir el cálculo completo y las condiciones de cancelación antes de pagar.
+Fuente: https://form.jotform.com/252805351014851
+Se ha comprobado: 2026-11-07
+
+### CP1890-20270104-20270129 · New Hope · Summer Camp STEAM · Ventana del programa diurno STEAM · 2027-01-04–2027-01-29
+
+Lugar: Costa Rica San Juan de Santa Bárbara · Heredia · New Hope
+Fecha: 2027-01-04 — 2027-01-29
+edad: El formulario pide edad y curso. No indica el intervalo admitido.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El formulario separa English Program. No indica el idioma de robótica ni de laboratorio STEAM.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Precio sin publicar. · suplementos y condiciones en el dossier
+Acceso: La escuela pide el centro de origen. Esto no confirma admisión de alumnado externo ni plaza.
+Limitaciones: Matvey: Condicional. El formulario pide edad y curso. No hay límites de edad publicados. Oscar: Condicional. El formulario pide edad y curso. No hay límites de edad publicados. Suplementos: Almuerzo y merienda son opciones separadas. Tarifa y transporte sin publicar. Pago: Pedir el cálculo completo y las condiciones de cancelación antes de pagar.
+Fuente: https://form.jotform.com/252805351014851
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

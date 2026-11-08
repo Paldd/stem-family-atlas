@@ -1,0 +1,535 @@
+{
+  "captures": [
+    {
+      "key": "sensor",
+      "url": "https://sensor.ec/",
+      "checked_at": "2026-11-08T01:40:58.096636+00:00",
+      "status": 200,
+      "final_url": "https://sensor.ec/",
+      "bytes": 71088,
+      "sha256": "f0763ff93616e7746112a59c628861088568c9e1e8e9bc3aab8e0e14a033e5ed",
+      "transport": "curl"
+    },
+    {
+      "key": "ec-taita",
+      "url": "https://drive.google.com/drive/folders/1QbDAn-BIpi1Wd4N1Mf6Uc1ZUyGu5cpyK?usp=sharing",
+      "checked_at": "2026-11-08T01:41:00.360561+00:00",
+      "status": 200,
+      "final_url": "https://drive.google.com/drive/folders/1QbDAn-BIpi1Wd4N1Mf6Uc1ZUyGu5cpyK?usp=sharing",
+      "bytes": 558790,
+      "sha256": "c050a37cbf8559caaca363d158eef86c1e85df1f019f2f85109dc992cc2bb20f",
+      "transport": "curl"
+    },
+    {
+      "key": "leaguehub",
+      "url": "https://ares.magozolutions.net/leagueHub/",
+      "checked_at": "2026-11-08T01:40:58.093314+00:00",
+      "status": 200,
+      "final_url": "https://ares.magozolutions.net/leagueHub/",
+      "bytes": 60601,
+      "sha256": "b01f6ae5dd0163d3e2634c9ee47c6ebf2b1531445d22fec772f9c9ef165d77ff",
+      "transport": "curl"
+    },
+    {
+      "key": "ec-scorpions-poster",
+      "url": "https://sensor.ec/assets/img/calendar/scorpions_a.png",
+      "checked_at": "2026-11-08T01:41:01.309204+00:00",
+      "status": 200,
+      "final_url": "https://sensor.ec/assets/img/calendar/scorpions_a.png",
+      "bytes": 3408888,
+      "sha256": "87347788f1e360635b813251587790601fb6c254a60ac2572dcedd62eac1c08a",
+      "transport": "curl"
+    },
+    {
+      "key": "ec-drc-poster",
+      "url": "https://sensor.ec/assets/img/calendar/drc.jpg",
+      "checked_at": "2026-11-08T01:41:01.157671+00:00",
+      "status": 200,
+      "final_url": "https://sensor.ec/assets/img/calendar/drc.jpg",
+      "bytes": 322177,
+      "sha256": "e54d56094a81ed5b2e55fdb449420cf71232a4cfacd2cfba797915197a256532",
+      "transport": "curl"
+    },
+    {
+      "key": "ec-nasa",
+      "url": "https://www.spaceappschallenge.org/2026/local-events/sangolqui",
+      "checked_at": "2026-11-08T01:41:00.526825+00:00",
+      "status": 200,
+      "final_url": "https://www.spaceappschallenge.org/2026/local-events/sangolqui/",
+      "bytes": 86595,
+      "sha256": "c165fd3f48c1e2830e86b950f6b6440d67e02d92bd0b21b830f678180b0d839a",
+      "transport": "curl"
+    },
+    {
+      "key": "ec-nasa-year",
+      "url": "https://www.spaceappschallenge.org/",
+      "checked_at": "2026-11-08T01:41:00.604857+00:00",
+      "status": 200,
+      "final_url": "https://www.spaceappschallenge.org/",
+      "bytes": 166992,
+      "sha256": "07dd3b561cbe28089b3c9f323d49dc80b97f600ad258a320aadacaf167a75c73",
+      "transport": "curl"
+    },
+    {
+      "key": "cl-sumo",
+      "url": "https://campanilchallenge.cl/docs/bases-sumo-campanil-challenge.pdf",
+      "checked_at": "2026-11-08T01:40:57.877782+00:00",
+      "status": 200,
+      "final_url": "https://campanilchallenge.cl/docs/bases-sumo-campanil-challenge.pdf",
+      "bytes": 76542,
+      "sha256": "05e3dea24f0b05d304a66185cc0e1ebcdc800de3894c1dee0e3b052c503e3781",
+      "transport": "curl"
+    },
+    {
+      "key": "cl-home",
+      "url": "https://campanilchallenge.cl/",
+      "checked_at": "2026-11-08T01:40:57.776319+00:00",
+      "status": 200,
+      "final_url": "https://campanilchallenge.cl/",
+      "bytes": 38501,
+      "sha256": "79a34336948319d8a5daadd961237c897d7a8f12ad5c1e4306e472ba08768472",
+      "transport": "curl"
+    },
+    {
+      "key": "cl-ieee",
+      "url": "https://r9.ieee.org/conosur/events/2026-12-04/",
+      "checked_at": "2026-11-08T01:40:57.627503+00:00",
+      "status": 200,
+      "final_url": "https://r9.ieee.org/conosur/events/2026-12-04/",
+      "bytes": 96412,
+      "sha256": "5823be6c1592c4ca9971bc957ebf42a3b9237618da47a7fbc84c7033f1a709fe",
+      "transport": "curl"
+    },
+    {
+      "key": "cl-battle",
+      "url": "https://campanilchallenge.cl/docs/Bases_Battlebots.pdf",
+      "checked_at": "2026-11-08T01:40:57.893417+00:00",
+      "status": 200,
+      "final_url": "https://campanilchallenge.cl/docs/Bases_Battlebots.pdf",
+      "bytes": 252465,
+      "sha256": "9dd0843ac302a5766fa9047e71da5b6c1acd7fb60a4d72403b0ea158d161fb62",
+      "transport": "curl"
+    },
+    {
+      "key": "cl-open",
+      "url": "https://campanilchallenge.cl/docs/Bases_Velocistas_Open.pdf",
+      "checked_at": "2026-11-08T01:40:58.270929+00:00",
+      "status": 200,
+      "final_url": "https://campanilchallenge.cl/docs/Bases_Velocistas_Open.pdf",
+      "bytes": 435966,
+      "sha256": "f3d500fc302244113c7da17853322240ca31693a4f4e354ef222d8604acf2209",
+      "transport": "curl"
+    },
+    {
+      "key": "cl-univ",
+      "url": "https://campanilchallenge.cl/docs/Bases_Velocistas_Universitarios.pdf",
+      "checked_at": "2026-11-08T01:40:57.947007+00:00",
+      "status": 200,
+      "final_url": "https://campanilchallenge.cl/docs/Bases_Velocistas_Universitarios.pdf",
+      "bytes": 436622,
+      "sha256": "cc0b93ab7d35f61de7a2e9cc0671fb9d144f2434acf2d7609e19b16efd336384",
+      "transport": "curl"
+    },
+    {
+      "key": "cl-code",
+      "url": "https://campanilchallenge.cl/docs/Bases_Programacion.pdf",
+      "checked_at": "2026-11-08T01:40:57.837231+00:00",
+      "status": 200,
+      "final_url": "https://campanilchallenge.cl/docs/Bases_Programacion.pdf",
+      "bytes": 52963,
+      "sha256": "fe3faab9a7dff46033b4e0fb1729cc7e2ab1575e9ed28ac06869638148e098f2",
+      "transport": "curl"
+    },
+    {
+      "key": "taita-01",
+      "url": "https://drive.google.com/file/d/1e-DpgKcRl1lgT7r9zeKWhwRtRKrjGoe-/view",
+      "checked_at": "2026-11-08T01:42:15.191074+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1e-DpgKcRl1lgT7r9zeKWhwRtRKrjGoe-&export=download",
+      "bytes": 242135,
+      "sha256": "4af67f3b64b482ed2569596b85f81bd1df806ab393ca8d47ec670e3320da3918",
+      "transport": "curl",
+      "name": "REGLAMENTO BARCOS RC 2026"
+    },
+    {
+      "key": "taita-02",
+      "url": "https://drive.google.com/file/d/1lr0zW35GHL3a500WzFXdmeY-SxhcoGZC/view",
+      "checked_at": "2026-11-08T01:42:15.128197+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1lr0zW35GHL3a500WzFXdmeY-SxhcoGZC&export=download",
+      "bytes": 212282,
+      "sha256": "b3c63453afe63dcf70db82dd6d8a56e8d56877e3bd76986273bccd9fe9c605d8",
+      "transport": "curl",
+      "name": "REGLAMENTO BATALLA ROBOTS 1LB 2026"
+    },
+    {
+      "key": "taita-03",
+      "url": "https://drive.google.com/file/d/1a_1YKV5AoCX3qmTD3-ApJgAUpWVgA2xr/view",
+      "checked_at": "2026-11-08T01:42:15.255789+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1a_1YKV5AoCX3qmTD3-ApJgAUpWVgA2xr&export=download",
+      "bytes": 212282,
+      "sha256": "678cef250a100faa83bddcdf2b9853fb9b21896aa60daaacb7b261756d19ac74",
+      "transport": "curl",
+      "name": "REGLAMENTO BATALLA ROBOTS 3LB 2026"
+    },
+    {
+      "key": "taita-04",
+      "url": "https://drive.google.com/file/d/1oY1nnB6TehBoNQejw8WgheCGUvRXxUTs/view",
+      "checked_at": "2026-11-08T01:42:15.448922+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1oY1nnB6TehBoNQejw8WgheCGUvRXxUTs&export=download",
+      "bytes": 212059,
+      "sha256": "a57c7edfeab66bd32c60ccad2de95a9ce919317deb04c018f014d66716e0495d",
+      "transport": "curl",
+      "name": "REGLAMENTO BATALLA ROBOTS 150GR 2026"
+    },
+    {
+      "key": "taita-05",
+      "url": "https://drive.google.com/file/d/1AtYxPmTA9k35uqx6f0yNb5Dk6c0Za1jX/view",
+      "checked_at": "2026-11-08T01:42:15.670080+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1AtYxPmTA9k35uqx6f0yNb5Dk6c0Za1jX&export=download",
+      "bytes": 212282,
+      "sha256": "ffb765c2d4f9b2c6d62d773d7c0b68e54cba52fc6cb2b4466104fbe6c9df0443",
+      "transport": "curl",
+      "name": "REGLAMENTO BATALLA ROBOTS IMP 2026"
+    },
+    {
+      "key": "taita-06",
+      "url": "https://drive.google.com/file/d/1n1iWIZUfl-lSsX4o7ObQPf71Q9n_xUO9/view",
+      "checked_at": "2026-11-08T01:42:15.398039+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1n1iWIZUfl-lSsX4o7ObQPf71Q9n_xUO9&export=download",
+      "bytes": 185980,
+      "sha256": "88986c47e56d5d5b8ead13f07cfc3f8e47478a3545a9b19c2be142fe86d96507",
+      "transport": "curl",
+      "name": "REGLAMENTO BATTLEGLOBOS COLEGIAL 2026"
+    },
+    {
+      "key": "taita-07",
+      "url": "https://drive.google.com/file/d/13hnq1ssmtRDMJKHEKAfIELYG5qSJLGrB/view",
+      "checked_at": "2026-11-08T01:42:15.116146+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=13hnq1ssmtRDMJKHEKAfIELYG5qSJLGrB&export=download",
+      "bytes": 121696,
+      "sha256": "e0b08cc82b32c1ebb01373cf7c821435add655318327592794cd70ddb7958df1",
+      "transport": "curl",
+      "name": "REGLAMENTO CAR RACING COLEGIAL 2026"
+    },
+    {
+      "key": "taita-08",
+      "url": "https://drive.google.com/file/d/187Dd8wSWRIUV-8pJsKB9UYAQ9aI99M4g/view",
+      "checked_at": "2026-11-08T01:42:15.254506+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=187Dd8wSWRIUV-8pJsKB9UYAQ9aI99M4g&export=download",
+      "bytes": 200843,
+      "sha256": "044278691b0f8781b1a07667392fc4e628276a8d26826f10593b5f476b022412",
+      "transport": "curl",
+      "name": "REGLAMENTO CARRERA DE INSECTO COLEGIAL 2026"
+    },
+    {
+      "key": "taita-09",
+      "url": "https://drive.google.com/file/d/1jWTeoDrV0UzuM7qCAbNzpQnhCdGzVRT8/view",
+      "checked_at": "2026-11-08T01:42:16.856226+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1jWTeoDrV0UzuM7qCAbNzpQnhCdGzVRT8&export=download",
+      "bytes": 200843,
+      "sha256": "d306e79404b95ef2fc7a254c2fb1ece54c866f965ae07ebfa7d60677d16b79bc",
+      "transport": "curl",
+      "name": "REGLAMENTO CARRERA DE INSECTO PROFESIONAL 2026"
+    },
+    {
+      "key": "taita-10",
+      "url": "https://drive.google.com/file/d/1D27-A1WqVu15lC2H0eXFOYPy20XVdVva/view",
+      "checked_at": "2026-11-08T01:42:16.859619+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1D27-A1WqVu15lC2H0eXFOYPy20XVdVva&export=download",
+      "bytes": 177477,
+      "sha256": "4d4415cc49a362696374c4560927b5b6568729c11a68d1f18fd907a8f19a7ef9",
+      "transport": "curl",
+      "name": "REGLAMENTO DESTREZA Y VELOCIDAD RC 2026"
+    },
+    {
+      "key": "taita-11",
+      "url": "https://drive.google.com/file/d/1g_zHnBxvm_onM2p71ThD1nRtf_2px7Rj/view",
+      "checked_at": "2026-11-08T01:42:16.911488+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1g_zHnBxvm_onM2p71ThD1nRtf_2px7Rj&export=download",
+      "bytes": 167931,
+      "sha256": "9ce07288d3f12f71065e6ccd3082c9613f284b22296d62c01dc0fbf822eafc87",
+      "transport": "curl",
+      "name": "REGLAMENTO DRONES RACING 2026"
+    },
+    {
+      "key": "taita-12",
+      "url": "https://drive.google.com/file/d/18WAi0rrjOy5-Ev8V2fNgtsE0xqZ0zBKR/view",
+      "checked_at": "2026-11-08T01:42:17.192013+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=18WAi0rrjOy5-Ev8V2fNgtsE0xqZ0zBKR&export=download",
+      "bytes": 395770,
+      "sha256": "6c3e3c1f306de895c7126630198a10d7483e4ab0940e8861ab024a4d4beac359",
+      "transport": "curl",
+      "name": "REGLAMENTO MINISUMOS AUT_RC 2026"
+    },
+    {
+      "key": "taita-13",
+      "url": "https://drive.google.com/file/d/1mJC9FErqxd3hwJzULRqYicAXz2yOJx6q/view",
+      "checked_at": "2026-11-08T01:42:17.071675+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1mJC9FErqxd3hwJzULRqYicAXz2yOJx6q&export=download",
+      "bytes": 212269,
+      "sha256": "0354a0cf3d540d59be47e8b0627dcae73c05c5527083ff347aa62f60804a00c8",
+      "transport": "curl",
+      "name": "REGLAMENTO PELEA HUMANOIDES 2026"
+    },
+    {
+      "key": "taita-14",
+      "url": "https://drive.google.com/file/d/1d63L2nNgRvW5CeAojSz-N51M3vzvx_Xo/view",
+      "checked_at": "2026-11-08T01:42:17.247481+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1d63L2nNgRvW5CeAojSz-N51M3vzvx_Xo&export=download",
+      "bytes": 225183,
+      "sha256": "e82e75a923f1fe97997d7c4408cf84e5670b948504c612bc647dcc422f77e9f1",
+      "transport": "curl",
+      "name": "REGLAMENTO ROBOT BAILARIN 2026"
+    },
+    {
+      "key": "taita-15",
+      "url": "https://drive.google.com/file/d/1GPHRdrmDrkqKz_5VPZWlbLxORN0Q-vzV/view",
+      "checked_at": "2026-11-08T01:42:17.224195+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1GPHRdrmDrkqKz_5VPZWlbLxORN0Q-vzV&export=download",
+      "bytes": 229694,
+      "sha256": "22f9b72a9550f0d1729a86763757ddb23a9adabe120cbaef343f6e52ec15c8c8",
+      "transport": "curl",
+      "name": "REGLAMENTO SEGUIDOR DE LÍNEA COLEGIAL 2026"
+    },
+    {
+      "key": "taita-16",
+      "url": "https://drive.google.com/file/d/1wHFIAs8aiZ6Kq8f-b3DNm6d_IvVut6vH/view",
+      "checked_at": "2026-11-08T01:42:17.364720+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1wHFIAs8aiZ6Kq8f-b3DNm6d_IvVut6vH&export=download",
+      "bytes": 230886,
+      "sha256": "9ae80c89f0e2deab5fd69a951d0448f115d526cf0412d09a33ced682d67f5f75",
+      "transport": "curl",
+      "name": "REGLAMENTO SEGUIDOR DE LÍNEA CON TURBINA 2026"
+    },
+    {
+      "key": "taita-17",
+      "url": "https://drive.google.com/file/d/1gTc8UI93zDxNSFGnMMDUPc2VD8rTqUSR/view",
+      "checked_at": "2026-11-08T01:42:18.904708+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1gTc8UI93zDxNSFGnMMDUPc2VD8rTqUSR&export=download",
+      "bytes": 230886,
+      "sha256": "9cf5b06a9c1118f4b9f18a6cf57a24472ff80433a31171a60f571c8c66f5ed27",
+      "transport": "curl",
+      "name": "REGLAMENTO SEGUIDOR DE LÍNEA SIN TURBINA 2026"
+    },
+    {
+      "key": "taita-18",
+      "url": "https://drive.google.com/file/d/12CaybmlBT5Nl_RLZT6qF59zv1IVOTU-a/view",
+      "checked_at": "2026-11-08T01:42:18.740423+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=12CaybmlBT5Nl_RLZT6qF59zv1IVOTU-a&export=download",
+      "bytes": 192471,
+      "sha256": "58851b4e85f78350a138d2d8aa9bbfdbcba250cef71996d0c3e892f493f42745",
+      "transport": "curl",
+      "name": "REGLAMENTO SEGUIDOR DE LUZ 2026"
+    },
+    {
+      "key": "taita-19",
+      "url": "https://drive.google.com/file/d/1fH_iZNh8ZoiA3ZYbYUeyaBmmx6o9fUzN/view",
+      "checked_at": "2026-11-08T01:42:18.540386+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1fH_iZNh8ZoiA3ZYbYUeyaBmmx6o9fUzN&export=download",
+      "bytes": 187529,
+      "sha256": "d3a09cb203d31289b8917f321a20b212e33f740ca354489155dff176c053b473",
+      "transport": "curl",
+      "name": "REGLAMENTO SOCCER COLEGIAL 2026"
+    },
+    {
+      "key": "taita-20",
+      "url": "https://drive.google.com/file/d/10xWZ7gvoLWGkVF0HC4aOceUdU6Qf4Hb6/view",
+      "checked_at": "2026-11-08T01:42:18.613683+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=10xWZ7gvoLWGkVF0HC4aOceUdU6Qf4Hb6&export=download",
+      "bytes": 195220,
+      "sha256": "6bab43481f255681e7cc3cdfc19d915e68500ee859775e3d2caf2033010b6c31",
+      "transport": "curl",
+      "name": "REGLAMENTO SOCCER PROFESIONAL 2026"
+    },
+    {
+      "key": "taita-21",
+      "url": "https://drive.google.com/file/d/1X3Wpa97KHdHGjjGHTjC1l4aWZSr_9MlH/view",
+      "checked_at": "2026-11-08T01:42:18.936471+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1X3Wpa97KHdHGjjGHTjC1l4aWZSr_9MlH&export=download",
+      "bytes": 169272,
+      "sha256": "56b37869575f3f751f8c698e34b5af9906d859777b731a28420c6a8e8289bdc4",
+      "transport": "curl",
+      "name": "REGLAMENTO TODO TERRENO RC 2026"
+    },
+    {
+      "key": "jp-pipe",
+      "url": "https://galaxcity.jp/future-creation-hall/event/20261206-009270.html",
+      "checked_at": "2026-11-08T01:41:02.474007+00:00",
+      "status": 200,
+      "final_url": "https://galaxcity.jp/future-creation-hall/event/20261206-009270.html",
+      "bytes": 9256,
+      "sha256": "207fa90aafcaa07cfe07aad52570dfae68fde17f069ef8e03d061d263db779df",
+      "transport": "curl"
+    },
+    {
+      "key": "jp-operator",
+      "url": "https://robotyuenchi.com/event.html",
+      "checked_at": "2026-11-08T01:41:01.134787+00:00",
+      "status": 200,
+      "final_url": "https://robotyuenchi.com/event.html",
+      "bytes": 74047,
+      "sha256": "9d0f18ae1f1e8ebb85606431d7a6cfbae81db5036b007ee4736639a02fc1927c",
+      "transport": "curl"
+    },
+    {
+      "key": "jp-pipe-rules",
+      "url": "https://mekamogura.com/blog/article.html?page=436",
+      "checked_at": "2026-11-08T01:51:00.972038+00:00",
+      "status": 200,
+      "final_url": "https://mekamogura.com/blog/article.html?page=436",
+      "bytes": 18017,
+      "sha256": "fe7cd937625af1f7a1932fb14aab206f30daf5579d06bff0323c8c1fe6e3149b",
+      "transport": "https"
+    },
+    {
+      "key": "jp-kondo",
+      "url": "https://www.galaxcity.jp/future-creation-hall/event/20261206-009267.html",
+      "checked_at": "2026-11-08T01:41:08.314665+00:00",
+      "status": 200,
+      "final_url": "https://www.galaxcity.jp/future-creation-hall/event/20261206-009267.html",
+      "bytes": 9818,
+      "sha256": "f939c45a8a372bbd40215b437edcf5157bc33be17a4399b0a105af4a246a04c0",
+      "transport": "curl"
+    },
+    {
+      "key": "jp-robo-one",
+      "url": "https://www.robo-one.com/",
+      "checked_at": "2026-11-08T01:41:00.722321+00:00",
+      "status": 200,
+      "final_url": "https://www.robo-one.com/",
+      "bytes": 36270,
+      "sha256": "3d2e9401301c87dd6d717abbd38c8e0131cabeea10d25dc3cbb151da1f8f9923",
+      "transport": "curl"
+    },
+    {
+      "key": "de-forum",
+      "url": "https://www.advancedhumanoidforum.com/humanoid-robotics-forum-2027-tickets.html",
+      "checked_at": "2026-11-08T01:41:00.209780+00:00",
+      "status": 200,
+      "final_url": "https://www.advancedhumanoidforum.com/humanoid-robotics-forum-2027-tickets.html",
+      "bytes": 83140,
+      "sha256": "9fad25c8531fa4a0270975d961ac99f5e5059b38047fe2f731353ac2543d3109",
+      "transport": "curl"
+    },
+    {
+      "key": "de-programme",
+      "url": "https://www.advancedhumanoidforum.com/humanoid-robotics-forum-2027-agenda.html",
+      "checked_at": "2026-11-08T01:41:00.383378+00:00",
+      "status": 200,
+      "final_url": "https://www.advancedhumanoidforum.com/humanoid-robotics-forum-2027-agenda.html",
+      "bytes": 108253,
+      "sha256": "7720132fb169b577401f8721389429999e6446b4da39803e83e4ce77627f0823",
+      "transport": "curl"
+    },
+    {
+      "key": "mx-fmr",
+      "url": "https://femexrobotica.org/fmr/eventos/",
+      "checked_at": "2026-11-08T01:41:00.195185+00:00",
+      "status": 200,
+      "final_url": "https://femexrobotica.org/fmr/eventos/",
+      "bytes": 76670,
+      "sha256": "706505101941d8b043451cbc7cf56a351780c9ff0e54d519f06a927ea94e3f0c",
+      "transport": "curl"
+    },
+    {
+      "key": "cr-steam",
+      "url": "https://form.jotform.com/252805351014851",
+      "checked_at": "2026-11-08T01:40:58.310996+00:00",
+      "status": 200,
+      "final_url": "https://form.jotform.com/252805351014851",
+      "bytes": 75355,
+      "sha256": "dc8236f52e7322b4547e614b91079cd9675ca49938d445c08fe46415c5c36b34",
+      "transport": "curl"
+    },
+    {
+      "key": "cr-school",
+      "url": "https://complejonewhope.co.cr/quienes-somos/",
+      "checked_at": "2026-11-08T01:40:58.497579+00:00",
+      "status": 200,
+      "final_url": "https://complejonewhope.co.cr/quienes-somos/",
+      "bytes": 173726,
+      "sha256": "9e7c311537511dd9c4a6ec708c8a007555b3e6ea0ad863e86a0b4471cb409032",
+      "transport": "curl"
+    },
+    {
+      "key": "es-codelearn",
+      "url": "https://codelearn.es/blog/talleres-tecnologicos-navidad-2026/",
+      "checked_at": "2026-11-08T01:40:59.478787+00:00",
+      "status": 200,
+      "final_url": "https://codelearn.es/blog/talleres-tecnologicos-navidad-2026/",
+      "bytes": 78043,
+      "sha256": "4abbf3b81346adcdb3f4fc81c3d5ab6914d18489f017f1bf252009454ee96daf",
+      "transport": "curl"
+    },
+    {
+      "key": "es-digi",
+      "url": "https://digikids.es/talleres-de-navidad/",
+      "checked_at": "2026-11-08T01:40:59.732096+00:00",
+      "status": 200,
+      "final_url": "https://digikids.es/talleres-de-navidad/",
+      "bytes": 115963,
+      "sha256": "9014eb2dd2dea29707966adfca2f12edf52c46292578445677a1bc787b40ae40",
+      "transport": "curl"
+    },
+    {
+      "key": "es-poster",
+      "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3-1024x576.png",
+      "checked_at": "2026-11-08T01:40:59.804257+00:00",
+      "status": 200,
+      "final_url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3-1024x576.png",
+      "bytes": 997217,
+      "sha256": "c9bcdfe7bf0efaed92146ed75e9e9594bb81cb09863929db8e399df121033fe8",
+      "transport": "curl"
+    },
+    {
+      "key": "es-price",
+      "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2-1024x456.png",
+      "checked_at": "2026-11-08T01:40:59.659948+00:00",
+      "status": 200,
+      "final_url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2-1024x456.png",
+      "bytes": 339769,
+      "sha256": "4a5a0d4fa56673f5c525687c29122dbef2fe788ae70cf5dfd9203ba52f520ceb",
+      "transport": "curl"
+    },
+    {
+      "key": "es-salamanca",
+      "url": "https://tormesplus.com/junior/campamentos-salamanca-tech",
+      "checked_at": "2026-11-08T01:40:59.781150+00:00",
+      "status": 200,
+      "final_url": "https://tormesplus.com/junior/campamentos-salamanca-tech",
+      "bytes": 40162,
+      "sha256": "f163160a9530e79b038e43b45ca9e2623680e8d5f529ad1cabbfa2f8a449255d",
+      "transport": "curl"
+    },
+    {
+      "key": "cr-fod",
+      "url": "https://survey.zohopublic.com/zs/SjzWbS",
+      "checked_at": "2026-11-08T01:40:59.349958+00:00",
+      "status": 200,
+      "final_url": "https://survey.zohopublic.com/zs/SjzWbS",
+      "bytes": 321756,
+      "sha256": "330c88566a30fbc3b8dfca1d662df923c34eb48ec2e3449fffd7088200c7fea9",
+      "transport": "curl"
+    }
+  ]
+}

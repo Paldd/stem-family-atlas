@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8801,
-    "competition_cards": 3509,
-    "event_cards": 478,
-    "camp_cards": 4814,
+    "cards": 8842,
+    "competition_cards": 3544,
+    "event_cards": 481,
+    "camp_cards": 4817,
     "league_profiles": 288,
-    "major_exhibition_cards": 381,
+    "major_exhibition_cards": 384,
     "vex_cards": 522,
     "countries_with_records": 207,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2876,
+      "total": 2879,
       "countries_with_records": 37,
       "competitions": 1532,
       "events": 123,
       "major_exhibitions": 85,
-      "camps": 1221,
+      "camps": 1224,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -48,9 +48,9 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 499,
+      "total": 532,
       "countries_with_records": 13,
-      "competitions": 265,
+      "competitions": 298,
       "events": 36,
       "major_exhibitions": 32,
       "camps": 198,
@@ -62,11 +62,11 @@
       "regions": [
         "Европа"
       ],
-      "total": 1965,
+      "total": 1966,
       "countries_with_records": 49,
       "competitions": 449,
-      "events": 118,
-      "major_exhibitions": 93,
+      "events": 119,
+      "major_exhibitions": 94,
       "camps": 1398,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
@@ -90,11 +90,11 @@
       "regions": [
         "Азия"
       ],
-      "total": 2571,
+      "total": 2575,
       "countries_with_records": 48,
-      "competitions": 863,
-      "events": 128,
-      "major_exhibitions": 115,
+      "competitions": 865,
+      "events": 130,
+      "major_exhibitions": 117,
       "camps": 1580,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
@@ -11732,6 +11732,39 @@
       "new": false
     },
     {
+      "id": "E479",
+      "name": "Galaxcity · семейная трасса роботов и управление дронами",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "visitor_policy": "family",
+      "source": "https://galaxcity.jp/future-creation-hall/event/20261206-009270.html",
+      "new": false
+    },
+    {
+      "id": "E480",
+      "name": "KONDO BATTLE · зрители в Galaxcity",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "visitor_policy": "family",
+      "source": "https://www.galaxcity.jp/future-creation-hall/event/20261206-009267.html",
+      "new": false
+    },
+    {
+      "id": "E481",
+      "name": "Advanced Humanoid Forum 2027 · Munich",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2027-01-20",
+      "end": "2027-01-21",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.advancedhumanoidforum.com/humanoid-robotics-forum-2027-tickets.html",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -14149,8 +14182,8 @@
       }
     ],
     "counts": {
-      "records": 4814,
-      "holiday": 4492,
+      "records": 4817,
+      "holiday": 4494,
       "regular": 150,
       "self_paced_materials": 2,
       "boarding": 1036,

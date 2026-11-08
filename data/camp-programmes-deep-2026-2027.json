@@ -30,14 +30,14 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1889,
+    "dossiers": 1891,
     "countries": 123,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 267,
+      "published_2026_27": 268,
       "published_2027": 517,
       "partial_2027": 141,
-      "next_unannounced": 395,
+      "next_unannounced": 396,
       "published_2026": 345,
       "partial_2026_27": 32,
       "partial_2026": 23,
@@ -225,7 +225,7 @@
     },
     {
       "country": "Испания",
-      "count": 138
+      "count": 139
     },
     {
       "country": "Италия",
@@ -269,7 +269,7 @@
     },
     {
       "country": "Коста-Рика",
-      "count": 54
+      "count": 55
     },
     {
       "country": "Кувейт",
@@ -237146,7 +237146,7 @@
       "programme": "Игры на Scratch, Python или Unity, LEGO Education SPIKE, ИИ, 3D-печать, Roblox Studio, дроны и VR по программе. Распределение тем по дням и возрастам уточнить.",
       "timing": {
         "status": "published_2026_27",
-        "label": "23, 28, 29 и 30 декабря 2026, 4 и 5 января 2027. Время 09:30–13:30. Конкретную площадку на каждый день подтвердить.",
+        "label": "Даты из блока регистрации: 23, 28, 29 и 30 декабря 2026, 4 и 5 января 2027. В верхнем блоке опечатка для 29 декабря.",
         "sessions": [
           [
             "2026-12-23",
@@ -237401,7 +237401,7 @@
           "detail": "Условно. Возрастную группу и язык подтвердить до записи."
         }
       },
-      "editorial_reason": "Проверены даты, учебное содержание и доступные тарифы.",
+      "editorial_reason": "Два центра в Хетафе, дневные мастерские по робототехнике, играм и ИИ. Разбивку тем, возраст и язык конкретной группы уточнить.",
       "shortlist": [],
       "questions": [
         "Подтвердить место, язык конкретной группы, оплату и возврат у организатора."
@@ -237409,22 +237409,17 @@
       "sources": [
         {
           "url": "https://digikids.es/talleres-de-navidad/",
-          "title": "Официальная страница организатора",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
           "checked": "2026-11-07"
         },
         {
-          "url": "https://digikids.es/",
-          "title": "Официальная страница организатора",
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3-1024x576.png",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
           "checked": "2026-11-07"
         },
         {
-          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2.png",
-          "title": "Официальная страница организатора",
-          "checked": "2026-11-07"
-        },
-        {
-          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-3.png",
-          "title": "Официальная страница организатора",
+          "url": "https://digikids.es/wp-content/uploads/2026/11/Talleres-de-Navidad-2026-2-1024x456.png",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
           "checked": "2026-11-07"
         }
       ],
@@ -285181,6 +285176,176 @@
       "programme_type": "day_camp",
       "catalog_participation": "day_camp",
       "language_evidence_role": "primary"
+    },
+    {
+      "id": "CP1890",
+      "slug": "new-hope-heredia-steam-2026-27",
+      "provider": "New Hope · Summer Camp STEAM",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "San Juan de Santa Bárbara · Heredia · New Hope",
+      "age": "Возраст и класс запрашиваются в форме. Допустимый диапазон не указан.",
+      "programme": "Дневной STEAM Program 07:00–16:00. Робототехника, научная лаборатория, творчество, музыка, кулинария, спорт и экология.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Форма выделяет English Program отдельно. Язык робототехники и научной лаборатории STEAM не указан.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "В форме два окна: 2–18 декабря 2026 и 4–29 января 2027. Дни занятий внутри окна не опубликованы.",
+        "session_details": [
+          {
+            "start": "2026-12-02",
+            "end": "2026-12-18",
+            "label": "Окно дневной программы STEAM",
+            "source": "https://form.jotform.com/252805351014851",
+            "price": "Цена не опубликована.",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Места и принятие заявки подтверждает оператор."
+            },
+            "admission_kind": "open_application",
+            "entry": "Школа предлагает указать текущее учебное заведение. Это не подтверждает приём внешних учеников или место."
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-29",
+            "label": "Окно дневной программы STEAM",
+            "source": "https://form.jotform.com/252805351014851",
+            "price": "Цена не опубликована.",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [],
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Места и принятие заявки подтверждает оператор."
+            },
+            "admission_kind": "open_application",
+            "entry": "Школа предлагает указать текущее учебное заведение. Это не подтверждает приём внешних учеников или место."
+          }
+        ],
+        "sessions": [
+          [
+            "2026-12-02",
+            "2026-12-18"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-29"
+          ]
+        ]
+      },
+      "price": {
+        "year": null,
+        "label": "Цена не опубликована.",
+        "included": "Дневной STEAM Program 07:00–16:00. Робототехника, научная лаборатория, творчество, музыка, кулинария, спорт и экология.",
+        "extras": "Обед и перекус предложены отдельной опцией. Тариф и транспорт не опубликованы.",
+        "deposit": "Запросить полный расчёт и условия отмены до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Форма принимает заявку с указанием возраста и класса. Опубликованных границ возраста нет."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Форма принимает заявку с указанием возраста и класса. Опубликованных границ возраста нет."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Проверить точные дни посещения, возраст, язык, цену и возможность записи из другой школы.",
+        "Школа предлагает указать текущее учебное заведение. Это не подтверждает приём внешних учеников или место."
+      ],
+      "sources": [
+        {
+          "url": "https://form.jotform.com/252805351014851",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://complejonewhope.co.cr/quienes-somos/",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "science",
+        "technology",
+        "arts",
+        "sports"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp"
+    },
+    {
+      "id": "CP1891",
+      "slug": "codelearn-navidad-network-2026",
+      "provider": "Codelearn · Talleres Tecnológicos de Navidad 2026",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Несколько центров Codelearn в Испании.",
+      "age": "Анонс зимней сети с 8 лет. Возраст и уровень конкретного трека уточнить в центре.",
+      "programme": "В зависимости от центра: программирование в Minecraft, создание игр, учебная робототехника, логика и стратегия.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Язык преподавания выбранной группы не подтверждён.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Рождественские каникулы 2026. Сеть объявила запись, но даты и ассортимент зависят от центра.",
+        "session_details": [],
+        "sessions": []
+      },
+      "price": {
+        "year": null,
+        "label": "Цена не опубликована.",
+        "included": "В зависимости от центра: программирование в Minecraft, создание игр, учебная робототехника, логика и стратегия.",
+        "extras": "Цена не опубликована.",
+        "deposit": "Места и принятие заявки подтверждает оператор."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Подходит по общему минимуму 8 лет. Центр, трек, язык, цену и место подтвердить."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по общему минимуму 8 лет на зимних мастерских 2026."
+        }
+      },
+      "editorial_reason": "Это анонс сети на сезон. Прежние курсы Codelearn сохраняются отдельно, расписание им не приписано.",
+      "shortlist": [],
+      "questions": [
+        "Выбрать центр и запросить расписание, возраст, стоимость и язык именно выбранного трека."
+      ],
+      "sources": [
+        {
+          "url": "https://codelearn.es/blog/talleres-tecnologicos-navidad-2026/",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp"
     }
   ],
   "gaps": [
@@ -290506,7 +290671,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 249,
+  "version": 250,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -303741,7 +303906,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1889,
+      "total_dossiers": 1891,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
