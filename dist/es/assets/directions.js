@@ -6,8 +6,8 @@ window.STEM_DIRECTIONS = (() => {
   {id:'robotics',label:"Robótica",icon:'⚙',color:'#1d4ed8',tint:'#eff6ff',tags:['robotics']},
   {id:'ai',label:"Inteligencia artificial",icon:'✦',color:'#6d28d9',tint:'#f5f3ff',tags:['ai']},
   {id:'coding',label:"Programación",shortLabel:"Código y programación",icon:'</>',color:'#0f766e',tint:'#f0fdfa',tags:['coding']},
-  {id:'science',label:"Ciencia e ingeniería",icon:'◉',color:'#15803d',tint:'#f0fdf4',tags:['science','engineering','maths']},
-  {id:'technology',label:"Tecnología y creación maker",icon:'◇',color:'#92400e',tint:'#fffbeb',tags:['technology','makers','stem','electronics']},
+  {id:'science',label:"Ciencia e ingeniería",icon:'◉',color:'#15803d',tint:'#f0fdf4',tags:['science','engineering','maths','space']},
+  {id:'technology',label:"Tecnología y creación maker",icon:'◇',color:'#92400e',tint:'#fffbeb',tags:['technology','makers','stem','electronics','drones','3d']},
   {id:'games',label:"Juegos y diseño de videojuegos",icon:'◈',color:'#0e7490',tint:'#ecfeff',tags:['games','chess']},
   {id:'languages',label:"Idiomas",icon:'文',color:'#9a3412',tint:'#fff7ed',tags:['languages','language']},
   {id:'art',label:"Arte y diseño",icon:'✎',color:'#a21caf',tint:'#fdf4ff',tags:['art','arts','music','design']},
@@ -20,8 +20,9 @@ window.STEM_DIRECTIONS = (() => {
  const fallback = {id:'unclassified',label:"el tema se aclara",icon:'·',color:'#475569',tint:'#f1f5f9',tags:[]};
  const byTag = new Map(groups.flatMap(g => g.tags.map(t => [t,g])));
  const labels = Object.fromEntries(groups.flatMap(g => g.tags.map(t => [t,g.label])));
- Object.assign(labels,{engineering:"Ingeniería",maths:"Matemáticas",science:"Ciencia y experimentos",makers:"Crear cosas",stem:'STEM / STEAM',electronics:"electrónica",music:"música",design:"diseño",chess:"el ajedrez",adventure:"de las aventuras",outdoor:"Actividades al aire libre",entrepreneurship:"de la empresa",business:"Emprendimiento",leadership:"liderazgo"});
- const themeTag = tag => tag==='gaming' ? 'games' : tag;
+ Object.assign(labels,{engineering:"Ingeniería",maths:"Matemáticas",science:"Ciencia y experimentos",makers:"Crear cosas",stem:'STEM / STEAM',electronics:"electrónica",drones:"Drones",space:"Espacio y astronomía",'3d':"Diseño e impresión 3D",music:"música",design:"diseño",chess:"el ajedrez",adventure:"de las aventuras",outdoor:"Actividades al aire libre",entrepreneurship:"de la empresa",business:"Emprendimiento",leadership:"liderazgo"});
+ const themeAliases = new Map([['gaming','games'],['maker','makers'],['creative','art'],['sports','sport']]);
+ const themeTag = tag => themeAliases.get(tag) || tag;
  const directions = tags => groups.filter(g => (tags || []).some(t => g.tags.includes(themeTag(t))));
  const primary = tags => directions(tags)[0] || fallback;
  const attributes = tags => {const g = primary(tags);return `data-direction="${g.id}" style="--direction:${g.color};--direction-tint:${g.tint}"`;};

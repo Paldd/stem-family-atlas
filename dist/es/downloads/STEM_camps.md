@@ -79670,6 +79670,70 @@ Limitaciones: Matvey: Confirmar edad, grupo y admisión de estudiantes de otro c
 Fuente: https://form.jotform.com/252805351014851
 Se ha comprobado: 2026-11-08
 
+### CP1988-20261228-20261229-dec26 · Bell Museum · STEM Safari · Engineering and Astronomy · Grupo de dos días · 2026-12-28–2026-12-29
+
+lugar: Estados Unidos · Bell Museum · University of Minnesota · Saint Paul
+Fecha: 2026-12-28 — 2026-12-29
+Edad: grados 1–2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 170 por menor por 2 días con inscripción general. USD 155 para miembros del museo. · suplementos y condiciones en el dossier
+Acceso: Solicitud en la taquilla del museo. Confirmar grado, edad, idioma del grupo y disponibilidad.
+Limitaciones: Matvey: Confirmar primero el grado escolar real y el grupo adecuado. Oscar: Condicional. Puede encajar si corresponde al grado escolar indicado. Suplementos: Confirmar materiales y comida del grupo. Consultar plazas en taquilla. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.bellmuseum.umn.edu/winter-camps/
+Se ha comprobado: 2026-11-08
+
+### CP1989-20261228-20261229-dec26 · Bell Museum · Snow Much Fun · Engineering and Astronomy · Grupo de dos días · 2026-12-28–2026-12-29
+
+lugar: Estados Unidos · Bell Museum · University of Minnesota · Saint Paul
+Fecha: 2026-12-28 — 2026-12-29
+edad: Grados 3–5.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 170 por menor por 2 días con inscripción general. USD 155 para miembros del museo. · suplementos y condiciones en el dossier
+Acceso: Solicitud en la taquilla del museo. Confirmar grado, edad, idioma del grupo y disponibilidad.
+Limitaciones: Matvey: Condicional. Puede encajar si corresponde al grado escolar indicado. Oscar: Confirmar primero el grado escolar real y el grupo adecuado. Suplementos: Confirmar materiales y comida del grupo. Consultar plazas en taquilla. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.bellmuseum.umn.edu/winter-camps/
+Se ha comprobado: 2026-11-08
+
+### CP1990-20261230-20261231-dec26 · Bell Museum · STEM Safari · Science and Art · Grupo de dos días · 2026-12-30–2026-12-31
+
+lugar: Estados Unidos · Bell Museum · University of Minnesota · Saint Paul
+Fecha: 2026-12-30 - 2026-12-31
+Edad: grados 1–2.
+Matway: especificar; no se ha establecido la edad de admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 170 por menor por 2 días con inscripción general. USD 155 para miembros del museo. · suplementos y condiciones en el dossier
+Acceso: Solicitud en la taquilla del museo. Confirmar grado, edad, idioma del grupo y disponibilidad.
+Limitaciones: Matvey: Confirmar primero el grado escolar real y el grupo adecuado. Oscar: Condicional. Puede encajar si corresponde al grado escolar indicado. Suplementos: Confirmar materiales y comida del grupo. Consultar plazas en taquilla. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.bellmuseum.umn.edu/winter-camps/
+Se ha comprobado: 2026-11-08
+
+### CP1991-20261230-20261231-dec26 · Bell Museum · Snow Much Fun · Science and Art · Grupo de dos días · 2026-12-30–2026-12-31
+
+lugar: Estados Unidos · Bell Museum · University of Minnesota · Saint Paul
+Fecha: 2026-12-30 - 2026-12-31
+edad: Grados 3–5.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 170 por menor por 2 días con inscripción general. USD 155 para miembros del museo. · suplementos y condiciones en el dossier
+Acceso: Solicitud en la taquilla del museo. Confirmar grado, edad, idioma del grupo y disponibilidad.
+Limitaciones: Matvey: Condicional. Puede encajar si corresponde al grado escolar indicado. Oscar: Confirmar primero el grado escolar real y el grupo adecuado. Suplementos: Confirmar materiales y comida del grupo. Consultar plazas en taquilla. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.bellmuseum.umn.edu/winter-camps/
+Se ha comprobado: 2026-11-08
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

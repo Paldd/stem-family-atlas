@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10280,
-    "competition_cards": 4650,
-    "event_cards": 575,
-    "camp_cards": 5055,
-    "league_profiles": 300,
-    "major_exhibition_cards": 479,
+    "cards": 10305,
+    "competition_cards": 4653,
+    "event_cards": 593,
+    "camp_cards": 5059,
+    "league_profiles": 301,
+    "major_exhibition_cards": 497,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3343,
+      "total": 3359,
       "countries_with_records": 40,
-      "competitions": 1918,
-      "events": 150,
-      "major_exhibitions": 113,
-      "camps": 1275,
+      "competitions": 1921,
+      "events": 159,
+      "major_exhibitions": 122,
+      "camps": 1279,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -48,11 +48,11 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 682,
+      "total": 686,
       "countries_with_records": 14,
       "competitions": 430,
-      "events": 45,
-      "major_exhibitions": 41,
+      "events": 49,
+      "major_exhibitions": 45,
       "camps": 207,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
@@ -62,11 +62,11 @@
       "regions": [
         "Европа"
       ],
-      "total": 2204,
+      "total": 2205,
       "countries_with_records": 54,
       "competitions": 602,
-      "events": 147,
-      "major_exhibitions": 122,
+      "events": 148,
+      "major_exhibitions": 123,
       "camps": 1455,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
@@ -90,11 +90,11 @@
       "regions": [
         "Азия"
       ],
-      "total": 2970,
+      "total": 2974,
       "countries_with_records": 49,
       "competitions": 1155,
-      "events": 154,
-      "major_exhibitions": 141,
+      "events": 158,
+      "major_exhibitions": 145,
       "camps": 1661,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
@@ -7717,6 +7717,22 @@
       "new": false
     },
     {
+      "id": "uas4stem",
+      "name": "UAS4STEM",
+      "group": "regional",
+      "event_ids": [
+        "C4652",
+        "C4653",
+        "C4654"
+      ],
+      "cards": 3,
+      "future_dated": 3,
+      "linked_card_count": 3,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://amablog.modelaircraft.org/uas4stem/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -13979,6 +13995,204 @@
       "new": false
     },
     {
+      "id": "E576",
+      "name": "Aero India 2027 · Experience Zone",
+      "country": "Индия",
+      "region": "Азия",
+      "start": "2027-02-09",
+      "end": "2027-02-12",
+      "visitor_policy": "family",
+      "source": "https://aeroindia.gov.in/visit",
+      "new": false
+    },
+    {
+      "id": "E577",
+      "name": "Aero India 2027 · Business Zone",
+      "country": "Индия",
+      "region": "Азия",
+      "start": "2027-02-08",
+      "end": "2027-02-12",
+      "visitor_policy": "adults_only",
+      "source": "https://aeroindia.gov.in/visit",
+      "new": false
+    },
+    {
+      "id": "E578",
+      "name": "FlightSimExpo 2027 · Exhibit Hall",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-06-11",
+      "end": "2027-06-13",
+      "visitor_policy": "family",
+      "source": "https://flightsimexpo.com/faqs",
+      "new": false
+    },
+    {
+      "id": "E579",
+      "name": "Above and Beyond · Science Museum of Virginia",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-02-13",
+      "end": "2027-08-15",
+      "visitor_policy": "family",
+      "source": "https://smv.org/explore/things-to-do/above-and-beyond/",
+      "new": false
+    },
+    {
+      "id": "E580",
+      "name": "Soar Together · All about Mars",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-09-11",
+      "end": "2027-09-11",
+      "visitor_policy": "family",
+      "source": "https://my.si.edu/events/soar-together-at-air-and-space-family-day-all-about-mars-211819512",
+      "new": false
+    },
+    {
+      "id": "E581",
+      "name": "AerospaceFest 2027",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-09-18",
+      "end": "2027-09-18",
+      "visitor_policy": "family",
+      "source": "https://www.starhop.com/aerospacefest",
+      "new": false
+    },
+    {
+      "id": "E582",
+      "name": "UASE 2027 · Shenzhen International UAV Expo / Drone World Congress",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "2027-05-20",
+      "end": "2027-05-23",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.szhzfw.cn/zhanhui_147/7539.html",
+      "new": false
+    },
+    {
+      "id": "E583",
+      "name": "International Drone Show 2027 · Odense",
+      "country": "Дания",
+      "region": "Европа",
+      "start": "2027-06-02",
+      "end": "2027-06-03",
+      "visitor_policy": "confirm_children",
+      "source": "https://internationaldroneshow.com/tickets/",
+      "new": false
+    },
+    {
+      "id": "E584",
+      "name": "Drone International Expo 2027 · New Delhi",
+      "country": "Индия",
+      "region": "Азия",
+      "start": "2027-06-10",
+      "end": "2027-06-11",
+      "visitor_policy": "confirm_children",
+      "source": "https://droneinternationalexpo.com/visitor",
+      "new": false
+    },
+    {
+      "id": "E585",
+      "name": "DroneShow Robotics 2027",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2027-06-15",
+      "end": "2027-06-17",
+      "visitor_policy": "confirm_children",
+      "source": "https://droneshowla.com/evento/",
+      "new": false
+    },
+    {
+      "id": "E586",
+      "name": "SpaceBR Show 2027",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2027-06-15",
+      "end": "2027-06-17",
+      "visitor_policy": "confirm_children",
+      "source": "https://spacebrshow.com/evento/",
+      "new": false
+    },
+    {
+      "id": "E587",
+      "name": "Expo eVTOL 2027",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2027-06-15",
+      "end": "2027-06-17",
+      "visitor_policy": "confirm_children",
+      "source": "https://expoevtol.com/feira/",
+      "new": false
+    },
+    {
+      "id": "E588",
+      "name": "MundoGEO Connect 2027",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2027-06-15",
+      "end": "2027-06-17",
+      "visitor_policy": "confirm_children",
+      "source": "https://droneshowla.com/feira/",
+      "new": false
+    },
+    {
+      "id": "E589",
+      "name": "Noche de las Estrellas 2026 · México · UNAM",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "visitor_policy": "family",
+      "source": "https://astronomia.unam.mx/comunicacion-uc3/noche-de-las-estrellas/",
+      "new": false
+    },
+    {
+      "id": "E590",
+      "name": "Noche de las Estrellas 2026 · México · Guadalajara",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "visitor_policy": "family",
+      "source": "https://www.sagdl.org/noche_estrellas.php",
+      "new": false
+    },
+    {
+      "id": "E591",
+      "name": "Noche de las Estrellas 2026 · México · BUAP",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "visitor_policy": "family",
+      "source": "https://www.fcfm.buap.mx/nochedelasestrellas/",
+      "new": false
+    },
+    {
+      "id": "E592",
+      "name": "Noche de las Estrellas 2026 · México · Ensenada",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "visitor_policy": "family",
+      "source": "https://todos.cicese.mx/evento/ndee-2026/",
+      "new": false
+    },
+    {
+      "id": "E593",
+      "name": "Planetario de San José · UCR · Telescopiadas",
+      "country": "Коста-Рика",
+      "region": "Центральная Америка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://planetario.ucr.ac.cr/horarios.html",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -16396,8 +16610,8 @@
       }
     ],
     "counts": {
-      "records": 5055,
-      "holiday": 4685,
+      "records": 5059,
+      "holiday": 4689,
       "regular": 162,
       "self_paced_materials": 4,
       "boarding": 1038,

@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10280; competiciones: 4650; eventos: 575; campamentos / programas: 5055. Perfiles de ligas y programas: 300. Fichas de exposiciones grandes y especializadas: 479 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10305; competiciones: 4653; eventos: 593; campamentos / programas: 5059. Perfiles de ligas y programas: 301. Fichas de exposiciones grandes y especializadas: 497 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1918 | 113 | 1275 |
-| América del Sur | 14 | 430 | 41 | 207 |
-| Europa | 54 | 602 | 122 | 1455 |
+| América del Norte | 40 | 1921 | 122 | 1279 |
+| América del Sur | 14 | 430 | 45 | 207 |
+| Europa | 54 | 602 | 123 | 1455 |
 | África | 53 | 242 | 31 | 110 |
-| Asia | 49 | 1155 | 141 | 1661 |
+| Asia | 49 | 1155 | 145 | 1661 |
 | Oceanía | 25 | 163 | 29 | 332 |
 
 Fichas interregionales o globales sin asignar a un continente: 162. Norteamérica incluye Centroamérica y el Caribe. Los recuentos muestran el inventario de la base, no un porcentaje de exhaustividad.
 
-VEX: 814 de 4650 fichas de competiciones (17.5%). Esta concentración revela un sesgo de cobertura.
+VEX: 814 de 4653 fichas de competiciones (17.5%). Esta concentración revela un sesgo de cobertura.
 
 ## Lo que queda
 
@@ -326,6 +326,7 @@ VEX: 814 de 4650 fichas de competiciones (17.5%). Esta concentración revela un 
 - **Code Battle UAE**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://codebattle.tech/
 - **Virtual Xplore League · Firefly IO**: 6 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://xploreleague.com/virtual/
 - **FIRST LEGO League Morocco · BIOGLOW 2026/27**: 5 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.loop4st.org/fll
+- **UAS4STEM**: 3 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://amablog.modelaircraft.org/uas4stem/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -847,6 +848,24 @@ VEX: 814 de 4650 fichas de competiciones (17.5%). Esta concentración revela un 
 - **MeepCon León 2026** — México; 2026-11-14 – 2026-11-15. con un adulto; condiciones de admisión adulta por separado. https://boletos.meepcon.com/meepcon/meepcon-2026/
 - **MakeX México XII 2026 · Visita y demostraciones** — México; 2026-11-27 – 2026-11-29. el permiso de entrada de niños. https://www.creativakids.com/makex.php
 - **Semana de la Innovación TEC 2027** — Costa Rica; 2027-04-26 – 2027-04-30. el permiso de entrada de niños. https://www.tec.ac.cr/ferias-institucionales-2027
+- **Aero India 2027 · Experience Zone** — India; 2027-02-09 – 2027-02-12. con un adulto; condiciones de admisión adulta por separado. https://aeroindia.gov.in/visit
+- **Aero India 2027 · Business Zone** — India; 2027-02-08 – 2027-02-12. Los niños del 6/9 no pueden. https://aeroindia.gov.in/visit
+- **FlightSimExpo 2027 · Exhibit Hall** — Estados Unidos; 2027-06-11 – 2027-06-13. con un adulto; condiciones de admisión adulta por separado. https://flightsimexpo.com/faqs
+- **Above and Beyond · Science Museum of Virginia** — Estados Unidos; 2027-02-13 – 2027-08-15. con un adulto; condiciones de admisión adulta por separado. https://smv.org/explore/things-to-do/above-and-beyond/
+- **Soar Together · All about Mars** — Estados Unidos; 2027-09-11. con un adulto; condiciones de admisión adulta por separado. https://my.si.edu/events/soar-together-at-air-and-space-family-day-all-about-mars-211819512
+- **AerospaceFest 2027** — Estados Unidos; 2027-09-18. con un adulto; condiciones de admisión adulta por separado. https://www.starhop.com/aerospacefest
+- **UASE 2027 · Shenzhen International UAV Expo / Drone World Congress** — China; 2027-05-20 – 2027-05-23. el permiso de entrada de niños. https://www.szhzfw.cn/zhanhui_147/7539.html
+- **International Drone Show 2027 · Odense** — Dinamarca; 2027-06-02 – 2027-06-03. el permiso de entrada de niños. https://internationaldroneshow.com/tickets/
+- **Drone International Expo 2027 · New Delhi** — India; 2027-06-10 – 2027-06-11. el permiso de entrada de niños. https://droneinternationalexpo.com/visitor
+- **DroneShow Robotics 2027** — Brasil; 2027-06-15 – 2027-06-17. el permiso de entrada de niños. https://droneshowla.com/evento/
+- **SpaceBR Show 2027** — Brasil; 2027-06-15 – 2027-06-17. el permiso de entrada de niños. https://spacebrshow.com/evento/
+- **Expo eVTOL 2027** — Brasil; 2027-06-15 – 2027-06-17. el permiso de entrada de niños. https://expoevtol.com/feira/
+- **MundoGEO Connect 2027** — Brasil; 2027-06-15 – 2027-06-17. el permiso de entrada de niños. https://droneshowla.com/feira/
+- **Noche de las Estrellas 2026 · México · UNAM** — México; 2026-11-14. con un adulto; condiciones de admisión adulta por separado. https://astronomia.unam.mx/comunicacion-uc3/noche-de-las-estrellas/
+- **Noche de las Estrellas 2026 · México · Guadalajara** — México; 2026-11-14. con un adulto; condiciones de admisión adulta por separado. https://www.sagdl.org/noche_estrellas.php
+- **Noche de las Estrellas 2026 · México · BUAP** — México; 2026-11-14. con un adulto; condiciones de admisión adulta por separado. https://www.fcfm.buap.mx/nochedelasestrellas/
+- **Noche de las Estrellas 2026 · México · Ensenada** — México; 2026-11-14. con un adulto; condiciones de admisión adulta por separado. https://todos.cicese.mx/evento/ndee-2026/
+- **Planetario de San José · UCR · Telescopiadas** — Costa Rica. Actividad regular. Visita con un adulto. Confirmar las condiciones de acceso. https://planetario.ucr.ac.cr/horarios.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5055,
-      "holiday": 4685,
+      "records": 5059,
+      "holiday": 4689,
       "regular": 162,
       "self_paced_materials": 4,
       "boarding": 1038,
@@ -406687,6 +406687,348 @@
         "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
       },
       "date_rule": "El formulario muestra 2–18 de diciembre de 2026 y 4–29 de enero de 2027. Confirmar los días exactos dentro de cada ventana."
+    },
+    {
+      "id": "CP1988-20261228-20261229-dec26",
+      "block": "Campamentos",
+      "title": "Bell Museum · STEM Safari · Engineering and Astronomy · Grupo de dos días · 2026-12-28–2026-12-29",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Bell Museum · University of Minnesota · Saint Paul",
+      "start": "2026-12-28",
+      "end": "2026-12-29",
+      "period": "Dos días de 09:00 a 16:00. Llegada desde las 08:30 y recogida hasta las 16:30.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 1–2.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Solicitud en la taquilla del museo. Confirmar grado, edad, idioma del grupo y disponibilidad.",
+      "gear": "Pruebas de ingeniería con estructuras de papel y aluminio, modelos del Sistema Solar y rocas lunares.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2026/27 · USD 170 por menor por 2 días con inscripción general. USD 155 para miembros del museo. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://www.bellmuseum.umn.edu/winter-camps/",
+      "references": [
+        {
+          "url": "https://www.bellmuseum.umn.edu/winter-camps/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://tickets.umn.edu/bell/online/article/BellYouthCamps",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Confirmar primero el grado escolar real y el grupo adecuado. Oscar: Condicional. Puede encajar si corresponde al grado escolar indicado. Suplementos: Confirmar materiales y comida del grupo. Consultar plazas en taquilla. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "space",
+        "science",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "bell-winter-safari-engineering",
+      "camp_programme_id": "CP1988",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/Chicago",
+          "start_utc": "2026-12-28T15:00:00Z",
+          "end_utc": "2026-12-28T22:00:00Z",
+          "topic": "Pruebas de ingeniería con estructuras de papel y aluminio, modelos del Sistema Solar y rocas lunares.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/Chicago",
+          "start_utc": "2026-12-29T15:00:00Z",
+          "end_utc": "2026-12-29T22:00:00Z",
+          "topic": "Pruebas de ingeniería con estructuras de papel y aluminio, modelos del Sistema Solar y rocas lunares.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1989-20261228-20261229-dec26",
+      "block": "Campamentos",
+      "title": "Bell Museum · Snow Much Fun · Engineering and Astronomy · Grupo de dos días · 2026-12-28–2026-12-29",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Bell Museum · University of Minnesota · Saint Paul",
+      "start": "2026-12-28",
+      "end": "2026-12-29",
+      "period": "Dos días de 09:00 a 16:00. Llegada desde las 08:30 y recogida hasta las 16:30.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 3–5.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "para especificar; no se ha establecido el permiso de edad",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Solicitud en la taquilla del museo. Confirmar grado, edad, idioma del grupo y disponibilidad.",
+      "gear": "Observación de nubes, causas de las estaciones y experimentos de ingeniería con nieve.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2026/27 · USD 170 por menor por 2 días con inscripción general. USD 155 para miembros del museo. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://www.bellmuseum.umn.edu/winter-camps/",
+      "references": [
+        {
+          "url": "https://www.bellmuseum.umn.edu/winter-camps/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://tickets.umn.edu/bell/online/article/BellYouthCamps",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Puede encajar si corresponde al grado escolar indicado. Oscar: Confirmar primero el grado escolar real y el grupo adecuado. Suplementos: Confirmar materiales y comida del grupo. Consultar plazas en taquilla. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "space",
+        "science",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "bell-winter-snow-engineering",
+      "camp_programme_id": "CP1989",
+      "sessions": [
+        {
+          "date": "2026-12-28",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/Chicago",
+          "start_utc": "2026-12-28T15:00:00Z",
+          "end_utc": "2026-12-28T22:00:00Z",
+          "topic": "Observación de nubes, causas de las estaciones y experimentos de ingeniería con nieve.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/Chicago",
+          "start_utc": "2026-12-29T15:00:00Z",
+          "end_utc": "2026-12-29T22:00:00Z",
+          "topic": "Observación de nubes, causas de las estaciones y experimentos de ingeniería con nieve.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1990-20261230-20261231-dec26",
+      "block": "Campamentos",
+      "title": "Bell Museum · STEM Safari · Science and Art · Grupo de dos días · 2026-12-30–2026-12-31",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Bell Museum · University of Minnesota · Saint Paul",
+      "start": "2026-12-30",
+      "end": "2026-12-31",
+      "period": "Dos días de 09:00 a 16:00. Llegada desde las 08:30 y recogida hasta las 16:30.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 1–2.",
+      "mat": "para especificar; no se ha establecido el permiso de edad",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Solicitud en la taquilla del museo. Confirmar grado, edad, idioma del grupo y disponibilidad.",
+      "gear": "Camuflaje, cromatografía y patrones geométricos en el arte.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2026/27 · USD 170 por menor por 2 días con inscripción general. USD 155 para miembros del museo. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://www.bellmuseum.umn.edu/winter-camps/",
+      "references": [
+        {
+          "url": "https://www.bellmuseum.umn.edu/winter-camps/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://tickets.umn.edu/bell/online/article/BellYouthCamps",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Confirmar primero el grado escolar real y el grupo adecuado. Oscar: Condicional. Puede encajar si corresponde al grado escolar indicado. Suplementos: Confirmar materiales y comida del grupo. Consultar plazas en taquilla. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "bell-winter-safari-art",
+      "camp_programme_id": "CP1990",
+      "sessions": [
+        {
+          "date": "2026-12-30",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/Chicago",
+          "start_utc": "2026-12-30T15:00:00Z",
+          "end_utc": "2026-12-30T22:00:00Z",
+          "topic": "Camuflaje, cromatografía y patrones geométricos en el arte.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-31",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/Chicago",
+          "start_utc": "2026-12-31T15:00:00Z",
+          "end_utc": "2026-12-31T22:00:00Z",
+          "topic": "Camuflaje, cromatografía y patrones geométricos en el arte.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1991-20261230-20261231-dec26",
+      "block": "Campamentos",
+      "title": "Bell Museum · Snow Much Fun · Science and Art · Grupo de dos días · 2026-12-30–2026-12-31",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Bell Museum · University of Minnesota · Saint Paul",
+      "start": "2026-12-30",
+      "end": "2026-12-31",
+      "period": "Dos días de 09:00 a 16:00. Llegada desde las 08:30 y recogida hasta las 16:30.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grados 3–5.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "para especificar; no se ha establecido el permiso de edad",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Solicitud en la taquilla del museo. Confirmar grado, edad, idioma del grupo y disponibilidad.",
+      "gear": "Observación de aves invernales, comederos, huellas de animales y grabado.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2026/27 · USD 170 por menor por 2 días con inscripción general. USD 155 para miembros del museo. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://www.bellmuseum.umn.edu/winter-camps/",
+      "references": [
+        {
+          "url": "https://www.bellmuseum.umn.edu/winter-camps/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://tickets.umn.edu/bell/online/article/BellYouthCamps",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Puede encajar si corresponde al grado escolar indicado. Oscar: Confirmar primero el grado escolar real y el grupo adecuado. Suplementos: Confirmar materiales y comida del grupo. Consultar plazas en taquilla. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "science",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "bell-winter-snow-art",
+      "camp_programme_id": "CP1991",
+      "sessions": [
+        {
+          "date": "2026-12-30",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/Chicago",
+          "start_utc": "2026-12-30T15:00:00Z",
+          "end_utc": "2026-12-30T22:00:00Z",
+          "topic": "Observación de aves invernales, comederos, huellas de animales y grabado.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-31",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "America/Chicago",
+          "start_utc": "2026-12-31T15:00:00Z",
+          "end_utc": "2026-12-31T22:00:00Z",
+          "topic": "Observación de aves invernales, comederos, huellas de animales y grabado.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
     },
     {
       "id": "L491",

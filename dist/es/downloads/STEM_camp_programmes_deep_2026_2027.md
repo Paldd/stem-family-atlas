@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 1987 fichas en 126 países. Cada ficha incluye las fechas de verificación de las fuentes.
+Estado de la base: 2026-11-08. 1991 fichas en 126 países. Cada ficha incluye las fechas de verificación de las fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -159137,6 +159137,238 @@ Costa Rica · Complejo Educativo Bilingüe Nueva Esperanza · Santa Bárbara de 
 - [Página de la organización o reglamento de la categoría.](https://form.jotform.com/252805351014851) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://complejonewhope.co.cr/quienes-somos/) · 2026-11-08
+
+## CP1988 · Bell Museum · STEM Safari · Engineering and Astronomy
+
+Estados Unidos · Bell Museum · University of Minnesota · Saint Paul
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 1–2.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Pruebas de ingeniería con estructuras de papel y aluminio, modelos del Sistema Solar y rocas lunares.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Dos días de 09:00 a 16:00. Llegada desde las 08:30 y recogida hasta las 16:30.
+
+**Precio / año:** 2026 · USD 170 por menor por 2 días con inscripción general. USD 155 para miembros del museo.
+
+**Incluido:** Pruebas de ingeniería con estructuras de papel y aluminio, modelos del Sistema Solar y rocas lunares.
+
+**Suplementos:** Confirmar materiales y comida del grupo. Consultar plazas en taquilla.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Confirmar primero el grado escolar real y el grupo adecuado.
+
+**Oscar:** Condicional. Puede encajar si corresponde al grado escolar indicado.
+
+**Motivo de selección:** Dos días de 09:00 a 16:00. Llegada desde las 08:30 y recogida hasta las 16:30.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Grupo de dos días
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**Precio:** USD 170 por menor por 2 días con inscripción general. USD 155 para miembros del museo.
+
+**condiciones de participación:** Solicitud en la taquilla del museo. Confirmar grado, edad, idioma del grupo y disponibilidad.
+
+- 2026-12-28 · 09:00–16:00 · America/Chicago · Pruebas de ingeniería con estructuras de papel y aluminio, modelos del Sistema Solar y rocas lunares.
+
+- 2026-12-29 · 09:00–16:00 · America/Chicago · Pruebas de ingeniería con estructuras de papel y aluminio, modelos del Sistema Solar y rocas lunares.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.bellmuseum.umn.edu/winter-camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.bellmuseum.umn.edu/winter-camps/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://tickets.umn.edu/bell/online/article/BellYouthCamps) · 2026-11-08
+
+## CP1989 · Bell Museum · Snow Much Fun · Engineering and Astronomy
+
+Estados Unidos · Bell Museum · University of Minnesota · Saint Paul
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 3–5.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Observación de nubes, causas de las estaciones y experimentos de ingeniería con nieve.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Dos días de 09:00 a 16:00. Llegada desde las 08:30 y recogida hasta las 16:30.
+
+**Precio / año:** 2026 · USD 170 por menor por 2 días con inscripción general. USD 155 para miembros del museo.
+
+**Incluido:** Observación de nubes, causas de las estaciones y experimentos de ingeniería con nieve.
+
+**Suplementos:** Confirmar materiales y comida del grupo. Consultar plazas en taquilla.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Puede encajar si corresponde al grado escolar indicado.
+
+**Oscar:** Confirmar primero el grado escolar real y el grupo adecuado.
+
+**Motivo de selección:** Dos días de 09:00 a 16:00. Llegada desde las 08:30 y recogida hasta las 16:30.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Grupo de dos días
+
+**Fechas / estado:** 2026-12-28 — 2026-12-29
+
+**Precio:** USD 170 por menor por 2 días con inscripción general. USD 155 para miembros del museo.
+
+**condiciones de participación:** Solicitud en la taquilla del museo. Confirmar grado, edad, idioma del grupo y disponibilidad.
+
+- 2026-12-28 · 09:00–16:00 · America/Chicago · Observación de nubes, causas de las estaciones y experimentos de ingeniería con nieve.
+
+- 2026-12-29 · 09:00–16:00 · America/Chicago · Observación de nubes, causas de las estaciones y experimentos de ingeniería con nieve.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.bellmuseum.umn.edu/winter-camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.bellmuseum.umn.edu/winter-camps/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://tickets.umn.edu/bell/online/article/BellYouthCamps) · 2026-11-08
+
+## CP1990 · Bell Museum · STEM Safari · Science and Art
+
+Estados Unidos · Bell Museum · University of Minnesota · Saint Paul
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 1–2.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Camuflaje, cromatografía y patrones geométricos en el arte.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Dos días de 09:00 a 16:00. Llegada desde las 08:30 y recogida hasta las 16:30.
+
+**Precio / año:** 2026 · USD 170 por menor por 2 días con inscripción general. USD 155 para miembros del museo.
+
+**Incluido:** Camuflaje, cromatografía y patrones geométricos en el arte.
+
+**Suplementos:** Confirmar materiales y comida del grupo. Consultar plazas en taquilla.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Confirmar primero el grado escolar real y el grupo adecuado.
+
+**Oscar:** Condicional. Puede encajar si corresponde al grado escolar indicado.
+
+**Motivo de selección:** Dos días de 09:00 a 16:00. Llegada desde las 08:30 y recogida hasta las 16:30.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Grupo de dos días
+
+**Fechas / estado:** 2026-12-30 — 2026-12-31
+
+**Precio:** USD 170 por menor por 2 días con inscripción general. USD 155 para miembros del museo.
+
+**condiciones de participación:** Solicitud en la taquilla del museo. Confirmar grado, edad, idioma del grupo y disponibilidad.
+
+- 2026-12-30 · 09:00–16:00 · America/Chicago · Camuflaje, cromatografía y patrones geométricos en el arte.
+
+- 2026-12-31 · 09:00–16:00 · America/Chicago · Camuflaje, cromatografía y patrones geométricos en el arte.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.bellmuseum.umn.edu/winter-camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.bellmuseum.umn.edu/winter-camps/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://tickets.umn.edu/bell/online/article/BellYouthCamps) · 2026-11-08
+
+## CP1991 · Bell Museum · Snow Much Fun · Science and Art
+
+Estados Unidos · Bell Museum · University of Minnesota · Saint Paul
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Grados 3–5.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Observación de aves invernales, comederos, huellas de animales y grabado.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Dos días de 09:00 a 16:00. Llegada desde las 08:30 y recogida hasta las 16:30.
+
+**Precio / año:** 2026 · USD 170 por menor por 2 días con inscripción general. USD 155 para miembros del museo.
+
+**Incluido:** Observación de aves invernales, comederos, huellas de animales y grabado.
+
+**Suplementos:** Confirmar materiales y comida del grupo. Consultar plazas en taquilla.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Puede encajar si corresponde al grado escolar indicado.
+
+**Oscar:** Confirmar primero el grado escolar real y el grupo adecuado.
+
+**Motivo de selección:** Dos días de 09:00 a 16:00. Llegada desde las 08:30 y recogida hasta las 16:30.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Grupo de dos días
+
+**Fechas / estado:** 2026-12-30 — 2026-12-31
+
+**Precio:** USD 170 por menor por 2 días con inscripción general. USD 155 para miembros del museo.
+
+**condiciones de participación:** Solicitud en la taquilla del museo. Confirmar grado, edad, idioma del grupo y disponibilidad.
+
+- 2026-12-30 · 09:00–16:00 · America/Chicago · Observación de aves invernales, comederos, huellas de animales y grabado.
+
+- 2026-12-31 · 09:00–16:00 · America/Chicago · Observación de aves invernales, comederos, huellas de animales y grabado.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.bellmuseum.umn.edu/winter-camps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.bellmuseum.umn.edu/winter-camps/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://tickets.umn.edu/bell/online/article/BellYouthCamps) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

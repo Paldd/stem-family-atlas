@@ -23964,6 +23964,79 @@
         "evidence": "Cotejado con la página oficial y las condiciones publicadas."
       },
       {
+        "id": "uas4stem",
+        "name": "UAS4STEM",
+        "group": "regional",
+        "age_summary": "La organización se dirige a estudiantes de 11–19 años. Un adulto dirige el equipo.",
+        "age_tags": [
+          "10-12",
+          "teen"
+        ],
+        "summary": "Competición internacional de sistemas no tripulados con etapas remotas.",
+        "categories": [
+          {
+            "name": "Beginner virtual",
+            "age": "La organización se dirige a estudiantes de 11–19 años. Un adulto dirige el equipo.",
+            "team": "Hasta 10 estudiantes y un adulto responsable. Puede participar una escuela, club o grupo independiente.",
+            "hardware": "El equipo monta y programa un dron para la misión. Confirmar componentes admitidos y formación por categoría.",
+            "age_rule": "No por la edad objetivo. Retomar esta liga desde los 11 años.",
+            "entry": "El responsable adulto presenta la solicitud del equipo internacional. Confirmar afiliación, montaje del dron y requisitos de la sede de misión.",
+            "event_id": "C4652"
+          },
+          {
+            "name": "Intermediate / Advanced virtual preliminary",
+            "age": "La organización se dirige a estudiantes de 11–19 años. Un adulto dirige el equipo.",
+            "team": "Hasta 10 estudiantes y un adulto responsable. Puede participar una escuela, club o grupo independiente.",
+            "hardware": "El equipo monta y programa un dron para la misión. Confirmar componentes admitidos y formación por categoría.",
+            "age_rule": "No por la edad objetivo. Retomar esta liga desde los 11 años.",
+            "entry": "El responsable adulto presenta la solicitud del equipo internacional. Confirmar afiliación, montaje del dron y requisitos de la sede de misión.",
+            "event_id": "C4653"
+          },
+          {
+            "name": "Championship by invitation",
+            "age": "La organización se dirige a estudiantes de 11–19 años. Un adulto dirige el equipo.",
+            "team": "Hasta 10 estudiantes y un adulto responsable. Puede participar una escuela, club o grupo independiente.",
+            "hardware": "El equipo monta y programa un dron para la misión. Confirmar componentes admitidos y formación por categoría.",
+            "age_rule": "No por la edad objetivo. Retomar esta liga desde los 11 años.",
+            "entry": "Final por invitación tras clasificación. Puestos premiados y certificado de participación tienen reglas distintas.",
+            "event_id": "C4654"
+          }
+        ],
+        "event_ids": [
+          "C4652",
+          "C4653",
+          "C4654"
+        ],
+        "legacy_ids": [],
+        "route": "El responsable adulto presenta la solicitud del equipo internacional. Confirmar afiliación, montaje del dron y requisitos de la sede de misión.",
+        "hardware": "El equipo monta y programa un dron para la misión. Confirmar componentes admitidos y formación por categoría.",
+        "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+        "importance": "Competición internacional de sistemas no tripulados con etapas remotas.",
+        "strengths": "Hasta 10 estudiantes y un adulto responsable. Puede participar una escuela, club o grupo independiente.",
+        "requirements": [
+          "El responsable adulto presenta la solicitud del equipo internacional. Confirmar afiliación, montaje del dron y requisitos de la sede de misión.",
+          "La organización se dirige a estudiantes de 11–19 años. Un adulto dirige el equipo."
+        ],
+        "nuances": [
+          "Final por invitación tras clasificación. Puestos premiados y certificado de participación tienen reglas distintas."
+        ],
+        "cost": "USD 1695 por equipo internacional según las preguntas frecuentes. Dron y material aparte. Los finalistas invitados pagan su viaje y comidas.",
+        "award": "Final por invitación tras clasificación. Puestos premiados y certificado de participación tienen reglas distintas.",
+        "sources": [
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://amablog.modelaircraft.org/uas4stem/",
+            "checked": "2026-11-08"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://amablog.modelaircraft.org/uas4stem/faqs/",
+            "checked": "2026-11-08"
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -29240,7 +29313,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 300. Se conservan las 46 rutas anteriores. Los formatos brasileños aparecen por separado y Robofest LATAM y BajaBot se describen por categoría. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 301. Se conservan las 46 rutas anteriores. Los formatos brasileños aparecen por separado y Robofest LATAM y BajaBot se describen por categoría. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

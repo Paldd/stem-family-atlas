@@ -5127,6 +5127,71 @@ Limitaciones: En 2026 la semana incluyó un Demo Day de proyectos de investigaci
 Fuente: https://www.tec.ac.cr/ferias-institucionales-2027
 Se ha comprobado: 2026-11-08
 
+### E589 · Noche de las Estrellas 2026 · México · UNAM
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: Exposición para todas las edades.
+Matvey: Sí. Se contempla la visita familiar. Confirmar las condiciones de cada actividad.
+Oscar: Sí. Se contempla la visita familiar. Confirmar las condiciones de cada actividad.
+Idioma: La organización publica el programa en español. Confirmar en el recinto el idioma de cada actividad.
+Acceso: El 14 de noviembre de 15:00 a 22:00. La página de UNAM permite filtrar las carpas por público infantil.
+Precio: Gratuito.
+Limitaciones:
+Fuente: https://astronomia.unam.mx/comunicacion-uc3/noche-de-las-estrellas/
+Se ha comprobado: 2026-11-08
+
+### E590 · Noche de las Estrellas 2026 · México · Guadalajara
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: Exposición para todas las edades.
+Matvey: Sí. Se contempla la visita familiar. Confirmar las condiciones de cada actividad.
+Oscar: Sí. Se contempla la visita familiar. Confirmar las condiciones de cada actividad.
+Idioma: La organización publica el programa en español. Confirmar en el recinto el idioma de cada actividad.
+Acceso: El 14 de noviembre de 10:00 a 23:00. Los talleres tienen aforo limitado. Las observaciones dependen de la nubosidad.
+Precio: Gratuito.
+Limitaciones:
+Fuente: https://www.sagdl.org/noche_estrellas.php
+Se ha comprobado: 2026-11-08
+
+### E591 · Noche de las Estrellas 2026 · México · BUAP
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: Exposición para todas las edades.
+Matvey: Sí. Se contempla la visita familiar. Confirmar las condiciones de cada actividad.
+Oscar: Sí. Se contempla la visita familiar. Confirmar las condiciones de cada actividad.
+Idioma: La organización publica el programa en español. Confirmar en el recinto el idioma de cada actividad.
+Acceso: El 14 de noviembre de 17:00 a 23:00. Cotejar las zonas del campus y la inscripción de cada actividad.
+Precio: Gratuito.
+Limitaciones:
+Fuente: https://www.fcfm.buap.mx/nochedelasestrellas/
+Se ha comprobado: 2026-11-08
+
+### E592 · Noche de las Estrellas 2026 · México · Ensenada
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: Exposición para todas las edades.
+Matvey: Sí. Se contempla la visita familiar. Confirmar las condiciones de cada actividad.
+Oscar: Sí. Se contempla la visita familiar. Confirmar las condiciones de cada actividad.
+Idioma: La organización publica el programa en español. Confirmar en el recinto el idioma de cada actividad.
+Acceso: El 14 de noviembre de 15:00 a 22:00. Entrada libre. Confirmar horario y aforo del taller elegido.
+Precio: Gratuito.
+Limitaciones:
+Fuente: https://todos.cicese.mx/evento/ndee-2026/
+Se ha comprobado: 2026-11-08
+
+### E593 · Planetario de San José · UCR · Telescopiadas
+
+Fecha: El sitio muestra un horario semanal. Confirmar programa, horario y condiciones del domo antes de la visita.
+edad: Exposición para todas las edades.
+Matvey: Sí. Se contempla la visita familiar. Confirmar las condiciones de cada actividad.
+Oscar: Sí. Se contempla la visita familiar. Confirmar las condiciones de cada actividad.
+Idioma: La organización publica el programa en español. Confirmar en el recinto el idioma de cada actividad.
+Acceso: El sitio muestra un horario semanal. Confirmar programa, horario y condiciones del domo antes de la visita.
+Precio: La observación con telescopio es gratuita. Confirmar aparte la tarifa vigente de las proyecciones en el domo.
+Limitaciones:
+Fuente: https://planetario.ucr.ac.cr/horarios.html
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

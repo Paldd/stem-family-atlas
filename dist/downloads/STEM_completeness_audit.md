@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10280; соревнований: 4650; событий: 575; лагерей / программ: 5055. Профилей лиг и программ: 300. Карточек крупных и профильных выставок: 479 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10305; соревнований: 4653; событий: 593; лагерей / программ: 5059. Профилей лиг и программ: 301. Карточек крупных и профильных выставок: 497 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 231 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,16 +14,16 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 40 | 1918 | 113 | 1275 |
-| Южная Америка | 14 | 430 | 41 | 207 |
-| Европа | 54 | 602 | 122 | 1455 |
+| Северная Америка | 40 | 1921 | 122 | 1279 |
+| Южная Америка | 14 | 430 | 45 | 207 |
+| Европа | 54 | 602 | 123 | 1455 |
 | Африка | 53 | 242 | 31 | 110 |
-| Азия | 49 | 1155 | 141 | 1661 |
+| Азия | 49 | 1155 | 145 | 1661 |
 | Океания | 25 | 163 | 29 | 332 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 162. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 814 из 4650 карточек соревнований (17.5%). Это явный перекос охвата.
+VEX: 814 из 4653 карточек соревнований (17.5%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -326,6 +326,7 @@ VEX: 814 из 4650 карточек соревнований (17.5%). Это я�
 - **Code Battle UAE**: 5 карточек, 5 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://codebattle.tech/
 - **Virtual Xplore League · Firefly IO**: 6 карточек, 6 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://xploreleague.com/virtual/
 - **FIRST LEGO League Morocco · BIOGLOW 2026/27**: 5 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.loop4st.org/fll
+- **UAS4STEM**: 3 карточек, 3 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://amablog.modelaircraft.org/uas4stem/
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 11 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -847,6 +848,24 @@ VEX: 814 из 4650 карточек соревнований (17.5%). Это я�
 - **MeepCon León 2026** — Мексика; 2026-11-14 – 2026-11-15. Со взрослым; условия взрослого входа отдельно. https://boletos.meepcon.com/meepcon/meepcon-2026/
 - **MakeX México XII 2026 · Visita y demostraciones** — Мексика; 2026-11-27 – 2026-11-29. Детский допуск уточнить. https://www.creativakids.com/makex.php
 - **Semana de la Innovación TEC 2027** — Коста-Рика; 2027-04-26 – 2027-04-30. Детский допуск уточнить. https://www.tec.ac.cr/ferias-institucionales-2027
+- **Aero India 2027 · Experience Zone** — Индия; 2027-02-09 – 2027-02-12. Со взрослым; условия взрослого входа отдельно. https://aeroindia.gov.in/visit
+- **Aero India 2027 · Business Zone** — Индия; 2027-02-08 – 2027-02-12. Детям 6/9 нельзя. https://aeroindia.gov.in/visit
+- **FlightSimExpo 2027 · Exhibit Hall** — Соединенные Штаты Америки; 2027-06-11 – 2027-06-13. Со взрослым; условия взрослого входа отдельно. https://flightsimexpo.com/faqs
+- **Above and Beyond · Science Museum of Virginia** — Соединенные Штаты Америки; 2027-02-13 – 2027-08-15. Со взрослым; условия взрослого входа отдельно. https://smv.org/explore/things-to-do/above-and-beyond/
+- **Soar Together · All about Mars** — Соединенные Штаты Америки; 2027-09-11. Со взрослым; условия взрослого входа отдельно. https://my.si.edu/events/soar-together-at-air-and-space-family-day-all-about-mars-211819512
+- **AerospaceFest 2027** — Соединенные Штаты Америки; 2027-09-18. Со взрослым; условия взрослого входа отдельно. https://www.starhop.com/aerospacefest
+- **UASE 2027 · Shenzhen International UAV Expo / Drone World Congress** — Китай; 2027-05-20 – 2027-05-23. Детский допуск уточнить. https://www.szhzfw.cn/zhanhui_147/7539.html
+- **International Drone Show 2027 · Odense** — Дания; 2027-06-02 – 2027-06-03. Детский допуск уточнить. https://internationaldroneshow.com/tickets/
+- **Drone International Expo 2027 · New Delhi** — Индия; 2027-06-10 – 2027-06-11. Детский допуск уточнить. https://droneinternationalexpo.com/visitor
+- **DroneShow Robotics 2027** — Бразилия; 2027-06-15 – 2027-06-17. Детский допуск уточнить. https://droneshowla.com/evento/
+- **SpaceBR Show 2027** — Бразилия; 2027-06-15 – 2027-06-17. Детский допуск уточнить. https://spacebrshow.com/evento/
+- **Expo eVTOL 2027** — Бразилия; 2027-06-15 – 2027-06-17. Детский допуск уточнить. https://expoevtol.com/feira/
+- **MundoGEO Connect 2027** — Бразилия; 2027-06-15 – 2027-06-17. Детский допуск уточнить. https://droneshowla.com/feira/
+- **Noche de las Estrellas 2026 · México · UNAM** — Мексика; 2026-11-14. Со взрослым; условия взрослого входа отдельно. https://astronomia.unam.mx/comunicacion-uc3/noche-de-las-estrellas/
+- **Noche de las Estrellas 2026 · México · Guadalajara** — Мексика; 2026-11-14. Со взрослым; условия взрослого входа отдельно. https://www.sagdl.org/noche_estrellas.php
+- **Noche de las Estrellas 2026 · México · BUAP** — Мексика; 2026-11-14. Со взрослым; условия взрослого входа отдельно. https://www.fcfm.buap.mx/nochedelasestrellas/
+- **Noche de las Estrellas 2026 · México · Ensenada** — Мексика; 2026-11-14. Со взрослым; условия взрослого входа отдельно. https://todos.cicese.mx/evento/ndee-2026/
+- **Planetario de San José · UCR · Telescopiadas** — Коста-Рика; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://planetario.ucr.ac.cr/horarios.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

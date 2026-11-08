@@ -16,6 +16,15 @@ for(const lang of ['', 'es/']){
  assert(directions.matches(['gaming'],'games'),'The Games filter must include legacy gaming tags');
  assert.equal(directions.primary(['gaming']).id,'games');
  assert(!directions.matches(['gaming'],'coding'));
+ for(const [theme,parent] of [['drones','technology'],['space','science'],['3d','technology']]){
+  assert(directions.options().includes('value="'+theme+'"'),'Missing exact topic '+theme);
+  assert(directions.matches([theme],theme));
+  assert(directions.matches([theme],parent));
+  assert(!directions.matches([parent],theme),'Broad themes must not imply '+theme);
+ }
+ for(const [alias,theme] of [['maker','makers'],['creative','art'],['sports','sport']]){
+  assert(directions.matches([alias],theme));
+ }
  if(lang){const app=fs.readFileSync(path.join(base,'assets/app.js'),'utf8');const fold=app.match(/^const foldSearch=.*;$/m);assert(fold);vm.runInContext(fold[0],context);}
  vm.runInContext(fs.readFileSync(path.join(base,'assets/camp-planning.js'),'utf8'),context);const M=context.window.STEM_CAMP_PLANNER;
  let ui=fs.readFileSync(path.join(base,'assets/camp-programmes.js'),'utf8');const end=' init();\n})();';assert(ui.includes(end));

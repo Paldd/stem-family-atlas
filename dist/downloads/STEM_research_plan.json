@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 281,
+    "version": 282,
     "status": "implementation_snapshot",
-    "events": 10280,
-    "competitions": 4650,
+    "events": 10305,
+    "competitions": 4653,
     "league_profiles": 299,
-    "camp_dossiers": 1987,
+    "camp_dossiers": 1991,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 575,
+    "exhibitions_events": 593,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 280,
+    "version": 281,
     "status": "implementation_snapshot",
-    "events": 10272,
-    "competitions": 4648,
+    "events": 10280,
+    "competitions": 4650,
     "league_profiles": 299,
-    "camp_dossiers": 1986,
+    "camp_dossiers": 1987,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 571,
+    "exhibitions_events": 575,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 281,
+    "prepared_ui_version": 282,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 280,
-    "previous_verified_commit": "145d0961f00ff9364bf0cc54eadb6e8db0dec42d"
+    "previous_verified_ui_version": 281,
+    "previous_verified_commit": "49ce57faca0cdaa053f09c4e7746d1d509850831"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 280,
-    "published_version": 280,
-    "latest_source_commit": "145d0961f00ff9364bf0cc54eadb6e8db0dec42d",
-    "published_commit": "145d0961f00ff9364bf0cc54eadb6e8db0dec42d",
-    "latest_workflow": 42483135972,
+    "latest_source_version": 281,
+    "published_version": 281,
+    "latest_source_commit": "49ce57faca0cdaa053f09c4e7746d1d509850831",
+    "published_commit": "49ce57faca0cdaa053f09c4e7746d1d509850831",
+    "latest_workflow": 42484903258,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -28015,5 +28015,125 @@
     ],
     "audit": "data/nearby-exhibitions-and-online-programmes-audit-v281.json",
     "source_receipts": "data/nearby-exhibitions-and-online-programmes-source-receipts-v281.json"
+  },
+  "space_and_drone_opportunities_v282": {
+    "version": 282,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E576",
+      "E577",
+      "E578",
+      "E579",
+      "E580",
+      "E581",
+      "E582",
+      "E583",
+      "E584",
+      "E585",
+      "E586",
+      "E587",
+      "E588",
+      "E589",
+      "E590",
+      "E591",
+      "E592",
+      "E593",
+      "C4652",
+      "C4653",
+      "C4654"
+    ],
+    "new_dossiers": [
+      "CP1988",
+      "CP1989",
+      "CP1990",
+      "CP1991"
+    ],
+    "new_dated_variants": 4,
+    "refreshed_event_ids": [
+      "E166"
+    ],
+    "legacy_overlay_event_ids": [
+      "E166"
+    ],
+    "legacy_overlay_league_ids": [
+      "uas4stem"
+    ],
+    "source_requests": 33,
+    "themes": [
+      "drones",
+      "space",
+      "3d"
+    ],
+    "aero_family": "E576",
+    "aero_business": "E577",
+    "flight": "E578",
+    "above": "E579",
+    "mars": "E580",
+    "aerospacefest": "E581",
+    "shenzhen": "E582",
+    "odense": "E583",
+    "delhi": "E584",
+    "sao_paulo": [
+      "E585",
+      "E586",
+      "E587",
+      "E588"
+    ],
+    "mexico_stars": [
+      "E589",
+      "E590",
+      "E591",
+      "E592"
+    ],
+    "ucr": "E593",
+    "uas4stem": [
+      "C4652",
+      "C4653",
+      "C4654"
+    ],
+    "uas4stem_league": "uas4stem",
+    "bell_dossiers": [
+      "CP1988",
+      "CP1989",
+      "CP1990",
+      "CP1991"
+    ],
+    "source_conflicts": [
+      {
+        "event_id": "E584",
+        "status": "conflicting_daily_end_times",
+        "listed": [
+          "17:30",
+          "18:00"
+        ]
+      },
+      {
+        "event_id": "E582",
+        "status": "municipal_current_date",
+        "third_party_listing": [
+          "2027-05-19",
+          "2027-05-22"
+        ],
+        "confirmed": [
+          "2027-05-20",
+          "2027-05-23"
+        ],
+        "federation_native_readback": "javascript_shell"
+      },
+      {
+        "provider": "Parque Explora · Vacaciones planetarias",
+        "status": "current_search_extract_older_page_readback",
+        "searched_date": [
+          "2026-12-09",
+          "2026-12-12"
+        ],
+        "direct_status": 403,
+        "source": "https://www.parqueexplora.org/tienda/cursos/vacaciones-planetarias"
+      }
+    ],
+    "audit": "data/space-and-drone-opportunities-audit-v282.json",
+    "source_receipts": "data/space-and-drone-opportunities-source-receipts-v282.json"
   }
 }

@@ -5911,6 +5911,58 @@ Limitaciones: Habitualmente 10:00–20:00. El 3 de diciembre desde las 12:00. El
 Fuente: https://larural.com.ar/evento/hot-wheels-city-experience/
 Se ha comprobado: 2026-11-08
 
+### E585 · DroneShow Robotics 2027
+
+Fecha: 2027-06-15 — 2027-06-17
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Por confirmar. Las reglas de visitantes no indican la admisión de menores.
+Oscar: Por confirmar. Las reglas de visitantes no indican la admisión de menores.
+Idioma: La página principal está en portugués. Confirmar el idioma de las demostraciones.
+Acceso: El pabellón común abre de 09:00 a 19:00. Hay que confirmar condiciones de inscripción, precio y admisión de menores. Cursos y foros pueden tener reglas propias.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://droneshowla.com/evento/
+Se ha comprobado: 2026-11-08
+
+### E586 · SpaceBR Show 2027
+
+Fecha: 2027-06-15 — 2027-06-17
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Por confirmar. Las reglas de visitantes no indican la admisión de menores.
+Oscar: Por confirmar. Las reglas de visitantes no indican la admisión de menores.
+Idioma: La página principal está en portugués. Confirmar el idioma de las demostraciones.
+Acceso: El pabellón común abre de 09:00 a 19:00. Hay que confirmar condiciones de inscripción, precio y admisión de menores. Cursos y foros pueden tener reglas propias.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://spacebrshow.com/evento/
+Se ha comprobado: 2026-11-08
+
+### E587 · Expo eVTOL 2027
+
+Fecha: 2027-06-15 — 2027-06-17
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Por confirmar. Las reglas de visitantes no indican la admisión de menores.
+Oscar: Por confirmar. Las reglas de visitantes no indican la admisión de menores.
+Idioma: La página principal está en portugués. Confirmar el idioma de las demostraciones.
+Acceso: El pabellón común abre de 09:00 a 19:00. Hay que confirmar condiciones de inscripción, precio y admisión de menores. Cursos y foros pueden tener reglas propias.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://expoevtol.com/feira/
+Se ha comprobado: 2026-11-08
+
+### E588 · MundoGEO Connect 2027
+
+Fecha: 2027-06-15 — 2027-06-17
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Por confirmar. Las reglas de visitantes no indican la admisión de menores.
+Oscar: Por confirmar. Las reglas de visitantes no indican la admisión de menores.
+Idioma: La página principal está en portugués. Confirmar el idioma de las demostraciones.
+Acceso: El pabellón común abre de 09:00 a 19:00. Hay que confirmar condiciones de inscripción, precio y admisión de menores. Cursos y foros pueden tener reglas propias.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://droneshowla.com/feira/
+Se ha comprobado: 2026-11-08
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

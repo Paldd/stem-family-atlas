@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1987,
+    "dossiers": 1991,
     "countries": 126,
     "swiss": 137,
     "by_status": {
@@ -38,7 +38,7 @@
       "published_2027": 543,
       "partial_2027": 145,
       "next_unannounced": 400,
-      "published_2026": 377,
+      "published_2026": 381,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2880
+    "source_urls": 2882
   },
   "countries": [
     {
@@ -441,7 +441,7 @@
     },
     {
       "country": "Соединенные Штаты Америки",
-      "count": 147
+      "count": 151
     },
     {
       "country": "Сьерра-Леоне",
@@ -345092,6 +345092,544 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1988",
+      "slug": "bell-winter-safari-engineering",
+      "provider": "Bell Museum · STEM Safari · Engineering and Astronomy",
+      "country": "Соединенные Штаты Америки",
+      "iso": "USA",
+      "place": "Bell Museum · University of Minnesota · Saint Paul",
+      "age": "1–2 класс.",
+      "programme": "Инженерные испытания конструкций из бумаги и фольги, модели Солнечной системы и лунных пород.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Два дня с 09:00 до 16:00. Приём с 08:30, забрать ребёнка можно до 16:30.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec26",
+            "start": "2026-12-28",
+            "end": "2026-12-29",
+            "label": "Двухдневная группа",
+            "price": "USD 170 за ребёнка за 2 дня для общей записи. USD 155 для членов музея.",
+            "source": "https://www.bellmuseum.umn.edu/winter-camps/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago",
+                "start_utc": "2026-12-28T15:00:00Z",
+                "end_utc": "2026-12-28T22:00:00Z",
+                "topic": "Инженерные испытания конструкций из бумаги и фольги, модели Солнечной системы и лунных пород.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago",
+                "start_utc": "2026-12-29T15:00:00Z",
+                "end_utc": "2026-12-29T22:00:00Z",
+                "topic": "Инженерные испытания конструкций из бумаги и фольги, модели Солнечной системы и лунных пород.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Подача через кассу музея. Подтвердить класс, возраст, язык группы и наличие места."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 170,
+        "currency": "USD",
+        "unit": "per_child_course",
+        "label": "USD 170 за ребёнка за 2 дня для общей записи. USD 155 для членов музея.",
+        "included": "Инженерные испытания конструкций из бумаги и фольги, модели Солнечной системы и лунных пород.",
+        "extras": "Проверить материалы и питание для выбранной группы. Наличие мест уточнить в кассе.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Сначала уточнить фактический школьный класс и подходящую группу."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Подходит при соответствии указанному школьному классу."
+        }
+      },
+      "editorial_reason": "Два дня с 09:00 до 16:00. Приём с 08:30, забрать ребёнка можно до 16:30.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.bellmuseum.umn.edu/winter-camps/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://tickets.umn.edu/bell/online/article/BellYouthCamps",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "space",
+        "science",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "pairing": {
+        "venue_id": "bell-museum-saint-paul",
+        "verified_source": "https://www.bellmuseum.umn.edu/winter-camps/",
+        "checked": "2026-11-08",
+        "fee": {
+          "amount": 170,
+          "currency": "USD",
+          "unit": "per_child_course"
+        }
+      },
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1988-20261228-20261229-dec26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1989",
+      "slug": "bell-winter-snow-engineering",
+      "provider": "Bell Museum · Snow Much Fun · Engineering and Astronomy",
+      "country": "Соединенные Штаты Америки",
+      "iso": "USA",
+      "place": "Bell Museum · University of Minnesota · Saint Paul",
+      "age": "3–5 класс.",
+      "programme": "Наблюдение за облаками, причины смены времён года и инженерные опыты со снегом.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Два дня с 09:00 до 16:00. Приём с 08:30, забрать ребёнка можно до 16:30.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec26",
+            "start": "2026-12-28",
+            "end": "2026-12-29",
+            "label": "Двухдневная группа",
+            "price": "USD 170 за ребёнка за 2 дня для общей записи. USD 155 для членов музея.",
+            "source": "https://www.bellmuseum.umn.edu/winter-camps/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago",
+                "start_utc": "2026-12-28T15:00:00Z",
+                "end_utc": "2026-12-28T22:00:00Z",
+                "topic": "Наблюдение за облаками, причины смены времён года и инженерные опыты со снегом.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago",
+                "start_utc": "2026-12-29T15:00:00Z",
+                "end_utc": "2026-12-29T22:00:00Z",
+                "topic": "Наблюдение за облаками, причины смены времён года и инженерные опыты со снегом.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Подача через кассу музея. Подтвердить класс, возраст, язык группы и наличие места."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 170,
+        "currency": "USD",
+        "unit": "per_child_course",
+        "label": "USD 170 за ребёнка за 2 дня для общей записи. USD 155 для членов музея.",
+        "included": "Наблюдение за облаками, причины смены времён года и инженерные опыты со снегом.",
+        "extras": "Проверить материалы и питание для выбранной группы. Наличие мест уточнить в кассе.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Подходит при соответствии указанному школьному классу."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Сначала уточнить фактический школьный класс и подходящую группу."
+        }
+      },
+      "editorial_reason": "Два дня с 09:00 до 16:00. Приём с 08:30, забрать ребёнка можно до 16:30.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.bellmuseum.umn.edu/winter-camps/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://tickets.umn.edu/bell/online/article/BellYouthCamps",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "space",
+        "science",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "pairing": {
+        "venue_id": "bell-museum-saint-paul",
+        "verified_source": "https://www.bellmuseum.umn.edu/winter-camps/",
+        "checked": "2026-11-08",
+        "fee": {
+          "amount": 170,
+          "currency": "USD",
+          "unit": "per_child_course"
+        }
+      },
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1989-20261228-20261229-dec26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1990",
+      "slug": "bell-winter-safari-art",
+      "provider": "Bell Museum · STEM Safari · Science and Art",
+      "country": "Соединенные Штаты Америки",
+      "iso": "USA",
+      "place": "Bell Museum · University of Minnesota · Saint Paul",
+      "age": "1–2 класс.",
+      "programme": "Камуфляж, хроматография и геометрические узоры в искусстве.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Два дня с 09:00 до 16:00. Приём с 08:30, забрать ребёнка можно до 16:30.",
+        "sessions": [
+          [
+            "2026-12-30",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec26",
+            "start": "2026-12-30",
+            "end": "2026-12-31",
+            "label": "Двухдневная группа",
+            "price": "USD 170 за ребёнка за 2 дня для общей записи. USD 155 для членов музея.",
+            "source": "https://www.bellmuseum.umn.edu/winter-camps/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago",
+                "start_utc": "2026-12-30T15:00:00Z",
+                "end_utc": "2026-12-30T22:00:00Z",
+                "topic": "Камуфляж, хроматография и геометрические узоры в искусстве.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago",
+                "start_utc": "2026-12-31T15:00:00Z",
+                "end_utc": "2026-12-31T22:00:00Z",
+                "topic": "Камуфляж, хроматография и геометрические узоры в искусстве.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Подача через кассу музея. Подтвердить класс, возраст, язык группы и наличие места."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 170,
+        "currency": "USD",
+        "unit": "per_child_course",
+        "label": "USD 170 за ребёнка за 2 дня для общей записи. USD 155 для членов музея.",
+        "included": "Камуфляж, хроматография и геометрические узоры в искусстве.",
+        "extras": "Проверить материалы и питание для выбранной группы. Наличие мест уточнить в кассе.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Сначала уточнить фактический школьный класс и подходящую группу."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Подходит при соответствии указанному школьному классу."
+        }
+      },
+      "editorial_reason": "Два дня с 09:00 до 16:00. Приём с 08:30, забрать ребёнка можно до 16:30.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.bellmuseum.umn.edu/winter-camps/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://tickets.umn.edu/bell/online/article/BellYouthCamps",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "art"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "pairing": {
+        "venue_id": "bell-museum-saint-paul",
+        "verified_source": "https://www.bellmuseum.umn.edu/winter-camps/",
+        "checked": "2026-11-08",
+        "fee": {
+          "amount": 170,
+          "currency": "USD",
+          "unit": "per_child_course"
+        }
+      },
+      "calendar_links": [
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1990-20261230-20261231-dec26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1991",
+      "slug": "bell-winter-snow-art",
+      "provider": "Bell Museum · Snow Much Fun · Science and Art",
+      "country": "Соединенные Штаты Америки",
+      "iso": "USA",
+      "place": "Bell Museum · University of Minnesota · Saint Paul",
+      "age": "3–5 класс.",
+      "programme": "Наблюдение за зимними птицами, кормушки, следы животных и печатная графика.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Два дня с 09:00 до 16:00. Приём с 08:30, забрать ребёнка можно до 16:30.",
+        "sessions": [
+          [
+            "2026-12-30",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec26",
+            "start": "2026-12-30",
+            "end": "2026-12-31",
+            "label": "Двухдневная группа",
+            "price": "USD 170 за ребёнка за 2 дня для общей записи. USD 155 для членов музея.",
+            "source": "https://www.bellmuseum.umn.edu/winter-camps/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago",
+                "start_utc": "2026-12-30T15:00:00Z",
+                "end_utc": "2026-12-30T22:00:00Z",
+                "topic": "Наблюдение за зимними птицами, кормушки, следы животных и печатная графика.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Chicago",
+                "start_utc": "2026-12-31T15:00:00Z",
+                "end_utc": "2026-12-31T22:00:00Z",
+                "topic": "Наблюдение за зимними птицами, кормушки, следы животных и печатная графика.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Подача через кассу музея. Подтвердить класс, возраст, язык группы и наличие места."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 170,
+        "currency": "USD",
+        "unit": "per_child_course",
+        "label": "USD 170 за ребёнка за 2 дня для общей записи. USD 155 для членов музея.",
+        "included": "Наблюдение за зимними птицами, кормушки, следы животных и печатная графика.",
+        "extras": "Проверить материалы и питание для выбранной группы. Наличие мест уточнить в кассе.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Подходит при соответствии указанному школьному классу."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Сначала уточнить фактический школьный класс и подходящую группу."
+        }
+      },
+      "editorial_reason": "Два дня с 09:00 до 16:00. Приём с 08:30, забрать ребёнка можно до 16:30.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.bellmuseum.umn.edu/winter-camps/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://tickets.umn.edu/bell/online/article/BellYouthCamps",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "art"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "pairing": {
+        "venue_id": "bell-museum-saint-paul",
+        "verified_source": "https://www.bellmuseum.umn.edu/winter-camps/",
+        "checked": "2026-11-08",
+        "fee": {
+          "amount": 170,
+          "currency": "USD",
+          "unit": "per_child_course"
+        }
+      },
+      "calendar_links": [
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1991-20261230-20261231-dec26"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -350417,7 +350955,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 281,
+  "version": 282,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -363652,7 +364190,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1987,
+      "total_dossiers": 1991,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -386187,6 +386725,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1988",
+      "event_id": "CP1988-20261228-20261229-dec26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1989",
+      "event_id": "CP1989-20261228-20261229-dec26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1990",
+      "event_id": "CP1990-20261230-20261231-dec26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1991",
+      "event_id": "CP1991-20261230-20261231-dec26",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -390891,10 +391449,14 @@
     "CP1984-20270101-20270131-intake-2027-01",
     "CP1984-20270201-20270228-intake-2027-02",
     "CP1987-20261202-20261218-dec26",
-    "CP1987-20270104-20270129-jan27"
+    "CP1987-20270104-20270129-jan27",
+    "CP1988-20261228-20261229-dec26",
+    "CP1989-20261228-20261229-dec26",
+    "CP1990-20261230-20261231-dec26",
+    "CP1991-20261230-20261231-dec26"
   ],
   "integration": {
-    "generated_sessions": 4274,
+    "generated_sessions": 4278,
     "reused_legacy_events": 74,
     "seasonal_windows": 76,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

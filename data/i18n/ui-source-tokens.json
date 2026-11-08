@@ -5210,7 +5210,7 @@
     ]
   },
   "assets/directions.js": {
-    "sha256": "dbbdd7972f3a5245c360c031b94697500e0682a479a6102729123dc2c4599cd8",
+    "sha256": "8a5e8ea62e18b52f34f4e54aedad16c047843d97fbc4e5d60748e9e5f41cc063",
     "tokens": [
       {
         "start": 319,
@@ -5248,225 +5248,246 @@
         "type": "literal"
       },
       {
-        "start": 769,
-        "end": 789,
+        "start": 777,
+        "end": 797,
         "raw": "'Технологии и maker'",
         "value": "Технологии и maker",
         "type": "literal"
       },
       {
-        "start": 902,
-        "end": 921,
+        "start": 924,
+        "end": 943,
         "raw": "'Игры и геймдизайн'",
         "value": "Игры и геймдизайн",
         "type": "literal"
       },
       {
-        "start": 1011,
-        "end": 1018,
+        "start": 1033,
+        "end": 1040,
         "raw": "'Языки'",
         "value": "Языки",
         "type": "literal"
       },
       {
-        "start": 1109,
-        "end": 1129,
+        "start": 1131,
+        "end": 1151,
         "raw": "'Искусство и дизайн'",
         "value": "Искусство и дизайн",
         "type": "literal"
       },
       {
-        "start": 1229,
-        "end": 1236,
+        "start": 1251,
+        "end": 1258,
         "raw": "'Спорт'",
         "value": "Спорт",
         "type": "literal"
       },
       {
-        "start": 1315,
-        "end": 1338,
+        "start": 1337,
+        "end": 1360,
         "raw": "'Природа и приключения'",
         "value": "Природа и приключения",
         "type": "literal"
       },
       {
-        "start": 1450,
-        "end": 1470,
+        "start": 1472,
+        "end": 1492,
         "raw": "'Бизнес и лидерство'",
         "value": "Бизнес и лидерство",
         "type": "literal"
       },
       {
-        "start": 1585,
-        "end": 1595,
+        "start": 1607,
+        "end": 1617,
         "raw": "'Культура'",
         "value": "Культура",
         "type": "literal"
       },
       {
-        "start": 1677,
-        "end": 1690,
+        "start": 1699,
+        "end": 1712,
         "raw": "'Общий отдых'",
         "value": "Общий отдых",
         "type": "literal"
       },
       {
-        "start": 1796,
-        "end": 1813,
+        "start": 1818,
+        "end": 1835,
         "raw": "'Тема уточняется'",
         "value": "Тема уточняется",
         "type": "literal"
       },
       {
-        "start": 2055,
-        "end": 2066,
+        "start": 2077,
+        "end": 2088,
         "raw": "'Инженерия'",
         "value": "Инженерия",
         "type": "literal"
       },
       {
-        "start": 2073,
-        "end": 2085,
+        "start": 2095,
+        "end": 2107,
         "raw": "'Математика'",
         "value": "Математика",
         "type": "literal"
       },
       {
-        "start": 2094,
-        "end": 2116,
+        "start": 2116,
+        "end": 2138,
         "raw": "'Наука и эксперименты'",
         "value": "Наука и эксперименты",
         "type": "literal"
       },
       {
-        "start": 2124,
-        "end": 2148,
+        "start": 2146,
+        "end": 2170,
         "raw": "'Maker / создание вещей'",
         "value": "Maker / создание вещей",
         "type": "literal"
       },
       {
-        "start": 2181,
-        "end": 2194,
+        "start": 2203,
+        "end": 2216,
         "raw": "'Электроника'",
         "value": "Электроника",
         "type": "literal"
       },
       {
-        "start": 2201,
-        "end": 2209,
+        "start": 2224,
+        "end": 2231,
+        "raw": "'Дроны'",
+        "value": "Дроны",
+        "type": "literal"
+      },
+      {
+        "start": 2238,
+        "end": 2259,
+        "raw": "'Космос и астрономия'",
+        "value": "Космос и астрономия",
+        "type": "literal"
+      },
+      {
+        "start": 2265,
+        "end": 2293,
+        "raw": "'3D-проектирование и печать'",
+        "value": "3D-проектирование и печать",
+        "type": "literal"
+      },
+      {
+        "start": 2300,
+        "end": 2308,
         "raw": "'Музыка'",
         "value": "Музыка",
         "type": "literal"
       },
       {
-        "start": 2217,
-        "end": 2225,
+        "start": 2316,
+        "end": 2324,
         "raw": "'Дизайн'",
         "value": "Дизайн",
         "type": "literal"
       },
       {
-        "start": 2232,
-        "end": 2241,
+        "start": 2331,
+        "end": 2340,
         "raw": "'Шахматы'",
         "value": "Шахматы",
         "type": "literal"
       },
       {
-        "start": 2252,
-        "end": 2265,
+        "start": 2351,
+        "end": 2364,
         "raw": "'Приключения'",
         "value": "Приключения",
         "type": "literal"
       },
       {
-        "start": 2274,
-        "end": 2290,
+        "start": 2373,
+        "end": 2389,
         "raw": "'Активный отдых'",
         "value": "Активный отдых",
         "type": "literal"
       },
       {
-        "start": 2308,
-        "end": 2329,
+        "start": 2407,
+        "end": 2428,
         "raw": "'Предпринимательство'",
         "value": "Предпринимательство",
         "type": "literal"
       },
       {
-        "start": 2339,
-        "end": 2347,
+        "start": 2438,
+        "end": 2446,
         "raw": "'Бизнес'",
         "value": "Бизнес",
         "type": "literal"
       },
       {
-        "start": 2359,
-        "end": 2370,
+        "start": 2458,
+        "end": 2469,
         "raw": "'Лидерство'",
         "value": "Лидерство",
         "type": "literal"
       },
       {
-        "start": 3010,
-        "end": 3071,
+        "start": 3217,
+        "end": 3278,
         "raw": "<div class=\"direction-chips\" aria-label=\"Тематика программы\">",
         "value": "<div class=\"direction-chips\" aria-label=\"Тематика программы\">",
         "type": "template"
       },
       {
-        "start": 3503,
-        "end": 3535,
+        "start": 3710,
+        "end": 3742,
         "raw": "'<optgroup label=\"Точные темы\">'",
         "value": "<optgroup label=\"Точные темы\">",
         "type": "literal"
       },
       {
-        "start": 3667,
-        "end": 3690,
+        "start": 3874,
+        "end": 3897,
         "raw": " · точная тема</option>",
         "value": " · точная тема</option>",
         "type": "template"
       },
       {
-        "start": 3760,
-        "end": 4169,
+        "start": 3967,
+        "end": 4376,
         "raw": "<details class=\"direction-legend\" open><summary>Направления в цвете<span>Нажмите, чтобы выбрать тему</span></summary><p>Цвет обозначает тематику. Все темы смешанной программы указаны в карточке; цвет не означает рейтинг, язык или допуск ребёнка.</p><div class=\"direction-choices\" role=\"group\" aria-label=\"Выбрать направление\"><button type=\"button\" class=\"direction-choice direction-all\" data-direction-scope=\"",
         "value": "<details class=\"direction-legend\" open><summary>Направления в цвете<span>Нажмите, чтобы выбрать тему</span></summary><p>Цвет обозначает тематику. Все темы смешанной программы указаны в карточке; цвет не означает рейтинг, язык или допуск ребёнка.</p><div class=\"direction-choices\" role=\"group\" aria-label=\"Выбрать направление\"><button type=\"button\" class=\"direction-choice direction-all\" data-direction-scope=\"",
         "type": "template"
       },
       {
-        "start": 4230,
-        "end": 4256,
+        "start": 4437,
+        "end": 4463,
         "raw": "\">Все направления</button>",
         "value": "\">Все направления</button>",
         "type": "template"
       },
       {
-        "start": 4905,
-        "end": 4919,
+        "start": 5112,
+        "end": 5126,
         "raw": "'Соревнование'",
         "value": "Соревнование",
         "type": "literal"
       },
       {
-        "start": 4932,
-        "end": 4952,
+        "start": 5139,
+        "end": 5159,
         "raw": "'Событие / выставка'",
         "value": "Событие / выставка",
         "type": "literal"
       },
       {
-        "start": 4964,
-        "end": 4983,
+        "start": 5171,
+        "end": 5190,
         "raw": "'Лагерь / обучение'",
         "value": "Лагерь / обучение",
         "type": "literal"
       },
       {
-        "start": 4997,
-        "end": 5014,
+        "start": 5204,
+        "end": 5221,
         "raw": "'Школа / пансион'",
         "value": "Школа / пансион",
         "type": "literal"
