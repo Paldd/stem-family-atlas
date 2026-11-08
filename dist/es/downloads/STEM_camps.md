@@ -10278,6 +10278,70 @@ Limitaciones: Archivo de 2025. El reto interno se celebró para el alumnado del 
 Fuente: https://picrc.org/picrc-launches-new-student-program-on-building-underwater-robots/
 Se ha comprobado: 2026-11-07
 
+### L719 · Orica × STEM Punks Education · PNG School Program 2026
+
+lugar: Papúa Nueva Guinea · Lae · Morobe
+Fecha: Edición de dos semanas de 2026. Informe publicado el 10 de septiembre. El informe no enumera los días de clase.
+edad: Alumnado de primaria y secundaria. Los cursos concretos dependen de la escuela.
+Matvey: Condicional para una futura convocatoria. El acceso depende de la escuela participante.
+Oscar: Condicional para una futura convocatoria. El acceso depende de la escuela participante.
+formato: school_workshop
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Archivo de un programa escolar local. La convocatoria actual y el acceso externo requieren un nuevo anuncio.
+Limitaciones: Archivo de un programa escolar local. La convocatoria actual y el acceso externo requieren un nuevo anuncio.
+Fuente: https://www.orica.com/en/news-and-media/blog/2026/building-lasting-stem-capability-in-papua-new-guinea
+Se ha comprobado: 2026-11-07
+
+### L720 · PNG Flying Labs · Laloki Coding and Drone Workshop
+
+lugar: Papúa Nueva Guinea · Laloki · Central Province
+Fecha: Taller archivado de tres semanas durante las vacaciones escolares.
+edad: Jóvenes de la comunidad local. El informe no indica el rango exacto de edad.
+Matvey: Condicional para una futura convocatoria. El acceso depende de la escuela participante.
+Oscar: Condicional para una futura convocatoria. El acceso depende de la escuela participante.
+formato: school_workshop
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Archivo de un programa escolar local. La convocatoria actual y el acceso externo requieren un nuevo anuncio.
+Limitaciones: Archivo de un programa escolar local. La convocatoria actual y el acceso externo requieren un nuevo anuncio.
+Fuente: https://www.pnglng.com/Newsroom/Media-Release/Laloki-youth-take-flight-in-coding-and-drone-class
+Se ha comprobado: 2026-11-07
+
+### L721 · PICRC Ocean Explorers · September 2025 cohort
+
+lugar: Palaos · PICRC · Koror
+Fecha: Semana del 29 de septiembre de 2025. Actividades de 3,5 días. El informe no enumera los días exactos.
+edad: 8.º curso de las escuelas locales participantes.
+Matvey: No por el curso actual. Esta edición estaba destinada a 8.º curso.
+Oscar: No por el curso actual. Esta edición estaba destinada a 8.º curso.
+formato: school_workshop
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Edición de otoño independiente para grupos de escuelas locales.
+Limitaciones: La próxima convocatoria, el precio y el idioma de clase requieren un anuncio propio.
+Fuente: https://picrc.org/palau-international-coral-reef-center-hosts-ocean-explorers-program-for-eighth-grade-students/
+Se ha comprobado: 2026-11-07
+
+### L722 · Deltronic · Club de Robótica · Liceo Los Delfines
+
+lugar: Ecuador · Liceo Los Delfines · Daule / Guayaquil
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Desde 8 años para alumnado de Liceo Los Delfines.
+Matvey: Condicional. Edad adecuada. Se requiere admisión del colegio.
+Oscar: No. Edad mínima de 8 años.
+Formato: regular
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Club del colegio. Confirmar horario, coste y acceso de alumnado de otros centros.
+Limitaciones: La página del colegio indica la edad. Las fechas y el acceso a torneos requieren reglas propias.
+Fuente: https://liceolosdelfines.edu.ec/club-de-robotica-deltronic-programacion-y-mecanica-desde-cero/
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -55622,6 +55686,38 @@ Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. O
 Fuente: https://scratchpad.co.nz/product/roll-sleeves-let-us-code/
 Se ha comprobado: 2026-11-07
 
+### CP1271-20270115-20270115-2027-01-15-short · SCRATCHPAD · mBot Robotics · Día de 09:00 a 15:00 · 2027-01-15–2027-01-15
+
+Lugar: Nueva Zelandia Auckland · elegir sede
+Fecha: 2027-01-15 — 2027-01-15
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor con kit propio, GST incluido. · suplementos y condiciones en el dossier
+Acceso: Elegir sede y duración. Confirmar plaza, idioma y disponibilidad del kit si se necesita alquiler.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: Alquiler de mBot por NZD 15 adicionales al día. Recepción temprana NZD 25. Traer comida. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/code-the-bot/
+Se ha comprobado: 2026-11-07
+
+### CP1271-20270115-20270115-2027-01-15-long · SCRATCHPAD · mBot Robotics · Día de 09:00 a 17:00 · 2027-01-15–2027-01-15
+
+Lugar: Nueva Zelandia Auckland · elegir sede
+Fecha: 2027-01-15 — 2027-01-15
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor con kit propio, GST incluido. · suplementos y condiciones en el dossier
+Acceso: Elegir sede y duración. Confirmar plaza, idioma y disponibilidad del kit si se necesita alquiler.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: Alquiler de mBot por NZD 15 adicionales al día. Recepción temprana NZD 25. Traer comida. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/code-the-bot/
+Se ha comprobado: 2026-11-07
+
 ### CP1272-20261218-20261218-2026-12-18-short · SCRATCHPAD · Edison Robotics · Día de 09:00 a 15:00 · 2026-12-18–2026-12-18
 
 Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
@@ -55684,6 +55780,166 @@ Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones e
 Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
 Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: Alquiler de Edison por NZD 10 adicionales según la ficha. Recepción temprana NZD 25. Traer comida. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
 Fuente: https://scratchpad.co.nz/product/code-bot-program-edison-robot/
+Se ha comprobado: 2026-11-07
+
+### CP1274-20261218-20261218-2026-12-18-short · SCRATCHPAD · 3D Printing · Día de 09:00 a 15:00 · 2026-12-18–2026-12-18
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-18 — 2026-12-18
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/lets-learn-3d-printing/
+Se ha comprobado: 2026-11-07
+
+### CP1274-20261218-20261218-2026-12-18-long · SCRATCHPAD · 3D Printing · Día de 09:00 a 17:00 · 2026-12-18–2026-12-18
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-18 — 2026-12-18
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/lets-learn-3d-printing/
+Se ha comprobado: 2026-11-07
+
+### CP1274-20270108-20270108-2027-01-08-short · SCRATCHPAD · 3D Printing · Día de 09:00 a 15:00 · 2027-01-08–2027-01-08
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-08 — 2027-01-08
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/lets-learn-3d-printing/
+Se ha comprobado: 2026-11-07
+
+### CP1274-20270108-20270108-2027-01-08-long · SCRATCHPAD · 3D Printing · Día de 09:00 a 17:00 · 2027-01-08–2027-01-08
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-08 — 2027-01-08
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/lets-learn-3d-printing/
+Se ha comprobado: 2026-11-07
+
+### CP1274-20270115-20270115-2027-01-15-short · SCRATCHPAD · 3D Printing · Día de 09:00 a 15:00 · 2027-01-15–2027-01-15
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-15 — 2027-01-15
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/lets-learn-3d-printing/
+Se ha comprobado: 2026-11-07
+
+### CP1274-20270115-20270115-2027-01-15-long · SCRATCHPAD · 3D Printing · Día de 09:00 a 17:00 · 2027-01-15–2027-01-15
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-15 — 2027-01-15
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/lets-learn-3d-printing/
+Se ha comprobado: 2026-11-07
+
+### CP1274-20270122-20270122-2027-01-22-short · SCRATCHPAD · 3D Printing · Día de 09:00 a 15:00 · 2027-01-22–2027-01-22
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-22 — 2027-01-22
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/lets-learn-3d-printing/
+Se ha comprobado: 2026-11-07
+
+### CP1274-20270122-20270122-2027-01-22-long · SCRATCHPAD · 3D Printing · Día de 09:00 a 17:00 · 2027-01-22–2027-01-22
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-22 — 2027-01-22
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/lets-learn-3d-printing/
+Se ha comprobado: 2026-11-07
+
+### CP1274-20270129-20270129-2027-01-29-short · SCRATCHPAD · 3D Printing · Día de 09:00 a 15:00 · 2027-01-29–2027-01-29
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-29 — 2027-01-29
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/lets-learn-3d-printing/
+Se ha comprobado: 2026-11-07
+
+### CP1274-20270129-20270129-2027-01-29-long · SCRATCHPAD · 3D Printing · Día de 09:00 a 17:00 · 2027-01-29–2027-01-29
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-29 — 2027-01-29
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/lets-learn-3d-printing/
 Se ha comprobado: 2026-11-07
 
 ### CP1276-20270103-20270108-summer · Tōtara Springs · Summer Family Camp B · Summer Family Camp B · 2027-01-03–2027-01-08
@@ -74436,6 +74692,1126 @@ Precio: 2026/27 · Precio a consultar para la sede y el bloque elegidos. · supl
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Oscar: Condicional. Confirmar equivalencia de curso, idioma de las actividades técnicas y plazas. Suplementos: La tarifa exacta de la convocatoria elegida no está confirmada. Pago: La tarifa exacta de la convocatoria elegida no está confirmada.
 Fuente: https://www.littleeartheducation.com/holiday-programmes
+Se ha comprobado: 2026-11-07
+
+### CP1883-20270106-20270106-2027-01-06-short · SCRATCHPAD · Scratch · Día de 09:00 a 15:00 · 2027-01-06–2027-01-06
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-06 — 2027-01-06
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/learn-to-code-using-scratch/
+Se ha comprobado: 2026-11-07
+
+### CP1883-20270106-20270106-2027-01-06-long · SCRATCHPAD · Scratch · Día de 09:00 a 17:00 · 2027-01-06–2027-01-06
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-06 — 2027-01-06
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/learn-to-code-using-scratch/
+Se ha comprobado: 2026-11-07
+
+### CP1883-20270118-20270118-2027-01-18-short · SCRATCHPAD · Scratch · Día de 09:00 a 15:00 · 2027-01-18–2027-01-18
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-18 国 2027-01-18
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/learn-to-code-using-scratch/
+Se ha comprobado: 2026-11-07
+
+### CP1883-20270118-20270118-2027-01-18-long · SCRATCHPAD · Scratch · Día de 09:00 a 17:00 · 2027-01-18–2027-01-18
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-18 国 2027-01-18
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/learn-to-code-using-scratch/
+Se ha comprobado: 2026-11-07
+
+### CP1883-20270125-20270125-2027-01-25-short · SCRATCHPAD · Scratch · Día de 09:00 a 15:00 · 2027-01-25–2027-01-25
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-25 ♫ 2027-01-25
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/learn-to-code-using-scratch/
+Se ha comprobado: 2026-11-07
+
+### CP1883-20270125-20270125-2027-01-25-long · SCRATCHPAD · Scratch · Día de 09:00 a 17:00 · 2027-01-25–2027-01-25
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-25 ♫ 2027-01-25
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/learn-to-code-using-scratch/
+Se ha comprobado: 2026-11-07
+
+### CP1884-20270111-20270111-2027-01-11-short · SCRATCHPAD · Makey Makey · Día de 09:00 a 15:00 · 2027-01-11–2027-01-11
+
+Lugar: Nueva Zelandia Auckland · elegir sede
+Fecha: 2027-01-11 — 2027-01-11
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor con kit propio, GST incluido. · suplementos y condiciones en el dossier
+Acceso: Elegir sede y duración. Confirmar plaza, idioma y disponibilidad del kit si se necesita alquiler.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: Alquiler de Makey Makey por NZD 10 adicionales al día. Recepción temprana NZD 25. Traer comida. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/lets-learn-makey-makey/
+Se ha comprobado: 2026-11-07
+
+### CP1884-20270111-20270111-2027-01-11-long · SCRATCHPAD · Makey Makey · Día de 09:00 a 17:00 · 2027-01-11–2027-01-11
+
+Lugar: Nueva Zelandia Auckland · elegir sede
+Fecha: 2027-01-11 — 2027-01-11
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor con kit propio, GST incluido. · suplementos y condiciones en el dossier
+Acceso: Elegir sede y duración. Confirmar plaza, idioma y disponibilidad del kit si se necesita alquiler.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: Alquiler de Makey Makey por NZD 10 adicionales al día. Recepción temprana NZD 25. Traer comida. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/lets-learn-makey-makey/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20261215-20261215-2026-12-15-short · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 15:00 · 2026-12-15–2026-12-15
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-15 — 2026-12-15
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20261215-20261215-2026-12-15-long · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 17:00 · 2026-12-15–2026-12-15
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-15 — 2026-12-15
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20261216-20261216-2026-12-16-short · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 15:00 · 2026-12-16–2026-12-16
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-16 — 2026-12-16
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20261216-20261216-2026-12-16-long · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 17:00 · 2026-12-16–2026-12-16
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-16 — 2026-12-16
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20261217-20261217-2026-12-17-short · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 15:00 · 2026-12-17–2026-12-17
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-17 — 2026-12-17
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20261217-20261217-2026-12-17-long · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 17:00 · 2026-12-17–2026-12-17
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-17 — 2026-12-17
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20261222-20261222-2026-12-22-short · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 15:00 · 2026-12-22–2026-12-22
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-22 — 2026-12-22
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20261222-20261222-2026-12-22-long · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 17:00 · 2026-12-22–2026-12-22
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-22 — 2026-12-22
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270107-20270107-2027-01-07-short · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 15:00 · 2027-01-07–2027-01-07
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-07 — 2027-01-07
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270107-20270107-2027-01-07-long · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 17:00 · 2027-01-07–2027-01-07
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-07 — 2027-01-07
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270112-20270112-2027-01-12-short · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 15:00 · 2027-01-12–2027-01-12
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-12 — 2027-01-12
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270112-20270112-2027-01-12-long · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 17:00 · 2027-01-12–2027-01-12
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-12 — 2027-01-12
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270113-20270113-2027-01-13-short · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 15:00 · 2027-01-13–2027-01-13
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-13 — 2027-01-13
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270113-20270113-2027-01-13-long · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 17:00 · 2027-01-13–2027-01-13
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-13 — 2027-01-13
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270114-20270114-2027-01-14-short · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 15:00 · 2027-01-14–2027-01-14
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-14 — 2027-01-14
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270114-20270114-2027-01-14-long · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 17:00 · 2027-01-14–2027-01-14
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-14 — 2027-01-14
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270119-20270119-2027-01-19-short · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 15:00 · 2027-01-19–2027-01-19
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-19 — 2027-01-19
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270119-20270119-2027-01-19-long · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 17:00 · 2027-01-19–2027-01-19
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-19 — 2027-01-19
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270120-20270120-2027-01-20-short · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 15:00 · 2027-01-20–2027-01-20
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-20 — 2027-01-20
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270120-20270120-2027-01-20-long · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 17:00 · 2027-01-20–2027-01-20
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-20 — 2027-01-20
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270121-20270121-2027-01-21-short · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 15:00 · 2027-01-21–2027-01-21
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-21 — 2027-01-21
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270121-20270121-2027-01-21-long · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 17:00 · 2027-01-21–2027-01-21
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-21 — 2027-01-21
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270126-20270126-2027-01-26-short · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 15:00 · 2027-01-26–2027-01-26
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-26 — 2027-01-26
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270126-20270126-2027-01-26-long · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 17:00 · 2027-01-26–2027-01-26
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-26 — 2027-01-26
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270127-20270127-2027-01-27-short · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 15:00 · 2027-01-27–2027-01-27
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-27 — 2027-01-27
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270127-20270127-2027-01-27-long · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 17:00 · 2027-01-27–2027-01-27
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-27 — 2027-01-27
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270128-20270128-2027-01-28-short · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 15:00 · 2027-01-28–2027-01-28
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-28 — 2027-01-28
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1885-20270128-20270128-2027-01-28-long · SCRATCHPAD · Minecraft Modding Junior · Día de 09:00 a 17:00 · 2027-01-28–2027-01-28
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-28 — 2027-01-28
+edad: Desde 7 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 7 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-modding-junior/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20261215-20261215-2026-12-15-short · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 15:00 · 2026-12-15–2026-12-15
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-15 — 2026-12-15
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20261215-20261215-2026-12-15-long · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 17:00 · 2026-12-15–2026-12-15
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-15 — 2026-12-15
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20261216-20261216-2026-12-16-short · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 15:00 · 2026-12-16–2026-12-16
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-16 — 2026-12-16
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20261216-20261216-2026-12-16-long · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 17:00 · 2026-12-16–2026-12-16
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-16 — 2026-12-16
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20261217-20261217-2026-12-17-short · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 15:00 · 2026-12-17–2026-12-17
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-17 — 2026-12-17
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20261217-20261217-2026-12-17-long · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 17:00 · 2026-12-17–2026-12-17
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-17 — 2026-12-17
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20261222-20261222-2026-12-22-short · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 15:00 · 2026-12-22–2026-12-22
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-22 — 2026-12-22
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20261222-20261222-2026-12-22-long · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 17:00 · 2026-12-22–2026-12-22
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2026-12-22 — 2026-12-22
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270107-20270107-2027-01-07-short · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 15:00 · 2027-01-07–2027-01-07
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-07 — 2027-01-07
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270107-20270107-2027-01-07-long · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 17:00 · 2027-01-07–2027-01-07
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-07 — 2027-01-07
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270112-20270112-2027-01-12-short · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 15:00 · 2027-01-12–2027-01-12
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-12 — 2027-01-12
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270112-20270112-2027-01-12-long · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 17:00 · 2027-01-12–2027-01-12
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-12 — 2027-01-12
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270113-20270113-2027-01-13-short · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 15:00 · 2027-01-13–2027-01-13
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-13 — 2027-01-13
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270113-20270113-2027-01-13-long · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 17:00 · 2027-01-13–2027-01-13
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-13 — 2027-01-13
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270114-20270114-2027-01-14-short · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 15:00 · 2027-01-14–2027-01-14
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-14 — 2027-01-14
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270114-20270114-2027-01-14-long · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 17:00 · 2027-01-14–2027-01-14
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-14 — 2027-01-14
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270119-20270119-2027-01-19-short · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 15:00 · 2027-01-19–2027-01-19
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-19 — 2027-01-19
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270119-20270119-2027-01-19-long · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 17:00 · 2027-01-19–2027-01-19
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-19 — 2027-01-19
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270120-20270120-2027-01-20-short · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 15:00 · 2027-01-20–2027-01-20
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-20 — 2027-01-20
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270120-20270120-2027-01-20-long · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 17:00 · 2027-01-20–2027-01-20
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-20 — 2027-01-20
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270121-20270121-2027-01-21-short · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 15:00 · 2027-01-21–2027-01-21
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-21 — 2027-01-21
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270121-20270121-2027-01-21-long · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 17:00 · 2027-01-21–2027-01-21
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-21 — 2027-01-21
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270126-20270126-2027-01-26-short · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 15:00 · 2027-01-26–2027-01-26
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-26 — 2027-01-26
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270126-20270126-2027-01-26-long · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 17:00 · 2027-01-26–2027-01-26
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-26 — 2027-01-26
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270127-20270127-2027-01-27-short · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 15:00 · 2027-01-27–2027-01-27
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-27 — 2027-01-27
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270127-20270127-2027-01-27-long · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 17:00 · 2027-01-27–2027-01-27
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-27 — 2027-01-27
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270128-20270128-2027-01-28-short · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 15:00 · 2027-01-28–2027-01-28
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-28 — 2027-01-28
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1886-20270128-20270128-2027-01-28-long · SCRATCHPAD · Minecraft Develop Your Own Mods · Día de 09:00 a 17:00 · 2027-01-28–2027-01-28
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-28 — 2027-01-28
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/minecraft-develop-mods/
+Se ha comprobado: 2026-11-07
+
+### CP1887-20270127-20270127-2027-01-27-short · SCRATCHPAD · GameMaker · Día de 09:00 a 15:00 · 2027-01-27–2027-01-27
+
+Lugar: Nueva Zelandia Auckland · elegir sede
+Fecha: 2027-01-27 — 2027-01-27
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/school-holiday-programme-building-games-gamemaker-kids/
+Se ha comprobado: 2026-11-07
+
+### CP1887-20270127-20270127-2027-01-27-long · SCRATCHPAD · GameMaker · Día de 09:00 a 17:00 · 2027-01-27–2027-01-27
+
+Lugar: Nueva Zelandia Auckland · elegir sede
+Fecha: 2027-01-27 — 2027-01-27
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/school-holiday-programme-building-games-gamemaker-kids/
+Se ha comprobado: 2026-11-07
+
+### CP1888-20270113-20270113-2027-01-13-short · SCRATCHPAD · Python · Día de 09:00 a 15:00 · 2027-01-13–2027-01-13
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-13 — 2027-01-13
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/develop-websites-using-python/
+Se ha comprobado: 2026-11-07
+
+### CP1888-20270113-20270113-2027-01-13-long · SCRATCHPAD · Python · Día de 09:00 a 17:00 · 2027-01-13–2027-01-13
+
+Lugar: Nueva Zelandia Auckland / Christchurch · elegir sede
+Fecha: 2027-01-13 — 2027-01-13
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/develop-websites-using-python/
+Se ha comprobado: 2026-11-07
+
+### CP1889-20270120-20270120-2027-01-20-short · SCRATCHPAD · Developing Websites · Día de 09:00 a 15:00 · 2027-01-20–2027-01-20
+
+Lugar: Nueva Zelandia Auckland · elegir sede
+Fecha: 2027-01-20 — 2027-01-20
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 110 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/introduction-developing-websites/
+Se ha comprobado: 2026-11-07
+
+### CP1889-20270120-20270120-2027-01-20-long · SCRATCHPAD · Developing Websites · Día de 09:00 a 17:00 · 2027-01-20–2027-01-20
+
+Lugar: Nueva Zelandia Auckland · elegir sede
+Fecha: 2027-01-20 — 2027-01-20
+Edad: 9 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NZD 120 por menor y día con GST. · suplementos y condiciones en el dossier
+Acceso: Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+Limitaciones: Matvey: Sí por edad. Confirmar sede, plazas y nivel de inglés. Oscar: No. Edad mínima publicada de 9 años. Suplementos: GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede. Pago: Consultar las condiciones de cancelación del operador antes de pagar.
+Fuente: https://scratchpad.co.nz/product/introduction-developing-websites/
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

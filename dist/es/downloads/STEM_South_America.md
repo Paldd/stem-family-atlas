@@ -3441,6 +3441,162 @@ Limitaciones: Las fechas corresponden a la fase en Cajicá. No se indica la hora
 Fuente: https://www.tdrobotica.co/makex-2026
 Se ha comprobado: 2026-11-07
 
+### E476 · XIX Olimpiadas de Robótica · Cúcuta · visita
+
+Fecha: 2026-12-11 — 2026-12-12
+edad: La muestra está abierta al público según las preguntas frecuentes. No se indican precio de entrada ni condiciones de zonas específicas.
+Matvey: Sí según la regla de acceso público. Confirmar el programa del día elegido.
+Oscar: Sí según la regla de acceso público. Confirmar el programa del día elegido.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: La muestra está abierta al público según las preguntas frecuentes. No se indican precio de entrada ni condiciones de zonas específicas.
+Precio: Las preguntas frecuentes no indican tarifa para espectadores.
+Limitaciones: Zona de eventos del centro comercial junto a la tienda Adidas. Cada disciplina tiene su propio horario.
+Fuente: https://olimpiadasroboticaup.com/
+Se ha comprobado: 2026-11-07
+
+### C3501 · XIX Olimpiadas de Robótica · Exhibición Junior
+
+Fecha: 2026-12-11 — 2026-12-12
+edad: Escolares, estudiantes de centros técnicos, aficionados y universitarios de 1.º a 5.º semestre. Todos deben cumplir el nivel Junior.
+Matvey: Condicional. Se incluye a escolares. Confirmar edad mínima y acceso de equipos extranjeros.
+Oscar: Condicional. Se incluye a escolares. Confirmar edad mínima y acceso de equipos extranjeros.
+Idioma: Reglamento y página en español. Confirmar el idioma de la defensa en la categoría elegida.
+Acceso: Un adulto inscribe al menor. Se requiere acompañamiento y autorización de su representante legal.
+Precio: COP 70000 por equipo del 1 al 30 de noviembre. COP 90000 por equipo del 1 al 8 de diciembre.
+Limitaciones: La inscripción se aprueba al validar el pago. Desde el inicio del pago hay 5 días para enviar el comprobante dentro del plazo general.
+Fuente: https://olimpiadasroboticaup.com/reglamentos/EX-JR.pdf
+Se ha comprobado: 2026-11-07
+
+### C3502 · XIX Olimpiadas de Robótica · Robótica I · Manipuladores
+
+Fecha: 2026-12-11 — 2026-12-12
+edad: Alumnado de escuelas y centros afines. El reglamento no fija un umbral numérico de edad.
+Matvey: Condicional. Se incluye a escolares. Confirmar edad mínima y acceso de equipos extranjeros.
+Oscar: Condicional. Se incluye a escolares. Confirmar edad mínima y acceso de equipos extranjeros.
+Idioma: Reglamento y página en español. Confirmar el idioma de la defensa en la categoría elegida.
+Acceso: Un adulto inscribe al menor. Se requiere acompañamiento y autorización de su representante legal.
+Precio: COP 100000 por equipo del 1 al 30 de noviembre. COP 120000 por equipo del 1 al 8 de diciembre.
+Limitaciones: La inscripción se aprueba al validar el pago. Desde el inicio del pago hay 5 días para enviar el comprobante dentro del plazo general.
+Fuente: https://olimpiadasroboticaup.com/reglamentos/EX-ROB1.pdf
+Se ha comprobado: 2026-11-07
+
+### C3503 · XIX Olimpiadas de Robótica · Robótica II · Visión Artificial
+
+Fecha: 2026-12-11 — 2026-12-12
+edad: Alumnado de escuelas y centros afines. El reglamento no fija un umbral numérico de edad.
+Matvey: Condicional. Se incluye a escolares. Confirmar edad mínima y acceso de equipos extranjeros.
+Oscar: Condicional. Se incluye a escolares. Confirmar edad mínima y acceso de equipos extranjeros.
+Idioma: Reglamento y página en español. Confirmar el idioma de la defensa en la categoría elegida.
+Acceso: Un adulto inscribe al menor. Se requiere acompañamiento y autorización de su representante legal.
+Precio: COP 110000 por equipo del 1 al 30 de noviembre. COP 130000 por equipo del 1 al 8 de diciembre.
+Limitaciones: La inscripción se aprueba al validar el pago. Desde el inicio del pago hay 5 días para enviar el comprobante dentro del plazo general.
+Fuente: https://olimpiadasroboticaup.com/reglamentos/EX-ROB2.pdf
+Se ha comprobado: 2026-11-07
+
+### C3504 · XIX Olimpiadas de Robótica · Exhibición Ecoestructuras
+
+Fecha: 2026-12-11 — 2026-12-12
+edad: Estudiantes de 3.º a 6.º semestre de grado en mecatrónica y otras carreras.
+Matvey: No por el nivel escolar actual. El reglamento exige formación de la especialidad o participación en un grupo de investigación.
+Oscar: No por el nivel escolar actual. El reglamento exige formación de la especialidad o participación en un grupo de investigación.
+Idioma: Reglamento y página en español. Confirmar el idioma de la defensa en la categoría elegida.
+Acceso: Un adulto inscribe al menor. Se requiere acompañamiento y autorización de su representante legal.
+Precio: COP 60000 por equipo del 1 al 30 de noviembre. COP 80000 por equipo del 1 al 8 de diciembre.
+Limitaciones: La inscripción se aprueba al validar el pago. Desde el inicio del pago hay 5 días para enviar el comprobante dentro del plazo general.
+Fuente: https://olimpiadasroboticaup.com/reglamentos/EX-ECO.pdf
+Se ha comprobado: 2026-11-07
+
+### C3505 · XIX Olimpiadas de Robótica · Exhibición Control
+
+Fecha: 2026-12-11 — 2026-12-12
+edad: Educación superior, SENA o grupo de investigación afín.
+Matvey: No por el nivel escolar actual. El reglamento exige formación de la especialidad o participación en un grupo de investigación.
+Oscar: No por el nivel escolar actual. El reglamento exige formación de la especialidad o participación en un grupo de investigación.
+Idioma: Reglamento y página en español. Confirmar el idioma de la defensa en la categoría elegida.
+Acceso: Un adulto inscribe al menor. Se requiere acompañamiento y autorización de su representante legal.
+Precio: COP 90000 por equipo del 1 al 30 de noviembre. COP 110000 por equipo del 1 al 8 de diciembre.
+Limitaciones: La inscripción se aprueba al validar el pago. Desde el inicio del pago hay 5 días para enviar el comprobante dentro del plazo general.
+Fuente: https://olimpiadasroboticaup.com/reglamentos/EX-CTRL.pdf
+Se ha comprobado: 2026-11-07
+
+### C3506 · XIX Olimpiadas de Robótica · Exhibición Senior
+
+Fecha: 2026-12-11 — 2026-12-12
+edad: El nivel Senior se determina por formación o experiencia desde 24 meses. Hasta el 50% del equipo puede ser Junior. El participante individual debe ser Senior.
+Matvey: Condicional solo dentro de un equipo Senior. La organización debe confirmar la clasificación de cada menor.
+Oscar: Condicional solo dentro de un equipo Senior. La organización debe confirmar la clasificación de cada menor.
+Idioma: Reglamento y página en español. Confirmar el idioma de la defensa en la categoría elegida.
+Acceso: Un adulto inscribe al menor. Se requiere acompañamiento y autorización de su representante legal.
+Precio: COP 90000 por equipo del 1 al 30 de noviembre. COP 110000 por equipo del 1 al 8 de diciembre.
+Limitaciones: La inscripción se aprueba al validar el pago. Desde el inicio del pago hay 5 días para enviar el comprobante dentro del plazo general.
+Fuente: https://olimpiadasroboticaup.com/reglamentos/EX-SR.pdf
+Se ha comprobado: 2026-11-07
+
+### C3507 · XIX Olimpiadas de Robótica · WalkBot Race
+
+Fecha: 2026-12-11 — 2026-12-12
+edad: Desde 10 años.
+Matvey: No. Edad mínima publicada de 10 años.
+Oscar: No. Edad mínima publicada de 10 años.
+Idioma: Reglamento y página en español. Confirmar el idioma de la defensa en la categoría elegida.
+Acceso: Un adulto inscribe al menor. Se requiere acompañamiento y autorización de su representante legal.
+Precio: COP 60000 por equipo del 1 al 30 de noviembre. COP 80000 por equipo del 1 al 8 de diciembre.
+Limitaciones: La inscripción se aprueba al validar el pago. Desde el inicio del pago hay 5 días para enviar el comprobante dentro del plazo general.
+Fuente: https://olimpiadasroboticaup.com/reglamentos/CO-WALK.pdf
+Se ha comprobado: 2026-11-07
+
+### C3508 · XIX Olimpiadas de Robótica · Balancín Seguidor de Línea
+
+Fecha: 2026-12-11 — 2026-12-12
+edad: Desde 15 años.
+Matvey: No. Edad mínima publicada de 15 años.
+Oscar: No. Edad mínima publicada de 15 años.
+Idioma: Reglamento y página en español. Confirmar el idioma de la defensa en la categoría elegida.
+Acceso: Un adulto inscribe al menor. Se requiere acompañamiento y autorización de su representante legal.
+Precio: COP 90000 por equipo del 1 al 30 de noviembre. COP 110000 por equipo del 1 al 8 de diciembre.
+Limitaciones: La inscripción se aprueba al validar el pago. Desde el inicio del pago hay 5 días para enviar el comprobante dentro del plazo general.
+Fuente: https://olimpiadasroboticaup.com/reglamentos/CO-BAL.pdf
+Se ha comprobado: 2026-11-07
+
+### C3509 · XIX Olimpiadas de Robótica · Sumo 500 g
+
+Fecha: 2026-12-11 — 2026-12-12
+edad: Mayor de 15 años según la redacción del reglamento.
+Matvey: No. El reglamento exige una edad superior a 15 años.
+Oscar: No. El reglamento exige una edad superior a 15 años.
+Idioma: Reglamento y página en español. Confirmar el idioma de la defensa en la categoría elegida.
+Acceso: Un adulto inscribe al menor. Se requiere acompañamiento y autorización de su representante legal.
+Precio: COP 90000 por equipo del 1 al 30 de noviembre. COP 110000 por equipo del 1 al 8 de diciembre.
+Limitaciones: La inscripción se aprueba al validar el pago. Desde el inicio del pago hay 5 días para enviar el comprobante dentro del plazo general.
+Fuente: https://olimpiadasroboticaup.com/reglamentos/CO-SUMO.pdf
+Se ha comprobado: 2026-11-07
+
+### C3510 · XIX Olimpiadas de Robótica · Seguidor de Línea Velocista
+
+Fecha: 2026-12-11 — 2026-12-12
+edad: Desde 12 años.
+Matvey: No. Edad mínima publicada de 12 años.
+Oscar: No. Edad mínima publicada de 12 años.
+Idioma: Reglamento y página en español. Confirmar el idioma de la defensa en la categoría elegida.
+Acceso: Un adulto inscribe al menor. Se requiere acompañamiento y autorización de su representante legal.
+Precio: COP 100000 por equipo del 1 al 30 de noviembre. COP 120000 por equipo del 1 al 8 de diciembre.
+Limitaciones: La inscripción se aprueba al validar el pago. Desde el inicio del pago hay 5 días para enviar el comprobante dentro del plazo general.
+Fuente: https://olimpiadasroboticaup.com/reglamentos/CO-SLV.pdf
+Se ha comprobado: 2026-11-07
+
+### L722 · Deltronic · Club de Robótica · Liceo Los Delfines
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Desde 8 años para alumnado de Liceo Los Delfines.
+Matvey: Condicional. Edad adecuada. Se requiere admisión del colegio.
+Oscar: No. Edad mínima de 8 años.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Club del colegio. Confirmar horario, coste y acceso de alumnado de otros centros.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: La página del colegio indica la edad. Las fechas y el acceso a torneos requieren reglas propias.
+Fuente: https://liceolosdelfines.edu.ec/club-de-robotica-deltronic-programacion-y-mecanica-desde-cero/
+Se ha comprobado: 2026-11-07
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

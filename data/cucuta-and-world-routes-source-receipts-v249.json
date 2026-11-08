@@ -1,0 +1,318 @@
+{
+  "captures": [
+    {
+      "key": "co-xix-olimpiadas-cali",
+      "url": "https://olimpiadasroboticaup.com/",
+      "checked_at": "2026-11-08T01:04:18.797577+00:00",
+      "status": 200,
+      "final_url": "https://olimpiadasroboticaup.com/",
+      "bytes": 122824,
+      "sha256": "ca1a67c9acfae18e387db3307aa154ff5988779062f43b7c2f2d5ba1bee1b764",
+      "transport": "curl"
+    },
+    {
+      "key": "co-xix-organizer",
+      "url": "https://olimpiadasroboticaup.com/quienes-somos",
+      "checked_at": "2026-11-08T01:04:59.155838+00:00",
+      "status": 200,
+      "final_url": "https://olimpiadasroboticaup.com/quienes-somos",
+      "bytes": 26826,
+      "sha256": "31b8e7b86631861832ff23a1d0c053b9481ac3c939fe6e9e6c64c7b5eadddaa1",
+      "transport": "curl"
+    },
+    {
+      "key": "co-xix-rules",
+      "url": "https://olimpiadasroboticaup.com/reglamentos",
+      "checked_at": "2026-11-08T01:04:59.154177+00:00",
+      "status": 200,
+      "final_url": "https://olimpiadasroboticaup.com/reglamentos",
+      "bytes": 45125,
+      "sha256": "b6efb5838e072a84ff80e8fefdf4c84d7f3c5570a4350ef8379b883a87ea650e",
+      "transport": "curl"
+    },
+    {
+      "key": "co-rule-ex-jr",
+      "url": "https://olimpiadasroboticaup.com/reglamentos/EX-JR.pdf",
+      "checked_at": "2026-11-08T01:05:44.229057+00:00",
+      "status": 200,
+      "final_url": "https://olimpiadasroboticaup.com/reglamentos/EX-JR.pdf",
+      "bytes": 561744,
+      "sha256": "435f06a63c163ae45898a31d55350c0baf573ea33cf4805df18ab2eeda08ae0c",
+      "transport": "curl"
+    },
+    {
+      "key": "co-xix-terms",
+      "url": "https://olimpiadasroboticaup.com/terminos",
+      "checked_at": "2026-11-08T01:04:59.154427+00:00",
+      "status": 200,
+      "final_url": "https://olimpiadasroboticaup.com/terminos",
+      "bytes": 34835,
+      "sha256": "a142e82b63066bd79f6353971b7fbbb7313cb7b10ee6e6aff2238183894ff042",
+      "transport": "curl"
+    },
+    {
+      "key": "co-rule-ex-rob1",
+      "url": "https://olimpiadasroboticaup.com/reglamentos/EX-ROB1.pdf",
+      "checked_at": "2026-11-08T01:05:44.231490+00:00",
+      "status": 200,
+      "final_url": "https://olimpiadasroboticaup.com/reglamentos/EX-ROB1.pdf",
+      "bytes": 528547,
+      "sha256": "b260dc6dc2dab75213bdde4a6f462944d042134c943b71ef489a4c140948e31c",
+      "transport": "curl"
+    },
+    {
+      "key": "co-rule-ex-rob2",
+      "url": "https://olimpiadasroboticaup.com/reglamentos/EX-ROB2.pdf",
+      "checked_at": "2026-11-08T01:08:02.828197+00:00",
+      "status": 200,
+      "final_url": "https://olimpiadasroboticaup.com/reglamentos/EX-ROB2.pdf",
+      "bytes": 656128,
+      "sha256": "b82e7e3d8b40af4bd2909347fe773e38195bd08b9bb0b88dbeb26564caceeb0c",
+      "transport": "curl"
+    },
+    {
+      "key": "co-rule-ex-eco",
+      "url": "https://olimpiadasroboticaup.com/reglamentos/EX-ECO.pdf",
+      "checked_at": "2026-11-08T01:08:02.823256+00:00",
+      "status": 200,
+      "final_url": "https://olimpiadasroboticaup.com/reglamentos/EX-ECO.pdf",
+      "bytes": 1141036,
+      "sha256": "9f939c433be6143f6d754337d3c7d39cda235c7ec9d910b77501787a258219c1",
+      "transport": "curl"
+    },
+    {
+      "key": "co-rule-ex-ctrl",
+      "url": "https://olimpiadasroboticaup.com/reglamentos/EX-CTRL.pdf",
+      "checked_at": "2026-11-08T01:08:02.822971+00:00",
+      "status": 200,
+      "final_url": "https://olimpiadasroboticaup.com/reglamentos/EX-CTRL.pdf",
+      "bytes": 543176,
+      "sha256": "28a7d3cae8e2ee1b3a3f3401ef8c89e14b6cdc99b58322bdbcbcd80857b92ffd",
+      "transport": "curl"
+    },
+    {
+      "key": "co-rule-ex-sr",
+      "url": "https://olimpiadasroboticaup.com/reglamentos/EX-SR.pdf",
+      "checked_at": "2026-11-08T01:08:02.831116+00:00",
+      "status": 200,
+      "final_url": "https://olimpiadasroboticaup.com/reglamentos/EX-SR.pdf",
+      "bytes": 580999,
+      "sha256": "857209672f8261a43a917a23b6e4e7de286132ce77a94908c15a72336c664f6a",
+      "transport": "curl"
+    },
+    {
+      "key": "co-rule-co-walk",
+      "url": "https://olimpiadasroboticaup.com/reglamentos/CO-WALK.pdf",
+      "checked_at": "2026-11-08T01:05:44.224324+00:00",
+      "status": 200,
+      "final_url": "https://olimpiadasroboticaup.com/reglamentos/CO-WALK.pdf",
+      "bytes": 769993,
+      "sha256": "cbc88b73d9b4dc93ed1bd2beb357a9a3e413760b68049484b236eabf40349ef2",
+      "transport": "curl"
+    },
+    {
+      "key": "co-rule-co-bal",
+      "url": "https://olimpiadasroboticaup.com/reglamentos/CO-BAL.pdf",
+      "checked_at": "2026-11-08T01:05:44.222193+00:00",
+      "status": 200,
+      "final_url": "https://olimpiadasroboticaup.com/reglamentos/CO-BAL.pdf",
+      "bytes": 1082823,
+      "sha256": "824345b58df369e1090d1e4caf4568fd16125457ab6b547ca330fdaf5aa356a1",
+      "transport": "curl"
+    },
+    {
+      "key": "co-rule-co-sumo",
+      "url": "https://olimpiadasroboticaup.com/reglamentos/CO-SUMO.pdf",
+      "checked_at": "2026-11-08T01:05:44.224078+00:00",
+      "status": 200,
+      "final_url": "https://olimpiadasroboticaup.com/reglamentos/CO-SUMO.pdf",
+      "bytes": 454894,
+      "sha256": "1d47beeb101049909f37c9f7785e3d64ce1f1d4a67f2c56e90c949ff6b61eb03",
+      "transport": "curl"
+    },
+    {
+      "key": "co-rule-co-slv",
+      "url": "https://olimpiadasroboticaup.com/reglamentos/CO-SLV.pdf",
+      "checked_at": "2026-11-08T01:05:44.222604+00:00",
+      "status": 200,
+      "final_url": "https://olimpiadasroboticaup.com/reglamentos/CO-SLV.pdf",
+      "bytes": 438080,
+      "sha256": "ade51a9d44dff92febf7a5a747b5a533e41c3b4611f39b1caa8f0719ca262822",
+      "transport": "curl"
+    },
+    {
+      "key": "sg-geoconnect-visit",
+      "url": "https://www.geoconnectasia.com/visit",
+      "checked_at": "2026-11-08T01:18:42.111808+00:00",
+      "status": 200,
+      "final_url": "https://www.geoconnectasia.com/visit",
+      "bytes": 244462,
+      "sha256": "2e21d5504ad0f7d3a45fc718f3b59ac583aea1c325681e68078c164ef7f0c651",
+      "transport": "curl"
+    },
+    {
+      "key": "sg-geoconnect-main",
+      "url": "https://www.geoconnectasia.com/",
+      "checked_at": "2026-11-08T01:18:42.124366+00:00",
+      "status": 200,
+      "final_url": "https://www.geoconnectasia.com/",
+      "bytes": 215761,
+      "sha256": "c1b8cd26631dcb368022e81850c25614f78c2e2af1632d389388d3666e5dd225",
+      "transport": "curl"
+    },
+    {
+      "key": "png-orica-reader",
+      "url": "https://www.orica.com/en/news-and-media/blog/2026/building-lasting-stem-capability-in-papua-new-guinea",
+      "checked_at": "2026-11-08",
+      "transport": "official_page_web_reader",
+      "direct_status": 403,
+      "evidence_scope": "Archived 2026 two-week programme across four Lae schools, coding, micro:bit resources, and final STEM Fair at Lae International School. Article 10 September, exact programme days not stated."
+    },
+    {
+      "key": "png-stempunks-org",
+      "url": "https://www.stempunks.com.au/",
+      "checked_at": "2026-11-08T01:18:42.155912+00:00",
+      "status": 200,
+      "final_url": "https://www.stempunks.com.au/",
+      "bytes": 1248184,
+      "sha256": "63b8ad833f81e6a453490f605a504040ec34b8f5b167131fa32f41e42478db25",
+      "transport": "curl"
+    },
+    {
+      "key": "png-laloki-reader",
+      "url": "https://www.pnglng.com/Newsroom/Media-Release/Laloki-youth-take-flight-in-coding-and-drone-class",
+      "checked_at": "2026-11-08",
+      "transport": "official_page_web_reader",
+      "direct_status": 403,
+      "evidence_scope": "Archived local youth holiday workshop for 37 learners, three weeks, games, robot building and drone piloting. No current dates or individual admission rule."
+    },
+    {
+      "key": "plw-ocean-fall-reader",
+      "url": "https://picrc.org/palau-international-coral-reef-center-hosts-ocean-explorers-program-for-eighth-grade-students/",
+      "checked_at": "2026-11-08",
+      "transport": "official_page_web_reader",
+      "direct_status": 403,
+      "evidence_scope": "Report 13 October 2025 for a 3.5-day cohort in the week of 29 September, 16 pupils in Grade 8, building and operating miniature ROVs."
+    },
+    {
+      "key": "ec-deltronic-club",
+      "url": "https://liceolosdelfines.edu.ec/club-de-robotica-deltronic-programacion-y-mecanica-desde-cero/",
+      "checked_at": "2026-11-08T01:18:42.143053+00:00",
+      "status": 200,
+      "final_url": "https://liceolosdelfines.edu.ec/club-de-robotica-deltronic-programacion-y-mecanica-desde-cero/",
+      "bytes": 140916,
+      "sha256": "d18c3d443345b9bf207e32a6eb776d772648410ab2c6c9c36790fec71931dd2e",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-code-the-bot",
+      "url": "https://scratchpad.co.nz/product/code-the-bot/",
+      "checked_at": "2026-11-08T01:05:46.950133+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/product/code-the-bot/",
+      "bytes": 406190,
+      "sha256": "6ca653eae44e5be3435030bf60db969274854bf3474170a28d9724b14fdbe0e0",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-summer",
+      "url": "https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/",
+      "checked_at": "2026-11-08T00:52:04.102181+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/",
+      "bytes": 773351,
+      "sha256": "395f4a6f1fc7d6291cace13e5bde7dd43f0f19c65109098a50f9ce1bf859521e",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-terms",
+      "url": "https://scratchpad.co.nz/registration-terms-conditions/",
+      "checked_at": "2026-11-08T00:55:05.186285+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/registration-terms-conditions/",
+      "bytes": 341573,
+      "sha256": "225c29b63e813845bdb1de8f9c2f081636816b8921dffa7e96f647b949b9f3d9",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-lets-learn-3d-printing",
+      "url": "https://scratchpad.co.nz/product/lets-learn-3d-printing/",
+      "checked_at": "2026-11-08T01:05:52.466113+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/product/lets-learn-3d-printing/",
+      "bytes": 389829,
+      "sha256": "a666ea0dc1167f4bdb92ccf3c451cabaa5332f2de0640200c23c890743372113",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-learn-to-code-using-scratch",
+      "url": "https://scratchpad.co.nz/product/learn-to-code-using-scratch/",
+      "checked_at": "2026-11-08T01:05:52.360066+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/product/learn-to-code-using-scratch/",
+      "bytes": 398903,
+      "sha256": "10fe165277bd30993ddbc766cc135571363f108d06f603fc673f74fa34940c7d",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-lets-learn-makey-makey",
+      "url": "https://scratchpad.co.nz/product/lets-learn-makey-makey/",
+      "checked_at": "2026-11-08T01:05:53.969211+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/product/lets-learn-makey-makey/",
+      "bytes": 399539,
+      "sha256": "5c0964bd97ff1c1beaa0a04a58e1f99a1587d84c560814c693c1455f6d18a14b",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-minecraft-modding-junior",
+      "url": "https://scratchpad.co.nz/product/minecraft-modding-junior/",
+      "checked_at": "2026-11-08T01:05:55.673370+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/product/minecraft-modding-junior/",
+      "bytes": 408430,
+      "sha256": "58ba1eedef4fd12f3d4c60fe7cb030d21117148383685df36625cad0377da97d",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-minecraft-develop-mods",
+      "url": "https://scratchpad.co.nz/product/minecraft-develop-mods/",
+      "checked_at": "2026-11-08T01:05:54.892006+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/product/minecraft-develop-mods/",
+      "bytes": 400057,
+      "sha256": "19d6ec2dd3bda28540a2299530c7d06cb64e5088b4a3513a6aa5968c0a085b8d",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-school-holiday-programme-building-games-gamemaker-kids",
+      "url": "https://scratchpad.co.nz/product/school-holiday-programme-building-games-gamemaker-kids/",
+      "checked_at": "2026-11-08T01:05:55.736555+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/product/school-holiday-programme-building-games-gamemaker-kids/",
+      "bytes": 393097,
+      "sha256": "c33c8ec44da7418152469d730291fb779c0ac7314b11b46a56117d4f2864ae88",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-develop-websites-using-python",
+      "url": "https://scratchpad.co.nz/product/develop-websites-using-python/",
+      "checked_at": "2026-11-08T01:05:46.957128+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/product/develop-websites-using-python/",
+      "bytes": 383918,
+      "sha256": "d94ca224f818d973cbbf6125b07f360675e2569b11c929639fe00b4770216996",
+      "transport": "curl"
+    },
+    {
+      "key": "nz-scratchpad-introduction-developing-websites",
+      "url": "https://scratchpad.co.nz/product/introduction-developing-websites/",
+      "checked_at": "2026-11-08T01:05:51.063674+00:00",
+      "status": 200,
+      "final_url": "https://scratchpad.co.nz/product/introduction-developing-websites/",
+      "bytes": 385965,
+      "sha256": "53fe0de789327de105dc3e06afcfc643955a55dae6c5402d76cb77faf7410f07",
+      "transport": "curl"
+    }
+  ]
+}

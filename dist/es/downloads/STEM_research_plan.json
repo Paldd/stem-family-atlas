@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 248,
+    "version": 249,
     "status": "implementation_snapshot",
-    "events": 8702,
-    "competitions": 3499,
+    "events": 8801,
+    "competitions": 3509,
     "league_profiles": 288,
-    "camp_dossiers": 1882,
+    "camp_dossiers": 1889,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 475
+    "exhibitions_events": 478
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -927,12 +927,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 247,
+    "version": 248,
     "status": "implementation_snapshot",
-    "events": 8621,
-    "competitions": 3497,
+    "events": 8702,
+    "competitions": 3499,
     "league_profiles": 288,
-    "camp_dossiers": 1877,
+    "camp_dossiers": 1882,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -942,7 +942,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 473
+    "exhibitions_events": 475
   },
   "research_passes": [
     {
@@ -13759,10 +13759,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 248,
+    "prepared_ui_version": 249,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 247,
-    "previous_verified_commit": "9142ebab141442d4f7ad54c0e3ff61a949e87a38"
+    "previous_verified_ui_version": 248,
+    "previous_verified_commit": "9523fb960587eb79bea3df773dd7cc27b784c643"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20809,11 +20809,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 247,
-    "published_version": 247,
-    "latest_source_commit": "9142ebab141442d4f7ad54c0e3ff61a949e87a38",
-    "published_commit": "9142ebab141442d4f7ad54c0e3ff61a949e87a38",
-    "latest_workflow": 42431194357,
+    "latest_source_version": 248,
+    "published_version": 248,
+    "latest_source_commit": "9523fb960587eb79bea3df773dd7cc27b784c643",
+    "published_commit": "9523fb960587eb79bea3df773dd7cc27b784c643",
+    "latest_workflow": 42432808328,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -24290,5 +24290,63 @@
     ],
     "audit": "data/frontier-and-holidays-audit-v248.json",
     "source_receipts": "data/frontier-and-holidays-source-receipts-v248.json"
+  },
+  "cucuta_and_world_routes_v249": {
+    "version": 249,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E476",
+      "C3501",
+      "C3502",
+      "C3503",
+      "C3504",
+      "C3505",
+      "C3506",
+      "C3507",
+      "C3508",
+      "C3509",
+      "C3510",
+      "E477",
+      "L719",
+      "E478",
+      "L720",
+      "L721",
+      "L722"
+    ],
+    "refreshed_events": [
+      "L717"
+    ],
+    "new_camp_dossiers": {
+      "scratchpad-nz-learn-to-code-using-scratch-2026-27": "CP1883",
+      "scratchpad-nz-lets-learn-makey-makey-2026-27": "CP1884",
+      "scratchpad-nz-minecraft-modding-junior-2026-27": "CP1885",
+      "scratchpad-nz-minecraft-develop-mods-2026-27": "CP1886",
+      "scratchpad-nz-school-holiday-programme-building-games-gamemaker-kids-2026-27": "CP1887",
+      "scratchpad-nz-develop-websites-using-python-2026-27": "CP1888",
+      "scratchpad-nz-introduction-developing-websites-2026-27": "CP1889"
+    },
+    "refreshed_camp_dossiers": [
+      "CP1271",
+      "CP1274"
+    ],
+    "new_camp_options": 82,
+    "new_geographic_coverage": [
+      "PNG"
+    ],
+    "source_requests": 32,
+    "notes": [
+      "Plazo general de preinscripción y pago hasta el 8 de diciembre de 2026, 23:59 en Colombia. Zona horaria America/Bogota.",
+      "Un adulto inscribe al menor. Se requiere acompañamiento y autorización de su representante legal.",
+      "Dos días de Olimpiadas. El día y la hora de cada disciplina quedan pendientes del programa de la organización.",
+      "La muestra está abierta al público según las preguntas frecuentes. No se indican precio de entrada ni condiciones de zonas específicas.",
+      "Acceso ordinario desde 18 años. Excepciones solo por acuerdo previo con la organización.",
+      "Archivo de un programa escolar local. La convocatoria actual y el acceso externo requieren un nuevo anuncio.",
+      "El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción."
+    ],
+    "audit": "data/cucuta-and-world-routes-audit-v249.json",
+    "source_receipts": "data/cucuta-and-world-routes-source-receipts-v249.json"
   }
 }

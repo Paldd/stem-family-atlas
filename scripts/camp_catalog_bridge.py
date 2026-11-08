@@ -101,7 +101,7 @@ RELATED['englishsummer-tech']=['L006']
 RELATED['ucr-pacific-archive']=['L120']
 RELATED['ecolint-intro-robotics']=['L296']
 RELATED['imdatbot-ashgabat-summer']=['L711']
-RELATED['picrc-ocean-explorers']=['L717']
+RELATED['picrc-ocean-explorers']=['L717','L721']
 REUSE_DATES['ecolint-intro-robotics']=['L296']
 RELATED.update({slug:['L012'] for slug in ['funtech-mod-day','funtech-redstone-day','funtech-tonbridge-board']})
 # Undated programme cards cross-reference their source dossiers without creating sessions.

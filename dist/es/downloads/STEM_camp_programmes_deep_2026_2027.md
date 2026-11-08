@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1882 fichas en 123 países. Cada ficha indica cuándo se comprobó cada fuente.
+Estado de la base: 2026-11-07. 1889 fichas en 123 países. Cada ficha indica cuándo se comprobó cada fuente.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -99054,47 +99054,83 @@ Nueva Zelanda · Auckland / Christchurch · elegir sede
 
 ## CP1271 · SCRATCHPAD · mBot Robotics
 
-Nueva Zelanda · Auckland / Christchurch · elegir centro y franja concretos
+Nueva Zelanda · Auckland · elegir sede
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-07
 
-* Edad:** 7+
+**edad:** Desde 7 años.
 
-**Idioma:** Terms propios Course Delivery explícitos: enseñanza en inglés, exige English escrito / hablado y participación en discusiones / presentaciones grupales. EN acreditado para enseñanza, no solo web.
+**Idioma:** Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
 
-**Programa:** Holiday workshop técnico corto. Coding 5+ es introducción; mBot programa sensores, obstáculos y línea; Edison robótica; AI creación de relato en vídeo; 3D modelado e impresión. Evaluar nivel tras tres años de competiciones por separado.
+**Programa:** Sensores y movimiento autónomo de mBot. Se puede usar un kit propio o alquilarlo.
 
 **Alojamiento:** Programa diurno sin residencia.
 
-**Fechas / estado:** Calendario holiday general contiene December / January sin año; product options reales difieren en algunos casos del calendario. AI product indica SEP 29, lista general JAN 26. Año y disponibilidad de variantes sin confirmar; sin fechas operativas.
+**Fechas / estado:** Días sueltos en enero de 2027. Fechas deducidas de las semanas y cotejadas con la ficha.
 
-**Precio / año:** sin establecer · Rango de product options NZD 110–160, GST incluido. Duración 09–15 / 09–17, drop-off temprano y alquiler de robot cambian paquete; no tarifa única ni garantía de plaza.
+**Precio / año:** 2027 · Con kit propio, NZD 110 hasta las 15:00 o NZD 120 hasta las 17:00. GST incluido.
 
-**Incluido:** Confirmar equipo y materiales de opción elegida; mBot / Edison tienen Bring Your Own o Rent. Alquiler y compra de robot son condiciones distintas.
+**Incluido:** Traer comida y merienda. La recepción temprana tiene coste.
 
-**Suplementos:** Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero.
+**Suplementos:** Alquiler de mBot por NZD 15 adicionales al día. Recepción temprana NZD 25. Traer comida.
 
-**Pago:** Holiday policy: cancelación hasta 7 días — devolución menos NZD 25; dentro de 7 días sin devolución. Ausencias sin devolución; enfermedad inesperada puede dar crédito por 6 meses. Otra sección describe evaluación tras primer día con aviso 6 horas antes del segundo; acordar aplicación a programa de un día. Contrato sin aceptar.
+**Pago:** Consultar las condiciones de cancelación del operador antes de pagar.
 
-**Matvey:** Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+**Matvey:** Sí por edad. Confirmar sede, plazas y nivel de inglés.
 
-**Oscar:** Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+**Oscar:** No. Edad mínima publicada de 7 años.
 
-**Motivo de selección:** Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.
+**Motivo de selección:** El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.
 
 ### Antes de solicitar plaza
 
-- Confirmar admisión extranjera individual, idioma, nivel tras tres años de competiciones, plaza y factura completa. Sin formularios enviados, consentimientos, mensajes, reservas ni pagos.
+- La disponibilidad del curso en cada sede y día depende del formulario de inscripción.
 
-- Comprobar año y variante concretos: parte de variantes JSON indica out of stock, no cierre de toda red. Sin añadir nada al carrito.
+- Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes.
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-15 — 2027-01-15
+
+**lugar:** Auckland · elegir sede
+
+**Precio:** NZD 110 por menor con kit propio, GST incluido.
+
+**Suplementos:** Alquiler de mBot por NZD 15 adicionales al día. Recepción temprana NZD 25. Traer comida.
+
+**condiciones de participación:** Elegir sede y duración. Confirmar plaza, idioma y disponibilidad del kit si se necesita alquiler.
+
+- 2027-01-15 · 09:00–15:00 · Pacific/Auckland · Sensores y movimiento autónomo de mBot. Se puede usar un kit propio o alquilarlo.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/code-the-bot/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-15 — 2027-01-15
+
+**lugar:** Auckland · elegir sede
+
+**Precio:** NZD 120 por menor con kit propio, GST incluido.
+
+**Suplementos:** Alquiler de mBot por NZD 15 adicionales al día. Recepción temprana NZD 25. Traer comida.
+
+**condiciones de participación:** Elegir sede y duración. Confirmar plaza, idioma y disponibilidad del kit si se necesita alquiler.
+
+- 2027-01-15 · 09:00–17:00 · Pacific/Auckland · Sensores y movimiento autónomo de mBot. Se puede usar un kit propio o alquilarlo.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/code-the-bot/)
 
 ### Fuentes
 
-- [mBot Robotics](https://scratchpad.co.nz/product/code-the-bot/) · 2026-11-05
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/product/code-the-bot/) · 2026-11-07
 
-- [Categorías de edad del calendario holiday general](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-05
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-07
 
-- [Enseñanza inglesa y holiday cancellation](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-05
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-07
 
 ## CP1272 · SCRATCHPAD · Edison Robotics
 
@@ -99258,47 +99294,227 @@ Nueva Zelanda · Auckland / Christchurch · elegir centro y franja concretos
 
 ## CP1274 · SCRATCHPAD · 3D Printing
 
-Nueva Zelanda · Auckland / Christchurch · elegir centro y franja concretos
+Nueva Zelanda · Auckland / Christchurch · elegir sede
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-07
 
-* Edad:** 7+
+**edad:** Desde 7 años.
 
-**Idioma:** Terms propios Course Delivery explícitos: enseñanza en inglés, exige English escrito / hablado y participación en discusiones / presentaciones grupales. EN acreditado para enseñanza, no solo web.
+**Idioma:** Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
 
-**Programa:** Holiday workshop técnico corto. Coding 5+ es introducción; mBot programa sensores, obstáculos y línea; Edison robótica; AI creación de relato en vídeo; 3D modelado e impresión. Evaluar nivel tras tres años de competiciones por separado.
+**Programa:** Diseño y fabricación de modelos con impresora 3D.
 
 **Alojamiento:** Programa diurno sin residencia.
 
-**Fechas / estado:** Calendario holiday general contiene December / January sin año; product options reales difieren en algunos casos del calendario. AI product indica SEP 29, lista general JAN 26. Año y disponibilidad de variantes sin confirmar; sin fechas operativas.
+**Fechas / estado:** Días sueltos en diciembre de 2026 y enero de 2027. Fechas deducidas de las semanas y cotejadas con la ficha.
 
-**Precio / año:** sin establecer · Rango de product options NZD 110–145, GST incluido. Duración 09–15 / 09–17, drop-off temprano y alquiler de robot cambian paquete; no tarifa única ni garantía de plaza.
+**Precio / año:** sin establecer · NZD 110 por menor hasta las 15:00 o NZD 120 hasta las 17:00. GST incluido.
 
-**Incluido:** Confirmar equipo y materiales de opción elegida; mBot / Edison tienen Bring Your Own o Rent. Alquiler y compra de robot son condiciones distintas.
+**Incluido:** Traer comida y merienda. La recepción temprana tiene coste.
 
-**Suplementos:** Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero.
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
 
-**Pago:** Holiday policy: cancelación hasta 7 días — devolución menos NZD 25; dentro de 7 días sin devolución. Ausencias sin devolución; enfermedad inesperada puede dar crédito por 6 meses. Otra sección describe evaluación tras primer día con aviso 6 horas antes del segundo; acordar aplicación a programa de un día. Contrato sin aceptar.
+**Pago:** Consultar las condiciones de cancelación del operador antes de pagar.
 
-**Matvey:** Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+**Matvey:** Sí por edad. Confirmar sede, plazas y nivel de inglés.
 
-**Oscar:** Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
+**Oscar:** No. Edad mínima publicada de 7 años.
 
-**Motivo de selección:** Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.
+**Motivo de selección:** El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.
 
 ### Antes de solicitar plaza
 
-- Confirmar admisión extranjera individual, idioma, nivel tras tres años de competiciones, plaza y factura completa. Sin formularios enviados, consentimientos, mensajes, reservas ni pagos.
+- La disponibilidad del curso en cada sede y día depende del formulario de inscripción.
 
-- Comprobar año y variante concretos: parte de variantes JSON indica out of stock, no cierre de toda red. Sin añadir nada al carrito.
+- Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes.
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-18 — 2026-12-18
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-18 · 09:00–15:00 · Pacific/Auckland · Diseño y fabricación de modelos con impresora 3D.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/lets-learn-3d-printing/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-18 — 2026-12-18
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-18 · 09:00–17:00 · Pacific/Auckland · Diseño y fabricación de modelos con impresora 3D.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/lets-learn-3d-printing/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-08 — 2027-01-08
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-08 · 09:00–15:00 · Pacific/Auckland · Diseño y fabricación de modelos con impresora 3D.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/lets-learn-3d-printing/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-08 — 2027-01-08
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-08 · 09:00–17:00 · Pacific/Auckland · Diseño y fabricación de modelos con impresora 3D.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/lets-learn-3d-printing/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-15 — 2027-01-15
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-15 · 09:00–15:00 · Pacific/Auckland · Diseño y fabricación de modelos con impresora 3D.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/lets-learn-3d-printing/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-15 — 2027-01-15
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-15 · 09:00–17:00 · Pacific/Auckland · Diseño y fabricación de modelos con impresora 3D.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/lets-learn-3d-printing/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-22 — 2027-01-22
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-22 · 09:00–15:00 · Pacific/Auckland · Diseño y fabricación de modelos con impresora 3D.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/lets-learn-3d-printing/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-22 — 2027-01-22
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-22 · 09:00–17:00 · Pacific/Auckland · Diseño y fabricación de modelos con impresora 3D.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/lets-learn-3d-printing/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-29 — 2027-01-29
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-29 · 09:00–15:00 · Pacific/Auckland · Diseño y fabricación de modelos con impresora 3D.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/lets-learn-3d-printing/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-29 — 2027-01-29
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-29 · 09:00–17:00 · Pacific/Auckland · Diseño y fabricación de modelos con impresora 3D.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/lets-learn-3d-printing/)
 
 ### Fuentes
 
-- [3D Printing](https://scratchpad.co.nz/product/lets-learn-3d-printing/) · 2026-11-05
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/product/lets-learn-3d-printing/) · 2026-11-07
 
-- [Categorías de edad del calendario holiday general](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-05
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-07
 
-- [Enseñanza inglesa y holiday cancellation](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-05
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-07
 
 ## CP1275 · Tōtara Springs · Senior Kids Camp
 
@@ -149329,6 +149545,1574 @@ Singapur · Tampines / Kovan / Bishan / Bukit Timah · elegir sede
 ### Fuentes
 
 - [Página o reglamento oficial de la organización.](https://www.littleeartheducation.com/holiday-programmes) · 2026-11-07
+
+## CP1883 · SCRATCHPAD · Scratch
+
+Nueva Zelanda · Auckland / Christchurch · elegir sede
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 7 años.
+
+**Idioma:** Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+
+**Programa:** Bases de Scratch y proyecto interactivo propio.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Días sueltos en enero de 2027. Fechas deducidas de las semanas y cotejadas con la ficha.
+
+**Precio / año:** 2027 · NZD 110 por menor hasta las 15:00 o NZD 120 hasta las 17:00. GST incluido.
+
+**Incluido:** Traer comida y merienda. La recepción temprana tiene coste.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**Pago:** Consultar las condiciones de cancelación del operador antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar sede, plazas y nivel de inglés.
+
+**Oscar:** No. Edad mínima publicada de 7 años.
+
+**Motivo de selección:** El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.
+
+### Antes de solicitar plaza
+
+- La disponibilidad del curso en cada sede y día depende del formulario de inscripción.
+
+- Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes.
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-06 — 2027-01-06
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-06 · 09:00–15:00 · Pacific/Auckland · Bases de Scratch y proyecto interactivo propio.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/learn-to-code-using-scratch/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-06 — 2027-01-06
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-06 · 09:00–17:00 · Pacific/Auckland · Bases de Scratch y proyecto interactivo propio.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/learn-to-code-using-scratch/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-18 — 2027-01-18
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-18 · 09:00–15:00 · Pacific/Auckland · Bases de Scratch y proyecto interactivo propio.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/learn-to-code-using-scratch/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-18 — 2027-01-18
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-18 · 09:00–17:00 · Pacific/Auckland · Bases de Scratch y proyecto interactivo propio.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/learn-to-code-using-scratch/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-25 — 2027-01-25
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-25 · 09:00–15:00 · Pacific/Auckland · Bases de Scratch y proyecto interactivo propio.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/learn-to-code-using-scratch/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-25 — 2027-01-25
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-25 · 09:00–17:00 · Pacific/Auckland · Bases de Scratch y proyecto interactivo propio.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/learn-to-code-using-scratch/)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/product/learn-to-code-using-scratch/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-07
+
+## CP1884 · SCRATCHPAD · Makey Makey
+
+Nueva Zelanda · Auckland · elegir sede
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 7 años.
+
+**Idioma:** Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+
+**Programa:** Proyectos interactivos con Makey Makey y materiales conductores.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Días sueltos en enero de 2027. Fechas deducidas de las semanas y cotejadas con la ficha.
+
+**Precio / año:** 2027 · Con kit propio, NZD 110 hasta las 15:00 o NZD 120 hasta las 17:00. GST incluido.
+
+**Incluido:** Traer comida y merienda. La recepción temprana tiene coste.
+
+**Suplementos:** Alquiler de Makey Makey por NZD 10 adicionales al día. Recepción temprana NZD 25. Traer comida.
+
+**Pago:** Consultar las condiciones de cancelación del operador antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar sede, plazas y nivel de inglés.
+
+**Oscar:** No. Edad mínima publicada de 7 años.
+
+**Motivo de selección:** El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.
+
+### Antes de solicitar plaza
+
+- La disponibilidad del curso en cada sede y día depende del formulario de inscripción.
+
+- Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes.
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-11 — 2027-01-11
+
+**lugar:** Auckland · elegir sede
+
+**Precio:** NZD 110 por menor con kit propio, GST incluido.
+
+**Suplementos:** Alquiler de Makey Makey por NZD 10 adicionales al día. Recepción temprana NZD 25. Traer comida.
+
+**condiciones de participación:** Elegir sede y duración. Confirmar plaza, idioma y disponibilidad del kit si se necesita alquiler.
+
+- 2027-01-11 · 09:00–15:00 · Pacific/Auckland · Proyectos interactivos con Makey Makey y materiales conductores.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/lets-learn-makey-makey/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-11 — 2027-01-11
+
+**lugar:** Auckland · elegir sede
+
+**Precio:** NZD 120 por menor con kit propio, GST incluido.
+
+**Suplementos:** Alquiler de Makey Makey por NZD 10 adicionales al día. Recepción temprana NZD 25. Traer comida.
+
+**condiciones de participación:** Elegir sede y duración. Confirmar plaza, idioma y disponibilidad del kit si se necesita alquiler.
+
+- 2027-01-11 · 09:00–17:00 · Pacific/Auckland · Proyectos interactivos con Makey Makey y materiales conductores.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/lets-learn-makey-makey/)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/product/lets-learn-makey-makey/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-07
+
+## CP1885 · SCRATCHPAD · Minecraft Modding Junior
+
+Nueva Zelanda · Auckland / Christchurch · elegir sede
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 7 años.
+
+**Idioma:** Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+
+**Programa:** Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Días sueltos en diciembre de 2026 y enero de 2027. Fechas deducidas de las semanas y cotejadas con la ficha.
+
+**Precio / año:** sin establecer · NZD 110 por menor hasta las 15:00 o NZD 120 hasta las 17:00. GST incluido.
+
+**Incluido:** Traer comida y merienda. La recepción temprana tiene coste.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**Pago:** Consultar las condiciones de cancelación del operador antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar sede, plazas y nivel de inglés.
+
+**Oscar:** No. Edad mínima publicada de 7 años.
+
+**Motivo de selección:** El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.
+
+### Antes de solicitar plaza
+
+- La disponibilidad del curso en cada sede y día depende del formulario de inscripción.
+
+- Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes.
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-15 — 2026-12-15
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-15 · 09:00–15:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-15 — 2026-12-15
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-15 · 09:00–17:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-16 — 2026-12-16
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-16 · 09:00–15:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-16 — 2026-12-16
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-16 · 09:00–17:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-17 — 2026-12-17
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-17 · 09:00–15:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-17 — 2026-12-17
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-17 · 09:00–17:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-22 · 09:00–15:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-22 · 09:00–17:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-07 — 2027-01-07
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-07 · 09:00–15:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-07 — 2027-01-07
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-07 · 09:00–17:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-12 — 2027-01-12
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-12 · 09:00–15:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-12 — 2027-01-12
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-12 · 09:00–17:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-13 — 2027-01-13
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-13 · 09:00–15:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-13 — 2027-01-13
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-13 · 09:00–17:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-14 — 2027-01-14
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-14 · 09:00–15:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-14 — 2027-01-14
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-14 · 09:00–17:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-19 · 09:00–15:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-19 · 09:00–17:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-20 — 2027-01-20
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-20 · 09:00–15:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-20 — 2027-01-20
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-20 · 09:00–17:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-21 · 09:00–15:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-21 · 09:00–17:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-26 — 2027-01-26
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-26 · 09:00–15:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-26 — 2027-01-26
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-26 · 09:00–17:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-27 · 09:00–15:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-27 · 09:00–17:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-28 — 2027-01-28
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-28 · 09:00–15:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-28 — 2027-01-28
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-28 · 09:00–17:00 · Pacific/Auckland · Itinerario inicial de modificaciones de Minecraft y programación por bloques.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-modding-junior/)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/product/minecraft-modding-junior/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-07
+
+## CP1886 · SCRATCHPAD · Minecraft Develop Your Own Mods
+
+Nueva Zelanda · Auckland / Christchurch · elegir sede
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 9 años.
+
+**Idioma:** Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+
+**Programa:** Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Días sueltos en diciembre de 2026 y enero de 2027. Fechas deducidas de las semanas y cotejadas con la ficha.
+
+**Precio / año:** sin establecer · NZD 110 por menor hasta las 15:00 o NZD 120 hasta las 17:00. GST incluido.
+
+**Incluido:** Traer comida y merienda. La recepción temprana tiene coste.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**Pago:** Consultar las condiciones de cancelación del operador antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar sede, plazas y nivel de inglés.
+
+**Oscar:** No. Edad mínima publicada de 9 años.
+
+**Motivo de selección:** El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.
+
+### Antes de solicitar plaza
+
+- La disponibilidad del curso en cada sede y día depende del formulario de inscripción.
+
+- Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes.
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-15 — 2026-12-15
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-15 · 09:00–15:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-15 — 2026-12-15
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-15 · 09:00–17:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-16 — 2026-12-16
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-16 · 09:00–15:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-16 — 2026-12-16
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-16 · 09:00–17:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-17 — 2026-12-17
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-17 · 09:00–15:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-17 — 2026-12-17
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-17 · 09:00–17:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-22 · 09:00–15:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2026-12-22 — 2026-12-22
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2026-12-22 · 09:00–17:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-07 — 2027-01-07
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-07 · 09:00–15:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-07 — 2027-01-07
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-07 · 09:00–17:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-12 — 2027-01-12
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-12 · 09:00–15:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-12 — 2027-01-12
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-12 · 09:00–17:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-13 — 2027-01-13
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-13 · 09:00–15:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-13 — 2027-01-13
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-13 · 09:00–17:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-14 — 2027-01-14
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-14 · 09:00–15:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-14 — 2027-01-14
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-14 · 09:00–17:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-19 · 09:00–15:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-19 · 09:00–17:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-20 — 2027-01-20
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-20 · 09:00–15:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-20 — 2027-01-20
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-20 · 09:00–17:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-21 · 09:00–15:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-21 — 2027-01-21
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-21 · 09:00–17:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-26 — 2027-01-26
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-26 · 09:00–15:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-26 — 2027-01-26
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-26 · 09:00–17:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-27 · 09:00–15:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-27 · 09:00–17:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-28 — 2027-01-28
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-28 · 09:00–15:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-28 — 2027-01-28
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-28 · 09:00–17:00 · Pacific/Auckland · Creación de modificaciones propias de Minecraft y comprobación de su funcionamiento.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/minecraft-develop-mods/)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/product/minecraft-develop-mods/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-07
+
+## CP1887 · SCRATCHPAD · GameMaker
+
+Nueva Zelanda · Auckland · elegir sede
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 9 años.
+
+**Idioma:** Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+
+**Programa:** Creación de un juego con reglas, personajes y pruebas en GameMaker.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Días sueltos en enero de 2027. Fechas deducidas de las semanas y cotejadas con la ficha.
+
+**Precio / año:** 2027 · NZD 110 por menor hasta las 15:00 o NZD 120 hasta las 17:00. GST incluido.
+
+**Incluido:** Traer comida y merienda. La recepción temprana tiene coste.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**Pago:** Consultar las condiciones de cancelación del operador antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar sede, plazas y nivel de inglés.
+
+**Oscar:** No. Edad mínima publicada de 9 años.
+
+**Motivo de selección:** El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.
+
+### Antes de solicitar plaza
+
+- La disponibilidad del curso en cada sede y día depende del formulario de inscripción.
+
+- Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes.
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**lugar:** Auckland · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-27 · 09:00–15:00 · Pacific/Auckland · Creación de un juego con reglas, personajes y pruebas en GameMaker.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/school-holiday-programme-building-games-gamemaker-kids/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-27 — 2027-01-27
+
+**lugar:** Auckland · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-27 · 09:00–17:00 · Pacific/Auckland · Creación de un juego con reglas, personajes y pruebas en GameMaker.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/school-holiday-programme-building-games-gamemaker-kids/)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/product/school-holiday-programme-building-games-gamemaker-kids/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-07
+
+## CP1888 · SCRATCHPAD · Python
+
+Nueva Zelanda · Auckland / Christchurch · elegir sede
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 9 años.
+
+**Idioma:** Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+
+**Programa:** Programación inicial en Python y ejercicios prácticos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Días sueltos en enero de 2027. Fechas deducidas de las semanas y cotejadas con la ficha.
+
+**Precio / año:** 2027 · NZD 110 por menor hasta las 15:00 o NZD 120 hasta las 17:00. GST incluido.
+
+**Incluido:** Traer comida y merienda. La recepción temprana tiene coste.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**Pago:** Consultar las condiciones de cancelación del operador antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar sede, plazas y nivel de inglés.
+
+**Oscar:** No. Edad mínima publicada de 9 años.
+
+**Motivo de selección:** El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.
+
+### Antes de solicitar plaza
+
+- La disponibilidad del curso en cada sede y día depende del formulario de inscripción.
+
+- Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes.
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-13 — 2027-01-13
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-13 · 09:00–15:00 · Pacific/Auckland · Programación inicial en Python y ejercicios prácticos.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/develop-websites-using-python/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-13 — 2027-01-13
+
+**lugar:** Auckland / Christchurch · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-13 · 09:00–17:00 · Pacific/Auckland · Programación inicial en Python y ejercicios prácticos.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/develop-websites-using-python/)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/product/develop-websites-using-python/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-07
+
+## CP1889 · SCRATCHPAD · Developing Websites
+
+Nueva Zelanda · Auckland · elegir sede
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Desde 9 años.
+
+**Idioma:** Enseñanza en inglés. Se exige inglés oral y escrito para el trabajo en grupo.
+
+**Programa:** Proyecto web inicial y creación de una página.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Días sueltos en enero de 2027. Fechas deducidas de las semanas y cotejadas con la ficha.
+
+**Precio / año:** 2027 · NZD 110 por menor hasta las 15:00 o NZD 120 hasta las 17:00. GST incluido.
+
+**Incluido:** Traer comida y merienda. La recepción temprana tiene coste.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**Pago:** Consultar las condiciones de cancelación del operador antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar sede, plazas y nivel de inglés.
+
+**Oscar:** No. Edad mínima publicada de 9 años.
+
+**Motivo de selección:** El año se deduce de la cuadrícula de días laborables y de la actualización 04.11.2026. Días y horas cotejados con las opciones de inscripción.
+
+### Antes de solicitar plaza
+
+- La disponibilidad del curso en cada sede y día depende del formulario de inscripción.
+
+- Varias combinaciones de St Lukes figuran completas. Confirmar disponibilidad de otras sedes.
+
+### Día de 09:00 a 15:00
+
+**Fechas / estado:** 2027-01-20 — 2027-01-20
+
+**lugar:** Auckland · elegir sede
+
+**Precio:** NZD 110 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-20 · 09:00–15:00 · Pacific/Auckland · Proyecto web inicial y creación de una página.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/introduction-developing-websites/)
+
+### Día de 09:00 a 17:00
+
+**Fechas / estado:** 2027-01-20 — 2027-01-20
+
+**lugar:** Auckland · elegir sede
+
+**Precio:** NZD 120 por menor y día con GST.
+
+**Suplementos:** GST incluido. Recepción temprana NZD 25 según la ficha del curso. Confirmar total al elegir sede.
+
+**condiciones de participación:** Elegir día, duración y sede. Confirmar plaza y admisión del menor con el operador.
+
+- 2027-01-20 · 09:00–17:00 · Pacific/Auckland · Proyecto web inicial y creación de una página.
+
+**Disponibilidad de plazas:** La indicación de la web corresponde a la opción. La plaza se comprueba al elegir sede.
+
+[fuente](https://scratchpad.co.nz/product/introduction-developing-websites/)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/product/introduction-developing-websites/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/after-school-coding-programmes/school-holiday-programme/) · 2026-11-07
+
+- [Página o reglamento oficial de la organización.](https://scratchpad.co.nz/registration-terms-conditions/) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

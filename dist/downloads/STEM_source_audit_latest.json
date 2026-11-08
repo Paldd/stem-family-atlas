@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8702,
-    "competition_cards": 3499,
-    "event_cards": 475,
-    "camp_cards": 4728,
+    "cards": 8801,
+    "competition_cards": 3509,
+    "event_cards": 478,
+    "camp_cards": 4814,
     "league_profiles": 288,
-    "major_exhibition_cards": 378,
+    "major_exhibition_cards": 381,
     "vex_cards": 522,
-    "countries_with_records": 206,
+    "countries_with_records": 207,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 487,
+      "total": 499,
       "countries_with_records": 13,
-      "competitions": 255,
-      "events": 35,
-      "major_exhibitions": 31,
-      "camps": 197,
+      "competitions": 265,
+      "events": 36,
+      "major_exhibitions": 32,
+      "camps": 198,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -90,11 +90,11 @@
       "regions": [
         "Азия"
       ],
-      "total": 2570,
+      "total": 2571,
       "countries_with_records": 48,
       "competitions": 863,
-      "events": 127,
-      "major_exhibitions": 114,
+      "events": 128,
+      "major_exhibitions": 115,
       "camps": 1580,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
@@ -104,12 +104,12 @@
       "regions": [
         "Океания"
       ],
-      "total": 411,
-      "countries_with_records": 14,
+      "total": 497,
+      "countries_with_records": 15,
       "competitions": 140,
-      "events": 30,
-      "major_exhibitions": 26,
-      "camps": 241,
+      "events": 31,
+      "major_exhibitions": 27,
+      "camps": 326,
       "status": "Частично исследовано",
       "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
     }
@@ -11699,6 +11699,39 @@
       "new": false
     },
     {
+      "id": "E476",
+      "name": "XIX Olimpiadas de Robótica · Cúcuta · visita",
+      "country": "Колумбия",
+      "region": "Южная Америка",
+      "start": "2026-12-11",
+      "end": "2026-12-12",
+      "visitor_policy": "family",
+      "source": "https://olimpiadasroboticaup.com/",
+      "new": false
+    },
+    {
+      "id": "E477",
+      "name": "Geo Connect Asia · Drones & Uncrewed Asia 2027",
+      "country": "Сингапур",
+      "region": "Азия",
+      "start": "2027-03-17",
+      "end": "2027-03-18",
+      "visitor_policy": "adults_only",
+      "source": "https://www.geoconnectasia.com/visit",
+      "new": false
+    },
+    {
+      "id": "E478",
+      "name": "STEM Fair and Student Showcase · Lae International School 2026",
+      "country": "Папуа-Новая Гвинея",
+      "region": "Океания",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.orica.com/en/news-and-media/blog/2026/building-lasting-stem-capability-in-papua-new-guinea",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -14116,20 +14149,20 @@
       }
     ],
     "counts": {
-      "records": 4728,
-      "holiday": 4410,
-      "regular": 149,
+      "records": 4814,
+      "holiday": 4492,
+      "regular": 150,
       "self_paced_materials": 2,
       "boarding": 1036,
-      "en_es_instruction": 1497,
+      "en_es_instruction": 1579,
       "en_es_support": 27,
-      "family_instruction": 1497,
+      "family_instruction": 1579,
       "family_support": 27,
       "ru_instruction": 4,
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 130
+      "countries": 131
     },
     "validation": {
       "version": 51,
