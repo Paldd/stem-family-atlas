@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10719,
+    "cards": 10731,
     "competition_cards": 4788,
-    "event_cards": 649,
+    "event_cards": 661,
     "camp_cards": 5282,
     "league_profiles": 309,
-    "major_exhibition_cards": 550,
+    "major_exhibition_cards": 562,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3475,
+      "total": 3478,
       "countries_with_records": 41,
       "competitions": 1960,
-      "events": 183,
-      "major_exhibitions": 142,
+      "events": 186,
+      "major_exhibitions": 145,
       "camps": 1332,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -48,11 +48,11 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 726,
+      "total": 727,
       "countries_with_records": 15,
       "competitions": 443,
-      "events": 53,
-      "major_exhibitions": 49,
+      "events": 54,
+      "major_exhibitions": 50,
       "camps": 230,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
@@ -62,11 +62,11 @@
       "regions": [
         "Европа"
       ],
-      "total": 2320,
+      "total": 2324,
       "countries_with_records": 55,
       "competitions": 629,
-      "events": 157,
-      "major_exhibitions": 132,
+      "events": 161,
+      "major_exhibitions": 136,
       "camps": 1534,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
@@ -90,11 +90,11 @@
       "regions": [
         "Азия"
       ],
-      "total": 3048,
+      "total": 3051,
       "countries_with_records": 50,
       "competitions": 1175,
-      "events": 168,
-      "major_exhibitions": 155,
+      "events": 171,
+      "major_exhibitions": 158,
       "camps": 1705,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
@@ -104,11 +104,11 @@
       "regions": [
         "Океания"
       ],
-      "total": 537,
+      "total": 538,
       "countries_with_records": 27,
       "competitions": 167,
-      "events": 34,
-      "major_exhibitions": 30,
+      "events": 35,
+      "major_exhibitions": 31,
       "camps": 336,
       "status": "Частично исследовано",
       "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
@@ -14965,6 +14965,138 @@
       "end": "2026-12-12",
       "visitor_policy": "family",
       "source": "https://generacion.com/",
+      "new": false
+    },
+    {
+      "id": "E650",
+      "name": "ATLife 2027 · Assistive Technology for Life",
+      "country": "Тайвань",
+      "region": "Азия",
+      "start": "2027-05-13",
+      "end": "2027-05-16",
+      "visitor_policy": "family",
+      "source": "https://www.chanchao.com.tw/Atlife/visitor.asp",
+      "new": false
+    },
+    {
+      "id": "E651",
+      "name": "FAIR plus 2027 · Fair of AI and Robotics",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "2027-04-21",
+      "end": "2027-04-23",
+      "visitor_policy": "adults_only",
+      "source": "https://fairplus.cn/en/about-fairplus/",
+      "new": false
+    },
+    {
+      "id": "E652",
+      "name": "ATC Shanghai Expo 2027 · Robot Application & Export",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "2027-06-03",
+      "end": "2027-06-05",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.atc-autoexpo.com/en/visit/get-ticket",
+      "new": false
+    },
+    {
+      "id": "E653",
+      "name": "DreamHack Birmingham 2027 · Gaming Expo",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "start": "2027-04-02",
+      "end": "2027-04-04",
+      "visitor_policy": "family",
+      "source": "https://dreamhack.com/birmingham/",
+      "new": false
+    },
+    {
+      "id": "E654",
+      "name": "London Games Festival 2027",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "start": "2027-04-12",
+      "end": "2027-04-19",
+      "visitor_policy": "confirm_children",
+      "source": "https://festival.games.london/",
+      "new": false
+    },
+    {
+      "id": "E655",
+      "name": "GDC Festival of Gaming 2027 · Festival Hall",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-03-02",
+      "end": "2027-03-04",
+      "visitor_policy": "adults_only",
+      "source": "https://gdconf.com/festival-hall/",
+      "new": false
+    },
+    {
+      "id": "E656",
+      "name": "Super MAGFest 2027 · Music And Gaming Festival",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-01-07",
+      "end": "2027-01-10",
+      "visitor_policy": "family",
+      "source": "https://super.magfest.org/",
+      "new": false
+    },
+    {
+      "id": "E657",
+      "name": "Cambridge Festival 2027 · Family Weekend",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "start": "2027-03-13",
+      "end": "2027-03-14",
+      "visitor_policy": "family",
+      "source": "https://www.festival.cam.ac.uk/news/cambridge-festival-community-funding",
+      "new": false
+    },
+    {
+      "id": "E658",
+      "name": "Edinburgh Science Festival 2027 · Dreamers",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "start": "2027-04-03",
+      "end": "2027-04-18",
+      "visitor_policy": "family",
+      "source": "https://www.edinburghscience.co.uk/festival/",
+      "new": false
+    },
+    {
+      "id": "E659",
+      "name": "EXPOCONVENTION Punta del Este 2027 · Gaming",
+      "country": "Уругвай",
+      "region": "Южная Америка",
+      "start": "2027-04-17",
+      "end": "2027-04-18",
+      "visitor_policy": "family",
+      "source": "https://boleteria.redtickets.uy/evento/EXPOCONVENTION--Punta-del-Este-2027/32743/",
+      "new": false
+    },
+    {
+      "id": "E660",
+      "name": "MEGA XP 2027 · Juegos de mesa y diseño de juegos",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2027-04-24",
+      "end": "2027-04-25",
+      "visitor_policy": "confirm_children",
+      "source": "https://megaxp.com.mx/edicion-2027/",
+      "new": false
+    },
+    {
+      "id": "E661",
+      "name": "World Science Festival Brisbane 2027 · Public Programme",
+      "country": "Австралия",
+      "region": "Океания",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://worldsciencefestival.com.au/",
       "new": false
     },
     {

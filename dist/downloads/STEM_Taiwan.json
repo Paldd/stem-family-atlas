@@ -637,7 +637,7 @@
         "2027-08-06",
         "2027-08-07"
       ],
-      "child_entry": "Посетителей младше 12 лет не допускают. Сопровождение взрослого не даёт исключения.",
+      "child_entry": "С 12 лет. Посетители младше 12 лет не проходят даже в сопровождении.",
       "exhibitors": [
         "HIWIN",
         "Techman Robot",
@@ -645,6 +645,9 @@
         "Dexmart",
         "Swancor Robotech",
         "Mitsubishi Electric Automation Taiwan"
+      ],
+      "related_ids": [
+        "E650"
       ]
     },
     {
@@ -5042,6 +5045,124 @@
       "delivery_mode": "in_person",
       "public_days": [],
       "visitor_age_min": 12
+    },
+    {
+      "id": "E650",
+      "title": "ATLife 2027 · Assistive Technology for Life",
+      "block": "События",
+      "country": "Тайвань",
+      "region": "Азия",
+      "iso": [
+        "TWN"
+      ],
+      "city": "Taipei · Nangang Exhibition Center, Hall 1",
+      "start": "2027-05-13",
+      "end": "2027-05-16",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.chanchao.com.tw/Atlife/visitor.asp",
+      "references": [
+        {
+          "url": "https://www.chanchao.com.tw/atlife/en/visitor.asp",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.chanchao.com.tw/ATLife/visitorBoothEvent.asp",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей выпуска или правилами посещения.",
+      "status": "Идея",
+      "age": "До 12 лет включительно ребёнок проходит без предварительной регистрации. На стойке нужно удостоверение с датой рождения и контактные данные.",
+      "mat": "Да. Семейный вход предусмотрен. Условия отдельных активностей сверить по программе.",
+      "osc": "Да. Семейный вход предусмотрен. Условия отдельных активностей сверить по программе.",
+      "format": "Посещение выставки",
+      "entry": "Для посетителей 13–64 лет нужна индивидуальная регистрация с QR. На стойке также указан дневной пропуск за 300 TWD.",
+      "gear": "",
+      "language": "Сведения организатора на китайском. Английский на отдельных стендах уточнить.",
+      "languages": [
+        "ZH"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Сведения организатора на китайском. Английский на отдельных стендах уточнить.",
+      "cost": "Организатор предлагает вход по предварительной регистрации. Дневной пропуск на стойке стоит 300 TWD.",
+      "level": "Международная выставка",
+      "reward": "",
+      "priority": "P2 — семейная поездка по программе",
+      "action": "До 12 лет включительно ребёнок проходит без предварительной регистрации. На стойке нужно удостоверение с датой рождения и контактные данные.",
+      "note": "Китайская страница явно включает возраст 12 лет. Английская формулировка менее точна. Для Матвея и Оскара разницы нет.",
+      "themes": [
+        "robotics",
+        "technology",
+        "engineering"
+      ],
+      "scope": "international",
+      "importance_reason": "Международная выставка",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Для посетителей 13–64 лет нужна индивидуальная регистрация с QR. На стойке также указан дневной пропуск за 300 TWD.",
+      "child_entry": "До 12 лет включительно ребёнок проходит без предварительной регистрации. На стойке нужно удостоверение с датой рождения и контактные данные.",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "family_alternative",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Семейный вход предусмотрен.",
+      "public_days": [
+        "2027-05-13",
+        "2027-05-14",
+        "2027-05-15",
+        "2027-05-16"
+      ],
+      "highlights": [
+        "Ассистивные технологии и умная реабилитация",
+        "Экзоскелеты демонстрировались в прошлом выпуске"
+      ],
+      "exhibitor_note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "exhibitor_directory_url": "https://www.chanchao.com.tw/Atlife/visitor.asp",
+      "sessions": [
+        {
+          "date": "2027-05-13",
+          "topic": "ATLife 2027 · Assistive Technology for Life",
+          "start_time": "10:00",
+          "end_time": "18:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-05-13T02:00:00Z",
+          "end_utc": "2027-05-13T10:00:00Z"
+        },
+        {
+          "date": "2027-05-14",
+          "topic": "ATLife 2027 · Assistive Technology for Life",
+          "start_time": "10:00",
+          "end_time": "18:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-05-14T02:00:00Z",
+          "end_utc": "2027-05-14T10:00:00Z"
+        },
+        {
+          "date": "2027-05-15",
+          "topic": "ATLife 2027 · Assistive Technology for Life",
+          "start_time": "10:00",
+          "end_time": "18:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-05-15T02:00:00Z",
+          "end_utc": "2027-05-15T10:00:00Z"
+        },
+        {
+          "date": "2027-05-16",
+          "topic": "ATLife 2027 · Assistive Technology for Life",
+          "start_time": "10:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-05-16T02:00:00Z",
+          "end_utc": "2027-05-16T09:00:00Z"
+        }
+      ],
+      "related_ids": [
+        "E021"
+      ]
     },
     {
       "id": "CP025-20270705-20270710",

@@ -26784,6 +26784,70 @@
       ]
     },
     {
+      "id": "E660",
+      "title": "MEGA XP 2027 · Juegos de mesa y diseño de juegos",
+      "block": "Eventos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad de México · World Trade Center",
+      "start": "2027-04-24",
+      "end": "2027-04-25",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://megaxp.com.mx/edicion-2027/",
+      "references": [],
+      "proof": "Cotejado con la página oficial de la edición o las normas de visita.",
+      "status": "Idea",
+      "age": "La tarifa infantil y las reglas de edad de 2027 aún requieren confirmación.",
+      "mat": "Condicional. La organización aún no ha especificado el acceso infantil para esta edición.",
+      "osc": "Condicional. La organización aún no ha especificado el acceso infantil para esta edición.",
+      "format": "Visita a la exposición",
+      "entry": "Acceso a la exposición pública con boleto. Consultar por separado la admisión a cada torneo.",
+      "gear": "",
+      "language": "Información de la organización en español. Consultar el idioma de cada actividad en el programa.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Información de la organización en español. Consultar el idioma de cada actividad en el programa.",
+      "cost": "Las tarifas de esta edición están por confirmar.",
+      "level": "Festival público",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "La tarifa infantil y las reglas de edad de 2027 aún requieren confirmación.",
+      "note": "La exposición se centra en juegos de mesa, coleccionables y de rol. El programa permite explorar estudios de juegos y diseño de mecánicas.",
+      "themes": [
+        "games",
+        "design"
+      ],
+      "scope": "national",
+      "importance_reason": "Festival público",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Acceso a la exposición pública con boleto. Consultar por separado la admisión a cada torneo.",
+      "child_entry": "La tarifa infantil y las reglas de edad de 2027 aún requieren confirmación.",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "national",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Las condiciones de acceso infantil están por confirmar.",
+      "public_days": [
+        "2027-04-24",
+        "2027-04-25"
+      ],
+      "highlights": [
+        "Demostraciones de juegos de mesa, editoriales, torneos y zonas de rol"
+      ],
+      "exhibitor_note": "Consultar el programa de esta edición para confirmar los estands y horarios de cada demostración.",
+      "exhibitor_directory_url": "https://megaxp.com.mx/edicion-2027/"
+    },
+    {
       "id": "CP041-20270329-20270402",
       "block": "Campamentos",
       "title": "Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02",
@@ -37258,9 +37322,14 @@
       "priority": "P2 — visita tras confirmar condiciones",
       "action": "Confirmar condiciones de acceso y elegir actividades por edad e idioma.",
       "source": "https://uniat.edu.mx/convocatoria-ficg-uniat/",
-      "references": [],
+      "references": [
+        {
+          "url": "https://ficg.mx/ficgames-2027/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
       "proof": "La convocatoria oficial de UNIAT publica condiciones de la muestra y fechas del festival.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Autores de Pitch y Playtest mayores de edad residentes en Latinoamérica. Convocatoria cerrada el 16 de octubre de 2026.",
       "themes": [
@@ -37273,14 +37342,17 @@
       "admission_kind": "visitor",
       "evidence_level": "event_page",
       "date_scope": "exhibition_window",
-      "adult_entry": "Muestra de demos para público y profesionales. Confirmar días, acceso de visitantes y edad infantil.",
+      "adult_entry": "FICG contempla una muestra de demos. La organización anunciará por separado los días exactos de PlayTest, la sede y el acceso.",
       "visitor_policy": "confirm_children",
-      "visitor_policy_note": "Muestra de demos para público y profesionales. Confirmar días, acceso de visitantes y edad infantil.",
-      "exhibition_tier": "global",
-      "highlights": [],
+      "visitor_policy_note": "Zona abierta en el programa. Aún no se han publicado las fechas ni el acceso infantil de la muestra concreta.",
+      "exhibition_tier": "profile",
+      "highlights": [
+        "Demos para PC, Android y realidad virtual"
+      ],
       "exhibitors": [],
-      "exhibitor_note": "Consultar la lista de expositores de esta edición en el catálogo del organizador.",
-      "exhibitor_directory_url": "https://uniat.edu.mx/convocatoria-ficg-uniat/"
+      "exhibitor_note": "La organización anuncia hasta 10 proyectos de PlayTest. La lista de participantes está por confirmar.",
+      "exhibitor_directory_url": "https://ficg.mx/ficgames-2027/",
+      "child_entry": "La organización invita al público a probar demos. Confirmar por separado la clasificación por edad y el acceso infantil a la realidad virtual."
     },
     {
       "id": "E303",

@@ -870,9 +870,9 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 299,
+    "version": 300,
     "status": "implementation_snapshot",
-    "events": 10719,
+    "events": 10731,
     "competitions": 4788,
     "league_profiles": 309,
     "camp_dossiers": 2108,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 649,
+    "exhibitions_events": 661,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 298,
+    "version": 299,
     "status": "implementation_snapshot",
-    "events": 10709,
+    "events": 10719,
     "competitions": 4788,
     "league_profiles": 309,
-    "camp_dossiers": 2101,
+    "camp_dossiers": 2108,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 299,
+    "prepared_ui_version": 300,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 298,
-    "previous_verified_commit": "54b1d1307a0058549c412040933e4e95fa9fdded"
+    "previous_verified_ui_version": 299,
+    "previous_verified_commit": "ca8f78fe78ac3413fa5a0e34790dab19727e68ea"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 298,
-    "published_version": 298,
-    "latest_source_commit": "54b1d1307a0058549c412040933e4e95fa9fdded",
-    "published_commit": "54b1d1307a0058549c412040933e4e95fa9fdded",
-    "latest_workflow": 42518201801,
+    "latest_source_version": 299,
+    "published_version": 299,
+    "latest_source_commit": "ca8f78fe78ac3413fa5a0e34790dab19727e68ea",
+    "published_commit": "ca8f78fe78ac3413fa5a0e34790dab19727e68ea",
+    "latest_workflow": 42520101246,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -31182,5 +31182,69 @@
     },
     "audit": "data/catalog-pagination-and-winter-camps-audit-v299.json",
     "source_receipts": "data/catalog-pagination-and-winter-camps-source-receipts-v299.json"
+  },
+  "international_expos_family_admission_v300": {
+    "version": 300,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E650",
+      "E651",
+      "E652",
+      "E653",
+      "E654",
+      "E655",
+      "E656",
+      "E657",
+      "E658",
+      "E659",
+      "E660",
+      "E661"
+    ],
+    "refreshed_event_ids": [
+      "E021",
+      "E541",
+      "E034",
+      "E300"
+    ],
+    "legacy_overlay_event_ids": [
+      "E021",
+      "E541",
+      "E034",
+      "E300"
+    ],
+    "source_requests": 26,
+    "events_by_policy": {
+      "family": 6,
+      "adults_only": 2,
+      "confirm_children": 4
+    },
+    "examples": {
+      "atlife": "E650",
+      "fairplus": "E651",
+      "atc": "E652",
+      "dreamhack": "E653",
+      "gdc": "E655",
+      "magfest": "E656",
+      "cambridge": "E657",
+      "edinburgh": "E658",
+      "london": "E654",
+      "punta_del_este": "E659",
+      "mega_xp": "E660",
+      "brisbane": "E661"
+    },
+    "source_limits": {
+      "atlife": "Chinese admission page includes children aged 12. English wording differs at age 12. The exoskeleton demo evidence is from 2026.",
+      "atc": "Organizer confirms the overall dates but repeats June 5 with different hours. No daily hours inferred.",
+      "brisbane": "Education dates belong to the school programme. No exact dates assigned to public visitors.",
+      "gdc": "Festival Hall dates differ from the full industry conference. Childcare and supervised Student Day are distinct from exhibition admission.",
+      "magfest": "Published family policy does not imply badge availability. Main registration is sold out.",
+      "dreamhack": "Public official pages were read through the web tool after direct fetch returned 403.",
+      "punta_del_este": "Ticket issuer lists child access and dates. Checkout template zeros are not a price.",
+      "gamescom": "Public dates are current. Child ticket prices of the 2027 edition remain unverified."
+    },
+    "audit": "data/international-expos-family-admission-audit-v300.json",
+    "source_receipts": "data/international-expos-family-admission-source-receipts-v300.json"
   }
 }

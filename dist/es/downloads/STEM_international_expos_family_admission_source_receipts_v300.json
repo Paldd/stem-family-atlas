@@ -1,0 +1,256 @@
+{
+  "captures": [
+    {
+      "key": "atlife",
+      "url": "https://www.chanchao.com.tw/Atlife/visitor.asp",
+      "final_url": "https://www.chanchao.com.tw/Atlife/visitor.asp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 20289,
+      "sha256": "dd9799103ab7189f91692299ff2de6a0a273ca4f29ebe1db0152718d9722d98f",
+      "file": "atlife.html"
+    },
+    {
+      "key": "atlife-en",
+      "url": "https://www.chanchao.com.tw/atlife/en/visitor.asp",
+      "final_url": "https://www.chanchao.com.tw/atlife/en/visitor.asp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 18801,
+      "sha256": "b139239fa2f06cf53954b25d2bf7c84015a089282fa9f4f96bde58dfb00455b7",
+      "file": "atlife-en.html"
+    },
+    {
+      "key": "atlife-demos-2026",
+      "url": "https://www.chanchao.com.tw/ATLife/visitorBoothEvent.asp",
+      "final_url": "https://www.chanchao.com.tw/ATLife/visitorBoothEvent.asp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 53902,
+      "sha256": "f20d7975448a305ffb1a48672b1aa5318d19907b70b260023385bf62f0195647",
+      "file": "atlife-demos-2026.html"
+    },
+    {
+      "key": "fairplus",
+      "url": "https://fairplus.cn/en/about-fairplus/",
+      "final_url": "https://fairplus.cn/en/about-fairplus/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 102747,
+      "sha256": "c0d8addfa97538ff76928521db0da073cbf00369c2a1c3a2e708716b746257c0",
+      "file": "fairplus.html"
+    },
+    {
+      "key": "fairplus-entry",
+      "url": "https://fairplus.cn/visiting-information/",
+      "final_url": "https://fairplus.cn/visiting-information/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 89997,
+      "sha256": "a4beacbee8166078d09f40cf4b1b4dc642d20d723c2334f0e671c9272eb0fa1c",
+      "file": "fairplus-entry.html"
+    },
+    {
+      "key": "atc",
+      "url": "https://www.atc-autoexpo.com/en/visit/get-ticket",
+      "final_url": "https://www.atc-autoexpo.com/en/visit/get-ticket",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27051,
+      "sha256": "a7e1e7a2bb5489a87a736e0408a388362bed0b8fed6af688da1ca6d88d686b74",
+      "file": "atc.html"
+    },
+    {
+      "key": "dreamhack",
+      "url": "https://dreamhack.com/birmingham/",
+      "retrieval": "public_web_readback",
+      "bytes": 8686,
+      "sha256": "61af23837dda6a1c21f95b94e0f5bc75734c8ae6e7ffdedc6f37d04f9a61f101",
+      "file": "dreamhack-web-extract.txt"
+    },
+    {
+      "key": "dreamhack-faq",
+      "url": "https://dreamhack.com/birmingham/faq/",
+      "retrieval": "public_web_readback",
+      "bytes": 5713,
+      "sha256": "fbf754d8f09ab98161e5adba33dcdbb687de550ad7a8b4826eafbd318ea1c318",
+      "file": "dreamhack-faq-web-extract.txt"
+    },
+    {
+      "key": "london-games",
+      "url": "https://festival.games.london/",
+      "final_url": "https://festival.games.london/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 28169,
+      "sha256": "f68ddcf971aeaa51947cbf16475c28a4ca0ac4ce9474cd05b65bba7b97d753cf",
+      "file": "london-games.html"
+    },
+    {
+      "key": "gdc-hall",
+      "url": "https://gdconf.com/festival-hall/",
+      "final_url": "https://gdconf.com/festival-hall/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 970181,
+      "sha256": "d3670cbc4a7dcc84ac1cdf5c018fe25c01fac22860927b81853d7221aed09ee9",
+      "file": "gdc-hall.html"
+    },
+    {
+      "key": "gdc",
+      "url": "https://gdconf.com/faq/",
+      "final_url": "https://gdconf.com/faq/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1076414,
+      "sha256": "14c5571cb4920cdc2a48ae7156e63179cb3f50a34be2ac4a0a7b35e8203e2e87",
+      "file": "gdc.html"
+    },
+    {
+      "key": "gdc-prices",
+      "url": "https://gdconf.com/passes-pricing/",
+      "final_url": "https://gdconf.com/passes-pricing/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 953374,
+      "sha256": "7cd00b371ea4538ff122f4c3bcbd99707e88b33ec9a2d1a1e51b803739b6e4f1",
+      "file": "gdc-prices.html"
+    },
+    {
+      "key": "magfest",
+      "url": "https://super.magfest.org/",
+      "final_url": "https://super.magfest.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 138107,
+      "sha256": "6559fd099cbed4118324fc911ec811368a003f96a7e2c031b8cfa3ecb2d767e9",
+      "file": "magfest.html"
+    },
+    {
+      "key": "magfest-register",
+      "url": "https://super.magfest.org/attend/registration/",
+      "final_url": "https://super.magfest.org/attend/registration/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 148458,
+      "sha256": "373004364657ab5042777e487fdc6b0bb91987fb951b1b0ebec3aa37ef6e41ae",
+      "file": "magfest-register.html"
+    },
+    {
+      "key": "magfest-faq",
+      "url": "https://super.magfest.org/about/faq/",
+      "final_url": "https://super.magfest.org/about/faq/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 166246,
+      "sha256": "8621a8a41cef09ac1405d47253464578ea8a70c669e2a140029cda359fb134cb",
+      "file": "magfest-faq.html"
+    },
+    {
+      "key": "cambridge-weekend",
+      "url": "https://www.festival.cam.ac.uk/news/cambridge-festival-community-funding",
+      "final_url": "https://www.festival.cam.ac.uk/news/cambridge-festival-community-funding",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 39761,
+      "sha256": "03663de9273bdd4496cf20d7e3f3f3ab1b7f0199836464808877374a85c08a00",
+      "file": "cambridge-weekend.html"
+    },
+    {
+      "key": "cambridge",
+      "url": "https://www.festival.cam.ac.uk/",
+      "final_url": "https://www.festival.cam.ac.uk/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 35093,
+      "sha256": "abdbd30418ae8ea8560adf188915dab7f29f5de71d8bacca6a5935a40668e1ed",
+      "file": "cambridge.html"
+    },
+    {
+      "key": "edinburgh",
+      "url": "https://www.edinburghscience.co.uk/festival/",
+      "final_url": "https://www.edinburghscience.co.uk/festival/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 255075,
+      "sha256": "77f252fd6a1154963f44258a7d5737be4c2e074e861e458aaf97c41fad1291d1",
+      "file": "edinburgh.html"
+    },
+    {
+      "key": "edinburgh-dates",
+      "url": "https://edinburgh.org/festivals/edinburgh-international-science-festival/",
+      "final_url": "https://edinburgh.org/festivals/edinburgh-international-science-festival/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 298609,
+      "sha256": "d219c700a40a92d22467489104816123804da86696ede64b5d6c5e41482a695c",
+      "file": "edinburgh-dates.html"
+    },
+    {
+      "key": "expo-uy",
+      "url": "https://boleteria.redtickets.uy/evento/EXPOCONVENTION--Punta-del-Este-2027/32743/",
+      "retrieval": "public_web_readback",
+      "bytes": 3840,
+      "sha256": "0e340d908ca2fd79976beb947273e878ee25d49a9f4b649ee4f431d5a11e9d1b",
+      "file": "expo-uy-web-extract.txt"
+    },
+    {
+      "key": "megaxp",
+      "url": "https://megaxp.com.mx/edicion-2027/",
+      "final_url": "https://megaxp.com.mx/edicion-2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 180670,
+      "sha256": "7d40b25d701347d7d749a59b1686d442a33df9ec0d2e2db2a966db29f2daf505",
+      "file": "megaxp.html"
+    },
+    {
+      "key": "brisbane",
+      "url": "https://worldsciencefestival.com.au/",
+      "final_url": "https://worldsciencefestival.com.au/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 97855,
+      "sha256": "e79dbbb60d8d4900575dd97cdd9deddbc1811faf89957a79c76a48c39f9a9a26",
+      "file": "brisbane.html"
+    },
+    {
+      "key": "tairos",
+      "url": "https://tairos.chanchao.com.tw/en/VisitorInfo",
+      "final_url": "https://tairos.chanchao.com.tw/en/VisitorInfo",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 383213,
+      "sha256": "74b25da243a38d882a7d5aab0a02bc3642fd66f090913379051cc2245fedb3d7",
+      "file": "tairos.html"
+    },
+    {
+      "key": "paxwest",
+      "url": "https://west.paxsite.com/en-us/info/faq.html",
+      "final_url": "https://west.paxsite.com/en-us/info/faq.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 267615,
+      "sha256": "6fdcbfbe87ad49a46e746b8ca2611fe9b3a63c0f3d0ec20ac1397048952771af",
+      "file": "paxwest.html"
+    },
+    {
+      "key": "gamescom-tickets-web",
+      "url": "https://www.gamescom.global/en/tickets",
+      "retrieval": "public_web_readback",
+      "bytes": 316,
+      "sha256": "4d115c5bc06870eb7f2f4d74ed1a1bce8bd9fe3ded2d72b5117f31a44cd6116c",
+      "file": "gamescom-tickets-web-extract.txt"
+    },
+    {
+      "key": "ficgames",
+      "url": "https://ficg.mx/ficgames-2027/",
+      "final_url": "https://ficg.mx/ficgames-2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 192216,
+      "sha256": "222edaf798042bc9720ae47f3074d48e999bf0c0282fa63bdd858d71b94cb873",
+      "file": "ficgames.html"
+    }
+  ]
+}

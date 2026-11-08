@@ -6275,6 +6275,19 @@ Limitaciones: La página da día y mes, pero las condiciones de inscripción rem
 Fuente: https://www.ctic.uni.edu.pe/educacion/machine-learning-para-primaria/
 Se ha comprobado: 2026-11-08
 
+### E659 · EXPOCONVENTION Punta del Este 2027 · Gaming
+
+Fecha: 2027-04-17 — 2027-04-18
+edad: Los menores de hasta 12 años inclusive entran gratis. Las condiciones de cada actividad de videojuegos están por confirmar.
+Matvey: Sí. Se contempla la entrada familiar. Consultar el programa para conocer las condiciones de cada actividad.
+Oscar: Sí. Se contempla la entrada familiar. Consultar el programa para conocer las condiciones de cada actividad.
+Idioma: Información de la organización en español. Consultar el idioma de cada actividad en el programa.
+Acceso: Boletos de adultos a través de RedTickets. La sede está en Maldonado.
+Precio: La entrada es gratuita hasta los 12 años inclusive. La tarifa adulta depende del boleto y el cargo de servicio.
+Limitaciones: Consultar el programa de esta edición para confirmar los estands y horarios de cada demostración.
+Fuente: https://boleteria.redtickets.uy/evento/EXPOCONVENTION--Punta-del-Este-2027/32743/
+Se ha comprobado: 2026-11-08
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

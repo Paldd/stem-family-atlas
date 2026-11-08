@@ -1,0 +1,62 @@
+{
+  "version": 300,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "E650",
+    "E651",
+    "E652",
+    "E653",
+    "E654",
+    "E655",
+    "E656",
+    "E657",
+    "E658",
+    "E659",
+    "E660",
+    "E661"
+  ],
+  "refreshed_event_ids": [
+    "E021",
+    "E541",
+    "E034",
+    "E300"
+  ],
+  "legacy_overlay_event_ids": [
+    "E021",
+    "E541",
+    "E034",
+    "E300"
+  ],
+  "source_requests": 26,
+  "events_by_policy": {
+    "family": 6,
+    "adults_only": 2,
+    "confirm_children": 4
+  },
+  "examples": {
+    "atlife": "E650",
+    "fairplus": "E651",
+    "atc": "E652",
+    "dreamhack": "E653",
+    "gdc": "E655",
+    "magfest": "E656",
+    "cambridge": "E657",
+    "edinburgh": "E658",
+    "london": "E654",
+    "punta_del_este": "E659",
+    "mega_xp": "E660",
+    "brisbane": "E661"
+  },
+  "source_limits": {
+    "atlife": "La página de acceso en chino incluye a los niños de 12 años. La redacción en inglés difiere para los 12 años. La demostración de exoesqueletos está documentada en 2026.",
+    "atc": "La organización confirma el intervalo general, pero repite el 5 de junio con horas distintas. El horario diario sigue pendiente.",
+    "brisbane": "Las fechas educativas corresponden al programa escolar. Aún faltan fechas exactas para el público.",
+    "gdc": "El Festival Hall tiene fechas propias dentro del congreso profesional. El cuidado infantil y el Student Day supervisado tienen condiciones independientes del acceso a la exposición.",
+    "magfest": "Las normas permiten acceso familiar. Las acreditaciones de la venta principal están agotadas.",
+    "dreamhack": "Se consultaron las páginas públicas oficiales con la herramienta web después de que el acceso directo devolviera 403.",
+    "punta_del_este": "La boletería publica el acceso infantil y las fechas. El precio se determina al elegir el boleto.",
+    "gamescom": "Las fechas públicas están actualizadas. Aún falta verificar los precios infantiles de la edición 2027."
+  }
+}

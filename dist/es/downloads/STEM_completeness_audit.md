@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10719; competiciones: 4788; eventos: 649; campamentos / programas: 5282. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 550 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10731; competiciones: 4788; eventos: 661; campamentos / programas: 5282. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 562 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,12 +14,12 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 1960 | 142 | 1332 |
-| América del Sur | 15 | 443 | 49 | 230 |
-| Europa | 55 | 629 | 132 | 1534 |
+| América del Norte | 41 | 1960 | 145 | 1332 |
+| América del Sur | 15 | 443 | 50 | 230 |
+| Europa | 55 | 629 | 136 | 1534 |
 | África | 60 | 247 | 40 | 130 |
-| Asia | 50 | 1175 | 155 | 1705 |
-| Oceanía | 27 | 167 | 30 | 336 |
+| Asia | 50 | 1175 | 158 | 1705 |
+| Oceanía | 27 | 167 | 31 | 336 |
 
 Fichas interregionales o globales sin un solo continente asignado: 189. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base y la cobertura sigue siendo parcial.
 
@@ -927,6 +927,18 @@ VEX: 815 de 4788 fichas de competiciones (17.0%). La cobertura se concentra en e
 - **Neurofest 2026 · Jugar para recuperar: videojuegos y neuro-rehabilitación** — México; 2026-11-27. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
 - **FIRVI 2026 · Final Nacional · visita** — Chile; 2026-11-21. con un adulto; condiciones de admisión adulta por separado. https://welcu.com/fundacion-mustakis/firvi2026
 - **GENERACIÓN · Festival de Streamers 2026** — Argentina; 2026-12-11 – 2026-12-12. con un adulto; condiciones de admisión adulta por separado. https://generacion.com/
+- **ATLife 2027 · Assistive Technology for Life** — Taiwán; 2027-05-13 – 2027-05-16. Con un adulto. Consultar por separado las condiciones de entrada para adultos. https://www.chanchao.com.tw/Atlife/visitor.asp
+- **FAIR plus 2027 · Fair of AI and Robotics** — China; 2027-04-21 – 2027-04-23. Sin acceso para niños de 6/9 años. https://fairplus.cn/en/about-fairplus/
+- **ATC Shanghai Expo 2027 · Robot Application & Export** — China; 2027-06-03 – 2027-06-05. Confirmar acceso infantil. https://www.atc-autoexpo.com/en/visit/get-ticket
+- **DreamHack Birmingham 2027 · Gaming Expo** — Reino Unido; 2027-04-02 – 2027-04-04. Con un adulto. Consultar por separado las condiciones de entrada para adultos. https://dreamhack.com/birmingham/
+- **London Games Festival 2027** — Reino Unido; 2027-04-12 – 2027-04-19. Confirmar acceso infantil. https://festival.games.london/
+- **GDC Festival of Gaming 2027 · Festival Hall** — Estados Unidos; 2027-03-02 – 2027-03-04. Sin acceso para niños de 6/9 años. https://gdconf.com/festival-hall/
+- **Super MAGFest 2027 · Music And Gaming Festival** — Estados Unidos; 2027-01-07 – 2027-01-10. Con un adulto. Consultar por separado las condiciones de entrada para adultos. https://super.magfest.org/
+- **Cambridge Festival 2027 · Family Weekend** — Reino Unido; 2027-03-13 – 2027-03-14. Con un adulto. Consultar por separado las condiciones de entrada para adultos. https://www.festival.cam.ac.uk/news/cambridge-festival-community-funding
+- **Edinburgh Science Festival 2027 · Dreamers** — Reino Unido; 2027-04-03 – 2027-04-18. Con un adulto. Consultar por separado las condiciones de entrada para adultos. https://www.edinburghscience.co.uk/festival/
+- **EXPOCONVENTION Punta del Este 2027 · Gaming** — Uruguay; 2027-04-17 – 2027-04-18. Con un adulto. Consultar por separado las condiciones de entrada para adultos. https://boleteria.redtickets.uy/evento/EXPOCONVENTION--Punta-del-Este-2027/32743/
+- **MEGA XP 2027 · Juegos de mesa y diseño de juegos** — México; 2027-04-24 – 2027-04-25. Confirmar acceso infantil. https://megaxp.com.mx/edicion-2027/
+- **World Science Festival Brisbane 2027 · Public Programme** — Australia; fecha desconocida. Confirmar acceso infantil. https://worldsciencefestival.com.au/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

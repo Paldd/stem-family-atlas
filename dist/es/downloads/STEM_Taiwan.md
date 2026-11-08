@@ -1068,6 +1068,19 @@ Limitaciones: La página indica el intervalo 22–25 de abril de 2027. La nota d
 Fuente: https://cec.ctee.com.tw/ctms/tn-visitor/
 Se ha comprobado: 2026-11-08
 
+### E650 · ATLife 2027 · Assistive Technology for Life
+
+Fecha: 2027-05-13 — 2027-05-16
+edad: Hasta los 12 años inclusive, el menor entra sin registro previo. En el mostrador se requiere un documento con fecha de nacimiento y datos de contacto.
+Matvey: Sí. Se contempla la entrada familiar. Consultar el programa para conocer las condiciones de cada actividad.
+Oscar: Sí. Se contempla la entrada familiar. Consultar el programa para conocer las condiciones de cada actividad.
+Idioma: Información de la organización en chino. Confirmar si hay atención en inglés en cada estand.
+Acceso: Las personas de 13 a 64 años requieren un registro individual con QR. También se indica un pase de un día de 300 TWD en el mostrador.
+Precio: La organización ofrece acceso mediante registro previo. El pase de un día en el mostrador cuesta 300 TWD.
+Limitaciones: La página en chino incluye expresamente los 12 años. La redacción en inglés es menos precisa. Para Matvey y Oscar no hay diferencia.
+Fuente: https://www.chanchao.com.tw/Atlife/visitor.asp
+Se ha comprobado: 2026-11-08
+
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
 
 Fecha: 2027-07-05 2027-07-10

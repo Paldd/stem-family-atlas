@@ -4620,7 +4620,7 @@
         "2027-08-06",
         "2027-08-07"
       ],
-      "child_entry": "Посетителей младше 12 лет не допускают. Сопровождение взрослого не даёт исключения.",
+      "child_entry": "С 12 лет. Посетители младше 12 лет не проходят даже в сопровождении.",
       "exhibitors": [
         "HIWIN",
         "Techman Robot",
@@ -4628,6 +4628,9 @@
         "Dexmart",
         "Swancor Robotech",
         "Mitsubishi Electric Automation Taiwan"
+      ],
+      "related_ids": [
+        "E650"
       ]
     },
     {
@@ -7235,7 +7238,7 @@
       "entry": "Проверить текущую регистрацию и условия приёма у организатора",
       "gear": "Не нужен",
       "language": "DE / EN; активности по языку проверить",
-      "cost": "4–6 бесплатно по visitor page; билет 2027 проверить",
+      "cost": "Тарифы публичных билетов 2027 ещё уточняются.",
       "level": "E — выставка / фестиваль",
       "reward": "Знакомство с технологиями/играми; билет не является соревновательной наградой",
       "priority": "P3 — при удобной поездке",
@@ -7262,7 +7265,7 @@
       "exhibition_tier": "global",
       "visitor_policy": "family",
       "visitor_policy_note": "Публичный вход с 4 лет. От 4 до 12 лет организатор указывает сопровождение взрослым. От 4 до 6 лет вход бесплатен после проверки возраста.",
-      "adult_entry": "Проверить текущую регистрацию и условия приёма у организатора",
+      "adult_entry": "Публичные дни 26–29 августа 2027. Билет частного посетителя оформляется через официальный магазин.",
       "highlights": [
         "Игровые демонстрации",
         "Публичный visitor programme",
@@ -7277,11 +7280,22 @@
         {
           "label": "Публичные дни2027",
           "url": "https://www.gamescom.global/en/info/opening-times"
+        },
+        {
+          "url": "https://www.gamescom.global/en/tickets",
+          "label": "Страница организатора или регламент категории."
         }
       ],
       "related_ids": [
         "E538",
         "E539"
+      ],
+      "child_entry": "Правила бесплатного детского входа на 2027 нужно сверить после открытия продажи. Оскару в дни выставки будет 6 или 7 лет.",
+      "public_days": [
+        "2027-08-26",
+        "2027-08-27",
+        "2027-08-28",
+        "2027-08-29"
       ]
     },
     {
@@ -328267,7 +328281,7 @@
       "status": "Идея",
       "age": "Текущий FAQ разрешает посещение всех возрастов. До 7 лет бесплатно со взрослым. В 7–12 лет нужен Kids badge и взрослый с бейджем. Отдельные активности имеют возрастную маркировку.",
       "mat": "Да с сопровождающим взрослым. Билет и возрастной рейтинг выбранной активности проверить.",
-      "osc": "Да с сопровождающим взрослым. Билет и возрастной рейтинг выбранной активности проверить.",
+      "osc": "Да. Оскару 6 или 7 лет в дни выставки. От возраста на дату посещения зависит необходимость Kids badge.",
       "format": "Публичные дни игровой выставки",
       "entry": "Текущий FAQ разрешает посещение всех возрастов. До 7 лет бесплатно со взрослым. В 7–12 лет нужен Kids badge и взрослый с бейджем. Отдельные активности имеют возрастную маркировку.",
       "gear": "",
@@ -328298,7 +328312,8 @@
       "adult_entry": "Текущий FAQ разрешает посещение всех возрастов. До 7 лет бесплатно со взрослым. В 7–12 лет нужен Kids badge и взрослый с бейджем. Отдельные активности имеют возрастную маркировку.",
       "exhibitors": [],
       "exhibitor_note": "Список экспонентов этого выпуска ещё уточняется.",
-      "event_group": "PAX West 2027"
+      "event_group": "PAX West 2027",
+      "child_entry": "До 7 лет бесплатно со взрослым. В 7–12 лет нужен Kids badge и сопровождающий с бейджем. Для отдельных событий бывают отметки 13+ или 17+."
     },
     {
       "id": "E542",
@@ -355644,6 +355659,938 @@
       "delivery_mode": "in_person",
       "date_precision": "announced_window",
       "date_rule": "Общее окно с 11 января по 19 февраля 2027. Даты заезда, часы, цену и доступность выбранного пакета уточнить."
+    },
+    {
+      "id": "E650",
+      "title": "ATLife 2027 · Assistive Technology for Life",
+      "block": "События",
+      "country": "Тайвань",
+      "region": "Азия",
+      "iso": [
+        "TWN"
+      ],
+      "city": "Taipei · Nangang Exhibition Center, Hall 1",
+      "start": "2027-05-13",
+      "end": "2027-05-16",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.chanchao.com.tw/Atlife/visitor.asp",
+      "references": [
+        {
+          "url": "https://www.chanchao.com.tw/atlife/en/visitor.asp",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.chanchao.com.tw/ATLife/visitorBoothEvent.asp",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей выпуска или правилами посещения.",
+      "status": "Идея",
+      "age": "До 12 лет включительно ребёнок проходит без предварительной регистрации. На стойке нужно удостоверение с датой рождения и контактные данные.",
+      "mat": "Да. Семейный вход предусмотрен. Условия отдельных активностей сверить по программе.",
+      "osc": "Да. Семейный вход предусмотрен. Условия отдельных активностей сверить по программе.",
+      "format": "Посещение выставки",
+      "entry": "Для посетителей 13–64 лет нужна индивидуальная регистрация с QR. На стойке также указан дневной пропуск за 300 TWD.",
+      "gear": "",
+      "language": "Сведения организатора на китайском. Английский на отдельных стендах уточнить.",
+      "languages": [
+        "ZH"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Сведения организатора на китайском. Английский на отдельных стендах уточнить.",
+      "cost": "Организатор предлагает вход по предварительной регистрации. Дневной пропуск на стойке стоит 300 TWD.",
+      "level": "Международная выставка",
+      "reward": "",
+      "priority": "P2 — семейная поездка по программе",
+      "action": "До 12 лет включительно ребёнок проходит без предварительной регистрации. На стойке нужно удостоверение с датой рождения и контактные данные.",
+      "note": "Китайская страница явно включает возраст 12 лет. Английская формулировка менее точна. Для Матвея и Оскара разницы нет.",
+      "themes": [
+        "robotics",
+        "technology",
+        "engineering"
+      ],
+      "scope": "international",
+      "importance_reason": "Международная выставка",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Для посетителей 13–64 лет нужна индивидуальная регистрация с QR. На стойке также указан дневной пропуск за 300 TWD.",
+      "child_entry": "До 12 лет включительно ребёнок проходит без предварительной регистрации. На стойке нужно удостоверение с датой рождения и контактные данные.",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "family_alternative",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Семейный вход предусмотрен.",
+      "public_days": [
+        "2027-05-13",
+        "2027-05-14",
+        "2027-05-15",
+        "2027-05-16"
+      ],
+      "highlights": [
+        "Ассистивные технологии и умная реабилитация",
+        "Экзоскелеты демонстрировались в прошлом выпуске"
+      ],
+      "exhibitor_note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "exhibitor_directory_url": "https://www.chanchao.com.tw/Atlife/visitor.asp",
+      "sessions": [
+        {
+          "date": "2027-05-13",
+          "topic": "ATLife 2027 · Assistive Technology for Life",
+          "start_time": "10:00",
+          "end_time": "18:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-05-13T02:00:00Z",
+          "end_utc": "2027-05-13T10:00:00Z"
+        },
+        {
+          "date": "2027-05-14",
+          "topic": "ATLife 2027 · Assistive Technology for Life",
+          "start_time": "10:00",
+          "end_time": "18:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-05-14T02:00:00Z",
+          "end_utc": "2027-05-14T10:00:00Z"
+        },
+        {
+          "date": "2027-05-15",
+          "topic": "ATLife 2027 · Assistive Technology for Life",
+          "start_time": "10:00",
+          "end_time": "18:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-05-15T02:00:00Z",
+          "end_utc": "2027-05-15T10:00:00Z"
+        },
+        {
+          "date": "2027-05-16",
+          "topic": "ATLife 2027 · Assistive Technology for Life",
+          "start_time": "10:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-05-16T02:00:00Z",
+          "end_utc": "2027-05-16T09:00:00Z"
+        }
+      ],
+      "related_ids": [
+        "E021"
+      ]
+    },
+    {
+      "id": "E651",
+      "title": "FAIR plus 2027 · Fair of AI and Robotics",
+      "block": "События",
+      "country": "Китай",
+      "region": "Азия",
+      "iso": [
+        "CHN"
+      ],
+      "city": "Shenzhen · Futian, Shenzhen Convention & Exhibition Centre",
+      "start": "2027-04-21",
+      "end": "2027-04-23",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://fairplus.cn/en/about-fairplus/",
+      "references": [
+        {
+          "url": "https://fairplus.cn/visiting-information/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей выпуска или правилами посещения.",
+      "status": "Идея",
+      "age": "Вход для профессионалов с 18 лет.",
+      "mat": "Нет. Правила посещения исключают этот возраст.",
+      "osc": "Нет. Правила посещения исключают этот возраст.",
+      "format": "Посещение выставки",
+      "entry": "Профессиональным посетителям нужен личный документ и индивидуальный QR регистрации.",
+      "gear": "",
+      "language": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "cost": "Тарифы этого выпуска уточняются.",
+      "level": "Международная выставка",
+      "reward": "",
+      "priority": "P3 — профессиональная выставка",
+      "action": "Вход для профессионалов с 18 лет.",
+      "note": "Shenzhen Robotics Association и Messe Stuttgart заявляют отраслевую выставку. Список экспонентов 2027 сверить отдельно.",
+      "themes": [
+        "robotics",
+        "ai",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Международная выставка",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Профессиональным посетителям нужен личный документ и индивидуальный QR регистрации.",
+      "child_entry": "Вход для профессионалов с 18 лет.",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "global",
+      "visitor_policy": "adults_only",
+      "visitor_policy_note": "Для Матвея и Оскара возрастной порог пока недостижим.",
+      "public_days": [],
+      "highlights": [
+        "Гуманоидные роботы, компоненты и воплощённый ИИ"
+      ],
+      "exhibitor_note": "Shenzhen Robotics Association и Messe Stuttgart заявляют отраслевую выставку. Список экспонентов 2027 сверить отдельно.",
+      "exhibitor_directory_url": "https://fairplus.cn/en/about-fairplus/"
+    },
+    {
+      "id": "E652",
+      "title": "ATC Shanghai Expo 2027 · Robot Application & Export",
+      "block": "События",
+      "country": "Китай",
+      "region": "Азия",
+      "iso": [
+        "CHN"
+      ],
+      "city": "Shanghai · Shanghai New International Expo Center",
+      "start": "2027-06-03",
+      "end": "2027-06-05",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.atc-autoexpo.com/en/visit/get-ticket",
+      "references": [],
+      "proof": "Сверено с официальной страницей выпуска или правилами посещения.",
+      "status": "Идея",
+      "age": "Правило для несовершеннолетних на странице регистрации не опубликовано.",
+      "mat": "Условно. Организатор ещё не уточнил детский вход для этого выпуска.",
+      "osc": "Условно. Организатор ещё не уточнил детский вход для этого выпуска.",
+      "format": "Посещение выставки",
+      "entry": "Профессиональная выставка. Организатор публикует предварительную регистрацию по электронной почте.",
+      "gear": "",
+      "language": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "cost": "Тарифы этого выпуска уточняются.",
+      "level": "Международная выставка",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Правило для несовершеннолетних на странице регистрации не опубликовано.",
+      "note": "В расписании страницы 5 июня указано дважды с разными часами. Подтверждён общий диапазон 3–5 июня. Посуточные часы уточняются.",
+      "themes": [
+        "robotics",
+        "technology",
+        "engineering"
+      ],
+      "scope": "international",
+      "importance_reason": "Международная выставка",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Профессиональная выставка. Организатор публикует предварительную регистрацию по электронной почте.",
+      "child_entry": "Правило для несовершеннолетних на странице регистрации не опубликовано.",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "industry",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Условия детского входа уточняются.",
+      "public_days": [],
+      "highlights": [
+        "Роботы и автоматизация для автомобильного производства"
+      ],
+      "exhibitor_note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "exhibitor_directory_url": "https://www.atc-autoexpo.com/en/visit/get-ticket"
+    },
+    {
+      "id": "E653",
+      "title": "DreamHack Birmingham 2027 · Gaming Expo",
+      "block": "События",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR"
+      ],
+      "city": "Birmingham · NEC",
+      "start": "2027-04-02",
+      "end": "2027-04-04",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://dreamhack.com/birmingham/",
+      "references": [
+        {
+          "url": "https://dreamhack.com/birmingham/faq/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей выпуска или правилами посещения.",
+      "status": "Идея",
+      "age": "До 16 лет нужен родитель или законный опекун. Для посетителей младше 18 лет подписывают согласие при получении билета.",
+      "mat": "Да. Семейный вход предусмотрен. Условия отдельных активностей сверить по программе.",
+      "osc": "Да. Семейный вход предусмотрен. Условия отдельных активностей сверить по программе.",
+      "format": "Посещение выставки",
+      "entry": "Вход по фестивальному билету. Сверить отдельные условия для мест на киберспортивных матчах.",
+      "gear": "",
+      "language": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "cost": "До 5 лет включительно бесплатно с оплатившим взрослым. Цену для детей старше и взрослого сверить в продаже 2027.",
+      "level": "Международная выставка",
+      "reward": "",
+      "priority": "P2 — семейная поездка по программе",
+      "action": "До 16 лет нужен родитель или законный опекун. Для посетителей младше 18 лет подписывают согласие при получении билета.",
+      "note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Международная выставка",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Вход по фестивальному билету. Сверить отдельные условия для мест на киберспортивных матчах.",
+      "child_entry": "До 16 лет нужен родитель или законный опекун. Для посетителей младше 18 лет подписывают согласие при получении билета.",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "global",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Семейный вход предусмотрен.",
+      "public_days": [
+        "2027-04-02",
+        "2027-04-03",
+        "2027-04-04"
+      ],
+      "highlights": [
+        "Демонстрации игр, оборудования и инди-проектов"
+      ],
+      "exhibitor_note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "exhibitor_directory_url": "https://dreamhack.com/birmingham/",
+      "sessions": [
+        {
+          "date": "2027-04-02",
+          "topic": "DreamHack Birmingham 2027 · Gaming Expo",
+          "start_time": "12:00",
+          "end_time": "21:00",
+          "timezone": "Europe/London",
+          "start_utc": "2027-04-02T11:00:00Z",
+          "end_utc": "2027-04-02T20:00:00Z"
+        },
+        {
+          "date": "2027-04-03",
+          "topic": "DreamHack Birmingham 2027 · Gaming Expo",
+          "start_time": "10:00",
+          "end_time": "21:00",
+          "timezone": "Europe/London",
+          "start_utc": "2027-04-03T09:00:00Z",
+          "end_utc": "2027-04-03T20:00:00Z"
+        },
+        {
+          "date": "2027-04-04",
+          "topic": "DreamHack Birmingham 2027 · Gaming Expo",
+          "start_time": "10:00",
+          "end_time": "20:00",
+          "timezone": "Europe/London",
+          "start_utc": "2027-04-04T09:00:00Z",
+          "end_utc": "2027-04-04T19:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "E654",
+      "title": "London Games Festival 2027",
+      "block": "События",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR"
+      ],
+      "city": "London",
+      "start": "2027-04-12",
+      "end": "2027-04-19",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://festival.games.london/",
+      "references": [],
+      "proof": "Сверено с официальной страницей выпуска или правилами посещения.",
+      "status": "Идея",
+      "age": "Допуск и расписание для детей зависят от отдельного события. Общего семейного пропуска пока не опубликовано.",
+      "mat": "Условно. Организатор ещё не уточнил детский вход для этого выпуска.",
+      "osc": "Условно. Организатор ещё не уточнил детский вход для этого выпуска.",
+      "format": "Посещение выставки",
+      "entry": "Отдельные площадки фестиваля и деловые встречи используют свои билеты или регистрацию.",
+      "gear": "",
+      "language": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "cost": "Тарифы этого выпуска уточняются.",
+      "level": "Международная выставка",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Допуск и расписание для детей зависят от отдельного события. Общего семейного пропуска пока не опубликовано.",
+      "note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Международная выставка",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "adult_entry": "Отдельные площадки фестиваля и деловые встречи используют свои билеты или регистрацию.",
+      "child_entry": "Допуск и расписание для детей зависят от отдельного события. Общего семейного пропуска пока не опубликовано.",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "global",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Условия детского входа уточняются.",
+      "public_days": [],
+      "highlights": [
+        "Выставки игр и отбор Official Selection"
+      ],
+      "exhibitor_note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "exhibitor_directory_url": "https://festival.games.london/"
+    },
+    {
+      "id": "E655",
+      "title": "GDC Festival of Gaming 2027 · Festival Hall",
+      "block": "События",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "iso": [
+        "USA"
+      ],
+      "city": "San Francisco · Moscone Center",
+      "start": "2027-03-02",
+      "end": "2027-03-04",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://gdconf.com/festival-hall/",
+      "references": [
+        {
+          "url": "https://gdconf.com/faq/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://gdconf.com/passes-pricing/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей выпуска или правилами посещения.",
+      "status": "Идея",
+      "age": "Вход с 18 лет. Для участников Student Day существует отдельное исключение. Присмотр за детьми от 3 месяцев до 12 лет оформляется отдельно.",
+      "mat": "Нет. Правила посещения исключают этот возраст.",
+      "osc": "Нет. Правила посещения исключают этот возраст.",
+      "format": "Посещение выставки",
+      "entry": "Для выставочного зала доступен пропуск Festival Hall Only. У делового зала отдельный допуск.",
+      "gear": "",
+      "language": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "cost": "Festival Hall Only стоит 175 USD по раннему тарифу до 11 декабря 2026. Порядок записи на бесплатный присмотр ещё ожидается.",
+      "level": "Международная выставка",
+      "reward": "",
+      "priority": "P3 — профессиональная выставка",
+      "action": "Вход с 18 лет. Для участников Student Day существует отдельное исключение. Присмотр за детьми от 3 месяцев до 12 лет оформляется отдельно.",
+      "note": "Даты относятся к Festival Hall. У деловых встреч и Student Day собственное расписание.",
+      "themes": [
+        "games",
+        "technology",
+        "coding"
+      ],
+      "scope": "international",
+      "importance_reason": "Международная выставка",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Для выставочного зала доступен пропуск Festival Hall Only. У делового зала отдельный допуск.",
+      "child_entry": "Вход с 18 лет. Для участников Student Day существует отдельное исключение. Присмотр за детьми от 3 месяцев до 12 лет оформляется отдельно.",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "global",
+      "visitor_policy": "adults_only",
+      "visitor_policy_note": "Для Матвея и Оскара возрастной порог пока недостижим.",
+      "public_days": [],
+      "highlights": [
+        "Инструменты разработчиков, стенды и демоверсии GDC Play"
+      ],
+      "exhibitor_note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "exhibitor_directory_url": "https://gdconf.com/festival-hall/",
+      "sessions": [
+        {
+          "date": "2027-03-02",
+          "topic": "GDC Festival of Gaming 2027 · Festival Hall",
+          "start_time": "10:00",
+          "end_time": "18:00",
+          "timezone": "America/Los_Angeles",
+          "start_utc": "2027-03-02T18:00:00Z",
+          "end_utc": "2027-03-03T02:00:00Z"
+        },
+        {
+          "date": "2027-03-03",
+          "topic": "GDC Festival of Gaming 2027 · Festival Hall",
+          "start_time": "10:00",
+          "end_time": "18:00",
+          "timezone": "America/Los_Angeles",
+          "start_utc": "2027-03-03T18:00:00Z",
+          "end_utc": "2027-03-04T02:00:00Z"
+        },
+        {
+          "date": "2027-03-04",
+          "topic": "GDC Festival of Gaming 2027 · Festival Hall",
+          "start_time": "10:00",
+          "end_time": "18:00",
+          "timezone": "America/Los_Angeles",
+          "start_utc": "2027-03-04T18:00:00Z",
+          "end_utc": "2027-03-05T02:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "E656",
+      "title": "Super MAGFest 2027 · Music And Gaming Festival",
+      "block": "События",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "iso": [
+        "USA"
+      ],
+      "city": "National Harbor · Gaylord National",
+      "start": "2027-01-07",
+      "end": "2027-01-10",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://super.magfest.org/",
+      "references": [
+        {
+          "url": "https://super.magfest.org/attend/registration/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://super.magfest.org/about/faq/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей выпуска или правилами посещения.",
+      "status": "Идея",
+      "age": "До 12 лет включительно нужен взрослый с оплаченным бейджем. Всем детям нужен свой бейдж и согласие законного представителя.",
+      "mat": "Да. Семейный вход предусмотрен. Условия отдельных активностей сверить по программе.",
+      "osc": "Да. Семейный вход предусмотрен. Условия отдельных активностей сверить по программе.",
+      "format": "Посещение выставки",
+      "entry": "Вход по индивидуальным бейджам. Основная продажа выпуска 2027 завершилась распродажей.",
+      "gear": "",
+      "language": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "cost": "В 6–12 лет скидка 50% с округлением вниз до доллара. До 5 лет включительно бейдж бесплатный. Доступных бейджей в основной продаже нет.",
+      "level": "Международная выставка",
+      "reward": "",
+      "priority": "P2 — семейная поездка по программе",
+      "action": "Проверить официальный лист ожидания и порядок получения детского бейджа.",
+      "note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Международная выставка",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Вход по индивидуальным бейджам. Основная продажа выпуска 2027 завершилась распродажей.",
+      "child_entry": "До 12 лет включительно нужен взрослый с оплаченным бейджем. Всем детям нужен свой бейдж и согласие законного представителя.",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "regional_major",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Семейный вход предусмотрен. Основная продажа распродана.",
+      "public_days": [
+        "2027-01-07",
+        "2027-01-08",
+        "2027-01-09",
+        "2027-01-10"
+      ],
+      "highlights": [
+        "Аркады, консоли, LAN и музыка видеоигр"
+      ],
+      "exhibitor_note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "exhibitor_directory_url": "https://super.magfest.org/",
+      "registration_status": "Билеты основной продажи распроданы."
+    },
+    {
+      "id": "E657",
+      "title": "Cambridge Festival 2027 · Family Weekend",
+      "block": "События",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR"
+      ],
+      "city": "Cambridge",
+      "start": "2027-03-13",
+      "end": "2027-03-14",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.festival.cam.ac.uk/news/cambridge-festival-community-funding",
+      "references": [
+        {
+          "url": "https://www.festival.cam.ac.uk/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей выпуска или правилами посещения.",
+      "status": "Идея",
+      "age": "Уикенд предназначен для семей. Возраст и вместимость отдельных занятий уточняются по программе.",
+      "mat": "Да. Семейный вход предусмотрен. Условия отдельных активностей сверить по программе.",
+      "osc": "Да. Семейный вход предусмотрен. Условия отдельных активностей сверить по программе.",
+      "format": "Посещение выставки",
+      "entry": "Университет публикует Family Weekend. Для отдельных занятий уточнить запись и площадку.",
+      "gear": "",
+      "language": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "cost": "Тарифы этого выпуска уточняются.",
+      "level": "Публичный фестиваль",
+      "reward": "",
+      "priority": "P2 — семейная поездка по программе",
+      "action": "Уикенд предназначен для семей. Возраст и вместимость отдельных занятий уточняются по программе.",
+      "note": "Общий фестиваль проходит 10–25 марта 2027. Здесь указаны дни семейной программы. Перечень демонстраций 2027 ещё уточняется.",
+      "themes": [
+        "technology",
+        "engineering",
+        "science"
+      ],
+      "scope": "national",
+      "importance_reason": "Публичный фестиваль",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "adult_entry": "Университет публикует Family Weekend. Для отдельных занятий уточнить запись и площадку.",
+      "child_entry": "Уикенд предназначен для семей. Возраст и вместимость отдельных занятий уточняются по программе.",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "family_alternative",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Семейный вход предусмотрен.",
+      "public_days": [
+        "2027-03-13",
+        "2027-03-14"
+      ],
+      "highlights": [
+        "Семейные демонстрации и практические занятия STEAM"
+      ],
+      "exhibitor_note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "exhibitor_directory_url": "https://www.festival.cam.ac.uk/news/cambridge-festival-community-funding"
+    },
+    {
+      "id": "E658",
+      "title": "Edinburgh Science Festival 2027 · Dreamers",
+      "block": "События",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR"
+      ],
+      "city": "Edinburgh",
+      "start": "2027-04-03",
+      "end": "2027-04-18",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.edinburghscience.co.uk/festival/",
+      "references": [
+        {
+          "url": "https://edinburgh.org/festivals/edinburgh-international-science-festival/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей выпуска или правилами посещения.",
+      "status": "Идея",
+      "age": "Организатор объявляет семейную программу. Возраст на каждом занятии и наличие мест нужно сверить отдельно.",
+      "mat": "Да. Семейный вход предусмотрен. Условия отдельных активностей сверить по программе.",
+      "osc": "Да. Семейный вход предусмотрен. Условия отдельных активностей сверить по программе.",
+      "format": "Посещение выставки",
+      "entry": "Вход и бронирование зависят от площадки и выбранного события.",
+      "gear": "",
+      "language": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "cost": "Тарифы этого выпуска уточняются.",
+      "level": "Публичный фестиваль",
+      "reward": "",
+      "priority": "P2 — семейная поездка по программе",
+      "action": "Организатор объявляет семейную программу. Возраст на каждом занятии и наличие мест нужно сверить отдельно.",
+      "note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "themes": [
+        "technology",
+        "engineering",
+        "science"
+      ],
+      "scope": "national",
+      "importance_reason": "Публичный фестиваль",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "adult_entry": "Вход и бронирование зависят от площадки и выбранного события.",
+      "child_entry": "Организатор объявляет семейную программу. Возраст на каждом занятии и наличие мест нужно сверить отдельно.",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "national",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Семейный вход предусмотрен.",
+      "public_days": [],
+      "highlights": [
+        "Выставки науки и технологии, практические занятия для семей"
+      ],
+      "exhibitor_note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "exhibitor_directory_url": "https://www.edinburghscience.co.uk/festival/"
+    },
+    {
+      "id": "E659",
+      "title": "EXPOCONVENTION Punta del Este 2027 · Gaming",
+      "block": "События",
+      "country": "Уругвай",
+      "region": "Южная Америка",
+      "iso": [
+        "URY"
+      ],
+      "city": "Maldonado · Punta del Este Convention & Exhibition Center",
+      "start": "2027-04-17",
+      "end": "2027-04-18",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://boleteria.redtickets.uy/evento/EXPOCONVENTION--Punta-del-Este-2027/32743/",
+      "references": [],
+      "proof": "Сверено с официальной страницей выпуска или правилами посещения.",
+      "status": "Идея",
+      "age": "Дети до 12 лет включительно проходят бесплатно. Условия отдельных игровых активностей уточняются.",
+      "mat": "Да. Семейный вход предусмотрен. Условия отдельных активностей сверить по программе.",
+      "osc": "Да. Семейный вход предусмотрен. Условия отдельных активностей сверить по программе.",
+      "format": "Посещение выставки",
+      "entry": "Взрослые билеты через RedTickets. Площадка находится в Мальдонадо.",
+      "gear": "",
+      "language": "Сведения организатора на испанском. Язык конкретной активности сверить по программе.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Сведения организатора на испанском. Язык конкретной активности сверить по программе.",
+      "cost": "Для детей до 12 лет включительно вход бесплатный. Взрослый тариф зависит от выбранного билета и сбора.",
+      "level": "Публичный фестиваль",
+      "reward": "",
+      "priority": "P2 — семейная поездка по программе",
+      "action": "Дети до 12 лет включительно проходят бесплатно. Условия отдельных игровых активностей уточняются.",
+      "note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Публичный фестиваль",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Взрослые билеты через RedTickets. Площадка находится в Мальдонадо.",
+      "child_entry": "Дети до 12 лет включительно проходят бесплатно. Условия отдельных игровых активностей уточняются.",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "regional_major",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Семейный вход предусмотрен.",
+      "public_days": [
+        "2027-04-17",
+        "2027-04-18"
+      ],
+      "highlights": [
+        "Видеоигры и игровые демонстрации в составе фестиваля поп-культуры"
+      ],
+      "exhibitor_note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "exhibitor_directory_url": "https://boleteria.redtickets.uy/evento/EXPOCONVENTION--Punta-del-Este-2027/32743/",
+      "sessions": [
+        {
+          "date": "2027-04-17",
+          "topic": "EXPOCONVENTION Punta del Este 2027 · Gaming",
+          "start_time": "14:00",
+          "end_time": "22:00",
+          "timezone": "America/Montevideo",
+          "start_utc": "2027-04-17T17:00:00Z",
+          "end_utc": "2027-04-18T01:00:00Z"
+        },
+        {
+          "date": "2027-04-18",
+          "topic": "EXPOCONVENTION Punta del Este 2027 · Gaming",
+          "start_time": "14:00",
+          "end_time": "22:00",
+          "timezone": "America/Montevideo",
+          "start_utc": "2027-04-18T17:00:00Z",
+          "end_utc": "2027-04-19T01:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "E660",
+      "title": "MEGA XP 2027 · Juegos de mesa y diseño de juegos",
+      "block": "События",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad de México · World Trade Center",
+      "start": "2027-04-24",
+      "end": "2027-04-25",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://megaxp.com.mx/edicion-2027/",
+      "references": [],
+      "proof": "Сверено с официальной страницей выпуска или правилами посещения.",
+      "status": "Идея",
+      "age": "Детский тариф и возрастные условия 2027 пока требуют уточнения.",
+      "mat": "Условно. Организатор ещё не уточнил детский вход для этого выпуска.",
+      "osc": "Условно. Организатор ещё не уточнил детский вход для этого выпуска.",
+      "format": "Посещение выставки",
+      "entry": "Вход на публичную выставку по билету. Допуск к отдельным турнирам проверяется отдельно.",
+      "gear": "",
+      "language": "Сведения организатора на испанском. Язык конкретной активности сверить по программе.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Сведения организатора на испанском. Язык конкретной активности сверить по программе.",
+      "cost": "Тарифы этого выпуска уточняются.",
+      "level": "Публичный фестиваль",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Детский тариф и возрастные условия 2027 пока требуют уточнения.",
+      "note": "Профиль выставки — настольные, коллекционные и ролевые игры. Игровые студии и дизайн механик можно изучать по программе.",
+      "themes": [
+        "games",
+        "design"
+      ],
+      "scope": "national",
+      "importance_reason": "Публичный фестиваль",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Вход на публичную выставку по билету. Допуск к отдельным турнирам проверяется отдельно.",
+      "child_entry": "Детский тариф и возрастные условия 2027 пока требуют уточнения.",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "national",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Условия детского входа уточняются.",
+      "public_days": [
+        "2027-04-24",
+        "2027-04-25"
+      ],
+      "highlights": [
+        "Демонстрации настольных игр, издатели, турнирные и ролевые зоны"
+      ],
+      "exhibitor_note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "exhibitor_directory_url": "https://megaxp.com.mx/edicion-2027/"
+    },
+    {
+      "id": "E661",
+      "title": "World Science Festival Brisbane 2027 · Public Programme",
+      "block": "События",
+      "country": "Австралия",
+      "region": "Океания",
+      "iso": [
+        "AUS"
+      ],
+      "city": "Brisbane",
+      "start": "",
+      "end": "",
+      "period": "Организатор анонсирует март 2027. Даты 17–19 марта относятся к программе для школ. Дни открытых семейных выставок ещё уточняются.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://worldsciencefestival.com.au/",
+      "references": [],
+      "proof": "Сверено с официальной страницей выпуска или правилами посещения.",
+      "status": "Идея",
+      "age": "Общедоступное расписание и возрастные условия этого выпуска ещё ожидаются.",
+      "mat": "Условно. Организатор ещё не уточнил детский вход для этого выпуска.",
+      "osc": "Условно. Организатор ещё не уточнил детский вход для этого выпуска.",
+      "format": "Посещение выставки",
+      "entry": "Следить за публикацией публичной программы и условиями билетов каждого события.",
+      "gear": "",
+      "language": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Сведения организатора на английском. Язык конкретной активности сверить по программе.",
+      "cost": "Тарифы этого выпуска уточняются.",
+      "level": "Международная выставка",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Общедоступное расписание и возрастные условия этого выпуска ещё ожидаются.",
+      "note": "Организатор анонсирует март 2027. Даты 17–19 марта относятся к программе для школ. Дни открытых семейных выставок ещё уточняются.",
+      "themes": [
+        "technology",
+        "science",
+        "engineering"
+      ],
+      "scope": "international",
+      "importance_reason": "Международная выставка",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "adult_entry": "Следить за публикацией публичной программы и условиями билетов каждого события.",
+      "child_entry": "Общедоступное расписание и возрастные условия этого выпуска ещё ожидаются.",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "regional_major",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Условия детского входа уточняются.",
+      "public_days": [],
+      "highlights": [
+        "Научный фестиваль Queensland Museum"
+      ],
+      "exhibitor_note": "Состав стендов и время отдельных демонстраций уточнить по программе этого выпуска.",
+      "exhibitor_directory_url": "https://worldsciencefestival.com.au/",
+      "date_precision": "announced_window",
+      "date_rule": "Организатор анонсирует март 2027. Даты 17–19 марта относятся к программе для школ. Дни открытых семейных выставок ещё уточняются."
     },
     {
       "id": "CP001-20270606-20270619",
@@ -767164,9 +768111,14 @@
       "priority": "P2 — посещение после проверки условий",
       "action": "Уточнить условия входа и выбрать занятия по возрасту и языку.",
       "source": "https://uniat.edu.mx/convocatoria-ficg-uniat/",
-      "references": [],
+      "references": [
+        {
+          "url": "https://ficg.mx/ficgames-2027/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
       "proof": "Официальная заявка UNIAT публикует условия показа и даты фестиваля.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Идея",
       "note": "Авторы Pitch и Playtest должны быть совершеннолетними резидентами Латинской Америки. Срок заявок завершился 16 октября 2026.",
       "themes": [
@@ -767179,14 +768131,17 @@
       "admission_kind": "visitor",
       "evidence_level": "event_page",
       "date_scope": "exhibition_window",
-      "adult_entry": "Показ игровых демо для публики и специалистов. Дни, вход зрителей и возраст детей уточнить.",
+      "adult_entry": "В рамках FICG предусмотрен показ демоверсий. Точные дни PlayTest, площадку и порядок входа организатор сообщит отдельно.",
       "visitor_policy": "confirm_children",
-      "visitor_policy_note": "Показ игровых демо для публики и специалистов. Дни, вход зрителей и возраст детей уточнить.",
-      "exhibition_tier": "global",
-      "highlights": [],
+      "visitor_policy_note": "Открытая зона в программе. Даты и детский допуск конкретного показа пока не опубликованы.",
+      "exhibition_tier": "profile",
+      "highlights": [
+        "Демоверсии для PC, Android и VR"
+      ],
       "exhibitors": [],
-      "exhibitor_note": "Список экспонентов этого выпуска сверять по каталогу организатора.",
-      "exhibitor_directory_url": "https://uniat.edu.mx/convocatoria-ficg-uniat/"
+      "exhibitor_note": "У организатора заявлено до 10 проектов PlayTest. Перечень участников уточняется.",
+      "exhibitor_directory_url": "https://ficg.mx/ficgames-2027/",
+      "child_entry": "Организатор приглашает публику тестировать демоверсии. Возрастную маркировку игр и доступ детей к VR уточнить отдельно."
     },
     {
       "id": "E301",
@@ -777232,7 +778187,7 @@
       "checked": "2026-09-29"
     }
   ],
-  "source_count": 9417,
+  "source_count": 9441,
   "sources": [
     {
       "url": "https://www.torneoluva.com",
@@ -833632,6 +834587,150 @@
       "title": "Страница организатора или регламент категории.",
       "checked": "2026-11-08",
       "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.chanchao.com.tw/Atlife/visitor.asp",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.chanchao.com.tw/atlife/en/visitor.asp",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.chanchao.com.tw/ATLife/visitorBoothEvent.asp",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://fairplus.cn/en/about-fairplus/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://fairplus.cn/visiting-information/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.atc-autoexpo.com/en/visit/get-ticket",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://dreamhack.com/birmingham/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://dreamhack.com/birmingham/faq/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://festival.games.london/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://gdconf.com/festival-hall/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://gdconf.com/faq/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://gdconf.com/passes-pricing/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://super.magfest.org/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://super.magfest.org/attend/registration/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://super.magfest.org/about/faq/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.festival.cam.ac.uk/news/cambridge-festival-community-funding",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.festival.cam.ac.uk/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.edinburghscience.co.uk/festival/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://edinburgh.org/festivals/edinburgh-international-science-festival/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://boleteria.redtickets.uy/evento/EXPOCONVENTION--Punta-del-Este-2027/32743/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://megaxp.com.mx/edicion-2027/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://worldsciencefestival.com.au/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.gamescom.global/en/tickets",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://ficg.mx/ficgames-2027/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
     }
   ],
   "wro_members": 108,
@@ -836128,9 +837227,9 @@
       "region": "Северная Америка",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 286,
-      "exhibitions": 62,
+      "exhibitions": 63,
       "camps": 89,
-      "dated": 349,
+      "dated": 350,
       "organizer": "WRO Mexico / FUNDESTEAM México",
       "organizer_url": "https://wromexico.org/",
       "network_routes": 4,
@@ -836366,9 +837465,9 @@
       "region": "Южная Америка",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 18,
-      "exhibitions": 1,
+      "exhibitions": 2,
       "camps": 6,
-      "dated": 6,
+      "dated": 7,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
       "network_routes": 3,
@@ -836450,9 +837549,9 @@
       "region": "Северная Америка",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 1423,
-      "exhibitions": 55,
+      "exhibitions": 57,
       "camps": 457,
-      "dated": 1910,
+      "dated": 1912,
       "organizer": "US Engineering League",
       "organizer_url": "https://www.uselyouthrobotics.com",
       "network_routes": 4,
@@ -836548,9 +837647,9 @@
       "region": "Азия",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 177,
-      "exhibitions": 32,
+      "exhibitions": 34,
       "camps": 15,
-      "dated": 206,
+      "dated": 208,
       "organizer": "Future Forward Education Technology Group Limited",
       "organizer_url": "https://semia.com/",
       "network_routes": 5,
@@ -837528,9 +838627,9 @@
       "region": "Европа",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 47,
-      "exhibitions": 10,
+      "exhibitions": 14,
       "camps": 59,
-      "dated": 108,
+      "dated": 112,
       "organizer": "STEMpura CIC",
       "organizer_url": "https://www.stempura.org/",
       "network_routes": 4,
@@ -837892,7 +838991,7 @@
       "region": "Океания",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 116,
-      "exhibitions": 13,
+      "exhibitions": 14,
       "camps": 110,
       "dated": 221,
       "organizer": "STEM Academy (STEM Club)",
@@ -838298,9 +839397,9 @@
       "region": "Азия",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 47,
-      "exhibitions": 20,
+      "exhibitions": 21,
       "camps": 217,
-      "dated": 267,
+      "dated": 268,
       "organizer": "ESUN Robot Association in Taiwan",
       "organizer_url": "https://www.facebook.com/ESUNRA",
       "network_routes": 5,
@@ -868977,12 +870076,12 @@
       "fully_audited_countries": 0
     },
     "counts": {
-      "cards": 10719,
+      "cards": 10731,
       "competition_cards": 4788,
-      "event_cards": 649,
+      "event_cards": 661,
       "camp_cards": 5282,
       "league_profiles": 309,
-      "major_exhibition_cards": 550,
+      "major_exhibition_cards": 562,
       "vex_cards": 815,
       "countries_with_records": 242,
       "fully_audited_countries": 0
@@ -868995,11 +870094,11 @@
           "Центральная Америка",
           "Карибский регион"
         ],
-        "total": 3475,
+        "total": 3478,
         "countries_with_records": 41,
         "competitions": 1960,
-        "events": 183,
-        "major_exhibitions": 142,
+        "events": 186,
+        "major_exhibitions": 145,
         "camps": 1332,
         "status": "Частично исследовано",
         "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -869009,11 +870108,11 @@
         "regions": [
           "Южная Америка"
         ],
-        "total": 726,
+        "total": 727,
         "countries_with_records": 15,
         "competitions": 443,
-        "events": 53,
-        "major_exhibitions": 49,
+        "events": 54,
+        "major_exhibitions": 50,
         "camps": 230,
         "status": "Частично исследовано",
         "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
@@ -869023,11 +870122,11 @@
         "regions": [
           "Европа"
         ],
-        "total": 2320,
+        "total": 2324,
         "countries_with_records": 55,
         "competitions": 629,
-        "events": 157,
-        "major_exhibitions": 132,
+        "events": 161,
+        "major_exhibitions": 136,
         "camps": 1534,
         "status": "Частично исследовано",
         "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
@@ -869051,11 +870150,11 @@
         "regions": [
           "Азия"
         ],
-        "total": 3048,
+        "total": 3051,
         "countries_with_records": 50,
         "competitions": 1175,
-        "events": 168,
-        "major_exhibitions": 155,
+        "events": 171,
+        "major_exhibitions": 158,
         "camps": 1705,
         "status": "Частично исследовано",
         "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
@@ -869065,11 +870164,11 @@
         "regions": [
           "Океания"
         ],
-        "total": 537,
+        "total": 538,
         "countries_with_records": 27,
         "competitions": 167,
-        "events": 34,
-        "major_exhibitions": 30,
+        "events": 35,
+        "major_exhibitions": 31,
         "camps": 336,
         "status": "Частично исследовано",
         "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
@@ -883926,6 +885025,138 @@
         "end": "2026-12-12",
         "visitor_policy": "family",
         "source": "https://generacion.com/",
+        "new": false
+      },
+      {
+        "id": "E650",
+        "name": "ATLife 2027 · Assistive Technology for Life",
+        "country": "Тайвань",
+        "region": "Азия",
+        "start": "2027-05-13",
+        "end": "2027-05-16",
+        "visitor_policy": "family",
+        "source": "https://www.chanchao.com.tw/Atlife/visitor.asp",
+        "new": false
+      },
+      {
+        "id": "E651",
+        "name": "FAIR plus 2027 · Fair of AI and Robotics",
+        "country": "Китай",
+        "region": "Азия",
+        "start": "2027-04-21",
+        "end": "2027-04-23",
+        "visitor_policy": "adults_only",
+        "source": "https://fairplus.cn/en/about-fairplus/",
+        "new": false
+      },
+      {
+        "id": "E652",
+        "name": "ATC Shanghai Expo 2027 · Robot Application & Export",
+        "country": "Китай",
+        "region": "Азия",
+        "start": "2027-06-03",
+        "end": "2027-06-05",
+        "visitor_policy": "confirm_children",
+        "source": "https://www.atc-autoexpo.com/en/visit/get-ticket",
+        "new": false
+      },
+      {
+        "id": "E653",
+        "name": "DreamHack Birmingham 2027 · Gaming Expo",
+        "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+        "region": "Европа",
+        "start": "2027-04-02",
+        "end": "2027-04-04",
+        "visitor_policy": "family",
+        "source": "https://dreamhack.com/birmingham/",
+        "new": false
+      },
+      {
+        "id": "E654",
+        "name": "London Games Festival 2027",
+        "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+        "region": "Европа",
+        "start": "2027-04-12",
+        "end": "2027-04-19",
+        "visitor_policy": "confirm_children",
+        "source": "https://festival.games.london/",
+        "new": false
+      },
+      {
+        "id": "E655",
+        "name": "GDC Festival of Gaming 2027 · Festival Hall",
+        "country": "Соединенные Штаты Америки",
+        "region": "Северная Америка",
+        "start": "2027-03-02",
+        "end": "2027-03-04",
+        "visitor_policy": "adults_only",
+        "source": "https://gdconf.com/festival-hall/",
+        "new": false
+      },
+      {
+        "id": "E656",
+        "name": "Super MAGFest 2027 · Music And Gaming Festival",
+        "country": "Соединенные Штаты Америки",
+        "region": "Северная Америка",
+        "start": "2027-01-07",
+        "end": "2027-01-10",
+        "visitor_policy": "family",
+        "source": "https://super.magfest.org/",
+        "new": false
+      },
+      {
+        "id": "E657",
+        "name": "Cambridge Festival 2027 · Family Weekend",
+        "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+        "region": "Европа",
+        "start": "2027-03-13",
+        "end": "2027-03-14",
+        "visitor_policy": "family",
+        "source": "https://www.festival.cam.ac.uk/news/cambridge-festival-community-funding",
+        "new": false
+      },
+      {
+        "id": "E658",
+        "name": "Edinburgh Science Festival 2027 · Dreamers",
+        "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+        "region": "Европа",
+        "start": "2027-04-03",
+        "end": "2027-04-18",
+        "visitor_policy": "family",
+        "source": "https://www.edinburghscience.co.uk/festival/",
+        "new": false
+      },
+      {
+        "id": "E659",
+        "name": "EXPOCONVENTION Punta del Este 2027 · Gaming",
+        "country": "Уругвай",
+        "region": "Южная Америка",
+        "start": "2027-04-17",
+        "end": "2027-04-18",
+        "visitor_policy": "family",
+        "source": "https://boleteria.redtickets.uy/evento/EXPOCONVENTION--Punta-del-Este-2027/32743/",
+        "new": false
+      },
+      {
+        "id": "E660",
+        "name": "MEGA XP 2027 · Juegos de mesa y diseño de juegos",
+        "country": "Мексика",
+        "region": "Северная Америка",
+        "start": "2027-04-24",
+        "end": "2027-04-25",
+        "visitor_policy": "confirm_children",
+        "source": "https://megaxp.com.mx/edicion-2027/",
+        "new": false
+      },
+      {
+        "id": "E661",
+        "name": "World Science Festival Brisbane 2027 · Public Programme",
+        "country": "Австралия",
+        "region": "Океания",
+        "start": "",
+        "end": "",
+        "visitor_policy": "confirm_children",
+        "source": "https://worldsciencefestival.com.au/",
         "new": false
       },
       {
@@ -1281682,7 +1282913,7 @@
       "Младшие группы и языковое доказательство для всех приоритетных операторов.",
       "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
     ],
-    "version": 299,
+    "version": 300,
     "family_review": {
       "version": 150,
       "asof": "2026-11-05",

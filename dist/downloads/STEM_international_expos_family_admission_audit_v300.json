@@ -1,0 +1,62 @@
+{
+  "version": 300,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "E650",
+    "E651",
+    "E652",
+    "E653",
+    "E654",
+    "E655",
+    "E656",
+    "E657",
+    "E658",
+    "E659",
+    "E660",
+    "E661"
+  ],
+  "refreshed_event_ids": [
+    "E021",
+    "E541",
+    "E034",
+    "E300"
+  ],
+  "legacy_overlay_event_ids": [
+    "E021",
+    "E541",
+    "E034",
+    "E300"
+  ],
+  "source_requests": 26,
+  "events_by_policy": {
+    "family": 6,
+    "adults_only": 2,
+    "confirm_children": 4
+  },
+  "examples": {
+    "atlife": "E650",
+    "fairplus": "E651",
+    "atc": "E652",
+    "dreamhack": "E653",
+    "gdc": "E655",
+    "magfest": "E656",
+    "cambridge": "E657",
+    "edinburgh": "E658",
+    "london": "E654",
+    "punta_del_este": "E659",
+    "mega_xp": "E660",
+    "brisbane": "E661"
+  },
+  "source_limits": {
+    "atlife": "Chinese admission page includes children aged 12. English wording differs at age 12. The exoskeleton demo evidence is from 2026.",
+    "atc": "Organizer confirms the overall dates but repeats June 5 with different hours. No daily hours inferred.",
+    "brisbane": "Education dates belong to the school programme. No exact dates assigned to public visitors.",
+    "gdc": "Festival Hall dates differ from the full industry conference. Childcare and supervised Student Day are distinct from exhibition admission.",
+    "magfest": "Published family policy does not imply badge availability. Main registration is sold out.",
+    "dreamhack": "Public official pages were read through the web tool after direct fetch returned 403.",
+    "punta_del_este": "Ticket issuer lists child access and dates. Checkout template zeros are not a price.",
+    "gamescom": "Public dates are current. Child ticket prices of the 2027 edition remain unverified."
+  }
+}

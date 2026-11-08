@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10719; соревнований: 4788; событий: 649; лагерей / программ: 5282. Профилей лиг и программ: 309. Карточек крупных и профильных выставок: 550 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10731; соревнований: 4788; событий: 661; лагерей / программ: 5282. Профилей лиг и программ: 309. Карточек крупных и профильных выставок: 562 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,12 +14,12 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 41 | 1960 | 142 | 1332 |
-| Южная Америка | 15 | 443 | 49 | 230 |
-| Европа | 55 | 629 | 132 | 1534 |
+| Северная Америка | 41 | 1960 | 145 | 1332 |
+| Южная Америка | 15 | 443 | 50 | 230 |
+| Европа | 55 | 629 | 136 | 1534 |
 | Африка | 60 | 247 | 40 | 130 |
-| Азия | 50 | 1175 | 155 | 1705 |
-| Океания | 27 | 167 | 30 | 336 |
+| Азия | 50 | 1175 | 158 | 1705 |
+| Океания | 27 | 167 | 31 | 336 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 189. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
@@ -927,6 +927,18 @@ VEX: 815 из 4788 карточек соревнований (17.0%). Это я�
 - **Neurofest 2026 · Jugar para recuperar: videojuegos y neuro-rehabilitación** — Мексика; 2026-11-27. Со взрослым; условия взрослого входа отдельно. https://www.universum.unam.mx/actividades/e/388/neurofest-2026
 - **FIRVI 2026 · Final Nacional · visita** — Чили; 2026-11-21. Со взрослым; условия взрослого входа отдельно. https://welcu.com/fundacion-mustakis/firvi2026
 - **GENERACIÓN · Festival de Streamers 2026** — Аргентина; 2026-12-11 – 2026-12-12. Со взрослым; условия взрослого входа отдельно. https://generacion.com/
+- **ATLife 2027 · Assistive Technology for Life** — Тайвань; 2027-05-13 – 2027-05-16. Со взрослым; условия взрослого входа отдельно. https://www.chanchao.com.tw/Atlife/visitor.asp
+- **FAIR plus 2027 · Fair of AI and Robotics** — Китай; 2027-04-21 – 2027-04-23. Детям 6/9 нельзя. https://fairplus.cn/en/about-fairplus/
+- **ATC Shanghai Expo 2027 · Robot Application & Export** — Китай; 2027-06-03 – 2027-06-05. Детский допуск уточнить. https://www.atc-autoexpo.com/en/visit/get-ticket
+- **DreamHack Birmingham 2027 · Gaming Expo** — Соединенное Королевство Великобритании и Северной Ирландии; 2027-04-02 – 2027-04-04. Со взрослым; условия взрослого входа отдельно. https://dreamhack.com/birmingham/
+- **London Games Festival 2027** — Соединенное Королевство Великобритании и Северной Ирландии; 2027-04-12 – 2027-04-19. Детский допуск уточнить. https://festival.games.london/
+- **GDC Festival of Gaming 2027 · Festival Hall** — Соединенные Штаты Америки; 2027-03-02 – 2027-03-04. Детям 6/9 нельзя. https://gdconf.com/festival-hall/
+- **Super MAGFest 2027 · Music And Gaming Festival** — Соединенные Штаты Америки; 2027-01-07 – 2027-01-10. Со взрослым; условия взрослого входа отдельно. https://super.magfest.org/
+- **Cambridge Festival 2027 · Family Weekend** — Соединенное Королевство Великобритании и Северной Ирландии; 2027-03-13 – 2027-03-14. Со взрослым; условия взрослого входа отдельно. https://www.festival.cam.ac.uk/news/cambridge-festival-community-funding
+- **Edinburgh Science Festival 2027 · Dreamers** — Соединенное Королевство Великобритании и Северной Ирландии; 2027-04-03 – 2027-04-18. Со взрослым; условия взрослого входа отдельно. https://www.edinburghscience.co.uk/festival/
+- **EXPOCONVENTION Punta del Este 2027 · Gaming** — Уругвай; 2027-04-17 – 2027-04-18. Со взрослым; условия взрослого входа отдельно. https://boleteria.redtickets.uy/evento/EXPOCONVENTION--Punta-del-Este-2027/32743/
+- **MEGA XP 2027 · Juegos de mesa y diseño de juegos** — Мексика; 2027-04-24 – 2027-04-25. Детский допуск уточнить. https://megaxp.com.mx/edicion-2027/
+- **World Science Festival Brisbane 2027 · Public Programme** — Австралия; дата неизвестна. Детский допуск уточнить. https://worldsciencefestival.com.au/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

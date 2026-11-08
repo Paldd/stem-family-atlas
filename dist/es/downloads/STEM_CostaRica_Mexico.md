@@ -5569,6 +5569,19 @@ Limitaciones:
 Fuente: https://www.universum.unam.mx/actividades/e/388/neurofest-2026
 Se ha comprobado: 2026-11-08
 
+### E660 · MEGA XP 2027 · Juegos de mesa y diseño de juegos
+
+Fecha: 2027-04-24 — 2027-04-25
+edad: La tarifa infantil y las reglas de edad de 2027 aún requieren confirmación.
+Matvey: Condicional. La organización aún no ha especificado el acceso infantil para esta edición.
+Oscar: Condicional. La organización aún no ha especificado el acceso infantil para esta edición.
+Idioma: Información de la organización en español. Consultar el idioma de cada actividad en el programa.
+Acceso: Acceso a la exposición pública con boleto. Consultar por separado la admisión a cada torneo.
+Precio: Las tarifas de esta edición están por confirmar.
+Limitaciones: La exposición se centra en juegos de mesa, coleccionables y de rol. El programa permite explorar estudios de juegos y diseño de mecánicas.
+Fuente: https://megaxp.com.mx/edicion-2027/
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -7452,7 +7465,7 @@ Acceso: Muestra de demos para público y profesionales. Confirmar días, acceso 
 Precio: Tarifa de esta edición aún sin confirmar.
 Limitaciones: Autores de Pitch y Playtest mayores de edad residentes en Latinoamérica. Convocatoria cerrada el 16 de octubre de 2026.
 Fuente: https://uniat.edu.mx/convocatoria-ficg-uniat/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### E303 · Claro Tech Summit 2026
 
