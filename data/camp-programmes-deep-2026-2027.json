@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2101,
+    "dossiers": 2108,
     "countries": 136,
     "swiss": 137,
     "by_status": {
@@ -38,17 +38,17 @@
       "published_2027": 557,
       "partial_2027": 152,
       "next_unannounced": 440,
-      "published_2026": 420,
+      "published_2026": 426,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
       "regular_programme": 21,
       "regular_2026_27": 6,
       "historical_2026_next_season_unknown": 1,
-      "announced_dates_programme_pending": 5,
+      "announced_dates_programme_pending": 6,
       "confirmed_2027": 1
     },
-    "source_urls": 3003
+    "source_urls": 3012
   },
   "countries": [
     {
@@ -253,7 +253,7 @@
     },
     {
       "country": "Канада",
-      "count": 201
+      "count": 203
     },
     {
       "country": "Катар",
@@ -325,7 +325,7 @@
     },
     {
       "country": "Малайзия",
-      "count": 20
+      "count": 21
     },
     {
       "country": "Мальдивские Острова",
@@ -380,12 +380,12 @@
       "count": 1
     },
     {
-      "country": "ОАЭ",
+      "country": "Объединенная Республика Танзания",
       "count": 6
     },
     {
-      "country": "Объединенная Республика Танзания",
-      "count": 6
+      "country": "Объединенные Арабские Эмираты",
+      "count": 8
     },
     {
       "country": "Оман",
@@ -461,7 +461,7 @@
     },
     {
       "country": "Соединенное Королевство Великобритании и Северной Ирландии",
-      "count": 26
+      "count": 27
     },
     {
       "country": "Соединенные Штаты Америки",
@@ -481,7 +481,7 @@
     },
     {
       "country": "Таиланд",
-      "count": 11
+      "count": 12
     },
     {
       "country": "Тайвань",
@@ -316766,6 +316766,988 @@
       "materials_languages": [
         "ES"
       ]
+    },
+    {
+      "id": "CP2102",
+      "slug": "tashkeel-dubai-winter-4-6",
+      "provider": "Tashkeel · Winter Camp · 4–6",
+      "country": "Объединенные Арабские Эмираты",
+      "iso": "ARE",
+      "place": "Dubai · Tashkeel",
+      "age": "4–6 лет.",
+      "programme": "Дизайн, ручная работа и творческие мастерские. Содержание зависит от площадки.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "6–10 и 13–17 декабря 2026. Пять занятий на каждой площадке.",
+        "sessions": [
+          [
+            "2026-12-06",
+            "2026-12-10"
+          ],
+          [
+            "2026-12-13",
+            "2026-12-17"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "alserkal",
+            "start": "2026-12-06",
+            "end": "2026-12-10",
+            "label": "10:00–12:30",
+            "price": "1 000 AED за 5 занятий, плюс НДС. Взнос невозвратный.",
+            "source": "https://tashkeel.org/workshops/winter-camp-2026-makerspace-week-4-6-years",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-06",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-06T06:00:00Z",
+                "end_utc": "2026-12-06T08:30:00Z",
+                "topic": "From Clay to Play",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-07",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-07T06:00:00Z",
+                "end_utc": "2026-12-07T08:30:00Z",
+                "topic": "Clay Calendar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-08T06:00:00Z",
+                "end_utc": "2026-12-08T08:30:00Z",
+                "topic": "The Sticker Lab",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-09T06:00:00Z",
+                "end_utc": "2026-12-09T08:30:00Z",
+                "topic": "Pots of Imagination",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-10T06:00:00Z",
+                "end_utc": "2026-12-10T08:30:00Z",
+                "topic": "Create your Comic Poster",
+                "ical_timed": true
+              }
+            ],
+            "delivery_mode": "in_person",
+            "place": "Tashkeel Makerspace · Warehouse 89 · Alserkal Avenue · Dubai",
+            "programme": "Работа с глиной, создание наклеек, керамика и рисунок комиксов.",
+            "deadline": "2026-12-06",
+            "questions": [
+              "Детские группы идут в разные часы в одном месте. Страница предлагает неделю или отдельные мастерские. Цена разового посещения и язык группы уточняются."
+            ]
+          },
+          {
+            "variant_key": "nad",
+            "start": "2026-12-13",
+            "end": "2026-12-17",
+            "label": "10:00–12:30",
+            "price": "1 000 AED за 5 занятий, плюс НДС. Взнос невозвратный.",
+            "source": "https://tashkeel.org/workshops/winter-camp-2026-nad-al-sheba-week-4-6-years",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-13",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-13T06:00:00Z",
+                "end_utc": "2026-12-13T08:30:00Z",
+                "topic": "Riso Calendar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-14",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-14T06:00:00Z",
+                "end_utc": "2026-12-14T08:30:00Z",
+                "topic": "Cyanotype Printed Hoodies",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-15T06:00:00Z",
+                "end_utc": "2026-12-15T08:30:00Z",
+                "topic": "Geometrical Abstract Art",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-16T06:00:00Z",
+                "end_utc": "2026-12-16T08:30:00Z",
+                "topic": "Paint Your Denim",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:00",
+                "end_time": "12:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-17T06:00:00Z",
+                "end_utc": "2026-12-17T08:30:00Z",
+                "topic": "Create Your Own Garden",
+                "ical_timed": true
+              }
+            ],
+            "delivery_mode": "in_person",
+            "place": "Tashkeel Nad Al Sheba · Dubai",
+            "programme": "Ризография, цианотипия на ткани, геометрическая композиция, роспись и проект сада.",
+            "deadline": "2026-12-13",
+            "questions": [
+              "Детские группы идут в разные часы в одном месте. Страница предлагает неделю или отдельные мастерские. Цена разового посещения и язык группы уточняются."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 1000,
+        "currency": "AED",
+        "unit": "week",
+        "label": "1 000 AED за 5 занятий, плюс НДС. Взнос невозвратный.",
+        "included": "",
+        "extras": "",
+        "deposit": "1 000 AED за 5 занятий, плюс НДС. Взнос невозвратный."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту этой группы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "6–10 и 13–17 декабря 2026. Пять занятий на каждой площадке.",
+      "shortlist": [],
+      "questions": [
+        "Детские группы идут в разные часы в одном месте. Страница предлагает неделю или отдельные мастерские. Цена разового посещения и язык группы уточняются."
+      ],
+      "sources": [
+        {
+          "url": "https://tashkeel.org/projects/winter-camp-2026",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://tashkeel.org/workshops/winter-camp-2026-makerspace-week-4-6-years",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://tashkeel.org/workshops/winter-camp-2026-nad-al-sheba-week-4-6-years",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "makers",
+        "arts",
+        "design"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ]
+    },
+    {
+      "id": "CP2103",
+      "slug": "tashkeel-dubai-winter-7-12",
+      "provider": "Tashkeel · Winter Camp · 7–12",
+      "country": "Объединенные Арабские Эмираты",
+      "iso": "ARE",
+      "place": "Dubai · Tashkeel",
+      "age": "7–12 лет.",
+      "programme": "Дизайн, ручная работа и творческие мастерские. Содержание зависит от площадки.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "6–10 и 13–17 декабря 2026. Пять занятий на каждой площадке.",
+        "sessions": [
+          [
+            "2026-12-06",
+            "2026-12-10"
+          ],
+          [
+            "2026-12-13",
+            "2026-12-17"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "alserkal",
+            "start": "2026-12-06",
+            "end": "2026-12-10",
+            "label": "13:30–15:30",
+            "price": "1 000 AED за 5 занятий, плюс НДС. Взнос невозвратный.",
+            "source": "https://tashkeel.org/workshops/winter-camp-2026-makerspace-week-7-12-years",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-06",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-06T09:30:00Z",
+                "end_utc": "2026-12-06T11:30:00Z",
+                "topic": "From Clay to Play",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-07",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-07T09:30:00Z",
+                "end_utc": "2026-12-07T11:30:00Z",
+                "topic": "Clay Calendar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-08T09:30:00Z",
+                "end_utc": "2026-12-08T11:30:00Z",
+                "topic": "The Sticker Lab",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-09T09:30:00Z",
+                "end_utc": "2026-12-09T11:30:00Z",
+                "topic": "Pots of Imagination",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-10T09:30:00Z",
+                "end_utc": "2026-12-10T11:30:00Z",
+                "topic": "Create your Comic Poster",
+                "ical_timed": true
+              }
+            ],
+            "delivery_mode": "in_person",
+            "place": "Tashkeel Makerspace · Warehouse 89 · Alserkal Avenue · Dubai",
+            "programme": "Работа с глиной, создание наклеек, керамика и рисунок комиксов.",
+            "deadline": "2026-12-06",
+            "questions": [
+              "Детские группы идут в разные часы в одном месте. Страница предлагает неделю или отдельные мастерские. Цена разового посещения и язык группы уточняются."
+            ]
+          },
+          {
+            "variant_key": "nad",
+            "start": "2026-12-13",
+            "end": "2026-12-17",
+            "label": "13:30–15:30",
+            "price": "1 000 AED за 5 занятий, плюс НДС. Взнос невозвратный.",
+            "source": "https://tashkeel.org/workshops/winter-camp-2026-nad-al-sheba-week-7-12-years",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-13",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-13T09:30:00Z",
+                "end_utc": "2026-12-13T11:30:00Z",
+                "topic": "Riso Calendar",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-14",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-14T09:30:00Z",
+                "end_utc": "2026-12-14T11:30:00Z",
+                "topic": "Cyanotype Printed Hoodies",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-15T09:30:00Z",
+                "end_utc": "2026-12-15T11:30:00Z",
+                "topic": "Geometrical Abstract Art",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-16T09:30:00Z",
+                "end_utc": "2026-12-16T11:30:00Z",
+                "topic": "Paint Your Denim",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Dubai",
+                "start_utc": "2026-12-17T09:30:00Z",
+                "end_utc": "2026-12-17T11:30:00Z",
+                "topic": "Create Your Own Garden",
+                "ical_timed": true
+              }
+            ],
+            "delivery_mode": "in_person",
+            "place": "Tashkeel Nad Al Sheba · Dubai",
+            "programme": "Ризография, цианотипия на ткани, геометрическая композиция, роспись и проект сада.",
+            "deadline": "2026-12-13",
+            "questions": [
+              "Детские группы идут в разные часы в одном месте. Страница предлагает неделю или отдельные мастерские. Цена разового посещения и язык группы уточняются."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 1000,
+        "currency": "AED",
+        "unit": "week",
+        "label": "1 000 AED за 5 занятий, плюс НДС. Взнос невозвратный.",
+        "included": "",
+        "extras": "",
+        "deposit": "1 000 AED за 5 занятий, плюс НДС. Взнос невозвратный."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту этой группы."
+        }
+      },
+      "editorial_reason": "6–10 и 13–17 декабря 2026. Пять занятий на каждой площадке.",
+      "shortlist": [],
+      "questions": [
+        "Детские группы идут в разные часы в одном месте. Страница предлагает неделю или отдельные мастерские. Цена разового посещения и язык группы уточняются."
+      ],
+      "sources": [
+        {
+          "url": "https://tashkeel.org/projects/winter-camp-2026",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://tashkeel.org/workshops/winter-camp-2026-makerspace-week-7-12-years",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://tashkeel.org/workshops/winter-camp-2026-nad-al-sheba-week-7-12-years",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "makers",
+        "arts",
+        "design"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ]
+    },
+    {
+      "id": "CP2104",
+      "slug": "aspiration-aips-petaling-jaya-winter",
+      "provider": "Aspiration International Primary School · Winter Holiday Programme",
+      "country": "Малайзия",
+      "iso": "MYS",
+      "place": "Aspiration International Primary School · Petaling Jaya",
+      "age": "6–12 лет.",
+      "programme": "STEM-опыты, языковые занятия, художественная экскурсия и изготовление мыла. Экскурсии, батик, занятия с командой и школьная ночёвка.",
+      "format": "day",
+      "formats": [
+        "day",
+        "boarding"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "7–10 и 14–18 декабря 2026. По FAQ 4 и 5 дней. Для второй недели отдельно уточнить время сбора и выезда в день ночёвки.",
+        "sessions": [
+          [
+            "2026-12-07",
+            "2026-12-10"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "explore-create",
+            "start": "2026-12-07",
+            "end": "2026-12-10",
+            "label": "Explore & Create",
+            "price": "1 199 MYR за неделю. Ранний тариф 999 MYR при оплате до 15 ноября 2026.",
+            "source": "https://www.aspirationis.edu.my/winter-holiday-programme",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH"
+            ],
+            "programme": "STEM-опыты, языковые занятия, художественная экскурсия и изготовление мыла.",
+            "place": "Aspiration Care · Plaza Damansara Utama · Petaling Jaya",
+            "questions": [
+              "Скидка при оплате до 15 ноября 2026 при наличии мест. Язык конкретной группы, экскурсионный транспорт и условия возврата подтвердить.",
+              "Включён ежедневный обед. Взять перекус и бутылку для воды."
+            ],
+            "delivery_mode": "in_person",
+            "formats": [
+              "day"
+            ],
+            "accommodation": "Дневной формат без проживания."
+          },
+          {
+            "variant_key": "discover-experience",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Discover & Experience",
+            "price": "1 399 MYR за неделю. Ранний тариф 1 199 MYR при оплате до 15 ноября 2026.",
+            "source": "https://www.aspirationis.edu.my/winter-holiday-programme",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "programme": "Экскурсии, батик, занятия с командой и школьная ночёвка.",
+            "accommodation": "Во второй неделе по программе 1 ночь в школе с 17 на 18 декабря под присмотром преподавателей.",
+            "questions": [
+              "Скидка при оплате до 15 ноября 2026 при наличии мест. Язык конкретной группы, экскурсионный транспорт и условия возврата подтвердить.",
+              "Во второй неделе по программе 1 ночь в школе с 17 на 18 декабря под присмотром преподавателей.",
+              "Включён ежедневный обед. Взять перекус и бутылку для воды."
+            ],
+            "delivery_mode": "in_person",
+            "formats": [
+              "day",
+              "boarding"
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "MYR",
+        "unit": "week",
+        "label": "1 199 MYR за неделю. Ранний тариф 999 MYR при оплате до 15 ноября 2026. 1 399 MYR за неделю. Ранний тариф 1 199 MYR при оплате до 15 ноября 2026.",
+        "included": "Включён ежедневный обед. Взять перекус и бутылку для воды.",
+        "extras": "Скидка при оплате до 15 ноября 2026 при наличии мест. Язык конкретной группы, экскурсионный транспорт и условия возврата подтвердить.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Две отдельные недели с экскурсиями. Одна ночёвка предусмотрена только во второй.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "7–10 и 14–18 декабря 2026. По FAQ 4 и 5 дней. Для второй недели отдельно уточнить время сбора и выезда в день ночёвки.",
+      "shortlist": [],
+      "questions": [
+        "Скидка при оплате до 15 ноября 2026 при наличии мест. Язык конкретной группы, экскурсионный транспорт и условия возврата подтвердить.",
+        "Во второй неделе по программе 1 ночь в школе с 17 на 18 декабря под присмотром преподавателей."
+      ],
+      "sources": [
+        {
+          "url": "https://www.aspirationis.edu.my/winter-holiday-programme",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "makers",
+        "general"
+      ],
+      "programme_type": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ]
+    },
+    {
+      "id": "CP2105",
+      "slug": "urban-fun-london-young-architects-winter",
+      "provider": "Urban Fun · Young Architects Winter Holiday Camp",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "iso": "GBR",
+      "place": "Orleans Park School · Richmond Road · Twickenham",
+      "age": "6–12 лет.",
+      "programme": "Архитектурный рисунок, работа с формой и материалами, изготовление 3D-макетов.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026",
+        "label": "28–30 декабря 2026, с 09:00 до 15:00.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "young-architects",
+            "start": "2026-12-28",
+            "end": "2026-12-30",
+            "label": "09:00–15:00",
+            "price": "Общий прайс показывает 75 GBP за день и 195 GBP за 3 дня. Цена именно этой смены на странице события не указана. Двухдневные тарифы на сайте расходятся.",
+            "source": "https://www.urbanfun.co.uk/holiday-camps/2026-winter-holiday-camp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-28T09:00:00Z",
+                "end_utc": "2026-12-28T15:00:00Z",
+                "topic": "09:00–15:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-29T09:00:00Z",
+                "end_utc": "2026-12-29T15:00:00Z",
+                "topic": "09:00–15:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Europe/London",
+                "start_utc": "2026-12-30T09:00:00Z",
+                "end_utc": "2026-12-30T15:00:00Z",
+                "topic": "09:00–15:00",
+                "ical_timed": true
+              }
+            ],
+            "delivery_mode": "in_person",
+            "questions": [
+              "Места ограничены. Сверить цену выбранных дней, язык и перечень материалов на эту смену."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "GBP",
+        "unit": "programme",
+        "label": "Общий прайс показывает 75 GBP за день и 195 GBP за 3 дня. Цена именно этой смены на странице события не указана. Двухдневные тарифы на сайте расходятся.",
+        "included": "",
+        "extras": "Места ограничены. Сверить цену выбранных дней, язык и перечень материалов на эту смену.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "28–30 декабря 2026, с 09:00 до 15:00.",
+      "shortlist": [],
+      "questions": [
+        "Места ограничены. Сверить цену выбранных дней, язык и перечень материалов на эту смену."
+      ],
+      "sources": [
+        {
+          "url": "https://www.urbanfun.co.uk/holiday-camps/2026-winter-holiday-camp",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.urbanfun.co.uk/holiday-camps",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "design",
+        "engineering",
+        "makers"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ]
+    },
+    {
+      "id": "CP2106",
+      "slug": "science-north-sudbury-winter-robo-builders",
+      "provider": "Science North · Sudbury · Robo Builders",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Science North · 100 Ramsey Lake Road · Sudbury",
+      "age": "12–13 лет.",
+      "programme": "Сборка и программирование роботов LEGO SPIKE.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор отдельно предлагает программы на английском и французском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026",
+        "label": "2026-12-21 – 2026-12-23",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "robo-builders",
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "Robo Builders",
+            "price": "114 CAD за 3 дня по общему тарифу, 103 CAD для участников клуба.",
+            "source": "https://www.sciencenorth.ca/school-break-camps",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "questions": [
+              "Площадка публикует английские и французские группы отдельно. Проверить язык при выборе билета, наличие мест и итоговую цену."
+            ],
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 114,
+        "currency": "CAD",
+        "unit": "session",
+        "label": "114 CAD за 3 дня по общему тарифу, 103 CAD для участников клуба.",
+        "included": "",
+        "extras": "Площадка публикует английские и французские группы отдельно. Проверить язык при выборе билета, наличие мест и итоговую цену.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет по возрасту этой группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по возрасту этой группы."
+        }
+      },
+      "editorial_reason": "2026-12-21 – 2026-12-23",
+      "shortlist": [],
+      "questions": [
+        "Площадка публикует английские и французские группы отдельно. Проверить язык при выборе билета, наличие мест и итоговую цену."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sciencenorth.ca/school-break-camps",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2107",
+      "slug": "science-north-sudbury-winter-techlab",
+      "provider": "Science North · Sudbury · TechLab",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Science North · 100 Ramsey Lake Road · Sudbury",
+      "age": "12–13 лет.",
+      "programme": "Цепные реакции, гидравлика, пневматика, знакомство с 3D-печатью и лазерной резкой.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор отдельно предлагает программы на английском и французском.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026",
+        "label": "2026-12-29 – 2026-12-31",
+        "sessions": [
+          [
+            "2026-12-29",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "techlab",
+            "start": "2026-12-29",
+            "end": "2026-12-31",
+            "label": "TechLab",
+            "price": "114 CAD за 3 дня по общему тарифу, 103 CAD для участников клуба.",
+            "source": "https://www.sciencenorth.ca/school-break-camps",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "questions": [
+              "Площадка публикует английские и французские группы отдельно. Проверить язык при выборе билета, наличие мест и итоговую цену."
+            ],
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 114,
+        "currency": "CAD",
+        "unit": "session",
+        "label": "114 CAD за 3 дня по общему тарифу, 103 CAD для участников клуба.",
+        "included": "",
+        "extras": "Площадка публикует английские и французские группы отдельно. Проверить язык при выборе билета, наличие мест и итоговую цену.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет по возрасту этой группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по возрасту этой группы."
+        }
+      },
+      "editorial_reason": "2026-12-29 – 2026-12-31",
+      "shortlist": [],
+      "questions": [
+        "Площадка публикует английские и французские группы отдельно. Проверить язык при выборе билета, наличие мест и итоговую цену."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sciencenorth.ca/school-break-camps",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2108",
+      "slug": "regents-bangkok-english-winter-2027",
+      "provider": "Regent’s · English Winter Camp 2027",
+      "country": "Таиланд",
+      "iso": "THA",
+      "place": "Regent’s International School · Boarding Campus · Huai Khwang · Bangkok",
+      "age": "3–12 лет.",
+      "programme": "Английский с преподавателями школы, творческие занятия, спорт и практические активности.",
+      "format": "unknown",
+      "formats": [
+        "unknown"
+      ],
+      "language": "Заявлено погружение в английский и занятия с преподавателями Regent’s English Experience.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "language_lessons",
+      "timing": {
+        "status": "announced_dates_programme_pending",
+        "label": "Общее окно с 11 января по 19 февраля 2027. Даты заезда, часы, цену и доступность выбранного пакета уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "THB",
+        "unit": "programme",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "",
+        "extras": "Место проведения называется Boarding Campus. Ночёвки и их тариф в описании лагеря не указаны.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Место проведения называется Boarding Campus. Ночёвки и их тариф в описании лагеря не указаны.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "Общее окно с 11 января по 19 февраля 2027. Даты заезда, часы, цену и доступность выбранного пакета уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Общее окно с 11 января по 19 февраля 2027. Даты заезда, часы, цену и доступность выбранного пакета уточнить.",
+        "Место проведения называется Boarding Campus. Ночёвки и их тариф в описании лагеря не указаны."
+      ],
+      "sources": [
+        {
+          "url": "https://regents.ac.th/extra-programme/course-camps/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "languages",
+        "general",
+        "arts"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "unconfirmed_program",
+      "related_event_ids": [
+        "L880"
+      ]
     }
   ],
   "gaps": [
@@ -322091,7 +323073,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 298,
+  "version": 299,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -335326,7 +336308,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2101,
+      "total_dossiers": 2108,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

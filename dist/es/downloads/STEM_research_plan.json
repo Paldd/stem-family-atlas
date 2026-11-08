@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 298,
+    "version": 299,
     "status": "implementation_snapshot",
-    "events": 10709,
+    "events": 10719,
     "competitions": 4788,
     "league_profiles": 309,
-    "camp_dossiers": 2101,
+    "camp_dossiers": 2108,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -928,11 +928,11 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 297,
+    "version": 298,
     "status": "implementation_snapshot",
-    "events": 10669,
-    "competitions": 4753,
-    "league_profiles": 305,
+    "events": 10709,
+    "competitions": 4788,
+    "league_profiles": 309,
     "camp_dossiers": 2101,
     "budget_offers": 312,
     "editorial_reviewed": 71,
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 298,
+    "prepared_ui_version": 299,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 297,
-    "previous_verified_commit": "7b2ea1932b47120cfbe217b4965f299f55a0dc23"
+    "previous_verified_ui_version": 298,
+    "previous_verified_commit": "54b1d1307a0058549c412040933e4e95fa9fdded"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 297,
-    "published_version": 297,
-    "latest_source_commit": "7b2ea1932b47120cfbe217b4965f299f55a0dc23",
-    "published_commit": "7b2ea1932b47120cfbe217b4965f299f55a0dc23",
-    "latest_workflow": 42516477310,
+    "latest_source_version": 298,
+    "published_version": 298,
+    "latest_source_commit": "54b1d1307a0058549c412040933e4e95fa9fdded",
+    "published_commit": "54b1d1307a0058549c412040933e4e95fa9fdded",
+    "latest_workflow": 42518201801,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -31121,5 +31121,66 @@
     },
     "audit": "data/online-team-and-robotics-projects-audit-v298.json",
     "source_receipts": "data/online-team-and-robotics-projects-source-receipts-v298.json"
+  },
+  "catalog_pagination_and_winter_camps_v299": {
+    "version": 299,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "L880",
+      "CP2102-20261206-20261210-alserkal",
+      "CP2102-20261213-20261217-nad",
+      "CP2103-20261206-20261210-alserkal",
+      "CP2103-20261213-20261217-nad",
+      "CP2104-20261207-20261210-explore-create",
+      "CP2104-20261214-20261218-discover-experience",
+      "CP2105-20261228-20261230-young-architects",
+      "CP2106-20261221-20261223-robo-builders",
+      "CP2107-20261229-20261231-techlab"
+    ],
+    "new_dossiers": [
+      "CP2102",
+      "CP2103",
+      "CP2104",
+      "CP2105",
+      "CP2106",
+      "CP2107",
+      "CP2108"
+    ],
+    "new_dated_variants": 9,
+    "refreshed_event_ids": [],
+    "legacy_overlay_event_ids": [],
+    "dossier_event_links": {
+      "regents-bangkok-english-winter-2027": [
+        "L880"
+      ]
+    },
+    "source_requests": 10,
+    "tashkeel": [
+      "CP2102",
+      "CP2103"
+    ],
+    "aspiration": "CP2104",
+    "urban_fun": "CP2105",
+    "science_north": [
+      "CP2106",
+      "CP2107"
+    ],
+    "regent": "CP2108",
+    "navigation": {
+      "page_size": 80,
+      "filters_scope": "all_matching_events",
+      "csv_and_ical_scope": "unchanged"
+    },
+    "source_limits": {
+      "aspiration": "Different weekly programmes. An overnight is listed on 17–18 December. Early bird rates are conditional on payment and places.",
+      "tashkeel": "Two age groups at each venue. Only dated full weeks modelled. Single-session rates and classroom language unverified.",
+      "urban": "The event page does not show a specific price. The general pages disagree on the two-day rate.",
+      "science_north": "The English schedule lists these December technology tracks for ages 12–13. French options require separate verification.",
+      "regent": "Official window and age verified. Selected weekly starts, fees and boarding conditions are still unconfirmed."
+    },
+    "audit": "data/catalog-pagination-and-winter-camps-audit-v299.json",
+    "source_receipts": "data/catalog-pagination-and-winter-camps-source-receipts-v299.json"
   }
 }

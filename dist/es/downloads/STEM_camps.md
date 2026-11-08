@@ -12854,6 +12854,22 @@ Limitaciones: Clase introductoria para grupos. La participación en el torneo se
 Fuente: https://www.innokas.fi/tapahtumat/turnausetaoppitunnit2027/
 Se ha comprobado: 2026-11-08
 
+### L880 · Regent’s · English Winter Camp 2027
+
+lugar: Tailandia · Regent’s International School · Boarding Campus · Huai Khwang · Bangkok
+Fecha: 2027-01-11 — 2027-02-19
+Edad: 3*12 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+Formato: unconfirmed_program
+Idioma: Se anuncia inmersión en inglés y clases con docentes de Regent’s English Experience.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Periodo general del 11 de enero al 19 de febrero de 2027. Confirmar entrada, horario, precio y disponibilidad del paquete elegido.
+Limitaciones: La sede se llama Boarding Campus. La descripción del campamento no especifica pernoctas ni su tarifa.
+Fuente: https://regents.ac.th/extra-programme/course-camps/
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -83140,6 +83156,150 @@ Precio: 2027 · 98 000 CLP según la página del curso. · suplementos y condici
 Acceso: La organización pide certificado de estudios de 2025 e indica los cursos admisibles en 2026. Confirmar formato de documento extranjero y plazas.
 Limitaciones: Matvey: No cumple. La categoría requiere un curso o nivel educativo superior. Oscar: No cumple. La categoría requiere un curso o nivel educativo superior. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://www.edv.uchile.cl/portfolio/robotica-innovacion-de-los-fundamentos-a-las-maquinas-que-cambian-el-mundo-2/
+Se ha comprobado: 2026-11-08
+
+### CP2102-20261206-20261210-alserkal · Tashkeel · Winter Camp · 4–6 · 10:00–12:30 · 2026-12-06–2026-12-10
+
+lugar: Emiratos Árabes Unidos · Tashkeel Makerspace · Warehouse 89 · Alserkal Avenue · Dubai
+Fecha: 2026-12-06 — 2026-12-10
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 1 000 AED por 5 clases, más IVA. Cuota no reembolsable. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: 1 000 AED por 5 clases, más IVA. Cuota no reembolsable.
+Fuente: https://tashkeel.org/workshops/winter-camp-2026-makerspace-week-4-6-years
+Se ha comprobado: 2026-11-08
+
+### CP2102-20261213-20261217-nad · Tashkeel · Winter Camp · 4–6 · 10:00–12:30 · 2026-12-13–2026-12-17
+
+lugar: Emiratos Árabes Unidos · Tashkeel Nad Al Sheba · Dubai
+Fecha: 2026-12-13 — 2026-12-17
+Edad: 4–6 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 1 000 AED por 5 clases, más IVA. Cuota no reembolsable. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para este grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos:  Pago: 1 000 AED por 5 clases, más IVA. Cuota no reembolsable.
+Fuente: https://tashkeel.org/workshops/winter-camp-2026-nad-al-sheba-week-4-6-years
+Se ha comprobado: 2026-11-08
+
+### CP2103-20261206-20261210-alserkal · Tashkeel · Winter Camp · 7–12 · 13:30–15:30 · 2026-12-06–2026-12-10
+
+lugar: Emiratos Árabes Unidos · Tashkeel Makerspace · Warehouse 89 · Alserkal Avenue · Dubai
+Fecha: 2026-12-06 — 2026-12-10
+Edad: 7 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 1 000 AED por 5 clases, más IVA. Cuota no reembolsable. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por edad para este grupo. Suplementos:  Pago: 1 000 AED por 5 clases, más IVA. Cuota no reembolsable.
+Fuente: https://tashkeel.org/workshops/winter-camp-2026-makerspace-week-7-12-years
+Se ha comprobado: 2026-11-08
+
+### CP2103-20261213-20261217-nad · Tashkeel · Winter Camp · 7–12 · 13:30–15:30 · 2026-12-13–2026-12-17
+
+lugar: Emiratos Árabes Unidos · Tashkeel Nad Al Sheba · Dubai
+Fecha: 2026-12-13 — 2026-12-17
+Edad: 7 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 1 000 AED por 5 clases, más IVA. Cuota no reembolsable. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por edad para este grupo. Suplementos:  Pago: 1 000 AED por 5 clases, más IVA. Cuota no reembolsable.
+Fuente: https://tashkeel.org/workshops/winter-camp-2026-nad-al-sheba-week-7-12-years
+Se ha comprobado: 2026-11-08
+
+### CP2104-20261207-20261210-explore-create · Aspiration International Primary School · Winter Holiday Programme · Explore & Create · 2026-12-07–2026-12-10
+
+lugar: Malasia · Aspiration Care · Plaza Damansara Utama · Petaling Jaya
+Fecha: 2026-12-07 — 2026-12-10
+Edad: 6*12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 1 199 MYR por semana. Tarifa anticipada de 999 MYR con pago hasta el 15 de noviembre de 2026. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Descuento con pago hasta el 15 de noviembre de 2026 sujeto a plazas. Confirmar idioma del grupo, transporte de excursiones y condiciones de devolución. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.aspirationis.edu.my/winter-holiday-programme
+Se ha comprobado: 2026-11-08
+
+### CP2104-20261214-20261218-discover-experience · Aspiration International Primary School · Winter Holiday Programme · Discover & Experience · 2026-12-14–2026-12-18
+
+lugar: Malasia · Aspiration International Primary School · Petaling Jaya
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 6*12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: mixed_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 1 399 MYR por semana. Tarifa anticipada de 1 199 MYR con pago hasta el 15 de noviembre de 2026. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Descuento con pago hasta el 15 de noviembre de 2026 sujeto a plazas. Confirmar idioma del grupo, transporte de excursiones y condiciones de devolución. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.aspirationis.edu.my/winter-holiday-programme
+Se ha comprobado: 2026-11-08
+
+### CP2105-20261228-20261230-young-architects · Urban Fun · Young Architects Winter Holiday Camp · 09:00–15:00 · 2026-12-28–2026-12-30
+
+lugar: Reino Unido · Orleans Park School · Richmond Road · Twickenham
+Fecha: 2026-12-28 — 2026-12-30
+Edad: 6*12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La tarifa general indica 75 GBP por día y 195 GBP por 3 días. La página del evento no especifica el precio de esta edición. Las tarifas de dos días difieren en el sitio. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Plazas limitadas. Confirmar precio de los días elegidos, idioma y materiales para esta edición. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.urbanfun.co.uk/holiday-camps/2026-winter-holiday-camp
+Se ha comprobado: 2026-11-08
+
+### CP2106-20261221-20261223-robo-builders · Science North · Sudbury · Robo Builders · Robo Builders · 2026-12-21–2026-12-23
+
+lugar: Canadá · Science North · 100 Ramsey Lake Road · Sudbury
+Fecha: 2026-12-21 - 2026-12-23
+edad: 12–13 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La organización ofrece programas separados en inglés y francés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · 114 CAD por 3 días con tarifa general, 103 CAD para socios. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para este grupo. Oscar: No por edad para este grupo. Suplementos: La sede publica grupos en inglés y francés por separado. Confirmar idioma al elegir entrada, plazas y precio final. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sciencenorth.ca/school-break-camps
+Se ha comprobado: 2026-11-08
+
+### CP2107-20261229-20261231-techlab · Science North · Sudbury · TechLab · TechLab · 2026-12-29–2026-12-31
+
+lugar: Canadá · Science North · 100 Ramsey Lake Road · Sudbury
+Fecha: 2026-12-29 - 2026-12-31
+edad: 12–13 años.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: La organización ofrece programas separados en inglés y francés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · 114 CAD por 3 días con tarifa general, 103 CAD para socios. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No por edad para este grupo. Oscar: No por edad para este grupo. Suplementos: La sede publica grupos en inglés y francés por separado. Confirmar idioma al elegir entrada, plazas y precio final. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.sciencenorth.ca/school-break-camps
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

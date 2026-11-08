@@ -92,13 +92,47 @@ function drawExhibitions(a){
  $('#exhibition-cards').innerHTML=a.length?a.map(card).join(''):empty();
 }
 
+const catalogPageSize=80;
+let catalogResults=[],catalogPage=1;
+
 function drawCatalog(a){
- $('#catalog-summary').textContent=`Se muestran ${a.length} de ${EVENTS.length} registros · ${a.filter(e=>e.start).length} con fechas indicadas. La búsqueda, los filtros y el orden se aplican a toda la tabla.`;
- $('#catalog-table-container').innerHTML=a.length?`<table class="catalog-table"><caption class="sr-only">Todos los registros filtrados: ${a.length}</caption><thead><tr><th scope="col">La actividad / disciplina</th><th scope="col">fecha y plazo de la solicitud</th><th scope="col">país / ciudad</th><th scope="col">niños y formato</th><th scope="col">el costo / verificación</th><th scope="col">Abrir</th></tr></thead><tbody>${a.map(e=>`<tr data-id="${esc(e.id)}" class="${excluded(e)?'catalog-restricted':''}" ${DIRECTIONS.attributes(e.themes)}><td data-label="el evento"><span class="catalog-id">${esc(e.id)} · ${esc(e.block)} · ${esc(e.priority.split(' — ')[0])}</span><button class="catalog-title" data-open="${esc(e.id)}">${esc(e.title)}</button>${window.bestBadge('event',e.id)}${DIRECTIONS.chips(e.themes)}<span class="catalog-detail">${esc(scopeLabels[e.scope]||e.scope)}${excluded(e)?" · hay restricciones":''}</span></td><td data-label="Fechas"><b>${esc(dateText(e))}</b>${e.deadline?`<span class="catalog-detail">${esc(e.deadline_label||"Registro")}: ${esc(shortDate(e.deadline))}</span>`:''}<span class="catalog-detail">${esc(e.date_status)}</span></td><td data-label="lugar"><b>${esc(e.country)}</b><span class="catalog-detail">${esc(e.city||e.region)}</span></td><td data-label="niños / formato"><div class="kid-chips">${kidChip(e,'mat',"Matvey")}${kidChip(e,'osc',"Oscar")}</div><span class="catalog-detail">${esc(participationLabels[e.participation]||e.participation)}</span><span class="catalog-detail">${esc(e.age)}</span></td><td data-label="el costo / verificación"><span>${esc(e.cost)}</span><span class="catalog-evidence">${esc(evidenceLabels[e.evidence_level]||"la verificación está en la tarjeta")}</span></td><td data-label="acciones"><button class="button secondary catalog-open" data-open="${esc(e.id)}">Más información</button><a class="catalog-source" href="${esc(e.source)}" target="_blank" rel="noopener">fuente</a></td></tr>`).join('')}</tbody></table>`:empty();
+ const changed=a.length!==catalogResults.length||a.some((event,index)=>event!==catalogResults[index]);
+ if(changed)catalogPage=1;
+ catalogResults=a;
+ $('#catalog-summary').textContent=`Se encontraron ${a.length} de ${EVENTS.length} registros · ${a.filter(e=>e.start).length} con fechas indicadas. La búsqueda y los filtros se aplican a toda la base.`;
+ drawCatalogPage();
+ if(changed)$('#catalog-table-container').scrollTop=0;
 }
 
+function drawCatalogPage(){
+ const totalPages=Math.max(1,Math.ceil(catalogResults.length/catalogPageSize));
+ const offset=(catalogPage-1)*catalogPageSize;
+ const rows=catalogResults.slice(offset,offset+catalogPageSize);
+ const picker=$('#catalog-page');
+ if(picker.options.length!==totalPages){
+  picker.replaceChildren(...Array.from({length:totalPages},(_,index)=>new Option(String(index+1),String(index+1))));
+ }
+ picker.value=String(catalogPage);
+ $('#catalog-pagination').hidden=totalPages===1;
+ $('#catalog-prev').disabled=catalogPage===1;
+ $('#catalog-next').disabled=catalogPage===totalPages;
+ $('#catalog-page-range').textContent=`${offset+1}–${offset+rows.length} / ${catalogResults.length}`;
+ $('#catalog-table-container').innerHTML=rows.length?`<table class="catalog-table"><caption class="sr-only">Filas en la página: ${rows.length}</caption><thead><tr><th scope="col">La actividad / disciplina</th><th scope="col">fecha y plazo de la solicitud</th><th scope="col">país / ciudad</th><th scope="col">niños y formato</th><th scope="col">el costo / verificación</th><th scope="col">Abrir</th></tr></thead><tbody>${rows.map(e=>`<tr data-id="${esc(e.id)}" class="${excluded(e)?'catalog-restricted':''}" ${DIRECTIONS.attributes(e.themes)}><td data-label="el evento"><span class="catalog-id">${esc(e.id)} · ${esc(e.block)} · ${esc(e.priority.split(' — ')[0])}</span><button class="catalog-title" data-open="${esc(e.id)}">${esc(e.title)}</button>${window.bestBadge('event',e.id)}${DIRECTIONS.chips(e.themes)}<span class="catalog-detail">${esc(scopeLabels[e.scope]||e.scope)}${excluded(e)?" · hay restricciones":''}</span></td><td data-label="Fechas"><b>${esc(dateText(e))}</b>${e.deadline?`<span class="catalog-detail">${esc(e.deadline_label||"Registro")}: ${esc(shortDate(e.deadline))}</span>`:''}<span class="catalog-detail">${esc(e.date_status)}</span></td><td data-label="lugar"><b>${esc(e.country)}</b><span class="catalog-detail">${esc(e.city||e.region)}</span></td><td data-label="niños / formato"><div class="kid-chips">${kidChip(e,'mat',"Matvey")}${kidChip(e,'osc',"Oscar")}</div><span class="catalog-detail">${esc(participationLabels[e.participation]||e.participation)}</span><span class="catalog-detail">${esc(e.age)}</span></td><td data-label="el costo / verificación"><span>${esc(e.cost)}</span><span class="catalog-evidence">${esc(evidenceLabels[e.evidence_level]||"la verificación está en la tarjeta")}</span></td><td data-label="acciones"><button class="button secondary catalog-open" data-open="${esc(e.id)}">Más información</button><a class="catalog-source" href="${esc(e.source)}" target="_blank" rel="noopener">fuente</a></td></tr>`).join('')}</tbody></table>`:empty();
+}
+
+function showCatalogPage(page){
+ const totalPages=Math.ceil(catalogResults.length/catalogPageSize);
+ if(!Number.isInteger(page)||page<1||page>totalPages||page===catalogPage)return;
+ catalogPage=page;
+ drawCatalogPage();
+ $('#catalog-table-container').scrollTop=0;
+}
+$('#catalog-prev').onclick=()=>showCatalogPage(catalogPage-1);
+$('#catalog-next').onclick=()=>showCatalogPage(catalogPage+1);
+$('#catalog-page').onchange=event=>showCatalogPage(Number(event.target.value));
+
 function setView(view){if(!labels[view])return;state.view=view;state.limit=12;if(view==='catalog')state.excluded=true;if(['exhibitions','camps'].includes(view))Object.assign(state,{best:false,languageMode:'',campProjects:false,league:'',block:'',query:'',kid:'',region:'',country:'',theme:'',language:'',scope:'',participation:'',admission:'',evidence:'',visitorPolicy:'',dates:'',online:false,priority:false,excluded:true,sort:'date'});if(view!=='exhibitions')state.visitorPolicy='';if(view!=='catalog')state.campProjects=false;$('.sidebar').classList.remove('open');$('#menu-button').setAttribute('aria-expanded','false');if(location.hash!=='#'+view)history.pushState(null,'','#'+view);render()}
-function reset(){Object.assign(state,{routeIsos:[],best:false,languageMode:'',campProjects:false,league:'',block:'',query:'',kid:'',region:'',country:'',theme:'',language:'',scope:'',participation:'',admission:'',evidence:'',visitorPolicy:'',dates:'',online:false,priority:false,excluded:['catalog','exhibitions','camps'].includes(state.view),limit:12,day:''});render()}
+function reset(){catalogPage=1;Object.assign(state,{routeIsos:[],best:false,languageMode:'',campProjects:false,league:'',block:'',query:'',kid:'',region:'',country:'',theme:'',language:'',scope:'',participation:'',admission:'',evidence:'',visitorPolicy:'',dates:'',online:false,priority:false,excluded:['catalog','exhibitions','camps'].includes(state.view),limit:12,day:''});render()}
 function notify(text){$('#toast').textContent=text;$('#toast').hidden=false;clearTimeout(notify.timeout);notify.timeout=setTimeout(()=>$('#toast').hidden=true,3200)}
 function toggleFavorite(id){favoriteIds.has(id)?favoriteIds.delete(id):favoriteIds.add(id);try{localStorage.setItem('stemAtlasFavorites.v1',JSON.stringify([...favoriteIds]))}catch{notify("la conservación sólo está disponible hasta que se cierre esta página.")};render();if($('#event-dialog').open)openEvent(id,false)}
 function toggleCompare(id){if(state.compare.has(id))state.compare.delete(id);else if(state.compare.size<3)state.compare.add(id);else{notify("para una comparación conveniente, escoge tres opciones.");return}render()}

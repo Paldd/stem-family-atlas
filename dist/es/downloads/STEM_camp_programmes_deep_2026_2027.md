@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Base al 2026-11-08. 2101 fichas detalladas en 136 países. La fecha de verificación de cada fuente figura en su ficha.
+Base al 2026-11-08. 2108 fichas detalladas en 136 países. La fecha de verificación de cada fuente figura en su ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -165773,6 +165773,456 @@ El Salvador · Campus Soyapango
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://www.udb.edu.sv/udb/noticia/formacion-y-tecnologia--udb-inicia-segunda-edicion-2026-de-los-programas-american-spaces) · 2026-11-08
+
+## CP2102 · Tashkeel · Winter Camp · 4–6
+
+Emiratos Árabes Unidos · Dubai · Tashkeel
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–6 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Diseño, trabajo manual y talleres creativos. El contenido depende de la sede.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 6–10 y 13–17 de diciembre de 2026. Cinco clases en cada sede.
+
+**Precio / año:** 2026 · 1 000 AED por 5 clases, más IVA. Cuota no reembolsable.
+
+**Pago:** 1 000 AED por 5 clases, más IVA. Cuota no reembolsable.
+
+**Matvey:** No por edad para este grupo.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** 6–10 y 13–17 de diciembre de 2026. Cinco clases en cada sede.
+
+### Antes de solicitar plaza
+
+- Los grupos infantiles tienen horarios distintos en la misma sede. Se ofrece la semana o talleres sueltos. Confirmar precio por taller e idioma del grupo.
+
+### 10:00–12:30
+
+**Fechas / estado:** 2026-12-06 — 2026-12-10
+
+**lugar:** Tashkeel Makerspace · Warehouse 89 · Alserkal Avenue · Dubai
+
+**Precio:** 1 000 AED por 5 clases, más IVA. Cuota no reembolsable.
+
+**Programa:** Trabajo con arcilla, creación de pegatinas, cerámica y dibujo de cómics.
+
+- 2026-12-06 · 10:00–12:30 · Asia/Dubai · From Clay to Play
+
+- 2026-12-07 · 10:00–12:30 · Asia/Dubai · Clay Calendar
+
+- 2026-12-08 · 10:00–12:30 · Asia/Dubai · The Sticker Lab
+
+- 2026-12-09 · 10:00–12:30 · Asia/Dubai · Pots of Imagination
+
+- 2026-12-10 · 10:00–12:30 · Asia/Dubai · Create your Comic Poster
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Los grupos infantiles tienen horarios distintos en la misma sede. Se ofrece la semana o talleres sueltos. Confirmar precio por taller e idioma del grupo.
+
+[fuente](https://tashkeel.org/workshops/winter-camp-2026-makerspace-week-4-6-years)
+
+### 10:00–12:30
+
+**Fechas / estado:** 2026-12-13 — 2026-12-17
+
+**lugar:** Tashkeel Nad Al Sheba · Dubai
+
+**Precio:** 1 000 AED por 5 clases, más IVA. Cuota no reembolsable.
+
+**Programa:** Risografía, cianotipia en tela, composición geométrica, pintura y proyecto de jardín.
+
+- 2026-12-13 · 10:00–12:30 · Asia/Dubai · Riso Calendar
+
+- 2026-12-14 · 10:00–12:30 · Asia/Dubai · Cyanotype Printed Hoodies
+
+- 2026-12-15 · 10:00–12:30 · Asia/Dubai · Geometrical Abstract Art
+
+- 2026-12-16 · 10:00–12:30 · Asia/Dubai · Paint Your Denim
+
+- 2026-12-17 · 10:00–12:30 · Asia/Dubai · Create Your Own Garden
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Los grupos infantiles tienen horarios distintos en la misma sede. Se ofrece la semana o talleres sueltos. Confirmar precio por taller e idioma del grupo.
+
+[fuente](https://tashkeel.org/workshops/winter-camp-2026-nad-al-sheba-week-4-6-years)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://tashkeel.org/projects/winter-camp-2026) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://tashkeel.org/workshops/winter-camp-2026-makerspace-week-4-6-years) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://tashkeel.org/workshops/winter-camp-2026-nad-al-sheba-week-4-6-years) · 2026-11-08
+
+## CP2103 · Tashkeel · Winter Camp · 7–12
+
+Emiratos Árabes Unidos · Dubai · Tashkeel
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–12 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Diseño, trabajo manual y talleres creativos. El contenido depende de la sede.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 6–10 y 13–17 de diciembre de 2026. Cinco clases en cada sede.
+
+**Precio / año:** 2026 · 1 000 AED por 5 clases, más IVA. Cuota no reembolsable.
+
+**Pago:** 1 000 AED por 5 clases, más IVA. Cuota no reembolsable.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** No por edad para este grupo.
+
+**Motivo de selección:** 6–10 y 13–17 de diciembre de 2026. Cinco clases en cada sede.
+
+### Antes de solicitar plaza
+
+- Los grupos infantiles tienen horarios distintos en la misma sede. Se ofrece la semana o talleres sueltos. Confirmar precio por taller e idioma del grupo.
+
+### 13:30–15:30
+
+**Fechas / estado:** 2026-12-06 — 2026-12-10
+
+**lugar:** Tashkeel Makerspace · Warehouse 89 · Alserkal Avenue · Dubai
+
+**Precio:** 1 000 AED por 5 clases, más IVA. Cuota no reembolsable.
+
+**Programa:** Trabajo con arcilla, creación de pegatinas, cerámica y dibujo de cómics.
+
+- 2026-12-06 · 13:30–15:30 · Asia/Dubai · From Clay to Play
+
+- 2026-12-07 · 13:30–15:30 · Asia/Dubai · Clay Calendar
+
+- 2026-12-08 · 13:30–15:30 · Asia/Dubai · The Sticker Lab
+
+- 2026-12-09 · 13:30–15:30 · Asia/Dubai · Pots of Imagination
+
+- 2026-12-10 · 13:30–15:30 · Asia/Dubai · Create your Comic Poster
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Los grupos infantiles tienen horarios distintos en la misma sede. Se ofrece la semana o talleres sueltos. Confirmar precio por taller e idioma del grupo.
+
+[fuente](https://tashkeel.org/workshops/winter-camp-2026-makerspace-week-7-12-years)
+
+### 13:30–15:30
+
+**Fechas / estado:** 2026-12-13 — 2026-12-17
+
+**lugar:** Tashkeel Nad Al Sheba · Dubai
+
+**Precio:** 1 000 AED por 5 clases, más IVA. Cuota no reembolsable.
+
+**Programa:** Risografía, cianotipia en tela, composición geométrica, pintura y proyecto de jardín.
+
+- 2026-12-13 · 13:30–15:30 · Asia/Dubai · Riso Calendar
+
+- 2026-12-14 · 13:30–15:30 · Asia/Dubai · Cyanotype Printed Hoodies
+
+- 2026-12-15 · 13:30–15:30 · Asia/Dubai · Geometrical Abstract Art
+
+- 2026-12-16 · 13:30–15:30 · Asia/Dubai · Paint Your Denim
+
+- 2026-12-17 · 13:30–15:30 · Asia/Dubai · Create Your Own Garden
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Los grupos infantiles tienen horarios distintos en la misma sede. Se ofrece la semana o talleres sueltos. Confirmar precio por taller e idioma del grupo.
+
+[fuente](https://tashkeel.org/workshops/winter-camp-2026-nad-al-sheba-week-7-12-years)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://tashkeel.org/projects/winter-camp-2026) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://tashkeel.org/workshops/winter-camp-2026-makerspace-week-7-12-years) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://tashkeel.org/workshops/winter-camp-2026-nad-al-sheba-week-7-12-years) · 2026-11-08
+
+## CP2104 · Aspiration International Primary School · Winter Holiday Programme
+
+Malasia · Aspiration International Primary School · Petaling Jaya
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De 6–12 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Experimentos STEM, clases de idiomas, visita artística y elaboración de jabón. Excursiones, batik, actividades de equipo y pernocta en el colegio.
+
+**Alojamiento:** Dos semanas separadas con excursiones. La pernocta se programa únicamente en la segunda.
+
+**Fechas / estado:** 7–10 y 14–18 de diciembre de 2026. Según el FAQ son 4 y 5 días. Confirmar aparte la llegada y salida en la jornada con pernocta.
+
+**Precio / año:** 2026 · 1 199 MYR por semana. Tarifa anticipada de 999 MYR con pago hasta el 15 de noviembre de 2026. 1 399 MYR por semana. Tarifa anticipada de 1 199 MYR con pago hasta el 15 de noviembre de 2026.
+
+**Incluido:** Se incluye el almuerzo diario. Llevar tentempié y botella de agua.
+
+**Suplementos:** Descuento con pago hasta el 15 de noviembre de 2026 sujeto a plazas. Confirmar idioma del grupo, transporte de excursiones y condiciones de devolución.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** 7–10 y 14–18 de diciembre de 2026. Según el FAQ son 4 y 5 días. Confirmar aparte la llegada y salida en la jornada con pernocta.
+
+### Antes de solicitar plaza
+
+- Descuento con pago hasta el 15 de noviembre de 2026 sujeto a plazas. Confirmar idioma del grupo, transporte de excursiones y condiciones de devolución.
+
+- La segunda semana incluye 1 noche en el colegio del 17 al 18 de diciembre bajo supervisión docente.
+
+### Explore & Create
+
+**Fechas / estado:** 2026-12-07 — 2026-12-10
+
+**lugar:** Aspiration Care · Plaza Damansara Utama · Petaling Jaya
+
+**Precio:** 1 199 MYR por semana. Tarifa anticipada de 999 MYR con pago hasta el 15 de noviembre de 2026.
+
+**Programa:** Experimentos STEM, clases de idiomas, visita artística y elaboración de jabón.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Descuento con pago hasta el 15 de noviembre de 2026 sujeto a plazas. Confirmar idioma del grupo, transporte de excursiones y condiciones de devolución.
+
+- Se incluye el almuerzo diario. Llevar tentempié y botella de agua.
+
+[fuente](https://www.aspirationis.edu.my/winter-holiday-programme)
+
+### Discover & Experience
+
+**Fechas / estado:** 2026-12-14 — 2026-12-18
+
+**Precio:** 1 399 MYR por semana. Tarifa anticipada de 1 199 MYR con pago hasta el 15 de noviembre de 2026.
+
+**Programa:** Excursiones, batik, actividades de equipo y pernocta en el colegio.
+
+**Alojamiento:** La segunda semana incluye 1 noche en el colegio del 17 al 18 de diciembre bajo supervisión docente.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Descuento con pago hasta el 15 de noviembre de 2026 sujeto a plazas. Confirmar idioma del grupo, transporte de excursiones y condiciones de devolución.
+
+- La segunda semana incluye 1 noche en el colegio del 17 al 18 de diciembre bajo supervisión docente.
+
+- Se incluye el almuerzo diario. Llevar tentempié y botella de agua.
+
+[fuente](https://www.aspirationis.edu.my/winter-holiday-programme)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.aspirationis.edu.my/winter-holiday-programme) · 2026-11-08
+
+## CP2105 · Urban Fun · Young Architects Winter Holiday Camp
+
+Reino Unido · Orleans Park School · Richmond Road · Twickenham
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De 6–12 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Dibujo arquitectónico, experimentación con formas y materiales, y construcción de maquetas 3D.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 28–30 de diciembre de 2026, de 09:00 a 15:00.
+
+**Precio / año:** 2026 · La tarifa general indica 75 GBP por día y 195 GBP por 3 días. La página del evento no especifica el precio de esta edición. Las tarifas de dos días difieren en el sitio.
+
+**Suplementos:** Plazas limitadas. Confirmar precio de los días elegidos, idioma y materiales para esta edición.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** 28–30 de diciembre de 2026, de 09:00 a 15:00.
+
+### Antes de solicitar plaza
+
+- Plazas limitadas. Confirmar precio de los días elegidos, idioma y materiales para esta edición.
+
+### 09:00–15:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-30
+
+**Precio:** La tarifa general indica 75 GBP por día y 195 GBP por 3 días. La página del evento no especifica el precio de esta edición. Las tarifas de dos días difieren en el sitio.
+
+- 2026-12-28 · 09:00–15:00 · Europe/London · 09:00–15:00
+
+- 2026-12-29 · 09:00–15:00 · Europe/London · 09:00–15:00
+
+- 2026-12-30 · 09:00–15:00 · Europe/London · 09:00–15:00
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- Plazas limitadas. Confirmar precio de los días elegidos, idioma y materiales para esta edición.
+
+[fuente](https://www.urbanfun.co.uk/holiday-camps/2026-winter-holiday-camp)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.urbanfun.co.uk/holiday-camps/2026-winter-holiday-camp) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.urbanfun.co.uk/holiday-camps) · 2026-11-08
+
+## CP2106 · Science North · Sudbury · Robo Builders
+
+Canadá · Science North · 100 Ramsey Lake Road · Sudbury
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 12–13 años.
+
+**Idioma:** La organización ofrece programas separados en inglés y francés.
+
+**Programa:** Construcción y programación de robots LEGO SPIKE.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 2026-12-21 – 2026-12-23
+
+**Precio / año:** 2026 · 114 CAD por 3 días con tarifa general, 103 CAD para socios.
+
+**Suplementos:** La sede publica grupos en inglés y francés por separado. Confirmar idioma al elegir entrada, plazas y precio final.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No por edad para este grupo.
+
+**Oscar:** No por edad para este grupo.
+
+**Motivo de selección:** 2026-12-21 – 2026-12-23
+
+### Antes de solicitar plaza
+
+- La sede publica grupos en inglés y francés por separado. Confirmar idioma al elegir entrada, plazas y precio final.
+
+### Robo Builders
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**Precio:** 114 CAD por 3 días con tarifa general, 103 CAD para socios.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- La sede publica grupos en inglés y francés por separado. Confirmar idioma al elegir entrada, plazas y precio final.
+
+[fuente](https://www.sciencenorth.ca/school-break-camps)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sciencenorth.ca/school-break-camps) · 2026-11-08
+
+## CP2107 · Science North · Sudbury · TechLab
+
+Canadá · Science North · 100 Ramsey Lake Road · Sudbury
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 12–13 años.
+
+**Idioma:** La organización ofrece programas separados en inglés y francés.
+
+**Programa:** Reacciones en cadena, hidráulica, neumática e introducción a impresión 3D y corte láser.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 2026-12-29 – 2026-12-31
+
+**Precio / año:** 2026 · 114 CAD por 3 días con tarifa general, 103 CAD para socios.
+
+**Suplementos:** La sede publica grupos en inglés y francés por separado. Confirmar idioma al elegir entrada, plazas y precio final.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No por edad para este grupo.
+
+**Oscar:** No por edad para este grupo.
+
+**Motivo de selección:** 2026-12-29 – 2026-12-31
+
+### Antes de solicitar plaza
+
+- La sede publica grupos en inglés y francés por separado. Confirmar idioma al elegir entrada, plazas y precio final.
+
+### TechLab
+
+**Fechas / estado:** 2026-12-29 — 2026-12-31
+
+**Precio:** 114 CAD por 3 días con tarifa general, 103 CAD para socios.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- La sede publica grupos en inglés y francés por separado. Confirmar idioma al elegir entrada, plazas y precio final.
+
+[fuente](https://www.sciencenorth.ca/school-break-camps)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sciencenorth.ca/school-break-camps) · 2026-11-08
+
+## CP2108 · Regent’s · English Winter Camp 2027
+
+Tailandia · Regent’s International School · Boarding Campus · Huai Khwang · Bangkok
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 3–12 años.
+
+**Idioma:** Se anuncia inmersión en inglés y clases con docentes de Regent’s English Experience.
+
+**Programa:** Inglés con docentes del colegio, actividades creativas, deportes y práctica.
+
+**Alojamiento:** La sede se llama Boarding Campus. La descripción del campamento no especifica pernoctas ni su tarifa.
+
+**Fechas / estado:** Periodo general del 11 de enero al 19 de febrero de 2027. Confirmar entrada, horario, precio y disponibilidad del paquete elegido.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** La sede se llama Boarding Campus. La descripción del campamento no especifica pernoctas ni su tarifa.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Periodo general del 11 de enero al 19 de febrero de 2027. Confirmar entrada, horario, precio y disponibilidad del paquete elegido.
+
+### Antes de solicitar plaza
+
+- Periodo general del 11 de enero al 19 de febrero de 2027. Confirmar entrada, horario, precio y disponibilidad del paquete elegido.
+
+- La sede se llama Boarding Campus. La descripción del campamento no especifica pernoctas ni su tarifa.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://regents.ac.th/extra-programme/course-camps/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 
