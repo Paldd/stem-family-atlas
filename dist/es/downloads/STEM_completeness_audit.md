@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10043; competiciones: 4556; eventos: 528; campamentos / programas: 4959. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 431 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10052; competiciones: 4563; eventos: 529; campamentos / programas: 4960. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 432 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -14,8 +14,8 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1899 | 98 | 1248 |
-| América del Sur | 14 | 414 | 37 | 199 |
+| América del Norte | 40 | 1901 | 99 | 1248 |
+| América del Sur | 14 | 419 | 37 | 200 |
 | Europa | 52 | 578 | 106 | 1425 |
 | África | 53 | 234 | 28 | 92 |
 | Asia | 49 | 1130 | 131 | 1648 |
@@ -23,7 +23,7 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 Fichas interregionales o globales sin asignar a un continente: 161. América del Norte incluye América Central y el Caribe. Las cifras describen el inventario de la base.
 
-VEX: 814 de 4556 fichas de competición (17.9%). Es un desequilibrio claro de cobertura.
+VEX: 814 de 4563 fichas de competición (17.8%). Es un desequilibrio claro de cobertura.
 
 ## Lo que queda
 
@@ -798,6 +798,7 @@ VEX: 814 de 4556 fichas de competición (17.9%). Es un desequilibrio claro de co
 - **Japan Drone 2027 · Drones × AI** — Japón; 2027-06-02 – 2027-06-04. el permiso de entrada de niños. https://ssl.japan-drone.com/outline/index.html
 - **Hawaii State Elementary STEM Expo 2027** — Estados Unidos; 2027-04-09. con un adulto; condiciones de admisión adulta por separado. https://www.hawaiiacademyofscience.org/elementary-expo
 - **Hawaii STEM Conference 2027** — Estados Unidos; 2027-04-07 – 2027-04-08. el permiso de entrada de niños. https://www.hawaiistemconference.org/
+- **Global Game Jam Monterrey 2027 · Video Game Showcase** — México; 2027-01-29. el permiso de entrada de niños. https://loot.pixelperfectstudio.mx/event/global-game-jam-monterrey-2027/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

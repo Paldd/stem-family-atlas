@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base a 2026-11-08. 1927 fichas en 126 países. Cada ficha incluye la fecha de consulta de sus fuentes.
+Estado de la base a 2026-11-08. 1928 fichas en 126 países. Cada ficha incluye la fecha de consulta de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -78500,7 +78500,7 @@ Singapur · Forum The Shopping Mall · #02-01/02 · 583 Orchard Road
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 6–8 años; confirmar corte, curso escolar no sustituye edad
 
@@ -78524,7 +78524,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 **Oscar:** Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte.
 
-**Motivo de selección:** Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.
+**Motivo de selección:** Oscar y Matvey pueden elegir grupos distintos en un mismo edificio. El formulario coincide en 7–11 de diciembre de 2026 y 11–15 de enero de 2027, 08:00–12:00. Precio base por ambos CRC 120000 con impuesto. Confirmar plazas, apertura e idioma de grupos.
 
 ### Análisis editorial
 
@@ -78656,9 +78656,9 @@ FOD · Juguemos a crear Robots · edad y horario comprobados, nivel lectivo por 
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1125 · FOD Líderes del Futuro · Mis Historias Animadas
 
@@ -78884,7 +78884,7 @@ FOD · Creatividad y diseño con robótica · 7–9 · edad y horario comprobado
 
 Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 **edad:** 9–12 años; confirmar corte, curso escolar no sustituye edad
 
@@ -78908,7 +78908,7 @@ Costa Rica · Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A
 
 **Oscar:** Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte.
 
-**Motivo de selección:** Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.
+**Motivo de selección:** Oscar y Matvey pueden elegir grupos distintos en un mismo edificio. El formulario coincide en 7–11 de diciembre de 2026 y 11–15 de enero de 2027, 08:00–12:00. Precio base por ambos CRC 120000 con impuesto. Confirmar plazas, apertura e idioma de grupos.
 
 ### Análisis editorial
 
@@ -79014,9 +79014,9 @@ FOD · Nivel 1 · Principios de construcción y programación · edad y horario 
 
 ### Fuentes
 
-- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-07
+- [Anuncio oficial de temporada](https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/) · 2026-11-08
 
-- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-07
+- [Programa público, fechas y condiciones de precio](https://survey.zohopublic.com/zs/SjzWbS) · 2026-11-08
 
 ## CP1128 · FOD Líderes del Futuro · Nivel 2 · Sistemas inteligentes: sensores y engranajes
 
@@ -155079,6 +155079,62 @@ Estados Unidos · Kahala Mall · Honolulu
 - [Página de la organización o reglamento de la categoría.](https://bbeslhawaii.com/) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://bbeslhawaii.com/terms/) · 2026-11-08
+
+## CP1928 · Active Kids 2027 · Maker & 3D Printing
+
+Perú · Colegio San José de Monterrico · Lima
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Campamento general de 3–11 años. Maker corresponde a primaria, cursos 1–5.
+
+**Idioma:** Descripciones en español. Confirmar el idioma de instrucción de la opción Maker.
+
+**Programa:** Modelado, preparación de archivos e impresión de un objeto propio en 3D. Es una de las opciones de primaria.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Período general del 4 de enero al 18 de febrero de 2027. Bloque de primaria 08:00–12:00. Aún no se publican los días y horas exactos de Maker.
+
+**Precio / año:** 2026 · No se encontró tarifa pública del paquete concreto ni de los materiales de Maker.
+
+**Incluido:** Modelado, preparación de archivos e impresión de un objeto propio en 3D. Es una de las opciones de primaria.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Se requiere un curso real de primaria, un grupo Maker abierto y confirmar el acceso desde otra escuela.
+
+**Oscar:** Condicional. Se requiere un curso real de primaria, un grupo Maker abierto y confirmar el acceso desde otra escuela.
+
+**Motivo de selección:** Período general del 4 de enero al 18 de febrero de 2027. Bloque de primaria 08:00–12:00. Aún no se publican los días y horas exactos de Maker.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+- La página muestra el período de 2027 pero conserva el 2 de enero de 2026 como cierre de inscripción. Confirmar el plazo de 2027 en el formulario vigente.
+
+### Período general del 4 de enero al 18 de febrero de 2027. Bloque de primaria 08:00–12:00. Aún no se publican los días y horas exactos de Maker.
+
+**Fechas / estado:** 2027-01-04 — 2027-02-18
+
+**Precio:** No se encontró tarifa pública del paquete concreto ni de los materiales de Maker.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.sanjosedemonterrico.edu.pe/activekids2026)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.sanjosedemonterrico.edu.pe/activekids2026) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.sanjosedemonterrico.edu.pe/landing) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://activekids.activemode-sjm.com/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

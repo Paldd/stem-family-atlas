@@ -30,13 +30,13 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1927,
+    "dossiers": 1928,
     "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
       "published_2027": 517,
-      "partial_2027": 141,
+      "partial_2027": 142,
       "next_unannounced": 399,
       "published_2026": 355,
       "partial_2026_27": 32,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2803
+    "source_urls": 2806
   },
   "countries": [
     {
@@ -389,7 +389,7 @@
     },
     {
       "country": "Перу",
-      "count": 16
+      "count": 17
     },
     {
       "country": "Польша",
@@ -125889,7 +125889,7 @@
           "detail": "Возраст проверен по каждой смене с учётом известных текущих 9 и 6 лет. Разные возрастные группы могут совпадать по месту и часам; запуск и оба места отдельно."
         }
       },
-      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "editorial_reason": "Оскар и Матвей могут выбрать разные группы в одном здании. В форме совпадают 7–11 декабря 2026 и 11–15 января 2027, 08:00–12:00. Базовая цена за двоих CRC 120000 с налогом. Места, запуск и языки групп подтвердить.",
       "shortlist": [],
       "questions": [
         "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
@@ -125901,19 +125901,19 @@
         {
           "title": "Официальное объявление сезона",
           "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         },
         {
           "title": "Публичная программа, даты и условия стоимости",
           "url": "https://survey.zohopublic.com/zs/SjzWbS",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "pairing": {
         "venue_id": "fod-central-francisco-peralta",
         "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
-        "checked": "2026-11-07",
+        "checked": "2026-11-08",
         "fee": {
           "amount": 60000,
           "currency": "CRC",
@@ -126481,7 +126481,7 @@
           "detail": "Возраст проверен по каждой смене с учётом известных текущих 9 и 6 лет. Разные возрастные группы могут совпадать по месту и часам; запуск и оба места отдельно."
         }
       },
-      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "editorial_reason": "Оскар и Матвей могут выбрать разные группы в одном здании. В форме совпадают 7–11 декабря 2026 и 11–15 января 2027, 08:00–12:00. Базовая цена за двоих CRC 120000 с налогом. Места, запуск и языки групп подтвердить.",
       "shortlist": [],
       "questions": [
         "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
@@ -126493,19 +126493,19 @@
         {
           "title": "Официальное объявление сезона",
           "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         },
         {
           "title": "Публичная программа, даты и условия стоимости",
           "url": "https://survey.zohopublic.com/zs/SjzWbS",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "pairing": {
         "venue_id": "fod-central-francisco-peralta",
         "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
-        "checked": "2026-11-07",
+        "checked": "2026-11-08",
         "fee": {
           "amount": 60000,
           "currency": "CRC",
@@ -293355,6 +293355,106 @@
       "programme_type": "day_camp",
       "catalog_participation": "day_camp",
       "related_event_ids": []
+    },
+    {
+      "id": "CP1928",
+      "slug": "sjm-active-kids-maker-2027",
+      "provider": "Active Kids 2027 · Maker & 3D Printing",
+      "country": "Перу",
+      "iso": "PER",
+      "place": "Colegio San José de Monterrico · Lima",
+      "age": "Общий лагерь для 3–11 лет. Maker относится к начальной школе, классы 1–5.",
+      "programme": "Моделирование, подготовка файлов и печать собственного объекта на 3D-принтере. Это один из треков начальной школы.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описания на испанском. Язык преподавателя именно в треке Maker уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Общий период 4 января – 18 февраля 2027. Блок начальной школы 08:00–12:00. Точные дни и часы Maker пока не опубликованы.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-02-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "season",
+            "start": "2027-01-04",
+            "end": "2027-02-18",
+            "label": "Общий период 4 января – 18 февраля 2027. Блок начальной школы 08:00–12:00. Точные дни и часы Maker пока не опубликованы.",
+            "price": "Публичный прайс конкретного пакета и материалов Maker не найден.",
+            "source": "https://www.sanjosedemonterrico.edu.pe/activekids2026",
+            "date_scope": "season_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "PEN",
+        "unit": "quote",
+        "label": "Публичный прайс конкретного пакета и материалов Maker не найден.",
+        "included": "Моделирование, подготовка файлов и печать собственного объекта на 3D-принтере. Это один из треков начальной школы.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Нужны фактический класс начальной школы, открытая группа Maker и подтверждение допуска для ребёнка другой школы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Нужны фактический класс начальной школы, открытая группа Maker и подтверждение допуска для ребёнка другой школы."
+        }
+      },
+      "editorial_reason": "Общий период 4 января – 18 февраля 2027. Блок начальной школы 08:00–12:00. Точные дни и часы Maker пока не опубликованы.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты.",
+        "Страница показывает период 2027, но в строке окончания записи осталась дата 2 января 2026. Дедлайн на 2027 уточнить по актуальной форме."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sanjosedemonterrico.edu.pe/activekids2026",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.sanjosedemonterrico.edu.pe/landing",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://activekids.activemode-sjm.com/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "engineering",
+        "general"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "L768"
+      ]
     }
   ],
   "gaps": [
@@ -298680,7 +298780,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 265,
+  "version": 266,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -311915,7 +312015,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1927,
+      "total_dossiers": 1928,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

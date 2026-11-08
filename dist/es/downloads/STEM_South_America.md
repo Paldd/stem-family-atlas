@@ -2295,7 +2295,7 @@ Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25
 Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
 Limitaciones: Convocatoria 08:15, inicio 09:00; fin sin publicar, calendario por día sin hora de fin inventada. Padres no ayudan en pista; participantes consultan al juez. Socio de México no convierte evento en clasificatorio mexicano o mundial.
 Fuente: https://somosgrupora.com/torneo-robotica/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### C1298 · Grupo R.A. × Nética · Particulares 2026
 
@@ -2308,7 +2308,7 @@ Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25
 Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
 Limitaciones: Convocatoria 08:15, inicio 09:00; fin sin publicar, calendario por día sin hora de fin inventada. Padres no ayudan en pista; participantes consultan al juez. Socio de México no convierte evento en clasificatorio mexicano o mundial.
 Fuente: https://somosgrupora.com/torneo-robotica/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### C1299 · Grupo R.A. × Nética · Fiscales 2026 · Boliche
 
@@ -2321,7 +2321,7 @@ Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25
 Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
 Limitaciones: Edad numérica y equivalencia de Primaria Menor no indicadas. Máximo 15 × 15 × 15 cm; solo piezas del kit permitido. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
 Fuente: https://somosgrupora.com/assets/docs/reglamento-boliche.pdf
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### C1300 · Grupo R.A. × Nética · Fiscales 2026 · Fragata
 
@@ -2334,7 +2334,7 @@ Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25
 Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
 Limitaciones: Carrera autónoma; ancho máximo 40 cm y profundidad 20 cm. Matvey debe cumplir edad y EGB 5–7; Oscar aún menor del mínimo 8. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
 Fuente: https://somosgrupora.com/assets/docs/reglamento-fragata.pdf
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### C1301 · Grupo R.A. × Nética · Fiscales 2026 · Persecución
 
@@ -2347,7 +2347,7 @@ Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25
 Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
 Limitaciones: Persecución autónoma con demora obligatoria de 5 segundos; edad posterior para ambos niños. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
 Fuente: https://somosgrupora.com/assets/docs/reglamento-persecucion.pdf
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### C1302 · Grupo R.A. × Nética · Fiscales 2026 · Sumo
 
@@ -2360,7 +2360,7 @@ Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25
 Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
 Limitaciones: PDF permite combinar Construbot Plus, Alphabot y piezas de otros sistemas con restricciones propias; encabezado 12+ prevalece sobre frase general primaria / secundaria. Ambos niños menores del mínimo publicado. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
 Fuente: https://somosgrupora.com/assets/docs/reglamento-sumo.pdf
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### C1303 · Grupo R.A. × Nética · Particulares 2026 · Boliche
 
@@ -2373,7 +2373,7 @@ Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25
 Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
 Limitaciones: Edad numérica y equivalencia de Primaria Menor no indicadas. Máximo 15 × 15 × 15 cm; solo piezas del kit permitido. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
 Fuente: https://somosgrupora.com/assets/docs/reglamento-boliche.pdf
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### C1304 · Grupo R.A. × Nética · Particulares 2026 · Persecución
 
@@ -2386,7 +2386,7 @@ Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25
 Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
 Limitaciones: Persecución autónoma con demora obligatoria de 5 segundos; edad posterior para ambos niños. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
 Fuente: https://somosgrupora.com/assets/docs/reglamento-persecucion.pdf
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### C1305 · Grupo R.A. × Nética · Particulares 2026 · Saca la Basura
 
@@ -2399,7 +2399,7 @@ Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25
 Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
 Limitaciones: Recogida autónoma de objetos, 2 minutos por ronda. Mínimo 12 y nivel escolar, no categoría LEGO menor. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
 Fuente: https://somosgrupora.com/assets/docs/reglamento-saca-basura.pdf
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### C1306 · Grupo R.A. × Nética · Particulares 2026 · Sumo
 
@@ -2412,7 +2412,7 @@ Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25
 Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
 Limitaciones: PDF permite combinar Construbot Plus, Alphabot y piezas de otros sistemas con restricciones propias; encabezado 12+ prevalece sobre frase general primaria / secundaria. Ambos niños menores del mínimo publicado. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
 Fuente: https://somosgrupora.com/assets/docs/reglamento-sumo.pdf
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### C1307 · Grupo R.A. × Nética · Particulares 2026 · Saca la Basura Beet Bot
 
@@ -2425,7 +2425,7 @@ Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25
 Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
 Limitaciones: Versión de equipo separada de recogida de objetos con Beetbot Arduino 1; no elección libre de cualquier robot Arduino. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
 Fuente: https://somosgrupora.com/assets/docs/reglamento-saca-basura-beet-bot.pdf
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### E224 · GITEX AI LATAM 2027
 
@@ -5584,6 +5584,84 @@ Acceso: Edad mínima de 18 años. Gratis para profesionales del sector. Acredita
 Precio: Edad mínima de 18 años. Gratis para profesionales del sector. Acreditación previa en la web y documento con foto. No habrá registro en el recinto.
 Limitaciones: La organización acepta solicitudes de aviso cuando abra la inscripción. La lista nominal publicada corresponde a 2025.
 Fuente: https://www.fiee.com.br/pt-br/o-evento.html
+Se ha comprobado: 2026-11-08
+
+### C4558 · Eagle Bots 6.0 2026 · Colegios
+
+Fecha: 2026-11-19 国 2026-11-19
+edad: Vía escolar Colegios. Confirmar curso mínimo y acceso de una escuela extranjera.
+Matvey: Condicional. Se exige una solicitud de la escuela y confirmar el acceso a la vía escolar.
+Oscar: Condicional. Se exige una solicitud de la escuela y confirmar el acceso a la vía escolar.
+Idioma: Bases y formularios en español. Confirmar el idioma del jurado con la organización.
+Acceso: Condicional. Se exige una solicitud de la escuela y confirmar el acceso a la vía escolar.
+Precio: La solicitud escolar es gratuita. El robot, transporte y demás gastos familiares van aparte.
+Limitaciones: Encuentro el 19 de noviembre de 2026 desde las 08:00. Se admiten solicitudes hasta el 19 de noviembre. No se publica la hora de cierre ni el acceso justo antes de empezar.
+Fuente: https://ciaguec.uisrael.edu.ec/concurso-eaglebots-2/
+Se ha comprobado: 2026-11-08
+
+### C4559 · Eagle Bots 6.0 2026 · Minisumo RC Colegial
+
+Fecha: 2026-11-19 国 2026-11-19
+edad: Vía escolar Colegios. Confirmar curso mínimo y acceso de una escuela extranjera.
+Matvey: Condicional. Se exige una solicitud de la escuela y confirmar el acceso a la vía escolar.
+Oscar: Condicional. Se exige una solicitud de la escuela y confirmar el acceso a la vía escolar.
+Idioma: Bases y formularios en español. Confirmar el idioma del jurado con la organización.
+Acceso: Condicional. Se exige una solicitud de la escuela y confirmar el acceso a la vía escolar.
+Precio: La solicitud escolar es gratuita. El robot, transporte y demás gastos familiares van aparte.
+Limitaciones: Encuentro el 19 de noviembre de 2026 desde las 08:00. Se admiten solicitudes hasta el 19 de noviembre. No se publica la hora de cierre ni el acceso justo antes de empezar.
+Fuente: https://ciaguec.uisrael.edu.ec/concurso-eaglebots-2/
+Se ha comprobado: 2026-11-08
+
+### C4560 · Eagle Bots 6.0 2026 · Robomonkey Colegial
+
+Fecha: 2026-11-19 国 2026-11-19
+edad: Vía escolar Colegios. Confirmar curso mínimo y acceso de una escuela extranjera.
+Matvey: Condicional. Se exige una solicitud de la escuela y confirmar el acceso a la vía escolar.
+Oscar: Condicional. Se exige una solicitud de la escuela y confirmar el acceso a la vía escolar.
+Idioma: Bases y formularios en español. Confirmar el idioma del jurado con la organización.
+Acceso: Condicional. Se exige una solicitud de la escuela y confirmar el acceso a la vía escolar.
+Precio: La solicitud escolar es gratuita. El robot, transporte y demás gastos familiares van aparte.
+Limitaciones: Encuentro el 19 de noviembre de 2026 desde las 08:00. Se admiten solicitudes hasta el 19 de noviembre. No se publica la hora de cierre ni el acceso justo antes de empezar.
+Fuente: https://ciaguec.uisrael.edu.ec/concurso-eaglebots-2/
+Se ha comprobado: 2026-11-08
+
+### C4561 · Eagle Bots 6.0 2026 · Trepador Colegial
+
+Fecha: 2026-11-19 国 2026-11-19
+edad: Vía escolar Colegios. Confirmar curso mínimo y acceso de una escuela extranjera.
+Matvey: Condicional. Se exige una solicitud de la escuela y confirmar el acceso a la vía escolar.
+Oscar: Condicional. Se exige una solicitud de la escuela y confirmar el acceso a la vía escolar.
+Idioma: Bases y formularios en español. Confirmar el idioma del jurado con la organización.
+Acceso: Condicional. Se exige una solicitud de la escuela y confirmar el acceso a la vía escolar.
+Precio: La solicitud escolar es gratuita. El robot, transporte y demás gastos familiares van aparte.
+Limitaciones: Encuentro el 19 de noviembre de 2026 desde las 08:00. Se admiten solicitudes hasta el 19 de noviembre. No se publica la hora de cierre ni el acceso justo antes de empezar.
+Fuente: https://ciaguec.uisrael.edu.ec/concurso-eaglebots-2/
+Se ha comprobado: 2026-11-08
+
+### C4562 · Eagle Bots 6.0 2026 · Robofut Colegial
+
+Fecha: 2026-11-19 国 2026-11-19
+edad: Vía escolar Colegios. Confirmar curso mínimo y acceso de una escuela extranjera.
+Matvey: Condicional. Se exige una solicitud de la escuela y confirmar el acceso a la vía escolar.
+Oscar: Condicional. Se exige una solicitud de la escuela y confirmar el acceso a la vía escolar.
+Idioma: Bases y formularios en español. Confirmar el idioma del jurado con la organización.
+Acceso: Condicional. Se exige una solicitud de la escuela y confirmar el acceso a la vía escolar.
+Precio: La solicitud escolar es gratuita. El robot, transporte y demás gastos familiares van aparte.
+Limitaciones: Encuentro el 19 de noviembre de 2026 desde las 08:00. Se admiten solicitudes hasta el 19 de noviembre. No se publica la hora de cierre ni el acceso justo antes de empezar.
+Fuente: https://ciaguec.uisrael.edu.ec/concurso-eaglebots-2/
+Se ha comprobado: 2026-11-08
+
+### L768 · Active Kids 2027 · Maker & 3D Printing
+
+Fecha: 2027-01-04 — 2027-02-18
+edad: Campamento general de 3–11 años. Maker corresponde a primaria, cursos 1–5.
+Matvey: Condicional. Se requiere un curso real de primaria, un grupo Maker abierto y confirmar el acceso desde otra escuela.
+Oscar: Condicional. Se requiere un curso real de primaria, un grupo Maker abierto y confirmar el acceso desde otra escuela.
+Idioma: Descripciones en español. Confirmar el idioma de instrucción de la opción Maker.
+Acceso: Condicional. Se requiere un curso real de primaria, un grupo Maker abierto y confirmar el acceso desde otra escuela.
+Precio: No se encontró tarifa pública del paquete concreto ni de los materiales de Maker.
+Limitaciones: La página muestra el período de 2027 pero conserva el 2 de enero de 2026 como cierre de inscripción. Confirmar el plazo de 2027 en el formulario vigente.
+Fuente: https://www.sanjosedemonterrico.edu.pe/activekids2026
 Se ha comprobado: 2026-11-08
 
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08

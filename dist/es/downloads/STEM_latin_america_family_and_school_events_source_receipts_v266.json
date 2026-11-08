@@ -1,0 +1,214 @@
+{
+  "captures": [
+    {
+      "key": "eagle",
+      "url": "https://ciaguec.uisrael.edu.ec/concurso-eaglebots-2/",
+      "final_url": "https://ciaguec.uisrael.edu.ec/concurso-eaglebots-2/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 116049,
+      "sha256": "ca1278f1cf8bab00f1092e984295583fc15d35a1d0aa5070e6dffa33d31bfdf8",
+      "file": "eagle.html"
+    },
+    {
+      "key": "eagle-rules",
+      "url": "https://drive.google.com/drive/folders/1tpiglZlEqHoDDDy9PYwYscJOWNcwUgCd?usp=share_link",
+      "final_url": "https://drive.google.com/drive/folders/1tpiglZlEqHoDDDy9PYwYscJOWNcwUgCd?usp=share_link",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 353314,
+      "sha256": "77a0060762ac343b4d100aecdd0e746a3b7e2296d1b6872b2daa62fd60873f22",
+      "file": "eagle-rules.html"
+    },
+    {
+      "key": "eagle-awards",
+      "url": "https://ciaguec.uisrael.edu.ec/wp-content/uploads/2026/11/Distribucion_becas_EagleBot.pdf",
+      "final_url": "https://ciaguec.uisrael.edu.ec/wp-content/uploads/2026/11/Distribucion_becas_EagleBot.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 643027,
+      "sha256": "92e8bb7d96785e09274c2675b9b735f9f9482f68a562ee2720af36063605d750",
+      "file": "eagle-awards.pdf"
+    },
+    {
+      "key": "eagle-mini",
+      "url": "https://drive.google.com/uc?export=download&id=1Pf16wT54pie68ZrnZ5rcvwySt2ZKUM2j",
+      "final_url": "https://drive.usercontent.google.com/download?id=1Pf16wT54pie68ZrnZ5rcvwySt2ZKUM2j&export=download",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 336332,
+      "sha256": "8eda860ed71b13257589e9a464b60e902c1381fcbb1fe23d7512055fdd718bfd",
+      "file": "eagle-mini.pdf"
+    },
+    {
+      "key": "eagle-monkey",
+      "url": "https://drive.google.com/uc?export=download&id=1fJ3IqmdGxrYObE-92ph7DKXGOtyQHM1F",
+      "final_url": "https://drive.usercontent.google.com/download?id=1fJ3IqmdGxrYObE-92ph7DKXGOtyQHM1F&export=download",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 559952,
+      "sha256": "9523d0e601de573655c93ee116dc0ca005e56475b0c047175fd8138f09204f66",
+      "file": "eagle-monkey.pdf"
+    },
+    {
+      "key": "eagle-trep",
+      "url": "https://drive.google.com/uc?export=download&id=1dEiSMAN_ei1N6LTJtQWLQgYYEtNem2-G",
+      "final_url": "https://drive.usercontent.google.com/download?id=1dEiSMAN_ei1N6LTJtQWLQgYYEtNem2-G&export=download",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 557424,
+      "sha256": "10172d7eafdb764abf838a1e014402bc7af8bffcc28eb0773690b2f86b407f3a",
+      "file": "eagle-trep.pdf"
+    },
+    {
+      "key": "eagle-fut",
+      "url": "https://drive.google.com/uc?export=download&id=1EHJYgD1Sx-Ofbx-rT1R0RRvJiiydtiKg",
+      "final_url": "https://drive.usercontent.google.com/download?id=1EHJYgD1Sx-Ofbx-rT1R0RRvJiiydtiKg&export=download",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 658301,
+      "sha256": "bd5a667f49814e5d26704c2982210b4ce9689ab8a8f411ee370e49e2b3d39fb1",
+      "file": "eagle-fut.pdf"
+    },
+    {
+      "key": "cross-cal",
+      "url": "https://crossolympiad.org/calendario",
+      "final_url": "https://crossolympiad.org/calendario",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 89128,
+      "sha256": "d5c101355ed18aa17cd2be810343a2dbe688e94eae5bf3051748e20036a11746",
+      "file": "cross-cal.html"
+    },
+    {
+      "key": "cross-es",
+      "url": "https://crossolympiad.org/es",
+      "final_url": "https://crossolympiad.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 122698,
+      "sha256": "77a3e88392590ae1bad39710b98abde1bf29e8b52ec5b39021166cc49e6478a0",
+      "file": "cross-es.html"
+    },
+    {
+      "key": "cross-olymp",
+      "url": "https://crossolympiad.org/olimpiada",
+      "final_url": "https://crossolympiad.org/olimpiada",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 189247,
+      "sha256": "77cccb1fcab761213d2dfa995caa400a2215e4c65f608ffa34b7671d634162d6",
+      "file": "cross-olymp.html"
+    },
+    {
+      "key": "cross-apply",
+      "url": "https://crossolympiad.org/postula",
+      "final_url": "https://crossolympiad.org/postula",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 84616,
+      "sha256": "207f2a813267b605dce8b7e941887a502d42b0490dfd13f7399b091119e00965",
+      "file": "cross-apply.html"
+    },
+    {
+      "key": "ggjm",
+      "url": "https://loot.pixelperfectstudio.mx/event/global-game-jam-monterrey-2027/",
+      "final_url": "https://loot.pixelperfectstudio.mx/event/global-game-jam-monterrey-2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 210635,
+      "sha256": "60e08448f3764c0f8a0e28a1a385c7d5e0885bf9dc86bc9d7010323dc90d671d",
+      "file": "ggjm.html"
+    },
+    {
+      "key": "anima-sch",
+      "url": "https://animaconcr.com/schedule",
+      "final_url": "https://animaconcr.com/schedule",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 16557,
+      "sha256": "8e9e170d41ff2221e3ac45b13ef682d6996a0b1d84312e2fb7138a5f1ff1f706",
+      "file": "anima-sch.html"
+    },
+    {
+      "key": "animacon",
+      "url": "https://animaconcr.com/",
+      "final_url": "https://animaconcr.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 16529,
+      "sha256": "7a96d8ac349e583508ba63ef3f8703c5655e15a145ec3de07768dc46ecea5817",
+      "file": "animacon.html"
+    },
+    {
+      "key": "anima-activities",
+      "url": "https://animaconcr.com/activities",
+      "final_url": "https://animaconcr.com/activities",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 16583,
+      "sha256": "28c18c4543c56ed24e4e5a2f83dc5adf1d4c7ed8ec4278b43203c5cc439fe38d",
+      "file": "anima-activities.html"
+    },
+    {
+      "key": "netica",
+      "url": "https://somosgrupora.com/torneo-robotica/",
+      "final_url": "https://somosgrupora.com/torneo-robotica/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 207427,
+      "sha256": "92e5777982bf90036bb782e09afde4cf62f3ed8e4f812e4c03232b9b9450e4b6",
+      "file": "netica.html"
+    },
+    {
+      "key": "fod",
+      "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+      "final_url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 429313,
+      "sha256": "f1c9294257e43cc5018584143815aa1024804f342178377f699987a5744edc77",
+      "file": "fod.html"
+    },
+    {
+      "key": "fod-reg",
+      "url": "https://survey.zohopublic.com/zs/SjzWbS",
+      "final_url": "https://survey.zohopublic.com/zs/SjzWbS",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 321756,
+      "sha256": "dcb52ce68bc580fbfe5eb20a7f5a6c89663d482c61ab92986332c2f70ce5a72f",
+      "file": "fod-reg.html"
+    },
+    {
+      "key": "sjm-active",
+      "url": "https://www.sanjosedemonterrico.edu.pe/activekids2026",
+      "final_url": "https://www.sanjosedemonterrico.edu.pe/activekids2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1224393,
+      "sha256": "76dbf637296f13efe1803526dadefd6204ebc19d78a9d2ec40284545f981dedb",
+      "file": "sjm-active.html"
+    },
+    {
+      "key": "sjm",
+      "url": "https://www.sanjosedemonterrico.edu.pe/landing",
+      "final_url": "https://www.sanjosedemonterrico.edu.pe/landing",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 741224,
+      "sha256": "c7e9b94bba3f277cfc80257bfb3cf19278eced68107cf65086a6b689d26d3ba2",
+      "file": "sjm.html"
+    },
+    {
+      "key": "sjm-enroll",
+      "url": "https://activekids.activemode-sjm.com/",
+      "final_url": "https://activekids.activemode-sjm.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 28819,
+      "sha256": "fed2a4a84d4d43ed91aa09fb37db43fd0903416d8d18900c35ed346bdc9bb919",
+      "file": "sjm-enroll.html"
+    }
+  ]
+}

@@ -30,13 +30,13 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1927,
+    "dossiers": 1928,
     "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
       "published_2027": 517,
-      "partial_2027": 141,
+      "partial_2027": 142,
       "next_unannounced": 399,
       "published_2026": 355,
       "partial_2026_27": 32,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2803
+    "source_urls": 2806
   },
   "countries": [
     {
@@ -389,7 +389,7 @@
     },
     {
       "country": "Perú",
-      "count": 16
+      "count": 17
     },
     {
       "country": "Polonia",
@@ -148236,7 +148236,7 @@
           "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         }
       },
-      "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
+      "editorial_reason": "Oscar y Matvey pueden elegir grupos distintos en un mismo edificio. El formulario coincide en 7–11 de diciembre de 2026 y 11–15 de enero de 2027, 08:00–12:00. Precio base por ambos CRC 120000 con impuesto. Confirmar plazas, apertura e idioma de grupos.",
       "shortlist": [],
       "questions": [
         "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.",
@@ -148248,19 +148248,19 @@
         {
           "title": "Anuncio oficial de temporada",
           "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         },
         {
           "title": "Programa público, fechas y condiciones de precio",
           "url": "https://survey.zohopublic.com/zs/SjzWbS",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "pairing": {
         "venue_id": "fod-central-francisco-peralta",
         "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
-        "checked": "2026-11-07",
+        "checked": "2026-11-08",
         "fee": {
           "amount": 60000,
           "currency": "CRC",
@@ -148877,7 +148877,7 @@
           "detail": "Edad revisada por turno con edades actuales conocidas de 9 y 6. Grupos de edades distintas pueden coincidir en sede y horario; apertura y ambas plazas aparte."
         }
       },
-      "editorial_reason": "Opción próxima con horario y precio concretos; curso educativo, sin premio internacional ni ranking mundial demostrado.",
+      "editorial_reason": "Oscar y Matvey pueden elegir grupos distintos en un mismo edificio. El formulario coincide en 7–11 de diciembre de 2026 y 11–15 de enero de 2027, 08:00–12:00. Precio base por ambos CRC 120000 con impuesto. Confirmar plazas, apertura e idioma de grupos.",
       "shortlist": [],
       "questions": [
         "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.",
@@ -148889,19 +148889,19 @@
         {
           "title": "Anuncio oficial de temporada",
           "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         },
         {
           "title": "Programa público, fechas y condiciones de precio",
           "url": "https://survey.zohopublic.com/zs/SjzWbS",
-          "checked": "2026-11-07"
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "pairing": {
         "venue_id": "fod-central-francisco-peralta",
         "verified_source": "https://survey.zohopublic.com/zs/SjzWbS",
-        "checked": "2026-11-07",
+        "checked": "2026-11-08",
         "fee": {
           "amount": 60000,
           "currency": "CRC",
@@ -335252,6 +335252,114 @@
           "event_ids": []
         }
       ]
+    },
+    {
+      "id": "CP1928",
+      "slug": "sjm-active-kids-maker-2027",
+      "provider": "Active Kids 2027 · Maker & 3D Printing",
+      "country": "Perú",
+      "iso": "PER",
+      "place": "Colegio San José de Monterrico · Lima",
+      "age": "Campamento general de 3–11 años. Maker corresponde a primaria, cursos 1–5.",
+      "programme": "Modelado, preparación de archivos e impresión de un objeto propio en 3D. Es una de las opciones de primaria.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripciones en español. Confirmar el idioma de instrucción de la opción Maker.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Período general del 4 de enero al 18 de febrero de 2027. Bloque de primaria 08:00–12:00. Aún no se publican los días y horas exactos de Maker.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-02-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "season",
+            "start": "2027-01-04",
+            "end": "2027-02-18",
+            "label": "Período general del 4 de enero al 18 de febrero de 2027. Bloque de primaria 08:00–12:00. Aún no se publican los días y horas exactos de Maker.",
+            "price": "No se encontró tarifa pública del paquete concreto ni de los materiales de Maker.",
+            "source": "https://www.sanjosedemonterrico.edu.pe/activekids2026",
+            "date_scope": "season_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "PEN",
+        "unit": "quote",
+        "label": "No se encontró tarifa pública del paquete concreto ni de los materiales de Maker.",
+        "included": "Modelado, preparación de archivos e impresión de un objeto propio en 3D. Es una de las opciones de primaria.",
+        "extras": "Aún no se confirman el coste total ni las plazas.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Se requiere un curso real de primaria, un grupo Maker abierto y confirmar el acceso desde otra escuela."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Se requiere un curso real de primaria, un grupo Maker abierto y confirmar el acceso desde otra escuela."
+        }
+      },
+      "editorial_reason": "Período general del 4 de enero al 18 de febrero de 2027. Bloque de primaria 08:00–12:00. Aún no se publican los días y horas exactos de Maker.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar.",
+        "La página muestra el período de 2027 pero conserva el 2 de enero de 2026 como cierre de inscripción. Confirmar el plazo de 2027 en el formulario vigente."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sanjosedemonterrico.edu.pe/activekids2026",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.sanjosedemonterrico.edu.pe/landing",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://activekids.activemode-sjm.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "engineering",
+        "general"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [
+        "L768"
+      ],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-18",
+          "kind": "season_window",
+          "event_ids": []
+        }
+      ]
     }
   ],
   "gaps": [
@@ -340577,7 +340685,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 265,
+  "version": 266,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -353812,7 +353920,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1927,
+      "total_dossiers": 1928,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -375887,6 +375995,11 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1928",
+      "event_id": "L768",
+      "relation": "related_track_or_operator"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -380514,7 +380627,7 @@
   "integration": {
     "generated_sessions": 4192,
     "reused_legacy_events": 73,
-    "seasonal_windows": 75,
+    "seasonal_windows": 76,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."
   }
 }

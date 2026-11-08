@@ -2991,9 +2991,9 @@ Oscar: Sí para visita familiar siguiendo las reglas de acceso.
 Idioma: Confirmar el idioma del grupo o sede concretos.
 Acceso: Festival el 31 de enero, de 10:00 a 19:00. Entrada gratuita de 0–6 años inclusive. Confirmar precio desde los 7 años y condiciones del juego concreto.
 Precio: Precio sin publicar.
-Limitaciones: Zona de videojuegos de 10:00 a 18:00 con demostraciones de estudios locales. Los reglamentos de torneos se publican por separado.
+Limitaciones: Muestra de juegos de cinco estudios locales en Gaming Zone 10:00–18:00. Juego libre de Rocket League 10:00–12:30 en el programa preliminar. Confirmar aparte edades de actividades y torneos.
 Fuente: https://animaconcr.com/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### E328 · The Draw Card Show · Gaming & TCG
 
@@ -4945,6 +4945,32 @@ Limitaciones: La página indica del 19 de diciembre al 23 de enero, 5 sábados d
 Fuente: https://cultivatec.com.mx/curso-robotics-winter-camp.html
 Se ha comprobado: 2026-11-08
 
+### C4564 · Global Game Jam Monterrey 2027 · LOOT
+
+Fecha: 2027-01-29 — 2027-01-31
+edad: Condicional. La organización local aún no confirma el acceso infantil. Se necesitan aprobación de la sede y acompañamiento permanente del tutor.
+Matvey: Condicional. La organización local aún no confirma el acceso infantil. Se necesitan aprobación de la sede y acompañamiento permanente del tutor.
+Oscar: Condicional. La organización local aún no confirma el acceso infantil. Se necesitan aprobación de la sede y acompañamiento permanente del tutor.
+Idioma: Bases y formularios en español. Confirmar el idioma del jurado con la organización.
+Acceso: Condicional. La organización local aún no confirma el acceso infantil. Se necesitan aprobación de la sede y acompañamiento permanente del tutor.
+Precio: Para la inauguración o el trabajo nocturno en la sede se necesita entrada LOOT. Aún no se publica el precio.
+Limitaciones: El programa detallado indica 29–31 de enero de 2027 y el bloque superior indica fin el 30 de enero. Confirmar la sede y el final.
+Fuente: https://loot.pixelperfectstudio.mx/event/global-game-jam-monterrey-2027/
+Se ha comprobado: 2026-11-08
+
+### E529 · Global Game Jam Monterrey 2027 · Video Game Showcase
+
+Fecha: 2027-01-29 — 2027-01-29
+edad: Muestra de juegos en el programa de apertura. La organización exige entrada LOOT para la apertura y aún no confirma acceso familiar ni precio.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Muestra de juegos en el programa de apertura. La organización exige entrada LOOT para la apertura y aún no confirma acceso familiar ni precio.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: El programa detallado indica 29–31 de enero de 2027 y el bloque superior indica fin el 30 de enero. Confirmar la sede y el final.
+Fuente: https://loot.pixelperfectstudio.mx/event/global-game-jam-monterrey-2027/
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -5346,7 +5372,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–9; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–6; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1124-20270111-20270115 · FOD Líderes del Futuro · Juguemos a crear Robots · Juguemos a crear Robots · 2027-01-11–2027-01-15
 
@@ -5359,7 +5385,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1124-20270125-20270129 · FOD Líderes del Futuro · Juguemos a crear Robots · Juguemos a crear Robots · 2027-01-25–2027-01-29
 
@@ -5372,7 +5398,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1125-20270118-20270122 · FOD Líderes del Futuro · Mis Historias Animadas · Mis Historias Animadas · 2027-01-18–2027-01-22
 
@@ -5411,7 +5437,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–9; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–6; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1127-20270111-20270115 · FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación · Nivel 1 · Principios de construcción y programación · 2027-01-11–2027-01-15
 
@@ -5424,7 +5450,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### CP1128-20270118-20270122 · FOD Líderes del Futuro · Nivel 2 · Sistemas inteligentes: sensores y engranajes · Nivel 2 · Sistemas inteligentes: sensores y engranajes · 2027-01-18–2027-01-22
 

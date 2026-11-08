@@ -13653,7 +13653,7 @@
       "deadline": "",
       "period": "",
       "date_status": "Confirmado",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
       "status": "Idea",
       "source": "https://animaconcr.com/",
@@ -13686,7 +13686,7 @@
       "reward": "",
       "priority": "P3 — visita según programa",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
-      "note": "Zona de videojuegos de 10:00 a 18:00 con demostraciones de estudios locales. Los reglamentos de torneos se publican por separado.",
+      "note": "Muestra de juegos de cinco estudios locales en Gaming Zone 10:00–18:00. Juego libre de Rocket League 10:00–12:30 en el programa preliminar. Confirmar aparte edades de actividades y torneos.",
       "themes": [
         "games",
         "technology",
@@ -13702,8 +13702,8 @@
       "adult_entry": "Festival el 31 de enero, de 10:00 a 19:00. Entrada gratuita de 0–6 años inclusive. Confirmar precio desde los 7 años y condiciones del juego concreto.",
       "visitor_policy": "family",
       "visitor_policy_note": "Festival el 31 de enero, de 10:00 a 19:00. Entrada gratuita de 0–6 años inclusive. Confirmar precio desde los 7 años y condiciones del juego concreto.",
-      "exhibitor_note": "Zona de videojuegos de 10:00 a 18:00 con demostraciones de estudios locales. Los reglamentos de torneos se publican por separado.",
-      "exhibitor_directory_url": "https://animaconcr.com/",
+      "exhibitor_note": "Muestra de juegos de cinco estudios locales en Gaming Zone 10:00–18:00. Juego libre de Rocket League 10:00–12:30 en el programa preliminar. Confirmar aparte edades de actividades y torneos.",
+      "exhibitor_directory_url": "https://animaconcr.com/schedule",
       "highlights": [
         "Videojuegos de estudios locales",
         "Zona pública de videojuegos"
@@ -13711,10 +13711,11 @@
       "exhibitors": [
         "Sunna Studios",
         "Colorblind Pixel Studios",
-        "Fairplay Labs Studios",
+        "Fairplay Labs",
         "Hongoneon Studios",
         "Tobeni Studios"
-      ]
+      ],
+      "delivery_mode": "in_person"
     },
     {
       "id": "E328",
@@ -23450,6 +23451,122 @@
       "date_scope": "programme_watch"
     },
     {
+      "id": "C4564",
+      "title": "Global Game Jam Monterrey 2027 · LOOT",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Monterrey",
+      "start": "2027-01-29",
+      "end": "2027-01-31",
+      "period": "",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://loot.pixelperfectstudio.mx/event/global-game-jam-monterrey-2027/",
+      "references": [
+        {
+          "url": "https://globalgamejam.org/policies",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Condicional. La organización local aún no confirma el acceso infantil. Se necesitan aprobación de la sede y acompañamiento permanente del tutor.",
+      "mat": "Condicional. La organización local aún no confirma el acceso infantil. Se necesitan aprobación de la sede y acompañamiento permanente del tutor.",
+      "osc": "Condicional. La organización local aún no confirma el acceso infantil. Se necesitan aprobación de la sede y acompañamiento permanente del tutor.",
+      "format": "Sede local de desarrollo de juegos. El desarrollo puede hacerse a distancia y la presentación final es presencial.",
+      "entry": "Condicional. La organización local aún no confirma el acceso infantil. Se necesitan aprobación de la sede y acompañamiento permanente del tutor.",
+      "gear": "",
+      "language": "Bases y formularios en español. Confirmar el idioma del jurado con la organización.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Bases y formularios en español. Confirmar el idioma del jurado con la organización.",
+      "cost": "Para la inauguración o el trabajo nocturno en la sede se necesita entrada LOOT. Aún no se publica el precio.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "El programa detallado indica 29–31 de enero de 2027 y el bloque superior indica fin el 30 de enero. Confirmar la sede y el final.",
+      "themes": [
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "date_precision": "announced_window",
+      "date_rule": "El programa detallado indica 29–31 de enero de 2027 y el bloque superior indica fin el 30 de enero. Confirmar la sede y el final.",
+      "delivery_mode": "hybrid",
+      "related_ids": [
+        "E529"
+      ]
+    },
+    {
+      "id": "E529",
+      "title": "Global Game Jam Monterrey 2027 · Video Game Showcase",
+      "block": "Eventos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Monterrey",
+      "start": "2027-01-29",
+      "end": "2027-01-29",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://loot.pixelperfectstudio.mx/event/global-game-jam-monterrey-2027/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Muestra de juegos en el programa de apertura. La organización exige entrada LOOT para la apertura y aún no confirma acceso familiar ni precio.",
+      "mat": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "osc": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "format": "",
+      "entry": "Muestra de juegos en el programa de apertura. La organización exige entrada LOOT para la apertura y aún no confirma acceso familiar ni precio.",
+      "gear": "",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "El programa detallado indica 29–31 de enero de 2027 y el bloque superior indica fin el 30 de enero. Confirmar la sede y el final.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "delivery_mode": "in_person",
+      "exhibition_tier": "regional",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Muestra de juegos en el programa de apertura. La organización exige entrada LOOT para la apertura y aún no confirma acceso familiar ni precio.",
+      "adult_entry": "Muestra de juegos en el programa de apertura. La organización exige entrada LOOT para la apertura y aún no confirma acceso familiar ni precio.",
+      "exhibitor_note": "Muestra de juegos a las 17:00 según LOOT. Aún no se publica la lista de equipos y estudios.",
+      "exhibitors": [],
+      "related_ids": [
+        "C4564"
+      ]
+    },
+    {
       "id": "CP041-20270329-20270402",
       "block": "Campamentos",
       "title": "Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02",
@@ -25683,7 +25800,7 @@
         }
       ],
       "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–9; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–6; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [
@@ -25791,7 +25908,7 @@
         }
       ],
       "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [
@@ -25899,7 +26016,7 @@
         }
       ],
       "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–10; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 6–8. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [
@@ -26223,7 +26340,7 @@
         }
       ],
       "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–9; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–6; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [
@@ -26331,7 +26448,7 @@
         }
       ],
       "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Matvey: Para esta fecha edad 9–10; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Oscar: Para esta fecha edad 6–7; curso 9–12. Familia conoce ahora edades 9 y 6; cumpleaños exacto sin establecer. Confirmar idioma, nivel y plaza. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
       "iso": [

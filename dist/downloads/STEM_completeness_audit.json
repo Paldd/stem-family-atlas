@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10043,
-    "competition_cards": 4556,
-    "event_cards": 528,
-    "camp_cards": 4959,
+    "cards": 10052,
+    "competition_cards": 4563,
+    "event_cards": 529,
+    "camp_cards": 4960,
     "league_profiles": 299,
-    "major_exhibition_cards": 431,
+    "major_exhibition_cards": 432,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3283,
+      "total": 3286,
       "countries_with_records": 40,
-      "competitions": 1899,
-      "events": 136,
-      "major_exhibitions": 98,
+      "competitions": 1901,
+      "events": 137,
+      "major_exhibitions": 99,
       "camps": 1248,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 654,
+      "total": 660,
       "countries_with_records": 14,
-      "competitions": 414,
+      "competitions": 419,
       "events": 41,
       "major_exhibitions": 37,
-      "camps": 199,
+      "camps": 200,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -13403,6 +13403,17 @@
       "new": false
     },
     {
+      "id": "E529",
+      "name": "Global Game Jam Monterrey 2027 · Video Game Showcase",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2027-01-29",
+      "end": "2027-01-29",
+      "visitor_policy": "confirm_children",
+      "source": "https://loot.pixelperfectstudio.mx/event/global-game-jam-monterrey-2027/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -15820,8 +15831,8 @@
       }
     ],
     "counts": {
-      "records": 4959,
-      "holiday": 4617,
+      "records": 4960,
+      "holiday": 4618,
       "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1037,

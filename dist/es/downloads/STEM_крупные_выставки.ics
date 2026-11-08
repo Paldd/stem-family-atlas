@@ -3485,7 +3485,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E327@family-stem.local
-DTSTAMP:20261107T121130Z
+DTSTAMP:20261108T075914Z
 SUMMARY:[Exposición · visita en familia] AnimaCon Costa Rica 2027 · Ga
  ming Zone
 DTSTART;VALUE=DATE:20270131
@@ -3495,11 +3495,13 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Festival el
  ve. Confirmar precio desde los 7 años y condiciones del juego concreto.
   Entrada de adultos: Festival el 31 de enero\, de 10:00 a 19:00. Entrada
   gratuita de 0–6 años inclusive. Confirmar precio desde los 7 años y
-  condiciones del juego concreto.. Zona de videojuegos de 10:00 a 18:00 c
- on demostraciones de estudios locales. Los reglamentos de torneos se pub
- lican por separado. Empresas: Zona de videojuegos de 10:00 a 18:00 con d
- emostraciones de estudios locales. Los reglamentos de torneos se publica
- n por separado.. Fuente verificada el 2026-11-07.
+  condiciones del juego concreto.. Muestra de juegos de cinco estudios lo
+ cales en Gaming Zone 10:00–18:00. Juego libre de Rocket League 10:00
+ –12:30 en el programa preliminar. Confirmar aparte edades de actividad
+ es y torneos. Empresas: Muestra de juegos de cinco estudios locales en G
+ aming Zone 10:00–18:00. Juego libre de Rocket League 10:00–12:30 en 
+ el programa preliminar. Confirmar aparte edades de actividades y torneos
+ .. Fuente verificada el 2026-11-08.
 LOCATION:Centro de Convenciones de Costa Rica · Heredia\, Costa Rica
 URL:https://animaconcr.com/
 STATUS:TENTATIVE
@@ -6267,6 +6269,27 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Alumnado\,
  da el 2026-11-08.
 LOCATION:Sheraton Waikiki · Honolulu\, Estados Unidos
 URL:https://www.hawaiistemconference.org/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E529@family-stem.local
+DTSTAMP:20261108T075914Z
+SUMMARY:[Exposición · confirmar admisión de menores] Global Game Jam M
+ onterrey 2027 · Video Game Showcase
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Muestra de 
+ juegos en el programa de apertura. La organización exige entrada LOOT p
+ ara la apertura y aún no confirma acceso familiar ni precio. Entrada de
+  adultos: Muestra de juegos en el programa de apertura. La organización
+  exige entrada LOOT para la apertura y aún no confirma acceso familiar 
+ ni precio.. El programa detallado indica 29–31 de enero de 2027 y el b
+ loque superior indica fin el 30 de enero. Confirmar la sede y el final. 
+ Empresas: Muestra de juegos a las 17:00 según LOOT. Aún no se publica 
+ la lista de equipos y estudios.. Fuente verificada el 2026-11-08.
+LOCATION:Monterrey\, México
+URL:https://loot.pixelperfectstudio.mx/event/global-game-jam-monterrey-2027/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

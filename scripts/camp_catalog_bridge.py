@@ -92,6 +92,7 @@ RELATED.update({
     'bvi-summer-robotics-camp': ['L681'],
     'st-kitts-robomindset-summer': ['L682'],
     'cook-islands-cocobots-club-2027': ['L683'],
+    'sjm-active-kids-maker-2027': ['L768'],
     'cook-islands-kuki-code-avengers': ['L684'],
     'cook-islands-kuki-code-avengers-holidays': ['L685'],
     'bermuda-bzs-science-club': ['L686'],
