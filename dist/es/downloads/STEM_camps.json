@@ -580,7 +580,7 @@
       }
     ],
     "counts": {
-      "records": 5037,
+      "records": 5053,
       "holiday": 4683,
       "regular": 162,
       "self_paced_materials": 4,
@@ -22282,33 +22282,33 @@
       "title": "Growthfluential · December Kids & Youth Camp 2026",
       "country": "Kenia",
       "region": "África",
-      "city": "Nairobi · Garden Estate / Google Meet",
+      "city": "The Tripple Two · Eastern Bypass · Nairobi / Google Meet",
       "source": "https://www.growthfluential.org/programs/kids-youth-camp-december-2026",
-      "checked": "2026-10-02",
+      "checked": "2026-11-08",
       "start": "2026-12-07",
       "end": "2026-12-12",
       "deadline": "",
       "period": "",
       "date_status": "Confirmado",
-      "age": "8–18",
-      "mat": "condicional: 9 se adapta; carga, EN y acceso extranjero confirmar",
-      "osc": "No: menor de 8 años",
-      "format": "No se ha declarado el pago de la pensión",
-      "participation": "day_camp",
+      "age": "6–18 años según la página vigente del turno de diciembre.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Programa presencial en Nairobi o conexión por Google Meet. No se anuncia alojamiento.",
+      "participation": "day_or_online",
       "admission_kind": "program",
-      "entry": "las tardes o online option, Monday–Saturday 09–12 por el tiempo local. comprobar si el conjunto de estudios es el mismo online y de manera clara.",
+      "entry": "7–12 de diciembre de 2026, lunes a sábado 09:00–12:00 EAT. Para el grupo en línea, confirmar el envío del kit, el precio final y el acceso desde otro país.",
       "gear": "Coding, robótica, diseño digital y creación de contenido",
-      "language": "lengua de ocupación / protección no está confirmada; el sitio de la EN no es prueba",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
       "languages": [],
       "support_languages": [],
-      "cost": "KES 12 000 / el niño; materials included. Deposit 50% se incluye en el valor, no se ha añadido de nuevo.",
+      "cost": "KES 12000 por paquete con materiales y actividades según la página. La tarifa en línea no se indica aparte.",
       "scope": "local",
       "level": "Programa formativo local",
       "importance_reason": "evaluar la escala de un programa concreto; la presencia de un sitio web y un certificado no demuestra su lugar en el ranking mundial.",
       "reward": "formación / propio proyecto; el certificado de formación no es igual a la victoria",
       "priority": "P2  después de comprobar la admisión",
       "status": "Idea",
-      "action": "confirmar el flujo, la lengua, la clase, el acceso de la familia extranjera y la disponibilidad de asientos antes de la inscripción o el viaje.",
+      "action": "7–12 de diciembre de 2026, lunes a sábado 09:00–12:00 EAT. Para el grupo en línea, confirmar el envío del kit, el precio final y el acceso desde otro país.",
       "proof": "Se ha leído la fuente primaria; se han dividido la fecha / edad y las condiciones desconocidas.",
       "evidence_level": "event_page",
       "references": [
@@ -22317,18 +22317,81 @@
           "url": "https://www.growthfluential.org/programs"
         }
       ],
-      "note": "Es un programa de medio día., no se ha declarado el pensión. English website no prueba el idioma de las clases. Online el calendario en Nairobi UTC+3 = 00:00–03:00 Costa Rica, Por lo tanto, es más conveniente para la familia visitarlos durante el día.; el cinturón de tiempo para confirmar. en el November la robótica no se ha trasladado de December.",
-      "registration_status": "No se ha presentado la solicitud de la familia; el programa publicado no confirma el lugar.",
-      "language_certainty": "El idioma del sitio no se ha transferido al idioma de enseñanza / juez.",
+      "note": "El depósito de KES 6000 forma parte de KES 12000. El saldo se abona antes del campamento.",
+      "registration_status": "La página incluye un formulario. El plazo, la disponibilidad y la aceptación de la solicitud no están confirmados.",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
       "themes": [
         "robotics",
         "coding",
         "technology"
       ],
-      "date_scope": "festival_window",
+      "date_scope": "session_days",
       "language_mode": "unconfirmed",
       "iso": [
         "KEN"
+      ],
+      "delivery_mode": "hybrid",
+      "sessions": [
+        {
+          "date": "2026-12-07",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-07T06:00:00Z",
+          "end_utc": "2026-12-07T09:00:00Z",
+          "topic": "Práctica de programación, robótica, diseño, creación de contenido y trabajo en equipo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-08",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-08T06:00:00Z",
+          "end_utc": "2026-12-08T09:00:00Z",
+          "topic": "Práctica de programación, robótica, diseño, creación de contenido y trabajo en equipo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-09",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-09T06:00:00Z",
+          "end_utc": "2026-12-09T09:00:00Z",
+          "topic": "Práctica de programación, robótica, diseño, creación de contenido y trabajo en equipo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-10",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-10T06:00:00Z",
+          "end_utc": "2026-12-10T09:00:00Z",
+          "topic": "Práctica de programación, robótica, diseño, creación de contenido y trabajo en equipo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-11",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-11T06:00:00Z",
+          "end_utc": "2026-12-11T09:00:00Z",
+          "topic": "Práctica de programación, robótica, diseño, creación de contenido y trabajo en equipo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-12",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "Africa/Nairobi",
+          "start_utc": "2026-12-12T06:00:00Z",
+          "end_utc": "2026-12-12T09:00:00Z",
+          "topic": "Práctica de programación, robótica, diseño, creación de contenido y trabajo en equipo.",
+          "ical_timed": true
+        }
       ]
     },
     {
@@ -40421,6 +40484,64 @@
       "related_ids": [
         "L779"
       ]
+    },
+    {
+      "id": "L781",
+      "title": "Fundi Bots · Holiday Robotics Camp",
+      "block": "Campamentos",
+      "country": "Uganda",
+      "region": "África",
+      "iso": [
+        "UGA"
+      ],
+      "city": "Sede por confirmar",
+      "start": "",
+      "end": "",
+      "period": "Se anuncia un campamento de dos semanas en diciembre de 2026. Aún no se publican los días exactos, la sede ni el precio.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://fundibots.org/training-2/",
+      "references": [
+        {
+          "url": "https://fundibots.org/our-work/learning-models/robotics-stem-training/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "6–18 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Montaje de robots, programación y proyectos científicos. El programa de Fundi Bots tiene grupos de 6–7 y 8–9 años. Confirmar los grupos de diciembre.",
+      "entry": "La organización indica que abrirá la inscripción más adelante. Confirmar horario, idioma y plaza para cada grupo de edad.",
+      "gear": "",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "La tarifa de 2026 no está publicada.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "La organización indica que abrirá la inscripción más adelante. Confirmar horario, idioma y plaza para cada grupo de edad.",
+      "note": "Formato y sede pendientes.",
+      "themes": [
+        "robotics",
+        "coding",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Programa formativo técnico",
+      "participation": "unconfirmed_program",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "date_precision": "month_only",
+      "announced_months": [
+        "2026-12"
+      ],
+      "registration_status": "La organización indica que abrirá la inscripción más adelante. Confirmar horario, idioma y plaza para cada grupo de edad."
     },
     {
       "id": "CP001-20270606-20270619",
@@ -405467,6 +405588,975 @@
         "status": "unconfirmed",
         "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
       }
+    },
+    {
+      "id": "CP1980-20261201-20261231-intake-2026-12",
+      "block": "Campamentos",
+      "title": "Wike Tech Africa · Digital Discovery Camp · Ventana mensual de admisión · 2026-12-01–2026-12-31",
+      "country": "Uganda",
+      "region": "África",
+      "city": "Centro formativo · dirección pendiente",
+      "start": "2026-12-01",
+      "end": "2026-12-31",
+      "period": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "6–8 años.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.",
+      "entry": "El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "gear": "Introducción práctica a la tecnología y proyecto final para el grupo menor.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2026/27 · UGX 150000 por paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://wiketechafrica.com/courses/digital-discovery-camp/",
+      "references": [
+        {
+          "url": "https://wiketechafrica.com/courses/digital-discovery-camp/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: No por la edad publicada. Por encima del máximo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "iso": [
+        "UGA"
+      ],
+      "themes": [
+        "technology",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "wike-discovery",
+      "camp_programme_id": "CP1980",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes."
+    },
+    {
+      "id": "CP1980-20270101-20270131-intake-2027-01",
+      "block": "Campamentos",
+      "title": "Wike Tech Africa · Digital Discovery Camp · Ventana mensual de admisión · 2027-01-01–2027-01-31",
+      "country": "Uganda",
+      "region": "África",
+      "city": "Centro formativo · dirección pendiente",
+      "start": "2027-01-01",
+      "end": "2027-01-31",
+      "period": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "6–8 años.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.",
+      "entry": "El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "gear": "Introducción práctica a la tecnología y proyecto final para el grupo menor.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2027 · UGX 150000 por paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://wiketechafrica.com/courses/digital-discovery-camp/",
+      "references": [
+        {
+          "url": "https://wiketechafrica.com/courses/digital-discovery-camp/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: No por la edad publicada. Por encima del máximo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "iso": [
+        "UGA"
+      ],
+      "themes": [
+        "technology",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "wike-discovery",
+      "camp_programme_id": "CP1980",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes."
+    },
+    {
+      "id": "CP1980-20270201-20270228-intake-2027-02",
+      "block": "Campamentos",
+      "title": "Wike Tech Africa · Digital Discovery Camp · Ventana mensual de admisión · 2027-02-01–2027-02-28",
+      "country": "Uganda",
+      "region": "África",
+      "city": "Centro formativo · dirección pendiente",
+      "start": "2027-02-01",
+      "end": "2027-02-28",
+      "period": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "6–8 años.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.",
+      "entry": "El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "gear": "Introducción práctica a la tecnología y proyecto final para el grupo menor.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2027 · UGX 150000 por paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://wiketechafrica.com/courses/digital-discovery-camp/",
+      "references": [
+        {
+          "url": "https://wiketechafrica.com/courses/digital-discovery-camp/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: No por la edad publicada. Por encima del máximo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "iso": [
+        "UGA"
+      ],
+      "themes": [
+        "technology",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "wike-discovery",
+      "camp_programme_id": "CP1980",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes."
+    },
+    {
+      "id": "CP1981-20261201-20261231-intake-2026-12",
+      "block": "Campamentos",
+      "title": "Wike Tech Africa · Young Digital Creators Camp · Ventana mensual de admisión · 2026-12-01–2026-12-31",
+      "country": "Uganda",
+      "region": "África",
+      "city": "Centro formativo · dirección pendiente",
+      "start": "2026-12-01",
+      "end": "2026-12-31",
+      "period": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "9–12 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.",
+      "entry": "El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "gear": "Introducción a Scratch y proyecto digital final.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2026/27 · UGX 180000 por paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/",
+      "references": [
+        {
+          "url": "https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "iso": [
+        "UGA"
+      ],
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "wike-young",
+      "camp_programme_id": "CP1981",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes."
+    },
+    {
+      "id": "CP1981-20270101-20270131-intake-2027-01",
+      "block": "Campamentos",
+      "title": "Wike Tech Africa · Young Digital Creators Camp · Ventana mensual de admisión · 2027-01-01–2027-01-31",
+      "country": "Uganda",
+      "region": "África",
+      "city": "Centro formativo · dirección pendiente",
+      "start": "2027-01-01",
+      "end": "2027-01-31",
+      "period": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "9–12 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.",
+      "entry": "El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "gear": "Introducción a Scratch y proyecto digital final.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2027 · UGX 180000 por paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/",
+      "references": [
+        {
+          "url": "https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "iso": [
+        "UGA"
+      ],
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "wike-young",
+      "camp_programme_id": "CP1981",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes."
+    },
+    {
+      "id": "CP1981-20270201-20270228-intake-2027-02",
+      "block": "Campamentos",
+      "title": "Wike Tech Africa · Young Digital Creators Camp · Ventana mensual de admisión · 2027-02-01–2027-02-28",
+      "country": "Uganda",
+      "region": "África",
+      "city": "Centro formativo · dirección pendiente",
+      "start": "2027-02-01",
+      "end": "2027-02-28",
+      "period": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "9–12 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.",
+      "entry": "El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "gear": "Introducción a Scratch y proyecto digital final.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2027 · UGX 180000 por paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/",
+      "references": [
+        {
+          "url": "https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "iso": [
+        "UGA"
+      ],
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "wike-young",
+      "camp_programme_id": "CP1981",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes."
+    },
+    {
+      "id": "CP1982-20261201-20261231-intake-2026-12",
+      "block": "Campamentos",
+      "title": "Wike Tech Africa · Scratch Programming for Kids · Ventana mensual de admisión · 2026-12-01–2026-12-31",
+      "country": "Uganda",
+      "region": "África",
+      "city": "Centro formativo · dirección pendiente",
+      "start": "2026-12-01",
+      "end": "2026-12-31",
+      "period": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "8–12 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.",
+      "entry": "El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "gear": "Programación práctica con Scratch y proyecto final.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2026/27 · UGX 150000 por paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://wiketechafrica.com/courses/scratch-programming-for-kids/",
+      "references": [
+        {
+          "url": "https://wiketechafrica.com/courses/scratch-programming-for-kids/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "iso": [
+        "UGA"
+      ],
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "wike-scratch",
+      "camp_programme_id": "CP1982",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes."
+    },
+    {
+      "id": "CP1982-20270101-20270131-intake-2027-01",
+      "block": "Campamentos",
+      "title": "Wike Tech Africa · Scratch Programming for Kids · Ventana mensual de admisión · 2027-01-01–2027-01-31",
+      "country": "Uganda",
+      "region": "África",
+      "city": "Centro formativo · dirección pendiente",
+      "start": "2027-01-01",
+      "end": "2027-01-31",
+      "period": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "8–12 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.",
+      "entry": "El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "gear": "Programación práctica con Scratch y proyecto final.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2027 · UGX 150000 por paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://wiketechafrica.com/courses/scratch-programming-for-kids/",
+      "references": [
+        {
+          "url": "https://wiketechafrica.com/courses/scratch-programming-for-kids/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "iso": [
+        "UGA"
+      ],
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "wike-scratch",
+      "camp_programme_id": "CP1982",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes."
+    },
+    {
+      "id": "CP1982-20270201-20270228-intake-2027-02",
+      "block": "Campamentos",
+      "title": "Wike Tech Africa · Scratch Programming for Kids · Ventana mensual de admisión · 2027-02-01–2027-02-28",
+      "country": "Uganda",
+      "region": "África",
+      "city": "Centro formativo · dirección pendiente",
+      "start": "2027-02-01",
+      "end": "2027-02-28",
+      "period": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "8–12 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.",
+      "entry": "El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "gear": "Programación práctica con Scratch y proyecto final.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2027 · UGX 150000 por paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://wiketechafrica.com/courses/scratch-programming-for-kids/",
+      "references": [
+        {
+          "url": "https://wiketechafrica.com/courses/scratch-programming-for-kids/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "iso": [
+        "UGA"
+      ],
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "wike-scratch",
+      "camp_programme_id": "CP1982",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes."
+    },
+    {
+      "id": "CP1983-20261201-20261231-intake-2026-12",
+      "block": "Campamentos",
+      "title": "Wike Tech Africa · Robotics for Kids · Ventana mensual de admisión · 2026-12-01–2026-12-31",
+      "country": "Uganda",
+      "region": "África",
+      "city": "Centro formativo · dirección pendiente",
+      "start": "2026-12-01",
+      "end": "2026-12-31",
+      "period": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "9–15 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.",
+      "entry": "El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "gear": "Robótica y proyecto final. Confirmar el contenido del kit.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2026/27 · UGX 200000 por paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://wiketechafrica.com/courses/robotics-for-kids/",
+      "references": [
+        {
+          "url": "https://wiketechafrica.com/courses/robotics-for-kids/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: El kit de robótica se paga aparte. No se publica el importe exacto. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "iso": [
+        "UGA"
+      ],
+      "themes": [
+        "robotics",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "wike-robots",
+      "camp_programme_id": "CP1983",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes."
+    },
+    {
+      "id": "CP1983-20270101-20270131-intake-2027-01",
+      "block": "Campamentos",
+      "title": "Wike Tech Africa · Robotics for Kids · Ventana mensual de admisión · 2027-01-01–2027-01-31",
+      "country": "Uganda",
+      "region": "África",
+      "city": "Centro formativo · dirección pendiente",
+      "start": "2027-01-01",
+      "end": "2027-01-31",
+      "period": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "9–15 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.",
+      "entry": "El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "gear": "Robótica y proyecto final. Confirmar el contenido del kit.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2027 · UGX 200000 por paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://wiketechafrica.com/courses/robotics-for-kids/",
+      "references": [
+        {
+          "url": "https://wiketechafrica.com/courses/robotics-for-kids/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: El kit de robótica se paga aparte. No se publica el importe exacto. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "iso": [
+        "UGA"
+      ],
+      "themes": [
+        "robotics",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "wike-robots",
+      "camp_programme_id": "CP1983",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes."
+    },
+    {
+      "id": "CP1983-20270201-20270228-intake-2027-02",
+      "block": "Campamentos",
+      "title": "Wike Tech Africa · Robotics for Kids · Ventana mensual de admisión · 2027-02-01–2027-02-28",
+      "country": "Uganda",
+      "region": "África",
+      "city": "Centro formativo · dirección pendiente",
+      "start": "2027-02-01",
+      "end": "2027-02-28",
+      "period": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "9–15 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.",
+      "entry": "El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "gear": "Robótica y proyecto final. Confirmar el contenido del kit.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2027 · UGX 200000 por paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://wiketechafrica.com/courses/robotics-for-kids/",
+      "references": [
+        {
+          "url": "https://wiketechafrica.com/courses/robotics-for-kids/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: El kit de robótica se paga aparte. No se publica el importe exacto. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "iso": [
+        "UGA"
+      ],
+      "themes": [
+        "robotics",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "wike-robots",
+      "camp_programme_id": "CP1983",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes."
+    },
+    {
+      "id": "CP1984-20261201-20261231-intake-2026-12",
+      "block": "Campamentos",
+      "title": "Wike Tech Africa · Robotics and Coding Combo Camp · Ventana mensual de admisión · 2026-12-01–2026-12-31",
+      "country": "Uganda",
+      "region": "África",
+      "city": "Centro formativo · dirección pendiente",
+      "start": "2026-12-01",
+      "end": "2026-12-31",
+      "period": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "9–15 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.",
+      "entry": "El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "gear": "Programa combinado de Scratch y robótica con proyecto final.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2026/27 · UGX 200000 por paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/",
+      "references": [
+        {
+          "url": "https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: El kit de robótica se paga aparte. No se publica el importe exacto. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "iso": [
+        "UGA"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "wike-combo",
+      "camp_programme_id": "CP1984",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes."
+    },
+    {
+      "id": "CP1984-20270101-20270131-intake-2027-01",
+      "block": "Campamentos",
+      "title": "Wike Tech Africa · Robotics and Coding Combo Camp · Ventana mensual de admisión · 2027-01-01–2027-01-31",
+      "country": "Uganda",
+      "region": "África",
+      "city": "Centro formativo · dirección pendiente",
+      "start": "2027-01-01",
+      "end": "2027-01-31",
+      "period": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "9–15 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.",
+      "entry": "El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "gear": "Programa combinado de Scratch y robótica con proyecto final.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2027 · UGX 200000 por paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/",
+      "references": [
+        {
+          "url": "https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: El kit de robótica se paga aparte. No se publica el importe exacto. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "iso": [
+        "UGA"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "wike-combo",
+      "camp_programme_id": "CP1984",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes."
+    },
+    {
+      "id": "CP1984-20270201-20270228-intake-2027-02",
+      "block": "Campamentos",
+      "title": "Wike Tech Africa · Robotics and Coding Combo Camp · Ventana mensual de admisión · 2027-02-01–2027-02-28",
+      "country": "Uganda",
+      "region": "África",
+      "city": "Centro formativo · dirección pendiente",
+      "start": "2027-02-01",
+      "end": "2027-02-28",
+      "period": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "9–15 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.",
+      "entry": "El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "gear": "Programa combinado de Scratch y robótica con proyecto final.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2027 · UGX 200000 por paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/",
+      "references": [
+        {
+          "url": "https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: El kit de robótica se paga aparte. No se publica el importe exacto. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.",
+      "iso": [
+        "UGA"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "wike-combo",
+      "camp_programme_id": "CP1984",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes."
     },
     {
       "id": "L491",

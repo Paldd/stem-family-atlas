@@ -130,11 +130,14 @@ RELATED.update({
     'xcl-winter-2026-robotics': ['L183'],
     'xcl-winter-2026-steam': ['L183'],
     'frost-science-winter-2026': ['E546'],
+    'fundi-bots-holiday-robotics-december': ['L781'],
+    'growthfluential-december-2026': ['L365'],
     'pulediamante-parquesol-navidad': ['L652'],
     'pcmiraflores-summer-wedo': ['L771'],
     'pcmiraflores-summer-ev3': ['L772'],
     'pcmiraflores-summer-arduino': ['L773'],
 })
+REUSE_DATES['growthfluential-december-2026'] = RELATED['growthfluential-december-2026']
 FIT = {'candidate':'Да по возрасту; зачисление отдельно',
        'conditional':'Условно; проверить возраст, класс и допуск',
        'later':'Нет сейчас; будущая возрастная ступень',

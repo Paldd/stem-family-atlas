@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10246; соревнований: 4641; событий: 568; лагерей / программ: 5037. Профилей лиг и программ: 299. Карточек крупных и профильных выставок: 472 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10272; соревнований: 4648; событий: 571; лагерей / программ: 5053. Профилей лиг и программ: 300. Карточек крупных и профильных выставок: 475 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 231 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -17,13 +17,13 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Северная Америка | 40 | 1916 | 109 | 1273 |
 | Южная Америка | 14 | 430 | 41 | 207 |
 | Европа | 54 | 602 | 122 | 1455 |
-| Африка | 53 | 235 | 28 | 94 |
+| Африка | 53 | 242 | 31 | 110 |
 | Азия | 49 | 1155 | 141 | 1661 |
 | Океания | 25 | 163 | 29 | 332 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 162. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 814 из 4641 карточек соревнований (17.5%). Это явный перекос охвата.
+VEX: 814 из 4648 карточек соревнований (17.5%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -325,6 +325,7 @@ VEX: 814 из 4641 карточек соревнований (17.5%). Это я�
 - **STEM Birds Australian Coding**: 7 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.stembirds.com.au/stem-birds-australian-coding-competition
 - **Code Battle UAE**: 5 карточек, 5 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://codebattle.tech/
 - **Virtual Xplore League · Firefly IO**: 6 карточек, 6 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://xploreleague.com/virtual/
+- **FIRST LEGO League Morocco · BIOGLOW 2026/27**: 5 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.loop4st.org/fll
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 11 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -839,6 +840,9 @@ VEX: 814 из 4641 карточек соревнований (17.5%). Это я�
 - **Science World · Game Changers** — Канада; 2026-10-16 – 2027-01-24. Со взрослым; условия взрослого входа отдельно. https://www.scienceworld.ca/exhibition/game-changers/
 - **Hong Kong Science Museum · AI Gallery + InnoTech Gallery** — Китай, Специальный административный район Гонконг; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://hk.science.museum/en/web/scm/exhibition/aig.html
 - **Centre Spatial Guyanais · Ariane 6, Vega-C & Jupiter 2** — Французская Гвиана; дата неизвестна. Детский допуск уточнить. https://centrespatialguyanais.cnes.fr/index.php/fr/installations
+- **KidTech Festival & Expo 2026 · Future Careers & Tech Expo** — Гана; 2026-12-04 – 2026-12-05. Со взрослым; условия взрослого входа отдельно. https://kidtechfestival.org/the-programme/
+- **EGPAK Future-Ready Learners Summit 2026 · Mombasa** — Кения; дата неизвестна. Детский допуск уточнить. https://dschool.co.ke/events/future-ready
+- **SALTIS TechInov 2026 · Salon de l’IA en Afrique** — Сенегал; 2026-12-08 – 2026-12-10. Детский допуск уточнить. https://www.saltis-techinov.org/billetterie
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

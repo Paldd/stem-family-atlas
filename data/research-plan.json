@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 279,
+    "version": 280,
     "status": "implementation_snapshot",
-    "events": 10246,
-    "competitions": 4641,
+    "events": 10272,
+    "competitions": 4648,
     "league_profiles": 299,
-    "camp_dossiers": 1979,
+    "camp_dossiers": 1986,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 568,
+    "exhibitions_events": 571,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 278,
+    "version": 279,
     "status": "implementation_snapshot",
-    "events": 10234,
-    "competitions": 4639,
+    "events": 10246,
+    "competitions": 4641,
     "league_profiles": 299,
-    "camp_dossiers": 1974,
+    "camp_dossiers": 1979,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 567,
+    "exhibitions_events": 568,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 279,
+    "prepared_ui_version": 280,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 278,
-    "previous_verified_commit": "38c26e9f16790990171e9f8ac14f550b8f71cb45"
+    "previous_verified_ui_version": 279,
+    "previous_verified_commit": "fd65741785ca52ac6f7e373c2855fca6ba0827c2"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 278,
-    "published_version": 278,
-    "latest_source_commit": "38c26e9f16790990171e9f8ac14f550b8f71cb45",
-    "published_commit": "38c26e9f16790990171e9f8ac14f550b8f71cb45",
-    "latest_workflow": 42479431983,
+    "latest_source_version": 279,
+    "published_version": 279,
+    "latest_source_commit": "fd65741785ca52ac6f7e373c2855fca6ba0827c2",
+    "published_commit": "fd65741785ca52ac6f7e373c2855fca6ba0827c2",
+    "latest_workflow": 42481193183,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -27779,5 +27779,106 @@
     ],
     "audit": "data/caribbean-and-family-programmes-audit-v279.json",
     "source_receipts": "data/caribbean-and-family-programmes-source-receipts-v279.json"
+  },
+  "africa_robotics_and_education_v280": {
+    "version": 280,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4643",
+      "E569",
+      "C4644",
+      "E570",
+      "E571",
+      "C4645",
+      "C4646",
+      "C4647",
+      "C4648",
+      "C4649",
+      "L781"
+    ],
+    "new_dossiers": [
+      "CP1980",
+      "CP1981",
+      "CP1982",
+      "CP1983",
+      "CP1984",
+      "CP1985",
+      "CP1986"
+    ],
+    "new_dated_variants": 15,
+    "refreshed_event_ids": [
+      "L365"
+    ],
+    "legacy_overlay_event_ids": [
+      "L365"
+    ],
+    "legacy_overlay_league_ids": [
+      "fll-morocco-bioglow"
+    ],
+    "source_requests": 27,
+    "coding_junior": "C4643",
+    "kidtech_expo": "E569",
+    "kidtech_challenge": "C4644",
+    "egpak_suspended": "E570",
+    "saltis": "E571",
+    "morocco_events": [
+      "C4645",
+      "C4646",
+      "C4647",
+      "C4648",
+      "C4649"
+    ],
+    "morocco_league": "fll-morocco-bioglow",
+    "morocco_national_route": {
+      "id": "NR-FLL-MAR-general",
+      "url": "https://www.loop4st.org/fll",
+      "access_url": "https://www.loop4st.org/fll",
+      "website_status": "http_ok",
+      "website_checked": "2026-11-08",
+      "checked": "2026-11-08",
+      "programme": "BIOGLOW 2026/27. Местные категории, тарифы и техника опубликованы в брошюре LOOP.",
+      "website_note": "Глобальный каталог указывает Play Academy. На местном сайте LOOP опубликованы условия и календарь."
+    },
+    "wike_dossiers": [
+      "CP1980",
+      "CP1981",
+      "CP1982",
+      "CP1983",
+      "CP1984"
+    ],
+    "fundi_event": "L781",
+    "fundi_dossier": "CP1985",
+    "growth_event": "L365",
+    "growth_dossier": "CP1986",
+    "source_conflicts": [
+      {
+        "event_id": "E570",
+        "status": "suspended",
+        "original_listing": [
+          "2026-11-25",
+          "2026-11-26"
+        ],
+        "confirmed_start": "",
+        "confirmed_end": ""
+      },
+      {
+        "event_id": "C4643",
+        "status": "organizer_rescheduled",
+        "original_listing": [
+          "2026-10-30"
+        ],
+        "confirmed_start": "2026-11-17"
+      },
+      {
+        "event_id": "L365",
+        "status": "organizer_current_terms",
+        "previous_age": "8–18",
+        "current_age": "6–18"
+      }
+    ],
+    "audit": "data/africa-robotics-and-education-audit-v280.json",
+    "source_receipts": "data/africa-robotics-and-education-source-receipts-v280.json"
   }
 }

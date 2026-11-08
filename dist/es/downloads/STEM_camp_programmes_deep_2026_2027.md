@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 1979 fichas en 126 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-08. 1986 fichas en 126 países. Cada ficha incluye las fechas de verificación de las fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -158575,6 +158575,502 @@ Malasia · Penang Math Platform · Gelugor
 - [Página de la organización o reglamento de la categoría.](https://penangmathplatform.com/event/pmp-matatalab-coding-adventure-2026/) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://penangmathplatform.com/school-holiday-camp/) · 2026-11-08
+
+## CP1980 · Wike Tech Africa · Digital Discovery Camp
+
+Uganda · Centro formativo · dirección pendiente
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–8 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Introducción práctica a la tecnología y proyecto final para el grupo menor.
+
+**Alojamiento:** Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.
+
+**Fechas / estado:** Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.
+
+**Precio / año:** 2026/27 · UGX 150000 por paquete.
+
+**Incluido:** Paquete formativo, proyecto final y certificado tras completar el curso.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Matvey:** No por la edad publicada. Por encima del máximo.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Ventana mensual de admisión
+
+**Fechas / estado:** 2026-12-01 — 2026-12-31
+
+**Precio:** UGX 150000 por paquete.
+
+**condiciones de participación:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://wiketechafrica.com/courses/digital-discovery-camp/)
+
+### Ventana mensual de admisión
+
+**Fechas / estado:** 2027-01-01 — 2027-01-31
+
+**Precio:** UGX 150000 por paquete.
+
+**condiciones de participación:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://wiketechafrica.com/courses/digital-discovery-camp/)
+
+### Ventana mensual de admisión
+
+**Fechas / estado:** 2027-02-01 — 2027-02-28
+
+**Precio:** UGX 150000 por paquete.
+
+**condiciones de participación:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://wiketechafrica.com/courses/digital-discovery-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://wiketechafrica.com/courses/digital-discovery-camp/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://wiketechafrica.com/courses/) · 2026-11-08
+
+## CP1981 · Wike Tech Africa · Young Digital Creators Camp
+
+Uganda · Centro formativo · dirección pendiente
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–12 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Introducción a Scratch y proyecto digital final.
+
+**Alojamiento:** Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.
+
+**Fechas / estado:** Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.
+
+**Precio / año:** 2026/27 · UGX 180000 por paquete.
+
+**Incluido:** Paquete formativo, proyecto final y certificado tras completar el curso.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** No por la edad publicada. Por debajo del mínimo.
+
+**Motivo de selección:** Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Ventana mensual de admisión
+
+**Fechas / estado:** 2026-12-01 — 2026-12-31
+
+**Precio:** UGX 180000 por paquete.
+
+**condiciones de participación:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/)
+
+### Ventana mensual de admisión
+
+**Fechas / estado:** 2027-01-01 — 2027-01-31
+
+**Precio:** UGX 180000 por paquete.
+
+**condiciones de participación:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/)
+
+### Ventana mensual de admisión
+
+**Fechas / estado:** 2027-02-01 — 2027-02-28
+
+**Precio:** UGX 180000 por paquete.
+
+**condiciones de participación:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://wiketechafrica.com/courses/) · 2026-11-08
+
+## CP1982 · Wike Tech Africa · Scratch Programming for Kids
+
+Uganda · Centro formativo · dirección pendiente
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–12 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Programación práctica con Scratch y proyecto final.
+
+**Alojamiento:** Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.
+
+**Fechas / estado:** Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.
+
+**Precio / año:** 2026/27 · UGX 150000 por paquete.
+
+**Incluido:** Paquete formativo, proyecto final y certificado tras completar el curso.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** No por la edad publicada. Por debajo del mínimo.
+
+**Motivo de selección:** Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Ventana mensual de admisión
+
+**Fechas / estado:** 2026-12-01 — 2026-12-31
+
+**Precio:** UGX 150000 por paquete.
+
+**condiciones de participación:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://wiketechafrica.com/courses/scratch-programming-for-kids/)
+
+### Ventana mensual de admisión
+
+**Fechas / estado:** 2027-01-01 — 2027-01-31
+
+**Precio:** UGX 150000 por paquete.
+
+**condiciones de participación:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://wiketechafrica.com/courses/scratch-programming-for-kids/)
+
+### Ventana mensual de admisión
+
+**Fechas / estado:** 2027-02-01 — 2027-02-28
+
+**Precio:** UGX 150000 por paquete.
+
+**condiciones de participación:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://wiketechafrica.com/courses/scratch-programming-for-kids/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://wiketechafrica.com/courses/scratch-programming-for-kids/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://wiketechafrica.com/courses/) · 2026-11-08
+
+## CP1983 · Wike Tech Africa · Robotics for Kids
+
+Uganda · Centro formativo · dirección pendiente
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–15 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Robótica y proyecto final. Confirmar el contenido del kit.
+
+**Alojamiento:** Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.
+
+**Fechas / estado:** Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.
+
+**Precio / año:** 2026/27 · UGX 200000 por paquete.
+
+**Incluido:** Paquete formativo, proyecto final y certificado tras completar el curso.
+
+**Suplementos:** El kit de robótica se paga aparte. No se publica el importe exacto.
+
+**Pago:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** No por la edad publicada. Por debajo del mínimo.
+
+**Motivo de selección:** Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Ventana mensual de admisión
+
+**Fechas / estado:** 2026-12-01 — 2026-12-31
+
+**Precio:** UGX 200000 por paquete.
+
+**condiciones de participación:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://wiketechafrica.com/courses/robotics-for-kids/)
+
+### Ventana mensual de admisión
+
+**Fechas / estado:** 2027-01-01 — 2027-01-31
+
+**Precio:** UGX 200000 por paquete.
+
+**condiciones de participación:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://wiketechafrica.com/courses/robotics-for-kids/)
+
+### Ventana mensual de admisión
+
+**Fechas / estado:** 2027-02-01 — 2027-02-28
+
+**Precio:** UGX 200000 por paquete.
+
+**condiciones de participación:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://wiketechafrica.com/courses/robotics-for-kids/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://wiketechafrica.com/courses/robotics-for-kids/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://wiketechafrica.com/courses/) · 2026-11-08
+
+## CP1984 · Wike Tech Africa · Robotics and Coding Combo Camp
+
+Uganda · Centro formativo · dirección pendiente
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–15 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Programa combinado de Scratch y robótica con proyecto final.
+
+**Alojamiento:** Clases en el centro formativo. Confirmar horarios, días y condiciones de alojamiento.
+
+**Fechas / estado:** Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.
+
+**Precio / año:** 2026/27 · UGX 200000 por paquete.
+
+**Incluido:** Paquete formativo, proyecto final y certificado tras completar el curso.
+
+**Suplementos:** El kit de robótica se paga aparte. No se publica el importe exacto.
+
+**Pago:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** No por la edad publicada. Por debajo del mínimo.
+
+**Motivo de selección:** Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Ventana mensual de admisión
+
+**Fechas / estado:** 2026-12-01 — 2026-12-31
+
+**Precio:** UGX 200000 por paquete.
+
+**condiciones de participación:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/)
+
+### Ventana mensual de admisión
+
+**Fechas / estado:** 2027-01-01 — 2027-01-31
+
+**Precio:** UGX 200000 por paquete.
+
+**condiciones de participación:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/)
+
+### Ventana mensual de admisión
+
+**Fechas / estado:** 2027-02-01 — 2027-02-28
+
+**Precio:** UGX 200000 por paquete.
+
+**condiciones de participación:** El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://wiketechafrica.com/courses/) · 2026-11-08
+
+## CP1985 · Fundi Bots · Holiday Robotics Camp
+
+Uganda · Sede por confirmar
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–18 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Montaje de robots, programación y proyectos científicos. El programa de Fundi Bots tiene grupos de 6–7 y 8–9 años. Confirmar los grupos de diciembre.
+
+**Alojamiento:** Formato y sede pendientes.
+
+**Fechas / estado:** Se anuncia un campamento de dos semanas en diciembre de 2026. Aún no se publican los días exactos, la sede ni el precio.
+
+**Precio / año:** 2026 · La tarifa de 2026 no está publicada.
+
+**Incluido:** Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Se anuncia un campamento de dos semanas en diciembre de 2026. Aún no se publican los días exactos, la sede ni el precio.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://fundibots.org/training-2/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://fundibots.org/our-work/learning-models/robotics-stem-training/) · 2026-11-08
+
+## CP1986 · Growthfluential · December Kids & Youth Camp 2026
+
+Kenia · The Tripple Two · Eastern Bypass · Nairobi / Google Meet
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–18 años según la página vigente del turno de diciembre.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Práctica de programación, robótica, diseño, creación de contenido y trabajo en equipo.
+
+**Alojamiento:** Programa presencial en Nairobi o conexión por Google Meet. No se anuncia alojamiento.
+
+**Fechas / estado:** 7–12 de diciembre de 2026, lunes a sábado 09:00–12:00 EAT. Para el grupo en línea, confirmar el envío del kit, el precio final y el acceso desde otro país.
+
+**Precio / año:** 2026 · KES 12000 por paquete con materiales y actividades según la página. La tarifa en línea no se indica aparte.
+
+**Incluido:** Práctica de programación, robótica, diseño, creación de contenido y trabajo en equipo.
+
+**Suplementos:** Confirmar tarifa en línea y envío de materiales.
+
+**Pago:** El depósito de KES 6000 forma parte de KES 12000. El saldo se abona antes del campamento.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** 7–12 de diciembre de 2026, lunes a sábado 09:00–12:00 EAT. Para el grupo en línea, confirmar el envío del kit, el precio final y el acceso desde otro país.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Programa presencial en Nairobi o conexión por Google Meet. No se anuncia alojamiento.
+
+**Fechas / estado:** 2026-12-07 — 2026-12-12
+
+**Precio:** KES 12000 por paquete con materiales y actividades según la página. La tarifa en línea no se indica aparte.
+
+**condiciones de participación:** 7–12 de diciembre de 2026, lunes a sábado 09:00–12:00 EAT. Para el grupo en línea, confirmar el envío del kit, el precio final y el acceso desde otro país.
+
+- 2026-12-07 · 09:00–12:00 · Africa/Nairobi · Práctica de programación, robótica, diseño, creación de contenido y trabajo en equipo.
+
+- 2026-12-08 · 09:00–12:00 · Africa/Nairobi · Práctica de programación, robótica, diseño, creación de contenido y trabajo en equipo.
+
+- 2026-12-09 · 09:00–12:00 · Africa/Nairobi · Práctica de programación, robótica, diseño, creación de contenido y trabajo en equipo.
+
+- 2026-12-10 · 09:00–12:00 · Africa/Nairobi · Práctica de programación, robótica, diseño, creación de contenido y trabajo en equipo.
+
+- 2026-12-11 · 09:00–12:00 · Africa/Nairobi · Práctica de programación, robótica, diseño, creación de contenido y trabajo en equipo.
+
+- 2026-12-12 · 09:00–12:00 · Africa/Nairobi · Práctica de programación, robótica, diseño, creación de contenido y trabajo en equipo.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.growthfluential.org/programs/kids-youth-camp-december-2026)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.growthfluential.org/programs/kids-youth-camp-december-2026) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

@@ -23858,6 +23858,112 @@
         "evidence": "Cotejado con la página oficial y las condiciones publicadas."
       },
       {
+        "id": "fll-morocco-bioglow",
+        "name": "FIRST LEGO League Morocco · BIOGLOW 2026/27",
+        "group": "regional",
+        "age_summary": "5–7 / 6–10 / 8–10 / 9–16 / 11–14",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Las etapas locales se esperan en enero–febrero de 2027. LOOP aún no indica el día y la sede de cada categoría. El plazo general de inscripción de equipos terminó el 30 de octubre de 2026. La inscripción tardía no está confirmada.",
+        "categories": [
+          {
+            "name": "Founders Explore",
+            "age": "6–10",
+            "team": "2–6 menores y 1 mentor. Hay un paquete para una clase de 30 estudiantes.",
+            "hardware": "LEGO SPIKE Essential se adquiere aparte de Explore Set. La página de la categoría también cita WeDo 2.0.",
+            "age_rule": "Contactar con un club local o mentor escolar y cotejar edad en la fecha de corte, grado, idioma de defensa y admisión de equipos extranjeros.",
+            "entry": "Presentación en equipo del modelo y proyecto en la exposición.",
+            "event_id": "C4645"
+          },
+          {
+            "name": "Founders Challenge",
+            "age": "9–16",
+            "team": "2–10 estudiantes y 1–2 mentores.",
+            "hardware": "Challenge Set incluido en el paquete base. LEGO SPIKE Prime y el kit de expansión se adquieren aparte.",
+            "age_rule": "Contactar con un club local o mentor escolar y cotejar edad en la fecha de corte, grado, idioma de defensa y admisión de equipos extranjeros.",
+            "entry": "Puntuación del robot y proyecto. Acceso al campeonato Founders tras clasificarse.",
+            "event_id": "C4646"
+          },
+          {
+            "name": "Future 5–7",
+            "age": "5–7 · CP–CE2",
+            "team": "Paquete para un equipo de 4 menores o clase de 24.",
+            "hardware": "LEGO Education Computer Science & AI 5+ aparte del kit anual.",
+            "age_rule": "Contactar con un club local o mentor escolar y cotejar edad en la fecha de corte, grado, idioma de defensa y admisión de equipos extranjeros.",
+            "entry": "Presentación en equipo del modelo y proyecto en la exposición.",
+            "event_id": "C4647"
+          },
+          {
+            "name": "Future 8–10",
+            "age": "8–10 · CM1–6e",
+            "team": "Paquete para 4–8 estudiantes o clase de 24.",
+            "hardware": "2 kits LEGO Education Computer Science & AI 8+ y 2 Hardware Bundles se pagan aparte.",
+            "age_rule": "Contactar con un club local o mentor escolar y cotejar edad en la fecha de corte, grado, idioma de defensa y admisión de equipos extranjeros.",
+            "entry": "Proyecto en equipo y robot. El paquete para equipos independientes incluye la etapa nacional. El paquete escolar tiene condiciones propias.",
+            "event_id": "C4648"
+          },
+          {
+            "name": "Future 11–14",
+            "age": "11–14 · secundaria",
+            "team": "Paquete para 4–8 estudiantes o clase de 24.",
+            "hardware": "2 kits LEGO Education Computer Science & AI 11+ se pagan aparte.",
+            "age_rule": "Contactar con un club local o mentor escolar y cotejar edad en la fecha de corte, grado, idioma de defensa y admisión de equipos extranjeros.",
+            "entry": "Proyecto en equipo y robot. El paquete para equipos independientes incluye la etapa nacional. El paquete escolar tiene condiciones propias.",
+            "event_id": "C4649"
+          }
+        ],
+        "event_ids": [
+          "C4645",
+          "C4646",
+          "C4647",
+          "C4648",
+          "C4649"
+        ],
+        "legacy_ids": [],
+        "route": "Contactar con un club local o mentor escolar y cotejar edad en la fecha de corte, grado, idioma de defensa y admisión de equipos extranjeros.",
+        "hardware": "Founders y Future usan kits LEGO distintos.",
+        "language": "Las bases locales están en francés. Confirmar el idioma de la presentación y del jurado.",
+        "importance": "Etapa nacional",
+        "strengths": "Presentación en equipo del modelo y proyecto en la exposición.",
+        "requirements": [
+          "Contactar con un club local o mentor escolar y cotejar edad en la fecha de corte, grado, idioma de defensa y admisión de equipos extranjeros.",
+          "El plazo general de inscripción de equipos terminó el 30 de octubre de 2026. La inscripción tardía no está confirmada."
+        ],
+        "nuances": [
+          "Las etapas locales se esperan en enero–febrero de 2027. LOOP aún no indica el día y la sede de cada categoría.",
+          "Puntuación del robot y proyecto. Acceso al campeonato Founders tras clasificarse."
+        ],
+        "cost": "Las fichas desglosan la tarifa de cada categoría y el material.",
+        "award": "Puntuación del robot y proyecto. Acceso al campeonato Founders tras clasificarse.",
+        "sources": [
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.loop4st.org/fll",
+            "checked": "2026-11-08"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.loop4st.org/_files/ugd/0454e8_f0ac1c66cec04cdc8349f8b7a68809dc.pdf",
+            "checked": "2026-11-08"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.loop4st.org/fll-founders",
+            "checked": "2026-11-08"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.loop4st.org/fll-future-edition",
+            "checked": "2026-11-08"
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -29134,7 +29240,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 299. Se conservan las 46 rutas anteriores. Los formatos brasileños se distinguen y Robofest LATAM y BajaBot se describen por categoría. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 300. Se conservan las 46 rutas anteriores. Los formatos brasileños aparecen por separado y Robofest LATAM y BajaBot se describen por categoría. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

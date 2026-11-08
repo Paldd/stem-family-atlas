@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1979,
+    "dossiers": 1986,
     "countries": 126,
     "swiss": 137,
     "by_status": {
@@ -38,9 +38,9 @@
       "published_2027": 543,
       "partial_2027": 145,
       "next_unannounced": 400,
-      "published_2026": 376,
-      "partial_2026_27": 32,
-      "partial_2026": 23,
+      "published_2026": 377,
+      "partial_2026_27": 37,
+      "partial_2026": 24,
       "archive_next_unannounced": 147,
       "regular_programme": 19,
       "regular_2026_27": 2,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2871
+    "source_urls": 2880
   },
   "countries": [
     {
@@ -261,7 +261,7 @@
     },
     {
       "country": "Кения",
-      "count": 5
+      "count": 6
     },
     {
       "country": "Китай",
@@ -473,7 +473,7 @@
     },
     {
       "country": "Уганда",
-      "count": 3
+      "count": 9
     },
     {
       "country": "Украина",
@@ -301322,6 +301322,916 @@
       "programme_type": "holiday_workshop",
       "catalog_participation": "holiday_workshop",
       "related_event_ids": []
+    },
+    {
+      "id": "CP1980",
+      "slug": "wike-discovery",
+      "provider": "Wike Tech Africa · Digital Discovery Camp",
+      "country": "Уганда",
+      "iso": "UGA",
+      "place": "Учебный центр · адрес уточняется",
+      "age": "6–8 лет.",
+      "programme": "Практическое знакомство с технологиями и итоговый проект для младшей группы.",
+      "format": "unknown",
+      "formats": [
+        "unknown"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2026_27",
+        "label": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+        "sessions": [
+          [
+            "2026-12-01",
+            "2026-12-31"
+          ],
+          [
+            "2027-01-01",
+            "2027-01-31"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "intake-2026-12",
+            "start": "2026-12-01",
+            "end": "2026-12-31",
+            "label": "Месячное окно набора",
+            "price": "UGX 150000 за пакет.",
+            "source": "https://wiketechafrica.com/courses/digital-discovery-camp/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+            "entry": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки."
+          },
+          {
+            "variant_key": "intake-2027-01",
+            "start": "2027-01-01",
+            "end": "2027-01-31",
+            "label": "Месячное окно набора",
+            "price": "UGX 150000 за пакет.",
+            "source": "https://wiketechafrica.com/courses/digital-discovery-camp/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+            "entry": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки."
+          },
+          {
+            "variant_key": "intake-2027-02",
+            "start": "2027-02-01",
+            "end": "2027-02-28",
+            "label": "Месячное окно набора",
+            "price": "UGX 150000 за пакет.",
+            "source": "https://wiketechafrica.com/courses/digital-discovery-camp/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+            "entry": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "amount": 150000,
+        "currency": "UGX",
+        "unit": "package",
+        "label": "UGX 150000 за пакет.",
+        "included": "Пакет обучения, итоговый проект и сертификат после успешного завершения.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки.",
+        "season": "2026/27"
+      },
+      "accommodation": "Занятия в учебном центре. Часы, дни и условия проживания уточнить.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по опубликованному возрасту. Старше верхней границы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://wiketechafrica.com/courses/digital-discovery-camp/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "makers"
+      ],
+      "programme_type": "unconfirmed_program",
+      "catalog_participation": "unconfirmed_program",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP1981",
+      "slug": "wike-young",
+      "provider": "Wike Tech Africa · Young Digital Creators Camp",
+      "country": "Уганда",
+      "iso": "UGA",
+      "place": "Учебный центр · адрес уточняется",
+      "age": "9–12 лет.",
+      "programme": "Знакомство со Scratch и итоговый цифровой проект.",
+      "format": "unknown",
+      "formats": [
+        "unknown"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2026_27",
+        "label": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+        "sessions": [
+          [
+            "2026-12-01",
+            "2026-12-31"
+          ],
+          [
+            "2027-01-01",
+            "2027-01-31"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "intake-2026-12",
+            "start": "2026-12-01",
+            "end": "2026-12-31",
+            "label": "Месячное окно набора",
+            "price": "UGX 180000 за пакет.",
+            "source": "https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+            "entry": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки."
+          },
+          {
+            "variant_key": "intake-2027-01",
+            "start": "2027-01-01",
+            "end": "2027-01-31",
+            "label": "Месячное окно набора",
+            "price": "UGX 180000 за пакет.",
+            "source": "https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+            "entry": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки."
+          },
+          {
+            "variant_key": "intake-2027-02",
+            "start": "2027-02-01",
+            "end": "2027-02-28",
+            "label": "Месячное окно набора",
+            "price": "UGX 180000 за пакет.",
+            "source": "https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+            "entry": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "amount": 180000,
+        "currency": "UGX",
+        "unit": "package",
+        "label": "UGX 180000 за пакет.",
+        "included": "Пакет обучения, итоговый проект и сертификат после успешного завершения.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки.",
+        "season": "2026/27"
+      },
+      "accommodation": "Занятия в учебном центре. Часы, дни и условия проживания уточнить.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по опубликованному возрасту. Младше нижней границы."
+        }
+      },
+      "editorial_reason": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "programme_type": "unconfirmed_program",
+      "catalog_participation": "unconfirmed_program",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP1982",
+      "slug": "wike-scratch",
+      "provider": "Wike Tech Africa · Scratch Programming for Kids",
+      "country": "Уганда",
+      "iso": "UGA",
+      "place": "Учебный центр · адрес уточняется",
+      "age": "8–12 лет.",
+      "programme": "Практическое программирование на Scratch и итоговый проект.",
+      "format": "unknown",
+      "formats": [
+        "unknown"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2026_27",
+        "label": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+        "sessions": [
+          [
+            "2026-12-01",
+            "2026-12-31"
+          ],
+          [
+            "2027-01-01",
+            "2027-01-31"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "intake-2026-12",
+            "start": "2026-12-01",
+            "end": "2026-12-31",
+            "label": "Месячное окно набора",
+            "price": "UGX 150000 за пакет.",
+            "source": "https://wiketechafrica.com/courses/scratch-programming-for-kids/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+            "entry": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки."
+          },
+          {
+            "variant_key": "intake-2027-01",
+            "start": "2027-01-01",
+            "end": "2027-01-31",
+            "label": "Месячное окно набора",
+            "price": "UGX 150000 за пакет.",
+            "source": "https://wiketechafrica.com/courses/scratch-programming-for-kids/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+            "entry": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки."
+          },
+          {
+            "variant_key": "intake-2027-02",
+            "start": "2027-02-01",
+            "end": "2027-02-28",
+            "label": "Месячное окно набора",
+            "price": "UGX 150000 за пакет.",
+            "source": "https://wiketechafrica.com/courses/scratch-programming-for-kids/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+            "entry": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "amount": 150000,
+        "currency": "UGX",
+        "unit": "package",
+        "label": "UGX 150000 за пакет.",
+        "included": "Пакет обучения, итоговый проект и сертификат после успешного завершения.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки.",
+        "season": "2026/27"
+      },
+      "accommodation": "Занятия в учебном центре. Часы, дни и условия проживания уточнить.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по опубликованному возрасту. Младше нижней границы."
+        }
+      },
+      "editorial_reason": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://wiketechafrica.com/courses/scratch-programming-for-kids/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "programme_type": "unconfirmed_program",
+      "catalog_participation": "unconfirmed_program",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP1983",
+      "slug": "wike-robots",
+      "provider": "Wike Tech Africa · Robotics for Kids",
+      "country": "Уганда",
+      "iso": "UGA",
+      "place": "Учебный центр · адрес уточняется",
+      "age": "9–15 лет.",
+      "programme": "Робототехника и итоговый проект. Состав набора уточнить.",
+      "format": "unknown",
+      "formats": [
+        "unknown"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2026_27",
+        "label": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+        "sessions": [
+          [
+            "2026-12-01",
+            "2026-12-31"
+          ],
+          [
+            "2027-01-01",
+            "2027-01-31"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "intake-2026-12",
+            "start": "2026-12-01",
+            "end": "2026-12-31",
+            "label": "Месячное окно набора",
+            "price": "UGX 200000 за пакет.",
+            "source": "https://wiketechafrica.com/courses/robotics-for-kids/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+            "entry": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки."
+          },
+          {
+            "variant_key": "intake-2027-01",
+            "start": "2027-01-01",
+            "end": "2027-01-31",
+            "label": "Месячное окно набора",
+            "price": "UGX 200000 за пакет.",
+            "source": "https://wiketechafrica.com/courses/robotics-for-kids/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+            "entry": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки."
+          },
+          {
+            "variant_key": "intake-2027-02",
+            "start": "2027-02-01",
+            "end": "2027-02-28",
+            "label": "Месячное окно набора",
+            "price": "UGX 200000 за пакет.",
+            "source": "https://wiketechafrica.com/courses/robotics-for-kids/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+            "entry": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "amount": 200000,
+        "currency": "UGX",
+        "unit": "package",
+        "label": "UGX 200000 за пакет.",
+        "included": "Пакет обучения, итоговый проект и сертификат после успешного завершения.",
+        "extras": "Набор для робототехники оплачивается отдельно. Точная сумма не опубликована.",
+        "deposit": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки.",
+        "season": "2026/27"
+      },
+      "accommodation": "Занятия в учебном центре. Часы, дни и условия проживания уточнить.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по опубликованному возрасту. Младше нижней границы."
+        }
+      },
+      "editorial_reason": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://wiketechafrica.com/courses/robotics-for-kids/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "makers",
+        "technology"
+      ],
+      "programme_type": "unconfirmed_program",
+      "catalog_participation": "unconfirmed_program",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP1984",
+      "slug": "wike-combo",
+      "provider": "Wike Tech Africa · Robotics and Coding Combo Camp",
+      "country": "Уганда",
+      "iso": "UGA",
+      "place": "Учебный центр · адрес уточняется",
+      "age": "9–15 лет.",
+      "programme": "Совмещённая программа Scratch и робототехники с итоговым проектом.",
+      "format": "unknown",
+      "formats": [
+        "unknown"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2026_27",
+        "label": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+        "sessions": [
+          [
+            "2026-12-01",
+            "2026-12-31"
+          ],
+          [
+            "2027-01-01",
+            "2027-01-31"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "intake-2026-12",
+            "start": "2026-12-01",
+            "end": "2026-12-31",
+            "label": "Месячное окно набора",
+            "price": "UGX 200000 за пакет.",
+            "source": "https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+            "entry": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки."
+          },
+          {
+            "variant_key": "intake-2027-01",
+            "start": "2027-01-01",
+            "end": "2027-01-31",
+            "label": "Месячное окно набора",
+            "price": "UGX 200000 за пакет.",
+            "source": "https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+            "entry": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки."
+          },
+          {
+            "variant_key": "intake-2027-02",
+            "start": "2027-02-01",
+            "end": "2027-02-28",
+            "label": "Месячное окно набора",
+            "price": "UGX 200000 за пакет.",
+            "source": "https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+            "entry": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "amount": 200000,
+        "currency": "UGX",
+        "unit": "package",
+        "label": "UGX 200000 за пакет.",
+        "included": "Пакет обучения, итоговый проект и сертификат после успешного завершения.",
+        "extras": "Набор для робототехники оплачивается отдельно. Точная сумма не опубликована.",
+        "deposit": "Форма заявки не требует оплаты при подаче. Уточнить порядок оплаты после принятия заявки.",
+        "season": "2026/27"
+      },
+      "accommodation": "Занятия в учебном центре. Часы, дни и условия проживания уточнить.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет по опубликованному возрасту. Младше нижней границы."
+        }
+      },
+      "editorial_reason": "Опубликованы месячные окна набора. Дни занятий и время внутри месяца уточнить у центра.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://wiketechafrica.com/courses/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers",
+        "technology"
+      ],
+      "programme_type": "unconfirmed_program",
+      "catalog_participation": "unconfirmed_program",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP1985",
+      "slug": "fundi-bots-holiday-robotics-december",
+      "provider": "Fundi Bots · Holiday Robotics Camp",
+      "country": "Уганда",
+      "iso": "UGA",
+      "place": "Площадка уточняется",
+      "age": "6–18 лет.",
+      "programme": "Сборка роботов, программирование и научные проекты. В программе Fundi Bots есть возрастные группы 6–7 и 8–9 лет. Состав декабрьских групп уточнить.",
+      "format": "unknown",
+      "formats": [
+        "unknown"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2026",
+        "label": "Анонсирован двухнедельный лагерь на декабрь 2026 года. Точные дни, площадку и цену ещё не опубликовали.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "announced_month",
+        "announced_months": [
+          "2026-12"
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "UGX",
+        "unit": "unconfirmed",
+        "label": "Тариф 2026 года не опубликован.",
+        "included": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Формат и площадка пока уточняются.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "Анонсирован двухнедельный лагерь на декабрь 2026 года. Точные дни, площадку и цену ещё не опубликовали.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://fundibots.org/training-2/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://fundibots.org/our-work/learning-models/robotics-stem-training/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "science"
+      ],
+      "programme_type": "unconfirmed_program",
+      "catalog_participation": "unconfirmed_program",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP1986",
+      "slug": "growthfluential-december-2026",
+      "provider": "Growthfluential · December Kids & Youth Camp 2026",
+      "country": "Кения",
+      "iso": "KEN",
+      "place": "The Tripple Two · Eastern Bypass · Nairobi / Google Meet",
+      "age": "6–18 лет по текущей странице декабрьской смены.",
+      "programme": "Практика программирования, робототехники, дизайна, создания контента и командной работы.",
+      "format": "day",
+      "formats": [
+        "day",
+        "online"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "7–12 декабря 2026, понедельник–суббота 09:00–12:00 EAT. Для онлайн-группы уточнить доставку набора, итоговую цену и участие из другой страны.",
+        "sessions": [
+          [
+            "2026-12-07",
+            "2026-12-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "december-2026",
+            "start": "2026-12-07",
+            "end": "2026-12-12",
+            "label": "Очная программа в Найроби или подключение через Google Meet. Пансион не заявлен.",
+            "price": "KES 12000 за пакет с материалами и занятиями по странице программы. Онлайн-тариф отдельно не указан.",
+            "source": "https://www.growthfluential.org/programs/kids-youth-camp-december-2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-07T06:00:00Z",
+                "end_utc": "2026-12-07T09:00:00Z",
+                "topic": "Практика программирования, робототехники, дизайна, создания контента и командной работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-08T06:00:00Z",
+                "end_utc": "2026-12-08T09:00:00Z",
+                "topic": "Практика программирования, робототехники, дизайна, создания контента и командной работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-09T06:00:00Z",
+                "end_utc": "2026-12-09T09:00:00Z",
+                "topic": "Практика программирования, робототехники, дизайна, создания контента и командной работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-10T06:00:00Z",
+                "end_utc": "2026-12-10T09:00:00Z",
+                "topic": "Практика программирования, робототехники, дизайна, создания контента и командной работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-11T06:00:00Z",
+                "end_utc": "2026-12-11T09:00:00Z",
+                "topic": "Практика программирования, робототехники, дизайна, создания контента и командной работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-12",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Nairobi",
+                "start_utc": "2026-12-12T06:00:00Z",
+                "end_utc": "2026-12-12T09:00:00Z",
+                "topic": "Практика программирования, робототехники, дизайна, создания контента и командной работы.",
+                "ical_timed": true
+              }
+            ],
+            "delivery_mode": "hybrid",
+            "entry": "7–12 декабря 2026, понедельник–суббота 09:00–12:00 EAT. Для онлайн-группы уточнить доставку набора, итоговую цену и участие из другой страны."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 12000,
+        "currency": "KES",
+        "unit": "package",
+        "label": "KES 12000 за пакет с материалами и занятиями по странице программы. Онлайн-тариф отдельно не указан.",
+        "included": "Практика программирования, робототехники, дизайна, создания контента и командной работы.",
+        "extras": "Уточнить онлайн-тариф и доставку материалов.",
+        "deposit": "Депозит KES 6000 входит в KES 12000. Остаток вносится до начала лагеря."
+      },
+      "accommodation": "Очная программа в Найроби или подключение через Google Meet. Пансион не заявлен.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        }
+      },
+      "editorial_reason": "7–12 декабря 2026, понедельник–суббота 09:00–12:00 EAT. Для онлайн-группы уточнить доставку набора, итоговую цену и участие из другой страны.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.growthfluential.org/programs/kids-youth-camp-december-2026",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_or_online",
+      "catalog_participation": "day_or_online",
+      "related_event_ids": []
     }
   ],
   "gaps": [
@@ -306647,7 +307557,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 279,
+  "version": 280,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -319882,7 +320792,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1979,
+      "total_dossiers": 1986,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

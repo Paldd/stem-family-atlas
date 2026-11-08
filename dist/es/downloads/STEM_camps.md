@@ -5960,19 +5960,19 @@ Comprobado: 2026-10-02
 
 ### L365 · Growthfluential · December Kids & Youth Camp 2026
 
-Lugar: Kenya · Nairobi · Garden Estate / Google Meet
+lugar: Kenia · The Tripple Two · Eastern Bypass · Nairobi / Google Meet
 Fecha: 2026-12-07 国 2026-12-12
-Edad: 8*18
-Matwey: Condicional: 9 encaja; carga, EN y acceso extranjero confirma
-Oscar: No: Menos de 8
-Formato: day_camp
-Idioma: El idioma de la sesión/protección no está confirmado; el sitio en la Web no es una prueba
+edad: 6–18 años según la página vigente del turno de diciembre.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+formato: day_or_online
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Costo: KES 12 000 / niño; materials included. Deposit 50% es un valor, no se ha añadido de nuevo.
-Entrada: Media jornada o online option, Monday–Saturday 09–12 Hora local. Comprobar si el juego de capacitación es el mismo online Y a la vista..
-Limitaciones: Es un programa de medio día., No se ha declarado pensión. English website no prueba el idioma de la clase. Online Calendario en Nairobi UTC+3 = 00:00–03:00 Costa Rica, Así que la familia es más cómoda visita a solas.; Cinturón horario de confirmación. B November Robots no transferidos de December.
+Precio: KES 12000 por paquete con materiales y actividades según la página. La tarifa en línea no se indica aparte.
+Acceso: 7–12 de diciembre de 2026, lunes a sábado 09:00–12:00 EAT. Para el grupo en línea, confirmar el envío del kit, el precio final y el acceso desde otro país.
+Limitaciones: El depósito de KES 6000 forma parte de KES 12000. El saldo se abona antes del campamento.
 Fuente: https://www.growthfluential.org/programs/kids-youth-camp-december-2026
-Comprobado: 2026-10-02
+Se ha comprobado: 2026-11-08
 
 ### L366 · Growthfluential · November Kids & Youth Camp 2026
 
@@ -11268,6 +11268,22 @@ Precio: Aún no se confirman el coste total ni las plazas.
 Acceso: Estas sedes admiten menores de otros centros. Consultar tarifa, plaza, semestre e idioma en el colegio elegido.
 Limitaciones: Hay un horario semanal publicado. Fechas exactas de clases y vacaciones pendientes.
 Fuente: https://www.thecodingspacerd.com/clases
+Se ha comprobado: 2026-11-08
+
+### L781 · Fundi Bots · Holiday Robotics Camp
+
+lugar: Uganda · Sede por confirmar
+Fecha: Se anuncia un campamento de dos semanas en diciembre de 2026. Aún no se publican los días exactos, la sede ni el precio.
+edad: 6–18 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+Formato: unconfirmed_program
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa de 2026 no está publicada.
+Acceso: La organización indica que abrirá la inscripción más adelante. Confirmar horario, idioma y plaza para cada grupo de edad.
+Limitaciones: Formato y sede pendientes.
+Fuente: https://fundibots.org/training-2/
 Se ha comprobado: 2026-11-08
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
@@ -79380,6 +79396,246 @@ Precio: 2026/27 · MYR 19 por una sesión. · suplementos y condiciones en el do
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Edad mínima de 7 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://penangmathplatform.com/event/pmp-matatalab-coding-adventure-2026/
+Se ha comprobado: 2026-11-08
+
+### CP1980-20261201-20261231-intake-2026-12 · Wike Tech Africa · Digital Discovery Camp · Ventana mensual de admisión · 2026-12-01–2026-12-31
+
+lugar: Uganda · Centro formativo · dirección pendiente
+Fecha: 2026-12-01 — 2026-12-31
+Edad: 6–8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: unconfirmed_program
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · UGX 150000 por paquete. · suplementos y condiciones en el dossier
+Acceso: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Limitaciones: Matvey: No por la edad publicada. Por encima del máximo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Fuente: https://wiketechafrica.com/courses/digital-discovery-camp/
+Se ha comprobado: 2026-11-08
+
+### CP1980-20270101-20270131-intake-2027-01 · Wike Tech Africa · Digital Discovery Camp · Ventana mensual de admisión · 2027-01-01–2027-01-31
+
+lugar: Uganda · Centro formativo · dirección pendiente
+Fecha: 2027-01-01 — 2027-01-31
+Edad: 6–8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: unconfirmed_program
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · UGX 150000 por paquete. · suplementos y condiciones en el dossier
+Acceso: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Limitaciones: Matvey: No por la edad publicada. Por encima del máximo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Fuente: https://wiketechafrica.com/courses/digital-discovery-camp/
+Se ha comprobado: 2026-11-08
+
+### CP1980-20270201-20270228-intake-2027-02 · Wike Tech Africa · Digital Discovery Camp · Ventana mensual de admisión · 2027-02-01–2027-02-28
+
+lugar: Uganda · Centro formativo · dirección pendiente
+Fecha: 2027-02-01 — 2027-02-28
+Edad: 6–8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: unconfirmed_program
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · UGX 150000 por paquete. · suplementos y condiciones en el dossier
+Acceso: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Limitaciones: Matvey: No por la edad publicada. Por encima del máximo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Fuente: https://wiketechafrica.com/courses/digital-discovery-camp/
+Se ha comprobado: 2026-11-08
+
+### CP1981-20261201-20261231-intake-2026-12 · Wike Tech Africa · Young Digital Creators Camp · Ventana mensual de admisión · 2026-12-01–2026-12-31
+
+lugar: Uganda · Centro formativo · dirección pendiente
+Fecha: 2026-12-01 — 2026-12-31
+Edad: 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: unconfirmed_program
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · UGX 180000 por paquete. · suplementos y condiciones en el dossier
+Acceso: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Fuente: https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/
+Se ha comprobado: 2026-11-08
+
+### CP1981-20270101-20270131-intake-2027-01 · Wike Tech Africa · Young Digital Creators Camp · Ventana mensual de admisión · 2027-01-01–2027-01-31
+
+lugar: Uganda · Centro formativo · dirección pendiente
+Fecha: 2027-01-01 — 2027-01-31
+Edad: 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: unconfirmed_program
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · UGX 180000 por paquete. · suplementos y condiciones en el dossier
+Acceso: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Fuente: https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/
+Se ha comprobado: 2026-11-08
+
+### CP1981-20270201-20270228-intake-2027-02 · Wike Tech Africa · Young Digital Creators Camp · Ventana mensual de admisión · 2027-02-01–2027-02-28
+
+lugar: Uganda · Centro formativo · dirección pendiente
+Fecha: 2027-02-01 — 2027-02-28
+Edad: 9 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: unconfirmed_program
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · UGX 180000 por paquete. · suplementos y condiciones en el dossier
+Acceso: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Fuente: https://wiketechafrica.com/courses/young-digital-creators-camp-introducing-scratch/
+Se ha comprobado: 2026-11-08
+
+### CP1982-20261201-20261231-intake-2026-12 · Wike Tech Africa · Scratch Programming for Kids · Ventana mensual de admisión · 2026-12-01–2026-12-31
+
+lugar: Uganda · Centro formativo · dirección pendiente
+Fecha: 2026-12-01 — 2026-12-31
+Edad: 8 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: unconfirmed_program
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · UGX 150000 por paquete. · suplementos y condiciones en el dossier
+Acceso: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Fuente: https://wiketechafrica.com/courses/scratch-programming-for-kids/
+Se ha comprobado: 2026-11-08
+
+### CP1982-20270101-20270131-intake-2027-01 · Wike Tech Africa · Scratch Programming for Kids · Ventana mensual de admisión · 2027-01-01–2027-01-31
+
+lugar: Uganda · Centro formativo · dirección pendiente
+Fecha: 2027-01-01 — 2027-01-31
+Edad: 8 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: unconfirmed_program
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · UGX 150000 por paquete. · suplementos y condiciones en el dossier
+Acceso: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Fuente: https://wiketechafrica.com/courses/scratch-programming-for-kids/
+Se ha comprobado: 2026-11-08
+
+### CP1982-20270201-20270228-intake-2027-02 · Wike Tech Africa · Scratch Programming for Kids · Ventana mensual de admisión · 2027-02-01–2027-02-28
+
+lugar: Uganda · Centro formativo · dirección pendiente
+Fecha: 2027-02-01 — 2027-02-28
+Edad: 8 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: unconfirmed_program
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · UGX 150000 por paquete. · suplementos y condiciones en el dossier
+Acceso: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Fuente: https://wiketechafrica.com/courses/scratch-programming-for-kids/
+Se ha comprobado: 2026-11-08
+
+### CP1983-20261201-20261231-intake-2026-12 · Wike Tech Africa · Robotics for Kids · Ventana mensual de admisión · 2026-12-01–2026-12-31
+
+lugar: Uganda · Centro formativo · dirección pendiente
+Fecha: 2026-12-01 — 2026-12-31
+Edad: 9 a 15 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: unconfirmed_program
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · UGX 200000 por paquete. · suplementos y condiciones en el dossier
+Acceso: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: El kit de robótica se paga aparte. No se publica el importe exacto. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Fuente: https://wiketechafrica.com/courses/robotics-for-kids/
+Se ha comprobado: 2026-11-08
+
+### CP1983-20270101-20270131-intake-2027-01 · Wike Tech Africa · Robotics for Kids · Ventana mensual de admisión · 2027-01-01–2027-01-31
+
+lugar: Uganda · Centro formativo · dirección pendiente
+Fecha: 2027-01-01 — 2027-01-31
+Edad: 9 a 15 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: unconfirmed_program
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · UGX 200000 por paquete. · suplementos y condiciones en el dossier
+Acceso: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: El kit de robótica se paga aparte. No se publica el importe exacto. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Fuente: https://wiketechafrica.com/courses/robotics-for-kids/
+Se ha comprobado: 2026-11-08
+
+### CP1983-20270201-20270228-intake-2027-02 · Wike Tech Africa · Robotics for Kids · Ventana mensual de admisión · 2027-02-01–2027-02-28
+
+lugar: Uganda · Centro formativo · dirección pendiente
+Fecha: 2027-02-01 — 2027-02-28
+Edad: 9 a 15 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: unconfirmed_program
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · UGX 200000 por paquete. · suplementos y condiciones en el dossier
+Acceso: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: El kit de robótica se paga aparte. No se publica el importe exacto. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Fuente: https://wiketechafrica.com/courses/robotics-for-kids/
+Se ha comprobado: 2026-11-08
+
+### CP1984-20261201-20261231-intake-2026-12 · Wike Tech Africa · Robotics and Coding Combo Camp · Ventana mensual de admisión · 2026-12-01–2026-12-31
+
+lugar: Uganda · Centro formativo · dirección pendiente
+Fecha: 2026-12-01 — 2026-12-31
+Edad: 9 a 15 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: unconfirmed_program
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · UGX 200000 por paquete. · suplementos y condiciones en el dossier
+Acceso: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: El kit de robótica se paga aparte. No se publica el importe exacto. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Fuente: https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/
+Se ha comprobado: 2026-11-08
+
+### CP1984-20270101-20270131-intake-2027-01 · Wike Tech Africa · Robotics and Coding Combo Camp · Ventana mensual de admisión · 2027-01-01–2027-01-31
+
+lugar: Uganda · Centro formativo · dirección pendiente
+Fecha: 2027-01-01 — 2027-01-31
+Edad: 9 a 15 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: unconfirmed_program
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · UGX 200000 por paquete. · suplementos y condiciones en el dossier
+Acceso: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: El kit de robótica se paga aparte. No se publica el importe exacto. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Fuente: https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/
+Se ha comprobado: 2026-11-08
+
+### CP1984-20270201-20270228-intake-2027-02 · Wike Tech Africa · Robotics and Coding Combo Camp · Ventana mensual de admisión · 2027-02-01–2027-02-28
+
+lugar: Uganda · Centro formativo · dirección pendiente
+Fecha: 2027-02-01 — 2027-02-28
+Edad: 9 a 15 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: unconfirmed_program
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · UGX 200000 por paquete. · suplementos y condiciones en el dossier
+Acceso: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No por la edad publicada. Por debajo del mínimo. Suplementos: El kit de robótica se paga aparte. No se publica el importe exacto. Pago: El formulario no exige pagar al enviarlo. Confirmar la modalidad de pago tras aceptar la solicitud.
+Fuente: https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

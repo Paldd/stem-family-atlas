@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10246,
-    "competition_cards": 4641,
-    "event_cards": 568,
-    "camp_cards": 5037,
-    "league_profiles": 299,
-    "major_exhibition_cards": 472,
+    "cards": 10272,
+    "competition_cards": 4648,
+    "event_cards": 571,
+    "camp_cards": 5053,
+    "league_profiles": 300,
+    "major_exhibition_cards": 475,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -76,12 +76,12 @@
       "regions": [
         "Африка"
       ],
-      "total": 365,
+      "total": 391,
       "countries_with_records": 53,
-      "competitions": 235,
-      "events": 36,
-      "major_exhibitions": 28,
-      "camps": 94,
+      "competitions": 242,
+      "events": 39,
+      "major_exhibitions": 31,
+      "camps": 110,
       "status": "Частично исследовано",
       "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
     },
@@ -7699,6 +7699,24 @@
       "new": false
     },
     {
+      "id": "fll-morocco-bioglow",
+      "name": "FIRST LEGO League Morocco · BIOGLOW 2026/27",
+      "group": "regional",
+      "event_ids": [
+        "C4645",
+        "C4646",
+        "C4647",
+        "C4648",
+        "C4649"
+      ],
+      "cards": 5,
+      "future_dated": 0,
+      "linked_card_count": 5,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.loop4st.org/fll",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -13884,6 +13902,39 @@
       "new": false
     },
     {
+      "id": "E569",
+      "name": "KidTech Festival & Expo 2026 · Future Careers & Tech Expo",
+      "country": "Гана",
+      "region": "Африка",
+      "start": "2026-12-04",
+      "end": "2026-12-05",
+      "visitor_policy": "family",
+      "source": "https://kidtechfestival.org/the-programme/",
+      "new": false
+    },
+    {
+      "id": "E570",
+      "name": "EGPAK Future-Ready Learners Summit 2026 · Mombasa",
+      "country": "Кения",
+      "region": "Африка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://dschool.co.ke/events/future-ready",
+      "new": false
+    },
+    {
+      "id": "E571",
+      "name": "SALTIS TechInov 2026 · Salon de l’IA en Afrique",
+      "country": "Сенегал",
+      "region": "Африка",
+      "start": "2026-12-08",
+      "end": "2026-12-10",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.saltis-techinov.org/billetterie",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -16301,7 +16352,7 @@
       }
     ],
     "counts": {
-      "records": 5037,
+      "records": 5053,
       "holiday": 4683,
       "regular": 162,
       "self_paced_materials": 4,

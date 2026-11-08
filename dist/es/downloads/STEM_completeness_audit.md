@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10246; competiciones: 4641; eventos: 568; campamentos / programas: 5037. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 472 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10272; competiciones: 4648; eventos: 571; campamentos / programas: 5053. Perfiles de ligas y programas: 300. Fichas de exposiciones grandes y especializadas: 475 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -17,13 +17,13 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 | América del Norte | 40 | 1916 | 109 | 1273 |
 | América del Sur | 14 | 430 | 41 | 207 |
 | Europa | 54 | 602 | 122 | 1455 |
-| África | 53 | 235 | 28 | 94 |
+| África | 53 | 242 | 31 | 110 |
 | Asia | 49 | 1155 | 141 | 1661 |
 | Oceanía | 25 | 163 | 29 | 332 |
 
 Fichas interregionales o globales sin asignar a un continente: 162. Norteamérica incluye Centroamérica y el Caribe. Los recuentos muestran el inventario de la base, no un porcentaje de exhaustividad.
 
-VEX: 814 de 4641 fichas de competición (17.5%). La cobertura presenta un desequilibrio evidente.
+VEX: 814 de 4648 fichas de competiciones (17.5%). Esta concentración revela un sesgo de cobertura.
 
 ## Lo que queda
 
@@ -325,6 +325,7 @@ VEX: 814 de 4641 fichas de competición (17.5%). La cobertura presenta un desequ
 - **STEM Birds Australian Coding**: 7 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.stembirds.com.au/stem-birds-australian-coding-competition
 - **Code Battle UAE**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://codebattle.tech/
 - **Virtual Xplore League · Firefly IO**: 6 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://xploreleague.com/virtual/
+- **FIRST LEGO League Morocco · BIOGLOW 2026/27**: 5 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.loop4st.org/fll
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -839,6 +840,9 @@ VEX: 814 de 4641 fichas de competición (17.5%). La cobertura presenta un desequ
 - **Science World · Game Changers** — Canadá; 2026-10-16 – 2027-01-24. con un adulto; condiciones de admisión adulta por separado. https://www.scienceworld.ca/exhibition/game-changers/
 - **Hong Kong Science Museum · AI Gallery + InnoTech Gallery** — RAE de Hong Kong (China); fecha sin anunciar. Con un adulto; condiciones de admisión adulta por separado. https://hk.science.museum/en/web/scm/exhibition/aig.html
 - **Centre Spatial Guyanais · Ariane 6, Vega-C & Jupiter 2** — Guayana Francesa; fecha desconocida. Confirmar acceso infantil. https://centrespatialguyanais.cnes.fr/index.php/fr/installations
+- **KidTech Festival & Expo 2026 · Future Careers & Tech Expo** — Ghana; 2026-12-04 – 2026-12-05. con un adulto; condiciones de admisión adulta por separado. https://kidtechfestival.org/the-programme/
+- **EGPAK Future-Ready Learners Summit 2026 · Mombasa** — Kenia; fecha desconocida. Confirmar acceso infantil. https://dschool.co.ke/events/future-ready
+- **SALTIS TechInov 2026 · Salon de l’IA en Afrique** — Senegal; 2026-12-08 – 2026-12-10. el permiso de entrada de niños. https://www.saltis-techinov.org/billetterie
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors
