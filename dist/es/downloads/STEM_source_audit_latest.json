@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10343,
-    "competition_cards": 4681,
-    "event_cards": 594,
-    "camp_cards": 5068,
+    "cards": 10357,
+    "competition_cards": 4684,
+    "event_cards": 601,
+    "camp_cards": 5072,
     "league_profiles": 301,
-    "major_exhibition_cards": 498,
+    "major_exhibition_cards": 505,
     "vex_cards": 814,
     "countries_with_records": 234,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3369,
+      "total": 3373,
       "countries_with_records": 40,
       "competitions": 1925,
-      "events": 159,
-      "major_exhibitions": 122,
-      "camps": 1285,
+      "events": 161,
+      "major_exhibitions": 124,
+      "camps": 1287,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2212,
+      "total": 2214,
       "countries_with_records": 54,
       "competitions": 609,
       "events": 148,
       "major_exhibitions": 123,
-      "camps": 1455,
+      "camps": 1457,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -90,11 +90,11 @@
       "regions": [
         "Asia"
       ],
-      "total": 2982,
+      "total": 2990,
       "countries_with_records": 50,
-      "competitions": 1161,
-      "events": 158,
-      "major_exhibitions": 145,
+      "competitions": 1164,
+      "events": 163,
+      "major_exhibitions": 150,
       "camps": 1663,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
@@ -14234,6 +14234,83 @@
       "new": false
     },
     {
+      "id": "E595",
+      "name": "FNCTI UCR 2026 · Exposición pública de proyectos",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "visitor_policy": "family",
+      "source": "https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html",
+      "new": false
+    },
+    {
+      "id": "E596",
+      "name": "HKPC · GBA International AI and Robotics Summit 2026",
+      "country": "RAE de Hong Kong (China)",
+      "region": "Asia",
+      "start": "2026-11-30",
+      "end": "2026-11-30",
+      "visitor_policy": "confirm_children",
+      "source": "https://campaigns.hkpc.org/en-hk/rsvp-ai-summit-2026?hsLang=en",
+      "new": false
+    },
+    {
+      "id": "E597",
+      "name": "HKPC · Embodied AI International Applications Hub · Guided tour",
+      "country": "RAE de Hong Kong (China)",
+      "region": "Asia",
+      "start": "2026-12-03",
+      "end": "2026-12-04",
+      "visitor_policy": "family",
+      "source": "https://bizform.hkpc.org/766776?lang=en",
+      "new": false
+    },
+    {
+      "id": "E598",
+      "name": "TIBS 2027 · Taipei International Bakery Show · Equipment",
+      "country": "Taiwán",
+      "region": "Asia",
+      "start": "2027-03-18",
+      "end": "2027-03-21",
+      "visitor_policy": "family",
+      "source": "https://www.tibs.org.tw/visitor.asp",
+      "new": false
+    },
+    {
+      "id": "E599",
+      "name": "Singapore Science and Engineering Fair 2027 · Public Day",
+      "country": "Singapur",
+      "region": "Asia",
+      "start": "2027-03-05",
+      "end": "2027-03-05",
+      "visitor_policy": "family",
+      "source": "https://sites.google.com/moe.edu.sg/ssef/participation/key-dates-for-ssef-2027",
+      "new": false
+    },
+    {
+      "id": "E600",
+      "name": "Maker Faire Philadelphia 2027",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2027-04-18",
+      "end": "2027-04-18",
+      "visitor_policy": "family",
+      "source": "https://philly.makerfaire.com/",
+      "new": false
+    },
+    {
+      "id": "E601",
+      "name": "CSITF 2027 · AI Computing Power & Infrastructure Expo",
+      "country": "China",
+      "region": "Asia",
+      "start": "2027-06-02",
+      "end": "2027-06-04",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.itaiexpo.com/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -16651,9 +16728,9 @@
       }
     ],
     "counts": {
-      "records": 5068,
-      "holiday": 4697,
-      "regular": 163,
+      "records": 5072,
+      "holiday": 4699,
+      "regular": 165,
       "self_paced_materials": 4,
       "boarding": 1038,
       "en_es_instruction": 1593,

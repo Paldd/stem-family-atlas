@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10343,
-    "competition_cards": 4681,
-    "event_cards": 594,
-    "camp_cards": 5068,
+    "cards": 10357,
+    "competition_cards": 4684,
+    "event_cards": 601,
+    "camp_cards": 5072,
     "league_profiles": 301,
-    "major_exhibition_cards": 498,
+    "major_exhibition_cards": 505,
     "vex_cards": 814,
     "countries_with_records": 234,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3369,
+      "total": 3373,
       "countries_with_records": 40,
       "competitions": 1925,
-      "events": 159,
-      "major_exhibitions": 122,
-      "camps": 1285,
+      "events": 161,
+      "major_exhibitions": 124,
+      "camps": 1287,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 2212,
+      "total": 2214,
       "countries_with_records": 54,
       "competitions": 609,
       "events": 148,
       "major_exhibitions": 123,
-      "camps": 1455,
+      "camps": 1457,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -90,11 +90,11 @@
       "regions": [
         "Азия"
       ],
-      "total": 2982,
+      "total": 2990,
       "countries_with_records": 50,
-      "competitions": 1161,
-      "events": 158,
-      "major_exhibitions": 145,
+      "competitions": 1164,
+      "events": 163,
+      "major_exhibitions": 150,
       "camps": 1663,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
@@ -14234,6 +14234,83 @@
       "new": false
     },
     {
+      "id": "E595",
+      "name": "FNCTI UCR 2026 · Exposición pública de proyectos",
+      "country": "Коста-Рика",
+      "region": "Центральная Америка",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "visitor_policy": "family",
+      "source": "https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html",
+      "new": false
+    },
+    {
+      "id": "E596",
+      "name": "HKPC · GBA International AI and Robotics Summit 2026",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2026-11-30",
+      "end": "2026-11-30",
+      "visitor_policy": "confirm_children",
+      "source": "https://campaigns.hkpc.org/en-hk/rsvp-ai-summit-2026?hsLang=en",
+      "new": false
+    },
+    {
+      "id": "E597",
+      "name": "HKPC · Embodied AI International Applications Hub · Guided tour",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "start": "2026-12-03",
+      "end": "2026-12-04",
+      "visitor_policy": "family",
+      "source": "https://bizform.hkpc.org/766776?lang=en",
+      "new": false
+    },
+    {
+      "id": "E598",
+      "name": "TIBS 2027 · Taipei International Bakery Show · Equipment",
+      "country": "Тайвань",
+      "region": "Азия",
+      "start": "2027-03-18",
+      "end": "2027-03-21",
+      "visitor_policy": "family",
+      "source": "https://www.tibs.org.tw/visitor.asp",
+      "new": false
+    },
+    {
+      "id": "E599",
+      "name": "Singapore Science and Engineering Fair 2027 · Public Day",
+      "country": "Сингапур",
+      "region": "Азия",
+      "start": "2027-03-05",
+      "end": "2027-03-05",
+      "visitor_policy": "family",
+      "source": "https://sites.google.com/moe.edu.sg/ssef/participation/key-dates-for-ssef-2027",
+      "new": false
+    },
+    {
+      "id": "E600",
+      "name": "Maker Faire Philadelphia 2027",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-04-18",
+      "end": "2027-04-18",
+      "visitor_policy": "family",
+      "source": "https://philly.makerfaire.com/",
+      "new": false
+    },
+    {
+      "id": "E601",
+      "name": "CSITF 2027 · AI Computing Power & Infrastructure Expo",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "2027-06-02",
+      "end": "2027-06-04",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.itaiexpo.com/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -16651,9 +16728,9 @@
       }
     ],
     "counts": {
-      "records": 5068,
-      "holiday": 4697,
-      "regular": 163,
+      "records": 5072,
+      "holiday": 4699,
+      "regular": 165,
       "self_paced_materials": 4,
       "boarding": 1038,
       "en_es_instruction": 1593,

@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10343; соревнований: 4681; событий: 594; лагерей / программ: 5068. Профилей лиг и программ: 301. Карточек крупных и профильных выставок: 498 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10357; соревнований: 4684; событий: 601; лагерей / программ: 5072. Профилей лиг и программ: 301. Карточек крупных и профильных выставок: 505 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 234 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,16 +14,16 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 40 | 1925 | 122 | 1285 |
+| Северная Америка | 40 | 1925 | 124 | 1287 |
 | Южная Америка | 14 | 433 | 45 | 207 |
-| Европа | 54 | 609 | 123 | 1455 |
+| Европа | 54 | 609 | 123 | 1457 |
 | Африка | 55 | 245 | 31 | 110 |
-| Азия | 50 | 1161 | 145 | 1663 |
+| Азия | 50 | 1164 | 150 | 1663 |
 | Океания | 25 | 167 | 30 | 333 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 163. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 814 из 4681 карточек соревнований (17.4%). Это явный перекос охвата.
+VEX: 814 из 4684 карточек соревнований (17.4%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -867,6 +867,13 @@ VEX: 814 из 4681 карточек соревнований (17.4%). Это я�
 - **Noche de las Estrellas 2026 · México · Ensenada** — Мексика; 2026-11-14. Со взрослым; условия взрослого входа отдельно. https://todos.cicese.mx/evento/ndee-2026/
 - **Planetario de San José · UCR · Telescopiadas** — Коста-Рика; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://planetario.ucr.ac.cr/horarios.html
 - **Fiji Tech Summit 2026 · Exhibitions & Business Forum** — Фиджи; 2026-11-12 – 2026-11-13. Детский допуск уточнить. https://fijitechsummit.com/
+- **FNCTI UCR 2026 · Exposición pública de proyectos** — Коста-Рика; 2026-11-12. Со взрослым; условия взрослого входа отдельно. https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
+- **HKPC · GBA International AI and Robotics Summit 2026** — Китай, Специальный административный район Гонконг; 2026-11-30. Детский допуск уточнить. https://campaigns.hkpc.org/en-hk/rsvp-ai-summit-2026?hsLang=en
+- **HKPC · Embodied AI International Applications Hub · Guided tour** — Китай, Специальный административный район Гонконг; 2026-12-03 – 2026-12-04. Со взрослым; условия взрослого входа отдельно. https://bizform.hkpc.org/766776?lang=en
+- **TIBS 2027 · Taipei International Bakery Show · Equipment** — Тайвань; 2027-03-18 – 2027-03-21. Со взрослым; условия взрослого входа отдельно. https://www.tibs.org.tw/visitor.asp
+- **Singapore Science and Engineering Fair 2027 · Public Day** — Сингапур; 2027-03-05. Со взрослым; условия взрослого входа отдельно. https://sites.google.com/moe.edu.sg/ssef/participation/key-dates-for-ssef-2027
+- **Maker Faire Philadelphia 2027** — Соединенные Штаты Америки; 2027-04-18. Со взрослым; условия взрослого входа отдельно. https://philly.makerfaire.com/
+- **CSITF 2027 · AI Computing Power & Infrastructure Expo** — Китай; 2027-06-02 – 2027-06-04. Детский допуск уточнить. https://www.itaiexpo.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

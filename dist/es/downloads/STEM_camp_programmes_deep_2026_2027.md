@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2000 fichas en 126 países. Cada ficha indica cuándo se revisaron sus fuentes.
+Estado de la base: 2026-11-08. 2004 fichas en 126 países. Cada ficha indica cuándo se revisaron sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -159819,6 +159819,198 @@ Singapur · En línea · horario de Singapur
 - [Página de la organización o reglamento de la categoría.](https://alphagenlearning.com/creative-coders-scratch-camp-ages-7-to-9/) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://alphagenlearning.com/coding-technology-camps) · 2026-11-08
+
+## CP2001 · Maison Pompidou · CoMo-education · Histoires en sons et en mouvements
+
+Francia · Maison Pompidou · 50 rue Rambuteau · Paris
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De 6 a 8 años, menor con un adulto.
+
+**Idioma:** El programa se publica en francés. No se indica el idioma del taller ni apoyo en inglés o español.
+
+**Programa:** Las parejas de adulto y menor crean una historia sonora a partir de movimientos con tecnología interactiva del IRCAM.
+
+**Alojamiento:** Taller familiar para una pareja de menor y adulto.
+
+**Fechas / estado:** Actividad de 15:00 a 17:00, hora de París.
+
+**Precio / año:** 2026 · La tarifa de EUR 8 se publica sin desglose de entrada. Confirmar el precio para una pareja de adulto y menor.
+
+**Incluido:** Las parejas de adulto y menor crean una historia sonora a partir de movimientos con tecnología interactiva del IRCAM.
+
+**Suplementos:** Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Supera el rango de edad del grupo.
+
+**Oscar:** Condicional. Encaja por edad. Confirmar idioma y plaza.
+
+**Motivo de selección:** Actividad de 15:00 a 17:00, hora de París.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### CoMo-education · Histoires en sons et en mouvements
+
+**Fechas / estado:** 2026-12-12 — 2026-12-12
+
+**Precio:** La tarifa de EUR 8 se publica sin desglose de entrada. Confirmar el precio para una pareja de adulto y menor.
+
+**condiciones de participación:** Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa.
+
+- 2026-12-12 · 15:00–17:00 · Europe/Paris · Las parejas de adulto y menor crean una historia sonora a partir de movimientos con tecnología interactiva del IRCAM.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1) · 2026-11-08
+
+## CP2002 · Maison Pompidou · Bestio-robot
+
+Francia · Maison Pompidou · 50 rue Rambuteau · Paris
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De 7 a 12 años, grupo infantil.
+
+**Idioma:** El programa se publica en francés. No se indica el idioma del taller ni apoyo en inglés o español.
+
+**Programa:** Exploración de máquinas que hablan. Experimentos con micrófono e introducción a tecnologías de IA para voz.
+
+**Alojamiento:** Taller de dos horas para menores.
+
+**Fechas / estado:** Actividad de 15:00 a 17:00, hora de París.
+
+**Precio / año:** 2026 · La tarifa de EUR 8 se publica sin desglose de entrada. Confirmar el precio para una pareja de adulto y menor.
+
+**Incluido:** Exploración de máquinas que hablan. Experimentos con micrófono e introducción a tecnologías de IA para voz.
+
+**Suplementos:** Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Encaja por edad. Confirmar idioma y plaza.
+
+**Oscar:** Por debajo de la edad mínima del grupo.
+
+**Motivo de selección:** Actividad de 15:00 a 17:00, hora de París.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Bestio-robot
+
+**Fechas / estado:** 2026-12-13 — 2026-12-13
+
+**Precio:** La tarifa de EUR 8 se publica sin desglose de entrada. Confirmar el precio para una pareja de adulto y menor.
+
+**condiciones de participación:** Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa.
+
+- 2026-12-13 · 15:00–17:00 · Europe/Paris · Exploración de máquinas que hablan. Experimentos con micrófono e introducción a tecnologías de IA para voz.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1) · 2026-11-08
+
+## CP2003 · Parque La Libertad · CIJ · Peques STEAM
+
+Costa Rica · Parque La Libertad
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 4–6 años.
+
+**Idioma:** Descripción y materiales de CIJ en español. Confirmar el idioma del grupo concreto.
+
+**Programa:** Introducción lúdica a ciencia, ingeniería, tecnología, arte y matemáticas.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Programa regular de CIJ. Aún no se indican fechas próximas ni horario de cada grupo.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Incluido:** Introducción lúdica a ciencia, ingeniería, tecnología, arte y matemáticas.
+
+**Suplementos:** Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No. Supera el rango del club infantil.
+
+**Oscar:** Condicional. La edad está dentro del rango general. Confirmar el grupo.
+
+**Motivo de selección:** Programa regular de CIJ. Aún no se indican fechas próximas ni horario de cada grupo.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://lalibertadcr.org/centro-infantil-y-juvenil-2/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://lalibertadcr.org/centro-infantil-y-juvenil/) · 2026-11-08
+
+## CP2004 · Parque La Libertad · CIJ · Clubes STEAM y Cursos Técnicos
+
+Costa Rica · Parque La Libertad
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Rango general de 7 a 25 años. Confirmar edad del grupo elegido.
+
+**Idioma:** Descripción y materiales de CIJ en español. Confirmar el idioma del grupo concreto.
+
+**Programa:** Clubes de robótica y programación, diseño 3D y videojuegos, y arte digital.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Programa regular de CIJ. Aún no se indican fechas próximas ni horario de cada grupo.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Incluido:** Clubes de robótica y programación, diseño 3D y videojuegos, y arte digital.
+
+**Suplementos:** Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. La edad está dentro del rango general. Confirmar el grupo.
+
+**Oscar:** No a la edad actual. Los clubes comienzan a los 7 años.
+
+**Motivo de selección:** Programa regular de CIJ. Aún no se indican fechas próximas ni horario de cada grupo.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://lalibertadcr.org/centro-infantil-y-juvenil-2/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://lalibertadcr.org/centro-infantil-y-juvenil/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

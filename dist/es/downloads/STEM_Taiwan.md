@@ -109,15 +109,15 @@ Comprobado: 2026-10-01
 ### E020 · TAIREX 2027
 
 Fecha: 2027-03-18 - 2027-03-21
-edad: Entrada desde los 12 años. El organizador no admite a menores de 12 años.
-Matway: No
-Oscar: No
+edad: No se admite a menores de 12 años. Matvey y Oscar quedan fuera de la edad de acceso.
+Matvey: No se admite a menores de 12 años. Matvey y Oscar quedan fuera de la edad de acceso.
+Oscar: No se admite a menores de 12 años. Matvey y Oscar quedan fuera de la edad de acceso.
 Idioma: ZH / EN
-Acceso: Entrada desde los 12 años. El organizador no admite a menores de 12 años.
-Precio: Cada visitante necesita su QR propio tras registrarse. La entrada presencial de un día por 300 TWD se indica como alternativa para quienes no deseen completar el formulario. Entrada desde los 12 años.
-Limitaciones: Horario 10:00–18:00, último día hasta las 17:00.
+Acceso: Cada visitante necesita su propio QR tras registrarse. Se indica un pase de un día por TWD 300 en taquilla.
+Precio: Cada visitante necesita su propio QR tras registrarse. Se indica un pase de un día por TWD 300 en taquilla.
+Limitaciones: 18–21 de marzo de 2027. De 10:00 a 18:00, el último día hasta las 17:00.
 Fuente: https://tairex.chanchao.com.tw/VisitorInfo
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### E021 · TAIROS / Automation Taipei 2027
 
@@ -1041,6 +1041,19 @@ Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
 Limitaciones: Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.
 Fuente: https://events.tca.org.tw/kid/Index?categoryId=46
 Se ha comprobado: 2026-11-07
+
+### E598 · TIBS 2027 · Taipei International Bakery Show · Equipment
+
+Fecha: 2027-03-18 - 2027-03-21
+edad: Menores de hasta 12 años inclusive acceden gratis tras verificar su documento en el mostrador VIP.
+Matvey: Sí. Se puede asistir con menores según las normas de visita.
+Oscar: Sí. Se puede asistir con menores según las normas de visita.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Feria contigua de equipos para alimentación. Para la entrada de menores, solicitar un sello en el mostrador VIP.
+Precio: Entrada general de adulto TWD 200. Gratis hasta los 12 años inclusive con documento.
+Limitaciones: 18–21 de marzo de 2027. De 10:00 a 18:00, el último día hasta las 17:00.
+Fuente: https://www.tibs.org.tw/visitor.asp
+Se ha comprobado: 2026-11-08
 
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
 

@@ -501,16 +501,16 @@ Se ha comprobado: 2026-11-04
 
 ### C083 · RoboRAVE Guanajuato Open 2027
 
-Fecha: 21–22 de mayo de 2027 es fecha preliminar. Registro aún sin anunciar.
-Edad: a-MAZE-ing 8–15; Otras disciplinas — marco específico
-Matvey: Condicional: challenge y edades locales aún sin anunciar.
-Oscar: Condicional: vía menor desde 6/7 sin anunciar; ES global empieza en 8.
+Fecha: 2027-05-21 — 2027-05-22
+edad: La organización invita a equipos desde educación básica hasta universidad. Aún deben confirmarse los límites de cada reto.
+Matvey: Condicional. Confirmar disciplina local, edad admitida, equipo y material.
+Oscar: Condicional. Confirmar disciplina local, edad admitida, equipo y material.
 Idioma: ES/EN Candidato; idioma judging confirmar en host
 Entrada: En primer lugar, RRID gratis, luego un equipo y un permiso de pago para un evento específico; RRID no es en sí mismo un registro de un torneo.
 Costo: No se ha publicado el valor actual
-Limitaciones: Nombre Open / International y texto NATIONAL difieren; lista de red clasifica etapa National. Texto califica fechas de tentative; 100 equipos esperados no son lista real. Sede y tarifa aún desconocidas.
-Fuente: https://www.roboraveinternational.org/en/events/roborave-guanajuato-open-2027
-Se ha comprobado: 2026-11-07
+Limitaciones: 21–22 de mayo de 2027 figuran como provisionales. Antes de viajar, confirmar fecha, sede exacta y disciplina elegida.
+Fuente: https://roboraveinternational.org/eventos/roborave-guanajuato-open-2027
+Se ha comprobado: 2026-11-08
 
 ### E041 · World Science & Technology Expo — Ruta Científica Puerto Vallarta 2027
 
@@ -2731,7 +2731,7 @@ Oscar: Condicional si cursa primaria. Preescolar se limita a fase del centro.
 Idioma: Confirmar idioma del taller o demostración concretos.
 Acceso: El proyecto entra por un centro educativo de Costa Rica. Tras fase escolar siguen circuito, región y final nacional. Participan proyectos ya seleccionados.
 Precio: Tarifa de esta edición aún sin confirmar.
-Limitaciones: El anuncio UCR del 3 de noviembre indica 202 proyectos de 27 regiones educativas. La publicación anterior de la facultad indicaba 205 proyectos.
+Limitaciones: La exposición pública del 12.11.2026 de 08:30 a 12:00 tiene una ficha aparte. Los proyectos superaron las selecciones locales.
 Fuente: https://facultadeducacion.ucr.ac.cr/noticias/2026/10/26/feria-de-ciencia-y-tecnologia-reune-205-proyectos-en-2026
 Se ha comprobado: 2026-11-08
 
@@ -5216,6 +5216,45 @@ Acceso: El 13 de noviembre de 2026 a las 00:00 figura como la publicación de la
 Precio: Aún no se confirman el coste total ni las plazas.
 Limitaciones:
 Fuente: https://omichh.org/convocatoria/omi
+Se ha comprobado: 2026-11-08
+
+### E595 · FNCTI UCR 2026 · Exposición pública de proyectos
+
+Fecha: 2026-11-12 — 2026-11-12
+edad: Exposición pública el 12 de noviembre de 2026, de 08:30 a 12:00. Dos sedes de la UCR. Por la tarde hay talleres para participantes y docentes.
+Matvey: Sí. Se puede asistir con menores según las normas de visita.
+Oscar: Sí. Se puede asistir con menores según las normas de visita.
+Idioma: Materiales de la organización en español. Confirmar el idioma de la persona a cargo y de las demostraciones.
+Acceso: Exposición pública el 12 de noviembre de 2026, de 08:30 a 12:00. Dos sedes de la UCR. Por la tarde hay talleres para participantes y docentes.
+Precio: La invitación se abre al público. No se indican coste ni trámite de visita.
+Limitaciones: Exposición pública el 12 de noviembre de 2026, de 08:30 a 12:00. Dos sedes de la UCR. Por la tarde hay talleres para participantes y docentes.
+Fuente: https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
+Se ha comprobado: 2026-11-08
+
+### L787 · Parque La Libertad · CIJ · Peques STEAM
+
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 4–6 años.
+Matvey: No. Supera el rango del club infantil.
+Oscar: Condicional. La edad está dentro del rango general. Confirmar el grupo.
+Idioma: Descripción y materiales de CIJ en español. Confirmar el idioma del grupo concreto.
+Acceso: Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.
+Fuente: https://lalibertadcr.org/centro-infantil-y-juvenil-2/
+Se ha comprobado: 2026-11-08
+
+### L788 · Parque La Libertad · CIJ · Clubes STEAM y Cursos Técnicos
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Rango general de 7 a 25 años. Confirmar edad del grupo elegido.
+Matvey: Condicional. La edad está dentro del rango general. Confirmar el grupo.
+Oscar: No a la edad actual. Los clubes comienzan a los 7 años.
+Idioma: Descripción y materiales de CIJ en español. Confirmar el idioma del grupo concreto.
+Acceso: Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.
+Fuente: https://lalibertadcr.org/centro-infantil-y-juvenil-2/
 Se ha comprobado: 2026-11-08
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02

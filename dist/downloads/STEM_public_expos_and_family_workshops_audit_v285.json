@@ -1,0 +1,133 @@
+{
+  "version": 285,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "E595",
+    "E596",
+    "E597",
+    "E598",
+    "L787",
+    "L788",
+    "C4683",
+    "E599",
+    "C4684",
+    "C4685",
+    "E600",
+    "E601"
+  ],
+  "new_dossiers": [
+    "CP2001",
+    "CP2002",
+    "CP2003",
+    "CP2004"
+  ],
+  "new_dated_variants": 2,
+  "refreshed_event_ids": [
+    "C2959",
+    "E020",
+    "C083",
+    "E013",
+    "E521"
+  ],
+  "legacy_overlay_event_ids": [
+    "C2959",
+    "E020",
+    "C083",
+    "E013",
+    "E521"
+  ],
+  "source_requests": 29,
+  "ucr_public": "E595",
+  "ucr_competition": "C2959",
+  "hkpc_summit": "E596",
+  "hkpc_tour": "E597",
+  "hkpc_tour_slots": [
+    {
+      "date": "2026-12-03",
+      "start": "12:00",
+      "end": "12:30",
+      "timezone": "Asia/Hong_Kong"
+    },
+    {
+      "date": "2026-12-04",
+      "start": "12:00",
+      "end": "12:30",
+      "timezone": "Asia/Hong_Kong"
+    },
+    {
+      "date": "2026-12-04",
+      "start": "17:45",
+      "end": "18:15",
+      "timezone": "Asia/Hong_Kong"
+    }
+  ],
+  "tairex": "E020",
+  "tibs": "E598",
+  "shanghai_ai": "E601",
+  "roborave_guanajuato": "C083",
+  "pompidou_dossiers": [
+    "CP2001",
+    "CP2002"
+  ],
+  "parque_la_libertad": [
+    "L787",
+    "L788"
+  ],
+  "parque_la_libertad_dossiers": [
+    "CP2003",
+    "CP2004"
+  ],
+  "singapore_invention": "C4683",
+  "singapore_stem": [
+    "C4684",
+    "E599",
+    "C4685"
+  ],
+  "maker_philadelphia": "E600",
+  "robocup_visitor_rows": [
+    "E013",
+    "E521"
+  ],
+  "source_limits": [
+    {
+      "event_id": "E595",
+      "status": "public_morning_only_afternoon_participants",
+      "prior_project_count": 205,
+      "current_public_programme_count": 202
+    },
+    {
+      "event_id": "E596",
+      "status": "summit_child_policy_unconfirmed_tour_rule_separate"
+    },
+    {
+      "event_id": "E597",
+      "status": "slots_published_group_threshold_confirmation_required_language_fee_unknown",
+      "minimum_group_reservations": 8
+    },
+    {
+      "event_id": "C083",
+      "status": "organizer_marks_dates_tentative"
+    },
+    {
+      "event_id": "E599",
+      "status": "indicative_calendar_public_gate_confirmed_hours_and_prices_unknown"
+    },
+    {
+      "event_id": "E600",
+      "status": "2027_date_confirmed_2026_ticket_page_excluded"
+    },
+    {
+      "event_id": "C4683",
+      "status": "international_category_present_specific_cri_mex_access_unconfirmed"
+    },
+    {
+      "programmes": [
+        "CP2001",
+        "CP2002"
+      ],
+      "status": "published_single_tariff_unit_and_language_unknown"
+    }
+  ]
+}

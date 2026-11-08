@@ -1839,14 +1839,14 @@
       "country": "México",
       "region": "América del Norte",
       "city": "guanahuato; se aclara la plaza",
-      "start": "",
-      "end": "",
+      "start": "2027-05-21",
+      "end": "2027-05-22",
       "period": "21–22 de mayo de 2027 es fecha preliminar. Registro aún sin anunciar.",
-      "date_status": "Fechas provisionales",
+      "date_status": "Anunciado",
       "deadline": "",
-      "age": "a-MAZE-ing 8–15; otras disciplinas — los marcos separados",
-      "mat": "Condicional: challenge y edades locales aún sin anunciar.",
-      "osc": "Condicional: vía menor desde 6/7 sin anunciar; ES global empieza en 8.",
+      "age": "La organización invita a equipos desde educación básica hasta universidad. Aún deben confirmarse los límites de cada reto.",
+      "mat": "Condicional. Confirmar disciplina local, edad admitida, equipo y material.",
+      "osc": "Condicional. Confirmar disciplina local, edad admitida, equipo y material.",
       "format": "equipo; tamaño y grupo de edad por challenge y host",
       "entry": "RRID gratuito, luego equipo y entrada de pago para un evento específico; RRID por sí mismo no es una inscripción en el torneo",
       "gear": "robot autónomo para el challenge elegido; plataforma exacta y tamaño para solicitar",
@@ -1860,12 +1860,12 @@
       "level": "C  etapa nacional",
       "reward": "el certificado de participación y el lugar de la entrega del premio son diferentes; los premios se confirman con un protocolo oficial .",
       "priority": "P1  especificar el inicio nacional",
-      "action": "confirmar la edad/clase, la entrada extranjera, el equipo y el lugar antes de planificar el viaje",
-      "source": "https://www.roboraveinternational.org/en/events/roborave-guanajuato-open-2027",
+      "action": "Condicional. Confirmar disciplina local, edad admitida, equipo y material.",
+      "source": "https://roboraveinternational.org/eventos/roborave-guanajuato-open-2027",
       "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "Nombre Open / International y texto NATIONAL difieren; lista de red clasifica etapa National. Texto califica fechas de tentative; 100 equipos esperados no son lista real. Sede y tarifa aún desconocidas.",
+      "note": "21–22 de mayo de 2027 figuran como provisionales. Antes de viajar, confirmar fecha, sede exacta y disciplina elegida.",
       "scope": "national",
       "themes": [
         "robotics",
@@ -1885,6 +1885,10 @@
         {
           "url": "https://www.roboraveinternational.org/eventos/roborave-guanajuato-open-2027",
           "label": "Página oficial del organizador"
+        },
+        {
+          "url": "https://www.roboraveinternational.org/en/events/roborave-guanajuato-open-2027",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "registration_status": "Lista general: To be announced; botón Register no confirma convocatoria abierta.",
@@ -1899,7 +1903,9 @@
         }
       ],
       "reported_start": "2027-05-21",
-      "reported_end": "2027-05-22"
+      "reported_end": "2027-05-22",
+      "date_precision": "announced_window",
+      "date_rule": "21–22 de mayo de 2027 figuran como provisionales. Antes de viajar, confirmar fecha, sede exacta y disciplina elegida."
     },
     {
       "block": "Eventos",
@@ -12517,7 +12523,7 @@
       "proof": "Fecha y condiciones de acceso cotejadas con fuente del organizador.",
       "checked": "2026-11-08",
       "status": "Idea",
-      "note": "El anuncio UCR del 3 de noviembre indica 202 proyectos de 27 regiones educativas. La publicación anterior de la facultad indicaba 205 proyectos.",
+      "note": "La exposición pública del 12.11.2026 de 08:30 a 12:00 tiene una ficha aparte. Los proyectos superaron las selecciones locales.",
       "themes": [
         "science",
         "technology",
@@ -12538,7 +12544,8 @@
       "registration_status": "Acceso a la final solo para proyectos seleccionados en el ciclo 2026.",
       "related_ids": [
         "E267",
-        "E534"
+        "E534",
+        "E595"
       ],
       "event_group": "FNCTI UCR 2026"
     },
@@ -13364,7 +13371,7 @@
           "label": "Reglas y condiciones de admisión"
         }
       ],
-      "age": "4–6 años.",
+      "age": "De 4 a 6 años.",
       "mat": "No por edad indicada para este grupo.",
       "osc": "Condicional. La edad encaja según la ficha; confirmar grupo y nivel.",
       "format": "Clases presenciales semanales en grupos pequeños.",
@@ -24948,6 +24955,198 @@
       "date_scope": "announcement",
       "related_ids": [
         "C4673"
+      ]
+    },
+    {
+      "id": "E595",
+      "title": "FNCTI UCR 2026 · Exposición pública de proyectos",
+      "block": "Eventos",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Sede Rodrigo Facio UCR · Facultad de Educación / Edificio de Educación Continua · San José",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html",
+      "references": [
+        {
+          "url": "https://educacionsecundaria.ucr.ac.cr/feria-nacional-ciencia-tecnologia",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://mep.go.cr/programas-proyectos/programa-nacional-ciencia-tecnologia-e-innovacion",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Exposición pública el 12 de noviembre de 2026, de 08:30 a 12:00. Dos sedes de la UCR. Por la tarde hay talleres para participantes y docentes.",
+      "mat": "Sí. Se puede asistir con menores según las normas de visita.",
+      "osc": "Sí. Se puede asistir con menores según las normas de visita.",
+      "format": "202 proyectos escolares de ciencia, computación, ingeniería y tecnología de 27 regiones educativas.",
+      "entry": "Exposición pública el 12 de noviembre de 2026, de 08:30 a 12:00. Dos sedes de la UCR. Por la tarde hay talleres para participantes y docentes.",
+      "gear": "",
+      "language": "Materiales de la organización en español. Confirmar el idioma de la persona a cargo y de las demostraciones.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en español. Confirmar el idioma de la persona a cargo y de las demostraciones.",
+      "cost": "La invitación se abre al público. No se indican coste ni trámite de visita.",
+      "level": "202 proyectos escolares de ciencia, computación, ingeniería y tecnología de 27 regiones educativas.",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Exposición pública el 12 de noviembre de 2026, de 08:30 a 12:00. Dos sedes de la UCR. Por la tarde hay talleres para participantes y docentes.",
+      "note": "Exposición pública el 12 de noviembre de 2026, de 08:30 a 12:00. Dos sedes de la UCR. Por la tarde hay talleres para participantes y docentes.",
+      "themes": [
+        "science",
+        "engineering",
+        "technology",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "202 proyectos escolares de ciencia, computación, ingeniería y tecnología de 27 regiones educativas.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "visitor_policy": "family",
+      "adult_entry": "La invitación se abre al público. No se indican coste ni trámite de visita.",
+      "visitor_policy_note": "Exposición pública el 12 de noviembre de 2026, de 08:30 a 12:00. Dos sedes de la UCR. Por la tarde hay talleres para participantes y docentes.",
+      "child_entry": "Exposición pública el 12 de noviembre de 2026, de 08:30 a 12:00. Dos sedes de la UCR. Por la tarde hay talleres para participantes y docentes.",
+      "exhibitor_note": "202 proyectos escolares de ciencia, computación, ingeniería y tecnología de 27 regiones educativas.",
+      "exhibition_tier": "family_alternative",
+      "delivery_mode": "in_person",
+      "public_days": [
+        "2026-11-12"
+      ],
+      "related_ids": [
+        "C2959"
+      ]
+    },
+    {
+      "id": "L787",
+      "title": "Parque La Libertad · CIJ · Peques STEAM",
+      "block": "Campamentos",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Centro Infantil y Juvenil · Parque La Libertad",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://lalibertadcr.org/centro-infantil-y-juvenil-2/",
+      "references": [
+        {
+          "url": "https://lalibertadcr.org/centro-infantil-y-juvenil/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "De 4 a 6 años.",
+      "mat": "No. Supera el rango del club infantil.",
+      "osc": "Condicional. La edad está dentro del rango general. Confirmar el grupo.",
+      "format": "Programa regular de CIJ. Aún no se indican fechas próximas ni horario de cada grupo.",
+      "entry": "Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.",
+      "gear": "Introducción lúdica a ciencia, ingeniería, tecnología, arte y matemáticas.",
+      "language": "Descripción y materiales de CIJ en español. Confirmar el idioma del grupo concreto.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Descripción y materiales de CIJ en español. Confirmar el idioma del grupo concreto.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P1 — inicio local para la familia",
+      "action": "Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.",
+      "note": "Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.",
+      "themes": [
+        "science",
+        "technology",
+        "engineering"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "regular_schedule",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "L788"
+      ]
+    },
+    {
+      "id": "L788",
+      "title": "Parque La Libertad · CIJ · Clubes STEAM y Cursos Técnicos",
+      "block": "Campamentos",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Centro Infantil y Juvenil · Parque La Libertad",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://lalibertadcr.org/centro-infantil-y-juvenil-2/",
+      "references": [
+        {
+          "url": "https://lalibertadcr.org/centro-infantil-y-juvenil/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Rango general de 7 a 25 años. Confirmar edad del grupo elegido.",
+      "mat": "Condicional. La edad está dentro del rango general. Confirmar el grupo.",
+      "osc": "No a la edad actual. Los clubes comienzan a los 7 años.",
+      "format": "Programa regular de CIJ. Aún no se indican fechas próximas ni horario de cada grupo.",
+      "entry": "Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.",
+      "gear": "Clubes de robótica y programación, diseño 3D y videojuegos, y arte digital.",
+      "language": "Descripción y materiales de CIJ en español. Confirmar el idioma del grupo concreto.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Descripción y materiales de CIJ en español. Confirmar el idioma del grupo concreto.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P1 — inicio local para la familia",
+      "action": "Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.",
+      "note": "Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "3d"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "regular_schedule",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "L787"
       ]
     },
     {

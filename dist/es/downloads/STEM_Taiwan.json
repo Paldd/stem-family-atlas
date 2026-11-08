@@ -476,23 +476,23 @@
       "period": "",
       "date_status": "Confirmado",
       "deadline": "",
-      "age": "Entrada desde los 12 años. El organizador no admite a menores de 12 años.",
-      "mat": "No",
-      "osc": "No",
+      "age": "No se admite a menores de 12 años. Matvey y Oscar quedan fuera de la edad de acceso.",
+      "mat": "No se admite a menores de 12 años. Matvey y Oscar quedan fuera de la edad de acceso.",
+      "osc": "No se admite a menores de 12 años. Matvey y Oscar quedan fuera de la edad de acceso.",
       "format": "Feria profesional con requisito de edad.",
-      "entry": "Entrada desde los 12 años. El organizador no admite a menores de 12 años.",
+      "entry": "Cada visitante necesita su propio QR tras registrarse. Se indica un pase de un día por TWD 300 en taquilla.",
       "gear": "No es necesario.",
       "language": "ZH / EN",
-      "cost": "Cada visitante necesita su QR propio tras registrarse. La entrada presencial de un día por 300 TWD se indica como alternativa para quienes no deseen completar el formulario. Entrada desde los 12 años.",
+      "cost": "Cada visitante necesita su propio QR tras registrarse. Se indica un pase de un día por TWD 300 en taquilla.",
       "level": "E  evento educativo",
       "reward": "Impresiones y formación; no premio competitivo",
       "priority": "P4  no familiar",
-      "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
+      "action": "Cada visitante necesita su propio QR tras registrarse. Se indica un pase de un día por TWD 300 en taquilla.",
       "source": "https://tairex.chanchao.com.tw/VisitorInfo",
       "proof": "Cotejado con la página de la organización o del recinto. Las condiciones de la exposición y de las actividades se comprueban por separado.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "Horario 10:00–18:00, último día hasta las 17:00.",
+      "note": "18–21 de marzo de 2027. De 10:00 a 18:00, el último día hasta las 17:00.",
       "iso": [
         "TWN"
       ],
@@ -509,7 +509,7 @@
       "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse.",
       "exhibition_tier": "profile",
       "visitor_policy": "adults_only",
-      "visitor_policy_note": "Reglas vigentes de 2027: entrada prohibida a menores de 12. Matvey y Oscar no admitidos; registro profesional adulto no cambia esta regla.",
+      "visitor_policy_note": "No se admite a menores de 12 años. Matvey y Oscar quedan fuera de la edad de acceso.",
       "highlights": [
         "y los robots",
         "automatización",
@@ -517,7 +517,7 @@
       ],
       "exhibitor_note": "TAIREX 2027  nuevo formato de perfil. lista completa actual de los expositores comprobar en el organizador; el alcance de la primera edición aún no se ha demostrado.",
       "exhibitor_directory_url": "https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027",
-      "adult_entry": "Cada visitante necesita su QR propio tras registrarse. La entrada presencial de un día por 300 TWD se indica como alternativa para quienes no deseen completar el formulario. Entrada desde los 12 años.",
+      "adult_entry": "Cada visitante necesita su propio QR tras registrarse. Se indica un pase de un día por TWD 300 en taquilla.",
       "admission_kind": "visitor",
       "references": [
         {
@@ -531,10 +531,26 @@
         {
           "url": "https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027",
           "label": "Reglas de visitantes 2027 y edad mínima de 12+"
+        },
+        {
+          "url": "https://www.twtc.com.tw/exhibition_more.aspx?id=33473&p=home",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://tairex.chanchao.com.tw/ExhibitorInfo",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://tairex.chanchao.com.tw/en/VisitorInfo",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "evidence_level": "rules",
-      "visitor_age_min": 12
+      "visitor_age_min": 12,
+      "child_entry": "No se admite a menores de 12 años. Matvey y Oscar quedan fuera de la edad de acceso.",
+      "related_ids": [
+        "E598"
+      ]
     },
     {
       "block": "Eventos",
@@ -4878,6 +4894,69 @@
       "venue": "Taipei World Trade Center · Hall 1",
       "related_ids": [
         "E495"
+      ]
+    },
+    {
+      "id": "E598",
+      "title": "TIBS 2027 · Taipei International Bakery Show · Equipment",
+      "block": "Eventos",
+      "country": "Taiwán",
+      "region": "Asia",
+      "iso": [
+        "TWN"
+      ],
+      "city": "Taipei Nangang Exhibition Center · Hall 1",
+      "start": "2027-03-18",
+      "end": "2027-03-21",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.tibs.org.tw/visitor.asp",
+      "references": [
+        {
+          "url": "https://www.twtc.com.tw/exhibition_more.aspx?id=33473&p=home",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Menores de hasta 12 años inclusive acceden gratis tras verificar su documento en el mostrador VIP.",
+      "mat": "Sí. Se puede asistir con menores según las normas de visita.",
+      "osc": "Sí. Se puede asistir con menores según las normas de visita.",
+      "format": "Líneas industriales de panadería, equipos de envasado y maquinaria alimentaria.",
+      "entry": "Feria contigua de equipos para alimentación. Para la entrada de menores, solicitar un sello en el mostrador VIP.",
+      "gear": "",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Entrada general de adulto TWD 200. Gratis hasta los 12 años inclusive con documento.",
+      "level": "Líneas industriales de panadería, equipos de envasado y maquinaria alimentaria.",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Feria contigua de equipos para alimentación. Para la entrada de menores, solicitar un sello en el mostrador VIP.",
+      "note": "18–21 de marzo de 2027. De 10:00 a 18:00, el último día hasta las 17:00.",
+      "themes": [
+        "technology",
+        "engineering"
+      ],
+      "scope": "international",
+      "importance_reason": "Líneas industriales de panadería, equipos de envasado y maquinaria alimentaria.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "visitor_policy": "family",
+      "adult_entry": "Entrada general de adulto TWD 200. Gratis hasta los 12 años inclusive con documento.",
+      "visitor_policy_note": "Feria contigua de equipos para alimentación. Para la entrada de menores, solicitar un sello en el mostrador VIP.",
+      "child_entry": "Menores de hasta 12 años inclusive acceden gratis tras verificar su documento en el mostrador VIP.",
+      "exhibitor_note": "Líneas industriales de panadería, equipos de envasado y maquinaria alimentaria.",
+      "exhibition_tier": "family_alternative",
+      "delivery_mode": "in_person",
+      "public_days": [],
+      "related_ids": [
+        "E020"
       ]
     },
     {

@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 284,
+    "version": 285,
     "status": "implementation_snapshot",
-    "events": 10343,
-    "competitions": 4681,
+    "events": 10357,
+    "competitions": 4684,
     "league_profiles": 299,
-    "camp_dossiers": 2000,
+    "camp_dossiers": 2004,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 594,
+    "exhibitions_events": 601,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 283,
+    "version": 284,
     "status": "implementation_snapshot",
-    "events": 10314,
-    "competitions": 4654,
+    "events": 10343,
+    "competitions": 4681,
     "league_profiles": 299,
-    "camp_dossiers": 1998,
+    "camp_dossiers": 2000,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 284,
+    "prepared_ui_version": 285,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 283,
-    "previous_verified_commit": "826641a1ac01c0d4806c38f82c34d7f2d508cfd5"
+    "previous_verified_ui_version": 284,
+    "previous_verified_commit": "0c0a45dc73823c1a647a4dd90966e693a37c4314"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 283,
-    "published_version": 283,
-    "latest_source_commit": "826641a1ac01c0d4806c38f82c34d7f2d508cfd5",
-    "published_commit": "826641a1ac01c0d4806c38f82c34d7f2d508cfd5",
-    "latest_workflow": 42488730635,
+    "latest_source_version": 284,
+    "published_version": 284,
+    "latest_source_commit": "0c0a45dc73823c1a647a4dd90966e693a37c4314",
+    "published_commit": "0c0a45dc73823c1a647a4dd90966e693a37c4314",
+    "latest_workflow": 42490703066,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -28487,5 +28487,140 @@
     },
     "audit": "data/ai-olympiads-and-junior-routes-audit-v284.json",
     "source_receipts": "data/ai-olympiads-and-junior-routes-source-receipts-v284.json"
+  },
+  "public_expos_and_family_workshops_v285": {
+    "version": 285,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E595",
+      "E596",
+      "E597",
+      "E598",
+      "L787",
+      "L788",
+      "C4683",
+      "E599",
+      "C4684",
+      "C4685",
+      "E600",
+      "E601"
+    ],
+    "new_dossiers": [
+      "CP2001",
+      "CP2002",
+      "CP2003",
+      "CP2004"
+    ],
+    "new_dated_variants": 2,
+    "refreshed_event_ids": [
+      "C2959",
+      "E020",
+      "C083",
+      "E013",
+      "E521"
+    ],
+    "legacy_overlay_event_ids": [
+      "C2959",
+      "E020",
+      "C083",
+      "E013",
+      "E521"
+    ],
+    "source_requests": 29,
+    "ucr_public": "E595",
+    "ucr_competition": "C2959",
+    "hkpc_summit": "E596",
+    "hkpc_tour": "E597",
+    "hkpc_tour_slots": [
+      {
+        "date": "2026-12-03",
+        "start": "12:00",
+        "end": "12:30",
+        "timezone": "Asia/Hong_Kong"
+      },
+      {
+        "date": "2026-12-04",
+        "start": "12:00",
+        "end": "12:30",
+        "timezone": "Asia/Hong_Kong"
+      },
+      {
+        "date": "2026-12-04",
+        "start": "17:45",
+        "end": "18:15",
+        "timezone": "Asia/Hong_Kong"
+      }
+    ],
+    "tairex": "E020",
+    "tibs": "E598",
+    "shanghai_ai": "E601",
+    "roborave_guanajuato": "C083",
+    "pompidou_dossiers": [
+      "CP2001",
+      "CP2002"
+    ],
+    "parque_la_libertad": [
+      "L787",
+      "L788"
+    ],
+    "parque_la_libertad_dossiers": [
+      "CP2003",
+      "CP2004"
+    ],
+    "singapore_invention": "C4683",
+    "singapore_stem": [
+      "C4684",
+      "E599",
+      "C4685"
+    ],
+    "maker_philadelphia": "E600",
+    "robocup_visitor_rows": [
+      "E013",
+      "E521"
+    ],
+    "source_limits": [
+      {
+        "event_id": "E595",
+        "status": "public_morning_only_afternoon_participants",
+        "prior_project_count": 205,
+        "current_public_programme_count": 202
+      },
+      {
+        "event_id": "E596",
+        "status": "summit_child_policy_unconfirmed_tour_rule_separate"
+      },
+      {
+        "event_id": "E597",
+        "status": "slots_published_group_threshold_confirmation_required_language_fee_unknown",
+        "minimum_group_reservations": 8
+      },
+      {
+        "event_id": "C083",
+        "status": "organizer_marks_dates_tentative"
+      },
+      {
+        "event_id": "E599",
+        "status": "indicative_calendar_public_gate_confirmed_hours_and_prices_unknown"
+      },
+      {
+        "event_id": "E600",
+        "status": "2027_date_confirmed_2026_ticket_page_excluded"
+      },
+      {
+        "event_id": "C4683",
+        "status": "international_category_present_specific_cri_mex_access_unconfirmed"
+      },
+      {
+        "programmes": [
+          "CP2001",
+          "CP2002"
+        ],
+        "status": "published_single_tariff_unit_and_language_unknown"
+      }
+    ],
+    "audit": "data/public-expos-and-family-workshops-audit-v285.json",
+    "source_receipts": "data/public-expos-and-family-workshops-source-receipts-v285.json"
   }
 }

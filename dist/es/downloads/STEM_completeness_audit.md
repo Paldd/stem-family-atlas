@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10343; competiciones: 4681; eventos: 594; campamentos / programas: 5068. Perfiles de ligas y programas: 301. Fichas de exposiciones grandes y especializadas: 498 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10357; competiciones: 4684; eventos: 601; campamentos / programas: 5072. Perfiles de ligas y programas: 301. Fichas de exposiciones grandes y especializadas: 505 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros específicos para 234 de 249 países y territorios y 0 países con auditoría completa. Revisión del archivo v51: se añadieron 21 fichas y 3 perfiles. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros específicos para 234 de 249 países y territorios y 0 países con
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1925 | 122 | 1285 |
+| América del Norte | 40 | 1925 | 124 | 1287 |
 | América del Sur | 14 | 433 | 45 | 207 |
-| Europa | 54 | 609 | 123 | 1455 |
+| Europa | 54 | 609 | 123 | 1457 |
 | África | 55 | 245 | 31 | 110 |
-| Asia | 50 | 1161 | 145 | 1663 |
+| Asia | 50 | 1164 | 150 | 1663 |
 | Oceanía | 25 | 167 | 30 | 333 |
 
 Fichas interregionales o globales sin asignación a un continente: 163. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y su alcance documentado.
 
-VEX: 814 de 4681 fichas de competiciones (17.4%). La cobertura se concentra en este circuito.
+VEX: 814 de 4684 fichas de competiciones (17.4%). La cobertura se concentra en este circuito.
 
 ## Lo que queda
 
@@ -867,6 +867,13 @@ VEX: 814 de 4681 fichas de competiciones (17.4%). La cobertura se concentra en e
 - **Noche de las Estrellas 2026 · México · Ensenada** — México; 2026-11-14. con un adulto; condiciones de admisión adulta por separado. https://todos.cicese.mx/evento/ndee-2026/
 - **Planetario de San José · UCR · Telescopiadas** — Costa Rica. Actividad regular. Visita con un adulto. Confirmar las condiciones de acceso. https://planetario.ucr.ac.cr/horarios.html
 - **Fiji Tech Summit 2026 · Exhibitions & Business Forum** — Fiyi; 2026-11-12 – 2026-11-13. el permiso de entrada de niños. https://fijitechsummit.com/
+- **FNCTI UCR 2026 · Exposición pública de proyectos** — Costa Rica; 2026-11-12. con un adulto; condiciones de admisión adulta por separado. https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
+- **HKPC · GBA International AI and Robotics Summit 2026** — RAE de Hong Kong (China); 2026-11-30. el permiso de entrada de niños. https://campaigns.hkpc.org/en-hk/rsvp-ai-summit-2026?hsLang=en
+- **HKPC · Embodied AI International Applications Hub · Guided tour** — RAE de Hong Kong (China); 2026-12-03 – 2026-12-04. con un adulto; condiciones de admisión adulta por separado. https://bizform.hkpc.org/766776?lang=en
+- **TIBS 2027 · Taipei International Bakery Show · Equipment** — Taiwán; 2027-03-18 – 2027-03-21. con un adulto; condiciones de admisión adulta por separado. https://www.tibs.org.tw/visitor.asp
+- **Singapore Science and Engineering Fair 2027 · Public Day** — Singapur; 2027-03-05. con un adulto; condiciones de admisión adulta por separado. https://sites.google.com/moe.edu.sg/ssef/participation/key-dates-for-ssef-2027
+- **Maker Faire Philadelphia 2027** — Estados Unidos; 2027-04-18. con un adulto; condiciones de admisión adulta por separado. https://philly.makerfaire.com/
+- **CSITF 2027 · AI Computing Power & Infrastructure Expo** — China; 2027-06-02 – 2027-06-04. el permiso de entrada de niños. https://www.itaiexpo.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

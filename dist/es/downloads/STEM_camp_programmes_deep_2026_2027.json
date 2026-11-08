@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2000,
+    "dossiers": 2004,
     "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
       "published_2027": 543,
       "partial_2027": 145,
-      "next_unannounced": 403,
-      "published_2026": 387,
+      "next_unannounced": 405,
+      "published_2026": 389,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2890
+    "source_urls": 2893
   },
   "countries": [
     {
@@ -277,7 +277,7 @@
     },
     {
       "country": "Costa Rica",
-      "count": 56
+      "count": 58
     },
     {
       "country": "Kuwait",
@@ -497,7 +497,7 @@
     },
     {
       "country": "Francia",
-      "count": 123
+      "count": 125
     },
     {
       "country": "Polinesia Francesa",
@@ -274185,7 +274185,7 @@
       "formats": [
         "day"
       ],
-      "age": "4–6 años.",
+      "age": "De 4 a 6 años.",
       "language": "Idioma de enseñanza del grupo concreto aún sin confirmar. La página en español no establece el idioma de clase.",
       "confirmed_instruction_languages": [],
       "programme": "GoAlgo, órdenes de movimiento, luz y sonido, condiciones y bucles. 36 clases.",
@@ -346490,6 +346490,375 @@
           "event_ids": []
         }
       ]
+    },
+    {
+      "id": "CP2001",
+      "slug": "pompidou-ircam-dec-como",
+      "provider": "Maison Pompidou · CoMo-education · Histoires en sons et en mouvements",
+      "country": "Francia",
+      "iso": "FRA",
+      "place": "Maison Pompidou · 50 rue Rambuteau · Paris",
+      "age": "De 6 a 8 años, menor con un adulto.",
+      "programme": "Las parejas de adulto y menor crean una historia sonora a partir de movimientos con tecnología interactiva del IRCAM.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "El programa se publica en francés. No se indica el idioma del taller ni apoyo en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Actividad de 15:00 a 17:00, hora de París.",
+        "sessions": [
+          [
+            "2026-12-12",
+            "2026-12-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec26",
+            "start": "2026-12-12",
+            "end": "2026-12-12",
+            "label": "CoMo-education · Histoires en sons et en mouvements",
+            "price": "La tarifa de EUR 8 se publica sin desglose de entrada. Confirmar el precio para una pareja de adulto y menor.",
+            "source": "https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-12",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "start_utc": "2026-12-12T14:00:00Z",
+                "end_utc": "2026-12-12T16:00:00Z",
+                "topic": "Las parejas de adulto y menor crean una historia sonora a partir de movimientos con tecnología interactiva del IRCAM.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 8,
+        "currency": "EUR",
+        "unit": "unknown",
+        "label": "La tarifa de EUR 8 se publica sin desglose de entrada. Confirmar el precio para una pareja de adulto y menor.",
+        "included": "Las parejas de adulto y menor crean una historia sonora a partir de movimientos con tecnología interactiva del IRCAM.",
+        "extras": "Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Taller familiar para una pareja de menor y adulto.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Supera el rango de edad del grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Encaja por edad. Confirmar idioma y plaza."
+        }
+      },
+      "editorial_reason": "Actividad de 15:00 a 17:00, hora de París.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "art",
+        "science"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-12",
+          "end": "2026-12-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2001-20261212-20261212-dec26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2002",
+      "slug": "pompidou-ircam-dec-bestio",
+      "provider": "Maison Pompidou · Bestio-robot",
+      "country": "Francia",
+      "iso": "FRA",
+      "place": "Maison Pompidou · 50 rue Rambuteau · Paris",
+      "age": "De 7 a 12 años, grupo infantil.",
+      "programme": "Exploración de máquinas que hablan. Experimentos con micrófono e introducción a tecnologías de IA para voz.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "El programa se publica en francés. No se indica el idioma del taller ni apoyo en inglés o español.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Actividad de 15:00 a 17:00, hora de París.",
+        "sessions": [
+          [
+            "2026-12-13",
+            "2026-12-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec26",
+            "start": "2026-12-13",
+            "end": "2026-12-13",
+            "label": "Bestio-robot",
+            "price": "La tarifa de EUR 8 se publica sin desglose de entrada. Confirmar el precio para una pareja de adulto y menor.",
+            "source": "https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-13",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "start_utc": "2026-12-13T14:00:00Z",
+                "end_utc": "2026-12-13T16:00:00Z",
+                "topic": "Exploración de máquinas que hablan. Experimentos con micrófono e introducción a tecnologías de IA para voz.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 8,
+        "currency": "EUR",
+        "unit": "unknown",
+        "label": "La tarifa de EUR 8 se publica sin desglose de entrada. Confirmar el precio para una pareja de adulto y menor.",
+        "included": "Exploración de máquinas que hablan. Experimentos con micrófono e introducción a tecnologías de IA para voz.",
+        "extras": "Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Taller de dos horas para menores.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Encaja por edad. Confirmar idioma y plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Por debajo de la edad mínima del grupo."
+        }
+      },
+      "editorial_reason": "Actividad de 15:00 a 17:00, hora de París.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "robotics",
+        "technology"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-13",
+          "end": "2026-12-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2002-20261213-20261213-dec26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2003",
+      "slug": "parque-la-libertad-cij-peques",
+      "provider": "Parque La Libertad · CIJ · Peques STEAM",
+      "country": "Costa Rica",
+      "iso": "CRI",
+      "place": "Parque La Libertad",
+      "age": "De 4 a 6 años.",
+      "programme": "Introducción lúdica a ciencia, ingeniería, tecnología, arte y matemáticas.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción y materiales de CIJ en español. Confirmar el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Programa regular de CIJ. Aún no se indican fechas próximas ni horario de cada grupo.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "unknown",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "Introducción lúdica a ciencia, ingeniería, tecnología, arte y matemáticas.",
+        "extras": "Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No. Supera el rango del club infantil."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. La edad está dentro del rango general. Confirmar el grupo."
+        }
+      },
+      "editorial_reason": "Programa regular de CIJ. Aún no se indican fechas próximas ni horario de cada grupo.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://lalibertadcr.org/centro-infantil-y-juvenil-2/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://lalibertadcr.org/centro-infantil-y-juvenil/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_learning",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2004",
+      "slug": "parque-la-libertad-cij-club",
+      "provider": "Parque La Libertad · CIJ · Clubes STEAM y Cursos Técnicos",
+      "country": "Costa Rica",
+      "iso": "CRI",
+      "place": "Parque La Libertad",
+      "age": "Rango general de 7 a 25 años. Confirmar edad del grupo elegido.",
+      "programme": "Clubes de robótica y programación, diseño 3D y videojuegos, y arte digital.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción y materiales de CIJ en español. Confirmar el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Programa regular de CIJ. Aún no se indican fechas próximas ni horario de cada grupo.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "unknown",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "Clubes de robótica y programación, diseño 3D y videojuegos, y arte digital.",
+        "extras": "Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. La edad está dentro del rango general. Confirmar el grupo."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No a la edad actual. Los clubes comienzan a los 7 años."
+        }
+      },
+      "editorial_reason": "Programa regular de CIJ. Aún no se indican fechas próximas ni horario de cada grupo.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://lalibertadcr.org/centro-infantil-y-juvenil-2/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://lalibertadcr.org/centro-infantil-y-juvenil/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "3d"
+      ],
+      "programme_type": "regular_learning",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -351815,7 +352184,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 284,
+  "version": 285,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -365050,7 +365419,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2000,
+      "total_dossiers": 2004,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -387625,6 +387994,16 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2001",
+      "event_id": "CP2001-20261212-20261212-dec26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2002",
+      "event_id": "CP2002-20261213-20261213-dec26",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -392337,10 +392716,12 @@
     "CP1993-20261222-20261222-dec26",
     "CP1994-20261222-20261222-dec26",
     "CP1995-20261229-20261229-dec26",
-    "CP1996-20261221-20261221-dec26"
+    "CP1996-20261221-20261221-dec26",
+    "CP2001-20261212-20261212-dec26",
+    "CP2002-20261213-20261213-dec26"
   ],
   "integration": {
-    "generated_sessions": 4282,
+    "generated_sessions": 4284,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

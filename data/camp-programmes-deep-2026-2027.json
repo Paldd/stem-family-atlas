@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2000,
+    "dossiers": 2004,
     "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
       "published_2027": 543,
       "partial_2027": 145,
-      "next_unannounced": 403,
-      "published_2026": 387,
+      "next_unannounced": 405,
+      "published_2026": 389,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2890
+    "source_urls": 2893
   },
   "countries": [
     {
@@ -277,7 +277,7 @@
     },
     {
       "country": "Коста-Рика",
-      "count": 56
+      "count": 58
     },
     {
       "country": "Кувейт",
@@ -497,7 +497,7 @@
     },
     {
       "country": "Франция",
-      "count": 123
+      "count": 125
     },
     {
       "country": "Французская Полинезия",
@@ -303646,6 +303646,353 @@
       "related_event_ids": [
         "L786"
       ]
+    },
+    {
+      "id": "CP2001",
+      "slug": "pompidou-ircam-dec-como",
+      "provider": "Maison Pompidou · CoMo-education · Histoires en sons et en mouvements",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Maison Pompidou · 50 rue Rambuteau · Paris",
+      "age": "6–8 лет, ребёнок вместе со взрослым.",
+      "programme": "Пары взрослый и ребёнок создают звуковую историю из движений с интерактивной технологией IRCAM.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Программа опубликована на французском. Язык ведущего и поддержка английского или испанского не указаны.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Занятие с 15:00 до 17:00 по времени Парижа.",
+        "sessions": [
+          [
+            "2026-12-12",
+            "2026-12-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec26",
+            "start": "2026-12-12",
+            "end": "2026-12-12",
+            "label": "CoMo-education · Histoires en sons et en mouvements",
+            "price": "Тариф EUR 8 указан без разбивки по типу билета. Уточнить цену пары взрослый и ребёнок.",
+            "source": "https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-12",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "start_utc": "2026-12-12T14:00:00Z",
+                "end_utc": "2026-12-12T16:00:00Z",
+                "topic": "Пары взрослый и ребёнок создают звуковую историю из движений с интерактивной технологией IRCAM.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Выбрать дату и билет. Подтвердить язык ведущего, свободное место и единицу тарифа."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 8,
+        "currency": "EUR",
+        "unit": "unknown",
+        "label": "Тариф EUR 8 указан без разбивки по типу билета. Уточнить цену пары взрослый и ребёнок.",
+        "included": "Пары взрослый и ребёнок создают звуковую историю из движений с интерактивной технологией IRCAM.",
+        "extras": "Выбрать дату и билет. Подтвердить язык ведущего, свободное место и единицу тарифа.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Семейная мастерская для пары ребёнок и взрослый.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Старше диапазона группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Подтвердить язык и место."
+        }
+      },
+      "editorial_reason": "Занятие с 15:00 до 17:00 по времени Парижа.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "art",
+        "science"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2002",
+      "slug": "pompidou-ircam-dec-bestio",
+      "provider": "Maison Pompidou · Bestio-robot",
+      "country": "Франция",
+      "iso": "FRA",
+      "place": "Maison Pompidou · 50 rue Rambuteau · Paris",
+      "age": "7–12 лет, детская группа.",
+      "programme": "Устройство машин, которые говорят. Опыты с микрофоном и знакомство с технологиями ИИ для голоса.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Программа опубликована на французском. Язык ведущего и поддержка английского или испанского не указаны.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Занятие с 15:00 до 17:00 по времени Парижа.",
+        "sessions": [
+          [
+            "2026-12-13",
+            "2026-12-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec26",
+            "start": "2026-12-13",
+            "end": "2026-12-13",
+            "label": "Bestio-robot",
+            "price": "Тариф EUR 8 указан без разбивки по типу билета. Уточнить цену пары взрослый и ребёнок.",
+            "source": "https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-13",
+                "start_time": "15:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Paris",
+                "start_utc": "2026-12-13T14:00:00Z",
+                "end_utc": "2026-12-13T16:00:00Z",
+                "topic": "Устройство машин, которые говорят. Опыты с микрофоном и знакомство с технологиями ИИ для голоса.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Выбрать дату и билет. Подтвердить язык ведущего, свободное место и единицу тарифа."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 8,
+        "currency": "EUR",
+        "unit": "unknown",
+        "label": "Тариф EUR 8 указан без разбивки по типу билета. Уточнить цену пары взрослый и ребёнок.",
+        "included": "Устройство машин, которые говорят. Опыты с микрофоном и знакомство с технологиями ИИ для голоса.",
+        "extras": "Выбрать дату и билет. Подтвердить язык ведущего, свободное место и единицу тарифа.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Двухчасовая мастерская для детей.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит. Подтвердить язык и место."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Младше минимального возраста группы."
+        }
+      },
+      "editorial_reason": "Занятие с 15:00 до 17:00 по времени Парижа.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "robotics",
+        "technology"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2003",
+      "slug": "parque-la-libertad-cij-peques",
+      "provider": "Parque La Libertad · CIJ · Peques STEAM",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Parque La Libertad",
+      "age": "4–6 лет.",
+      "programme": "Игровое знакомство с наукой, инженерией, технологией, искусством и математикой.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и материалы CIJ на испанском. Язык конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Регулярная программа CIJ. Ближайшие даты и расписание конкретной группы пока не указаны.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "unknown",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "Игровое знакомство с наукой, инженерией, технологией, искусством и математикой.",
+        "extras": "Запросить текущую группу, расписание, стоимость, место и язык занятий у CIJ.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет. Старше диапазона младшего клуба."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возраст входит в общий диапазон. Подтвердить группу."
+        }
+      },
+      "editorial_reason": "Регулярная программа CIJ. Ближайшие даты и расписание конкретной группы пока не указаны.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://lalibertadcr.org/centro-infantil-y-juvenil-2/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://lalibertadcr.org/centro-infantil-y-juvenil/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_learning",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L787"
+      ]
+    },
+    {
+      "id": "CP2004",
+      "slug": "parque-la-libertad-cij-club",
+      "provider": "Parque La Libertad · CIJ · Clubes STEAM y Cursos Técnicos",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Parque La Libertad",
+      "age": "Общий диапазон 7–25 лет. Возраст выбранной группы уточнить.",
+      "programme": "Клубы по робототехнике и программированию, 3D-дизайну и видеоиграм, цифровому искусству.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и материалы CIJ на испанском. Язык конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Регулярная программа CIJ. Ближайшие даты и расписание конкретной группы пока не указаны.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "unknown",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "Клубы по робототехнике и программированию, 3D-дизайну и видеоиграм, цифровому искусству.",
+        "extras": "Запросить текущую группу, расписание, стоимость, место и язык занятий у CIJ.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст входит в общий диапазон. Подтвердить группу."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет в текущем возрасте. Клубы открываются с 7 лет."
+        }
+      },
+      "editorial_reason": "Регулярная программа CIJ. Ближайшие даты и расписание конкретной группы пока не указаны.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://lalibertadcr.org/centro-infantil-y-juvenil-2/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://lalibertadcr.org/centro-infantil-y-juvenil/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "3d"
+      ],
+      "programme_type": "regular_learning",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L788"
+      ]
     }
   ],
   "gaps": [
@@ -308971,7 +309318,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 284,
+  "version": 285,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -322206,7 +322553,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2000,
+      "total_dossiers": 2004,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

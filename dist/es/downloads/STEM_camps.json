@@ -580,9 +580,9 @@
       }
     ],
     "counts": {
-      "records": 5068,
-      "holiday": 4697,
-      "regular": 163,
+      "records": 5072,
+      "holiday": 4699,
+      "regular": 165,
       "self_paced_materials": 4,
       "boarding": 1038,
       "en_es_instruction": 1593,
@@ -33110,7 +33110,7 @@
           "label": "Reglas y condiciones de admisión"
         }
       ],
-      "age": "4–6 años.",
+      "age": "De 4 a 6 años.",
       "mat": "No por edad indicada para este grupo.",
       "osc": "Condicional. La edad encaja según la ficha; confirmar grupo y nivel.",
       "format": "Clases presenciales semanales en grupos pequeños.",
@@ -40823,6 +40823,125 @@
       "delivery_mode": "virtual",
       "related_ids": [
         "L785"
+      ]
+    },
+    {
+      "id": "L787",
+      "title": "Parque La Libertad · CIJ · Peques STEAM",
+      "block": "Campamentos",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Centro Infantil y Juvenil · Parque La Libertad",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://lalibertadcr.org/centro-infantil-y-juvenil-2/",
+      "references": [
+        {
+          "url": "https://lalibertadcr.org/centro-infantil-y-juvenil/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "De 4 a 6 años.",
+      "mat": "No. Supera el rango del club infantil.",
+      "osc": "Condicional. La edad está dentro del rango general. Confirmar el grupo.",
+      "format": "Programa regular de CIJ. Aún no se indican fechas próximas ni horario de cada grupo.",
+      "entry": "Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.",
+      "gear": "Introducción lúdica a ciencia, ingeniería, tecnología, arte y matemáticas.",
+      "language": "Descripción y materiales de CIJ en español. Confirmar el idioma del grupo concreto.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Descripción y materiales de CIJ en español. Confirmar el idioma del grupo concreto.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P1 — inicio local para la familia",
+      "action": "Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.",
+      "note": "Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.",
+      "themes": [
+        "science",
+        "technology",
+        "engineering"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "regular_schedule",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "L788"
+      ]
+    },
+    {
+      "id": "L788",
+      "title": "Parque La Libertad · CIJ · Clubes STEAM y Cursos Técnicos",
+      "block": "Campamentos",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Centro Infantil y Juvenil · Parque La Libertad",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://lalibertadcr.org/centro-infantil-y-juvenil-2/",
+      "references": [
+        {
+          "url": "https://lalibertadcr.org/centro-infantil-y-juvenil/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Rango general de 7 a 25 años. Confirmar edad del grupo elegido.",
+      "mat": "Condicional. La edad está dentro del rango general. Confirmar el grupo.",
+      "osc": "No a la edad actual. Los clubes comienzan a los 7 años.",
+      "format": "Programa regular de CIJ. Aún no se indican fechas próximas ni horario de cada grupo.",
+      "entry": "Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.",
+      "gear": "Clubes de robótica y programación, diseño 3D y videojuegos, y arte digital.",
+      "language": "Descripción y materiales de CIJ en español. Confirmar el idioma del grupo concreto.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Descripción y materiales de CIJ en español. Confirmar el idioma del grupo concreto.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P1 — inicio local para la familia",
+      "action": "Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.",
+      "note": "Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "3d"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "regular_schedule",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "L787"
       ]
     },
     {
@@ -407591,6 +407710,150 @@
           "start_utc": "2026-12-21T16:00:00Z",
           "end_utc": "2026-12-21T23:00:00Z",
           "topic": "Experimentos con imanes y electricidad estática y montaje de un electroimán.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2001-20261212-20261212-dec26",
+      "block": "Campamentos",
+      "title": "Maison Pompidou · CoMo-education · Histoires en sons et en mouvements · CoMo-education · Histoires en sons et en mouvements · 2026-12-12–2026-12-12",
+      "country": "Francia",
+      "region": "Europa",
+      "city": "Maison Pompidou · 50 rue Rambuteau · Paris",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "period": "Actividad de 15:00 a 17:00, hora de París.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "De 6 a 8 años, menor con un adulto.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Taller familiar para una pareja de menor y adulto.",
+      "entry": "Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa.",
+      "gear": "Las parejas de adulto y menor crean una historia sonora a partir de movimientos con tecnología interactiva del IRCAM.",
+      "language": "El programa se publica en francés. No se indica el idioma del taller ni apoyo en inglés o español.",
+      "cost": "2026/27 · La tarifa de EUR 8 se publica sin desglose de entrada. Confirmar el precio para una pareja de adulto y menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1",
+      "references": [
+        {
+          "url": "https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Supera el rango de edad del grupo. Oscar: Condicional. Encaja por edad. Confirmar idioma y plaza. Suplementos: Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "FRA"
+      ],
+      "themes": [
+        "technology",
+        "art",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El programa se publica en francés. No se indica el idioma del taller ni apoyo en inglés o español.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "pompidou-ircam-dec-como",
+      "camp_programme_id": "CP2001",
+      "sessions": [
+        {
+          "date": "2026-12-12",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-12-12T14:00:00Z",
+          "end_utc": "2026-12-12T16:00:00Z",
+          "topic": "Las parejas de adulto y menor crean una historia sonora a partir de movimientos con tecnología interactiva del IRCAM.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2002-20261213-20261213-dec26",
+      "block": "Campamentos",
+      "title": "Maison Pompidou · Bestio-robot · Bestio-robot · 2026-12-13–2026-12-13",
+      "country": "Francia",
+      "region": "Europa",
+      "city": "Maison Pompidou · 50 rue Rambuteau · Paris",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "period": "Actividad de 15:00 a 17:00, hora de París.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "De 7 a 12 años, grupo infantil.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Taller de dos horas para menores.",
+      "entry": "Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa.",
+      "gear": "Exploración de máquinas que hablan. Experimentos con micrófono e introducción a tecnologías de IA para voz.",
+      "language": "El programa se publica en francés. No se indica el idioma del taller ni apoyo en inglés o español.",
+      "cost": "2026/27 · La tarifa de EUR 8 se publica sin desglose de entrada. Confirmar el precio para una pareja de adulto y menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1",
+      "references": [
+        {
+          "url": "https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Encaja por edad. Confirmar idioma y plaza. Oscar: Por debajo de la edad mínima del grupo. Suplementos: Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "FRA"
+      ],
+      "themes": [
+        "ai",
+        "robotics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El programa se publica en francés. No se indica el idioma del taller ni apoyo en inglés o español.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "pompidou-ircam-dec-bestio",
+      "camp_programme_id": "CP2002",
+      "sessions": [
+        {
+          "date": "2026-12-13",
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Paris",
+          "start_utc": "2026-12-13T14:00:00Z",
+          "end_utc": "2026-12-13T16:00:00Z",
+          "topic": "Exploración de máquinas que hablan. Experimentos con micrófono e introducción a tecnologías de IA para voz.",
           "ical_timed": true
         }
       ],

@@ -11366,6 +11366,38 @@ Limitaciones: Las horas publicadas corresponden a Singapur. Acordar un horario c
 Fuente: https://alphagenlearning.com/creative-coders-scratch-camp-ages-7-to-9/
 Se ha comprobado: 2026-11-08
 
+### L787 · Parque La Libertad · CIJ · Peques STEAM
+
+Lugar: Costa Rica Centro Infantil y Juvenil · Parque La Libertad
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 4–6 años.
+Matvey: No. Supera el rango del club infantil.
+Oscar: Condicional. La edad está dentro del rango general. Confirmar el grupo.
+Formato: regular
+Idioma: Descripción y materiales de CIJ en español. Confirmar el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.
+Limitaciones: Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.
+Fuente: https://lalibertadcr.org/centro-infantil-y-juvenil-2/
+Se ha comprobado: 2026-11-08
+
+### L788 · Parque La Libertad · CIJ · Clubes STEAM y Cursos Técnicos
+
+Lugar: Costa Rica Centro Infantil y Juvenil · Parque La Libertad
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Rango general de 7 a 25 años. Confirmar edad del grupo elegido.
+Matvey: Condicional. La edad está dentro del rango general. Confirmar el grupo.
+Oscar: No a la edad actual. Los clubes comienzan a los 7 años.
+Formato: regular
+Idioma: Descripción y materiales de CIJ en español. Confirmar el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.
+Limitaciones: Consultar a CIJ grupo vigente, horario, precio, lugar e idioma de las actividades.
+Fuente: https://lalibertadcr.org/centro-infantil-y-juvenil-2/
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -79876,6 +79908,38 @@ Precio: 2026/27 · USD 95 por menor. USD 85 para miembros del museo. · suplemen
 Acceso: Inscripción individual en Explora. Confirmar grado escolar, idioma, plaza y comida.
 Limitaciones: Matvey: Primero cotejar el grado escolar de este programa. Oscar: Condicional. Confirmar equivalencia del grado escolar y disponibilidad. Suplementos: Cuidado antes o después de la sesión por USD 10 por periodo. Consultar comida y equipo. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://www.explora.us/programs/camps/winter-break-camps/
+Se ha comprobado: 2026-11-08
+
+### CP2001-20261212-20261212-dec26 · Maison Pompidou · CoMo-education · Histoires en sons et en mouvements · CoMo-education · Histoires en sons et en mouvements · 2026-12-12–2026-12-12
+
+lugar: Francia · Maison Pompidou · 50 rue Rambuteau · Paris
+Fecha: 2026-12-12 — 2026-12-12
+edad: De 6 a 8 años, menor con un adulto.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: El programa se publica en francés. No se indica el idioma del taller ni apoyo en inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · La tarifa de EUR 8 se publica sin desglose de entrada. Confirmar el precio para una pareja de adulto y menor. · suplementos y condiciones en el dossier
+Acceso: Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa.
+Limitaciones: Matvey: Supera el rango de edad del grupo. Oscar: Condicional. Encaja por edad. Confirmar idioma y plaza. Suplementos: Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1
+Se ha comprobado: 2026-11-08
+
+### CP2002-20261213-20261213-dec26 · Maison Pompidou · Bestio-robot · Bestio-robot · 2026-12-13–2026-12-13
+
+lugar: Francia · Maison Pompidou · 50 rue Rambuteau · Paris
+Fecha: 2026-12-13 — 2026-12-13
+edad: De 7 a 12 años, grupo infantil.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: El programa se publica en francés. No se indica el idioma del taller ni apoyo en inglés o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · La tarifa de EUR 8 se publica sin desglose de entrada. Confirmar el precio para una pareja de adulto y menor. · suplementos y condiciones en el dossier
+Acceso: Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa.
+Limitaciones: Matvey: Condicional. Encaja por edad. Confirmar idioma y plaza. Oscar: Por debajo de la edad mínima del grupo. Suplementos: Elegir fecha y entrada. Confirmar idioma de la actividad, plaza y unidad de la tarifa. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.centrepompidou.fr/fr/programme/agenda/evenement/59A0bR1
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
