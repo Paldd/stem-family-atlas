@@ -1,0 +1,176 @@
+{
+  "version": 289,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C4697",
+    "C4698",
+    "C4699",
+    "C4700",
+    "C4701",
+    "L799",
+    "L800",
+    "C4702",
+    "C4703",
+    "L801",
+    "C4704",
+    "C4705"
+  ],
+  "new_dossiers": [
+    "CP2025",
+    "CP2026"
+  ],
+  "new_dated_variants": 4,
+  "refreshed_event_ids": [
+    "C713",
+    "C714",
+    "C695",
+    "L478",
+    "L479",
+    "L480",
+    "L481",
+    "C099",
+    "L484",
+    "C016",
+    "L482",
+    "C095",
+    "C1477",
+    "C1478",
+    "C2061",
+    "C2062",
+    "C3475",
+    "E245",
+    "L049"
+  ],
+  "legacy_overlay_event_ids": [
+    "C713",
+    "C714",
+    "C695",
+    "L478",
+    "L479",
+    "L480",
+    "L481",
+    "C099",
+    "L484",
+    "C016",
+    "L482",
+    "C095",
+    "C1477",
+    "C1478",
+    "C2061",
+    "C2062",
+    "C3475",
+    "E245",
+    "L049"
+  ],
+  "legacy_overlay_league_ids": [
+    "wro"
+  ],
+  "new_league_profiles": [
+    "fll-honduras-local",
+    "wro-honduras-local"
+  ],
+  "updated_dossiers": [
+    "CP1333",
+    "CP1334",
+    "CP1335",
+    "CP1336",
+    "CP1930",
+    "CP1339",
+    "CP1337"
+  ],
+  "source_requests": 37,
+  "honduras_fll": [
+    "C713",
+    "C714"
+  ],
+  "honduras_fll_roster": "C4697",
+  "honduras_wro": [
+    "C4698",
+    "C4699"
+  ],
+  "wro_smart_warehouse": [
+    "C4700",
+    "C4701"
+  ],
+  "fusalmo_bootcamp": "L799",
+  "fusalmo_age_tracks": [
+    "L478",
+    "L479",
+    "L480",
+    "L481"
+  ],
+  "fusalmo_academy": "L800",
+  "fusalmo_challenge_archive": [
+    "C4702",
+    "C4703"
+  ],
+  "nicaragua_school": "L801",
+  "nicaragua_school_competitions": [
+    "C4704",
+    "C4705"
+  ],
+  "moonlighter_dossier": "CP2026",
+  "country_results": {
+    "HND": {
+      "status": "local_2026_27_fll_rules_and_2026_wro_terms_read",
+      "exact_fll_final_date_unconfirmed": true,
+      "wro_2027_rules_unpublished": true
+    },
+    "SLV": {
+      "status": "national_organizer_calendar_has_holiday_window_no_2027_challenge_date",
+      "campus_schedule_unconfirmed": true
+    },
+    "NIC": {
+      "status": "wro_2027_calendar_pending_school_league_routes_documented",
+      "external_school_access_unconfirmed": true
+    },
+    "GTM": {
+      "status": "official_intecap_in_person_course_rechecked",
+      "course_id": "2026.CST.0780.00/CST.E.07383"
+    },
+    "PAN": {
+      "status": "2027_wro_milestones_rechecked_robotic_latest_dated_page_is_archive",
+      "rules_publication": "2027-01-15",
+      "registration_opens": "2027-01-16"
+    }
+  },
+  "source_limits": [
+    {
+      "event_ids": [
+        "C713",
+        "C714"
+      ],
+      "status": "february_month_only_registration_deadline_unpublished_roster_changes_separate",
+      "roster_change_cutoff": "2026-12-18",
+      "coach_age_sources_disagree_at_21": true
+    },
+    {
+      "event_ids": [
+        "C4698",
+        "C4699"
+      ],
+      "status": "local_2026_terms_do_not_establish_2027_calendar_or_foreign_entry"
+    },
+    {
+      "event_id": "L799",
+      "status": "official_master_plan_window_reposted_campus_offer_price_expired",
+      "launch": "2026-11-16",
+      "instruction_window": [
+        "2026-11-17",
+        "2026-12-19"
+      ],
+      "archived_price_usd": 70,
+      "archive_end": "2026-10-31"
+    },
+    {
+      "event_id": "L800",
+      "status": "program_start_published_original_application_windows_over"
+    },
+    {
+      "programme_id": "CP2026",
+      "status": "ticket_page_and_detailed_schedule_match_municipal_heading_conflicts"
+    }
+  ]
+}

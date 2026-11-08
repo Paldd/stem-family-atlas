@@ -914,9 +914,9 @@ Idioma: ES confirmado para la versión de Miami; idioma y hora del flujo desde e
 Marca de idioma: no clasificada; soporte: no declarada
 Precio: USD297 por 10 Enseñanza; USD27 reservation, Saldo después de las primeras 2 de la página
 Entrada: Diagnóstico/ Solicitud de Calendario InnovaKids; 1:1, pago con tarjeta o PayPal. Participación de CR y tiempo en América/Costa_Rica.
-Limitaciones: Las páginas locales de landing describen un producto en línea, no campamentos físicos separados en cada país, que no se consideran actividades con fecha fija para el futuro.
+Limitaciones: La página de Nicaragua describe 10 clases individuales de 60 minutos, edades de 8–17 años y precio de 297 USD. En las condiciones del país figura el pago completo y también aparece el pago por partes. Confirmar las condiciones del país antes de pagar.
 Fuente: https://www.innovakidslatam.com/co/cursos-vacacionales-ia
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-08
 
 ### ~#L050 · Robotic Minds ♫ Roboticamp Maker Ecuador, próximo juego
 
@@ -7769,66 +7769,66 @@ Se ha comprobado: 2026-11-05
 ### L478 · FUSALMO · Bootcamp Aventura · Comparte
 
 lugar: El Salvador · Soyapango / Santa Ana / San Miguel
-Fecha: Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.
+Fecha: El calendario de FUSALMO marca lanzamiento el 16 de noviembre de 2026 y ventana del 17 de noviembre al 19 de diciembre de 2026. Otras filas muestran 17–20 y 23–27 de noviembre. Confirmar grupos y horario por sede.
 Edad: 4–6
 Matvey: No ahora — fuera del grupo de edad
 Oscar: Condicional — confirmar convocatoria, edad e idioma
 Formato: holiday_workshop
 Idioma: Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.
-Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Precio: La copia del anuncio de Santa Ana publica una promoción de 70 USD hasta el 31 de octubre de 2026. Confirmar precio vigente, salidas, materiales y devoluciones.
+Acceso: Confirmar sede, horario diario, edad en la fecha del taller, idioma, plazas y coste total.
 Limitaciones: Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
 Fuente: https://fusalmo.org/bootcamp-aventura/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### L479 · FUSALMO · Bootcamp Aventura · Sueña
 
 lugar: El Salvador · Soyapango / Santa Ana / San Miguel
-Fecha: Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.
+Fecha: El calendario de FUSALMO marca lanzamiento el 16 de noviembre de 2026 y ventana del 17 de noviembre al 19 de diciembre de 2026. Otras filas muestran 17–20 y 23–27 de noviembre. Confirmar grupos y horario por sede.
 Edad: 7–9
 Matvey: Condicional — confirmar convocatoria, edad e idioma
 Oscar: No ahora — fuera del grupo de edad
 Formato: holiday_workshop
 Idioma: Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.
-Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Precio: La copia del anuncio de Santa Ana publica una promoción de 70 USD hasta el 31 de octubre de 2026. Confirmar precio vigente, salidas, materiales y devoluciones.
+Acceso: Confirmar sede, horario diario, edad en la fecha del taller, idioma, plazas y coste total.
 Limitaciones: Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
 Fuente: https://fusalmo.org/bootcamp-aventura/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### L480 · FUSALMO · Bootcamp Aventura · Transforma
 
 lugar: El Salvador · Soyapango / Santa Ana / San Miguel
-Fecha: Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.
+Fecha: El calendario de FUSALMO marca lanzamiento el 16 de noviembre de 2026 y ventana del 17 de noviembre al 19 de diciembre de 2026. Otras filas muestran 17–20 y 23–27 de noviembre. Confirmar grupos y horario por sede.
 edad: 10–13
 Matvey: No ahora — fuera del grupo de edad
 Oscar: No ahora — fuera del grupo de edad
 Formato: holiday_workshop
 Idioma: Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.
-Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Precio: La copia del anuncio de Santa Ana publica una promoción de 70 USD hasta el 31 de octubre de 2026. Confirmar precio vigente, salidas, materiales y devoluciones.
+Acceso: Confirmar sede, horario diario, edad en la fecha del taller, idioma, plazas y coste total.
 Limitaciones: Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
 Fuente: https://fusalmo.org/bootcamp-aventura/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### L481 · FUSALMO · Bootcamp Aventura · Crea
 
 lugar: El Salvador · Soyapango / Santa Ana / San Miguel
-Fecha: Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.
+Fecha: El calendario de FUSALMO marca lanzamiento el 16 de noviembre de 2026 y ventana del 17 de noviembre al 19 de diciembre de 2026. Otras filas muestran 17–20 y 23–27 de noviembre. Confirmar grupos y horario por sede.
 Edad: 14*17
 Matvey: No ahora — fuera del grupo de edad
 Oscar: No ahora — fuera del grupo de edad
 Formato: holiday_workshop
 Idioma: Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.
-Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Precio: La copia del anuncio de Santa Ana publica una promoción de 70 USD hasta el 31 de octubre de 2026. Confirmar precio vigente, salidas, materiales y devoluciones.
+Acceso: Confirmar sede, horario diario, edad en la fecha del taller, idioma, plazas y coste total.
 Limitaciones: Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
 Fuente: https://fusalmo.org/bootcamp-aventura/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### L482 · ROBOTEDH · mBot / mBlock Summer Camp
 
@@ -7844,7 +7844,7 @@ Precio: Precio total actual sin publicar en fuentes leídas. Gastos desconocidos
 Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
 Limitaciones: Página del curso menciona expresamente Summer Camp con mBot / mBlock 5: motores, RGB, botón, distancia, línea, trayectorias, AI / vision inicial. Sin fechas, duración, modalidad presencial / remota ni edad mínima de turno concreto. Botley 5+ / Codey Rocky 6+ del catálogo de equipo no acreditan grupo menor de campamento. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
 Fuente: https://robotedhn.tech/curso-de-robotica/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### L483 · ROBOTEDH · Arduino UNO / Tinkercad
 
@@ -7876,7 +7876,7 @@ Precio: Precio total actual sin publicar en fuentes leídas. Gastos desconocidos
 Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
 Limitaciones: Operador ofrece robotics, programming, virtual reality y applied technologies; menciona prototipos virtuales / físicos, 3D printers y VR. Página Cursos sin horario / edad / precio legibles. Campus Virtual no acredita admisión online de niño extranjero. Afirmación «único centro» no usada como ranking independiente. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
 Fuente: https://createch-mind.com/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### L485 · Newtonshow Malaysia · Science from the North Pole
 
@@ -11556,6 +11556,54 @@ Precio: Aún no se confirman el coste total ni las plazas.
 Acceso: Pedir a la fundación horarios por edad, precio y plazas. La radio anunció la matrícula a petición de la fundación. La web de la fundación aún no publica los turnos exactos.
 Limitaciones: Pedir a la fundación horarios por edad, precio y plazas. La radio anunció la matrícula a petición de la fundación. La web de la fundación aún no publica los turnos exactos.
 Fuente: https://fod.ac.cr/
+Se ha comprobado: 2026-11-08
+
+### L799 · FUSALMO · Bootcamp Aventura · 2026
+
+lugar: El Salvador · Soyapango / Santa Ana / San Miguel
+Fecha: 2026-11-17 — 2026-12-19
+edad: Anuncio general para 4–17 años. Los tramos de cada grupo dependen de la sede.
+Matvey: Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso.
+Oscar: Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso.
+Formato: day_camp
+Idioma: Documentos públicos en español. Confirmar el idioma del jurado y del acompañamiento.
+Marca de idioma: materials; apoyo: no declarado
+Precio: La copia del anuncio de Santa Ana publica una promoción de 70 USD hasta el 31 de octubre de 2026. Confirmar precio vigente, salidas, materiales y devoluciones.
+Acceso: Confirmar sede, horario diario, edad en la fecha del taller, idioma, plazas y coste total.
+Limitaciones: El calendario de FUSALMO marca lanzamiento el 16 de noviembre de 2026 y ventana del 17 de noviembre al 19 de diciembre de 2026. Otras filas muestran 17–20 y 23–27 de noviembre. Confirmar grupos y horario por sede.
+Fuente: https://plan.fusalmo.org/calendario
+Se ha comprobado: 2026-11-08
+
+### L800 · FUSALMO · STEAM Maker Academy 2027 · inicio de temporada
+
+lugar: El Salvador · El Salvador
+Fecha: 2026-11-28 — 2026-11-28
+edad: Anuncio general para 4–17 años. Los tramos de cada grupo dependen de la sede.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+formato: day_course
+Idioma: Documentos públicos en español. Confirmar el idioma del jurado y del acompañamiento.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Inicio de Academy según el plan. Las ventanas de inscripción publicadas terminaron en octubre. Consultar si quedan plazas adicionales.
+Limitaciones: Inicio de Academy según el plan. Las ventanas de inscripción publicadas terminaron en octubre. Consultar si quedan plazas adicionales.
+Fuente: https://plan.fusalmo.org/calendario
+Se ha comprobado: 2026-11-08
+
+### L801 · American Nicaraguan School · TigerBot Elementary
+
+lugar: Nicaragua · Managua
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Hay grupo de primaria. Confirmar curso exacto y edad mínima.
+Matvey: Condicional. Confirmar curso escolar, admisión externa, horario e idioma del grupo.
+Oscar: Condicional. Confirmar curso escolar, admisión externa, horario e idioma del grupo.
+formato: day_course
+Idioma: Página en inglés. Confirmar el idioma de la persona instructora del grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Horario publicado del equipo de primaria: lunes y miércoles de 15:00 a 16:30. Inscripción al comienzo del semestre. Confirmar plazas, fechas y acceso de otros colegios.
+Limitaciones: Horario publicado del equipo de primaria: lunes y miércoles de 15:00 a 16:30. Inscripción al comienzo del semestre. Confirmar plazas, fechas y acceso de otros colegios.
+Fuente: https://innovationhub.ans.edu.ni/robotics
 Se ha comprobado: 2026-11-08
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
@@ -80372,6 +80420,70 @@ Precio: 2027 · Tarifa de 8 EUR según la página del taller. Confirmar las plaz
 Acceso: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza.
 Limitaciones: Matvey: No cumple por edad actualmente. Comprobar la edad en la fecha del taller. Oscar: Condicional. Puede asistir si aún tiene 6 años en la fecha del taller. Suplementos: Grupo infantil sin presencia de madres ni padres durante el taller. Elegir fecha y sesión. Confirmar el idioma de la persona instructora y la plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://www-prod.ircam.fr/fr/events/ateliers-numeriques-jeunes-publics-juin2027
+Se ha comprobado: 2026-11-08
+
+### CP2026-20260914-20261019-fall-1 · Moonlighter FabLab · Homeschool STEAM · Fall Package 1 · 2026-09-14–2026-10-19
+
+lugar: Estados Unidos · Moonlighter FabLab · Miami Beach
+Fecha: 2026-09-14 — 2026-10-19
+edad: 7–12 años. Formato de apoyo a la educación en casa.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Página en inglés. Confirmar el idioma de la persona instructora del grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 425 USD por 6 clases. El programa indica un 15% de descuento si se inscribe a varios menores en el mismo paquete. · suplementos y condiciones en el dossier
+Acceso: Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza.
+Limitaciones: Matvey: Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso. Oscar: No cumple por edad actualmente. Guardar para una temporada futura. Suplementos: Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735
+Se ha comprobado: 2026-11-08
+
+### CP2026-20261026-20261207-fall-2 · Moonlighter FabLab · Homeschool STEAM · Fall Package 2 · 2026-10-26–2026-12-07
+
+lugar: Estados Unidos · Moonlighter FabLab · Miami Beach
+Fecha: 2026-10-26 — 2026-12-07
+edad: 7–12 años. Formato de apoyo a la educación en casa.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+formato: day_course
+Idioma: Página en inglés. Confirmar el idioma de la persona instructora del grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 425 USD por 6 clases. El programa indica un 15% de descuento si se inscribe a varios menores en el mismo paquete. · suplementos y condiciones en el dossier
+Acceso: Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza.
+Limitaciones: Matvey: Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso. Oscar: No cumple por edad actualmente. Guardar para una temporada futura. Suplementos: Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735
+Se ha comprobado: 2026-11-08
+
+### CP2026-20270104-20270222-spring-1 · Moonlighter FabLab · Homeschool STEAM · Spring Package 1 · 2027-01-04–2027-02-22
+
+lugar: Estados Unidos · Moonlighter FabLab · Miami Beach
+Fecha: 2027-01-04 — 2027-02-22
+edad: 7–12 años. Formato de apoyo a la educación en casa.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: day_course
+Idioma: Página en inglés. Confirmar el idioma de la persona instructora del grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 425 USD por 6 clases. El programa indica un 15% de descuento si se inscribe a varios menores en el mismo paquete. · suplementos y condiciones en el dossier
+Acceso: Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza.
+Limitaciones: Matvey: Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso. Oscar: Condicional. Edad mínima de 7 años al comienzo del paquete. Suplementos: Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735
+Se ha comprobado: 2026-11-08
+
+### CP2026-20270301-20270412-spring-2 · Moonlighter FabLab · Homeschool STEAM · Spring Package 2 · 2027-03-01–2027-04-12
+
+lugar: Estados Unidos · Moonlighter FabLab · Miami Beach
+Fecha: 2027-03-01 — 2027-04-12
+edad: 7–12 años. Formato de apoyo a la educación en casa.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: day_course
+Idioma: Página en inglés. Confirmar el idioma de la persona instructora del grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 425 USD por 6 clases. El programa indica un 15% de descuento si se inscribe a varios menores en el mismo paquete. · suplementos y condiciones en el dossier
+Acceso: Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza.
+Limitaciones: Matvey: Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso. Oscar: Condicional. Edad mínima de 7 años al comienzo del paquete. Suplementos: Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

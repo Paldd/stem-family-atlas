@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2024,
+    "dossiers": 2026,
     "countries": 126,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 288,
+      "published_2026_27": 289,
       "published_2027": 552,
       "partial_2027": 145,
       "next_unannounced": 414,
@@ -42,13 +42,13 @@
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
-      "regular_programme": 19,
+      "regular_programme": 20,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1
     },
-    "source_urls": 2917
+    "source_urls": 2924
   },
   "countries": [
     {
@@ -353,7 +353,7 @@
     },
     {
       "country": "Никарагуа",
-      "count": 1
+      "count": 2
     },
     {
       "country": "Новая Зеландия",
@@ -441,7 +441,7 @@
     },
     {
       "country": "Соединенные Штаты Америки",
-      "count": 158
+      "count": 159
     },
     {
       "country": "Сьерра-Леоне",
@@ -192377,7 +192377,7 @@
       "language_evidence_role": "unconfirmed",
       "timing": {
         "status": "partial_2026",
-        "label": "План Maestro 2026: начало 16 ноября, общий интервал 17 ноября – 19 декабря; есть перекрывающиеся строки 17–20 и 23–27 ноября. Это план организации, не подтверждённая публичная смена. Страница набора ещё обещает Academy 2026 и 4,5 недели: новый договор / расписание неизвестны. Старые часы Пн–Чт 08–12, пятница выезд не перенесены в новый календарь.",
+        "label": "В календаре FUSALMO запуск 16 ноября 2026, окно занятий 17 ноября – 19 декабря 2026. Отдельные строки показывают 17–20 и 23–27 ноября. Группы и расписание каждой площадки уточнить.",
         "sessions": [],
         "session_details": [],
         "variant_keyed": true,
@@ -192387,6 +192387,11 @@
             "end": "2026-12-19",
             "status": "organizational_plan_only"
           }
+        ],
+        "precision": "announced_month",
+        "announced_months": [
+          "2026-11",
+          "2026-12"
         ]
       },
       "price": {
@@ -192394,7 +192399,7 @@
         "currency": "",
         "amount": null,
         "unit": "programme",
-        "label": "Архивная страница обещает $100, 20% скидку, материалы, выезды и стипендию Academy 2026. Код валюты, срок акции и цена Bootcamp конца 2026 не установлены; $100 не применены к новой смене и не добавлены как действующая смета.",
+        "label": "В копии объявления филиала Santa Ana опубликована акция 70 USD до 31 октября 2026. Действующая цена, выезды, материалы и возврат требуют подтверждения.",
         "included": "Текущая полная цена не опубликована в прочитанных источниках. Неизвестные расходы не считаются нулём.",
         "extras": "Текущая полная цена не опубликована в прочитанных источниках. Неизвестные расходы не считаются нулём.",
         "deposit": "Текущая полная цена не опубликована в прочитанных источниках. Неизвестные расходы не считаются нулём."
@@ -192424,20 +192429,33 @@
         {
           "title": "Organizational Plan Maestro 2026; overlapping planning windows",
           "url": "https://plan.fusalmo.org/calendario",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "Challenge selection is separate from Bootcamp admission",
           "url": "https://fusalmo.org/steam-maker-challenge-fusalmo-2/",
           "checked": "2026-11-05"
+        },
+        {
+          "url": "https://www.schoolandcollegelistings.com/SV/Santa-Ana/162968080459687/%28FUSALMO%29-SANTA-ANA",
+          "title": "Публичный репост объявления филиала Santa Ana.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://plan.fusalmo.org/calendario?anio=2",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "availability": {
         "status": "unknown",
         "label": "Подтвердить новый набор, место, класс / возраст, приём внешних и иностранных детей, уровень после трёх лет соревнований, язык, оборудование и полный счёт. Заявки, согласия, сообщения и оплаты не выполнялись."
       },
-      "programme_type": "holiday_camp"
+      "programme_type": "holiday_camp",
+      "related_event_ids": [
+        "L799"
+      ]
     },
     {
       "id": "CP1334",
@@ -192462,7 +192480,7 @@
       "language_evidence_role": "unconfirmed",
       "timing": {
         "status": "partial_2026",
-        "label": "План Maestro 2026: начало 16 ноября, общий интервал 17 ноября – 19 декабря; есть перекрывающиеся строки 17–20 и 23–27 ноября. Это план организации, не подтверждённая публичная смена. Страница набора ещё обещает Academy 2026 и 4,5 недели: новый договор / расписание неизвестны. Старые часы Пн–Чт 08–12, пятница выезд не перенесены в новый календарь.",
+        "label": "В календаре FUSALMO запуск 16 ноября 2026, окно занятий 17 ноября – 19 декабря 2026. Отдельные строки показывают 17–20 и 23–27 ноября. Группы и расписание каждой площадки уточнить.",
         "sessions": [],
         "session_details": [],
         "variant_keyed": true,
@@ -192472,6 +192490,11 @@
             "end": "2026-12-19",
             "status": "organizational_plan_only"
           }
+        ],
+        "precision": "announced_month",
+        "announced_months": [
+          "2026-11",
+          "2026-12"
         ]
       },
       "price": {
@@ -192479,7 +192502,7 @@
         "currency": "",
         "amount": null,
         "unit": "programme",
-        "label": "Архивная страница обещает $100, 20% скидку, материалы, выезды и стипендию Academy 2026. Код валюты, срок акции и цена Bootcamp конца 2026 не установлены; $100 не применены к новой смене и не добавлены как действующая смета.",
+        "label": "В копии объявления филиала Santa Ana опубликована акция 70 USD до 31 октября 2026. Действующая цена, выезды, материалы и возврат требуют подтверждения.",
         "included": "Текущая полная цена не опубликована в прочитанных источниках. Неизвестные расходы не считаются нулём.",
         "extras": "Текущая полная цена не опубликована в прочитанных источниках. Неизвестные расходы не считаются нулём.",
         "deposit": "Текущая полная цена не опубликована в прочитанных источниках. Неизвестные расходы не считаются нулём."
@@ -192509,20 +192532,33 @@
         {
           "title": "Organizational Plan Maestro 2026; overlapping planning windows",
           "url": "https://plan.fusalmo.org/calendario",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "Challenge selection is separate from Bootcamp admission",
           "url": "https://fusalmo.org/steam-maker-challenge-fusalmo-2/",
           "checked": "2026-11-05"
+        },
+        {
+          "url": "https://www.schoolandcollegelistings.com/SV/Santa-Ana/162968080459687/%28FUSALMO%29-SANTA-ANA",
+          "title": "Публичный репост объявления филиала Santa Ana.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://plan.fusalmo.org/calendario?anio=2",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "availability": {
         "status": "unknown",
         "label": "Подтвердить новый набор, место, класс / возраст, приём внешних и иностранных детей, уровень после трёх лет соревнований, язык, оборудование и полный счёт. Заявки, согласия, сообщения и оплаты не выполнялись."
       },
-      "programme_type": "holiday_camp"
+      "programme_type": "holiday_camp",
+      "related_event_ids": [
+        "L799"
+      ]
     },
     {
       "id": "CP1335",
@@ -192547,7 +192583,7 @@
       "language_evidence_role": "unconfirmed",
       "timing": {
         "status": "partial_2026",
-        "label": "План Maestro 2026: начало 16 ноября, общий интервал 17 ноября – 19 декабря; есть перекрывающиеся строки 17–20 и 23–27 ноября. Это план организации, не подтверждённая публичная смена. Страница набора ещё обещает Academy 2026 и 4,5 недели: новый договор / расписание неизвестны. Старые часы Пн–Чт 08–12, пятница выезд не перенесены в новый календарь.",
+        "label": "В календаре FUSALMO запуск 16 ноября 2026, окно занятий 17 ноября – 19 декабря 2026. Отдельные строки показывают 17–20 и 23–27 ноября. Группы и расписание каждой площадки уточнить.",
         "sessions": [],
         "session_details": [],
         "variant_keyed": true,
@@ -192557,6 +192593,11 @@
             "end": "2026-12-19",
             "status": "organizational_plan_only"
           }
+        ],
+        "precision": "announced_month",
+        "announced_months": [
+          "2026-11",
+          "2026-12"
         ]
       },
       "price": {
@@ -192564,7 +192605,7 @@
         "currency": "",
         "amount": null,
         "unit": "programme",
-        "label": "Архивная страница обещает $100, 20% скидку, материалы, выезды и стипендию Academy 2026. Код валюты, срок акции и цена Bootcamp конца 2026 не установлены; $100 не применены к новой смене и не добавлены как действующая смета.",
+        "label": "В копии объявления филиала Santa Ana опубликована акция 70 USD до 31 октября 2026. Действующая цена, выезды, материалы и возврат требуют подтверждения.",
         "included": "Текущая полная цена не опубликована в прочитанных источниках. Неизвестные расходы не считаются нулём.",
         "extras": "Текущая полная цена не опубликована в прочитанных источниках. Неизвестные расходы не считаются нулём.",
         "deposit": "Текущая полная цена не опубликована в прочитанных источниках. Неизвестные расходы не считаются нулём."
@@ -192594,20 +192635,33 @@
         {
           "title": "Organizational Plan Maestro 2026; overlapping planning windows",
           "url": "https://plan.fusalmo.org/calendario",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "Challenge selection is separate from Bootcamp admission",
           "url": "https://fusalmo.org/steam-maker-challenge-fusalmo-2/",
           "checked": "2026-11-05"
+        },
+        {
+          "url": "https://www.schoolandcollegelistings.com/SV/Santa-Ana/162968080459687/%28FUSALMO%29-SANTA-ANA",
+          "title": "Публичный репост объявления филиала Santa Ana.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://plan.fusalmo.org/calendario?anio=2",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "availability": {
         "status": "unknown",
         "label": "Подтвердить новый набор, место, класс / возраст, приём внешних и иностранных детей, уровень после трёх лет соревнований, язык, оборудование и полный счёт. Заявки, согласия, сообщения и оплаты не выполнялись."
       },
-      "programme_type": "holiday_camp"
+      "programme_type": "holiday_camp",
+      "related_event_ids": [
+        "L799"
+      ]
     },
     {
       "id": "CP1336",
@@ -192632,7 +192686,7 @@
       "language_evidence_role": "unconfirmed",
       "timing": {
         "status": "partial_2026",
-        "label": "План Maestro 2026: начало 16 ноября, общий интервал 17 ноября – 19 декабря; есть перекрывающиеся строки 17–20 и 23–27 ноября. Это план организации, не подтверждённая публичная смена. Страница набора ещё обещает Academy 2026 и 4,5 недели: новый договор / расписание неизвестны. Старые часы Пн–Чт 08–12, пятница выезд не перенесены в новый календарь.",
+        "label": "В календаре FUSALMO запуск 16 ноября 2026, окно занятий 17 ноября – 19 декабря 2026. Отдельные строки показывают 17–20 и 23–27 ноября. Группы и расписание каждой площадки уточнить.",
         "sessions": [],
         "session_details": [],
         "variant_keyed": true,
@@ -192642,6 +192696,11 @@
             "end": "2026-12-19",
             "status": "organizational_plan_only"
           }
+        ],
+        "precision": "announced_month",
+        "announced_months": [
+          "2026-11",
+          "2026-12"
         ]
       },
       "price": {
@@ -192649,7 +192708,7 @@
         "currency": "",
         "amount": null,
         "unit": "programme",
-        "label": "Архивная страница обещает $100, 20% скидку, материалы, выезды и стипендию Academy 2026. Код валюты, срок акции и цена Bootcamp конца 2026 не установлены; $100 не применены к новой смене и не добавлены как действующая смета.",
+        "label": "В копии объявления филиала Santa Ana опубликована акция 70 USD до 31 октября 2026. Действующая цена, выезды, материалы и возврат требуют подтверждения.",
         "included": "Текущая полная цена не опубликована в прочитанных источниках. Неизвестные расходы не считаются нулём.",
         "extras": "Текущая полная цена не опубликована в прочитанных источниках. Неизвестные расходы не считаются нулём.",
         "deposit": "Текущая полная цена не опубликована в прочитанных источниках. Неизвестные расходы не считаются нулём."
@@ -192679,20 +192738,33 @@
         {
           "title": "Organizational Plan Maestro 2026; overlapping planning windows",
           "url": "https://plan.fusalmo.org/calendario",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "Challenge selection is separate from Bootcamp admission",
           "url": "https://fusalmo.org/steam-maker-challenge-fusalmo-2/",
           "checked": "2026-11-05"
+        },
+        {
+          "url": "https://www.schoolandcollegelistings.com/SV/Santa-Ana/162968080459687/%28FUSALMO%29-SANTA-ANA",
+          "title": "Публичный репост объявления филиала Santa Ana.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://plan.fusalmo.org/calendario?anio=2",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "availability": {
         "status": "unknown",
         "label": "Подтвердить новый набор, место, класс / возраст, приём внешних и иностранных детей, уровень после трёх лет соревнований, язык, оборудование и полный счёт. Заявки, согласия, сообщения и оплаты не выполнялись."
       },
-      "programme_type": "holiday_camp"
+      "programme_type": "holiday_camp",
+      "related_event_ids": [
+        "L799"
+      ]
     },
     {
       "id": "CP1337",
@@ -192756,10 +192828,10 @@
         {
           "title": "Hardware ages are not camp admission ages",
           "url": "https://robotedhn.tech/",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "programme_type": "undated_camp"
     },
     {
@@ -192883,7 +192955,7 @@
         {
           "title": "Primary learning centre and programme themes",
           "url": "https://createch-mind.com/",
-          "checked": "2026-11-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "Course index without readable current offers",
@@ -192891,7 +192963,7 @@
           "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "programme_type": "extracurricular_centre"
     },
     {
@@ -306049,6 +306121,524 @@
       "related_event_ids": [
         "L798"
       ]
+    },
+    {
+      "id": "CP2025",
+      "slug": "ans-tigerbot-elementary",
+      "provider": "American Nicaraguan School · TigerBot Elementary",
+      "country": "Никарагуа",
+      "iso": "NIC",
+      "place": "Managua",
+      "age": "Есть начальная школьная группа. Точный класс и минимальный возраст уточнить.",
+      "programme": "SPIKE Prime, конструирование и блочное программирование в начальной группе.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Страница на английском. Язык ведущего конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "regular_programme",
+        "label": "Опубликованный распорядок начальной команды: понедельник и среда 15:00–16:30. Запись в начале семестра. Места, точные даты и приём детей из других школ уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "unknown",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "SPIKE Prime, конструирование и блочное программирование в начальной группе.",
+        "extras": "Условно. Проверить школьный класс, внешний допуск, расписание и язык группы.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Проверить школьный класс, внешний допуск, расписание и язык группы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Проверить школьный класс, внешний допуск, расписание и язык группы."
+        }
+      },
+      "editorial_reason": "Опубликованный распорядок начальной команды: понедельник и среда 15:00–16:30. Запись в начале семестра. Места, точные даты и приём детей из других школ уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://innovationhub.ans.edu.ni/robotics",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.innovationhub.ans.edu.ni/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L801"
+      ]
+    },
+    {
+      "id": "CP2026",
+      "slug": "moonlighter-homeschool-steam-2026-27",
+      "provider": "Moonlighter FabLab · Homeschool STEAM",
+      "country": "Соединенные Штаты Америки",
+      "iso": "USA",
+      "place": "Moonlighter FabLab · Miami Beach",
+      "age": "7–12 лет. Формат поддержки домашнего обучения.",
+      "programme": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Страница на английском. Язык ведущего конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Билетная страница указывает 10:30–13:30, как и подробное расписание города. Заголовок календаря города 4 января 2027 заканчивает встречу в 12:30. Уточнить время выдачи ребёнка у организатора.",
+        "sessions": [
+          [
+            "2026-09-14",
+            "2026-10-19"
+          ],
+          [
+            "2026-10-26",
+            "2026-12-07"
+          ],
+          [
+            "2027-01-04",
+            "2027-02-22"
+          ],
+          [
+            "2027-03-01",
+            "2027-04-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "fall-1",
+            "start": "2026-09-14",
+            "end": "2026-10-19",
+            "label": "Fall Package 1",
+            "price": "425 USD за 6 занятий. В программе указана скидка 15% при записи нескольких детей на тот же пакет.",
+            "source": "https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-09-14",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-09-14T14:30:00Z",
+                "end_utc": "2026-09-14T17:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-09-21",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-09-21T14:30:00Z",
+                "end_utc": "2026-09-21T17:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-09-28",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-09-28T14:30:00Z",
+                "end_utc": "2026-09-28T17:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-05",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-10-05T14:30:00Z",
+                "end_utc": "2026-10-05T17:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-12",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-10-12T14:30:00Z",
+                "end_utc": "2026-10-12T17:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-19",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-10-19T14:30:00Z",
+                "end_utc": "2026-10-19T17:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Пакет из 6 понедельников по опубликованному списку. Подтвердить язык ведущего, правила приёма и место.",
+            "proof": "Билетная страница указывает 10:30–13:30, как и подробное расписание города. Заголовок календаря города 4 января 2027 заканчивает встречу в 12:30. Уточнить время выдачи ребёнка у организатора.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возраст подходит, состав, место и условия допуска нужно подтвердить."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту сейчас. Сохранить на будущий сезон."
+              }
+            },
+            "include_published_past_schedule": true
+          },
+          {
+            "variant_key": "fall-2",
+            "start": "2026-10-26",
+            "end": "2026-12-07",
+            "label": "Fall Package 2",
+            "price": "425 USD за 6 занятий. В программе указана скидка 15% при записи нескольких детей на тот же пакет.",
+            "source": "https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-10-26",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-10-26T14:30:00Z",
+                "end_utc": "2026-10-26T17:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-02",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-11-02T15:30:00Z",
+                "end_utc": "2026-11-02T18:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-09",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-11-09T15:30:00Z",
+                "end_utc": "2026-11-09T18:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-16",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-11-16T15:30:00Z",
+                "end_utc": "2026-11-16T18:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-30",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-11-30T15:30:00Z",
+                "end_utc": "2026-11-30T18:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-07",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2026-12-07T15:30:00Z",
+                "end_utc": "2026-12-07T18:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Пакет из 6 понедельников по опубликованному списку. Подтвердить язык ведущего, правила приёма и место.",
+            "proof": "Билетная страница указывает 10:30–13:30, как и подробное расписание города. Заголовок календаря города 4 января 2027 заканчивает встречу в 12:30. Уточнить время выдачи ребёнка у организатора.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возраст подходит, состав, место и условия допуска нужно подтвердить."
+              },
+              "oscar": {
+                "status": "not_eligible",
+                "detail": "Нет по возрасту сейчас. Сохранить на будущий сезон."
+              }
+            }
+          },
+          {
+            "variant_key": "spring-1",
+            "start": "2027-01-04",
+            "end": "2027-02-22",
+            "label": "Spring Package 1",
+            "price": "425 USD за 6 занятий. В программе указана скидка 15% при записи нескольких детей на тот же пакет.",
+            "source": "https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2027-01-04T15:30:00Z",
+                "end_utc": "2027-01-04T18:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-11",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2027-01-11T15:30:00Z",
+                "end_utc": "2027-01-11T18:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-25",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2027-01-25T15:30:00Z",
+                "end_utc": "2027-01-25T18:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-01",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2027-02-01T15:30:00Z",
+                "end_utc": "2027-02-01T18:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-08",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2027-02-08T15:30:00Z",
+                "end_utc": "2027-02-08T18:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-22",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2027-02-22T15:30:00Z",
+                "end_utc": "2027-02-22T18:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Пакет из 6 понедельников по опубликованному списку. Подтвердить язык ведущего, правила приёма и место.",
+            "proof": "Билетная страница указывает 10:30–13:30, как и подробное расписание города. Заголовок календаря города 4 января 2027 заканчивает встречу в 12:30. Уточнить время выдачи ребёнка у организатора.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возраст подходит, состав, место и условия допуска нужно подтвердить."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Возраст не меньше 7 лет на момент начала пакета."
+              }
+            }
+          },
+          {
+            "variant_key": "spring-2",
+            "start": "2027-03-01",
+            "end": "2027-04-12",
+            "label": "Spring Package 2",
+            "price": "425 USD за 6 занятий. В программе указана скидка 15% при записи нескольких детей на тот же пакет.",
+            "source": "https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-01",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2027-03-01T15:30:00Z",
+                "end_utc": "2027-03-01T18:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-08",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2027-03-08T15:30:00Z",
+                "end_utc": "2027-03-08T18:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-15",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2027-03-15T14:30:00Z",
+                "end_utc": "2027-03-15T17:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-29",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2027-03-29T14:30:00Z",
+                "end_utc": "2027-03-29T17:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-05",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2027-04-05T14:30:00Z",
+                "end_utc": "2027-04-05T17:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-12",
+                "start_time": "10:30",
+                "end_time": "13:30",
+                "timezone": "America/New_York",
+                "start_utc": "2027-04-12T14:30:00Z",
+                "end_utc": "2027-04-12T17:30:00Z",
+                "topic": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Пакет из 6 понедельников по опубликованному списку. Подтвердить язык ведущего, правила приёма и место.",
+            "proof": "Билетная страница указывает 10:30–13:30, как и подробное расписание города. Заголовок календаря города 4 января 2027 заканчивает встречу в 12:30. Уточнить время выдачи ребёнка у организатора.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Условно. Возраст подходит, состав, место и условия допуска нужно подтвердить."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Условно. Возраст не меньше 7 лет на момент начала пакета."
+              }
+            }
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 425,
+        "currency": "USD",
+        "unit": "programme",
+        "label": "425 USD за 6 занятий. В программе указана скидка 15% при записи нескольких детей на тот же пакет.",
+        "included": "Практические STEAM-проекты, презентация результата и ведение журнала работы.",
+        "extras": "Пакет из 6 понедельников по опубликованному списку. Подтвердить язык ведущего, правила приёма и место.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возраст подходит, состав, место и условия допуска нужно подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возраст не меньше 7 лет на момент начала пакета."
+        }
+      },
+      "editorial_reason": "Билетная страница указывает 10:30–13:30, как и подробное расписание города. Заголовок календаря города 4 января 2027 заканчивает встречу в 12:30. Уточнить время выдачи ребёнка у организатора.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://events.miamibeachfl.gov/event/homeschool-steam-sessions-2026-2027/2027-01-04/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://moonlighterfablab.org/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "engineering",
+        "science"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": []
     }
   ],
   "gaps": [
@@ -311374,7 +311964,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 288,
+  "version": 289,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -324609,7 +325199,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2024,
+      "total_dossiers": 2026,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

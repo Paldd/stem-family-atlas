@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10405; competiciones: 4695; eventos: 611; campamentos / programas: 5099. Perfiles de ligas y programas: 301. Fichas de exposiciones grandes y especializadas: 511 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10421; competiciones: 4704; eventos: 611; campamentos / programas: 5106. Perfiles de ligas y programas: 303. Fichas de exposiciones grandes y especializadas: 511 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros específicos para 234 de 249 países y territorios y 0 países con auditoría completa. Revisión del archivo v51: se añadieron 21 fichas y 3 perfiles. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros específicos para 234 de 249 países y territorios y 0 países con
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1929 | 125 | 1295 |
+| América del Norte | 40 | 1936 | 125 | 1302 |
 | América del Sur | 14 | 433 | 45 | 207 |
 | Europa | 54 | 611 | 124 | 1471 |
 | África | 55 | 245 | 32 | 110 |
 | Asia | 50 | 1168 | 153 | 1667 |
 | Oceanía | 25 | 167 | 30 | 334 |
 
-Fichas interregionales o globales sin asignación a un continente: 164. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y su alcance documentado.
+Fichas interregionales o globales sin continente único: 166. América del Norte incluye América Central y el Caribe. Los recuentos describen el inventario de la base y no miden su exhaustividad.
 
-VEX: 814 de 4695 fichas de competición (17.3%). La cobertura está claramente concentrada.
+VEX: 814 de 4704 fichas de competición (17.3%). La cobertura está claramente concentrada.
 
 ## Lo que queda
 
@@ -93,7 +93,7 @@ VEX: 814 de 4695 fichas de competición (17.3%). La cobertura está claramente c
 
 ## ~ Proyecciones de ligas y programas
 
-- **WRO**: 117 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/competition/categories/
+- **WRO**: 119 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/competition/categories/
 - **FIRST**: 312 fichas, 170 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
 - **VEX Robotics**: 814 fichas, 689 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexrobotics.com/official-path
 - **RoboCupJunior**: 7 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://junior.robocup.org/
@@ -327,6 +327,8 @@ VEX: 814 de 4695 fichas de competición (17.3%). La cobertura está claramente c
 - **Virtual Xplore League · Firefly IO**: 6 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://xploreleague.com/virtual/
 - **FIRST LEGO League Morocco · BIOGLOW 2026/27**: 5 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.loop4st.org/fll
 - **UAS4STEM**: 3 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://amablog.modelaircraft.org/uas4stem/
+- **FIRST LEGO League · Honduras**: 3 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firsthonduras.org/bioglow-2026
+- **World Robot Olympiad · Honduras**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wrohonduras.org/wro-2026
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf

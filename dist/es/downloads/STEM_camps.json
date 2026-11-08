@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5099,
-      "holiday": 4720,
+      "records": 5106,
+      "holiday": 4721,
       "regular": 170,
       "self_paced_materials": 4,
       "boarding": 1038,
@@ -3265,9 +3265,9 @@
       "action": "Confirmar el flujo español Matvey, el cinturón horario CR, las herramientas y las condiciones de cancelación; para Oscar el curso no es adecuado",
       "source": "https://www.innovakidslatam.com/co/cursos-vacacionales-ia",
       "proof": "se ha leído la página oficial del programa; las restricciones se indican en la tarjeta",
-      "checked": "2026-09-30",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "Las páginas de destino locales describen un producto en línea, no un campamento físico en cada país. Esta tarjeta no se considera un evento con una fecha fija en el futuro.",
+      "note": "La página de Nicaragua describe 10 clases individuales de 60 minutos, edades de 8–17 años y precio de 297 USD. En las condiciones del país figura el pago completo y también aparece el pago por partes. Confirmar las condiciones del país antes de pagar.",
       "themes": [
         "ai",
         "games",
@@ -3280,6 +3280,10 @@
         {
           "label": "Miami: español directamente indicado (leído)",
           "url": "https://www.innovakidslatam.com/us/miami"
+        },
+        {
+          "url": "https://www.innovakidslatam.com/ni",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "iso": []
@@ -28560,24 +28564,24 @@
       "city": "Soyapango / Santa Ana / San Miguel",
       "start": "",
       "end": "",
-      "period": "Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.",
-      "date_status": "No se ha anunciado",
+      "period": "El calendario de FUSALMO marca lanzamiento el 16 de noviembre de 2026 y ventana del 17 de noviembre al 19 de diciembre de 2026. Otras filas muestran 17–20 y 23–27 de noviembre. Confirmar grupos y horario por sede.",
+      "date_status": "Anunciado",
       "deadline": "",
       "age": "4–6",
       "mat": "No ahora — fuera del grupo de edad",
       "osc": "Condicional — confirmar convocatoria, edad e idioma",
       "format": "Programa diurno sin residencia.",
-      "entry": "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "entry": "Confirmar sede, horario diario, edad en la fecha del taller, idioma, plazas y coste total.",
       "gear": "Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren.",
       "language": "Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.",
-      "cost": "Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.",
+      "cost": "La copia del anuncio de Santa Ana publica una promoción de 70 USD hasta el 31 de octubre de 2026. Confirmar precio vigente, salidas, materiales y devoluciones.",
       "level": "D — programa educativo local",
       "reward": "Proyectos educativos y certificado no acreditan victoria competitiva internacional.",
       "priority": "P3 — confirmar condiciones",
-      "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "action": "Confirmar sede, horario diario, edad en la fecha del taller, idioma, plazas y coste total.",
       "source": "https://fusalmo.org/bootcamp-aventura/",
       "proof": "Fuente oficial leída; condiciones desconocidas conservadas expresamente.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
       "iso": [
@@ -28596,7 +28600,7 @@
       "participation": "holiday_workshop",
       "admission_kind": "unknown",
       "evidence_level": "event_page",
-      "date_scope": "next_season_watch",
+      "date_scope": "programme_watch",
       "references": [
         {
           "label": "Public Bootcamp page still targets Academy 2026",
@@ -28609,10 +28613,22 @@
         {
           "label": "Challenge selection is separate from Bootcamp admission",
           "url": "https://fusalmo.org/steam-maker-challenge-fusalmo-2/"
+        },
+        {
+          "url": "https://www.schoolandcollegelistings.com/SV/Santa-Ana/162968080459687/%28FUSALMO%29-SANTA-ANA",
+          "label": "Reedición pública del anuncio de la sede Santa Ana."
         }
       ],
       "camp_programme_id": "CP1333",
-      "camp_dossier_slug": "fusalmo-bootcamp-comparte"
+      "camp_dossier_slug": "fusalmo-bootcamp-comparte",
+      "related_ids": [
+        "L799"
+      ],
+      "date_precision": "month",
+      "announced_months": [
+        "2026-11",
+        "2026-12"
+      ]
     },
     {
       "id": "L479",
@@ -28623,24 +28639,24 @@
       "city": "Soyapango / Santa Ana / San Miguel",
       "start": "",
       "end": "",
-      "period": "Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.",
-      "date_status": "No se ha anunciado",
+      "period": "El calendario de FUSALMO marca lanzamiento el 16 de noviembre de 2026 y ventana del 17 de noviembre al 19 de diciembre de 2026. Otras filas muestran 17–20 y 23–27 de noviembre. Confirmar grupos y horario por sede.",
+      "date_status": "Anunciado",
       "deadline": "",
       "age": "7–9",
       "mat": "Condicional — confirmar convocatoria, edad e idioma",
       "osc": "No ahora — fuera del grupo de edad",
       "format": "Programa diurno sin residencia.",
-      "entry": "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "entry": "Confirmar sede, horario diario, edad en la fecha del taller, idioma, plazas y coste total.",
       "gear": "Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren.",
       "language": "Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.",
-      "cost": "Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.",
+      "cost": "La copia del anuncio de Santa Ana publica una promoción de 70 USD hasta el 31 de octubre de 2026. Confirmar precio vigente, salidas, materiales y devoluciones.",
       "level": "D — programa educativo local",
       "reward": "Proyectos educativos y certificado no acreditan victoria competitiva internacional.",
       "priority": "P3 — confirmar condiciones",
-      "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "action": "Confirmar sede, horario diario, edad en la fecha del taller, idioma, plazas y coste total.",
       "source": "https://fusalmo.org/bootcamp-aventura/",
       "proof": "Fuente oficial leída; condiciones desconocidas conservadas expresamente.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
       "iso": [
@@ -28659,7 +28675,7 @@
       "participation": "holiday_workshop",
       "admission_kind": "unknown",
       "evidence_level": "event_page",
-      "date_scope": "next_season_watch",
+      "date_scope": "programme_watch",
       "references": [
         {
           "label": "Public Bootcamp page still targets Academy 2026",
@@ -28672,10 +28688,22 @@
         {
           "label": "Challenge selection is separate from Bootcamp admission",
           "url": "https://fusalmo.org/steam-maker-challenge-fusalmo-2/"
+        },
+        {
+          "url": "https://www.schoolandcollegelistings.com/SV/Santa-Ana/162968080459687/%28FUSALMO%29-SANTA-ANA",
+          "label": "Reedición pública del anuncio de la sede Santa Ana."
         }
       ],
       "camp_programme_id": "CP1334",
-      "camp_dossier_slug": "fusalmo-bootcamp-sueña"
+      "camp_dossier_slug": "fusalmo-bootcamp-sueña",
+      "related_ids": [
+        "L799"
+      ],
+      "date_precision": "month",
+      "announced_months": [
+        "2026-11",
+        "2026-12"
+      ]
     },
     {
       "id": "L480",
@@ -28686,24 +28714,24 @@
       "city": "Soyapango / Santa Ana / San Miguel",
       "start": "",
       "end": "",
-      "period": "Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.",
-      "date_status": "No se ha anunciado",
+      "period": "El calendario de FUSALMO marca lanzamiento el 16 de noviembre de 2026 y ventana del 17 de noviembre al 19 de diciembre de 2026. Otras filas muestran 17–20 y 23–27 de noviembre. Confirmar grupos y horario por sede.",
+      "date_status": "Anunciado",
       "deadline": "",
       "age": "10–13",
       "mat": "No ahora — fuera del grupo de edad",
       "osc": "No ahora — fuera del grupo de edad",
       "format": "Programa diurno sin residencia.",
-      "entry": "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "entry": "Confirmar sede, horario diario, edad en la fecha del taller, idioma, plazas y coste total.",
       "gear": "Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren.",
       "language": "Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.",
-      "cost": "Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.",
+      "cost": "La copia del anuncio de Santa Ana publica una promoción de 70 USD hasta el 31 de octubre de 2026. Confirmar precio vigente, salidas, materiales y devoluciones.",
       "level": "D — programa educativo local",
       "reward": "Proyectos educativos y certificado no acreditan victoria competitiva internacional.",
       "priority": "P3 — confirmar condiciones",
-      "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "action": "Confirmar sede, horario diario, edad en la fecha del taller, idioma, plazas y coste total.",
       "source": "https://fusalmo.org/bootcamp-aventura/",
       "proof": "Fuente oficial leída; condiciones desconocidas conservadas expresamente.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
       "iso": [
@@ -28722,7 +28750,7 @@
       "participation": "holiday_workshop",
       "admission_kind": "unknown",
       "evidence_level": "event_page",
-      "date_scope": "next_season_watch",
+      "date_scope": "programme_watch",
       "references": [
         {
           "label": "Public Bootcamp page still targets Academy 2026",
@@ -28735,10 +28763,22 @@
         {
           "label": "Challenge selection is separate from Bootcamp admission",
           "url": "https://fusalmo.org/steam-maker-challenge-fusalmo-2/"
+        },
+        {
+          "url": "https://www.schoolandcollegelistings.com/SV/Santa-Ana/162968080459687/%28FUSALMO%29-SANTA-ANA",
+          "label": "Reedición pública del anuncio de la sede Santa Ana."
         }
       ],
       "camp_programme_id": "CP1335",
-      "camp_dossier_slug": "fusalmo-bootcamp-transforma"
+      "camp_dossier_slug": "fusalmo-bootcamp-transforma",
+      "related_ids": [
+        "L799"
+      ],
+      "date_precision": "month",
+      "announced_months": [
+        "2026-11",
+        "2026-12"
+      ]
     },
     {
       "id": "L481",
@@ -28749,24 +28789,24 @@
       "city": "Soyapango / Santa Ana / San Miguel",
       "start": "",
       "end": "",
-      "period": "Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.",
-      "date_status": "No se ha anunciado",
+      "period": "El calendario de FUSALMO marca lanzamiento el 16 de noviembre de 2026 y ventana del 17 de noviembre al 19 de diciembre de 2026. Otras filas muestran 17–20 y 23–27 de noviembre. Confirmar grupos y horario por sede.",
+      "date_status": "Anunciado",
       "deadline": "",
       "age": "14–17",
       "mat": "No ahora — fuera del grupo de edad",
       "osc": "No ahora — fuera del grupo de edad",
       "format": "Programa diurno sin residencia.",
-      "entry": "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "entry": "Confirmar sede, horario diario, edad en la fecha del taller, idioma, plazas y coste total.",
       "gear": "Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren.",
       "language": "Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.",
-      "cost": "Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.",
+      "cost": "La copia del anuncio de Santa Ana publica una promoción de 70 USD hasta el 31 de octubre de 2026. Confirmar precio vigente, salidas, materiales y devoluciones.",
       "level": "D — programa educativo local",
       "reward": "Proyectos educativos y certificado no acreditan victoria competitiva internacional.",
       "priority": "P3 — confirmar condiciones",
-      "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "action": "Confirmar sede, horario diario, edad en la fecha del taller, idioma, plazas y coste total.",
       "source": "https://fusalmo.org/bootcamp-aventura/",
       "proof": "Fuente oficial leída; condiciones desconocidas conservadas expresamente.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
       "iso": [
@@ -28785,7 +28825,7 @@
       "participation": "holiday_workshop",
       "admission_kind": "unknown",
       "evidence_level": "event_page",
-      "date_scope": "next_season_watch",
+      "date_scope": "programme_watch",
       "references": [
         {
           "label": "Public Bootcamp page still targets Academy 2026",
@@ -28798,10 +28838,22 @@
         {
           "label": "Challenge selection is separate from Bootcamp admission",
           "url": "https://fusalmo.org/steam-maker-challenge-fusalmo-2/"
+        },
+        {
+          "url": "https://www.schoolandcollegelistings.com/SV/Santa-Ana/162968080459687/%28FUSALMO%29-SANTA-ANA",
+          "label": "Reedición pública del anuncio de la sede Santa Ana."
         }
       ],
       "camp_programme_id": "CP1336",
-      "camp_dossier_slug": "fusalmo-bootcamp-crea"
+      "camp_dossier_slug": "fusalmo-bootcamp-crea",
+      "related_ids": [
+        "L799"
+      ],
+      "date_precision": "month",
+      "announced_months": [
+        "2026-11",
+        "2026-12"
+      ]
     },
     {
       "id": "L482",
@@ -28829,7 +28881,7 @@
       "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
       "source": "https://robotedhn.tech/curso-de-robotica/",
       "proof": "Fuente oficial leída; condiciones desconocidas conservadas expresamente.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Página del curso menciona expresamente Summer Camp con mBot / mBlock 5: motores, RGB, botón, distancia, línea, trayectorias, AI / vision inicial. Sin fechas, duración, modalidad presencial / remota ni edad mínima de turno concreto. Botley 5+ / Codey Rocky 6+ del catálogo de equipo no acreditan grupo menor de campamento. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
       "iso": [
@@ -28941,7 +28993,7 @@
       "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
       "source": "https://createch-mind.com/",
       "proof": "Fuente oficial leída; condiciones desconocidas conservadas expresamente.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Operador ofrece robotics, programming, virtual reality y applied technologies; menciona prototipos virtuales / físicos, 3D printers y VR. Página Cursos sin horario / edad / precio legibles. Campus Virtual no acredita admisión online de niño extranjero. Afirmación «único centro» no usada como ranking independiente. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
       "iso": [
@@ -41543,6 +41595,201 @@
       ],
       "camp_programme_id": "CP2024",
       "camp_dossier_slug": "fod-lideres-futuro-vacaciones-2026-27"
+    },
+    {
+      "id": "L799",
+      "title": "FUSALMO · Bootcamp Aventura · 2026",
+      "block": "Campamentos",
+      "country": "El Salvador",
+      "region": "América Central",
+      "iso": [
+        "SLV"
+      ],
+      "city": "Soyapango / Santa Ana / San Miguel",
+      "start": "2026-11-17",
+      "end": "2026-12-19",
+      "period": "",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://plan.fusalmo.org/calendario",
+      "references": [
+        {
+          "url": "https://fusalmo.org/bootcamp-aventura/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.schoolandcollegelistings.com/SV/Santa-Ana/162968080459687/%28FUSALMO%29-SANTA-ANA",
+          "label": "Reedición pública del anuncio de la sede Santa Ana."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Anuncio general para 4–17 años. Los tramos de cada grupo dependen de la sede.",
+      "mat": "Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso.",
+      "osc": "Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso.",
+      "format": "Actividades STEAM de vacaciones, robótica, programación e impresión 3D.",
+      "entry": "Confirmar sede, horario diario, edad en la fecha del taller, idioma, plazas y coste total.",
+      "gear": "",
+      "language": "Documentos públicos en español. Confirmar el idioma del jurado y del acompañamiento.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Documentos públicos en español. Confirmar el idioma del jurado y del acompañamiento.",
+      "cost": "La copia del anuncio de Santa Ana publica una promoción de 70 USD hasta el 31 de octubre de 2026. Confirmar precio vigente, salidas, materiales y devoluciones.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P1 — inicio local para la familia",
+      "action": "Confirmar sede, horario diario, edad en la fecha del taller, idioma, plazas y coste total.",
+      "note": "El calendario de FUSALMO marca lanzamiento el 16 de noviembre de 2026 y ventana del 17 de noviembre al 19 de diciembre de 2026. Otras filas muestran 17–20 y 23–27 de noviembre. Confirmar grupos y horario por sede.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Actividades STEAM de vacaciones, robótica, programación e impresión 3D.",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "camp_window",
+      "delivery_mode": "in_person",
+      "date_precision": "announced_window",
+      "date_rule": "El calendario de FUSALMO marca lanzamiento el 16 de noviembre de 2026 y ventana del 17 de noviembre al 19 de diciembre de 2026. Otras filas muestran 17–20 y 23–27 de noviembre. Confirmar grupos y horario por sede.",
+      "related_ids": [
+        "L478",
+        "L479",
+        "L480",
+        "L481"
+      ]
+    },
+    {
+      "id": "L800",
+      "title": "FUSALMO · STEAM Maker Academy 2027 · inicio de temporada",
+      "block": "Campamentos",
+      "country": "El Salvador",
+      "region": "América Central",
+      "iso": [
+        "SLV"
+      ],
+      "city": "El Salvador",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://plan.fusalmo.org/calendario",
+      "references": [
+        {
+          "url": "https://fusalmo.org/steam-maker-challenge-fusalmo-2/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://plan.fusalmo.org/calendario?anio=2",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Anuncio general para 4–17 años. Los tramos de cada grupo dependen de la sede.",
+      "mat": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+      "osc": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+      "format": "Actividades STEAM de vacaciones, robótica, programación e impresión 3D.",
+      "entry": "Inicio de Academy según el plan. Las ventanas de inscripción publicadas terminaron en octubre. Consultar si quedan plazas adicionales.",
+      "gear": "",
+      "language": "Documentos públicos en español. Confirmar el idioma del jurado y del acompañamiento.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Documentos públicos en español. Confirmar el idioma del jurado y del acompañamiento.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Inicio de Academy según el plan. Las ventanas de inscripción publicadas terminaron en octubre. Consultar si quedan plazas adicionales.",
+      "note": "Inicio de Academy según el plan. Las ventanas de inscripción publicadas terminaron en octubre. Consultar si quedan plazas adicionales.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Actividades STEAM de vacaciones, robótica, programación e impresión 3D.",
+      "participation": "day_course",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "activity_start",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "L799",
+        "C099"
+      ]
+    },
+    {
+      "id": "L801",
+      "title": "American Nicaraguan School · TigerBot Elementary",
+      "block": "Campamentos",
+      "country": "Nicaragua",
+      "region": "América Central",
+      "iso": [
+        "NIC"
+      ],
+      "city": "Managua",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://innovationhub.ans.edu.ni/robotics",
+      "references": [
+        {
+          "url": "https://www.innovationhub.ans.edu.ni/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Hay grupo de primaria. Confirmar curso exacto y edad mínima.",
+      "mat": "Condicional. Confirmar curso escolar, admisión externa, horario e idioma del grupo.",
+      "osc": "Condicional. Confirmar curso escolar, admisión externa, horario e idioma del grupo.",
+      "format": "SPIKE Prime, construcción y programación por bloques en el grupo de primaria.",
+      "entry": "Horario publicado del equipo de primaria: lunes y miércoles de 15:00 a 16:30. Inscripción al comienzo del semestre. Confirmar plazas, fechas y acceso de otros colegios.",
+      "gear": "",
+      "language": "Página en inglés. Confirmar el idioma de la persona instructora del grupo.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Página en inglés. Confirmar el idioma de la persona instructora del grupo.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Horario publicado del equipo de primaria: lunes y miércoles de 15:00 a 16:30. Inscripción al comienzo del semestre. Confirmar plazas, fechas y acceso de otros colegios.",
+      "note": "Horario publicado del equipo de primaria: lunes y miércoles de 15:00 a 16:30. Inscripción al comienzo del semestre. Confirmar plazas, fechas y acceso de otros colegios.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "SPIKE Prime, construcción y programación por bloques en el grupo de primaria.",
+      "participation": "day_course",
+      "admission_kind": "school_only",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "camp_programme_id": "CP2025",
+      "camp_dossier_slug": "ans-tigerbot-elementary",
+      "related_ids": [
+        "C4704",
+        "C4705"
+      ]
     },
     {
       "id": "CP001-20270606-20270619",
@@ -409780,6 +410027,526 @@
           "start_utc": "2027-06-12T14:00:00Z",
           "end_utc": "2027-06-12T15:00:00Z",
           "topic": "El grupo utiliza movimiento, sonido y sensores interactivos para contar una historia.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2026-20260914-20261019-fall-1",
+      "block": "Campamentos",
+      "title": "Moonlighter FabLab · Homeschool STEAM · Fall Package 1 · 2026-09-14–2026-10-19",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Moonlighter FabLab · Miami Beach",
+      "start": "2026-09-14",
+      "end": "2026-10-19",
+      "period": "La página de entradas indica 10:30–13:30, igual que el horario detallado municipal. La cabecera municipal del 4 de enero de 2027 cierra a las 12:30. Confirmar la hora de recogida con la organización.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–12 años. Formato de apoyo a la educación en casa.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza.",
+      "gear": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+      "language": "Página en inglés. Confirmar el idioma de la persona instructora del grupo.",
+      "cost": "2026/27 · 425 USD por 6 clases. El programa indica un 15% de descuento si se inscribe a varios menores en el mismo paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735",
+      "references": [
+        {
+          "url": "https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://events.miamibeachfl.gov/event/homeschool-steam-sessions-2026-2027/2027-01-04/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://moonlighterfablab.org/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "La página de entradas indica 10:30–13:30, igual que el horario detallado municipal. La cabecera municipal del 4 de enero de 2027 cierra a las 12:30. Confirmar la hora de recogida con la organización.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso. Oscar: No cumple por edad actualmente. Guardar para una temporada futura. Suplementos: Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "technology",
+        "engineering",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Página en inglés. Confirmar el idioma de la persona instructora del grupo.",
+      "participation": "day_course",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "moonlighter-homeschool-steam-2026-27",
+      "camp_programme_id": "CP2026",
+      "sessions": [
+        {
+          "date": "2026-09-14",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2026-09-14T14:30:00Z",
+          "end_utc": "2026-09-14T17:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-09-21",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2026-09-21T14:30:00Z",
+          "end_utc": "2026-09-21T17:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-09-28",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2026-09-28T14:30:00Z",
+          "end_utc": "2026-09-28T17:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-05",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2026-10-05T14:30:00Z",
+          "end_utc": "2026-10-05T17:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-12",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2026-10-12T14:30:00Z",
+          "end_utc": "2026-10-12T17:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-19",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2026-10-19T14:30:00Z",
+          "end_utc": "2026-10-19T17:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2026-20261026-20261207-fall-2",
+      "block": "Campamentos",
+      "title": "Moonlighter FabLab · Homeschool STEAM · Fall Package 2 · 2026-10-26–2026-12-07",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Moonlighter FabLab · Miami Beach",
+      "start": "2026-10-26",
+      "end": "2026-12-07",
+      "period": "La página de entradas indica 10:30–13:30, igual que el horario detallado municipal. La cabecera municipal del 4 de enero de 2027 cierra a las 12:30. Confirmar la hora de recogida con la organización.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–12 años. Formato de apoyo a la educación en casa.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza.",
+      "gear": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+      "language": "Página en inglés. Confirmar el idioma de la persona instructora del grupo.",
+      "cost": "2026/27 · 425 USD por 6 clases. El programa indica un 15% de descuento si se inscribe a varios menores en el mismo paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735",
+      "references": [
+        {
+          "url": "https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://events.miamibeachfl.gov/event/homeschool-steam-sessions-2026-2027/2027-01-04/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://moonlighterfablab.org/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "La página de entradas indica 10:30–13:30, igual que el horario detallado municipal. La cabecera municipal del 4 de enero de 2027 cierra a las 12:30. Confirmar la hora de recogida con la organización.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso. Oscar: No cumple por edad actualmente. Guardar para una temporada futura. Suplementos: Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "technology",
+        "engineering",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Página en inglés. Confirmar el idioma de la persona instructora del grupo.",
+      "participation": "day_course",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "moonlighter-homeschool-steam-2026-27",
+      "camp_programme_id": "CP2026",
+      "sessions": [
+        {
+          "date": "2026-10-26",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2026-10-26T14:30:00Z",
+          "end_utc": "2026-10-26T17:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-02",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2026-11-02T15:30:00Z",
+          "end_utc": "2026-11-02T18:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-09",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2026-11-09T15:30:00Z",
+          "end_utc": "2026-11-09T18:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-16",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2026-11-16T15:30:00Z",
+          "end_utc": "2026-11-16T18:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-30",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2026-11-30T15:30:00Z",
+          "end_utc": "2026-11-30T18:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-07",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2026-12-07T15:30:00Z",
+          "end_utc": "2026-12-07T18:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2026-20270104-20270222-spring-1",
+      "block": "Campamentos",
+      "title": "Moonlighter FabLab · Homeschool STEAM · Spring Package 1 · 2027-01-04–2027-02-22",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Moonlighter FabLab · Miami Beach",
+      "start": "2027-01-04",
+      "end": "2027-02-22",
+      "period": "La página de entradas indica 10:30–13:30, igual que el horario detallado municipal. La cabecera municipal del 4 de enero de 2027 cierra a las 12:30. Confirmar la hora de recogida con la organización.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–12 años. Formato de apoyo a la educación en casa.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza.",
+      "gear": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+      "language": "Página en inglés. Confirmar el idioma de la persona instructora del grupo.",
+      "cost": "2027 · 425 USD por 6 clases. El programa indica un 15% de descuento si se inscribe a varios menores en el mismo paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735",
+      "references": [
+        {
+          "url": "https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://events.miamibeachfl.gov/event/homeschool-steam-sessions-2026-2027/2027-01-04/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://moonlighterfablab.org/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "La página de entradas indica 10:30–13:30, igual que el horario detallado municipal. La cabecera municipal del 4 de enero de 2027 cierra a las 12:30. Confirmar la hora de recogida con la organización.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso. Oscar: Condicional. Edad mínima de 7 años al comienzo del paquete. Suplementos: Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "technology",
+        "engineering",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Página en inglés. Confirmar el idioma de la persona instructora del grupo.",
+      "participation": "day_course",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "moonlighter-homeschool-steam-2026-27",
+      "camp_programme_id": "CP2026",
+      "sessions": [
+        {
+          "date": "2027-01-04",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2027-01-04T15:30:00Z",
+          "end_utc": "2027-01-04T18:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-11",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2027-01-11T15:30:00Z",
+          "end_utc": "2027-01-11T18:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-25",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2027-01-25T15:30:00Z",
+          "end_utc": "2027-01-25T18:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-01",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2027-02-01T15:30:00Z",
+          "end_utc": "2027-02-01T18:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-08",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2027-02-08T15:30:00Z",
+          "end_utc": "2027-02-08T18:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-22",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2027-02-22T15:30:00Z",
+          "end_utc": "2027-02-22T18:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2026-20270301-20270412-spring-2",
+      "block": "Campamentos",
+      "title": "Moonlighter FabLab · Homeschool STEAM · Spring Package 2 · 2027-03-01–2027-04-12",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Moonlighter FabLab · Miami Beach",
+      "start": "2027-03-01",
+      "end": "2027-04-12",
+      "period": "La página de entradas indica 10:30–13:30, igual que el horario detallado municipal. La cabecera municipal del 4 de enero de 2027 cierra a las 12:30. Confirmar la hora de recogida con la organización.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–12 años. Formato de apoyo a la educación en casa.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza.",
+      "gear": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+      "language": "Página en inglés. Confirmar el idioma de la persona instructora del grupo.",
+      "cost": "2027 · 425 USD por 6 clases. El programa indica un 15% de descuento si se inscribe a varios menores en el mismo paquete. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735",
+      "references": [
+        {
+          "url": "https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://events.miamibeachfl.gov/event/homeschool-steam-sessions-2026-2027/2027-01-04/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://moonlighterfablab.org/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "La página de entradas indica 10:30–13:30, igual que el horario detallado municipal. La cabecera municipal del 4 de enero de 2027 cierra a las 12:30. Confirmar la hora de recogida con la organización.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso. Oscar: Condicional. Edad mínima de 7 años al comienzo del paquete. Suplementos: Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "technology",
+        "engineering",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Página en inglés. Confirmar el idioma de la persona instructora del grupo.",
+      "participation": "day_course",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "moonlighter-homeschool-steam-2026-27",
+      "camp_programme_id": "CP2026",
+      "sessions": [
+        {
+          "date": "2027-03-01",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2027-03-01T15:30:00Z",
+          "end_utc": "2027-03-01T18:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-08",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2027-03-08T15:30:00Z",
+          "end_utc": "2027-03-08T18:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-15",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2027-03-15T14:30:00Z",
+          "end_utc": "2027-03-15T17:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-29",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2027-03-29T14:30:00Z",
+          "end_utc": "2027-03-29T17:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-05",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2027-04-05T14:30:00Z",
+          "end_utc": "2027-04-05T17:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-12",
+          "start_time": "10:30",
+          "end_time": "13:30",
+          "timezone": "America/New_York",
+          "start_utc": "2027-04-12T14:30:00Z",
+          "end_utc": "2027-04-12T17:30:00Z",
+          "topic": "Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.",
           "ical_timed": true
         }
       ],

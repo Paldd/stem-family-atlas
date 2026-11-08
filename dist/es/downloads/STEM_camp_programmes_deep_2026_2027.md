@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2024 fichas en 126 países. Cada ficha indica las fechas de revisión de sus fuentes.
+Estado de la base: 2026-11-08. 2026 fichas en 126 países. Cada ficha indica las fechas de revisión de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -104640,7 +104640,7 @@ Costa Rica · Coronado · San Rafael
 
 El Salvador · Soyapango / Santa Ana / San Miguel
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** 4–6
 
@@ -104650,9 +104650,9 @@ El Salvador · Soyapango / Santa Ana / San Miguel
 
 **Alojamiento:** Programa diurno sin residencia.
 
-**Fechas / estado:** Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.
+**Fechas / estado:** El calendario de FUSALMO marca lanzamiento el 16 de noviembre de 2026 y ventana del 17 de noviembre al 19 de diciembre de 2026. Otras filas muestran 17–20 y 23–27 de noviembre. Confirmar grupos y horario por sede.
 
-**Precio / año:** 2026 · Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.
+**Precio / año:** 2026 · La copia del anuncio de Santa Ana publica una promoción de 70 USD hasta el 31 de octubre de 2026. Confirmar precio vigente, salidas, materiales y devoluciones.
 
 **Incluido:** Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.
 
@@ -104674,15 +104674,19 @@ El Salvador · Soyapango / Santa Ana / San Miguel
 
 - [Public Bootcamp page still targets Academy 2026](https://fusalmo.org/bootcamp-aventura/) · 2026-11-05
 
-- [Organizational Plan Maestro 2026; overlapping planning windows](https://plan.fusalmo.org/calendario) · 2026-11-05
+- [Organizational Plan Maestro 2026; overlapping planning windows](https://plan.fusalmo.org/calendario) · 2026-11-08
 
 - [Challenge selection is separate from Bootcamp admission](https://fusalmo.org/steam-maker-challenge-fusalmo-2/) · 2026-11-05
+
+- [Reedición pública del anuncio de la sede Santa Ana.](https://www.schoolandcollegelistings.com/SV/Santa-Ana/162968080459687/%28FUSALMO%29-SANTA-ANA) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://plan.fusalmo.org/calendario?anio=2) · 2026-11-08
 
 ## CP1334 · FUSALMO · Bootcamp Aventura · Sueña
 
 El Salvador · Soyapango / Santa Ana / San Miguel
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** 7–9
 
@@ -104692,9 +104696,9 @@ El Salvador · Soyapango / Santa Ana / San Miguel
 
 **Alojamiento:** Programa diurno sin residencia.
 
-**Fechas / estado:** Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.
+**Fechas / estado:** El calendario de FUSALMO marca lanzamiento el 16 de noviembre de 2026 y ventana del 17 de noviembre al 19 de diciembre de 2026. Otras filas muestran 17–20 y 23–27 de noviembre. Confirmar grupos y horario por sede.
 
-**Precio / año:** 2026 · Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.
+**Precio / año:** 2026 · La copia del anuncio de Santa Ana publica una promoción de 70 USD hasta el 31 de octubre de 2026. Confirmar precio vigente, salidas, materiales y devoluciones.
 
 **Incluido:** Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.
 
@@ -104716,15 +104720,19 @@ El Salvador · Soyapango / Santa Ana / San Miguel
 
 - [Public Bootcamp page still targets Academy 2026](https://fusalmo.org/bootcamp-aventura/) · 2026-11-05
 
-- [Organizational Plan Maestro 2026; overlapping planning windows](https://plan.fusalmo.org/calendario) · 2026-11-05
+- [Organizational Plan Maestro 2026; overlapping planning windows](https://plan.fusalmo.org/calendario) · 2026-11-08
 
 - [Challenge selection is separate from Bootcamp admission](https://fusalmo.org/steam-maker-challenge-fusalmo-2/) · 2026-11-05
+
+- [Reedición pública del anuncio de la sede Santa Ana.](https://www.schoolandcollegelistings.com/SV/Santa-Ana/162968080459687/%28FUSALMO%29-SANTA-ANA) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://plan.fusalmo.org/calendario?anio=2) · 2026-11-08
 
 ## CP1335 · FUSALMO · Bootcamp Aventura · Transforma
 
 El Salvador · Soyapango / Santa Ana / San Miguel
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 * Edad:** 10*13
 
@@ -104734,9 +104742,9 @@ El Salvador · Soyapango / Santa Ana / San Miguel
 
 **Alojamiento:** Programa diurno sin residencia.
 
-**Fechas / estado:** Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.
+**Fechas / estado:** El calendario de FUSALMO marca lanzamiento el 16 de noviembre de 2026 y ventana del 17 de noviembre al 19 de diciembre de 2026. Otras filas muestran 17–20 y 23–27 de noviembre. Confirmar grupos y horario por sede.
 
-**Precio / año:** 2026 · Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.
+**Precio / año:** 2026 · La copia del anuncio de Santa Ana publica una promoción de 70 USD hasta el 31 de octubre de 2026. Confirmar precio vigente, salidas, materiales y devoluciones.
 
 **Incluido:** Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.
 
@@ -104758,15 +104766,19 @@ El Salvador · Soyapango / Santa Ana / San Miguel
 
 - [Public Bootcamp page still targets Academy 2026](https://fusalmo.org/bootcamp-aventura/) · 2026-11-05
 
-- [Organizational Plan Maestro 2026; overlapping planning windows](https://plan.fusalmo.org/calendario) · 2026-11-05
+- [Organizational Plan Maestro 2026; overlapping planning windows](https://plan.fusalmo.org/calendario) · 2026-11-08
 
 - [Challenge selection is separate from Bootcamp admission](https://fusalmo.org/steam-maker-challenge-fusalmo-2/) · 2026-11-05
+
+- [Reedición pública del anuncio de la sede Santa Ana.](https://www.schoolandcollegelistings.com/SV/Santa-Ana/162968080459687/%28FUSALMO%29-SANTA-ANA) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://plan.fusalmo.org/calendario?anio=2) · 2026-11-08
 
 ## CP1336 · FUSALMO · Bootcamp Aventura · Crea
 
 El Salvador · Soyapango / Santa Ana / San Miguel
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** 14–17
 
@@ -104776,9 +104788,9 @@ El Salvador · Soyapango / Santa Ana / San Miguel
 
 **Alojamiento:** Programa diurno sin residencia.
 
-**Fechas / estado:** Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.
+**Fechas / estado:** El calendario de FUSALMO marca lanzamiento el 16 de noviembre de 2026 y ventana del 17 de noviembre al 19 de diciembre de 2026. Otras filas muestran 17–20 y 23–27 de noviembre. Confirmar grupos y horario por sede.
 
-**Precio / año:** 2026 · Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.
+**Precio / año:** 2026 · La copia del anuncio de Santa Ana publica una promoción de 70 USD hasta el 31 de octubre de 2026. Confirmar precio vigente, salidas, materiales y devoluciones.
 
 **Incluido:** Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.
 
@@ -104800,15 +104812,19 @@ El Salvador · Soyapango / Santa Ana / San Miguel
 
 - [Public Bootcamp page still targets Academy 2026](https://fusalmo.org/bootcamp-aventura/) · 2026-11-05
 
-- [Organizational Plan Maestro 2026; overlapping planning windows](https://plan.fusalmo.org/calendario) · 2026-11-05
+- [Organizational Plan Maestro 2026; overlapping planning windows](https://plan.fusalmo.org/calendario) · 2026-11-08
 
 - [Challenge selection is separate from Bootcamp admission](https://fusalmo.org/steam-maker-challenge-fusalmo-2/) · 2026-11-05
+
+- [Reedición pública del anuncio de la sede Santa Ana.](https://www.schoolandcollegelistings.com/SV/Santa-Ana/162968080459687/%28FUSALMO%29-SANTA-ANA) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://plan.fusalmo.org/calendario?anio=2) · 2026-11-08
 
 ## CP1337 · ROBOTEDH · mBot / mBlock Summer Camp
 
 Honduras · Jardines del Valle · 27 calle / 9 avenida #33 · San Pedro Sula
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **edad:** Edad de convocatoria sin anunciar; mBot 8+ en página general describe dispositivo, no admisión personal.
 
@@ -104840,7 +104856,7 @@ Honduras · Jardines del Valle · 27 calle / 9 avenida #33 · San Pedro Sula
 
 - [Actual Summer Camp curriculum](https://robotedhn.tech/curso-de-robotica/) · 2026-11-05
 
-- [Hardware ages are not camp admission ages](https://robotedhn.tech/) · 2026-11-05
+- [Hardware ages are not camp admission ages](https://robotedhn.tech/) · 2026-11-08
 
 ## CP1338 · ROBOTEDH · Arduino UNO / Tinkercad
 
@@ -104884,7 +104900,7 @@ Honduras · Online · operator San Pedro Sula
 
 Nicaragua · Km 4½ Carretera a Masaya · Edificio CAR · Managua
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-08
 
 **edad:** Niños y jóvenes; límites numéricos y curso sin publicar.
 
@@ -104914,7 +104930,7 @@ Nicaragua · Km 4½ Carretera a Masaya · Edificio CAR · Managua
 
 ### Fuentes
 
-- [Primary learning centre and programme themes](https://createch-mind.com/) · 2026-11-05
+- [Primary learning centre and programme themes](https://createch-mind.com/) · 2026-11-08
 
 - [Course index without readable current offers](https://createch-mind.com/cursos/) · 2026-11-05
 
@@ -161113,6 +161129,204 @@ Costa Rica · San José
 - [Información sobre el programa comunicada por la fundación.](https://www.panoramadigital.co.cr/matricula-para-los-cursos-del-programa-fod-lideres-del-futuro/) · 2026-11-08
 
 - [Información sobre el programa comunicada por la fundación.](https://elmundo.cr/tendencias/fundacion-omar-dengo-abre-matricula-para-cursos-de-tecnologia-dirigidos-a-ninos-y-adolescentes/) · 2026-11-08
+
+## CP2025 · American Nicaraguan School · TigerBot Elementary
+
+Nicaragua · Managua
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Hay grupo de primaria. Confirmar curso exacto y edad mínima.
+
+**Idioma:** Página en inglés. Confirmar el idioma de la persona instructora del grupo.
+
+**Programa:** SPIKE Prime, construcción y programación por bloques en el grupo de primaria.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Horario publicado del equipo de primaria: lunes y miércoles de 15:00 a 16:30. Inscripción al comienzo del semestre. Confirmar plazas, fechas y acceso de otros colegios.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Incluido:** SPIKE Prime, construcción y programación por bloques en el grupo de primaria.
+
+**Suplementos:** Condicional. Confirmar curso escolar, admisión externa, horario e idioma del grupo.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Confirmar curso escolar, admisión externa, horario e idioma del grupo.
+
+**Oscar:** Condicional. Confirmar curso escolar, admisión externa, horario e idioma del grupo.
+
+**Motivo de selección:** Horario publicado del equipo de primaria: lunes y miércoles de 15:00 a 16:30. Inscripción al comienzo del semestre. Confirmar plazas, fechas y acceso de otros colegios.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://innovationhub.ans.edu.ni/robotics) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.innovationhub.ans.edu.ni/) · 2026-11-08
+
+## CP2026 · Moonlighter FabLab · Homeschool STEAM
+
+Estados Unidos · Moonlighter FabLab · Miami Beach
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–12 años. Formato de apoyo a la educación en casa.
+
+**Idioma:** Página en inglés. Confirmar el idioma de la persona instructora del grupo.
+
+**Programa:** Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** La página de entradas indica 10:30–13:30, igual que el horario detallado municipal. La cabecera municipal del 4 de enero de 2027 cierra a las 12:30. Confirmar la hora de recogida con la organización.
+
+**Precio / año:** 2026 · 425 USD por 6 clases. El programa indica un 15% de descuento si se inscribe a varios menores en el mismo paquete.
+
+**Incluido:** Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+**Suplementos:** Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso.
+
+**Oscar:** Condicional. Edad mínima de 7 años al comienzo del paquete.
+
+**Motivo de selección:** La página de entradas indica 10:30–13:30, igual que el horario detallado municipal. La cabecera municipal del 4 de enero de 2027 cierra a las 12:30. Confirmar la hora de recogida con la organización.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fall Package 1
+
+**Fechas / estado:** 2026-09-14 — 2026-10-19
+
+**Precio:** 425 USD por 6 clases. El programa indica un 15% de descuento si se inscribe a varios menores en el mismo paquete.
+
+**condiciones de participación:** Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza.
+
+- 2026-09-14 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2026-09-21 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2026-09-28 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2026-10-05 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2026-10-12 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2026-10-19 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+**Matvey:** Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso.
+
+**Oscar:** No cumple por edad actualmente. Guardar para una temporada futura.
+
+[fuente](https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735)
+
+### Fall Package 2
+
+**Fechas / estado:** 2026-10-26 — 2026-12-07
+
+**Precio:** 425 USD por 6 clases. El programa indica un 15% de descuento si se inscribe a varios menores en el mismo paquete.
+
+**condiciones de participación:** Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza.
+
+- 2026-10-26 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2026-11-02 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2026-11-09 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2026-11-16 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2026-11-30 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2026-12-07 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+**Matvey:** Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso.
+
+**Oscar:** No cumple por edad actualmente. Guardar para una temporada futura.
+
+[fuente](https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735)
+
+### Spring Package 1
+
+**Fechas / estado:** 2027-01-04 — 2027-02-22
+
+**Precio:** 425 USD por 6 clases. El programa indica un 15% de descuento si se inscribe a varios menores en el mismo paquete.
+
+**condiciones de participación:** Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza.
+
+- 2027-01-04 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2027-01-11 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2027-01-25 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2027-02-01 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2027-02-08 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2027-02-22 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+**Matvey:** Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso.
+
+**Oscar:** Condicional. Edad mínima de 7 años al comienzo del paquete.
+
+[fuente](https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735)
+
+### Spring Package 2
+
+**Fechas / estado:** 2027-03-01 — 2027-04-12
+
+**Precio:** 425 USD por 6 clases. El programa indica un 15% de descuento si se inscribe a varios menores en el mismo paquete.
+
+**condiciones de participación:** Paquete de 6 lunes según la lista publicada. Confirmar idioma de instrucción, requisitos de acceso y plaza.
+
+- 2027-03-01 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2027-03-08 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2027-03-15 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2027-03-29 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2027-04-05 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+- 2027-04-12 · 10:30–13:30 · America/New_York · Proyectos STEAM prácticos, presentación de resultados y documentación del trabajo.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+**Matvey:** Condicional. Cumple por edad, pero se deben confirmar equipo, plaza y requisitos de acceso.
+
+**Oscar:** Condicional. Edad mínima de 7 años al comienzo del paquete.
+
+[fuente](https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.eventbrite.com/e/homeschool-steam-sessions-2026-2027-registration-1996826807735) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://events.miamibeachfl.gov/event/homeschool-steam-sessions-2026-2027/2027-01-04/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://moonlighterfablab.org/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

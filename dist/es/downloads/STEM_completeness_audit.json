@@ -16,11 +16,11 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10405,
-    "competition_cards": 4695,
+    "cards": 10421,
+    "competition_cards": 4704,
     "event_cards": 611,
-    "camp_cards": 5099,
-    "league_profiles": 301,
+    "camp_cards": 5106,
+    "league_profiles": 303,
     "major_exhibition_cards": 511,
     "vex_cards": 814,
     "countries_with_records": 234,
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3390,
+      "total": 3404,
       "countries_with_records": 40,
-      "competitions": 1929,
+      "competitions": 1936,
       "events": 166,
       "major_exhibitions": 125,
-      "camps": 1295,
+      "camps": 1302,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -202,6 +202,8 @@
         "C872",
         "C4641",
         "C4642",
+        "C4700",
+        "C4701",
         "C1566",
         "C1567",
         "C1618",
@@ -238,9 +240,9 @@
         "C1766",
         "C1767"
       ],
-      "cards": 117,
+      "cards": 119,
       "future_dated": 6,
-      "linked_card_count": 117,
+      "linked_card_count": 119,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://wro-association.org/competition/categories/",
       "new": false
@@ -7760,6 +7762,37 @@
       "linked_card_count": 3,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://amablog.modelaircraft.org/uas4stem/",
+      "new": false
+    },
+    {
+      "id": "fll-honduras-local",
+      "name": "FIRST LEGO League · Honduras",
+      "group": "regional",
+      "event_ids": [
+        "C713",
+        "C714",
+        "C4697"
+      ],
+      "cards": 3,
+      "future_dated": 1,
+      "linked_card_count": 3,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://firsthonduras.org/bioglow-2026",
+      "new": false
+    },
+    {
+      "id": "wro-honduras-local",
+      "name": "World Robot Olympiad · Honduras",
+      "group": "regional",
+      "event_ids": [
+        "C4698",
+        "C4699"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://wrohonduras.org/wro-2026",
       "new": false
     },
     {
@@ -15757,7 +15790,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 164,
+  "interregional_cards": 166,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -16794,8 +16827,8 @@
       }
     ],
     "counts": {
-      "records": 5099,
-      "holiday": 4720,
+      "records": 5106,
+      "holiday": 4721,
       "regular": 170,
       "self_paced_materials": 4,
       "boarding": 1038,

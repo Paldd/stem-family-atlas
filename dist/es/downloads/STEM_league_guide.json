@@ -185,7 +185,9 @@
           "C1766",
           "C1767",
           "C4641",
-          "C4642"
+          "C4642",
+          "C4700",
+          "C4701"
         ],
         "legacy_ids": [
           "C006",
@@ -24209,6 +24211,152 @@
         "evidence": "Cotejado con la página oficial y las condiciones publicadas."
       },
       {
+        "id": "fll-honduras-local",
+        "name": "FIRST LEGO League · Honduras",
+        "group": "regional",
+        "age_summary": "Explore 6–10 años, Challenge 9–16 años.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Temporada 2026–2027. Evento nacional en febrero de 2027. Las fechas exactas siguen sin publicarse.",
+        "categories": [
+          {
+            "name": "FIRST LEGO League Honduras — Explore BIOGLOW",
+            "age": "6–10 años.",
+            "team": "3–6 menores y 1–2 mentores. Las reglas exigen más de 21 años y el formulario indica 21+. Confirmar el umbral para una persona adulta de 21 años.",
+            "hardware": "Kit LEGO de temporada y robot programable según la categoría.",
+            "age_rule": "6–10 años.",
+            "entry": "Formar un equipo con mentoría. Las reglas contemplan equipos independientes. Confirmar con Fundación STEM Honduras admisión desde el extranjero, plazo y tarifa vigente."
+          },
+          {
+            "name": "FIRST LEGO League Honduras — Challenge BIOGLOW",
+            "age": "9–16 años.",
+            "team": "3–8 menores y 1–2 mentores. Las reglas exigen más de 21 años y el formulario indica 21+. Confirmar el umbral para una persona adulta de 21 años.",
+            "hardware": "Kit LEGO de temporada y robot programable según la categoría.",
+            "age_rule": "9–16 años.",
+            "entry": "Formar un equipo con mentoría. Las reglas contemplan equipos independientes. Confirmar con Fundación STEM Honduras admisión desde el extranjero, plazo y tarifa vigente."
+          }
+        ],
+        "event_ids": [
+          "C713",
+          "C714",
+          "C4697"
+        ],
+        "legacy_ids": [],
+        "route": "Formar un equipo con mentoría. Las reglas contemplan equipos independientes. Confirmar con Fundación STEM Honduras admisión desde el extranjero, plazo y tarifa vigente.",
+        "hardware": "Kit LEGO de temporada y robot programable según la categoría.",
+        "language": "Documentos públicos en español. Confirmar el idioma del jurado y del acompañamiento.",
+        "importance": "Etapa nacional",
+        "strengths": "Temporada 2026–2027. Evento nacional en febrero de 2027. Las fechas exactas siguen sin publicarse.",
+        "requirements": [
+          "Formar un equipo con mentoría. Las reglas contemplan equipos independientes. Confirmar con Fundación STEM Honduras admisión desde el extranjero, plazo y tarifa vigente."
+        ],
+        "nuances": [
+          "Tras el 18 de diciembre de 2026 no se puede modificar el equipo inscrito. Confirmar aparte el plazo para presentar la solicitud.",
+          "Reglas y formulario confirman la temporada 2026–2027. La página principal usa CANOPY y las fichas indican el kit BIOGLOW. El texto de Challenge conserva una referencia a 2025–2026. Confirmar la versión y el kit al inscribirse.",
+          "La organización pide registro de equipo, justificante de pago, consentimientos, partidas de nacimiento y fotografías. Las reglas incluyen condiciones de publicación de fotos y de no devolución por retirada."
+        ],
+        "cost": "Aún no se confirman el coste total ni las plazas.",
+        "award": "Challenge puede optar a World Festival en representación de Honduras. Las reglas indican Champions Award y un mínimo del 60% en el juego del robot. La organización asume solo la cuota del equipo para World Festival. Confirmar los demás gastos.",
+        "sources": [
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://firsthonduras.org/bioglow-2026",
+            "checked": "2026-11-08"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://storage.googleapis.com/te-sitebuilder-sites/user-27168629/sites/48228058/5ae0a4207b8aapRMuZzs/916f27f6e5274b73ad43c0429be99344.js",
+            "checked": "2026-11-08"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://storage.googleapis.com/wzukusers/user-27168629/documents/5ab670177c45442a9ea8c9e5e75995ee/Inscripciones%20FLL%20HN%202026-2027.docx",
+            "checked": "2026-11-08"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://storage.googleapis.com/wzukusers/user-27168629/documents/67bc89aba3214f6798d88c2e72f86e4e/Te%CC%81rminos%20y%20Condiciones%20FIRST%20LEGO%20LEAGUE%20REV%2012092025.docx",
+            "checked": "2026-11-08"
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
+        "id": "wro-honduras-local",
+        "name": "World Robot Olympiad · Honduras",
+        "group": "regional",
+        "age_summary": "8–12 años según la categoría internacional Elementary.",
+        "age_tags": [
+          "9",
+          "10-12"
+        ],
+        "summary": "Las reglas hondureñas de 2026 contemplaban equipos independientes. Para una plaza internacional se exigía al menos el 80% según las condiciones nacionales. Siguen sin confirmarse fechas y plazas de la siguiente temporada.",
+        "categories": [
+          {
+            "name": "WRO Honduras · RoboMission Elementary",
+            "age": "8–12 años según la categoría internacional Elementary.",
+            "team": "En las reglas de 2026: equipo de 2–3 estudiantes y mentor mayor de 21 años.",
+            "hardware": "",
+            "age_rule": "8–12 años según la categoría internacional Elementary.",
+            "entry": "Cotejar inscripción de 2027 y requisitos para equipo independiente, representación local y participantes extranjeros. La edad se verifica con las reglas de la nueva temporada."
+          },
+          {
+            "name": "WRO Honduras · Future Innovators Elementary",
+            "age": "8–12 años según la categoría internacional Elementary.",
+            "team": "En las reglas de 2026: equipo de 2–3 estudiantes y mentor mayor de 21 años.",
+            "hardware": "",
+            "age_rule": "8–12 años según la categoría internacional Elementary.",
+            "entry": "Cotejar inscripción de 2027 y requisitos para equipo independiente, representación local y participantes extranjeros. La edad se verifica con las reglas de la nueva temporada."
+          }
+        ],
+        "event_ids": [
+          "C4698",
+          "C4699"
+        ],
+        "legacy_ids": [],
+        "route": "Cotejar inscripción de 2027 y requisitos para equipo independiente, representación local y participantes extranjeros. La edad se verifica con las reglas de la nueva temporada.",
+        "hardware": "Robot, campo o proyecto según la categoría.",
+        "language": "Documentos públicos en español. Confirmar el idioma del jurado y del acompañamiento.",
+        "importance": "Etapa nacional",
+        "strengths": "Las reglas hondureñas de 2026 contemplaban equipos independientes. Para una plaza internacional se exigía al menos el 80% según las condiciones nacionales. Siguen sin confirmarse fechas y plazas de la siguiente temporada.",
+        "requirements": [
+          "Cotejar inscripción de 2027 y requisitos para equipo independiente, representación local y participantes extranjeros. La edad se verifica con las reglas de la nueva temporada."
+        ],
+        "nuances": [
+          "En las reglas de 2026: equipo de 2–3 estudiantes y mentor mayor de 21 años.",
+          "Las reglas hondureñas de 2026 contemplaban equipos independientes. Para una plaza internacional se exigía al menos el 80% según las condiciones nacionales. Siguen sin confirmarse fechas y plazas de la siguiente temporada."
+        ],
+        "cost": "Aún no se confirman el coste total ni las plazas.",
+        "award": "Clasificación local según las reglas nacionales.",
+        "sources": [
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://wrohonduras.org/wro-2026",
+            "checked": "2026-11-08"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://storage.googleapis.com/te-sitebuilder-sites/user-27168629/sites/44887844/58c315e20730db2appA4/2a54a977e1b645e99d7500b6a2dd66cb.js",
+            "checked": "2026-11-08"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://storage.googleapis.com/wzukusers/user-27168629/documents/0d7d7df656db45a3bdc566b31dfa004a/T%C3%A9rminos%20y%20Condiciones%20WRO2026%2025032026.pdf",
+            "checked": "2026-11-08"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://wro-association.org/about-wro/association/member-countries/",
+            "checked": "2026-11-08"
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -29485,7 +29633,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 301. Se conservan las 46 rutas anteriores. Los formatos brasileños aparecen por separado y Robofest LATAM y BajaBot se describen por categoría. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 303. Se conservan las 46 rutas previas. Los formatos brasileños se separan, y Robofest LATAM y BajaBot tienen categorías propias. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",
