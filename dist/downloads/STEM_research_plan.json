@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 280,
+    "version": 281,
     "status": "implementation_snapshot",
-    "events": 10272,
-    "competitions": 4648,
+    "events": 10280,
+    "competitions": 4650,
     "league_profiles": 299,
-    "camp_dossiers": 1986,
+    "camp_dossiers": 1987,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 571,
+    "exhibitions_events": 575,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 279,
+    "version": 280,
     "status": "implementation_snapshot",
-    "events": 10246,
-    "competitions": 4641,
+    "events": 10272,
+    "competitions": 4648,
     "league_profiles": 299,
-    "camp_dossiers": 1979,
+    "camp_dossiers": 1986,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 568,
+    "exhibitions_events": 571,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 280,
+    "prepared_ui_version": 281,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 279,
-    "previous_verified_commit": "fd65741785ca52ac6f7e373c2855fca6ba0827c2"
+    "previous_verified_ui_version": 280,
+    "previous_verified_commit": "145d0961f00ff9364bf0cc54eadb6e8db0dec42d"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 279,
-    "published_version": 279,
-    "latest_source_commit": "fd65741785ca52ac6f7e373c2855fca6ba0827c2",
-    "published_commit": "fd65741785ca52ac6f7e373c2855fca6ba0827c2",
-    "latest_workflow": 42481193183,
+    "latest_source_version": 280,
+    "published_version": 280,
+    "latest_source_commit": "145d0961f00ff9364bf0cc54eadb6e8db0dec42d",
+    "published_commit": "145d0961f00ff9364bf0cc54eadb6e8db0dec42d",
+    "latest_workflow": 42483135972,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -27880,5 +27880,140 @@
     ],
     "audit": "data/africa-robotics-and-education-audit-v280.json",
     "source_receipts": "data/africa-robotics-and-education-source-receipts-v280.json"
+  },
+  "nearby_exhibitions_and_online_programmes_v281": {
+    "version": 281,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E572",
+      "E573",
+      "E574",
+      "E575",
+      "C4650",
+      "C4651"
+    ],
+    "new_dossiers": [
+      "CP1987"
+    ],
+    "new_dated_variants": 2,
+    "refreshed_event_ids": [
+      "C020",
+      "C608",
+      "C609",
+      "E294",
+      "C1171",
+      "C1172",
+      "C1173",
+      "C1174",
+      "C1175",
+      "C1176",
+      "C1177",
+      "C1178",
+      "C1179",
+      "C039",
+      "C843",
+      "C4587",
+      "C4586"
+    ],
+    "legacy_overlay_event_ids": [
+      "C020",
+      "C608",
+      "C609",
+      "E294",
+      "C1171",
+      "C1172",
+      "C1173",
+      "C1174",
+      "C1175",
+      "C1176",
+      "C1177",
+      "C1178",
+      "C1179",
+      "C039",
+      "C843",
+      "C4587",
+      "C4586"
+    ],
+    "source_requests": 22,
+    "roll": "E572",
+    "meep": "E573",
+    "makex_visit": "E574",
+    "expotec": "E294",
+    "tec_week": "E575",
+    "ckc_events": [
+      "C4650",
+      "C4651"
+    ],
+    "robojam": [
+      "C1171",
+      "C1172",
+      "C1173",
+      "C1174",
+      "C1175",
+      "C1176",
+      "C1177",
+      "C1178",
+      "C1179"
+    ],
+    "new_hope_english": "CP1987",
+    "new_hope_steam": "CP1890",
+    "online_refresh": [
+      "C039",
+      "C843",
+      "C4586",
+      "C4587"
+    ],
+    "source_conflicts": [
+      {
+        "event_ids": [
+          "C1171",
+          "C1172",
+          "C1173",
+          "C1174",
+          "C1175",
+          "C1176",
+          "C1177",
+          "C1178",
+          "C1179"
+        ],
+        "status": "conflicting_dates",
+        "tournament_page": "2027-04-17",
+        "general_calendar": "2027-04-18",
+        "confirmed_start": ""
+      },
+      {
+        "event_id": "E574",
+        "status": "password_required",
+        "ticket_page": "https://www.eventbrite.com.mx/e/1992156449568"
+      },
+      {
+        "programme_id": "CP1987",
+        "status": "direct_current_form_differs_from_search_index",
+        "indexed_windows": [
+          [
+            "2026-12-02",
+            "2026-12-19"
+          ],
+          [
+            "2027-01-05",
+            "2027-01-30"
+          ]
+        ],
+        "direct_windows": [
+          [
+            "2026-12-02",
+            "2026-12-18"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-29"
+          ]
+        ]
+      }
+    ],
+    "audit": "data/nearby-exhibitions-and-online-programmes-audit-v281.json",
+    "source_receipts": "data/nearby-exhibitions-and-online-programmes-source-receipts-v281.json"
   }
 }

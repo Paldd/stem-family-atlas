@@ -79638,6 +79638,38 @@ Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Os
 Fuente: https://wiketechafrica.com/courses/robotics-and-coding-combo-camp-scratch-and-robotics/
 Se ha comprobado: 2026-11-08
 
+### CP1987-20261202-20261218-dec26 · New Hope · Summer Camp English Program · Ventana del programa diurno de inglés · 2026-12-02–2026-12-18
+
+Lugar: Costa Rica Complejo Educativo Bilingüe Nueva Esperanza · Santa Bárbara de Heredia
+Fecha: 2026-12-02 — 2026-12-18
+edad: El formulario pide edad y curso. No indica el intervalo admitido.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El formulario indica clases de inglés y actividades bilingües. Hay que confirmar los idiomas de cada actividad.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2026/27 · No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte. · suplementos y condiciones en el dossier
+Acceso: El sitio incluye un formulario. Hay que confirmar grupos de edad, plazas y admisión de estudiantes de otros centros.
+Limitaciones: Matvey: Confirmar edad, grupo y admisión de estudiantes de otro centro. Oscar: Confirmar edad, grupo y admisión de estudiantes de otro centro. Suplementos: No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://form.jotform.com/252805351014851
+Se ha comprobado: 2026-11-08
+
+### CP1987-20270104-20270129-jan27 · New Hope · Summer Camp English Program · Ventana del programa diurno de inglés · 2027-01-04–2027-01-29
+
+Lugar: Costa Rica Complejo Educativo Bilingüe Nueva Esperanza · Santa Bárbara de Heredia
+Fecha: 2027-01-04 — 2027-01-29
+edad: El formulario pide edad y curso. No indica el intervalo admitido.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: El formulario indica clases de inglés y actividades bilingües. Hay que confirmar los idiomas de cada actividad.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte. · suplementos y condiciones en el dossier
+Acceso: El sitio incluye un formulario. Hay que confirmar grupos de edad, plazas y admisión de estudiantes de otros centros.
+Limitaciones: Matvey: Confirmar edad, grupo y admisión de estudiantes de otro centro. Oscar: Confirmar edad, grupo y admisión de estudiantes de otro centro. Suplementos: No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://form.jotform.com/252805351014851
+Se ha comprobado: 2026-11-08
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi
@@ -81026,7 +81058,7 @@ Idioma: El proyecto se muestra o presenta en inglés. Se permite traducción, su
 Marca de idioma: primary; soporte: no declarado
 Precio: Participación gratuita.
 Acceso: Envío en línea desde cualquier país, individual o hasta 5 integrantes. Para menores de 13, un mentor adulto registra el proyecto.
-Limitaciones: Recepción de proyectos desde 13.01.2027. No consta el cierre. Emisión pública 23.06.2027. Los participantes reciben comentarios y certificado, y el jurado destaca algunos proyectos.
+Limitaciones: Recepción de proyectos desde 13.01.2027. No consta el cierre. Emisión pública 23.06.2027. Los participantes reciben comentarios y certificado, y el jurado destaca algunos proyectos. La galería es pública. El enlace al proyecto debe ser accesible y los comentarios deben desactivarse. Los enlaces de Scratch, MakeCode Arcade y micro:bit no requieren vídeo.
 Fuente: https://online.coolestprojects.org/cp-online-2027
 Se ha comprobado: 2026-11-08
 

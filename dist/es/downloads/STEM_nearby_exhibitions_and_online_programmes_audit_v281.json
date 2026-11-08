@@ -1,0 +1,133 @@
+{
+  "version": 281,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "E572",
+    "E573",
+    "E574",
+    "E575",
+    "C4650",
+    "C4651"
+  ],
+  "new_dossiers": [
+    "CP1987"
+  ],
+  "new_dated_variants": 2,
+  "refreshed_event_ids": [
+    "C020",
+    "C608",
+    "C609",
+    "E294",
+    "C1171",
+    "C1172",
+    "C1173",
+    "C1174",
+    "C1175",
+    "C1176",
+    "C1177",
+    "C1178",
+    "C1179",
+    "C039",
+    "C843",
+    "C4587",
+    "C4586"
+  ],
+  "legacy_overlay_event_ids": [
+    "C020",
+    "C608",
+    "C609",
+    "E294",
+    "C1171",
+    "C1172",
+    "C1173",
+    "C1174",
+    "C1175",
+    "C1176",
+    "C1177",
+    "C1178",
+    "C1179",
+    "C039",
+    "C843",
+    "C4587",
+    "C4586"
+  ],
+  "source_requests": 22,
+  "roll": "E572",
+  "meep": "E573",
+  "makex_visit": "E574",
+  "expotec": "E294",
+  "tec_week": "E575",
+  "ckc_events": [
+    "C4650",
+    "C4651"
+  ],
+  "robojam": [
+    "C1171",
+    "C1172",
+    "C1173",
+    "C1174",
+    "C1175",
+    "C1176",
+    "C1177",
+    "C1178",
+    "C1179"
+  ],
+  "new_hope_english": "CP1987",
+  "new_hope_steam": "CP1890",
+  "online_refresh": [
+    "C039",
+    "C843",
+    "C4586",
+    "C4587"
+  ],
+  "source_conflicts": [
+    {
+      "event_ids": [
+        "C1171",
+        "C1172",
+        "C1173",
+        "C1174",
+        "C1175",
+        "C1176",
+        "C1177",
+        "C1178",
+        "C1179"
+      ],
+      "status": "conflicting_dates",
+      "tournament_page": "2027-04-17",
+      "general_calendar": "2027-04-18",
+      "confirmed_start": ""
+    },
+    {
+      "event_id": "E574",
+      "status": "password_required",
+      "ticket_page": "https://www.eventbrite.com.mx/e/1992156449568"
+    },
+    {
+      "programme_id": "CP1987",
+      "status": "direct_current_form_differs_from_search_index",
+      "indexed_windows": [
+        [
+          "2026-12-02",
+          "2026-12-19"
+        ],
+        [
+          "2027-01-05",
+          "2027-01-30"
+        ]
+      ],
+      "direct_windows": [
+        [
+          "2026-12-02",
+          "2026-12-18"
+        ],
+        [
+          "2027-01-04",
+          "2027-01-29"
+        ]
+      ]
+    }
+  ]
+}

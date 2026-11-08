@@ -9,9 +9,13 @@ for(const lang of ['', 'es/']){
  assert.equal(selection.reviews.length,selection.coverage.review_dossiers);assert.equal(selection.coverage.total_dossiers,guide.profiles.length);
  assert.equal(new Set(selection.reviews.map(r=>r.programme_id)).size,selection.reviews.length);
  for(const r of selection.reviews){assert.equal(new Set(r.criteria.map(c=>c.key)).size,7);assert(r.criteria.every(c=>selection.states[c.state]));assert(guide.profiles.some(p=>p.id===r.programme_id));}
- const directions={matches:(themes,selected)=>!selected||themes.includes(selected),attributes:()=>'',chips:()=>'',kind:()=>''};
- const context={window:{STEM_DIRECTIONS:directions},document:{getElementById:()=>({})},URL,Intl,Date:FixedDate,Set,WeakMap,Map};
+ const context={window:{},document:{getElementById:()=>({})},URL,Intl,Date:FixedDate,Set,WeakMap,Map};
  vm.createContext(context);
+ vm.runInContext(fs.readFileSync(path.join(base,'assets/directions.js'),'utf8'),context);
+ const directions=context.window.STEM_DIRECTIONS;
+ assert(directions.matches(['gaming'],'games'),'The Games filter must include legacy gaming tags');
+ assert.equal(directions.primary(['gaming']).id,'games');
+ assert(!directions.matches(['gaming'],'coding'));
  if(lang){const app=fs.readFileSync(path.join(base,'assets/app.js'),'utf8');const fold=app.match(/^const foldSearch=.*;$/m);assert(fold);vm.runInContext(fold[0],context);}
  vm.runInContext(fs.readFileSync(path.join(base,'assets/camp-planning.js'),'utf8'),context);const M=context.window.STEM_CAMP_PLANNER;
  let ui=fs.readFileSync(path.join(base,'assets/camp-programmes.js'),'utf8');const end=' init();\n})();';assert(ui.includes(end));

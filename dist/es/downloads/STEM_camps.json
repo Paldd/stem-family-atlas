@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5053,
-      "holiday": 4683,
+      "records": 5055,
+      "holiday": 4685,
       "regular": 162,
       "self_paced_materials": 4,
       "boarding": 1038,
@@ -590,7 +590,7 @@
       "family_instruction": 1593,
       "family_support": 28,
       "ru_instruction": 4,
-      "language_lessons": 412,
+      "language_lessons": 414,
       "camp_life_language": 228,
       "language_unclassified": 137,
       "countries": 145
@@ -393253,7 +393253,7 @@
       "period": "El formulario ofrece dos ventanas: 2–18 de diciembre de 2026 y 4–29 de enero de 2027. No publica los días de clase dentro de cada ventana.",
       "date_status": "Confirmado",
       "deadline": "",
-      "age": "El formulario pide edad y curso. No indica el intervalo admitido.",
+      "age": "El formulario solicita edad y grado. No indica el intervalo admitido.",
       "mat": "Condicional; confirmar edad, curso y admisión",
       "osc": "Condicional; confirmar edad, curso y admisión",
       "format": "Formato diurno sin alojamiento.",
@@ -393319,7 +393319,7 @@
       "period": "El formulario ofrece dos ventanas: 2–18 de diciembre de 2026 y 4–29 de enero de 2027. No publica los días de clase dentro de cada ventana.",
       "date_status": "Confirmado",
       "deadline": "",
-      "age": "El formulario pide edad y curso. No indica el intervalo admitido.",
+      "age": "El formulario solicita edad y grado. No indica el intervalo admitido.",
       "mat": "Condicional; confirmar edad, curso y admisión",
       "osc": "Condicional; confirmar edad, curso y admisión",
       "format": "Formato diurno sin alojamiento.",
@@ -406559,6 +406559,136 @@
       "date_rule": "Se publican ventanas mensuales de admisión. Confirmar con el centro los días y horas de clase dentro del mes."
     },
     {
+      "id": "CP1987-20261202-20261218-dec26",
+      "block": "Campamentos",
+      "title": "New Hope · Summer Camp English Program · Ventana del programa diurno de inglés · 2026-12-02–2026-12-18",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Complejo Educativo Bilingüe Nueva Esperanza · Santa Bárbara de Heredia",
+      "start": "2026-12-02",
+      "end": "2026-12-18",
+      "period": "El formulario muestra 2–18 de diciembre de 2026 y 4–29 de enero de 2027. Confirmar los días exactos dentro de cada ventana.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "El formulario solicita edad y grado. No indica el intervalo admitido.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "El sitio incluye un formulario. Hay que confirmar grupos de edad, plazas y admisión de estudiantes de otros centros.",
+      "gear": "Programa diurno de inglés de 07:00 a 12:00. El formulario ofrece un itinerario STEAM independiente con su propio horario.",
+      "language": "El formulario indica clases de inglés y actividades bilingües. Hay que confirmar los idiomas de cada actividad.",
+      "cost": "2026/27 · No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://form.jotform.com/252805351014851",
+      "references": [
+        {
+          "url": "https://form.jotform.com/252805351014851",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://complejonewhope.co.cr/quienes-somos/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Confirmar edad, grupo y admisión de estudiantes de otro centro. Oscar: Confirmar edad, grupo y admisión de estudiantes de otro centro. Suplementos: No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "language_lessons",
+      "language_certainty": "El formulario indica clases de inglés y actividades bilingües. Hay que confirmar los idiomas de cada actividad.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "new-hope-summer-english-2026-27",
+      "camp_programme_id": "CP1987",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "El formulario muestra 2–18 de diciembre de 2026 y 4–29 de enero de 2027. Confirmar los días exactos dentro de cada ventana."
+    },
+    {
+      "id": "CP1987-20270104-20270129-jan27",
+      "block": "Campamentos",
+      "title": "New Hope · Summer Camp English Program · Ventana del programa diurno de inglés · 2027-01-04–2027-01-29",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Complejo Educativo Bilingüe Nueva Esperanza · Santa Bárbara de Heredia",
+      "start": "2027-01-04",
+      "end": "2027-01-29",
+      "period": "El formulario muestra 2–18 de diciembre de 2026 y 4–29 de enero de 2027. Confirmar los días exactos dentro de cada ventana.",
+      "date_status": "Anunciado",
+      "deadline": "",
+      "age": "El formulario solicita edad y grado. No indica el intervalo admitido.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "El sitio incluye un formulario. Hay que confirmar grupos de edad, plazas y admisión de estudiantes de otros centros.",
+      "gear": "Programa diurno de inglés de 07:00 a 12:00. El formulario ofrece un itinerario STEAM independiente con su propio horario.",
+      "language": "El formulario indica clases de inglés y actividades bilingües. Hay que confirmar los idiomas de cada actividad.",
+      "cost": "2027 · No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://form.jotform.com/252805351014851",
+      "references": [
+        {
+          "url": "https://form.jotform.com/252805351014851",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://complejonewhope.co.cr/quienes-somos/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Confirmar edad, grupo y admisión de estudiantes de otro centro. Oscar: Confirmar edad, grupo y admisión de estudiantes de otro centro. Suplementos: No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "language_lessons",
+      "language_certainty": "El formulario indica clases de inglés y actividades bilingües. Hay que confirmar los idiomas de cada actividad.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "announced_window",
+      "camp_dossier_slug": "new-hope-summer-english-2026-27",
+      "camp_programme_id": "CP1987",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      },
+      "date_rule": "El formulario muestra 2–18 de diciembre de 2026 y 4–29 de enero de 2027. Confirmar los días exactos dentro de cada ventana."
+    },
+    {
       "id": "L491",
       "block": "Campamentos",
       "title": "Exupery · Primary Academic Saturday · EIS Campus",
@@ -411266,7 +411396,7 @@
       "proof": "Cotejado con la página oficial y las condiciones publicadas.",
       "checked": "2026-11-08",
       "status": "Idea",
-      "note": "Recepción de proyectos desde 13.01.2027. No consta el cierre. Emisión pública 23.06.2027. Los participantes reciben comentarios y certificado, y el jurado destaca algunos proyectos.",
+      "note": "Recepción de proyectos desde 13.01.2027. No consta el cierre. Emisión pública 23.06.2027. Los participantes reciben comentarios y certificado, y el jurado destaca algunos proyectos. La galería es pública. El enlace al proyecto debe ser accesible y los comentarios deben desactivarse. Los enlaces de Scratch, MakeCode Arcade y micro:bit no requieren vídeo.",
       "iso": [],
       "themes": [
         "ai",
@@ -411509,7 +411639,7 @@
       "reward": "a los ganadores 1/2/3  diploma de lugar; al resto no se envían trofeos físicos internacionales / medallas.",
       "priority": "P1  proyecto en línea después de la apertura de la recepción",
       "status": "Idea",
-      "action": "El país se indica según residencia efectiva y escuela. Algunos países tienen cupos por orden de inscripción.",
+      "action": "A partir del 3 de enero de 2027, cotejar el tema definitivo y empezar un proyecto nuevo en Scratch 3.0. Indicar el país y ciudad de residencia habitual y el centro escolar real.",
       "themes": [
         "coding",
         "games"

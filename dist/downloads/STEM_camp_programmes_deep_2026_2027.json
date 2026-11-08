@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1986,
+    "dossiers": 1987,
     "countries": 126,
     "swiss": 137,
     "by_status": {
@@ -39,7 +39,7 @@
       "partial_2027": 145,
       "next_unannounced": 400,
       "published_2026": 377,
-      "partial_2026_27": 37,
+      "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
       "regular_programme": 19,
@@ -277,7 +277,7 @@
     },
     {
       "country": "Коста-Рика",
-      "count": 55
+      "count": 56
     },
     {
       "country": "Кувейт",
@@ -344957,6 +344957,141 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1987",
+      "slug": "new-hope-summer-english-2026-27",
+      "provider": "New Hope · Summer Camp English Program",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Complejo Educativo Bilingüe Nueva Esperanza · Santa Bárbara de Heredia",
+      "age": "Возраст и класс запрашиваются в форме. Допустимый диапазон не указан.",
+      "programme": "Дневная программа английского с 07:00 до 12:00. В форме есть отдельный STEAM-трек со своим временем.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Форма указывает занятия по английскому и двуязычные активности. Языки ведущих каждой активности нужно подтвердить.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "language_lessons",
+      "timing": {
+        "status": "partial_2026_27",
+        "label": "Форма показывает 2–18 декабря 2026 и 4–29 января 2027. Точные дни занятий внутри каждого окна уточнить.",
+        "sessions": [
+          [
+            "2026-12-02",
+            "2026-12-18"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "dec26",
+            "start": "2026-12-02",
+            "end": "2026-12-18",
+            "label": "Окно дневной программы английского",
+            "price": "Цена английской программы не опубликована. Обед и перекус предлагаются отдельно.",
+            "source": "https://form.jotform.com/252805351014851",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Форма показывает 2–18 декабря 2026 и 4–29 января 2027. Точные дни занятий внутри каждого окна уточнить.",
+            "entry": "На сайте есть форма заявки. Возрастные группы, места и приём внешних учеников нужно подтвердить."
+          },
+          {
+            "variant_key": "jan27",
+            "start": "2027-01-04",
+            "end": "2027-01-29",
+            "label": "Окно дневной программы английского",
+            "price": "Цена английской программы не опубликована. Обед и перекус предлагаются отдельно.",
+            "source": "https://form.jotform.com/252805351014851",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "date_status": "Анонсировано",
+            "date_precision": "announced_window",
+            "date_rule": "Форма показывает 2–18 декабря 2026 и 4–29 января 2027. Точные дни занятий внутри каждого окна уточнить.",
+            "entry": "На сайте есть форма заявки. Возрастные группы, места и приём внешних учеников нужно подтвердить."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "amount": null,
+        "currency": "CRC",
+        "unit": "unconfirmed",
+        "label": "Цена английской программы не опубликована. Обед и перекус предлагаются отдельно.",
+        "included": "Дневная программа английского с 07:00 до 12:00. В форме есть отдельный STEAM-трек со своим временем.",
+        "extras": "Цена английской программы не опубликована. Обед и перекус предлагаются отдельно.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты.",
+        "season": "2026/27"
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить возраст, группу и приём ученика из другой школы."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подтвердить возраст, группу и приём ученика из другой школы."
+        }
+      },
+      "editorial_reason": "Форма показывает 2–18 декабря 2026 и 4–29 января 2027. Точные дни занятий внутри каждого окна уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://form.jotform.com/252805351014851",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://complejonewhope.co.cr/quienes-somos/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "languages"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-02",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1987-20261202-20261218-dec26"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1987-20270104-20270129-jan27"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -350282,7 +350417,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 280,
+  "version": 281,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -363517,7 +363652,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1986,
+      "total_dossiers": 1987,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -386042,6 +386177,16 @@
       "relation": "existing_programme"
     },
     {
+      "programme_id": "CP1987",
+      "event_id": "CP1987-20261202-20261218-dec26",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1987",
+      "event_id": "CP1987-20270104-20270129-jan27",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -390744,10 +390889,12 @@
     "CP1983-20270201-20270228-intake-2027-02",
     "CP1984-20261201-20261231-intake-2026-12",
     "CP1984-20270101-20270131-intake-2027-01",
-    "CP1984-20270201-20270228-intake-2027-02"
+    "CP1984-20270201-20270228-intake-2027-02",
+    "CP1987-20261202-20261218-dec26",
+    "CP1987-20270104-20270129-jan27"
   ],
   "integration": {
-    "generated_sessions": 4272,
+    "generated_sessions": 4274,
     "reused_legacy_events": 74,
     "seasonal_windows": 76,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

@@ -5210,7 +5210,7 @@
     ]
   },
   "assets/directions.js": {
-    "sha256": "d999be081983fd53047479d08ada8173aafac1710cc7caee5fc8225297bade04",
+    "sha256": "dbbdd7972f3a5245c360c031b94697500e0682a479a6102729123dc2c4599cd8",
     "tokens": [
       {
         "start": 319,
@@ -5409,64 +5409,64 @@
         "type": "literal"
       },
       {
-        "start": 2943,
-        "end": 3004,
+        "start": 3010,
+        "end": 3071,
         "raw": "<div class=\"direction-chips\" aria-label=\"Тематика программы\">",
         "value": "<div class=\"direction-chips\" aria-label=\"Тематика программы\">",
         "type": "template"
       },
       {
-        "start": 3326,
-        "end": 3358,
+        "start": 3503,
+        "end": 3535,
         "raw": "'<optgroup label=\"Точные темы\">'",
         "value": "<optgroup label=\"Точные темы\">",
         "type": "literal"
       },
       {
-        "start": 3490,
-        "end": 3513,
+        "start": 3667,
+        "end": 3690,
         "raw": " · точная тема</option>",
         "value": " · точная тема</option>",
         "type": "template"
       },
       {
-        "start": 3583,
-        "end": 3992,
+        "start": 3760,
+        "end": 4169,
         "raw": "<details class=\"direction-legend\" open><summary>Направления в цвете<span>Нажмите, чтобы выбрать тему</span></summary><p>Цвет обозначает тематику. Все темы смешанной программы указаны в карточке; цвет не означает рейтинг, язык или допуск ребёнка.</p><div class=\"direction-choices\" role=\"group\" aria-label=\"Выбрать направление\"><button type=\"button\" class=\"direction-choice direction-all\" data-direction-scope=\"",
         "value": "<details class=\"direction-legend\" open><summary>Направления в цвете<span>Нажмите, чтобы выбрать тему</span></summary><p>Цвет обозначает тематику. Все темы смешанной программы указаны в карточке; цвет не означает рейтинг, язык или допуск ребёнка.</p><div class=\"direction-choices\" role=\"group\" aria-label=\"Выбрать направление\"><button type=\"button\" class=\"direction-choice direction-all\" data-direction-scope=\"",
         "type": "template"
       },
       {
-        "start": 4053,
-        "end": 4079,
+        "start": 4230,
+        "end": 4256,
         "raw": "\">Все направления</button>",
         "value": "\">Все направления</button>",
         "type": "template"
       },
       {
-        "start": 4728,
-        "end": 4742,
+        "start": 4905,
+        "end": 4919,
         "raw": "'Соревнование'",
         "value": "Соревнование",
         "type": "literal"
       },
       {
-        "start": 4755,
-        "end": 4775,
+        "start": 4932,
+        "end": 4952,
         "raw": "'Событие / выставка'",
         "value": "Событие / выставка",
         "type": "literal"
       },
       {
-        "start": 4787,
-        "end": 4806,
+        "start": 4964,
+        "end": 4983,
         "raw": "'Лагерь / обучение'",
         "value": "Лагерь / обучение",
         "type": "literal"
       },
       {
-        "start": 4820,
-        "end": 4837,
+        "start": 4997,
+        "end": 5014,
         "raw": "'Школа / пансион'",
         "value": "Школа / пансион",
         "type": "literal"

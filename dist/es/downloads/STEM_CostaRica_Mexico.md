@@ -185,7 +185,7 @@ Entrada: CreativaKids: ficha de categoría: regla de orden; recepción extranjer
 Costo: entrada del afiliado inscrito y coach incluida; contribución de la disciplina; entradas de la familia separadas
 Limitaciones: Primer bloque27–28 de noviembre: mTiny, Sumo, RoverX, línea, Intermediate, Explorer. Segundo28–29: Codey, Inspire, Signal Rise y Challenge. Soccer sin fecha. Se conserva el corte01.01.2026 de mTiny/Codey; Inspire/Starter usan otros intervalos de nacimiento. Cupo mundial sin confirmar.
 Fuente: https://www.creativakids.com/makex.php
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C043 · Torneo Mexicano de Robótica — TMR 2027
 
@@ -601,7 +601,7 @@ Entrada: Abrir el registro de la categoría de referencia vinculada; confirmar p
 Precio: Precio estructurado de la tienda: MXN 1 999,99 por 1 Niños/orden + coach. El precio está oculto cuando se solicita información en el actual HTML; Cuenta actual 2026, Exactamente los impuestos y las exenciones. Robot./Arenas y billetes de acompañante separados.
 Limitaciones: PDFp 2: 4–6 en 1 enero; Por lo tanto, 2020 Ajustado,2017 No encaja.. La autonomía de la Jr.. La tienda se refiere claramente a las familias., de la escuela extranjera/No se ha confirmado el proceso de órdenes. mTinyarena 7499.99 MXN ya incluye 1 Registro; bundle 16499.99 incluye 2, pero texto XI contra XII 2026: la aplicabilidad. Segunda mTiny-No se puede utilizar la inscripción para Matway. 27 de noviembre: registro 09:00–12:00, clasificatorias 13:00–19:30. 28 de noviembre: finales 09:00–12:30, premios 12:30–13:30. Zona America/Mexico_City.
 Fuente: https://www.creativakids.com/makexmtinytreasuretrail.php
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C609 · MakeX México XII — Codey Rocky Theme Park
 
@@ -614,7 +614,7 @@ Entrada: Abrir el registro de la categoría de referencia vinculada; confirmar p
 Precio: Precio estructurado de la tienda: MXN 1 999,99 por 1 Niños/orden + coach. El precio está oculto cuando se solicita información en el actual HTML; Cuenta actual 2026, Exactamente los impuestos y las exenciones. Robot./Arenas y billetes de acompañante separados.
 Limitaciones: PDFp 2: 6–9 en 01.01.2026. Matvey 2017 Ajustado; para Oscar 2020 mínimo 6 sólo se ejecuta con DOB 01.01.2020. Codey + expansion necesidad de la página; Relación expansion/pack 404, No se inventa el precio del equipo.. Tienda: Registro 1999.99 +robot 3999.99; arena 7999.99 Separados y sin registro. SKU imagen 2025, año de cuenta 2026/de la devolución. Las referencias de forma no se consideran dos inscripciones. 28 de noviembre: registro 09:00–12:30, clasificatorias 15:00–19:30. 29 de noviembre: finales 09:00–14:00, premios 14:30–15:30. Zona America/Mexico_City.
 Fuente: https://www.creativakids.com/makexcodey.php
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C610 · MakeX México XII — Sumo Kits
 
@@ -1424,20 +1424,20 @@ Se ha comprobado: 2026-11-05
 
 ### C1171 · RoboJam MX Norestense · ASFM · 2027
 
-Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
+Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
 edad: Por reto: Bristle Race máximo 9; Path Attack Junior máximo 12; CrossBot máximo 15; restantes para cualquier edad.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
 Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
-Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Limitaciones: Para el 17 de abril, el horario indica apertura a las 07:00, cierre del registro presencial a las 09:30, clasificatorias de 10:00–12:00 y finales de 13:30–16:00. Usar tras confirmar el día. Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-08
 
 ### C1172 · RoboJam MX Norestense · Bristle Race · 2027
 
-Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
+Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
 edad: Máximo 9 años según PDF; fecha de corte y mínimo sin indicar.
 Matvey: Condicional: máximo 9 años; al 17.04.2027 cumple solo si nació después del 17.04.2017, suponiendo corte el día del torneo. Confirmar regla de corte.
 Oscar: Cumple edad máxima: en abril 2027 tendrá 6–7; confirmar mínimo y admisión.
@@ -1450,7 +1450,7 @@ Se ha comprobado: 2026-11-08
 
 ### C1173 · RoboJam MX Norestense · Path Attack Junior · 2027
 
-Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
+Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
 edad: Máximo 12 años según PDF; fecha de corte y mínimo sin indicar.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1463,7 +1463,7 @@ Se ha comprobado: 2026-11-08
 
 ### C1174 · RoboJam MX Norestense · CrossBot · 2027
 
-Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
+Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
 edad: Máximo 15 años según PDF; fecha de corte y mínimo sin indicar.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1476,7 +1476,7 @@ Se ha comprobado: 2026-11-08
 
 ### C1175 · RoboJam MX Norestense · Skill Drive · 2027
 
-Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
+Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1489,7 +1489,7 @@ Se ha comprobado: 2026-11-08
 
 ### C1176 · RoboJam MX Norestense · Stack.IN · 2027
 
-Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
+Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1502,7 +1502,7 @@ Se ha comprobado: 2026-11-08
 
 ### C1177 · RoboJam MX Norestense · BumperBot Evolution · 2027
 
-Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
+Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1515,7 +1515,7 @@ Se ha comprobado: 2026-11-08
 
 ### C1178 · RoboJam MX Norestense · Path Attack Pro · 2027
 
-Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
+Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1528,7 +1528,7 @@ Se ha comprobado: 2026-11-08
 
 ### C1179 · RoboJam MX Norestense · Disk Derby · 2027
 
-Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
+Fecha: La página del torneo de ASFM indica el 17 de abril de 2027. El calendario general de RoboJam aún muestra el 18 de abril de 2027 con asterisco. Hay que confirmar la fecha del torneo.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -5075,6 +5075,58 @@ Limitaciones: Exposición permanente. En la sala STEAM, los niños investigan un
 Fuente: https://museocr.org/ninos/salas-interactivas/
 Se ha comprobado: 2026-11-08
 
+### E572 · Roll a Game 2026 · CDMX
+
+Fecha: 2026-11-28 — 2026-11-29
+edad: Exposición familiar. Desde los 5 años se necesita entrada, y los menores de 5 entran gratis.
+Matvey: Sí. Se contempla la visita familiar. Confirmar las reglas de juegos y talleres concretos.
+Oscar: Sí. Se contempla la visita familiar. Confirmar las reglas de juegos y talleres concretos.
+Idioma: Información para visitantes en español. Confirmar el idioma de los monitores de cada taller.
+Acceso: 28 de noviembre 11:00–19:00, 29 de noviembre 10:00–18:00. Actividades incluidas en la entrada, inscripción en cada zona el mismo día.
+Precio: En preventa MXN 270 por día, MXN 455 por ambos días y MXN 925 por 4 accesos de un día. En taquilla MXN 295, MXN 495 y MXN 1000, respectivamente.
+Limitaciones: El pase familiar incluye 4 accesos para el día elegido. Las zonas se eligen en el recinto.
+Fuente: https://rollagame.com/
+Se ha comprobado: 2026-11-08
+
+### E573 · MeepCon León 2026
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: La organización invita a familias. No indica tarifa infantil ni edad mínima de cada taller.
+Matvey: Sí. Se contempla la visita familiar. Confirmar las reglas de juegos y talleres concretos.
+Oscar: Sí. Se contempla la visita familiar. Confirmar las reglas de juegos y talleres concretos.
+Idioma: Información para visitantes en español. Confirmar el idioma de los monitores de cada taller.
+Acceso: 14 y 15 de noviembre, de 11:00 a 19:00. La entrada vale en una sola fecha elegida.
+Precio: MXN 120 por acceso de un día y MXN 400 por 4 accesos de un día. Para el pase familiar todos llegan juntos.
+Limitaciones: El primer acceso determina el día de visita. Para volver a entrar ese día hay que conservar la pulsera.
+Fuente: https://boletos.meepcon.com/meepcon/meepcon-2026/
+Se ha comprobado: 2026-11-08
+
+### E574 · MakeX México XII 2026 · Visita y demostraciones
+
+Fecha: 2026-11-27 — 2026-11-29
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: La organización invita a espectadores con entrada. La página enlazada de Eventbrite pide contraseña. Hay que confirmar compra, precio, disponibilidad y reglas para menores.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: El 27 de noviembre hay eliminatorias de mTiny y varias categorías técnicas, el 28 sus finales y eliminatorias de Codey Rocky, y el 29 finales de Codey Rocky y otras categorías. Confirmar el horario de acceso del público.
+Fuente: https://www.creativakids.com/makex.php
+Se ha comprobado: 2026-11-08
+
+### E575 · Semana de la Innovación TEC 2027
+
+Fecha: 2027-04-26 - 2027-04-30
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: El calendario del TEC indica el periodo del 26–30 de abril de 2027. Aún no se publican el programa diario, el acceso de visitantes ni el precio.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: En 2026 la semana incluyó un Demo Day de proyectos de investigación y equipos emprendedores. El programa de 2027 está pendiente.
+Fuente: https://www.tec.ac.cr/ferias-institucionales-2027
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -6284,6 +6336,32 @@ Limitaciones: Matvey: Condicional. El formulario pide edad y curso. No hay lími
 Fuente: https://form.jotform.com/252805351014851
 Se ha comprobado: 2026-11-07
 
+### CP1987-20261202-20261218-dec26 · New Hope · Summer Camp English Program · Ventana del programa diurno de inglés · 2026-12-02–2026-12-18
+
+Fecha: 2026-12-02 — 2026-12-18
+edad: El formulario pide edad y curso. No indica el intervalo admitido.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El formulario indica clases de inglés y actividades bilingües. Hay que confirmar los idiomas de cada actividad.
+Acceso: El sitio incluye un formulario. Hay que confirmar grupos de edad, plazas y admisión de estudiantes de otros centros.
+Precio: 2026/27 · No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Confirmar edad, grupo y admisión de estudiantes de otro centro. Oscar: Confirmar edad, grupo y admisión de estudiantes de otro centro. Suplementos: No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://form.jotform.com/252805351014851
+Se ha comprobado: 2026-11-08
+
+### CP1987-20270104-20270129-jan27 · New Hope · Summer Camp English Program · Ventana del programa diurno de inglés · 2027-01-04–2027-01-29
+
+Fecha: 2027-01-04 — 2027-01-29
+edad: El formulario pide edad y curso. No indica el intervalo admitido.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El formulario indica clases de inglés y actividades bilingües. Hay que confirmar los idiomas de cada actividad.
+Acceso: El sitio incluye un formulario. Hay que confirmar grupos de edad, plazas y admisión de estudiantes de otros centros.
+Precio: 2027 · No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Confirmar edad, grupo y admisión de estudiantes de otro centro. Oscar: Confirmar edad, grupo y admisión de estudiantes de otro centro. Suplementos: No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://form.jotform.com/252805351014851
+Se ha comprobado: 2026-11-08
+
 ### C1155 · XVIII Campeonato Nacional de Robótica y STEM · VEX IQ Middle
 
 Fecha: 2027-03-03 — 2027-03-05
@@ -6616,11 +6694,11 @@ edad: Condicional. Confirmar edad de visitante y acompañamiento.
 Matvey: Condicional. Confirmar edad de visitante y acompañamiento.
 Oscar: Condicional. Confirmar edad de visitante y acompañamiento.
 Idioma: Confirmar idioma del taller o demostración concretos.
-Acceso: Muestra de proyectos escolares y programa abierto. Confirmar acceso a estands, horario de exposición y edad para talleres.
+Acceso: Cotejar en qué horario abren los estands y si se admite a menores. La indicación de acceso abierto a una actividad concreta no fija las reglas de toda la exposición.
 Precio: Tarifa de esta edición aún sin confirmar.
-Limitaciones:
+Limitaciones: Nueve áreas de proyectos escolares, entre ellas ciberseguridad, desarrollo web, electromecánica y proyectos infantiles.
 Fuente: https://cedesdonbosco.ed.cr/expotec/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### E295 · Feria Maker UNOi 2027
 

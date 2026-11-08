@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10272; competiciones: 4648; eventos: 571; campamentos / programas: 5053. Perfiles de ligas y programas: 300. Fichas de exposiciones grandes y especializadas: 475 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10280; competiciones: 4650; eventos: 575; campamentos / programas: 5055. Perfiles de ligas y programas: 300. Fichas de exposiciones grandes y especializadas: 479 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -14,7 +14,7 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1916 | 109 | 1273 |
+| América del Norte | 40 | 1918 | 113 | 1275 |
 | América del Sur | 14 | 430 | 41 | 207 |
 | Europa | 54 | 602 | 122 | 1455 |
 | África | 53 | 242 | 31 | 110 |
@@ -23,7 +23,7 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 Fichas interregionales o globales sin asignar a un continente: 162. Norteamérica incluye Centroamérica y el Caribe. Los recuentos muestran el inventario de la base, no un porcentaje de exhaustividad.
 
-VEX: 814 de 4648 fichas de competiciones (17.5%). Esta concentración revela un sesgo de cobertura.
+VEX: 814 de 4650 fichas de competiciones (17.5%). Esta concentración revela un sesgo de cobertura.
 
 ## Lo que queda
 
@@ -843,6 +843,10 @@ VEX: 814 de 4648 fichas de competiciones (17.5%). Esta concentración revela un 
 - **KidTech Festival & Expo 2026 · Future Careers & Tech Expo** — Ghana; 2026-12-04 – 2026-12-05. con un adulto; condiciones de admisión adulta por separado. https://kidtechfestival.org/the-programme/
 - **EGPAK Future-Ready Learners Summit 2026 · Mombasa** — Kenia; fecha desconocida. Confirmar acceso infantil. https://dschool.co.ke/events/future-ready
 - **SALTIS TechInov 2026 · Salon de l’IA en Afrique** — Senegal; 2026-12-08 – 2026-12-10. el permiso de entrada de niños. https://www.saltis-techinov.org/billetterie
+- **Roll a Game 2026 · CDMX** — México; 2026-11-28 – 2026-11-29. con un adulto; condiciones de admisión adulta por separado. https://rollagame.com/
+- **MeepCon León 2026** — México; 2026-11-14 – 2026-11-15. con un adulto; condiciones de admisión adulta por separado. https://boletos.meepcon.com/meepcon/meepcon-2026/
+- **MakeX México XII 2026 · Visita y demostraciones** — México; 2026-11-27 – 2026-11-29. el permiso de entrada de niños. https://www.creativakids.com/makex.php
+- **Semana de la Innovación TEC 2027** — Costa Rica; 2027-04-26 – 2027-04-30. el permiso de entrada de niños. https://www.tec.ac.cr/ferias-institucionales-2027
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

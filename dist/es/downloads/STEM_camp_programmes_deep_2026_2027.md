@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 1986 fichas en 126 países. Cada ficha incluye las fechas de verificación de las fuentes.
+Estado de la base: 2026-11-08. 1987 fichas en 126 países. Cada ficha incluye las fechas de verificación de las fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -159071,6 +159071,72 @@ Kenia · The Tripple Two · Eastern Bypass · Nairobi / Google Meet
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://www.growthfluential.org/programs/kids-youth-camp-december-2026) · 2026-11-08
+
+## CP1987 · New Hope · Summer Camp English Program
+
+Costa Rica · Complejo Educativo Bilingüe Nueva Esperanza · Santa Bárbara de Heredia
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** El formulario pide edad y curso. No indica el intervalo admitido.
+
+**Idioma:** El formulario indica clases de inglés y actividades bilingües. Hay que confirmar los idiomas de cada actividad.
+
+**Programa:** Programa diurno de inglés de 07:00 a 12:00. El formulario ofrece un itinerario STEAM independiente con su propio horario.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El formulario muestra 2–18 de diciembre de 2026 y 4–29 de enero de 2027. Confirmar los días exactos dentro de cada ventana.
+
+**Precio / año:** 2026/27 · No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte.
+
+**Incluido:** Programa diurno de inglés de 07:00 a 12:00. El formulario ofrece un itinerario STEAM independiente con su propio horario.
+
+**Suplementos:** No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Confirmar edad, grupo y admisión de estudiantes de otro centro.
+
+**Oscar:** Confirmar edad, grupo y admisión de estudiantes de otro centro.
+
+**Motivo de selección:** El formulario muestra 2–18 de diciembre de 2026 y 4–29 de enero de 2027. Confirmar los días exactos dentro de cada ventana.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Ventana del programa diurno de inglés
+
+**Fechas / estado:** 2026-12-02 — 2026-12-18
+
+**Precio:** No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte.
+
+**condiciones de participación:** El sitio incluye un formulario. Hay que confirmar grupos de edad, plazas y admisión de estudiantes de otros centros.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://form.jotform.com/252805351014851)
+
+### Ventana del programa diurno de inglés
+
+**Fechas / estado:** 2027-01-04 — 2027-01-29
+
+**Precio:** No se publica el precio del programa de inglés. Se ofrecen almuerzo y merienda como opciones aparte.
+
+**condiciones de participación:** El sitio incluye un formulario. Hay que confirmar grupos de edad, plazas y admisión de estudiantes de otros centros.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://form.jotform.com/252805351014851)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://form.jotform.com/252805351014851) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://complejonewhope.co.cr/quienes-somos/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

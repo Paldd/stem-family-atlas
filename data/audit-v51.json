@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10272,
-    "competition_cards": 4648,
-    "event_cards": 571,
-    "camp_cards": 5053,
+    "cards": 10280,
+    "competition_cards": 4650,
+    "event_cards": 575,
+    "camp_cards": 5055,
     "league_profiles": 300,
-    "major_exhibition_cards": 475,
+    "major_exhibition_cards": 479,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3335,
+      "total": 3343,
       "countries_with_records": 40,
-      "competitions": 1916,
-      "events": 146,
-      "major_exhibitions": 109,
-      "camps": 1273,
+      "competitions": 1918,
+      "events": 150,
+      "major_exhibitions": 113,
+      "camps": 1275,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -13935,6 +13935,50 @@
       "new": false
     },
     {
+      "id": "E572",
+      "name": "Roll a Game 2026 · CDMX",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "visitor_policy": "family",
+      "source": "https://rollagame.com/",
+      "new": false
+    },
+    {
+      "id": "E573",
+      "name": "MeepCon León 2026",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "visitor_policy": "family",
+      "source": "https://boletos.meepcon.com/meepcon/meepcon-2026/",
+      "new": false
+    },
+    {
+      "id": "E574",
+      "name": "MakeX México XII 2026 · Visita y demostraciones",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-27",
+      "end": "2026-11-29",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.creativakids.com/makex.php",
+      "new": false
+    },
+    {
+      "id": "E575",
+      "name": "Semana de la Innovación TEC 2027",
+      "country": "Коста-Рика",
+      "region": "Центральная Америка",
+      "start": "2027-04-26",
+      "end": "2027-04-30",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.tec.ac.cr/ferias-institucionales-2027",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -16352,8 +16396,8 @@
       }
     ],
     "counts": {
-      "records": 5053,
-      "holiday": 4683,
+      "records": 5055,
+      "holiday": 4685,
       "regular": 162,
       "self_paced_materials": 4,
       "boarding": 1038,
@@ -16362,7 +16406,7 @@
       "family_instruction": 1593,
       "family_support": 28,
       "ru_instruction": 4,
-      "language_lessons": 412,
+      "language_lessons": 414,
       "camp_life_language": 228,
       "language_unclassified": 137,
       "countries": 145

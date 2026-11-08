@@ -21,12 +21,18 @@ window.STEM_DIRECTIONS = (() => {
  const byTag = new Map(groups.flatMap(g => g.tags.map(t => [t,g])));
  const labels = Object.fromEntries(groups.flatMap(g => g.tags.map(t => [t,g.label])));
  Object.assign(labels,{engineering:"Ingeniería",maths:"Matemáticas",science:"Ciencia y experimentos",makers:"Crear cosas",stem:'STEM / STEAM',electronics:"electrónica",music:"música",design:"diseño",chess:"el ajedrez",adventure:"de las aventuras",outdoor:"Actividades al aire libre",entrepreneurship:"de la empresa",business:"Emprendimiento",leadership:"liderazgo"});
- const directions = tags => groups.filter(g => (tags || []).some(t => g.tags.includes(t)));
+ const themeTag = tag => tag==='gaming' ? 'games' : tag;
+ const directions = tags => groups.filter(g => (tags || []).some(t => g.tags.includes(themeTag(t))));
  const primary = tags => directions(tags)[0] || fallback;
  const attributes = tags => {const g = primary(tags);return `data-direction="${g.id}" style="--direction:${g.color};--direction-tint:${g.tint}"`;};
  const chip = g => `<span class="direction-chip" style="--direction:${g.color};--direction-tint:${g.tint}"><span class="direction-icon" aria-hidden="true">${escape(g.icon)}</span>${escape(g.label)}</span>`;
  const chips = tags => {const selected=directions(tags);return `<div class="direction-chips" aria-label="Temática del programa">${(selected.length?selected:[fallback]).map(chip).join('')}</div>`;};
- const matches = (tags, selection) => !selection || (groups.find(g => g.id===selection)?.tags || [selection]).some(t => (tags || []).includes(t));
+ const matches = (tags, selection) => {
+  if(!selection)return true;
+  const selectedTag=themeTag(selection);
+  const accepted=groups.find(g => g.id===selectedTag)?.tags || [selectedTag];
+  return (tags || []).some(t => accepted.includes(themeTag(t)));
+ };
  const options = () => groups.map(g => `<option value="${g.id}">${escape(g.label)}</option>`).join('') + "<optgroup label=\"temas precisos\">" + Object.entries(labels).filter(([tag]) => !groups.some(g=>g.id===tag)).map(([tag,label])=>`<option value="${tag}">${escape(label)} · el tema exacto</option>`).join('') + '</optgroup>';
  const legend = (scope, selected='') => `<details class="direction-legend" open><summary>Áreas por colores<span>Pulsa para elegir un tema</span></summary><p>El color indica la temática. La ficha muestra todas las áreas de los programas mixtos; el color no indica una clasificación, un idioma ni la admisión del niño.</p><div class="direction-choices" role="group" aria-label="Elegir área"><button type="button" class="direction-choice direction-all" data-direction-scope="${scope}" data-direction-filter="" aria-pressed="${!selected}">Todas las áreas</button>${groups.map(g => `<button type="button" class="direction-choice" data-direction-scope="${scope}" data-direction-filter="${g.id}" aria-label="${escape(g.label)}" title="${escape(g.label)}" aria-pressed="${selected===g.id}" style="--direction:${g.color};--direction-tint:${g.tint}"><span class="direction-icon" aria-hidden="true">${escape(g.icon)}</span>${escape(g.shortLabel||g.label)}</button>`).join('')}</div></details>`;
  const sync = (root, selected) => root?.querySelectorAll('[data-direction-filter]').forEach(button => button.setAttribute('aria-pressed',String(button.dataset.directionFilter===selected)));

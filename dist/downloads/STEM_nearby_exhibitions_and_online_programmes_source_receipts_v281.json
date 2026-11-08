@@ -1,0 +1,224 @@
+{
+  "captures": [
+    {
+      "key": "roll",
+      "url": "https://rollagame.com/",
+      "final_url": "https://rollagame.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 160282,
+      "sha256": "fa98bd322905b45828cc198714712c2ef5b7ba994ef77fe59777f17c67585785",
+      "file": "roll.html"
+    },
+    {
+      "key": "roll-tickets",
+      "url": "https://rollagame.com/boletos/",
+      "final_url": "https://rollagame.com/boletos/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 157554,
+      "sha256": "0d4bf9ad22c4ba8ed87f164bec6e27febe24fb0cac9c5f059d44b01455457c3a",
+      "file": "roll-tickets.html"
+    },
+    {
+      "key": "board-sat",
+      "url": "https://rollagame.com/product/1-dia/",
+      "final_url": "https://rollagame.com/product/1-dia/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 196695,
+      "sha256": "5e2ae34838ba5a228d5690aa6c2648d7ea5309f28ad13c733ecb18a66ea10dc4",
+      "file": "board-sat.html"
+    },
+    {
+      "key": "meep",
+      "url": "https://boletos.meepcon.com/meepcon/meepcon-2026/",
+      "final_url": "https://boletos.meepcon.com/meepcon/meepcon-2026/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 31100,
+      "sha256": "7aa685c1b0a02d5ca196d782ca3abdab10e6b2119e119dcab9f5c9f167cf268f",
+      "file": "meep.html"
+    },
+    {
+      "key": "meep-site",
+      "url": "https://www.meepcon.com/",
+      "final_url": "https://www.meepcon.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1299447,
+      "sha256": "5e719d24c3b4f13127f9e25b2e28c6879eb6d97827fc85435708c2f1520e88ec",
+      "file": "meep-site.html"
+    },
+    {
+      "key": "makex",
+      "url": "https://www.creativakids.com/makex.php",
+      "final_url": "https://www.creativakids.com/makex.php",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 73640,
+      "sha256": "a920de442a118ed665cda290296eca49a4c22da9547afc4378d217ec8fe3e2ef",
+      "file": "makex.html"
+    },
+    {
+      "key": "makex-ticket",
+      "url": "https://www.eventbrite.com.mx/e/1992156449568",
+      "final_url": "https://www.eventbrite.com.mx/e/1992156449568",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 141637,
+      "sha256": "adb0ec60de3fd269a92931d2e1f54011f38bea8b9e66ca3d5114b040182ff6eb",
+      "file": "makex-ticket.html"
+    },
+    {
+      "key": "expotec",
+      "url": "https://cedesdonbosco.ed.cr/expotec/",
+      "final_url": "https://cedesdonbosco.ed.cr/expotec/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 351255,
+      "sha256": "9de71c7923104fa51e00f276135915cffdc984c3cfb835a8e8127d9652775bbf",
+      "file": "expotec.html"
+    },
+    {
+      "key": "tec-cal",
+      "url": "https://www.tec.ac.cr/ferias-institucionales-2027",
+      "final_url": "https://www.tec.ac.cr/ferias-institucionales-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 109797,
+      "sha256": "c9c82ab554b86ca152579a8d0847370e7dc4ea4108dc0474bb934d3565294285",
+      "file": "tec-cal.html"
+    },
+    {
+      "key": "tec-week-previous",
+      "url": "https://www.tec.ac.cr/semana-innovacion-tec-2026",
+      "final_url": "https://www.tec.ac.cr/semana-innovacion-tec-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 95995,
+      "sha256": "24a20eb966e40767c3b4e5798f6adfbf821ecad9deb91e18ebf9c343c3673eb8",
+      "file": "tec-week-previous.html"
+    },
+    {
+      "key": "ckcicc",
+      "url": "https://www.competitivekids.org/cicc/",
+      "final_url": "https://www.competitivekids.org/cicc/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 74528,
+      "sha256": "73495584781810a8b6238d39fc726a9136a1db434dbd898d5532e4b157414566",
+      "file": "ckcicc.html"
+    },
+    {
+      "key": "ckscience",
+      "url": "https://www.competitivekids.org/cisc/",
+      "final_url": "https://www.competitivekids.org/cisc/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 74181,
+      "sha256": "cc52e96f7fe2e6abf1342a10f4d920c115fd55d37f1a33bf1d1292a6abb19f34",
+      "file": "ckscience.html"
+    },
+    {
+      "key": "robojam",
+      "url": "https://www.robojam.live/mexico",
+      "final_url": "https://www.robojam.live/mexico",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 478390,
+      "sha256": "55a600fbbc9dd053e9136624aad9f6777cd91faf94858a52b5c74c2e3f80c6f7",
+      "file": "robojam.html"
+    },
+    {
+      "key": "rjcalendar",
+      "url": "https://www.robojam.live/events",
+      "final_url": "https://www.robojam.live/events",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 529681,
+      "sha256": "752c5a967a19a76093689f29ceef2732f5acee0b9f71123f413bee0d9d064d18",
+      "file": "rjcalendar.html"
+    },
+    {
+      "key": "coolest",
+      "url": "https://online.coolestprojects.org/cp-online-2027",
+      "final_url": "https://online.coolestprojects.org/cp-online-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 24843,
+      "sha256": "8de7911640743598a6c8a866011f9e3dc27130c6b4c97e38ba10df7ecfa87b62",
+      "file": "coolest.html"
+    },
+    {
+      "key": "ikcc",
+      "url": "https://www.ikcc.info/",
+      "final_url": "https://www.ikcc.info/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 276667,
+      "sha256": "c5db009a21ccbf6542002bfba0ee6814938aea463e63c9c8544fb09fb32cef33",
+      "file": "ikcc.html"
+    },
+    {
+      "key": "ikcc-rules",
+      "url": "https://www.ikcc.info/en/rules-pag3",
+      "final_url": "https://www.ikcc.info/en/rules-pag3",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 700811,
+      "sha256": "a926694cb3b8ed185b55b7b3cff87022665a556e22721bb7fa9431b90c49f9b8",
+      "file": "ikcc-rules.html"
+    },
+    {
+      "key": "nasca-build",
+      "url": "https://www.nasca.edu.in/competitions/build-it",
+      "final_url": "https://www.nasca.edu.in/competitions/build-it",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 58570,
+      "sha256": "e370d84c3a54aff5140de88a2e2ec6404cd47522429e2460d8ccc5f334e2aa94",
+      "file": "nasca-build.html"
+    },
+    {
+      "key": "nasca",
+      "url": "https://www.nasca.edu.in/competitions",
+      "final_url": "https://www.nasca.edu.in/competitions",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 104186,
+      "sha256": "029e7d45a414bf1b3cf70bf3eeb373a7907c90a59e3388b5185c6fff4feb61d4",
+      "file": "nasca.html"
+    },
+    {
+      "key": "nasca-solve",
+      "url": "https://www.nasca.edu.in/competitions/solve-it",
+      "final_url": "https://www.nasca.edu.in/competitions/solve-it",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 58489,
+      "sha256": "d469c827fb0f4d8b05936a3523179c9df5be36b9ec0500463a93b15b5f5cf417",
+      "file": "nasca-solve.html"
+    },
+    {
+      "key": "newhope",
+      "url": "https://form.jotform.com/252805351014851",
+      "final_url": "https://form.jotform.com/252805351014851",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 75355,
+      "sha256": "dc8236f52e7322b4547e614b91079cd9675ca49938d445c08fe46415c5c36b34",
+      "file": "newhope.html"
+    },
+    {
+      "key": "newhope-school",
+      "url": "https://complejonewhope.co.cr/quienes-somos/",
+      "final_url": "https://complejonewhope.co.cr/quienes-somos/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 173726,
+      "sha256": "f6836bacd6715a9a81bc6a1a988b9d84e32be8534051ec00a461ce74961424c1",
+      "file": "newhope-school.html"
+    }
+  ]
+}
