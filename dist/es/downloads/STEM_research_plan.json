@@ -870,9 +870,9 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 260,
+    "version": 261,
     "status": "implementation_snapshot",
-    "events": 9986,
+    "events": 9993,
     "competitions": 4528,
     "league_profiles": 298,
     "camp_dossiers": 1918,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 519,
+    "exhibitions_events": 526,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 259,
+    "version": 260,
     "status": "implementation_snapshot",
-    "events": 9964,
-    "competitions": 4523,
+    "events": 9986,
+    "competitions": 4528,
     "league_profiles": 298,
-    "camp_dossiers": 1917,
+    "camp_dossiers": 1918,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -942,8 +942,9 @@
     "schools": 80,
     "school_history_results": 356,
     "school_history_entities": 232,
-    "national_routes": 330,
-    "exhibitions_events": 512
+    "national_routes": 495,
+    "exhibitions_events": 519,
+    "first_global_team_profiles": 178
   },
   "research_passes": [
     {
@@ -13760,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 260,
+    "prepared_ui_version": 261,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 259,
-    "previous_verified_commit": "f8e41f6c23b3cb387ac2bbe863f26ce905014cf8"
+    "previous_verified_ui_version": 260,
+    "previous_verified_commit": "1a7f4bbd050eeb1e3a60516ba6d80cf4cfdf0eda"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20810,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 259,
-    "published_version": 259,
-    "latest_source_commit": "f8e41f6c23b3cb387ac2bbe863f26ce905014cf8",
-    "published_commit": "f8e41f6c23b3cb387ac2bbe863f26ce905014cf8",
-    "latest_workflow": 42450730868,
+    "latest_source_version": 260,
+    "published_version": 260,
+    "latest_source_commit": "1a7f4bbd050eeb1e3a60516ba6d80cf4cfdf0eda",
+    "published_commit": "1a7f4bbd050eeb1e3a60516ba6d80cf4cfdf0eda",
+    "latest_workflow": 42452065273,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -26302,5 +26303,90 @@
     "audit": "data/frontier-territories-and-first-global-audit-v260.json",
     "source_receipts": "data/frontier-territories-and-first-global-source-receipts-v260.json",
     "team_directory": "data/first-global-2026-team-directory-v260.json"
+  },
+  "exhibition_access_and_family_days_v261": {
+    "version": 261,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "added": [
+      {
+        "id": "E520",
+        "title": "RoboBoston · Robot Block Party 2027",
+        "source": "https://www.massrobotics.org/roboboston/",
+        "visitor_policy": "family"
+      },
+      {
+        "id": "E521",
+        "title": "RoboCup 2027 · Family Day",
+        "source": "https://2027.robocup.org/wm27/participation/family-day",
+        "visitor_policy": "family"
+      },
+      {
+        "id": "E522",
+        "title": "NVIDIA GTC 2027 · Physical AI & Robotics",
+        "source": "https://www.nvidia.com/gtc/",
+        "visitor_policy": "adults_only"
+      },
+      {
+        "id": "E523",
+        "title": "European Robotics Forum 2027 · exhibition",
+        "source": "https://erf2027.eu/",
+        "visitor_policy": "confirm_children"
+      },
+      {
+        "id": "E524",
+        "title": "MWC Shanghai 2027 · Robotics & AI",
+        "source": "https://www.mwcshanghai.com/",
+        "visitor_policy": "adults_only"
+      },
+      {
+        "id": "E525",
+        "title": "FIEE 2027 · Industrial Automation & Connectivity",
+        "source": "https://www.fiee.com.br/pt-br/o-evento.html",
+        "visitor_policy": "adults_only"
+      },
+      {
+        "id": "E526",
+        "title": "Japan Drone 2027 · Drones × AI",
+        "source": "https://ssl.japan-drone.com/outline/index.html",
+        "visitor_policy": "confirm_children"
+      }
+    ],
+    "refreshed": [
+      "E092",
+      "E013",
+      "E265",
+      "E289",
+      "E094",
+      "E017",
+      "E096",
+      "E098",
+      "E208"
+    ],
+    "source_requests": 30,
+    "family": [
+      "E520",
+      "E521",
+      "E013",
+      "E265"
+    ],
+    "legacy_overlay_event_ids": [
+      "E094",
+      "E208"
+    ],
+    "individual_permission": [
+      "E289"
+    ],
+    "revised_minimum_18": [
+      "E092"
+    ],
+    "scope_notes": [
+      "El 20 de junio de 2027 está previsto el Family Day en Max Morlock Stadium. Las finales del mismo día se celebran en otra sede, NürnbergMesse.",
+      "La portada indica 15–18 de marzo de 2027. Las preguntas frecuentes indican 14–18 de marzo para el evento general. El horario del recinto de exposición se verifica aparte.",
+      "El acceso de menores de 18 años al XPO Hall se evalúa individualmente, con inscripción obligatoria y exención de responsabilidad firmada. Pueden exigir acompañamiento. Durante el montaje y desmontaje no se admiten menores de 18 años."
+    ],
+    "audit": "data/exhibition-access-and-family-days-audit-v261.json",
+    "source_receipts": "data/exhibition-access-and-family-days-source-receipts-v261.json"
   }
 }

@@ -944,15 +944,15 @@ Comprobado: 2026-10-01
 ### E096 · Expo Manufactura 2027
 
 Fecha: 2027-02-23 国 2027-02-25
-Edad: Organizador: Profesionales de más edad 21 años. Niños 6/9 No es una entrada adecuada..
-No hay niños 6/9
-No hay niños 6/9
+edad: Acceso para profesionales del sector mayores de 21 años. Preinscripción con la organización.
+Matvey: No. La organización admite a profesionales mayores de 21 años.
+Oscar: No. La organización admite a profesionales mayores de 21 años.
 Idioma: Idioma de la etapa específica y juez de primera instancia
-Entrada: Registro gratuito de un profesional de la industria mayor de 21 años.
+Acceso: Acceso para profesionales del sector mayores de 21 años. Preinscripción con la organización.
 Costo: El equipo, el registro y el viaje se calculan por separado
-Limitaciones:
+Limitaciones: 23–25 de febrero de 2027, de 12:00 a 19:00 cada día, Cintermex.
 Fuente: https://expomanufactura.com.mx/
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-08
 
 ### E097 · Smart Technology Expo 2026
 

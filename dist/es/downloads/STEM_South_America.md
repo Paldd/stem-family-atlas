@@ -1286,15 +1286,15 @@ Comprobado: 2026-09-30
 ### E098 · EXPOMAFE 2027
 
 Fecha: 2027-05-04 — 2027-05-08
-Edad: Se prohíbe la entrada hasta los 16 años, incluso con los padres; hay una excepción para los grupos escolares técnicos mayores de 14 años; los niños 6/9 no son adecuados.
-No hay niños 6/9
-No hay niños 6/9
+edad: No se admite a menores de 16 años. Excepciones para grupos acreditados de escuelas técnicas mayores de 14 años con profesores y bebés lactantes. Las edades de 6 y 9 años quedan excluidas.
+Matvey: No. Edad mínima de 16 años.
+Oscar: No. Edad mínima de 16 años.
 Idioma: Idioma de la etapa específica y juez de primera instancia
 Entrada: Gratis para profesionales de la industria, pases y photo ID.
-Costo: El equipo, el registro y el viaje se calculan por separado
-Limitaciones:
+Precio: Gratis para profesionales del sector con acreditación y documento de identidad con foto.
+Limitaciones: 4–7 de mayo de 10:00 a 19:00, 8 de mayo de 09:00 a 17:00. São Paulo Expo.
 Fuente: https://www.expomafe.com.br/
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-08
 
 ### E110 · Web Summit Rio 2027
 
@@ -5572,6 +5572,19 @@ Precio: Gratuito.
 Limitaciones:
 Fuente: https://somosgrupora.com/torneo-robotica/
 Se ha comprobado: 2026-11-07
+
+### E525 · FIEE 2027 · Industrial Automation & Connectivity
+
+Fecha: 2027-09-14 — 2027-09-17
+edad: Edad mínima de 18 años. Gratis para profesionales del sector. Acreditación previa en la web y documento con foto. No habrá registro en el recinto.
+Matvey: No. Edad mínima de 18 años.
+Oscar: No. Edad mínima de 18 años.
+Idioma: Confirmar el idioma de cada demostración o taller.
+Acceso: Edad mínima de 18 años. Gratis para profesionales del sector. Acreditación previa en la web y documento con foto. No habrá registro en el recinto.
+Precio: Edad mínima de 18 años. Gratis para profesionales del sector. Acreditación previa en la web y documento con foto. No habrá registro en el recinto.
+Limitaciones: La organización acepta solicitudes de aviso cuando abra la inscripción. La lista nominal publicada corresponde a 2025.
+Fuente: https://www.fiee.com.br/pt-br/o-evento.html
+Se ha comprobado: 2026-11-08
 
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 

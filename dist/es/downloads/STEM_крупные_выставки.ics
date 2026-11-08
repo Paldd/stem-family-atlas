@@ -49,26 +49,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:stem-exhibition-E010@family-stem.local
-DTSTAMP:20261006T205843Z
-SUMMARY:[Exposición · visita en familia] ROBOTWORLD 2026
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261108
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Las normas 
- publicadas permiten a los niños\, hasta 7 años gratis. grupos escolare
- s — 6–7 de noviembre. revisar el boleto y el acompañamiento antes d
- e viajar. Entrada de adultos: pre-registro gratuito hasta las 24.10\; lo
- s días familiares comprobar por separado del grupo de estudiantes. la c
- ompatibilidad de edad no es igual a la admisión a un torneo concreto Em
- presas: el catálogo de una publicación específica se puede buscar en 
- el sitio web de ROBOTWORLD\; el 2026 no se sustituye por la lista de añ
- os pasados.. Fuente verificada el 2026-09-29.
-LOCATION:KINTEX\, Goyang\, Corea del Sur
-URL:https://eng.robotworld.or.kr/visitors/information.php
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:stem-exhibition-E011@family-stem.local
 DTSTAMP:20261006T205843Z
 SUMMARY:[Exposición · confirmar admisión de menores] RoboNext 2026
@@ -107,19 +87,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E013@family-stem.local
-DTSTAMP:20261006T205843Z
-SUMMARY:[Exposición · visita en familia] RoboCup 2027 — visitor days 
- + Family Day
+DTSTAMP:20261108T060259Z
+SUMMARY:[Exposición · visita en familia] RoboCup 2027 · public visitor
+  days
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270621
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Hay días a
- biertos para los visitantes y el Día de la Familia. Entrada de adultos:
-  la visita 17–20.06\; Family Day 20.06\, precio de la propiedad TBA. e
- l campeonato 17–21.06\; días de visita abiertos 17–20.06. los jugad
- ores RCJ los niños no pueden estar. Empresas: Este es un campeonato de 
- demostraciones\, no una exposición de empresas universal\; comprobar el
-  visitor programme 2027.. Fuente verificada el 2026-09-29.
-LOCATION:Nürnberg Messe\; Family Day Max Morlock Stadium\, Alemania
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Los días d
+ e visita están abiertos al público. La organización publicará más a
+ delante las tarifas y las condiciones de las entradas infantiles. Entrad
+ a de adultos: Los días de visita están abiertos al público. La organi
+ zación publicará más adelante las tarifas y las condiciones de las en
+ tradas infantiles.. Centro de exposiciones de Núremberg. Fútbol de rob
+ ots\, robótica de rescate y de servicio\, robótica industrial y RoboCu
+ pJunior. Finales el 20 de junio. Empresas: Centro de exposiciones de Nú
+ remberg. Fútbol de robots\, robótica de rescate y de servicio\, robót
+ ica industrial y RoboCupJunior. Finales el 20 de junio.. Fuente verifica
+ da el 2026-11-08.
+LOCATION:NürnbergMesse · Nürnberg\, Alemania
 URL:https://2027.robocup.org/visit/visitors
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -185,21 +169,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E017@family-stem.local
-DTSTAMP:20261006T205843Z
+DTSTAMP:20261108T060259Z
 SUMMARY:[Exposición · niños de 6/9 años no admitidos] MWC Barcelona 2
  027
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270305
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. En las regl
- as publicadas\, los niños menores de 16 años no son admitidos\; revisa
- r las condiciones de la nueva edición. Entrada de adultos: registro pro
- fesional para adultos. la compatibilidad de edad no es igual a la admisi
- ón a un torneo concreto v30: las fechas1–4de marzo2027 verificados en
-  el actual venue-page. de la antigua under16policy se conservó como el 
- último reglamento leído\; venue-page no sustituye la verificación de 
- nuevos eventguidelines2027. Empresas: Exposición de la industria de la 
- comunicación y digital\, no especializada en robótica\; comprobar el c
- atálogo y el programa robótico.. Fuente verificada el 2026-10-01.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Las condici
+ ones del recinto de MWC Barcelona 2027 prohíben el acceso a menores de 
+ 16 años. Entrada de adultos: registro profesional para adultos. Las con
+ diciones del recinto de MWC Barcelona 2027 prohíben el acceso a menores
+  de 16 años. Empresas: Exposición de la industria de la comunicación 
+ y digital\, no especializada en robótica\; comprobar el catálogo y el 
+ programa robótico.. Fuente verificada el 2026-11-08.
 LOCATION:Barcelona\, España
 URL:https://www.mwcbarcelona.com/virtual-assistance/va-venue-information
 STATUS:TENTATIVE
@@ -839,23 +820,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E092@family-stem.local
-DTSTAMP:20261006T205843Z
-SUMMARY:[Exposición · confirmar admisión de menores] Robotics Summit &
-  Expo 2027
+DTSTAMP:20261108T060259Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] Robotics Summit
+  & Expo 2027
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270604
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. el visitor 
- gate de edad infantil no se encuentra en las condiciones leídas. antes 
- de reservar\, especifique la entrada de los niños de 6 y 9 años\, el a
- compañamiento\, el boleto y los documentos extranjeros. Entrada de adul
- tos: Conferencia o expo pass\; puerta de edad infantil no confirmada. co
- mprobar la nueva FAQ y el registro extranjero.. Expo Floor / FAQ en la v
- erificación actual devolvieron 403. las fechas confirmadas en Arrowfly\
- ; la política infantil y el catálogo completo 2027 aún no se han leí
- do. Empresas: En la página principal\, por ahora\, hay 2026 expositores
-  y 2025\, las compañías visitantes. Boston Dynamics\, Amazon Robotics 
- y Tesla no son los expositores confirmados de 2027.. Fuente verificada e
- l 2026-09-30.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. La organiza
+ ción admite a visitantes desde los 18 años en todos los pabellones\, s
+ esiones y espacios de networking. Entrada de adultos: Comprobar la dispo
+ nibilidad del tipo de pase elegido y el horario del recinto de exposici
+ ón.. El enlace de tarifas aún muestra la edición de 2026. Cotejar la 
+ nueva tarifa de 2027. Empresas: Cotejar el elenco y el horario de cada d
+ emostración con el programa de la edición vigente.. Fuente verificada 
+ el 2026-11-08.
 LOCATION:Boston · John B. Hynes Convention Center\, Estados Unidos
 URL:https://www.roboticssummit.com/
 STATUS:TENTATIVE
@@ -863,21 +840,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E094@family-stem.local
-DTSTAMP:20261107T075407Z
+DTSTAMP:20261108T060516Z
 SUMMARY:[Exposición · niños de 6/9 años no admitidos] Automate 2027 
  — robotics / automation
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270514
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Pabellón a
- ccesible desde 12 años. De 12–17 años solo con adulto. Entrada de ad
- ultos: registrarse con antelación: Salón de exposiciones gratis\; conf
- erence\, exams y los eventos individuales se pagan por separado. niños 
- hasta 12 años prohibidos sin excepción..  Empresas: en el catálogo of
- icial 2026 se han enumerado ABB Robotics\, FANUC America\, Yaskawa Motom
- an\, Universal Robots\, Unitree Robotics\, Agibot\, Festo\, Beckhoff. Es
- tos son ejemplos verificados de la edición anterior.. catálogo complet
- o 2027 todavía se está formando: lista de los que se encuentran 2026 n
- o garantiza sus puestos en 2027.. Fuente verificada el 2026-11-07.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. No se admit
+ e a menores de 12 años\, sin excepciones. Visitantes de 12–17 años s
+ olo con una persona adulta. Entrada de adultos: registrarse con antelaci
+ ón: Salón de exposiciones gratis\; conference\, exams y los eventos in
+ dividuales se pagan por separado. niños hasta 12 años prohibidos sin e
+ xcepción.. 10–12 de mayo de 10:00 a 17:00\, 13 de mayo de 10:00 a 15:
+ 00. Exposición gratuita con acreditación\, congreso de pago por separa
+ do. Empresas: en el catálogo oficial 2026 se han enumerado ABB Robotics
+ \, FANUC America\, Yaskawa Motoman\, Universal Robots\, Unitree Robotics
+ \, Agibot\, Festo\, Beckhoff. Estos son ejemplos verificados de la edici
+ ón anterior.. catálogo completo 2027 todavía se está formando: lista
+  de los que se encuentran 2026 no garantiza sus puestos en 2027.. Fuente
+  verificada el 2026-11-08.
 LOCATION:Las Vegas · Convention Center\, Estados Unidos
 URL:https://www.automateshow.com/
 STATUS:TENTATIVE
@@ -885,18 +865,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E096@family-stem.local
-DTSTAMP:20261006T205843Z
+DTSTAMP:20261108T060259Z
 SUMMARY:[Exposición · niños de 6/9 años no admitidos] Expo Manufactur
  a 2027
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270226
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. organizador
- : profesionales de la industria mayores de 21 años. Los niños 6/9 no p
- ueden entrar. Entrada de adultos: la inscripción gratuita de un profesi
- onal de la industria mayor de 21 años..  Empresas: la presencia de indu
- strias / expo confirmada. la lista separada de las empresas de esta edic
- ión no se ha comprobado\; la participación de los expositores pasados 
- no se garantiza.. Fuente verificada el 2026-09-30.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Acceso para
+  profesionales del sector mayores de 21 años. Preinscripción con la or
+ ganización. Entrada de adultos: Acceso para profesionales del sector ma
+ yores de 21 años. Preinscripción con la organización.. 23–25 de feb
+ rero de 2027\, de 12:00 a 19:00 cada día\, Cintermex. Empresas: la pres
+ encia de industrias / expo confirmada. la lista separada de las empresas
+  de esta edición no se ha comprobado\; la participación de los exposit
+ ores pasados no se garantiza.. Fuente verificada el 2026-11-08.
 LOCATION:Monterrey · Cintermex\, México
 URL:https://expomanufactura.com.mx/
 STATUS:TENTATIVE
@@ -924,18 +905,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E098@family-stem.local
-DTSTAMP:20261006T205843Z
+DTSTAMP:20261108T060259Z
 SUMMARY:[Exposición · niños de 6/9 años no admitidos] EXPOMAFE 2027
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270509
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Hasta los 1
- 6 años\, no se puede entrar\, incluso con los padres. Excepción para l
- os grupos de escuelas técnicas mayores de 14 años\; niños de 6/9 no s
- on adecuados. Entrada de adultos: gratis para los profesionales de la in
- dustria\, pasaporte y foto ID..  Empresas: la presencia de industrias / 
- expo confirmada. la lista separada de las empresas de esta edición no s
- e ha comprobado\; la participación de los expositores pasados no se gar
- antiza.. Fuente verificada el 2026-09-30.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. No se admit
+ e a menores de 16 años. Excepciones para grupos acreditados de escuelas
+  técnicas mayores de 14 años con profesores y bebés lactantes. Las ed
+ ades de 6 y 9 años quedan excluidas. Entrada de adultos: Gratis para pr
+ ofesionales del sector con acreditación y documento de identidad con fo
+ to.. 4–7 de mayo de 10:00 a 19:00\, 8 de mayo de 09:00 a 17:00. São P
+ aulo Expo. Empresas: la presencia de industrias / expo confirmada. la li
+ sta separada de las empresas de esta edición no se ha comprobado\; la p
+ articipación de los expositores pasados no se garantiza.. Fuente verifi
+ cada el 2026-11-08.
 LOCATION:São Paulo Expo\, Brazil
 URL:https://www.expomafe.com.br/
 STATUS:TENTATIVE
@@ -2225,23 +2208,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E208@family-stem.local
-DTSTAMP:20261107T063902Z
+DTSTAMP:20261108T060516Z
 SUMMARY:[Exposición · confirmar admisión de menores] Maker Faire Bay A
  rea 2027
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20270927
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condicional
- : confirmar entrada infantil\, acompañamiento y edad de actividad elegi
- da. Entrada de adultos: Comprobar entrada de visitante y reserva de acti
- vidad elegida\; propuesta expositora no concede entrada familiar.. Pági
- na con parámetro 2026 anuncia expresamente regreso 24–26 de septiembr
- e de 2027 a Mare Island. Días de entrada familiar\, régimen escolar de
- l viernes\, entradas y talleres 2027 aún sin determinar. Descuentos y p
- rograma 2026 no se trasladan. Empresas: Festival de proyectos y makers\;
-  no es un catálogo completo de empresas mundiales ni una final mundial 
- de robótica.. Fuente verificada el 2026-11-07.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. La organiza
+ ción presenta la feria como familiar. Aún se deben confirmar los días
+  de acceso general\, los precios y las condiciones de las entradas infan
+ tiles de 2027. Entrada de adultos: La organización presenta la feria co
+ mo familiar. Aún se deben confirmar los días de acceso general\, los p
+ recios y las condiciones de las entradas infantiles de 2027.. 24–26 de
+  septiembre de 2027\, Mare Island. Cotejar horarios\, precios y agenda d
+ e talleres de la edición vigente. Empresas: Festival de proyectos y mak
+ ers\; no es un catálogo completo de empresas mundiales ni una final mun
+ dial de robótica.. Fuente verificada el 2026-11-08.
 LOCATION:California · Mare Island\, Estados Unidos
-URL:https://makerfaire.com/bay-area/?2026
+URL:https://makerfaire.com/bay-area/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2627,51 +2610,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E265@family-stem.local
-DTSTAMP:20261108T033035Z
+DTSTAMP:20261108T060259Z
 SUMMARY:[Exposición · visita en familia] AI for Good Global Summit · I
  nnovation Expo 2027
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270625
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. 21–24 de 
- junio de 2027\, Palexpo Geneva\; exposición y networking empiezan antes
-  de apertura oficial del 23 de junio. Discovery Pass para adulto general
-  CHF 50\, menores de 18 participan gratis con inscripción personal. Bas
- e dos adultos CHF 100\, sin viaje / alojamiento. Discovery incluye expos
- ición\, Youth AI Forum y parte de zonas de talleres\; Centre Stage pres
- encial requiere otro pase. Programa y expositores 2027 aún en preparaci
- ón\; lista 2026 y cifra promocional 300+ sin convertir en composición 
- garantizada 2027. Entrada de adultos: Discovery Pass para adulto general
-  CHF 50\; otros niveles de acceso aparte.. 21–24 de junio de 2027\, Pa
- lexpo Geneva\; exposición y networking empiezan antes de apertura ofici
- al del 23 de junio. Discovery Pass para adulto general CHF 50\, menores 
- de 18 participan gratis con inscripción personal. Base dos adultos CHF 
- 100\, sin viaje / alojamiento. Discovery incluye exposición\, Youth AI 
- Forum y parte de zonas de talleres\; Centre Stage presencial requiere ot
- ro pase. Programa y expositores 2027 aún en preparación\; lista 2026 y
-  cifra promocional 300+ sin convertir en composición garantizada 2027. 
- Empresas: Lista nominal de exposición 2027 aún sin confirmar\; ejemplo
- s 2026 y cifra anunciada 300+ no garantizan empresas concretas.. Fuente 
- verificada el 2026-11-07.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Hasta los 1
+ 8 años\, inscripción gratuita por separado a cargo del padre\, madre o
+  tutor legal. Para recoger la acreditación se exige un documento del me
+ nor que acredite su edad. La foto se toma allí. La persona adulta con p
+ ase válido acompaña al menor en todo momento. Entrada de adultos: Disc
+ overy Pass CHF 50 por persona adulta. Menores de 18 años gratis con pas
+ es individuales. Para dos personas adultas CHF 100 sin transporte ni alo
+ jamiento.. Exposición del 21 al 24 de junio de 2027\, apertura oficial 
+ el 23 de junio. Discovery incluye la exposición y el Youth AI Forum. Pa
+ ra asistir al Centre Stage se exige otro pase. Geneva AI Summit requiere
+  invitación. Empresas: Lista nominal de exposición 2027 aún sin confi
+ rmar\; ejemplos 2026 y cifra anunciada 300+ no garantizan empresas concr
+ etas.. Fuente verificada el 2026-11-08.
 LOCATION:Palexpo · Route François-Peyrot 30 · Geneva\, Suiza
 URL:https://2027summit.aiforgood.itu.int/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:stem-exhibition-E266@family-stem.local
-DTSTAMP:20261107T055014Z
-SUMMARY:[Exposición · visita en familia] Universum UNAM · STEM Week
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Visita al m
- useo con entrada. Edad y aforo dependen del taller. Entrada de adultos: 
- 90 MXN adulto\, 80 MXN menor\, menores de 2 años gratis. La entrada de 
- 1 adulto y 2 menores a estas tarifas cuesta 250 MXN.. Talleres accesible
- s con entrada del museo. Aforo limitado y programa sujeto a cambios. Emp
- resas: Talleres y demostraciones de museo.. Fuente verificada el 2026-11
- -06.
-LOCATION:Universum\, UNAM · Coyoacán\, CDMX\, México
-URL:https://www.universum.unam.mx/actividades/e/393/stem-week
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2715,21 +2673,6 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Talleres fa
  026-11-07.
 LOCATION:Fábrica Artiach · Zorrotzaurre\, Bilbao\, España
 URL:https://bilbao.makerfaire.com/programa-2026/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:stem-exhibition-E269@family-stem.local
-DTSTAMP:20261107T063902Z
-SUMMARY:[Exposición · visita en familia] Maker Faire Salzburg 2026
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Oficialment
- e para todas las edades. Condiciones de participación por estación. En
- trada de adultos: Entrada general gratuita..  Empresas: Publicado el dir
- ectorio local de participantes.. Fuente verificada el 2026-11-07.
-LOCATION:HTBLuVA Salzburg · Itzlinger Hauptstraße 30\, Austria
-URL:https://www.makerdays.at/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3076,17 +3019,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E289@family-stem.local
-DTSTAMP:20261107T075407Z
+DTSTAMP:20261108T060259Z
 SUMMARY:[Exposición · confirmar admisión de menores] XPONENTIAL 2027 
  · XPO Hall
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270521
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condicional
- . Confirmar edad de visitante y acompañamiento. Entrada de adultos: Se 
- requiere credencial para XPO Hall. Confirmar edad y acompañamiento seg
- ún reglas 2027..  Empresas: Consultar la lista de expositores de esta e
- dición en el catálogo del organizador.. Fuente verificada el 2026-11-0
- 7.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. El acceso d
+ e menores de 18 años al XPO Hall se evalúa individualmente\, con inscr
+ ipción obligatoria y exención de responsabilidad firmada. Pueden exigi
+ r acompañamiento. Durante el montaje y desmontaje no se admiten menores
+  de 18 años. Entrada de adultos: Comprobar la disponibilidad del tipo d
+ e pase elegido y el horario del recinto de exposición.. Las normas ofic
+ iales de la feria de 2027 exigen por separado que una persona adulta aco
+ mpañe al menor durante las demostraciones con vehículos. Empresas: Con
+ sultar la lista de expositores de esta edición en el catálogo del orga
+ nizador.. Fuente verificada el 2026-11-08.
 LOCATION:Miami Beach Convention Center · Miami Beach\, Florida\, Estados
   Unidos
 URL:https://www.xponential.org/
@@ -4069,28 +4016,6 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Exposición
  verificada el 2026-11-07.
 LOCATION:Hotel Le Méridien · Santiago\, Chile
 URL:https://mcielectronics.cl/mci-expo/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:stem-exhibition-E358@family-stem.local
-DTSTAMP:20261107T133204Z
-SUMMARY:[Exposición · visita en familia] Encuentro de Robótica Uandes 
- 2026
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. La organiza
- ción anunció acceso para todos con inscripción previa. Encabezado 09:
- 00–12:00\, inicio 09:30 en la descripción. Confirmar horario y plazas
- . Entrada de adultos: La organización anunció acceso para todos con in
- scripción previa. Encabezado 09:00–12:00\, inicio 09:30 en la descrip
- ción. Confirmar horario y plazas.. La organización anunció acceso par
- a todos con inscripción previa. Encabezado 09:00–12:00\, inicio 09:30
-  en la descripción. Confirmar horario y plazas. Empresas: Encuentro de 
- robótica y tecnología para público general.. Fuente verificada el 202
- 6-11-07.
-LOCATION:Pérgola · Universidad de los Andes · Santiago\, Chile
-URL:https://www.uandes.cl/actualidad/eventos/349476/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6156,6 +6081,154 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Acudir con
  26-11-07.
 LOCATION:Ciudad de México\, México
 URL:https://www.universum.unam.mx/actividades/index/2026/12/13
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E520@family-stem.local
+DTSTAMP:20261108T060259Z
+SUMMARY:[Exposición · visita en familia] RoboBoston · Robot Block Part
+ y 2027
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Inscripció
+ n gratuita a través de MassRobotics. Todas las edades. Dirección 550 H
+ arrison Ave. Entrada de adultos: Inscripción gratuita a través de Mass
+ Robotics. Todas las edades. Dirección 550 Harrison Ave.. Edición repro
+ gramada de MassRobotics. Demostraciones interactivas de robots de univer
+ sidades\, empresas y equipos estudiantiles. Empresas: Edición reprogram
+ ada de MassRobotics. Demostraciones interactivas de robots de universida
+ des\, empresas y equipos estudiantiles.. Fuente verificada el 2026-11-08
+ .
+LOCATION:SoWa Power Station · Boston\, MA\, Estados Unidos
+URL:https://www.massrobotics.org/roboboston/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E521@family-stem.local
+DTSTAMP:20261108T060259Z
+SUMMARY:[Exposición · visita en familia] RoboCup 2027 · Family Day
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Las familia
+ s y el público externo están invitados al Family Day. Quedan pendiente
+ s el horario\, la entrada y el acceso a cada actividad. Entrada de adult
+ os: Las familias y el público externo están invitados al Family Day. Q
+ uedan pendientes el horario\, la entrada y el acceso a cada actividad.. 
+ Actividades prácticas\, escenario y entrega de premios RoboCupJunior y 
+ Major Leagues. El horario aún está en preparación. Empresas: Cotejar 
+ el elenco y el horario de cada demostración con el programa de la edici
+ ón vigente.. Fuente verificada el 2026-11-08.
+LOCATION:Max Morlock Stadium · Nürnberg\, Alemania
+URL:https://2027.robocup.org/wm27/participation/family-day
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E522@family-stem.local
+DTSTAMP:20261108T060259Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] NVIDIA GTC 2027
+  · Physical AI & Robotics
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270319
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Acceso pres
+ encial desde los 18 años. La organización anuncia formato híbrido. Co
+ nfirmar por separado los requisitos de edad del acceso virtual. Entrada 
+ de adultos: Comprobar la disponibilidad del tipo de pase elegido y el ho
+ rario del recinto de exposición.. La portada indica 15–18 de marzo de
+  2027. Las preguntas frecuentes indican 14–18 de marzo para el evento 
+ general. El horario del recinto de exposición se verifica aparte. Empre
+ sas: Cotejar el elenco y el horario de cada demostración con el program
+ a de la edición vigente.. Fuente verificada el 2026-11-08.
+LOCATION:San Jose McEnery Convention Center · San Jose\, CA\, Estados Un
+ idos
+URL:https://www.nvidia.com/gtc/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E523@family-stem.local
+DTSTAMP:20261108T060259Z
+SUMMARY:[Exposición · confirmar admisión de menores] European Robotics
+  Forum 2027 · exhibition
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condicional
+ . No se publican las condiciones de acceso a esta edad. Entrada de adult
+ os: Hasta el 1 de diciembre de 2026\, pase de un día GBP 264\, pase com
+ pleto para no socios GBP 667.20 con IVA. Aún no se publica la tarifa de
+  la entrada solo a la feria.. Foro y exposición del 2 al 4 de marzo de 
+ 2027\, ICC Birmingham. Visitas de laboratorio aparte los días 1 y 5 de 
+ marzo. Quedan pendientes el precio\, la edad y las condiciones de la ent
+ rada solo a la feria. Empresas: Cotejar el elenco y el horario de cada d
+ emostración con el programa de la edición vigente.. Fuente verificada 
+ el 2026-11-08.
+LOCATION:ICC Birmingham\, Reino Unido
+URL:https://erf2027.eu/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E524@family-stem.local
+DTSTAMP:20261108T060259Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] MWC Shanghai 20
+ 27 · Robotics & AI
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270626
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Las pregunt
+ as frecuentes de MWC Shanghai publican un mínimo de 16 años. Las pregu
+ ntas frecuentes locales no publican una excepción específica para esta
+  edición. Entrada de adultos: Comprobar la disponibilidad del tipo de p
+ ase elegido y el horario del recinto de exposición.. El programa de Sha
+ nghái anuncia zonas de robótica e IA\, infraestructura de IA y 6G. Con
+ firmar expositores y horario de demostraciones para la edición de 2027.
+  Empresas: Cotejar el elenco y el horario de cada demostración con el p
+ rograma de la edición vigente.. Fuente verificada el 2026-11-08.
+LOCATION:SNIEC · Shanghai\, China
+URL:https://www.mwcshanghai.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E525@family-stem.local
+DTSTAMP:20261108T060259Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] FIEE 2027 · In
+ dustrial Automation & Connectivity
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270918
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Edad mínim
+ a de 18 años. Gratis para profesionales del sector. Acreditación previ
+ a en la web y documento con foto. No habrá registro en el recinto. Entr
+ ada de adultos: Edad mínima de 18 años. Gratis para profesionales del 
+ sector. Acreditación previa en la web y documento con foto. No habrá r
+ egistro en el recinto.. La organización acepta solicitudes de aviso cua
+ ndo abra la inscripción. La lista nominal publicada corresponde a 2025.
+  Empresas: La organización acepta solicitudes de aviso cuando abra la i
+ nscripción. La lista nominal publicada corresponde a 2025.. Fuente veri
+ ficada el 2026-11-08.
+LOCATION:São Paulo Expo\, Brasil
+URL:https://www.fiee.com.br/pt-br/o-evento.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E526@family-stem.local
+DTSTAMP:20261108T060259Z
+SUMMARY:[Exposición · confirmar admisión de menores] Japan Drone 2027 
+ · Drones × AI
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270605
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condicional
+ . No se publican las condiciones de acceso a esta edad. Entrada de adult
+ os: JPY 3 000 con impuestos. Gratis con inscripción previa hasta el 2 d
+ e junio según las condiciones publicadas.. Temática de la edición: dr
+ ones e inteligencia artificial. Hay que confirmar acceso de menores\, ac
+ ompañamiento y condiciones de las demostraciones. Empresas: Cotejar el 
+ elenco y el horario de cada demostración con el programa de la edición
+  vigente.. Fuente verificada el 2026-11-08.
+LOCATION:Makuhari Messe · Chiba\, Japón
+URL:https://ssl.japan-drone.com/outline/index.html
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

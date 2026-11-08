@@ -6194,22 +6194,22 @@
       "city": "São Paulo Expo",
       "start": "2027-05-04",
       "end": "2027-05-08",
-      "period": "",
+      "period": "4–7 de mayo de 10:00 a 19:00, 8 de mayo de 09:00 a 17:00. São Paulo Expo.",
       "date_status": "Confirmado",
       "deadline": "",
-      "age": "Hasta los 16 años, no se puede entrar, incluso con los padres. Excepción para los grupos de escuelas técnicas mayores de 14 años; niños de 6/9 no son adecuados.",
-      "mat": "No; los niños de 6/9 no pueden entrar",
-      "osc": "No; los niños de 6/9 no pueden entrar",
+      "age": "No se admite a menores de 16 años. Excepciones para grupos acreditados de escuelas técnicas mayores de 14 años con profesores y bebés lactantes. Las edades de 6 y 9 años quedan excluidas.",
+      "mat": "No. Edad mínima de 16 años.",
+      "osc": "No. Edad mínima de 16 años.",
       "format": "visitante de la exposición / expo y conference",
       "entry": "gratis para los profesionales de la industria, pasaporte y foto ID.",
       "gear": "No es necesario.",
       "language": "el idioma de la etapa concreta y la capacidad de EN/ES para especificar",
       "languages": [],
-      "cost": "el equipo, el registro y el viaje se calculan por separado",
+      "cost": "Gratis para profesionales del sector con acreditación y documento de identidad con foto.",
       "level": "Exposición de empresas y tecnologías",
       "reward": "demostraciones, comunicación y conocimiento de las tecnologías; no medalla de competición",
-      "priority": "P4  No se puede a los niños, el camino de los adultos",
-      "action": "comprobar el pase, la regla infantil, el programa de demostraciones y la lista de los objetos de exposición.",
+      "priority": "P4 — viaje de una persona adulta",
+      "action": "Comprobar la disponibilidad del tipo de pase elegido y el horario del recinto de exposición.",
       "source": "https://www.expomafe.com.br/",
       "references": [
         {
@@ -6217,10 +6217,10 @@
           "label": "FAQ: edad y visitantes"
         }
       ],
-      "proof": "Se ha leído la fuente primaria; las fechas exactas y las condiciones desconocidas se dividen.",
-      "checked": "2026-09-30",
+      "proof": "Cotejado con el horario oficial y las condiciones de acceso publicadas.",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "",
+      "note": "4–7 de mayo de 10:00 a 19:00, 8 de mayo de 09:00 a 17:00. São Paulo Expo.",
       "themes": [
         "robotics",
         "ai",
@@ -6234,8 +6234,8 @@
       "language_certainty": "la traducción del sitio no confirma la lengua de la jueza o la ayuda a los niños.",
       "exhibition_tier": "regional",
       "visitor_policy": "adults_only",
-      "visitor_policy_note": "Hasta los 16 años, no se puede entrar, incluso con los padres. Excepción para los grupos de escuelas técnicas mayores de 14 años; niños de 6/9 no son adecuados.",
-      "adult_entry": "gratis para los profesionales de la industria, pasaporte y foto ID.",
+      "visitor_policy_note": "No se admite a menores de 16 años. Excepciones para grupos acreditados de escuelas técnicas mayores de 14 años con profesores y bebés lactantes. Las edades de 6 y 9 años quedan excluidas.",
+      "adult_entry": "Gratis para profesionales del sector con acreditación y documento de identidad con foto.",
       "highlights": [
         "Robots industriales",
         "automatización de las células",
@@ -27992,6 +27992,65 @@
       "related_ids": [
         "C1298"
       ]
+    },
+    {
+      "id": "E525",
+      "title": "FIEE 2027 · Industrial Automation & Connectivity",
+      "block": "Eventos",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "iso": [
+        "BRA"
+      ],
+      "city": "São Paulo Expo",
+      "start": "2027-09-14",
+      "end": "2027-09-17",
+      "deadline": "",
+      "period": "14–17 de septiembre de 2027, de 13:00 a 20:00. Automatización, electrónica, energía y conectividad industrial.",
+      "date_status": "Confirmado",
+      "date_scope": "exhibition_window",
+      "status": "Idea",
+      "source": "https://www.fiee.com.br/pt-br/o-evento.html",
+      "references": [
+        {
+          "url": "https://www.fiee.com.br/pt-br/credenciamento.html",
+          "label": "Página de la organización o condiciones de acceso."
+        }
+      ],
+      "checked": "2026-11-08",
+      "proof": "Cotejado con el horario oficial y las condiciones de acceso publicadas.",
+      "age": "Edad mínima de 18 años. Gratis para profesionales del sector. Acreditación previa en la web y documento con foto. No habrá registro en el recinto.",
+      "mat": "No. Edad mínima de 18 años.",
+      "osc": "No. Edad mínima de 18 años.",
+      "format": "Feria profesional con pase nominativo.",
+      "entry": "Edad mínima de 18 años. Gratis para profesionales del sector. Acreditación previa en la web y documento con foto. No habrá registro en el recinto.",
+      "gear": "Formato de visita. No hace falta llevar un robot.",
+      "language": "Confirmar el idioma de cada demostración o taller.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar el idioma de cada demostración o taller.",
+      "cost": "Edad mínima de 18 años. Gratis para profesionales del sector. Acreditación previa en la web y documento con foto. No habrá registro en el recinto.",
+      "level": "Gran exposición internacional",
+      "reward": "",
+      "priority": "P4 — viaje de una persona adulta",
+      "action": "Comprobar la disponibilidad del tipo de pase elegido y el horario del recinto de exposición.",
+      "note": "La organización acepta solicitudes de aviso cuando abra la inscripción. La lista nominal publicada corresponde a 2025.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Gran exposición internacional",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "visitor_policy": "adults_only",
+      "visitor_policy_note": "Edad mínima de 18 años. Gratis para profesionales del sector. Acreditación previa en la web y documento con foto. No habrá registro en el recinto.",
+      "adult_entry": "Edad mínima de 18 años. Gratis para profesionales del sector. Acreditación previa en la web y documento con foto. No habrá registro en el recinto.",
+      "exhibition_tier": "global",
+      "exhibitor_note": "La organización acepta solicitudes de aviso cuando abra la inscripción. La lista nominal publicada corresponde a 2025.",
+      "exhibitors": []
     },
     {
       "id": "CP047-20270103-20270108",
