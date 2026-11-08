@@ -870,7 +870,7 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 303,
+    "version": 304,
     "status": "implementation_snapshot",
     "events": 10794,
     "competitions": 4812,
@@ -928,10 +928,10 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 302,
+    "version": 303,
     "status": "implementation_snapshot",
-    "events": 10775,
-    "competitions": 4800,
+    "events": 10794,
+    "competitions": 4812,
     "league_profiles": 309,
     "camp_dossiers": 2117,
     "budget_offers": 312,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 662,
+    "exhibitions_events": 669,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 303,
+    "prepared_ui_version": 304,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 302,
-    "previous_verified_commit": "7cc150d6be28e8bf469f4117d43844ca734cbf37"
+    "previous_verified_ui_version": 303,
+    "previous_verified_commit": "fef260a70335748d0fb9d1486be6269e6650b90a"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -31509,5 +31509,13 @@
     },
     "audit": "data/junior-projects-and-game-festivals-audit-v303.json",
     "source_receipts": "data/junior-projects-and-game-festivals-source-receipts-v303.json"
+  },
+  "catalog_share_links_v304": {
+    "version": 304,
+    "catalog_filters": true,
+    "exhibition_filters": true,
+    "stable_event_ids": true,
+    "public_links_from_localhost": true,
+    "browser_plans_shared": false
   }
 }
