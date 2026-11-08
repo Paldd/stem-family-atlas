@@ -79444,7 +79444,7 @@ Precio: Participación gratuita.
 Acceso: Envío en línea desde cualquier país, individual o hasta 5 integrantes. Para menores de 13, un mentor adulto registra el proyecto.
 Limitaciones: Recepción de proyectos desde 13.01.2027. No consta el cierre. Emisión pública 23.06.2027. Los participantes reciben comentarios y certificado, y el jurado destaca algunos proyectos.
 Fuente: https://online.coolestprojects.org/cp-online-2027
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### C840 · iCode Math Hackathon · Penang2026 Blockly Junior Final
 
@@ -79508,7 +79508,7 @@ Costo: Gratuidad de Rules; creación de cuentas y registro en el concurso ○ ac
 Entrada: Niños independientes y coding clubs. Se exige un documento de la escuela con nombre, escuela/ciudad/país, clase y DOB, así como una guía adulta/consentimiento de los padres. Las restricciones actuales de algunos países se refieren a Bangladesh, Cambodia, India e Indonesia; la lista puede cambiar.
 Limitaciones: IKCC Rules actualizadas: proyectos internacionales solo en inglés. AI prohibido para idea, historia, código, personajes, fondos, imágenes, sonidos y cualquier parte. Niño crea proyecto por sí mismo solo durante ventana del concurso; sin código antiguo, remix ni tutorial rehecho. Requiere Scratch SHARE-link público, no archivo sb3. No trasladar aquí proyecto AI de CodeFest / WAICY. Requiere documento escolar oficial con datos del niño y guide adulto / consentimiento. Organizador prevé publicar nombre / apellido, edad, colegio, ciudad / país y proyecto; foto opcional. Sin documentos enviados. La página de 2027 publica los grupos 7–8 / 9–10 / 11–12 / 13–14. Ventana 3–31 de enero 2027; resultados 15 de febrero. Homepage ya muestra Galactic Police!, pero al lado dice tema announced January 3 y soon: no adivinar tarea final ni empezar proyecto antes.
 Fuente: https://www.ikcc.info/en/rules-pag3
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### ~#C844 · IKCC · World Scratch Coding 2027 · Inicio
 
@@ -79524,7 +79524,7 @@ Costo: Gratuidad de Rules; creación de cuentas y registro en el concurso ○ ac
 Entrada: Niños independientes y coding clubs. Se exige un documento de la escuela con nombre, escuela/ciudad/país, clase y DOB, así como una guía adulta/consentimiento de los padres. Las restricciones actuales de algunos países se refieren a Bangladesh, Cambodia, India e Indonesia; la lista puede cambiar.
 Limitaciones: IKCC Rules actualizadas: proyectos internacionales solo en inglés. AI prohibido para idea, historia, código, personajes, fondos, imágenes, sonidos y cualquier parte. Niño crea proyecto por sí mismo solo durante ventana del concurso; sin código antiguo, remix ni tutorial rehecho. Requiere Scratch SHARE-link público, no archivo sb3. No trasladar aquí proyecto AI de CodeFest / WAICY. Requiere documento escolar oficial con datos del niño y guide adulto / consentimiento. Organizador prevé publicar nombre / apellido, edad, colegio, ciudad / país y proyecto; foto opcional. Sin documentos enviados. Confirmar categorías del concurso concreto 2027.
 Fuente: https://www.ikcc.info/en/rules-pag3
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### # C845 · CódigoYetu · National Young Innovators Hackathon · temporada siguiente
 

@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10026; competiciones: 4546; eventos: 526; campamentos / programas: 4954. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 429 — son ediciones y sedes, no cantidad de marcas únicas.
+La base tiene 10032 fichas, con 4552 de competiciones, 526 de eventos y 4954 de campamentos o programas. Hay 299 perfiles de ligas y programas. Las 429 fichas de exposiciones importantes o especializadas corresponden a ediciones y sedes.
 
 Hay registros específicos para 226 de 249 países y territorios. Países con auditoría completa: 0. Revisión de archivo v51: 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros específicos para 226 de 249 países y territorios. Países con au
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1896 | 96 | 1244 |
+| Norteamérica | 40 | 1898 | 96 | 1244 |
 | América del Sur | 14 | 414 | 37 | 199 |
-| Europa | 52 | 575 | 106 | 1425 |
+| Europa | 52 | 578 | 106 | 1425 |
 | África | 53 | 234 | 28 | 92 |
-| Asia | 49 | 1129 | 131 | 1648 |
+| Asia | 49 | 1130 | 131 | 1648 |
 | Oceanía | 20 | 160 | 29 | 331 |
 
 Fichas interregionales o mundiales sin continente único: 160. América del Norte incluye Centroamérica y el Caribe. Las cifras corresponden al inventario de la base y no miden su grado de cobertura.
 
-VEX: 814 de 4546 fichas de competiciones (17.9%). El inventario tiene una proporción elevada de fichas de VEX.
+VEX: 814 de 4552 fichas de competición (17.9%). Es un desequilibrio claro de cobertura.
 
 ## Lo que queda
 
@@ -161,7 +161,7 @@ VEX: 814 de 4546 fichas de competiciones (17.9%). El inventario tiene una propor
 - **Mostra Nacional de Robótica · MNR**: 4 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://mnr.robocup.org.br/cronograma/
 - **Liga Nacional de Robótica · Paraguay / VEX**: 1 tarjeta, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5257.html
 - **Global Appathon · MIT App Inventor**: 2 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://globalappathon.org/
-- *Games for Change · Student Challenge**: 1 tarjeta, 0 con fechas exactas futuras. https://learn.gamesforchange.org/student-challenge
+- **Games for Change · Student Challenge**: 1 ficha, 1 con fechas futuras precisas. Hay un perfil y fichas. La cobertura local es parcial. https://learn.gamesforchange.org/student-challenge
 - *Astro Pi · Proyecto de capacitación espacial**: 0 tarjetas, 0 con fechas exactas futuras; programa de capacitación/alumnos; no hay etapas competitivas. https://astro-pi.org/mission-zero/eligibility
 - **Avishkaar League · IRC / Makeathon / CodeQuest / Soccer**: 13 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://community.avishkaar.cc/avishkaar-league-2026
 - **Robotek Grand Tournament · Kazajstán / Taiwán**: 10 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/file/d/1yMRdrTBuEpfDksU-C0ViP6vfu3SuInWQ/view

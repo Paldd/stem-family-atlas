@@ -20,7 +20,7 @@ for(const lang of ['','es/']){
  assert.equal(by('C030').start,'2027-04-25');assert.equal(by('C030').end,'2027-05-07');assert.equal(by('C030').date_history[0].start,'2027-04-27');assert.equal(by('C030').date_history[0].end,'2027-05-06');assert.equal(by('C030').scope,'international');
  assert.equal(by('C028').start,'');assert.equal(by('C028').end,'');assert(by('C028').city.includes('Las Vegas Convention Center'));assert.deepEqual(Array.from(by('C028').iso),['USA']);assert.equal(by('C019').start,'');
  assert.equal(by('C032').scope,'international');assert.equal(by('C032').start,'2027-04-28');
- const app=fs.readFileSync(path.join(base,'assets/app.js'),'utf8'),code=app.slice(app.indexOf('function filtered(){'),app.indexOf('function addDays('));
+ const app=fs.readFileSync(path.join(base,'assets/app.js'),'utf8'),code=app.slice(app.indexOf('const admissionAliases'),app.indexOf('function addDays('));
  const state={view:'catalog',query:'',routeIsos:[],excluded:true,sort:'date'},c={EVENTS:DATA.events,DATA,state,window:{},DIRECTIONS:{matches:()=>true},fits:()=>true,TODAY:'2026-11-06',foldSearch:s=>String(s).toLowerCase()};vm.createContext(c);vm.runInContext(code,c);
  state.league='recf';const league=new Set(Array.from(c.filtered(),e=>e.id));assert(native.new_events.every(e=>league.has(e.id)),'Every imported event reachable through RECF profile');
  Object.assign(state,{league:'',scope:'international',country:'USA'});const worlds=new Set(Array.from(c.filtered(),e=>e.id));assert(worlds.has('C028')&&worlds.has('C030')&&worlds.has('C032'),'World-route filters include the corrected hubs');

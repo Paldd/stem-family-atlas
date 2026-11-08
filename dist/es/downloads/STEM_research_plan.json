@@ -870,10 +870,10 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 263,
+    "version": 264,
     "status": "implementation_snapshot",
-    "events": 10026,
-    "competitions": 4546,
+    "events": 10032,
+    "competitions": 4552,
     "league_profiles": 299,
     "camp_dossiers": 1925,
     "budget_offers": 312,
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 262,
+    "version": 263,
     "status": "implementation_snapshot",
-    "events": 10003,
-    "competitions": 4535,
-    "league_profiles": 298,
-    "camp_dossiers": 1919,
+    "events": 10026,
+    "competitions": 4546,
+    "league_profiles": 299,
+    "camp_dossiers": 1925,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 263,
+    "prepared_ui_version": 264,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 262,
-    "previous_verified_commit": "8a4295b2023a6b7ab074664ea936d3d2a14b2782"
+    "previous_verified_ui_version": 263,
+    "previous_verified_commit": "2723db8dc74fe04c52e20fa25e0c91403c4a3857"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 262,
-    "published_version": 262,
-    "latest_source_commit": "8a4295b2023a6b7ab074664ea936d3d2a14b2782",
-    "published_commit": "8a4295b2023a6b7ab074664ea936d3d2a14b2782",
-    "latest_workflow": 42455193968,
+    "latest_source_version": 263,
+    "published_version": 263,
+    "latest_source_commit": "2723db8dc74fe04c52e20fa25e0c91403c4a3857",
+    "published_commit": "2723db8dc74fe04c52e20fa25e0c91403c4a3857",
+    "latest_workflow": 42456871406,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -26557,5 +26557,74 @@
     "legacy_overlay_league_ids": [
       "mrc-global-olympiad"
     ]
+  },
+  "online_entry_and_game_design_v264": {
+    "version": 264,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4548",
+      "C4549",
+      "C4550",
+      "C4551",
+      "C4552",
+      "C4553"
+    ],
+    "refreshed_event_ids": [
+      "C848",
+      "C3205",
+      "C846",
+      "C847",
+      "C039",
+      "C843",
+      "C844",
+      "C4537",
+      "C4538",
+      "C4539",
+      "C4540",
+      "C4541",
+      "C4542",
+      "C3327",
+      "C1785",
+      "C1786",
+      "C1787",
+      "C1788",
+      "C1789"
+    ],
+    "legacy_overlay_event_ids": [
+      "C848",
+      "C3205",
+      "C846",
+      "C847",
+      "C039",
+      "C843",
+      "C844",
+      "C4537",
+      "C4538",
+      "C4539",
+      "C4540",
+      "C4541",
+      "C4542",
+      "C3327",
+      "C1785",
+      "C1786",
+      "C1787",
+      "C1788",
+      "C1789"
+    ],
+    "games_for_change": "C848",
+    "ggj_next": "C3205",
+    "malta": [
+      "C4549",
+      "C4550",
+      "C4551"
+    ],
+    "nyc": "C4552",
+    "pennsylvania": "C4553",
+    "coding_lab_submission": "C4548",
+    "source_requests": 21,
+    "audit": "data/online-entry-and-game-design-audit-v264.json",
+    "source_receipts": "data/online-entry-and-game-design-source-receipts-v264.json"
   }
 }
