@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10731; competiciones: 4788; eventos: 661; campamentos / programas: 5282. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 562 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10744; competiciones: 4800; eventos: 662; campamentos / programas: 5282. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 563 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,8 +14,8 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 1960 | 145 | 1332 |
-| América del Sur | 15 | 443 | 50 | 230 |
+| América del Norte | 41 | 1963 | 146 | 1332 |
+| América del Sur | 15 | 452 | 50 | 230 |
 | Europa | 55 | 629 | 136 | 1534 |
 | África | 60 | 247 | 40 | 130 |
 | Asia | 50 | 1175 | 158 | 1705 |
@@ -23,7 +23,7 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 Fichas interregionales o globales sin un solo continente asignado: 189. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base y la cobertura sigue siendo parcial.
 
-VEX: 815 de 4788 fichas de competiciones (17.0%). La cobertura se concentra en este circuito.
+VEX: 815 de 4800 fichas de competiciones (17.0%). La cobertura está concentrada en esta liga.
 
 ## Lo que queda
 
@@ -939,6 +939,7 @@ VEX: 815 de 4788 fichas de competiciones (17.0%). La cobertura se concentra en e
 - **EXPOCONVENTION Punta del Este 2027 · Gaming** — Uruguay; 2027-04-17 – 2027-04-18. Con un adulto. Consultar por separado las condiciones de entrada para adultos. https://boleteria.redtickets.uy/evento/EXPOCONVENTION--Punta-del-Este-2027/32743/
 - **MEGA XP 2027 · Juegos de mesa y diseño de juegos** — México; 2027-04-24 – 2027-04-25. Confirmar acceso infantil. https://megaxp.com.mx/edicion-2027/
 - **World Science Festival Brisbane 2027 · Public Programme** — Australia; fecha desconocida. Confirmar acceso infantil. https://worldsciencefestival.com.au/
+- **Mundialito FutBot Uriangato 2026 · Visita pública** — México; 2026-11-12. Con un adulto. Consultar por separado las condiciones de entrada para adultos. https://uriangato.gob.mx/web/noticias/preparate-para-el-mundialito-futbot-evento-regional
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

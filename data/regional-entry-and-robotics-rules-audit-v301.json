@@ -1,0 +1,86 @@
+{
+  "version": 301,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C4790",
+    "C4791",
+    "C4792",
+    "C4793",
+    "C4794",
+    "C4795",
+    "C4796",
+    "C4797",
+    "C4798",
+    "C4799",
+    "C4800",
+    "E662",
+    "C4801"
+  ],
+  "refreshed_event_ids": [
+    "C1297",
+    "C1298",
+    "C1171",
+    "C1172",
+    "C1173",
+    "C1174",
+    "C1175",
+    "C1176",
+    "C1177",
+    "C1178",
+    "C1179",
+    "C3122",
+    "C043",
+    "C1165",
+    "C1267",
+    "C1268"
+  ],
+  "legacy_overlay_event_ids": [
+    "C1297",
+    "C1298",
+    "C1171",
+    "C1172",
+    "C1173",
+    "C1174",
+    "C1175",
+    "C1176",
+    "C1177",
+    "C1178",
+    "C1179",
+    "C3122",
+    "C043",
+    "C1165",
+    "C1267",
+    "C1268"
+  ],
+  "source_requests": 19,
+  "ra_events": {
+    "Fiscales": [
+      "C4790",
+      "C4791",
+      "C4792",
+      "C4793"
+    ],
+    "Particulares": [
+      "C4794",
+      "C4795",
+      "C4796",
+      "C4797",
+      "C4798"
+    ]
+  },
+  "futbot": {
+    "official": "C4799",
+    "demonstration": "C4800",
+    "public": "E662"
+  },
+  "htk": "C4801",
+  "source_limits": {
+    "robojam": "Host page and global calendar disagree. Form required authentication; no roster was read or submitted.",
+    "ra": "Age and grade differ by event discipline. Institutional access and new team acceptance require confirmation.",
+    "futbot": "Open bracket admits all ages. Municipal deadline already passed. Demonstration depends on schedule and safety.",
+    "htk": "Online review is operated regionally. No international eligibility or exact January opening day assumed.",
+    "roboparade": "International V2 does not establish a local Mexican grade category or team acceptance."
+  }
+}

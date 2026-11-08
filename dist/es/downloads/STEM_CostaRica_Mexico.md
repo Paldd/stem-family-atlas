@@ -2828,7 +2828,7 @@ Se ha comprobado: 2026-11-07
 
 ### C3122 · RoboJam MX Bajío 2027
 
-Fecha: El calendario general marca el 18 de septiembre de 2027 con asterisco. La página de México aún indica fecha por definir. Quedan pendientes sede, categorías e inscripción.
+Fecha: El calendario general de RoboJam indica el 18 de septiembre de 2027. La página de México deja abierta la fecha de la etapa. Se requiere una convocatoria vigente.
 edad: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
 Matvey: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
 Oscar: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
@@ -5582,6 +5582,45 @@ Limitaciones: La exposición se centra en juegos de mesa, coleccionables y de ro
 Fuente: https://megaxp.com.mx/edicion-2027/
 Se ha comprobado: 2026-11-08
 
+### C4799 · Mundialito FutBot Uriangato 2026 · Abierta · 2 vs 2
+
+Fecha: 2026-11-12 — 2026-11-12
+edad: Abierta — cualquier edad. Educativa — solo educación media superior y superior.
+Matvey: Sí por edad en Abierta. Se requiere inscripción aceptada en plazo y autorización escrita del padre, madre o tutor.
+Oscar: Sí por edad en Abierta. Se requiere inscripción aceptada en plazo y autorización escrita del padre, madre o tutor.
+Idioma: Reglas e inscripción en español. Confirmar por separado el idioma del jurado.
+Acceso: Dos operadores y un responsable adulto. Para cada menor se requiere autorización escrita y copia del documento de quien la firma.
+Precio: La inscripción es gratuita.
+Limitaciones: La inspección técnica se realiza el 10 y 11 de noviembre en el horario asignado. Enviar el formulario y obtener la admisión son pasos distintos.
+Fuente: https://uriangato.gob.mx/web/public/assets/descargables/convocatorias/Convocatoria_Oficial_FutBot.pdf
+Se ha comprobado: 2026-11-08
+
+### C4800 · Mundialito FutBot Uriangato 2026 · Exhibición 3 vs 3
+
+Fecha: 2026-11-12 — 2026-11-12
+edad: Abierta — cualquier edad. Educativa — solo educación media superior y superior.
+Matvey: Sí por edad en Abierta. Se requiere inscripción aceptada en plazo y autorización escrita del padre, madre o tutor.
+Oscar: Sí por edad en Abierta. Se requiere inscripción aceptada en plazo y autorización escrita del padre, madre o tutor.
+Idioma: Reglas e inscripción en español. Confirmar por separado el idioma del jurado.
+Acceso: Se requieren 3 robots operativos y operadores distintos. Confirmar la composición y admisión a la exhibición según el programa.
+Precio: La inscripción es gratuita.
+Limitaciones: La organización decide por separado si se realiza la demostración.
+Fuente: https://uriangato.gob.mx/web/public/assets/descargables/convocatorias/Convocatoria_Oficial_FutBot.pdf
+Se ha comprobado: 2026-11-08
+
+### E662 · Mundialito FutBot Uriangato 2026 · Visita pública
+
+Fecha: 2026-11-12 — 2026-11-12
+edad: Actividad abierta al público.
+Matvey: Sí. El municipio invita al público.
+Oscar: Sí. El municipio invita al público.
+Idioma: Reglas e inscripción en español. Confirmar por separado el idioma del jurado.
+Acceso: Entrada pública gratuita en la sede municipal.
+Precio: La inscripción es gratuita.
+Limitaciones: La participación de equipos requería inscripción. La entrada pública se anuncia por separado.
+Fuente: https://uriangato.gob.mx/web/noticias/preparate-para-el-mundialito-futbot-evento-regional
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -7214,7 +7253,7 @@ Edad: Presentación local 2026: 6–14 años, no grade Junior LTU 2027.
 Matvey: Candidato a título contingente según el marco local 6–14 de las reglas 2026. Para el siguiente juego, confirmar la edad al día, Clase y autoempleo; Esto no es aceptar una solicitud..
 Oscar: Candidato a título contingente según el marco local 6–14 de las reglas 2026. Para el siguiente juego, confirmar la edad de su día., Clase y autoempleo; Esto no es aceptar una solicitud..
 Idioma: El idioma del juez/maestro no es claro. El texto español de las reglas o catálogos no prueba el flujo de la información; se acuerda antes del viaje.
-Entrada: Esperar a una nueva convocatoria, confirmar categoría, país/documento escolar, mentor adulto, idioma, precio y autonomía.
+Acceso: El reglamento internacional 2027 V2 admite Explorer en cursos 1–4 y Junior en cursos 5–8. Confirmar por separado las reglas de la temporada en México y la admisión del equipo.
 Costo: No se ha establecido la contribución LATAM. En el antiguo PDF p 34, la contribución mundial de USD 100 + 10 por tramitación, y la p 27 USD 90 corresponde a eventos locales de los Estados Unidos, que no son un precio mexicano ni 2027, ni un robot, ni preparación, vuelo y vivienda.
 Limitaciones: Rubika 2026: checklist 20%, design 10% + explicación de velocidad 7%, art 10%, features 10%, teamwork 10%, Autonomía 10%, Matemáticas escritas 3%, Dos parade rounds hasta 10%. Solo teamwork 1/2 de 5. La presentación tiene un nombre V 2, dentro V 1.0 2026; Animal Kingdom se refiere a 2026. B World 2027 Explorer 1–4 y otro tema Fun and Games, no transferir automáticamente la edad local.
 Fuente: https://www.robofestmexico.org/_files/ugd/70d3e0_8df3deb7b77a4f99aff12b05418187ca.pptx?dn=RoboParade2026_V2.pptx

@@ -870,10 +870,10 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 300,
+    "version": 301,
     "status": "implementation_snapshot",
-    "events": 10731,
-    "competitions": 4788,
+    "events": 10744,
+    "competitions": 4800,
     "league_profiles": 309,
     "camp_dossiers": 2108,
     "budget_offers": 312,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 661,
+    "exhibitions_events": 662,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,9 +928,9 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 299,
+    "version": 300,
     "status": "implementation_snapshot",
-    "events": 10719,
+    "events": 10731,
     "competitions": 4788,
     "league_profiles": 309,
     "camp_dossiers": 2108,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 649,
+    "exhibitions_events": 661,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 300,
+    "prepared_ui_version": 301,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 299,
-    "previous_verified_commit": "ca8f78fe78ac3413fa5a0e34790dab19727e68ea"
+    "previous_verified_ui_version": 300,
+    "previous_verified_commit": "dfff80f1a6c48cee57f240302035f3a415bf9cdf"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 299,
-    "published_version": 299,
-    "latest_source_commit": "ca8f78fe78ac3413fa5a0e34790dab19727e68ea",
-    "published_commit": "ca8f78fe78ac3413fa5a0e34790dab19727e68ea",
-    "latest_workflow": 42520101246,
+    "latest_source_version": 300,
+    "published_version": 300,
+    "latest_source_commit": "dfff80f1a6c48cee57f240302035f3a415bf9cdf",
+    "published_commit": "dfff80f1a6c48cee57f240302035f3a415bf9cdf",
+    "latest_workflow": 42522110228,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -31246,5 +31246,93 @@
     },
     "audit": "data/international-expos-family-admission-audit-v300.json",
     "source_receipts": "data/international-expos-family-admission-source-receipts-v300.json"
+  },
+  "regional_entry_and_robotics_rules_v301": {
+    "version": 301,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4790",
+      "C4791",
+      "C4792",
+      "C4793",
+      "C4794",
+      "C4795",
+      "C4796",
+      "C4797",
+      "C4798",
+      "C4799",
+      "C4800",
+      "E662",
+      "C4801"
+    ],
+    "refreshed_event_ids": [
+      "C1297",
+      "C1298",
+      "C1171",
+      "C1172",
+      "C1173",
+      "C1174",
+      "C1175",
+      "C1176",
+      "C1177",
+      "C1178",
+      "C1179",
+      "C3122",
+      "C043",
+      "C1165",
+      "C1267",
+      "C1268"
+    ],
+    "legacy_overlay_event_ids": [
+      "C1297",
+      "C1298",
+      "C1171",
+      "C1172",
+      "C1173",
+      "C1174",
+      "C1175",
+      "C1176",
+      "C1177",
+      "C1178",
+      "C1179",
+      "C3122",
+      "C043",
+      "C1165",
+      "C1267",
+      "C1268"
+    ],
+    "source_requests": 19,
+    "ra_events": {
+      "Fiscales": [
+        "C4790",
+        "C4791",
+        "C4792",
+        "C4793"
+      ],
+      "Particulares": [
+        "C4794",
+        "C4795",
+        "C4796",
+        "C4797",
+        "C4798"
+      ]
+    },
+    "futbot": {
+      "official": "C4799",
+      "demonstration": "C4800",
+      "public": "E662"
+    },
+    "htk": "C4801",
+    "source_limits": {
+      "robojam": "La página de la sede y el calendario general publican fechas distintas. El formulario exigió autenticación. No se consultaron ni enviaron datos de equipo.",
+      "ra": "La edad y el curso dependen de la modalidad. El acceso institucional y la aceptación de nuevos equipos requieren confirmación.",
+      "futbot": "La categoría Abierta admite todas las edades. El plazo municipal ya venció. La exhibición depende del programa y la seguridad.",
+      "htk": "Un operador regional gestiona la revisión virtual. Siguen pendientes la admisión internacional y el día exacto de apertura en enero.",
+      "roboparade": "La versión internacional V2 deja pendientes la categoría escolar de México y la admisión del equipo."
+    },
+    "audit": "data/regional-entry-and-robotics-rules-audit-v301.json",
+    "source_receipts": "data/regional-entry-and-robotics-rules-source-receipts-v301.json"
   }
 }

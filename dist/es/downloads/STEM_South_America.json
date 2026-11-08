@@ -11332,7 +11332,13 @@
       "start_time": "09:00",
       "timezone": "America/Guayaquil",
       "deadline_label": "Último día de inscripción",
-      "delivery_mode": "in_person"
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "C4790",
+        "C4791",
+        "C4792",
+        "C4793"
+      ]
     },
     {
       "id": "C1298",
@@ -11384,7 +11390,14 @@
       "start_time": "09:00",
       "timezone": "America/Guayaquil",
       "deadline_label": "Último día de inscripción",
-      "delivery_mode": "in_person"
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "C4794",
+        "C4795",
+        "C4796",
+        "C4797",
+        "C4798"
+      ]
     },
     {
       "id": "C1299",
@@ -31486,6 +31499,564 @@
           "start_utc": "2027-04-18T17:00:00Z",
           "end_utc": "2027-04-19T01:00:00Z"
         }
+      ]
+    },
+    {
+      "id": "C4790",
+      "title": "Grupo R.A. × Nética · Fiscales · Boliche",
+      "block": "Competiciones",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Escuela de Educación Básica Dieciocho de Agosto · Santa Elena",
+      "start": "2026-11-24",
+      "end": "2026-11-24",
+      "period": "",
+      "deadline": "2026-11-17",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://somosgrupora.com/assets/docs/reglamento-boliche.pdf",
+      "references": [
+        {
+          "url": "https://somosgrupora.com/torneo-robotica/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Primaria Menor. El reglamento no indica los límites exactos de curso y edad.",
+      "mat": "Condicional. Confirmar el curso, la inscripción por la escuela y la aceptación de la organización.",
+      "osc": "Condicional. Confirmar el curso, la inscripción por la escuela y la aceptación de la organización.",
+      "format": "Un robot teledirigido derriba bolos. Se suman los puntos de las rondas.",
+      "entry": "La inscripción se tramita a través del centro educativo. Confirmar la elegibilidad de un equipo extranjero y la equivalencia del curso.",
+      "gear": "Alphabot sin piezas externas. Máximo de 15 × 15 × 15 cm.",
+      "language": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "cost": "La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.",
+      "level": "Torneo escolar regional",
+      "reward": "Los puestos dependen del resultado de esta modalidad. No se publica un cupo internacional.",
+      "priority": "P2 — participación según requisitos",
+      "action": "La inscripción se tramita a través del centro educativo. Confirmar la elegibilidad de un equipo extranjero y la equivalencia del curso.",
+      "note": "Un robot teledirigido derriba bolos. Se suman los puntos de las rondas.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Torneo escolar regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "rulebook",
+      "date_scope": "competition",
+      "deadline_label": "Plazo de inscripción del equipo",
+      "deadline_utc": "2026-11-18T04:59:00Z",
+      "registration_status": "La organización publica inscripciones hasta el 17 de noviembre de 2026 a las 23:59, hora local. El acceso depende de la escuela y la confirmación.",
+      "delivery_mode": "in_person",
+      "parent_event_id": "C1297",
+      "related_ids": [
+        "C1297"
+      ]
+    },
+    {
+      "id": "C4791",
+      "title": "Grupo R.A. × Nética · Fiscales · Fragata",
+      "block": "Competiciones",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Escuela de Educación Básica Dieciocho de Agosto · Santa Elena",
+      "start": "2026-11-24",
+      "end": "2026-11-24",
+      "period": "",
+      "deadline": "2026-11-17",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://somosgrupora.com/assets/docs/reglamento-fragata.pdf",
+      "references": [
+        {
+          "url": "https://somosgrupora.com/torneo-robotica/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "EGB 5–7 y 8–12 años según el reglamento.",
+      "mat": "Condicional. Confirmar el curso, la inscripción por la escuela y la aceptación de la organización.",
+      "osc": "No. La edad está por debajo del mínimo de la modalidad.",
+      "format": "Carrera autónoma con puntuación y tiempo.",
+      "entry": "La inscripción se tramita a través del centro educativo. Confirmar la elegibilidad de un equipo extranjero y la equivalencia del curso.",
+      "gear": "Alphabot autónomo. Ancho de hasta 40 cm y profundidad de hasta 20 cm.",
+      "language": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "cost": "La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.",
+      "level": "Torneo escolar regional",
+      "reward": "Los puestos dependen del resultado de esta modalidad. No se publica un cupo internacional.",
+      "priority": "P2 — participación según requisitos",
+      "action": "La inscripción se tramita a través del centro educativo. Confirmar la elegibilidad de un equipo extranjero y la equivalencia del curso.",
+      "note": "Carrera autónoma con puntuación y tiempo.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Torneo escolar regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "rulebook",
+      "date_scope": "competition",
+      "deadline_label": "Plazo de inscripción del equipo",
+      "deadline_utc": "2026-11-18T04:59:00Z",
+      "registration_status": "La organización publica inscripciones hasta el 17 de noviembre de 2026 a las 23:59, hora local. El acceso depende de la escuela y la confirmación.",
+      "delivery_mode": "in_person",
+      "parent_event_id": "C1297",
+      "related_ids": [
+        "C1297"
+      ]
+    },
+    {
+      "id": "C4792",
+      "title": "Grupo R.A. × Nética · Fiscales · Persecución",
+      "block": "Competiciones",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Escuela de Educación Básica Dieciocho de Agosto · Santa Elena",
+      "start": "2026-11-24",
+      "end": "2026-11-24",
+      "period": "",
+      "deadline": "2026-11-17",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://somosgrupora.com/assets/docs/reglamento-persecucion.pdf",
+      "references": [
+        {
+          "url": "https://somosgrupora.com/torneo-robotica/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "EGB 8–10, 12–15 años.",
+      "mat": "No. La edad está por debajo del mínimo de la modalidad.",
+      "osc": "No. La edad está por debajo del mínimo de la modalidad.",
+      "format": "El robot persigue al rival por la línea tras una pausa obligatoria de 5 segundos.",
+      "entry": "La inscripción se tramita a través del centro educativo. Confirmar la elegibilidad de un equipo extranjero y la equivalencia del curso.",
+      "gear": "Construbot Plus autónomo. Máximo de 15 × 15 cm de ancho y profundidad.",
+      "language": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "cost": "La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.",
+      "level": "Torneo escolar regional",
+      "reward": "Los puestos dependen del resultado de esta modalidad. No se publica un cupo internacional.",
+      "priority": "P4 — por debajo de la edad mínima",
+      "action": "La inscripción se tramita a través del centro educativo. Confirmar la elegibilidad de un equipo extranjero y la equivalencia del curso.",
+      "note": "El robot persigue al rival por la línea tras una pausa obligatoria de 5 segundos.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Torneo escolar regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "rulebook",
+      "date_scope": "competition",
+      "deadline_label": "Plazo de inscripción del equipo",
+      "deadline_utc": "2026-11-18T04:59:00Z",
+      "registration_status": "La organización publica inscripciones hasta el 17 de noviembre de 2026 a las 23:59, hora local. El acceso depende de la escuela y la confirmación.",
+      "delivery_mode": "in_person",
+      "parent_event_id": "C1297",
+      "related_ids": [
+        "C1297"
+      ]
+    },
+    {
+      "id": "C4793",
+      "title": "Grupo R.A. × Nética · Fiscales · Sumo",
+      "block": "Competiciones",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Escuela de Educación Básica Dieciocho de Agosto · Santa Elena",
+      "start": "2026-11-24",
+      "end": "2026-11-24",
+      "period": "",
+      "deadline": "2026-11-17",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://somosgrupora.com/assets/docs/reglamento-sumo.pdf",
+      "references": [
+        {
+          "url": "https://somosgrupora.com/torneo-robotica/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "EGB 8 a BGU 3, desde los 12 años.",
+      "mat": "No. La edad está por debajo del mínimo de la modalidad.",
+      "osc": "No. La edad está por debajo del mínimo de la modalidad.",
+      "format": "El robot empuja al rival fuera de la zona.",
+      "entry": "La inscripción se tramita a través del centro educativo. Confirmar la elegibilidad de un equipo extranjero y la equivalencia del curso.",
+      "gear": "Robot autónomo de hasta 1 kg. Dimensiones iniciales de 30 × 30 × 25 cm. El PDF indica las combinaciones de kits permitidas.",
+      "language": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "cost": "La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.",
+      "level": "Torneo escolar regional",
+      "reward": "Los puestos dependen del resultado de esta modalidad. No se publica un cupo internacional.",
+      "priority": "P4 — por debajo de la edad mínima",
+      "action": "La inscripción se tramita a través del centro educativo. Confirmar la elegibilidad de un equipo extranjero y la equivalencia del curso.",
+      "note": "El robot empuja al rival fuera de la zona.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Torneo escolar regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "rulebook",
+      "date_scope": "competition",
+      "deadline_label": "Plazo de inscripción del equipo",
+      "deadline_utc": "2026-11-18T04:59:00Z",
+      "registration_status": "La organización publica inscripciones hasta el 17 de noviembre de 2026 a las 23:59, hora local. El acceso depende de la escuela y la confirmación.",
+      "delivery_mode": "in_person",
+      "parent_event_id": "C1297",
+      "related_ids": [
+        "C1297"
+      ]
+    },
+    {
+      "id": "C4794",
+      "title": "Grupo R.A. × Nética · Particulares · Boliche",
+      "block": "Competiciones",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Unidad Educativa Abraham Lincoln · confirmar dirección / municipio",
+      "start": "2026-11-25",
+      "end": "2026-11-25",
+      "period": "",
+      "deadline": "2026-11-17",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://somosgrupora.com/assets/docs/reglamento-boliche.pdf",
+      "references": [
+        {
+          "url": "https://somosgrupora.com/torneo-robotica/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Primaria Menor. El reglamento no indica los límites exactos de curso y edad.",
+      "mat": "Condicional. Confirmar el curso, la inscripción por la escuela y la aceptación de la organización.",
+      "osc": "Condicional. Confirmar el curso, la inscripción por la escuela y la aceptación de la organización.",
+      "format": "Un robot teledirigido derriba bolos. Se suman los puntos de las rondas.",
+      "entry": "Para un colegio privado ajeno a la red organizadora solo se anuncia Sumo. La modalidad infantil requiere que la escuela cumpla las condiciones del programa.",
+      "gear": "Alphabot sin piezas externas. Máximo de 15 × 15 × 15 cm.",
+      "language": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "cost": "La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.",
+      "level": "Torneo escolar regional",
+      "reward": "Los puestos dependen del resultado de esta modalidad. No se publica un cupo internacional.",
+      "priority": "P2 — participación según requisitos",
+      "action": "Para un colegio privado ajeno a la red organizadora solo se anuncia Sumo. La modalidad infantil requiere que la escuela cumpla las condiciones del programa.",
+      "note": "Un robot teledirigido derriba bolos. Se suman los puntos de las rondas.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Torneo escolar regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "rulebook",
+      "date_scope": "competition",
+      "deadline_label": "Plazo de inscripción del equipo",
+      "deadline_utc": "2026-11-18T04:59:00Z",
+      "registration_status": "La organización publica inscripciones hasta el 17 de noviembre de 2026 a las 23:59, hora local. El acceso depende de la escuela y la confirmación.",
+      "delivery_mode": "in_person",
+      "parent_event_id": "C1298",
+      "related_ids": [
+        "C1298"
+      ]
+    },
+    {
+      "id": "C4795",
+      "title": "Grupo R.A. × Nética · Particulares · Persecución",
+      "block": "Competiciones",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Unidad Educativa Abraham Lincoln · confirmar dirección / municipio",
+      "start": "2026-11-25",
+      "end": "2026-11-25",
+      "period": "",
+      "deadline": "2026-11-17",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://somosgrupora.com/assets/docs/reglamento-persecucion.pdf",
+      "references": [
+        {
+          "url": "https://somosgrupora.com/torneo-robotica/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "EGB 8–10, 12–15 años.",
+      "mat": "No. La edad está por debajo del mínimo de la modalidad.",
+      "osc": "No. La edad está por debajo del mínimo de la modalidad.",
+      "format": "El robot persigue al rival por la línea tras una pausa obligatoria de 5 segundos.",
+      "entry": "Para un colegio privado ajeno a la red organizadora solo se anuncia Sumo. La modalidad infantil requiere que la escuela cumpla las condiciones del programa.",
+      "gear": "Construbot Plus autónomo. Máximo de 15 × 15 cm de ancho y profundidad.",
+      "language": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "cost": "La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.",
+      "level": "Torneo escolar regional",
+      "reward": "Los puestos dependen del resultado de esta modalidad. No se publica un cupo internacional.",
+      "priority": "P4 — por debajo de la edad mínima",
+      "action": "Para un colegio privado ajeno a la red organizadora solo se anuncia Sumo. La modalidad infantil requiere que la escuela cumpla las condiciones del programa.",
+      "note": "El robot persigue al rival por la línea tras una pausa obligatoria de 5 segundos.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Torneo escolar regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "rulebook",
+      "date_scope": "competition",
+      "deadline_label": "Plazo de inscripción del equipo",
+      "deadline_utc": "2026-11-18T04:59:00Z",
+      "registration_status": "La organización publica inscripciones hasta el 17 de noviembre de 2026 a las 23:59, hora local. El acceso depende de la escuela y la confirmación.",
+      "delivery_mode": "in_person",
+      "parent_event_id": "C1298",
+      "related_ids": [
+        "C1298"
+      ]
+    },
+    {
+      "id": "C4796",
+      "title": "Grupo R.A. × Nética · Particulares · Saca la Basura",
+      "block": "Competiciones",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Unidad Educativa Abraham Lincoln · confirmar dirección / municipio",
+      "start": "2026-11-25",
+      "end": "2026-11-25",
+      "period": "",
+      "deadline": "2026-11-17",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://somosgrupora.com/assets/docs/reglamento-saca-basura.pdf",
+      "references": [
+        {
+          "url": "https://somosgrupora.com/torneo-robotica/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "EGB 8 a BGU 3, desde los 12 años.",
+      "mat": "No. La edad está por debajo del mínimo de la modalidad.",
+      "osc": "No. La edad está por debajo del mínimo de la modalidad.",
+      "format": "El robot retira hasta 10 objetos del campo.",
+      "entry": "Para un colegio privado ajeno a la red organizadora solo se anuncia Sumo. La modalidad infantil requiere que la escuela cumpla las condiciones del programa.",
+      "gear": "Construbot Plus autónomo. Dimensiones iniciales de 25 × 25 × 25 cm.",
+      "language": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "cost": "La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.",
+      "level": "Torneo escolar regional",
+      "reward": "Los puestos dependen del resultado de esta modalidad. No se publica un cupo internacional.",
+      "priority": "P4 — por debajo de la edad mínima",
+      "action": "Para un colegio privado ajeno a la red organizadora solo se anuncia Sumo. La modalidad infantil requiere que la escuela cumpla las condiciones del programa.",
+      "note": "El robot retira hasta 10 objetos del campo.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Torneo escolar regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "rulebook",
+      "date_scope": "competition",
+      "deadline_label": "Plazo de inscripción del equipo",
+      "deadline_utc": "2026-11-18T04:59:00Z",
+      "registration_status": "La organización publica inscripciones hasta el 17 de noviembre de 2026 a las 23:59, hora local. El acceso depende de la escuela y la confirmación.",
+      "delivery_mode": "in_person",
+      "parent_event_id": "C1298",
+      "related_ids": [
+        "C1298"
+      ]
+    },
+    {
+      "id": "C4797",
+      "title": "Grupo R.A. × Nética · Particulares · Sumo",
+      "block": "Competiciones",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Unidad Educativa Abraham Lincoln · confirmar dirección / municipio",
+      "start": "2026-11-25",
+      "end": "2026-11-25",
+      "period": "",
+      "deadline": "2026-11-17",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://somosgrupora.com/assets/docs/reglamento-sumo.pdf",
+      "references": [
+        {
+          "url": "https://somosgrupora.com/torneo-robotica/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "EGB 8 a BGU 3, desde los 12 años.",
+      "mat": "No. La edad está por debajo del mínimo de la modalidad.",
+      "osc": "No. La edad está por debajo del mínimo de la modalidad.",
+      "format": "El robot empuja al rival fuera de la zona.",
+      "entry": "La inscripción se tramita a través del centro educativo. Confirmar la elegibilidad de un equipo extranjero y la equivalencia del curso.",
+      "gear": "Robot autónomo de hasta 1 kg. Dimensiones iniciales de 30 × 30 × 25 cm. El PDF indica las combinaciones de kits permitidas.",
+      "language": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "cost": "La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.",
+      "level": "Torneo escolar regional",
+      "reward": "Los puestos dependen del resultado de esta modalidad. No se publica un cupo internacional.",
+      "priority": "P4 — por debajo de la edad mínima",
+      "action": "La inscripción se tramita a través del centro educativo. Confirmar la elegibilidad de un equipo extranjero y la equivalencia del curso.",
+      "note": "El robot empuja al rival fuera de la zona.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Torneo escolar regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "rulebook",
+      "date_scope": "competition",
+      "deadline_label": "Plazo de inscripción del equipo",
+      "deadline_utc": "2026-11-18T04:59:00Z",
+      "registration_status": "La organización publica inscripciones hasta el 17 de noviembre de 2026 a las 23:59, hora local. El acceso depende de la escuela y la confirmación.",
+      "delivery_mode": "in_person",
+      "parent_event_id": "C1298",
+      "related_ids": [
+        "C1298"
+      ]
+    },
+    {
+      "id": "C4798",
+      "title": "Grupo R.A. × Nética · Particulares · Saca la Basura Beet Bot",
+      "block": "Competiciones",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Unidad Educativa Abraham Lincoln · confirmar dirección / municipio",
+      "start": "2026-11-25",
+      "end": "2026-11-25",
+      "period": "",
+      "deadline": "2026-11-17",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://somosgrupora.com/assets/docs/reglamento-saca-basura-beet-bot.pdf",
+      "references": [
+        {
+          "url": "https://somosgrupora.com/torneo-robotica/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "EGB 8 a BGU 3, desde los 12 años.",
+      "mat": "No. La edad está por debajo del mínimo de la modalidad.",
+      "osc": "No. La edad está por debajo del mínimo de la modalidad.",
+      "format": "El robot retira hasta 10 objetos del campo.",
+      "entry": "Para un colegio privado ajeno a la red organizadora solo se anuncia Sumo. La modalidad infantil requiere que la escuela cumpla las condiciones del programa.",
+      "gear": "Beetbot Arduino 1 autónomo. Dimensiones iniciales de 25 × 25 × 25 cm.",
+      "language": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Reglas e inscripción en español. Confirmar por separado el idioma del jurado.",
+      "cost": "La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.",
+      "level": "Torneo escolar regional",
+      "reward": "Los puestos dependen del resultado de esta modalidad. No se publica un cupo internacional.",
+      "priority": "P4 — por debajo de la edad mínima",
+      "action": "Para un colegio privado ajeno a la red organizadora solo se anuncia Sumo. La modalidad infantil requiere que la escuela cumpla las condiciones del programa.",
+      "note": "El robot retira hasta 10 objetos del campo.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Torneo escolar regional",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "rulebook",
+      "date_scope": "competition",
+      "deadline_label": "Plazo de inscripción del equipo",
+      "deadline_utc": "2026-11-18T04:59:00Z",
+      "registration_status": "La organización publica inscripciones hasta el 17 de noviembre de 2026 a las 23:59, hora local. El acceso depende de la escuela y la confirmación.",
+      "delivery_mode": "in_person",
+      "parent_event_id": "C1298",
+      "related_ids": [
+        "C1298"
       ]
     },
     {

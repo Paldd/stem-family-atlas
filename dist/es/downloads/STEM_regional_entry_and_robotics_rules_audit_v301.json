@@ -1,0 +1,86 @@
+{
+  "version": 301,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C4790",
+    "C4791",
+    "C4792",
+    "C4793",
+    "C4794",
+    "C4795",
+    "C4796",
+    "C4797",
+    "C4798",
+    "C4799",
+    "C4800",
+    "E662",
+    "C4801"
+  ],
+  "refreshed_event_ids": [
+    "C1297",
+    "C1298",
+    "C1171",
+    "C1172",
+    "C1173",
+    "C1174",
+    "C1175",
+    "C1176",
+    "C1177",
+    "C1178",
+    "C1179",
+    "C3122",
+    "C043",
+    "C1165",
+    "C1267",
+    "C1268"
+  ],
+  "legacy_overlay_event_ids": [
+    "C1297",
+    "C1298",
+    "C1171",
+    "C1172",
+    "C1173",
+    "C1174",
+    "C1175",
+    "C1176",
+    "C1177",
+    "C1178",
+    "C1179",
+    "C3122",
+    "C043",
+    "C1165",
+    "C1267",
+    "C1268"
+  ],
+  "source_requests": 19,
+  "ra_events": {
+    "Fiscales": [
+      "C4790",
+      "C4791",
+      "C4792",
+      "C4793"
+    ],
+    "Particulares": [
+      "C4794",
+      "C4795",
+      "C4796",
+      "C4797",
+      "C4798"
+    ]
+  },
+  "futbot": {
+    "official": "C4799",
+    "demonstration": "C4800",
+    "public": "E662"
+  },
+  "htk": "C4801",
+  "source_limits": {
+    "robojam": "La página de la sede y el calendario general publican fechas distintas. El formulario exigió autenticación. No se consultaron ni enviaron datos de equipo.",
+    "ra": "La edad y el curso dependen de la modalidad. El acceso institucional y la aceptación de nuevos equipos requieren confirmación.",
+    "futbot": "La categoría Abierta admite todas las edades. El plazo municipal ya venció. La exhibición depende del programa y la seguridad.",
+    "htk": "Un operador regional gestiona la revisión virtual. Siguen pendientes la admisión internacional y el día exacto de apertura en enero.",
+    "roboparade": "La versión internacional V2 deja pendientes la categoría escolar de México y la admisión del equipo."
+  }
+}

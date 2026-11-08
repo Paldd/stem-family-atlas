@@ -6288,6 +6288,123 @@ Limitaciones: Consultar el programa de esta edición para confirmar los estands 
 Fuente: https://boleteria.redtickets.uy/evento/EXPOCONVENTION--Punta-del-Este-2027/32743/
 Se ha comprobado: 2026-11-08
 
+### C4790 · Grupo R.A. × Nética · Fiscales · Boliche
+
+Fecha: 2026-11-24 国 2026-11-24
+edad: Primaria Menor. El reglamento no indica los límites exactos de curso y edad.
+Matvey: Condicional. Confirmar el curso, la inscripción por la escuela y la aceptación de la organización.
+Oscar: Condicional. Confirmar el curso, la inscripción por la escuela y la aceptación de la organización.
+Idioma: Reglas e inscripción en español. Confirmar por separado el idioma del jurado.
+Acceso: La inscripción se tramita a través del centro educativo. Confirmar la elegibilidad de un equipo extranjero y la equivalencia del curso.
+Precio: La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.
+Limitaciones: Un robot teledirigido derriba bolos. Se suman los puntos de las rondas.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-boliche.pdf
+Se ha comprobado: 2026-11-08
+
+### C4791 · Grupo R.A. × Nética · Fiscales · Fragata
+
+Fecha: 2026-11-24 国 2026-11-24
+edad: EGB 5–7 y 8–12 años según el reglamento.
+Matvey: Condicional. Confirmar el curso, la inscripción por la escuela y la aceptación de la organización.
+Oscar: No. La edad está por debajo del mínimo de la modalidad.
+Idioma: Reglas e inscripción en español. Confirmar por separado el idioma del jurado.
+Acceso: La inscripción se tramita a través del centro educativo. Confirmar la elegibilidad de un equipo extranjero y la equivalencia del curso.
+Precio: La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.
+Limitaciones: Carrera autónoma con puntuación y tiempo.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-fragata.pdf
+Se ha comprobado: 2026-11-08
+
+### C4792 · Grupo R.A. × Nética · Fiscales · Persecución
+
+Fecha: 2026-11-24 国 2026-11-24
+edad: EGB 8–10, 12–15 años.
+Matvey: No. La edad está por debajo del mínimo de la modalidad.
+Oscar: No. La edad está por debajo del mínimo de la modalidad.
+Idioma: Reglas e inscripción en español. Confirmar por separado el idioma del jurado.
+Acceso: La inscripción se tramita a través del centro educativo. Confirmar la elegibilidad de un equipo extranjero y la equivalencia del curso.
+Precio: La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.
+Limitaciones: El robot persigue al rival por la línea tras una pausa obligatoria de 5 segundos.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-persecucion.pdf
+Se ha comprobado: 2026-11-08
+
+### C4793 · Grupo R.A. × Nética · Fiscales · Sumo
+
+Fecha: 2026-11-24 国 2026-11-24
+edad: EGB 8 a BGU 3, desde los 12 años.
+Matvey: No. La edad está por debajo del mínimo de la modalidad.
+Oscar: No. La edad está por debajo del mínimo de la modalidad.
+Idioma: Reglas e inscripción en español. Confirmar por separado el idioma del jurado.
+Acceso: La inscripción se tramita a través del centro educativo. Confirmar la elegibilidad de un equipo extranjero y la equivalencia del curso.
+Precio: La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.
+Limitaciones: El robot empuja al rival fuera de la zona.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-sumo.pdf
+Se ha comprobado: 2026-11-08
+
+### C4794 · Grupo R.A. × Nética · Particulares · Boliche
+
+Fecha: 2026-11-25 — 2026-11-25
+edad: Primaria Menor. El reglamento no indica los límites exactos de curso y edad.
+Matvey: Condicional. Confirmar el curso, la inscripción por la escuela y la aceptación de la organización.
+Oscar: Condicional. Confirmar el curso, la inscripción por la escuela y la aceptación de la organización.
+Idioma: Reglas e inscripción en español. Confirmar por separado el idioma del jurado.
+Acceso: Para un colegio privado ajeno a la red organizadora solo se anuncia Sumo. La modalidad infantil requiere que la escuela cumpla las condiciones del programa.
+Precio: La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.
+Limitaciones: Un robot teledirigido derriba bolos. Se suman los puntos de las rondas.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-boliche.pdf
+Se ha comprobado: 2026-11-08
+
+### C4795 · Grupo R.A. × Nética · Particulares · Persecución
+
+Fecha: 2026-11-25 — 2026-11-25
+edad: EGB 8–10, 12–15 años.
+Matvey: No. La edad está por debajo del mínimo de la modalidad.
+Oscar: No. La edad está por debajo del mínimo de la modalidad.
+Idioma: Reglas e inscripción en español. Confirmar por separado el idioma del jurado.
+Acceso: Para un colegio privado ajeno a la red organizadora solo se anuncia Sumo. La modalidad infantil requiere que la escuela cumpla las condiciones del programa.
+Precio: La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.
+Limitaciones: El robot persigue al rival por la línea tras una pausa obligatoria de 5 segundos.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-persecucion.pdf
+Se ha comprobado: 2026-11-08
+
+### C4796 · Grupo R.A. × Nética · Particulares · Saca la Basura
+
+Fecha: 2026-11-25 — 2026-11-25
+edad: EGB 8 a BGU 3, desde los 12 años.
+Matvey: No. La edad está por debajo del mínimo de la modalidad.
+Oscar: No. La edad está por debajo del mínimo de la modalidad.
+Idioma: Reglas e inscripción en español. Confirmar por separado el idioma del jurado.
+Acceso: Para un colegio privado ajeno a la red organizadora solo se anuncia Sumo. La modalidad infantil requiere que la escuela cumpla las condiciones del programa.
+Precio: La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.
+Limitaciones: El robot retira hasta 10 objetos del campo.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-saca-basura.pdf
+Se ha comprobado: 2026-11-08
+
+### C4797 · Grupo R.A. × Nética · Particulares · Sumo
+
+Fecha: 2026-11-25 — 2026-11-25
+edad: EGB 8 a BGU 3, desde los 12 años.
+Matvey: No. La edad está por debajo del mínimo de la modalidad.
+Oscar: No. La edad está por debajo del mínimo de la modalidad.
+Idioma: Reglas e inscripción en español. Confirmar por separado el idioma del jurado.
+Acceso: La inscripción se tramita a través del centro educativo. Confirmar la elegibilidad de un equipo extranjero y la equivalencia del curso.
+Precio: La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.
+Limitaciones: El robot empuja al rival fuera de la zona.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-sumo.pdf
+Se ha comprobado: 2026-11-08
+
+### C4798 · Grupo R.A. × Nética · Particulares · Saca la Basura Beet Bot
+
+Fecha: 2026-11-25 — 2026-11-25
+edad: EGB 8 a BGU 3, desde los 12 años.
+Matvey: No. La edad está por debajo del mínimo de la modalidad.
+Oscar: No. La edad está por debajo del mínimo de la modalidad.
+Idioma: Reglas e inscripción en español. Confirmar por separado el idioma del jurado.
+Acceso: Para un colegio privado ajeno a la red organizadora solo se anuncia Sumo. La modalidad infantil requiere que la escuela cumpla las condiciones del programa.
+Precio: La página de la organización indica $40 por equipo en 1 modalidad. Confirmar la moneda, el kit y el importe final.
+Limitaciones: El robot retira hasta 10 objetos del campo.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-saca-basura-beet-bot.pdf
+Se ha comprobado: 2026-11-08
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08
