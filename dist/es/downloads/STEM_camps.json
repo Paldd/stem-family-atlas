@@ -580,10 +580,10 @@
       }
     ],
     "counts": {
-      "records": 4974,
-      "holiday": 4630,
+      "records": 4983,
+      "holiday": 4635,
       "regular": 158,
-      "self_paced_materials": 2,
+      "self_paced_materials": 3,
       "boarding": 1037,
       "en_es_instruction": 1583,
       "en_es_support": 28,
@@ -39494,6 +39494,229 @@
       "admission_kind": "school",
       "evidence_level": "event_page",
       "date_scope": "season_window",
+      "delivery_mode": "in_person"
+    },
+    {
+      "id": "L770",
+      "title": "IPEM 93 · Rescate inteligente · practice simulator",
+      "block": "Campamentos",
+      "country": "Argentina",
+      "region": "América del Sur",
+      "iso": [
+        "ARG"
+      ],
+      "city": "",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://www.ipem93.com.ar/robotica/rescate/",
+      "references": [
+        {
+          "url": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=rescate",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Práctica abierta sin edad mínima publicada. Los menores pueden necesitar ayuda con la lectura.",
+      "mat": "Sí. Práctica abierta en el navegador, con apoyo adulto si se necesita.",
+      "osc": "Sí. Práctica abierta en el navegador, con apoyo adulto si se necesita.",
+      "format": "Práctica autónoma en línea.",
+      "entry": "Práctica abierta sin edad mínima publicada. Los menores pueden necesitar ayuda con la lectura.",
+      "gear": "8 misiones de práctica, ejemplos de programas por bloques y prueba oficial. El robot funciona en el navegador.",
+      "language": "Interfaz e instrucciones del simulador en español. Práctica autónoma.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Interfaz e instrucciones del simulador en español. Práctica autónoma.",
+      "cost": "Gratis.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "La clasificación oficial se realiza aparte en la sede del torneo. Aquí se puede practicar desde casa.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games"
+      ],
+      "scope": "online",
+      "importance_reason": "Programa formativo técnico",
+      "participation": "individual",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "delivery_mode": "virtual",
+      "programme_type": "self_paced",
+      "materials_only": true,
+      "related_ids": [
+        "C4613"
+      ]
+    },
+    {
+      "id": "L771",
+      "title": "PcMiraflores · Vacaciones Útiles 2027 · LEGO WeDo",
+      "block": "Campamentos",
+      "country": "Perú",
+      "region": "América del Sur",
+      "iso": [
+        "PER"
+      ],
+      "city": "Lima",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://pcmiraflores.com/taller/robotica-lego",
+      "references": [
+        {
+          "url": "https://pcmiraflores.com/talleres",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "No se publican límites de edad del grupo de 2027.",
+      "mat": "Condicional. Hay que confirmar el acceso por edad y la sede.",
+      "osc": "Condicional. Hay que confirmar el acceso por edad y la sede.",
+      "format": "Taller presencial de verano con elección de grupo.",
+      "entry": "El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.",
+      "gear": "Montaje y programación por bloques de LEGO WeDo. En la sesión se prestan el kit y una computadora portátil o tableta.",
+      "language": "Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.",
+      "cost": "Se indica PEN 869 para 9 sesiones y PEN 869 para 15 sesiones. Confirmar el paquete elegido por la coincidencia de importes.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers"
+      ],
+      "scope": "regional",
+      "importance_reason": "Programa formativo técnico",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "delivery_mode": "in_person"
+    },
+    {
+      "id": "L772",
+      "title": "PcMiraflores · Vacaciones Útiles 2027 · LEGO Mindstorms EV3",
+      "block": "Campamentos",
+      "country": "Perú",
+      "region": "América del Sur",
+      "iso": [
+        "PER"
+      ],
+      "city": "Lima",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://pcmiraflores.com/taller/robotica-ev3",
+      "references": [
+        {
+          "url": "https://pcmiraflores.com/talleres",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "No se publican límites de edad del grupo de 2027.",
+      "mat": "Condicional. Hay que confirmar el acceso por edad y la sede.",
+      "osc": "Condicional. Hay que confirmar el acceso por edad y la sede.",
+      "format": "Taller presencial de verano con elección de grupo.",
+      "entry": "El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.",
+      "gear": "Robótica intermedia con LEGO Mindstorms EV3. Hasta 4 alumnos, se facilita kit y computadora portátil.",
+      "language": "Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.",
+      "cost": "PEN 695 por 9 sesiones o PEN 1090 por 15 sesiones.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers"
+      ],
+      "scope": "regional",
+      "importance_reason": "Programa formativo técnico",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "delivery_mode": "in_person"
+    },
+    {
+      "id": "L773",
+      "title": "PcMiraflores · Vacaciones Útiles 2027 · Arduino",
+      "block": "Campamentos",
+      "country": "Perú",
+      "region": "América del Sur",
+      "iso": [
+        "PER"
+      ],
+      "city": "Lima",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://pcmiraflores.com/taller/robotica-arduino",
+      "references": [
+        {
+          "url": "https://pcmiraflores.com/talleres",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "No se publican límites de edad del grupo de 2027.",
+      "mat": "Condicional. Hay que confirmar el acceso por edad y la sede.",
+      "osc": "Condicional. Hay que confirmar el acceso por edad y la sede.",
+      "format": "Taller presencial de verano con elección de grupo.",
+      "entry": "El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.",
+      "gear": "Electrónica, sensores y programación básica de Arduino. Se requiere computadora portátil y unidad USB.",
+      "language": "Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.",
+      "cost": "PEN 810 por 9 sesiones o PEN 1280 por 15 sesiones.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers"
+      ],
+      "scope": "regional",
+      "importance_reason": "Programa formativo técnico",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
       "delivery_mode": "in_person"
     },
     {
@@ -399132,6 +399355,502 @@
           "start_utc": "2026-12-31T14:00:00Z",
           "end_utc": "2026-12-31T20:30:00Z",
           "topic": "Experimentos y actividades prácticas sobre el espacio.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1937-20261130-20261130-space-20261130",
+      "block": "Campamentos",
+      "title": "Young Innovators · Space Explorer STEM · Taller diurno 09:00–15:00. · 2026-11-30–2026-11-30",
+      "country": "Canadá",
+      "region": "América del Norte",
+      "city": "Tsawwassen Arts Centre · Delta, BC",
+      "start": "2026-11-30",
+      "end": "2026-11-30",
+      "period": "30.11.2026, 09:00–15:00. Inscripción por el centro recreativo, confirmar plazas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–14 años en la descripción y 7–14 en la sección de inscripción. Confirmar el mínimo para un menor de 6 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Programar una luz nocturna con micro:bit, modelar un cohete en 3D y montar un rover.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2026/27 · CAD 95 por el día. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://younginnovators.ca/programs/tsawwassen-ladner/pro-d-day-activity-in-tsawwassen-space-explorer-stem-adventure/",
+      "references": [
+        {
+          "url": "https://younginnovators.ca/programs/tsawwassen-ladner/pro-d-day-activity-in-tsawwassen-space-explorer-stem-adventure/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://younginnovators.ca/programs/tsawwassen-ladner/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://news.gov.bc.ca/releases/2026AG0013-000209",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: Condicional. En los datos de inscripción el mínimo es 7 años, en la descripción 6 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "CAN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "young-innovators-tsawwassen-space",
+      "camp_programme_id": "CP1937",
+      "sessions": [
+        {
+          "date": "2026-11-30",
+          "start_time": "09:00",
+          "end_time": "15:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2026-11-30T16:00:00Z",
+          "end_utc": "2026-11-30T22:00:00Z",
+          "topic": "Programar una luz nocturna con micro:bit, modelar un cohete en 3D y montar un rover.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1938-20270105-20270202-retro",
+      "block": "Campamentos",
+      "title": "Young Innovators · Retro Arcade · Martes de 15:30 a 17:00. · 2027-01-05–2027-02-02",
+      "country": "Canadá",
+      "region": "América del Norte",
+      "city": "Tsawwassen Arts Centre · Delta, BC",
+      "start": "2027-01-05",
+      "end": "2027-02-02",
+      "period": "La organización muestra Coming Soon. Apertura de inscripciones y plazas sin confirmar. Martes de 15:30 a 17:00.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–14 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Crear un juego para una consola portátil.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2027 · CAD 225 por el curso. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://younginnovators.ca/programs/tsawwassen-ladner/",
+      "references": [
+        {
+          "url": "https://younginnovators.ca/programs/tsawwassen-ladner/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://news.gov.bc.ca/releases/2026AG0013-000209",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: No por ahora. La edad mínima de este turno es 7 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "CAN"
+      ],
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "course",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "young-innovators-tsawwassen-retro",
+      "camp_programme_id": "CP1938",
+      "attendance_weekdays": [
+        "TU"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-05",
+          "start_time": "15:30",
+          "end_time": "17:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2027-01-05T22:30:00Z",
+          "end_utc": "2027-01-06T00:00:00Z",
+          "topic": "Crear un juego para una consola portátil.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-12",
+          "start_time": "15:30",
+          "end_time": "17:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2027-01-12T22:30:00Z",
+          "end_utc": "2027-01-13T00:00:00Z",
+          "topic": "Crear un juego para una consola portátil.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-19",
+          "start_time": "15:30",
+          "end_time": "17:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2027-01-19T22:30:00Z",
+          "end_utc": "2027-01-20T00:00:00Z",
+          "topic": "Crear un juego para una consola portátil.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "15:30",
+          "end_time": "17:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2027-01-26T22:30:00Z",
+          "end_utc": "2027-01-27T00:00:00Z",
+          "topic": "Crear un juego para una consola portátil.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-02",
+          "start_time": "15:30",
+          "end_time": "17:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2027-02-02T22:30:00Z",
+          "end_utc": "2027-02-03T00:00:00Z",
+          "topic": "Crear un juego para una consola portátil.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1939-20270202-20270302-mars",
+      "block": "Campamentos",
+      "title": "Young Innovators · Battle of the Bots · Mars Rover · Martes de 17:15 a 18:45. · 2027-02-02–2027-03-02",
+      "country": "Canadá",
+      "region": "América del Norte",
+      "city": "Tsawwassen Arts Centre · Delta, BC",
+      "start": "2027-02-02",
+      "end": "2027-03-02",
+      "period": "La organización muestra Coming Soon. Apertura de inscripciones y plazas sin confirmar. Martes de 17:15 a 18:45.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–14 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Rovers marcianos y retos de montaje y control de robots.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2027 · CAD 295 por el curso. La página también muestra CAD 49 por semana. Cotejar el importe y el número de sesiones. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://younginnovators.ca/programs/tsawwassen-ladner/",
+      "references": [
+        {
+          "url": "https://younginnovators.ca/programs/tsawwassen-ladner/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://news.gov.bc.ca/releases/2026AG0013-000209",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: No por ahora. La edad mínima de este turno es 7 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "CAN"
+      ],
+      "themes": [
+        "robotics",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "course",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "workshop_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "young-innovators-tsawwassen-mars",
+      "camp_programme_id": "CP1939",
+      "attendance_weekdays": [
+        "TU"
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1940-20270209-20270309-disk",
+      "block": "Campamentos",
+      "title": "Young Innovators · Motorized Disk Launcher · Martes de 15:30 a 17:00. · 2027-02-09–2027-03-09",
+      "country": "Canadá",
+      "region": "América del Norte",
+      "city": "Tsawwassen Arts Centre · Delta, BC",
+      "start": "2027-02-09",
+      "end": "2027-03-09",
+      "period": "La organización muestra Coming Soon. Apertura de inscripciones y plazas sin confirmar. Martes de 15:30 a 17:00.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–9 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Montar y probar un lanzador motorizado.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2027 · CAD 265 por el curso. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://younginnovators.ca/programs/tsawwassen-ladner/",
+      "references": [
+        {
+          "url": "https://younginnovators.ca/programs/tsawwassen-ladner/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://news.gov.bc.ca/releases/2026AG0013-000209",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: Sí por edad. Confirmar admisión y plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "CAN"
+      ],
+      "themes": [
+        "robotics",
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "course",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "young-innovators-tsawwassen-disk",
+      "camp_programme_id": "CP1940",
+      "attendance_weekdays": [
+        "TU"
+      ],
+      "sessions": [
+        {
+          "date": "2027-02-09",
+          "start_time": "15:30",
+          "end_time": "17:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2027-02-09T22:30:00Z",
+          "end_utc": "2027-02-10T00:00:00Z",
+          "topic": "Montar y probar un lanzador motorizado.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-16",
+          "start_time": "15:30",
+          "end_time": "17:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2027-02-16T22:30:00Z",
+          "end_utc": "2027-02-17T00:00:00Z",
+          "topic": "Montar y probar un lanzador motorizado.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-23",
+          "start_time": "15:30",
+          "end_time": "17:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2027-02-23T22:30:00Z",
+          "end_utc": "2027-02-24T00:00:00Z",
+          "topic": "Montar y probar un lanzador motorizado.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-02",
+          "start_time": "15:30",
+          "end_time": "17:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2027-03-02T22:30:00Z",
+          "end_utc": "2027-03-03T00:00:00Z",
+          "topic": "Montar y probar un lanzador motorizado.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-09",
+          "start_time": "15:30",
+          "end_time": "17:00",
+          "timezone": "America/Vancouver",
+          "start_utc": "2027-03-09T22:30:00Z",
+          "end_utc": "2027-03-10T00:00:00Z",
+          "topic": "Montar y probar un lanzador motorizado.",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP1941-20270412-20270416-burton-wells",
+      "block": "Campamentos",
+      "title": "Beaufort County Parks · AI SmartCore 4 Spring Break · Turno de mañana 08:00–12:00. · 2027-04-12–2027-04-16",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "city": "Burton Wells Recreation Center · Beaufort, SC",
+      "start": "2027-04-12",
+      "end": "2027-04-16",
+      "period": "12–16.04.2027, 08:00–12:00. La inscripción está prevista desde el 05.01.2027 a las 10:00, hora local.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–11 años.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Montaje y control de vehículos con AI SmartCore 4. El menor se lleva el kit de robótica a casa.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "2027 · USD 230 por menor. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.; Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "source": "https://www.bcscrec.com/robotics-camp",
+      "references": [
+        {
+          "url": "https://www.bcscrec.com/robotics-camp",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: Sí por edad. Confirmar admisión y plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "technology",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "beaufort-robotics-spring-break-2027",
+      "camp_programme_id": "CP1941",
+      "sessions": [
+        {
+          "date": "2027-04-12",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/New_York",
+          "start_utc": "2027-04-12T12:00:00Z",
+          "end_utc": "2027-04-12T16:00:00Z",
+          "topic": "Montaje y control de vehículos con AI SmartCore 4. El menor se lleva el kit de robótica a casa.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-13",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/New_York",
+          "start_utc": "2027-04-13T12:00:00Z",
+          "end_utc": "2027-04-13T16:00:00Z",
+          "topic": "Montaje y control de vehículos con AI SmartCore 4. El menor se lleva el kit de robótica a casa.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-14",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/New_York",
+          "start_utc": "2027-04-14T12:00:00Z",
+          "end_utc": "2027-04-14T16:00:00Z",
+          "topic": "Montaje y control de vehículos con AI SmartCore 4. El menor se lleva el kit de robótica a casa.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-15",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/New_York",
+          "start_utc": "2027-04-15T12:00:00Z",
+          "end_utc": "2027-04-15T16:00:00Z",
+          "topic": "Montaje y control de vehículos con AI SmartCore 4. El menor se lleva el kit de robótica a casa.",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-16",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/New_York",
+          "start_utc": "2027-04-16T12:00:00Z",
+          "end_utc": "2027-04-16T16:00:00Z",
+          "topic": "Montaje y control de vehículos con AI SmartCore 4. El menor se lleva el kit de robótica a casa.",
           "ical_timed": true
         }
       ],

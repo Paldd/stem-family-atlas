@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 271,
+    "version": 272,
     "status": "implementation_snapshot",
-    "events": 10129,
-    "competitions": 4606,
+    "events": 10148,
+    "competitions": 4612,
     "league_profiles": 299,
-    "camp_dossiers": 1936,
+    "camp_dossiers": 1944,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 549,
+    "exhibitions_events": 553,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,10 +928,10 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 270,
+    "version": 271,
     "status": "implementation_snapshot",
-    "events": 10103,
-    "competitions": 4584,
+    "events": 10129,
+    "competitions": 4606,
     "league_profiles": 299,
     "camp_dossiers": 1936,
     "budget_offers": 312,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 546,
+    "exhibitions_events": 549,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 271,
+    "prepared_ui_version": 272,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 270,
-    "previous_verified_commit": "65eeb9488be73d75c5a0a0a708e471b6c8df82f9"
+    "previous_verified_ui_version": 271,
+    "previous_verified_commit": "04ab72faee9d6267bdf78631999d84e61ef57188"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 270,
-    "published_version": 270,
-    "latest_source_commit": "65eeb9488be73d75c5a0a0a708e471b6c8df82f9",
-    "published_commit": "65eeb9488be73d75c5a0a0a708e471b6c8df82f9",
-    "latest_workflow": 42466830894,
+    "latest_source_version": 271,
+    "published_version": 271,
+    "latest_source_commit": "04ab72faee9d6267bdf78631999d84e61ef57188",
+    "published_commit": "04ab72faee9d6267bdf78631999d84e61ef57188",
+    "latest_workflow": 42468606415,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -27121,5 +27121,86 @@
     "new_dossiers": [],
     "audit": "data/remote-junior-and-school-gates-audit-v271.json",
     "source_receipts": "data/remote-junior-and-school-gates-source-receipts-v271.json"
+  },
+  "robot_expos_and_school_arena_v272": {
+    "version": 272,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4608",
+      "C4609",
+      "C4610",
+      "C4611",
+      "C4612",
+      "C4613",
+      "L770",
+      "E550",
+      "E551",
+      "E552",
+      "E553",
+      "L771",
+      "L772",
+      "L773"
+    ],
+    "new_dossiers": [
+      "CP1937",
+      "CP1938",
+      "CP1939",
+      "CP1940",
+      "CP1941",
+      "CP1942",
+      "CP1943",
+      "CP1944"
+    ],
+    "new_dated_variants": 5,
+    "refreshed_event_ids": [
+      "E013",
+      "E521",
+      "E021",
+      "E105"
+    ],
+    "legacy_overlay_event_ids": [
+      "E013",
+      "E521",
+      "E021",
+      "E105"
+    ],
+    "source_requests": 31,
+    "argentine_school_tracks": [
+      "C4608",
+      "C4609",
+      "C4610",
+      "C4611",
+      "C4612",
+      "C4613"
+    ],
+    "argentine_open_practice": "L770",
+    "exhibitor_and_visitor_records": [
+      "E013",
+      "E521",
+      "E550",
+      "E021",
+      "E551",
+      "E552",
+      "E105",
+      "E553"
+    ],
+    "new_camp_options": [
+      "CP1937",
+      "CP1941"
+    ],
+    "young_courses": [
+      "CP1938",
+      "CP1939",
+      "CP1940"
+    ],
+    "peru_workshops": [
+      "L771",
+      "L772",
+      "L773"
+    ],
+    "audit": "data/robot-expos-and-school-arena-audit-v272.json",
+    "source_receipts": "data/robot-expos-and-school-arena-source-receipts-v272.json"
   }
 }

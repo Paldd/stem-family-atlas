@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1936,
+    "dossiers": 1944,
     "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
-      "published_2027": 517,
-      "partial_2027": 142,
+      "published_2027": 521,
+      "partial_2027": 145,
       "next_unannounced": 399,
-      "published_2026": 363,
+      "published_2026": 364,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2829
+    "source_urls": 2836
   },
   "countries": [
     {
@@ -253,7 +253,7 @@
     },
     {
       "country": "Канада",
-      "count": 191
+      "count": 195
     },
     {
       "country": "Катар",
@@ -389,7 +389,7 @@
     },
     {
       "country": "Перу",
-      "count": 17
+      "count": 20
     },
     {
       "country": "Польша",
@@ -437,7 +437,7 @@
     },
     {
       "country": "Соединенные Штаты Америки",
-      "count": 146
+      "count": 147
     },
     {
       "country": "Сьерра-Леоне",
@@ -337123,6 +337123,920 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1937",
+      "slug": "young-innovators-tsawwassen-space",
+      "provider": "Young Innovators · Space Explorer STEM",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Tsawwassen Arts Centre · Delta, BC",
+      "age": "6–14 лет в описании и 7–14 лет в блоке записи. Для ребёнка 6 лет подтвердить порог.",
+      "programme": "Написать программу ночника на micro:bit, смоделировать ракету в 3D и собрать ровер.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "30.11.2026, 09:00–15:00. Запись через центр досуга, наличие мест уточнить.",
+        "sessions": [
+          [
+            "2026-11-30",
+            "2026-11-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "space-20261130",
+            "start": "2026-11-30",
+            "end": "2026-11-30",
+            "label": "Дневная мастерская 09:00–15:00.",
+            "price": "CAD 95 за день.",
+            "source": "https://younginnovators.ca/programs/tsawwassen-ladner/pro-d-day-activity-in-tsawwassen-space-explorer-stem-adventure/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2026-11-30T16:00:00Z",
+                "end_utc": "2026-11-30T22:00:00Z",
+                "topic": "Написать программу ночника на micro:bit, смоделировать ракету в 3D и собрать ровер.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 95,
+        "currency": "CAD",
+        "unit": "day",
+        "label": "CAD 95 за день.",
+        "included": "Написать программу ночника на micro:bit, смоделировать ракету в 3D и собрать ровер.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить приём и место."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. В деталях записи указан минимум 7 лет, в описании 6 лет."
+        }
+      },
+      "editorial_reason": "30.11.2026, 09:00–15:00. Запись через центр досуга, наличие мест уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://younginnovators.ca/programs/tsawwassen-ladner/pro-d-day-activity-in-tsawwassen-space-explorer-stem-adventure/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://younginnovators.ca/programs/tsawwassen-ladner/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://news.gov.bc.ca/releases/2026AG0013-000209",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "makers"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-30",
+          "end": "2026-11-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1937-20261130-20261130-space-20261130"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1938",
+      "slug": "young-innovators-tsawwassen-retro",
+      "provider": "Young Innovators · Retro Arcade",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Tsawwassen Arts Centre · Delta, BC",
+      "age": "7–14 лет.",
+      "programme": "Сделать игру для портативной консоли.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Организатор показывает Coming Soon. Открытие записи и места не подтверждены. По вторникам 15:30–17:00.",
+        "sessions": [
+          [
+            "2027-01-05",
+            "2027-02-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "retro",
+            "start": "2027-01-05",
+            "end": "2027-02-02",
+            "label": "По вторникам 15:30–17:00.",
+            "price": "CAD 225 за курс.",
+            "source": "https://younginnovators.ca/programs/tsawwassen-ladner/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "attendance_weekdays": [
+              "TU"
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-05",
+                "start_time": "15:30",
+                "end_time": "17:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2027-01-05T22:30:00Z",
+                "end_utc": "2027-01-06T00:00:00Z",
+                "topic": "Сделать игру для портативной консоли.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "15:30",
+                "end_time": "17:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2027-01-12T22:30:00Z",
+                "end_utc": "2027-01-13T00:00:00Z",
+                "topic": "Сделать игру для портативной консоли.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "15:30",
+                "end_time": "17:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2027-01-19T22:30:00Z",
+                "end_utc": "2027-01-20T00:00:00Z",
+                "topic": "Сделать игру для портативной консоли.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "15:30",
+                "end_time": "17:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2027-01-26T22:30:00Z",
+                "end_utc": "2027-01-27T00:00:00Z",
+                "topic": "Сделать игру для портативной консоли.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "15:30",
+                "end_time": "17:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2027-02-02T22:30:00Z",
+                "end_utc": "2027-02-03T00:00:00Z",
+                "topic": "Сделать игру для портативной консоли.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 225,
+        "currency": "CAD",
+        "unit": "course",
+        "label": "CAD 225 за курс.",
+        "included": "Сделать игру для портативной консоли.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить приём и место."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас. Минимальный возраст 7 лет на этой смене."
+        }
+      },
+      "editorial_reason": "Организатор показывает Coming Soon. Открытие записи и места не подтверждены. По вторникам 15:30–17:00.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://younginnovators.ca/programs/tsawwassen-ladner/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://news.gov.bc.ca/releases/2026AG0013-000209",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-05",
+          "end": "2027-02-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1938-20270105-20270202-retro"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1939",
+      "slug": "young-innovators-tsawwassen-mars",
+      "provider": "Young Innovators · Battle of the Bots · Mars Rover",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Tsawwassen Arts Centre · Delta, BC",
+      "age": "7–14 лет.",
+      "programme": "Марсоходы и задания по сборке и управлению роботами.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Организатор показывает Coming Soon. Открытие записи и места не подтверждены. По вторникам 17:15–18:45.",
+        "sessions": [
+          [
+            "2027-02-02",
+            "2027-03-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "mars",
+            "start": "2027-02-02",
+            "end": "2027-03-02",
+            "label": "По вторникам 17:15–18:45.",
+            "price": "CAD 295 за курс. На странице также CAD 49 за неделю. Сумму и число занятий сверить.",
+            "source": "https://younginnovators.ca/programs/tsawwassen-ladner/",
+            "date_scope": "workshop_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "attendance_weekdays": [
+              "TU"
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 295,
+        "currency": "CAD",
+        "unit": "course",
+        "label": "CAD 295 за курс. На странице также CAD 49 за неделю. Сумму и число занятий сверить.",
+        "included": "Марсоходы и задания по сборке и управлению роботами.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить приём и место."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет сейчас. Минимальный возраст 7 лет на этой смене."
+        }
+      },
+      "editorial_reason": "Организатор показывает Coming Soon. Открытие записи и места не подтверждены. По вторникам 17:15–18:45.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://younginnovators.ca/programs/tsawwassen-ladner/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://news.gov.bc.ca/releases/2026AG0013-000209",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "makers"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-02",
+          "end": "2027-03-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1939-20270202-20270302-mars"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1940",
+      "slug": "young-innovators-tsawwassen-disk",
+      "provider": "Young Innovators · Motorized Disk Launcher",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Tsawwassen Arts Centre · Delta, BC",
+      "age": "6–9 лет.",
+      "programme": "Собрать и испытать пусковой механизм с мотором.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Организатор показывает Coming Soon. Открытие записи и места не подтверждены. По вторникам 15:30–17:00.",
+        "sessions": [
+          [
+            "2027-02-09",
+            "2027-03-09"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "disk",
+            "start": "2027-02-09",
+            "end": "2027-03-09",
+            "label": "По вторникам 15:30–17:00.",
+            "price": "CAD 265 за курс.",
+            "source": "https://younginnovators.ca/programs/tsawwassen-ladner/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "attendance_weekdays": [
+              "TU"
+            ],
+            "sessions": [
+              {
+                "date": "2027-02-09",
+                "start_time": "15:30",
+                "end_time": "17:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2027-02-09T22:30:00Z",
+                "end_utc": "2027-02-10T00:00:00Z",
+                "topic": "Собрать и испытать пусковой механизм с мотором.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "15:30",
+                "end_time": "17:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2027-02-16T22:30:00Z",
+                "end_utc": "2027-02-17T00:00:00Z",
+                "topic": "Собрать и испытать пусковой механизм с мотором.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-23",
+                "start_time": "15:30",
+                "end_time": "17:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2027-02-23T22:30:00Z",
+                "end_utc": "2027-02-24T00:00:00Z",
+                "topic": "Собрать и испытать пусковой механизм с мотором.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-02",
+                "start_time": "15:30",
+                "end_time": "17:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2027-03-02T22:30:00Z",
+                "end_utc": "2027-03-03T00:00:00Z",
+                "topic": "Собрать и испытать пусковой механизм с мотором.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-09",
+                "start_time": "15:30",
+                "end_time": "17:00",
+                "timezone": "America/Vancouver",
+                "start_utc": "2027-03-09T22:30:00Z",
+                "end_utc": "2027-03-10T00:00:00Z",
+                "topic": "Собрать и испытать пусковой механизм с мотором.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 265,
+        "currency": "CAD",
+        "unit": "course",
+        "label": "CAD 265 за курс.",
+        "included": "Собрать и испытать пусковой механизм с мотором.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить приём и место."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить приём и место."
+        }
+      },
+      "editorial_reason": "Организатор показывает Coming Soon. Открытие записи и места не подтверждены. По вторникам 15:30–17:00.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://younginnovators.ca/programs/tsawwassen-ladner/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://news.gov.bc.ca/releases/2026AG0013-000209",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "makers",
+        "technology"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-09",
+          "end": "2027-03-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1940-20270209-20270309-disk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1941",
+      "slug": "beaufort-robotics-spring-break-2027",
+      "provider": "Beaufort County Parks · AI SmartCore 4 Spring Break",
+      "country": "Соединенные Штаты Америки",
+      "iso": "USA",
+      "place": "Burton Wells Recreation Center · Beaufort, SC",
+      "age": "6–11 лет.",
+      "programme": "Сборка и управление машинами из AI SmartCore 4. Ребёнок забирает робототехнический набор домой.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "12–16.04.2027, 08:00–12:00. Запись запланирована с 05.01.2027 в 10:00 по местному времени.",
+        "sessions": [
+          [
+            "2027-04-12",
+            "2027-04-16"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "burton-wells",
+            "start": "2027-04-12",
+            "end": "2027-04-16",
+            "label": "Утренняя смена 08:00–12:00.",
+            "price": "USD 230 за ребёнка.",
+            "source": "https://www.bcscrec.com/robotics-camp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "sessions": [
+              {
+                "date": "2027-04-12",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/New_York",
+                "start_utc": "2027-04-12T12:00:00Z",
+                "end_utc": "2027-04-12T16:00:00Z",
+                "topic": "Сборка и управление машинами из AI SmartCore 4. Ребёнок забирает робототехнический набор домой.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-13",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/New_York",
+                "start_utc": "2027-04-13T12:00:00Z",
+                "end_utc": "2027-04-13T16:00:00Z",
+                "topic": "Сборка и управление машинами из AI SmartCore 4. Ребёнок забирает робототехнический набор домой.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-14",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/New_York",
+                "start_utc": "2027-04-14T12:00:00Z",
+                "end_utc": "2027-04-14T16:00:00Z",
+                "topic": "Сборка и управление машинами из AI SmartCore 4. Ребёнок забирает робототехнический набор домой.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-15",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/New_York",
+                "start_utc": "2027-04-15T12:00:00Z",
+                "end_utc": "2027-04-15T16:00:00Z",
+                "topic": "Сборка и управление машинами из AI SmartCore 4. Ребёнок забирает робототехнический набор домой.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-16",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/New_York",
+                "start_utc": "2027-04-16T12:00:00Z",
+                "end_utc": "2027-04-16T16:00:00Z",
+                "topic": "Сборка и управление машинами из AI SmartCore 4. Ребёнок забирает робототехнический набор домой.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 230,
+        "currency": "USD",
+        "unit": "session",
+        "label": "USD 230 за ребёнка.",
+        "included": "Сборка и управление машинами из AI SmartCore 4. Ребёнок забирает робототехнический набор домой.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить приём и место."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить приём и место."
+        }
+      },
+      "editorial_reason": "12–16.04.2027, 08:00–12:00. Запись запланирована с 05.01.2027 в 10:00 по местному времени.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://www.bcscrec.com/robotics-camp",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "technology",
+        "makers"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-04-12",
+          "end": "2027-04-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1941-20270412-20270416-burton-wells"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1942",
+      "slug": "pcmiraflores-summer-wedo",
+      "provider": "PcMiraflores · Vacaciones Útiles 2027 · LEGO WeDo",
+      "country": "Перу",
+      "iso": "PER",
+      "place": "Lima",
+      "age": "Возрастные границы для группы 2027 не опубликованы.",
+      "programme": "Сборка и блочное программирование LEGO WeDo. На занятии предоставляют комплект и ноутбук или планшет.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и материалы регистрации на испанском. Язык инструктора конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Старт и место зависят от группы и филиала. Возрастной порог и наличие мест нужно уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "PEN",
+        "unit": "package",
+        "label": "PEN 869 указан для 9 занятий и PEN 869 для 15 занятий. Из-за одинаковой цены сверить выбранный пакет.",
+        "included": "Сборка и блочное программирование LEGO WeDo. На занятии предоставляют комплект и ноутбук или планшет.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возрастной допуск и филиал нужно подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возрастной допуск и филиал нужно подтвердить."
+        }
+      },
+      "editorial_reason": "Старт и место зависят от группы и филиала. Возрастной порог и наличие мест нужно уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://pcmiraflores.com/taller/robotica-lego",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://pcmiraflores.com/talleres",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L771"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1943",
+      "slug": "pcmiraflores-summer-ev3",
+      "provider": "PcMiraflores · Vacaciones Útiles 2027 · LEGO Mindstorms EV3",
+      "country": "Перу",
+      "iso": "PER",
+      "place": "Lima",
+      "age": "Возрастные границы для группы 2027 не опубликованы.",
+      "programme": "Робототехника среднего уровня на LEGO Mindstorms EV3. До 4 учеников, комплект и ноутбук предоставляются.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и материалы регистрации на испанском. Язык инструктора конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Старт и место зависят от группы и филиала. Возрастной порог и наличие мест нужно уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "PEN",
+        "unit": "package",
+        "label": "PEN 695 за 9 занятий или PEN 1090 за 15 занятий.",
+        "included": "Робототехника среднего уровня на LEGO Mindstorms EV3. До 4 учеников, комплект и ноутбук предоставляются.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возрастной допуск и филиал нужно подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возрастной допуск и филиал нужно подтвердить."
+        }
+      },
+      "editorial_reason": "Старт и место зависят от группы и филиала. Возрастной порог и наличие мест нужно уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://pcmiraflores.com/taller/robotica-ev3",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://pcmiraflores.com/talleres",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L772"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1944",
+      "slug": "pcmiraflores-summer-arduino",
+      "provider": "PcMiraflores · Vacaciones Útiles 2027 · Arduino",
+      "country": "Перу",
+      "iso": "PER",
+      "place": "Lima",
+      "age": "Возрастные границы для группы 2027 не опубликованы.",
+      "programme": "Электроника, датчики и базовое программирование Arduino. Нужны ноутбук и USB-накопитель.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Описание и материалы регистрации на испанском. Язык инструктора конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Старт и место зависят от группы и филиала. Возрастной порог и наличие мест нужно уточнить.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "PEN",
+        "unit": "package",
+        "label": "PEN 810 за 9 занятий или PEN 1280 за 15 занятий.",
+        "included": "Электроника, датчики и базовое программирование Arduino. Нужны ноутбук и USB-накопитель.",
+        "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Возрастной допуск и филиал нужно подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Возрастной допуск и филиал нужно подтвердить."
+        }
+      },
+      "editorial_reason": "Старт и место зависят от группы и филиала. Возрастной порог и наличие мест нужно уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://pcmiraflores.com/taller/robotica-arduino",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://pcmiraflores.com/talleres",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [
+        "L773"
+      ],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -342448,7 +343362,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 270,
+  "version": 272,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -355683,7 +356597,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1936,
+      "total_dossiers": 1944,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -377843,6 +378757,46 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP1937",
+      "event_id": "CP1937-20261130-20261130-space-20261130",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1938",
+      "event_id": "CP1938-20270105-20270202-retro",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1939",
+      "event_id": "CP1939-20270202-20270302-mars",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1940",
+      "event_id": "CP1940-20270209-20270309-disk",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1941",
+      "event_id": "CP1941-20270412-20270416-burton-wells",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1942",
+      "event_id": "L771",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP1943",
+      "event_id": "L772",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP1944",
+      "event_id": "L773",
+      "relation": "related_track_or_operator"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -382478,10 +383432,15 @@
     "CP1935-20261214-20261216-dec14",
     "CP1935-20261221-20261223-dec21",
     "CP1936-20261221-20261224-epic-earth",
-    "CP1936-20261228-20261231-space-quest"
+    "CP1936-20261228-20261231-space-quest",
+    "CP1937-20261130-20261130-space-20261130",
+    "CP1938-20270105-20270202-retro",
+    "CP1939-20270202-20270302-mars",
+    "CP1940-20270209-20270309-disk",
+    "CP1941-20270412-20270416-burton-wells"
   ],
   "integration": {
-    "generated_sessions": 4205,
+    "generated_sessions": 4210,
     "reused_legacy_events": 73,
     "seasonal_windows": 76,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

@@ -562,7 +562,7 @@
       "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
       "source": "https://tairos.chanchao.com.tw/en/VisitorInfo",
       "proof": "Cotejado con la página de la organización o del recinto. Las condiciones de la exposición y de las actividades se comprueban por separado.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Horario 10:00–17:00, último día hasta las 16:00.",
       "iso": [
@@ -587,7 +587,7 @@
         "automatización",
         "componentes e integradores"
       ],
-      "exhibitor_note": "catálogos TAIROS y Automation Taipei pertenecen a dos exposiciones conjuntas; Es un viaje a la plaza común.. lista de los que se encuentran 2027 comprobar por separado.",
+      "exhibitor_note": "El directorio TAIROS 2027 ya muestra estas empresas. Cotejar participantes y puestos en el directorio antes de la visita.",
       "exhibitor_directory_url": "https://tairos.chanchao.com.tw/en/VisitorExhibitor",
       "adult_entry": "Cada visitante necesita su QR propio tras registrarse. La entrada presencial de un día por 300 TWD se indica como alternativa para quienes no deseen completar el formulario. Entrada desde los 12 años.",
       "admission_kind": "visitor",
@@ -607,10 +607,29 @@
         {
           "url": "https://automationtaipei.chanchao.com.tw/en/VisitorInfo",
           "label": "Reglas de visitantes 2027 y edad mínima de 12+"
+        },
+        {
+          "url": "https://tairos.chanchao.com.tw/en/VisitorExhibitor",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "evidence_level": "rules",
-      "visitor_age_min": 12
+      "visitor_age_min": 12,
+      "public_days": [
+        "2027-08-04",
+        "2027-08-05",
+        "2027-08-06",
+        "2027-08-07"
+      ],
+      "child_entry": "No se admite a visitantes menores de 12 años. El acompañamiento adulto no establece una excepción.",
+      "exhibitors": [
+        "HIWIN",
+        "Techman Robot",
+        "Delta",
+        "Dexmart",
+        "Swancor Robotech",
+        "Mitsubishi Electric Automation Taiwan"
+      ]
     },
     {
       "block": "Eventos",

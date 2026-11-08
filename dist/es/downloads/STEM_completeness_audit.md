@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10129; competiciones: 4606; eventos: 549; campamentos / programas: 4974. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 452 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10148; competiciones: 4612; eventos: 553; campamentos / programas: 4983. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 456 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1908 | 104 | 1251 |
-| América del Sur | 14 | 422 | 37 | 200 |
-| Europa | 52 | 592 | 114 | 1426 |
+| América del Norte | 40 | 1908 | 104 | 1256 |
+| América del Sur | 14 | 428 | 37 | 204 |
+| Europa | 52 | 592 | 118 | 1426 |
 | África | 53 | 235 | 28 | 92 |
 | Asia | 49 | 1146 | 138 | 1658 |
 | Oceanía | 25 | 163 | 29 | 332 |
 
 Fichas interregionales o globales sin asignar a un continente: 162. Norteamérica incluye Centroamérica y el Caribe. Los recuentos muestran el inventario de la base, no un porcentaje de exhaustividad.
 
-VEX representa 814 de las 4606 fichas de competiciones (17.7%). La cobertura se concentra en este circuito.
+VEX representa 814 de las 4612 fichas de competiciones (17.6%). La cobertura se concentra en este circuito.
 
 ## Lo que queda
 
@@ -819,6 +819,10 @@ VEX representa 814 de las 4606 fichas de competiciones (17.7%). La cobertura se 
 - **Stripe Young Scientist & Technology Exhibition 2027 · Public days** — Irlanda; 2027-01-07 – 2027-01-09. con un adulto; condiciones de admisión adulta por separado. https://ticketing.stripeyste.com/2027/general-public
 - **Stripe YSTE 2027 · Primary Science Fair** — Irlanda; 2027-01-07 – 2027-01-08. con un adulto; condiciones de admisión adulta por separado. https://www.stripeyste.com/primary-science-fair
 - **RoboArt 2027 · Robot and technical model exhibition** — Rusia; 2027-03-28. el permiso de entrada de niños. https://roboart36.ru/roboart/roboart_2027_vystavka_robotov/
+- **RoboCup 2027 · Research Symposium** — Alemania; 2027-06-21. el permiso de entrada de niños. https://2027.robocup.org/visit/visitors
+- **XPONENTIAL Europe 2027 · XPO Hall** — Alemania; 2027-03-16 – 2027-03-18. el permiso de entrada de niños. https://www.xponential-europe.com/
+- **XPONENTIAL Europe 2027 · European Drone Forum** — Alemania; 2027-03-15. el permiso de entrada de niños. https://www.xponential-europe.com/en/Partner_Conferences/European_Drone_Forum
+- **SPS Smart Production Solutions 2027 · Nuremberg** — Alemania; 2027-11-23 – 2027-11-25. el permiso de entrada de niños. https://sps.mesago.com/nuernberg/en/expo/planning-preparation/opening-hours.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

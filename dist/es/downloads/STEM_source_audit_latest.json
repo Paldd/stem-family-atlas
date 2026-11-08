@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10129,
-    "competition_cards": 4606,
-    "event_cards": 549,
-    "camp_cards": 4974,
+    "cards": 10148,
+    "competition_cards": 4612,
+    "event_cards": 553,
+    "camp_cards": 4983,
     "league_profiles": 299,
-    "major_exhibition_cards": 452,
+    "major_exhibition_cards": 456,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3301,
+      "total": 3306,
       "countries_with_records": 40,
       "competitions": 1908,
       "events": 142,
       "major_exhibitions": 104,
-      "camps": 1251,
+      "camps": 1256,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -48,12 +48,12 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 663,
+      "total": 673,
       "countries_with_records": 14,
-      "competitions": 422,
+      "competitions": 428,
       "events": 41,
       "major_exhibitions": 37,
-      "camps": 200,
+      "camps": 204,
       "status": "Se ha estudiado parcialmente",
       "remaining": "muchos tarjetas de Ecuador y rutas regionales de Chile; Brasil, Perú y otros países requieren etapas, cuotas y calendarios locales."
     },
@@ -62,11 +62,11 @@
       "regions": [
         "Europa"
       ],
-      "total": 2157,
+      "total": 2161,
       "countries_with_records": 52,
       "competitions": 592,
-      "events": 139,
-      "major_exhibitions": 114,
+      "events": 143,
+      "major_exhibitions": 118,
       "camps": 1426,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
@@ -13654,6 +13654,50 @@
       "new": false
     },
     {
+      "id": "E550",
+      "name": "RoboCup 2027 · Research Symposium",
+      "country": "Alemania",
+      "region": "Europa",
+      "start": "2027-06-21",
+      "end": "2027-06-21",
+      "visitor_policy": "confirm_children",
+      "source": "https://2027.robocup.org/visit/visitors",
+      "new": false
+    },
+    {
+      "id": "E551",
+      "name": "XPONENTIAL Europe 2027 · XPO Hall",
+      "country": "Alemania",
+      "region": "Europa",
+      "start": "2027-03-16",
+      "end": "2027-03-18",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.xponential-europe.com/",
+      "new": false
+    },
+    {
+      "id": "E552",
+      "name": "XPONENTIAL Europe 2027 · European Drone Forum",
+      "country": "Alemania",
+      "region": "Europa",
+      "start": "2027-03-15",
+      "end": "2027-03-15",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.xponential-europe.com/en/Partner_Conferences/European_Drone_Forum",
+      "new": false
+    },
+    {
+      "id": "E553",
+      "name": "SPS Smart Production Solutions 2027 · Nuremberg",
+      "country": "Alemania",
+      "region": "Europa",
+      "start": "2027-11-23",
+      "end": "2027-11-25",
+      "visitor_policy": "confirm_children",
+      "source": "https://sps.mesago.com/nuernberg/en/expo/planning-preparation/opening-hours.html",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -16071,10 +16115,10 @@
       }
     ],
     "counts": {
-      "records": 4974,
-      "holiday": 4630,
+      "records": 4983,
+      "holiday": 4635,
       "regular": 158,
-      "self_paced_materials": 2,
+      "self_paced_materials": 3,
       "boarding": 1037,
       "en_es_instruction": 1583,
       "en_es_support": 28,

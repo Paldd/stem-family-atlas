@@ -130,7 +130,7 @@ Acceso: Entrada desde los 12 años. El organizador no admite a menores de 12 añ
 Precio: Cada visitante necesita su QR propio tras registrarse. La entrada presencial de un día por 300 TWD se indica como alternativa para quienes no deseen completar el formulario. Entrada desde los 12 años.
 Limitaciones: Horario 10:00–17:00, último día hasta las 16:00.
 Fuente: https://tairos.chanchao.com.tw/en/VisitorInfo
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### E022 · Touch Taiwan 2027
 

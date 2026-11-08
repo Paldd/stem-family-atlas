@@ -28624,6 +28624,661 @@
       ]
     },
     {
+      "id": "C4608",
+      "title": "IPEM 93 Robótica 2026 · Laberinto",
+      "block": "Competiciones",
+      "country": "Argentina",
+      "region": "América del Sur",
+      "iso": [
+        "ARG"
+      ],
+      "city": "Marcos Juárez · Córdoba",
+      "start": "2026-11-19",
+      "end": "2026-11-19",
+      "period": "",
+      "deadline": "2026-11-17",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=laberinto",
+      "references": [
+        {
+          "url": "https://www.ipem93.com.ar/robotica/index.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.ipem93.com.ar/robotica/reglamentos.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Se comprobaron las bases generales y el reglamento de la disciplina.",
+      "status": "Idea",
+      "age": "Preescolar, primaria y secundaria. Todo el alumnado del equipo debe pertenecer al mismo nivel.",
+      "mat": "Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.",
+      "osc": "Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.",
+      "format": "Equipo de 2–4 escolares del mismo nivel educativo y un docente.",
+      "entry": "El colegio presenta la solicitud. El 19.11.2026 el docente presenta el código de confirmación en la acreditación a las 08:30. Confirmar la admisión de un colegio extranjero.",
+      "gear": "Preescolar programa un robot de suelo. Primaria y secundaria usan robot autónomo o mando en laberinto con paredes.",
+      "language": "Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.",
+      "cost": "Gratis.",
+      "level": "Etapa regional",
+      "reward": "Se determina a los ganadores por las reglas de cada disciplina y nivel escolar.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Las categorías separan nivel escolar y, donde se indica, control autónomo y manual. El colegio confirma el consentimiento familiar para imágenes.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Torneo escolar de la región de Córdoba con jurado de UTN.",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "rules",
+      "date_scope": "competition",
+      "deadline_label": "Plazo de inscripción",
+      "team_min": 2,
+      "team_max": 4,
+      "delivery_mode": "in_person",
+      "venue": "IPEM 93 · Vélez Sarsfield 1330",
+      "event_group": "IPEM 93 Robótica 2026",
+      "related_ids": [
+        "C4609",
+        "C4610",
+        "C4611",
+        "C4612",
+        "C4613"
+      ]
+    },
+    {
+      "id": "C4609",
+      "title": "IPEM 93 Robótica 2026 · Tumba lata",
+      "block": "Competiciones",
+      "country": "Argentina",
+      "region": "América del Sur",
+      "iso": [
+        "ARG"
+      ],
+      "city": "Marcos Juárez · Córdoba",
+      "start": "2026-11-19",
+      "end": "2026-11-19",
+      "period": "",
+      "deadline": "2026-11-17",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=tumba_lata",
+      "references": [
+        {
+          "url": "https://www.ipem93.com.ar/robotica/index.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.ipem93.com.ar/robotica/reglamentos.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Se comprobaron las bases generales y el reglamento de la disciplina.",
+      "status": "Idea",
+      "age": "Preescolar, primaria y secundaria. Todo el alumnado del equipo debe pertenecer al mismo nivel.",
+      "mat": "Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.",
+      "osc": "Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.",
+      "format": "Equipo de 2–4 escolares del mismo nivel educativo y un docente.",
+      "entry": "El colegio presenta la solicitud. El 19.11.2026 el docente presenta el código de confirmación en la acreditación a las 08:30. Confirmar la admisión de un colegio extranjero.",
+      "gear": "Sacar latas del círculo. Hasta 3 minutos por intento, robot autónomo o mando.",
+      "language": "Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.",
+      "cost": "Gratis.",
+      "level": "Etapa regional",
+      "reward": "Se determina a los ganadores por las reglas de cada disciplina y nivel escolar.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Las categorías separan nivel escolar y, donde se indica, control autónomo y manual. El colegio confirma el consentimiento familiar para imágenes.",
+      "themes": [
+        "robotics",
+        "makers"
+      ],
+      "scope": "regional",
+      "importance_reason": "Torneo escolar de la región de Córdoba con jurado de UTN.",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "rules",
+      "date_scope": "competition",
+      "deadline_label": "Plazo de inscripción",
+      "team_min": 2,
+      "team_max": 4,
+      "delivery_mode": "in_person",
+      "venue": "IPEM 93 · Vélez Sarsfield 1330",
+      "event_group": "IPEM 93 Robótica 2026",
+      "related_ids": [
+        "C4608",
+        "C4610",
+        "C4611",
+        "C4612",
+        "C4613"
+      ]
+    },
+    {
+      "id": "C4610",
+      "title": "IPEM 93 Robótica 2026 · Seguidor de línea",
+      "block": "Competiciones",
+      "country": "Argentina",
+      "region": "América del Sur",
+      "iso": [
+        "ARG"
+      ],
+      "city": "Marcos Juárez · Córdoba",
+      "start": "2026-11-19",
+      "end": "2026-11-19",
+      "period": "",
+      "deadline": "2026-11-17",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=seguidor",
+      "references": [
+        {
+          "url": "https://www.ipem93.com.ar/robotica/index.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.ipem93.com.ar/robotica/reglamentos.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Se comprobaron las bases generales y el reglamento de la disciplina.",
+      "status": "Idea",
+      "age": "Preescolar, primaria y secundaria. Todo el alumnado del equipo debe pertenecer al mismo nivel.",
+      "mat": "Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.",
+      "osc": "Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.",
+      "format": "Equipo de 2–4 escolares del mismo nivel educativo y un docente.",
+      "entry": "El colegio presenta la solicitud. El 19.11.2026 el docente presenta el código de confirmación en la acreditación a las 08:30. Confirmar la admisión de un colegio extranjero.",
+      "gear": "2 vueltas en un máximo de 3 minutos. Se admiten robot autónomo o teledirigido y kits comerciales. Hace falta un interruptor visible.",
+      "language": "Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.",
+      "cost": "Gratis.",
+      "level": "Etapa regional",
+      "reward": "Se determina a los ganadores por las reglas de cada disciplina y nivel escolar.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Las categorías separan nivel escolar y, donde se indica, control autónomo y manual. El colegio confirma el consentimiento familiar para imágenes.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "regional",
+      "importance_reason": "Torneo escolar de la región de Córdoba con jurado de UTN.",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "rules",
+      "date_scope": "competition",
+      "deadline_label": "Plazo de inscripción",
+      "team_min": 2,
+      "team_max": 4,
+      "delivery_mode": "in_person",
+      "venue": "IPEM 93 · Vélez Sarsfield 1330",
+      "event_group": "IPEM 93 Robótica 2026",
+      "related_ids": [
+        "C4608",
+        "C4609",
+        "C4611",
+        "C4612",
+        "C4613"
+      ]
+    },
+    {
+      "id": "C4611",
+      "title": "IPEM 93 Robótica 2026 · Misión imposible · Drone",
+      "block": "Competiciones",
+      "country": "Argentina",
+      "region": "América del Sur",
+      "iso": [
+        "ARG"
+      ],
+      "city": "Marcos Juárez · Córdoba",
+      "start": "2026-11-19",
+      "end": "2026-11-19",
+      "period": "",
+      "deadline": "2026-11-17",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=drone",
+      "references": [
+        {
+          "url": "https://www.ipem93.com.ar/robotica/index.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.ipem93.com.ar/robotica/reglamentos.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Se comprobaron las bases generales y el reglamento de la disciplina.",
+      "status": "Idea",
+      "age": "Solo primaria y secundaria.",
+      "mat": "Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.",
+      "osc": "Condicional. Apto solo si ya cursa primaria y tiene equipo con docente.",
+      "format": "Equipo de 2–4 escolares del mismo nivel educativo y un docente.",
+      "entry": "El colegio presenta la solicitud. El 19.11.2026 el docente presenta el código de confirmación en la acreditación a las 08:30. Confirmar la admisión de un colegio extranjero.",
+      "gear": "Multirrotor teledirigido de hasta 250 g incluida la batería. Pasar puertas y aterrizar. Se admiten drones comerciales y de montaje propio.",
+      "language": "Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.",
+      "cost": "Gratis.",
+      "level": "Etapa regional",
+      "reward": "Se determina a los ganadores por las reglas de cada disciplina y nivel escolar.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Las categorías separan nivel escolar y, donde se indica, control autónomo y manual. El colegio confirma el consentimiento familiar para imágenes.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Torneo escolar de la región de Córdoba con jurado de UTN.",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "rules",
+      "date_scope": "competition",
+      "deadline_label": "Plazo de inscripción",
+      "team_min": 2,
+      "team_max": 4,
+      "delivery_mode": "in_person",
+      "venue": "IPEM 93 · Vélez Sarsfield 1330",
+      "event_group": "IPEM 93 Robótica 2026",
+      "related_ids": [
+        "C4608",
+        "C4609",
+        "C4610",
+        "C4612",
+        "C4613"
+      ]
+    },
+    {
+      "id": "C4612",
+      "title": "IPEM 93 Robótica 2026 · Fútbol robótico",
+      "block": "Competiciones",
+      "country": "Argentina",
+      "region": "América del Sur",
+      "iso": [
+        "ARG"
+      ],
+      "city": "Marcos Juárez · Córdoba",
+      "start": "2026-11-19",
+      "end": "2026-11-19",
+      "period": "",
+      "deadline": "2026-11-17",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=futbol",
+      "references": [
+        {
+          "url": "https://www.ipem93.com.ar/robotica/index.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.ipem93.com.ar/robotica/reglamentos.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Se comprobaron las bases generales y el reglamento de la disciplina.",
+      "status": "Idea",
+      "age": "Preescolar, primaria y secundaria. Todo el alumnado del equipo debe pertenecer al mismo nivel.",
+      "mat": "Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.",
+      "osc": "Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.",
+      "format": "Equipo de 2–4 escolares del mismo nivel educativo y un docente.",
+      "entry": "El colegio presenta la solicitud. El 19.11.2026 el docente presenta el código de confirmación en la acreditación a las 08:30. Confirmar la admisión de un colegio extranjero.",
+      "gear": "1 robot por equipo de hasta 20 × 20 × 20 cm y 1 kg. Modos autónomo y teledirigido en partidos separados. Se puede jugar con LEGO, Arduino, micro:bit o VEX.",
+      "language": "Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.",
+      "cost": "Gratis.",
+      "level": "Etapa regional",
+      "reward": "Se determina a los ganadores por las reglas de cada disciplina y nivel escolar.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Las categorías separan nivel escolar y, donde se indica, control autónomo y manual. El colegio confirma el consentimiento familiar para imágenes.",
+      "themes": [
+        "robotics",
+        "games"
+      ],
+      "scope": "regional",
+      "importance_reason": "Torneo escolar de la región de Córdoba con jurado de UTN.",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "rules",
+      "date_scope": "competition",
+      "deadline_label": "Plazo de inscripción",
+      "team_min": 2,
+      "team_max": 4,
+      "delivery_mode": "in_person",
+      "venue": "IPEM 93 · Vélez Sarsfield 1330",
+      "event_group": "IPEM 93 Robótica 2026",
+      "related_ids": [
+        "C4608",
+        "C4609",
+        "C4610",
+        "C4611",
+        "C4613"
+      ]
+    },
+    {
+      "id": "C4613",
+      "title": "IPEM 93 Robótica 2026 · Rescate inteligente",
+      "block": "Competiciones",
+      "country": "Argentina",
+      "region": "América del Sur",
+      "iso": [
+        "ARG"
+      ],
+      "city": "Marcos Juárez · Córdoba",
+      "start": "2026-11-19",
+      "end": "2026-11-19",
+      "period": "",
+      "deadline": "2026-11-17",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=rescate",
+      "references": [
+        {
+          "url": "https://www.ipem93.com.ar/robotica/index.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.ipem93.com.ar/robotica/reglamentos.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.ipem93.com.ar/robotica/rescate/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Se comprobaron las bases generales y el reglamento de la disciplina.",
+      "status": "Idea",
+      "age": "Preescolar, primaria y secundaria. Todo el alumnado del equipo debe pertenecer al mismo nivel.",
+      "mat": "Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.",
+      "osc": "Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.",
+      "format": "Equipo de 2–4 escolares del mismo nivel educativo y un docente.",
+      "entry": "El colegio presenta la solicitud. El 19.11.2026 el docente presenta el código de confirmación en la acreditación a las 08:30. Confirmar la admisión de un colegio extranjero.",
+      "gear": "Programación por bloques de un robot en el navegador. 2 rondas de 2 intentos. Los intentos oficiales se hacen en la sede ante el jurado, que fija la ubicación de los objetivos.",
+      "language": "Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.",
+      "cost": "Gratis.",
+      "level": "Etapa regional",
+      "reward": "Se determina a los ganadores por las reglas de cada disciplina y nivel escolar.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Las categorías separan nivel escolar y, donde se indica, control autónomo y manual. El colegio confirma el consentimiento familiar para imágenes.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games"
+      ],
+      "scope": "regional",
+      "importance_reason": "Torneo escolar de la región de Córdoba con jurado de UTN.",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "rules",
+      "date_scope": "competition",
+      "deadline_label": "Plazo de inscripción",
+      "team_min": 2,
+      "team_max": 4,
+      "delivery_mode": "in_person",
+      "venue": "IPEM 93 · Vélez Sarsfield 1330",
+      "event_group": "IPEM 93 Robótica 2026",
+      "related_ids": [
+        "C4608",
+        "C4609",
+        "C4610",
+        "C4611",
+        "C4612",
+        "L770"
+      ]
+    },
+    {
+      "id": "L770",
+      "title": "IPEM 93 · Rescate inteligente · practice simulator",
+      "block": "Campamentos",
+      "country": "Argentina",
+      "region": "América del Sur",
+      "iso": [
+        "ARG"
+      ],
+      "city": "",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://www.ipem93.com.ar/robotica/rescate/",
+      "references": [
+        {
+          "url": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=rescate",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Práctica abierta sin edad mínima publicada. Los menores pueden necesitar ayuda con la lectura.",
+      "mat": "Sí. Práctica abierta en el navegador, con apoyo adulto si se necesita.",
+      "osc": "Sí. Práctica abierta en el navegador, con apoyo adulto si se necesita.",
+      "format": "Práctica autónoma en línea.",
+      "entry": "Práctica abierta sin edad mínima publicada. Los menores pueden necesitar ayuda con la lectura.",
+      "gear": "8 misiones de práctica, ejemplos de programas por bloques y prueba oficial. El robot funciona en el navegador.",
+      "language": "Interfaz e instrucciones del simulador en español. Práctica autónoma.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Interfaz e instrucciones del simulador en español. Práctica autónoma.",
+      "cost": "Gratis.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "La clasificación oficial se realiza aparte en la sede del torneo. Aquí se puede practicar desde casa.",
+      "themes": [
+        "robotics",
+        "coding",
+        "games"
+      ],
+      "scope": "online",
+      "importance_reason": "Programa formativo técnico",
+      "participation": "individual",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "delivery_mode": "virtual",
+      "programme_type": "self_paced",
+      "materials_only": true,
+      "related_ids": [
+        "C4613"
+      ]
+    },
+    {
+      "id": "L771",
+      "title": "PcMiraflores · Vacaciones Útiles 2027 · LEGO WeDo",
+      "block": "Campamentos",
+      "country": "Perú",
+      "region": "América del Sur",
+      "iso": [
+        "PER"
+      ],
+      "city": "Lima",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://pcmiraflores.com/taller/robotica-lego",
+      "references": [
+        {
+          "url": "https://pcmiraflores.com/talleres",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "No se publican límites de edad del grupo de 2027.",
+      "mat": "Condicional. Hay que confirmar el acceso por edad y la sede.",
+      "osc": "Condicional. Hay que confirmar el acceso por edad y la sede.",
+      "format": "Taller presencial de verano con elección de grupo.",
+      "entry": "El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.",
+      "gear": "Montaje y programación por bloques de LEGO WeDo. En la sesión se prestan el kit y una computadora portátil o tableta.",
+      "language": "Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.",
+      "cost": "Se indica PEN 869 para 9 sesiones y PEN 869 para 15 sesiones. Confirmar el paquete elegido por la coincidencia de importes.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers"
+      ],
+      "scope": "regional",
+      "importance_reason": "Programa formativo técnico",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "delivery_mode": "in_person"
+    },
+    {
+      "id": "L772",
+      "title": "PcMiraflores · Vacaciones Útiles 2027 · LEGO Mindstorms EV3",
+      "block": "Campamentos",
+      "country": "Perú",
+      "region": "América del Sur",
+      "iso": [
+        "PER"
+      ],
+      "city": "Lima",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://pcmiraflores.com/taller/robotica-ev3",
+      "references": [
+        {
+          "url": "https://pcmiraflores.com/talleres",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "No se publican límites de edad del grupo de 2027.",
+      "mat": "Condicional. Hay que confirmar el acceso por edad y la sede.",
+      "osc": "Condicional. Hay que confirmar el acceso por edad y la sede.",
+      "format": "Taller presencial de verano con elección de grupo.",
+      "entry": "El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.",
+      "gear": "Robótica intermedia con LEGO Mindstorms EV3. Hasta 4 alumnos, se facilita kit y computadora portátil.",
+      "language": "Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.",
+      "cost": "PEN 695 por 9 sesiones o PEN 1090 por 15 sesiones.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers"
+      ],
+      "scope": "regional",
+      "importance_reason": "Programa formativo técnico",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "delivery_mode": "in_person"
+    },
+    {
+      "id": "L773",
+      "title": "PcMiraflores · Vacaciones Útiles 2027 · Arduino",
+      "block": "Campamentos",
+      "country": "Perú",
+      "region": "América del Sur",
+      "iso": [
+        "PER"
+      ],
+      "city": "Lima",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://pcmiraflores.com/taller/robotica-arduino",
+      "references": [
+        {
+          "url": "https://pcmiraflores.com/talleres",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "No se publican límites de edad del grupo de 2027.",
+      "mat": "Condicional. Hay que confirmar el acceso por edad y la sede.",
+      "osc": "Condicional. Hay que confirmar el acceso por edad y la sede.",
+      "format": "Taller presencial de verano con elección de grupo.",
+      "entry": "El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.",
+      "gear": "Electrónica, sensores y programación básica de Arduino. Se requiere computadora portátil y unidad USB.",
+      "language": "Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.",
+      "cost": "PEN 810 por 9 sesiones o PEN 1280 por 15 sesiones.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers"
+      ],
+      "scope": "regional",
+      "importance_reason": "Programa formativo técnico",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "delivery_mode": "in_person"
+    },
+    {
       "id": "CP047-20270103-20270108",
       "block": "Campamentos",
       "title": "Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08",

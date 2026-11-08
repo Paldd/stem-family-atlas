@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 1936 fichas en 126 países. Las fechas de verificación de cada fuente constan en su ficha.
+Estado de la base al 2026-11-08. 1944 fichas en 126 países. Cada ficha indica las fechas de consulta de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -155813,6 +155813,424 @@ Estados Unidos · Frost Museum of Science · Miami
 - [Página de la organización o reglamento de la categoría.](https://www.frostscience.org/camp-faqs/) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://www.frostscience.org/exhibition/the-science-behind-pixar/) · 2026-11-08
+
+## CP1937 · Young Innovators · Space Explorer STEM
+
+Canadá · Tsawwassen Arts Centre · Delta, BC
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–14 años en la descripción y 7–14 en la sección de inscripción. Confirmar el mínimo para un menor de 6 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Programar una luz nocturna con micro:bit, modelar un cohete en 3D y montar un rover.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 30.11.2026, 09:00–15:00. Inscripción por el centro recreativo, confirmar plazas.
+
+**Precio / año:** 2026 · CAD 95 por el día.
+
+**Incluido:** Programar una luz nocturna con micro:bit, modelar un cohete en 3D y montar un rover.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar admisión y plaza.
+
+**Oscar:** Condicional. En los datos de inscripción el mínimo es 7 años, en la descripción 6 años.
+
+**Motivo de selección:** 30.11.2026, 09:00–15:00. Inscripción por el centro recreativo, confirmar plazas.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Taller diurno 09:00–15:00.
+
+**Fechas / estado:** 2026-11-30 — 2026-11-30
+
+**Precio:** CAD 95 por el día.
+
+- 2026-11-30 · 09:00–15:00 · America/Vancouver · Programar una luz nocturna con micro:bit, modelar un cohete en 3D y montar un rover.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://younginnovators.ca/programs/tsawwassen-ladner/pro-d-day-activity-in-tsawwassen-space-explorer-stem-adventure/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://younginnovators.ca/programs/tsawwassen-ladner/pro-d-day-activity-in-tsawwassen-space-explorer-stem-adventure/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://younginnovators.ca/programs/tsawwassen-ladner/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://news.gov.bc.ca/releases/2026AG0013-000209) · 2026-11-08
+
+## CP1938 · Young Innovators · Retro Arcade
+
+Canadá · Tsawwassen Arts Centre · Delta, BC
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–14 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Crear un juego para una consola portátil.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** La organización muestra Coming Soon. Apertura de inscripciones y plazas sin confirmar. Martes de 15:30 a 17:00.
+
+**Precio / año:** 2027 · CAD 225 por el curso.
+
+**Incluido:** Crear un juego para una consola portátil.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar admisión y plaza.
+
+**Oscar:** No por ahora. La edad mínima de este turno es 7 años.
+
+**Motivo de selección:** La organización muestra Coming Soon. Apertura de inscripciones y plazas sin confirmar. Martes de 15:30 a 17:00.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Martes de 15:30 a 17:00.
+
+**Fechas / estado:** 2027-01-05 — 2027-02-02
+
+**Precio:** CAD 225 por el curso.
+
+- 2027-01-05 · 15:30–17:00 · America/Vancouver · Crear un juego para una consola portátil.
+
+- 2027-01-12 · 15:30–17:00 · America/Vancouver · Crear un juego para una consola portátil.
+
+- 2027-01-19 · 15:30–17:00 · America/Vancouver · Crear un juego para una consola portátil.
+
+- 2027-01-26 · 15:30–17:00 · America/Vancouver · Crear un juego para una consola portátil.
+
+- 2027-02-02 · 15:30–17:00 · America/Vancouver · Crear un juego para una consola portátil.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://younginnovators.ca/programs/tsawwassen-ladner/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://younginnovators.ca/programs/tsawwassen-ladner/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://news.gov.bc.ca/releases/2026AG0013-000209) · 2026-11-08
+
+## CP1939 · Young Innovators · Battle of the Bots · Mars Rover
+
+Canadá · Tsawwassen Arts Centre · Delta, BC
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–14 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Rovers marcianos y retos de montaje y control de robots.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** La organización muestra Coming Soon. Apertura de inscripciones y plazas sin confirmar. Martes de 17:15 a 18:45.
+
+**Precio / año:** 2027 · CAD 295 por el curso. La página también muestra CAD 49 por semana. Cotejar el importe y el número de sesiones.
+
+**Incluido:** Rovers marcianos y retos de montaje y control de robots.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar admisión y plaza.
+
+**Oscar:** No por ahora. La edad mínima de este turno es 7 años.
+
+**Motivo de selección:** La organización muestra Coming Soon. Apertura de inscripciones y plazas sin confirmar. Martes de 17:15 a 18:45.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Martes de 17:15 a 18:45.
+
+**Fechas / estado:** 2027-02-02 — 2027-03-02
+
+**Precio:** CAD 295 por el curso. La página también muestra CAD 49 por semana. Cotejar el importe y el número de sesiones.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://younginnovators.ca/programs/tsawwassen-ladner/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://younginnovators.ca/programs/tsawwassen-ladner/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://news.gov.bc.ca/releases/2026AG0013-000209) · 2026-11-08
+
+## CP1940 · Young Innovators · Motorized Disk Launcher
+
+Canadá · Tsawwassen Arts Centre · Delta, BC
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–9 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Montar y probar un lanzador motorizado.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** La organización muestra Coming Soon. Apertura de inscripciones y plazas sin confirmar. Martes de 15:30 a 17:00.
+
+**Precio / año:** 2027 · CAD 265 por el curso.
+
+**Incluido:** Montar y probar un lanzador motorizado.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar admisión y plaza.
+
+**Oscar:** Sí por edad. Confirmar admisión y plaza.
+
+**Motivo de selección:** La organización muestra Coming Soon. Apertura de inscripciones y plazas sin confirmar. Martes de 15:30 a 17:00.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Martes de 15:30 a 17:00.
+
+**Fechas / estado:** 2027-02-09 — 2027-03-09
+
+**Precio:** CAD 265 por el curso.
+
+- 2027-02-09 · 15:30–17:00 · America/Vancouver · Montar y probar un lanzador motorizado.
+
+- 2027-02-16 · 15:30–17:00 · America/Vancouver · Montar y probar un lanzador motorizado.
+
+- 2027-02-23 · 15:30–17:00 · America/Vancouver · Montar y probar un lanzador motorizado.
+
+- 2027-03-02 · 15:30–17:00 · America/Vancouver · Montar y probar un lanzador motorizado.
+
+- 2027-03-09 · 15:30–17:00 · America/Vancouver · Montar y probar un lanzador motorizado.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://younginnovators.ca/programs/tsawwassen-ladner/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://younginnovators.ca/programs/tsawwassen-ladner/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://news.gov.bc.ca/releases/2026AG0013-000209) · 2026-11-08
+
+## CP1941 · Beaufort County Parks · AI SmartCore 4 Spring Break
+
+Estados Unidos · Burton Wells Recreation Center · Beaufort, SC
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–11 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Montaje y control de vehículos con AI SmartCore 4. El menor se lleva el kit de robótica a casa.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 12–16.04.2027, 08:00–12:00. La inscripción está prevista desde el 05.01.2027 a las 10:00, hora local.
+
+**Precio / año:** 2027 · USD 230 por menor.
+
+**Incluido:** Montaje y control de vehículos con AI SmartCore 4. El menor se lleva el kit de robótica a casa.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar admisión y plaza.
+
+**Oscar:** Sí por edad. Confirmar admisión y plaza.
+
+**Motivo de selección:** 12–16.04.2027, 08:00–12:00. La inscripción está prevista desde el 05.01.2027 a las 10:00, hora local.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Turno de mañana 08:00–12:00.
+
+**Fechas / estado:** 2027-04-12 — 2027-04-16
+
+**Precio:** USD 230 por menor.
+
+- 2027-04-12 · 08:00–12:00 · America/New_York · Montaje y control de vehículos con AI SmartCore 4. El menor se lleva el kit de robótica a casa.
+
+- 2027-04-13 · 08:00–12:00 · America/New_York · Montaje y control de vehículos con AI SmartCore 4. El menor se lleva el kit de robótica a casa.
+
+- 2027-04-14 · 08:00–12:00 · America/New_York · Montaje y control de vehículos con AI SmartCore 4. El menor se lleva el kit de robótica a casa.
+
+- 2027-04-15 · 08:00–12:00 · America/New_York · Montaje y control de vehículos con AI SmartCore 4. El menor se lleva el kit de robótica a casa.
+
+- 2027-04-16 · 08:00–12:00 · America/New_York · Montaje y control de vehículos con AI SmartCore 4. El menor se lleva el kit de robótica a casa.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.bcscrec.com/robotics-camp)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.bcscrec.com/robotics-camp) · 2026-11-08
+
+## CP1942 · PcMiraflores · Vacaciones Útiles 2027 · LEGO WeDo
+
+Perú · Lima
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** No se publican límites de edad del grupo de 2027.
+
+**Idioma:** Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.
+
+**Programa:** Montaje y programación por bloques de LEGO WeDo. En la sesión se prestan el kit y una computadora portátil o tableta.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+
+**Precio / año:** 2027 · Se indica PEN 869 para 9 sesiones y PEN 869 para 15 sesiones. Confirmar el paquete elegido por la coincidencia de importes.
+
+**Incluido:** Montaje y programación por bloques de LEGO WeDo. En la sesión se prestan el kit y una computadora portátil o tableta.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Hay que confirmar el acceso por edad y la sede.
+
+**Oscar:** Condicional. Hay que confirmar el acceso por edad y la sede.
+
+**Motivo de selección:** El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://pcmiraflores.com/taller/robotica-lego) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://pcmiraflores.com/talleres) · 2026-11-08
+
+## CP1943 · PcMiraflores · Vacaciones Útiles 2027 · LEGO Mindstorms EV3
+
+Perú · Lima
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** No se publican límites de edad del grupo de 2027.
+
+**Idioma:** Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.
+
+**Programa:** Robótica intermedia con LEGO Mindstorms EV3. Hasta 4 alumnos, se facilita kit y computadora portátil.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+
+**Precio / año:** 2027 · PEN 695 por 9 sesiones o PEN 1090 por 15 sesiones.
+
+**Incluido:** Robótica intermedia con LEGO Mindstorms EV3. Hasta 4 alumnos, se facilita kit y computadora portátil.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Hay que confirmar el acceso por edad y la sede.
+
+**Oscar:** Condicional. Hay que confirmar el acceso por edad y la sede.
+
+**Motivo de selección:** El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://pcmiraflores.com/taller/robotica-ev3) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://pcmiraflores.com/talleres) · 2026-11-08
+
+## CP1944 · PcMiraflores · Vacaciones Útiles 2027 · Arduino
+
+Perú · Lima
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** No se publican límites de edad del grupo de 2027.
+
+**Idioma:** Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.
+
+**Programa:** Electrónica, sensores y programación básica de Arduino. Se requiere computadora portátil y unidad USB.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+
+**Precio / año:** 2027 · PEN 810 por 9 sesiones o PEN 1280 por 15 sesiones.
+
+**Incluido:** Electrónica, sensores y programación básica de Arduino. Se requiere computadora portátil y unidad USB.
+
+**Suplementos:** Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Hay que confirmar el acceso por edad y la sede.
+
+**Oscar:** Condicional. Hay que confirmar el acceso por edad y la sede.
+
+**Motivo de selección:** El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://pcmiraflores.com/taller/robotica-arduino) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://pcmiraflores.com/talleres) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

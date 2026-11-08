@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10129,
-    "competition_cards": 4606,
-    "event_cards": 549,
-    "camp_cards": 4974,
+    "cards": 10148,
+    "competition_cards": 4612,
+    "event_cards": 553,
+    "camp_cards": 4983,
     "league_profiles": 299,
-    "major_exhibition_cards": 452,
+    "major_exhibition_cards": 456,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3301,
+      "total": 3306,
       "countries_with_records": 40,
       "competitions": 1908,
       "events": 142,
       "major_exhibitions": 104,
-      "camps": 1251,
+      "camps": 1256,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 663,
+      "total": 673,
       "countries_with_records": 14,
-      "competitions": 422,
+      "competitions": 428,
       "events": 41,
       "major_exhibitions": 37,
-      "camps": 200,
+      "camps": 204,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -62,11 +62,11 @@
       "regions": [
         "Европа"
       ],
-      "total": 2157,
+      "total": 2161,
       "countries_with_records": 52,
       "competitions": 592,
-      "events": 139,
-      "major_exhibitions": 114,
+      "events": 143,
+      "major_exhibitions": 118,
       "camps": 1426,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
@@ -13654,6 +13654,50 @@
       "new": false
     },
     {
+      "id": "E550",
+      "name": "RoboCup 2027 · Research Symposium",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2027-06-21",
+      "end": "2027-06-21",
+      "visitor_policy": "confirm_children",
+      "source": "https://2027.robocup.org/visit/visitors",
+      "new": false
+    },
+    {
+      "id": "E551",
+      "name": "XPONENTIAL Europe 2027 · XPO Hall",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2027-03-16",
+      "end": "2027-03-18",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.xponential-europe.com/",
+      "new": false
+    },
+    {
+      "id": "E552",
+      "name": "XPONENTIAL Europe 2027 · European Drone Forum",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2027-03-15",
+      "end": "2027-03-15",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.xponential-europe.com/en/Partner_Conferences/European_Drone_Forum",
+      "new": false
+    },
+    {
+      "id": "E553",
+      "name": "SPS Smart Production Solutions 2027 · Nuremberg",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2027-11-23",
+      "end": "2027-11-25",
+      "visitor_policy": "confirm_children",
+      "source": "https://sps.mesago.com/nuernberg/en/expo/planning-preparation/opening-hours.html",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -16071,10 +16115,10 @@
       }
     ],
     "counts": {
-      "records": 4974,
-      "holiday": 4630,
+      "records": 4983,
+      "holiday": 4635,
       "regular": 158,
-      "self_paced_materials": 2,
+      "self_paced_materials": 3,
       "boarding": 1037,
       "en_es_instruction": 1583,
       "en_es_support": 28,

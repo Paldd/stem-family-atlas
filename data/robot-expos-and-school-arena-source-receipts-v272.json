@@ -1,0 +1,314 @@
+{
+  "captures": [
+    {
+      "key": "ipem-maze",
+      "url": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=laberinto",
+      "final_url": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=laberinto",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 17423,
+      "sha256": "77d9b63072351cb5e3469ec1b8fa043f8c5c9c789956b9fb5bb7a5081485102e",
+      "file": "ipem-maze.html"
+    },
+    {
+      "key": "ipem",
+      "url": "https://www.ipem93.com.ar/robotica/index.php",
+      "final_url": "https://www.ipem93.com.ar/robotica/index.php",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 17841,
+      "sha256": "cdb9e91b31272b538578b935edfb8a04b81ca2cb1db5d5fc49524cec04848552",
+      "file": "ipem.html"
+    },
+    {
+      "key": "ipem-rules",
+      "url": "https://www.ipem93.com.ar/robotica/reglamentos.php",
+      "final_url": "https://www.ipem93.com.ar/robotica/reglamentos.php",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 17452,
+      "sha256": "7decfeefffb3058c0b87107a3c4b44bbf9308995f6429fb027bbbe2642f24b6e",
+      "file": "ipem-rules.html"
+    },
+    {
+      "key": "ipem-cans",
+      "url": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=tumba_lata",
+      "final_url": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=tumba_lata",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 12663,
+      "sha256": "b05c6b79c3c21872e282ab7b47a19fa3d384ce39fd49c2be3eb8f5571c1c88da",
+      "file": "ipem-cans.html"
+    },
+    {
+      "key": "ipem-line",
+      "url": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=seguidor",
+      "final_url": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=seguidor",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 12660,
+      "sha256": "7ccfec1069ffa59835c55766d5aa10df1f9762e277a48c45eb5f513ca69a7701",
+      "file": "ipem-line.html"
+    },
+    {
+      "key": "ipem-drone",
+      "url": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=drone",
+      "final_url": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=drone",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 11908,
+      "sha256": "298977dd0674b26f0f4a81c2599df65c916bd159df45f27d2f4f276be6cb5f50",
+      "file": "ipem-drone.html"
+    },
+    {
+      "key": "ipem-football",
+      "url": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=futbol",
+      "final_url": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=futbol",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 15019,
+      "sha256": "052734086029b222c1666175d0e4a39e69295612895beaf8deea989a81c8f5bc",
+      "file": "ipem-football.html"
+    },
+    {
+      "key": "ipem-rescue",
+      "url": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=rescate",
+      "final_url": "https://www.ipem93.com.ar/robotica/reglamentos.php?d=rescate",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 12306,
+      "sha256": "e1a3d939db1032e4aa652ae89ab05b76926ab0474c4bbf27eaa5f2b05de9efb0",
+      "file": "ipem-rescue.html"
+    },
+    {
+      "key": "ipem-sim",
+      "url": "https://www.ipem93.com.ar/robotica/rescate/",
+      "final_url": "https://www.ipem93.com.ar/robotica/rescate/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 91727,
+      "sha256": "0ab1628b07841de6cfabb9aac859dd702276c632468c27a5f311540cc4ea2b8f",
+      "file": "ipem-sim.html"
+    },
+    {
+      "key": "robocup-public",
+      "url": "https://2027.robocup.org/visit/visitors",
+      "final_url": "https://2027.robocup.org/visit/visitors",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 118795,
+      "sha256": "d6168b2a5d9c23108efb368435130b99c2022d29f20a98f8b8ff34606b058cb5",
+      "file": "robocup-public.html"
+    },
+    {
+      "key": "robocup-family",
+      "url": "https://2027.robocup.org/wm27/participation/family-day",
+      "final_url": "https://2027.robocup.org/wm27/participation/family-day",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 73248,
+      "sha256": "233859277574181629b60fa1f1be82a5762a295db5a2aefd2dfa07f3de63f76f",
+      "file": "robocup-family.html"
+    },
+    {
+      "key": "robocup-main",
+      "url": "https://2027.robocup.org/",
+      "final_url": "https://2027.robocup.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 83521,
+      "sha256": "45fb06ea087f0f16b22f228f3a3be00c18edf0d420ebd3e9d5674d211a44747f",
+      "file": "robocup-main.html"
+    },
+    {
+      "key": "tairos",
+      "url": "https://tairos.chanchao.com.tw/en/VisitorInfo",
+      "final_url": "https://tairos.chanchao.com.tw/en/VisitorInfo",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 383213,
+      "sha256": "74b25da243a38d882a7d5aab0a02bc3642fd66f090913379051cc2245fedb3d7",
+      "file": "tairos.html"
+    },
+    {
+      "key": "tairos-exhibitors",
+      "url": "https://tairos.chanchao.com.tw/en/VisitorExhibitor",
+      "final_url": "https://tairos.chanchao.com.tw/en/VisitorExhibitor",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 582797,
+      "sha256": "531096a1915d184def2c833647806458635ba6fda3574e1b2a90bfe65dfa4851",
+      "file": "tairos-exhibitors.html"
+    },
+    {
+      "key": "xpo",
+      "url": "https://www.xponential-europe.com/",
+      "final_url": "https://www.xponential-europe.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 329831,
+      "sha256": "c2066d47e6e25fc186a4d38dc9ca248c27477a7d8579926d933ec0498364f48b",
+      "file": "xpo.html"
+    },
+    {
+      "key": "xpo-hours",
+      "url": "https://www.xponential-europe.com/en/Visitors/Preparation/Opening_hours",
+      "final_url": "https://www.xponential-europe.com/en/Visitors/Preparation/Opening_hours",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 134645,
+      "sha256": "80c5a936bf3ac238da06d2d34772171625257dedaaedb371db3928f85259f44f",
+      "file": "xpo-hours.html"
+    },
+    {
+      "key": "xpo-tickets",
+      "url": "https://www.xponential-europe.com/en/Visitors/Preparation/Tickets_Registration",
+      "final_url": "https://www.xponential-europe.com/en/Visitors/Preparation/Tickets_Registration",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 117497,
+      "sha256": "bb973158f5599b44085d90b98e2c3a4a4ced1406f47de2a207ff6835db1b402d",
+      "file": "xpo-tickets.html"
+    },
+    {
+      "key": "xpo-prices",
+      "url": "https://shop.messe-duesseldorf.de/xponential_preise_e?oid=1437&ticket=g_u_e_s_t&lang=2",
+      "final_url": "https://shop.messe-duesseldorf.de/xponential_preise_e?oid=1437&ticket=g_u_e_s_t&lang=2",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 89154,
+      "sha256": "546a65b53a4c0a793ef8b5e21aa9fa7dca9cecbc63d521c11c31521c4fec22a6",
+      "file": "xpo-prices.html"
+    },
+    {
+      "key": "xpo-press",
+      "url": "https://www.xponential-europe.com/en/Media_News/Press/Press_Material/Press_Releases/XPONENTIAL_Europe_2027_%E2%80%93_Ticket_shop_open_Additional_exhibition_hall,_expanded_programme_and_Defence.NRW_as_new_network_and_competence_partner",
+      "final_url": "https://www.xponential-europe.com/en/Media_News/Press/Press_Material/Press_Releases/XPONENTIAL_Europe_2027_%E2%80%93_Ticket_shop_open_Additional_exhibition_hall,_expanded_programme_and_Defence.NRW_as_new_network_and_competence_partner",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 125799,
+      "sha256": "9479e0533b98a7d6732fbb437a4721c0eb9b36b7241f966e01718b66996fd3cb",
+      "file": "xpo-press.html"
+    },
+    {
+      "key": "xpo-forum",
+      "url": "https://www.xponential-europe.com/en/Partner_Conferences/European_Drone_Forum",
+      "final_url": "https://www.xponential-europe.com/en/Partner_Conferences/European_Drone_Forum",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 170239,
+      "sha256": "76aaae0b38536a46d7384a265fa03644bdc9fd489fd0f4d6f91860625078e77f",
+      "file": "xpo-forum.html"
+    },
+    {
+      "key": "sps",
+      "url": "https://sps.mesago.com/nuernberg/en/expo/planning-preparation/opening-hours.html",
+      "final_url": "https://sps.mesago.com/nuernberg/en/expo/planning-preparation/opening-hours.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 96760,
+      "sha256": "1657c3f4894cae25bf6ba220bc19a2b0cc957c645bdef925c27a83b42dfa0e36",
+      "file": "sps.html"
+    },
+    {
+      "key": "sps-tickets",
+      "url": "https://sps.mesago.com/nuernberg/en/expo/for_visitors/tickets.html",
+      "final_url": "https://sps.mesago.com/nuernberg/en/expo/for_visitors/tickets.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 140965,
+      "sha256": "cafd848568ad96a5d62d0a94bdd1af43132ffafe87fc1d33825aa60f95cbeda6",
+      "file": "sps-tickets.html"
+    },
+    {
+      "key": "sps-2027",
+      "url": "https://sps-calculator.mesago.com/",
+      "final_url": "https://sps-calculator.mesago.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 456,
+      "sha256": "afc966e2505abbc846fda3a05b2917b040b5112cf1b6a206aed7c56a6b40dab8",
+      "file": "sps-2027.html"
+    },
+    {
+      "key": "young-space",
+      "url": "https://younginnovators.ca/programs/tsawwassen-ladner/pro-d-day-activity-in-tsawwassen-space-explorer-stem-adventure/",
+      "final_url": "https://younginnovators.ca/programs/tsawwassen-ladner/pro-d-day-activity-in-tsawwassen-space-explorer-stem-adventure/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 247494,
+      "sha256": "a59909d308f5cd12f626aae2fab5a09adb5d5618593b1a61cff4f15a55acf739",
+      "file": "young-space.html"
+    },
+    {
+      "key": "young",
+      "url": "https://younginnovators.ca/programs/tsawwassen-ladner/",
+      "final_url": "https://younginnovators.ca/programs/tsawwassen-ladner/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 262553,
+      "sha256": "a1d9e2923d9eab847c5cbff8fa7c5e9a1f9ad61e0aaea3087b9af7b062a42bb9",
+      "file": "young.html"
+    },
+    {
+      "key": "bc-time",
+      "url": "https://news.gov.bc.ca/releases/2026AG0013-000209",
+      "final_url": "https://news.gov.bc.ca/releases/2026AG0013-000209",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 78173,
+      "sha256": "227503b3666c2bd125ef3dd7a30455b4b03a6b6ebfcfb75a0ea5863df58045e9",
+      "file": "bc-time.html"
+    },
+    {
+      "key": "bcr",
+      "url": "https://www.bcscrec.com/robotics-camp",
+      "final_url": "https://www.bcscrec.com/robotics-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1110736,
+      "sha256": "1085aa0631818d7373147e84351239d62a9fbd8d76a463885400acbd00c36bdf",
+      "file": "bcr.html"
+    },
+    {
+      "key": "pc-wedo",
+      "url": "https://pcmiraflores.com/taller/robotica-lego",
+      "final_url": "https://pcmiraflores.com/taller/robotica-lego",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 26469,
+      "sha256": "a9ddc373500cd9b8eb304b56222f785057d2ea9cf1b2d84d6972363bfff54163",
+      "file": "pc-wedo.html"
+    },
+    {
+      "key": "pc-main",
+      "url": "https://pcmiraflores.com/talleres",
+      "final_url": "https://pcmiraflores.com/talleres",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 19120,
+      "sha256": "001919aeffc1342acac710f066424350b3625e0f7351177a4d3d868a1c383c38",
+      "file": "pc-main.html"
+    },
+    {
+      "key": "pc-ev3",
+      "url": "https://pcmiraflores.com/taller/robotica-ev3",
+      "final_url": "https://pcmiraflores.com/taller/robotica-ev3",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 26352,
+      "sha256": "87aa39570c92b00654d798270157b2c28307181b29740a048317037d4473cc04",
+      "file": "pc-ev3.html"
+    },
+    {
+      "key": "pc-arduino",
+      "url": "https://pcmiraflores.com/taller/robotica-arduino",
+      "final_url": "https://pcmiraflores.com/taller/robotica-arduino",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 24760,
+      "sha256": "d7c1d0f114073acb0b2e5632ae95b41220f357f5b9dff39ad579910980e7f9ea",
+      "file": "pc-arduino.html"
+    }
+  ]
+}

@@ -11094,6 +11094,70 @@ Restricciones: Confirmar la tarifa y el turno disponible con Fundación Ibercaja
 Fuente: https://aulaenred.fundacionibercaja.es/actividades/alumnado/minicoders-crea-tu-primer-videojuego-con-scratch-26-27/
 Se ha comprobado: 2026-11-08
 
+### L770 · IPEM 93 · Rescate inteligente · practice simulator
+
+lugar: Argentina
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Práctica abierta sin edad mínima publicada. Los menores pueden necesitar ayuda con la lectura.
+Matvey: Sí. Práctica abierta en el navegador, con apoyo adulto si se necesita.
+Oscar: Sí. Práctica abierta en el navegador, con apoyo adulto si se necesita.
+Formato: individual
+Idioma: Interfaz e instrucciones del simulador en español. Práctica autónoma.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Práctica abierta sin edad mínima publicada. Los menores pueden necesitar ayuda con la lectura.
+Limitaciones: La clasificación oficial se realiza aparte en la sede del torneo. Aquí se puede practicar desde casa.
+Fuente: https://www.ipem93.com.ar/robotica/rescate/
+Se ha comprobado: 2026-11-08
+
+### L771 · PcMiraflores · Vacaciones Útiles 2027 · LEGO WeDo
+
+lugar: Perú · Lima
+Fecha: No se ha fijado el período/plan de trabajo
+edad: No se publican límites de edad del grupo de 2027.
+Matvey: Condicional. Hay que confirmar el acceso por edad y la sede.
+Oscar: Condicional. Hay que confirmar el acceso por edad y la sede.
+Formato: holiday_workshop
+Idioma: Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Se indica PEN 869 para 9 sesiones y PEN 869 para 15 sesiones. Confirmar el paquete elegido por la coincidencia de importes.
+Acceso: El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+Limitaciones: El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+Fuente: https://pcmiraflores.com/taller/robotica-lego
+Se ha comprobado: 2026-11-08
+
+### L772 · PcMiraflores · Vacaciones Útiles 2027 · LEGO Mindstorms EV3
+
+lugar: Perú · Lima
+Fecha: No se ha fijado el período/plan de trabajo
+edad: No se publican límites de edad del grupo de 2027.
+Matvey: Condicional. Hay que confirmar el acceso por edad y la sede.
+Oscar: Condicional. Hay que confirmar el acceso por edad y la sede.
+Formato: holiday_workshop
+Idioma: Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: PEN 695 por 9 sesiones o PEN 1090 por 15 sesiones.
+Acceso: El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+Limitaciones: El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+Fuente: https://pcmiraflores.com/taller/robotica-ev3
+Se ha comprobado: 2026-11-08
+
+### L773 · PcMiraflores · Vacaciones Útiles 2027 · Arduino
+
+lugar: Perú · Lima
+Fecha: No se ha fijado el período/plan de trabajo
+edad: No se publican límites de edad del grupo de 2027.
+Matvey: Condicional. Hay que confirmar el acceso por edad y la sede.
+Oscar: Condicional. Hay que confirmar el acceso por edad y la sede.
+Formato: holiday_workshop
+Idioma: Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: PEN 810 por 9 sesiones o PEN 1280 por 15 sesiones.
+Acceso: El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+Limitaciones: El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+Fuente: https://pcmiraflores.com/taller/robotica-arduino
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -78372,6 +78436,86 @@ Precio: 2026/27 · USD 429 por 4 días. Dos niños USD 858 antes de descuentos. 
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: Sí por edad. Confirmar admisión y plaza. Suplementos: La página del turno de invierno indica cuidado de 16:00 a 17:30. Las preguntas frecuentes generales indican 15:30–17:30. Confirmar el inicio exacto. Pago: Las preguntas frecuentes piden avisar de la renuncia con al menos 2 semanas. Si se avisa a tiempo, hay crédito para programas del museo sin devolución monetaria.
 Fuente: https://www.frostscience.org/event/winter-camp-space-quest/
+Se ha comprobado: 2026-11-08
+
+### CP1937-20261130-20261130-space-20261130 · Young Innovators · Space Explorer STEM · Taller diurno 09:00–15:00. · 2026-11-30–2026-11-30
+
+lugar: Canadá · Tsawwassen Arts Centre · Delta, BC
+Fecha: 2026-11-30 — 2026-11-30
+edad: 6–14 años en la descripción y 7–14 en la sección de inscripción. Confirmar el mínimo para un menor de 6 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 95 por el día. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: Condicional. En los datos de inscripción el mínimo es 7 años, en la descripción 6 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://younginnovators.ca/programs/tsawwassen-ladner/pro-d-day-activity-in-tsawwassen-space-explorer-stem-adventure/
+Se ha comprobado: 2026-11-08
+
+### CP1938-20270105-20270202-retro · Young Innovators · Retro Arcade · Martes de 15:30 a 17:00. · 2027-01-05–2027-02-02
+
+lugar: Canadá · Tsawwassen Arts Centre · Delta, BC
+Fecha: 2027-01-05 — 2027-02-02
+edad: 7–14 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+formato: course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 225 por el curso. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: No por ahora. La edad mínima de este turno es 7 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://younginnovators.ca/programs/tsawwassen-ladner/
+Se ha comprobado: 2026-11-08
+
+### CP1939-20270202-20270302-mars · Young Innovators · Battle of the Bots · Mars Rover · Martes de 17:15 a 18:45. · 2027-02-02–2027-03-02
+
+lugar: Canadá · Tsawwassen Arts Centre · Delta, BC
+Fecha: 2027-02-02 — 2027-03-02
+edad: 7–14 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+formato: course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 295 por el curso. La página también muestra CAD 49 por semana. Cotejar el importe y el número de sesiones. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: No por ahora. La edad mínima de este turno es 7 años. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://younginnovators.ca/programs/tsawwassen-ladner/
+Se ha comprobado: 2026-11-08
+
+### CP1940-20270209-20270309-disk · Young Innovators · Motorized Disk Launcher · Martes de 15:30 a 17:00. · 2027-02-09–2027-03-09
+
+lugar: Canadá · Tsawwassen Arts Centre · Delta, BC
+Fecha: 2027-02-09 — 2027-03-09
+Edad: 6–9 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+formato: course
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 265 por el curso. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: Sí por edad. Confirmar admisión y plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://younginnovators.ca/programs/tsawwassen-ladner/
+Se ha comprobado: 2026-11-08
+
+### CP1941-20270412-20270416-burton-wells · Beaufort County Parks · AI SmartCore 4 Spring Break · Turno de mañana 08:00–12:00. · 2027-04-12–2027-04-16
+
+lugar: Estados Unidos · Burton Wells Recreation Center · Beaufort, SC
+Fecha: 2027-04-12 — 2027-04-16
+edad: 6–11 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 230 por menor. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: Sí por edad. Confirmar admisión y plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.bcscrec.com/robotics-camp
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

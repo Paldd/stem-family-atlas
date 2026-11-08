@@ -5690,6 +5690,136 @@ Limitaciones: El jurado selecciona finalistas para demostración pública y elig
 Fuente: https://latam.gamescom.global/en/big-festival-en/
 Se ha comprobado: 2026-11-08
 
+### C4608 · IPEM 93 Robótica 2026 · Laberinto
+
+Fecha: 2026-11-19 国 2026-11-19
+edad: Preescolar, primaria y secundaria. Todo el alumnado del equipo debe pertenecer al mismo nivel.
+Matvey: Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.
+Oscar: Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.
+Idioma: Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.
+Acceso: El colegio presenta la solicitud. El 19.11.2026 el docente presenta el código de confirmación en la acreditación a las 08:30. Confirmar la admisión de un colegio extranjero.
+Precio: Gratuito.
+Limitaciones: Las categorías separan nivel escolar y, donde se indica, control autónomo y manual. El colegio confirma el consentimiento familiar para imágenes.
+Fuente: https://www.ipem93.com.ar/robotica/reglamentos.php?d=laberinto
+Se ha comprobado: 2026-11-08
+
+### C4609 · IPEM 93 Robótica 2026 · Tumba lata
+
+Fecha: 2026-11-19 国 2026-11-19
+edad: Preescolar, primaria y secundaria. Todo el alumnado del equipo debe pertenecer al mismo nivel.
+Matvey: Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.
+Oscar: Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.
+Idioma: Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.
+Acceso: El colegio presenta la solicitud. El 19.11.2026 el docente presenta el código de confirmación en la acreditación a las 08:30. Confirmar la admisión de un colegio extranjero.
+Precio: Gratuito.
+Limitaciones: Las categorías separan nivel escolar y, donde se indica, control autónomo y manual. El colegio confirma el consentimiento familiar para imágenes.
+Fuente: https://www.ipem93.com.ar/robotica/reglamentos.php?d=tumba_lata
+Se ha comprobado: 2026-11-08
+
+### C4610 · IPEM 93 Robótica 2026 · Seguidor de línea
+
+Fecha: 2026-11-19 国 2026-11-19
+edad: Preescolar, primaria y secundaria. Todo el alumnado del equipo debe pertenecer al mismo nivel.
+Matvey: Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.
+Oscar: Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.
+Idioma: Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.
+Acceso: El colegio presenta la solicitud. El 19.11.2026 el docente presenta el código de confirmación en la acreditación a las 08:30. Confirmar la admisión de un colegio extranjero.
+Precio: Gratuito.
+Limitaciones: Las categorías separan nivel escolar y, donde se indica, control autónomo y manual. El colegio confirma el consentimiento familiar para imágenes.
+Fuente: https://www.ipem93.com.ar/robotica/reglamentos.php?d=seguidor
+Se ha comprobado: 2026-11-08
+
+### C4611 · IPEM 93 Robótica 2026 · Misión imposible · Drone
+
+Fecha: 2026-11-19 国 2026-11-19
+edad: Solo primaria y secundaria.
+Matvey: Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.
+Oscar: Condicional. Apto solo si ya cursa primaria y tiene equipo con docente.
+Idioma: Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.
+Acceso: El colegio presenta la solicitud. El 19.11.2026 el docente presenta el código de confirmación en la acreditación a las 08:30. Confirmar la admisión de un colegio extranjero.
+Precio: Gratuito.
+Limitaciones: Las categorías separan nivel escolar y, donde se indica, control autónomo y manual. El colegio confirma el consentimiento familiar para imágenes.
+Fuente: https://www.ipem93.com.ar/robotica/reglamentos.php?d=drone
+Se ha comprobado: 2026-11-08
+
+### C4612 · IPEM 93 Robótica 2026 · Fútbol robótico
+
+Fecha: 2026-11-19 国 2026-11-19
+edad: Preescolar, primaria y secundaria. Todo el alumnado del equipo debe pertenecer al mismo nivel.
+Matvey: Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.
+Oscar: Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.
+Idioma: Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.
+Acceso: El colegio presenta la solicitud. El 19.11.2026 el docente presenta el código de confirmación en la acreditación a las 08:30. Confirmar la admisión de un colegio extranjero.
+Precio: Gratuito.
+Limitaciones: Las categorías separan nivel escolar y, donde se indica, control autónomo y manual. El colegio confirma el consentimiento familiar para imágenes.
+Fuente: https://www.ipem93.com.ar/robotica/reglamentos.php?d=futbol
+Se ha comprobado: 2026-11-08
+
+### C4613 · IPEM 93 Robótica 2026 · Rescate inteligente
+
+Fecha: 2026-11-19 国 2026-11-19
+edad: Preescolar, primaria y secundaria. Todo el alumnado del equipo debe pertenecer al mismo nivel.
+Matvey: Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.
+Oscar: Condicional. Hay nivel escolar compatible. Hace falta solicitud del colegio, equipo y confirmación de admisión.
+Idioma: Reglamento y pruebas en español. Confirmar el idioma de comunicación oral con el jurado.
+Acceso: El colegio presenta la solicitud. El 19.11.2026 el docente presenta el código de confirmación en la acreditación a las 08:30. Confirmar la admisión de un colegio extranjero.
+Precio: Gratuito.
+Limitaciones: Las categorías separan nivel escolar y, donde se indica, control autónomo y manual. El colegio confirma el consentimiento familiar para imágenes.
+Fuente: https://www.ipem93.com.ar/robotica/reglamentos.php?d=rescate
+Se ha comprobado: 2026-11-08
+
+### L770 · IPEM 93 · Rescate inteligente · practice simulator
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Práctica abierta sin edad mínima publicada. Los menores pueden necesitar ayuda con la lectura.
+Matvey: Sí. Práctica abierta en el navegador, con apoyo adulto si se necesita.
+Oscar: Sí. Práctica abierta en el navegador, con apoyo adulto si se necesita.
+Idioma: Interfaz e instrucciones del simulador en español. Práctica autónoma.
+Acceso: Práctica abierta sin edad mínima publicada. Los menores pueden necesitar ayuda con la lectura.
+Precio: Gratuito.
+Limitaciones: La clasificación oficial se realiza aparte en la sede del torneo. Aquí se puede practicar desde casa.
+Fuente: https://www.ipem93.com.ar/robotica/rescate/
+Se ha comprobado: 2026-11-08
+
+### L771 · PcMiraflores · Vacaciones Útiles 2027 · LEGO WeDo
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: No se publican límites de edad del grupo de 2027.
+Matvey: Condicional. Hay que confirmar el acceso por edad y la sede.
+Oscar: Condicional. Hay que confirmar el acceso por edad y la sede.
+Idioma: Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.
+Acceso: El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+Precio: Se indica PEN 869 para 9 sesiones y PEN 869 para 15 sesiones. Confirmar el paquete elegido por la coincidencia de importes.
+Limitaciones: El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+Fuente: https://pcmiraflores.com/taller/robotica-lego
+Se ha comprobado: 2026-11-08
+
+### L772 · PcMiraflores · Vacaciones Útiles 2027 · LEGO Mindstorms EV3
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: No se publican límites de edad del grupo de 2027.
+Matvey: Condicional. Hay que confirmar el acceso por edad y la sede.
+Oscar: Condicional. Hay que confirmar el acceso por edad y la sede.
+Idioma: Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.
+Acceso: El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+Precio: PEN 695 por 9 sesiones o PEN 1090 por 15 sesiones.
+Limitaciones: El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+Fuente: https://pcmiraflores.com/taller/robotica-ev3
+Se ha comprobado: 2026-11-08
+
+### L773 · PcMiraflores · Vacaciones Útiles 2027 · Arduino
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: No se publican límites de edad del grupo de 2027.
+Matvey: Condicional. Hay que confirmar el acceso por edad y la sede.
+Oscar: Condicional. Hay que confirmar el acceso por edad y la sede.
+Idioma: Descripción y materiales de inscripción en español. Confirmar el idioma de la persona instructora del grupo.
+Acceso: El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+Precio: PEN 810 por 9 sesiones o PEN 1280 por 15 sesiones.
+Limitaciones: El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
+Fuente: https://pcmiraflores.com/taller/robotica-arduino
+Se ha comprobado: 2026-11-08
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

@@ -562,7 +562,7 @@
       "action": "Родитель: получить актуальные правила и подтверждение допуска до бронирования",
       "source": "https://tairos.chanchao.com.tw/en/VisitorInfo",
       "proof": "Сверено по странице организатора или площадки. Условия выставки и отдельных занятий проверены раздельно.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Идея",
       "note": "Часы выставки 10:00–17:00, в последний день до 16:00.",
       "iso": [
@@ -587,7 +587,7 @@
         "Автоматизация",
         "Компоненты и интеграторы"
       ],
-      "exhibitor_note": "Каталоги TAIROS и Automation Taipei относятся к двум совместным выставкам; это одна поездка на совместную площадку. Список 2027 проверять отдельно.",
+      "exhibitor_note": "В каталоге TAIROS 2027 уже показаны эти компании. Состав и номера стендов сверять в каталоге перед визитом.",
       "exhibitor_directory_url": "https://tairos.chanchao.com.tw/en/VisitorExhibitor",
       "adult_entry": "Каждому посетителю нужен собственный QR после регистрации. Однодневный билет на месте за 300 TWD указан как альтернатива для тех, кто не хочет заполнять анкету. Вход с 12 лет.",
       "admission_kind": "visitor",
@@ -607,10 +607,29 @@
         {
           "url": "https://automationtaipei.chanchao.com.tw/en/VisitorInfo",
           "label": "Правила посетителей 2027 и возрастной порог 12+"
+        },
+        {
+          "url": "https://tairos.chanchao.com.tw/en/VisitorExhibitor",
+          "label": "Страница организатора или регламент категории."
         }
       ],
       "evidence_level": "rules",
-      "visitor_age_min": 12
+      "visitor_age_min": 12,
+      "public_days": [
+        "2027-08-04",
+        "2027-08-05",
+        "2027-08-06",
+        "2027-08-07"
+      ],
+      "child_entry": "Посетителей младше 12 лет не допускают. Сопровождение взрослого не даёт исключения.",
+      "exhibitors": [
+        "HIWIN",
+        "Techman Robot",
+        "Delta",
+        "Dexmart",
+        "Swancor Robotech",
+        "Mitsubishi Electric Automation Taiwan"
+      ]
     },
     {
       "block": "События",

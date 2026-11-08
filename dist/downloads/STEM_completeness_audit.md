@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10129; соревнований: 4606; событий: 549; лагерей / программ: 4974. Профилей лиг и программ: 299. Карточек крупных и профильных выставок: 452 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10148; соревнований: 4612; событий: 553; лагерей / программ: 4983. Профилей лиг и программ: 299. Карточек крупных и профильных выставок: 456 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 231 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,16 +14,16 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 40 | 1908 | 104 | 1251 |
-| Южная Америка | 14 | 422 | 37 | 200 |
-| Европа | 52 | 592 | 114 | 1426 |
+| Северная Америка | 40 | 1908 | 104 | 1256 |
+| Южная Америка | 14 | 428 | 37 | 204 |
+| Европа | 52 | 592 | 118 | 1426 |
 | Африка | 53 | 235 | 28 | 92 |
 | Азия | 49 | 1146 | 138 | 1658 |
 | Океания | 25 | 163 | 29 | 332 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 162. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 814 из 4606 карточек соревнований (17.7%). Это явный перекос охвата.
+VEX: 814 из 4612 карточек соревнований (17.6%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -819,6 +819,10 @@ VEX: 814 из 4606 карточек соревнований (17.7%). Это я�
 - **Stripe Young Scientist & Technology Exhibition 2027 · Public days** — Ирландия; 2027-01-07 – 2027-01-09. Со взрослым; условия взрослого входа отдельно. https://ticketing.stripeyste.com/2027/general-public
 - **Stripe YSTE 2027 · Primary Science Fair** — Ирландия; 2027-01-07 – 2027-01-08. Со взрослым; условия взрослого входа отдельно. https://www.stripeyste.com/primary-science-fair
 - **RoboArt 2027 · Robot and technical model exhibition** — Российская Федерация; 2027-03-28. Детский допуск уточнить. https://roboart36.ru/roboart/roboart_2027_vystavka_robotov/
+- **RoboCup 2027 · Research Symposium** — Германия; 2027-06-21. Детский допуск уточнить. https://2027.robocup.org/visit/visitors
+- **XPONENTIAL Europe 2027 · XPO Hall** — Германия; 2027-03-16 – 2027-03-18. Детский допуск уточнить. https://www.xponential-europe.com/
+- **XPONENTIAL Europe 2027 · European Drone Forum** — Германия; 2027-03-15. Детский допуск уточнить. https://www.xponential-europe.com/en/Partner_Conferences/European_Drone_Forum
+- **SPS Smart Production Solutions 2027 · Nuremberg** — Германия; 2027-11-23 – 2027-11-25. Детский допуск уточнить. https://sps.mesago.com/nuernberg/en/expo/planning-preparation/opening-hours.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors
