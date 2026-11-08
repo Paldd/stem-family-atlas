@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 1929 fichas en 126 países. Las fechas de verificación de cada fuente constan en su ficha.
+Estado de la base: 2026-11-08. 1930 fichas en 126 países. Las fechas de verificación de cada fuente constan en su ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -155185,6 +155185,82 @@ Japón · JICA Tokyo Center · Nishihara · Shibuya
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://tabunka.tokyo-tsunagari.or.jp/english/event/2026/11/05_21.html) · 2026-11-08
+
+## CP1930 · INTECAP · Pequeños Creadores IA & Robótica
+
+Guatemala · Centro de Capacitación Santo Tomás de Castilla · Puerto Barrios
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Niños de 8–14 años que sepan leer y escribir. Se admite sin experiencia en robótica.
+
+**Idioma:** Ficha e inscripción en español. Confirmar idioma de instrucción y posible apoyo en otro idioma.
+
+**Programa:** Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Del 23 de noviembre al 4 de diciembre de 2026, entre semana de 14:00 a 17:00. Curso presencial en Puerto Barrios. Inscripción en línea sin cierre publicado.
+
+**Precio / año:** 2026 · Pago único de 100.00 según la ficha de INTECAP. No figura código de moneda junto al importe. Confirmar factura final y moneda antes de pagar.
+
+**Incluido:** Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.
+
+**Suplementos:** Confirmar si robot, materiales y útiles están incluidos en la tarifa.
+
+**Pago:** Pago único. El operador indica que los pagos no son reembolsables.
+
+**Matvey:** Encaja por edad si lee y escribe. Confirmar plaza, idioma y documentos del participante extranjero.
+
+**Oscar:** Actualmente por debajo del mínimo de 8 años.
+
+**Motivo de selección:** Del 23 de noviembre al 4 de diciembre de 2026, entre semana de 14:00 a 17:00. Curso presencial en Puerto Barrios. Inscripción en línea sin cierre publicado.
+
+### Antes de solicitar plaza
+
+- La guía general del portal prevé acceso con Carné tras registro con pasaporte. Confirmar requisitos de solicitud del menor extranjero en este curso.
+
+- Confirmar si robot, materiales y útiles están incluidos en la tarifa.
+
+### Pequeños Creadores IA & Robótica
+
+**Fechas / estado:** 2026-11-23 — 2026-12-04
+
+**Precio:** Pago único de 100.00 según la ficha de INTECAP. No figura código de moneda junto al importe. Confirmar factura final y moneda antes de pagar.
+
+**condiciones de participación:** La guía general del portal prevé acceso con Carné tras registro con pasaporte. Confirmar requisitos de solicitud del menor extranjero en este curso.
+
+- 2026-11-23 · 14:00–17:00 · America/Guatemala · Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.
+
+- 2026-11-24 · 14:00–17:00 · America/Guatemala · Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.
+
+- 2026-11-25 · 14:00–17:00 · America/Guatemala · Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.
+
+- 2026-11-26 · 14:00–17:00 · America/Guatemala · Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.
+
+- 2026-11-27 · 14:00–17:00 · America/Guatemala · Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.
+
+- 2026-11-30 · 14:00–17:00 · America/Guatemala · Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.
+
+- 2026-12-01 · 14:00–17:00 · America/Guatemala · Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.
+
+- 2026-12-02 · 14:00–17:00 · America/Guatemala · Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.
+
+- 2026-12-03 · 14:00–17:00 · America/Guatemala · Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.
+
+- 2026-12-04 · 14:00–17:00 · America/Guatemala · Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.
+
+**Disponibilidad de plazas:** En el momento de la revisión la ficha mostraba plazas disponibles. La disponibilidad cambia y la admisión se confirma aparte.
+
+[fuente](https://cursos.intecap.edu.gt/detalle/48609/2026)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://cursos.intecap.edu.gt/detalle/48609/2026) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://cursos.intecap.edu.gt/cursos/104502) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://alumnos.intecap.edu.gt/ayuda/ayuda.pdf) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

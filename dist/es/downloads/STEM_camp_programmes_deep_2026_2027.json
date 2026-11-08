@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1929,
+    "dossiers": 1930,
     "countries": 126,
     "swiss": 137,
     "by_status": {
@@ -38,7 +38,7 @@
       "published_2027": 517,
       "partial_2027": 142,
       "next_unannounced": 399,
-      "published_2026": 356,
+      "published_2026": 357,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2807
+    "source_urls": 2810
   },
   "countries": [
     {
@@ -161,7 +161,7 @@
     },
     {
       "country": "Guatemala",
-      "count": 5
+      "count": 6
     },
     {
       "country": "Alemania",
@@ -335473,6 +335473,217 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1930",
+      "slug": "intecap-pequenos-creadores-robotica-ia-izabal",
+      "provider": "INTECAP · Pequeños Creadores IA & Robótica",
+      "country": "Guatemala",
+      "iso": "GTM",
+      "place": "Centro de Capacitación Santo Tomás de Castilla · Puerto Barrios",
+      "age": "Niños de 8–14 años que sepan leer y escribir. Se admite sin experiencia en robótica.",
+      "programme": "Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Ficha e inscripción en español. Confirmar idioma de instrucción y posible apoyo en otro idioma.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Del 23 de noviembre al 4 de diciembre de 2026, entre semana de 14:00 a 17:00. Curso presencial en Puerto Barrios. Inscripción en línea sin cierre publicado.",
+        "sessions": [
+          [
+            "2026-11-23",
+            "2026-12-04"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "2026-cst-0780",
+            "start": "2026-11-23",
+            "end": "2026-12-04",
+            "label": "Pequeños Creadores IA & Robótica",
+            "price": "Pago único de 100.00 según la ficha de INTECAP. No figura código de moneda junto al importe. Confirmar factura final y moneda antes de pagar.",
+            "source": "https://cursos.intecap.edu.gt/detalle/48609/2026",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "En el momento de la revisión la ficha mostraba plazas disponibles. La disponibilidad cambia y la admisión se confirma aparte."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-23T20:00:00Z",
+                "end_utc": "2026-11-23T23:00:00Z",
+                "topic": "Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-24T20:00:00Z",
+                "end_utc": "2026-11-24T23:00:00Z",
+                "topic": "Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-25T20:00:00Z",
+                "end_utc": "2026-11-25T23:00:00Z",
+                "topic": "Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-26T20:00:00Z",
+                "end_utc": "2026-11-26T23:00:00Z",
+                "topic": "Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-27T20:00:00Z",
+                "end_utc": "2026-11-27T23:00:00Z",
+                "topic": "Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-30",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-11-30T20:00:00Z",
+                "end_utc": "2026-11-30T23:00:00Z",
+                "topic": "Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-12-01T20:00:00Z",
+                "end_utc": "2026-12-01T23:00:00Z",
+                "topic": "Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-12-02T20:00:00Z",
+                "end_utc": "2026-12-02T23:00:00Z",
+                "topic": "Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-12-03T20:00:00Z",
+                "end_utc": "2026-12-03T23:00:00Z",
+                "topic": "Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "start_utc": "2026-12-04T20:00:00Z",
+                "end_utc": "2026-12-04T23:00:00Z",
+                "topic": "Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La guía general del portal prevé acceso con Carné tras registro con pasaporte. Confirmar requisitos de solicitud del menor extranjero en este curso."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 100,
+        "currency": null,
+        "unit": "programme",
+        "label": "Pago único de 100.00 según la ficha de INTECAP. No figura código de moneda junto al importe. Confirmar factura final y moneda antes de pagar.",
+        "included": "Actividades prácticas de robótica e IA para nivel inicial e intermedio. El portal no precisa la plataforma ni la lista de materiales.",
+        "extras": "Confirmar si robot, materiales y útiles están incluidos en la tarifa.",
+        "deposit": "Pago único. El operador indica que los pagos no son reembolsables."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Encaja por edad si lee y escribe. Confirmar plaza, idioma y documentos del participante extranjero."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Actualmente por debajo del mínimo de 8 años."
+        }
+      },
+      "editorial_reason": "Del 23 de noviembre al 4 de diciembre de 2026, entre semana de 14:00 a 17:00. Curso presencial en Puerto Barrios. Inscripción en línea sin cierre publicado.",
+      "shortlist": [],
+      "questions": [
+        "La guía general del portal prevé acceso con Carné tras registro con pasaporte. Confirmar requisitos de solicitud del menor extranjero en este curso.",
+        "Confirmar si robot, materiales y útiles están incluidos en la tarifa."
+      ],
+      "sources": [
+        {
+          "url": "https://cursos.intecap.edu.gt/detalle/48609/2026",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://cursos.intecap.edu.gt/cursos/104502",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://alumnos.intecap.edu.gt/ayuda/ayuda.pdf",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "course",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-23",
+          "end": "2026-12-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1930-20261123-20261204-2026-cst-0780"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -340798,7 +341009,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 267,
+  "version": 268,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -354033,7 +354244,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1929,
+      "total_dossiers": 1930,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -376118,6 +376329,11 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1930",
+      "event_id": "CP1930-20261123-20261204-2026-cst-0780",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -380741,10 +380957,11 @@
     "CP1926-20261221-20261224-space-full",
     "CP1926-20261228-20261231-sea-am",
     "CP1926-20261228-20261231-sea-full",
-    "CP1929-20261213-20261213-dec13"
+    "CP1929-20261213-20261213-dec13",
+    "CP1930-20261123-20261204-2026-cst-0780"
   ],
   "integration": {
-    "generated_sessions": 4193,
+    "generated_sessions": 4194,
     "reused_legacy_events": 73,
     "seasonal_windows": 76,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

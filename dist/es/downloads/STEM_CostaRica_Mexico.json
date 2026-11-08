@@ -6389,11 +6389,11 @@
       "country": "México",
       "region": "América del Norte",
       "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
-      "start": "2027-04-17",
-      "end": "2027-04-17",
+      "start": "",
+      "end": "",
       "deadline": "2027-02-26",
-      "period": "",
-      "date_status": "Confirmado",
+      "period": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "date_status": "Confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
       "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
@@ -6407,7 +6407,7 @@
       "level": "B — Open internacional de una etapa concreta",
       "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
       "priority": "P1 — etapa mexicana abierta; admisión aparte",
-      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "action": "Antes de pagar o comprar billetes, confirmar la fecha de ASFM, el corte de edad y la plaza en la disciplina elegida.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
       "checked": "2026-11-08",
@@ -6421,7 +6421,7 @@
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "rules",
-      "date_scope": "festival_window",
+      "date_scope": "season_window",
       "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
@@ -6430,6 +6430,10 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robojam.live/events",
           "label": "Página de la organización o reglamento de la categoría."
         }
       ],
@@ -6447,18 +6451,25 @@
       "registration_opens": "2026-11-02",
       "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
-      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial",
+      "date_conflict": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "reported_start": "2027-04-17",
+      "reported_end": "2027-04-17",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "C685"
+      ]
     },
     {
       "block": "Competiciones",
       "country": "México",
       "region": "América del Norte",
       "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
-      "start": "2027-04-17",
-      "end": "2027-04-17",
+      "start": "",
+      "end": "",
       "deadline": "2027-02-26",
-      "period": "",
-      "date_status": "Confirmado",
+      "period": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "date_status": "Confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
       "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
@@ -6472,7 +6483,7 @@
       "level": "B — Open internacional de una etapa concreta",
       "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
       "priority": "P1 — etapa mexicana abierta; admisión aparte",
-      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "action": "Antes de pagar o comprar billetes, confirmar la fecha de ASFM, el corte de edad y la plaza en la disciplina elegida.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
       "checked": "2026-11-08",
@@ -6486,7 +6497,7 @@
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "rules",
-      "date_scope": "festival_window",
+      "date_scope": "season_window",
       "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
@@ -6499,6 +6510,10 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robojam.live/events",
           "label": "Página de la organización o reglamento de la categoría."
         }
       ],
@@ -6519,18 +6534,22 @@
       "registration_opens": "2026-11-02",
       "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
-      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial",
+      "date_conflict": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "reported_start": "2027-04-17",
+      "reported_end": "2027-04-17",
+      "delivery_mode": "in_person"
     },
     {
       "block": "Competiciones",
       "country": "México",
       "region": "América del Norte",
       "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
-      "start": "2027-04-17",
-      "end": "2027-04-17",
+      "start": "",
+      "end": "",
       "deadline": "2027-02-26",
-      "period": "",
-      "date_status": "Confirmado",
+      "period": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "date_status": "Confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
       "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
@@ -6544,7 +6563,7 @@
       "level": "B — Open internacional de una etapa concreta",
       "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
       "priority": "P1 — etapa mexicana abierta; admisión aparte",
-      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "action": "Antes de pagar o comprar billetes, confirmar la fecha de ASFM, el corte de edad y la plaza en la disciplina elegida.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
       "checked": "2026-11-08",
@@ -6558,7 +6577,7 @@
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "rules",
-      "date_scope": "festival_window",
+      "date_scope": "season_window",
       "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
@@ -6571,6 +6590,10 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robojam.live/events",
           "label": "Página de la organización o reglamento de la categoría."
         }
       ],
@@ -6591,18 +6614,22 @@
       "registration_opens": "2026-11-02",
       "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
-      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial",
+      "date_conflict": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "reported_start": "2027-04-17",
+      "reported_end": "2027-04-17",
+      "delivery_mode": "in_person"
     },
     {
       "block": "Competiciones",
       "country": "México",
       "region": "América del Norte",
       "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
-      "start": "2027-04-17",
-      "end": "2027-04-17",
+      "start": "",
+      "end": "",
       "deadline": "2027-02-26",
-      "period": "",
-      "date_status": "Confirmado",
+      "period": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "date_status": "Confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
       "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
@@ -6616,7 +6643,7 @@
       "level": "B — Open internacional de una etapa concreta",
       "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
       "priority": "P1 — etapa mexicana abierta; admisión aparte",
-      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "action": "Antes de pagar o comprar billetes, confirmar la fecha de ASFM, el corte de edad y la plaza en la disciplina elegida.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
       "checked": "2026-11-08",
@@ -6630,7 +6657,7 @@
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "rules",
-      "date_scope": "festival_window",
+      "date_scope": "season_window",
       "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
@@ -6643,6 +6670,10 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robojam.live/events",
           "label": "Página de la organización o reglamento de la categoría."
         }
       ],
@@ -6663,18 +6694,22 @@
       "registration_opens": "2026-11-02",
       "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
-      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial",
+      "date_conflict": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "reported_start": "2027-04-17",
+      "reported_end": "2027-04-17",
+      "delivery_mode": "in_person"
     },
     {
       "block": "Competiciones",
       "country": "México",
       "region": "América del Norte",
       "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
-      "start": "2027-04-17",
-      "end": "2027-04-17",
+      "start": "",
+      "end": "",
       "deadline": "2027-02-26",
-      "period": "",
-      "date_status": "Confirmado",
+      "period": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "date_status": "Confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
       "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
@@ -6688,7 +6723,7 @@
       "level": "B — Open internacional de una etapa concreta",
       "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
       "priority": "P1 — etapa mexicana abierta; admisión aparte",
-      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "action": "Antes de pagar o comprar billetes, confirmar la fecha de ASFM, el corte de edad y la plaza en la disciplina elegida.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
       "checked": "2026-11-08",
@@ -6702,7 +6737,7 @@
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "rules",
-      "date_scope": "festival_window",
+      "date_scope": "season_window",
       "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
@@ -6715,6 +6750,10 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robojam.live/events",
           "label": "Página de la organización o reglamento de la categoría."
         }
       ],
@@ -6735,18 +6774,22 @@
       "registration_opens": "2026-11-02",
       "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
-      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial",
+      "date_conflict": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "reported_start": "2027-04-17",
+      "reported_end": "2027-04-17",
+      "delivery_mode": "in_person"
     },
     {
       "block": "Competiciones",
       "country": "México",
       "region": "América del Norte",
       "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
-      "start": "2027-04-17",
-      "end": "2027-04-17",
+      "start": "",
+      "end": "",
       "deadline": "2027-02-26",
-      "period": "",
-      "date_status": "Confirmado",
+      "period": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "date_status": "Confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
       "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
@@ -6760,7 +6803,7 @@
       "level": "B — Open internacional de una etapa concreta",
       "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
       "priority": "P1 — etapa mexicana abierta; admisión aparte",
-      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "action": "Antes de pagar o comprar billetes, confirmar la fecha de ASFM, el corte de edad y la plaza en la disciplina elegida.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
       "checked": "2026-11-08",
@@ -6774,7 +6817,7 @@
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "rules",
-      "date_scope": "festival_window",
+      "date_scope": "season_window",
       "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
@@ -6787,6 +6830,10 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robojam.live/events",
           "label": "Página de la organización o reglamento de la categoría."
         }
       ],
@@ -6807,18 +6854,22 @@
       "registration_opens": "2026-11-02",
       "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
-      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial",
+      "date_conflict": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "reported_start": "2027-04-17",
+      "reported_end": "2027-04-17",
+      "delivery_mode": "in_person"
     },
     {
       "block": "Competiciones",
       "country": "México",
       "region": "América del Norte",
       "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
-      "start": "2027-04-17",
-      "end": "2027-04-17",
+      "start": "",
+      "end": "",
       "deadline": "2027-02-26",
-      "period": "",
-      "date_status": "Confirmado",
+      "period": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "date_status": "Confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
       "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
@@ -6832,7 +6883,7 @@
       "level": "B — Open internacional de una etapa concreta",
       "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
       "priority": "P1 — etapa mexicana abierta; admisión aparte",
-      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "action": "Antes de pagar o comprar billetes, confirmar la fecha de ASFM, el corte de edad y la plaza en la disciplina elegida.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
       "checked": "2026-11-08",
@@ -6846,7 +6897,7 @@
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "rules",
-      "date_scope": "festival_window",
+      "date_scope": "season_window",
       "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
@@ -6859,6 +6910,10 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robojam.live/events",
           "label": "Página de la organización o reglamento de la categoría."
         }
       ],
@@ -6879,18 +6934,22 @@
       "registration_opens": "2026-11-02",
       "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
-      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial",
+      "date_conflict": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "reported_start": "2027-04-17",
+      "reported_end": "2027-04-17",
+      "delivery_mode": "in_person"
     },
     {
       "block": "Competiciones",
       "country": "México",
       "region": "América del Norte",
       "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
-      "start": "2027-04-17",
-      "end": "2027-04-17",
+      "start": "",
+      "end": "",
       "deadline": "2027-02-26",
-      "period": "",
-      "date_status": "Confirmado",
+      "period": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "date_status": "Confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
       "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
@@ -6904,7 +6963,7 @@
       "level": "B — Open internacional de una etapa concreta",
       "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
       "priority": "P1 — etapa mexicana abierta; admisión aparte",
-      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "action": "Antes de pagar o comprar billetes, confirmar la fecha de ASFM, el corte de edad y la plaza en la disciplina elegida.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
       "checked": "2026-11-08",
@@ -6918,7 +6977,7 @@
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "rules",
-      "date_scope": "festival_window",
+      "date_scope": "season_window",
       "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
@@ -6931,6 +6990,10 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robojam.live/events",
           "label": "Página de la organización o reglamento de la categoría."
         }
       ],
@@ -6951,18 +7014,22 @@
       "registration_opens": "2026-11-02",
       "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
-      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial",
+      "date_conflict": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "reported_start": "2027-04-17",
+      "reported_end": "2027-04-17",
+      "delivery_mode": "in_person"
     },
     {
       "block": "Competiciones",
       "country": "México",
       "region": "América del Norte",
       "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
-      "start": "2027-04-17",
-      "end": "2027-04-17",
+      "start": "",
+      "end": "",
       "deadline": "2027-02-26",
-      "period": "",
-      "date_status": "Confirmado",
+      "period": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "date_status": "Confirmar",
       "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
       "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
       "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
@@ -6976,7 +7043,7 @@
       "level": "B — Open internacional de una etapa concreta",
       "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
       "priority": "P1 — etapa mexicana abierta; admisión aparte",
-      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "action": "Antes de pagar o comprar billetes, confirmar la fecha de ASFM, el corte de edad y la plaza en la disciplina elegida.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
       "checked": "2026-11-08",
@@ -6990,7 +7057,7 @@
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "rules",
-      "date_scope": "festival_window",
+      "date_scope": "season_window",
       "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
@@ -7003,6 +7070,10 @@
         },
         {
           "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robojam.live/events",
           "label": "Página de la organización o reglamento de la categoría."
         }
       ],
@@ -7023,7 +7094,11 @@
       "registration_opens": "2026-11-02",
       "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
       "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
-      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial",
+      "date_conflict": "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.",
+      "reported_start": "2027-04-17",
+      "reported_end": "2027-04-17",
+      "delivery_mode": "in_person"
     },
     {
       "id": "C1197",
@@ -12337,7 +12412,7 @@
         }
       ],
       "proof": "Fecha y condiciones de acceso cotejadas con fuente del organizador.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Por la mañana está abierta la muestra de proyectos escolares. Después de las 12:00 los talleres de IA y robótica son para participantes y docentes. El aparcamiento de la Facultad está reservado del 9 al 13 de noviembre.",
       "themes": [
@@ -12354,7 +12429,7 @@
       "date_scope": "event_day",
       "adult_entry": "La exposición familiar está abierta al público general, incluidos escolares, el 12 de noviembre de 2026 de 08:30 a 12:00.",
       "visitor_policy": "family",
-      "visitor_policy_note": "La exposición familiar está abierta al público general, incluidos escolares, el 12 de noviembre de 2026 de 08:30 a 12:00.",
+      "visitor_policy_note": "Según el anuncio más reciente de UCR, el 12 de noviembre de 2026 se prevén 202 proyectos escolares de 27 regiones educativas. La muestra abre al público general de 08:30 a 12:00.",
       "exhibition_tier": "family_alternative",
       "highlights": [
         "Proyectos escolares de computación e ingeniería.",
@@ -12364,8 +12439,10 @@
       "exhibitor_note": "El anuncio UCR del 3 de noviembre indica 202 proyectos de 27 regiones educativas. La publicación anterior de la facultad indicaba 205 proyectos.",
       "exhibitor_directory_url": "https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html",
       "related_ids": [
-        "C2959"
-      ]
+        "C2959",
+        "E534"
+      ],
+      "event_group": "FNCTI UCR 2026"
     },
     {
       "id": "C2959",
@@ -12413,7 +12490,7 @@
         }
       ],
       "proof": "Fecha y condiciones de acceso cotejadas con fuente del organizador.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "El anuncio UCR del 3 de noviembre indica 202 proyectos de 27 regiones educativas. La publicación anterior de la facultad indicaba 205 proyectos.",
       "themes": [
@@ -12435,8 +12512,10 @@
       },
       "registration_status": "Acceso a la final solo para proyectos seleccionados en el ciclo 2026.",
       "related_ids": [
-        "E267"
-      ]
+        "E267",
+        "E534"
+      ],
+      "event_group": "FNCTI UCR 2026"
     },
     {
       "id": "C2970",
@@ -12933,13 +13012,18 @@
       "start": "",
       "end": "",
       "deadline": "",
-      "period": "Edición 2027 anunciada, fechas por definir.",
-      "date_status": "No se ha anunciado",
-      "checked": "2026-11-07",
+      "period": "El calendario general marca el 18 de septiembre de 2027 con asterisco. La página de México aún indica fecha por definir. Quedan pendientes sede, categorías e inscripción.",
+      "date_status": "Confirmar",
+      "checked": "2026-11-08",
       "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
       "status": "Idea",
       "source": "https://www.robojam.live/mexico",
-      "references": [],
+      "references": [
+        {
+          "url": "https://www.robojam.live/events",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
       "age": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
       "mat": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
       "osc": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
@@ -12965,7 +13049,14 @@
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "event_page",
-      "date_scope": "competition"
+      "date_scope": "competition",
+      "date_conflict": "El calendario general marca el 18 de septiembre de 2027 con asterisco. La página de México aún indica fecha por definir. Quedan pendientes sede, categorías e inscripción.",
+      "reported_start": "2027-09-18",
+      "reported_end": "2027-09-18",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "C685"
+      ]
     },
     {
       "id": "E307",
@@ -23564,6 +23655,196 @@
       "exhibitors": [],
       "related_ids": [
         "C4564"
+      ]
+    },
+    {
+      "id": "C4576",
+      "title": "RoboJam México Virtual 2027",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Online · RoboCort",
+      "start": "2027-05-29",
+      "end": "2027-05-30",
+      "period": "El calendario general marca las fechas con asterisco. La ficha detallada aún muestra la edición anterior. Tratar como ventana preliminar publicada.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://www.robojam.live/events",
+      "references": [
+        {
+          "url": "https://www.robojam.live/mexico",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robojam.live/challenges",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Hay un anuncio de la etapa. Aún no se publican las categorías, edades, tamaño del equipo ni las condiciones de acceso de esta edición.",
+      "mat": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "osc": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "format": "Etapa virtual. Aún no se anuncian plataforma, horarios por huso ni acceso por países.",
+      "entry": "Hay un anuncio de la etapa. Aún no se publican las categorías, edades, tamaño del equipo ni las condiciones de acceso de esta edición.",
+      "gear": "El robot y la plataforma dependen de la prueba publicada. Cotejar las bases vigentes antes de construir.",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Etapa de la serie internacional RoboJam",
+      "reward": "La clasificación y el tipo de premio dependen de las bases de cada etapa.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "El calendario general marca las fechas con asterisco. La ficha detallada aún muestra la edición anterior. Tratar como ventana preliminar publicada.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "online",
+      "importance_reason": "Etapa de la serie internacional RoboJam",
+      "participation": "team",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "date_precision": "announced_window",
+      "date_rule": "El calendario general marca las fechas con asterisco. La ficha detallada aún muestra la edición anterior. Tratar como ventana preliminar publicada.",
+      "delivery_mode": "virtual",
+      "registration_status": "Hay un anuncio de la etapa. Aún no se publican las categorías, edades, tamaño del equipo ni las condiciones de acceso de esta edición.",
+      "related_ids": [
+        "C685"
+      ]
+    },
+    {
+      "id": "C4583",
+      "title": "RoboJam G.L.A.M. 2026",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "La Piedad · Michoacán",
+      "start": "2026-09-19",
+      "end": "2026-09-19",
+      "period": "Fechas publicadas de una edición pasada. Este anuncio no acredita los resultados ni la celebración efectiva.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.robojam.live/glam",
+      "references": [
+        {
+          "url": "https://www.robojam.live/events",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.robojam.live/challenges",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Archivo",
+      "age": "No cumple la composición. Edición solo para equipos femeninos.",
+      "mat": "No cumple la composición. Edición solo para equipos femeninos.",
+      "osc": "No cumple la composición. Edición solo para equipos femeninos.",
+      "format": "Formato presencial según el calendario de la serie. La dirección exacta sigue pendiente.",
+      "entry": "Solo equipos femeninos. El calendario indica etapa presencial y el horario también incluye pruebas virtuales.",
+      "gear": "El robot y la plataforma dependen de la prueba publicada. Cotejar las bases vigentes antes de construir.",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Etapa de la serie internacional RoboJam",
+      "reward": "",
+      "priority": "P4 — edición archivada",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Fechas publicadas de una edición pasada. Este anuncio no acredita los resultados ni la celebración efectiva.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa de la serie internacional RoboJam",
+      "participation": "team",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "registration_status": "Archivo",
+      "delivery_mode": "hybrid",
+      "related_ids": [
+        "C685"
+      ]
+    },
+    {
+      "id": "E534",
+      "title": "FNCTI UCR 2026 · Premiación en directo",
+      "block": "Eventos",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Online · Aula Magna UCR",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "period": "Premiación el 13 de noviembre de 2026 a las 08:30 hora de Costa Rica. UCR anuncia emisión en directo en redes de la Facultad de Educación. Aún no publica enlace directo ni hora de finalización.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html",
+      "references": [
+        {
+          "url": "https://facultadeducacion.ucr.ac.cr/noticias/2026/10/26/feria-de-ciencia-y-tecnologia-reune-205-proyectos-en-2026",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Visionado familiar en línea de la emisión anunciada. No se confirma acceso del público general a la ceremonia presencial.",
+      "mat": "Sí, como espectador en línea.",
+      "osc": "Sí, como espectador en línea.",
+      "format": "Visionado familiar en línea de la emisión anunciada. No se confirma acceso del público general a la ceremonia presencial.",
+      "entry": "Visionado familiar en línea de la emisión anunciada. No se confirma acceso del público general a la ceremonia presencial.",
+      "gear": "",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Para la emisión en directo no se indican precio ni necesidad de entrada.",
+      "level": "Etapa nacional",
+      "reward": "",
+      "priority": "P1 — inicio local para la familia",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Premiación el 13 de noviembre de 2026 a las 08:30 hora de Costa Rica. UCR anuncia emisión en directo en redes de la Facultad de Educación. Aún no publica enlace directo ni hora de finalización.",
+      "themes": [
+        "technology",
+        "engineering",
+        "robotics"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa nacional",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Visionado familiar en línea de la emisión anunciada. No se confirma acceso del público general a la ceremonia presencial.",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Visionado familiar en línea de la emisión anunciada. No se confirma acceso del público general a la ceremonia presencial.",
+      "exhibitor_note": "Según el anuncio más reciente de UCR, el 12 de noviembre de 2026 se prevén 202 proyectos escolares de 27 regiones educativas. La muestra abre al público general de 08:30 a 12:00.",
+      "exhibitors": [],
+      "exhibition_tier": "family_alternative",
+      "event_group": "FNCTI UCR 2026",
+      "delivery_mode": "virtual",
+      "related_ids": [
+        "E267",
+        "C2959"
       ]
     },
     {

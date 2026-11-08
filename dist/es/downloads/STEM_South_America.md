@@ -5664,6 +5664,19 @@ Limitaciones: La página muestra el período de 2027 pero conserva el 2 de enero
 Fuente: https://www.sanjosedemonterrico.edu.pe/activekids2026
 Se ha comprobado: 2026-11-08
 
+### C4575 · RoboJam Colombia 2027 · Medellín
+
+Fecha: 2027-05-29 — 2027-05-29
+edad: Hay un anuncio de la etapa. Aún no se publican las categorías, edades, tamaño del equipo ni las condiciones de acceso de esta edición.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Hay un anuncio de la etapa. Aún no se publican las categorías, edades, tamaño del equipo ni las condiciones de acceso de esta edición.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: El calendario general anuncia Medellín el 29 de mayo de 2027. La página de Colombia aún describe la edición 2025. Confirmar plazos, tarifas y sede de 2027.
+Fuente: https://www.robojam.live/events
+Se ha comprobado: 2026-11-08
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

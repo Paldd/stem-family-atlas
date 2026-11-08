@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10066,
-    "competition_cards": 4572,
-    "event_cards": 533,
-    "camp_cards": 4961,
+    "cards": 10079,
+    "competition_cards": 4583,
+    "event_cards": 534,
+    "camp_cards": 4962,
     "league_profiles": 299,
-    "major_exhibition_cards": 436,
+    "major_exhibition_cards": 437,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3286,
+      "total": 3293,
       "countries_with_records": 40,
-      "competitions": 1901,
-      "events": 137,
-      "major_exhibitions": 99,
-      "camps": 1248,
+      "competitions": 1906,
+      "events": 138,
+      "major_exhibitions": 100,
+      "camps": 1249,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -48,9 +48,9 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 660,
+      "total": 662,
       "countries_with_records": 14,
-      "competitions": 419,
+      "competitions": 421,
       "events": 41,
       "major_exhibitions": 37,
       "camps": 200,
@@ -62,9 +62,9 @@
       "regions": [
         "Europa"
       ],
-      "total": 2134,
+      "total": 2135,
       "countries_with_records": 52,
-      "competitions": 578,
+      "competitions": 579,
       "events": 131,
       "major_exhibitions": 106,
       "camps": 1425,
@@ -76,9 +76,9 @@
       "regions": [
         "África"
       ],
-      "total": 362,
+      "total": 363,
       "countries_with_records": 53,
-      "competitions": 234,
+      "competitions": 235,
       "events": 36,
       "major_exhibitions": 28,
       "camps": 92,
@@ -90,9 +90,9 @@
       "regions": [
         "Asia"
       ],
-      "total": 2936,
+      "total": 2937,
       "countries_with_records": 49,
-      "competitions": 1139,
+      "competitions": 1140,
       "events": 148,
       "major_exhibitions": 135,
       "camps": 1649,
@@ -2868,11 +2868,22 @@
         "C1177",
         "C1178",
         "C1179",
-        "C3122"
+        "C3122",
+        "C4574",
+        "C4575",
+        "C4576",
+        "C4577",
+        "C4578",
+        "C4579",
+        "C4580",
+        "C4581",
+        "C4582",
+        "C4583",
+        "C4584"
       ],
-      "cards": 11,
-      "future_dated": 9,
-      "linked_card_count": 11,
+      "cards": 22,
+      "future_dated": 0,
+      "linked_card_count": 22,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.robojam.live/",
       "new": false
@@ -13467,6 +13478,17 @@
       "new": false
     },
     {
+      "id": "E534",
+      "name": "FNCTI UCR 2026 · Premiación en directo",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "visitor_policy": "family",
+      "source": "https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -14847,7 +14869,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 161,
+  "interregional_cards": 162,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -15884,8 +15906,8 @@
       }
     ],
     "counts": {
-      "records": 4961,
-      "holiday": 4618,
+      "records": 4962,
+      "holiday": 4619,
       "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1037,

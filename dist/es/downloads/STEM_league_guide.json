@@ -5958,7 +5958,18 @@
           "C1177",
           "C1178",
           "C1179",
-          "C3122"
+          "C3122",
+          "C4574",
+          "C4575",
+          "C4576",
+          "C4577",
+          "C4578",
+          "C4579",
+          "C4580",
+          "C4581",
+          "C4582",
+          "C4583",
+          "C4584"
         ],
         "legacy_ids": [
           "C685"
@@ -5974,7 +5985,8 @@
           "Mantener el resultado oficial: el nombre del paso, la categoría, el lugar / award, la composición del equipo y la referencia al protocolo."
         ],
         "nuances": [
-          "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar."
+          "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+          "La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo."
         ],
         "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
         "award": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
@@ -6033,10 +6045,15 @@
             "title": "RoboJam · ES",
             "url": "https://drive.google.com/file/d/1rianC2YLngELwIx_npHOLOV46dwE_X2t/view",
             "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboJam · Events",
+            "url": "https://www.robojam.live/events",
+            "checked": "2026-11-08"
           }
         ],
         "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado.",
-        "checked": "2026-11-04"
+        "checked": "2026-11-08"
       },
       {
         "id": "roboliga",

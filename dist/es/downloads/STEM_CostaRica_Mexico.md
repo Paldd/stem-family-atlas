@@ -1424,7 +1424,7 @@ Se ha comprobado: 2026-11-05
 
 ### C1171 · RoboJam MX Norestense · ASFM · 2027
 
-Fecha: 2027-04-17 — 2027-04-17
+Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
 edad: Por reto: Bristle Race máximo 9; Path Attack Junior máximo 12; CrossBot máximo 15; restantes para cualquier edad.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1437,7 +1437,7 @@ Se ha comprobado: 2026-11-08
 
 ### C1172 · RoboJam MX Norestense · Bristle Race · 2027
 
-Fecha: 2027-04-17 — 2027-04-17
+Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
 edad: Máximo 9 años según PDF; fecha de corte y mínimo sin indicar.
 Matvey: Condicional: máximo 9 años; al 17.04.2027 cumple solo si nació después del 17.04.2017, suponiendo corte el día del torneo. Confirmar regla de corte.
 Oscar: Cumple edad máxima: en abril 2027 tendrá 6–7; confirmar mínimo y admisión.
@@ -1450,7 +1450,7 @@ Se ha comprobado: 2026-11-08
 
 ### C1173 · RoboJam MX Norestense · Path Attack Junior · 2027
 
-Fecha: 2027-04-17 — 2027-04-17
+Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
 edad: Máximo 12 años según PDF; fecha de corte y mínimo sin indicar.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1463,7 +1463,7 @@ Se ha comprobado: 2026-11-08
 
 ### C1174 · RoboJam MX Norestense · CrossBot · 2027
 
-Fecha: 2027-04-17 — 2027-04-17
+Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
 edad: Máximo 15 años según PDF; fecha de corte y mínimo sin indicar.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1476,7 +1476,7 @@ Se ha comprobado: 2026-11-08
 
 ### C1175 · RoboJam MX Norestense · Skill Drive · 2027
 
-Fecha: 2027-04-17 — 2027-04-17
+Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1489,7 +1489,7 @@ Se ha comprobado: 2026-11-08
 
 ### C1176 · RoboJam MX Norestense · Stack.IN · 2027
 
-Fecha: 2027-04-17 — 2027-04-17
+Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1502,7 +1502,7 @@ Se ha comprobado: 2026-11-08
 
 ### C1177 · RoboJam MX Norestense · BumperBot Evolution · 2027
 
-Fecha: 2027-04-17 — 2027-04-17
+Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1515,7 +1515,7 @@ Se ha comprobado: 2026-11-08
 
 ### C1178 · RoboJam MX Norestense · Path Attack Pro · 2027
 
-Fecha: 2027-04-17 — 2027-04-17
+Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -1528,7 +1528,7 @@ Se ha comprobado: 2026-11-08
 
 ### C1179 · RoboJam MX Norestense · Disk Derby · 2027
 
-Fecha: 2027-04-17 — 2027-04-17
+Fecha: La página detallada de registro y el programa de ASFM indican el 17 de abril de 2027. El calendario general de RoboJam muestra el 18 de abril de 2027 con asterisco. El día exacto sigue pendiente de cotejo.
 edad: Cualquier edad según PDF; menores necesitan asesor adulto.
 Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
 Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
@@ -2720,7 +2720,7 @@ Acceso: La exposición familiar está abierta al público general, incluidos esc
 Precio: La invitación UCR no indica precio ni requisito de entrada.
 Limitaciones: Por la mañana está abierta la muestra de proyectos escolares. Después de las 12:00 los talleres de IA y robótica son para participantes y docentes. El aparcamiento de la Facultad está reservado del 9 al 13 de noviembre.
 Fuente: https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### C2959 · Feria Nacional de Ciencia, Tecnología e Innovación UCR 2026 · final
 
@@ -2733,7 +2733,7 @@ Acceso: El proyecto entra por un centro educativo de Costa Rica. Tras fase escol
 Precio: Tarifa de esta edición aún sin confirmar.
 Limitaciones: El anuncio UCR del 3 de noviembre indica 202 proyectos de 27 regiones educativas. La publicación anterior de la facultad indicaba 205 proyectos.
 Fuente: https://facultadeducacion.ucr.ac.cr/noticias/2026/10/26/feria-de-ciencia-y-tecnologia-reune-205-proyectos-en-2026
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### C2970 · WRC Youth Robot Design · Guadalajara
 
@@ -2828,7 +2828,7 @@ Se ha comprobado: 2026-11-07
 
 ### C3122 · RoboJam MX Bajío 2027
 
-Fecha: Edición 2027 anunciada, fechas por definir.
+Fecha: El calendario general marca el 18 de septiembre de 2027 con asterisco. La página de México aún indica fecha por definir. Quedan pendientes sede, categorías e inscripción.
 edad: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
 Matvey: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
 Oscar: Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.
@@ -2837,7 +2837,7 @@ Acceso: La organización indica apertura a equipos de cualquier país. Categorí
 Precio: Precio sin publicar.
 Limitaciones: Tarifas y plazos de Norestense no aplican a Bajío.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### E307 · PVR Asian Festival 2026 · Gaming
 
@@ -4969,6 +4969,45 @@ Acceso: Muestra de juegos en el programa de apertura. La organización exige ent
 Precio: Aún no se confirman el coste total ni las plazas.
 Limitaciones: El programa detallado indica 29–31 de enero de 2027 y el bloque superior indica fin el 30 de enero. Confirmar la sede y el final.
 Fuente: https://loot.pixelperfectstudio.mx/event/global-game-jam-monterrey-2027/
+Se ha comprobado: 2026-11-08
+
+### C4576 · RoboJam México Virtual 2027
+
+Fecha: 2027-05-29 - 2027-05-30
+edad: Hay un anuncio de la etapa. Aún no se publican las categorías, edades, tamaño del equipo ni las condiciones de acceso de esta edición.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Hay un anuncio de la etapa. Aún no se publican las categorías, edades, tamaño del equipo ni las condiciones de acceso de esta edición.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: El calendario general marca las fechas con asterisco. La ficha detallada aún muestra la edición anterior. Tratar como ventana preliminar publicada.
+Fuente: https://www.robojam.live/events
+Se ha comprobado: 2026-11-08
+
+### C4583 · RoboJam G.L.A.M. 2026
+
+Fecha: 2026-09-19 — 2026-09-19
+edad: No cumple la composición. Edición solo para equipos femeninos.
+Matvey: No cumple la composición. Edición solo para equipos femeninos.
+Oscar: No cumple la composición. Edición solo para equipos femeninos.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Solo equipos femeninos. El calendario indica etapa presencial y el horario también incluye pruebas virtuales.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Fechas publicadas de una edición pasada. Este anuncio no acredita los resultados ni la celebración efectiva.
+Fuente: https://www.robojam.live/glam
+Se ha comprobado: 2026-11-08
+
+### E534 · FNCTI UCR 2026 · Premiación en directo
+
+Fecha: 2026-11-13 — 2026-11-13
+edad: Visionado familiar en línea de la emisión anunciada. No se confirma acceso del público general a la ceremonia presencial.
+Matvey: Sí, como espectador en línea.
+Oscar: Sí, como espectador en línea.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Visionado familiar en línea de la emisión anunciada. No se confirma acceso del público general a la ceremonia presencial.
+Precio: Para la emisión en directo no se indican precio ni necesidad de entrada.
+Limitaciones: Premiación el 13 de noviembre de 2026 a las 08:30 hora de Costa Rica. UCR anuncia emisión en directo en redes de la Facultad de Educación. Aún no publica enlace directo ni hora de finalización.
+Fuente: https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
 Se ha comprobado: 2026-11-08
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02

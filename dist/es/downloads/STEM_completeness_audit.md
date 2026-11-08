@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10066; competiciones: 4572; eventos: 533; campamentos / programas: 4961. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 436 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10079; competiciones: 4583; eventos: 534; campamentos / programas: 4962. Perfiles de ligas y programas: 299. Fichas de exposiciones grandes y especializadas: 437 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros concretos para 231 de 249 países y territorios. Países con audit
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1901 | 99 | 1248 |
-| América del Sur | 14 | 419 | 37 | 200 |
-| Europa | 52 | 578 | 106 | 1425 |
-| África | 53 | 234 | 28 | 92 |
-| Asia | 49 | 1139 | 135 | 1649 |
+| América del Norte | 40 | 1906 | 100 | 1249 |
+| América del Sur | 14 | 421 | 37 | 200 |
+| Europa | 52 | 579 | 106 | 1425 |
+| África | 53 | 235 | 28 | 92 |
+| Asia | 49 | 1140 | 135 | 1649 |
 | Oceanía | 25 | 162 | 29 | 332 |
 
-Fichas interregionales o globales sin asignar a un continente: 161. América del Norte incluye América Central y el Caribe. Las cifras describen el inventario de la base.
+Fichas interregionales o globales sin asignar a un continente: 162. Norteamérica incluye Centroamérica y el Caribe. Los recuentos muestran el inventario de la base, no un porcentaje de exhaustividad.
 
-VEX: 814 de 4572 fichas de competiciones (17.8%). Hay un desequilibrio claro de cobertura.
+VEX: 814 de 4583 fichas de competiciones (17.8%). Hay un desequilibrio claro de cobertura.
 
 ## Lo que queda
 
@@ -123,7 +123,7 @@ VEX: 814 de 4572 fichas de competiciones (17.8%). Hay un desequilibrio claro de 
 - **ITR · serie internacional TJR / RoboLeague**: 6 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://internationaltournamentofrobots.org/contribution/
 - **TecPro Challenge · LATAM / Virtual**: 10 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://tdrobotica.co/tecpro-challenge-2026-2027
 - **Ceibal · Uruguay**: 12 tarjetas, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://ceibal.edu.uy/institucional/articulos/tematica-olimpiada-de-robotica-programacion-y-videojuegos-edicion13/
-- **RoboJam**: 11 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robojam.live/
+- **RoboJam**: 22 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robojam.live/
 - *RoboLiga · Argentina**: 11 tarjetas, 11 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://roboliga.edu.ar/edicion-2026/default.asp
 - **STEMLab Sumo League**: 5 tarjetas, 0 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://stemlab.co.za/sumo-robotics-league/
 - **FCTI · Costa Rica**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.mep.go.cr/sites/default/files/2026-04/ManualFCTI2026.pdf
@@ -803,6 +803,7 @@ VEX: 814 de 4572 fichas de competiciones (17.8%). Hay un desequilibrio claro de 
 - **Tokyo Game Show 2027 · Business Days** — Japón; 2027-09-16 – 2027-09-17. el permiso de entrada de niños. https://www.cesa.or.jp/information/info3/001293/2026_3.html
 - **Robofest Korea · Busan · Spectator & Experience Zone** — Corea del Sur; 2026-11-28. el permiso de entrada de niños. https://robofestbusan2026.com/faq
 - **AutoRobocon 2027 · Construction Automation & Robotics** — Corea del Sur; 2027-02-17 – 2027-02-20. el permiso de entrada de niños. https://autorobocon.kr/infomation/about/
+- **FNCTI UCR 2026 · Premiación en directo** — Costa Rica; 2026-11-13. con un adulto; condiciones de admisión adulta por separado. https://www.ucr.ac.cr/noticias/2026/11/03/la-ucr-reunira-202-proyectos-estudiantiles-en-la-feria-nacional-de-ciencia-tecnologia-e-innovacion-2026.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

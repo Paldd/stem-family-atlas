@@ -78166,6 +78166,22 @@ Limitaciones: Matvey: Encaja si se confirman curso 3–6, plaza y acompañamient
 Fuente: https://tabunka.tokyo-tsunagari.or.jp/english/event/2026/11/05_21.html
 Se ha comprobado: 2026-11-08
 
+### CP1930-20261123-20261204-2026-cst-0780 · INTECAP · Pequeños Creadores IA & Robótica · Pequeños Creadores IA & Robótica · 2026-11-23–2026-12-04
+
+lugar: Guatemala · Centro de Capacitación Santo Tomás de Castilla · Puerto Barrios
+Fecha: 2026-11-23 — 2026-12-04
+edad: Niños de 8–14 años que sepan leer y escribir. Se admite sin experiencia en robótica.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Ficha e inscripción en español. Confirmar idioma de instrucción y posible apoyo en otro idioma.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Pago único de 100.00 según la ficha de INTECAP. No figura código de moneda junto al importe. Confirmar factura final y moneda antes de pagar. · suplementos y condiciones en el dossier
+Acceso: La guía general del portal prevé acceso con Carné tras registro con pasaporte. Confirmar requisitos de solicitud del menor extranjero en este curso.
+Limitaciones: Matvey: Encaja por edad si lee y escribe. Confirmar plaza, idioma y documentos del participante extranjero. Oscar: Actualmente por debajo del mínimo de 8 años. Suplementos: Confirmar si robot, materiales y útiles están incluidos en la tarifa. Pago: Pago único. El operador indica que los pagos no son reembolsables.
+Fuente: https://cursos.intecap.edu.gt/detalle/48609/2026
+Se ha comprobado: 2026-11-08
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi
