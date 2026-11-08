@@ -12774,6 +12774,86 @@ Limitaciones: La cohorte de 2026 ya comenzó. La universidad indica clases los s
 Fuente: https://www.udb.edu.sv/udb/noticia/formacion-y-tecnologia--udb-inicia-segunda-edicion-2026-de-los-programas-american-spaces
 Se ha comprobado: 2026-11-08
 
+### L875 · Innokas · Remote lesson · Invention
+
+lugar: Finlandia · Online · Finland
+Fecha: 2026-12-03 — 2026-12-03
+edad: Infantil y 1.º–9.º grado con docente.
+Matvey: Condicional. Clase grupal en finés. Confirmar nivel escolar y participación desde otro país.
+Oscar: Condicional. Clase grupal en finés. Confirmar nivel escolar y participación desde otro país.
+formato: school_workshop
+Idioma: Clase a distancia en finés.
+Marca de idioma: primary; soporte: no declarado
+Precio: El anuncio de la clase no indica un precio.
+Acceso: Solicitud grupal hasta el 27 de noviembre de 2026. Un docente o adulto inscribe la clase o grupo.
+Limitaciones: Clase introductoria para grupos. La participación en el torneo se tramita por separado.
+Fuente: https://www.innokas.fi/tapahtumat/turnausetaoppitunnit2027/
+Se ha comprobado: 2026-11-08
+
+### L876 · Innokas · Remote lesson · XSumo
+
+lugar: Finlandia · Online · Finland
+Fecha: 2026-12-04 — 2026-12-04
+edad: 3.º–9.º grado con docente.
+Matvey: Condicional. Clase grupal en finés. Confirmar nivel escolar y participación desde otro país.
+Oscar: No según la categoría escolar publicada.
+formato: school_workshop
+Idioma: Clase a distancia en finés.
+Marca de idioma: primary; soporte: no declarado
+Precio: El anuncio de la clase no indica un precio.
+Acceso: Solicitud grupal hasta el 27 de noviembre de 2026. Un docente o adulto inscribe la clase o grupo.
+Limitaciones: Clase introductoria para grupos. La participación en el torneo se tramita por separado.
+Fuente: https://www.innokas.fi/tapahtumat/turnausetaoppitunnit2027/
+Se ha comprobado: 2026-11-08
+
+### L877 · Innokas · Remote lesson · Dance / theater
+
+lugar: Finlandia · Online · Finland
+Fecha: 2027-01-13 — 2027-01-13
+edad: 1.º–9.º grado con docente.
+Matvey: Condicional. Clase grupal en finés. Confirmar nivel escolar y participación desde otro país.
+Oscar: Condicional. Clase grupal en finés. Confirmar nivel escolar y participación desde otro país.
+formato: school_workshop
+Idioma: Clase a distancia en finés.
+Marca de idioma: primary; soporte: no declarado
+Precio: El anuncio de la clase no indica un precio.
+Acceso: Solicitud grupal hasta el 27 de noviembre de 2026. Un docente o adulto inscribe la clase o grupo.
+Limitaciones: Clase introductoria para grupos. La participación en el torneo se tramita por separado.
+Fuente: https://www.innokas.fi/tapahtumat/turnausetaoppitunnit2027/
+Se ha comprobado: 2026-11-08
+
+### L878 · Innokas · Remote lesson · Rescue
+
+lugar: Finlandia · Online · Finland
+Fecha: 2027-01-20 — 2027-01-20
+edad: 3.º–9.º grado con docente.
+Matvey: Condicional. Clase grupal en finés. Confirmar nivel escolar y participación desde otro país.
+Oscar: No según la categoría escolar publicada.
+formato: school_workshop
+Idioma: Clase a distancia en finés.
+Marca de idioma: primary; soporte: no declarado
+Precio: El anuncio de la clase no indica un precio.
+Acceso: Solicitud grupal hasta el 27 de noviembre de 2026. Un docente o adulto inscribe la clase o grupo.
+Limitaciones: Clase introductoria para grupos. La participación en el torneo se tramita por separado.
+Fuente: https://www.innokas.fi/tapahtumat/turnausetaoppitunnit2027/
+Se ha comprobado: 2026-11-08
+
+### L879 · Innokas · Remote lesson · GameDev
+
+lugar: Finlandia · Online · Finland
+Fecha: 2027-01-28 — 2027-01-28
+edad: 3.º–9.º grado con docente.
+Matvey: Condicional. Clase grupal en finés. Confirmar nivel escolar y participación desde otro país.
+Oscar: No según la categoría escolar publicada.
+formato: school_workshop
+Idioma: Clase a distancia en finés.
+Marca de idioma: primary; soporte: no declarado
+Precio: El anuncio de la clase no indica un precio.
+Acceso: Solicitud grupal hasta el 27 de noviembre de 2026. Un docente o adulto inscribe la clase o grupo.
+Limitaciones: Clase introductoria para grupos. La participación en el torneo se tramita por separado.
+Fuente: https://www.innokas.fi/tapahtumat/turnausetaoppitunnit2027/
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

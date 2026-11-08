@@ -24565,6 +24565,463 @@
         "evidence": "Cotejado con la página oficial y las condiciones publicadas."
       },
       {
+        "id": "recf-online-challenges-2026-27",
+        "name": "RECF Online Challenges · 2026/27",
+        "group": "international",
+        "age_summary": "Elementary, Middle, High School y universidad según la división del equipo.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Entrega en línea de proyectos de ingeniería, robótica y diseño de juegos de RECF.",
+        "categories": [
+          {
+            "name": "Build Instructions Challenge",
+            "age": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "age_rule": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "team": "Equipo con inscripción pagada en un programa admisible de RECF. Un trabajo por equipo y reto.",
+            "hardware": "Engage · Achieve · Inspire",
+            "entry": "Instrucciones de montaje de un mecanismo, informe de pruebas y video.",
+            "event_id": "C4755"
+          },
+          {
+            "name": "CAD Challenge",
+            "age": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "age_rule": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "team": "Equipo con inscripción pagada en un programa admisible de RECF. Un trabajo por equipo y reto.",
+            "hardware": "Engage · Achieve · Inspire · Aerial Drone Competition · ADC Pro",
+            "entry": "CAD e impresión 3D de un accesorio para el equipo, con portafolio de ingeniería y STL.",
+            "event_id": "C4756"
+          },
+          {
+            "name": "Community Outreach Challenge",
+            "age": "High School y universidad.",
+            "age_rule": "High School y universidad.",
+            "team": "Equipo con inscripción pagada en un programa admisible de RECF. Un trabajo por equipo y reto.",
+            "hardware": "Achieve · Inspire · Aerial Drone Competition · ADC Pro",
+            "entry": "Informe y video sobre el impacto práctico de un proyecto para la comunidad local.",
+            "event_id": "C4757"
+          },
+          {
+            "name": "DoW Drone Challenge",
+            "age": "Middle, High School y universidad.",
+            "age_rule": "Middle, High School y universidad.",
+            "team": "Equipo con inscripción pagada en un programa admisible de RECF. Un trabajo por equipo y reto.",
+            "hardware": "Aerial Drone Competition · ADC Pro",
+            "entry": "Investigación de una profesión vinculada a drones, con informe y video.",
+            "event_id": "C4758"
+          },
+          {
+            "name": "Game Design Challenge",
+            "age": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "age_rule": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "team": "Equipo con inscripción pagada en un programa admisible de RECF. Un trabajo por equipo y reto.",
+            "hardware": "Engage · Achieve · Inspire · Aerial Drone Competition · ADC Pro",
+            "entry": "Diseño de un futuro juego de robótica o drones. Plano, reglas, puntuación y video.",
+            "event_id": "C4759"
+          },
+          {
+            "name": "Leadership Challenge",
+            "age": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "age_rule": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "team": "Equipo con inscripción pagada en un programa admisible de RECF. Un trabajo por equipo y reto.",
+            "hardware": "Engage · Achieve · Inspire · Aerial Drone Competition · ADC Pro",
+            "entry": "Realizar un reto de equipo y explicar su resultado en un informe y un video.",
+            "event_id": "C4760"
+          },
+          {
+            "name": "3D Printing & Fabrication Award",
+            "age": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "age_rule": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "team": "Equipo con inscripción pagada en un programa admisible de RECF. Un trabajo por equipo y reto.",
+            "hardware": "Engage · Achieve · Inspire",
+            "entry": "Diseñar e imprimir un premio. Entregar portafolio de ingeniería y STL.",
+            "event_id": "C4761"
+          },
+          {
+            "name": "Advertising Challenge – Fulfilling the RECF Mission & Vision",
+            "age": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "age_rule": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "team": "Equipo con inscripción pagada en un programa admisible de RECF. Un trabajo por equipo y reto.",
+            "hardware": "Engage · Achieve · Inspire · Aerial Drone Competition · ADC Pro",
+            "entry": "Video sobre las habilidades técnicas y de colaboración desarrolladas en el programa RECF.",
+            "event_id": "C4762"
+          },
+          {
+            "name": "Game Introduction & Explanation Video Challenge",
+            "age": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "age_rule": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "team": "Equipo con inscripción pagada en un programa admisible de RECF. Un trabajo por equipo y reto.",
+            "hardware": "Engage · Achieve · Inspire · Aerial Drone Competition · ADC Pro",
+            "entry": "Video que explica el campo, los objetivos y la puntuación del juego de la temporada.",
+            "event_id": "C4763"
+          },
+          {
+            "name": "Photography Challenge \"What does STEM mean to me?\"",
+            "age": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "age_rule": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "team": "Equipo con inscripción pagada en un programa admisible de RECF. Un trabajo por equipo y reto.",
+            "hardware": "Engage · Achieve · Inspire · Aerial Drone Competition · ADC Pro",
+            "entry": "Historia sobre el papel de STEM en la vida del equipo. Collage de 3 fotos y portafolio.",
+            "event_id": "C4764"
+          },
+          {
+            "name": "Robots + Drones: The Ultimate Team",
+            "age": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "age_rule": "Elementary, Middle, High School y universidad según la división del equipo.",
+            "team": "Equipo con inscripción pagada en un programa admisible de RECF. Un trabajo por equipo y reto.",
+            "hardware": "Engage · Achieve · Inspire · Aerial Drone Competition · ADC Pro",
+            "entry": "Proyecto de colaboración entre robot terrestre y dron en 2036. Se pide representación visual y video.",
+            "event_id": "C4765"
+          },
+          {
+            "name": "STEM + Art + Trend = Team Spirit",
+            "age": "Middle, High School y universidad.",
+            "age_rule": "Middle, High School y universidad.",
+            "team": "Equipo con inscripción pagada en un programa admisible de RECF. Un trabajo por equipo y reto.",
+            "hardware": "Engage · Achieve · Inspire · Aerial Drone Competition · ADC Pro",
+            "entry": "Video breve e informe sobre el trabajo en equipo en robótica o drones.",
+            "event_id": "C4766"
+          }
+        ],
+        "event_ids": [
+          "C4755",
+          "C4756",
+          "C4757",
+          "C4758",
+          "C4759",
+          "C4760",
+          "C4761",
+          "C4762",
+          "C4763",
+          "C4764",
+          "C4765",
+          "C4766",
+          "C4767",
+          "C4768"
+        ],
+        "legacy_ids": [],
+        "route": "En línea desde cualquier país si se cumplen las condiciones del programa del equipo.",
+        "hardware": "Engage · Achieve · Inspire · Aerial Drone Competition · ADC Pro",
+        "language": "Condiciones en inglés. Confirmar en las bases el idioma de entrega y presentación.",
+        "importance": "Concurso internacional en línea",
+        "strengths": "Entrega en línea de proyectos de ingeniería, robótica y diseño de juegos de RECF.",
+        "requirements": [
+          "Equipo con inscripción pagada en un programa admisible de RECF. Un trabajo por equipo y reto."
+        ],
+        "nuances": [
+          "Se necesita permiso para fotos y videos con personas reconocibles. Las normas generales prohíben imágenes creadas con IA generativa."
+        ],
+        "cost": "La cuota del equipo depende del programa y del país. La ficha no indica un cargo específico por el reto.",
+        "award": "Los ganadores de retos concretos pueden recibir premios o invitaciones. Confirmar el premio en cada reto.",
+        "sources": [
+          {
+            "url": "https://recf.org/teams/competition/online-challenges/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://kb.roboticseducation.org/hc/en-us/articles/4460191944343-RECF-Online-Challenges",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://kb.roboticseducation.org/hc/en-us/articles/41245796518167-2026-2027-RECF-Robotics-Season-Updates",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
+        "id": "usseo-human-in-the-loop",
+        "name": "USSEO Human-in-the-Loop Robotics & AI",
+        "group": "international",
+        "age_summary": "Elementary, Middle School y High School.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Proyecto internacional de robótica, IA y control humano. La evaluación preliminar es en línea.",
+        "categories": [
+          {
+            "name": "Elementary",
+            "age": "División escolar Elementary.",
+            "age_rule": "División escolar Elementary.",
+            "team": "De 1 a 4 participantes. La división del equipo se determina por el integrante mayor. Todos participan en el proyecto.",
+            "hardware": "Robot físico funcional de hasta 40 × 40 × 40 cm. La IA apoya la decisión de la persona y el robot ejecuta la acción.",
+            "entry": "Solicitud mediante el portal de USSEO. La ficha de la colaboración con RECF indica Engage y Achieve. Confirmar acceso independiente sin número de RECF y reglas según el país de residencia.",
+            "event_id": "C4769"
+          },
+          {
+            "name": "Escuela media",
+            "age": "División escolar Middle School.",
+            "age_rule": "División escolar Middle School.",
+            "team": "De 1 a 4 participantes. La división del equipo se determina por el integrante mayor. Todos participan en el proyecto.",
+            "hardware": "Robot físico funcional de hasta 40 × 40 × 40 cm. La IA apoya la decisión de la persona y el robot ejecuta la acción.",
+            "entry": "Solicitud mediante el portal de USSEO. La ficha de la colaboración con RECF indica Engage y Achieve. Confirmar acceso independiente sin número de RECF y reglas según el país de residencia.",
+            "event_id": "C4770"
+          },
+          {
+            "name": "La escuela secundaria",
+            "age": "División escolar High School.",
+            "age_rule": "División escolar High School.",
+            "team": "De 1 a 4 participantes. La división del equipo se determina por el integrante mayor. Todos participan en el proyecto.",
+            "hardware": "Robot físico funcional de hasta 40 × 40 × 40 cm. La IA apoya la decisión de la persona y el robot ejecuta la acción.",
+            "entry": "Solicitud mediante el portal de USSEO. La ficha de la colaboración con RECF indica Engage y Achieve. Confirmar acceso independiente sin número de RECF y reglas según el país de residencia.",
+            "event_id": "C4771"
+          }
+        ],
+        "event_ids": [
+          "C4769",
+          "C4770",
+          "C4771",
+          "C4772",
+          "C4773"
+        ],
+        "legacy_ids": [],
+        "route": "Solicitud mediante el portal de USSEO. La ficha de la colaboración con RECF indica Engage y Achieve. Confirmar acceso independiente sin número de RECF y reglas según el país de residencia.",
+        "hardware": "Robot físico funcional de hasta 40 × 40 × 40 cm. La IA apoya la decisión de la persona y el robot ejecuta la acción.",
+        "language": "Condiciones en inglés. Confirmar en las bases el idioma de entrega y presentación.",
+        "importance": "Concurso internacional en línea",
+        "strengths": "Proyecto internacional de robótica, IA y control humano. La evaluación preliminar es en línea.",
+        "requirements": [
+          "De 1 a 4 participantes. La división del equipo se determina por el integrante mayor. Todos participan en el proyecto.",
+          "Propuesta de 1–2 páginas, cuaderno de ingeniería, cartel o presentación y video del prototipo de 3 minutos."
+        ],
+        "nuances": [
+          "En Elementary se admiten modelos preparados y entornos de bloques. Se requiere proyecto propio y explicación de los papeles de la IA, la persona y el robot.",
+          "Inscripción hasta el 5 de febrero de 2027. Proyecto final hasta el 5 de marzo de 2027. No consta la hora límite."
+        ],
+        "cost": "30 USD para Elementary y Middle School, impuestos incluidos. Kit y posible final aparte. 50 USD para High School, impuestos incluidos. Kit y posible final aparte.",
+        "award": "El 27 de marzo de 2027 se anuncian finalistas. Confirmar condiciones y sede de la final presencial en la invitación.",
+        "sources": [
+          {
+            "url": "https://recf.org/online_challenge/usseo-human-in-the-loop-robotics-ai-challenge/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.usseo.org/challenges/cd371f3a-627e-4377-9091-f3ceb1925ba2",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.usseo.org/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
+        "id": "vex-vr-autonomous-skills",
+        "name": "VEXcode VR Autonomous Skills · Global STEM Challenge",
+        "group": "international",
+        "age_summary": "VEX IQ y VEX V5 según la división del equipo.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Programación de un robot autónomo en simulador y explicación de la solución.",
+        "categories": [
+          {
+            "name": "VEX IQ Elementary School",
+            "age": "División de inscripción VEX IQ Elementary School.",
+            "age_rule": "División de inscripción VEX IQ Elementary School.",
+            "team": "Equipo VEX IQ o VEX V5 inscrito en la temporada vigente. Se exige puntuación en la tabla global y participar al menos en una competición de su división durante la temporada.",
+            "hardware": "VEXcode VR, número de equipo, Virtual Skills Key, resumen del código y la temporada, y créditos de fuentes externas.",
+            "entry": "Entrega hasta el 1 de febrero de 2027. Se puede sustituir el trabajo antes del plazo. Se evalúa la última versión.",
+            "event_id": "C4774"
+          },
+          {
+            "name": "VEX IQ Middle School",
+            "age": "División de inscripción VEX IQ Middle School.",
+            "age_rule": "División de inscripción VEX IQ Middle School.",
+            "team": "Equipo VEX IQ o VEX V5 inscrito en la temporada vigente. Se exige puntuación en la tabla global y participar al menos en una competición de su división durante la temporada.",
+            "hardware": "VEXcode VR, número de equipo, Virtual Skills Key, resumen del código y la temporada, y créditos de fuentes externas.",
+            "entry": "Entrega hasta el 1 de febrero de 2027. Se puede sustituir el trabajo antes del plazo. Se evalúa la última versión.",
+            "event_id": "C4775"
+          },
+          {
+            "name": "VEX V5 Middle School",
+            "age": "División de inscripción VEX V5 Middle School.",
+            "age_rule": "División de inscripción VEX V5 Middle School.",
+            "team": "Equipo VEX IQ o VEX V5 inscrito en la temporada vigente. Se exige puntuación en la tabla global y participar al menos en una competición de su división durante la temporada.",
+            "hardware": "VEXcode VR, número de equipo, Virtual Skills Key, resumen del código y la temporada, y créditos de fuentes externas.",
+            "entry": "Entrega hasta el 1 de febrero de 2027. Se puede sustituir el trabajo antes del plazo. Se evalúa la última versión.",
+            "event_id": "C4776"
+          },
+          {
+            "name": "VEX V5 High School",
+            "age": "División de inscripción VEX V5 High School.",
+            "age_rule": "División de inscripción VEX V5 High School.",
+            "team": "Equipo VEX IQ o VEX V5 inscrito en la temporada vigente. Se exige puntuación en la tabla global y participar al menos en una competición de su división durante la temporada.",
+            "hardware": "VEXcode VR, número de equipo, Virtual Skills Key, resumen del código y la temporada, y créditos de fuentes externas.",
+            "entry": "Entrega hasta el 1 de febrero de 2027. Se puede sustituir el trabajo antes del plazo. Se evalúa la última versión.",
+            "event_id": "C4777"
+          }
+        ],
+        "event_ids": [
+          "C4774",
+          "C4775",
+          "C4776",
+          "C4777"
+        ],
+        "legacy_ids": [],
+        "route": "Equipo VEX IQ o VEX V5 inscrito en la temporada vigente. Se exige puntuación en la tabla global y participar al menos en una competición de su división durante la temporada.",
+        "hardware": "VEXcode VR, número de equipo, Virtual Skills Key, resumen del código y la temporada, y créditos de fuentes externas.",
+        "language": "Condiciones en inglés. Confirmar en las bases el idioma de entrega y presentación.",
+        "importance": "Concurso internacional en línea",
+        "strengths": "Programación de un robot autónomo en simulador y explicación de la solución.",
+        "requirements": [
+          "Equipo VEX IQ o VEX V5 inscrito en la temporada vigente. Se exige puntuación en la tabla global y participar al menos en una competición de su división durante la temporada."
+        ],
+        "nuances": [
+          "Entrega hasta el 1 de febrero de 2027. Se puede sustituir el trabajo antes del plazo. Se evalúa la última versión."
+        ],
+        "cost": "Aún no se confirman el coste total ni las plazas.",
+        "award": "El mejor trabajo de cada una de las 4 divisiones obtiene una plaza en VEX Robotics World Championship.",
+        "sources": [
+          {
+            "url": "https://kb.vex.com/hc/en-us/articles/53216784941716-Entering-the-VEXcode-VR-Autonomous-Skills-Global-STEM-Challenge",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://library.globalrobotics.org/hc/en-us/articles/53219019883156",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://library.globalrobotics.org/hc/en-us/articles/52162916563604",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
+        "id": "innokas-finland-2027",
+        "name": "Innokas · Robotics and Programming Tournament",
+        "group": "regional",
+        "age_summary": "Torneo para 1.º–9.º grado. Confirmar cada modalidad y división por separado.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Torneos regionales de robótica y programación con ceremonia nacional en línea.",
+        "categories": [
+          {
+            "name": "Invention",
+            "age": "Educación infantil y primaria.",
+            "age_rule": "Educación infantil y primaria.",
+            "team": "Equipo de 2–4 participantes.",
+            "hardware": "Prototipo funcional de dispositivo, robot o aplicación. Plataforma libre.",
+            "entry": "Presentación del invento en la sede regional.",
+            "source": "https://www.innokas.fi/en/turnaus-en/__innokas-events/innokas-invention/"
+          },
+          {
+            "name": "GameDev · Scratch Lite / Pro / Open",
+            "age": "Torneo para 1.º–9.º grado. Confirmar cada modalidad y división por separado.",
+            "age_rule": "Torneo para 1.º–9.º grado. Confirmar cada modalidad y división por separado.",
+            "team": "La escuela o el club registra un equipo por modalidad. Confirmar la admisión de grupos de otros países.",
+            "hardware": "Scratch · GDevelop · Unity",
+            "entry": "XSumo y Rescue se realizan en sede. GameDev permite participar a distancia en el torneo de la propia región. Confirmar las demás modalidades.",
+            "source": "https://www.innokas.fi/en/turnaus-en/__innokas-events/innokas-gamedev/"
+          },
+          {
+            "name": "Rescue",
+            "age": "Torneo para 1.º–9.º grado. Confirmar cada modalidad y división por separado.",
+            "age_rule": "Torneo para 1.º–9.º grado. Confirmar cada modalidad y división por separado.",
+            "team": "La escuela o el club registra un equipo por modalidad. Confirmar la admisión de grupos de otros países.",
+            "hardware": "Un robot sigue una línea, supera obstáculos y entrega un objeto.",
+            "entry": "XSumo y Rescue clasifican según el resultado regional. En las demás modalidades el jurado evalúa el material enviado.",
+            "source": "https://www.innokas.fi/en/turnaus-en/__innokas-events/innokas-rescue/"
+          },
+          {
+            "name": "Dance / theater",
+            "age": "Torneo para 1.º–9.º grado. Confirmar cada modalidad y división por separado.",
+            "age_rule": "Torneo para 1.º–9.º grado. Confirmar cada modalidad y división por separado.",
+            "team": "La escuela o el club registra un equipo por modalidad. Confirmar la admisión de grupos de otros países.",
+            "hardware": "Actuación de 1–2 minutos con interacción entre robots e intérpretes.",
+            "entry": "XSumo y Rescue clasifican según el resultado regional. En las demás modalidades el jurado evalúa el material enviado.",
+            "source": "https://www.innokas.fi/en/turnaus-en/__innokas-events/innokas-dance-theater/"
+          },
+          {
+            "name": "XSumo",
+            "age": "Torneo para 1.º–9.º grado. Confirmar cada modalidad y división por separado.",
+            "age_rule": "Torneo para 1.º–9.º grado. Confirmar cada modalidad y división por separado.",
+            "team": "La escuela o el club registra un equipo por modalidad. Confirmar la admisión de grupos de otros países.",
+            "hardware": "El robot sigue una línea hasta la arena y compite en sumo.",
+            "entry": "XSumo y Rescue clasifican según el resultado regional. En las demás modalidades el jurado evalúa el material enviado.",
+            "source": "https://www.innokas.fi/en/turnaus-en/__innokas-events/innokas-xsumo/"
+          }
+        ],
+        "event_ids": [
+          "C4778",
+          "C4779",
+          "C4780",
+          "C4781",
+          "C4782",
+          "C4783",
+          "C4784",
+          "C4785"
+        ],
+        "legacy_ids": [],
+        "route": "La escuela o el club registra un equipo por modalidad. Confirmar la admisión de grupos de otros países.",
+        "hardware": "El equipo y los materiales dependen de la modalidad. Invention permite distintas plataformas.",
+        "language": "Hay documentos en inglés. Confirmar el idioma del jurado y las solicitudes en la región concreta.",
+        "importance": "Etapa nacional",
+        "strengths": "Torneos regionales de robótica y programación con ceremonia nacional en línea.",
+        "requirements": [
+          "Inscripción del 1 de febrero de 2027 a las 08:00 al 26 de febrero de 2027 a las 23:59, hora de Finlandia.",
+          "La escuela o el club registra un equipo por modalidad. Confirmar la admisión de grupos de otros países."
+        ],
+        "nuances": [
+          "XSumo y Rescue se realizan en sede. GameDev permite participar a distancia en el torneo de la propia región. Confirmar las demás modalidades.",
+          "XSumo y Rescue clasifican según el resultado regional. En las demás modalidades el jurado evalúa el material enviado."
+        ],
+        "cost": "No consta tarifa en la página del torneo. Confirmar aparte equipo y viaje.",
+        "award": "Todos los equipos regionales inscritos reciben invitación a la final a distancia del 12 de mayo de 2027, 09:00–11:00 hora de Finlandia. Allí se anuncian los ganadores.",
+        "sources": [
+          {
+            "url": "https://www.innokas.fi/en/turnaus-en/innokas-tournament-info/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.innokas.fi/en/turnaus-en/innokas-tournament-info/regional-tournaments-and-registration/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.innokas.fi/en/turnaus-en/innokas-tournament-info/national-tournament/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.innokas.fi/en/turnaus-en/__innokas-events/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.innokas.fi/en/turnaus-en/__innokas-events/innokas-gamedev/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -29841,7 +30298,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, circuitos y programas: 305. Se conservan las 46 vías anteriores. Los formatos brasileños se presentan por separado. Robofest LATAM y BajaBot se describen según sus categorías. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, circuitos y programas: 309. Se conservan las 46 vías anteriores. Los formatos brasileños se presentan por separado. Robofest LATAM y BajaBot se describen según sus categorías. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

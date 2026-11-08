@@ -1,0 +1,134 @@
+{
+  "version": 298,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C4755",
+    "C4756",
+    "C4757",
+    "C4758",
+    "C4759",
+    "C4760",
+    "C4761",
+    "C4762",
+    "C4763",
+    "C4764",
+    "C4765",
+    "C4766",
+    "C4767",
+    "C4768",
+    "C4769",
+    "C4770",
+    "C4771",
+    "C4772",
+    "C4773",
+    "C4774",
+    "C4775",
+    "C4776",
+    "C4777",
+    "C4778",
+    "C4779",
+    "C4780",
+    "C4781",
+    "C4782",
+    "C4783",
+    "C4784",
+    "C4785",
+    "L875",
+    "L876",
+    "L877",
+    "L878",
+    "L879",
+    "C4786",
+    "C4787",
+    "C4788",
+    "C4789"
+  ],
+  "new_dossiers": [],
+  "new_dated_variants": 0,
+  "refreshed_event_ids": [
+    "C1777"
+  ],
+  "legacy_overlay_event_ids": [
+    "C1777"
+  ],
+  "source_requests": 38,
+  "new_league_ids": [
+    "recf-online-challenges-2026-27",
+    "usseo-human-in-the-loop",
+    "vex-vr-autonomous-skills",
+    "innokas-finland-2027"
+  ],
+  "recf": {
+    "challenges": [
+      "C4755",
+      "C4756",
+      "C4757",
+      "C4758",
+      "C4759",
+      "C4760",
+      "C4761",
+      "C4762",
+      "C4763",
+      "C4764",
+      "C4765",
+      "C4766"
+    ],
+    "results": [
+      "C4767",
+      "C4768"
+    ]
+  },
+  "usseo": {
+    "divisions": [
+      "C4769",
+      "C4770",
+      "C4771"
+    ],
+    "registration": "C4772",
+    "results": "C4773"
+  },
+  "vex_vr": [
+    "C4774",
+    "C4775",
+    "C4776",
+    "C4777"
+  ],
+  "innokas": {
+    "regionals": [
+      "C4778",
+      "C4779",
+      "C4780",
+      "C4781",
+      "C4782",
+      "C4783",
+      "C4784"
+    ],
+    "final": "C4785",
+    "remote_lessons": [
+      "L875",
+      "L876",
+      "L877",
+      "L878",
+      "L879"
+    ]
+  },
+  "codecraft": {
+    "divisions": [
+      "C4786",
+      "C4787",
+      "C4788"
+    ],
+    "final": "C4789"
+  },
+  "coderz": "C1777",
+  "source_limits": {
+    "recf": "Individual challenge pages set their windows and grade bands. No 2026 legacy cycle-three submission dates carried into 2027.",
+    "usseo": "Official partner listing and organizer checkout show divisions and fees. Admission without RECF membership and the exact cutoffs remain unconfirmed.",
+    "vex": "One competition event in the same division during the current season is required. Online entry alone does not qualify.",
+    "innokas": "Seven physical venues, conditional remote category and an invitation-only national event. Preparatory lessons are in Finnish.",
+    "codecraft": "The portal supplies UTC cutoffs. School or mentor enrollment is required. Overseas eligibility and venue details are still unconfirmed.",
+    "coderz": "Official organizer confirms online delivery and dates. Foreign eligibility and judging language remain open."
+  }
+}

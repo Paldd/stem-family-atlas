@@ -16,11 +16,11 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10669,
-    "competition_cards": 4753,
+    "cards": 10709,
+    "competition_cards": 4788,
     "event_cards": 649,
-    "camp_cards": 5267,
-    "league_profiles": 305,
+    "camp_cards": 5272,
+    "league_profiles": 309,
     "major_exhibition_cards": 550,
     "vex_cards": 815,
     "countries_with_records": 242,
@@ -34,9 +34,9 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3469,
+      "total": 3473,
       "countries_with_records": 41,
-      "competitions": 1956,
+      "competitions": 1960,
       "events": 183,
       "major_exhibitions": 142,
       "camps": 1330,
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2306,
+      "total": 2319,
       "countries_with_records": 55,
-      "competitions": 621,
+      "competitions": 629,
       "events": 157,
       "major_exhibitions": 132,
-      "camps": 1528,
+      "camps": 1533,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -7839,6 +7839,89 @@
       "linked_card_count": 8,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.edubotica.com.co/IYRC/iyrc-colombia-2027",
+      "new": false
+    },
+    {
+      "id": "recf-online-challenges-2026-27",
+      "name": "RECF Online Challenges · 2026/27",
+      "group": "international",
+      "event_ids": [
+        "C4755",
+        "C4756",
+        "C4757",
+        "C4758",
+        "C4759",
+        "C4760",
+        "C4761",
+        "C4762",
+        "C4763",
+        "C4764",
+        "C4765",
+        "C4766",
+        "C4767",
+        "C4768"
+      ],
+      "cards": 14,
+      "future_dated": 14,
+      "linked_card_count": 14,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://recf.org/teams/competition/online-challenges/",
+      "new": false
+    },
+    {
+      "id": "usseo-human-in-the-loop",
+      "name": "USSEO Human-in-the-Loop Robotics & AI",
+      "group": "international",
+      "event_ids": [
+        "C4769",
+        "C4770",
+        "C4771",
+        "C4772",
+        "C4773"
+      ],
+      "cards": 5,
+      "future_dated": 5,
+      "linked_card_count": 5,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://recf.org/online_challenge/usseo-human-in-the-loop-robotics-ai-challenge/",
+      "new": false
+    },
+    {
+      "id": "vex-vr-autonomous-skills",
+      "name": "VEXcode VR Autonomous Skills · Global STEM Challenge",
+      "group": "international",
+      "event_ids": [
+        "C4774",
+        "C4775",
+        "C4776",
+        "C4777"
+      ],
+      "cards": 4,
+      "future_dated": 4,
+      "linked_card_count": 4,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://kb.vex.com/hc/en-us/articles/53216784941716-Entering-the-VEXcode-VR-Autonomous-Skills-Global-STEM-Challenge",
+      "new": false
+    },
+    {
+      "id": "innokas-finland-2027",
+      "name": "Innokas · Robotics and Programming Tournament",
+      "group": "regional",
+      "event_ids": [
+        "C4778",
+        "C4779",
+        "C4780",
+        "C4781",
+        "C4782",
+        "C4783",
+        "C4784",
+        "C4785"
+      ],
+      "cards": 8,
+      "future_dated": 8,
+      "linked_card_count": 8,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.innokas.fi/en/turnaus-en/innokas-tournament-info/",
       "new": false
     },
     {
@@ -16265,7 +16348,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 166,
+  "interregional_cards": 189,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -17302,7 +17385,7 @@
       }
     ],
     "counts": {
-      "records": 5267,
+      "records": 5272,
       "holiday": 4768,
       "regular": 201,
       "self_paced_materials": 4,

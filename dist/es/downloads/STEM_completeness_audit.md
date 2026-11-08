@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10669; competiciones: 4753; eventos: 649; campamentos / programas: 5267. Perfiles de ligas y programas: 305. Fichas de exposiciones grandes y especializadas: 550 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10709; competiciones: 4788; eventos: 649; campamentos / programas: 5272. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 550 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 1956 | 142 | 1330 |
+| América del Norte | 41 | 1960 | 142 | 1330 |
 | América del Sur | 15 | 443 | 49 | 230 |
-| Europa | 55 | 621 | 132 | 1528 |
+| Europa | 55 | 629 | 132 | 1533 |
 | África | 60 | 247 | 40 | 130 |
 | Asia | 50 | 1175 | 155 | 1698 |
 | Oceanía | 27 | 167 | 30 | 336 |
 
-Fichas interregionales o globales sin continente único: 166. América del Norte incluye América Central y el Caribe. Los recuentos describen el inventario de la base y no miden su exhaustividad.
+Fichas interregionales o globales sin un solo continente asignado: 189. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base y la cobertura sigue siendo parcial.
 
-VEX: 815 de 4753 fichas de competiciones (17.1%). La cobertura se concentra en este circuito.
+VEX: 815 de 4788 fichas de competiciones (17.0%). La cobertura se concentra en este circuito.
 
 ## Lo que queda
 
@@ -331,6 +331,10 @@ VEX: 815 de 4753 fichas de competiciones (17.1%). La cobertura se concentra en e
 - **World Robot Olympiad · Honduras**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wrohonduras.org/wro-2026
 - **Robot Drone League · Urban Rescue 2026/27**: 10 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robotdroneleague.com/
 - **IYRC Colombia · Edubótica 2027**: 8 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.edubotica.com.co/IYRC/iyrc-colombia-2027
+- **RECF Online Challenges · 2026/27**: 14 fichas, 14 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://recf.org/teams/competition/online-challenges/
+- **USSEO Human-in-the-Loop Robotics & AI**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://recf.org/online_challenge/usseo-human-in-the-loop-robotics-ai-challenge/
+- **VEXcode VR Autonomous Skills · Global STEM Challenge**: 4 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://kb.vex.com/hc/en-us/articles/53216784941716-Entering-the-VEXcode-VR-Autonomous-Skills-Global-STEM-Challenge
+- **Innokas · Robotics and Programming Tournament**: 8 fichas, 8 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.innokas.fi/en/turnaus-en/innokas-tournament-info/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
