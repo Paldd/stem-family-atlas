@@ -137146,7 +137146,7 @@
       "action": "Подтвердить выбранный сезон, возраст / класс, приём приезжих детей, язык преподавателя, места и полный счёт. Заявки, согласия, сообщения и оплаты не выполнялись.",
       "source": "https://www.archipel-des-sciences.org/actualites/robotique-first/",
       "proof": "Местное описание указывает 9–14 лет и минимум восемь недель подготовки; старое упоминание Mindstorms не заменяет актуальный технический регламент. Матвей подходит по указанному возрасту, Оскар младше 9. Локальные Explore 6–10, точный состав команды, иностранный / семейный приём и язык судей не подтверждены. Сезон BIOGLOW 2027 опубликован без дня местного турнира.",
-      "checked": "2026-11-06",
+      "checked": "2026-11-08",
       "status": "Идея",
       "note": "Подтвердить выбранный сезон, возраст / класс, приём приезжих детей, язык преподавателя, места и полный счёт. Заявки, согласия, сообщения и оплаты не выполнялись.",
       "iso": [
@@ -137163,7 +137163,15 @@
       "admission_kind": "unknown",
       "evidence_level": "event_page",
       "date_scope": "festival_window",
-      "references": []
+      "references": [
+        {
+          "url": "https://pedagogie.ac-guadeloupe.fr/sites/default/files/File/jcafafa/presentation_fll_saison_9_2024.pdf",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "related_ids": [
+        "C4708"
+      ]
     },
     {
       "id": "C1933",
@@ -343856,6 +343864,1068 @@
       "admission_kind": "open_application",
       "evidence_level": "event_page",
       "date_scope": "competition"
+    },
+    {
+      "id": "L819",
+      "title": "St Helena · Primary ICT & Design Technology",
+      "block": "Лагеря",
+      "country": "Остров Святой Елены",
+      "region": "Африка",
+      "iso": [
+        "SHN"
+      ],
+      "city": "St Paul’s / Longwood · St Helena",
+      "start": "",
+      "end": "",
+      "period": "Следующий открытый набор и даты не опубликованы в проверенных источниках.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "checked": "2026-11-08",
+      "source": "https://www.sainthelena.gov.sh/st-helena/government/portfolios/education-employment/primary-schools-ks1-ks2/",
+      "references": [
+        {
+          "url": "https://www.sainthelena.gov.sh/app/uploads/2026/10/Primary-School-Term-Times-2026-2027-Revised.pdf",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.sainthelena.gov.sh/documents/st-helena-digital-strategy/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "EYFS / KS1 / KS2",
+      "mat": "Условно. Участие через местную школу, фактический класс и порядок зачисления проверить.",
+      "osc": "Условно. Участие через местную школу, фактический класс и порядок зачисления проверить.",
+      "format": "Начальная программа Великобритании включает ICT и Design Technology. Стратегия 2017 года описывает обучение программированию в начальной школе.",
+      "entry": "Программа для зачисленных учеников. Условия доступа семьи, расписание и стоимость уточнить в школе.",
+      "gear": "",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Программа для зачисленных учеников. Условия доступа семьи, расписание и стоимость уточнить в школе.",
+      "note": "На 2026/27 есть школьный календарь. Расписание перехода между кампусами и наличие отдельных уроков робототехники уточнить.",
+      "themes": [
+        "technology",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Начальная программа Великобритании включает ICT и Design Technology. Стратегия 2017 года описывает обучение программированию в начальной школе.",
+      "participation": "regular",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "camp_dossier_slug": "shn-primary-ict-design"
+    },
+    {
+      "id": "L820",
+      "title": "Cocos Islands District High School · STEM",
+      "block": "Лагеря",
+      "country": "Кокосовых (Килинг) островов",
+      "region": "Океания",
+      "iso": [
+        "CCK"
+      ],
+      "city": "Home Island / West Island · Cocos (Keeling) Islands",
+      "start": "",
+      "end": "",
+      "period": "Следующий открытый набор и даты не опубликованы в проверенных источниках.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "checked": "2026-11-08",
+      "source": "https://www.det.wa.edu.au/schoolsonline/overview.do?schoolID=4157",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Kindergarten–Year 6 в обоих кампусах. Years 7–10 на West Island.",
+      "mat": "Условно. Участие через местную школу, фактический класс и порядок зачисления проверить.",
+      "osc": "Условно. Участие через местную школу, фактический класс и порядок зачисления проверить.",
+      "format": "Министерство образования указывает STEM среди специализированных школьных программ. Темы робототехники и расписание по классам не опубликованы.",
+      "entry": "Программа для зачисленных учеников. Условия доступа семьи, расписание и стоимость уточнить в школе.",
+      "gear": "",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Программа для зачисленных учеников. Условия доступа семьи, расписание и стоимость уточнить в школе.",
+      "note": "Для выбора кампуса проверить класс, доступ и расписание STEM. Публичной смены для приезжающих детей в источнике нет.",
+      "themes": [
+        "technology",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Министерство образования указывает STEM среди специализированных школьных программ. Темы робототехники и расписание по классам не опубликованы.",
+      "participation": "regular",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "camp_dossier_slug": "cck-school-stem"
+    },
+    {
+      "id": "L821",
+      "title": "Youth Innovation & Entrepreneurship Hub · NUEYS",
+      "block": "Лагеря",
+      "country": "Эритрея",
+      "region": "Африка",
+      "iso": [
+        "ERI"
+      ],
+      "city": "Asmara",
+      "start": "",
+      "end": "",
+      "period": "Следующий открытый набор и даты не опубликованы в проверенных источниках.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "checked": "2026-11-08",
+      "source": "https://shabait.com/amp/2025/04/09/the-innovation-hub-a-center-for-creatinity-and-progress/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "В отчёте указаны главным образом Grades 9–11.",
+      "mat": "Условно. Сверить возраст, класс и порядок допуска.",
+      "osc": "Условно. Сверить возраст, класс и порядок допуска.",
+      "format": "Курсы электроники, Python, Scratch, робототехники и пайки. В описании 3 уровня по 6 месяцев.",
+      "entry": "Программа для зачисленных учеников. Условия доступа семьи, расписание и стоимость уточнить в школе.",
+      "gear": "",
+      "language": "Публичные документы на испанском. Язык судейства и сопровождения подтвердить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Публичные документы на испанском. Язык судейства и сопровождения подтвердить.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P4 — архив или будущий возраст",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Государственный отчёт от 2025 года. Допуск младших детей, язык и новый набор ещё не подтверждены.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Курсы электроники, Python, Scratch, робототехники и пайки. В описании 3 уровня по 6 месяцев.",
+      "participation": "regular",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "camp_dossier_slug": "eri-nueys-youth-hub",
+      "related_ids": [
+        "C4707"
+      ]
+    },
+    {
+      "id": "C4707",
+      "title": "National Innovation & Creativity Competition 2026 · NUEYS",
+      "block": "Соревнования",
+      "country": "Эритрея",
+      "region": "Африка",
+      "iso": [
+        "ERI"
+      ],
+      "city": "Youth Innovation and Business Center · Asmara",
+      "start": "2026-05-20",
+      "end": "2026-05-20",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://shabait.com/2026/05/22/national-innovation-and-creativity-display-and-competition/",
+      "references": [
+        {
+          "url": "https://shabait.com/amp/2025/04/09/the-innovation-hub-a-center-for-creatinity-and-progress/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "mat": "Условно. Сверить возраст, класс и порядок допуска.",
+      "osc": "Условно. Сверить возраст, класс и порядок допуска.",
+      "format": "",
+      "entry": "Опубликован отчёт о прошедшем конкурсе. Правила допуска, сроки и формат следующего отбора неизвестны.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Национальный этап",
+      "reward": "Победителям этого выпуска предложены беспроцентные займы на развитие проектов.",
+      "priority": "P4 — архив или будущий возраст",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Программа для молодых и опытных изобретателей. Возрастные правила отдельного детского трека не опубликованы.",
+      "themes": [
+        "engineering",
+        "makers",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальный этап",
+      "participation": "team",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "related_ids": [
+        "L821"
+      ]
+    },
+    {
+      "id": "E618",
+      "title": "National Eritrean Festival 2026 · Innovation & AI",
+      "block": "События",
+      "country": "Эритрея",
+      "region": "Африка",
+      "iso": [
+        "ERI"
+      ],
+      "city": "Asmara Expo Compound · Asmara",
+      "start": "2026-07-18",
+      "end": "2026-07-26",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://shabait.com/2026/07/21/innovation-and-creativity-displays-at-national-festival/",
+      "references": [
+        {
+          "url": "https://shabait.com/2026/07/10/national-festival-2026-to-commence-on-18-july/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://shabait.com/amp/2026/07/27/national-festival-2026-colorfully-concludes/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Открытая фестивальная площадка с детской программой. Возраст отдельных экспозиций не уточнён.",
+      "mat": "Да. Семейное посещение предусмотрено, условия отдельных активностей уточнить.",
+      "osc": "Да. Семейное посещение предусмотрено, условия отдельных активностей уточнить.",
+      "format": "Инновации, инженерные разработки и работы, созданные с помощью ИИ. В отчёте 35 продуктов.",
+      "entry": "Архив выпуска 2026. Анонса следующей выставки пока нет.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Цена не указана на прочитанной странице.",
+      "level": "Инновации, инженерные разработки и работы, созданные с помощью ИИ. В отчёте 35 продуктов.",
+      "reward": "",
+      "priority": "P4 — архив или будущий возраст",
+      "action": "Архив выпуска 2026. Анонса следующей выставки пока нет.",
+      "note": "18–26 июля — дни фестиваля. Точные часы стендов ИИ отдельно не опубликованы.",
+      "themes": [
+        "ai",
+        "engineering",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Инновации, инженерные разработки и работы, созданные с помощью ИИ. В отчёте 35 продуктов.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "visitor_policy": "family",
+      "adult_entry": "Цена не указана на прочитанной странице.",
+      "visitor_policy_note": "Архив выпуска 2026. Анонса следующей выставки пока нет.",
+      "child_entry": "Открытая фестивальная площадка с детской программой. Возраст отдельных экспозиций не уточнён.",
+      "exhibitor_note": "Инновации, инженерные разработки и работы, созданные с помощью ИИ. В отчёте 35 продуктов.",
+      "exhibition_tier": "regional",
+      "delivery_mode": "in_person",
+      "public_days": []
+    },
+    {
+      "id": "E619",
+      "title": "Afro Verse · AI & VR demo 2026",
+      "block": "События",
+      "country": "Эритрея",
+      "region": "Африка",
+      "iso": [
+        "ERI"
+      ],
+      "city": "National Confederation of Eritrean Workers · Asmara",
+      "start": "2026-08-27",
+      "end": "2026-08-27",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://shabait.com/amp/2026/09/07/afro-verse-where-eritrean-heritage-meets-virtual-reality/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Уточнить. Допуск детей в правилах для посетителей не указан.",
+      "mat": "Условно. Сверить возраст, класс и порядок допуска.",
+      "osc": "Условно. Сверить возраст, класс и порядок допуска.",
+      "format": "Демонстрация эритрейского наследия в VR с инструментами ИИ. Показана первая демоверсия.",
+      "entry": "Разовый публичный показ уже прошёл. Следующее посещение и детский доступ требуют анонса.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Цена не указана на прочитанной странице.",
+      "level": "Демонстрация эритрейского наследия в VR с инструментами ИИ. Показана первая демоверсия.",
+      "reward": "",
+      "priority": "P4 — архив или будущий возраст",
+      "action": "Разовый публичный показ уже прошёл. Следующее посещение и детский доступ требуют анонса.",
+      "note": "",
+      "themes": [
+        "ai",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Демонстрация эритрейского наследия в VR с инструментами ИИ. Показана первая демоверсия.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "visitor_policy": "confirm_children",
+      "adult_entry": "Цена не указана на прочитанной странице.",
+      "visitor_policy_note": "Разовый публичный показ уже прошёл. Следующее посещение и детский доступ требуют анонса.",
+      "child_entry": "Уточнить. Допуск детей в правилах для посетителей не указан.",
+      "exhibitor_note": "Демонстрация эритрейского наследия в VR с инструментами ИИ. Показана первая демоверсия.",
+      "exhibition_tier": "regional",
+      "delivery_mode": "in_person",
+      "public_days": []
+    },
+    {
+      "id": "C4708",
+      "title": "Robotique FIRST 2024 · Sainte-Marie Saint-Barthélemy",
+      "block": "Соревнования",
+      "country": "Гваделупа",
+      "region": "Карибский регион",
+      "iso": [
+        "GLP",
+        "BLM"
+      ],
+      "city": "Palais des Sports Laura Flessel · Petit-Bourg, Guadeloupe",
+      "start": "2024-05-30",
+      "end": "2024-05-30",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.archipel-des-sciences.org/actualites/robotique-first/",
+      "references": [
+        {
+          "url": "https://pedagogie.ac-guadeloupe.fr/sites/default/files/File/jcafafa/presentation_fll_saison_9_2024.pdf",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Академический трек 9–14 лет.",
+      "mat": "Условно. Сверить возраст, класс и порядок допуска.",
+      "osc": "Нет по возрасту. Сейчас вне указанного диапазона.",
+      "format": "",
+      "entry": "В списке участников 2024 есть школа Sainte-Marie с Сен-Бартелеми. Турнир прошёл в Гваделупе.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Региональный этап",
+      "reward": "",
+      "priority": "P4 — архив или будущий возраст",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "В презентации академии была предварительная дата 25 апреля. Отчёт организатора указывает 30 мая 2024. Место школы на BIOGLOW 2027 не подтверждено.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "team",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "related_ids": [
+        "C1932"
+      ]
+    },
+    {
+      "id": "C4709",
+      "title": "FIRST Global · Fundação ATENA · национальный отбор",
+      "block": "Соревнования",
+      "country": "Гвинея-Бисау",
+      "region": "Африка",
+      "iso": [
+        "GNB"
+      ],
+      "city": "",
+      "start": "",
+      "end": "",
+      "period": "Документы отбора относятся к 2025. Профиль команды 2026 опубликован. Условия 2027 ещё неизвестны.",
+      "deadline": "",
+      "date_status": "Уточнить",
+      "checked": "2026-11-08",
+      "source": "https://form.jotform.com/241038246671556",
+      "references": [
+        {
+          "url": "https://first.global/2026-nations/guinea-bissau-2026/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "В отборе 2025 требовались 15–18 лет и обучение в школе.",
+      "mat": "Нет по возрасту сейчас. Сохранить на будущий сезон.",
+      "osc": "Нет по возрасту сейчас. Сохранить на будущий сезон.",
+      "format": "",
+      "entry": "Местный отбор проводила Fundação ATENA. Требовались подтверждение обучения и согласие родителя.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P4 — архив или будущий возраст",
+      "action": "Следующий открытый набор и даты не опубликованы в проверенных источниках.",
+      "note": "Это путь к национальной команде, место на следующем сезоне не подтверждено.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Региональный этап",
+      "participation": "team",
+      "admission_kind": "qualifier",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "related_ids": []
+    },
+    {
+      "id": "E620",
+      "title": "Research Ireland · Science Week 2026",
+      "block": "События",
+      "country": "Ирландия",
+      "region": "Европа",
+      "iso": [
+        "IRL"
+      ],
+      "city": "Ireland",
+      "start": "2026-11-08",
+      "end": "2026-11-15",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.scienceweek.ie/",
+      "references": [
+        {
+          "url": "https://www.scienceweek.ie/whats-on",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Выставка для всех возрастов.",
+      "mat": "Да. Семейное посещение предусмотрено, условия отдельных активностей уточнить.",
+      "osc": "Да. Семейное посещение предусмотрено, условия отдельных активностей уточнить.",
+      "format": "Национальная программа научных фестивалей, мастерских и выставок. Возраст и место зависят от площадки.",
+      "entry": "Найти конкретное событие в программе. Запись, возраст и билет сверять по карточке площадки.",
+      "gear": "",
+      "language": "Программа для посетителей опубликована на английском. Язык отдельных мероприятий уточнить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа для посетителей опубликована на английском. Язык отдельных мероприятий уточнить.",
+      "cost": "Условия и цены зависят от конкретного события.",
+      "level": "Национальная программа научных фестивалей, мастерских и выставок. Возраст и место зависят от площадки.",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Найти конкретное событие в программе. Запись, возраст и билет сверять по карточке площадки.",
+      "note": "",
+      "themes": [
+        "science",
+        "technology",
+        "engineering"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальная программа научных фестивалей, мастерских и выставок. Возраст и место зависят от площадки.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "visitor_policy": "family",
+      "adult_entry": "Условия и цены зависят от конкретного события.",
+      "visitor_policy_note": "Найти конкретное событие в программе. Запись, возраст и билет сверять по карточке площадки.",
+      "child_entry": "Выставка для всех возрастов.",
+      "exhibitor_note": "Национальная программа научных фестивалей, мастерских и выставок. Возраст и место зависят от площадки.",
+      "exhibition_tier": "regional",
+      "delivery_mode": "in_person",
+      "public_days": [],
+      "related_ids": [
+        "E621",
+        "E623"
+      ]
+    },
+    {
+      "id": "E621",
+      "title": "Galway Science & Technology Festival · Exhibition 2026",
+      "block": "События",
+      "country": "Ирландия",
+      "region": "Европа",
+      "iso": [
+        "IRL"
+      ],
+      "city": "University of Galway · Galway",
+      "start": "2026-11-08",
+      "end": "2026-11-08",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://galwayscience.ie/whats-on/",
+      "references": [
+        {
+          "url": "https://galwayscience.ie/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Выставка для всех возрастов.",
+      "mat": "Да. Семейное посещение предусмотрено, условия отдельных активностей уточнить.",
+      "osc": "Да. Семейное посещение предусмотрено, условия отдельных активностей уточнить.",
+      "format": "Ракеты, космос, инженерные экспонаты, медицинские технологии и интерактивные показы.",
+      "entry": "Выставка бесплатна. На отдельные шоу и мастерские нужны билеты. 30% мест сохраняли для очереди на месте.",
+      "gear": "",
+      "language": "Программа для посетителей опубликована на английском. Язык отдельных мероприятий уточнить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа для посетителей опубликована на английском. Язык отдельных мероприятий уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Ракеты, космос, инженерные экспонаты, медицинские технологии и интерактивные показы.",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Выставка бесплатна. На отдельные шоу и мастерские нужны билеты. 30% мест сохраняли для очереди на месте.",
+      "note": "",
+      "themes": [
+        "robotics",
+        "technology",
+        "engineering"
+      ],
+      "scope": "regional",
+      "importance_reason": "Ракеты, космос, инженерные экспонаты, медицинские технологии и интерактивные показы.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "visitor_policy": "family",
+      "adult_entry": "Бесплатно.",
+      "visitor_policy_note": "Выставка бесплатна. На отдельные шоу и мастерские нужны билеты. 30% мест сохраняли для очереди на месте.",
+      "child_entry": "Выставка для всех возрастов.",
+      "exhibitor_note": "Ракеты, космос, инженерные экспонаты, медицинские технологии и интерактивные показы.",
+      "exhibition_tier": "regional",
+      "delivery_mode": "in_person",
+      "public_days": [
+        {
+          "date": "2026-11-08",
+          "start_time": "10:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-08T10:00:00Z",
+          "end_utc": "2026-11-08T17:00:00Z",
+          "topic": "Galway Science & Technology Festival",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "E620",
+        "E623"
+      ]
+    },
+    {
+      "id": "E622",
+      "title": "Full STEAM Ahead! · Family Fun Day · Kells Library",
+      "block": "События",
+      "country": "Ирландия",
+      "region": "Европа",
+      "iso": [
+        "IRL"
+      ],
+      "city": "Kells Library · County Meath",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.meath.ie/council/council-services/libraries/library-events/full-steam-ahead-family-fun-day-at-kells-library",
+      "references": [
+        {
+          "url": "https://www.meath.ie/full-steam-ahead-2026",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Выставка для всех возрастов.",
+      "mat": "Да. Семейное посещение предусмотрено, условия отдельных активностей уточнить.",
+      "osc": "Да. Семейное посещение предусмотрено, условия отдельных активностей уточнить.",
+      "format": "Семейные игры и инженерные задачи в библиотеке. Отдельные мастерские требуют записи.",
+      "entry": "На семейную сессию можно прийти без записи. На Brickx и другие занятия правила отдельные.",
+      "gear": "",
+      "language": "Программа для посетителей опубликована на английском. Язык отдельных мероприятий уточнить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа для посетителей опубликована на английском. Язык отдельных мероприятий уточнить.",
+      "cost": "Цена не указана на прочитанной странице.",
+      "level": "Семейные игры и инженерные задачи в библиотеке. Отдельные мастерские требуют записи.",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "На семейную сессию можно прийти без записи. На Brickx и другие занятия правила отдельные.",
+      "note": "",
+      "themes": [
+        "engineering",
+        "makers",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Семейные игры и инженерные задачи в библиотеке. Отдельные мастерские требуют записи.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "visitor_policy": "family",
+      "adult_entry": "Цена не указана на прочитанной странице.",
+      "visitor_policy_note": "На семейную сессию можно прийти без записи. На Brickx и другие занятия правила отдельные.",
+      "child_entry": "Выставка для всех возрастов.",
+      "exhibitor_note": "Семейные игры и инженерные задачи в библиотеке. Отдельные мастерские требуют записи.",
+      "exhibition_tier": "regional",
+      "delivery_mode": "in_person",
+      "public_days": [
+        {
+          "date": "2026-11-14",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-14T10:00:00Z",
+          "end_utc": "2026-11-14T13:00:00Z",
+          "topic": "Family STEAM Saturday",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "L822",
+        "C4710"
+      ]
+    },
+    {
+      "id": "E623",
+      "title": "Science Week Demo Day · National Print Museum",
+      "block": "События",
+      "country": "Ирландия",
+      "region": "Европа",
+      "iso": [
+        "IRL"
+      ],
+      "city": "National Print Museum · Dublin",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.nationalprintmuseum.ie/whats-on/science-week-demo-day-2/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Уточнить. Допуск детей в правилах для посетителей не указан.",
+      "mat": "Условно. Сверить возраст, класс и порядок допуска.",
+      "osc": "Условно. Сверить возраст, класс и порядок допуска.",
+      "format": "Демонстрации Linotype, типографского пресса Wharfedale и машины для линовки Shaw.",
+      "entry": "Вход свободный без записи. Возрастную рекомендацию для показа оборудования уточнить.",
+      "gear": "",
+      "language": "Программа для посетителей опубликована на английском. Язык отдельных мероприятий уточнить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Программа для посетителей опубликована на английском. Язык отдельных мероприятий уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Демонстрации Linotype, типографского пресса Wharfedale и машины для линовки Shaw.",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Вход свободный без записи. Возрастную рекомендацию для показа оборудования уточнить.",
+      "note": "",
+      "themes": [
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Демонстрации Linotype, типографского пресса Wharfedale и машины для линовки Shaw.",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "visitor_policy": "family",
+      "adult_entry": "Бесплатно.",
+      "visitor_policy_note": "Вход свободный без записи. Возрастную рекомендацию для показа оборудования уточнить.",
+      "child_entry": "Уточнить. Допуск детей в правилах для посетителей не указан.",
+      "exhibitor_note": "Демонстрации Linotype, типографского пресса Wharfedale и машины для линовки Shaw.",
+      "exhibition_tier": "regional",
+      "delivery_mode": "in_person",
+      "public_days": [
+        {
+          "date": "2026-11-15",
+          "start_time": "14:30",
+          "end_time": "16:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-15T14:30:00Z",
+          "end_utc": "2026-11-15T16:00:00Z",
+          "topic": "Science Week Demo Day",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "E620",
+        "E621"
+      ]
+    },
+    {
+      "id": "C4710",
+      "title": "Full STEAM Ahead! · Design an Invention",
+      "block": "Соревнования",
+      "country": "Ирландия",
+      "region": "Европа",
+      "iso": [
+        "IRL"
+      ],
+      "city": "Meath County Library Service",
+      "start": "",
+      "end": "",
+      "period": "Приём с 31 октября по 28 ноября 2026, до 14:00 по местному времени.",
+      "deadline": "2026-11-28",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://www.meath.ie/full-steam-ahead-2026",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Возрастные категории 4–11 и 12–17 лет.",
+      "mat": "Условно. Возраст подходит. Проверить требование читательского билета Meath.",
+      "osc": "Условно. Возраст подходит. Проверить требование читательского билета Meath.",
+      "format": "",
+      "entry": "Отправить рисунок изобретения на A4 в филиал Meath. Нужен номер читательского билета. Допуск приезжающих семей уточнить.",
+      "gear": "",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Региональный этап",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Отправить рисунок изобретения на A4 в филиал Meath. Нужен номер читательского билета. Допуск приезжающих семей уточнить.",
+      "note": "",
+      "themes": [
+        "engineering",
+        "makers"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "deadline_utc": "2026-11-28T14:00:00Z",
+      "deadline_label": "Приём рисунков",
+      "related_ids": [
+        "E622"
+      ]
+    },
+    {
+      "id": "L822",
+      "title": "The Brickx Club · LEGO Engineering · Kells",
+      "block": "Лагеря",
+      "country": "Ирландия",
+      "region": "Европа",
+      "iso": [
+        "IRL"
+      ],
+      "city": "Kells Library · County Meath",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.meath.ie/council/events/full-steam-ahead-the-brickx-club-engineering",
+      "references": [
+        {
+          "url": "https://www.meath.ie/full-steam-ahead-2026",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "4–12 лет.",
+      "mat": "Да по возрасту. Подтвердить места и условия участия.",
+      "osc": "Да по возрасту. Подтвердить места и условия участия.",
+      "format": "Проектирование и сборка LEGO. Библиотека предоставляет детали.",
+      "entry": "Требуется предварительная запись. Подтвердить места и правила сопровождения.",
+      "gear": "",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "Цена не указана на прочитанной странице.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Требуется предварительная запись. Подтвердить места и правила сопровождения.",
+      "note": "Требуется предварительная запись. Подтвердить места и правила сопровождения.",
+      "themes": [
+        "engineering",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "Проектирование и сборка LEGO. Библиотека предоставляет детали.",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "10:00",
+          "end_time": "11:30",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-14T10:00:00Z",
+          "end_utc": "2026-11-14T11:30:00Z",
+          "topic": "The Brickx Club · LEGO Engineering · Kells",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "E622"
+      ]
+    },
+    {
+      "id": "L823",
+      "title": "The Brickx Club · LEGO Engineering · Slane",
+      "block": "Лагеря",
+      "country": "Ирландия",
+      "region": "Европа",
+      "iso": [
+        "IRL"
+      ],
+      "city": "Slane Library · County Meath",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.meath.ie/council/events/full-steam-ahead-the-brickx-club-engineering",
+      "references": [
+        {
+          "url": "https://www.meath.ie/full-steam-ahead-2026",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "4–12 лет.",
+      "mat": "Да по возрасту. Подтвердить места и условия участия.",
+      "osc": "Да по возрасту. Подтвердить места и условия участия.",
+      "format": "Проектирование и сборка LEGO. Библиотека предоставляет детали.",
+      "entry": "Требуется предварительная запись. Подтвердить места и правила сопровождения.",
+      "gear": "",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "Цена не указана на прочитанной странице.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Требуется предварительная запись. Подтвердить места и правила сопровождения.",
+      "note": "Требуется предварительная запись. Подтвердить места и правила сопровождения.",
+      "themes": [
+        "engineering",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "Проектирование и сборка LEGO. Библиотека предоставляет детали.",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "12:30",
+          "end_time": "14:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-14T12:30:00Z",
+          "end_utc": "2026-11-14T14:00:00Z",
+          "topic": "The Brickx Club · LEGO Engineering · Slane",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "E622"
+      ]
+    },
+    {
+      "id": "L824",
+      "title": "Science Week · Scratch · Enniscorthy",
+      "block": "Лагеря",
+      "country": "Ирландия",
+      "region": "Европа",
+      "iso": [
+        "IRL"
+      ],
+      "city": "Enniscorthy Library · County Wexford",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://wexfordcoco.libcal.com/event/4621150",
+      "references": [
+        {
+          "url": "https://wexfordcoco.libcal.com/event/4626805",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "8–12 лет.",
+      "mat": "Да по возрасту. Подтвердить места и условия участия.",
+      "osc": "Нет по возрасту. Сейчас вне указанного диапазона.",
+      "format": "Создание анимации круговорота воды в Scratch.",
+      "entry": "Нужна запись на ребёнка. Взрослый остаётся в библиотеке на время занятия.",
+      "gear": "",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "Цена не указана на прочитанной странице.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Нужна запись на ребёнка. Взрослый остаётся в библиотеке на время занятия.",
+      "note": "Страница помечена как очная, указывает библиотеку и взрослого на месте. Там же есть сообщение о ссылке на онлайн-встречу. Формат уточнить у библиотеки.",
+      "themes": [
+        "coding",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Создание анимации круговорота воды в Scratch.",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "11:00",
+          "end_time": "12:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-14T11:00:00Z",
+          "end_utc": "2026-11-14T12:00:00Z",
+          "topic": "Science Week · Scratch · Enniscorthy",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "E620"
+      ]
+    },
+    {
+      "id": "L825",
+      "title": "Science Week · Scratch · New Ross",
+      "block": "Лагеря",
+      "country": "Ирландия",
+      "region": "Европа",
+      "iso": [
+        "IRL"
+      ],
+      "city": "New Ross Library · County Wexford",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://wexfordcoco.libcal.com/event/4624344",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "8–12 лет.",
+      "mat": "Да по возрасту. Подтвердить места и условия участия.",
+      "osc": "Нет по возрасту. Сейчас вне указанного диапазона.",
+      "format": "Создание анимации круговорота воды в Scratch.",
+      "entry": "Нужна запись на ребёнка. Взрослый остаётся в библиотеке на время занятия.",
+      "gear": "",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "Цена не указана на прочитанной странице.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Нужна запись на ребёнка. Взрослый остаётся в библиотеке на время занятия.",
+      "note": "Нужна запись на ребёнка. Взрослый остаётся в библиотеке на время занятия.",
+      "themes": [
+        "coding",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Создание анимации круговорота воды в Scratch.",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-14T14:30:00Z",
+          "end_utc": "2026-11-14T15:30:00Z",
+          "topic": "Science Week · Scratch · New Ross",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "E620"
+      ]
     },
     {
       "id": "CP001-20270606-20270619",
@@ -714168,6 +715238,970 @@
       }
     },
     {
+      "id": "CP2048-20261109-20261207-remaining",
+      "block": "Лагеря",
+      "title": "Build Lab · Signal Makers · Monday · Signal Makers · Monday · 2026-11-09–2026-12-07",
+      "country": "Ирландия",
+      "region": "Европа",
+      "city": "St Canice’s Neighbourhood Hall · Kilkenny",
+      "start": "2026-11-09",
+      "end": "2026-12-07",
+      "period": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "8–12",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Нет по условиям выбранного трека",
+      "format": "Дневной формат без проживания.",
+      "entry": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+      "gear": "События в коде, поиск ошибок и программируемые решения для мини-гольфа.",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "2026/27 · 100 EUR за 4 оставшихся занятий на момент проверки. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+      "source": "https://www.buildlab.ie/groups/8e35fefa-80fd-4dcc-b731-d6f3cfc65afc",
+      "references": [
+        {
+          "url": "https://www.buildlab.ie/groups/8e35fefa-80fd-4dcc-b731-d6f3cfc65afc",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.buildlab.ie/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.buildlab.ie/policies",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит по возрасту. Подтвердить место и язык группы. Оскар: Нет по возрасту. Сейчас вне указанного диапазона. Доплаты: Льгота на второй абонемент для остатка сезона не подтверждена. Оплата: В сезонную цену входит невозвратный сбор 20 EUR. Скидка 20% на второго ребёнка действует при одном полном сезонном бронировании.",
+      "iso": [
+        "IRL"
+      ],
+      "themes": [
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "buildlab-signal-makers-mon",
+      "camp_programme_id": "CP2048",
+      "sessions": [
+        {
+          "date": "2026-11-09",
+          "start_time": "16:30",
+          "end_time": "18:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-09T16:30:00Z",
+          "end_utc": "2026-11-09T18:00:00Z",
+          "topic": "Signal Makers · Monday",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-23",
+          "start_time": "16:30",
+          "end_time": "18:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-23T16:30:00Z",
+          "end_utc": "2026-11-23T18:00:00Z",
+          "topic": "Signal Makers · Monday",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-30",
+          "start_time": "16:30",
+          "end_time": "18:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-30T16:30:00Z",
+          "end_utc": "2026-11-30T18:00:00Z",
+          "topic": "Signal Makers · Monday",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-07",
+          "start_time": "16:30",
+          "end_time": "18:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-12-07T16:30:00Z",
+          "end_utc": "2026-12-07T18:00:00Z",
+          "topic": "Signal Makers · Monday",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "operator_listed",
+        "label": "На странице организатора на момент проверки указано 10 мест. Наличие может измениться."
+      }
+    },
+    {
+      "id": "CP2049-20261110-20261124-remaining",
+      "block": "Лагеря",
+      "title": "Build Lab · Signal Makers · Tuesday · Signal Makers · Tuesday · 2026-11-10–2026-11-24",
+      "country": "Ирландия",
+      "region": "Европа",
+      "city": "St Canice’s Neighbourhood Hall · Kilkenny",
+      "start": "2026-11-10",
+      "end": "2026-11-24",
+      "period": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "8–12",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Нет по условиям выбранного трека",
+      "format": "Дневной формат без проживания.",
+      "entry": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+      "gear": "События в коде, поиск ошибок и программируемые решения для мини-гольфа.",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "2026/27 · 70 EUR за 2 оставшихся занятий на момент проверки. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+      "source": "https://www.buildlab.ie/groups/9ef2b6cf-aa92-480c-9511-d0d1a360c989",
+      "references": [
+        {
+          "url": "https://www.buildlab.ie/groups/9ef2b6cf-aa92-480c-9511-d0d1a360c989",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.buildlab.ie/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.buildlab.ie/policies",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит по возрасту. Подтвердить место и язык группы. Оскар: Нет по возрасту. Сейчас вне указанного диапазона. Доплаты: Льгота на второй абонемент для остатка сезона не подтверждена. Оплата: В сезонную цену входит невозвратный сбор 20 EUR. Скидка 20% на второго ребёнка действует при одном полном сезонном бронировании.",
+      "iso": [
+        "IRL"
+      ],
+      "themes": [
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "buildlab-signal-makers-tue",
+      "camp_programme_id": "CP2049",
+      "sessions": [
+        {
+          "date": "2026-11-10",
+          "start_time": "16:30",
+          "end_time": "18:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-10T16:30:00Z",
+          "end_utc": "2026-11-10T18:00:00Z",
+          "topic": "Signal Makers · Tuesday",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-24",
+          "start_time": "16:30",
+          "end_time": "18:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-24T16:30:00Z",
+          "end_utc": "2026-11-24T18:00:00Z",
+          "topic": "Signal Makers · Tuesday",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "operator_listed",
+        "label": "На странице организатора на момент проверки указано 8 мест. Наличие может измениться."
+      }
+    },
+    {
+      "id": "CP2050-20261111-20261125-remaining",
+      "block": "Лагеря",
+      "title": "Build Lab · Routine Rescue · Early Engineers · Routine Rescue · Early Engineers · 2026-11-11–2026-11-25",
+      "country": "Ирландия",
+      "region": "Европа",
+      "city": "St Canice’s Neighbourhood Hall · Kilkenny",
+      "start": "2026-11-11",
+      "end": "2026-11-25",
+      "period": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "5–7",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневной формат без проживания.",
+      "entry": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+      "gear": "Пошаговые алгоритмы и последовательности на моделях LEGO.",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "2026/27 · 70 EUR за 2 оставшихся занятий на момент проверки. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+      "source": "https://www.buildlab.ie/groups/f8b2c825-bf12-41be-be6c-5bfb606d0f59",
+      "references": [
+        {
+          "url": "https://www.buildlab.ie/groups/f8b2c825-bf12-41be-be6c-5bfb606d0f59",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.buildlab.ie/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.buildlab.ie/policies",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Нет по возрасту. Сейчас вне указанного диапазона. Оскар: Условно. Подходит по возрасту. Подтвердить место и язык группы. Доплаты: Льгота на второй абонемент для остатка сезона не подтверждена. Оплата: В сезонную цену входит невозвратный сбор 20 EUR. Скидка 20% на второго ребёнка действует при одном полном сезонном бронировании.",
+      "iso": [
+        "IRL"
+      ],
+      "themes": [
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "buildlab-routine-rescue",
+      "camp_programme_id": "CP2050",
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "start_time": "16:30",
+          "end_time": "18:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-11T16:30:00Z",
+          "end_utc": "2026-11-11T18:00:00Z",
+          "topic": "Routine Rescue · Early Engineers",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-25",
+          "start_time": "16:30",
+          "end_time": "18:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-25T16:30:00Z",
+          "end_utc": "2026-11-25T18:00:00Z",
+          "topic": "Routine Rescue · Early Engineers",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "operator_listed",
+        "label": "На странице организатора на момент проверки указано 6 мест. Наличие может измениться."
+      }
+    },
+    {
+      "id": "CP2051-20261111-20261125-remaining",
+      "block": "Лагеря",
+      "title": "Build Lab · Quest Builders · Core Builders · Quest Builders · Core Builders · 2026-11-11–2026-11-25",
+      "country": "Ирландия",
+      "region": "Европа",
+      "city": "Butler Community Center · Waterford",
+      "start": "2026-11-11",
+      "end": "2026-11-25",
+      "period": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "8–12",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Нет по условиям выбранного трека",
+      "format": "Дневной формат без проживания.",
+      "entry": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+      "gear": "Системы ввода и вывода, маршруты и сравнение аппаратной и программной реакции.",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "2026/27 · 90 EUR за 3 оставшихся занятий на момент проверки. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+      "source": "https://www.buildlab.ie/groups/ec8e6947-7137-431a-a3bc-4bd3559607e3",
+      "references": [
+        {
+          "url": "https://www.buildlab.ie/groups/ec8e6947-7137-431a-a3bc-4bd3559607e3",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.buildlab.ie/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.buildlab.ie/policies",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит по возрасту. Подтвердить место и язык группы. Оскар: Нет по возрасту. Сейчас вне указанного диапазона. Доплаты: Льгота на второй абонемент для остатка сезона не подтверждена. Оплата: В сезонную цену входит невозвратный сбор 20 EUR. Скидка 20% на второго ребёнка действует при одном полном сезонном бронировании.",
+      "iso": [
+        "IRL"
+      ],
+      "themes": [
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "buildlab-quest-builders",
+      "camp_programme_id": "CP2051",
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "start_time": "16:00",
+          "end_time": "17:30",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-11T16:00:00Z",
+          "end_utc": "2026-11-11T17:30:00Z",
+          "topic": "Quest Builders · Core Builders",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-18",
+          "start_time": "16:00",
+          "end_time": "17:30",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-18T16:00:00Z",
+          "end_utc": "2026-11-18T17:30:00Z",
+          "topic": "Quest Builders · Core Builders",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-25",
+          "start_time": "16:00",
+          "end_time": "17:30",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-25T16:00:00Z",
+          "end_utc": "2026-11-25T17:30:00Z",
+          "topic": "Quest Builders · Core Builders",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "operator_listed",
+        "label": "На странице организатора на момент проверки указано 2 мест. Наличие может измениться."
+      }
+    },
+    {
+      "id": "CP2052-20261112-20261126-remaining",
+      "block": "Лагеря",
+      "title": "Build Lab · Signal Makers · Thursday · Signal Makers · Thursday · 2026-11-12–2026-11-26",
+      "country": "Ирландия",
+      "region": "Европа",
+      "city": "St Canice’s Neighbourhood Hall · Kilkenny",
+      "start": "2026-11-12",
+      "end": "2026-11-26",
+      "period": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "8–12",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Нет по условиям выбранного трека",
+      "format": "Дневной формат без проживания.",
+      "entry": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+      "gear": "События в коде, поиск ошибок и программируемые решения для мини-гольфа.",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "2026/27 · 70 EUR за 2 оставшихся занятий на момент проверки. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+      "source": "https://www.buildlab.ie/groups/a1b0690a-6ca0-4588-b90a-1cdd387fb6c3",
+      "references": [
+        {
+          "url": "https://www.buildlab.ie/groups/a1b0690a-6ca0-4588-b90a-1cdd387fb6c3",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.buildlab.ie/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.buildlab.ie/policies",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит по возрасту. Подтвердить место и язык группы. Оскар: Нет по возрасту. Сейчас вне указанного диапазона. Доплаты: Льгота на второй абонемент для остатка сезона не подтверждена. Оплата: В сезонную цену входит невозвратный сбор 20 EUR. Скидка 20% на второго ребёнка действует при одном полном сезонном бронировании.",
+      "iso": [
+        "IRL"
+      ],
+      "themes": [
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "buildlab-signal-makers-thu",
+      "camp_programme_id": "CP2052",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "start_time": "16:30",
+          "end_time": "18:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-12T16:30:00Z",
+          "end_utc": "2026-11-12T18:00:00Z",
+          "topic": "Signal Makers · Thursday",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-26",
+          "start_time": "16:30",
+          "end_time": "18:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-26T16:30:00Z",
+          "end_utc": "2026-11-26T18:00:00Z",
+          "topic": "Signal Makers · Thursday",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "operator_listed",
+        "label": "На странице организатора на момент проверки указано 5 мест. Наличие может измениться."
+      }
+    },
+    {
+      "id": "CP2053-20261114-20261121-remaining",
+      "block": "Лагеря",
+      "title": "Build Lab · Signal Makers · Saturday · Signal Makers · Saturday · 2026-11-14–2026-11-21",
+      "country": "Ирландия",
+      "region": "Европа",
+      "city": "St Canice’s Neighbourhood Hall · Kilkenny",
+      "start": "2026-11-14",
+      "end": "2026-11-21",
+      "period": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "8–12",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Нет по условиям выбранного трека",
+      "format": "Дневной формат без проживания.",
+      "entry": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+      "gear": "События в коде, поиск ошибок и программируемые решения для мини-гольфа.",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "2026/27 · 70 EUR за 2 оставшихся занятий на момент проверки. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+      "source": "https://www.buildlab.ie/groups/81efb10e-6b1d-4ad0-91b6-c16f61e66909",
+      "references": [
+        {
+          "url": "https://www.buildlab.ie/groups/81efb10e-6b1d-4ad0-91b6-c16f61e66909",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.buildlab.ie/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.buildlab.ie/policies",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подходит по возрасту. Подтвердить место и язык группы. Оскар: Нет по возрасту. Сейчас вне указанного диапазона. Доплаты: Льгота на второй абонемент для остатка сезона не подтверждена. Оплата: В сезонную цену входит невозвратный сбор 20 EUR. Скидка 20% на второго ребёнка действует при одном полном сезонном бронировании.",
+      "iso": [
+        "IRL"
+      ],
+      "themes": [
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "buildlab-signal-makers-sat",
+      "camp_programme_id": "CP2053",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-14T10:30:00Z",
+          "end_utc": "2026-11-14T12:00:00Z",
+          "topic": "Signal Makers · Saturday",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-21T10:30:00Z",
+          "end_utc": "2026-11-21T12:00:00Z",
+          "topic": "Signal Makers · Saturday",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "operator_listed",
+        "label": "На странице организатора на момент проверки указано 8 мест. Наличие может измениться."
+      }
+    },
+    {
+      "id": "CP2054-20261114-20261205-remaining",
+      "block": "Лагеря",
+      "title": "Build Lab · Step-by-Step Builders · Early Engineers · Step-by-Step Builders · Early Engineers · 2026-11-14–2026-12-05",
+      "country": "Ирландия",
+      "region": "Европа",
+      "city": "Butler Community Center · Waterford",
+      "start": "2026-11-14",
+      "end": "2026-12-05",
+      "period": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "5–7",
+      "mat": "Нет по условиям выбранного трека",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневной формат без проживания.",
+      "entry": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+      "gear": "Программирование mTiny. Маршруты, циклы, музыка и интерактивные истории.",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "2026/27 · 100 EUR за 4 оставшихся занятий на момент проверки. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+      "source": "https://www.buildlab.ie/groups/6dcf49c2-1cfc-4b17-a728-800ac567c37d",
+      "references": [
+        {
+          "url": "https://www.buildlab.ie/groups/6dcf49c2-1cfc-4b17-a728-800ac567c37d",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.buildlab.ie/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://www.buildlab.ie/policies",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Нет по возрасту. Сейчас вне указанного диапазона. Оскар: Условно. Подходит по возрасту. Подтвердить место и язык группы. Доплаты: Льгота на второй абонемент для остатка сезона не подтверждена. Оплата: В сезонную цену входит невозвратный сбор 20 EUR. Скидка 20% на второго ребёнка действует при одном полном сезонном бронировании.",
+      "iso": [
+        "IRL"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "participation": "regular",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "buildlab-step-by-step",
+      "camp_programme_id": "CP2054",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "16:00",
+          "end_time": "17:30",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-14T16:00:00Z",
+          "end_utc": "2026-11-14T17:30:00Z",
+          "topic": "Step-by-Step Builders · Early Engineers",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "16:00",
+          "end_time": "17:30",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-21T16:00:00Z",
+          "end_utc": "2026-11-21T17:30:00Z",
+          "topic": "Step-by-Step Builders · Early Engineers",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-28",
+          "start_time": "16:00",
+          "end_time": "17:30",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-11-28T16:00:00Z",
+          "end_utc": "2026-11-28T17:30:00Z",
+          "topic": "Step-by-Step Builders · Early Engineers",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-05",
+          "start_time": "16:00",
+          "end_time": "17:30",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-12-05T16:00:00Z",
+          "end_utc": "2026-12-05T17:30:00Z",
+          "topic": "Step-by-Step Builders · Early Engineers",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "operator_listed",
+        "label": "На странице организатора на момент проверки указано 5 мест. Наличие может измениться."
+      }
+    },
+    {
+      "id": "CP2055-20261205-20261205-day",
+      "block": "Лагеря",
+      "title": "Junior Einsteins · Christmas Science · Galway · Christmas Science · Galway · 2026-12-05–2026-12-05",
+      "country": "Ирландия",
+      "region": "Европа",
+      "city": "Ballinfoile Castlegar Neighbourhood Centre · Galway",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "period": "Описание и форма указывают 14:00–16:00. В виджете отображается 02:00 AM в начале интервала. Перед поездкой перепроверить.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "5–12 лет.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневной формат без проживания.",
+      "entry": "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя.",
+      "gear": "Пигменты, слайм, модель снежного шара и эксперименты о холоде.",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "2026/27 · 26 EUR за ребёнка. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя.",
+      "source": "https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-5th-2-to-4pm-ballinfoile-castlegar-neighbourhood-centre-galway/",
+      "references": [
+        {
+          "url": "https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-5th-2-to-4pm-ballinfoile-castlegar-neighbourhood-centre-galway/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Подтвердить места и условия участия. Оскар: Да по возрасту. Подтвердить места и условия участия. Доплаты: Полная стоимость и наличие мест ещё не подтверждены. Оплата: Условия возврата и итоговый счёт уточнить до оплаты.",
+      "iso": [
+        "IRL"
+      ],
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "junior-einsteins-galway-bcnc-dec",
+      "camp_programme_id": "CP2055",
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-12-05T14:00:00Z",
+          "end_utc": "2026-12-05T16:00:00Z",
+          "topic": "Christmas Science · Galway",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "operator_listed",
+        "label": "На странице организатора на момент проверки указано 21 мест. Наличие может измениться."
+      }
+    },
+    {
+      "id": "CP2056-20261212-20261212-day",
+      "block": "Лагеря",
+      "title": "Junior Einsteins · Christmas Science · Tuam · Christmas Science · Tuam · 2026-12-12–2026-12-12",
+      "country": "Ирландия",
+      "region": "Европа",
+      "city": "Brú Bhríde Family Resource Centre · Tuam",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "period": "Короткая дневная смена с фиксированным временем.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "5–12 лет.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневной формат без проживания.",
+      "entry": "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя.",
+      "gear": "Пигменты, слайм, модель снежного шара и эксперименты о холоде.",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "2026/27 · 26 EUR за ребёнка. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя.",
+      "source": "https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-12-tuam/",
+      "references": [
+        {
+          "url": "https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-12-tuam/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Подтвердить места и условия участия. Оскар: Да по возрасту. Подтвердить места и условия участия. Доплаты: Полная стоимость и наличие мест ещё не подтверждены. Оплата: Условия возврата и итоговый счёт уточнить до оплаты.",
+      "iso": [
+        "IRL"
+      ],
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "junior-einsteins-tuam-dec",
+      "camp_programme_id": "CP2056",
+      "sessions": [
+        {
+          "date": "2026-12-12",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-12-12T10:00:00Z",
+          "end_utc": "2026-12-12T12:00:00Z",
+          "topic": "Christmas Science · Tuam",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "operator_listed",
+        "label": "На странице организатора на момент проверки указано 22 мест. Наличие может измениться."
+      }
+    },
+    {
+      "id": "CP2057-20261219-20261219-day",
+      "block": "Лагеря",
+      "title": "Junior Einsteins · Christmas Science · Glasnevin · Christmas Science · Glasnevin · 2026-12-19–2026-12-19",
+      "country": "Ирландия",
+      "region": "Европа",
+      "city": "Our Lady of Dolours Parish Centre · Glasnevin, Dublin",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "period": "Короткая дневная смена с фиксированным временем.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "5–11 лет. Группы 5–8 и 9–11 лет.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневной формат без проживания.",
+      "entry": "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя.",
+      "gear": "Хроматография, кристаллы, эксперименты с теплом и холодом.",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "2026/27 · 50 EUR за ребёнка. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя.",
+      "source": "https://junioreinsteinsscienceclub.com/events/christmas-science-camp-in-glasnevin-dublin-saturday-19th-december-2pm-5pm/",
+      "references": [
+        {
+          "url": "https://junioreinsteinsscienceclub.com/events/christmas-science-camp-in-glasnevin-dublin-saturday-19th-december-2pm-5pm/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Подтвердить места и условия участия. Оскар: Да по возрасту. Подтвердить места и условия участия. Доплаты: Взять перекус без орехов, напиток и дождевик. Оплата: Условия возврата и итоговый счёт уточнить до оплаты.",
+      "iso": [
+        "IRL"
+      ],
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "junior-einsteins-dublin-dec",
+      "camp_programme_id": "CP2057",
+      "sessions": [
+        {
+          "date": "2026-12-19",
+          "start_time": "14:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2026-12-19T14:00:00Z",
+          "end_utc": "2026-12-19T17:00:00Z",
+          "topic": "Christmas Science · Glasnevin",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "operator_listed",
+        "label": "На странице организатора на момент проверки указано 14 мест. Наличие может измениться."
+      }
+    },
+    {
+      "id": "CP2058-20270102-20270102-day",
+      "block": "Лагеря",
+      "title": "Junior Einsteins · Junior Astronauts · Glasnevin · Junior Astronauts · Glasnevin · 2027-01-02–2027-01-02",
+      "country": "Ирландия",
+      "region": "Европа",
+      "city": "Our Lady of Dolours Parish Centre · Glasnevin, Dublin",
+      "start": "2027-01-02",
+      "end": "2027-01-02",
+      "period": "Короткая дневная смена с фиксированным временем.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "5–11 лет. Группы 5–8 и 9–11 лет.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневной формат без проживания.",
+      "entry": "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя.",
+      "gear": "Проектирование ракет, аэродинамика и демонстрации по физике космоса.",
+      "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "cost": "2027 · 50 EUR за ребёнка. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя.",
+      "source": "https://junioreinsteinsscienceclub.com/events/junior-astronauts-space-science-camp-in-glasnevin-dublin-saturday-2nd-january-2pm-5pm/",
+      "references": [
+        {
+          "url": "https://junioreinsteinsscienceclub.com/events/junior-astronauts-space-science-camp-in-glasnevin-dublin-saturday-2nd-january-2pm-5pm/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Подтвердить места и условия участия. Оскар: Да по возрасту. Подтвердить места и условия участия. Доплаты: Взять перекус без орехов, напиток и дождевик. Оплата: Условия возврата и итоговый счёт уточнить до оплаты.",
+      "iso": [
+        "IRL"
+      ],
+      "themes": [
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "junior-einsteins-dublin-jan",
+      "camp_programme_id": "CP2058",
+      "sessions": [
+        {
+          "date": "2027-01-02",
+          "start_time": "14:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Dublin",
+          "start_utc": "2027-01-02T14:00:00Z",
+          "end_utc": "2027-01-02T17:00:00Z",
+          "topic": "Junior Astronauts · Glasnevin",
+          "ical_timed": true
+        }
+      ],
+      "availability": {
+        "status": "operator_listed",
+        "label": "На странице организатора на момент проверки указано 14 мест. Наличие может измениться."
+      }
+    },
+    {
       "id": "TC2027-SHOWCASE",
       "block": "События",
       "title": "The Tech Challenge 2027 · Game On! · показ инженерных проектов",
@@ -751180,7 +753214,7 @@
       "iso": "ERI",
       "wro": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "url": "",
-      "coverage": "Местный календарь ещё не исследован",
+      "coverage": "Частично: есть записи; полный местный аудит не завершён",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
       "network_route_ids": [
@@ -751825,7 +753859,7 @@
       "iso": "GNB",
       "wro": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "url": "",
-      "coverage": "Местный календарь ещё не исследован",
+      "coverage": "Частично: есть записи; полный местный аудит не завершён",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
       "network_route_ids": [
@@ -751923,7 +753957,7 @@
       "iso": "SHN",
       "wro": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "url": "",
-      "coverage": "Местный календарь ещё не исследован",
+      "coverage": "Частично: есть записи; полный местный аудит не завершён",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
       "network_route_ids": [],
@@ -752294,7 +754328,7 @@
       "iso": "BLM",
       "wro": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "url": "",
-      "coverage": "Местный календарь ещё не исследован",
+      "coverage": "Частично: есть записи; полный местный аудит не завершён",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
       "network_route_ids": [],
@@ -754755,7 +756789,7 @@
       "iso": "CCK",
       "wro": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "url": "",
-      "coverage": "Местный календарь ещё не исследован",
+      "coverage": "Частично: есть записи; полный местный аудит не завершён",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
       "network_route_ids": [],
@@ -757665,7 +759699,7 @@
       "checked": "2026-09-29"
     }
   ],
-  "source_count": 9216,
+  "source_count": 9254,
   "sources": [
     {
       "url": "https://www.torneoluva.com",
@@ -785623,7 +787657,7 @@
     {
       "title": "Robotique First Guadeloupe · BIOGLOW 2027",
       "url": "https://www.archipel-des-sciences.org/actualites/robotique-first/",
-      "checked": "2026-11-06",
+      "checked": "2026-11-08",
       "evidence": "Местное описание указывает 9–14 лет и минимум восемь недель подготовки; старое упоминание Mindstorms не заменяет актуальный технический регламент. Матвей подходит по указанному возрасту, Оскар младше 9. Локальные Explore 6–10, точный состав команды, иностранный / семейный приём и язык судей не подтверждены. Сезон BIOGLOW 2027 опубликован без дня местного турнира."
     },
     {
@@ -812859,6 +814893,234 @@
       "title": "Страница организатора или регламент категории.",
       "checked": "2026-11-08",
       "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.sainthelena.gov.sh/st-helena/government/portfolios/education-employment/primary-schools-ks1-ks2/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.sainthelena.gov.sh/app/uploads/2026/10/Primary-School-Term-Times-2026-2027-Revised.pdf",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.sainthelena.gov.sh/documents/st-helena-digital-strategy/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.det.wa.edu.au/schoolsonline/overview.do?schoolID=4157",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://shabait.com/amp/2025/04/09/the-innovation-hub-a-center-for-creatinity-and-progress/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://shabait.com/2026/05/22/national-innovation-and-creativity-display-and-competition/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://shabait.com/2026/07/21/innovation-and-creativity-displays-at-national-festival/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://shabait.com/2026/07/10/national-festival-2026-to-commence-on-18-july/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://shabait.com/amp/2026/07/27/national-festival-2026-colorfully-concludes/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://shabait.com/amp/2026/09/07/afro-verse-where-eritrean-heritage-meets-virtual-reality/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://pedagogie.ac-guadeloupe.fr/sites/default/files/File/jcafafa/presentation_fll_saison_9_2024.pdf",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://form.jotform.com/241038246671556",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.scienceweek.ie/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.scienceweek.ie/whats-on",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://galwayscience.ie/whats-on/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://galwayscience.ie/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.meath.ie/council/council-services/libraries/library-events/full-steam-ahead-family-fun-day-at-kells-library",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.meath.ie/full-steam-ahead-2026",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.nationalprintmuseum.ie/whats-on/science-week-demo-day-2/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.meath.ie/council/events/full-steam-ahead-the-brickx-club-engineering",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://wexfordcoco.libcal.com/event/4621150",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://wexfordcoco.libcal.com/event/4626805",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://wexfordcoco.libcal.com/event/4624344",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.buildlab.ie/groups/8e35fefa-80fd-4dcc-b731-d6f3cfc65afc",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.buildlab.ie/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.buildlab.ie/policies",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.buildlab.ie/groups/9ef2b6cf-aa92-480c-9511-d0d1a360c989",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.buildlab.ie/groups/f8b2c825-bf12-41be-be6c-5bfb606d0f59",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.buildlab.ie/groups/ec8e6947-7137-431a-a3bc-4bd3559607e3",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.buildlab.ie/groups/a1b0690a-6ca0-4588-b90a-1cdd387fb6c3",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.buildlab.ie/groups/81efb10e-6b1d-4ad0-91b6-c16f61e66909",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://www.buildlab.ie/groups/6dcf49c2-1cfc-4b17-a728-800ac567c37d",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-5th-2-to-4pm-ballinfoile-castlegar-neighbourhood-centre-galway/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-12-tuam/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://junioreinsteinsscienceclub.com/events/christmas-science-camp-in-glasnevin-dublin-saturday-19th-december-2pm-5pm/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://junioreinsteinsscienceclub.com/events/junior-astronauts-space-science-camp-in-glasnevin-dublin-saturday-2nd-january-2pm-5pm/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://norfolkislandcs.eq.edu.au/curriculum/primary",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://norfolkislandcs.eq.edu.au/calendar-and-news/events-calendar",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
     }
   ],
   "wro_members": 108,
@@ -814205,11 +816467,11 @@
       "iso": "ERI",
       "country": "Эритрея",
       "region": "Африка",
-      "research_status": "Местный календарь ещё не исследован",
-      "competitions": 0,
-      "exhibitions": 0,
-      "camps": 0,
-      "dated": 0,
+      "research_status": "Частично: есть записи; полный местный аудит не завершён",
+      "competitions": 1,
+      "exhibitions": 2,
+      "camps": 1,
+      "dated": 3,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
       "network_routes": 1,
@@ -814751,8 +817013,8 @@
       "iso": "GNB",
       "country": "Гвинея-Бисау",
       "region": "Африка",
-      "research_status": "Местный календарь ещё не исследован",
-      "competitions": 0,
+      "research_status": "Частично: есть записи; полный местный аудит не завершён",
+      "competitions": 1,
       "exhibitions": 0,
       "camps": 0,
       "dated": 0,
@@ -814835,10 +817097,10 @@
       "iso": "SHN",
       "country": "Остров Святой Елены",
       "region": "Африка",
-      "research_status": "Местный календарь ещё не исследован",
+      "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 0,
       "exhibitions": 0,
-      "camps": 0,
+      "camps": 1,
       "dated": 0,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
@@ -815074,10 +817336,10 @@
       "country": "Гваделупа",
       "region": "Карибский регион",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 3,
+      "competitions": 4,
       "exhibitions": 1,
       "camps": 1,
-      "dated": 3,
+      "dated": 4,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
       "network_routes": 1,
@@ -815157,11 +817419,11 @@
       "iso": "BLM",
       "country": "Сен-Бартелеми",
       "region": "Карибский регион",
-      "research_status": "Местный календарь ещё не исследован",
-      "competitions": 0,
+      "research_status": "Частично: есть записи; полный местный аудит не завершён",
+      "competitions": 1,
       "exhibitions": 0,
       "camps": 0,
-      "dated": 0,
+      "dated": 1,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
       "network_routes": 0,
@@ -816642,10 +818904,10 @@
       "country": "Ирландия",
       "region": "Европа",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 7,
-      "exhibitions": 4,
-      "camps": 2,
-      "dated": 13,
+      "competitions": 8,
+      "exhibitions": 8,
+      "camps": 17,
+      "dated": 32,
       "organizer": "Camden Education Trust",
       "organizer_url": "https://camden.education",
       "network_routes": 4,
@@ -817145,10 +819407,10 @@
       "iso": "CCK",
       "country": "Кокосовых (Килинг) островов",
       "region": "Океания",
-      "research_status": "Местный календарь ещё не исследован",
+      "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 0,
       "exhibitions": 0,
-      "camps": 0,
+      "camps": 1,
       "dated": 0,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
@@ -817536,7 +819798,7 @@
   ],
   "coverage_summary": {
     "countries": 249,
-    "countries_with_records": 234,
+    "countries_with_records": 239,
     "fully_audited_countries": 0,
     "unmapped_global_records": 179
   },
@@ -847539,14 +849801,14 @@
       "fully_audited_countries": 0
     },
     "counts": {
-      "cards": 10465,
-      "competition_cards": 4705,
-      "event_cards": 617,
-      "camp_cards": 5143,
+      "cards": 10493,
+      "competition_cards": 4709,
+      "event_cards": 623,
+      "camp_cards": 5161,
       "league_profiles": 303,
-      "major_exhibition_cards": 518,
+      "major_exhibition_cards": 524,
       "vex_cards": 814,
-      "countries_with_records": 234,
+      "countries_with_records": 239,
       "fully_audited_countries": 0
     },
     "continents": [
@@ -847557,9 +849819,9 @@
           "Центральная Америка",
           "Карибский регион"
         ],
-        "total": 3432,
-        "countries_with_records": 40,
-        "competitions": 1937,
+        "total": 3433,
+        "countries_with_records": 41,
+        "competitions": 1938,
         "events": 169,
         "major_exhibitions": 128,
         "camps": 1326,
@@ -847585,12 +849847,12 @@
         "regions": [
           "Европа"
         ],
-        "total": 2231,
+        "total": 2251,
         "countries_with_records": 54,
-        "competitions": 611,
-        "events": 149,
-        "major_exhibitions": 124,
-        "camps": 1471,
+        "competitions": 612,
+        "events": 153,
+        "major_exhibitions": 128,
+        "camps": 1486,
         "status": "Частично исследовано",
         "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
       },
@@ -847599,12 +849861,12 @@
         "regions": [
           "Африка"
         ],
-        "total": 411,
-        "countries_with_records": 55,
-        "competitions": 245,
-        "events": 43,
-        "major_exhibitions": 36,
-        "camps": 123,
+        "total": 417,
+        "countries_with_records": 58,
+        "competitions": 247,
+        "events": 45,
+        "major_exhibitions": 38,
+        "camps": 125,
         "status": "Частично исследовано",
         "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
       },
@@ -847627,12 +849889,12 @@
         "regions": [
           "Океания"
         ],
-        "total": 535,
-        "countries_with_records": 25,
+        "total": 536,
+        "countries_with_records": 26,
         "competitions": 167,
         "events": 34,
         "major_exhibitions": 30,
-        "camps": 334,
+        "camps": 335,
         "status": "Частично исследовано",
         "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
       }
@@ -862010,6 +864272,72 @@
         "new": false
       },
       {
+        "id": "E618",
+        "name": "National Eritrean Festival 2026 · Innovation & AI",
+        "country": "Эритрея",
+        "region": "Африка",
+        "start": "2026-07-18",
+        "end": "2026-07-26",
+        "visitor_policy": "family",
+        "source": "https://shabait.com/2026/07/21/innovation-and-creativity-displays-at-national-festival/",
+        "new": false
+      },
+      {
+        "id": "E619",
+        "name": "Afro Verse · AI & VR demo 2026",
+        "country": "Эритрея",
+        "region": "Африка",
+        "start": "2026-08-27",
+        "end": "2026-08-27",
+        "visitor_policy": "confirm_children",
+        "source": "https://shabait.com/amp/2026/09/07/afro-verse-where-eritrean-heritage-meets-virtual-reality/",
+        "new": false
+      },
+      {
+        "id": "E620",
+        "name": "Research Ireland · Science Week 2026",
+        "country": "Ирландия",
+        "region": "Европа",
+        "start": "2026-11-08",
+        "end": "2026-11-15",
+        "visitor_policy": "family",
+        "source": "https://www.scienceweek.ie/",
+        "new": false
+      },
+      {
+        "id": "E621",
+        "name": "Galway Science & Technology Festival · Exhibition 2026",
+        "country": "Ирландия",
+        "region": "Европа",
+        "start": "2026-11-08",
+        "end": "2026-11-08",
+        "visitor_policy": "family",
+        "source": "https://galwayscience.ie/whats-on/",
+        "new": false
+      },
+      {
+        "id": "E622",
+        "name": "Full STEAM Ahead! · Family Fun Day · Kells Library",
+        "country": "Ирландия",
+        "region": "Европа",
+        "start": "2026-11-14",
+        "end": "2026-11-14",
+        "visitor_policy": "family",
+        "source": "https://www.meath.ie/council/council-services/libraries/library-events/full-steam-ahead-family-fun-day-at-kells-library",
+        "new": false
+      },
+      {
+        "id": "E623",
+        "name": "Science Week Demo Day · National Print Museum",
+        "country": "Ирландия",
+        "region": "Европа",
+        "start": "2026-11-15",
+        "end": "2026-11-15",
+        "visitor_policy": "family",
+        "source": "https://www.nationalprintmuseum.ie/whats-on/science-week-demo-day-2/",
+        "new": false
+      },
+      {
         "id": "E240",
         "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
         "country": "Польша",
@@ -864427,9 +866755,9 @@
         }
       ],
       "counts": {
-        "records": 5143,
-        "holiday": 4747,
-        "regular": 170,
+        "records": 5161,
+        "holiday": 4755,
+        "regular": 180,
         "self_paced_materials": 4,
         "boarding": 1038,
         "en_es_instruction": 1595,
@@ -864440,7 +866768,7 @@
         "language_lessons": 414,
         "camp_life_language": 228,
         "language_unclassified": 137,
-        "countries": 147
+        "countries": 150
       },
       "validation": {
         "version": 51,
@@ -867246,9 +869574,9 @@
       }
     ],
     "counts": {
-      "records": 5143,
-      "holiday": 4747,
-      "regular": 170,
+      "records": 5161,
+      "holiday": 4755,
+      "regular": 180,
       "self_paced_materials": 4,
       "boarding": 1038,
       "en_es_instruction": 1595,
@@ -867259,7 +869587,7 @@
       "language_lessons": 414,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 147
+      "countries": 150
     },
     "validation": {
       "version": 51,
@@ -892683,15 +895011,15 @@
       "school_grades_known": false
     },
     "counts": {
-      "dossiers": 2044,
-      "countries": 127,
+      "dossiers": 2058,
+      "countries": 130,
       "swiss": 137,
       "by_status": {
         "published_2026_27": 289,
         "published_2027": 552,
         "partial_2027": 145,
-        "next_unannounced": 426,
-        "published_2026": 393,
+        "next_unannounced": 429,
+        "published_2026": 404,
         "partial_2026_27": 38,
         "partial_2026": 24,
         "archive_next_unannounced": 147,
@@ -892701,7 +895029,7 @@
         "announced_dates_programme_pending": 5,
         "confirmed_2027": 1
       },
-      "source_urls": 2944
+      "source_urls": 2962
     },
     "countries": [
       {
@@ -892882,7 +895210,7 @@
       },
       {
         "country": "Ирландия",
-        "count": 2
+        "count": 13
       },
       {
         "country": "Испания",
@@ -892923,6 +895251,10 @@
       {
         "country": "Китай, Специальный административный район Гонконг",
         "count": 57
+      },
+      {
+        "country": "Кокосовых (Килинг) островов",
+        "count": 1
       },
       {
         "country": "Колумбия",
@@ -893030,6 +895362,10 @@
       },
       {
         "country": "Оман",
+        "count": 1
+      },
+      {
+        "country": "Остров Святой Елены",
         "count": 1
       },
       {
@@ -893186,6 +895522,10 @@
       },
       {
         "country": "Эквадор",
+        "count": 1
+      },
+      {
+        "country": "Эритрея",
         "count": 1
       },
       {
@@ -1244601,6 +1246941,1643 @@
           "E559"
         ],
         "calendar_links": []
+      },
+      {
+        "id": "CP2045",
+        "slug": "shn-primary-ict-design",
+        "provider": "St Helena · Primary ICT & Design Technology",
+        "country": "Остров Святой Елены",
+        "iso": "SHN",
+        "place": "St Paul’s / Longwood · St Helena",
+        "age": "EYFS / KS1 / KS2",
+        "programme": "Начальная программа Великобритании включает ICT и Design Technology. Стратегия 2017 года описывает обучение программированию в начальной школе.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "next_unannounced",
+          "label": "Следующий открытый набор и даты не опубликованы в проверенных источниках.",
+          "sessions": [],
+          "session_details": [],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "amount": null,
+          "currency": "",
+          "unit": "programme",
+          "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+          "included": "",
+          "extras": "Программа для зачисленных учеников. Условия доступа семьи, расписание и стоимость уточнить в школе.",
+          "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "unknown",
+            "detail": "Условно. Участие через местную школу, фактический класс и порядок зачисления проверить."
+          },
+          "oscar": {
+            "status": "unknown",
+            "detail": "Условно. Участие через местную школу, фактический класс и порядок зачисления проверить."
+          }
+        },
+        "editorial_reason": "Следующий открытый набор и даты не опубликованы в проверенных источниках.",
+        "shortlist": [],
+        "questions": [
+          "Программа для зачисленных учеников. Условия доступа семьи, расписание и стоимость уточнить в школе."
+        ],
+        "sources": [
+          {
+            "url": "https://www.sainthelena.gov.sh/st-helena/government/portfolios/education-employment/primary-schools-ks1-ks2/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.sainthelena.gov.sh/app/uploads/2026/10/Primary-School-Term-Times-2026-2027-Revised.pdf",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.sainthelena.gov.sh/documents/st-helena-digital-strategy/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "technology",
+          "coding"
+        ],
+        "programme_type": "school_route",
+        "catalog_participation": "regular",
+        "related_event_ids": [
+          "L819"
+        ],
+        "calendar_links": []
+      },
+      {
+        "id": "CP2046",
+        "slug": "cck-school-stem",
+        "provider": "Cocos Islands District High School · STEM",
+        "country": "Кокосовых (Килинг) островов",
+        "iso": "CCK",
+        "place": "Home Island / West Island · Cocos (Keeling) Islands",
+        "age": "Kindergarten–Year 6 в обоих кампусах. Years 7–10 на West Island.",
+        "programme": "Министерство образования указывает STEM среди специализированных школьных программ. Темы робототехники и расписание по классам не опубликованы.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "next_unannounced",
+          "label": "Следующий открытый набор и даты не опубликованы в проверенных источниках.",
+          "sessions": [],
+          "session_details": [],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "amount": null,
+          "currency": "",
+          "unit": "programme",
+          "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+          "included": "",
+          "extras": "Программа для зачисленных учеников. Условия доступа семьи, расписание и стоимость уточнить в школе.",
+          "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "unknown",
+            "detail": "Условно. Участие через местную школу, фактический класс и порядок зачисления проверить."
+          },
+          "oscar": {
+            "status": "unknown",
+            "detail": "Условно. Участие через местную школу, фактический класс и порядок зачисления проверить."
+          }
+        },
+        "editorial_reason": "Следующий открытый набор и даты не опубликованы в проверенных источниках.",
+        "shortlist": [],
+        "questions": [
+          "Программа для зачисленных учеников. Условия доступа семьи, расписание и стоимость уточнить в школе."
+        ],
+        "sources": [
+          {
+            "url": "https://www.det.wa.edu.au/schoolsonline/overview.do?schoolID=4157",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "technology",
+          "science"
+        ],
+        "programme_type": "school_route",
+        "catalog_participation": "regular",
+        "related_event_ids": [
+          "L820"
+        ],
+        "calendar_links": []
+      },
+      {
+        "id": "CP2047",
+        "slug": "eri-nueys-youth-hub",
+        "provider": "Youth Innovation & Entrepreneurship Hub · NUEYS",
+        "country": "Эритрея",
+        "iso": "ERI",
+        "place": "Asmara",
+        "age": "В отчёте указаны главным образом Grades 9–11.",
+        "programme": "Курсы электроники, Python, Scratch, робототехники и пайки. В описании 3 уровня по 6 месяцев.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Язык судейства или преподавателя уточнить отдельно.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "next_unannounced",
+          "label": "Следующий открытый набор и даты не опубликованы в проверенных источниках.",
+          "sessions": [],
+          "session_details": [],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "amount": null,
+          "currency": "ERN",
+          "unit": "programme",
+          "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+          "included": "",
+          "extras": "Программа для зачисленных учеников. Условия доступа семьи, расписание и стоимость уточнить в школе.",
+          "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "unknown",
+            "detail": "Условно. Сверить возраст, класс и порядок допуска."
+          },
+          "oscar": {
+            "status": "unknown",
+            "detail": "Условно. Сверить возраст, класс и порядок допуска."
+          }
+        },
+        "editorial_reason": "Следующий открытый набор и даты не опубликованы в проверенных источниках.",
+        "shortlist": [],
+        "questions": [
+          "Перед записью сверить допуск, язык и наличие места.",
+          "Условия возврата и итоговый счёт уточнить до оплаты."
+        ],
+        "sources": [
+          {
+            "url": "https://shabait.com/amp/2025/04/09/the-innovation-hub-a-center-for-creatinity-and-progress/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "robotics",
+          "coding",
+          "engineering"
+        ],
+        "programme_type": "school_route",
+        "catalog_participation": "regular",
+        "related_event_ids": [
+          "L821"
+        ],
+        "calendar_links": []
+      },
+      {
+        "id": "CP2048",
+        "slug": "buildlab-signal-makers-mon",
+        "provider": "Build Lab · Signal Makers · Monday",
+        "country": "Ирландия",
+        "iso": "IRL",
+        "place": "St Canice’s Neighbourhood Hall · Kilkenny",
+        "age": "8–12",
+        "programme": "События в коде, поиск ошибок и программируемые решения для мини-гольфа.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "published_2026",
+          "label": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+          "sessions": [
+            [
+              "2026-11-09",
+              "2026-12-07"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "remaining",
+              "start": "2026-11-09",
+              "end": "2026-12-07",
+              "label": "Signal Makers · Monday",
+              "price": "100 EUR за 4 оставшихся занятий на момент проверки.",
+              "source": "https://www.buildlab.ie/groups/8e35fefa-80fd-4dcc-b731-d6f3cfc65afc",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "operator_listed",
+                "label": "На странице организатора на момент проверки указано 10 мест. Наличие может измениться."
+              },
+              "sessions": [
+                {
+                  "date": "2026-11-09",
+                  "start_time": "16:30",
+                  "end_time": "18:00",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-09T16:30:00Z",
+                  "end_utc": "2026-11-09T18:00:00Z",
+                  "topic": "Signal Makers · Monday",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-11-23",
+                  "start_time": "16:30",
+                  "end_time": "18:00",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-23T16:30:00Z",
+                  "end_utc": "2026-11-23T18:00:00Z",
+                  "topic": "Signal Makers · Monday",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-11-30",
+                  "start_time": "16:30",
+                  "end_time": "18:00",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-30T16:30:00Z",
+                  "end_utc": "2026-11-30T18:00:00Z",
+                  "topic": "Signal Makers · Monday",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-12-07",
+                  "start_time": "16:30",
+                  "end_time": "18:00",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-12-07T16:30:00Z",
+                  "end_utc": "2026-12-07T18:00:00Z",
+                  "topic": "Signal Makers · Monday",
+                  "ical_timed": true
+                }
+              ],
+              "entry": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+              "questions": [
+                "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт."
+              ]
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "amount": 100,
+          "currency": "EUR",
+          "unit": "per_child_course",
+          "label": "100 EUR за 4 оставшихся занятий на момент проверки.",
+          "included": "Наборы и материалы включены.",
+          "extras": "Льгота на второй абонемент для остатка сезона не подтверждена.",
+          "deposit": "В сезонную цену входит невозвратный сбор 20 EUR. Скидка 20% на второго ребёнка действует при одном полном сезонном бронировании."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Условно. Подходит по возрасту. Подтвердить место и язык группы."
+          },
+          "oscar": {
+            "status": "not_eligible",
+            "detail": "Нет по возрасту. Сейчас вне указанного диапазона."
+          }
+        },
+        "editorial_reason": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+        "shortlist": [],
+        "questions": [
+          "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт."
+        ],
+        "sources": [
+          {
+            "url": "https://www.buildlab.ie/groups/8e35fefa-80fd-4dcc-b731-d6f3cfc65afc",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.buildlab.ie/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.buildlab.ie/policies",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "coding",
+          "games",
+          "engineering"
+        ],
+        "programme_type": "regular_course",
+        "catalog_participation": "regular",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2026-11-09",
+            "end": "2026-12-07",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP2048-20261109-20261207-remaining"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CP2049",
+        "slug": "buildlab-signal-makers-tue",
+        "provider": "Build Lab · Signal Makers · Tuesday",
+        "country": "Ирландия",
+        "iso": "IRL",
+        "place": "St Canice’s Neighbourhood Hall · Kilkenny",
+        "age": "8–12",
+        "programme": "События в коде, поиск ошибок и программируемые решения для мини-гольфа.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "published_2026",
+          "label": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+          "sessions": [
+            [
+              "2026-11-10",
+              "2026-11-24"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "remaining",
+              "start": "2026-11-10",
+              "end": "2026-11-24",
+              "label": "Signal Makers · Tuesday",
+              "price": "70 EUR за 2 оставшихся занятий на момент проверки.",
+              "source": "https://www.buildlab.ie/groups/9ef2b6cf-aa92-480c-9511-d0d1a360c989",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "operator_listed",
+                "label": "На странице организатора на момент проверки указано 8 мест. Наличие может измениться."
+              },
+              "sessions": [
+                {
+                  "date": "2026-11-10",
+                  "start_time": "16:30",
+                  "end_time": "18:00",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-10T16:30:00Z",
+                  "end_utc": "2026-11-10T18:00:00Z",
+                  "topic": "Signal Makers · Tuesday",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-11-24",
+                  "start_time": "16:30",
+                  "end_time": "18:00",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-24T16:30:00Z",
+                  "end_utc": "2026-11-24T18:00:00Z",
+                  "topic": "Signal Makers · Tuesday",
+                  "ical_timed": true
+                }
+              ],
+              "entry": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+              "questions": [
+                "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт."
+              ]
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "amount": 70,
+          "currency": "EUR",
+          "unit": "per_child_course",
+          "label": "70 EUR за 2 оставшихся занятий на момент проверки.",
+          "included": "Наборы и материалы включены.",
+          "extras": "Льгота на второй абонемент для остатка сезона не подтверждена.",
+          "deposit": "В сезонную цену входит невозвратный сбор 20 EUR. Скидка 20% на второго ребёнка действует при одном полном сезонном бронировании."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Условно. Подходит по возрасту. Подтвердить место и язык группы."
+          },
+          "oscar": {
+            "status": "not_eligible",
+            "detail": "Нет по возрасту. Сейчас вне указанного диапазона."
+          }
+        },
+        "editorial_reason": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+        "shortlist": [],
+        "questions": [
+          "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт."
+        ],
+        "sources": [
+          {
+            "url": "https://www.buildlab.ie/groups/9ef2b6cf-aa92-480c-9511-d0d1a360c989",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.buildlab.ie/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.buildlab.ie/policies",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "coding",
+          "games",
+          "engineering"
+        ],
+        "programme_type": "regular_course",
+        "catalog_participation": "regular",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2026-11-10",
+            "end": "2026-11-24",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP2049-20261110-20261124-remaining"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CP2050",
+        "slug": "buildlab-routine-rescue",
+        "provider": "Build Lab · Routine Rescue · Early Engineers",
+        "country": "Ирландия",
+        "iso": "IRL",
+        "place": "St Canice’s Neighbourhood Hall · Kilkenny",
+        "age": "5–7",
+        "programme": "Пошаговые алгоритмы и последовательности на моделях LEGO.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "published_2026",
+          "label": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+          "sessions": [
+            [
+              "2026-11-11",
+              "2026-11-25"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "remaining",
+              "start": "2026-11-11",
+              "end": "2026-11-25",
+              "label": "Routine Rescue · Early Engineers",
+              "price": "70 EUR за 2 оставшихся занятий на момент проверки.",
+              "source": "https://www.buildlab.ie/groups/f8b2c825-bf12-41be-be6c-5bfb606d0f59",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "operator_listed",
+                "label": "На странице организатора на момент проверки указано 6 мест. Наличие может измениться."
+              },
+              "sessions": [
+                {
+                  "date": "2026-11-11",
+                  "start_time": "16:30",
+                  "end_time": "18:00",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-11T16:30:00Z",
+                  "end_utc": "2026-11-11T18:00:00Z",
+                  "topic": "Routine Rescue · Early Engineers",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-11-25",
+                  "start_time": "16:30",
+                  "end_time": "18:00",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-25T16:30:00Z",
+                  "end_utc": "2026-11-25T18:00:00Z",
+                  "topic": "Routine Rescue · Early Engineers",
+                  "ical_timed": true
+                }
+              ],
+              "entry": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+              "questions": [
+                "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт."
+              ]
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "amount": 70,
+          "currency": "EUR",
+          "unit": "per_child_course",
+          "label": "70 EUR за 2 оставшихся занятий на момент проверки.",
+          "included": "Наборы и материалы включены.",
+          "extras": "Льгота на второй абонемент для остатка сезона не подтверждена.",
+          "deposit": "В сезонную цену входит невозвратный сбор 20 EUR. Скидка 20% на второго ребёнка действует при одном полном сезонном бронировании."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "not_eligible",
+            "detail": "Нет по возрасту. Сейчас вне указанного диапазона."
+          },
+          "oscar": {
+            "status": "conditional",
+            "detail": "Условно. Подходит по возрасту. Подтвердить место и язык группы."
+          }
+        },
+        "editorial_reason": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+        "shortlist": [],
+        "questions": [
+          "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт."
+        ],
+        "sources": [
+          {
+            "url": "https://www.buildlab.ie/groups/f8b2c825-bf12-41be-be6c-5bfb606d0f59",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.buildlab.ie/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.buildlab.ie/policies",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "coding",
+          "engineering"
+        ],
+        "programme_type": "regular_course",
+        "catalog_participation": "regular",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2026-11-11",
+            "end": "2026-11-25",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP2050-20261111-20261125-remaining"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CP2051",
+        "slug": "buildlab-quest-builders",
+        "provider": "Build Lab · Quest Builders · Core Builders",
+        "country": "Ирландия",
+        "iso": "IRL",
+        "place": "Butler Community Center · Waterford",
+        "age": "8–12",
+        "programme": "Системы ввода и вывода, маршруты и сравнение аппаратной и программной реакции.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "published_2026",
+          "label": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+          "sessions": [
+            [
+              "2026-11-11",
+              "2026-11-25"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "remaining",
+              "start": "2026-11-11",
+              "end": "2026-11-25",
+              "label": "Quest Builders · Core Builders",
+              "price": "90 EUR за 3 оставшихся занятий на момент проверки.",
+              "source": "https://www.buildlab.ie/groups/ec8e6947-7137-431a-a3bc-4bd3559607e3",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "operator_listed",
+                "label": "На странице организатора на момент проверки указано 2 мест. Наличие может измениться."
+              },
+              "sessions": [
+                {
+                  "date": "2026-11-11",
+                  "start_time": "16:00",
+                  "end_time": "17:30",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-11T16:00:00Z",
+                  "end_utc": "2026-11-11T17:30:00Z",
+                  "topic": "Quest Builders · Core Builders",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-11-18",
+                  "start_time": "16:00",
+                  "end_time": "17:30",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-18T16:00:00Z",
+                  "end_utc": "2026-11-18T17:30:00Z",
+                  "topic": "Quest Builders · Core Builders",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-11-25",
+                  "start_time": "16:00",
+                  "end_time": "17:30",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-25T16:00:00Z",
+                  "end_utc": "2026-11-25T17:30:00Z",
+                  "topic": "Quest Builders · Core Builders",
+                  "ical_timed": true
+                }
+              ],
+              "entry": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+              "questions": [
+                "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт."
+              ]
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "amount": 90,
+          "currency": "EUR",
+          "unit": "per_child_course",
+          "label": "90 EUR за 3 оставшихся занятий на момент проверки.",
+          "included": "Наборы и материалы включены.",
+          "extras": "Льгота на второй абонемент для остатка сезона не подтверждена.",
+          "deposit": "В сезонную цену входит невозвратный сбор 20 EUR. Скидка 20% на второго ребёнка действует при одном полном сезонном бронировании."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Условно. Подходит по возрасту. Подтвердить место и язык группы."
+          },
+          "oscar": {
+            "status": "not_eligible",
+            "detail": "Нет по возрасту. Сейчас вне указанного диапазона."
+          }
+        },
+        "editorial_reason": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+        "shortlist": [],
+        "questions": [
+          "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт."
+        ],
+        "sources": [
+          {
+            "url": "https://www.buildlab.ie/groups/ec8e6947-7137-431a-a3bc-4bd3559607e3",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.buildlab.ie/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.buildlab.ie/policies",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "coding",
+          "engineering",
+          "technology"
+        ],
+        "programme_type": "regular_course",
+        "catalog_participation": "regular",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2026-11-11",
+            "end": "2026-11-25",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP2051-20261111-20261125-remaining"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CP2052",
+        "slug": "buildlab-signal-makers-thu",
+        "provider": "Build Lab · Signal Makers · Thursday",
+        "country": "Ирландия",
+        "iso": "IRL",
+        "place": "St Canice’s Neighbourhood Hall · Kilkenny",
+        "age": "8–12",
+        "programme": "События в коде, поиск ошибок и программируемые решения для мини-гольфа.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "published_2026",
+          "label": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+          "sessions": [
+            [
+              "2026-11-12",
+              "2026-11-26"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "remaining",
+              "start": "2026-11-12",
+              "end": "2026-11-26",
+              "label": "Signal Makers · Thursday",
+              "price": "70 EUR за 2 оставшихся занятий на момент проверки.",
+              "source": "https://www.buildlab.ie/groups/a1b0690a-6ca0-4588-b90a-1cdd387fb6c3",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "operator_listed",
+                "label": "На странице организатора на момент проверки указано 5 мест. Наличие может измениться."
+              },
+              "sessions": [
+                {
+                  "date": "2026-11-12",
+                  "start_time": "16:30",
+                  "end_time": "18:00",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-12T16:30:00Z",
+                  "end_utc": "2026-11-12T18:00:00Z",
+                  "topic": "Signal Makers · Thursday",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-11-26",
+                  "start_time": "16:30",
+                  "end_time": "18:00",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-26T16:30:00Z",
+                  "end_utc": "2026-11-26T18:00:00Z",
+                  "topic": "Signal Makers · Thursday",
+                  "ical_timed": true
+                }
+              ],
+              "entry": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+              "questions": [
+                "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт."
+              ]
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "amount": 70,
+          "currency": "EUR",
+          "unit": "per_child_course",
+          "label": "70 EUR за 2 оставшихся занятий на момент проверки.",
+          "included": "Наборы и материалы включены.",
+          "extras": "Льгота на второй абонемент для остатка сезона не подтверждена.",
+          "deposit": "В сезонную цену входит невозвратный сбор 20 EUR. Скидка 20% на второго ребёнка действует при одном полном сезонном бронировании."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Условно. Подходит по возрасту. Подтвердить место и язык группы."
+          },
+          "oscar": {
+            "status": "not_eligible",
+            "detail": "Нет по возрасту. Сейчас вне указанного диапазона."
+          }
+        },
+        "editorial_reason": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+        "shortlist": [],
+        "questions": [
+          "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт."
+        ],
+        "sources": [
+          {
+            "url": "https://www.buildlab.ie/groups/a1b0690a-6ca0-4588-b90a-1cdd387fb6c3",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.buildlab.ie/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.buildlab.ie/policies",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "coding",
+          "games",
+          "engineering"
+        ],
+        "programme_type": "regular_course",
+        "catalog_participation": "regular",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2026-11-12",
+            "end": "2026-11-26",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP2052-20261112-20261126-remaining"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CP2053",
+        "slug": "buildlab-signal-makers-sat",
+        "provider": "Build Lab · Signal Makers · Saturday",
+        "country": "Ирландия",
+        "iso": "IRL",
+        "place": "St Canice’s Neighbourhood Hall · Kilkenny",
+        "age": "8–12",
+        "programme": "События в коде, поиск ошибок и программируемые решения для мини-гольфа.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "published_2026",
+          "label": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+          "sessions": [
+            [
+              "2026-11-14",
+              "2026-11-21"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "remaining",
+              "start": "2026-11-14",
+              "end": "2026-11-21",
+              "label": "Signal Makers · Saturday",
+              "price": "70 EUR за 2 оставшихся занятий на момент проверки.",
+              "source": "https://www.buildlab.ie/groups/81efb10e-6b1d-4ad0-91b6-c16f61e66909",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "operator_listed",
+                "label": "На странице организатора на момент проверки указано 8 мест. Наличие может измениться."
+              },
+              "sessions": [
+                {
+                  "date": "2026-11-14",
+                  "start_time": "10:30",
+                  "end_time": "12:00",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-14T10:30:00Z",
+                  "end_utc": "2026-11-14T12:00:00Z",
+                  "topic": "Signal Makers · Saturday",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-11-21",
+                  "start_time": "10:30",
+                  "end_time": "12:00",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-21T10:30:00Z",
+                  "end_utc": "2026-11-21T12:00:00Z",
+                  "topic": "Signal Makers · Saturday",
+                  "ical_timed": true
+                }
+              ],
+              "entry": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+              "questions": [
+                "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт."
+              ]
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "amount": 70,
+          "currency": "EUR",
+          "unit": "per_child_course",
+          "label": "70 EUR за 2 оставшихся занятий на момент проверки.",
+          "included": "Наборы и материалы включены.",
+          "extras": "Льгота на второй абонемент для остатка сезона не подтверждена.",
+          "deposit": "В сезонную цену входит невозвратный сбор 20 EUR. Скидка 20% на второго ребёнка действует при одном полном сезонном бронировании."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Условно. Подходит по возрасту. Подтвердить место и язык группы."
+          },
+          "oscar": {
+            "status": "not_eligible",
+            "detail": "Нет по возрасту. Сейчас вне указанного диапазона."
+          }
+        },
+        "editorial_reason": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+        "shortlist": [],
+        "questions": [
+          "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт."
+        ],
+        "sources": [
+          {
+            "url": "https://www.buildlab.ie/groups/81efb10e-6b1d-4ad0-91b6-c16f61e66909",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.buildlab.ie/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.buildlab.ie/policies",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "coding",
+          "games",
+          "engineering"
+        ],
+        "programme_type": "regular_course",
+        "catalog_participation": "regular",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2026-11-14",
+            "end": "2026-11-21",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP2053-20261114-20261121-remaining"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CP2054",
+        "slug": "buildlab-step-by-step",
+        "provider": "Build Lab · Step-by-Step Builders · Early Engineers",
+        "country": "Ирландия",
+        "iso": "IRL",
+        "place": "Butler Community Center · Waterford",
+        "age": "5–7",
+        "programme": "Программирование mTiny. Маршруты, циклы, музыка и интерактивные истории.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "published_2026",
+          "label": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+          "sessions": [
+            [
+              "2026-11-14",
+              "2026-12-05"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "remaining",
+              "start": "2026-11-14",
+              "end": "2026-12-05",
+              "label": "Step-by-Step Builders · Early Engineers",
+              "price": "100 EUR за 4 оставшихся занятий на момент проверки.",
+              "source": "https://www.buildlab.ie/groups/6dcf49c2-1cfc-4b17-a728-800ac567c37d",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "operator_listed",
+                "label": "На странице организатора на момент проверки указано 5 мест. Наличие может измениться."
+              },
+              "sessions": [
+                {
+                  "date": "2026-11-14",
+                  "start_time": "16:00",
+                  "end_time": "17:30",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-14T16:00:00Z",
+                  "end_utc": "2026-11-14T17:30:00Z",
+                  "topic": "Step-by-Step Builders · Early Engineers",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-11-21",
+                  "start_time": "16:00",
+                  "end_time": "17:30",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-21T16:00:00Z",
+                  "end_utc": "2026-11-21T17:30:00Z",
+                  "topic": "Step-by-Step Builders · Early Engineers",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-11-28",
+                  "start_time": "16:00",
+                  "end_time": "17:30",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-11-28T16:00:00Z",
+                  "end_utc": "2026-11-28T17:30:00Z",
+                  "topic": "Step-by-Step Builders · Early Engineers",
+                  "ical_timed": true
+                },
+                {
+                  "date": "2026-12-05",
+                  "start_time": "16:00",
+                  "end_time": "17:30",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-12-05T16:00:00Z",
+                  "end_utc": "2026-12-05T17:30:00Z",
+                  "topic": "Step-by-Step Builders · Early Engineers",
+                  "ical_timed": true
+                }
+              ],
+              "entry": "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт.",
+              "questions": [
+                "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт."
+              ]
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "amount": 100,
+          "currency": "EUR",
+          "unit": "per_child_course",
+          "label": "100 EUR за 4 оставшихся занятий на момент проверки.",
+          "included": "Наборы и материалы включены.",
+          "extras": "Льгота на второй абонемент для остатка сезона не подтверждена.",
+          "deposit": "В сезонную цену входит невозвратный сбор 20 EUR. Скидка 20% на второго ребёнка действует при одном полном сезонном бронировании."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "not_eligible",
+            "detail": "Нет по возрасту. Сейчас вне указанного диапазона."
+          },
+          "oscar": {
+            "status": "conditional",
+            "detail": "Условно. Подходит по возрасту. Подтвердить место и язык группы."
+          }
+        },
+        "editorial_reason": "Опубликованы точные даты оставшихся занятий. Дни без уроков пропущены.",
+        "shortlist": [],
+        "questions": [
+          "Место подтверждается после оформления через аккаунт взрослого. При присоединении к начатой группе сверить актуальные даты и счёт."
+        ],
+        "sources": [
+          {
+            "url": "https://www.buildlab.ie/groups/6dcf49c2-1cfc-4b17-a728-800ac567c37d",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.buildlab.ie/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.buildlab.ie/policies",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "robotics",
+          "coding",
+          "engineering"
+        ],
+        "programme_type": "regular_course",
+        "catalog_participation": "regular",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2026-11-14",
+            "end": "2026-12-05",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP2054-20261114-20261205-remaining"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CP2055",
+        "slug": "junior-einsteins-galway-bcnc-dec",
+        "provider": "Junior Einsteins · Christmas Science · Galway",
+        "country": "Ирландия",
+        "iso": "IRL",
+        "place": "Ballinfoile Castlegar Neighbourhood Centre · Galway",
+        "age": "5–12 лет.",
+        "programme": "Пигменты, слайм, модель снежного шара и эксперименты о холоде.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "published_2026",
+          "label": "Описание и форма указывают 14:00–16:00. В виджете отображается 02:00 AM в начале интервала. Перед поездкой перепроверить.",
+          "sessions": [
+            [
+              "2026-12-05",
+              "2026-12-05"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "day",
+              "start": "2026-12-05",
+              "end": "2026-12-05",
+              "label": "Christmas Science · Galway",
+              "price": "26 EUR за ребёнка.",
+              "source": "https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-5th-2-to-4pm-ballinfoile-castlegar-neighbourhood-centre-galway/",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "operator_listed",
+                "label": "На странице организатора на момент проверки указано 21 мест. Наличие может измениться."
+              },
+              "sessions": [
+                {
+                  "date": "2026-12-05",
+                  "start_time": "14:00",
+                  "end_time": "16:00",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-12-05T14:00:00Z",
+                  "end_utc": "2026-12-05T16:00:00Z",
+                  "topic": "Christmas Science · Galway",
+                  "ical_timed": true
+                }
+              ],
+              "entry": "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя.",
+              "questions": [
+                "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя."
+              ]
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "amount": 26,
+          "currency": "EUR",
+          "unit": "per_child_course",
+          "label": "26 EUR за ребёнка.",
+          "included": "",
+          "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+          "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Да по возрасту. Подтвердить места и условия участия."
+          },
+          "oscar": {
+            "status": "conditional",
+            "detail": "Да по возрасту. Подтвердить места и условия участия."
+          }
+        },
+        "editorial_reason": "Описание и форма указывают 14:00–16:00. В виджете отображается 02:00 AM в начале интервала. Перед поездкой перепроверить.",
+        "shortlist": [],
+        "questions": [
+          "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя."
+        ],
+        "sources": [
+          {
+            "url": "https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-5th-2-to-4pm-ballinfoile-castlegar-neighbourhood-centre-galway/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "science",
+          "makers"
+        ],
+        "programme_type": "day_camp",
+        "catalog_participation": "day_camp",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2026-12-05",
+            "end": "2026-12-05",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP2055-20261205-20261205-day"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CP2056",
+        "slug": "junior-einsteins-tuam-dec",
+        "provider": "Junior Einsteins · Christmas Science · Tuam",
+        "country": "Ирландия",
+        "iso": "IRL",
+        "place": "Brú Bhríde Family Resource Centre · Tuam",
+        "age": "5–12 лет.",
+        "programme": "Пигменты, слайм, модель снежного шара и эксперименты о холоде.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "published_2026",
+          "label": "Короткая дневная смена с фиксированным временем.",
+          "sessions": [
+            [
+              "2026-12-12",
+              "2026-12-12"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "day",
+              "start": "2026-12-12",
+              "end": "2026-12-12",
+              "label": "Christmas Science · Tuam",
+              "price": "26 EUR за ребёнка.",
+              "source": "https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-12-tuam/",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "operator_listed",
+                "label": "На странице организатора на момент проверки указано 22 мест. Наличие может измениться."
+              },
+              "sessions": [
+                {
+                  "date": "2026-12-12",
+                  "start_time": "10:00",
+                  "end_time": "12:00",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-12-12T10:00:00Z",
+                  "end_utc": "2026-12-12T12:00:00Z",
+                  "topic": "Christmas Science · Tuam",
+                  "ical_timed": true
+                }
+              ],
+              "entry": "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя.",
+              "questions": [
+                "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя."
+              ]
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "amount": 26,
+          "currency": "EUR",
+          "unit": "per_child_course",
+          "label": "26 EUR за ребёнка.",
+          "included": "",
+          "extras": "Полная стоимость и наличие мест ещё не подтверждены.",
+          "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Да по возрасту. Подтвердить места и условия участия."
+          },
+          "oscar": {
+            "status": "conditional",
+            "detail": "Да по возрасту. Подтвердить места и условия участия."
+          }
+        },
+        "editorial_reason": "Короткая дневная смена с фиксированным временем.",
+        "shortlist": [],
+        "questions": [
+          "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя."
+        ],
+        "sources": [
+          {
+            "url": "https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-12-tuam/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "science",
+          "makers"
+        ],
+        "programme_type": "day_camp",
+        "catalog_participation": "day_camp",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2026-12-12",
+            "end": "2026-12-12",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP2056-20261212-20261212-day"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CP2057",
+        "slug": "junior-einsteins-dublin-dec",
+        "provider": "Junior Einsteins · Christmas Science · Glasnevin",
+        "country": "Ирландия",
+        "iso": "IRL",
+        "place": "Our Lady of Dolours Parish Centre · Glasnevin, Dublin",
+        "age": "5–11 лет. Группы 5–8 и 9–11 лет.",
+        "programme": "Хроматография, кристаллы, эксперименты с теплом и холодом.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "published_2026",
+          "label": "Короткая дневная смена с фиксированным временем.",
+          "sessions": [
+            [
+              "2026-12-19",
+              "2026-12-19"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "day",
+              "start": "2026-12-19",
+              "end": "2026-12-19",
+              "label": "Christmas Science · Glasnevin",
+              "price": "50 EUR за ребёнка.",
+              "source": "https://junioreinsteinsscienceclub.com/events/christmas-science-camp-in-glasnevin-dublin-saturday-19th-december-2pm-5pm/",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "operator_listed",
+                "label": "На странице организатора на момент проверки указано 14 мест. Наличие может измениться."
+              },
+              "sessions": [
+                {
+                  "date": "2026-12-19",
+                  "start_time": "14:00",
+                  "end_time": "17:00",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2026-12-19T14:00:00Z",
+                  "end_utc": "2026-12-19T17:00:00Z",
+                  "topic": "Christmas Science · Glasnevin",
+                  "ical_timed": true
+                }
+              ],
+              "entry": "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя.",
+              "questions": [
+                "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя."
+              ]
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "amount": 50,
+          "currency": "EUR",
+          "unit": "per_child_course",
+          "label": "50 EUR за ребёнка.",
+          "included": "",
+          "extras": "Взять перекус без орехов, напиток и дождевик.",
+          "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Да по возрасту. Подтвердить места и условия участия."
+          },
+          "oscar": {
+            "status": "conditional",
+            "detail": "Да по возрасту. Подтвердить места и условия участия."
+          }
+        },
+        "editorial_reason": "Короткая дневная смена с фиксированным временем.",
+        "shortlist": [],
+        "questions": [
+          "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя."
+        ],
+        "sources": [
+          {
+            "url": "https://junioreinsteinsscienceclub.com/events/christmas-science-camp-in-glasnevin-dublin-saturday-19th-december-2pm-5pm/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "science",
+          "makers"
+        ],
+        "programme_type": "day_camp",
+        "catalog_participation": "day_camp",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2026-12-19",
+            "end": "2026-12-19",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP2057-20261219-20261219-day"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CP2058",
+        "slug": "junior-einsteins-dublin-jan",
+        "provider": "Junior Einsteins · Junior Astronauts · Glasnevin",
+        "country": "Ирландия",
+        "iso": "IRL",
+        "place": "Our Lady of Dolours Parish Centre · Glasnevin, Dublin",
+        "age": "5–11 лет. Группы 5–8 и 9–11 лет.",
+        "programme": "Проектирование ракет, аэродинамика и демонстрации по физике космоса.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Описание на английском. Язык ведущего конкретной группы уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "unconfirmed",
+        "timing": {
+          "status": "published_2026",
+          "label": "Короткая дневная смена с фиксированным временем.",
+          "sessions": [
+            [
+              "2027-01-02",
+              "2027-01-02"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "day",
+              "start": "2027-01-02",
+              "end": "2027-01-02",
+              "label": "Junior Astronauts · Glasnevin",
+              "price": "50 EUR за ребёнка.",
+              "source": "https://junioreinsteinsscienceclub.com/events/junior-astronauts-space-science-camp-in-glasnevin-dublin-saturday-2nd-january-2pm-5pm/",
+              "date_scope": "session_days",
+              "availability": {
+                "status": "operator_listed",
+                "label": "На странице организатора на момент проверки указано 14 мест. Наличие может измениться."
+              },
+              "sessions": [
+                {
+                  "date": "2027-01-02",
+                  "start_time": "14:00",
+                  "end_time": "17:00",
+                  "timezone": "Europe/Dublin",
+                  "start_utc": "2027-01-02T14:00:00Z",
+                  "end_utc": "2027-01-02T17:00:00Z",
+                  "topic": "Junior Astronauts · Glasnevin",
+                  "ical_timed": true
+                }
+              ],
+              "entry": "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя.",
+              "questions": [
+                "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя."
+              ]
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2027,
+          "amount": 50,
+          "currency": "EUR",
+          "unit": "per_child_course",
+          "label": "50 EUR за ребёнка.",
+          "included": "",
+          "extras": "Взять перекус без орехов, напиток и дождевик.",
+          "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+        },
+        "accommodation": "Дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Да по возрасту. Подтвердить места и условия участия."
+          },
+          "oscar": {
+            "status": "conditional",
+            "detail": "Да по возрасту. Подтвердить места и условия участия."
+          }
+        },
+        "editorial_reason": "Короткая дневная смена с фиксированным временем.",
+        "shortlist": [],
+        "questions": [
+          "Запись на каждого ребёнка через страницу смены. Уточнить оставшиеся места в нужных группах и язык преподавателя."
+        ],
+        "sources": [
+          {
+            "url": "https://junioreinsteinsscienceclub.com/events/junior-astronauts-space-science-camp-in-glasnevin-dublin-saturday-2nd-january-2pm-5pm/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "engineering",
+          "science",
+          "technology"
+        ],
+        "programme_type": "day_camp",
+        "catalog_participation": "day_camp",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2027-01-02",
+            "end": "2027-01-02",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP2058-20270102-20270102-day"
+            ]
+          }
+        ]
       }
     ],
     "gaps": [
@@ -1249926,7 +1253903,7 @@
       "Младшие группы и языковое доказательство для всех приоритетных операторов.",
       "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
     ],
-    "version": 291,
+    "version": 292,
     "family_review": {
       "version": 150,
       "asof": "2026-11-05",
@@ -1263161,7 +1267138,7 @@
         }
       ],
       "coverage": {
-        "total_dossiers": 2044,
+        "total_dossiers": 2058,
         "reviewed": 71,
         "refresh_pending": 4,
         "review_dossiers": 75,
@@ -1286086,6 +1290063,76 @@
         "relation": "related_track_or_operator"
       },
       {
+        "programme_id": "CP2045",
+        "event_id": "L819",
+        "relation": "related_track_or_operator"
+      },
+      {
+        "programme_id": "CP2046",
+        "event_id": "L820",
+        "relation": "related_track_or_operator"
+      },
+      {
+        "programme_id": "CP2047",
+        "event_id": "L821",
+        "relation": "related_track_or_operator"
+      },
+      {
+        "programme_id": "CP2048",
+        "event_id": "CP2048-20261109-20261207-remaining",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP2049",
+        "event_id": "CP2049-20261110-20261124-remaining",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP2050",
+        "event_id": "CP2050-20261111-20261125-remaining",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP2051",
+        "event_id": "CP2051-20261111-20261125-remaining",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP2052",
+        "event_id": "CP2052-20261112-20261126-remaining",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP2053",
+        "event_id": "CP2053-20261114-20261121-remaining",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP2054",
+        "event_id": "CP2054-20261114-20261205-remaining",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP2055",
+        "event_id": "CP2055-20261205-20261205-day",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP2056",
+        "event_id": "CP2056-20261212-20261212-day",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP2057",
+        "event_id": "CP2057-20261219-20261219-day",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP2058",
+        "event_id": "CP2058-20270102-20270102-day",
+        "relation": "catalogue_session"
+      },
+      {
         "programme_id": "CP1294",
         "event_id": "L464",
         "relation": "existing_programme"
@@ -1290821,10 +1294868,21 @@
       "CP2043-20261109-20261109-d9-live",
       "CP2043-20261110-20261110-d10-live",
       "CP2043-20261111-20261111-d11-live",
-      "CP2043-20261112-20261112-d12-live"
+      "CP2043-20261112-20261112-d12-live",
+      "CP2048-20261109-20261207-remaining",
+      "CP2049-20261110-20261124-remaining",
+      "CP2050-20261111-20261125-remaining",
+      "CP2051-20261111-20261125-remaining",
+      "CP2052-20261112-20261126-remaining",
+      "CP2053-20261114-20261121-remaining",
+      "CP2054-20261114-20261205-remaining",
+      "CP2055-20261205-20261205-day",
+      "CP2056-20261212-20261212-day",
+      "CP2057-20261219-20261219-day",
+      "CP2058-20270102-20270102-day"
     ],
     "integration": {
-      "generated_sessions": 4325,
+      "generated_sessions": 4336,
       "reused_legacy_events": 74,
       "seasonal_windows": 78,
       "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

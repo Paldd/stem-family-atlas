@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10465; competiciones: 4705; eventos: 617; campamentos / programas: 5143. Perfiles de ligas y programas: 303. Fichas de exposiciones grandes y especializadas: 518 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10493; competiciones: 4709; eventos: 623; campamentos / programas: 5161. Perfiles de ligas y programas: 303. Fichas de exposiciones grandes y especializadas: 524 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros específicos para 234 de 249 países y territorios y 0 países con auditoría completa. Revisión del archivo v51: se añadieron 21 fichas y 3 perfiles. Se conservaron todas las fichas anteriores.
+Hay registros concretos para 239 de 249 países y territorios. Países auditados por completo: 0. En la revisión del archivo v51 se incorporaron fichas: 21, perfiles: 3. Se conservaron todas las fichas anteriores.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1937 | 128 | 1326 |
+| América del Norte | 41 | 1938 | 128 | 1326 |
 | América del Sur | 14 | 433 | 45 | 207 |
-| Europa | 54 | 611 | 124 | 1471 |
-| África | 55 | 245 | 36 | 123 |
+| Europa | 54 | 612 | 128 | 1486 |
+| África | 58 | 247 | 38 | 125 |
 | Asia | 50 | 1168 | 153 | 1667 |
-| Oceanía | 25 | 167 | 30 | 334 |
+| Oceanía | 26 | 167 | 30 | 335 |
 
 Fichas interregionales o globales sin continente único: 166. América del Norte incluye América Central y el Caribe. Los recuentos describen el inventario de la base y no miden su exhaustividad.
 
-VEX: 814 de las 4705 fichas de competiciones (17.3%). Existe un sesgo de cobertura claro.
+VEX: 814 de las 4709 fichas de competiciones (17.3%). Existe un sesgo de cobertura claro.
 
 ## Lo que queda
 
@@ -889,6 +889,12 @@ VEX: 814 de las 4705 fichas de competiciones (17.3%). Existe un sesgo de cobertu
 - **Papalote · México STEM Week 2026** — México; 2026-11-10 – 2026-11-12. con un adulto; condiciones de admisión adulta por separado. https://mexicostemweek.org/actividades/
 - **Rally STEAM · Utopía La Heroica** — México; 2026-11-12. con un adulto; condiciones de admisión adulta por separado. https://mexicostemweek.org/actividades/
 - **12.º Simposio de Robótica Educativa · CCH UNAM** — México; 2026-11-13. el permiso de entrada de niños. https://eventos.cch.unam.mx/simposiorobotica/
+- **National Eritrean Festival 2026 · Innovation & AI** — Eritrea; 2026-07-18 – 2026-07-26. con un adulto; condiciones de admisión adulta por separado. https://shabait.com/2026/07/21/innovation-and-creativity-displays-at-national-festival/
+- **Afro Verse · AI & VR demo 2026** — Eritrea; 2026-08-27. el permiso de entrada de niños. https://shabait.com/amp/2026/09/07/afro-verse-where-eritrean-heritage-meets-virtual-reality/
+- **Research Ireland · Science Week 2026** — Irlanda; 2026-11-08 – 2026-11-15. con un adulto; condiciones de admisión adulta por separado. https://www.scienceweek.ie/
+- **Galway Science & Technology Festival · Exhibition 2026** — Irlanda; 2026-11-08. con un adulto; condiciones de admisión adulta por separado. https://galwayscience.ie/whats-on/
+- **Full STEAM Ahead! · Family Fun Day · Kells Library** — Irlanda; 2026-11-14. con un adulto; condiciones de admisión adulta por separado. https://www.meath.ie/council/council-services/libraries/library-events/full-steam-ahead-family-fun-day-at-kells-library
+- **Science Week Demo Day · National Print Museum** — Irlanda; 2026-11-15. con un adulto; condiciones de admisión adulta por separado. https://www.nationalprintmuseum.ie/whats-on/science-week-demo-day-2/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

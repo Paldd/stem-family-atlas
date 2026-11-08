@@ -11878,6 +11878,118 @@ Limitaciones: El calendario indica acceso abierto. Confirmar plaza, grado y admi
 Fuente: https://mexicostemweek.org/actividades/
 Se ha comprobado: 2026-11-08
 
+### L819 · St Helena · Primary ICT & Design Technology
+
+lugar: Santa Elena · St Paul’s / Longwood · St Helena
+Fecha: Las fuentes revisadas no publican fechas ni una nueva convocatoria abierta.
+edad: EYFS / KS1 / KS2
+Matvey: Condicional. Se accede por la escuela local. Confirmar el curso y los requisitos de admisión.
+Oscar: Condicional. Se accede por la escuela local. Confirmar el curso y los requisitos de admisión.
+Formato: regular
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Programa para alumnado matriculado. Confirmar con el centro el acceso de la familia, el horario y el coste.
+Limitaciones: Hay calendario escolar para 2026/27. Confirmar el traslado entre sedes y si existen clases específicas de robótica.
+Fuente: https://www.sainthelena.gov.sh/st-helena/government/portfolios/education-employment/primary-schools-ks1-ks2/
+Se ha comprobado: 2026-11-08
+
+### L820 · Cocos Islands District High School · STEM
+
+lugar: Islas Cocos · Home Island / West Island · Cocos (Keeling) Islands
+Fecha: Las fuentes revisadas no publican fechas ni una nueva convocatoria abierta.
+edad: Kindergarten a Year 6 en ambas sedes. Years 7 a 10 en West Island.
+Matvey: Condicional. Se accede por la escuela local. Confirmar el curso y los requisitos de admisión.
+Oscar: Condicional. Se accede por la escuela local. Confirmar el curso y los requisitos de admisión.
+Formato: regular
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Programa para alumnado matriculado. Confirmar con el centro el acceso de la familia, el horario y el coste.
+Limitaciones: Para elegir sede, confirmar curso, acceso y horario de STEM. La fuente no indica un turno abierto a menores visitantes.
+Fuente: https://www.det.wa.edu.au/schoolsonline/overview.do?schoolID=4157
+Se ha comprobado: 2026-11-08
+
+### L821 · Youth Innovation & Entrepreneurship Hub · NUEYS
+
+lugar: Eritrea · Asmara
+Fecha: Las fuentes revisadas no publican fechas ni una nueva convocatoria abierta.
+edad: El informe indica principalmente Grades 9 a 11.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+Formato: regular
+Idioma: Documentos públicos en español. Confirmar el idioma del jurado y del acompañamiento.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Programa para alumnado matriculado. Confirmar con el centro el acceso de la familia, el horario y el coste.
+Limitaciones: Informe estatal de 2025. No se confirman admisión de menores más pequeños, idioma ni nueva convocatoria.
+Fuente: https://shabait.com/amp/2025/04/09/the-innovation-hub-a-center-for-creatinity-and-progress/
+Se ha comprobado: 2026-11-08
+
+### L822 · The Brickx Club · LEGO Engineering · Kells
+
+lugar: Irlanda · Kells Library · County Meath
+Fecha: 2026-11-14 — 2026-11-14
+Edad: 4–12 años.
+Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación.
+Oscar: Sí por edad. Confirmar las plazas y las condiciones de participación.
+Formato: holiday_workshop
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: El precio no se indica en la página consultada.
+Acceso: Se requiere reserva previa. Confirmar plazas y normas de acompañamiento.
+Limitaciones: Se requiere reserva previa. Confirmar plazas y normas de acompañamiento.
+Fuente: https://www.meath.ie/council/events/full-steam-ahead-the-brickx-club-engineering
+Se ha comprobado: 2026-11-08
+
+### L823 · The Brickx Club · LEGO Engineering · Slane
+
+lugar: Irlanda · Slane Library · County Meath
+Fecha: 2026-11-14 — 2026-11-14
+Edad: 4–12 años.
+Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación.
+Oscar: Sí por edad. Confirmar las plazas y las condiciones de participación.
+Formato: holiday_workshop
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: El precio no se indica en la página consultada.
+Acceso: Se requiere reserva previa. Confirmar plazas y normas de acompañamiento.
+Limitaciones: Se requiere reserva previa. Confirmar plazas y normas de acompañamiento.
+Fuente: https://www.meath.ie/council/events/full-steam-ahead-the-brickx-club-engineering
+Se ha comprobado: 2026-11-08
+
+### L824 · Science Week · Scratch · Enniscorthy
+
+lugar: Irlanda · Enniscorthy Library · County Wexford
+Fecha: 2026-11-14 — 2026-11-14
+Edad: 8 a 12 años.
+Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación.
+Oscar: No cumple por edad. Actualmente está fuera del rango indicado.
+Formato: holiday_workshop
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: El precio no se indica en la página consultada.
+Acceso: Hay que inscribir al menor. El adulto permanece en la biblioteca durante el taller.
+Limitaciones: La página indica formato presencial, biblioteca y un adulto en el recinto. También aparece un aviso de enlace virtual. Confirmar el formato con la biblioteca.
+Fuente: https://wexfordcoco.libcal.com/event/4621150
+Se ha comprobado: 2026-11-08
+
+### L825 · Science Week · Scratch · New Ross
+
+lugar: Irlanda · New Ross Library · County Wexford
+Fecha: 2026-11-14 — 2026-11-14
+Edad: 8 a 12 años.
+Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación.
+Oscar: No cumple por edad. Actualmente está fuera del rango indicado.
+Formato: holiday_workshop
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: El precio no se indica en la página consultada.
+Acceso: Hay que inscribir al menor. El adulto permanece en la biblioteca durante el taller.
+Limitaciones: Hay que inscribir al menor. El adulto permanece en la biblioteca durante el taller.
+Fuente: https://wexfordcoco.libcal.com/event/4624344
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -81076,6 +81188,182 @@ Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
 Acceso: En el formulario público se elige el día. El calendario general enumera categorías escolares de mayor edad. Confirmar con el instructor la admisión del menor.
 Limitaciones: Matvey: Condicional. El operador invita a menores, pero no publica una edad mínima. Oscar: Condicional. El operador invita a menores, pero no publica una edad mínima. Suplementos: Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://nairda.com.mx/taller/
+Se ha comprobado: 2026-11-08
+
+### CP2048-20261109-20261207-remaining · Build Lab · Signal Makers · Monday · Signal Makers · Monday · 2026-11-09–2026-12-07
+
+lugar: Irlanda · St Canice’s Neighbourhood Hall · Kilkenny
+Fecha: 2026-11-09 — 2026-12-07
+Edad: 8–12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: regular
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 100 EUR por las 4 sesiones restantes al comprobar la página. · suplementos y condiciones en el dossier
+Acceso: La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual.
+Limitaciones: Matvey: Condicional. Cumple por edad. Confirmar plaza e idioma del grupo. Oscar: No cumple por edad. Actualmente está fuera del rango indicado. Suplementos: No se confirma descuento para un segundo abono por las sesiones restantes. Pago: El precio de temporada incluye una tasa no reembolsable de 20 EUR. El descuento del 20% para el segundo menor aplica a una misma reserva de temporada completa.
+Fuente: https://www.buildlab.ie/groups/8e35fefa-80fd-4dcc-b731-d6f3cfc65afc
+Se ha comprobado: 2026-11-08
+
+### CP2049-20261110-20261124-remaining · Build Lab · Signal Makers · Tuesday · Signal Makers · Tuesday · 2026-11-10–2026-11-24
+
+lugar: Irlanda · St Canice’s Neighbourhood Hall · Kilkenny
+Fecha: 2026-11-10 — 2026-11-24
+Edad: 8–12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: regular
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 70 EUR por las 2 sesiones restantes al comprobar la página. · suplementos y condiciones en el dossier
+Acceso: La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual.
+Limitaciones: Matvey: Condicional. Cumple por edad. Confirmar plaza e idioma del grupo. Oscar: No cumple por edad. Actualmente está fuera del rango indicado. Suplementos: No se confirma descuento para un segundo abono por las sesiones restantes. Pago: El precio de temporada incluye una tasa no reembolsable de 20 EUR. El descuento del 20% para el segundo menor aplica a una misma reserva de temporada completa.
+Fuente: https://www.buildlab.ie/groups/9ef2b6cf-aa92-480c-9511-d0d1a360c989
+Se ha comprobado: 2026-11-08
+
+### CP2050-20261111-20261125-remaining · Build Lab · Routine Rescue · Early Engineers · Routine Rescue · Early Engineers · 2026-11-11–2026-11-25
+
+lugar: Irlanda · St Canice’s Neighbourhood Hall · Kilkenny
+Fecha: 2026-11-11 — 2026-11-25
+Edad: 5–7
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: regular
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 70 EUR por las 2 sesiones restantes al comprobar la página. · suplementos y condiciones en el dossier
+Acceso: La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual.
+Limitaciones: Matvey: No cumple por edad. Actualmente está fuera del rango indicado. Oscar: Condicional. Cumple por edad. Confirmar plaza e idioma del grupo. Suplementos: No se confirma descuento para un segundo abono por las sesiones restantes. Pago: El precio de temporada incluye una tasa no reembolsable de 20 EUR. El descuento del 20% para el segundo menor aplica a una misma reserva de temporada completa.
+Fuente: https://www.buildlab.ie/groups/f8b2c825-bf12-41be-be6c-5bfb606d0f59
+Se ha comprobado: 2026-11-08
+
+### CP2051-20261111-20261125-remaining · Build Lab · Quest Builders · Core Builders · Quest Builders · Core Builders · 2026-11-11–2026-11-25
+
+lugar: Irlanda · Butler Community Center · Waterford
+Fecha: 2026-11-11 — 2026-11-25
+Edad: 8–12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: regular
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 90 EUR por las 3 sesiones restantes al comprobar la página. · suplementos y condiciones en el dossier
+Acceso: La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual.
+Limitaciones: Matvey: Condicional. Cumple por edad. Confirmar plaza e idioma del grupo. Oscar: No cumple por edad. Actualmente está fuera del rango indicado. Suplementos: No se confirma descuento para un segundo abono por las sesiones restantes. Pago: El precio de temporada incluye una tasa no reembolsable de 20 EUR. El descuento del 20% para el segundo menor aplica a una misma reserva de temporada completa.
+Fuente: https://www.buildlab.ie/groups/ec8e6947-7137-431a-a3bc-4bd3559607e3
+Se ha comprobado: 2026-11-08
+
+### CP2052-20261112-20261126-remaining · Build Lab · Signal Makers · Thursday · Signal Makers · Thursday · 2026-11-12–2026-11-26
+
+lugar: Irlanda · St Canice’s Neighbourhood Hall · Kilkenny
+Fecha: 2026-11-12 — 2026-11-26
+Edad: 8–12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: regular
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 70 EUR por las 2 sesiones restantes al comprobar la página. · suplementos y condiciones en el dossier
+Acceso: La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual.
+Limitaciones: Matvey: Condicional. Cumple por edad. Confirmar plaza e idioma del grupo. Oscar: No cumple por edad. Actualmente está fuera del rango indicado. Suplementos: No se confirma descuento para un segundo abono por las sesiones restantes. Pago: El precio de temporada incluye una tasa no reembolsable de 20 EUR. El descuento del 20% para el segundo menor aplica a una misma reserva de temporada completa.
+Fuente: https://www.buildlab.ie/groups/a1b0690a-6ca0-4588-b90a-1cdd387fb6c3
+Se ha comprobado: 2026-11-08
+
+### CP2053-20261114-20261121-remaining · Build Lab · Signal Makers · Saturday · Signal Makers · Saturday · 2026-11-14–2026-11-21
+
+lugar: Irlanda · St Canice’s Neighbourhood Hall · Kilkenny
+Fecha: 2026-11-14 — 2026-11-21
+Edad: 8–12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: regular
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 70 EUR por las 2 sesiones restantes al comprobar la página. · suplementos y condiciones en el dossier
+Acceso: La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual.
+Limitaciones: Matvey: Condicional. Cumple por edad. Confirmar plaza e idioma del grupo. Oscar: No cumple por edad. Actualmente está fuera del rango indicado. Suplementos: No se confirma descuento para un segundo abono por las sesiones restantes. Pago: El precio de temporada incluye una tasa no reembolsable de 20 EUR. El descuento del 20% para el segundo menor aplica a una misma reserva de temporada completa.
+Fuente: https://www.buildlab.ie/groups/81efb10e-6b1d-4ad0-91b6-c16f61e66909
+Se ha comprobado: 2026-11-08
+
+### CP2054-20261114-20261205-remaining · Build Lab · Step-by-Step Builders · Early Engineers · Step-by-Step Builders · Early Engineers · 2026-11-14–2026-12-05
+
+lugar: Irlanda · Butler Community Center · Waterford
+Fecha: 2026-11-14 — 2026-12-05
+Edad: 5–7
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: regular
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 100 EUR por las 4 sesiones restantes al comprobar la página. · suplementos y condiciones en el dossier
+Acceso: La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual.
+Limitaciones: Matvey: No cumple por edad. Actualmente está fuera del rango indicado. Oscar: Condicional. Cumple por edad. Confirmar plaza e idioma del grupo. Suplementos: No se confirma descuento para un segundo abono por las sesiones restantes. Pago: El precio de temporada incluye una tasa no reembolsable de 20 EUR. El descuento del 20% para el segundo menor aplica a una misma reserva de temporada completa.
+Fuente: https://www.buildlab.ie/groups/6dcf49c2-1cfc-4b17-a728-800ac567c37d
+Se ha comprobado: 2026-11-08
+
+### CP2055-20261205-20261205-day · Junior Einsteins · Christmas Science · Galway · Christmas Science · Galway · 2026-12-05–2026-12-05
+
+lugar: Irlanda · Ballinfoile Castlegar Neighbourhood Centre · Galway
+Fecha: 2026-12-05 — 2026-12-05
+Edad: 5 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 26 EUR por menor. · suplementos y condiciones en el dossier
+Acceso: Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción.
+Limitaciones: Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: Sí por edad. Confirmar las plazas y las condiciones de participación. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-5th-2-to-4pm-ballinfoile-castlegar-neighbourhood-centre-galway/
+Se ha comprobado: 2026-11-08
+
+### CP2056-20261212-20261212-day · Junior Einsteins · Christmas Science · Tuam · Christmas Science · Tuam · 2026-12-12–2026-12-12
+
+lugar: Irlanda · Brú Bhríde Family Resource Centre · Tuam
+Fecha: 2026-12-12 — 2026-12-12
+Edad: 5 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 26 EUR por menor. · suplementos y condiciones en el dossier
+Acceso: Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción.
+Limitaciones: Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: Sí por edad. Confirmar las plazas y las condiciones de participación. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-12-tuam/
+Se ha comprobado: 2026-11-08
+
+### CP2057-20261219-20261219-day · Junior Einsteins · Christmas Science · Glasnevin · Christmas Science · Glasnevin · 2026-12-19–2026-12-19
+
+lugar: Irlanda · Our Lady of Dolours Parish Centre · Glasnevin, Dublin
+Fecha: 2026-12-19 - 2026-12-19
+edad: De 5 a 11 años. Grupos de 5 a 8 y de 9 a 11 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 50 EUR por menor. · suplementos y condiciones en el dossier
+Acceso: Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción.
+Limitaciones: Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: Sí por edad. Confirmar las plazas y las condiciones de participación. Suplementos: Llevar merienda sin frutos secos, bebida e impermeable. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://junioreinsteinsscienceclub.com/events/christmas-science-camp-in-glasnevin-dublin-saturday-19th-december-2pm-5pm/
+Se ha comprobado: 2026-11-08
+
+### CP2058-20270102-20270102-day · Junior Einsteins · Junior Astronauts · Glasnevin · Junior Astronauts · Glasnevin · 2027-01-02–2027-01-02
+
+lugar: Irlanda · Our Lady of Dolours Parish Centre · Glasnevin, Dublin
+Fecha: 2027-01-02 — 2027-01-02
+edad: De 5 a 11 años. Grupos de 5 a 8 y de 9 a 11 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 50 EUR por menor. · suplementos y condiciones en el dossier
+Acceso: Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción.
+Limitaciones: Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación. Oscar: Sí por edad. Confirmar las plazas y las condiciones de participación. Suplementos: Llevar merienda sin frutos secos, bebida e impermeable. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://junioreinsteinsscienceclub.com/events/junior-astronauts-space-science-camp-in-glasnevin-dublin-saturday-2nd-january-2pm-5pm/
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 291,
+    "version": 292,
     "status": "implementation_snapshot",
-    "events": 10465,
-    "competitions": 4705,
+    "events": 10493,
+    "competitions": 4709,
     "league_profiles": 303,
-    "camp_dossiers": 2044,
+    "camp_dossiers": 2058,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 617,
+    "exhibitions_events": 623,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 290,
+    "version": 291,
     "status": "implementation_snapshot",
-    "events": 10437,
-    "competitions": 4704,
+    "events": 10465,
+    "competitions": 4705,
     "league_profiles": 303,
-    "camp_dossiers": 2038,
+    "camp_dossiers": 2044,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 614,
+    "exhibitions_events": 617,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 291,
+    "prepared_ui_version": 292,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 290,
-    "previous_verified_commit": "f0994590d1c4c31f660e2450e44a562bf0c971a4"
+    "previous_verified_ui_version": 291,
+    "previous_verified_commit": "d7bf07ff8fe2bfa96845a00796bb83688a89f803"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 290,
-    "published_version": 290,
-    "latest_source_commit": "f0994590d1c4c31f660e2450e44a562bf0c971a4",
-    "published_commit": "f0994590d1c4c31f660e2450e44a562bf0c971a4",
-    "latest_workflow": 42502939937,
+    "latest_source_version": 291,
+    "published_version": 291,
+    "latest_source_commit": "d7bf07ff8fe2bfa96845a00796bb83688a89f803",
+    "published_commit": "d7bf07ff8fe2bfa96845a00796bb83688a89f803",
+    "latest_workflow": 42504611089,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -29574,5 +29574,237 @@
     },
     "audit": "data/mexico-stem-week-and-costa-rica-audit-v291.json",
     "source_receipts": "data/mexico-stem-week-and-costa-rica-source-receipts-v291.json"
+  },
+  "island_coverage_and_ireland_v292": {
+    "version": 292,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "previous_unmapped_geographies": [
+      "ERI",
+      "GNB",
+      "SHN",
+      "CCK",
+      "BLM",
+      "NFK"
+    ],
+    "newly_represented_geographies": [
+      "ERI",
+      "GNB",
+      "SHN",
+      "CCK",
+      "BLM"
+    ],
+    "new_event_ids": [
+      "L819",
+      "L820",
+      "L821",
+      "C4707",
+      "E618",
+      "E619",
+      "C4708",
+      "C4709",
+      "E620",
+      "E621",
+      "E622",
+      "E623",
+      "C4710",
+      "L822",
+      "L823",
+      "L824",
+      "L825"
+    ],
+    "new_dossiers": [
+      "CP2045",
+      "CP2046",
+      "CP2047",
+      "CP2048",
+      "CP2049",
+      "CP2050",
+      "CP2051",
+      "CP2052",
+      "CP2053",
+      "CP2054",
+      "CP2055",
+      "CP2056",
+      "CP2057",
+      "CP2058"
+    ],
+    "new_dated_variants": 11,
+    "refreshed_event_ids": [
+      "C1932"
+    ],
+    "legacy_overlay_event_ids": [
+      "C1932"
+    ],
+    "dossier_event_links": {
+      "shn-primary-ict-design": [
+        "L819"
+      ],
+      "cck-school-stem": [
+        "L820"
+      ],
+      "eri-nueys-youth-hub": [
+        "L821"
+      ]
+    },
+    "source_requests": 40,
+    "school_or_selection_watch_ids": [
+      "L819",
+      "L820",
+      "L821",
+      "C4709"
+    ],
+    "dated_historical_ids": [
+      "C4707",
+      "E618",
+      "E619",
+      "C4708"
+    ],
+    "no_verified_open_target_programme": {
+      "NFK": {
+        "scope": "published_school_primary_and_events_calendar",
+        "sources": [
+          "https://norfolkislandcs.eq.edu.au/curriculum/primary",
+          "https://norfolkislandcs.eq.edu.au/calendar-and-news/events-calendar"
+        ]
+      }
+    },
+    "evidence_roles": {
+      "BLM": "school_origin_guadeloupe_venue_no_claim_current_acceptance",
+      "GNB": "historical_local_rule_2025_2026_roster_2027_selection_not_announced",
+      "ERI": "past_contest_and_exhibitions_plus_historical_training_report",
+      "SHN": "school_ict_and_design_curriculum_historical_coding_strategy",
+      "CCK": "school_stem_specialist_curriculum"
+    },
+    "build_lab": [
+      {
+        "id": "CP2048",
+        "dates": [
+          "2026-11-09",
+          "2026-11-23",
+          "2026-11-30",
+          "2026-12-07"
+        ],
+        "amount": 100,
+        "operator_places": 10,
+        "age": "8–12",
+        "source": "https://www.buildlab.ie/groups/8e35fefa-80fd-4dcc-b731-d6f3cfc65afc"
+      },
+      {
+        "id": "CP2049",
+        "dates": [
+          "2026-11-10",
+          "2026-11-24"
+        ],
+        "amount": 70,
+        "operator_places": 8,
+        "age": "8–12",
+        "source": "https://www.buildlab.ie/groups/9ef2b6cf-aa92-480c-9511-d0d1a360c989"
+      },
+      {
+        "id": "CP2050",
+        "dates": [
+          "2026-11-11",
+          "2026-11-25"
+        ],
+        "amount": 70,
+        "operator_places": 6,
+        "age": "5–7",
+        "source": "https://www.buildlab.ie/groups/f8b2c825-bf12-41be-be6c-5bfb606d0f59"
+      },
+      {
+        "id": "CP2051",
+        "dates": [
+          "2026-11-11",
+          "2026-11-18",
+          "2026-11-25"
+        ],
+        "amount": 90,
+        "operator_places": 2,
+        "age": "8–12",
+        "source": "https://www.buildlab.ie/groups/ec8e6947-7137-431a-a3bc-4bd3559607e3"
+      },
+      {
+        "id": "CP2052",
+        "dates": [
+          "2026-11-12",
+          "2026-11-26"
+        ],
+        "amount": 70,
+        "operator_places": 5,
+        "age": "8–12",
+        "source": "https://www.buildlab.ie/groups/a1b0690a-6ca0-4588-b90a-1cdd387fb6c3"
+      },
+      {
+        "id": "CP2053",
+        "dates": [
+          "2026-11-14",
+          "2026-11-21"
+        ],
+        "amount": 70,
+        "operator_places": 8,
+        "age": "8–12",
+        "source": "https://www.buildlab.ie/groups/81efb10e-6b1d-4ad0-91b6-c16f61e66909"
+      },
+      {
+        "id": "CP2054",
+        "dates": [
+          "2026-11-14",
+          "2026-11-21",
+          "2026-11-28",
+          "2026-12-05"
+        ],
+        "amount": 100,
+        "operator_places": 5,
+        "age": "5–7",
+        "source": "https://www.buildlab.ie/groups/6dcf49c2-1cfc-4b17-a728-800ac567c37d"
+      }
+    ],
+    "junior_einsteins": [
+      {
+        "id": "CP2055",
+        "date": "2026-12-05",
+        "amount": 26,
+        "operator_places": 21,
+        "source": "https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-5th-2-to-4pm-ballinfoile-castlegar-neighbourhood-centre-galway/"
+      },
+      {
+        "id": "CP2056",
+        "date": "2026-12-12",
+        "amount": 26,
+        "operator_places": 22,
+        "source": "https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-12-tuam/"
+      },
+      {
+        "id": "CP2057",
+        "date": "2026-12-19",
+        "amount": 50,
+        "operator_places": 14,
+        "source": "https://junioreinsteinsscienceclub.com/events/christmas-science-camp-in-glasnevin-dublin-saturday-19th-december-2pm-5pm/"
+      },
+      {
+        "id": "CP2058",
+        "date": "2027-01-02",
+        "amount": 50,
+        "operator_places": 14,
+        "source": "https://junioreinsteinsscienceclub.com/events/junior-astronauts-space-science-camp-in-glasnevin-dublin-saturday-2nd-january-2pm-5pm/"
+      }
+    ],
+    "current_ireland": {
+      "national": "E620",
+      "family_brickx": [
+        "L822",
+        "L823"
+      ],
+      "scratch": [
+        "L824",
+        "L825"
+      ],
+      "meath_invention": "C4710",
+      "ticket_template_hidden_in_readback": true
+    },
+    "audit": "data/island-coverage-and-ireland-audit-v292.json",
+    "source_receipts": "data/island-coverage-and-ireland-source-receipts-v292.json"
   }
 }

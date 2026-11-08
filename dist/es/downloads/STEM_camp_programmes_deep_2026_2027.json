@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2044,
-    "countries": 127,
+    "dossiers": 2058,
+    "countries": 130,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 289,
       "published_2027": 552,
       "partial_2027": 145,
-      "next_unannounced": 426,
-      "published_2026": 393,
+      "next_unannounced": 429,
+      "published_2026": 404,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1
     },
-    "source_urls": 2944
+    "source_urls": 2962
   },
   "countries": [
     {
@@ -229,7 +229,7 @@
     },
     {
       "country": "Irlanda",
-      "count": 2
+      "count": 13
     },
     {
       "country": "España",
@@ -270,6 +270,10 @@
     {
       "country": "RAE de Hong Kong (China)",
       "count": 57
+    },
+    {
+      "country": "Islas Cocos",
+      "count": 1
     },
     {
       "country": "Colombia",
@@ -377,6 +381,10 @@
     },
     {
       "country": "Omán",
+      "count": 1
+    },
+    {
+      "country": "Santa Elena",
       "count": 1
     },
     {
@@ -533,6 +541,10 @@
     },
     {
       "country": "Ecuador",
+      "count": 1
+    },
+    {
+      "country": "Eritrea",
       "count": 1
     },
     {
@@ -351948,6 +351960,1643 @@
         "E559"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP2045",
+      "slug": "shn-primary-ict-design",
+      "provider": "St Helena · Primary ICT & Design Technology",
+      "country": "Santa Elena",
+      "iso": "SHN",
+      "place": "St Paul’s / Longwood · St Helena",
+      "age": "EYFS / KS1 / KS2",
+      "programme": "El currículo británico de primaria incluye TIC y Diseño y Tecnología. La estrategia de 2017 describe la enseñanza de programación en primaria.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Las fuentes revisadas no publican fechas ni una nueva convocatoria abierta.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "programme",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "Programa para alumnado matriculado. Confirmar con el centro el acceso de la familia, el horario y el coste.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Condicional. Se accede por la escuela local. Confirmar el curso y los requisitos de admisión."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Condicional. Se accede por la escuela local. Confirmar el curso y los requisitos de admisión."
+        }
+      },
+      "editorial_reason": "Las fuentes revisadas no publican fechas ni una nueva convocatoria abierta.",
+      "shortlist": [],
+      "questions": [
+        "Programa para alumnado matriculado. Confirmar con el centro el acceso de la familia, el horario y el coste."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sainthelena.gov.sh/st-helena/government/portfolios/education-employment/primary-schools-ks1-ks2/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.sainthelena.gov.sh/app/uploads/2026/10/Primary-School-Term-Times-2026-2027-Revised.pdf",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.sainthelena.gov.sh/documents/st-helena-digital-strategy/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "coding"
+      ],
+      "programme_type": "school_route",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L819"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2046",
+      "slug": "cck-school-stem",
+      "provider": "Cocos Islands District High School · STEM",
+      "country": "Islas Cocos",
+      "iso": "CCK",
+      "place": "Home Island / West Island · Cocos (Keeling) Islands",
+      "age": "Kindergarten a Year 6 en ambas sedes. Years 7 a 10 en West Island.",
+      "programme": "El departamento de educación incluye STEM entre los programas escolares especializados. No publica temas de robótica ni horarios por curso.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Las fuentes revisadas no publican fechas ni una nueva convocatoria abierta.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "programme",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "Programa para alumnado matriculado. Confirmar con el centro el acceso de la familia, el horario y el coste.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Condicional. Se accede por la escuela local. Confirmar el curso y los requisitos de admisión."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Condicional. Se accede por la escuela local. Confirmar el curso y los requisitos de admisión."
+        }
+      },
+      "editorial_reason": "Las fuentes revisadas no publican fechas ni una nueva convocatoria abierta.",
+      "shortlist": [],
+      "questions": [
+        "Programa para alumnado matriculado. Confirmar con el centro el acceso de la familia, el horario y el coste."
+      ],
+      "sources": [
+        {
+          "url": "https://www.det.wa.edu.au/schoolsonline/overview.do?schoolID=4157",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "science"
+      ],
+      "programme_type": "school_route",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L820"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2047",
+      "slug": "eri-nueys-youth-hub",
+      "provider": "Youth Innovation & Entrepreneurship Hub · NUEYS",
+      "country": "Eritrea",
+      "iso": "ERI",
+      "place": "Asmara",
+      "age": "El informe indica principalmente Grades 9 a 11.",
+      "programme": "Cursos de electrónica, Python, Scratch, robótica y soldadura. La descripción indica 3 niveles de 6 meses.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Las fuentes revisadas no publican fechas ni una nueva convocatoria abierta.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "ERN",
+        "unit": "programme",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "Programa para alumnado matriculado. Confirmar con el centro el acceso de la familia, el horario y el coste.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Condicional. Cotejar edad, grado y requisitos de acceso."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Condicional. Cotejar edad, grado y requisitos de acceso."
+        }
+      },
+      "editorial_reason": "Las fuentes revisadas no publican fechas ni una nueva convocatoria abierta.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://shabait.com/amp/2025/04/09/the-innovation-hub-a-center-for-creatinity-and-progress/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "school_route",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L821"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2048",
+      "slug": "buildlab-signal-makers-mon",
+      "provider": "Build Lab · Signal Makers · Monday",
+      "country": "Irlanda",
+      "iso": "IRL",
+      "place": "St Canice’s Neighbourhood Hall · Kilkenny",
+      "age": "8–12",
+      "programme": "Eventos en el código, detección de errores y soluciones programables para minigolf.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Se publican las fechas exactas de las sesiones restantes. Se omiten los días sin clase.",
+        "sessions": [
+          [
+            "2026-11-09",
+            "2026-12-07"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "remaining",
+            "start": "2026-11-09",
+            "end": "2026-12-07",
+            "label": "Signal Makers · Monday",
+            "price": "100 EUR por las 4 sesiones restantes al comprobar la página.",
+            "source": "https://www.buildlab.ie/groups/8e35fefa-80fd-4dcc-b731-d6f3cfc65afc",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La página del organizador indicaba 10 plazas al comprobarla. La disponibilidad puede cambiar."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-09",
+                "start_time": "16:30",
+                "end_time": "18:00",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-09T16:30:00Z",
+                "end_utc": "2026-11-09T18:00:00Z",
+                "topic": "Signal Makers · Monday",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-23",
+                "start_time": "16:30",
+                "end_time": "18:00",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-23T16:30:00Z",
+                "end_utc": "2026-11-23T18:00:00Z",
+                "topic": "Signal Makers · Monday",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-30",
+                "start_time": "16:30",
+                "end_time": "18:00",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-30T16:30:00Z",
+                "end_utc": "2026-11-30T18:00:00Z",
+                "topic": "Signal Makers · Monday",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-07",
+                "start_time": "16:30",
+                "end_time": "18:00",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-12-07T16:30:00Z",
+                "end_utc": "2026-12-07T18:00:00Z",
+                "topic": "Signal Makers · Monday",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual.",
+            "questions": [
+              "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 100,
+        "currency": "EUR",
+        "unit": "per_child_course",
+        "label": "100 EUR por las 4 sesiones restantes al comprobar la página.",
+        "included": "Se incluyen kits y materiales.",
+        "extras": "No se confirma descuento para un segundo abono por las sesiones restantes.",
+        "deposit": "El precio de temporada incluye una tasa no reembolsable de 20 EUR. El descuento del 20% para el segundo menor aplica a una misma reserva de temporada completa."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Cumple por edad. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple por edad. Actualmente está fuera del rango indicado."
+        }
+      },
+      "editorial_reason": "Se publican las fechas exactas de las sesiones restantes. Se omiten los días sin clase.",
+      "shortlist": [],
+      "questions": [
+        "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual."
+      ],
+      "sources": [
+        {
+          "url": "https://www.buildlab.ie/groups/8e35fefa-80fd-4dcc-b731-d6f3cfc65afc",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.buildlab.ie/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.buildlab.ie/policies",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-09",
+          "end": "2026-12-07",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2048-20261109-20261207-remaining"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2049",
+      "slug": "buildlab-signal-makers-tue",
+      "provider": "Build Lab · Signal Makers · Tuesday",
+      "country": "Irlanda",
+      "iso": "IRL",
+      "place": "St Canice’s Neighbourhood Hall · Kilkenny",
+      "age": "8–12",
+      "programme": "Eventos en el código, detección de errores y soluciones programables para minigolf.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Se publican las fechas exactas de las sesiones restantes. Se omiten los días sin clase.",
+        "sessions": [
+          [
+            "2026-11-10",
+            "2026-11-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "remaining",
+            "start": "2026-11-10",
+            "end": "2026-11-24",
+            "label": "Signal Makers · Tuesday",
+            "price": "70 EUR por las 2 sesiones restantes al comprobar la página.",
+            "source": "https://www.buildlab.ie/groups/9ef2b6cf-aa92-480c-9511-d0d1a360c989",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La página del organizador indicaba 8 plazas al comprobarla. La disponibilidad puede cambiar."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-10",
+                "start_time": "16:30",
+                "end_time": "18:00",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-10T16:30:00Z",
+                "end_utc": "2026-11-10T18:00:00Z",
+                "topic": "Signal Makers · Tuesday",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "16:30",
+                "end_time": "18:00",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-24T16:30:00Z",
+                "end_utc": "2026-11-24T18:00:00Z",
+                "topic": "Signal Makers · Tuesday",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual.",
+            "questions": [
+              "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 70,
+        "currency": "EUR",
+        "unit": "per_child_course",
+        "label": "70 EUR por las 2 sesiones restantes al comprobar la página.",
+        "included": "Se incluyen kits y materiales.",
+        "extras": "No se confirma descuento para un segundo abono por las sesiones restantes.",
+        "deposit": "El precio de temporada incluye una tasa no reembolsable de 20 EUR. El descuento del 20% para el segundo menor aplica a una misma reserva de temporada completa."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Cumple por edad. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple por edad. Actualmente está fuera del rango indicado."
+        }
+      },
+      "editorial_reason": "Se publican las fechas exactas de las sesiones restantes. Se omiten los días sin clase.",
+      "shortlist": [],
+      "questions": [
+        "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual."
+      ],
+      "sources": [
+        {
+          "url": "https://www.buildlab.ie/groups/9ef2b6cf-aa92-480c-9511-d0d1a360c989",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.buildlab.ie/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.buildlab.ie/policies",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-10",
+          "end": "2026-11-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2049-20261110-20261124-remaining"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2050",
+      "slug": "buildlab-routine-rescue",
+      "provider": "Build Lab · Routine Rescue · Early Engineers",
+      "country": "Irlanda",
+      "iso": "IRL",
+      "place": "St Canice’s Neighbourhood Hall · Kilkenny",
+      "age": "5–7",
+      "programme": "Algoritmos paso a paso y secuencias con modelos LEGO.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Se publican las fechas exactas de las sesiones restantes. Se omiten los días sin clase.",
+        "sessions": [
+          [
+            "2026-11-11",
+            "2026-11-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "remaining",
+            "start": "2026-11-11",
+            "end": "2026-11-25",
+            "label": "Routine Rescue · Early Engineers",
+            "price": "70 EUR por las 2 sesiones restantes al comprobar la página.",
+            "source": "https://www.buildlab.ie/groups/f8b2c825-bf12-41be-be6c-5bfb606d0f59",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La página del organizador indicaba 6 plazas al comprobarla. La disponibilidad puede cambiar."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-11",
+                "start_time": "16:30",
+                "end_time": "18:00",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-11T16:30:00Z",
+                "end_utc": "2026-11-11T18:00:00Z",
+                "topic": "Routine Rescue · Early Engineers",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "16:30",
+                "end_time": "18:00",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-25T16:30:00Z",
+                "end_utc": "2026-11-25T18:00:00Z",
+                "topic": "Routine Rescue · Early Engineers",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual.",
+            "questions": [
+              "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 70,
+        "currency": "EUR",
+        "unit": "per_child_course",
+        "label": "70 EUR por las 2 sesiones restantes al comprobar la página.",
+        "included": "Se incluyen kits y materiales.",
+        "extras": "No se confirma descuento para un segundo abono por las sesiones restantes.",
+        "deposit": "El precio de temporada incluye una tasa no reembolsable de 20 EUR. El descuento del 20% para el segundo menor aplica a una misma reserva de temporada completa."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No cumple por edad. Actualmente está fuera del rango indicado."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Cumple por edad. Confirmar plaza e idioma del grupo."
+        }
+      },
+      "editorial_reason": "Se publican las fechas exactas de las sesiones restantes. Se omiten los días sin clase.",
+      "shortlist": [],
+      "questions": [
+        "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual."
+      ],
+      "sources": [
+        {
+          "url": "https://www.buildlab.ie/groups/f8b2c825-bf12-41be-be6c-5bfb606d0f59",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.buildlab.ie/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.buildlab.ie/policies",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-11",
+          "end": "2026-11-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2050-20261111-20261125-remaining"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2051",
+      "slug": "buildlab-quest-builders",
+      "provider": "Build Lab · Quest Builders · Core Builders",
+      "country": "Irlanda",
+      "iso": "IRL",
+      "place": "Butler Community Center · Waterford",
+      "age": "8–12",
+      "programme": "Sistemas de entrada y salida, rutas y comparación de respuestas de hardware y software.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Se publican las fechas exactas de las sesiones restantes. Se omiten los días sin clase.",
+        "sessions": [
+          [
+            "2026-11-11",
+            "2026-11-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "remaining",
+            "start": "2026-11-11",
+            "end": "2026-11-25",
+            "label": "Quest Builders · Core Builders",
+            "price": "90 EUR por las 3 sesiones restantes al comprobar la página.",
+            "source": "https://www.buildlab.ie/groups/ec8e6947-7137-431a-a3bc-4bd3559607e3",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La página del organizador indicaba 2 plazas al comprobarla. La disponibilidad puede cambiar."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-11",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-11T16:00:00Z",
+                "end_utc": "2026-11-11T17:30:00Z",
+                "topic": "Quest Builders · Core Builders",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-18",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-18T16:00:00Z",
+                "end_utc": "2026-11-18T17:30:00Z",
+                "topic": "Quest Builders · Core Builders",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-25T16:00:00Z",
+                "end_utc": "2026-11-25T17:30:00Z",
+                "topic": "Quest Builders · Core Builders",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual.",
+            "questions": [
+              "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 90,
+        "currency": "EUR",
+        "unit": "per_child_course",
+        "label": "90 EUR por las 3 sesiones restantes al comprobar la página.",
+        "included": "Se incluyen kits y materiales.",
+        "extras": "No se confirma descuento para un segundo abono por las sesiones restantes.",
+        "deposit": "El precio de temporada incluye una tasa no reembolsable de 20 EUR. El descuento del 20% para el segundo menor aplica a una misma reserva de temporada completa."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Cumple por edad. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple por edad. Actualmente está fuera del rango indicado."
+        }
+      },
+      "editorial_reason": "Se publican las fechas exactas de las sesiones restantes. Se omiten los días sin clase.",
+      "shortlist": [],
+      "questions": [
+        "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual."
+      ],
+      "sources": [
+        {
+          "url": "https://www.buildlab.ie/groups/ec8e6947-7137-431a-a3bc-4bd3559607e3",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.buildlab.ie/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.buildlab.ie/policies",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-11",
+          "end": "2026-11-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2051-20261111-20261125-remaining"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2052",
+      "slug": "buildlab-signal-makers-thu",
+      "provider": "Build Lab · Signal Makers · Thursday",
+      "country": "Irlanda",
+      "iso": "IRL",
+      "place": "St Canice’s Neighbourhood Hall · Kilkenny",
+      "age": "8–12",
+      "programme": "Eventos en el código, detección de errores y soluciones programables para minigolf.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Se publican las fechas exactas de las sesiones restantes. Se omiten los días sin clase.",
+        "sessions": [
+          [
+            "2026-11-12",
+            "2026-11-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "remaining",
+            "start": "2026-11-12",
+            "end": "2026-11-26",
+            "label": "Signal Makers · Thursday",
+            "price": "70 EUR por las 2 sesiones restantes al comprobar la página.",
+            "source": "https://www.buildlab.ie/groups/a1b0690a-6ca0-4588-b90a-1cdd387fb6c3",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La página del organizador indicaba 5 plazas al comprobarla. La disponibilidad puede cambiar."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-12",
+                "start_time": "16:30",
+                "end_time": "18:00",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-12T16:30:00Z",
+                "end_utc": "2026-11-12T18:00:00Z",
+                "topic": "Signal Makers · Thursday",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "16:30",
+                "end_time": "18:00",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-26T16:30:00Z",
+                "end_utc": "2026-11-26T18:00:00Z",
+                "topic": "Signal Makers · Thursday",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual.",
+            "questions": [
+              "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 70,
+        "currency": "EUR",
+        "unit": "per_child_course",
+        "label": "70 EUR por las 2 sesiones restantes al comprobar la página.",
+        "included": "Se incluyen kits y materiales.",
+        "extras": "No se confirma descuento para un segundo abono por las sesiones restantes.",
+        "deposit": "El precio de temporada incluye una tasa no reembolsable de 20 EUR. El descuento del 20% para el segundo menor aplica a una misma reserva de temporada completa."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Cumple por edad. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple por edad. Actualmente está fuera del rango indicado."
+        }
+      },
+      "editorial_reason": "Se publican las fechas exactas de las sesiones restantes. Se omiten los días sin clase.",
+      "shortlist": [],
+      "questions": [
+        "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual."
+      ],
+      "sources": [
+        {
+          "url": "https://www.buildlab.ie/groups/a1b0690a-6ca0-4588-b90a-1cdd387fb6c3",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.buildlab.ie/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.buildlab.ie/policies",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-12",
+          "end": "2026-11-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2052-20261112-20261126-remaining"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2053",
+      "slug": "buildlab-signal-makers-sat",
+      "provider": "Build Lab · Signal Makers · Saturday",
+      "country": "Irlanda",
+      "iso": "IRL",
+      "place": "St Canice’s Neighbourhood Hall · Kilkenny",
+      "age": "8–12",
+      "programme": "Eventos en el código, detección de errores y soluciones programables para minigolf.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Se publican las fechas exactas de las sesiones restantes. Se omiten los días sin clase.",
+        "sessions": [
+          [
+            "2026-11-14",
+            "2026-11-21"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "remaining",
+            "start": "2026-11-14",
+            "end": "2026-11-21",
+            "label": "Signal Makers · Saturday",
+            "price": "70 EUR por las 2 sesiones restantes al comprobar la página.",
+            "source": "https://www.buildlab.ie/groups/81efb10e-6b1d-4ad0-91b6-c16f61e66909",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La página del organizador indicaba 8 plazas al comprobarla. La disponibilidad puede cambiar."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-14",
+                "start_time": "10:30",
+                "end_time": "12:00",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-14T10:30:00Z",
+                "end_utc": "2026-11-14T12:00:00Z",
+                "topic": "Signal Makers · Saturday",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-21",
+                "start_time": "10:30",
+                "end_time": "12:00",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-21T10:30:00Z",
+                "end_utc": "2026-11-21T12:00:00Z",
+                "topic": "Signal Makers · Saturday",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual.",
+            "questions": [
+              "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 70,
+        "currency": "EUR",
+        "unit": "per_child_course",
+        "label": "70 EUR por las 2 sesiones restantes al comprobar la página.",
+        "included": "Se incluyen kits y materiales.",
+        "extras": "No se confirma descuento para un segundo abono por las sesiones restantes.",
+        "deposit": "El precio de temporada incluye una tasa no reembolsable de 20 EUR. El descuento del 20% para el segundo menor aplica a una misma reserva de temporada completa."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Cumple por edad. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple por edad. Actualmente está fuera del rango indicado."
+        }
+      },
+      "editorial_reason": "Se publican las fechas exactas de las sesiones restantes. Se omiten los días sin clase.",
+      "shortlist": [],
+      "questions": [
+        "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual."
+      ],
+      "sources": [
+        {
+          "url": "https://www.buildlab.ie/groups/81efb10e-6b1d-4ad0-91b6-c16f61e66909",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.buildlab.ie/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.buildlab.ie/policies",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-14",
+          "end": "2026-11-21",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2053-20261114-20261121-remaining"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2054",
+      "slug": "buildlab-step-by-step",
+      "provider": "Build Lab · Step-by-Step Builders · Early Engineers",
+      "country": "Irlanda",
+      "iso": "IRL",
+      "place": "Butler Community Center · Waterford",
+      "age": "5–7",
+      "programme": "Programación con mTiny. Rutas, bucles, música e historias interactivas.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Se publican las fechas exactas de las sesiones restantes. Se omiten los días sin clase.",
+        "sessions": [
+          [
+            "2026-11-14",
+            "2026-12-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "remaining",
+            "start": "2026-11-14",
+            "end": "2026-12-05",
+            "label": "Step-by-Step Builders · Early Engineers",
+            "price": "100 EUR por las 4 sesiones restantes al comprobar la página.",
+            "source": "https://www.buildlab.ie/groups/6dcf49c2-1cfc-4b17-a728-800ac567c37d",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La página del organizador indicaba 5 plazas al comprobarla. La disponibilidad puede cambiar."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-14",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-14T16:00:00Z",
+                "end_utc": "2026-11-14T17:30:00Z",
+                "topic": "Step-by-Step Builders · Early Engineers",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-21",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-21T16:00:00Z",
+                "end_utc": "2026-11-21T17:30:00Z",
+                "topic": "Step-by-Step Builders · Early Engineers",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-28",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-11-28T16:00:00Z",
+                "end_utc": "2026-11-28T17:30:00Z",
+                "topic": "Step-by-Step Builders · Early Engineers",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-05",
+                "start_time": "16:00",
+                "end_time": "17:30",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-12-05T16:00:00Z",
+                "end_utc": "2026-12-05T17:30:00Z",
+                "topic": "Step-by-Step Builders · Early Engineers",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual.",
+            "questions": [
+              "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 100,
+        "currency": "EUR",
+        "unit": "per_child_course",
+        "label": "100 EUR por las 4 sesiones restantes al comprobar la página.",
+        "included": "Se incluyen kits y materiales.",
+        "extras": "No se confirma descuento para un segundo abono por las sesiones restantes.",
+        "deposit": "El precio de temporada incluye una tasa no reembolsable de 20 EUR. El descuento del 20% para el segundo menor aplica a una misma reserva de temporada completa."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No cumple por edad. Actualmente está fuera del rango indicado."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Cumple por edad. Confirmar plaza e idioma del grupo."
+        }
+      },
+      "editorial_reason": "Se publican las fechas exactas de las sesiones restantes. Se omiten los días sin clase.",
+      "shortlist": [],
+      "questions": [
+        "La plaza se confirma al completar la reserva desde la cuenta de un adulto. Si el grupo ya empezó, cotejar fechas y precio actual."
+      ],
+      "sources": [
+        {
+          "url": "https://www.buildlab.ie/groups/6dcf49c2-1cfc-4b17-a728-800ac567c37d",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.buildlab.ie/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.buildlab.ie/policies",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-14",
+          "end": "2026-12-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2054-20261114-20261205-remaining"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2055",
+      "slug": "junior-einsteins-galway-bcnc-dec",
+      "provider": "Junior Einsteins · Christmas Science · Galway",
+      "country": "Irlanda",
+      "iso": "IRL",
+      "place": "Ballinfoile Castlegar Neighbourhood Centre · Galway",
+      "age": "5–12 años.",
+      "programme": "Pigmentos, slime, modelo de bola de nieve y experimentos sobre el frío.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "La descripción y el formulario indican de 14:00 a 16:00. El widget muestra 02:00 AM al inicio del intervalo. Volver a comprobar antes de viajar.",
+        "sessions": [
+          [
+            "2026-12-05",
+            "2026-12-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "day",
+            "start": "2026-12-05",
+            "end": "2026-12-05",
+            "label": "Christmas Science · Galway",
+            "price": "26 EUR por menor.",
+            "source": "https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-5th-2-to-4pm-ballinfoile-castlegar-neighbourhood-centre-galway/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La página del organizador indicaba 21 plazas al comprobarla. La disponibilidad puede cambiar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-05",
+                "start_time": "14:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-12-05T14:00:00Z",
+                "end_utc": "2026-12-05T16:00:00Z",
+                "topic": "Christmas Science · Galway",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción.",
+            "questions": [
+              "Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 26,
+        "currency": "EUR",
+        "unit": "per_child_course",
+        "label": "26 EUR por menor.",
+        "included": "",
+        "extras": "Aún no se confirman el coste total ni las plazas.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Sí por edad. Confirmar las plazas y las condiciones de participación."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Sí por edad. Confirmar las plazas y las condiciones de participación."
+        }
+      },
+      "editorial_reason": "La descripción y el formulario indican de 14:00 a 16:00. El widget muestra 02:00 AM al inicio del intervalo. Volver a comprobar antes de viajar.",
+      "shortlist": [],
+      "questions": [
+        "Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción."
+      ],
+      "sources": [
+        {
+          "url": "https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-5th-2-to-4pm-ballinfoile-castlegar-neighbourhood-centre-galway/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-05",
+          "end": "2026-12-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2055-20261205-20261205-day"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2056",
+      "slug": "junior-einsteins-tuam-dec",
+      "provider": "Junior Einsteins · Christmas Science · Tuam",
+      "country": "Irlanda",
+      "iso": "IRL",
+      "place": "Brú Bhríde Family Resource Centre · Tuam",
+      "age": "5–12 años.",
+      "programme": "Pigmentos, slime, modelo de bola de nieve y experimentos sobre el frío.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Turno diurno breve con horario fijo.",
+        "sessions": [
+          [
+            "2026-12-12",
+            "2026-12-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "day",
+            "start": "2026-12-12",
+            "end": "2026-12-12",
+            "label": "Christmas Science · Tuam",
+            "price": "26 EUR por menor.",
+            "source": "https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-12-tuam/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La página del organizador indicaba 22 plazas al comprobarla. La disponibilidad puede cambiar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-12",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-12-12T10:00:00Z",
+                "end_utc": "2026-12-12T12:00:00Z",
+                "topic": "Christmas Science · Tuam",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción.",
+            "questions": [
+              "Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 26,
+        "currency": "EUR",
+        "unit": "per_child_course",
+        "label": "26 EUR por menor.",
+        "included": "",
+        "extras": "Aún no se confirman el coste total ni las plazas.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Sí por edad. Confirmar las plazas y las condiciones de participación."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Sí por edad. Confirmar las plazas y las condiciones de participación."
+        }
+      },
+      "editorial_reason": "Turno diurno breve con horario fijo.",
+      "shortlist": [],
+      "questions": [
+        "Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción."
+      ],
+      "sources": [
+        {
+          "url": "https://junioreinsteinsscienceclub.com/events/junior-christmas-science-camp-dec-12-tuam/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-12",
+          "end": "2026-12-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2056-20261212-20261212-day"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2057",
+      "slug": "junior-einsteins-dublin-dec",
+      "provider": "Junior Einsteins · Christmas Science · Glasnevin",
+      "country": "Irlanda",
+      "iso": "IRL",
+      "place": "Our Lady of Dolours Parish Centre · Glasnevin, Dublin",
+      "age": "De 5 a 11 años. Grupos de 5 a 8 y de 9 a 11 años.",
+      "programme": "Cromatografía, cristales y experimentos con calor y frío.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Turno diurno breve con horario fijo.",
+        "sessions": [
+          [
+            "2026-12-19",
+            "2026-12-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "day",
+            "start": "2026-12-19",
+            "end": "2026-12-19",
+            "label": "Christmas Science · Glasnevin",
+            "price": "50 EUR por menor.",
+            "source": "https://junioreinsteinsscienceclub.com/events/christmas-science-camp-in-glasnevin-dublin-saturday-19th-december-2pm-5pm/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La página del organizador indicaba 14 plazas al comprobarla. La disponibilidad puede cambiar."
+            },
+            "sessions": [
+              {
+                "date": "2026-12-19",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2026-12-19T14:00:00Z",
+                "end_utc": "2026-12-19T17:00:00Z",
+                "topic": "Christmas Science · Glasnevin",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción.",
+            "questions": [
+              "Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 50,
+        "currency": "EUR",
+        "unit": "per_child_course",
+        "label": "50 EUR por menor.",
+        "included": "",
+        "extras": "Llevar merienda sin frutos secos, bebida e impermeable.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Sí por edad. Confirmar las plazas y las condiciones de participación."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Sí por edad. Confirmar las plazas y las condiciones de participación."
+        }
+      },
+      "editorial_reason": "Turno diurno breve con horario fijo.",
+      "shortlist": [],
+      "questions": [
+        "Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción."
+      ],
+      "sources": [
+        {
+          "url": "https://junioreinsteinsscienceclub.com/events/christmas-science-camp-in-glasnevin-dublin-saturday-19th-december-2pm-5pm/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-19",
+          "end": "2026-12-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2057-20261219-20261219-day"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2058",
+      "slug": "junior-einsteins-dublin-jan",
+      "provider": "Junior Einsteins · Junior Astronauts · Glasnevin",
+      "country": "Irlanda",
+      "iso": "IRL",
+      "place": "Our Lady of Dolours Parish Centre · Glasnevin, Dublin",
+      "age": "De 5 a 11 años. Grupos de 5 a 8 y de 9 a 11 años.",
+      "programme": "Diseño de cohetes, aerodinámica y demostraciones de física espacial.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Turno diurno breve con horario fijo.",
+        "sessions": [
+          [
+            "2027-01-02",
+            "2027-01-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "day",
+            "start": "2027-01-02",
+            "end": "2027-01-02",
+            "label": "Junior Astronauts · Glasnevin",
+            "price": "50 EUR por menor.",
+            "source": "https://junioreinsteinsscienceclub.com/events/junior-astronauts-space-science-camp-in-glasnevin-dublin-saturday-2nd-january-2pm-5pm/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "operator_listed",
+              "label": "La página del organizador indicaba 14 plazas al comprobarla. La disponibilidad puede cambiar."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-02",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Dublin",
+                "start_utc": "2027-01-02T14:00:00Z",
+                "end_utc": "2027-01-02T17:00:00Z",
+                "topic": "Junior Astronauts · Glasnevin",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción.",
+            "questions": [
+              "Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 50,
+        "currency": "EUR",
+        "unit": "per_child_course",
+        "label": "50 EUR por menor.",
+        "included": "",
+        "extras": "Llevar merienda sin frutos secos, bebida e impermeable.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Sí por edad. Confirmar las plazas y las condiciones de participación."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Sí por edad. Confirmar las plazas y las condiciones de participación."
+        }
+      },
+      "editorial_reason": "Turno diurno breve con horario fijo.",
+      "shortlist": [],
+      "questions": [
+        "Inscripción por menor en la página del turno. Confirmar plazas restantes en los grupos correspondientes e idioma de instrucción."
+      ],
+      "sources": [
+        {
+          "url": "https://junioreinsteinsscienceclub.com/events/junior-astronauts-space-science-camp-in-glasnevin-dublin-saturday-2nd-january-2pm-5pm/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-02",
+          "end": "2027-01-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2058-20270102-20270102-day"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -357273,7 +358922,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 291,
+  "version": 292,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -370508,7 +372157,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2044,
+      "total_dossiers": 2058,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -393433,6 +395082,76 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP2045",
+      "event_id": "L819",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2046",
+      "event_id": "L820",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2047",
+      "event_id": "L821",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2048",
+      "event_id": "CP2048-20261109-20261207-remaining",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2049",
+      "event_id": "CP2049-20261110-20261124-remaining",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2050",
+      "event_id": "CP2050-20261111-20261125-remaining",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2051",
+      "event_id": "CP2051-20261111-20261125-remaining",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2052",
+      "event_id": "CP2052-20261112-20261126-remaining",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2053",
+      "event_id": "CP2053-20261114-20261121-remaining",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2054",
+      "event_id": "CP2054-20261114-20261205-remaining",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2055",
+      "event_id": "CP2055-20261205-20261205-day",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2056",
+      "event_id": "CP2056-20261212-20261212-day",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2057",
+      "event_id": "CP2057-20261219-20261219-day",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2058",
+      "event_id": "CP2058-20270102-20270102-day",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -398168,10 +399887,21 @@
     "CP2043-20261109-20261109-d9-live",
     "CP2043-20261110-20261110-d10-live",
     "CP2043-20261111-20261111-d11-live",
-    "CP2043-20261112-20261112-d12-live"
+    "CP2043-20261112-20261112-d12-live",
+    "CP2048-20261109-20261207-remaining",
+    "CP2049-20261110-20261124-remaining",
+    "CP2050-20261111-20261125-remaining",
+    "CP2051-20261111-20261125-remaining",
+    "CP2052-20261112-20261126-remaining",
+    "CP2053-20261114-20261121-remaining",
+    "CP2054-20261114-20261205-remaining",
+    "CP2055-20261205-20261205-day",
+    "CP2056-20261212-20261212-day",
+    "CP2057-20261219-20261219-day",
+    "CP2058-20270102-20270102-day"
   ],
   "integration": {
-    "generated_sessions": 4325,
+    "generated_sessions": 4336,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

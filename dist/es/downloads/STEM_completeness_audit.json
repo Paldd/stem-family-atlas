@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10465,
-    "competition_cards": 4705,
-    "event_cards": 617,
-    "camp_cards": 5143,
+    "cards": 10493,
+    "competition_cards": 4709,
+    "event_cards": 623,
+    "camp_cards": 5161,
     "league_profiles": 303,
-    "major_exhibition_cards": 518,
+    "major_exhibition_cards": 524,
     "vex_cards": 814,
-    "countries_with_records": 234,
+    "countries_with_records": 239,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,9 +34,9 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3432,
-      "countries_with_records": 40,
-      "competitions": 1937,
+      "total": 3433,
+      "countries_with_records": 41,
+      "competitions": 1938,
       "events": 169,
       "major_exhibitions": 128,
       "camps": 1326,
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2231,
+      "total": 2251,
       "countries_with_records": 54,
-      "competitions": 611,
-      "events": 149,
-      "major_exhibitions": 124,
-      "camps": 1471,
+      "competitions": 612,
+      "events": 153,
+      "major_exhibitions": 128,
+      "camps": 1486,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -76,12 +76,12 @@
       "regions": [
         "África"
       ],
-      "total": 411,
-      "countries_with_records": 55,
-      "competitions": 245,
-      "events": 43,
-      "major_exhibitions": 36,
-      "camps": 123,
+      "total": 417,
+      "countries_with_records": 58,
+      "competitions": 247,
+      "events": 45,
+      "major_exhibitions": 38,
+      "camps": 125,
       "status": "Se ha estudiado parcialmente",
       "remaining": "Antes de la ampliación casi todas las competiciones fueron en Sudáfrica. se añadió PARC Senegal; Maghreb, África Oriental / Oeste y selecciones locales siguen siendo vacíos."
     },
@@ -104,12 +104,12 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 535,
-      "countries_with_records": 25,
+      "total": 536,
+      "countries_with_records": 26,
       "competitions": 167,
       "events": 34,
       "major_exhibitions": 30,
-      "camps": 334,
+      "camps": 335,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido fijian tourist camp, nz días de estudio reales, australian national game/video contests y archivo escolar cerrado de french polynesia. se quedan lenguas / foreign admission camps, un calendario dinámico RCJA, otras islas y torneos locales."
     }
@@ -14487,6 +14487,72 @@
       "new": false
     },
     {
+      "id": "E618",
+      "name": "National Eritrean Festival 2026 · Innovation & AI",
+      "country": "Eritrea",
+      "region": "África",
+      "start": "2026-07-18",
+      "end": "2026-07-26",
+      "visitor_policy": "family",
+      "source": "https://shabait.com/2026/07/21/innovation-and-creativity-displays-at-national-festival/",
+      "new": false
+    },
+    {
+      "id": "E619",
+      "name": "Afro Verse · AI & VR demo 2026",
+      "country": "Eritrea",
+      "region": "África",
+      "start": "2026-08-27",
+      "end": "2026-08-27",
+      "visitor_policy": "confirm_children",
+      "source": "https://shabait.com/amp/2026/09/07/afro-verse-where-eritrean-heritage-meets-virtual-reality/",
+      "new": false
+    },
+    {
+      "id": "E620",
+      "name": "Research Ireland · Science Week 2026",
+      "country": "Irlanda",
+      "region": "Europa",
+      "start": "2026-11-08",
+      "end": "2026-11-15",
+      "visitor_policy": "family",
+      "source": "https://www.scienceweek.ie/",
+      "new": false
+    },
+    {
+      "id": "E621",
+      "name": "Galway Science & Technology Festival · Exhibition 2026",
+      "country": "Irlanda",
+      "region": "Europa",
+      "start": "2026-11-08",
+      "end": "2026-11-08",
+      "visitor_policy": "family",
+      "source": "https://galwayscience.ie/whats-on/",
+      "new": false
+    },
+    {
+      "id": "E622",
+      "name": "Full STEAM Ahead! · Family Fun Day · Kells Library",
+      "country": "Irlanda",
+      "region": "Europa",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "visitor_policy": "family",
+      "source": "https://www.meath.ie/council/council-services/libraries/library-events/full-steam-ahead-family-fun-day-at-kells-library",
+      "new": false
+    },
+    {
+      "id": "E623",
+      "name": "Science Week Demo Day · National Print Museum",
+      "country": "Irlanda",
+      "region": "Europa",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "visitor_policy": "family",
+      "source": "https://www.nationalprintmuseum.ie/whats-on/science-week-demo-day-2/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -16904,9 +16970,9 @@
       }
     ],
     "counts": {
-      "records": 5143,
-      "holiday": 4747,
-      "regular": 170,
+      "records": 5161,
+      "holiday": 4755,
+      "regular": 180,
       "self_paced_materials": 4,
       "boarding": 1038,
       "en_es_instruction": 1595,
@@ -16917,7 +16983,7 @@
       "language_lessons": 414,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 147
+      "countries": 150
     },
     "validation": {
       "version": 51,
