@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10148,
-    "competition_cards": 4612,
-    "event_cards": 553,
-    "camp_cards": 4983,
+    "cards": 10177,
+    "competition_cards": 4616,
+    "event_cards": 556,
+    "camp_cards": 5005,
     "league_profiles": 299,
-    "major_exhibition_cards": 456,
+    "major_exhibition_cards": 459,
     "vex_cards": 814,
     "countries_with_records": 231,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3306,
+      "total": 3308,
       "countries_with_records": 40,
-      "competitions": 1908,
+      "competitions": 1909,
       "events": 142,
       "major_exhibitions": 104,
-      "camps": 1256,
+      "camps": 1257,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2161,
+      "total": 2188,
       "countries_with_records": 52,
-      "competitions": 592,
-      "events": 143,
-      "major_exhibitions": 118,
-      "camps": 1426,
+      "competitions": 595,
+      "events": 146,
+      "major_exhibitions": 121,
+      "camps": 1447,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -13698,6 +13698,39 @@
       "new": false
     },
     {
+      "id": "E554",
+      "name": "B’ROBOTICS XXL 2027 · Public & Family Day",
+      "country": "Países Bajos",
+      "region": "Europa",
+      "start": "2027-05-29",
+      "end": "2027-05-29",
+      "visitor_policy": "family",
+      "source": "https://b-robotics.eu/en/agenda/brobotics-xxl-event-public-family-day/",
+      "new": false
+    },
+    {
+      "id": "E555",
+      "name": "B’ROBOTICS XXL 2027 · Business & Student Day",
+      "country": "Países Bajos",
+      "region": "Europa",
+      "start": "2027-05-26",
+      "end": "2027-05-26",
+      "visitor_policy": "confirm_children",
+      "source": "https://b-robotics.eu/en/agenda/brobotics-xxl-event-business-and-student-day/",
+      "new": false
+    },
+    {
+      "id": "E556",
+      "name": "B’ROBOTICS XXL 2027 · International Day",
+      "country": "Países Bajos",
+      "region": "Europa",
+      "start": "2027-05-27",
+      "end": "2027-05-27",
+      "visitor_policy": "confirm_children",
+      "source": "https://b-robotics.eu/en/agenda/brobotics-xxl-event-international-day/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -16115,8 +16148,8 @@
       }
     ],
     "counts": {
-      "records": 4983,
-      "holiday": 4635,
+      "records": 5005,
+      "holiday": 4656,
       "regular": 158,
       "self_paced_materials": 3,
       "boarding": 1037,

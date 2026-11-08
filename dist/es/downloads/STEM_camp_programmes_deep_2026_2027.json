@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1944,
+    "dossiers": 1960,
     "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
-      "published_2027": 521,
+      "published_2027": 536,
       "partial_2027": 145,
       "next_unannounced": 399,
-      "published_2026": 364,
+      "published_2026": 365,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2836
+    "source_urls": 2854
   },
   "countries": [
     {
@@ -165,7 +165,7 @@
     },
     {
       "country": "Alemania",
-      "count": 11
+      "count": 27
     },
     {
       "country": "Guernesey",
@@ -338037,6 +338037,2515 @@
         "L773"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP1945",
+      "slug": "robot-school-ki-entdecker-feriencamp",
+      "provider": "ROBOT SCHOOL · AI Discoverers",
+      "country": "Alemania",
+      "iso": "DEU",
+      "place": "ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)",
+      "age": "6–9 años según la ficha del turno.",
+      "programme": "Tarjetas de comandos y bloques para mTiny y Dash, reconocimiento de imágenes y robot en circuito de obstáculos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-04–2027-01-08, a diario de 09:00 a 15:30.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "ki-entdecker-feriencamp",
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Turno diurno 09:00–15:30.",
+            "price": "EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+            "source": "https://www.robot-school.de/en/kurs-ki-entdecker-feriencamp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T14:30:00Z",
+                "topic": "Tarjetas de comandos y bloques para mTiny y Dash, reconocimiento de imágenes y robot en circuito de obstáculos.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T14:30:00Z",
+                "topic": "Tarjetas de comandos y bloques para mTiny y Dash, reconocimiento de imágenes y robot en circuito de obstáculos.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-06T08:00:00Z",
+                "end_utc": "2027-01-06T14:30:00Z",
+                "topic": "Tarjetas de comandos y bloques para mTiny y Dash, reconocimiento de imágenes y robot en circuito de obstáculos.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-07T08:00:00Z",
+                "end_utc": "2027-01-07T14:30:00Z",
+                "topic": "Tarjetas de comandos y bloques para mTiny y Dash, reconocimiento de imágenes y robot en circuito de obstáculos.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-08T08:00:00Z",
+                "end_utc": "2027-01-08T14:30:00Z",
+                "topic": "Tarjetas de comandos y bloques para mTiny y Dash, reconocimiento de imágenes y robot en circuito de obstáculos.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 395,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+        "included": "Almuerzo, bebidas y meriendas. Grupo de hasta 10 menores.",
+        "extras": "Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa.",
+        "deposit": "En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. La admisión depende del día de nacimiento y del corte de edad del turno."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí según el intervalo publicado. Confirmar plaza e idioma del grupo."
+        }
+      },
+      "editorial_reason": "2027-01-04–2027-01-08, a diario de 09:00 a 15:30.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robot-school.de/en/kurs-ki-entdecker-feriencamp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/kurse",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/agb",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1945-20270104-20270108-ki-entdecker-feriencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1946",
+      "slug": "robot-school-game-design-mit-scratch-und-ki-feriencamp",
+      "provider": "ROBOT SCHOOL · Game Design with Scratch & AI",
+      "country": "Alemania",
+      "iso": "DEU",
+      "place": "ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)",
+      "age": "9–12 años según la ficha del turno.",
+      "programme": "Juego propio en Scratch con un modelo de IA entrenado, por ejemplo con control por gestos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-04–2027-01-08, a diario de 09:00 a 15:30.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "game-design-mit-scratch-und-ki-feriencamp",
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Turno diurno 09:00–15:30.",
+            "price": "EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+            "source": "https://www.robot-school.de/en/kurs-game-design-mit-scratch-und-ki-feriencamp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T14:30:00Z",
+                "topic": "Juego propio en Scratch con un modelo de IA entrenado, por ejemplo con control por gestos.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T14:30:00Z",
+                "topic": "Juego propio en Scratch con un modelo de IA entrenado, por ejemplo con control por gestos.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-06T08:00:00Z",
+                "end_utc": "2027-01-06T14:30:00Z",
+                "topic": "Juego propio en Scratch con un modelo de IA entrenado, por ejemplo con control por gestos.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-07T08:00:00Z",
+                "end_utc": "2027-01-07T14:30:00Z",
+                "topic": "Juego propio en Scratch con un modelo de IA entrenado, por ejemplo con control por gestos.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-08T08:00:00Z",
+                "end_utc": "2027-01-08T14:30:00Z",
+                "topic": "Juego propio en Scratch con un modelo de IA entrenado, por ejemplo con control por gestos.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 395,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+        "included": "Almuerzo, bebidas y meriendas. Grupo de hasta 10 menores.",
+        "extras": "Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa.",
+        "deposit": "En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí según el intervalo publicado. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No para este turno según la edad publicada."
+        }
+      },
+      "editorial_reason": "2027-01-04–2027-01-08, a diario de 09:00 a 15:30.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robot-school.de/en/kurs-game-design-mit-scratch-und-ki-feriencamp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/kurse",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/agb",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "games",
+        "coding"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1946-20270104-20270108-game-design-mit-scratch-und-ki-feriencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1947",
+      "slug": "robot-school-ki-roboter-werkstatt-feriencamp",
+      "provider": "ROBOT SCHOOL · AI Robot Lab",
+      "country": "Alemania",
+      "iso": "DEU",
+      "place": "ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)",
+      "age": "10–12 años según la ficha del turno.",
+      "programme": "Motores, sensores y bloques. El robot final responde a señales de la mano.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-04–2027-01-08, a diario de 09:00 a 15:30.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "ki-roboter-werkstatt-feriencamp",
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Turno diurno 09:00–15:30.",
+            "price": "EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+            "source": "https://www.robot-school.de/en/kurs-ki-roboter-werkstatt-feriencamp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T14:30:00Z",
+                "topic": "Motores, sensores y bloques. El robot final responde a señales de la mano.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T14:30:00Z",
+                "topic": "Motores, sensores y bloques. El robot final responde a señales de la mano.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-06T08:00:00Z",
+                "end_utc": "2027-01-06T14:30:00Z",
+                "topic": "Motores, sensores y bloques. El robot final responde a señales de la mano.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-07T08:00:00Z",
+                "end_utc": "2027-01-07T14:30:00Z",
+                "topic": "Motores, sensores y bloques. El robot final responde a señales de la mano.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-08T08:00:00Z",
+                "end_utc": "2027-01-08T14:30:00Z",
+                "topic": "Motores, sensores y bloques. El robot final responde a señales de la mano.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 395,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+        "included": "Almuerzo, bebidas y meriendas. Grupo de hasta 10 menores.",
+        "extras": "Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa.",
+        "deposit": "En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. La admisión depende del día de nacimiento y del corte de edad del turno."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No para este turno según la edad publicada."
+        }
+      },
+      "editorial_reason": "2027-01-04–2027-01-08, a diario de 09:00 a 15:30.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robot-school.de/en/kurs-ki-roboter-werkstatt-feriencamp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/kurse",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/agb",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1947-20270104-20270108-ki-roboter-werkstatt-feriencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1948",
+      "slug": "robot-school-ai-agents-feriencamp",
+      "provider": "ROBOT SCHOOL · AI Agents",
+      "country": "Alemania",
+      "iso": "DEU",
+      "place": "ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)",
+      "age": "13–17 años según la ficha del turno.",
+      "programme": "Modelos de lenguaje, definición de tareas, herramientas y datos. Proyecto final de asistente de IA.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-01-04–2027-01-08, a diario de 09:00 a 15:30.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "ai-agents-feriencamp",
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Turno diurno 09:00–15:30.",
+            "price": "EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+            "source": "https://www.robot-school.de/en/kurs-ai-agents-feriencamp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-04T08:00:00Z",
+                "end_utc": "2027-01-04T14:30:00Z",
+                "topic": "Modelos de lenguaje, definición de tareas, herramientas y datos. Proyecto final de asistente de IA.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-05T08:00:00Z",
+                "end_utc": "2027-01-05T14:30:00Z",
+                "topic": "Modelos de lenguaje, definición de tareas, herramientas y datos. Proyecto final de asistente de IA.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-06T08:00:00Z",
+                "end_utc": "2027-01-06T14:30:00Z",
+                "topic": "Modelos de lenguaje, definición de tareas, herramientas y datos. Proyecto final de asistente de IA.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-07T08:00:00Z",
+                "end_utc": "2027-01-07T14:30:00Z",
+                "topic": "Modelos de lenguaje, definición de tareas, herramientas y datos. Proyecto final de asistente de IA.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-08T08:00:00Z",
+                "end_utc": "2027-01-08T14:30:00Z",
+                "topic": "Modelos de lenguaje, definición de tareas, herramientas y datos. Proyecto final de asistente de IA.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 395,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+        "included": "Almuerzo, bebidas y meriendas. Grupo de hasta 10 menores.",
+        "extras": "Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa.",
+        "deposit": "En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "No para este turno según la edad publicada."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No para este turno según la edad publicada."
+        }
+      },
+      "editorial_reason": "2027-01-04–2027-01-08, a diario de 09:00 a 15:30.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robot-school.de/en/kurs-ai-agents-feriencamp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/kurse",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/agb",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1948-20270104-20270108-ai-agents-feriencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1949",
+      "slug": "robot-school-trickfilm-studio-feriencamp",
+      "provider": "ROBOT SCHOOL · Animation Studio",
+      "country": "Alemania",
+      "iso": "DEU",
+      "place": "ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)",
+      "age": "7–9 años según la ficha del turno.",
+      "programme": "Guion gráfico, animación cuadro a cuadro, sonido y montaje de una película propia.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-03-22–2027-03-25, a diario de 09:00 a 15:30.",
+        "sessions": [
+          [
+            "2027-03-22",
+            "2027-03-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "trickfilm-studio-feriencamp",
+            "start": "2027-03-22",
+            "end": "2027-03-25",
+            "label": "Turno diurno 09:00–15:30.",
+            "price": "EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+            "source": "https://www.robot-school.de/en/kurs-trickfilm-studio-feriencamp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-22",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-22T08:00:00Z",
+                "end_utc": "2027-03-22T14:30:00Z",
+                "topic": "Guion gráfico, animación cuadro a cuadro, sonido y montaje de una película propia.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-23T08:00:00Z",
+                "end_utc": "2027-03-23T14:30:00Z",
+                "topic": "Guion gráfico, animación cuadro a cuadro, sonido y montaje de una película propia.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-24T08:00:00Z",
+                "end_utc": "2027-03-24T14:30:00Z",
+                "topic": "Guion gráfico, animación cuadro a cuadro, sonido y montaje de una película propia.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-25",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-25T08:00:00Z",
+                "end_utc": "2027-03-25T14:30:00Z",
+                "topic": "Guion gráfico, animación cuadro a cuadro, sonido y montaje de una película propia.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 320,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+        "included": "Almuerzo, bebidas y meriendas. Grupo de hasta 10 menores.",
+        "extras": "Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa.",
+        "deposit": "En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. La admisión depende del día de nacimiento y del corte de edad del turno."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. La admisión depende del día de nacimiento y del corte de edad del turno."
+        }
+      },
+      "editorial_reason": "2027-03-22–2027-03-25, a diario de 09:00 a 15:30.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robot-school.de/en/kurs-trickfilm-studio-feriencamp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/kurse",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/agb",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "creative"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-22",
+          "end": "2027-03-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1949-20270322-20270325-trickfilm-studio-feriencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1950",
+      "slug": "robot-school-python-und-ki-feriencamp",
+      "provider": "ROBOT SCHOOL · Python & AI",
+      "country": "Alemania",
+      "iso": "DEU",
+      "place": "ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)",
+      "age": "12–17 años según la ficha del turno.",
+      "programme": "Python, pruebas y depuración. Proyecto final de aplicación o juego.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-03-22–2027-03-25, a diario de 09:00 a 15:30.",
+        "sessions": [
+          [
+            "2027-03-22",
+            "2027-03-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "python-und-ki-feriencamp",
+            "start": "2027-03-22",
+            "end": "2027-03-25",
+            "label": "Turno diurno 09:00–15:30.",
+            "price": "EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+            "source": "https://www.robot-school.de/en/kurs-python-und-ki-feriencamp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-22",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-22T08:00:00Z",
+                "end_utc": "2027-03-22T14:30:00Z",
+                "topic": "Python, pruebas y depuración. Proyecto final de aplicación o juego.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-23T08:00:00Z",
+                "end_utc": "2027-03-23T14:30:00Z",
+                "topic": "Python, pruebas y depuración. Proyecto final de aplicación o juego.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-24T08:00:00Z",
+                "end_utc": "2027-03-24T14:30:00Z",
+                "topic": "Python, pruebas y depuración. Proyecto final de aplicación o juego.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-25",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-25T08:00:00Z",
+                "end_utc": "2027-03-25T14:30:00Z",
+                "topic": "Python, pruebas y depuración. Proyecto final de aplicación o juego.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 320,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+        "included": "Almuerzo, bebidas y meriendas. Grupo de hasta 10 menores.",
+        "extras": "Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa.",
+        "deposit": "En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "No para este turno según la edad publicada."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No para este turno según la edad publicada."
+        }
+      },
+      "editorial_reason": "2027-03-22–2027-03-25, a diario de 09:00 a 15:30.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robot-school.de/en/kurs-python-und-ki-feriencamp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/kurse",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/agb",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-22",
+          "end": "2027-03-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1950-20270322-20270325-python-und-ki-feriencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1951",
+      "slug": "robot-school-robotik-und-physical-ai-feriencamp",
+      "provider": "ROBOT SCHOOL · Robotics & Physical AI",
+      "country": "Alemania",
+      "iso": "DEU",
+      "place": "ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)",
+      "age": "10–12 años según la ficha del turno.",
+      "programme": "Motores, sensores y reconocimiento de imágenes. El robot final clasifica objetos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-03-22–2027-03-25, a diario de 09:00 a 15:30.",
+        "sessions": [
+          [
+            "2027-03-22",
+            "2027-03-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "robotik-und-physical-ai-feriencamp",
+            "start": "2027-03-22",
+            "end": "2027-03-25",
+            "label": "Turno diurno 09:00–15:30.",
+            "price": "EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+            "source": "https://www.robot-school.de/en/kurs-robotik-und-physical-ai-feriencamp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-22",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-22T08:00:00Z",
+                "end_utc": "2027-03-22T14:30:00Z",
+                "topic": "Motores, sensores y reconocimiento de imágenes. El robot final clasifica objetos.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-23",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-23T08:00:00Z",
+                "end_utc": "2027-03-23T14:30:00Z",
+                "topic": "Motores, sensores y reconocimiento de imágenes. El robot final clasifica objetos.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-24",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-24T08:00:00Z",
+                "end_utc": "2027-03-24T14:30:00Z",
+                "topic": "Motores, sensores y reconocimiento de imágenes. El robot final clasifica objetos.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-25",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-25T08:00:00Z",
+                "end_utc": "2027-03-25T14:30:00Z",
+                "topic": "Motores, sensores y reconocimiento de imágenes. El robot final clasifica objetos.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 320,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+        "included": "Almuerzo, bebidas y meriendas. Grupo de hasta 10 menores.",
+        "extras": "Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa.",
+        "deposit": "En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. La admisión depende del día de nacimiento y del corte de edad del turno."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No para este turno según la edad publicada."
+        }
+      },
+      "editorial_reason": "2027-03-22–2027-03-25, a diario de 09:00 a 15:30.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robot-school.de/en/kurs-robotik-und-physical-ai-feriencamp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/kurse",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/agb",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-22",
+          "end": "2027-03-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1951-20270322-20270325-robotik-und-physical-ai-feriencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1952",
+      "slug": "robot-school-forscherlabor-feriencamp",
+      "provider": "ROBOT SCHOOL · Research Lab",
+      "country": "Alemania",
+      "iso": "DEU",
+      "place": "ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)",
+      "age": "8–10 años según la ficha del turno.",
+      "programme": "Circuitos sencillos y sensores con Calliope. Proyecto final de estación de medición.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-03-30–2027-04-02, a diario de 09:00 a 15:30.",
+        "sessions": [
+          [
+            "2027-03-30",
+            "2027-04-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "forscherlabor-feriencamp",
+            "start": "2027-03-30",
+            "end": "2027-04-02",
+            "label": "Turno diurno 09:00–15:30.",
+            "price": "EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+            "source": "https://www.robot-school.de/en/kurs-forscherlabor-feriencamp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-30",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-30T07:00:00Z",
+                "end_utc": "2027-03-30T13:30:00Z",
+                "topic": "Circuitos sencillos y sensores con Calliope. Proyecto final de estación de medición.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-31",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-31T07:00:00Z",
+                "end_utc": "2027-03-31T13:30:00Z",
+                "topic": "Circuitos sencillos y sensores con Calliope. Proyecto final de estación de medición.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-01",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-04-01T07:00:00Z",
+                "end_utc": "2027-04-01T13:30:00Z",
+                "topic": "Circuitos sencillos y sensores con Calliope. Proyecto final de estación de medición.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-02",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-04-02T07:00:00Z",
+                "end_utc": "2027-04-02T13:30:00Z",
+                "topic": "Circuitos sencillos y sensores con Calliope. Proyecto final de estación de medición.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 320,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+        "included": "Almuerzo, bebidas y meriendas. Grupo de hasta 10 menores.",
+        "extras": "Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa.",
+        "deposit": "En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí según el intervalo publicado. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No para este turno según la edad publicada."
+        }
+      },
+      "editorial_reason": "2027-03-30–2027-04-02, a diario de 09:00 a 15:30.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robot-school.de/en/kurs-forscherlabor-feriencamp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/kurse",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/agb",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "science",
+        "makers"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-30",
+          "end": "2027-04-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1952-20270330-20270402-forscherlabor-feriencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1953",
+      "slug": "robot-school-cyber-und-truth-lab-feriencamp",
+      "provider": "ROBOT SCHOOL · Cyber & Truth Lab",
+      "country": "Alemania",
+      "iso": "DEU",
+      "place": "ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)",
+      "age": "13–17 años según la ficha del turno.",
+      "programme": "Cifrado, phishing y detección de deepfakes. Demostración final de protección del sistema.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-03-30–2027-04-02, a diario de 09:00 a 15:30.",
+        "sessions": [
+          [
+            "2027-03-30",
+            "2027-04-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "cyber-und-truth-lab-feriencamp",
+            "start": "2027-03-30",
+            "end": "2027-04-02",
+            "label": "Turno diurno 09:00–15:30.",
+            "price": "EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+            "source": "https://www.robot-school.de/en/kurs-cyber-und-truth-lab-feriencamp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-30",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-30T07:00:00Z",
+                "end_utc": "2027-03-30T13:30:00Z",
+                "topic": "Cifrado, phishing y detección de deepfakes. Demostración final de protección del sistema.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-31",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-31T07:00:00Z",
+                "end_utc": "2027-03-31T13:30:00Z",
+                "topic": "Cifrado, phishing y detección de deepfakes. Demostración final de protección del sistema.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-01",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-04-01T07:00:00Z",
+                "end_utc": "2027-04-01T13:30:00Z",
+                "topic": "Cifrado, phishing y detección de deepfakes. Demostración final de protección del sistema.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-02",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-04-02T07:00:00Z",
+                "end_utc": "2027-04-02T13:30:00Z",
+                "topic": "Cifrado, phishing y detección de deepfakes. Demostración final de protección del sistema.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 320,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+        "included": "Almuerzo, bebidas y meriendas. Grupo de hasta 10 menores.",
+        "extras": "Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa.",
+        "deposit": "En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "No para este turno según la edad publicada."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No para este turno según la edad publicada."
+        }
+      },
+      "editorial_reason": "2027-03-30–2027-04-02, a diario de 09:00 a 15:30.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robot-school.de/en/kurs-cyber-und-truth-lab-feriencamp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/kurse",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/agb",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "technology",
+        "coding"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-30",
+          "end": "2027-04-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1953-20270330-20270402-cyber-und-truth-lab-feriencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1954",
+      "slug": "robot-school-robotik-und-autonomes-fahren-feriencamp",
+      "provider": "ROBOT SCHOOL · Robotics & Autonomous Driving",
+      "country": "Alemania",
+      "iso": "DEU",
+      "place": "ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)",
+      "age": "13–17 años según la ficha del turno.",
+      "programme": "Raspberry Pi, Arduino, Python y visión artificial. Proyecto final de coche robótico con cámara.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-03-30–2027-04-02, a diario de 09:00 a 15:30.",
+        "sessions": [
+          [
+            "2027-03-30",
+            "2027-04-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "robotik-und-autonomes-fahren-feriencamp",
+            "start": "2027-03-30",
+            "end": "2027-04-02",
+            "label": "Turno diurno 09:00–15:30.",
+            "price": "EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+            "source": "https://www.robot-school.de/en/kurs-robotik-und-autonomes-fahren-feriencamp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-30",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-30T07:00:00Z",
+                "end_utc": "2027-03-30T13:30:00Z",
+                "topic": "Raspberry Pi, Arduino, Python y visión artificial. Proyecto final de coche robótico con cámara.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-31",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-31T07:00:00Z",
+                "end_utc": "2027-03-31T13:30:00Z",
+                "topic": "Raspberry Pi, Arduino, Python y visión artificial. Proyecto final de coche robótico con cámara.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-01",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-04-01T07:00:00Z",
+                "end_utc": "2027-04-01T13:30:00Z",
+                "topic": "Raspberry Pi, Arduino, Python y visión artificial. Proyecto final de coche robótico con cámara.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-02",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-04-02T07:00:00Z",
+                "end_utc": "2027-04-02T13:30:00Z",
+                "topic": "Raspberry Pi, Arduino, Python y visión artificial. Proyecto final de coche robótico con cámara.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 320,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+        "included": "Almuerzo, bebidas y meriendas. Grupo de hasta 10 menores.",
+        "extras": "Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa.",
+        "deposit": "En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "No para este turno según la edad publicada."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No para este turno según la edad publicada."
+        }
+      },
+      "editorial_reason": "2027-03-30–2027-04-02, a diario de 09:00 a 15:30.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robot-school.de/en/kurs-robotik-und-autonomes-fahren-feriencamp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/kurse",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/agb",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-30",
+          "end": "2027-04-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1954-20270330-20270402-robotik-und-autonomes-fahren-feriencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1955",
+      "slug": "robot-school-drohnen-pilotenschule-feriencamp",
+      "provider": "ROBOT SCHOOL · Drone Pilot School",
+      "country": "Alemania",
+      "iso": "DEU",
+      "place": "ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)",
+      "age": "10–13 años según la ficha del turno.",
+      "programme": "Seguridad, programación de maniobras de vuelo y recorrido de una misión.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-06-28–2027-07-02, a diario de 09:00 a 15:30.",
+        "sessions": [
+          [
+            "2027-06-28",
+            "2027-07-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "drohnen-pilotenschule-feriencamp",
+            "start": "2027-06-28",
+            "end": "2027-07-02",
+            "label": "Turno diurno 09:00–15:30.",
+            "price": "EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+            "source": "https://www.robot-school.de/en/kurs-drohnen-pilotenschule-feriencamp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-06-28",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-06-28T07:00:00Z",
+                "end_utc": "2027-06-28T13:30:00Z",
+                "topic": "Seguridad, programación de maniobras de vuelo y recorrido de una misión.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-29",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-06-29T07:00:00Z",
+                "end_utc": "2027-06-29T13:30:00Z",
+                "topic": "Seguridad, programación de maniobras de vuelo y recorrido de una misión.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-30",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-06-30T07:00:00Z",
+                "end_utc": "2027-06-30T13:30:00Z",
+                "topic": "Seguridad, programación de maniobras de vuelo y recorrido de una misión.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-01",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-07-01T07:00:00Z",
+                "end_utc": "2027-07-01T13:30:00Z",
+                "topic": "Seguridad, programación de maniobras de vuelo y recorrido de una misión.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-02",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-07-02T07:00:00Z",
+                "end_utc": "2027-07-02T13:30:00Z",
+                "topic": "Seguridad, programación de maniobras de vuelo y recorrido de una misión.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 395,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+        "included": "Almuerzo, bebidas y meriendas. Grupo de hasta 10 menores.",
+        "extras": "Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa.",
+        "deposit": "En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. La admisión depende del día de nacimiento y del corte de edad del turno."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No para este turno según la edad publicada."
+        }
+      },
+      "editorial_reason": "2027-06-28–2027-07-02, a diario de 09:00 a 15:30.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robot-school.de/en/kurs-drohnen-pilotenschule-feriencamp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/kurse",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/agb",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-06-28",
+          "end": "2027-07-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1955-20270628-20270702-drohnen-pilotenschule-feriencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1956",
+      "slug": "robot-school-ki-filmstudio-feriencamp",
+      "provider": "ROBOT SCHOOL · AI Film Studio",
+      "country": "Alemania",
+      "iso": "DEU",
+      "place": "ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)",
+      "age": "10–14 años según la ficha del turno.",
+      "programme": "Guion, rodaje y montaje de un cortometraje con música y efectos de IA.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-07-05–2027-07-09, a diario de 09:00 a 15:30.",
+        "sessions": [
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "ki-filmstudio-feriencamp",
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "label": "Turno diurno 09:00–15:30.",
+            "price": "EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+            "source": "https://www.robot-school.de/en/kurs-ki-filmstudio-feriencamp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-07-05",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-07-05T07:00:00Z",
+                "end_utc": "2027-07-05T13:30:00Z",
+                "topic": "Guion, rodaje y montaje de un cortometraje con música y efectos de IA.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-06",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-07-06T07:00:00Z",
+                "end_utc": "2027-07-06T13:30:00Z",
+                "topic": "Guion, rodaje y montaje de un cortometraje con música y efectos de IA.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-07",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-07-07T07:00:00Z",
+                "end_utc": "2027-07-07T13:30:00Z",
+                "topic": "Guion, rodaje y montaje de un cortometraje con música y efectos de IA.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-08",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-07-08T07:00:00Z",
+                "end_utc": "2027-07-08T13:30:00Z",
+                "topic": "Guion, rodaje y montaje de un cortometraje con música y efectos de IA.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-09",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-07-09T07:00:00Z",
+                "end_utc": "2027-07-09T13:30:00Z",
+                "topic": "Guion, rodaje y montaje de un cortometraje con música y efectos de IA.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 395,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+        "included": "Almuerzo, bebidas y meriendas. Grupo de hasta 10 menores.",
+        "extras": "Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa.",
+        "deposit": "En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. La admisión depende del día de nacimiento y del corte de edad del turno."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No para este turno según la edad publicada."
+        }
+      },
+      "editorial_reason": "2027-07-05–2027-07-09, a diario de 09:00 a 15:30.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robot-school.de/en/kurs-ki-filmstudio-feriencamp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/kurse",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/agb",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "creative",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-05",
+          "end": "2027-07-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1956-20270705-20270709-ki-filmstudio-feriencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1957",
+      "slug": "robot-school-erfinderwerkstatt-feriencamp",
+      "provider": "ROBOT SCHOOL · Inventors’ Workshop",
+      "country": "Alemania",
+      "iso": "DEU",
+      "place": "ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)",
+      "age": "10–13 años según la ficha del turno.",
+      "programme": "Modelado 3D, soldadura y electrónica con Calliope y ESP32. El proyecto final resuelve una necesidad cotidiana.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "2027-07-12–2027-07-16, a diario de 09:00 a 15:30.",
+        "sessions": [
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "erfinderwerkstatt-feriencamp",
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Turno diurno 09:00–15:30.",
+            "price": "EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+            "source": "https://www.robot-school.de/en/kurs-erfinderwerkstatt-feriencamp",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-07-12",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-07-12T07:00:00Z",
+                "end_utc": "2027-07-12T13:30:00Z",
+                "topic": "Modelado 3D, soldadura y electrónica con Calliope y ESP32. El proyecto final resuelve una necesidad cotidiana.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-13",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-07-13T07:00:00Z",
+                "end_utc": "2027-07-13T13:30:00Z",
+                "topic": "Modelado 3D, soldadura y electrónica con Calliope y ESP32. El proyecto final resuelve una necesidad cotidiana.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-14",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-07-14T07:00:00Z",
+                "end_utc": "2027-07-14T13:30:00Z",
+                "topic": "Modelado 3D, soldadura y electrónica con Calliope y ESP32. El proyecto final resuelve una necesidad cotidiana.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-15",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-07-15T07:00:00Z",
+                "end_utc": "2027-07-15T13:30:00Z",
+                "topic": "Modelado 3D, soldadura y electrónica con Calliope y ESP32. El proyecto final resuelve una necesidad cotidiana.",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-16",
+                "start_time": "09:00",
+                "end_time": "15:30",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-07-16T07:00:00Z",
+                "end_utc": "2027-07-16T13:30:00Z",
+                "topic": "Modelado 3D, soldadura y electrónica con Calliope y ESP32. El proyecto final resuelve una necesidad cotidiana.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 395,
+        "currency": "EUR",
+        "unit": "session",
+        "label": "EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización.",
+        "included": "Almuerzo, bebidas y meriendas. Grupo de hasta 10 menores.",
+        "extras": "Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa.",
+        "deposit": "En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. La admisión depende del día de nacimiento y del corte de edad del turno."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No para este turno según la edad publicada."
+        }
+      },
+      "editorial_reason": "2027-07-12–2027-07-16, a diario de 09:00 a 15:30.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robot-school.de/en/kurs-erfinderwerkstatt-feriencamp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/kurse",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/agb",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "makers",
+        "robotics"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1957-20270712-20270716-erfinderwerkstatt-feriencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1958",
+      "slug": "robot-school-robot-kids-workshop",
+      "provider": "ROBOT SCHOOL · Robot Kids",
+      "country": "Alemania",
+      "iso": "DEU",
+      "place": "ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)",
+      "age": "6–9 años según la ficha del taller.",
+      "programme": "Bee-Bot, mTiny o Dash. Primeros comandos, laberintos y pistas de colores.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Elegir una de las fechas publicadas.",
+        "sessions": [
+          [
+            "2027-01-16",
+            "2027-01-16"
+          ],
+          [
+            "2027-03-13",
+            "2027-03-13"
+          ],
+          [
+            "2027-05-22",
+            "2027-05-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "robot-kids-workshop-2027-01-16",
+            "start": "2027-01-16",
+            "end": "2027-01-16",
+            "label": "Sesión presencial 10:00–13:00.",
+            "price": "EUR 79 por taller.",
+            "source": "https://www.robot-school.de/en/kurs-robot-kids-workshop",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-16",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-16T09:00:00Z",
+                "end_utc": "2027-01-16T12:00:00Z",
+                "topic": "Bee-Bot, mTiny o Dash. Primeros comandos, laberintos y pistas de colores.",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "robot-kids-workshop-2027-03-13",
+            "start": "2027-03-13",
+            "end": "2027-03-13",
+            "label": "Sesión presencial 10:00–13:00.",
+            "price": "EUR 79 por taller.",
+            "source": "https://www.robot-school.de/en/kurs-robot-kids-workshop",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-13",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-03-13T09:00:00Z",
+                "end_utc": "2027-03-13T12:00:00Z",
+                "topic": "Bee-Bot, mTiny o Dash. Primeros comandos, laberintos y pistas de colores.",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "robot-kids-workshop-2027-05-22",
+            "start": "2027-05-22",
+            "end": "2027-05-22",
+            "label": "Sesión presencial 10:00–13:00.",
+            "price": "EUR 79 por taller.",
+            "source": "https://www.robot-school.de/en/kurs-robot-kids-workshop",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-05-22",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-05-22T08:00:00Z",
+                "end_utc": "2027-05-22T11:00:00Z",
+                "topic": "Bee-Bot, mTiny o Dash. Primeros comandos, laberintos y pistas de colores.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 79,
+        "currency": "EUR",
+        "unit": "workshop",
+        "label": "EUR 79 por taller.",
+        "included": "Bee-Bot, mTiny o Dash. Primeros comandos, laberintos y pistas de colores.",
+        "extras": "Aún no se confirman el coste total ni las plazas.",
+        "deposit": "En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. La admisión depende del día de nacimiento y del corte de edad del turno."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí según el intervalo publicado. Confirmar plaza e idioma del grupo."
+        }
+      },
+      "editorial_reason": "Elegir una de las fechas publicadas.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robot-school.de/en/kurs-robot-kids-workshop",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/kurse",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/agb",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-16",
+          "end": "2027-01-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1958-20270116-20270116-robot-kids-workshop-2027-01-16"
+          ]
+        },
+        {
+          "start": "2027-03-13",
+          "end": "2027-03-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1958-20270313-20270313-robot-kids-workshop-2027-03-13"
+          ]
+        },
+        {
+          "start": "2027-05-22",
+          "end": "2027-05-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1958-20270522-20270522-robot-kids-workshop-2027-05-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1959",
+      "slug": "robot-school-robot-baumeister-workshop",
+      "provider": "ROBOT SCHOOL · Robot Builders",
+      "country": "Alemania",
+      "iso": "DEU",
+      "place": "ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)",
+      "age": "7–10 años según la ficha del taller.",
+      "programme": "Montar y programar un robot en taller presencial.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Elegir una de las fechas publicadas.",
+        "sessions": [
+          [
+            "2027-01-30",
+            "2027-01-30"
+          ],
+          [
+            "2027-04-10",
+            "2027-04-10"
+          ],
+          [
+            "2027-06-05",
+            "2027-06-05"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "robot-baumeister-workshop-2027-01-30",
+            "start": "2027-01-30",
+            "end": "2027-01-30",
+            "label": "Sesión presencial 10:00–13:00.",
+            "price": "EUR 79 por taller.",
+            "source": "https://www.robot-school.de/en/kurs-robot-baumeister-workshop",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-30",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-01-30T09:00:00Z",
+                "end_utc": "2027-01-30T12:00:00Z",
+                "topic": "Montar y programar un robot en taller presencial.",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "robot-baumeister-workshop-2027-04-10",
+            "start": "2027-04-10",
+            "end": "2027-04-10",
+            "label": "Sesión presencial 10:00–13:00.",
+            "price": "EUR 79 por taller.",
+            "source": "https://www.robot-school.de/en/kurs-robot-baumeister-workshop",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-04-10",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-04-10T08:00:00Z",
+                "end_utc": "2027-04-10T11:00:00Z",
+                "topic": "Montar y programar un robot en taller presencial.",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "robot-baumeister-workshop-2027-06-05",
+            "start": "2027-06-05",
+            "end": "2027-06-05",
+            "label": "Sesión presencial 10:00–13:00.",
+            "price": "EUR 79 por taller.",
+            "source": "https://www.robot-school.de/en/kurs-robot-baumeister-workshop",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-06-05",
+                "start_time": "10:00",
+                "end_time": "13:00",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2027-06-05T08:00:00Z",
+                "end_utc": "2027-06-05T11:00:00Z",
+                "topic": "Montar y programar un robot en taller presencial.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 79,
+        "currency": "EUR",
+        "unit": "workshop",
+        "label": "EUR 79 por taller.",
+        "included": "Montar y programar un robot en taller presencial.",
+        "extras": "Aún no se confirman el coste total ni las plazas.",
+        "deposit": "En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí según el intervalo publicado. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. La admisión depende del día de nacimiento y del corte de edad del turno."
+        }
+      },
+      "editorial_reason": "Elegir una de las fechas publicadas.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robot-school.de/en/kurs-robot-baumeister-workshop",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/kurse",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/agb",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "makers"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-30",
+          "end": "2027-01-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1959-20270130-20270130-robot-baumeister-workshop-2027-01-30"
+          ]
+        },
+        {
+          "start": "2027-04-10",
+          "end": "2027-04-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1959-20270410-20270410-robot-baumeister-workshop-2027-04-10"
+          ]
+        },
+        {
+          "start": "2027-06-05",
+          "end": "2027-06-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1959-20270605-20270605-robot-baumeister-workshop-2027-06-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1960",
+      "slug": "robot-school-computerfuehrerschein-workshop",
+      "provider": "ROBOT SCHOOL · Computer Licence",
+      "country": "Alemania",
+      "iso": "DEU",
+      "place": "ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)",
+      "age": "7–12 años según la ficha del taller.",
+      "programme": "Competencias informáticas iniciales y ejercicios autónomos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Elegir una de las fechas publicadas.",
+        "sessions": [
+          [
+            "2026-11-28",
+            "2026-11-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "computerfuehrerschein-workshop-2026-11-28",
+            "start": "2026-11-28",
+            "end": "2026-11-28",
+            "label": "Sesión presencial 14:00–18:00.",
+            "price": "EUR 79 por taller.",
+            "source": "https://www.robot-school.de/en/kurs-computerfuehrerschein-workshop",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-11-28",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "Europe/Berlin",
+                "start_utc": "2026-11-28T13:00:00Z",
+                "end_utc": "2026-11-28T17:00:00Z",
+                "topic": "Competencias informáticas iniciales y ejercicios autónomos.",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 79,
+        "currency": "EUR",
+        "unit": "workshop",
+        "label": "EUR 79 por taller.",
+        "included": "Competencias informáticas iniciales y ejercicios autónomos.",
+        "extras": "Aún no se confirman el coste total ni las plazas.",
+        "deposit": "En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí según el intervalo publicado. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No para este turno según la edad publicada."
+        }
+      },
+      "editorial_reason": "Elegir una de las fechas publicadas.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.robot-school.de/en/kurs-computerfuehrerschein-workshop",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/kurse",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.robot-school.de/en/agb",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "technology",
+        "coding"
+      ],
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-28",
+          "end": "2026-11-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1960-20261128-20261128-computerfuehrerschein-workshop-2026-11-28"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -343362,7 +345871,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 272,
+  "version": 273,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -356597,7 +359106,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1944,
+      "total_dossiers": 1960,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -378797,6 +381306,106 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP1945",
+      "event_id": "CP1945-20270104-20270108-ki-entdecker-feriencamp",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1946",
+      "event_id": "CP1946-20270104-20270108-game-design-mit-scratch-und-ki-feriencamp",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1947",
+      "event_id": "CP1947-20270104-20270108-ki-roboter-werkstatt-feriencamp",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1948",
+      "event_id": "CP1948-20270104-20270108-ai-agents-feriencamp",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1949",
+      "event_id": "CP1949-20270322-20270325-trickfilm-studio-feriencamp",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1950",
+      "event_id": "CP1950-20270322-20270325-python-und-ki-feriencamp",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1951",
+      "event_id": "CP1951-20270322-20270325-robotik-und-physical-ai-feriencamp",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1952",
+      "event_id": "CP1952-20270330-20270402-forscherlabor-feriencamp",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1953",
+      "event_id": "CP1953-20270330-20270402-cyber-und-truth-lab-feriencamp",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1954",
+      "event_id": "CP1954-20270330-20270402-robotik-und-autonomes-fahren-feriencamp",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1955",
+      "event_id": "CP1955-20270628-20270702-drohnen-pilotenschule-feriencamp",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1956",
+      "event_id": "CP1956-20270705-20270709-ki-filmstudio-feriencamp",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1957",
+      "event_id": "CP1957-20270712-20270716-erfinderwerkstatt-feriencamp",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1958",
+      "event_id": "CP1958-20270116-20270116-robot-kids-workshop-2027-01-16",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1958",
+      "event_id": "CP1958-20270313-20270313-robot-kids-workshop-2027-03-13",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1958",
+      "event_id": "CP1958-20270522-20270522-robot-kids-workshop-2027-05-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1959",
+      "event_id": "CP1959-20270130-20270130-robot-baumeister-workshop-2027-01-30",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1959",
+      "event_id": "CP1959-20270410-20270410-robot-baumeister-workshop-2027-04-10",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1959",
+      "event_id": "CP1959-20270605-20270605-robot-baumeister-workshop-2027-06-05",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1960",
+      "event_id": "CP1960-20261128-20261128-computerfuehrerschein-workshop-2026-11-28",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -383437,10 +386046,30 @@
     "CP1938-20270105-20270202-retro",
     "CP1939-20270202-20270302-mars",
     "CP1940-20270209-20270309-disk",
-    "CP1941-20270412-20270416-burton-wells"
+    "CP1941-20270412-20270416-burton-wells",
+    "CP1945-20270104-20270108-ki-entdecker-feriencamp",
+    "CP1946-20270104-20270108-game-design-mit-scratch-und-ki-feriencamp",
+    "CP1947-20270104-20270108-ki-roboter-werkstatt-feriencamp",
+    "CP1948-20270104-20270108-ai-agents-feriencamp",
+    "CP1949-20270322-20270325-trickfilm-studio-feriencamp",
+    "CP1950-20270322-20270325-python-und-ki-feriencamp",
+    "CP1951-20270322-20270325-robotik-und-physical-ai-feriencamp",
+    "CP1952-20270330-20270402-forscherlabor-feriencamp",
+    "CP1953-20270330-20270402-cyber-und-truth-lab-feriencamp",
+    "CP1954-20270330-20270402-robotik-und-autonomes-fahren-feriencamp",
+    "CP1955-20270628-20270702-drohnen-pilotenschule-feriencamp",
+    "CP1956-20270705-20270709-ki-filmstudio-feriencamp",
+    "CP1957-20270712-20270716-erfinderwerkstatt-feriencamp",
+    "CP1958-20270116-20270116-robot-kids-workshop-2027-01-16",
+    "CP1958-20270313-20270313-robot-kids-workshop-2027-03-13",
+    "CP1958-20270522-20270522-robot-kids-workshop-2027-05-22",
+    "CP1959-20270130-20270130-robot-baumeister-workshop-2027-01-30",
+    "CP1959-20270410-20270410-robot-baumeister-workshop-2027-04-10",
+    "CP1959-20270605-20270605-robot-baumeister-workshop-2027-06-05",
+    "CP1960-20261128-20261128-computerfuehrerschein-workshop-2026-11-28"
   ],
   "integration": {
-    "generated_sessions": 4210,
+    "generated_sessions": 4230,
     "reused_legacy_events": 73,
     "seasonal_windows": 76,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

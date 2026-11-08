@@ -1588,20 +1588,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E154@family-stem.local
-DTSTAMP:20261108T003618Z
+DTSTAMP:20261108T102757Z
 SUMMARY:[Exposición · visita en familia] Festival Nacional de Robótica
   / RoboCup Portugal Open 2027 · visita
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270425
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Entrada gra
- tuita para el público. No hace falta inscribirse como equipo para visit
- ar. Entrada de adultos: Entrada gratuita para el público. No hace falta
-  inscribirse como equipo para visitar.. El festival se celebra del 21 al
-  24 de abril\, con acceso público del 22 al 24 de abril. Horario según
-  las preguntas frecuentes: 22 y 23 de abril de 09:00 a 21:00\, 24 de abr
- il de 09:00 a aproximadamente 17:00\, hora local. Empresas: Junior / Maj
- or\; el festival no promete la presencia de todas las compañías del mu
- ndo. Fuente verificada el 2026-11-07.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Visita grat
+ uita sin inscripción de equipo 22–24.04.2027. El 22 y 23 de abril 09:
+ 00–21:00\, el 24 de abril hasta las 17:00 aproximadamente. Entrada de 
+ adultos: Visita gratuita sin inscripción de equipo 22–24.04.2027. El 
+ 22 y 23 de abril 09:00–21:00\, el 24 de abril hasta las 17:00 aproxima
+ damente.. Visita gratuita sin inscripción de equipo 22–24.04.2027. El
+  22 y 23 de abril 09:00–21:00\, el 24 de abril hasta las 17:00 aproxim
+ adamente. Empresas: Junior / Major\; el festival no promete la presencia
+  de todas las compañías del mundo. Fuente verificada el 2026-11-08.
 LOCATION:Felgueiras · Mercado Municipal\, Portugal
 URL:https://www.festivalnacionalrobotica.pt/en/2027
 STATUS:TENTATIVE
@@ -1959,20 +1959,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E179@family-stem.local
-DTSTAMP:20261006T205843Z
+DTSTAMP:20261108T102757Z
 SUMMARY:[Exposición · visita en familia] Bot Fest Nantes 2027 · Festiv
  al de robótica familiar
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. la entrada 
- familiar / pública se declara directamente\; la clase individual según
-  sus condiciones. Entrada de adultos: padre / acompañante\; el reloj y 
- la actividad individual de verificar.. 10:00–16:30 de forma preliminar
- . Competiciones y demostraciones gratuitas\; Se necesita un registro en 
- diferentes workshops. no se ha declarado la escala mundial de la exposic
- ión industrial. Empresas: Festival educativo\; la presencia de todas la
- s compañías mundiales no se ha anunciado.. Fuente verificada el 2026-1
- 0-02.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Acceso grat
+ uito para todas las edades. Los talleres y SumoBot requieren inscripció
+ n aparte. Entrada de adultos: Acceso gratuito para todas las edades. Los
+  talleres y SumoBot requieren inscripción aparte.. Festival de 10:00 a 
+ 16:30. Incluye robots educativos\, demostración de FTC y concurso SumoB
+ ot. Horario de actividades concretas provisional. Empresas: Festival edu
+ cativo\; la presencia de todas las compañías mundiales no se ha anunci
+ ado.. Fuente verificada el 2026-11-08.
 LOCATION:Nantes · École Polytech\, Rue Christian Pauc\, Francia
 URL:https://botfestnantes.fr/infos-pratiques
 STATUS:TENTATIVE
@@ -6798,6 +6797,65 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. La organiza
  á pendiente.. Fuente verificada el 2026-11-08.
 LOCATION:Nuremberg · Exhibition Centre\, Alemania
 URL:https://sps.mesago.com/nuernberg/en/expo/planning-preparation/opening-hours.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E554@family-stem.local
+DTSTAMP:20261108T102757Z
+SUMMARY:[Exposición · visita en familia] B’ROBOTICS XXL 2027 · Publi
+ c & Family Day
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Familias y 
+ menores invitados. Pendientes los límites de edad de cada taller. Entra
+ da de adultos: La organización aún no publica el programa completo\, l
+ os precios ni la apertura de inscripciones.. 29.05.2027\, de 10:00 a 15:
+ 00. Demostraciones de robots e IA\, talleres y VR. Empresas: Organiza B
+ ’ROBOTICS. La lista de participantes y demostraciones aún está en pr
+ eparación.. Fuente verificada el 2026-11-08.
+LOCATION:B’ROBOTICS · Slingerweg 7D · Breda\, Países Bajos
+URL:https://b-robotics.eu/en/agenda/brobotics-xxl-event-public-family-day/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E555@family-stem.local
+DTSTAMP:20261108T102757Z
+SUMMARY:[Exposición · confirmar admisión de menores] B’ROBOTICS XXL 
+ 2027 · Business & Student Day
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Jornada par
+ a empresas\, equipos de investigación y estudiantes. Aún no se publica
+ n condiciones de acceso de menores. Entrada de adultos: La organización
+  aún no publica el programa completo\, los precios ni la apertura de in
+ scripciones.. La organización aún no publica el programa completo\, lo
+ s precios ni la apertura de inscripciones. Empresas: Organiza B’ROBOTI
+ CS. La lista de participantes y demostraciones aún está en preparació
+ n.. Fuente verificada el 2026-11-08.
+LOCATION:B’ROBOTICS · Slingerweg 7D · Breda\, Países Bajos
+URL:https://b-robotics.eu/en/agenda/brobotics-xxl-event-business-and-student-day/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E556@family-stem.local
+DTSTAMP:20261108T102757Z
+SUMMARY:[Exposición · confirmar admisión de menores] B’ROBOTICS XXL 
+ 2027 · International Day
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Jornada par
+ a empresas\, equipos de investigación y estudiantes. Aún no se publica
+ n condiciones de acceso de menores. Entrada de adultos: La organización
+  aún no publica el programa completo\, los precios ni la apertura de in
+ scripciones.. La organización aún no publica el programa completo\, lo
+ s precios ni la apertura de inscripciones. Empresas: Organiza B’ROBOTI
+ CS. La lista de participantes y demostraciones aún está en preparació
+ n.. Fuente verificada el 2026-11-08.
+LOCATION:B’ROBOTICS · Slingerweg 7D · Breda\, Países Bajos
+URL:https://b-robotics.eu/en/agenda/brobotics-xxl-event-international-day/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

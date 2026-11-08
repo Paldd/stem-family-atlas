@@ -2072,9 +2072,9 @@ Oscar: Condicional por marco general 5–25; edición local, equivalencia de cur
 Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
 Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Páginas nacionales suelen exigir acreditación a extranjeros; open local no se traslada a familia visitante.
 Precio: Tarifa del país / proyecto extranjero según tabla PDF actual; 90 USD de varias sedes nacionales es por proyecto de 1–3 niños. No trasladar 450 MXN mexicanos a otros países; kit fee y viaje aparte.
-Limitaciones: PDF: 4 de diciembre de 2026, plazo 16 de noviembre de 2026; página: 4 de diciembre de 2027 sin plazo. Ningún año se declara inequívoco; no añadido a ICS.
+Limitaciones: La página de Manabí muestra 04.12.2027 sin plazo. La convocatoria general muestra 04.12.2026 y plazo del informe 16.11.2026. Se debe confirmar el año de la etapa.
 Fuente: https://infomatrix.lat/infomatrix-regional-manabi/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### C1238 · Infomatrix · Santo Domingo · 2026
 

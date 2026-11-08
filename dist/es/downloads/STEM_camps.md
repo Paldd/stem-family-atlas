@@ -6626,9 +6626,9 @@ Idioma: EN/ES Technical workshop no confirmado
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: Gratis del programa; grabación obligatoria, lugar no confirmado
 Entrada: Confirmar grupo, nivel después de tres años de experiencia, idioma técnico, lugar y edad antes de la grabación.
-Restricciones: Taller gratuito, grabación anunciada desde el 20 de noviembre 2026. El tiempo de la eslora y el idioma técnico no se han publicado; el horario total del festival 10:00 a 16:30 no se ha aplazado a la duración de la clase.
+Limitaciones: Inscripción al taller gratuito desde el 20.11.2026. Edad 8–12. Festival hasta las 16:30, ficha de entradas hasta las 17:00. Confirmar turno e idioma concretos.
 Fuente: https://botfestnantes.fr/infos-pratiques
-Comprobado: 2026-10-02
+Se ha comprobado: 2026-11-08
 
 ### ~#L407 · Cosmo Robotics Nyon · Academy 8+
 
@@ -11156,6 +11156,38 @@ Precio: PEN 810 por 9 sesiones o PEN 1280 por 15 sesiones.
 Acceso: El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
 Limitaciones: El inicio y la sede dependen del grupo y la sucursal. Se deben confirmar el mínimo de edad y las plazas.
 Fuente: https://pcmiraflores.com/taller/robotica-arduino
+Se ha comprobado: 2026-11-08
+
+### L774 · FIRST LEGO League Québec · Explore · 2027 local team route
+
+lugar: Canadá · Québec
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 6 a 10 años.
+Matvey: Condicional. Confirmar el curso, los requisitos escolares y la admisión del equipo.
+Oscar: Condicional. Confirmar el curso, los requisitos escolares y la admisión del equipo.
+Formato: team
+Idioma: Materiales de Quebec en francés. Confirmar el idioma del jurado en la sede.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Equipo provincial con mentor. Confirmar fechas de clasificación local y acceso de equipos de otro país.
+Limitaciones: Aún no se publican una jornada Explore separada ni las fechas de admisión. El programa general de Laval no confirma plaza Explore.
+Fuente: https://robotiquefirstquebec.org/programmes/fll-explore/
+Se ha comprobado: 2026-11-08
+
+### L775 · AI Kids Club Alicante · Semana Santa 2027
+
+lugar: España · Alicante
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 7–14 años. Para el menor importa si cumple 7 años antes del turno.
+Matvey: Condicional. La edad encaja, confirmar fechas e idioma del grupo.
+Oscar: Condicional. Se exigen 7 años al inicio del turno.
+Formato: day_camp
+Idioma: Se debe confirmar el idioma del campamento. Para colegios asociados se describe inglés con apoyo en español o español.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: La organización anuncia Semana Santa 2027 en Alicante. Aún faltan fechas, precios e inscripción.
+Limitaciones: La organización anuncia Semana Santa 2027 en Alicante. Aún faltan fechas, precios e inscripción.
+Fuente: https://aikidsclub.org/
 Se ha comprobado: 2026-11-08
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
@@ -78516,6 +78548,326 @@ Precio: 2027 · USD 230 por menor. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Sí por edad. Confirmar admisión y plaza. Oscar: Sí por edad. Confirmar admisión y plaza. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://www.bcscrec.com/robotics-camp
+Se ha comprobado: 2026-11-08
+
+### CP1945-20270104-20270108-ki-entdecker-feriencamp · ROBOT SCHOOL · AI Discoverers · Turno diurno 09:00–15:30. · 2027-01-04–2027-01-08
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-01-04 — 2027-01-08
+edad: 6–9 años según la ficha del turno.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. La admisión depende del día de nacimiento y del corte de edad del turno. Oscar: Sí según el intervalo publicado. Confirmar plaza e idioma del grupo. Suplementos: Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-ki-entdecker-feriencamp
+Se ha comprobado: 2026-11-08
+
+### CP1946-20270104-20270108-game-design-mit-scratch-und-ki-feriencamp · ROBOT SCHOOL · Game Design with Scratch & AI · Turno diurno 09:00–15:30. · 2027-01-04–2027-01-08
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-01-04 — 2027-01-08
+edad: 9–12 años según la ficha del turno.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí según el intervalo publicado. Confirmar plaza e idioma del grupo. Oscar: No para este turno según la edad publicada. Suplementos: Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-game-design-mit-scratch-und-ki-feriencamp
+Se ha comprobado: 2026-11-08
+
+### CP1947-20270104-20270108-ki-roboter-werkstatt-feriencamp · ROBOT SCHOOL · AI Robot Lab · Turno diurno 09:00–15:30. · 2027-01-04–2027-01-08
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-01-04 — 2027-01-08
+edad: 10–12 años según la ficha del turno.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. La admisión depende del día de nacimiento y del corte de edad del turno. Oscar: No para este turno según la edad publicada. Suplementos: Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-ki-roboter-werkstatt-feriencamp
+Se ha comprobado: 2026-11-08
+
+### CP1948-20270104-20270108-ai-agents-feriencamp · ROBOT SCHOOL · AI Agents · Turno diurno 09:00–15:30. · 2027-01-04–2027-01-08
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-01-04 — 2027-01-08
+edad: 13–17 años según la ficha del turno.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No para este turno según la edad publicada. Oscar: No para este turno según la edad publicada. Suplementos: Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-ai-agents-feriencamp
+Se ha comprobado: 2026-11-08
+
+### CP1949-20270322-20270325-trickfilm-studio-feriencamp · ROBOT SCHOOL · Animation Studio · Turno diurno 09:00–15:30. · 2027-03-22–2027-03-25
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-03-22 — 2027-03-25
+edad: 7–9 años según la ficha del turno.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. La admisión depende del día de nacimiento y del corte de edad del turno. Oscar: Condicional. La admisión depende del día de nacimiento y del corte de edad del turno. Suplementos: Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-trickfilm-studio-feriencamp
+Se ha comprobado: 2026-11-08
+
+### CP1950-20270322-20270325-python-und-ki-feriencamp · ROBOT SCHOOL · Python & AI · Turno diurno 09:00–15:30. · 2027-03-22–2027-03-25
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-03-22 — 2027-03-25
+edad: 12–17 años según la ficha del turno.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No para este turno según la edad publicada. Oscar: No para este turno según la edad publicada. Suplementos: Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-python-und-ki-feriencamp
+Se ha comprobado: 2026-11-08
+
+### CP1951-20270322-20270325-robotik-und-physical-ai-feriencamp · ROBOT SCHOOL · Robotics & Physical AI · Turno diurno 09:00–15:30. · 2027-03-22–2027-03-25
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-03-22 — 2027-03-25
+edad: 10–12 años según la ficha del turno.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. La admisión depende del día de nacimiento y del corte de edad del turno. Oscar: No para este turno según la edad publicada. Suplementos: Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-robotik-und-physical-ai-feriencamp
+Se ha comprobado: 2026-11-08
+
+### CP1952-20270330-20270402-forscherlabor-feriencamp · ROBOT SCHOOL · Research Lab · Turno diurno 09:00–15:30. · 2027-03-30–2027-04-02
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-03-30 - 2027-04-02
+edad: 8–10 años según la ficha del turno.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí según el intervalo publicado. Confirmar plaza e idioma del grupo. Oscar: No para este turno según la edad publicada. Suplementos: Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-forscherlabor-feriencamp
+Se ha comprobado: 2026-11-08
+
+### CP1953-20270330-20270402-cyber-und-truth-lab-feriencamp · ROBOT SCHOOL · Cyber & Truth Lab · Turno diurno 09:00–15:30. · 2027-03-30–2027-04-02
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-03-30 - 2027-04-02
+edad: 13–17 años según la ficha del turno.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No para este turno según la edad publicada. Oscar: No para este turno según la edad publicada. Suplementos: Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-cyber-und-truth-lab-feriencamp
+Se ha comprobado: 2026-11-08
+
+### CP1954-20270330-20270402-robotik-und-autonomes-fahren-feriencamp · ROBOT SCHOOL · Robotics & Autonomous Driving · Turno diurno 09:00–15:30. · 2027-03-30–2027-04-02
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-03-30 - 2027-04-02
+edad: 13–17 años según la ficha del turno.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 320 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: No para este turno según la edad publicada. Oscar: No para este turno según la edad publicada. Suplementos: Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-robotik-und-autonomes-fahren-feriencamp
+Se ha comprobado: 2026-11-08
+
+### CP1955-20270628-20270702-drohnen-pilotenschule-feriencamp · ROBOT SCHOOL · Drone Pilot School · Turno diurno 09:00–15:30. · 2027-06-28–2027-07-02
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-06-28 — 2027-07-02
+edad: 10–13 años según la ficha del turno.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. La admisión depende del día de nacimiento y del corte de edad del turno. Oscar: No para este turno según la edad publicada. Suplementos: Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-drohnen-pilotenschule-feriencamp
+Se ha comprobado: 2026-11-08
+
+### CP1956-20270705-20270709-ki-filmstudio-feriencamp · ROBOT SCHOOL · AI Film Studio · Turno diurno 09:00–15:30. · 2027-07-05–2027-07-09
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-07-05 - 2027-07-09
+edad: 10–14 años según la ficha del turno.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. La admisión depende del día de nacimiento y del corte de edad del turno. Oscar: No para este turno según la edad publicada. Suplementos: Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-ki-filmstudio-feriencamp
+Se ha comprobado: 2026-11-08
+
+### CP1957-20270712-20270716-erfinderwerkstatt-feriencamp · ROBOT SCHOOL · Inventors’ Workshop · Turno diurno 09:00–15:30. · 2027-07-12–2027-07-16
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-07-12 — 2027-07-16
+edad: 10–13 años según la ficha del turno.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 395 por el turno. Descuento anunciado de hasta 10% según las condiciones de la organización. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. La admisión depende del día de nacimiento y del corte de edad del turno. Oscar: No para este turno según la edad publicada. Suplementos: Entrada habitual desde las 08:30. Cuidado temprano desde las 08:00 y tardío hasta las 16:30 se reservan aparte. Confirmar tarifa. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-erfinderwerkstatt-feriencamp
+Se ha comprobado: 2026-11-08
+
+### CP1958-20270116-20270116-robot-kids-workshop-2027-01-16 · ROBOT SCHOOL · Robot Kids · Sesión presencial 10:00–13:00. · 2027-01-16–2027-01-16
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-01-16 — 2027-01-16
+edad: 6–9 años según la ficha del taller.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 79 por taller. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. La admisión depende del día de nacimiento y del corte de edad del turno. Oscar: Sí según el intervalo publicado. Confirmar plaza e idioma del grupo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-robot-kids-workshop
+Se ha comprobado: 2026-11-08
+
+### CP1958-20270313-20270313-robot-kids-workshop-2027-03-13 · ROBOT SCHOOL · Robot Kids · Sesión presencial 10:00–13:00. · 2027-03-13–2027-03-13
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-03-13 — 2027-03-13
+edad: 6–9 años según la ficha del taller.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 79 por taller. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. La admisión depende del día de nacimiento y del corte de edad del turno. Oscar: Sí según el intervalo publicado. Confirmar plaza e idioma del grupo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-robot-kids-workshop
+Se ha comprobado: 2026-11-08
+
+### CP1958-20270522-20270522-robot-kids-workshop-2027-05-22 · ROBOT SCHOOL · Robot Kids · Sesión presencial 10:00–13:00. · 2027-05-22–2027-05-22
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-05-22 — 2027-05-22
+edad: 6–9 años según la ficha del taller.
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 79 por taller. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. La admisión depende del día de nacimiento y del corte de edad del turno. Oscar: Sí según el intervalo publicado. Confirmar plaza e idioma del grupo. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-robot-kids-workshop
+Se ha comprobado: 2026-11-08
+
+### CP1959-20270130-20270130-robot-baumeister-workshop-2027-01-30 · ROBOT SCHOOL · Robot Builders · Sesión presencial 10:00–13:00. · 2027-01-30–2027-01-30
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-01-30 国 2027-01-30
+edad: 7–10 años según la ficha del taller.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 79 por taller. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí según el intervalo publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional. La admisión depende del día de nacimiento y del corte de edad del turno. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-robot-baumeister-workshop
+Se ha comprobado: 2026-11-08
+
+### CP1959-20270410-20270410-robot-baumeister-workshop-2027-04-10 · ROBOT SCHOOL · Robot Builders · Sesión presencial 10:00–13:00. · 2027-04-10–2027-04-10
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-04-10 — 2027-04-10
+edad: 7–10 años según la ficha del taller.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 79 por taller. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí según el intervalo publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional. La admisión depende del día de nacimiento y del corte de edad del turno. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-robot-baumeister-workshop
+Se ha comprobado: 2026-11-08
+
+### CP1959-20270605-20270605-robot-baumeister-workshop-2027-06-05 · ROBOT SCHOOL · Robot Builders · Sesión presencial 10:00–13:00. · 2027-06-05–2027-06-05
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2027-06-05 — 2027-06-05
+edad: 7–10 años según la ficha del taller.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · EUR 79 por taller. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí según el intervalo publicado. Confirmar plaza e idioma del grupo. Oscar: Condicional. La admisión depende del día de nacimiento y del corte de edad del turno. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-robot-baumeister-workshop
+Se ha comprobado: 2026-11-08
+
+### CP1960-20261128-20261128-computerfuehrerschein-workshop-2026-11-28 · ROBOT SCHOOL · Computer Licence · Sesión presencial 14:00–18:00. · 2026-11-28–2026-11-28
+
+Lugar: Alemania ROBOT SCHOOL · Industriestraße 23b · Steinbach (Taunus)
+Fecha: 2026-11-28 — 2026-11-28
+edad: 7–12 años según la ficha del taller.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en inglés y alemán. Aún no se confirma el idioma de instrucción del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 79 por taller. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí según el intervalo publicado. Confirmar plaza e idioma del grupo. Oscar: No para este turno según la edad publicada. Suplementos: Aún no se confirman el coste total ni las plazas. Pago: En inscripción directa se publica devolución completa hasta 30 días y 50% hasta 14 días. Cotejar el límite exacto y las condiciones según el canal.
+Fuente: https://www.robot-school.de/en/kurs-computerfuehrerschein-workshop
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

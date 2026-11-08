@@ -1,0 +1,584 @@
+{
+  "captures": [
+    {
+      "key": "wropan-national",
+      "url": "https://registro.wropanama.com/sedes/13",
+      "final_url": "https://registro.wropanama.com/sedes/13",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27545,
+      "sha256": "5158d4b1669cf9c9be46d85dbb994433992358cc363dcab29f0efccd823a255d",
+      "file": "wropan-national.html"
+    },
+    {
+      "key": "wropan-register",
+      "url": "https://registro.wropanama.com/",
+      "final_url": "https://registro.wropanama.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 19189,
+      "sha256": "0f8240e8b513a8ad43b94918b575473f8869c7cb3cfa6eac387269bd00e664cf",
+      "file": "wropan-register.html"
+    },
+    {
+      "key": "wropan-login",
+      "url": "https://registro.wropanama.com/entrar",
+      "final_url": "https://registro.wropanama.com/entrar",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 14940,
+      "sha256": "2fec99bd5b01db0fcf55ce784da7b03cb4e548fce35cb8c4aa9b4797531af91d",
+      "file": "wropan-login.html"
+    },
+    {
+      "key": "wropan-season",
+      "url": "https://wropanama.com/temporada",
+      "final_url": "https://wropanama.com/temporada",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 14594,
+      "sha256": "f3f3084fce4bfe58ec1d13d7d608952b2dd6a377388584202d45e9359586903e",
+      "file": "wropan-season.html"
+    },
+    {
+      "key": "wropan-r1",
+      "url": "https://registro.wropanama.com/sedes/1",
+      "final_url": "https://registro.wropanama.com/sedes/1",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27407,
+      "sha256": "2b0808b74382f1da9b91862292170f9a4d8dd19d48c9af9f6145b3d34747ac77",
+      "file": "wropan-r1.html"
+    },
+    {
+      "key": "wropan-r2",
+      "url": "https://registro.wropanama.com/sedes/2",
+      "final_url": "https://registro.wropanama.com/sedes/2",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27407,
+      "sha256": "d924d991a50fd5fd1340b026f79b3eb206ca15a9414136e6a1da6223094b741d",
+      "file": "wropan-r2.html"
+    },
+    {
+      "key": "wropan-r3",
+      "url": "https://registro.wropanama.com/sedes/3",
+      "final_url": "https://registro.wropanama.com/sedes/3",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27407,
+      "sha256": "ff88f473a46e1e3e77a0b84f3c720400da0b7e24d58afd5bd6ee2f55d642f503",
+      "file": "wropan-r3.html"
+    },
+    {
+      "key": "wropan-r4",
+      "url": "https://registro.wropanama.com/sedes/4",
+      "final_url": "https://registro.wropanama.com/sedes/4",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27405,
+      "sha256": "40e6d7f802952b064c7ef2d6661e9b4ee6de5263b88a660195c00700c2d4378f",
+      "file": "wropan-r4.html"
+    },
+    {
+      "key": "wropan-r5",
+      "url": "https://registro.wropanama.com/sedes/5",
+      "final_url": "https://registro.wropanama.com/sedes/5",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27405,
+      "sha256": "2272a0d26804a0853b094d99fc3d4cf16aecd04d62297a1565646e8be2c017d9",
+      "file": "wropan-r5.html"
+    },
+    {
+      "key": "wropan-r6",
+      "url": "https://registro.wropanama.com/sedes/6",
+      "final_url": "https://registro.wropanama.com/sedes/6",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27407,
+      "sha256": "5a3bdbe597b4f01a6d014e081777ddb5e59b171b45d850c72d88fd917cf4f926",
+      "file": "wropan-r6.html"
+    },
+    {
+      "key": "wropan-r7",
+      "url": "https://registro.wropanama.com/sedes/7",
+      "final_url": "https://registro.wropanama.com/sedes/7",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27407,
+      "sha256": "01f19308689dfdc3b8479316697dda8a4509893ac049ae0204bfccbdcd22b59b",
+      "file": "wropan-r7.html"
+    },
+    {
+      "key": "wropan-r8",
+      "url": "https://registro.wropanama.com/sedes/8",
+      "final_url": "https://registro.wropanama.com/sedes/8",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27407,
+      "sha256": "0bff9298482e3f8061aae491f1e687a5450226f89d9d1052ba69ee79f64e3d1a",
+      "file": "wropan-r8.html"
+    },
+    {
+      "key": "wropan-r9",
+      "url": "https://registro.wropanama.com/sedes/9",
+      "final_url": "https://registro.wropanama.com/sedes/9",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27407,
+      "sha256": "6b576b293ddc16bdc3eef50b63b082ed74bda94634f0061bd2883747470e16c3",
+      "file": "wropan-r9.html"
+    },
+    {
+      "key": "wropan-r10",
+      "url": "https://registro.wropanama.com/sedes/10",
+      "final_url": "https://registro.wropanama.com/sedes/10",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27416,
+      "sha256": "165629c2e300cff28a47b1b008ab058502d6f29463963e9193e248fb84cdcb36",
+      "file": "wropan-r10.html"
+    },
+    {
+      "key": "wropan-r11",
+      "url": "https://registro.wropanama.com/sedes/11",
+      "final_url": "https://registro.wropanama.com/sedes/11",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27416,
+      "sha256": "ab7f4eb0a8e5ffb7401ef3dd67148b800bbff6b3416ce3f5c7354085a8bcb64f",
+      "file": "wropan-r11.html"
+    },
+    {
+      "key": "wropan-r12",
+      "url": "https://registro.wropanama.com/sedes/12",
+      "final_url": "https://registro.wropanama.com/sedes/12",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27416,
+      "sha256": "71c226cc761d712f7cdf8244c8624e0993057bb48c748d27facac7c1b50605d2",
+      "file": "wropan-r12.html"
+    },
+    {
+      "key": "wropan-categories",
+      "url": "https://wropanama.com/categorias",
+      "final_url": "https://wropanama.com/categorias",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 14934,
+      "sha256": "f980e58b89199ee8c6a8273b707ed90ad7d5083b4e9444aec137ebfa1883a046",
+      "file": "wropan-categories.html"
+    },
+    {
+      "key": "infomatrix-centro",
+      "url": "https://infomatrix.lat/mexico-centro/",
+      "final_url": "https://infomatrix.lat/mexico-centro/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 218193,
+      "sha256": "2dbadde0f55ee0fc948eb8b296e678069dfe69f3c083fcae7be485ffaeaa87da",
+      "file": "infomatrix-centro.html"
+    },
+    {
+      "key": "im-call-pdf",
+      "url": "https://drive.usercontent.google.com/download?id=1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27&export=download&confirm=t",
+      "final_url": "https://drive.usercontent.google.com/download?id=1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27&export=download&confirm=t",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 1102345,
+      "sha256": "80b83fd183d09abe545e372efdbff8e268e5cfd0852f78053e40358e02dbc75c",
+      "file": "im-call-pdf.pdf"
+    },
+    {
+      "key": "im-c1237",
+      "url": "https://infomatrix.lat/infomatrix-regional-manabi/",
+      "final_url": "https://infomatrix.lat/infomatrix-regional-manabi/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 212031,
+      "sha256": "b6dd5570118c4d16d40bc88152244956d3a197a54cb0488b9b79646158cbd0b4",
+      "file": "im-c1237.html"
+    },
+    {
+      "key": "breda-family",
+      "url": "https://b-robotics.eu/en/agenda/brobotics-xxl-event-public-family-day/",
+      "final_url": "https://b-robotics.eu/en/agenda/brobotics-xxl-event-public-family-day/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 129954,
+      "sha256": "5cd3c6371fbba66e47d4a8067ff77daed6b85fce12ffeb92035c943e1a8114d3",
+      "file": "breda-family.html"
+    },
+    {
+      "key": "breda-students",
+      "url": "https://b-robotics.eu/en/agenda/brobotics-xxl-event-business-and-student-day/",
+      "final_url": "https://b-robotics.eu/en/agenda/brobotics-xxl-event-business-and-student-day/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 129876,
+      "sha256": "4b46e89e3e5d3cf4ca92463c3454ae4dbc7ee800457da842f02dd46fb665a445",
+      "file": "breda-students.html"
+    },
+    {
+      "key": "breda-international",
+      "url": "https://b-robotics.eu/en/agenda/brobotics-xxl-event-international-day/",
+      "final_url": "https://b-robotics.eu/en/agenda/brobotics-xxl-event-international-day/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 130312,
+      "sha256": "dd1d1033fe5f9aaebaa589170df59c85d39f80ab36024739e6816004857c0a5d",
+      "file": "breda-international.html"
+    },
+    {
+      "key": "bot-info",
+      "url": "https://botfestnantes.fr/infos-pratiques",
+      "final_url": "https://botfestnantes.fr/infos-pratiques",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 20818,
+      "sha256": "2f66df9a46ea2b02cdd2f1e92adf0f1b1f931005775acc03080d48dbe1787d6b",
+      "file": "bot-info.html"
+    },
+    {
+      "key": "bot-program",
+      "url": "https://botfestnantes.fr/programme",
+      "final_url": "https://botfestnantes.fr/programme",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 9059,
+      "sha256": "3fe0891d4dd97a44aa25e032ebf725bf15b7916afc22492d612a361fa559964f",
+      "file": "bot-program.html"
+    },
+    {
+      "key": "bot-workshop",
+      "url": "https://www.eventbrite.fr/e/billets-ateliers-devoxx4kids-1998675151180?aff=oddtdtcreator",
+      "final_url": "https://www.eventbrite.fr/e/billets-ateliers-devoxx4kids-1998675151180?aff=oddtdtcreator",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 200704,
+      "sha256": "85275db5da2a49428e4a84f9e1592a561640eb6a8b937e4949242285eed69a41",
+      "file": "bot-workshop.html"
+    },
+    {
+      "key": "fnr",
+      "url": "https://www.festivalnacionalrobotica.pt/en/2027",
+      "final_url": "https://www.festivalnacionalrobotica.pt/en/2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 140980,
+      "sha256": "6a66ed07464dc9cc3db42343db8fedfb6d00c49ee058d32514ead19422a1bb2b",
+      "file": "fnr.html"
+    },
+    {
+      "key": "fnr-faq",
+      "url": "https://www.festivalnacionalrobotica.pt/en/2027/local/faqs",
+      "final_url": "https://www.festivalnacionalrobotica.pt/en/2027/local/faqs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 65926,
+      "sha256": "7894ba63721ab659f29679c5d59a18633d22de15588f12e4eacc9ddd096ebfeb",
+      "file": "fnr-faq.html"
+    },
+    {
+      "key": "fnr-first",
+      "url": "https://www.festivalnacionalrobotica.pt/2027/ligas/first-challenger",
+      "final_url": "https://www.festivalnacionalrobotica.pt/2027/ligas/first-challenger",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 64879,
+      "sha256": "11e8f5b971ececcd3ff1a9e0d3ea8262f7e424c180f6d1e35d17becb4c01098c",
+      "file": "fnr-first.html"
+    },
+    {
+      "key": "fnr-first-pdf",
+      "url": "https://drive.usercontent.google.com/download?id=1uS5AqUOzS5hJ07PCGD67oWcauOVej3-Y&export=download&confirm=t",
+      "final_url": "https://drive.usercontent.google.com/download?id=1uS5AqUOzS5hJ07PCGD67oWcauOVej3-Y&export=download&confirm=t",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 316621,
+      "sha256": "4f285903cc53396f8645ed47083e8691ec3b0d4f6ef6d007b3d692bf5d9bfb98",
+      "file": "fnr-first-pdf.pdf"
+    },
+    {
+      "key": "fnr-reg",
+      "url": "https://www.festivalnacionalrobotica.pt/2027/inscricoes",
+      "final_url": "https://www.festivalnacionalrobotica.pt/2027/inscricoes",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 181972,
+      "sha256": "ccf7591ed89d73162f0b54b6c3ea0a69c4a5f87789c00e5195c1a2e5c5e76fd0",
+      "file": "fnr-reg.html"
+    },
+    {
+      "key": "fnr-free",
+      "url": "https://www.festivalnacionalrobotica.pt/2027/ligas/freebots-junior",
+      "final_url": "https://www.festivalnacionalrobotica.pt/2027/ligas/freebots-junior",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 60709,
+      "sha256": "8216ce7c558de40b58b8179d0e0e8d8d430ea8eece8ab1bb9ddf29edaa976e0c",
+      "file": "fnr-free.html"
+    },
+    {
+      "key": "fnr-free-pdf",
+      "url": "https://drive.usercontent.google.com/download?id=1cHt0DvV1phZ2tv8eO1VZwPF12a6Apse3&export=download&confirm=t",
+      "final_url": "https://drive.usercontent.google.com/download?id=1cHt0DvV1phZ2tv8eO1VZwPF12a6Apse3&export=download&confirm=t",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 114838,
+      "sha256": "1f71ab7db411e369ffe67273371c2bb785ee96d67edf860ee222c534bf3feb61",
+      "file": "fnr-free-pdf.pdf"
+    },
+    {
+      "key": "iter-final",
+      "url": "https://www.itercadarache.cea.fr/Pages/Medias/Evenements/2027-ITER-Robots.aspx",
+      "final_url": "https://www.itercadarache.cea.fr/Pages/Medias/Evenements/2027-ITER-Robots.aspx",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 74401,
+      "sha256": "12bc76f6b1ecef826ea93eee67c5819d70a95d3f6a59dff21ca792a210a23f68",
+      "file": "iter-final.html"
+    },
+    {
+      "key": "iter",
+      "url": "https://www.itercadarache.cea.fr/Pages/AIF_presentation/Science-et-societe/ITER-et-les-jeunes/ITER_Robots/ITER-Robots-2027.aspx",
+      "final_url": "https://www.itercadarache.cea.fr/Pages/AIF_presentation/Science-et-societe/ITER-et-les-jeunes/ITER_Robots/ITER-Robots-2027.aspx",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 82487,
+      "sha256": "331bc74025c1cf0d9f2bfd3454c6b8c3beb00d7eb7684cbce826d0f7c4da6a1f",
+      "file": "iter.html"
+    },
+    {
+      "key": "iter-rules",
+      "url": "https://www.itercadarache.cea.fr/Documents/Iter-robots/2027_CDC_ITER_Robots.pdf",
+      "final_url": "https://www.itercadarache.cea.fr/Documents/Iter-robots/2027_CDC_ITER_Robots.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1094472,
+      "sha256": "9445e1c2ffa0eb5bcabd1704ca5d98a68edb554a93677f7d95c08e40025c3432",
+      "file": "iter-rules.pdf"
+    },
+    {
+      "key": "first-quebec",
+      "url": "https://robotiquefirstquebec.org/evenements/",
+      "final_url": "https://robotiquefirstquebec.org/evenements/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 189186,
+      "sha256": "1771d1b38c33648cc2e22bd0035161008ded30e28eeca522a8e7c27919284ac8",
+      "file": "first-quebec.html"
+    },
+    {
+      "key": "quebec-rivalise",
+      "url": "https://robotiquefirstquebec.org/programmes/fll-rivalise/",
+      "final_url": "https://robotiquefirstquebec.org/programmes/fll-rivalise/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 207570,
+      "sha256": "c4575835e3870466fe20aea2152f78e086dfdbb791ab1c880d30d74a99a98b1e",
+      "file": "quebec-rivalise.html"
+    },
+    {
+      "key": "quebec-explore",
+      "url": "https://robotiquefirstquebec.org/programmes/fll-explore/",
+      "final_url": "https://robotiquefirstquebec.org/programmes/fll-explore/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 208385,
+      "sha256": "444973d93abb7e7066530358fd850458de4cf6299a5a77e5af2e1bc8055ff1f4",
+      "file": "quebec-explore.html"
+    },
+    {
+      "key": "aikids",
+      "url": "https://aikidsclub.org/",
+      "final_url": "https://aikidsclub.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 120255,
+      "sha256": "ea0591f92ca1a2dcc1686c5d205c84e3a9a575fd2b7346658f9d61fe589a7837",
+      "file": "aikids.html"
+    },
+    {
+      "key": "ki-entdecker-feriencamp",
+      "url": "https://www.robot-school.de/en/kurs-ki-entdecker-feriencamp",
+      "final_url": "https://www.robot-school.de/en/kurs-ki-entdecker-feriencamp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 36315,
+      "sha256": "0d51a4d02b571ca2938efad3a4acab2b4364d0f8f63aaabec51b1b333a004d60",
+      "file": "ki-entdecker-feriencamp.html"
+    },
+    {
+      "key": "rs-en",
+      "url": "https://www.robot-school.de/en/kurse",
+      "final_url": "https://www.robot-school.de/en/kurse",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 139880,
+      "sha256": "6ec069403f8ca648272e4821dbab2ee98073447987e57d9e3f4615c77abaf032",
+      "file": "rs-en.html"
+    },
+    {
+      "key": "robot-terms",
+      "url": "https://www.robot-school.de/en/agb",
+      "final_url": "https://www.robot-school.de/en/agb",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 39480,
+      "sha256": "f30ab6608004789837434e4d3bee2348eecab41904d8a8b2d6d0749b653353a9",
+      "file": "robot-terms.html"
+    },
+    {
+      "key": "game-design-mit-scratch-und-ki-feriencamp",
+      "url": "https://www.robot-school.de/en/kurs-game-design-mit-scratch-und-ki-feriencamp",
+      "final_url": "https://www.robot-school.de/en/kurs-game-design-mit-scratch-und-ki-feriencamp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 39033,
+      "sha256": "df1bb16569cee3b606e0b367ae4cb1e02310980cc92f3902c6b3631042f3e57c",
+      "file": "game-design-mit-scratch-und-ki-feriencamp.html"
+    },
+    {
+      "key": "ki-roboter-werkstatt-feriencamp",
+      "url": "https://www.robot-school.de/en/kurs-ki-roboter-werkstatt-feriencamp",
+      "final_url": "https://www.robot-school.de/en/kurs-ki-roboter-werkstatt-feriencamp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 33166,
+      "sha256": "9d6748c441231328d92c8f8bdab7fb5a9bca91d1a4881c6cd6ca16c45b4d31d5",
+      "file": "ki-roboter-werkstatt-feriencamp.html"
+    },
+    {
+      "key": "ai-agents-feriencamp",
+      "url": "https://www.robot-school.de/en/kurs-ai-agents-feriencamp",
+      "final_url": "https://www.robot-school.de/en/kurs-ai-agents-feriencamp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 37121,
+      "sha256": "012d7549c5745985eab0a8d9ef86ef2c4246ad40ee79d06bab0d2776fe457133",
+      "file": "ai-agents-feriencamp.html"
+    },
+    {
+      "key": "trickfilm-studio-feriencamp",
+      "url": "https://www.robot-school.de/en/kurs-trickfilm-studio-feriencamp",
+      "final_url": "https://www.robot-school.de/en/kurs-trickfilm-studio-feriencamp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 36094,
+      "sha256": "b1d799d13d1e8e3cd07be72b4d812df9ab12dcfcb7984bb347a8559ac16c6774",
+      "file": "trickfilm-studio-feriencamp.html"
+    },
+    {
+      "key": "python-und-ki-feriencamp",
+      "url": "https://www.robot-school.de/en/kurs-python-und-ki-feriencamp",
+      "final_url": "https://www.robot-school.de/en/kurs-python-und-ki-feriencamp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 36689,
+      "sha256": "1c0ef1b37a7a6e4502c791f29ce9c0b39413ea9dc394cdbf1edfd00a9341c73c",
+      "file": "python-und-ki-feriencamp.html"
+    },
+    {
+      "key": "robotik-und-physical-ai-feriencamp",
+      "url": "https://www.robot-school.de/en/kurs-robotik-und-physical-ai-feriencamp",
+      "final_url": "https://www.robot-school.de/en/kurs-robotik-und-physical-ai-feriencamp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 39001,
+      "sha256": "d2c2fa2b2e79c176ff821679ae96181935acfcdf10fae1ade549b8e1277d138a",
+      "file": "robotik-und-physical-ai-feriencamp.html"
+    },
+    {
+      "key": "forscherlabor-feriencamp",
+      "url": "https://www.robot-school.de/en/kurs-forscherlabor-feriencamp",
+      "final_url": "https://www.robot-school.de/en/kurs-forscherlabor-feriencamp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 36135,
+      "sha256": "48bf0bf9b0c8cc60f89551a1f94fe67eb313ca54e715983d4b3a8800ec4729ec",
+      "file": "forscherlabor-feriencamp.html"
+    },
+    {
+      "key": "cyber-und-truth-lab-feriencamp",
+      "url": "https://www.robot-school.de/en/kurs-cyber-und-truth-lab-feriencamp",
+      "final_url": "https://www.robot-school.de/en/kurs-cyber-und-truth-lab-feriencamp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 37001,
+      "sha256": "358665b168f1bc74300d434e9466da5f42ad9caccc1b3b24a766852e713c4942",
+      "file": "cyber-und-truth-lab-feriencamp.html"
+    },
+    {
+      "key": "robotik-und-autonomes-fahren-feriencamp",
+      "url": "https://www.robot-school.de/en/kurs-robotik-und-autonomes-fahren-feriencamp",
+      "final_url": "https://www.robot-school.de/en/kurs-robotik-und-autonomes-fahren-feriencamp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 37290,
+      "sha256": "426aca70b53d695fe8ae6378f93e3300fac6e66e95dca3c76e93b4971127b75c",
+      "file": "robotik-und-autonomes-fahren-feriencamp.html"
+    },
+    {
+      "key": "drohnen-pilotenschule-feriencamp",
+      "url": "https://www.robot-school.de/en/kurs-drohnen-pilotenschule-feriencamp",
+      "final_url": "https://www.robot-school.de/en/kurs-drohnen-pilotenschule-feriencamp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 39158,
+      "sha256": "2a1707544497034ba49a042d127c2afbcf2a63722c9603fd2a8ccaed7c38f76f",
+      "file": "drohnen-pilotenschule-feriencamp.html"
+    },
+    {
+      "key": "ki-filmstudio-feriencamp",
+      "url": "https://www.robot-school.de/en/kurs-ki-filmstudio-feriencamp",
+      "final_url": "https://www.robot-school.de/en/kurs-ki-filmstudio-feriencamp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 38884,
+      "sha256": "4aaf80a273e5353fef26f3a87f14b5ca0af82b648e631360f4f3fab7b4092bc8",
+      "file": "ki-filmstudio-feriencamp.html"
+    },
+    {
+      "key": "erfinderwerkstatt-feriencamp",
+      "url": "https://www.robot-school.de/en/kurs-erfinderwerkstatt-feriencamp",
+      "final_url": "https://www.robot-school.de/en/kurs-erfinderwerkstatt-feriencamp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 38978,
+      "sha256": "15b13b22baf3bfba57d8a6c1ac44233c185e0a32dc7916143fd1410385257749",
+      "file": "erfinderwerkstatt-feriencamp.html"
+    },
+    {
+      "key": "robot-kids-workshop",
+      "url": "https://www.robot-school.de/en/kurs-robot-kids-workshop",
+      "final_url": "https://www.robot-school.de/en/kurs-robot-kids-workshop",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 38284,
+      "sha256": "24d4b614ad696ad8f2414c575b45c1257484461d7981b46ee78b5d0c11a62a77",
+      "file": "robot-kids-workshop.html"
+    },
+    {
+      "key": "robot-baumeister-workshop",
+      "url": "https://www.robot-school.de/en/kurs-robot-baumeister-workshop",
+      "final_url": "https://www.robot-school.de/en/kurs-robot-baumeister-workshop",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 35111,
+      "sha256": "2539fda4113d4ccda9b9badc5cf10701647bf9c308305a4f83add9f36ec0d35d",
+      "file": "robot-baumeister-workshop.html"
+    },
+    {
+      "key": "computerfuehrerschein-workshop",
+      "url": "https://www.robot-school.de/en/kurs-computerfuehrerschein-workshop",
+      "final_url": "https://www.robot-school.de/en/kurs-computerfuehrerschein-workshop",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 37995,
+      "sha256": "c0e4bd7b9441d6f538110a4fa4b5c98fd547a10c8eb83d8ecb2f4fb2e3a6da66",
+      "file": "computerfuehrerschein-workshop.html"
+    }
+  ]
+}

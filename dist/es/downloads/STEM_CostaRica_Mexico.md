@@ -1782,9 +1782,9 @@ Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte
 Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
 Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
 Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
-Limitaciones: Página: 5–6 de febrero de 2027 y plazo 8 de febrero de 2026; PDF: 5–6 de marzo de 2027 y 8 de febrero. Sin corregir fecha / plazo por suposición; fuera del calendario confirmado.
+Limitaciones: La página regional indica 05–06.02.2027 y plazo 08.02.2026. La convocatoria general indica 05–06.03.2027 y plazo 08.02 sin año en la celda.
 Fuente: https://infomatrix.lat/mexico-centro/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### C1216 · Infomatrix · Chihuahua · 2027
 

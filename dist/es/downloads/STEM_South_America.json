@@ -10363,18 +10363,22 @@
       "level": "C — red nacional / regional verificada",
       "reward": "Diploma de participación para todos; diploma de puesto, medalla y acreditación solo por resultado. Tras Infomatrix internacional acreditado desde regional / nacional no recibe nueva acreditación en ese evento internacional: ciclo del proyecto concluido.",
       "priority": "P2 — preparación tras comprobar admisión",
-      "action": "Padres: confirmar acceso geográfico, curso, idioma de defensa, plazas y factura completa. Niños: prototipo / código propio, registro de pruebas, informe con aportación de cada uno. Sin enviar contactos ni solicitudes.",
+      "action": "Cotejar con la organización el período vigente de inscripción y entrega del informe. Antes de aclarar las fechas, no planificar el viaje con esta ficha.",
       "source": "https://infomatrix.lat/infomatrix-regional-manabi/",
       "references": [
         {
           "url": "https://drive.google.com/file/d/1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27/view",
           "label": "Convocatoria general actual · tablas comprobadas"
+        },
+        {
+          "url": "https://drive.usercontent.google.com/download?id=1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27&export=download&confirm=t",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "proof": "Comprobados página oficial actual y PDF enlazado; temporada, unidades de tarifa y discrepancias conservadas.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "PDF: 4 de diciembre de 2026, plazo 16 de noviembre de 2026; página: 4 de diciembre de 2027 sin plazo. Ningún año se declara inequívoco; no añadido a ICS.",
+      "note": "La página de Manabí muestra 04.12.2027 sin plazo. La convocatoria general muestra 04.12.2026 y plazo del informe 16.11.2026. Se debe confirmar el año de la etapa.",
       "iso": [
         "ECU"
       ],
@@ -10403,7 +10407,11 @@
           "end": "2027-12-04",
           "source": "https://infomatrix.lat/infomatrix-regional-manabi/"
         }
-      ]
+      ],
+      "reported_start": "2027-12-04",
+      "reported_end": "2027-12-04",
+      "date_conflict": "La página de Manabí muestra 04.12.2027 sin plazo. La convocatoria general muestra 04.12.2026 y plazo del informe 16.11.2026. Se debe confirmar el año de la etapa.",
+      "venue": "Unidad Educativa Jean Piaget"
     },
     {
       "id": "C1238",

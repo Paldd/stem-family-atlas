@@ -8192,18 +8192,22 @@
       "level": "C — red nacional / regional verificada",
       "reward": "Diploma de participación para todos; diploma de puesto, medalla y acreditación solo por resultado. Tras Infomatrix internacional acreditado desde regional / nacional no recibe nueva acreditación en ese evento internacional: ciclo del proyecto concluido.",
       "priority": "P2 — preparación tras comprobar admisión",
-      "action": "Padres: confirmar acceso geográfico, curso, idioma de defensa, plazas y factura completa. Niños: prototipo / código propio, registro de pruebas, informe con aportación de cada uno. Sin enviar contactos ni solicitudes.",
+      "action": "Cotejar con la organización el período vigente de inscripción y entrega del informe. Antes de aclarar las fechas, no planificar el viaje con esta ficha.",
       "source": "https://infomatrix.lat/mexico-centro/",
       "references": [
         {
           "url": "https://drive.google.com/file/d/1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27/view",
           "label": "Convocatoria general actual · tablas comprobadas"
+        },
+        {
+          "url": "https://drive.usercontent.google.com/download?id=1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27&export=download&confirm=t",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "proof": "Comprobados página oficial actual y PDF enlazado; temporada, unidades de tarifa y discrepancias conservadas.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "Página: 5–6 de febrero de 2027 y plazo 8 de febrero de 2026; PDF: 5–6 de marzo de 2027 y 8 de febrero. Sin corregir fecha / plazo por suposición; fuera del calendario confirmado.",
+      "note": "La página regional indica 05–06.02.2027 y plazo 08.02.2026. La convocatoria general indica 05–06.03.2027 y plazo 08.02 sin año en la celda.",
       "iso": [
         "MEX"
       ],
@@ -8232,7 +8236,12 @@
           "end": "2027-03-06",
           "source": "https://drive.google.com/file/d/1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27/view"
         }
-      ]
+      ],
+      "reported_start": "2027-02-05",
+      "reported_end": "2027-02-06",
+      "reported_deadline": "2026-02-08",
+      "date_conflict": "La página regional indica 05–06.02.2027 y plazo 08.02.2026. La convocatoria general indica 05–06.03.2027 y plazo 08.02 sin año en la celda.",
+      "venue": "Planetario El Gran Ehécatl"
     },
     {
       "id": "C1216",
