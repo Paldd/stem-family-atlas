@@ -11990,6 +11990,214 @@ Limitaciones: Hay que inscribir al menor. El adulto permanece en la biblioteca d
 Fuente: https://wexfordcoco.libcal.com/event/4624344
 Se ha comprobado: 2026-11-08
 
+### L826 · Antarctica Live! · WWF / British Antarctic Survey
+
+lugar: Reino Unido · Online · UK / Antarctica
+Fecha: 2026-11-10 国 2026-11-10
+edad: Se recomienda de 7 a 11 años y se admite alumnado de otros niveles.
+Matvey: Condicional. La participación se realiza por el centro escolar y depende del curso.
+Oscar: Condicional. A los 6 años está por debajo de los 7 a 11 recomendados. La organización admite otros niveles por el centro escolar.
+Formato: online
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de cada actividad.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: El formulario lo completa un docente o empleado del centro de al menos 18 años. WWF enviará el enlace. El campo de país no confirma la admisión internacional.
+Limitaciones: El formulario lo completa un docente o empleado del centro de al menos 18 años. WWF enviará el enlace. El campo de país no confirma la admisión internacional.
+Fuente: https://www.wwf.org.uk/get-involved/schools/happy-by-nature/live-lessons
+Se ha comprobado: 2026-11-08
+
+### L827 · POP26 · Pop into the Ocean
+
+lugar: Reino Unido · Online · UK
+Fecha: 2026-11-19 国 2026-11-19
+edad: Para alumnado de primaria.
+Matvey: Condicional. La participación se realiza por el centro escolar y depende del curso.
+Oscar: Condicional. La participación se realiza por el centro escolar y depende del curso.
+Formato: online
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de cada actividad.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: La reserva la realiza el profesorado o el centro. Confirmar la admisión desde otro país.
+Limitaciones: La reserva la realiza el profesorado o el centro. Confirmar la admisión desde otro país.
+Fuente: https://www.stem.org.uk/enrichment/protecting-our-planet-day/pop-sessions
+Se ha comprobado: 2026-11-08
+
+### L828 · POP26 · Pop into the Forest
+
+lugar: Reino Unido · Online · UK
+Fecha: 2026-11-19 国 2026-11-19
+edad: Para alumnado de primaria.
+Matvey: Condicional. La participación se realiza por el centro escolar y depende del curso.
+Oscar: Condicional. La participación se realiza por el centro escolar y depende del curso.
+Formato: online
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de cada actividad.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: La reserva la realiza el profesorado o el centro. Confirmar la admisión desde otro país.
+Limitaciones: La reserva la realiza el profesorado o el centro. Confirmar la admisión desde otro país.
+Fuente: https://www.stem.org.uk/enrichment/protecting-our-planet-day/pop-sessions
+Se ha comprobado: 2026-11-08
+
+### L829 · POP26 · Protecting the Ice
+
+lugar: Reino Unido · Online · UK
+Fecha: 2026-11-19 国 2026-11-19
+edad: La sesión está dirigida a secundaria.
+Matvey: Condicional. La sesión está dirigida a secundaria. No se confirma el acceso de menores más pequeños.
+Oscar: Condicional. La sesión está dirigida a secundaria. No se confirma el acceso de menores más pequeños.
+Formato: online
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de cada actividad.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: La reserva la realiza el profesorado o el centro. Confirmar la admisión desde otro país.
+Limitaciones: La reserva la realiza el profesorado o el centro. Confirmar la admisión desde otro país.
+Fuente: https://www.bas.ac.uk/event/protecting-our-planet-day-2026-livestream-event-for-schools/
+Se ha comprobado: 2026-11-08
+
+### L830 · LEARNZ · Science on Ice
+
+Lugar: Nueva Zelandia Online · McMurdo Sound / Scott Base
+Fecha: 2027-02-22 — 2027-02-22
+edad: Adecuado para iniciarse en ciencia polar desde casa. La ficha no indica edad mínima.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+Formato: online
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de cada actividad.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: LEARNZ ofrece aprendizaje desde casa o el aula. Hay formulario de interés para Science on Ice. Confirmar con el operador el acceso desde otro país.
+Limitaciones: Se prevé publicar los materiales el 22 de febrero de 2027. No se indican hora de publicación ni horario de directo.
+Fuente: https://www.learnz.org.nz/
+Se ha comprobado: 2026-11-08
+
+### L831 · UK Polar Network · Antarctic Flags 2026/27
+
+lugar: Reino Unido · Online · UK / Antarctica
+Fecha: La manifestación de interés para 2026/27 cerró el 8 de octubre de 2026. Los centros confirmados reciben instrucciones. No se anuncia un nuevo plazo.
+edad: Para alumnado de primaria.
+Matvey: Condicional. La participación se realiza por el centro escolar y depende del curso.
+Oscar: Condicional. La participación se realiza por el centro escolar y depende del curso.
+Formato: regular
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de cada actividad.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: La manifestación de interés para 2026/27 cerró el 8 de octubre de 2026. Los centros confirmados reciben instrucciones. No se anuncia un nuevo plazo.
+Limitaciones: La manifestación de interés para 2026/27 cerró el 8 de octubre de 2026. Los centros confirmados reciben instrucciones. No se anuncia un nuevo plazo.
+Fuente: https://polarnetwork.org/education-and-outreach/antarctic-flags/
+Se ha comprobado: 2026-11-08
+
+### L832 · TAAF · L’Astrolabe · Antarctique 2026
+
+lugar: Territorios Australes Franceses · Online · Terre Adélie
+Fecha: Entregas digitales semanales de noviembre a diciembre de 2026. No se publican fechas exactas de entrega.
+edad: Programa para primaria y secundaria. El anuncio indica acceso abierto.
+Matvey: Sí por edad. Confirmar las plazas y las condiciones de participación.
+Oscar: Sí por edad. Confirmar las plazas y las condiciones de participación.
+Formato: online
+Idioma: Materiales de la organización en francés. Confirmar el idioma de cada actividad.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: El programa oficial es gratuito para centros y familias. TAAF publica el enlace al formulario. No se confirmó la recepción de nuevas solicitudes al comprobarlo.
+Limitaciones: Entregas digitales semanales de noviembre a diciembre de 2026. No se publican fechas exactas de entrega.
+Fuente: https://taaf.fr/actualite/plongez-au-coeur-de-lantarctique-et-embarquez-a-bord-de-lastrolabe/
+Se ha comprobado: 2026-11-08
+
+### L833 · TAAF · Marion Dufresne · colis numériques
+
+lugar: Territorios Australes Franceses · Online · Crozet / Kerguelen / îles Australes
+Fecha: Hay 6 entregas digitales en línea. No se publica un calendario de visitas al buque.
+edad: Materiales para Cycle 3, cursos CM1, CM2 y 6e. Los más pequeños pueden explorar con un adulto.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+Formato: online
+Idioma: Materiales de la organización en francés. Confirmar el idioma de cada actividad.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Hay 6 entregas digitales en línea. No se publica un calendario de visitas al buque.
+Limitaciones: Hay 6 entregas digitales en línea. No se publica un calendario de visitas al buque.
+Fuente: https://taaf.fr/ressources-pedagogiques/des-colis-numeriques-pour-decouvrir-les-iles-australes-a-bord-du-marion-dufresne/
+Se ha comprobado: 2026-11-08
+
+### L834 · Classes TAAF · La Réunion · 2026/27
+
+lugar: Reunión · Écoles · Académie de La Réunion
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Primaria y secundaria en la academia de Reunión.
+Matvey: Condicional. La participación se realiza por el centro escolar y depende del curso.
+Oscar: Condicional. La participación se realiza por el centro escolar y depende del curso.
+Formato: regular
+Idioma: Materiales de la organización en francés. Confirmar el idioma de cada actividad.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+Limitaciones: ADAGE recibió candidaturas hasta el 29 de mayo de 2026. Los centros aceptados desarrollan proyectos desde el 18 de agosto de 2026.
+Fuente: https://taaf.fr/actualite/les-classes-taaf-reconduites-pour-lannee-scolaire-2026-2027/
+Se ha comprobado: 2026-11-08
+
+### L835 · YOLO Cuisto · Université des Antilles
+
+lugar: Guadalupe · Campus de Fouillole · Pointe-à-Pitre
+Fecha: 2026-11-13 — 2026-11-13
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+Formato: holiday_workshop
+Idioma: Materiales de la organización en francés. Confirmar el idioma de cada actividad.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: De 08:00 a 13:00 es la franja del puesto. Confirmar la duración de la actividad, la edad y el acceso de la familia.
+Limitaciones: De 08:00 a 13:00 es la franja del puesto. Confirmar la duración de la actividad, la edad y el acceso de la familia.
+Fuente: https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/ProgFDS2026.pdf
+Se ha comprobado: 2026-11-08
+
+### L836 · Le chocolat chaud · apprentissage automatique
+
+lugar: Guadalupe · Campus de Fouillole · Pointe-à-Pitre
+Fecha: 2026-11-13 — 2026-11-13
+edad: Desde 4e en secundaria francesa.
+Matvey: No cumple por nivel. Actividad para secundaria desde 4e.
+Oscar: No cumple por nivel. Actividad para secundaria desde 4e.
+Formato: holiday_workshop
+Idioma: Materiales de la organización en francés. Confirmar el idioma de cada actividad.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Juego escolar para 2 personas, aproximadamente 1 hora. Confirmar con la universidad horario del grupo y acceso.
+Limitaciones: Juego escolar para 2 personas, aproximadamente 1 hora. Confirmar con la universidad horario del grupo y acceso.
+Fuente: https://www.archipel-des-sciences.org/actualites/la-fete-de-la-science/
+Se ha comprobado: 2026-11-08
+
+### L837 · Maryse Project · Chef Anti-Gaspi
+
+lugar: Martinica · Campus universitaire · Schœlcher
+Fecha: 2026-11-21 — 2026-11-21
+edad: Las etiquetas de edad son de 11 a 15 y de 15 a 18 años. La descripción también cita CM1–CM2 y público familiar.
+Matvey: Condicional. Las etiquetas de edad difieren de la descripción. Confirmar con la organización la admisión del menor.
+Oscar: Condicional. Las etiquetas de edad difieren de la descripción. Confirmar con la organización la admisión del menor.
+Formato: holiday_workshop
+Idioma: Materiales de la organización en francés. Confirmar el idioma de cada actividad.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Se recomienda reservar. Hasta 20 participantes. Confirmar por separado edad e idioma del grupo concreto.
+Limitaciones: Se recomienda reservar. Hasta 20 participantes. Confirmar por separado edad e idioma del grupo concreto.
+Fuente: https://www.fetedelascience.fr/chef-anti-gaspi-l-algorithme-qui-cuisine-les-restes
+Se ha comprobado: 2026-11-08
+
+### L838 · Congrès scientifique des enfants · base lunaire
+
+lugar: Guayana Francesa · Guyaspace Expérience · Kourou
+Fecha: Proyecto para el curso escolar. CNES anuncia invitaciones a centros entre finales de septiembre y finales de noviembre. Aún no publica la fecha del encuentro final.
+edad: Cycle 3, cursos CM1, CM2 y 6e.
+Matvey: Condicional. La participación se realiza por el centro escolar y depende del curso.
+Oscar: Condicional. La participación se realiza por el centro escolar y depende del curso.
+Formato: regular
+Idioma: Materiales de la organización en francés. Confirmar el idioma de cada actividad.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Presenta la solicitud el centro. Se seleccionan 6 clases en el territorio. Se permiten parejas de primaria y collège.
+Limitaciones: Proyecto para el curso escolar. CNES anuncia invitaciones a centros entre finales de septiembre y finales de noviembre. Aún no publica la fecha del encuentro final.
+Fuente: https://visite.centrespatialguyanais.cnes.fr/fr/enseignant
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

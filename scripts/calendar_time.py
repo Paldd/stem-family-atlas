@@ -14,3 +14,12 @@ def local_to_utc(day, clock, zone):
     local = datetime.fromisoformat(day + 'T' + clock)
     tz = BC_PACIFIC if zone == 'America/Vancouver' and local >= BC_PERMANENT_PACIFIC_START else ZoneInfo(zone)
     return local.replace(tzinfo=tz).astimezone(timezone.utc)
+
+
+def session_keys(event_id, sessions):
+    """Keep the first session's calendar ID and number further slots that day."""
+    slots = {}
+    for session in sessions:
+        day = session['date']
+        slots[day] = slot = slots.get(day, 0) + 1
+        yield f'{event_id}-{day}' if slot == 1 else f'{event_id}-{day}-{slot}'

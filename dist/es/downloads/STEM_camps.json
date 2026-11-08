@@ -580,9 +580,9 @@
       }
     ],
     "counts": {
-      "records": 5161,
-      "holiday": 4755,
-      "regular": 180,
+      "records": 5174,
+      "holiday": 4758,
+      "regular": 183,
       "self_paced_materials": 4,
       "boarding": 1038,
       "en_es_instruction": 1595,
@@ -593,7 +593,7 @@
       "language_lessons": 414,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 150
+      "countries": 153
     },
     "validation": {
       "version": 51,
@@ -43272,6 +43272,883 @@
       ],
       "related_ids": [
         "E620"
+      ]
+    },
+    {
+      "id": "L826",
+      "title": "Antarctica Live! · WWF / British Antarctic Survey",
+      "block": "Campamentos",
+      "country": "Reino Unido",
+      "region": "Europa",
+      "iso": [
+        "GBR",
+        "ATA"
+      ],
+      "city": "Online · UK / Antarctica",
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "Directo de 14:00 a 14:40 GMT. En Costa Rica de 08:00 a 08:40.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.wwf.org.uk/get-involved/schools/happy-by-nature/live-lessons",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Se recomienda de 7 a 11 años y se admite alumnado de otros niveles.",
+      "mat": "Condicional. La participación se realiza por el centro escolar y depende del curso.",
+      "osc": "Condicional. A los 6 años está por debajo de los 7 a 11 recomendados. La organización admite otros niveles por el centro escolar.",
+      "format": "Conexión con científicos en la Antártida, estudio del clima frío y adaptaciones animales.",
+      "entry": "El formulario lo completa un docente o empleado del centro de al menos 18 años. WWF enviará el enlace. El campo de país no confirma la admisión internacional.",
+      "gear": "",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de cada actividad.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de cada actividad.",
+      "cost": "Gratuito.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "El formulario lo completa un docente o empleado del centro de al menos 18 años. WWF enviará el enlace. El campo de país no confirma la admisión internacional.",
+      "note": "El formulario lo completa un docente o empleado del centro de al menos 18 años. WWF enviará el enlace. El campo de país no confirma la admisión internacional.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Conexión con científicos en la Antártida, estudio del clima frío y adaptaciones animales.",
+      "participation": "online",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "virtual",
+      "sessions": [
+        {
+          "date": "2026-11-10",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "Europe/London",
+          "start_utc": "2026-11-10T14:00:00Z",
+          "end_utc": "2026-11-10T14:40:00Z",
+          "topic": "Antarctica Live! · WWF / British Antarctic Survey",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "L827",
+        "L828",
+        "L829"
+      ]
+    },
+    {
+      "id": "L827",
+      "title": "POP26 · Pop into the Ocean",
+      "block": "Campamentos",
+      "country": "Reino Unido",
+      "region": "Europa",
+      "iso": [
+        "GBR"
+      ],
+      "city": "Online · UK",
+      "start": "2026-11-19",
+      "end": "2026-11-19",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.stem.org.uk/enrichment/protecting-our-planet-day/pop-sessions",
+      "references": [
+        {
+          "url": "https://community.stem.org.uk/blogs/tim-bradbury1/2026/10/22/protecting-our-planet-day-2026-bring-the-science-of-our-changing-planet-into-your-classroom",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://schools.westsussex.gov.uk/Article/193780",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Para alumnado de primaria.",
+      "mat": "Condicional. La participación se realiza por el centro escolar y depende del curso.",
+      "osc": "Condicional. La participación se realiza por el centro escolar y depende del curso.",
+      "format": "Actividad interactiva de Dynamic Earth sobre cómo se estudia el océano.",
+      "entry": "La reserva la realiza el profesorado o el centro. Confirmar la admisión desde otro país.",
+      "gear": "",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de cada actividad.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de cada actividad.",
+      "cost": "Gratuito.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "La reserva la realiza el profesorado o el centro. Confirmar la admisión desde otro país.",
+      "note": "La reserva la realiza el profesorado o el centro. Confirmar la admisión desde otro país.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Actividad interactiva de Dynamic Earth sobre cómo se estudia el océano.",
+      "participation": "online",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "virtual",
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start_time": "09:05",
+          "end_time": "09:45",
+          "timezone": "Europe/London",
+          "start_utc": "2026-11-19T09:05:00Z",
+          "end_utc": "2026-11-19T09:45:00Z",
+          "topic": "POP26 · Pop into the Ocean",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "L826",
+        "L828",
+        "L829"
+      ]
+    },
+    {
+      "id": "L828",
+      "title": "POP26 · Pop into the Forest",
+      "block": "Campamentos",
+      "country": "Reino Unido",
+      "region": "Europa",
+      "iso": [
+        "GBR"
+      ],
+      "city": "Online · UK",
+      "start": "2026-11-19",
+      "end": "2026-11-19",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.stem.org.uk/enrichment/protecting-our-planet-day/pop-sessions",
+      "references": [
+        {
+          "url": "https://community.stem.org.uk/blogs/tim-bradbury1/2026/10/22/protecting-our-planet-day-2026-bring-the-science-of-our-changing-planet-into-your-classroom",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://schools.westsussex.gov.uk/Article/193780",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Para alumnado de primaria.",
+      "mat": "Condicional. La participación se realiza por el centro escolar y depende del curso.",
+      "osc": "Condicional. La participación se realiza por el centro escolar y depende del curso.",
+      "format": "Directo desde el bosque tropical de Eden Project para primaria.",
+      "entry": "La reserva la realiza el profesorado o el centro. Confirmar la admisión desde otro país.",
+      "gear": "",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de cada actividad.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de cada actividad.",
+      "cost": "Gratuito.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "La reserva la realiza el profesorado o el centro. Confirmar la admisión desde otro país.",
+      "note": "La reserva la realiza el profesorado o el centro. Confirmar la admisión desde otro país.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Directo desde el bosque tropical de Eden Project para primaria.",
+      "participation": "online",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "virtual",
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start_time": "09:55",
+          "end_time": "10:30",
+          "timezone": "Europe/London",
+          "start_utc": "2026-11-19T09:55:00Z",
+          "end_utc": "2026-11-19T10:30:00Z",
+          "topic": "POP26 · Pop into the Forest",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "L826",
+        "L827",
+        "L829"
+      ]
+    },
+    {
+      "id": "L829",
+      "title": "POP26 · Protecting the Ice",
+      "block": "Campamentos",
+      "country": "Reino Unido",
+      "region": "Europa",
+      "iso": [
+        "GBR",
+        "ATA"
+      ],
+      "city": "Online · UK",
+      "start": "2026-11-19",
+      "end": "2026-11-19",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.bas.ac.uk/event/protecting-our-planet-day-2026-livestream-event-for-schools/",
+      "references": [
+        {
+          "url": "https://www.stem.org.uk/enrichment/protecting-our-planet-day/pop-sessions",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://community.stem.org.uk/blogs/tim-bradbury1/2026/10/22/protecting-our-planet-day-2026-bring-the-science-of-our-changing-planet-into-your-classroom",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "La sesión está dirigida a secundaria.",
+      "mat": "Condicional. La sesión está dirigida a secundaria. No se confirma el acceso de menores más pequeños.",
+      "osc": "Condicional. La sesión está dirigida a secundaria. No se confirma el acceso de menores más pequeños.",
+      "format": "Conexión con investigadores en estaciones antárticas, datos satelitales y buque RRS Sir David Attenborough.",
+      "entry": "La reserva la realiza el profesorado o el centro. Confirmar la admisión desde otro país.",
+      "gear": "",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de cada actividad.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de cada actividad.",
+      "cost": "Gratuito.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "La reserva la realiza el profesorado o el centro. Confirmar la admisión desde otro país.",
+      "note": "La reserva la realiza el profesorado o el centro. Confirmar la admisión desde otro país.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Conexión con investigadores en estaciones antárticas, datos satelitales y buque RRS Sir David Attenborough.",
+      "participation": "online",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "virtual",
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start_time": "11:30",
+          "end_time": "12:10",
+          "timezone": "Europe/London",
+          "start_utc": "2026-11-19T11:30:00Z",
+          "end_utc": "2026-11-19T12:10:00Z",
+          "topic": "POP26 · Protecting the Ice",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "L826",
+        "L827",
+        "L828"
+      ]
+    },
+    {
+      "id": "L830",
+      "title": "LEARNZ · Science on Ice",
+      "block": "Campamentos",
+      "country": "Nueva Zelanda",
+      "region": "Oceanía",
+      "iso": [
+        "NZL",
+        "ATA"
+      ],
+      "city": "Online · McMurdo Sound / Scott Base",
+      "start": "2027-02-22",
+      "end": "2027-02-22",
+      "period": "Se prevé publicar los materiales el 22 de febrero de 2027. No se indican hora de publicación ni horario de directo.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://www.learnz.org.nz/",
+      "references": [
+        {
+          "url": "https://www.learnz.org.nz/using-learnz",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Adecuado para iniciarse en ciencia polar desde casa. La ficha no indica edad mínima.",
+      "mat": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+      "osc": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+      "format": "Expedición virtual sobre medición del hielo marino, perforación y estudio de testigos de hielo.",
+      "entry": "LEARNZ ofrece aprendizaje desde casa o el aula. Hay formulario de interés para Science on Ice. Confirmar con el operador el acceso desde otro país.",
+      "gear": "",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de cada actividad.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de cada actividad.",
+      "cost": "Gratuito.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "LEARNZ ofrece aprendizaje desde casa o el aula. Hay formulario de interés para Science on Ice. Confirmar con el operador el acceso desde otro país.",
+      "note": "Se prevé publicar los materiales el 22 de febrero de 2027. No se indican hora de publicación ni horario de directo.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Expedición virtual sobre medición del hielo marino, perforación y estudio de testigos de hielo.",
+      "participation": "online",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "release_milestone",
+      "delivery_mode": "virtual",
+      "date_precision": "announced_window",
+      "date_rule": "Se prevé publicar los materiales el 22 de febrero de 2027. No se indican hora de publicación ni horario de directo.",
+      "camp_dossier_slug": "learnz-science-on-ice-2027"
+    },
+    {
+      "id": "L831",
+      "title": "UK Polar Network · Antarctic Flags 2026/27",
+      "block": "Campamentos",
+      "country": "Reino Unido",
+      "region": "Europa",
+      "iso": [
+        "GBR",
+        "ATA"
+      ],
+      "city": "Online · UK / Antarctica",
+      "start": "",
+      "end": "",
+      "period": "La manifestación de interés para 2026/27 cerró el 8 de octubre de 2026. Los centros confirmados reciben instrucciones. No se anuncia un nuevo plazo.",
+      "deadline": "2026-10-08",
+      "date_status": "Cerrado",
+      "checked": "2026-11-08",
+      "source": "https://polarnetwork.org/education-and-outreach/antarctic-flags/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Para alumnado de primaria.",
+      "mat": "Condicional. La participación se realiza por el centro escolar y depende del curso.",
+      "osc": "Condicional. La participación se realiza por el centro escolar y depende del curso.",
+      "format": "El alumnado estudia la Antártida y diseña una bandera. Investigadores fotografían los trabajos aceptados en terreno.",
+      "entry": "La manifestación de interés para 2026/27 cerró el 8 de octubre de 2026. Los centros confirmados reciben instrucciones. No se anuncia un nuevo plazo.",
+      "gear": "",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de cada actividad.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de cada actividad.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P4 — edad inferior al mínimo",
+      "action": "La manifestación de interés para 2026/27 cerró el 8 de octubre de 2026. Los centros confirmados reciben instrucciones. No se anuncia un nuevo plazo.",
+      "note": "La manifestación de interés para 2026/27 cerró el 8 de octubre de 2026. Los centros confirmados reciben instrucciones. No se anuncia un nuevo plazo.",
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "international",
+      "importance_reason": "El alumnado estudia la Antártida y diseña una bandera. Investigadores fotografían los trabajos aceptados en terreno.",
+      "participation": "regular",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "registration_deadline",
+      "delivery_mode": "virtual"
+    },
+    {
+      "id": "L832",
+      "title": "TAAF · L’Astrolabe · Antarctique 2026",
+      "block": "Campamentos",
+      "country": "Territorios Australes Franceses",
+      "region": "África",
+      "iso": [
+        "ATF",
+        "ATA"
+      ],
+      "city": "Online · Terre Adélie",
+      "start": "",
+      "end": "",
+      "period": "Entregas digitales semanales de noviembre a diciembre de 2026. No se publican fechas exactas de entrega.",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://taaf.fr/actualite/plongez-au-coeur-de-lantarctique-et-embarquez-a-bord-de-lastrolabe/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Programa para primaria y secundaria. El anuncio indica acceso abierto.",
+      "mat": "Sí por edad. Confirmar las plazas y las condiciones de participación.",
+      "osc": "Sí por edad. Confirmar las plazas y las condiciones de participación.",
+      "format": "Entregas digitales desde L’Astrolabe sobre el trabajo de la tripulación, la investigación y la tecnología de una estación polar.",
+      "entry": "El programa oficial es gratuito para centros y familias. TAAF publica el enlace al formulario. No se confirmó la recepción de nuevas solicitudes al comprobarlo.",
+      "gear": "",
+      "language": "Materiales de la organización en francés. Confirmar el idioma de cada actividad.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en francés. Confirmar el idioma de cada actividad.",
+      "cost": "Gratuito.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "El programa oficial es gratuito para centros y familias. TAAF publica el enlace al formulario. No se confirmó la recepción de nuevas solicitudes al comprobarlo.",
+      "note": "Entregas digitales semanales de noviembre a diciembre de 2026. No se publican fechas exactas de entrega.",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Entregas digitales desde L’Astrolabe sobre el trabajo de la tripulación, la investigación y la tecnología de una estación polar.",
+      "participation": "online",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "virtual",
+      "camp_dossier_slug": "taaf-astrolabe-2026",
+      "related_ids": [
+        "L833",
+        "E624",
+        "L834"
+      ]
+    },
+    {
+      "id": "L833",
+      "title": "TAAF · Marion Dufresne · colis numériques",
+      "block": "Campamentos",
+      "country": "Territorios Australes Franceses",
+      "region": "África",
+      "iso": [
+        "ATF"
+      ],
+      "city": "Online · Crozet / Kerguelen / îles Australes",
+      "start": "",
+      "end": "",
+      "period": "Hay 6 entregas digitales en línea. No se publica un calendario de visitas al buque.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://taaf.fr/ressources-pedagogiques/des-colis-numeriques-pour-decouvrir-les-iles-australes-a-bord-du-marion-dufresne/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Materiales para Cycle 3, cursos CM1, CM2 y 6e. Los más pequeños pueden explorar con un adulto.",
+      "mat": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+      "osc": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+      "format": "Viaje virtual en buque de suministro. Navegación, profesiones de campo y logística de islas remotas.",
+      "entry": "Hay 6 entregas digitales en línea. No se publica un calendario de visitas al buque.",
+      "gear": "",
+      "language": "Materiales de la organización en francés. Confirmar el idioma de cada actividad.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en francés. Confirmar el idioma de cada actividad.",
+      "cost": "Gratuito.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Hay 6 entregas digitales en línea. No se publica un calendario de visitas al buque.",
+      "note": "Hay 6 entregas digitales en línea. No se publica un calendario de visitas al buque.",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Viaje virtual en buque de suministro. Navegación, profesiones de campo y logística de islas remotas.",
+      "participation": "online",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "virtual",
+      "related_ids": [
+        "L832",
+        "E624",
+        "L834"
+      ]
+    },
+    {
+      "id": "L834",
+      "title": "Classes TAAF · La Réunion · 2026/27",
+      "block": "Campamentos",
+      "country": "Reunión",
+      "region": "África",
+      "iso": [
+        "REU"
+      ],
+      "city": "Écoles · Académie de La Réunion",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "2026-05-29",
+      "date_status": "Cerrado",
+      "checked": "2026-11-08",
+      "source": "https://taaf.fr/actualite/les-classes-taaf-reconduites-pour-lannee-scolaire-2026-2027/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Primaria y secundaria en la academia de Reunión.",
+      "mat": "Condicional. La participación se realiza por el centro escolar y depende del curso.",
+      "osc": "Condicional. La participación se realiza por el centro escolar y depende del curso.",
+      "format": "Proyectos escolares sobre investigación polar y tecnología para entornos extremos.",
+      "entry": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "gear": "",
+      "language": "Materiales de la organización en francés. Confirmar el idioma de cada actividad.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en francés. Confirmar el idioma de cada actividad.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P4 — edad inferior al mínimo",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "ADAGE recibió candidaturas hasta el 29 de mayo de 2026. Los centros aceptados desarrollan proyectos desde el 18 de agosto de 2026.",
+      "themes": [
+        "science",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Proyectos escolares sobre investigación polar y tecnología para entornos extremos.",
+      "participation": "regular",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "registration_deadline",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E624",
+        "L832",
+        "L833"
+      ]
+    },
+    {
+      "id": "L835",
+      "title": "YOLO Cuisto · Université des Antilles",
+      "block": "Campamentos",
+      "country": "Guadalupe",
+      "region": "Caribe",
+      "iso": [
+        "GLP"
+      ],
+      "city": "Campus de Fouillole · Pointe-à-Pitre",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "period": "De 08:00 a 13:00 es la franja del puesto. Confirmar la duración de la actividad, la edad y el acceso de la familia.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/ProgFDS2026.pdf",
+      "references": [
+        {
+          "url": "https://www.archipel-des-sciences.org/actualites/la-fete-de-la-science/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "mat": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+      "osc": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+      "format": "La cámara y YOLO reconocen alimentos. Los menores cambian la posición de los objetos y comparan resultados. Un modelo de lenguaje propone una receta.",
+      "entry": "De 08:00 a 13:00 es la franja del puesto. Confirmar la duración de la actividad, la edad y el acceso de la familia.",
+      "gear": "",
+      "language": "Materiales de la organización en francés. Confirmar el idioma de cada actividad.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en francés. Confirmar el idioma de cada actividad.",
+      "cost": "Gratuito.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "De 08:00 a 13:00 es la franja del puesto. Confirmar la duración de la actividad, la edad y el acceso de la familia.",
+      "note": "De 08:00 a 13:00 es la franja del puesto. Confirmar la duración de la actividad, la edad y el acceso de la familia.",
+      "themes": [
+        "ai",
+        "technology",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "La cámara y YOLO reconocen alimentos. Los menores cambian la posición de los objetos y comparan resultados. Un modelo de lenguaje propone una receta.",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E261",
+        "E628",
+        "L836"
+      ]
+    },
+    {
+      "id": "L836",
+      "title": "Le chocolat chaud · apprentissage automatique",
+      "block": "Campamentos",
+      "country": "Guadalupe",
+      "region": "Caribe",
+      "iso": [
+        "GLP"
+      ],
+      "city": "Campus de Fouillole · Pointe-à-Pitre",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.archipel-des-sciences.org/actualites/la-fete-de-la-science/",
+      "references": [
+        {
+          "url": "https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/ProgFDS2026.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Desde 4e en secundaria francesa.",
+      "mat": "No cumple por nivel. Actividad para secundaria desde 4e.",
+      "osc": "No cumple por nivel. Actividad para secundaria desde 4e.",
+      "format": "Juego matemático sobre datos, aprendizaje y errores del modelo sin utilizar un servicio de IA.",
+      "entry": "Juego escolar para 2 personas, aproximadamente 1 hora. Confirmar con la universidad horario del grupo y acceso.",
+      "gear": "",
+      "language": "Materiales de la organización en francés. Confirmar el idioma de cada actividad.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en francés. Confirmar el idioma de cada actividad.",
+      "cost": "Gratuito.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P4 — edad inferior al mínimo",
+      "action": "Juego escolar para 2 personas, aproximadamente 1 hora. Confirmar con la universidad horario del grupo y acceso.",
+      "note": "Juego escolar para 2 personas, aproximadamente 1 hora. Confirmar con la universidad horario del grupo y acceso.",
+      "themes": [
+        "ai",
+        "games",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Juego matemático sobre datos, aprendizaje y errores del modelo sin utilizar un servicio de IA.",
+      "participation": "holiday_workshop",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E261",
+        "E628",
+        "L835"
+      ]
+    },
+    {
+      "id": "L837",
+      "title": "Maryse Project · Chef Anti-Gaspi",
+      "block": "Campamentos",
+      "country": "Martinica",
+      "region": "Caribe",
+      "iso": [
+        "MTQ"
+      ],
+      "city": "Campus universitaire · Schœlcher",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.fetedelascience.fr/chef-anti-gaspi-l-algorithme-qui-cuisine-les-restes",
+      "references": [
+        {
+          "url": "https://www.fetedelascience.fr/village-des-sciences-de-martinique-2026",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Las etiquetas de edad son de 11 a 15 y de 15 a 18 años. La descripción también cita CM1–CM2 y público familiar.",
+      "mat": "Condicional. Las etiquetas de edad difieren de la descripción. Confirmar con la organización la admisión del menor.",
+      "osc": "Condicional. Las etiquetas de edad difieren de la descripción. Confirmar con la organización la admisión del menor.",
+      "format": "Diseño de un algoritmo con tarjetas, contraste de recetas con IA generativa y visualización de datos.",
+      "entry": "Se recomienda reservar. Hasta 20 participantes. Confirmar por separado edad e idioma del grupo concreto.",
+      "gear": "",
+      "language": "Materiales de la organización en francés. Confirmar el idioma de cada actividad.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en francés. Confirmar el idioma de cada actividad.",
+      "cost": "Gratuito.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Se recomienda reservar. Hasta 20 participantes. Confirmar por separado edad e idioma del grupo concreto.",
+      "note": "Se recomienda reservar. Hasta 20 participantes. Confirmar por separado edad e idioma del grupo concreto.",
+      "themes": [
+        "ai",
+        "coding",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Diseño de un algoritmo con tarjetas, contraste de recetas con IA generativa y visualización de datos.",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "timezone": "America/Martinique",
+          "start_utc": "2026-11-21T14:00:00Z",
+          "end_utc": "2026-11-21T15:15:00Z",
+          "topic": "Maryse Project · Chef Anti-Gaspi",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "11:15",
+          "end_time": "12:15",
+          "timezone": "America/Martinique",
+          "start_utc": "2026-11-21T15:15:00Z",
+          "end_utc": "2026-11-21T16:15:00Z",
+          "topic": "Maryse Project · Chef Anti-Gaspi",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "12:30",
+          "end_time": "13:30",
+          "timezone": "America/Martinique",
+          "start_utc": "2026-11-21T16:30:00Z",
+          "end_utc": "2026-11-21T17:30:00Z",
+          "topic": "Maryse Project · Chef Anti-Gaspi",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "13:45",
+          "end_time": "14:45",
+          "timezone": "America/Martinique",
+          "start_utc": "2026-11-21T17:45:00Z",
+          "end_utc": "2026-11-21T18:45:00Z",
+          "topic": "Maryse Project · Chef Anti-Gaspi",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "15:00",
+          "end_time": "16:00",
+          "timezone": "America/Martinique",
+          "start_utc": "2026-11-21T19:00:00Z",
+          "end_utc": "2026-11-21T20:00:00Z",
+          "topic": "Maryse Project · Chef Anti-Gaspi",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "16:00",
+          "end_time": "17:00",
+          "timezone": "America/Martinique",
+          "start_utc": "2026-11-21T20:00:00Z",
+          "end_utc": "2026-11-21T21:00:00Z",
+          "topic": "Maryse Project · Chef Anti-Gaspi",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "E262",
+        "E630"
+      ]
+    },
+    {
+      "id": "L838",
+      "title": "Congrès scientifique des enfants · base lunaire",
+      "block": "Campamentos",
+      "country": "Guayana Francesa",
+      "region": "América del Sur",
+      "iso": [
+        "GUF"
+      ],
+      "city": "Guyaspace Expérience · Kourou",
+      "start": "",
+      "end": "",
+      "period": "Proyecto para el curso escolar. CNES anuncia invitaciones a centros entre finales de septiembre y finales de noviembre. Aún no publica la fecha del encuentro final.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://visite.centrespatialguyanais.cnes.fr/fr/enseignant",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Cycle 3, cursos CM1, CM2 y 6e.",
+      "mat": "Condicional. La participación se realiza por el centro escolar y depende del curso.",
+      "osc": "Condicional. La participación se realiza por el centro escolar y depende del curso.",
+      "format": "Proyecto escolar de una base lunar con experimentos. Incluye materiales y formación docente.",
+      "entry": "Presenta la solicitud el centro. Se seleccionan 6 clases en el territorio. Se permiten parejas de primaria y collège.",
+      "gear": "",
+      "language": "Materiales de la organización en francés. Confirmar el idioma de cada actividad.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en francés. Confirmar el idioma de cada actividad.",
+      "cost": "Gratuito.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Presenta la solicitud el centro. Se seleccionan 6 clases en el territorio. Se permiten parejas de primaria y collège.",
+      "note": "Proyecto para el curso escolar. CNES anuncia invitaciones a centros entre finales de septiembre y finales de noviembre. Aún no publica la fecha del encuentro final.",
+      "themes": [
+        "engineering",
+        "technology",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Proyecto escolar de una base lunar con experimentos. Incluye materiales y formación docente.",
+      "participation": "regular",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "camp_dossier_slug": "guf-childrens-science-congress",
+      "related_ids": [
+        "E451",
+        "C3457"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2058 fichas en 130 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Base actualizada al 2026-11-08. 2061 fichas en 132 países. Cada ficha indica las fechas de revisión de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -163151,6 +163151,116 @@ Irlanda · Our Lady of Dolours Parish Centre · Glasnevin, Dublin
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://junioreinsteinsscienceclub.com/events/junior-astronauts-space-science-camp-in-glasnevin-dublin-saturday-2nd-january-2pm-5pm/) · 2026-11-08
+
+## CP2059 · LEARNZ · Science on Ice
+
+Nueva Zelanda · Online · McMurdo Sound / Scott Base
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Adecuado para iniciarse en ciencia polar desde casa. La ficha no indica edad mínima.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de cada actividad.
+
+**Programa:** Expedición virtual sobre medición del hielo marino, perforación y estudio de testigos de hielo.
+
+**Alojamiento:** En línea. No se necesita visitar la estación de investigación.
+
+**Fechas / estado:** Se prevé publicar los materiales el 22 de febrero de 2027. No se indican hora de publicación ni horario de directo.
+
+**Precio / año:** 2026 · Gratis.
+
+**Suplementos:** LEARNZ ofrece aprendizaje desde casa o el aula. Hay formulario de interés para Science on Ice. Confirmar con el operador el acceso desde otro país.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Cotejar edad, grado y requisitos de acceso.
+
+**Oscar:** Condicional. Cotejar edad, grado y requisitos de acceso.
+
+**Motivo de selección:** Se prevé publicar los materiales el 22 de febrero de 2027. No se indican hora de publicación ni horario de directo.
+
+### Antes de solicitar plaza
+
+- LEARNZ ofrece aprendizaje desde casa o el aula. Hay formulario de interés para Science on Ice. Confirmar con el operador el acceso desde otro país.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.learnz.org.nz/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.learnz.org.nz/using-learnz) · 2026-11-08
+
+## CP2060 · TAAF · L’Astrolabe · Antarctique 2026
+
+Territorios Australes Franceses · Online · Terre Adélie
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Programa para primaria y secundaria. El anuncio indica acceso abierto.
+
+**Idioma:** Materiales de la organización en francés. Confirmar el idioma de cada actividad.
+
+**Programa:** Entregas digitales desde L’Astrolabe sobre el trabajo de la tripulación, la investigación y la tecnología de una estación polar.
+
+**Alojamiento:** En línea. No se necesita visitar la estación de investigación.
+
+**Fechas / estado:** Entregas digitales semanales de noviembre a diciembre de 2026. No se publican fechas exactas de entrega.
+
+**Precio / año:** 2026 · Gratis.
+
+**Suplementos:** El programa oficial es gratuito para centros y familias. TAAF publica el enlace al formulario. No se confirmó la recepción de nuevas solicitudes al comprobarlo.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar las plazas y las condiciones de participación.
+
+**Oscar:** Sí por edad. Confirmar las plazas y las condiciones de participación.
+
+**Motivo de selección:** Entregas digitales semanales de noviembre a diciembre de 2026. No se publican fechas exactas de entrega.
+
+### Antes de solicitar plaza
+
+- El programa oficial es gratuito para centros y familias. TAAF publica el enlace al formulario. No se confirmó la recepción de nuevas solicitudes al comprobarlo.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://taaf.fr/actualite/plongez-au-coeur-de-lantarctique-et-embarquez-a-bord-de-lastrolabe/) · 2026-11-08
+
+## CP2061 · Congrès scientifique des enfants · base lunaire
+
+Guayana Francesa · Guyaspace Expérience · Kourou
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Cycle 3, cursos CM1, CM2 y 6e.
+
+**Idioma:** Materiales de la organización en francés. Confirmar el idioma de cada actividad.
+
+**Programa:** Proyecto escolar de una base lunar con experimentos. Incluye materiales y formación docente.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Proyecto para el curso escolar. CNES anuncia invitaciones a centros entre finales de septiembre y finales de noviembre. Aún no publica la fecha del encuentro final.
+
+**Precio / año:** 2026 · Gratis.
+
+**Suplementos:** Presenta la solicitud el centro. Se seleccionan 6 clases en el territorio. Se permiten parejas de primaria y collège.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. La participación se realiza por el centro escolar y depende del curso.
+
+**Oscar:** Condicional. La participación se realiza por el centro escolar y depende del curso.
+
+**Motivo de selección:** Proyecto para el curso escolar. CNES anuncia invitaciones a centros entre finales de septiembre y finales de noviembre. Aún no publica la fecha del encuentro final.
+
+### Antes de solicitar plaza
+
+- Presenta la solicitud el centro. Se seleccionan 6 clases en el territorio. Se permiten parejas de primaria y collège.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://visite.centrespatialguyanais.cnes.fr/fr/enseignant) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

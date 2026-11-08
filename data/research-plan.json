@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 292,
+    "version": 293,
     "status": "implementation_snapshot",
-    "events": 10493,
+    "events": 10514,
     "competitions": 4709,
     "league_profiles": 303,
-    "camp_dossiers": 2058,
+    "camp_dossiers": 2061,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 623,
+    "exhibitions_events": 631,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 291,
+    "version": 292,
     "status": "implementation_snapshot",
-    "events": 10465,
-    "competitions": 4705,
+    "events": 10493,
+    "competitions": 4709,
     "league_profiles": 303,
-    "camp_dossiers": 2044,
+    "camp_dossiers": 2058,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 617,
+    "exhibitions_events": 623,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 292,
+    "prepared_ui_version": 293,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 291,
-    "previous_verified_commit": "d7bf07ff8fe2bfa96845a00796bb83688a89f803"
+    "previous_verified_ui_version": 292,
+    "previous_verified_commit": "16262ab4b934be742009dbd0fb7a3ca09eff8471"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 291,
-    "published_version": 291,
-    "latest_source_commit": "d7bf07ff8fe2bfa96845a00796bb83688a89f803",
-    "published_commit": "d7bf07ff8fe2bfa96845a00796bb83688a89f803",
-    "latest_workflow": 42504611089,
+    "latest_source_version": 292,
+    "published_version": 292,
+    "latest_source_commit": "16262ab4b934be742009dbd0fb7a3ca09eff8471",
+    "published_commit": "16262ab4b934be742009dbd0fb7a3ca09eff8471",
+    "latest_workflow": 42506308761,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -29806,5 +29806,113 @@
     },
     "audit": "data/island-coverage-and-ireland-audit-v292.json",
     "source_receipts": "data/island-coverage-and-ireland-source-receipts-v292.json"
+  },
+  "polar_and_overseas_programmes_v293": {
+    "version": 293,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "L826",
+      "L827",
+      "L828",
+      "L829",
+      "L830",
+      "L831",
+      "L832",
+      "L833",
+      "L834",
+      "E624",
+      "E625",
+      "E626",
+      "E627",
+      "E628",
+      "L835",
+      "L836",
+      "L837",
+      "E629",
+      "E630",
+      "E631",
+      "L838"
+    ],
+    "new_dossiers": [
+      "CP2059",
+      "CP2060",
+      "CP2061"
+    ],
+    "new_dated_variants": 0,
+    "refreshed_event_ids": [
+      "E261",
+      "E262",
+      "E451",
+      "C3457"
+    ],
+    "legacy_overlay_event_ids": [
+      "E261",
+      "E262",
+      "E451",
+      "C3457"
+    ],
+    "dossier_event_links": {
+      "learnz-science-on-ice-2027": [
+        "L830"
+      ],
+      "taaf-astrolabe-2026": [
+        "L832"
+      ],
+      "guf-childrens-science-congress": [
+        "L838"
+      ]
+    },
+    "newly_represented_geographies": [
+      "ATA",
+      "ATF",
+      "SGS"
+    ],
+    "source_requests": 31,
+    "fds_ministry_snapshot": {
+      "total_date_filtered_rows": 101,
+      "martinique_rows": 44,
+      "guadeloupe_rows": 0,
+      "scope": "validated uncancelled listings ending on or after 2026-11-08; Guadeloupe separate official programme used"
+    },
+    "polar": {
+      "wwf": "L826",
+      "pop": [
+        "L827",
+        "L828",
+        "L829"
+      ],
+      "learnz": "L830",
+      "closed_flags": "L831",
+      "taaf_home": "L832",
+      "marion": "L833",
+      "closed_classes": "L834",
+      "sgs_onsite": "E625",
+      "sgs_virtual": "E626"
+    },
+    "french_islands": {
+      "guadeloupe": [
+        "E628",
+        "L835",
+        "L836"
+      ],
+      "martinique": [
+        "L837",
+        "E629",
+        "E630"
+      ],
+      "martinique_age_discrepancy": "structured ages 11–18; text also names CM1–CM2 and family audience",
+      "guiana_class": "L838",
+      "reu_archived": "E631"
+    },
+    "source_limits": {
+      "taaf_form_direct_http": 403,
+      "taaf_form_web_http": 502,
+      "pop_timetable": "organizer public search excerpt, direct endpoint 403",
+      "bas": "organizer web text readback, direct HTTP 202 challenge"
+    },
+    "audit": "data/polar-and-overseas-programmes-audit-v293.json",
+    "source_receipts": "data/polar-and-overseas-programmes-source-receipts-v293.json"
   }
 }

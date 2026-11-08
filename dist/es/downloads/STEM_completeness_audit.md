@@ -6,20 +6,20 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10493; competiciones: 4709; eventos: 623; campamentos / programas: 5161. Perfiles de ligas y programas: 303. Fichas de exposiciones grandes y especializadas: 524 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10514; competiciones: 4709; eventos: 631; campamentos / programas: 5174. Perfiles de ligas y programas: 303. Fichas de exposiciones grandes y especializadas: 532 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros concretos para 239 de 249 países y territorios. Países auditados por completo: 0. En la revisión del archivo v51 se incorporaron fichas: 21, perfiles: 3. Se conservaron todas las fichas anteriores.
+Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 1938 | 128 | 1326 |
-| América del Sur | 14 | 433 | 45 | 207 |
-| Europa | 54 | 612 | 128 | 1486 |
-| África | 58 | 247 | 38 | 125 |
+| América del Norte | 41 | 1938 | 131 | 1329 |
+| América del Sur | 15 | 433 | 47 | 208 |
+| Europa | 55 | 612 | 129 | 1491 |
+| África | 60 | 247 | 40 | 128 |
 | Asia | 50 | 1168 | 153 | 1667 |
-| Oceanía | 26 | 167 | 30 | 335 |
+| Oceanía | 27 | 167 | 30 | 336 |
 
 Fichas interregionales o globales sin continente único: 166. América del Norte incluye América Central y el Caribe. Los recuentos describen el inventario de la base y no miden su exhaustividad.
 
@@ -559,8 +559,8 @@ VEX: 814 de las 4709 fichas de competiciones (17.3%). Existe un sesgo de cobertu
 - **Automation World · AW 2027** — Corea del Sur; 2027-03-03 – 2027-03-05. el permiso de entrada de niños. https://www.automationworld.co.kr/?hl=en
 - **Datacentre & Cloud Infrastructure Expo · DCCI Malaysia 2027** — Malasia; 2027-05-04 – 2027-05-05. el permiso de entrada de niños. https://www.malaysia.dccisummit.com/
 - **Malaysia Technology Expo · próxima edición presencial** — Malasia; fecha desconocida. Confirmar acceso infantil. https://www.mte.org.my/
-- **Fête de la Science Guadeloupe · AI / maker programme** — Guadalupe; 2026-11-12 – 2026-11-20. con un adulto; condiciones de admisión adulta por separado. https://www.archipel-des-sciences.org/actualites/la-fete-de-la-science/
-- **Village des Sciences Martinique · family day / AI stand** — Martinica; 2026-11-21. con un adulto; condiciones de admisión adulta por separado. https://www.carbet-sciences.com/fete-de-la-science/
+- **Fête de la Science Guadeloupe 2026 · programme public** — Guadalupe; 2026-11-12 – 2026-11-20. con un adulto; condiciones de admisión adulta por separado. https://www.archipel-des-sciences.org/actualites/la-fete-de-la-science/
+- **Village des Sciences Martinique 2026 · family day** — Martinica; 2026-11-21. con un adulto; condiciones de admisión adulta por separado. https://www.carbet-sciences.com/fete-de-la-science/
 - **Infomatrix World Finals · public exhibition watch** — Rumanía; fecha desconocida. Confirmar acceso infantil. https://infomatrix.ro/
 - **ROBOTICA + ROBOFIRST Ukraine · next festival watch** — Ucrania; fecha desconocida. Confirmar acceso infantil. http://robotica.in.ua/
 - **AI for Good Global Summit · Innovation Expo 2027** — Suiza; 2027-06-21 – 2027-06-24. con un adulto; condiciones de admisión adulta por separado. https://2027summit.aiforgood.itu.int/
@@ -895,6 +895,14 @@ VEX: 814 de las 4709 fichas de competiciones (17.3%). Existe un sesgo de cobertu
 - **Galway Science & Technology Festival · Exhibition 2026** — Irlanda; 2026-11-08. con un adulto; condiciones de admisión adulta por separado. https://galwayscience.ie/whats-on/
 - **Full STEAM Ahead! · Family Fun Day · Kells Library** — Irlanda; 2026-11-14. con un adulto; condiciones de admisión adulta por separado. https://www.meath.ie/council/council-services/libraries/library-events/full-steam-ahead-family-fun-day-at-kells-library
 - **Science Week Demo Day · National Print Museum** — Irlanda; 2026-11-15. con un adulto; condiciones de admisión adulta por separado. https://www.nationalprintmuseum.ie/whats-on/science-week-demo-day-2/
+- **TAAF · Hall d’exposition Kerveguen** — Reunión; fecha desconocida. Confirmar acceso infantil. https://taaf.fr/sinformer/visite-du-siege-et-du-marion-dufresne/
+- **South Georgia Museum · Maritime & Discovery** — Islas Georgia del Sur y Sandwich del Sur; fecha desconocida. Confirmar acceso infantil. https://sgmuseum.gs/the-museum/
+- **South Georgia Museum · Virtual galleries** — Islas Georgia del Sur y Sandwich del Sur; exposición virtual sin fecha fija. https://sgmuseum.gs/the-museum/explore-the-museum/
+- **Ice Station RGS 2026 · British Antarctic Survey** — Reino Unido; 2026-12-03. el permiso de entrada de niños. https://www.rgs.org/events/upcoming-events/ice-station-2026
+- **Village des Sciences · Bik’Lab Microfusées** — Guadalupe; 2026-11-17 – 2026-11-19. el permiso de entrada de niños. https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/ProgFDS2026.pdf
+- **OVSM-IPGP · Observatoire volcanologique et sismologique** — Martinica; 2026-11-14. con un adulto; condiciones de admisión adulta por separado. https://www.fetedelascience.fr/visite-guidee-de-l-observatoire-volcanologique-et-sismologique-de-la-martinique-ovsm-ipgp-1
+- **BRGM · Géosciences en Martinique** — Martinica; 2026-11-21. con un adulto; condiciones de admisión adulta por separado. https://www.fetedelascience.fr/geosciences-en-martinique
+- **Cité du Volcan · Village des Sciences 2026** — Reunión; 2026-10-02 – 2026-10-12. el permiso de entrada de niños. https://www.fetedelascience.fr/village-des-sciences-de-la-cite-du-volcan-2026
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

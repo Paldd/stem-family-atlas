@@ -6,20 +6,20 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 10493; соревнований: 4709; событий: 623; лагерей / программ: 5161. Профилей лиг и программ: 303. Карточек крупных и профильных выставок: 524 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 10514; соревнований: 4709; событий: 631; лагерей / программ: 5174. Профилей лиг и программ: 303. Карточек крупных и профильных выставок: 532 — это издания и площадки, не число уникальных брендов.
 
-Конкретные записи есть для 239 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
+Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
 ## Охват по континентам
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 41 | 1938 | 128 | 1326 |
-| Южная Америка | 14 | 433 | 45 | 207 |
-| Европа | 54 | 612 | 128 | 1486 |
-| Африка | 58 | 247 | 38 | 125 |
+| Северная Америка | 41 | 1938 | 131 | 1329 |
+| Южная Америка | 15 | 433 | 47 | 208 |
+| Европа | 55 | 612 | 129 | 1491 |
+| Африка | 60 | 247 | 40 | 128 |
 | Азия | 50 | 1168 | 153 | 1667 |
-| Океания | 26 | 167 | 30 | 335 |
+| Океания | 27 | 167 | 30 | 336 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 166. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
@@ -559,8 +559,8 @@ VEX: 814 из 4709 карточек соревнований (17.3%). Это я�
 - **Automation World · AW 2027** — Южная Корея; 2027-03-03 – 2027-03-05. Детский допуск уточнить. https://www.automationworld.co.kr/?hl=en
 - **Datacentre & Cloud Infrastructure Expo · DCCI Malaysia 2027** — Малайзия; 2027-05-04 – 2027-05-05. Детский допуск уточнить. https://www.malaysia.dccisummit.com/
 - **Malaysia Technology Expo · next physical edition** — Малайзия; дата неизвестна. Детский допуск уточнить. https://www.mte.org.my/
-- **Fête de la Science Guadeloupe · AI / maker programme** — Гваделупа; 2026-11-12 – 2026-11-20. Со взрослым; условия взрослого входа отдельно. https://www.archipel-des-sciences.org/actualites/la-fete-de-la-science/
-- **Village des Sciences Martinique · family day / AI stand** — Мартиника; 2026-11-21. Со взрослым; условия взрослого входа отдельно. https://www.carbet-sciences.com/fete-de-la-science/
+- **Fête de la Science Guadeloupe 2026 · programme public** — Гваделупа; 2026-11-12 – 2026-11-20. Со взрослым; условия взрослого входа отдельно. https://www.archipel-des-sciences.org/actualites/la-fete-de-la-science/
+- **Village des Sciences Martinique 2026 · family day** — Мартиника; 2026-11-21. Со взрослым; условия взрослого входа отдельно. https://www.carbet-sciences.com/fete-de-la-science/
 - **Infomatrix World Finals · public exhibition watch** — Румыния; дата неизвестна. Детский допуск уточнить. https://infomatrix.ro/
 - **ROBOTICA + ROBOFIRST Ukraine · next festival watch** — Украина; дата неизвестна. Детский допуск уточнить. http://robotica.in.ua/
 - **AI for Good Global Summit · Innovation Expo 2027** — Швейцария; 2027-06-21 – 2027-06-24. Со взрослым; условия взрослого входа отдельно. https://2027summit.aiforgood.itu.int/
@@ -895,6 +895,14 @@ VEX: 814 из 4709 карточек соревнований (17.3%). Это я�
 - **Galway Science & Technology Festival · Exhibition 2026** — Ирландия; 2026-11-08. Со взрослым; условия взрослого входа отдельно. https://galwayscience.ie/whats-on/
 - **Full STEAM Ahead! · Family Fun Day · Kells Library** — Ирландия; 2026-11-14. Со взрослым; условия взрослого входа отдельно. https://www.meath.ie/council/council-services/libraries/library-events/full-steam-ahead-family-fun-day-at-kells-library
 - **Science Week Demo Day · National Print Museum** — Ирландия; 2026-11-15. Со взрослым; условия взрослого входа отдельно. https://www.nationalprintmuseum.ie/whats-on/science-week-demo-day-2/
+- **TAAF · Hall d’exposition Kerveguen** — Реюньон; дата неизвестна. Детский допуск уточнить. https://taaf.fr/sinformer/visite-du-siege-et-du-marion-dufresne/
+- **South Georgia Museum · Maritime & Discovery** — Южная Джорджия и Южные Сандвичевы острова; дата неизвестна. Детский допуск уточнить. https://sgmuseum.gs/the-museum/
+- **South Georgia Museum · Virtual galleries** — Южная Джорджия и Южные Сандвичевы острова; Виртуальная экспозиция без привязки к дате. https://sgmuseum.gs/the-museum/explore-the-museum/
+- **Ice Station RGS 2026 · British Antarctic Survey** — Соединенное Королевство Великобритании и Северной Ирландии; 2026-12-03. Детский допуск уточнить. https://www.rgs.org/events/upcoming-events/ice-station-2026
+- **Village des Sciences · Bik’Lab Microfusées** — Гваделупа; 2026-11-17 – 2026-11-19. Детский допуск уточнить. https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/ProgFDS2026.pdf
+- **OVSM-IPGP · Observatoire volcanologique et sismologique** — Мартиника; 2026-11-14. Со взрослым; условия взрослого входа отдельно. https://www.fetedelascience.fr/visite-guidee-de-l-observatoire-volcanologique-et-sismologique-de-la-martinique-ovsm-ipgp-1
+- **BRGM · Géosciences en Martinique** — Мартиника; 2026-11-21. Со взрослым; условия взрослого входа отдельно. https://www.fetedelascience.fr/geosciences-en-martinique
+- **Cité du Volcan · Village des Sciences 2026** — Реюньон; 2026-10-02 – 2026-10-12. Детский допуск уточнить. https://www.fetedelascience.fr/village-des-sciences-de-la-cite-du-volcan-2026
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

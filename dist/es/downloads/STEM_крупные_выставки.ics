@@ -2589,9 +2589,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E261@family-stem.local
-DTSTAMP:20261106T142539Z
+DTSTAMP:20261108T180303Z
 SUMMARY:[Exposición · visita en familia] Fête de la Science Guadeloupe
-  · AI / maker programme
+  2026 · programme public
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261121
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Programa PD
@@ -2600,11 +2600,11 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Programa PD
  dades son escolares\; reserva escolar del 8–16 de octubre ya pasó. Ve
  rsión escolar de YOLO indica CM2\; nueve años no acreditan ese curso. 
  Entrada de adultos: Fechas futuras\, plazas y precio final sin confirmar
- .. Acordar visita familiar según sesión pública elegida\; festival ci
- entífico-técnico regional\, no exposición B2B mundial de robótica. E
- mpresas: Participantes y stands figuran en programa de edición elegida\
- ; no es catálogo de todos los fabricantes mundiales.. Fuente verificada
-  el 2026-11-06.
+ .. El programa de 2026 anuncia una demostración de YOLO y talleres de B
+ ik’Lab. Las fechas y condiciones figuran en las fichas vinculadas. Emp
+ resas: Participantes y stands figuran en programa de edición elegida\; 
+ no es catálogo de todos los fabricantes mundiales.. Fuente verificada e
+ l 2026-11-08.
 LOCATION:Varias sedes de Guadalupe\; elegir sesión concreta en programa\
  , Guadalupe
 URL:https://www.archipel-des-sciences.org/actualites/la-fete-de-la-science/
@@ -2613,22 +2613,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E262@family-stem.local
-DTSTAMP:20261106T142539Z
+DTSTAMP:20261108T180303Z
 SUMMARY:[Exposición · visita en familia] Village des Sciences Martiniqu
- e · family day / AI stand
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Dossier de 
- prensa final\, páginas físicas 31 y 33: día público del sábado\, ho
- rario y Chef Anti-Gaspi / MARYSE PROJECT en stand 12 solo el 21 de novie
- mbre. Fechas provisionales de Fête completa del 12–22 de noviembre no
-  se convirtieron en once días de acceso familiar libre. Entrada de adul
- tos: Village público gratuito\; transporte y gastos familiares aparte..
-  Village científico regional con stand IA concreto\; no exposición de 
- todos los fabricantes mundiales de robots. Confirmar idioma técnico y m
- odalidad infantil de demostración concreta. Empresas: Participantes y s
- tands figuran en programa de edición elegida\; no es catálogo de todos
-  los fabricantes mundiales.. Fuente verificada el 2026-11-06.
+ e 2026 · family day
+DTSTART:20261121T140000Z
+DTEND:20261121T210000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Jornada pú
+ blica el 21 de noviembre de 10:00 a 17:00\, entrada gratuita. El 19 y 20
+  de noviembre son sesiones escolares con reserva. Entrada de adultos: Gr
+ atuito.. El taller de IA y algoritmos de Maryse Project tiene criterios 
+ de edad propios. Empresas: Participantes y stands figuran en programa de
+  edición elegida\; no es catálogo de todos los fabricantes mundiales..
+  Fuente verificada el 2026-11-08.
 LOCATION:Martinica · confirmar dirección exacta del Village antes de vi
  sita\, Martinica
 URL:https://www.carbet-sciences.com/fete-de-la-science/
@@ -7938,6 +7934,75 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Entrada lib
  .. Fuente verificada el 2026-11-08.
 LOCATION:National Print Museum · Dublin\, Irlanda
 URL:https://www.nationalprintmuseum.ie/whats-on/science-week-demo-day-2/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E627@family-stem.local
+DTSTAMP:20261108T180303Z
+SUMMARY:[Exposición · confirmar admisión de menores] Ice Station RGS 2
+ 026 · British Antarctic Survey
+DTSTART:20261203T180000Z
+DTEND:20261203T220000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Se anuncia 
+ una velada pública con entrada. Confirmar en taquilla las condiciones y
+  edad de acceso infantil. Entrada de adultos: 22 GBP para miembros de RG
+ S\, 25 GBP para los demás. No se indica tarifa infantil..  Empresas: Ca
+ mpamento de campo de BAS\, equipamiento polar\, intervenciones y exposic
+ iones sobre investigación del hielo.. Fuente verificada el 2026-11-08.
+LOCATION:Royal Geographical Society · London\, Reino Unido
+URL:https://www.rgs.org/events/upcoming-events/ice-station-2026
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E628@family-stem.local
+DTSTAMP:20261108T180303Z
+SUMMARY:[Exposición · confirmar admisión de menores] Village des Scien
+ ces · Bik’Lab Microfusées
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261120
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Talleres gr
+ atuitos. Los temas dependen de los monitores presentes. Confirmar edad y
+  acceso familiar. Entrada de adultos: Gratuito..  Empresas: Microcohetes
+ \, impresión 3D\, fabricación de ojivas y cálculo de trayectorias.. F
+ uente verificada el 2026-11-08.
+LOCATION:Lycée Charles Coeffin · Baie-Mahault\, Guadalupe
+URL:https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/ProgFDS2026.pdf
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E629@family-stem.local
+DTSTAMP:20261108T180303Z
+SUMMARY:[Exposición · visita en familia] OVSM-IPGP · Observatoire volc
+ anologique et sismologique
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Gratuito co
+ n reserva. Hasta 30 visitantes por sesión. El programa indica grupos es
+ colares separados el 12 de noviembre. Entrada de adultos: Gratuito..  Em
+ presas: Visita al observatorio. Observaciones sismológicas\, infraestru
+ ctura y trabajo de investigadores.. Fuente verificada el 2026-11-08.
+LOCATION:Habitation Blondel\, Morne la Rosette · Saint-Pierre\, Martinic
+ a
+URL:https://www.fetedelascience.fr/visite-guidee-de-l-observatoire-volcanologique-et-sismologique-de-la-martinique-ovsm-ipgp-1
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E630@family-stem.local
+DTSTAMP:20261108T180303Z
+SUMMARY:[Exposición · visita en familia] BRGM · Géosciences en Martin
+ ique
+DTSTART:20261121T140000Z
+DTEND:20261121T210000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Confirmar l
+ as plazas y condiciones de la sesión concreta. Entrada de adultos: Grat
+ uito..  Empresas: Demostraciones y materiales de geociencias dentro de V
+ illage des Sciences.. Fuente verificada el 2026-11-08.
+LOCATION:Campus universitaire · Schœlcher\, Martinica
+URL:https://www.fetedelascience.fr/geosciences-en-martinique
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

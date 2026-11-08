@@ -8,7 +8,7 @@ import sqlite3
 import tempfile
 from urllib.parse import unquote, urlsplit
 import zipfile
-from calendar_time import local_to_utc
+from calendar_time import local_to_utc, session_keys
 
 ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / 'dist'
@@ -90,6 +90,8 @@ for name in ['STEM_подтвержденные_даты.ics', 'STEM_крупн�
     body = (downloads / name).read_text()
     assert body.startswith('BEGIN:VCALENDAR') and body.rstrip().endswith('END:VCALENDAR')
     assert body.count('BEGIN:VEVENT') == body.count('END:VEVENT')
+    uids = re.findall(r'(?m)^UID:(.+)$', re.sub(r'\r?\n[ \t]', '', body))
+    assert len(uids) == len(set(uids)) == body.count('BEGIN:VEVENT'), name
 # B.C.'s permanent Pacific time must not depend on the host's tzdb vintage.
 assert local_to_utc('2026-12-21', '09:00', 'America/Vancouver').isoformat() == '2026-12-21T16:00:00+00:00'
 assert local_to_utc('2027-07-05', '09:00', 'America/Vancouver').isoformat() == '2027-07-05T16:00:00+00:00'
@@ -98,13 +100,14 @@ calendar = re.sub(r'\r?\n[ \t]', '', (downloads / 'STEM_подтвержденн
 calendar_rows = {re.search(r'(?m)^UID:(.+)$', block).group(1): block
                  for block in re.findall(r'BEGIN:VEVENT\n.*?END:VEVENT', calendar, re.S)}
 for event in web['events']:
-    for session in event.get('sessions', []):
+    sessions = event.get('sessions', [])
+    for key, session in zip(session_keys(event['id'], sessions), sessions):
         if not session.get('ical_timed') or session['date'] < web['asof']:
             continue
         for instant, clock in [('start_utc', 'start_time'), ('end_utc', 'end_time')]:
             expected = local_to_utc(session['date'], session[clock], session['timezone']).isoformat().replace('+00:00', 'Z')
             assert session[instant] == expected, (event['id'], session['date'], instant)
-        uid = 'stem-' + event['id'] + '-' + session['date'] + '@family-stem.local'
+        uid = 'stem-' + key + '@family-stem.local'
         if uid in calendar_rows:
             for property_name, field in [('DTSTART', 'start_utc'), ('DTEND', 'end_utc')]:
                 value = session[field].replace('-', '').replace(':', '')

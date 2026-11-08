@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10493,
+    "cards": 10514,
     "competition_cards": 4709,
-    "event_cards": 623,
-    "camp_cards": 5161,
+    "event_cards": 631,
+    "camp_cards": 5174,
     "league_profiles": 303,
-    "major_exhibition_cards": 524,
+    "major_exhibition_cards": 532,
     "vex_cards": 814,
-    "countries_with_records": 239,
+    "countries_with_records": 242,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3433,
+      "total": 3439,
       "countries_with_records": 41,
       "competitions": 1938,
-      "events": 169,
-      "major_exhibitions": 128,
-      "camps": 1326,
+      "events": 172,
+      "major_exhibitions": 131,
+      "camps": 1329,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 689,
-      "countries_with_records": 14,
+      "total": 692,
+      "countries_with_records": 15,
       "competitions": 433,
-      "events": 49,
-      "major_exhibitions": 45,
-      "camps": 207,
+      "events": 51,
+      "major_exhibitions": 47,
+      "camps": 208,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 2251,
-      "countries_with_records": 54,
+      "total": 2257,
+      "countries_with_records": 55,
       "competitions": 612,
-      "events": 153,
-      "major_exhibitions": 128,
-      "camps": 1486,
+      "events": 154,
+      "major_exhibitions": 129,
+      "camps": 1491,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -76,12 +76,12 @@
       "regions": [
         "Африка"
       ],
-      "total": 417,
-      "countries_with_records": 58,
+      "total": 422,
+      "countries_with_records": 60,
       "competitions": 247,
-      "events": 45,
-      "major_exhibitions": 38,
-      "camps": 125,
+      "events": 47,
+      "major_exhibitions": 40,
+      "camps": 128,
       "status": "Частично исследовано",
       "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
     },
@@ -104,12 +104,12 @@
       "regions": [
         "Океания"
       ],
-      "total": 536,
-      "countries_with_records": 26,
+      "total": 537,
+      "countries_with_records": 27,
       "competitions": 167,
       "events": 34,
       "major_exhibitions": 30,
-      "camps": 335,
+      "camps": 336,
       "status": "Частично исследовано",
       "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
     }
@@ -10858,7 +10858,7 @@
     },
     {
       "id": "E261",
-      "name": "Fête de la Science Guadeloupe · AI / maker programme",
+      "name": "Fête de la Science Guadeloupe 2026 · programme public",
       "country": "Гваделупа",
       "region": "Карибский регион",
       "start": "2026-11-12",
@@ -10869,7 +10869,7 @@
     },
     {
       "id": "E262",
-      "name": "Village des Sciences Martinique · family day / AI stand",
+      "name": "Village des Sciences Martinique 2026 · family day",
       "country": "Мартиника",
       "region": "Карибский регион",
       "start": "2026-11-21",
@@ -14553,6 +14553,94 @@
       "new": false
     },
     {
+      "id": "E624",
+      "name": "TAAF · Hall d’exposition Kerveguen",
+      "country": "Реюньон",
+      "region": "Африка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://taaf.fr/sinformer/visite-du-siege-et-du-marion-dufresne/",
+      "new": false
+    },
+    {
+      "id": "E625",
+      "name": "South Georgia Museum · Maritime & Discovery",
+      "country": "Южная Джорджия и Южные Сандвичевы острова",
+      "region": "Южная Америка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://sgmuseum.gs/the-museum/",
+      "new": false
+    },
+    {
+      "id": "E626",
+      "name": "South Georgia Museum · Virtual galleries",
+      "country": "Южная Джорджия и Южные Сандвичевы острова",
+      "region": "Южная Америка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://sgmuseum.gs/the-museum/explore-the-museum/",
+      "new": false
+    },
+    {
+      "id": "E627",
+      "name": "Ice Station RGS 2026 · British Antarctic Survey",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "start": "2026-12-03",
+      "end": "2026-12-03",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.rgs.org/events/upcoming-events/ice-station-2026",
+      "new": false
+    },
+    {
+      "id": "E628",
+      "name": "Village des Sciences · Bik’Lab Microfusées",
+      "country": "Гваделупа",
+      "region": "Карибский регион",
+      "start": "2026-11-17",
+      "end": "2026-11-19",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/ProgFDS2026.pdf",
+      "new": false
+    },
+    {
+      "id": "E629",
+      "name": "OVSM-IPGP · Observatoire volcanologique et sismologique",
+      "country": "Мартиника",
+      "region": "Карибский регион",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "visitor_policy": "family",
+      "source": "https://www.fetedelascience.fr/visite-guidee-de-l-observatoire-volcanologique-et-sismologique-de-la-martinique-ovsm-ipgp-1",
+      "new": false
+    },
+    {
+      "id": "E630",
+      "name": "BRGM · Géosciences en Martinique",
+      "country": "Мартиника",
+      "region": "Карибский регион",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "visitor_policy": "family",
+      "source": "https://www.fetedelascience.fr/geosciences-en-martinique",
+      "new": false
+    },
+    {
+      "id": "E631",
+      "name": "Cité du Volcan · Village des Sciences 2026",
+      "country": "Реюньон",
+      "region": "Африка",
+      "start": "2026-10-02",
+      "end": "2026-10-12",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.fetedelascience.fr/village-des-sciences-de-la-cite-du-volcan-2026",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -16970,9 +17058,9 @@
       }
     ],
     "counts": {
-      "records": 5161,
-      "holiday": 4755,
-      "regular": 180,
+      "records": 5174,
+      "holiday": 4758,
+      "regular": 183,
       "self_paced_materials": 4,
       "boarding": 1038,
       "en_es_instruction": 1595,
@@ -16983,7 +17071,7 @@
       "language_lessons": 414,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 150
+      "countries": 153
     },
     "validation": {
       "version": 51,

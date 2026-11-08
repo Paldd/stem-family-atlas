@@ -3222,9 +3222,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E261@family-stem.local
-DTSTAMP:20261106T142539Z
+DTSTAMP:20261108T180303Z
 SUMMARY:[Выставка · семейный вариант] Fête de la
-  Science Guadeloupe · AI / maker programme
+  Science Guadeloupe 2026 · programme public
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261121
 DESCRIPTION:Идея посещения\, не принятая реги
@@ -3237,14 +3237,13 @@ DESCRIPTION:Идея посещения\, не принятая реги
  етний возраст не доказывает этот класс.
   Взрослый вход: Будущие даты\, наличие м
  ест и окончательная цена не подтвержде
- ны.. Семейный визит согласовать по выбр
- анной публичной сессии\; это региональн
- ый научно-технический фестиваль\, не ми
- ровая робототехническая B2B-выставка. Ко
- мпании: Участники и стенды приведены в 
- программе выбранного выпуска\; это не к
- аталог всех мировых производителей.. Ис
- точник проверен 2026-11-06.
+ ны.. В программе 2026 заявлены демонстрац
+ ия YOLO и мастерские Bik’Lab. Даты и условия 
+ вынесены в связанные карточки. Компани
+ и: Участники и стенды приведены в прогр
+ амме выбранного выпуска\; это не катало
+ г всех мировых производителей.. Источни
+ к проверен 2026-11-08.
 LOCATION:Разные площадки Гваделупы\; точную 
  сессию выбрать по программе\, Гваделупа
 URL:https://www.archipel-des-sciences.org/actualites/la-fete-de-la-scienc
@@ -3254,29 +3253,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E262@family-stem.local
-DTSTAMP:20261106T142539Z
+DTSTAMP:20261108T180303Z
 SUMMARY:[Выставка · семейный вариант] Village des
-  Sciences Martinique · family day / AI stand
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+  Sciences Martinique 2026 · family day
+DTSTART:20261121T140000Z
+DTEND:20261121T210000Z
 DESCRIPTION:Идея посещения\, не принятая реги
- страция. Окончательный пресс-досье\, фи
- зические страницы 31 и 33: субботний публ
- ичный день\, расписание и Chef Anti-Gaspi / MARYSE P
- ROJECT на стенде 12 только 21 ноября. Предвар
- ительные даты всей Fête 12–22 ноября не ст
- али одиннадцатью днями свободного семе
- йного входа. Взрослый вход: Публичный Vil
- lage бесплатен\; дорога и расходы семьи от
- дельно.. Региональный научный Village с отд
- ельным ИИ-стендом\; не выставка всех мир
- овых производителей роботов. Техническ
- ий язык и формат участия детей в конкре
- тной демонстрации уточнить. Компании: У
- частники и стенды приведены в программ
- е выбранного выпуска\; это не каталог вс
- ех мировых производителей.. Источник пр
- оверен 2026-11-06.
+ страция. Публичный день 21 ноября 10:00–17:0
+ 0\, вход бесплатный. 19–20 ноября — отдель
+ ные школьные сеансы по записи. Взрослый
+  вход: Бесплатно.. У мастерской Maryse Project 
+ по ИИ и алгоритмам свои возрастные огра
+ ничения. Компании: Участники и стенды п
+ риведены в программе выбранного выпуск
+ а\; это не каталог всех мировых производ
+ ителей.. Источник проверен 2026-11-08.
 LOCATION:Мартиника · точный адрес Village перед
   визитом подтвердить\, Мартиника
 URL:https://www.carbet-sciences.com/fete-de-la-science/
@@ -9916,6 +9907,91 @@ DESCRIPTION:Идея посещения\, не принятая реги
  вки Shaw.. Источник проверен 2026-11-08.
 LOCATION:National Print Museum · Dublin\, Ирландия
 URL:https://www.nationalprintmuseum.ie/whats-on/science-week-demo-day-2/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E627@family-stem.local
+DTSTAMP:20261108T180303Z
+SUMMARY:[Выставка · допуск детей уточнить] Ic
+ e Station RGS 2026 · British Antarctic Survey
+DTSTART:20261203T180000Z
+DTEND:20261203T220000Z
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Объявлен публичный вечер по би
+ летам. Для детей уточнить условия входа
+  и возраст в кассе. Взрослый вход: 22 GBP чл
+ ену RGS\, 25 GBP остальным. Детский тариф не 
+ указан..  Компании: Полевой лагерь BAS\, об
+ орудование полярников\, выступления и э
+ кспозиции об исследованиях льда.. Источ
+ ник проверен 2026-11-08.
+LOCATION:Royal Geographical Society · London\, Соединенное К
+ оролевство Великобритании и Северной И
+ рландии
+URL:https://www.rgs.org/events/upcoming-events/ice-station-2026
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E628@family-stem.local
+DTSTAMP:20261108T180303Z
+SUMMARY:[Выставка · допуск детей уточнить] Vi
+ llage des Sciences · Bik’Lab Microfusées
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261120
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Бесплатные мастерские. Темы за
+ висят от присутствия ведущих. Возраст и
+  возможность присоединиться семье уточ
+ нить. Взрослый вход: Бесплатно..  Компан
+ ии: Микроракеты\, 3D-печать\, изготовлени
+ е обтекателей и расчёт траекторий.. Ист
+ очник проверен 2026-11-08.
+LOCATION:Lycée Charles Coeffin · Baie-Mahault\, Гваделупа
+URL:https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/Prog
+ FDS2026.pdf
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E629@family-stem.local
+DTSTAMP:20261108T180303Z
+SUMMARY:[Выставка · семейный вариант] OVSM-IPGP 
+ · Observatoire volcanologique et sismologique
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Бесплатно по записи. До 30 посет
+ ителей на сеанс. 12 ноября в программе ук
+ азаны отдельные школьные группы. Взрос
+ лый вход: Бесплатно..  Компании: Экскурс
+ ия по обсерватории: сейсмологические н
+ аблюдения\, инфраструктура и работа исс
+ ледователей.. Источник проверен 2026-11-08.
+LOCATION:Habitation Blondel\, Morne la Rosette · Saint-Pierre\, Март
+ иника
+URL:https://www.fetedelascience.fr/visite-guidee-de-l-observatoire-volcan
+ ologique-et-sismologique-de-la-martinique-ovsm-ipgp-1
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E630@family-stem.local
+DTSTAMP:20261108T180303Z
+SUMMARY:[Выставка · семейный вариант] BRGM · Gé
+ osciences en Martinique
+DTSTART:20261121T140000Z
+DTEND:20261121T210000Z
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. Уточнить свободные места и усл
+ овия конкретного сеанса. Взрослый вход:
+  Бесплатно..  Компании: Демонстрации и м
+ атериалы по геологическим наукам в рам
+ ках Village des Sciences.. Источник проверен 2026-11-
+ 08.
+LOCATION:Campus universitaire · Schœlcher\, Мартиника
+URL:https://www.fetedelascience.fr/geosciences-en-martinique
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

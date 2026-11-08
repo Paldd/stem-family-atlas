@@ -30,14 +30,14 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2058,
-    "countries": 130,
+    "dossiers": 2061,
+    "countries": 132,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 289,
       "published_2027": 552,
       "partial_2027": 145,
-      "next_unannounced": 429,
+      "next_unannounced": 432,
       "published_2026": 404,
       "partial_2026_27": 38,
       "partial_2026": 24,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1
     },
-    "source_urls": 2962
+    "source_urls": 2966
   },
   "countries": [
     {
@@ -365,7 +365,7 @@
     },
     {
       "country": "Новая Зеландия",
-      "count": 27
+      "count": 28
     },
     {
       "country": "Новая Каледония",
@@ -512,6 +512,10 @@
       "count": 134
     },
     {
+      "country": "Французская Гвиана",
+      "count": 1
+    },
+    {
       "country": "Французская Полинезия",
       "count": 3
     },
@@ -562,6 +566,10 @@
     {
       "country": "Южная Африка",
       "count": 2
+    },
+    {
+      "country": "Южные земли (французская заморская территория)",
+      "count": 1
     },
     {
       "country": "Ямайка",
@@ -353597,6 +353605,224 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP2059",
+      "slug": "learnz-science-on-ice-2027",
+      "provider": "LEARNZ · Science on Ice",
+      "country": "Новая Зеландия",
+      "iso": "NZL",
+      "place": "Online · McMurdo Sound / Scott Base",
+      "age": "Подходит для знакомства с полярной наукой дома. Нижний возраст в карточке не указан.",
+      "programme": "Виртуальная экспедиция по измерению морского льда, бурению и исследованию ледяных кернов.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Материалы организатора на английском. Язык ведущего конкретной активности уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Материалы планируют выпустить 22 февраля 2027. Час публикации и расписание прямого эфира не указаны.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 0,
+        "currency": "",
+        "unit": "programme",
+        "label": "Бесплатно.",
+        "included": "",
+        "extras": "LEARNZ предлагает заниматься дома или в классе. Для Science on Ice есть форма интереса. Допуск из другой страны проверить у оператора.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Онлайн. Посещение исследовательской станции не требуется.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Условно. Сверить возраст, класс и порядок допуска."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Условно. Сверить возраст, класс и порядок допуска."
+        }
+      },
+      "editorial_reason": "Материалы планируют выпустить 22 февраля 2027. Час публикации и расписание прямого эфира не указаны.",
+      "shortlist": [],
+      "questions": [
+        "LEARNZ предлагает заниматься дома или в классе. Для Science on Ice есть форма интереса. Допуск из другой страны проверить у оператора."
+      ],
+      "sources": [
+        {
+          "url": "https://www.learnz.org.nz/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.learnz.org.nz/using-learnz",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "programme_type": "online_course",
+      "catalog_participation": "online",
+      "related_event_ids": [
+        "L830"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2060",
+      "slug": "taaf-astrolabe-2026",
+      "provider": "TAAF · L’Astrolabe · Antarctique 2026",
+      "country": "Южные земли (французская заморская территория)",
+      "iso": "ATF",
+      "place": "Online · Terre Adélie",
+      "age": "Программа для начальной и средней школы. Доступ открытый по объявлению.",
+      "programme": "Цифровые выпуски с судна L’Astrolabe о работе экипажа, исследованиях и технологиях полярной станции.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Материалы организатора на французском. Язык ведущего конкретной активности уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Еженедельные цифровые выпуски с ноября по декабрь 2026. Точные даты выпусков не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "announced_months": [
+          "2026-11",
+          "2026-12"
+        ],
+        "precision": "announced_month"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 0,
+        "currency": "",
+        "unit": "programme",
+        "label": "Бесплатно.",
+        "included": "",
+        "extras": "Официальная программа бесплатна для школ и семей. Ссылку на форму публикует TAAF. Приём новых заявок на момент проверки не подтверждён.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Онлайн. Посещение исследовательской станции не требуется.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Да по возрасту. Подтвердить места и условия участия."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Да по возрасту. Подтвердить места и условия участия."
+        }
+      },
+      "editorial_reason": "Еженедельные цифровые выпуски с ноября по декабрь 2026. Точные даты выпусков не опубликованы.",
+      "shortlist": [],
+      "questions": [
+        "Официальная программа бесплатна для школ и семей. Ссылку на форму публикует TAAF. Приём новых заявок на момент проверки не подтверждён."
+      ],
+      "sources": [
+        {
+          "url": "https://taaf.fr/actualite/plongez-au-coeur-de-lantarctique-et-embarquez-a-bord-de-lastrolabe/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "online_course",
+      "catalog_participation": "online",
+      "related_event_ids": [
+        "L832"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2061",
+      "slug": "guf-childrens-science-congress",
+      "provider": "Congrès scientifique des enfants · base lunaire",
+      "country": "Французская Гвиана",
+      "iso": "GUF",
+      "place": "Guyaspace Expérience · Kourou",
+      "age": "Cycle 3, классы CM1, CM2 и 6e.",
+      "programme": "Школьный проект лунной базы с экспериментами. Включены материалы и подготовка учителя.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы организатора на французском. Язык ведущего конкретной активности уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Проект на учебный год. CNES объявляет приглашения школам с конца сентября по конец ноября. Дата итоговой встречи пока не опубликована.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 0,
+        "currency": "",
+        "unit": "programme",
+        "label": "Бесплатно.",
+        "included": "",
+        "extras": "Подаёт школа. На территорию отбирают 6 классов. Допускаются пары начальная школа и collège.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Условно. Участие через школу и зависит от фактического класса."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Условно. Участие через школу и зависит от фактического класса."
+        }
+      },
+      "editorial_reason": "Проект на учебный год. CNES объявляет приглашения школам с конца сентября по конец ноября. Дата итоговой встречи пока не опубликована.",
+      "shortlist": [],
+      "questions": [
+        "Подаёт школа. На территорию отбирают 6 классов. Допускаются пары начальная школа и collège."
+      ],
+      "sources": [
+        {
+          "url": "https://visite.centrespatialguyanais.cnes.fr/fr/enseignant",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "technology",
+        "science"
+      ],
+      "programme_type": "school_route",
+      "catalog_participation": "regular",
+      "related_event_ids": [
+        "L838"
+      ],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -358922,7 +359148,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 292,
+  "version": 293,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -372157,7 +372383,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2058,
+      "total_dossiers": 2061,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -395150,6 +395376,21 @@
       "programme_id": "CP2058",
       "event_id": "CP2058-20270102-20270102-day",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2059",
+      "event_id": "L830",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2060",
+      "event_id": "L832",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2061",
+      "event_id": "L838",
+      "relation": "related_track_or_operator"
     },
     {
       "programme_id": "CP1294",

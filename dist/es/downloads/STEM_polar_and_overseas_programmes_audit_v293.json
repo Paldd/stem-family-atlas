@@ -1,0 +1,106 @@
+{
+  "version": 293,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "L826",
+    "L827",
+    "L828",
+    "L829",
+    "L830",
+    "L831",
+    "L832",
+    "L833",
+    "L834",
+    "E624",
+    "E625",
+    "E626",
+    "E627",
+    "E628",
+    "L835",
+    "L836",
+    "L837",
+    "E629",
+    "E630",
+    "E631",
+    "L838"
+  ],
+  "new_dossiers": [
+    "CP2059",
+    "CP2060",
+    "CP2061"
+  ],
+  "new_dated_variants": 0,
+  "refreshed_event_ids": [
+    "E261",
+    "E262",
+    "E451",
+    "C3457"
+  ],
+  "legacy_overlay_event_ids": [
+    "E261",
+    "E262",
+    "E451",
+    "C3457"
+  ],
+  "dossier_event_links": {
+    "learnz-science-on-ice-2027": [
+      "L830"
+    ],
+    "taaf-astrolabe-2026": [
+      "L832"
+    ],
+    "guf-childrens-science-congress": [
+      "L838"
+    ]
+  },
+  "newly_represented_geographies": [
+    "ATA",
+    "ATF",
+    "SGS"
+  ],
+  "source_requests": 31,
+  "fds_ministry_snapshot": {
+    "total_date_filtered_rows": 101,
+    "martinique_rows": 44,
+    "guadeloupe_rows": 0,
+    "scope": "validated uncancelled listings ending on or after 2026-11-08; Guadeloupe separate official programme used"
+  },
+  "polar": {
+    "wwf": "L826",
+    "pop": [
+      "L827",
+      "L828",
+      "L829"
+    ],
+    "learnz": "L830",
+    "closed_flags": "L831",
+    "taaf_home": "L832",
+    "marion": "L833",
+    "closed_classes": "L834",
+    "sgs_onsite": "E625",
+    "sgs_virtual": "E626"
+  },
+  "french_islands": {
+    "guadeloupe": [
+      "E628",
+      "L835",
+      "L836"
+    ],
+    "martinique": [
+      "L837",
+      "E629",
+      "E630"
+    ],
+    "martinique_age_discrepancy": "structured ages 11–18; text also names CM1–CM2 and family audience",
+    "guiana_class": "L838",
+    "reu_archived": "E631"
+  },
+  "source_limits": {
+    "taaf_form_direct_http": 403,
+    "taaf_form_web_http": 502,
+    "pop_timetable": "organizer public search excerpt, direct endpoint 403",
+    "bas": "organizer web text readback, direct HTTP 202 challenge"
+  }
+}

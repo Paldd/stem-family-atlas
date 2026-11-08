@@ -580,9 +580,9 @@
       }
     ],
     "counts": {
-      "records": 5161,
-      "holiday": 4755,
-      "regular": 180,
+      "records": 5174,
+      "holiday": 4758,
+      "regular": 183,
       "self_paced_materials": 4,
       "boarding": 1038,
       "en_es_instruction": 1595,
@@ -593,7 +593,7 @@
       "language_lessons": 414,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 150
+      "countries": 153
     },
     "validation": {
       "version": 51,
@@ -43272,6 +43272,883 @@
       ],
       "related_ids": [
         "E620"
+      ]
+    },
+    {
+      "id": "L826",
+      "title": "Antarctica Live! · WWF / British Antarctic Survey",
+      "block": "Лагеря",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR",
+        "ATA"
+      ],
+      "city": "Online · UK / Antarctica",
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "period": "Прямой эфир в 14:00–14:40 GMT. В Коста-Рике 08:00–08:40.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.wwf.org.uk/get-involved/schools/happy-by-nature/live-lessons",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Рекомендуется 7–11 лет, допускаются ученики других ступеней.",
+      "mat": "Условно. Участие через школу и зависит от фактического класса.",
+      "osc": "Условно. В 6 лет ниже рекомендуемых 7–11. Организатор допускает другие ступени через школу.",
+      "format": "Связь с учёными Антарктики, исследование холодного климата и приспособления животных.",
+      "entry": "Форму заполняет учитель или сотрудник школы от 18 лет. Ссылку пришлёт WWF. Поле страны в форме не подтверждает международный допуск.",
+      "gear": "",
+      "language": "Материалы организатора на английском. Язык ведущего конкретной активности уточнить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на английском. Язык ведущего конкретной активности уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Форму заполняет учитель или сотрудник школы от 18 лет. Ссылку пришлёт WWF. Поле страны в форме не подтверждает международный допуск.",
+      "note": "Форму заполняет учитель или сотрудник школы от 18 лет. Ссылку пришлёт WWF. Поле страны в форме не подтверждает международный допуск.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Связь с учёными Антарктики, исследование холодного климата и приспособления животных.",
+      "participation": "online",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "virtual",
+      "sessions": [
+        {
+          "date": "2026-11-10",
+          "start_time": "14:00",
+          "end_time": "14:40",
+          "timezone": "Europe/London",
+          "start_utc": "2026-11-10T14:00:00Z",
+          "end_utc": "2026-11-10T14:40:00Z",
+          "topic": "Antarctica Live! · WWF / British Antarctic Survey",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "L827",
+        "L828",
+        "L829"
+      ]
+    },
+    {
+      "id": "L827",
+      "title": "POP26 · Pop into the Ocean",
+      "block": "Лагеря",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR"
+      ],
+      "city": "Online · UK",
+      "start": "2026-11-19",
+      "end": "2026-11-19",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.stem.org.uk/enrichment/protecting-our-planet-day/pop-sessions",
+      "references": [
+        {
+          "url": "https://community.stem.org.uk/blogs/tim-bradbury1/2026/10/22/protecting-our-planet-day-2026-bring-the-science-of-our-changing-planet-into-your-classroom",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://schools.westsussex.gov.uk/Article/193780",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Для учащихся начальной школы.",
+      "mat": "Условно. Участие через школу и зависит от фактического класса.",
+      "osc": "Условно. Участие через школу и зависит от фактического класса.",
+      "format": "Интерактивное занятие Dynamic Earth о том, как изучают океан.",
+      "entry": "Запись оформляет учитель или школа. Допуск из другой страны подтвердить.",
+      "gear": "",
+      "language": "Материалы организатора на английском. Язык ведущего конкретной активности уточнить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на английском. Язык ведущего конкретной активности уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Запись оформляет учитель или школа. Допуск из другой страны подтвердить.",
+      "note": "Запись оформляет учитель или школа. Допуск из другой страны подтвердить.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Интерактивное занятие Dynamic Earth о том, как изучают океан.",
+      "participation": "online",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "virtual",
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start_time": "09:05",
+          "end_time": "09:45",
+          "timezone": "Europe/London",
+          "start_utc": "2026-11-19T09:05:00Z",
+          "end_utc": "2026-11-19T09:45:00Z",
+          "topic": "POP26 · Pop into the Ocean",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "L826",
+        "L828",
+        "L829"
+      ]
+    },
+    {
+      "id": "L828",
+      "title": "POP26 · Pop into the Forest",
+      "block": "Лагеря",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR"
+      ],
+      "city": "Online · UK",
+      "start": "2026-11-19",
+      "end": "2026-11-19",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.stem.org.uk/enrichment/protecting-our-planet-day/pop-sessions",
+      "references": [
+        {
+          "url": "https://community.stem.org.uk/blogs/tim-bradbury1/2026/10/22/protecting-our-planet-day-2026-bring-the-science-of-our-changing-planet-into-your-classroom",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://schools.westsussex.gov.uk/Article/193780",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Для учащихся начальной школы.",
+      "mat": "Условно. Участие через школу и зависит от фактического класса.",
+      "osc": "Условно. Участие через школу и зависит от фактического класса.",
+      "format": "Эфир из оранжереи дождевого леса Eden Project для начальных классов.",
+      "entry": "Запись оформляет учитель или школа. Допуск из другой страны подтвердить.",
+      "gear": "",
+      "language": "Материалы организатора на английском. Язык ведущего конкретной активности уточнить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на английском. Язык ведущего конкретной активности уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Запись оформляет учитель или школа. Допуск из другой страны подтвердить.",
+      "note": "Запись оформляет учитель или школа. Допуск из другой страны подтвердить.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Эфир из оранжереи дождевого леса Eden Project для начальных классов.",
+      "participation": "online",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "virtual",
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start_time": "09:55",
+          "end_time": "10:30",
+          "timezone": "Europe/London",
+          "start_utc": "2026-11-19T09:55:00Z",
+          "end_utc": "2026-11-19T10:30:00Z",
+          "topic": "POP26 · Pop into the Forest",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "L826",
+        "L827",
+        "L829"
+      ]
+    },
+    {
+      "id": "L829",
+      "title": "POP26 · Protecting the Ice",
+      "block": "Лагеря",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR",
+        "ATA"
+      ],
+      "city": "Online · UK",
+      "start": "2026-11-19",
+      "end": "2026-11-19",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.bas.ac.uk/event/protecting-our-planet-day-2026-livestream-event-for-schools/",
+      "references": [
+        {
+          "url": "https://www.stem.org.uk/enrichment/protecting-our-planet-day/pop-sessions",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://community.stem.org.uk/blogs/tim-bradbury1/2026/10/22/protecting-our-planet-day-2026-bring-the-science-of-our-changing-planet-into-your-classroom",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Сеанс рассчитан на среднюю школу.",
+      "mat": "Условно. Сеанс рассчитан на среднюю школу. Допуск младших детей не подтверждён.",
+      "osc": "Условно. Сеанс рассчитан на среднюю школу. Допуск младших детей не подтверждён.",
+      "format": "Связь с исследователями на антарктических станциях, данные спутников и судно RRS Sir David Attenborough.",
+      "entry": "Запись оформляет учитель или школа. Допуск из другой страны подтвердить.",
+      "gear": "",
+      "language": "Материалы организатора на английском. Язык ведущего конкретной активности уточнить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на английском. Язык ведущего конкретной активности уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Запись оформляет учитель или школа. Допуск из другой страны подтвердить.",
+      "note": "Запись оформляет учитель или школа. Допуск из другой страны подтвердить.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Связь с исследователями на антарктических станциях, данные спутников и судно RRS Sir David Attenborough.",
+      "participation": "online",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "virtual",
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start_time": "11:30",
+          "end_time": "12:10",
+          "timezone": "Europe/London",
+          "start_utc": "2026-11-19T11:30:00Z",
+          "end_utc": "2026-11-19T12:10:00Z",
+          "topic": "POP26 · Protecting the Ice",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "L826",
+        "L827",
+        "L828"
+      ]
+    },
+    {
+      "id": "L830",
+      "title": "LEARNZ · Science on Ice",
+      "block": "Лагеря",
+      "country": "Новая Зеландия",
+      "region": "Океания",
+      "iso": [
+        "NZL",
+        "ATA"
+      ],
+      "city": "Online · McMurdo Sound / Scott Base",
+      "start": "2027-02-22",
+      "end": "2027-02-22",
+      "period": "Материалы планируют выпустить 22 февраля 2027. Час публикации и расписание прямого эфира не указаны.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://www.learnz.org.nz/",
+      "references": [
+        {
+          "url": "https://www.learnz.org.nz/using-learnz",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Подходит для знакомства с полярной наукой дома. Нижний возраст в карточке не указан.",
+      "mat": "Условно. Сверить возраст, класс и порядок допуска.",
+      "osc": "Условно. Сверить возраст, класс и порядок допуска.",
+      "format": "Виртуальная экспедиция по измерению морского льда, бурению и исследованию ледяных кернов.",
+      "entry": "LEARNZ предлагает заниматься дома или в классе. Для Science on Ice есть форма интереса. Допуск из другой страны проверить у оператора.",
+      "gear": "",
+      "language": "Материалы организатора на английском. Язык ведущего конкретной активности уточнить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на английском. Язык ведущего конкретной активности уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "LEARNZ предлагает заниматься дома или в классе. Для Science on Ice есть форма интереса. Допуск из другой страны проверить у оператора.",
+      "note": "Материалы планируют выпустить 22 февраля 2027. Час публикации и расписание прямого эфира не указаны.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Виртуальная экспедиция по измерению морского льда, бурению и исследованию ледяных кернов.",
+      "participation": "online",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "release_milestone",
+      "delivery_mode": "virtual",
+      "date_precision": "announced_window",
+      "date_rule": "Материалы планируют выпустить 22 февраля 2027. Час публикации и расписание прямого эфира не указаны.",
+      "camp_dossier_slug": "learnz-science-on-ice-2027"
+    },
+    {
+      "id": "L831",
+      "title": "UK Polar Network · Antarctic Flags 2026/27",
+      "block": "Лагеря",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR",
+        "ATA"
+      ],
+      "city": "Online · UK / Antarctica",
+      "start": "",
+      "end": "",
+      "period": "Набор интереса на 2026/27 был до 8 октября 2026. Участникам с подтверждённой школой высылают инструкции. Новый срок не объявлен.",
+      "deadline": "2026-10-08",
+      "date_status": "Закрыто",
+      "checked": "2026-11-08",
+      "source": "https://polarnetwork.org/education-and-outreach/antarctic-flags/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Для учащихся начальной школы.",
+      "mat": "Условно. Участие через школу и зависит от фактического класса.",
+      "osc": "Условно. Участие через школу и зависит от фактического класса.",
+      "format": "Школьники изучают Антарктику и готовят рисунок флага. Исследователи фотографируют принятые работы в полевых условиях.",
+      "entry": "Набор интереса на 2026/27 был до 8 октября 2026. Участникам с подтверждённой школой высылают инструкции. Новый срок не объявлен.",
+      "gear": "",
+      "language": "Материалы организатора на английском. Язык ведущего конкретной активности уточнить.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на английском. Язык ведущего конкретной активности уточнить.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P4 — возраст пока ниже минимума",
+      "action": "Набор интереса на 2026/27 был до 8 октября 2026. Участникам с подтверждённой школой высылают инструкции. Новый срок не объявлен.",
+      "note": "Набор интереса на 2026/27 был до 8 октября 2026. Участникам с подтверждённой школой высылают инструкции. Новый срок не объявлен.",
+      "themes": [
+        "science",
+        "makers"
+      ],
+      "scope": "international",
+      "importance_reason": "Школьники изучают Антарктику и готовят рисунок флага. Исследователи фотографируют принятые работы в полевых условиях.",
+      "participation": "regular",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "registration_deadline",
+      "delivery_mode": "virtual"
+    },
+    {
+      "id": "L832",
+      "title": "TAAF · L’Astrolabe · Antarctique 2026",
+      "block": "Лагеря",
+      "country": "Южные земли (французская заморская территория)",
+      "region": "Африка",
+      "iso": [
+        "ATF",
+        "ATA"
+      ],
+      "city": "Online · Terre Adélie",
+      "start": "",
+      "end": "",
+      "period": "Еженедельные цифровые выпуски с ноября по декабрь 2026. Точные даты выпусков не опубликованы.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://taaf.fr/actualite/plongez-au-coeur-de-lantarctique-et-embarquez-a-bord-de-lastrolabe/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Программа для начальной и средней школы. Доступ открытый по объявлению.",
+      "mat": "Да по возрасту. Подтвердить места и условия участия.",
+      "osc": "Да по возрасту. Подтвердить места и условия участия.",
+      "format": "Цифровые выпуски с судна L’Astrolabe о работе экипажа, исследованиях и технологиях полярной станции.",
+      "entry": "Официальная программа бесплатна для школ и семей. Ссылку на форму публикует TAAF. Приём новых заявок на момент проверки не подтверждён.",
+      "gear": "",
+      "language": "Материалы организатора на французском. Язык ведущего конкретной активности уточнить.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на французском. Язык ведущего конкретной активности уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Официальная программа бесплатна для школ и семей. Ссылку на форму публикует TAAF. Приём новых заявок на момент проверки не подтверждён.",
+      "note": "Еженедельные цифровые выпуски с ноября по декабрь 2026. Точные даты выпусков не опубликованы.",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Цифровые выпуски с судна L’Astrolabe о работе экипажа, исследованиях и технологиях полярной станции.",
+      "participation": "online",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "virtual",
+      "camp_dossier_slug": "taaf-astrolabe-2026",
+      "related_ids": [
+        "L833",
+        "E624",
+        "L834"
+      ]
+    },
+    {
+      "id": "L833",
+      "title": "TAAF · Marion Dufresne · colis numériques",
+      "block": "Лагеря",
+      "country": "Южные земли (французская заморская территория)",
+      "region": "Африка",
+      "iso": [
+        "ATF"
+      ],
+      "city": "Online · Crozet / Kerguelen / îles Australes",
+      "start": "",
+      "end": "",
+      "period": "6 цифровых выпусков доступны онлайн. Расписание посещения судна не опубликовано.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "checked": "2026-11-08",
+      "source": "https://taaf.fr/ressources-pedagogiques/des-colis-numeriques-pour-decouvrir-les-iles-australes-a-bord-du-marion-dufresne/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Материалы для Cycle 3, классы CM1, CM2 и 6e. Для младших возможен просмотр с взрослым.",
+      "mat": "Условно. Сверить возраст, класс и порядок допуска.",
+      "osc": "Условно. Сверить возраст, класс и порядок допуска.",
+      "format": "Виртуальное путешествие на судне снабжения. Навигация, полевые профессии и логистика удалённых островов.",
+      "entry": "6 цифровых выпусков доступны онлайн. Расписание посещения судна не опубликовано.",
+      "gear": "",
+      "language": "Материалы организатора на французском. Язык ведущего конкретной активности уточнить.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на французском. Язык ведущего конкретной активности уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "6 цифровых выпусков доступны онлайн. Расписание посещения судна не опубликовано.",
+      "note": "6 цифровых выпусков доступны онлайн. Расписание посещения судна не опубликовано.",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Виртуальное путешествие на судне снабжения. Навигация, полевые профессии и логистика удалённых островов.",
+      "participation": "online",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "virtual",
+      "related_ids": [
+        "L832",
+        "E624",
+        "L834"
+      ]
+    },
+    {
+      "id": "L834",
+      "title": "Classes TAAF · La Réunion · 2026/27",
+      "block": "Лагеря",
+      "country": "Реюньон",
+      "region": "Африка",
+      "iso": [
+        "REU"
+      ],
+      "city": "Écoles · Académie de La Réunion",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "2026-05-29",
+      "date_status": "Закрыто",
+      "checked": "2026-11-08",
+      "source": "https://taaf.fr/actualite/les-classes-taaf-reconduites-pour-lannee-scolaire-2026-2027/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Начальная и средняя школа в академии Реюньона.",
+      "mat": "Условно. Участие через школу и зависит от фактического класса.",
+      "osc": "Условно. Участие через школу и зависит от фактического класса.",
+      "format": "Школьные проекты о полярных исследованиях и технологиях для экстремальных условий.",
+      "entry": "Перед записью сверить допуск, язык и наличие места.",
+      "gear": "",
+      "language": "Материалы организатора на французском. Язык ведущего конкретной активности уточнить.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на французском. Язык ведущего конкретной активности уточнить.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P4 — возраст пока ниже минимума",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "Заявки через ADAGE принимали до 29 мая 2026. Проекты одобренных школ с 18 августа 2026.",
+      "themes": [
+        "science",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Школьные проекты о полярных исследованиях и технологиях для экстремальных условий.",
+      "participation": "regular",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "registration_deadline",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E624",
+        "L832",
+        "L833"
+      ]
+    },
+    {
+      "id": "L835",
+      "title": "YOLO Cuisto · Université des Antilles",
+      "block": "Лагеря",
+      "country": "Гваделупа",
+      "region": "Карибский регион",
+      "iso": [
+        "GLP"
+      ],
+      "city": "Campus de Fouillole · Pointe-à-Pitre",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "period": "08:00–13:00 — окно работы стенда, не длительность одного занятия. Уточнить возраст и вход конкретной семьи.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/ProgFDS2026.pdf",
+      "references": [
+        {
+          "url": "https://www.archipel-des-sciences.org/actualites/la-fete-de-la-science/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "mat": "Условно. Сверить возраст, класс и порядок допуска.",
+      "osc": "Условно. Сверить возраст, класс и порядок допуска.",
+      "format": "Камера и YOLO распознают продукты. Дети меняют положение предметов и сравнивают результаты. Языковая модель предлагает рецепт.",
+      "entry": "08:00–13:00 — окно работы стенда, не длительность одного занятия. Уточнить возраст и вход конкретной семьи.",
+      "gear": "",
+      "language": "Материалы организатора на французском. Язык ведущего конкретной активности уточнить.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на французском. Язык ведущего конкретной активности уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "08:00–13:00 — окно работы стенда, не длительность одного занятия. Уточнить возраст и вход конкретной семьи.",
+      "note": "08:00–13:00 — окно работы стенда, не длительность одного занятия. Уточнить возраст и вход конкретной семьи.",
+      "themes": [
+        "ai",
+        "technology",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Камера и YOLO распознают продукты. Дети меняют положение предметов и сравнивают результаты. Языковая модель предлагает рецепт.",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E261",
+        "E628",
+        "L836"
+      ]
+    },
+    {
+      "id": "L836",
+      "title": "Le chocolat chaud · apprentissage automatique",
+      "block": "Лагеря",
+      "country": "Гваделупа",
+      "region": "Карибский регион",
+      "iso": [
+        "GLP"
+      ],
+      "city": "Campus de Fouillole · Pointe-à-Pitre",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.archipel-des-sciences.org/actualites/la-fete-de-la-science/",
+      "references": [
+        {
+          "url": "https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/ProgFDS2026.pdf",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Начиная с класса 4e во французской средней школе.",
+      "mat": "Нет по ступени. Занятие для средней школы с 4e.",
+      "osc": "Нет по ступени. Занятие для средней школы с 4e.",
+      "format": "Математическая игра про данные, обучение и ошибки модели без работы с ИИ-сервисом.",
+      "entry": "Школьная игра на 2 человека, ориентировочно 1 час. Время группы и доступ уточнить у университета.",
+      "gear": "",
+      "language": "Материалы организатора на французском. Язык ведущего конкретной активности уточнить.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на французском. Язык ведущего конкретной активности уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P4 — возраст пока ниже минимума",
+      "action": "Школьная игра на 2 человека, ориентировочно 1 час. Время группы и доступ уточнить у университета.",
+      "note": "Школьная игра на 2 человека, ориентировочно 1 час. Время группы и доступ уточнить у университета.",
+      "themes": [
+        "ai",
+        "games",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Математическая игра про данные, обучение и ошибки модели без работы с ИИ-сервисом.",
+      "participation": "holiday_workshop",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E261",
+        "E628",
+        "L835"
+      ]
+    },
+    {
+      "id": "L837",
+      "title": "Maryse Project · Chef Anti-Gaspi",
+      "block": "Лагеря",
+      "country": "Мартиника",
+      "region": "Карибский регион",
+      "iso": [
+        "MTQ"
+      ],
+      "city": "Campus universitaire · Schœlcher",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.fetedelascience.fr/chef-anti-gaspi-l-algorithme-qui-cuisine-les-restes",
+      "references": [
+        {
+          "url": "https://www.fetedelascience.fr/village-des-sciences-de-martinique-2026",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Возрастные метки 11–15 и 15–18 лет. В описании также названы CM1–CM2 и семейная аудитория.",
+      "mat": "Условно. Возрастные метки и описание расходятся. Допуск ребёнка подтвердить у организатора.",
+      "osc": "Условно. Возрастные метки и описание расходятся. Допуск ребёнка подтвердить у организатора.",
+      "format": "Составление алгоритма на карточках, проверка рецептов через генеративный ИИ и визуализация данных.",
+      "entry": "Рекомендована запись. До 20 участников. Возраст для конкретной группы и язык подтвердить отдельно.",
+      "gear": "",
+      "language": "Материалы организатора на французском. Язык ведущего конкретной активности уточнить.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на французском. Язык ведущего конкретной активности уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Рекомендована запись. До 20 участников. Возраст для конкретной группы и язык подтвердить отдельно.",
+      "note": "Рекомендована запись. До 20 участников. Возраст для конкретной группы и язык подтвердить отдельно.",
+      "themes": [
+        "ai",
+        "coding",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Составление алгоритма на карточках, проверка рецептов через генеративный ИИ и визуализация данных.",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "start_time": "10:00",
+          "end_time": "11:15",
+          "timezone": "America/Martinique",
+          "start_utc": "2026-11-21T14:00:00Z",
+          "end_utc": "2026-11-21T15:15:00Z",
+          "topic": "Maryse Project · Chef Anti-Gaspi",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "11:15",
+          "end_time": "12:15",
+          "timezone": "America/Martinique",
+          "start_utc": "2026-11-21T15:15:00Z",
+          "end_utc": "2026-11-21T16:15:00Z",
+          "topic": "Maryse Project · Chef Anti-Gaspi",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "12:30",
+          "end_time": "13:30",
+          "timezone": "America/Martinique",
+          "start_utc": "2026-11-21T16:30:00Z",
+          "end_utc": "2026-11-21T17:30:00Z",
+          "topic": "Maryse Project · Chef Anti-Gaspi",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "13:45",
+          "end_time": "14:45",
+          "timezone": "America/Martinique",
+          "start_utc": "2026-11-21T17:45:00Z",
+          "end_utc": "2026-11-21T18:45:00Z",
+          "topic": "Maryse Project · Chef Anti-Gaspi",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "15:00",
+          "end_time": "16:00",
+          "timezone": "America/Martinique",
+          "start_utc": "2026-11-21T19:00:00Z",
+          "end_utc": "2026-11-21T20:00:00Z",
+          "topic": "Maryse Project · Chef Anti-Gaspi",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "16:00",
+          "end_time": "17:00",
+          "timezone": "America/Martinique",
+          "start_utc": "2026-11-21T20:00:00Z",
+          "end_utc": "2026-11-21T21:00:00Z",
+          "topic": "Maryse Project · Chef Anti-Gaspi",
+          "ical_timed": true
+        }
+      ],
+      "related_ids": [
+        "E262",
+        "E630"
+      ]
+    },
+    {
+      "id": "L838",
+      "title": "Congrès scientifique des enfants · base lunaire",
+      "block": "Лагеря",
+      "country": "Французская Гвиана",
+      "region": "Южная Америка",
+      "iso": [
+        "GUF"
+      ],
+      "city": "Guyaspace Expérience · Kourou",
+      "start": "",
+      "end": "",
+      "period": "Проект на учебный год. CNES объявляет приглашения школам с конца сентября по конец ноября. Дата итоговой встречи пока не опубликована.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "checked": "2026-11-08",
+      "source": "https://visite.centrespatialguyanais.cnes.fr/fr/enseignant",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Cycle 3, классы CM1, CM2 и 6e.",
+      "mat": "Условно. Участие через школу и зависит от фактического класса.",
+      "osc": "Условно. Участие через школу и зависит от фактического класса.",
+      "format": "Школьный проект лунной базы с экспериментами. Включены материалы и подготовка учителя.",
+      "entry": "Подаёт школа. На территорию отбирают 6 классов. Допускаются пары начальная школа и collège.",
+      "gear": "",
+      "language": "Материалы организатора на французском. Язык ведущего конкретной активности уточнить.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы организатора на французском. Язык ведущего конкретной активности уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Подаёт школа. На территорию отбирают 6 классов. Допускаются пары начальная школа и collège.",
+      "note": "Проект на учебный год. CNES объявляет приглашения школам с конца сентября по конец ноября. Дата итоговой встречи пока не опубликована.",
+      "themes": [
+        "engineering",
+        "technology",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Школьный проект лунной базы с экспериментами. Включены материалы и подготовка учителя.",
+      "participation": "regular",
+      "admission_kind": "school",
+      "evidence_level": "event_page",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "camp_dossier_slug": "guf-childrens-science-congress",
+      "related_ids": [
+        "E451",
+        "C3457"
       ]
     },
     {
