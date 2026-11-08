@@ -5627,12 +5627,12 @@ Fecha: 2027-03-29 - 2027-04-02
 Edad: 5–13
 Matway: Sí, por edad; inscripción separada
 Oscar: Sí por edad; inscripción separada
-Idioma: Conversational English and Spanish figuran en la descripción; la proporción de inglés/español en cada actividad debe aclararse.
+Idioma: El programa incluye práctica de conversación en español e inglés. Confirmar el idioma de las actividades ambientales y las salidas.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Costo: 2027 - No se indica la tarifa en la página pública.
 Límites: Matway: La edad es la adecuada. Oscar: La edad es la adecuada. Los pagos adicionales son los caminos y la vida familiar, si es necesario. El pago: La cancelación y los asientos se confirman por separado.
 Fuente: https://cloudforestschool.org/camps-cec/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-08
 
 ### CP041-20270712-20270716 · Cloud Forest School · Camps CEC · 2027-07-12–2027-07-16
 
@@ -5640,12 +5640,12 @@ Fecha: 2027-07-12 — 2027-07-16
 Edad: 5–13
 Matway: Sí, por edad; inscripción separada
 Oscar: Sí por edad; inscripción separada
-Idioma: Conversational English and Spanish figuran en la descripción; la proporción de inglés/español en cada actividad debe aclararse.
+Idioma: El programa incluye práctica de conversación en español e inglés. Confirmar el idioma de las actividades ambientales y las salidas.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Costo: 2027 - No se indica la tarifa en la página pública.
 Límites: Matway: La edad es la adecuada. Oscar: La edad es la adecuada. Los pagos adicionales son los caminos y la vida familiar, si es necesario. El pago: La cancelación y los asientos se confirman por separado.
 Fuente: https://cloudforestschool.org/camps-cec/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-08
 
 ### CP041-20270719-20270723 · Cloud Forest School · Camps CEC · 2027-07-19–2027-07-23
 
@@ -5653,12 +5653,12 @@ Fecha: 2027-07-19 国 2027-07-23
 Edad: 5–13
 Matway: Sí, por edad; inscripción separada
 Oscar: Sí por edad; inscripción separada
-Idioma: Conversational English and Spanish figuran en la descripción; la proporción de inglés/español en cada actividad debe aclararse.
+Idioma: El programa incluye práctica de conversación en español e inglés. Confirmar el idioma de las actividades ambientales y las salidas.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Costo: 2027 - No se indica la tarifa en la página pública.
 Límites: Matway: La edad es la adecuada. Oscar: La edad es la adecuada. Los pagos adicionales son los caminos y la vida familiar, si es necesario. El pago: La cancelación y los asientos se confirman por separado.
 Fuente: https://cloudforestschool.org/camps-cec/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-08
 
 ### CP094-20270718-20270731 · Ojo Ciego · Verano 2027 · Verano · Completamente 2-Un internado de una semana · 2027-07-18–2027-07-31
 
@@ -5681,10 +5681,10 @@ Matway: especificar; no se ha establecido la edad de admisión
 Oscar: especificar; no se ha establecido la edad de admisión
 Idioma: Idioma de la ocupación y acogida extranjera: el sitio en inglés no es prueba de un medio de comunicación en inglés.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Costo: 2026/27 · $400, tipo de cambio de la ISO para aclarar los pagos y las condiciones del expediente
+Precio: 2026/27 · Después del 1 de noviembre la tarifa es de $500 por menor. Descuento de $50 para un hermano. Confirmar la moneda con la organización. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: No se ha publicado la admisión numérica de un programa específico; Solicitando confirmación. Oscar: No se ha publicado la admisión numérica de un programa específico; Solicitando confirmación. Gastos adicionales: Vivienda de los padres, Seguro, Transporte familiar diario y transporte adicional parent/sibling trips Por separado; Visitante van especificar. Pago: Dentro de los límites120días antes de comenzarrefund, excepto la cancelación por el operador. Superior winter-de la fecha límite para el cambio de05.10.2026; Salida del calendario. La familia no reservaba nada..
 Fuente: https://www.wildrootsworldschool.com/camp-info
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-08
 
 ### CP358-20270104-20270108 · Wild Roots · Marine Biology Camp · 5 días marine biology · 2027-01-04***2027-01-08
 
@@ -5694,10 +5694,10 @@ Matway: especificar; no se ha establecido la edad de admisión
 Oscar: especificar; no se ha establecido la edad de admisión
 Idioma: Idioma de la ocupación y acogida extranjera: el sitio en inglés no es prueba de un medio de comunicación en inglés.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Costo: 2027 $400, moneda de la ISO para aclarar los pagos y las condiciones del expediente
+Precio: 2027 · Después del 1 de noviembre la tarifa es de $500 por menor. Descuento de $50 para un hermano. Confirmar la moneda con la organización. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: No se ha publicado la admisión numérica de un programa específico; Solicitando confirmación. Oscar: No se ha publicado la admisión numérica de un programa específico; Solicitando confirmación. Gastos adicionales: Vivienda de los padres, Seguro, Transporte familiar diario y transporte adicional parent/sibling trips Por separado; Visitante van especificar. Pago: Dentro de los límites120días antes de comenzarrefund, excepto la cancelación por el operador. Superior winter-de la fecha límite para el cambio de05.10.2026; Salida del calendario. La familia no reservaba nada..
 Fuente: https://www.wildrootsworldschool.com/camp-info
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-08
 
 ### CP358-20270111-20270115 · Wild Roots · Marine Biology Camp · 5 días marine biology · 2027-01-11国2027-01-15
 
@@ -5707,10 +5707,23 @@ Matway: especificar; no se ha establecido la edad de admisión
 Oscar: especificar; no se ha establecido la edad de admisión
 Idioma: Idioma de la ocupación y acogida extranjera: el sitio en inglés no es prueba de un medio de comunicación en inglés.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Costo: 2027 $400, moneda de la ISO para aclarar los pagos y las condiciones del expediente
+Precio: 2027 · Después del 1 de noviembre la tarifa es de $500 por menor. Descuento de $50 para un hermano. Confirmar la moneda con la organización. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: No se ha publicado la admisión numérica de un programa específico; Solicitando confirmación. Oscar: No se ha publicado la admisión numérica de un programa específico; Solicitando confirmación. Gastos adicionales: Vivienda de los padres, Seguro, Transporte familiar diario y transporte adicional parent/sibling trips Por separado; Visitante van especificar. Pago: Dentro de los límites120días antes de comenzarrefund, excepto la cancelación por el operador. Superior winter-de la fecha límite para el cambio de05.10.2026; Salida del calendario. La familia no reservaba nada..
 Fuente: https://www.wildrootsworldschool.com/camp-info
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-08
+
+### CP358-20270322-20270326 · Wild Roots · Marine Biology Camp · 5 días de biología marina · 2027-03-22–2027-03-26
+
+Fecha: 2027-03-22 — 2027-03-26
+Edad: No se ha encontrado la edad numérica; la navegación y la confianza en el agua son obligatorias.
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Idioma: Idioma de la ocupación y acogida extranjera: el sitio en inglés no es prueba de un medio de comunicación en inglés.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Después del 1 de noviembre la tarifa es de $500 por menor. Descuento de $50 para un hermano. Confirmar la moneda con la organización. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: No se ha publicado la admisión numérica de un programa específico; Solicitando confirmación. Oscar: No se ha publicado la admisión numérica de un programa específico; Solicitando confirmación. Gastos adicionales: Vivienda de los padres, Seguro, Transporte familiar diario y transporte adicional parent/sibling trips Por separado; Visitante van especificar. Pago: Dentro de los límites120días antes de comenzarrefund, excepto la cancelación por el operador. Superior winter-de la fecha límite para el cambio de05.10.2026; Salida del calendario. La familia no reservaba nada..
+Fuente: https://www.wildrootsworldschool.com/camp-info
+Se ha comprobado: 2026-11-08
 
 ### CP358-20270329-20270402 · Wild Roots · Marine Biology Camp · 5 días marine biology · 2027-03-29 encaminados2027-04-02
 
@@ -5720,10 +5733,296 @@ Matway: especificar; no se ha establecido la edad de admisión
 Oscar: especificar; no se ha establecido la edad de admisión
 Idioma: Idioma de la ocupación y acogida extranjera: el sitio en inglés no es prueba de un medio de comunicación en inglés.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Costo: 2027 $400, moneda de la ISO para aclarar los pagos y las condiciones del expediente
+Precio: 2027 · Después del 1 de noviembre la tarifa es de $500 por menor. Descuento de $50 para un hermano. Confirmar la moneda con la organización. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: No se ha publicado la admisión numérica de un programa específico; Solicitando confirmación. Oscar: No se ha publicado la admisión numérica de un programa específico; Solicitando confirmación. Gastos adicionales: Vivienda de los padres, Seguro, Transporte familiar diario y transporte adicional parent/sibling trips Por separado; Visitante van especificar. Pago: Dentro de los límites120días antes de comenzarrefund, excepto la cancelación por el operador. Superior winter-de la fecha límite para el cambio de05.10.2026; Salida del calendario. La familia no reservaba nada..
 Fuente: https://www.wildrootsworldschool.com/camp-info
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-08
+
+### CP461-20270301-20270305 · Instituto Cultural Oaxaca · Kids Spanish Camps · Spring · 2027-03-01–2027-03-05
+
+Fecha: 2027-03-01 — 2027-03-05
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20270308-20270312 · Instituto Cultural Oaxaca · Kids Spanish Camps · Spring · 2027-03-08–2027-03-12
+
+Fecha: 2027-03-08 — 2027-03-12
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20270315-20270319 · Instituto Cultural Oaxaca · Kids Spanish Camps · Spring · 2027-03-15–2027-03-19
+
+Fecha: 2027-03-15 — 2027-03-19
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20270322-20270326 · Instituto Cultural Oaxaca · Kids Spanish Camps · Spring · 2027-03-22–2027-03-26
+
+Fecha: 2027-03-22 — 2027-03-26
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20270329-20270402 · Instituto Cultural Oaxaca · Kids Spanish Camps · Spring · 2027-03-29–2027-04-02
+
+Fecha: 2027-03-29 - 2027-04-02
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20270405-20270409 · Instituto Cultural Oaxaca · Kids Spanish Camps · Spring · 2027-04-05–2027-04-09
+
+Fecha: 2027-04-05 — 2027-04-09
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20270607-20270611 · Instituto Cultural Oaxaca · Kids Spanish Camps · Summer · 2027-06-07–2027-06-11
+
+Fecha: 2027-06-07 2027-06-11
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20270614-20270618 · Instituto Cultural Oaxaca · Kids Spanish Camps · Summer · 2027-06-14–2027-06-18
+
+Fecha: 2027-06-14 — 2027-06-18
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20270621-20270625 · Instituto Cultural Oaxaca · Kids Spanish Camps · Summer · 2027-06-21–2027-06-25
+
+Fecha: 2027-06-21 国 2027-06-25
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20270628-20270702 · Instituto Cultural Oaxaca · Kids Spanish Camps · Summer · 2027-06-28–2027-07-02
+
+Fecha: 2027-06-28 — 2027-07-02
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20270705-20270709 · Instituto Cultural Oaxaca · Kids Spanish Camps · Summer · 2027-07-05–2027-07-09
+
+Fecha: 2027-07-05 - 2027-07-09
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20270712-20270716 · Instituto Cultural Oaxaca · Kids Spanish Camps · Summer · 2027-07-12–2027-07-16
+
+Fecha: 2027-07-12 — 2027-07-16
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20270719-20270723 · Instituto Cultural Oaxaca · Kids Spanish Camps · Summer · 2027-07-19–2027-07-23
+
+Fecha: 2027-07-19 国 2027-07-23
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20270726-20270730 · Instituto Cultural Oaxaca · Kids Spanish Camps · Summer · 2027-07-26–2027-07-30
+
+Fecha: 2027-07-26 Å 2027-07-30
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20270802-20270806 · Instituto Cultural Oaxaca · Kids Spanish Camps · Summer · 2027-08-02–2027-08-06
+
+Fecha: 2027-08-02 - 2027-08-06
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20270809-20270813 · Instituto Cultural Oaxaca · Kids Spanish Camps · Summer · 2027-08-09–2027-08-13
+
+Fecha: 2027-08-09 — 2027-08-13
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20270816-20270820 · Instituto Cultural Oaxaca · Kids Spanish Camps · Summer · 2027-08-16–2027-08-20
+
+Fecha: 2027-08-16 — 2027-08-20
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20271129-20271203 · Instituto Cultural Oaxaca · Kids Spanish Camps · Winter · 2027-11-29–2027-12-03
+
+Fecha: 2027-11-29 — 2027-12-03
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20271206-20271210 · Instituto Cultural Oaxaca · Kids Spanish Camps · Winter · 2027-12-06–2027-12-10
+
+Fecha: 2027-12-06 2027-12-10
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20271213-20271217 · Instituto Cultural Oaxaca · Kids Spanish Camps · Winter · 2027-12-13–2027-12-17
+
+Fecha: 2027-12-13 — 2027-12-17
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20271220-20271224 · Instituto Cultural Oaxaca · Kids Spanish Camps · Winter · 2027-12-20–2027-12-24
+
+Fecha: 2027-12-20 — 2027-12-24
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
+
+### CP461-20271227-20271231 · Instituto Cultural Oaxaca · Kids Spanish Camps · Winter · 2027-12-27–2027-12-31
+
+Fecha: 2027-12-27 — 2027-12-31
+edad: 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.icomexico.com/calendar
+Se ha comprobado: 2026-11-08
 
 ### CP591-20270710-20270716-summer-2027-07-10-2027-07-16 · Camp Santa Úrsula · Verano · Verano1 ·7 días · 2027-07-10-2027-07-16
 
@@ -7114,6 +7413,19 @@ Acceso: En el formulario público se elige el día. El calendario general enumer
 Precio: 2026/27 · Gratis. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Condicional. El operador invita a menores, pero no publica una edad mínima. Oscar: Condicional. El operador invita a menores, pero no publica una edad mínima. Suplementos: Elegir un día del 5 al 12 de noviembre. La sesión dura 40 minutos dentro de la franja de 16:00 a 17:00. Confirmar la zona horaria. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://nairda.com.mx/taller/
+Se ha comprobado: 2026-11-08
+
+### CP2118-20270111-20270211-anatomy · WorldWise · Anatomy Adventurers · Anatomy Adventurers · 2027-01-11–2027-02-11
+
+Fecha: 2027-01-11 — 2027-02-11
+Edad: 9–14 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Idioma: La organización indica el inglés como idioma de enseñanza. Hay clases de español por separado, unas 2 horas semanales.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 3 750 USD por el programa. Anticipo no reembolsable de 650 USD tras aceptar la solicitud. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad de Matvey encaja. La organización revisa la solicitud y el nivel de inglés. Oscar: No cumple la edad mínima publicada. Suplementos: Alojamiento familiar, vuelos, comidas, transporte de salidas y entradas de adultos se pagan aparte. Pago: El anticipo no es reembolsable. Consultar a la organización el plazo del saldo y las condiciones de devolución del resto.
+Fuente: https://www.worldwiselearningadventures.org/upcoming-adventures-folder/anatomy-adventurers
 Se ha comprobado: 2026-11-08
 
 ### C1155 · XVIII Campeonato Nacional de Robótica y STEM · VEX IQ Middle

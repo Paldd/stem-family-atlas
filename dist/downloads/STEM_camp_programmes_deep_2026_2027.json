@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2117,
+    "dossiers": 2120,
     "countries": 136,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 290,
-      "published_2027": 565,
+      "published_2027": 568,
       "partial_2027": 152,
       "next_unannounced": 440,
       "published_2026": 426,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 6,
       "confirmed_2027": 1
     },
-    "source_urls": 3021
+    "source_urls": 3026
   },
   "countries": [
     {
@@ -281,7 +281,7 @@
     },
     {
       "country": "Коста-Рика",
-      "count": 60
+      "count": 61
     },
     {
       "country": "Кувейт",
@@ -405,7 +405,7 @@
     },
     {
       "country": "Панама",
-      "count": 14
+      "count": 15
     },
     {
       "country": "Парагвай",
@@ -413,7 +413,7 @@
     },
     {
       "country": "Перу",
-      "count": 31
+      "count": 32
     },
     {
       "country": "Польша",
@@ -7988,8 +7988,11 @@
         "day"
       ],
       "age": "5–13",
-      "language": "Conversational English и Spanish включены в описание; долю английского/испанского на каждой активности надо уточнить.",
-      "confirmed_instruction_languages": [],
+      "language": "В программу включены разговорные занятия на испанском и английском. Язык экологических занятий и выездов нужно уточнить.",
+      "confirmed_instruction_languages": [
+        "ES",
+        "EN"
+      ],
       "programme": "Экология облачного леса, устойчивость, сад/природа, hiking, искусство, физкультура и экскурсии. Подтверждённой робототехники/ИИ нет.",
       "timing": {
         "status": "published_2027",
@@ -8039,12 +8042,13 @@
       ],
       "sources": [
         {
-          "title": "Camps 2027",
+          "title": "Страница организатора или регламент категории.",
           "url": "https://cloudforestschool.org/camps-cec/",
-          "checked": "2026-10-04"
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-10-04",
+      "checked": "2026-11-08",
+      "language_evidence_role": "language_lessons",
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -17379,7 +17383,7 @@
       },
       "price": {
         "year": 2027,
-        "label": "BRL 4 772 обычная цена; BRL 4 295 октябрьская акция PIX. В свежем прямом HTML эти суммы; кэш ещё показывает сентябрьские 4 588/3 900.",
+        "label": "4 968 BRL стандартно или 4 570 BRL при оплате PIX. Тариф 2027 может меняться до оплаты.",
         "included": "Пансион, 4 приёма пищи в день, материалы/активности, базовое экстренное страхование, медработник и автобус São Paulo–camp–São Paulo в фиксированные даты.",
         "extras": "Дорога до пункта сбора в São Paulo, международная страховка и доплаты уточнить. Airport pickup указан для отдельного International Guest и не переносится на Kids.",
         "deposit": "PIX/перевод полностью либо рассрочка картой по запросу. Цена меняется; возврат и аванс не прочитаны."
@@ -17401,13 +17405,13 @@
         "boarding"
       ],
       "questions": [
-        "Подтвердить платный иностранный допуск до 12, цену PIX, возврат, страхование и трансфер из São Paulo."
+        "Уточнить платный приём иностранного ребёнка младше 12 лет, счёт, отмену, страховку и трансфер из Сан-Паулу."
       ],
       "sources": [
         {
-          "title": "Свежий Kids 2027 /8–12 /EN /октябрьский тариф",
+          "title": "Страница организатора или регламент категории.",
           "url": "https://www.englishcamp.com.br/programas/kids/",
-          "checked": "2026-10-04"
+          "checked": "2026-11-08"
         },
         {
           "title": "Площадка",
@@ -17415,12 +17419,12 @@
           "checked": "2026-10-04"
         },
         {
-          "title": "Отдельный бесплатный Guest 12–16 /международный допуск",
+          "title": "Страница организатора или регламент категории.",
           "url": "https://www.englishcamp.com.br/international-guest/",
-          "checked": "2026-10-04"
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-10-04",
+      "checked": "2026-11-08",
       "language_evidence_role": "camp_life",
       "related_event_ids": [],
       "calendar_links": [
@@ -47058,7 +47062,7 @@
         "boarding"
       ],
       "age": "7–16",
-      "language": "Основная программа 100% на испанском; EN у вожатых — помощь, не английская смена.",
+      "language": "Все занятия проходят на испанском. Вожатые при необходимости помогают на английском.",
       "confirmed_instruction_languages": [
         "ES"
       ],
@@ -47115,9 +47119,9 @@
       ],
       "sources": [
         {
-          "title": "Конкретный формат и язык",
+          "title": "Страница организатора или регламент категории.",
           "url": "https://pty.lallanada.com/campamento-de-verano/sleepaway-valle-de-anton/",
-          "checked": "2026-10-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "2027 сезоны всех форматов",
@@ -47130,8 +47134,11 @@
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-08",
       "language_evidence_role": "camp_life",
+      "confirmed_support_languages": [
+        "EN"
+      ],
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -47161,7 +47168,7 @@
         "day"
       ],
       "age": "6–10 в PDF 2027; сайт 6–12 — расхождение",
-      "language": "Основная программа 100% на испанском; EN у вожатых — помощь, не английская смена.",
+      "language": "Все занятия проходят на испанском. Вожатые при необходимости помогают на английском.",
       "confirmed_instruction_languages": [
         "ES"
       ],
@@ -47218,9 +47225,9 @@
       ],
       "sources": [
         {
-          "title": "Конкретный формат и язык",
+          "title": "Страница организатора или регламент категории.",
           "url": "https://pty.lallanada.com/campamento-de-verano/daycamp-valle-de-anton/",
-          "checked": "2026-10-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "2027 сезоны всех форматов",
@@ -47233,8 +47240,11 @@
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-08",
       "language_evidence_role": "camp_life",
+      "confirmed_support_languages": [
+        "EN"
+      ],
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -47264,7 +47274,7 @@
         "day"
       ],
       "age": "4–12",
-      "language": "Все занятия и игры на испанском. Вожатые могут помочь на английском.",
+      "language": "Все занятия проходят на испанском. Вожатые при необходимости помогают на английском.",
       "confirmed_instruction_languages": [
         "ES"
       ],
@@ -47297,8 +47307,8 @@
                 "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
               },
               "oscar": {
-                "status": "conditional",
-                "detail": "Условно, если к началу уже исполнилось 6 лет."
+                "status": "candidate",
+                "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
               }
             },
             "date_scope": "session_days",
@@ -47363,8 +47373,8 @@
                 "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
               },
               "oscar": {
-                "status": "conditional",
-                "detail": "Условно, если к началу уже исполнилось 6 лет."
+                "status": "candidate",
+                "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
               }
             },
             "date_scope": "session_days",
@@ -47435,8 +47445,8 @@
           "detail": "Возраст подходит по опубликованному диапазону. Подтвердить место и язык группы."
         },
         "oscar": {
-          "status": "conditional",
-          "detail": "Условно, если к началу уже исполнилось 6 лет."
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
         }
       },
       "editorial_reason": "Испанский прямо подтверждён; младшим доступен день, ночёвки только 7+.",
@@ -47454,8 +47464,8 @@
         },
         {
           "url": "https://pty.lallanada.com/campamento-de-verano/daycamp-ciudad/",
-          "title": "Официальная страница организатора",
-          "checked": "2026-11-07"
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
         },
         {
           "url": "https://pty.lallanada.com/",
@@ -47463,7 +47473,7 @@
           "checked": "2026-11-07"
         }
       ],
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "language_evidence_role": "camp_life",
       "confirmed_support_languages": [
         "EN"
@@ -54555,7 +54565,7 @@
       "programme": "Пять дней marine biology/conservation: snorkel, наблюдения, beach-cleanup, творчество и cenote. Погода меняет программу; робототехника не заявлена.",
       "timing": {
         "status": "partial_2026_27",
-        "label": "Зима28.12–01.01,04–08.01,11–15.01.2027; весна29.03–02.04. Первый весенний22–28марта расходится с5днями — исключён из точного календаря.",
+        "label": "Зима: 28 декабря 2026 — 1 января 2027, 4–8 или 11–15 января 2027. Весна: 22–26 марта или 29 марта — 2 апреля 2027.",
         "sessions": [
           [
             "2026-12-28",
@@ -54570,6 +54580,10 @@
             "2027-01-15"
           ],
           [
+            "2027-03-22",
+            "2027-03-26"
+          ],
+          [
             "2027-03-29",
             "2027-04-02"
           ]
@@ -54579,7 +54593,7 @@
             "start": "2026-12-28",
             "end": "2027-01-01",
             "label": "5 дней marine biology",
-            "price": "$400, ISO-валюта уточнить",
+            "price": "После 1 ноября тариф $500 за ребёнка. Скидка $50 для брата или сестры. Валюту подтвердить у организатора.",
             "source": "https://www.wildrootsworldschool.com/camp-info",
             "formats": [
               "day"
@@ -54591,7 +54605,7 @@
             "start": "2027-01-04",
             "end": "2027-01-08",
             "label": "5 дней marine biology",
-            "price": "$400, ISO-валюта уточнить",
+            "price": "После 1 ноября тариф $500 за ребёнка. Скидка $50 для брата или сестры. Валюту подтвердить у организатора.",
             "source": "https://www.wildrootsworldschool.com/camp-info",
             "formats": [
               "day"
@@ -54603,7 +54617,19 @@
             "start": "2027-01-11",
             "end": "2027-01-15",
             "label": "5 дней marine biology",
-            "price": "$400, ISO-валюта уточнить",
+            "price": "После 1 ноября тариф $500 за ребёнка. Скидка $50 для брата или сестры. Валюту подтвердить у организатора.",
+            "source": "https://www.wildrootsworldschool.com/camp-info",
+            "formats": [
+              "day"
+            ],
+            "place": "Playa del Carmen / Akumal",
+            "date_scope": "day_camp_window"
+          },
+          {
+            "start": "2027-03-22",
+            "end": "2027-03-26",
+            "label": "5 дней marine biology",
+            "price": "После 1 ноября тариф $500 за ребёнка. Скидка $50 для брата или сестры. Валюту подтвердить у организатора.",
             "source": "https://www.wildrootsworldschool.com/camp-info",
             "formats": [
               "day"
@@ -54615,7 +54641,7 @@
             "start": "2027-03-29",
             "end": "2027-04-02",
             "label": "5 дней marine biology",
-            "price": "$400, ISO-валюта уточнить",
+            "price": "После 1 ноября тариф $500 за ребёнка. Скидка $50 для брата или сестры. Валюту подтвердить у организатора.",
             "source": "https://www.wildrootsworldschool.com/camp-info",
             "formats": [
               "day"
@@ -54628,8 +54654,8 @@
       },
       "price": {
         "year": null,
-        "label": "$400/ребёнок,50 sibling-discount; валюта не указана. Не считать автоматическиUSD илиMXN.",
-        "included": "Питание и основные guided activities по camp-page.",
+        "label": "После 1 ноября тариф $500 за ребёнка. Скидка $50 для брата или сестры. Валюту подтвердить у организатора.",
+        "included": "Основные занятия, перекусы и сопровождение на мероприятиях из программы.",
         "extras": "Жильё родителей, страховка, ежедневный семейный транспорт и дополнительные parent/sibling trips отдельно; экскурсионный van уточнить.",
         "deposit": "В пределах120дней до старта безrefund, кроме отмены оператором. Старшая winter-смена уже внутри этого срока на05.10.2026; вывод по календарю. Семья ничего не бронировала.",
         "season": "2026/27"
@@ -54654,9 +54680,9 @@
       ],
       "sources": [
         {
-          "title": "Планы и пакеты",
+          "title": "Страница организатора или регламент категории.",
           "url": "https://www.wildrootsworldschool.com/camp-info",
-          "checked": "2026-10-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "Возврат/транспорт",
@@ -54669,7 +54695,7 @@
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-08",
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -54694,6 +54720,14 @@
           "kind": "catalogue_session",
           "event_ids": [
             "CP358-20270111-20270115"
+          ]
+        },
+        {
+          "start": "2027-03-22",
+          "end": "2027-03-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP358-20270322-20270326"
           ]
         },
         {
@@ -71899,7 +71933,7 @@
     {
       "id": "CP461",
       "slug": "ico-oaxaca-kids",
-      "provider": "Instituto Cultural Oaxaca · Kids Spanish Summer Camp",
+      "provider": "Instituto Cultural Oaxaca · Kids Spanish Camps",
       "country": "Мексика",
       "iso": "MEX",
       "place": "Av. Juárez 909, Centro, Oaxaca, México",
@@ -71911,49 +71945,580 @@
       "formats": [
         "day"
       ],
-      "age": "5–12; группы 5 лет / 6–8 / 9–12, по Spanish level; до 6 детей в конкретном Kids programme.",
-      "language": "100% Spanish, native teachers; все уровни, включая heritage speakers. EN сайта не язык лагеря.",
+      "age": "5–12 лет. Конкретное распределение по возрасту и уровню уточнить при выборе недели.",
+      "language": "В 2027 анонсированы группы с преподавателями — носителями испанского. Детская программа описана как 100% на испанском.",
       "confirmed_instruction_languages": [
         "ES"
       ],
-      "programme": "Языковая практика через crafts/music/games, piñatas, mask making и natural dyes; parents adult class в параллельные часы. Для уже Spanish-speaking детей уточнить пользу advanced/heritage curriculum.",
+      "programme": "Испанский через игры, музыку, ремёсла и знакомство с культурой Оахаки. У взрослых есть параллельный языковой курс.",
       "timing": {
-        "status": "next_unannounced",
-        "label": "1 июня – 21 августа 2026, weekly Mon–Fri 09–13 (20 часов). Уже прошедший сезон; 2027 dates неизвестны, общий FAQ Monday start не доказывает 52 camp weeks.",
-        "sessions": [],
+        "status": "published_2027",
+        "label": "Весна: 1 марта — 9 апреля 2027. Лето: 7 июня — 20 августа 2027. Зима: 29 ноября — 31 декабря 2027. Начать можно в любой понедельник внутри сезона.",
+        "sessions": [
+          [
+            "2027-03-01",
+            "2027-03-05"
+          ],
+          [
+            "2027-03-08",
+            "2027-03-12"
+          ],
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ],
+          [
+            "2027-03-22",
+            "2027-03-26"
+          ],
+          [
+            "2027-03-29",
+            "2027-04-02"
+          ],
+          [
+            "2027-04-05",
+            "2027-04-09"
+          ],
+          [
+            "2027-06-07",
+            "2027-06-11"
+          ],
+          [
+            "2027-06-14",
+            "2027-06-18"
+          ],
+          [
+            "2027-06-21",
+            "2027-06-25"
+          ],
+          [
+            "2027-06-28",
+            "2027-07-02"
+          ],
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-02",
+            "2027-08-06"
+          ],
+          [
+            "2027-08-09",
+            "2027-08-13"
+          ],
+          [
+            "2027-08-16",
+            "2027-08-20"
+          ],
+          [
+            "2027-11-29",
+            "2027-12-03"
+          ],
+          [
+            "2027-12-06",
+            "2027-12-10"
+          ],
+          [
+            "2027-12-13",
+            "2027-12-17"
+          ],
+          [
+            "2027-12-20",
+            "2027-12-24"
+          ],
+          [
+            "2027-12-27",
+            "2027-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "spring",
+            "start": "2027-03-01",
+            "end": "2027-03-05",
+            "label": "Spring",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "spring",
+            "start": "2027-03-08",
+            "end": "2027-03-12",
+            "label": "Spring",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "spring",
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "Spring",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "spring",
+            "start": "2027-03-22",
+            "end": "2027-03-26",
+            "label": "Spring",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "spring",
+            "start": "2027-03-29",
+            "end": "2027-04-02",
+            "label": "Spring",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "spring",
+            "start": "2027-04-05",
+            "end": "2027-04-09",
+            "label": "Spring",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "summer",
+            "start": "2027-06-07",
+            "end": "2027-06-11",
+            "label": "Summer",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "summer",
+            "start": "2027-06-14",
+            "end": "2027-06-18",
+            "label": "Summer",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "summer",
+            "start": "2027-06-21",
+            "end": "2027-06-25",
+            "label": "Summer",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "summer",
+            "start": "2027-06-28",
+            "end": "2027-07-02",
+            "label": "Summer",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "summer",
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "label": "Summer",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "summer",
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Summer",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "summer",
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "Summer",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "summer",
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "Summer",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "summer",
+            "start": "2027-08-02",
+            "end": "2027-08-06",
+            "label": "Summer",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "summer",
+            "start": "2027-08-09",
+            "end": "2027-08-13",
+            "label": "Summer",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "summer",
+            "start": "2027-08-16",
+            "end": "2027-08-20",
+            "label": "Summer",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "winter",
+            "start": "2027-11-29",
+            "end": "2027-12-03",
+            "label": "Winter",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "winter",
+            "start": "2027-12-06",
+            "end": "2027-12-10",
+            "label": "Winter",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "winter",
+            "start": "2027-12-13",
+            "end": "2027-12-17",
+            "label": "Winter",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "winter",
+            "start": "2027-12-20",
+            "end": "2027-12-24",
+            "label": "Winter",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          },
+          {
+            "variant_key": "winter",
+            "start": "2027-12-27",
+            "end": "2027-12-31",
+            "label": "Winter",
+            "price": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+            "source": "https://www.icomexico.com/calendar",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Av. Juárez 909, Centro, Oaxaca, México",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "date_precision": "published_rule",
+            "date_rule": "Организатор разрешает начать в любой понедельник внутри опубликованного сезона. Показано окно недели."
+          }
+        ],
         "precision": "published_sessions"
       },
       "price": {
-        "year": 2026,
-        "label": "USD 300/1 week; 560/2; 780/3; 960/4. После 5-й недели указан USD 200/дополнительную, но цена самой 5-й недели не дана.",
-        "included": "20 часов/неделя, Spanish games/cultural workshops, все материалы.",
-        "extras": "Parent tuition, семейное жильё, дорога/food отдельно или неизвестны. Цена 5-й недели требует quote; general FAQ class cap8 не переносится на Kids cap6.",
-        "deposit": "USD 55 deposit/student; balance в первый день. General FAQ: deposit refund до 14 дней до arrival, позже credit на online/future lessons. Применимость к Kids 2027, зачёт в tuition и остальные refunds подтвердить."
+        "year": 2027,
+        "label": "Тариф 2027 запрашивается у школы. Опубликованная цена 300 USD за неделю относится к сезону 2026.",
+        "included": "Для детского курса прежнего сезона были указаны материалы и языковые занятия. Состав пакета 2027 нужно уточнить.",
+        "extras": "Занятия взрослых, семейное жильё, дорога и питание оплачиваются отдельно или уточняются.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
       },
-      "accommodation": "Дневной 09–13; housing семьи и transfer не входят в опубликованный Kids пакет. Родители могут учиться отдельно.",
+      "accommodation": "Дневной формат без проживания.",
       "family_fit": {
         "matvey": {
           "status": "candidate",
-          "detail": "Группа 9–12 по будущему возрасту; новый сезон и level/heritage программу проверить."
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
         },
         "oscar": {
           "status": "candidate",
-          "detail": "Будет 6–7, подходит группа 6–8; новый сезон и испанский уровень подтвердить."
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
         }
       },
-      "editorial_reason": "Понятный cultural day camp в Мексике для обоих; не technical track и не пансион.",
+      "editorial_reason": "Дневная испаноязычная программа для обоих детей. Подходит для культурного погружения и языковой практики.",
       "shortlist": [
         "both",
         "general"
       ],
       "questions": [
-        "2027 weekly dates/price, группа/level, 5-я неделя, deposit credit/refund, food и family housing."
+        "Запросить полный счёт 2027, время занятий, уровень для свободно говорящих по-испански детей и условия отмены."
       ],
       "sources": [
         {
-          "title": "Конкретный Kids camp: ages/100%ES/2026/cap6/fees",
+          "title": "Страница организатора или регламент категории.",
           "url": "https://www.icomexico.com/kids-spanish-summer-camp",
-          "checked": "2026-10-05"
+          "checked": "2026-11-08"
         },
         {
           "title": "General FAQ: deposits и Monday modules",
@@ -71961,15 +72526,197 @@
           "checked": "2026-10-05"
         },
         {
-          "title": "Calendar не доказательство Kids 2027",
+          "title": "Страница организатора или регламент категории.",
           "url": "https://www.icomexico.com/calendar",
-          "checked": "2026-10-05"
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.icomexico.com/fees-and-payment",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-08",
       "language_evidence_role": "primary",
       "related_event_ids": [],
-      "calendar_links": []
+      "calendar_links": [
+        {
+          "start": "2027-03-01",
+          "end": "2027-03-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270301-20270305"
+          ]
+        },
+        {
+          "start": "2027-03-08",
+          "end": "2027-03-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270308-20270312"
+          ]
+        },
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270315-20270319"
+          ]
+        },
+        {
+          "start": "2027-03-22",
+          "end": "2027-03-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270322-20270326"
+          ]
+        },
+        {
+          "start": "2027-03-29",
+          "end": "2027-04-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270329-20270402"
+          ]
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-04-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270405-20270409"
+          ]
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-06-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270607-20270611"
+          ]
+        },
+        {
+          "start": "2027-06-14",
+          "end": "2027-06-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270614-20270618"
+          ]
+        },
+        {
+          "start": "2027-06-21",
+          "end": "2027-06-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270621-20270625"
+          ]
+        },
+        {
+          "start": "2027-06-28",
+          "end": "2027-07-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270628-20270702"
+          ]
+        },
+        {
+          "start": "2027-07-05",
+          "end": "2027-07-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270705-20270709"
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270712-20270716"
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270719-20270723"
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270726-20270730"
+          ]
+        },
+        {
+          "start": "2027-08-02",
+          "end": "2027-08-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270802-20270806"
+          ]
+        },
+        {
+          "start": "2027-08-09",
+          "end": "2027-08-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270809-20270813"
+          ]
+        },
+        {
+          "start": "2027-08-16",
+          "end": "2027-08-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20270816-20270820"
+          ]
+        },
+        {
+          "start": "2027-11-29",
+          "end": "2027-12-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20271129-20271203"
+          ]
+        },
+        {
+          "start": "2027-12-06",
+          "end": "2027-12-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20271206-20271210"
+          ]
+        },
+        {
+          "start": "2027-12-13",
+          "end": "2027-12-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20271213-20271217"
+          ]
+        },
+        {
+          "start": "2027-12-20",
+          "end": "2027-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20271220-20271224"
+          ]
+        },
+        {
+          "start": "2027-12-27",
+          "end": "2027-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP461-20271227-20271231"
+          ]
+        }
+      ]
     },
     {
       "id": "CP462",
@@ -364042,6 +364789,292 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP2118",
+      "slug": "worldwise-nosara-anatomy-2027",
+      "provider": "WorldWise · Anatomy Adventurers",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "La Salita by CAMPO · Nosara",
+      "age": "9–14 лет.",
+      "programme": "Сравнительная анатомия, научная иллюстрация, наблюдения за животными и полевые занятия. Итог — собственный иллюстрированный атлас.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор указывает английский как язык занятий. Испанский включён отдельными уроками примерно по 2 часа в неделю.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "timing": {
+        "status": "published_2027",
+        "label": "11 января — 11 февраля 2027. Понедельник–четверг, начало 09:00 или 10:00 по группе, окончание 15:00.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-02-11"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "anatomy",
+            "start": "2027-01-11",
+            "end": "2027-02-11",
+            "label": "Anatomy Adventurers",
+            "price": "3 750 USD за программу. Невозвратный аванс 650 USD после принятия заявки.",
+            "source": "https://www.worldwiselearningadventures.org/upcoming-adventures-folder/anatomy-adventurers",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "La Salita by CAMPO · Nosara",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH"
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 3750,
+        "currency": "USD",
+        "unit": "session",
+        "label": "3 750 USD за программу. Невозвратный аванс 650 USD после принятия заявки.",
+        "included": "Занятия, полевые уроки, научный проект, математические и испанские занятия в малых группах.",
+        "extras": "Семейное жильё, перелёт, питание, транспорт на выезды и вход взрослых оплачиваются отдельно.",
+        "deposit": "Аванс не возвращается. Точный срок остатка и условия возврата остальной суммы запрашиваются у организатора."
+      },
+      "accommodation": "Дневная программа. Семья бронирует жильё самостоятельно.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст Матвея подходит. Организатор проверяет заявку и уровень английского."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по опубликованному минимальному возрасту."
+        }
+      },
+      "editorial_reason": "11 января — 11 февраля 2027. Понедельник–четверг, начало 09:00 или 10:00 по группе, окончание 15:00.",
+      "shortlist": [
+        "local",
+        "general"
+      ],
+      "questions": [
+        "Уточнить наличие места, расписание выездов, обязательное сопровождение и страхование."
+      ],
+      "sources": [
+        {
+          "url": "https://www.worldwiselearningadventures.org/upcoming-adventures-folder/anatomy-adventurers",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.worldwiselearningadventures.org/faqs",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "science",
+        "nature",
+        "art",
+        "languages"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-02-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2118-20270111-20270211-anatomy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2119",
+      "slug": "worldwise-peru-empire-engineers-2027",
+      "provider": "WorldWise · Empire Engineers",
+      "country": "Перу",
+      "iso": "PER",
+      "place": "Urubamba · Sacred Valley",
+      "age": "8–12 лет.",
+      "programme": "Инженерия инков: водные системы, архитектура, астрономия и командное проектирование макета поселения.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Организатор указывает английский как язык занятий. Испанский включён отдельными уроками примерно по 2 часа в неделю.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "timing": {
+        "status": "published_2027",
+        "label": "29 марта — 29 апреля 2027. Четыре дня в неделю. Выезды по вторникам и четвергам. Часы по дням уточнить.",
+        "sessions": [
+          [
+            "2027-03-29",
+            "2027-04-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "empire",
+            "start": "2027-03-29",
+            "end": "2027-04-29",
+            "label": "Empire Engineers",
+            "price": "На странице 1 800 за программу и 500 невозвратного аванса, обе суммы со знаком $. Валюту подтвердить в счёте.",
+            "source": "https://www.worldwiselearningadventures.org/upcoming-adventures-folder/empire-engineers-2027",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "place": "Urubamba · Sacred Valley"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "label": "На странице 1 800 за программу и 500 невозвратного аванса, обе суммы со знаком $. Валюту подтвердить в счёте.",
+        "included": "Учебные материалы, вход для детей и групповой транспорт на плановых выездах во вторник и четверг.",
+        "extras": "Жильё, перелёт, питание и страховка отдельно. Семейные выходные в Мачу-Пикчу — платное дополнение.",
+        "deposit": "Аванс не возвращается. Точный срок остатка и условия возврата остальной суммы запрашиваются у организатора."
+      },
+      "accommodation": "Дневная программа. Семья бронирует жильё самостоятельно.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст Матвея подходит. Организатор проверяет заявку и уровень английского."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по опубликованному минимальному возрасту."
+        }
+      },
+      "editorial_reason": "29 марта — 29 апреля 2027. Четыре дня в неделю. Выезды по вторникам и четвергам. Часы по дням уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить наличие места, расписание выездов, обязательное сопровождение и страхование.",
+        "Запросить валюту счёта и стоимость дополнительной поездки."
+      ],
+      "sources": [
+        {
+          "url": "https://www.worldwiselearningadventures.org/upcoming-adventures-folder/empire-engineers-2027",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.worldwiselearningadventures.org/faqs",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "science",
+        "nature",
+        "languages"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-29",
+          "end": "2027-04-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2119-20270329-20270429-empire"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2120",
+      "slug": "utp-cel-english-summer-2027",
+      "provider": "UTP · CEL Summer Camp",
+      "country": "Панама",
+      "iso": "PAN",
+      "place": "Campus Central Víctor Levi Sasso · Panamá",
+      "age": "9–14 лет.",
+      "programme": "Детский курс английского с практикой в возрастных группах и сертификатом участия.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Английский — предмет курса. Язык дополнительных активностей не указан.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "language_lessons",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Летний курс 2027, 4 недели, понедельник–четверг 09:00–12:00. Точные даты старта и окончания не опубликованы.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "label": "Для внешних участников опубликованы 100 PAB за регистрацию и 97 PAB за первый взнос, всего 197 PAB на этом этапе. Итоговый счёт уточнить.",
+        "included": "Учебные копии для занятий.",
+        "extras": "Страховка и перекус обязательны. Заявку подаёт родитель или опекун.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Допуск и место подтвердить отдельно."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по опубликованному минимальному возрасту."
+        }
+      },
+      "editorial_reason": "Летний курс 2027, 4 недели, понедельник–четверг 09:00–12:00. Точные даты старта и окончания не опубликованы.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://utp.ac.pa/curso-de-verano-para-ninos-y-adolescentes",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "languages",
+        "general"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -369367,7 +370400,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 303,
+  "version": 305,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -382602,7 +383635,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2117,
+      "total_dossiers": 2120,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -387718,6 +388751,11 @@
     },
     {
       "programme_id": "CP358",
+      "event_id": "CP358-20270322-20270326",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP358",
       "event_id": "CP358-20270329-20270402",
       "relation": "catalogue_session"
     },
@@ -389124,6 +390162,116 @@
     {
       "programme_id": "CP457",
       "event_id": "CP457-20270730-20270802",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270301-20270305",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270308-20270312",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270315-20270319",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270322-20270326",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270329-20270402",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270405-20270409",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270607-20270611",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270614-20270618",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270621-20270625",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270628-20270702",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270705-20270709",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270712-20270716",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270719-20270723",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270726-20270730",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270802-20270806",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270809-20270813",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20270816-20270820",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20271129-20271203",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20271206-20271210",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20271213-20271217",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20271220-20271224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP461",
+      "event_id": "CP461-20271227-20271231",
       "relation": "catalogue_session"
     },
     {
@@ -406202,6 +407350,16 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2118",
+      "event_id": "CP2118-20270111-20270211-anatomy",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2119",
+      "event_id": "CP2119-20270329-20270429-empire",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -407494,6 +408652,7 @@
     "CP358-20261228-20270101",
     "CP358-20270104-20270108",
     "CP358-20270111-20270115",
+    "CP358-20270322-20270326",
     "CP358-20270329-20270402",
     "CP362-20270109-20270306",
     "CP362-20270410-20270605",
@@ -407767,6 +408926,28 @@
     "CP455-20270702-20270819",
     "CP456-20270702-20270715",
     "CP457-20270730-20270802",
+    "CP461-20270301-20270305",
+    "CP461-20270308-20270312",
+    "CP461-20270315-20270319",
+    "CP461-20270322-20270326",
+    "CP461-20270329-20270402",
+    "CP461-20270405-20270409",
+    "CP461-20270607-20270611",
+    "CP461-20270614-20270618",
+    "CP461-20270621-20270625",
+    "CP461-20270628-20270702",
+    "CP461-20270705-20270709",
+    "CP461-20270712-20270716",
+    "CP461-20270719-20270723",
+    "CP461-20270726-20270730",
+    "CP461-20270802-20270806",
+    "CP461-20270809-20270813",
+    "CP461-20270816-20270820",
+    "CP461-20271129-20271203",
+    "CP461-20271206-20271210",
+    "CP461-20271213-20271217",
+    "CP461-20271220-20271224",
+    "CP461-20271227-20271231",
     "CP472-20270718-20270801",
     "CP474-20270418-20270424",
     "CP474-20270425-20270501",
@@ -411045,10 +412226,12 @@
     "CP2116-20270601-20270604-may-half-term",
     "CP2116-20270802-20270827-summer",
     "CP2117-20270104-20270115-ciclo-1",
-    "CP2117-20270118-20270129-ciclo-2"
+    "CP2117-20270118-20270129-ciclo-2",
+    "CP2118-20270111-20270211-anatomy",
+    "CP2119-20270329-20270429-empire"
   ],
   "integration": {
-    "generated_sessions": 4433,
+    "generated_sessions": 4458,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

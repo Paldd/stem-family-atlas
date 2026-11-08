@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 304,
+    "version": 305,
     "status": "implementation_snapshot",
-    "events": 10794,
+    "events": 10819,
     "competitions": 4812,
     "league_profiles": 309,
-    "camp_dossiers": 2117,
+    "camp_dossiers": 2120,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -928,7 +928,7 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 303,
+    "version": 304,
     "status": "implementation_snapshot",
     "events": 10794,
     "competitions": 4812,
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 304,
+    "prepared_ui_version": 305,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 303,
-    "previous_verified_commit": "fef260a70335748d0fb9d1486be6269e6650b90a"
+    "previous_verified_ui_version": 304,
+    "previous_verified_commit": "3712938e47475580f68b13ea8aaf2a51c8a68a0d"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 302,
-    "published_version": 302,
-    "latest_source_commit": "7cc150d6be28e8bf469f4117d43844ca734cbf37",
-    "published_commit": "7cc150d6be28e8bf469f4117d43844ca734cbf37",
-    "latest_workflow": 42525493882,
+    "latest_source_version": 304,
+    "published_version": 304,
+    "latest_source_commit": "3712938e47475580f68b13ea8aaf2a51c8a68a0d",
+    "published_commit": "3712938e47475580f68b13ea8aaf2a51c8a68a0d",
+    "latest_workflow": 42528827427,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -31517,5 +31517,83 @@
     "stable_event_ids": true,
     "public_links_from_localhost": true,
     "browser_plans_shared": false
+  },
+  "latam_language_and_camp_calendar_v305": {
+    "version": 305,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "CP461-20270301-20270305",
+      "CP461-20270308-20270312",
+      "CP461-20270315-20270319",
+      "CP461-20270322-20270326",
+      "CP461-20270329-20270402",
+      "CP461-20270405-20270409",
+      "CP461-20270607-20270611",
+      "CP461-20270614-20270618",
+      "CP461-20270621-20270625",
+      "CP461-20270628-20270702",
+      "CP461-20270705-20270709",
+      "CP461-20270712-20270716",
+      "CP461-20270719-20270723",
+      "CP461-20270726-20270730",
+      "CP461-20270802-20270806",
+      "CP461-20270809-20270813",
+      "CP461-20270816-20270820",
+      "CP461-20271129-20271203",
+      "CP461-20271206-20271210",
+      "CP461-20271213-20271217",
+      "CP461-20271220-20271224",
+      "CP461-20271227-20271231",
+      "CP2118-20270111-20270211-anatomy",
+      "CP2119-20270329-20270429-empire",
+      "CP358-20270322-20270326"
+    ],
+    "new_dossiers": [
+      "CP2118",
+      "CP2119",
+      "CP2120"
+    ],
+    "refreshed_dossiers": [
+      "CP461",
+      "CP041",
+      "CP101",
+      "CP302",
+      "CP303",
+      "CP304",
+      "CP358"
+    ],
+    "refreshed_event_ids": [
+      "CP041-20270329-20270402",
+      "CP041-20270712-20270716",
+      "CP041-20270719-20270723",
+      "CP101-20270111-20270115",
+      "CP302-20270124-20270131",
+      "CP303-20270125-20270129",
+      "CP304-20270118-20270122",
+      "CP304-20270215-20270219",
+      "CP358-20261228-20270101",
+      "CP358-20270104-20270108",
+      "CP358-20270111-20270115",
+      "CP358-20270329-20270402"
+    ],
+    "source_requests": 14,
+    "legacy_overlay_event_ids": [],
+    "ico": "CP461",
+    "ico_weeks": 22,
+    "worldwise": [
+      "CP2118",
+      "CP2119"
+    ],
+    "utp": "CP2120",
+    "cloud_forest": "CP041",
+    "brazil": "CP101",
+    "llanada": [
+      "CP302",
+      "CP303",
+      "CP304"
+    ],
+    "wild_roots": "CP358"
   }
 }

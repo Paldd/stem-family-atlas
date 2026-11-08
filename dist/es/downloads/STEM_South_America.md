@@ -6621,10 +6621,10 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Idioma: El operador declara claramente todas las actividades en el 100%EN, los empleados hablan inglés.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · BRL 4 772 Precio normal; BRL 4 295 Acción de octubre PIX. En línea fresca HTML Monto total; El caché todavía muestra los de septiembre. 4 588/3 900.
+Precio: 2027 · 4 968 BRL de tarifa estándar o 4 570 BRL mediante PIX. La tarifa 2027 puede cambiar antes del pago.
 Limitaciones: Matway: 8-12 es adecuado; la admisión de un niño extranjero menor de 12 años se confirma por separado; Oscar: 2027 menos 8; los pagos: el camino al punto de reunión de São Paulo, el seguro internacional y los pagos complementarios, se especifica. Airport pickup se indica para una Guest internacional separada y no se transfiere a Kids. Pago: PIX/Traducción total o aplazamiento de la tarjeta a petición. El precio cambia; no se devuelve ni se lee el anticipo.
 Fuente: https://www.englishcamp.com.br/programas/kids/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-08
 
 ### CP222-20270104-20270104 · Astranutas · Verano 2027 · EvKids · Inicio del curso · Pn/Cr · 75 minutos; final del curso para especificar · 2027-01-04________________2027-01-04
 
@@ -8860,6 +8860,19 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 300 000 CLP por un ciclo de dos semanas por menor. Las tarifas anticipadas finalizaron. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Llevar refrigerio para el picnic del viernes. Confirmar requisitos acuáticos, pago y devolución. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://summercampchicureo.cl/experiencia-2025/
+Se ha comprobado: 2026-11-08
+
+### CP2119-20270329-20270429-empire · WorldWise · Empire Engineers · Empire Engineers · 2027-03-29–2027-04-29
+
+Fecha: 2027-03-29 — 2027-04-29
+Edad: 8 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Idioma: La organización indica el inglés como idioma de enseñanza. Hay clases de español por separado, unas 2 horas semanales.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · La página muestra 1 800 por el programa y 500 de anticipo no reembolsable, ambos con el símbolo $. Confirmar la moneda en la factura. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad de Matvey encaja. La organización revisa la solicitud y el nivel de inglés. Oscar: No cumple la edad mínima publicada. Suplementos: Alojamiento, vuelos, comidas y seguro aparte. El fin de semana familiar en Machu Picchu es un extra de pago. Pago: El anticipo no es reembolsable. Consultar a la organización el plazo del saldo y las condiciones de devolución del resto.
+Fuente: https://www.worldwiselearningadventures.org/upcoming-adventures-folder/empire-engineers-2027
 Se ha comprobado: 2026-11-08
 
 ### E298 · Brasil Game Show 2027 · public exhibition

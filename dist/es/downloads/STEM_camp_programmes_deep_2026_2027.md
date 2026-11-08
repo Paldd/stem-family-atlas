@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2117 fichas en 136 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-08. 2120 fichas en 136 países. Cada ficha indica la fecha de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -1200,7 +1200,7 @@ Walden 2027 Sólo que waitlist, foreign rate/CANUSD y EN lo requieren quotation;
 
 Oaxaca5–12 ¿Qué es eso?, 2026 archivo/Nuevos 2027 dates No se sabe. Intercultura8–12 Sólo Matvey.,2027 price365/380 USD, adult/lodging por separado. Teen13–17 más tarde; No , no . technical el campo.
 
-- Instituto Cultural Oaxaca · Kids Spanish Summer Camp · México · Comprensible cultural day camp en México para ambos; no technical track ni internado.
+- Instituto Cultural Oaxaca · Kids Spanish Camps · México · Programa diurno en español para ambos niños. Ofrece inmersión cultural y práctica del idioma.
 
 - Intercultura · Heredia Family Kids · Costa Rica · Opción cultural local/Spanish para Matway; no un campamento común para ambos y no un robot.
 
@@ -7494,11 +7494,11 @@ Canadá · Vancouver / Lower Mainland
 
 Costa Rica · Montevideo
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-08
 
 * Edad:** 5*13
 
-** Idioma:** Conversational English and Spanish se incluyen en la descripción; es preciso aclarar la proporción de inglés/español en cada actividad.
+**Idioma:** El programa incluye práctica de conversación en español e inglés. Confirmar el idioma de las actividades ambientales y las salidas.
 
 ** Programa: ** Ecología de la Nube, Sostenibilidad, Jardín/Natura, Hiking, Arte, Deportes y Visitas, sin robótica/IH confirmada.
 
@@ -7560,7 +7560,7 @@ Una de las primeras opciones locales para un programa natural común para ambos.
 
 ### Fuentes
 
-- [Camps 2027](https://cloudforestschool.org/camps-cec/) · 2026-10-04
+- [Página de la organización o reglamento de la categoría.](https://cloudforestschool.org/camps-cec/) · 2026-11-08
 
 ## CP042 · WONDERCamp · Life Project Education / Circo Ciencias
 
@@ -12572,7 +12572,7 @@ Chile · Río Achibueno 65 km al este de Linares / Maule
 
 Brasil - Morro do Alto / Itapetininga / Estado São Paulo
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** 8–12; Gratuita International Guest — Una pista separada 12–16
 
@@ -12584,7 +12584,7 @@ Brasil - Morro do Alto / Itapetininga / Estado São Paulo
 
 **Fechas / situación:** 11–15.01.2027, 5 días; Cambio de julio 2027 No se ha anunciado aún.
 
-**Precio / año:** 2027 · BRL 4 772 Precio normal; BRL 4 295 Acción de octubre PIX. En línea fresca HTML Monto total; El caché todavía muestra los de septiembre. 4 588/3 900.
+**Precio / año:** 2027 · 4 968 BRL de tarifa estándar o 4 570 BRL mediante PIX. La tarifa 2027 puede cambiar antes del pago.
 
 ** Incluye:** Pasión, 4 comidas diarias, materiales/activos, seguro básico de emergencia, personal médico y autobús São Paulo-cam-São Paulo en fechas fijas.
 
@@ -12600,15 +12600,15 @@ Brasil - Morro do Alto / Itapetininga / Estado São Paulo
 
 ### Antes de solicitar plaza
 
-- confirmar la entrada extranjera pagada hasta el 12, el precio del PIX, el retorno, el seguro y el traslado desde São Paulo.
+- Confirmar la admisión de pago de un menor extranjero de menos de 12 años, la factura, la cancelación, el seguro y el traslado desde São Paulo.
 
 ### Fuentes
 
-- [fresco Kids 2027 /8–12 /EN /el precio de octubre](https://www.englishcamp.com.br/programas/kids/) · 2026-10-04
+- [Página de la organización o reglamento de la categoría.](https://www.englishcamp.com.br/programas/kids/) · 2026-11-08
 
 - [la plaza](https://www.englishcamp.com.br/localizacao-e-contato/) · 2026-10-04
 
-- [un servicio gratuito por separado Guest 12–16 /el permiso internacional](https://www.englishcamp.com.br/international-guest/) · 2026-10-04
+- [Página de la organización o reglamento de la categoría.](https://www.englishcamp.com.br/international-guest/) · 2026-11-08
 
 ## CP102 · CampoAventuras ·30 días /Digital mission
 
@@ -27352,11 +27352,11 @@ Panamá · Playa del Pueblo, Isla Saboga · Isla Perlas; Marina Flamenco ○ env
 
 Panamá · El Valle de Antón · Placa Sleepaway
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-08
 
 * Edad:** 7*16
 
-** Idioma: ** Programa Principal 100% en español; EN, ayuda de los líderes, no turno inglés.
+**Idioma:** Todas las actividades se realizan en español. Los monitores pueden ayudar en inglés cuando sea necesario.
 
 ** Programa: ** Deportes, natación, acampada, creatividad, cocina y experimentos; descanso general, curso de ingeniería no declarado.
 
@@ -27394,7 +27394,7 @@ Panamá · El Valle de Antón · Placa Sleepaway
 
 ### Fuentes
 
-- [formato y lenguaje concreto](https://pty.lallanada.com/campamento-de-verano/sleepaway-valle-de-anton/) · 2026-10-05
+- [Página de la organización o reglamento de la categoría.](https://pty.lallanada.com/campamento-de-verano/sleepaway-valle-de-anton/) · 2026-11-08
 
 - [2027 las temporadas de todos los formatos](https://pty.lallanada.com/) · 2026-10-05
 
@@ -27404,11 +27404,11 @@ Panamá · El Valle de Antón · Placa Sleepaway
 
 Panamá · El Valle de Antón · Placa Sleepaway
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-08
 
 ** Edad:** 6*10 en PDF 2027; sitio web 6 &apos; 12 &apos; - Diferencia
 
-** Idioma: ** Programa Principal 100% en español; EN, ayuda de los líderes, no turno inglés.
+**Idioma:** Todas las actividades se realizan en español. Los monitores pueden ayudar en inglés cuando sea necesario.
 
 ** Programa: ** Deportes, natación, acampada, creatividad, cocina y experimentos; descanso general, curso de ingeniería no declarado.
 
@@ -27446,7 +27446,7 @@ Panamá · El Valle de Antón · Placa Sleepaway
 
 ### Fuentes
 
-- [formato y lenguaje concreto](https://pty.lallanada.com/campamento-de-verano/daycamp-valle-de-anton/) · 2026-10-05
+- [Página de la organización o reglamento de la categoría.](https://pty.lallanada.com/campamento-de-verano/daycamp-valle-de-anton/) · 2026-11-08
 
 - [2027 las temporadas de todos los formatos](https://pty.lallanada.com/) · 2026-10-05
 
@@ -27456,11 +27456,11 @@ Panamá · El Valle de Antón · Placa Sleepaway
 
 Panamá · Club Ecuestre Castilla del Oro · Ciudad de Panamá
 
-**Se ha comprobado:** 2026-11-07
+**Se ha comprobado:** 2026-11-08
 
 * Edad:** 4*12
 
-**Idioma:** Todas las actividades y juegos son en español. El personal puede ayudar en inglés.
+**Idioma:** Todas las actividades se realizan en español. Los monitores pueden ayudar en inglés cuando sea necesario.
 
 **Programa:** Campamento urbano diurno: natación, juegos, caballos, arte, cocina y experimentos.
 
@@ -27478,7 +27478,7 @@ Panamá · Club Ecuestre Castilla del Oro · Ciudad de Panamá
 
 **Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
 
-**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
 
 **Por qué en la selección:** Español confirmado directamente; Día disponible para los menores, Sólo es una noche. 7+.
 
@@ -27510,7 +27510,7 @@ Panamá · Club Ecuestre Castilla del Oro · Ciudad de Panamá
 
 **Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
 
-**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
 
 [fuente](https://pty.lallanada.com/wp-content/uploads/2026/10/%F0%9F%92%9ABrochure-Day-Camp-Ciudad-Enero-2027.pdf)
 
@@ -27538,7 +27538,7 @@ Panamá · Club Ecuestre Castilla del Oro · Ciudad de Panamá
 
 **Matvey:** Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo.
 
-**Oscar:** Condicional si ya ha cumplido 6 años al comenzar.
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
 
 [fuente](https://pty.lallanada.com/wp-content/uploads/2026/10/%F0%9F%92%9ABrochure-Day-Camp-Ciudad-Enero-2027.pdf)
 
@@ -27546,7 +27546,7 @@ Panamá · Club Ecuestre Castilla del Oro · Ciudad de Panamá
 
 - [Página oficial del organizador](https://pty.lallanada.com/wp-content/uploads/2026/10/%F0%9F%92%9ABrochure-Day-Camp-Ciudad-Enero-2027.pdf) · 2026-11-07
 
-- [Página oficial del organizador](https://pty.lallanada.com/campamento-de-verano/daycamp-ciudad/) · 2026-11-07
+- [Página de la organización o reglamento de la categoría.](https://pty.lallanada.com/campamento-de-verano/daycamp-ciudad/) · 2026-11-08
 
 - [Página oficial del organizador](https://pty.lallanada.com/) · 2026-11-07
 
@@ -31082,7 +31082,7 @@ Canadá · Markham · Lincoln Alexander P.S.,38 Hillmount Road; winter venue
 
 México · Playa del Carmen / Akumal
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-08
 
 ** Edad: ** No se ha encontrado la edad numérica; la navegación y la confianza en el agua son obligatorias.
 
@@ -31092,11 +31092,11 @@ México · Playa del Carmen / Akumal
 
 ** Residencia:** Drop-off09***14, la familia vive por separado; algunas visitas guiadas conjuntas por el pago de una prima.
 
-**Fechas / estado de la ciudad:** el invierno28.12–01.01,04–08.01,11–15.01.2027; la primavera29.03–02.04. primera primavera22–28marzo se desvía de5por los días — se ha eliminado del calendario exacto.
+**Fechas / estado:** Invierno: 28 de diciembre de 2026 — 1 de enero de 2027, 4–8 u 11–15 de enero de 2027. Primavera: 22–26 de marzo o 29 de marzo — 2 de abril de 2027.
 
-**Cabe/año:** 2026/27 · $400/niño,50 sibling-discount; no se especifica la moneda. No se incluye automáticamente la USD o MXN.
+**Precio / año:** 2026/27 · Después del 1 de noviembre la tarifa es de $500 por menor. Descuento de $50 para un hermano. Confirmar la moneda con la organización.
 
-** Incluida:** Nutrición y actividades básicas de campaña.
+**Incluido:** Actividades principales, refrigerios y acompañamiento en las actividades incluidas.
 
 ** Subvención: ** Vivienda de los padres, seguro, transporte diario de la familia y otros padres/sibling trips por separado.
 
@@ -31118,7 +31118,7 @@ México · Playa del Carmen / Akumal
 
 **lugar:** Playa del Carmen / Akumal
 
-**Precio:** $400, ISO para especificar
+**Precio:** Después del 1 de noviembre la tarifa es de $500 por menor. Descuento de $50 para un hermano. Confirmar la moneda con la organización.
 
 [fuente](https://www.wildrootsworldschool.com/camp-info)
 
@@ -31128,7 +31128,7 @@ México · Playa del Carmen / Akumal
 
 **lugar:** Playa del Carmen / Akumal
 
-**Precio:** $400, ISO para especificar
+**Precio:** Después del 1 de noviembre la tarifa es de $500 por menor. Descuento de $50 para un hermano. Confirmar la moneda con la organización.
 
 [fuente](https://www.wildrootsworldschool.com/camp-info)
 
@@ -31138,7 +31138,17 @@ México · Playa del Carmen / Akumal
 
 **lugar:** Playa del Carmen / Akumal
 
-**Precio:** $400, ISO para especificar
+**Precio:** Después del 1 de noviembre la tarifa es de $500 por menor. Descuento de $50 para un hermano. Confirmar la moneda con la organización.
+
+[fuente](https://www.wildrootsworldschool.com/camp-info)
+
+### 5 días de biología marina
+
+**Fechas / estado:** 2027-03-22 — 2027-03-26
+
+**lugar:** Playa del Carmen / Akumal
+
+**Precio:** Después del 1 de noviembre la tarifa es de $500 por menor. Descuento de $50 para un hermano. Confirmar la moneda con la organización.
 
 [fuente](https://www.wildrootsworldschool.com/camp-info)
 
@@ -31148,13 +31158,13 @@ México · Playa del Carmen / Akumal
 
 **lugar:** Playa del Carmen / Akumal
 
-**Precio:** $400, ISO para especificar
+**Precio:** Después del 1 de noviembre la tarifa es de $500 por menor. Descuento de $50 para un hermano. Confirmar la moneda con la organización.
 
 [fuente](https://www.wildrootsworldschool.com/camp-info)
 
 ### Fuentes
 
-- [planes y paquetes](https://www.wildrootsworldschool.com/camp-info) · 2026-10-05
+- [Página de la organización o reglamento de la categoría.](https://www.wildrootsworldschool.com/camp-info) · 2026-11-08
 
 - [el regreso/transporte](https://www.wildrootsworldschool.com/terms-and-conditions) · 2026-10-05
 
@@ -39098,47 +39108,313 @@ Canadá · 1889 Ch. Des Mésanges, Nominingue, Quebec J0W 1R0
 
 - [English boys programme scope](https://nominingue.com/faq/) · 2026-10-05
 
-## CP461 · Instituto Cultural Oaxaca · Kids Spanish Summer Camp
+## CP461 · Instituto Cultural Oaxaca · Kids Spanish Camps
 
 México · Av. Juárez 909, Centro, Oaxaca, México
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-08
 
-**Edad:** 5–12; Grupo 5 años / 6–8 / 9–12, hasta Spanish level; antes 6 niños en situaciones específicas Kids programme.
+**edad:** 5–12 años. Confirmar la distribución concreta por edad y nivel al elegir la semana.
 
-** Idioma:** 100% Spanish, teachers native; todos los niveles, incluido el heritage speakers.
+**Idioma:** Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.
 
-** Programa:** Prácticas lingüísticas a través de crafts/music/games, piñatas, mask making y natural dyes; parents adult class en horas paralelas; y ya para los niños españoles, especificar los beneficios de advanced/heritage curriculum.
+**Programa:** Español mediante juegos, música, manualidades y cultura de Oaxaca. Los adultos pueden seguir un curso de idiomas paralelo.
 
-**Alojamiento:** Diurno 09–13; housing la familia y la familia transfer no se incluyen en la publicación Kids paquete. Los padres pueden estudiar por separado.
+**Alojamiento:** Formato diurno sin alojamiento.
 
-**Fechas / situación:** 1 junio – 21 agosto 2026, weekly Mon–Fri 09–13 (20 horas). La temporada pasada.; 2027 dates desconocidos, Total FAQ Monday start no prueba 52 camp weeks.
+**Fechas / estado:** Primavera: 1 de marzo — 9 de abril de 2027. Verano: 7 de junio — 20 de agosto de 2027. Invierno: 29 de noviembre — 31 de diciembre de 2027. Se puede empezar cualquier lunes dentro de la temporada.
 
-**Precio / año:** 2026 · USD 300/1 week; 560/2; 780/3; 960/4. Después 5-la semana indicada USD 200/adicional, Pero el precio es el mismo. 5-No se ha recibido ninguna semana.
+**Precio / año:** 2027 · Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
 
-** Incluye:**: 20 horas/semana, Spanish games/cultural workshops, todos los materiales.
+**Incluido:** Para el curso infantil anterior se indicaban materiales y clases de idiomas. Confirmar qué incluye el paquete 2027.
 
-**Gastos adicionales:** Parent tuition, Vivienda familiar, carretera/food Por separado o desconocido. Precio 5-..de una semana quote; general FAQ class cap8 no se arrastra a Kids cap6.
+**Suplementos:** Las clases de adultos, el alojamiento familiar, el transporte y las comidas se pagan aparte o están por confirmar.
 
-**Pago:** USD 55 deposit/student; balance el primer día. General FAQ: deposit refund antes 14 días antes arrival, más tarde credit en online/future lessons. Aplicabilidad a Kids 2027, en la cuenta tuition y otros refunds confirmar.
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
 
-** Matwey:** Grupo 9-12 para el futuro; nueva temporada y nivel/heritage para verificar el programa.
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
 
-**Oscar:** Lo será. 6–7, se ajusta al grupo 6–8; Nueva temporada y nivel español.
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
 
-** Por qué en la selección: ** Un buen día cultural de camp en México para ambos; no un track técnico ni un internado.
+**Motivo de selección:** Programa diurno en español para ambos niños. Ofrece inmersión cultural y práctica del idioma.
 
 ### Antes de solicitar plaza
 
-- 2027 weekly dates/price, grupo/level, 5a semana, deposit credit/refund, food y family housing.
+- Solicitar la factura total de 2027, el horario, el nivel para niños que ya hablan español con fluidez y las condiciones de cancelación.
+
+### Spring
+
+**Fechas / estado:** 2027-03-01 — 2027-03-05
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Spring
+
+**Fechas / estado:** 2027-03-08 — 2027-03-12
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Spring
+
+**Fechas / estado:** 2027-03-15 — 2027-03-19
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Spring
+
+**Fechas / estado:** 2027-03-22 — 2027-03-26
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Spring
+
+**Fechas / estado:** 2027-03-29 — 2027-04-02
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Spring
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Summer
+
+**Fechas / estado:** 2027-06-07 — 2027-06-11
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Summer
+
+**Fechas / estado:** 2027-06-14 — 2027-06-18
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Summer
+
+**Fechas / estado:** 2027-06-21 — 2027-06-25
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Summer
+
+**Fechas / estado:** 2027-06-28 — 2027-07-02
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Summer
+
+**Fechas / estado:** 2027-07-05 — 2027-07-09
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Summer
+
+**Fechas / estado:** 2027-07-12 — 2027-07-16
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Summer
+
+**Fechas / estado:** 2027-07-19 — 2027-07-23
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Summer
+
+**Fechas / estado:** 2027-07-26 — 2027-07-30
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Summer
+
+**Fechas / estado:** 2027-08-02 — 2027-08-06
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Summer
+
+**Fechas / estado:** 2027-08-09 — 2027-08-13
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Summer
+
+**Fechas / estado:** 2027-08-16 — 2027-08-20
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Winter
+
+**Fechas / estado:** 2027-11-29 — 2027-12-03
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Winter
+
+**Fechas / estado:** 2027-12-06 — 2027-12-10
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Winter
+
+**Fechas / estado:** 2027-12-13 — 2027-12-17
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Winter
+
+**Fechas / estado:** 2027-12-20 — 2027-12-24
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
+
+### Winter
+
+**Fechas / estado:** 2027-12-27 — 2027-12-31
+
+**lugar:** Av. Juárez 909, Centro, Oaxaca, México
+
+**Precio:** Solicitar a la escuela la tarifa 2027. El precio publicado de 300 USD por semana corresponde a la temporada 2026.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.icomexico.com/calendar)
 
 ### Fuentes
 
-- [Kids camp: ages/100%ES/2026/cap6/fees](https://www.icomexico.com/kids-spanish-summer-camp) · 2026-10-05
+- [Página de la organización o reglamento de la categoría.](https://www.icomexico.com/kids-spanish-summer-camp) · 2026-11-08
 
 - [General FAQ: depósitos y módulos Monday](https://www.icomexico.com/frequently-asked-questions) · 2026-10-05
 
-- [Calendar no es prueba de Kids 2027](https://www.icomexico.com/calendar) · 2026-10-05
+- [Página de la organización o reglamento de la categoría.](https://www.icomexico.com/calendar) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.icomexico.com/fees-and-payment) · 2026-11-08
 
 ## CP462 · Intercultura · Heredia Family Kids
 
@@ -167107,6 +167383,152 @@ Chile · Peters Haus · Alba 3, Parcela 9 · Chicureo
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://summercampchicureo.cl/experiencia-2025/) · 2026-11-08
+
+## CP2118 · WorldWise · Anatomy Adventurers
+
+Costa Rica · La Salita by CAMPO · Nosara
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–14 años.
+
+**Idioma:** La organización indica el inglés como idioma de enseñanza. Hay clases de español por separado, unas 2 horas semanales.
+
+**Programa:** Anatomía comparada, ilustración científica, observación de fauna y trabajo de campo. Proyecto final: un atlas ilustrado propio.
+
+**Alojamiento:** Programa diurno. Cada familia reserva su alojamiento por separado.
+
+**Fechas / estado:** 11 de enero — 11 de febrero de 2027. De lunes a jueves, inicio a las 09:00 o 10:00 según el grupo, fin a las 15:00.
+
+**Precio / año:** 2027 · 3 750 USD por el programa. Anticipo no reembolsable de 650 USD tras aceptar la solicitud.
+
+**Incluido:** Clases, trabajo de campo, proyecto científico, matemáticas y español en grupos reducidos.
+
+**Suplementos:** Alojamiento familiar, vuelos, comidas, transporte de salidas y entradas de adultos se pagan aparte.
+
+**Pago:** El anticipo no es reembolsable. Consultar a la organización el plazo del saldo y las condiciones de devolución del resto.
+
+**Matvey:** La edad de Matvey encaja. La organización revisa la solicitud y el nivel de inglés.
+
+**Oscar:** No cumple la edad mínima publicada.
+
+**Motivo de selección:** 11 de enero — 11 de febrero de 2027. De lunes a jueves, inicio a las 09:00 o 10:00 según el grupo, fin a las 15:00.
+
+### Antes de solicitar plaza
+
+- Confirmar plazas, horario de salidas, acompañamiento obligatorio y seguro.
+
+### Anatomy Adventurers
+
+**Fechas / estado:** 2027-01-11 — 2027-02-11
+
+**lugar:** La Salita by CAMPO · Nosara
+
+**Precio:** 3 750 USD por el programa. Anticipo no reembolsable de 650 USD tras aceptar la solicitud.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.worldwiselearningadventures.org/upcoming-adventures-folder/anatomy-adventurers)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.worldwiselearningadventures.org/upcoming-adventures-folder/anatomy-adventurers) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.worldwiselearningadventures.org/faqs) · 2026-11-08
+
+## CP2119 · WorldWise · Empire Engineers
+
+Perú · Urubamba · Sacred Valley
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–12 años.
+
+**Idioma:** La organización indica el inglés como idioma de enseñanza. Hay clases de español por separado, unas 2 horas semanales.
+
+**Programa:** Ingeniería inca: sistemas de agua, arquitectura, astronomía y diseño en equipo de la maqueta de un poblado.
+
+**Alojamiento:** Programa diurno. Cada familia reserva su alojamiento por separado.
+
+**Fechas / estado:** 29 de marzo — 29 de abril de 2027. Cuatro días por semana. Salidas martes y jueves. Confirmar las horas de cada día.
+
+**Precio / año:** 2027 · La página muestra 1 800 por el programa y 500 de anticipo no reembolsable, ambos con el símbolo $. Confirmar la moneda en la factura.
+
+**Incluido:** Materiales, entradas infantiles y transporte grupal en las salidas previstas de martes y jueves.
+
+**Suplementos:** Alojamiento, vuelos, comidas y seguro aparte. El fin de semana familiar en Machu Picchu es un extra de pago.
+
+**Pago:** El anticipo no es reembolsable. Consultar a la organización el plazo del saldo y las condiciones de devolución del resto.
+
+**Matvey:** La edad de Matvey encaja. La organización revisa la solicitud y el nivel de inglés.
+
+**Oscar:** No cumple la edad mínima publicada.
+
+**Motivo de selección:** 29 de marzo — 29 de abril de 2027. Cuatro días por semana. Salidas martes y jueves. Confirmar las horas de cada día.
+
+### Antes de solicitar plaza
+
+- Confirmar plazas, horario de salidas, acompañamiento obligatorio y seguro.
+
+- Solicitar la moneda de la factura y el coste de la salida opcional.
+
+### Empire Engineers
+
+**Fechas / estado:** 2027-03-29 — 2027-04-29
+
+**lugar:** Urubamba · Sacred Valley
+
+**Precio:** La página muestra 1 800 por el programa y 500 de anticipo no reembolsable, ambos con el símbolo $. Confirmar la moneda en la factura.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.worldwiselearningadventures.org/upcoming-adventures-folder/empire-engineers-2027)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.worldwiselearningadventures.org/upcoming-adventures-folder/empire-engineers-2027) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.worldwiselearningadventures.org/faqs) · 2026-11-08
+
+## CP2120 · UTP · CEL Summer Camp
+
+Panamá · Campus Central Víctor Levi Sasso · Panamá
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 9–14 años.
+
+**Idioma:** El inglés es la materia del curso. No se indica el idioma de las actividades adicionales.
+
+**Programa:** Curso infantil de inglés con práctica en grupos por edades y certificado de participación.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Curso de verano 2027, 4 semanas, de lunes a jueves 09:00–12:00. Fechas exactas de inicio y fin sin publicar.
+
+**Precio / año:** 2027 · Para el público se publican 100 PAB de inscripción y 97 PAB de primera cuota, un total de 197 PAB en esta etapa. Confirmar la factura final.
+
+**Incluido:** Copias de los materiales de clase.
+
+**Suplementos:** El seguro y la merienda son obligatorios. La solicitud la presenta un progenitor o tutor.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** No cumple la edad mínima publicada.
+
+**Motivo de selección:** Curso de verano 2027, 4 semanas, de lunes a jueves 09:00–12:00. Fechas exactas de inicio y fin sin publicar.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://utp.ac.pa/curso-de-verano-para-ninos-y-adolescentes) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 
