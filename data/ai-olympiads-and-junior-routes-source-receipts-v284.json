@@ -1,0 +1,314 @@
+{
+  "captures": [
+    {
+      "key": "ioai-final",
+      "url": "https://ioai-official.org/editions/singapore-2027/",
+      "final_url": "https://ioai-official.org/editions/singapore-2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 200571,
+      "sha256": "e00885067e6acb2f68a67b88a4a767d528966d4f3070798a77b16a2b74d1418b",
+      "file": "ioai-final.html"
+    },
+    {
+      "key": "ioai-registration",
+      "url": "https://ioai-official.org/editions/singapore-2027/registration/",
+      "final_url": "https://ioai-official.org/editions/singapore-2027/registration/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 220723,
+      "sha256": "56cb601482adbf6393548c0b7157116ddab921304d8cb474785e94c7777fed46",
+      "file": "ioai-registration.html"
+    },
+    {
+      "key": "ioai-timeline",
+      "url": "https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/",
+      "final_url": "https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 202655,
+      "sha256": "c1d71f1f52a962180c614ca4333242ea2c225f31918ecfb586075e5f8a585d76",
+      "file": "ioai-timeline.html"
+    },
+    {
+      "key": "ioai-countries",
+      "url": "https://ioai-official.org/about/countries-and-territories/",
+      "final_url": "https://ioai-official.org/about/countries-and-territories/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 384150,
+      "sha256": "037da6d40cf3a9cc8b171ceb099850ebde4757c9c5e35830839a58d9df5b04a5",
+      "file": "ioai-countries.html"
+    },
+    {
+      "key": "ioai-spain",
+      "url": "https://ioai-spain.org/competitions/ioai-2026-2027/",
+      "final_url": "https://ioai-spain.org/competitions/ioai-2026-2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 345035,
+      "sha256": "be8372098d855b0276b25c7ca05ab2ad55ffd7ff5fc96819b055ac5e504a8c51",
+      "file": "ioai-spain.html"
+    },
+    {
+      "key": "ioai-armenia",
+      "url": "https://ioai-armenia.org/anoai-2027?lang=en&year=2027",
+      "final_url": "https://ioai-armenia.org/anoai-2027?lang=en&year=2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 51420,
+      "sha256": "f6846fa0cd0668745567e3d6a2d36be30b741a421286b4ca0927517a602f49e4",
+      "file": "ioai-armenia.html"
+    },
+    {
+      "key": "ukoai",
+      "url": "https://ukoai.org/",
+      "final_url": "https://ukoai.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 149842,
+      "sha256": "047100be388b91a280fd68a9575696ca897f9c5458cfa2eac7434df067832f6f",
+      "file": "ukoai.html"
+    },
+    {
+      "key": "ioai-nz",
+      "url": "https://www.ioai-nz.org/",
+      "final_url": "https://www.ioai-nz.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 240584,
+      "sha256": "cc50df114c006cc82600f4b95b9d51f1ee7eb679b9a8b310330430903fd1ba68",
+      "file": "ioai-nz.html"
+    },
+    {
+      "key": "onia-brasil",
+      "url": "https://www.oniabrasil.com.br/",
+      "final_url": "https://www.oniabrasil.com.br/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 144176,
+      "sha256": "6cb7e698ebfaebee6d7e7d02c067ba3db902a0646b3bf3c1f50614077afe7045",
+      "file": "onia-brasil.html"
+    },
+    {
+      "key": "ioai-morocco",
+      "url": "https://morocco-ioai.org/en/selection",
+      "final_url": "https://morocco-ioai.org/en/selection",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 65432,
+      "sha256": "3dc30e684f6204306c125b698d8e3484497ed9b71a7ede8bcaf86bffc21d6ec1",
+      "file": "ioai-morocco.html"
+    },
+    {
+      "key": "omia",
+      "url": "https://comi.mx/omia/muro",
+      "final_url": "https://comi.mx/omia/muro",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 28270,
+      "sha256": "bcdc2033b43d633e875c14873017ae52b93b8787ff173e860b4a254e1e73cff1",
+      "file": "omia.html"
+    },
+    {
+      "key": "comi",
+      "url": "https://comi.mx/",
+      "final_url": "https://comi.mx/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 23536,
+      "sha256": "dc4299d5c878965a4dda9cb29a118c6bddf4190e0bc15b452f2b6e31c52326b9",
+      "file": "comi.html"
+    },
+    {
+      "key": "omichh",
+      "url": "https://omichh.org/convocatoria/omi",
+      "final_url": "https://omichh.org/convocatoria/omi",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 5557,
+      "sha256": "72922db20a08e4b24f1b07e2ad26957171cd2e7ed5b91aed2f04ed895cec1419",
+      "file": "omichh.html"
+    },
+    {
+      "key": "ioai-ecuador",
+      "url": "https://oiec-edu.org/",
+      "final_url": "https://oiec-edu.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 169204,
+      "sha256": "d968abbe12f882f5962afc949e30e9835d3b2a3699f3fb6459d8d1169d720052",
+      "file": "ioai-ecuador.html"
+    },
+    {
+      "key": "ioai-cfa",
+      "url": "https://balaobeafrika.com/ioai-selection",
+      "final_url": "https://balaobeafrika.com/ioai-selection",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 85912,
+      "sha256": "2620cdd55eb6919292213137ac796625a9579944fc9fa5bae7276b21bb382643",
+      "file": "ioai-cfa.html"
+    },
+    {
+      "key": "usaaio-na",
+      "url": "https://www.usaaio.org/usa-na-aio/2027",
+      "final_url": "https://www.usaaio.org/usa-na-aio/2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 60373,
+      "sha256": "7b5f6c9bb5011a5329463b61d3c202e2fc767b3ef30e04c084259d2ad34c93e4",
+      "file": "usaaio-na.html"
+    },
+    {
+      "key": "usaaio-na-about",
+      "url": "https://www.usaaio.org/about/usa-na-aio",
+      "final_url": "https://www.usaaio.org/about/usa-na-aio",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 35818,
+      "sha256": "b7aad76abb344166192e2d8fb259d6d971642d6d002f415e6ebdbe43ca073485",
+      "file": "usaaio-na-about.html"
+    },
+    {
+      "key": "usaaio",
+      "url": "https://www.usaaio.org/",
+      "final_url": "https://www.usaaio.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 77276,
+      "sha256": "5d789f000cc9b0ee79e776f86542c6ec27df7264bb26efae6731b229d3df52b8",
+      "file": "usaaio.html"
+    },
+    {
+      "key": "usaaio-junior",
+      "url": "https://www.usaaio.org/usa-j-aio/2027",
+      "final_url": "https://www.usaaio.org/usa-j-aio/2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 46601,
+      "sha256": "1ee4448cf2cfcc299433a7c2d12b3daa9f8c5e65d0595d600ccc4afed96c1cb5",
+      "file": "usaaio-junior.html"
+    },
+    {
+      "key": "usaaio-junior-about",
+      "url": "https://www.usaaio.org/about/usa-j-aio",
+      "final_url": "https://www.usaaio.org/about/usa-j-aio",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 35445,
+      "sha256": "521c8eea894fd2bac1135f4c0f259deee1f24f8e8de0cc462a8b546823f01468",
+      "file": "usaaio-junior-about.html"
+    },
+    {
+      "key": "usaaio-junior-syllabus",
+      "url": "https://www.usaaio.org/usa-j-aio/syllabus",
+      "final_url": "https://www.usaaio.org/usa-j-aio/syllabus",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 36042,
+      "sha256": "3c53a720cfbeec0b8309e50a1d327eadefcdcc2156cbbd28ceb203539ddef81e",
+      "file": "usaaio-junior-syllabus.html"
+    },
+    {
+      "key": "usaaio-proctors",
+      "url": "https://www.usaaio.org/usa-na-aio/proctors",
+      "final_url": "https://www.usaaio.org/usa-na-aio/proctors",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 44348,
+      "sha256": "e791800fb5c809b4fdc0e46fefce8f4bbfa0872d7b935e4e3b976cf78e31002e",
+      "file": "usaaio-proctors.html"
+    },
+    {
+      "key": "noi-nigeria",
+      "url": "https://www.ioai.org.ng/events",
+      "final_url": "https://www.ioai.org.ng/events",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 28932,
+      "sha256": "5a3bc678d3dce7775f8fed2638dbb6066ca7982d37cecb69ae901e9613d340f5",
+      "file": "noi-nigeria.html"
+    },
+    {
+      "key": "waicy",
+      "url": "https://www.waicy.org/waicy-2026/",
+      "final_url": "https://www.waicy.org/waicy-2026/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 110099,
+      "sha256": "dbc58bd7b423bf95eb373a67f14aa0bdceca0884e9e6cb72b418db6b9cbc6a63",
+      "file": "waicy.html"
+    },
+    {
+      "key": "waicy-guide",
+      "url": "https://waicy-cdn.wholeren.cn/wp-content/uploads/2026/10/WAICY-2026-Guidebook-2.pdf",
+      "final_url": "https://waicy-cdn.wholeren.cn/wp-content/uploads/2026/10/WAICY-2026-Guidebook-2.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 2354289,
+      "sha256": "b5ff8d681e8dac2a993543a871513e954cbaf524f93f319f9dc70c3a2ee1317b",
+      "file": "waicy-guide.pdf"
+    },
+    {
+      "key": "waicy-submit",
+      "url": "https://www.waicy.org/2026-submission/",
+      "final_url": "https://www.waicy.org/2026-submission/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 83821,
+      "sha256": "875e0c91dc64a7615f433caabc7c81b187420c2facb12cdd891a4b885635f11a",
+      "file": "waicy-submit.html"
+    },
+    {
+      "key": "yai",
+      "url": "https://ycess.com/events/yai-singapore-season-26-27/",
+      "final_url": "https://ycess.com/events/yai-singapore-season-26-27/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 49013,
+      "sha256": "1c70900f15656c5375a44c56eca6361f1457823be2803a483073e221c71849a0",
+      "file": "yai.html"
+    },
+    {
+      "key": "yai-rules",
+      "url": "https://yai.sg/",
+      "final_url": "https://yai.sg/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 539549,
+      "sha256": "c65742aa6e8a7c9b4f4ff03f34109f59b4fd32ce85243343aebe67cbd5f63620",
+      "file": "yai-rules.html"
+    },
+    {
+      "key": "alphagen-ai",
+      "url": "https://alphagenlearning.com/future-innovators-generative-ai-camp-ages-7-to-9",
+      "final_url": "https://alphagenlearning.com/future-innovators-generative-ai-camp-ages-7-to-9",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 259365,
+      "sha256": "6589945c88ed67e5b289ff32f0e2b5b141ec425e20918f9d988e6e7842791cb6",
+      "file": "alphagen-ai.html"
+    },
+    {
+      "key": "alphagen-camps",
+      "url": "https://alphagenlearning.com/coding-technology-camps",
+      "final_url": "https://alphagenlearning.com/coding-technology-camps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 432949,
+      "sha256": "fc6eee05ee677b9dbaae6b242e38f4fe1da0ce5525ddc26ae670c31dede87372",
+      "file": "alphagen-camps.html"
+    },
+    {
+      "key": "alphagen-scratch",
+      "url": "https://alphagenlearning.com/creative-coders-scratch-camp-ages-7-to-9/",
+      "final_url": "https://alphagenlearning.com/creative-coders-scratch-camp-ages-7-to-9/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 479597,
+      "sha256": "17c70ab19c4863b27599164ecc2fa8d1c794390668180f15562d4a5246d6f133",
+      "file": "alphagen-scratch.html"
+    }
+  ]
+}

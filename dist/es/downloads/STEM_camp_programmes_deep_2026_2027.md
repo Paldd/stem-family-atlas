@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 1998 fichas en 126 países. Cada ficha indica cuándo se revisaron sus fuentes.
+Estado de la base: 2026-11-08. 2000 fichas en 126 países. Cada ficha indica cuándo se revisaron sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -159711,6 +159711,114 @@ Estados Unidos · En línea. Operador de Dover, DE.
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://www.codingal.com/en-us/kids-teens-coding-camps/winter/) · 2026-11-08
+
+## CP1999 · Alphagen Learning · Future Innovators · Generative AI
+
+Singapur · En línea · horario de Singapur
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–9 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Clases individuales de IA. Historias, minijuegos, dibujos y conversación sobre las respuestas de modelos.
+
+**Alojamiento:** Temporada 02.11.2026–02.01.2027. Una semana de lunes a viernes, 5 clases de 90 minutos. La organización confirma fecha y hora exactas.
+
+**Fechas / estado:** Temporada 02.11.2026–02.01.2027. Una semana de lunes a viernes, 5 clases de 90 minutos. La organización confirma fecha y hora exactas.
+
+**Precio / año:** 2026 · La página de la temporada muestra una tarifa de SGD 265. Confirmar importe a pagar y condiciones de devolución para la semana elegida.
+
+**Incluido:** Clases individuales de IA. Historias, minijuegos, dibujos y conversación sobre las respuestas de modelos.
+
+**Suplementos:** Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Encaja por edad. Confirmar idioma y zona horaria del grupo.
+
+**Oscar:** No a la edad actual. Se requieren al menos 7 años.
+
+**Motivo de selección:** Temporada 02.11.2026–02.01.2027. Una semana de lunes a viernes, 5 clases de 90 minutos. La organización confirma fecha y hora exactas.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Future Innovators · Generative AI
+
+**Fechas / estado:** 2026-11-02 — 2027-01-02
+
+**Precio:** La página de la temporada muestra una tarifa de SGD 265. Confirmar importe a pagar y condiciones de devolución para la semana elegida.
+
+**condiciones de participación:** Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://alphagenlearning.com/coding-technology-camps)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://alphagenlearning.com/future-innovators-generative-ai-camp-ages-7-to-9) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://alphagenlearning.com/coding-technology-camps) · 2026-11-08
+
+## CP2000 · Alphagen Learning · Creative Coders · Scratch
+
+Singapur · En línea · horario de Singapur
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–9 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Clases individuales de Scratch. Juego propio o historia interactiva.
+
+**Alojamiento:** Temporada 02.11.2026–02.01.2027. Una semana de lunes a viernes, 5 clases de 90 minutos. La organización confirma fecha y hora exactas.
+
+**Fechas / estado:** Temporada 02.11.2026–02.01.2027. Una semana de lunes a viernes, 5 clases de 90 minutos. La organización confirma fecha y hora exactas.
+
+**Precio / año:** 2026 · La página de la temporada muestra una tarifa de SGD 265. Confirmar importe a pagar y condiciones de devolución para la semana elegida.
+
+**Incluido:** Clases individuales de Scratch. Juego propio o historia interactiva.
+
+**Suplementos:** Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Encaja por edad. Confirmar idioma y zona horaria del grupo.
+
+**Oscar:** No a la edad actual. Se requieren al menos 7 años.
+
+**Motivo de selección:** Temporada 02.11.2026–02.01.2027. Una semana de lunes a viernes, 5 clases de 90 minutos. La organización confirma fecha y hora exactas.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Creative Coders · Scratch
+
+**Fechas / estado:** 2026-11-02 — 2027-01-02
+
+**Precio:** La página de la temporada muestra una tarifa de SGD 265. Confirmar importe a pagar y condiciones de devolución para la semana elegida.
+
+**condiciones de participación:** Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://alphagenlearning.com/coding-technology-camps)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://alphagenlearning.com/creative-coders-scratch-camp-ages-7-to-9/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://alphagenlearning.com/coding-technology-camps) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

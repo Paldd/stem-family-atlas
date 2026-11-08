@@ -30043,6 +30043,171 @@
       ]
     },
     {
+      "id": "C4671",
+      "title": "ONIA Brasil · 3ª edição · Fase 2 · Etapa 2",
+      "block": "Соревнования",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Brasil",
+      "start": "2026-12-07",
+      "end": "2026-12-13",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://www.oniabrasil.com.br/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "6–9 классы Ensino Fundamental либо 1–3 классы Ensino Médio для медалей и отбора. Categoria Livre ограничена отдельными этапами.",
+      "mat": "Нет по текущей ступени обучения. Сверить школьное условие в следующем сезоне.",
+      "osc": "Нет по текущей ступени обучения. Сверить школьное условие в следующем сезоне.",
+      "format": "Только участники, прошедшие предыдущий этап 3-й ONIA. Олимпиада бесплатная.",
+      "entry": "Только участники, прошедшие предыдущий этап 3-й ONIA. Олимпиада бесплатная.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Бесплатное участие по правилам организатора.",
+      "level": "Признанный национальный отбор IOAI.",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Только участники, прошедшие предыдущий этап 3-й ONIA. Олимпиада бесплатная.",
+      "note": "",
+      "themes": [
+        "ai",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Признанный национальный отбор IOAI.",
+      "participation": "individual",
+      "admission_kind": "qualification",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "delivery_mode": "virtual",
+      "related_ids": [
+        "C4656"
+      ]
+    },
+    {
+      "id": "C4675",
+      "title": "OIEC · Olimpiada Nacional · Módulo 1 (IA)",
+      "block": "Соревнования",
+      "country": "Эквадор",
+      "region": "Южная Америка",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Ecuador",
+      "start": "2026-11-21",
+      "end": "2026-12-04",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://oiec-edu.org/",
+      "references": [
+        {
+          "url": "https://ioai-official.org/about/countries-and-territories/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Школьные условия и допуск проверять по регламенту OIEC. Опубликованные модули указаны отдельно от международной делегации.",
+      "mat": "Условно. Сверить возраст, класс и порядок допуска.",
+      "osc": "Условно. Сверить возраст, класс и порядок допуска.",
+      "format": "Реестр IOAI указывает OIEC как национальную организацию. OIEC опубликовала даты модулей по ИИ в календаре национальной олимпиады.",
+      "entry": "Реестр IOAI указывает OIEC как национальную организацию. OIEC опубликовала даты модулей по ИИ в календаре национальной олимпиады.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Признанный национальный отбор IOAI.",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Реестр IOAI указывает OIEC как национальную организацию. OIEC опубликовала даты модулей по ИИ в календаре национальной олимпиады.",
+      "note": "",
+      "themes": [
+        "ai",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Признанный национальный отбор IOAI.",
+      "participation": "individual",
+      "admission_kind": "national_selection",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "delivery_mode": "",
+      "related_ids": [
+        "C4656",
+        "C4676"
+      ]
+    },
+    {
+      "id": "C4676",
+      "title": "OIEC · Olimpiada Nacional · Módulo 3 (IA)",
+      "block": "Соревнования",
+      "country": "Эквадор",
+      "region": "Южная Америка",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Ecuador",
+      "start": "2027-01-05",
+      "end": "2027-01-12",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://oiec-edu.org/",
+      "references": [
+        {
+          "url": "https://ioai-official.org/about/countries-and-territories/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Школьные условия и допуск проверять по регламенту OIEC. Опубликованные модули указаны отдельно от международной делегации.",
+      "mat": "Условно. Сверить возраст, класс и порядок допуска.",
+      "osc": "Условно. Сверить возраст, класс и порядок допуска.",
+      "format": "Реестр IOAI указывает OIEC как национальную организацию. OIEC опубликовала даты модулей по ИИ в календаре национальной олимпиады.",
+      "entry": "Реестр IOAI указывает OIEC как национальную организацию. OIEC опубликовала даты модулей по ИИ в календаре национальной олимпиады.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Признанный национальный отбор IOAI.",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Реестр IOAI указывает OIEC как национальную организацию. OIEC опубликовала даты модулей по ИИ в календаре национальной олимпиады.",
+      "note": "",
+      "themes": [
+        "ai",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Признанный национальный отбор IOAI.",
+      "participation": "individual",
+      "admission_kind": "national_selection",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "delivery_mode": "",
+      "related_ids": [
+        "C4656",
+        "C4675"
+      ]
+    },
+    {
       "id": "CP047-20270103-20270108",
       "block": "Лагеря",
       "title": "Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08",

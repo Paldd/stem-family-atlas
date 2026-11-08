@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10314; competiciones: 4654; eventos: 594; campamentos / programas: 5066. Perfiles de ligas y programas: 301. Fichas de exposiciones grandes y especializadas: 498 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10343; competiciones: 4681; eventos: 594; campamentos / programas: 5068. Perfiles de ligas y programas: 301. Fichas de exposiciones grandes y especializadas: 498 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros concretos para 231 de 249 países y territorios. Países con auditoría completa: 0. Revisión histórica v51 con 21 fichas y 3 perfiles añadidos. Se conservan todas las fichas anteriores.
+Hay registros específicos para 234 de 249 países y territorios y 0 países con auditoría completa. Revisión del archivo v51: se añadieron 21 fichas y 3 perfiles. Se conservaron todas las fichas anteriores.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 40 | 1921 | 122 | 1285 |
-| América del Sur | 14 | 430 | 45 | 207 |
-| Europa | 54 | 602 | 123 | 1455 |
-| África | 53 | 242 | 31 | 110 |
-| Asia | 49 | 1155 | 145 | 1661 |
-| Oceanía | 25 | 164 | 30 | 333 |
+| América del Norte | 40 | 1925 | 122 | 1285 |
+| América del Sur | 14 | 433 | 45 | 207 |
+| Europa | 54 | 609 | 123 | 1455 |
+| África | 55 | 245 | 31 | 110 |
+| Asia | 50 | 1161 | 145 | 1663 |
+| Oceanía | 25 | 167 | 30 | 333 |
 
-Fichas interregionales o globales sin asignar a un continente: 162. Norteamérica incluye Centroamérica y el Caribe. Los recuentos muestran el inventario de la base, no un porcentaje de exhaustividad.
+Fichas interregionales o globales sin asignación a un continente: 163. América del Norte incluye Centroamérica y el Caribe. Las cifras reflejan el inventario de la base y su alcance documentado.
 
-VEX: 814 de 4654 fichas de competiciones (17.5%). La cobertura se concentra en este circuito.
+VEX: 814 de 4681 fichas de competiciones (17.4%). La cobertura se concentra en este circuito.
 
 ## Lo que queda
 
@@ -113,7 +113,7 @@ VEX: 814 de 4654 fichas de competiciones (17.5%). La cobertura se concentra en e
 - **International Robot Challenge · Egypt**: 8 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://international-robotchallenge.org/competition/robo-boom
 - **TechnoXian**: 5 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.technoxian.com/events
 - **Robofest · Azerbaijan**: 1 tarjeta, 0 con fechas exactas futuras. https://robofestinternational.org/sumo-strike-junior-6-10-yas/
-- **WAICY**: 5 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.waicy.org/waicy-2026/
+- **WAICY**: 6 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.waicy.org/waicy-2026/
 - **Codeavour**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://codeavour.org/
 - **Coolest Projects**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://online.coolestprojects.org/help
 - **Bebras**: 52 fichas, 49 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.bebras.org/countries
@@ -131,7 +131,7 @@ VEX: 814 de 4654 fichas de competiciones (17.5%). La cobertura se concentra en e
 - ¡Play! Pokémon**: 1 tarjeta, 0 con fecha exacta futura. https://championships.pokemon.com/en-us/about/2027-season-changes/
 - **Botball**: 1 ficha, 1 con fechas futuras exactas. Hay perfil y fichas; cobertura local parcial. https://www.kipr.org/botball
 - *RoboMaster · University**: 0 tarjetas, 0 con fechas exactas futuras. https://www.robomaster.com/en-US/robo/rm
-- **IOAI · Olimpiadas de IA**: 0 tarjetas, 0 con fechas exactas futuras. https://ioai-official.org/wp-content/uploads/2025/08/IOAI-regulations.pdf
+- **IOAI · la olimpiada por la**: 28 fichas, 21 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://ioai-official.org/editions/singapore-2027/
 - **IOI - Olimpiadas de informática**: 0 tarjetas, 0 con fechas exactas futuras, solo perfil; no se ha añadido un calendario de etapas. https://ioinformatics.org/files/regulations24-web.pdf
 - *Regeneron ISEF**: 0 tarjetas, 0 con fechas exactas futuras. https://www.societyforscience.org/isef/international-rules/rules-for-all-projects/
 - **FIRST Global Challenge**: 16 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://first.global/fgc/

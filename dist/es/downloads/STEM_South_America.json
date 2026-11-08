@@ -12160,7 +12160,7 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "language_certainty": "Confirmar idioma de la prueba para el grupo elegido.",
-      "cost": "Participación gratuita según las bases del organizador.",
+      "cost": "Participación gratuita según las bases de la organización.",
       "level": "Concurso nacional de pensamiento computacional",
       "reward": "Resultado de la fase local. El reconocimiento depende de las reglas nacionales.",
       "priority": "P2 — verificar admisión local",
@@ -12208,7 +12208,7 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "language_certainty": "Confirmar idioma de la prueba para el grupo elegido.",
-      "cost": "Participación gratuita según las bases del organizador.",
+      "cost": "Participación gratuita según las bases de la organización.",
       "level": "Concurso nacional de pensamiento computacional",
       "reward": "Resultado de la fase local. El reconocimiento depende de las reglas nacionales.",
       "priority": "P2 — verificar admisión local",
@@ -30040,6 +30040,171 @@
         "E585",
         "E586",
         "E587"
+      ]
+    },
+    {
+      "id": "C4671",
+      "title": "ONIA Brasil · 3ª edição · Fase 2 · Etapa 2",
+      "block": "Competiciones",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "iso": [
+        "BRA"
+      ],
+      "city": "Brasil",
+      "start": "2026-12-07",
+      "end": "2026-12-13",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.oniabrasil.com.br/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Grados 6–9 de Ensino Fundamental o 1–3 de Ensino Médio para medallas y selección. Categoria Livre se limita a ciertas fases.",
+      "mat": "No por la etapa escolar actual. Cotejar el requisito escolar en la próxima edición.",
+      "osc": "No por la etapa escolar actual. Cotejar el requisito escolar en la próxima edición.",
+      "format": "Solo participantes que superaron la etapa anterior de la 3.ª ONIA. La olimpiada es gratuita.",
+      "entry": "Solo participantes que superaron la etapa anterior de la 3.ª ONIA. La olimpiada es gratuita.",
+      "gear": "",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Participación gratuita según las bases de la organización.",
+      "level": "Selección nacional reconocida para IOAI.",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Solo participantes que superaron la etapa anterior de la 3.ª ONIA. La olimpiada es gratuita.",
+      "note": "",
+      "themes": [
+        "ai",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Selección nacional reconocida para IOAI.",
+      "participation": "individual",
+      "admission_kind": "qualification",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "delivery_mode": "virtual",
+      "related_ids": [
+        "C4656"
+      ]
+    },
+    {
+      "id": "C4675",
+      "title": "OIEC · Olimpiada Nacional · Módulo 1 (IA)",
+      "block": "Competiciones",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Ecuador",
+      "start": "2026-11-21",
+      "end": "2026-12-04",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://oiec-edu.org/",
+      "references": [
+        {
+          "url": "https://ioai-official.org/about/countries-and-territories/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Consultar en las bases de OIEC los requisitos escolares y el acceso. Los módulos publicados figuran aparte de la delegación internacional.",
+      "mat": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+      "osc": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+      "format": "El registro de IOAI identifica a OIEC como organización nacional. OIEC publica fechas de módulos de IA en el calendario de la olimpiada nacional.",
+      "entry": "El registro de IOAI identifica a OIEC como organización nacional. OIEC publica fechas de módulos de IA en el calendario de la olimpiada nacional.",
+      "gear": "",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Selección nacional reconocida para IOAI.",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "El registro de IOAI identifica a OIEC como organización nacional. OIEC publica fechas de módulos de IA en el calendario de la olimpiada nacional.",
+      "note": "",
+      "themes": [
+        "ai",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Selección nacional reconocida para IOAI.",
+      "participation": "individual",
+      "admission_kind": "national_selection",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "delivery_mode": "",
+      "related_ids": [
+        "C4656",
+        "C4676"
+      ]
+    },
+    {
+      "id": "C4676",
+      "title": "OIEC · Olimpiada Nacional · Módulo 3 (IA)",
+      "block": "Competiciones",
+      "country": "Ecuador",
+      "region": "América del Sur",
+      "iso": [
+        "ECU"
+      ],
+      "city": "Ecuador",
+      "start": "2027-01-05",
+      "end": "2027-01-12",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://oiec-edu.org/",
+      "references": [
+        {
+          "url": "https://ioai-official.org/about/countries-and-territories/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Consultar en las bases de OIEC los requisitos escolares y el acceso. Los módulos publicados figuran aparte de la delegación internacional.",
+      "mat": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+      "osc": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+      "format": "El registro de IOAI identifica a OIEC como organización nacional. OIEC publica fechas de módulos de IA en el calendario de la olimpiada nacional.",
+      "entry": "El registro de IOAI identifica a OIEC como organización nacional. OIEC publica fechas de módulos de IA en el calendario de la olimpiada nacional.",
+      "gear": "",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Selección nacional reconocida para IOAI.",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "El registro de IOAI identifica a OIEC como organización nacional. OIEC publica fechas de módulos de IA en el calendario de la olimpiada nacional.",
+      "note": "",
+      "themes": [
+        "ai",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Selección nacional reconocida para IOAI.",
+      "participation": "individual",
+      "admission_kind": "national_selection",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "delivery_mode": "",
+      "related_ids": [
+        "C4656",
+        "C4675"
       ]
     },
     {

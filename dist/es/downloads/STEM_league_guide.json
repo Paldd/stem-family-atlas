@@ -4531,7 +4531,7 @@
         "id": "waicy",
         "name": "WAICY",
         "group": "ai",
-        "age_summary": "página: 6–18; de la dirección: under 18 — el límite superior se desvía",
+        "age_summary": "La página indica de 6 a 18 años y la guía, menores de 18. Individual o en equipo de 1–5. Confirmar la fecha de corte de edad.",
         "age_tags": [
           "6",
           "9",
@@ -4563,6 +4563,15 @@
             "hardware": "servicio de LLM, pruebas y desarrollo de ideas",
             "age_rule": "no trasladar a los grupos escolares Showcase a LLM",
             "entry": "un track independiente"
+          },
+          {
+            "name": "WAICY Global 2026 · Finalist judging",
+            "age": "La página indica de 6 a 18 años y la guía, menores de 18. Individual o en equipo de 1–5. Confirmar la fecha de corte de edad.",
+            "team": "La página indica de 6 a 18 años y la guía, menores de 18. Individual o en equipo de 1–5. Confirmar la fecha de corte de edad.",
+            "hardware": "",
+            "age_rule": "Condicional. La edad mínima publicada es de 6 años. Confirmar fecha de corte, categoría y reglas del itinerario.",
+            "entry": "Acceso según el resultado de la etapa anterior.",
+            "event_id": "C4682"
           }
         ],
         "event_ids": [
@@ -4570,14 +4579,15 @@
           "C1152",
           "C1153",
           "C1154",
-          "C4517"
+          "C4517",
+          "C4682"
         ],
         "legacy_ids": [
           "C037"
         ],
-        "route": "proyecto propio → presentación de materiales → decisión del organizador sobre el formato de la evaluación final → juez oficial. es posible una entrada individual / equipo y remote.",
+        "route": "Enviar el proyecto hasta el 29.11.2026 a las 17:00 ET, las 16:00 en Costa Rica y Ciudad de México. Admite envíos remotos desde cualquier país.",
         "hardware": "Proyecto de IA + demostración / video; sin robot obligatorio",
-        "language": "EN",
+        "language": "Concurso en inglés. Para AI Showcase se admiten vídeos en inglés o con subtítulos en inglés.",
         "importance": "El grupo de redacción por tipo de ruta, no el ranking oficial de todas las ligas.",
         "strengths": "proyecto de investigación, arte, video o LLM; puede ser presentado a distancia.",
         "requirements": [
@@ -4588,25 +4598,26 @@
         "nuances": [
           "La guía de octubre corrige Showcase: plazo29.11.2026 17:00 ET. Web, portada, calendario y sección detallada Showcase indican4–6 de diciembre; el párrafo introductorio PDF aún dice5–7. El horario individual depende de la selección; enviar no confirma invitación a la final.",
           "sitio web 6–18 se desvía de under 18 en el PDF; para niños 6/9 No cambia la edad de la candidata., Pero es importante para los mayores..",
-          "en PDF la presentación oportuna da el certificado de participación; Gold / Silver / Bronze y los premios especiales  los resultados individuales del juez."
+          "en PDF la presentación oportuna da el certificado de participación; Gold / Silver / Bronze y los premios especiales  los resultados individuales del juez.",
+          "La página y la tabla de la guía indican 4–6 de diciembre de 2026. Un párrafo del PDF indica 5–7 de diciembre. Los turnos de finalistas se asignan el 2 de diciembre."
         ],
-        "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
+        "cost": "El formulario público no indica una cuota actual de envío. El coste de herramientas depende del proyecto.",
         "award": "Puesto o premio según los resultados oficiales",
         "sources": [
           {
-            "title": "WAICY: 2026",
             "url": "https://www.waicy.org/waicy-2026/",
-            "checked": "2026-11-04"
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
           },
           {
-            "title": "de las rubricas 2026",
-            "url": "https://www.waicy.org/rubrics/",
-            "checked": "2026-09-30"
-          },
-          {
-            "title": "Guía de octubre2026",
             "url": "https://waicy-cdn.wholeren.cn/wp-content/uploads/2026/10/WAICY-2026-Guidebook-2.pdf",
-            "checked": "2026-11-04"
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://www.waicy.org/2026-submission/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
           }
         ],
         "evidence": "Se ha completado por las lecturas de las reglas oficiales / páginas 30.09.2026; la recepción local de la familia se confirma por separado.",
@@ -6475,48 +6486,209 @@
         "id": "ioai",
         "name": "IOAI · la olimpiada por la",
         "group": "advanced",
-        "age_summary": "≤20 para el 1 de julio + estatus escolar; selección nacional",
+        "age_summary": "Hasta 20 años el 1 de julio de 2027. Escolarización a tiempo completo en primaria o secundaria el 1 de diciembre de 2026 o después, o condiciones para educación en casa. Rigen las bases nacionales.",
         "age_tags": [
           "teen"
         ],
         "summary": "la olimpiada internacional de fútbol profesional; la selección escolar del país.",
         "categories": [
           {
-            "name": "IOAI · Student competition",
-            "age": "≤20 para el 1 de julio",
-            "team": "hasta 4 participantes + un líder de equipo adulto",
-            "hardware": "Computing por el syllabus / rules del concurso",
-            "age_rule": "educación escolar el 1 de diciembre del año anterior",
-            "entry": "reconocido selección nacional"
+            "name": "IOAI 2027 · Singapore · International Olympiad in AI",
+            "age": "Hasta 20 años el 1 de julio de 2027. Escolarización a tiempo completo en primaria o secundaria el 1 de diciembre de 2026 o después, o condiciones para educación en casa. Rigen las bases nacionales.",
+            "team": "Selección por la organización acreditada del país donde se estudia y reside. Para 2027 cada país inscribe 1 delegación de hasta 4 estudiantes y una persona adulta responsable.",
+            "hardware": "Python · machine learning",
+            "age_rule": "No hay acceso directo para la familia. Verificar categoría nacional, escolarización, residencia y preparación.",
+            "entry": "Selección por la organización acreditada del país donde se estudia y reside. Para 2027 cada país inscribe 1 delegación de hasta 4 estudiantes y una persona adulta responsable.",
+            "event_id": "C4656"
+          },
+          {
+            "name": "IOAI Spain · Stage 1",
+            "age": "Secundaria a tiempo completo el 1 de diciembre de 2026 o después. Hasta 20 años el 1 de julio de 2027.",
+            "team": "Nacionalidad española, residencia permanente o centro a tiempo completo en España. El estudiante no participa en la selección final de otro país en 2027.",
+            "hardware": "",
+            "age_rule": "No por la etapa escolar actual. Cotejar el requisito escolar en la próxima edición.",
+            "entry": "Nacionalidad española, residencia permanente o centro a tiempo completo en España. El estudiante no participa en la selección final de otro país en 2027.",
+            "event_id": "C4658"
+          },
+          {
+            "name": "ANOAI 2027 · Self-assessment",
+            "age": "Alumnado escolarizado en Armenia y estudiantes de centros técnicos de hasta 20 años. Consultar las bases para otros requisitos.",
+            "team": "Solicitud en línea hasta el 15 de noviembre de 2026. La autoevaluación no elimina participantes. Se accede a la final por los resultados clasificatorios.",
+            "hardware": "",
+            "age_rule": "El acceso exige estudiar en el país indicado. Para la familia, confirmar centro local y grado.",
+            "entry": "Solicitud en línea hasta el 15 de noviembre de 2026. La autoevaluación no elimina participantes. Se accede a la final por los resultados clasificatorios.",
+            "event_id": "C4662"
+          },
+          {
+            "name": "UKOAI 2027 · Online exam",
+            "age": "Alumnado de secundaria residente en el Reino Unido.",
+            "team": "Examen en línea gratuito con solicitud hasta el 15 de enero de 2027. Después, entrevista e invitación al campamento.",
+            "hardware": "",
+            "age_rule": "No por la etapa escolar actual. Cotejar el requisito escolar en la próxima edición.",
+            "entry": "Examen en línea gratuito con solicitud hasta el 15 de enero de 2027. Después, entrevista e invitación al campamento.",
+            "event_id": "C4665"
+          },
+          {
+            "name": "IOAI New Zealand · Preliminary",
+            "age": "Alumnado de secundaria en Nueva Zelanda.",
+            "team": "Selección nacional gratuita. La organización indica el periodo de solicitud 01.12.2026–31.01.2027.",
+            "hardware": "",
+            "age_rule": "No por la etapa escolar actual. Cotejar el requisito escolar en la próxima edición.",
+            "entry": "Selección nacional gratuita. La organización indica el periodo de solicitud 01.12.2026–31.01.2027.",
+            "event_id": "C4668"
+          },
+          {
+            "name": "ONIA Brasil · 3ª edição · Fase 2 · Etapa 2",
+            "age": "Grados 6–9 de Ensino Fundamental o 1–3 de Ensino Médio para medallas y selección. Categoria Livre se limita a ciertas fases.",
+            "team": "Solo participantes que superaron la etapa anterior de la 3.ª ONIA. La olimpiada es gratuita.",
+            "hardware": "",
+            "age_rule": "No por la etapa escolar actual. Cotejar el requisito escolar en la próxima edición.",
+            "entry": "Solo participantes que superaron la etapa anterior de la 3.ª ONIA. La olimpiada es gratuita.",
+            "event_id": "C4671"
+          },
+          {
+            "name": "MOAI · National entrance examination 2027",
+            "age": "La organización todavía no ha publicado los requisitos detallados de edad y grado.",
+            "team": "MOAI prevé el examen nacional para diciembre de 2026. Aún quedan por definir bases y días.",
+            "hardware": "",
+            "age_rule": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+            "entry": "MOAI prevé el examen nacional para diciembre de 2026. Aún quedan por definir bases y días.",
+            "event_id": "C4672"
+          },
+          {
+            "name": "OMIA México · IOAI 2027 · National route",
+            "age": "OMIA se dirige a secundaria y bachillerato. Cotejar los requisitos escolares de la próxima edición en su convocatoria.",
+            "team": "COMI figura en el registro de IOAI para México. La ficha de OMIA aún no indica fechas de selección de 2027. Consultar condiciones para alumnado escolarizado fuera del país.",
+            "hardware": "",
+            "age_rule": "No por la etapa escolar actual. Cotejar el requisito escolar en la próxima edición.",
+            "entry": "COMI figura en el registro de IOAI para México. La ficha de OMIA aún no indica fechas de selección de 2027. Consultar condiciones para alumnado escolarizado fuera del país.",
+            "event_id": "C4673"
+          },
+          {
+            "name": "OIEC · Olimpiada Nacional · Módulo 1 (IA)",
+            "age": "Consultar en las bases de OIEC los requisitos escolares y el acceso. Los módulos publicados figuran aparte de la delegación internacional.",
+            "team": "El registro de IOAI identifica a OIEC como organización nacional. OIEC publica fechas de módulos de IA en el calendario de la olimpiada nacional.",
+            "hardware": "",
+            "age_rule": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+            "entry": "El registro de IOAI identifica a OIEC como organización nacional. OIEC publica fechas de módulos de IA en el calendario de la olimpiada nacional.",
+            "event_id": "C4675"
+          },
+          {
+            "name": "IOAI · République centrafricaine · Sélection nationale 2027",
+            "age": "Confirmar fechas nacionales, grado, idioma y acceso de menores en las bases de selección.",
+            "team": "Balaôbêafrîka anuncia la selección en la República Centroafricana para IOAI 2027 y describe 4 fases de preparación y selección. Aún no indica fechas locales.",
+            "hardware": "",
+            "age_rule": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+            "entry": "Balaôbêafrîka anuncia la selección en la República Centroafricana para IOAI 2027 y describe 4 fases de preparación y selección. Aún no indica fechas locales.",
+            "event_id": "C4677"
+          },
+          {
+            "name": "IOAI · Sudan · National selection route",
+            "age": "Confirmar fechas nacionales, grado, idioma y acceso de menores en las bases de selección.",
+            "team": "El registro de IOAI indica Orientations Training Centre y una selección nacional. Aún no se confirman fechas de la edición ni grado mínimo.",
+            "hardware": "",
+            "age_rule": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+            "entry": "El registro de IOAI indica Orientations Training Centre y una selección nacional. Aún no se confirman fechas de la edición ni grado mínimo.",
+            "event_id": "C4678"
+          },
+          {
+            "name": "IOAI · Afghanistan · National selection route",
+            "age": "Confirmar fechas nacionales, grado, idioma y acceso de menores en las bases de selección.",
+            "team": "El registro de IOAI indica Accredited organization: y una selección nacional. Aún no se confirman fechas de la edición ni grado mínimo.",
+            "hardware": "",
+            "age_rule": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+            "entry": "El registro de IOAI indica Accredited organization: y una selección nacional. Aún no se confirman fechas de la edición ni grado mínimo.",
+            "event_id": "C4679"
+          },
+          {
+            "name": "USA–North America AI Olympiad 2027 · Round 1",
+            "age": "Ciudadanía o residencia permanente de EE. UU. o Canadá, o estudios a tiempo completo de middle / high school en EE. UU. o Canadá. Menor de 20 años el 30 de agosto de 2027. Se excluyen estudios universitarios a tiempo completo.",
+            "team": "Inscripción hasta el 31 de enero de 2027 a las 23:59 ET. Examen el 19 de febrero de 12:00 a 15:00 ET, en una sede con supervisión.",
+            "hardware": "Google Colab · Python · PyTorch · Lateran AI · OBS Studio",
+            "age_rule": "No con la vía familiar conocida. Se exigen condiciones de ciudadanía, residencia o etapa escolar de EE. UU. o Canadá.",
+            "entry": "Inscripción hasta el 31 de enero de 2027 a las 23:59 ET. Examen el 19 de febrero de 12:00 a 15:00 ET, en una sede con supervisión.",
+            "event_id": "C4680"
+          },
+          {
+            "name": "NOAI Nigeria 2027 · School and national selection",
+            "age": "La presentación menciona escuelas secundarias de Nigeria. Los requisitos indican cualquier curso hasta SS3 y un máximo de 20 años. No se confirma el curso mínimo ni el acceso de escuelas extranjeras.",
+            "team": "",
+            "hardware": "Python y fundamentos de inteligencia artificial. Confirmar con la escuela el acceso a EduSpace y el idioma del examen.",
+            "age_rule": "Condicional. Se requiere inscripción escolar según las bases de Nigeria. Confirmar acceso del alumnado de primaria.",
+            "entry": "Inscripción escolar tardía hasta el 9 de noviembre de 2026. El examen introductorio tuvo lugar el 30 de octubre. La organización pide a las escuelas de inscripción tardía confirmar el procedimiento.",
+            "event_id": "C4543"
           }
         ],
-        "event_ids": [],
+        "event_ids": [
+          "C4656",
+          "C4657",
+          "C4658",
+          "C4659",
+          "C4660",
+          "C4661",
+          "C4662",
+          "C4663",
+          "C4664",
+          "C4665",
+          "C4666",
+          "C4667",
+          "C4668",
+          "C4669",
+          "C4670",
+          "C4671",
+          "C4672",
+          "C4673",
+          "C4675",
+          "C4676",
+          "C4677",
+          "C4678",
+          "C4679",
+          "C4680",
+          "C4543",
+          "C4544",
+          "C4545",
+          "C4546"
+        ],
         "legacy_ids": [],
-        "route": "la olimpiada nacional / selección reconocida → hasta 4 participantes de la delegación → IOAI. no es una solicitud directa familiar.",
+        "route": "Selección por la organización acreditada del país donde se estudia y reside. Para 2027 cada país inscribe 1 delegación de hasta 4 estudiantes y una persona adulta responsable.",
         "hardware": "Computing por el syllabus / rules del concurso",
-        "language": "EN: materiales internacionales; lenguaje de selección nacional por separado",
+        "language": "El idioma de trabajo de la olimpiada internacional es el inglés. Las condiciones de las fases nacionales se comprueban aparte.",
         "importance": "una fuerte trayectoria superior por competencia de perfil; un oriente editorial, no un ranking mundial general.",
         "strengths": "la olimpiada internacional de fútbol profesional; la selección escolar del país.",
         "requirements": [
-          "comprobar las reglas vigentes de la temporada y de la selección nacional antes de elegir una representación.",
-          "preparar trabajo independiente y resultados confirmados, no sólo certificados de cursos."
+          "Hasta 20 años el 1 de julio de 2027. Escolarización a tiempo completo en primaria o secundaria el 1 de diciembre de 2026 o después, o condiciones para educación en casa. Rigen las bases nacionales.",
+          "Selección por la organización acreditada del país donde se estudia y reside. Para 2027 cada país inscribe 1 delegación de hasta 4 estudiantes y una persona adulta responsable."
         ],
         "nuances": [
-          "los criterios nacionales y la autorización de residencia/aprendizaje deben ser confirmados por los coordinadores CR o MX.",
-          "WAICY / Codeavour no otorga una cuota automática de IOAI.",
-          "IOAI² AI Models Track para los laboratorios es diferente de la olimpiada escolar.",
-          "La edad no determina la preparación: el siguiente ruta ofrece primero Python, datos y matemáticas."
+          "México figura en el registro actual. La lista revisada no muestra coordinación para Costa Rica.",
+          "WAICY y USA Junior AI Olympiad son competiciones independientes con resultados propios.",
+          "IOAI² AI Models Track se dirige a equipos que crean modelos de IA y tiene bases separadas."
         ],
-        "cost": "No se calcula el coste exacto de la familia: la preparación, el equipo/calculo, la inscripción y el viaje dependen de la etapa.",
+        "cost": "EUR 1600, 2400 o 3000 por delegación según plazo de inscripción. Incluye 6 noches, comidas y traslados locales. Vuelos y seguro aparte.",
         "award": "el resultado oficial de una etapa concreta; la calificación y la medalla  diferentes logros.",
         "sources": [
           {
-            "title": "IOAI · olimpiada por y: fuente oficial",
-            "url": "https://ioai-official.org/wp-content/uploads/2025/08/IOAI-regulations.pdf",
-            "checked": "2026-09-30"
+            "url": "https://ioai-official.org/editions/singapore-2027/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://ioai-official.org/editions/singapore-2027/registration/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
+          },
+          {
+            "url": "https://ioai-official.org/about/countries-and-territories/",
+            "title": "Página de la organización o reglamento de la categoría.",
+            "checked": "2026-11-08"
           }
         ],
-        "evidence": "página oficial / reglas leídas 30.09.2026; las condiciones locales de la familia no se han confirmado."
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
       },
       {
         "id": "ioi",
@@ -26568,7 +26740,7 @@
           "El formulario separa la autorización de muestra y la inscripción al concurso con premios.",
           "Entrega hasta el 14 de noviembre de 2026. Anuncio de ganadores previsto para el 20 de noviembre de 2026."
         ],
-        "cost": "Participación gratuita según las bases del organizador.",
+        "cost": "Participación gratuita según las bases de la organización.",
         "award": "Entrega y posible muestra del proyecto. Concurso con premios sujeto a residencia australiana.",
         "sources": [
           {

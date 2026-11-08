@@ -1,0 +1,1037 @@
+{
+  "version": 284,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C4656",
+    "C4657",
+    "C4658",
+    "C4659",
+    "C4660",
+    "C4661",
+    "C4662",
+    "C4663",
+    "C4664",
+    "C4665",
+    "C4666",
+    "C4667",
+    "C4668",
+    "C4669",
+    "C4670",
+    "C4671",
+    "C4672",
+    "C4673",
+    "C4674",
+    "C4675",
+    "C4676",
+    "C4677",
+    "C4678",
+    "C4679",
+    "C4680",
+    "C4681",
+    "C4682",
+    "L785",
+    "L786"
+  ],
+  "new_dossiers": [
+    "CP1999",
+    "CP2000"
+  ],
+  "new_dated_variants": 0,
+  "refreshed_event_ids": [
+    "C4543",
+    "C4544",
+    "C4545",
+    "C4546",
+    "C037",
+    "C1152",
+    "C1153",
+    "C1154",
+    "C1772",
+    "C1776"
+  ],
+  "legacy_overlay_event_ids": [
+    "C4543",
+    "C4544",
+    "C4545",
+    "C4546",
+    "C037",
+    "C1152",
+    "C1153",
+    "C1154",
+    "C1772",
+    "C1776"
+  ],
+  "legacy_overlay_league_ids": [
+    "ioai",
+    "waicy"
+  ],
+  "source_requests": 31,
+  "ioai_final": "C4656",
+  "ioai_registration": "C4657",
+  "ioai_national_events": {
+    "ESP": [
+      "C4658",
+      "C4659",
+      "C4660",
+      "C4661"
+    ],
+    "ARM": [
+      "C4662",
+      "C4663",
+      "C4664"
+    ],
+    "GBR": [
+      "C4665",
+      "C4666",
+      "C4667"
+    ],
+    "NZL": [
+      "C4668",
+      "C4669",
+      "C4670"
+    ],
+    "BRA": [
+      "C4671"
+    ],
+    "MAR": [
+      "C4672"
+    ],
+    "MEX": [
+      "C4673"
+    ],
+    "ECU": [
+      "C4675",
+      "C4676"
+    ],
+    "CAF": [
+      "C4677"
+    ],
+    "SDN": [
+      "C4678"
+    ],
+    "AFG": [
+      "C4679"
+    ],
+    "USA": [
+      "C4680"
+    ],
+    "NGA": [
+      "C4543",
+      "C4544",
+      "C4545",
+      "C4546"
+    ]
+  },
+  "ioai_directory": {
+    "source": "https://ioai-official.org/about/countries-and-territories/",
+    "rows": [
+      {
+        "country": "Afghanistan",
+        "organizer": "Accredited organization:",
+        "status": "valid",
+        "website": "https://ioai.banfes.ai/en/"
+      },
+      {
+        "country": "Albania",
+        "organizer": "Accredited organization:",
+        "status": "expired",
+        "website": "https://stemhubalbania.org/"
+      },
+      {
+        "country": "Algeria",
+        "organizer": "Accredited organization:",
+        "status": "valid",
+        "website": "https://ai.algerianoi.com/"
+      },
+      {
+        "country": "Angola",
+        "organizer": "Accredited organization:",
+        "status": "expired",
+        "website": "https://www.deeplearningindabaxao.com/"
+      },
+      {
+        "country": "Argentina",
+        "organizer": "Argentine Computer Olympiad – O.I.A.",
+        "status": "valid",
+        "website": "http://www.oia.unsam.edu.ar"
+      },
+      {
+        "country": "Armenia",
+        "organizer": "Accredited organization:",
+        "status": "valid",
+        "website": "https://fast.foundation/"
+      },
+      {
+        "country": "Australia",
+        "organizer": "Australia STEM and Robotics Advancement Association",
+        "status": "valid",
+        "website": "https://ioai.org.au/"
+      },
+      {
+        "country": "Azerbaijan",
+        "organizer": "Global Olympiad Center",
+        "status": "valid",
+        "website": "https://goc.edu.az/olympic-and-competition/35/2026/ai-azerbaijan-azerbaycan-suni-intellekt-olimpiadasi"
+      },
+      {
+        "country": "Bahrain",
+        "organizer": "Kerne",
+        "status": "valid",
+        "website": "https://aiolympiadbahrain-bce770435dfe.herokuapp.com/"
+      },
+      {
+        "country": "Bangladesh",
+        "organizer": "Bangladesh Olympiad In Artificial Intelligence (BDOAI)",
+        "status": "valid",
+        "website": "https://bdaio.org/"
+      },
+      {
+        "country": "Belarus",
+        "organizer": "National Children's Park",
+        "status": "valid",
+        "website": "https://ndtp.by/"
+      },
+      {
+        "country": "Benin",
+        "organizer": "Sèmè City Development Agency",
+        "status": "valid",
+        "website": "https://ghezotic.bj/olympiades/selection-2027"
+      },
+      {
+        "country": "Bolivia",
+        "organizer": "Bolivian Olympiad in Informatics",
+        "status": "expired",
+        "website": "https://www.ob-ia.org/"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "organizer": "CERIT - Center for Education, Robotics, Innovation And Technology",
+        "status": "valid",
+        "website": "http://www.cerit.ba"
+      },
+      {
+        "country": "Botswana",
+        "organizer": "MAB Trust",
+        "status": "expired",
+        "website": "https://mabtrust.co.bw/"
+      },
+      {
+        "country": "Brazil",
+        "organizer": "EduSpace",
+        "status": "valid",
+        "website": "https://www.oniabrasil.com.br/"
+      },
+      {
+        "country": "Bulgaria",
+        "organizer": "Ministry of Education and Science",
+        "status": "valid",
+        "website": "https://web.mon.bg/en/"
+      },
+      {
+        "country": "Burkina Faso",
+        "organizer": "Tech Emerging Africa",
+        "status": "valid",
+        "website": "https://techemergingafrica.com"
+      },
+      {
+        "country": "Burundi",
+        "organizer": "Institut des Technologies Numériques - ITN",
+        "status": "valid",
+        "website": "https://itn.ub.edu.bi "
+      },
+      {
+        "country": "Cabo Verde",
+        "organizer": "Escola Industrial e Comercial do Mindelo – Guilherme Dias Chantre",
+        "status": "valid",
+        "website": "https://eicmgdc.edu.cv/external/noai"
+      },
+      {
+        "country": "Cameroon",
+        "organizer": "Olympiad Cameroon",
+        "status": "valid",
+        "website": "https://olympiad.cm"
+      },
+      {
+        "country": "Central African Republic",
+        "organizer": "Balaôbêafrîka Ltd",
+        "status": "valid",
+        "website": "https://balaobeafrika.com/ioai-selection"
+      },
+      {
+        "country": "Chad",
+        "organizer": "10000 codeurs",
+        "status": "valid",
+        "website": "https://10000codeurs.com/tchad/"
+      },
+      {
+        "country": "China",
+        "organizer": "ITCCC",
+        "status": "valid",
+        "website": "http://www.ioaic.org.cn/"
+      },
+      {
+        "country": "Colombia",
+        "organizer": "Olimpiadas Colombianas",
+        "status": "valid",
+        "website": "http://oc.uan.edu.co/olimpiada-colombiana-de-inteligencia-artificial"
+      },
+      {
+        "country": "Congo - GAITE",
+        "organizer": "Approved organization: African Research Center for Artificial Intelligence (CARIA)",
+        "status": "valid",
+        "website": "https://caria.cg/"
+      },
+      {
+        "country": "Côte d'Ivoire",
+        "organizer": "Alpha Space Robotics",
+        "status": "valid",
+        "website": "https://www.noai.alphaspacerobotics.com/"
+      },
+      {
+        "country": "Croatia",
+        "organizer": "Croatian Computer Science Association",
+        "status": "expired",
+        "website": ""
+      },
+      {
+        "country": "Cuba",
+        "organizer": "Ministry of Education",
+        "status": "valid",
+        "website": "http://www.ccs.org.cy"
+      },
+      {
+        "country": "Cyprus",
+        "organizer": "JetBrains",
+        "status": "valid",
+        "website": "https://www.jetbrains.com/"
+      },
+      {
+        "country": "Czechia",
+        "organizer": "NVIAS",
+        "status": "valid",
+        "website": "https://aiolympiada.cz"
+      },
+      {
+        "country": "Democratic Republic of Congo",
+        "organizer": "Faculté des Sciences et Technologies, University of Lubumbashi (UNILU)",
+        "status": "valid",
+        "website": ""
+      },
+      {
+        "country": "Denmark",
+        "organizer": "Dansk Datalogi-Dyst",
+        "status": "valid",
+        "website": "https://danskdatalogidyst.dk"
+      },
+      {
+        "country": "Ecuador",
+        "organizer": "Ecuadorian Olympiad in Informatics (OIEC)",
+        "status": "valid",
+        "website": "https://oiec-edu.org/"
+      },
+      {
+        "country": "Egypt",
+        "organizer": "Arab Academy for Science, Technology and Maritime Transport (AASTMT)",
+        "status": "valid",
+        "website": "http://www.aast.edu"
+      },
+      {
+        "country": "El Salvador",
+        "organizer": "Programa Jóvenes Talento",
+        "status": "valid",
+        "website": "https://www.jovenestalento.edu.sv/"
+      },
+      {
+        "country": "Estonia",
+        "organizer": "University of Tartu Youth Academy",
+        "status": "valid",
+        "website": "https://teaduskool.ut.ee/en/avaleht"
+      },
+      {
+        "country": "Eswatini - GAITE",
+        "organizer": "IndabaX Eswatini and EFWG",
+        "status": "valid",
+        "website": "https://efwg.co.sz/"
+      },
+      {
+        "country": "Ethiopia",
+        "organizer": "Falcon Academy",
+        "status": "valid",
+        "website": "https://ioai.ethiofalcon.com/"
+      },
+      {
+        "country": "France",
+        "organizer": "France-IOI",
+        "status": "valid",
+        "website": "https://olympiades.ai/"
+      },
+      {
+        "country": "Gabon",
+        "organizer": "DIAM-AI",
+        "status": "valid",
+        "website": "https://diam-ai.com/ioai-gabon"
+      },
+      {
+        "country": "Gambia",
+        "organizer": "Artificial Intelligence Gambia Network",
+        "status": "valid",
+        "website": "https://gamainet.org/ioai.html"
+      },
+      {
+        "country": "Georgia",
+        "organizer": "Georgian Artificial Intelligence Association",
+        "status": "valid",
+        "website": "https://www.aiassociation.ge/ai-olympiad"
+      },
+      {
+        "country": "Germany",
+        "organizer": "Schülerforschungszentrum Südwürttemberg SFZ",
+        "status": "valid",
+        "website": "https://ioai-germany.de/"
+      },
+      {
+        "country": "Ghana",
+        "organizer": "All Sciences Olympiad Foundation",
+        "status": "valid",
+        "website": "https://asofoundation.org/ai/"
+      },
+      {
+        "country": "Greece",
+        "organizer": "Archimedes AI - Athena Research Center",
+        "status": "valid",
+        "website": "https://archimedesai.gr/en/"
+      },
+      {
+        "country": "Guinea",
+        "organizer": "Ouskei Academy",
+        "status": "valid",
+        "website": "http://www.ouskeiacademy.com"
+      },
+      {
+        "country": "Haiti",
+        "organizer": "Stratiums Technologies",
+        "status": "valid",
+        "website": "https://yti.world/ioai"
+      },
+      {
+        "country": "Hong Kong, China",
+        "organizer": "Techfuture Robotics and Artificial Intelligence Foundation",
+        "status": "valid",
+        "website": "https://www.ioai-hongkong.org/"
+      },
+      {
+        "country": "Hungary",
+        "organizer": "ELTE, Eötvös Lorand University, Faculty of Informatics Budapest",
+        "status": "valid",
+        "website": "https://www.inf.elte.hu/"
+      },
+      {
+        "country": "India",
+        "organizer": "ACM India Council",
+        "status": "valid",
+        "website": "https://india.acm.org/"
+      },
+      {
+        "country": "Indonesia",
+        "organizer": "Indonesian Computing Olympiad Team",
+        "status": "valid",
+        "website": "https://toki.id/"
+      },
+      {
+        "country": "Iran",
+        "organizer": "Accredited organization:",
+        "status": "valid",
+        "website": "http://ysc.medu.gov.ir"
+      },
+      {
+        "country": "Iraq",
+        "organizer": "Accredited organization:",
+        "status": "expired",
+        "website": ""
+      },
+      {
+        "country": "Ireland",
+        "organizer": "Accredited organization:",
+        "status": "expired",
+        "website": "https://www.ucc.ie/en/compsci/"
+      },
+      {
+        "country": "Isle of Man",
+        "organizer": "Lingomann Ltd",
+        "status": "valid",
+        "website": "https://lingomann.com/"
+      },
+      {
+        "country": "Israel",
+        "organizer": "Bar Ilan University",
+        "status": "valid",
+        "website": "https://noar.biu.ac.il/computer-science-olympic-team/"
+      },
+      {
+        "country": "Italy",
+        "organizer": "Associazione Nazionale Programmazione Competitiva APS",
+        "status": "expired",
+        "website": "https://anpc.it/"
+      },
+      {
+        "country": "Jamaica",
+        "organizer": "Halls of Learning",
+        "status": "valid",
+        "website": "https://www.hallsoflearning.com/oaijamaica"
+      },
+      {
+        "country": "Japan",
+        "organizer": "Japan Olympiad Committee for Artificial Intelligence",
+        "status": "valid",
+        "website": "https://ioai-japan.org/"
+      },
+      {
+        "country": "Jordan",
+        "organizer": "Applied Science Private University",
+        "status": "valid",
+        "website": "https://joai.asu.edu.jo/index.html"
+      },
+      {
+        "country": "Kazakhstan",
+        "organizer": "Competitive Programming Federation of Kazakhstan",
+        "status": "valid",
+        "website": "https://cpfed.kz/"
+      },
+      {
+        "country": "Kenya – GAITE",
+        "organizer": "Approved organization: IndabaX Kenya and Elimika Research Institute",
+        "status": "valid",
+        "website": "https://elimika-research-institute.netlify.app/"
+      },
+      {
+        "country": "Kosovo",
+        "organizer": "University of Prishtina & Kosovo Mathematical Association",
+        "status": "valid",
+        "website": "https://www.stem-ks.org/ioai"
+      },
+      {
+        "country": "Kuwait",
+        "organizer": "Sabah Al Ahmad Center for Giftedness and Creativity",
+        "status": "valid",
+        "website": "https://www.sacgc.org"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "organizer": "Olympiad Movement Fizmat Fund & Federation of competitive programming of Kyrgyzstan FSP",
+        "status": "valid",
+        "website": "https://statsnet.co/companies/kg/174085782"
+      },
+      {
+        "country": "Latvia",
+        "organizer": "Lemon AI",
+        "status": "valid",
+        "website": "https://omi.lv/"
+      },
+      {
+        "country": "Lebanon",
+        "organizer": "Mind Power STEM Consultancy",
+        "status": "valid",
+        "website": "http://www.mindpowerlb.com"
+      },
+      {
+        "country": "Lesotho",
+        "organizer": "Botho University",
+        "status": "valid",
+        "website": "https://www.bothouniversity.com/projects"
+      },
+      {
+        "country": "Libya",
+        "organizer": "Libyan Academy for Telecom and Informatics (LATI)",
+        "status": "valid",
+        "website": "http://www.lati.ly"
+      },
+      {
+        "country": "Lithuania",
+        "organizer": "Vilnius University (LATI)",
+        "status": "expired",
+        "website": "https://www.dio.mif.vu.lt/"
+      },
+      {
+        "country": "Luxembourg",
+        "organizer": "Lëtzebuerger Informatiks-Olympiad a.s.b.l.",
+        "status": "valid",
+        "website": "http://infosolympiad.lu"
+      },
+      {
+        "country": "Macao, China",
+        "organizer": "Macao Computer Society",
+        "status": "valid",
+        "website": "https://www.mcs.mo"
+      },
+      {
+        "country": "Madagascar – GAITE",
+        "organizer": "STEM for Good",
+        "status": "valid",
+        "website": "https://stem4good.org"
+      },
+      {
+        "country": "Malawi",
+        "organizer": "KAI Lab & IndabaX Malawi",
+        "status": "expired",
+        "website": "https://ml.mw"
+      },
+      {
+        "country": "Malaysia",
+        "organizer": "ArdentEdu",
+        "status": "valid",
+        "website": "https://www.aiolympiad.my/"
+      },
+      {
+        "country": "Mali",
+        "organizer": "RobotsMali",
+        "status": "valid",
+        "website": "https://robotsmali.org"
+      },
+      {
+        "country": "Maldives",
+        "organizer": "South Asia Privacy Professionals Association",
+        "status": "expired",
+        "website": "https://www.sappa.icu"
+      },
+      {
+        "country": "Mauritania",
+        "organizer": "Mauritanian Women in Machine Learning (MWiML)",
+        "status": "valid",
+        "website": "https://www.mwiml.com"
+      },
+      {
+        "country": "Mauritius",
+        "organizer": "Middlesex University Mauritius",
+        "status": "valid",
+        "website": "https://www.middlesex.mu"
+      },
+      {
+        "country": "Mexico",
+        "organizer": "Mexican Olympiad in Informatics",
+        "status": "valid",
+        "website": "https://comi.mx"
+      },
+      {
+        "country": "Moldova",
+        "organizer": "Ministry of Education and Research, National Agency for Curriculum and Evaluation",
+        "status": "expired",
+        "website": "http://www.ance.gov.md"
+      },
+      {
+        "country": "Mongolia",
+        "organizer": "Mongolian Artificial Intelligence Olympiad Association",
+        "status": "valid",
+        "website": "http://www.maio.mn"
+      },
+      {
+        "country": "Montenegro",
+        "organizer": "Montenegro Robotics",
+        "status": "expired",
+        "website": "https://montenegrobotics.com/"
+      },
+      {
+        "country": "Morocco",
+        "organizer": "Moroccan Association of Mathematical Sciences",
+        "status": "valid",
+        "website": "https://morocco-ioai.org/"
+      },
+      {
+        "country": "Mozambique",
+        "organizer": "United Methodist University of Mozambique",
+        "status": "expired",
+        "website": "https://umum.ac.mz/"
+      },
+      {
+        "country": "Myanmar",
+        "organizer": "Myanmar Olympiads Network",
+        "status": "expired",
+        "website": "https://tandh-mathscentre.com/"
+      },
+      {
+        "country": "Namibia",
+        "organizer": "Deep Learning Indaba𝕏 Namibia",
+        "status": "expired",
+        "website": "http://www.dlindabaxnamibia.na"
+      },
+      {
+        "country": "Nepal",
+        "organizer": "Himalayan Computational Linguistics Olympiad",
+        "status": "valid",
+        "website": "http://www.hlon.org"
+      },
+      {
+        "country": "Netherlands",
+        "organizer": "Stichting Informatica Olympiade",
+        "status": "valid",
+        "website": "http://www.informaticaolympiade.nl"
+      },
+      {
+        "country": "New Zealand",
+        "organizer": "Vineyards AI Lab",
+        "status": "valid",
+        "website": "https://www.ioai-nz.org/"
+      },
+      {
+        "country": "Niger",
+        "organizer": "IndabaX Niger",
+        "status": "valid",
+        "website": "https://indabaxniger.com/"
+      },
+      {
+        "country": "Nigeria",
+        "organizer": "Nigeria Olympiad in Artificial Intelligence",
+        "status": "valid",
+        "website": "https://www.ioai.org.ng/"
+      },
+      {
+        "country": "Norway",
+        "organizer": "Norsk Olympiade i Kunstig Intelligens (NOKI)",
+        "status": "valid",
+        "website": "https://ioai.no/"
+      },
+      {
+        "country": "Oman",
+        "organizer": "Qmm Academy",
+        "status": "expired",
+        "website": "http://qmm.academy"
+      },
+      {
+        "country": "Pakistan",
+        "organizer": "Aitchison College",
+        "status": "valid",
+        "website": "https://stem.edu.pk/"
+      },
+      {
+        "country": "Palestine",
+        "organizer": "Palestine Polytechnic University",
+        "status": "valid",
+        "website": "http://ds.ppu.edu/poai"
+      },
+      {
+        "country": "Panamá",
+        "organizer": "Olimpiada Panameña de Inteligencia Artificial (OlimPIA)",
+        "status": "valid",
+        "website": "https://olimpanama-ia.org/"
+      },
+      {
+        "country": "Peru",
+        "organizer": "UTEC | Peruvian Informatics Olympiad",
+        "status": "expired",
+        "website": "https://opi.utec.edu.pe/"
+      },
+      {
+        "country": "Philippines",
+        "organizer": "AI Olympiad Society Philippines",
+        "status": "valid",
+        "website": "https://ioaiph.org/"
+      },
+      {
+        "country": "Poland",
+        "organizer": "Fundacja Edukacji i Rozwoju Sztucznej Inteligencji",
+        "status": "valid",
+        "website": "https://oai.cs.uni.wroc.pl/"
+      },
+      {
+        "country": "Portugal",
+        "organizer": "TreeTree2 Association and Gradient Association",
+        "status": "valid",
+        "website": "https://onia.pt/"
+      },
+      {
+        "country": "Puerto Rico",
+        "organizer": "University of Puerto Rico at Mayaguez",
+        "status": "valid",
+        "website": "https://www.uprm.edu/oipr"
+      },
+      {
+        "country": "Qatar",
+        "organizer": "Hamad Bin Khalifa University",
+        "status": "expired",
+        "website": "https://www.hbku.edu.qa/en/about"
+      },
+      {
+        "country": "Romania",
+        "organizer": "Romanian Computer Science Teachers Association",
+        "status": "valid",
+        "website": "https://olimpiada-ai.ro/"
+      },
+      {
+        "country": "Russia",
+        "organizer": "Central University",
+        "status": "valid",
+        "website": "https://cu.ru/olympiad/ioai"
+      },
+      {
+        "country": "Rwanda - GAITE",
+        "organizer": "Approved organization: Rwanda Ministry of ICT and Innovation & Rwanda Olympiad Program",
+        "status": "expired",
+        "website": "https://rwandaolympiadfoundation.org/"
+      },
+      {
+        "country": "Saudi Arabia",
+        "organizer": "Mawhiba",
+        "status": "valid",
+        "website": "https://www.mawhiba.org/en/"
+      },
+      {
+        "country": "Senegal - GAITE",
+        "organizer": "Approved organization: GalsenAI",
+        "status": "valid",
+        "website": "https://galsen.ai/"
+      },
+      {
+        "country": "Serbia",
+        "organizer": "Serbian AI Association",
+        "status": "valid",
+        "website": "http://www.ai.org.rs"
+      },
+      {
+        "country": "Sierra Leone",
+        "organizer": "Signal Research and Resilience Initiative Sierra Leone 🇸🇱 RSquare",
+        "status": "valid",
+        "website": ""
+      },
+      {
+        "country": "Singapore",
+        "organizer": "Nanyang Technological University & AI Singapore",
+        "status": "valid",
+        "website": "https://www.ioai-singapore.org/"
+      },
+      {
+        "country": "Slovakia",
+        "organizer": "National Institute of Education and Youth",
+        "status": "expired",
+        "website": "https://ai-olympiada.sk"
+      },
+      {
+        "country": "South Africa",
+        "organizer": "AI in Africa",
+        "status": "valid",
+        "website": "https://saaio.org"
+      },
+      {
+        "country": "South Korea",
+        "organizer": "Korea Information Technology Promotion Agency (KITPA)",
+        "status": "valid",
+        "website": "https://kitpa.org/koai/about"
+      },
+      {
+        "country": "Spain",
+        "organizer": "Harbour.Space Institute of Technology",
+        "status": "valid",
+        "website": "https://www.ioai-spain.org/"
+      },
+      {
+        "country": "Sri Lanka",
+        "organizer": "Institute for Science, Engineering, and Technology (IFSET)",
+        "status": "valid",
+        "website": "https://slaio.org/"
+      },
+      {
+        "country": "Sudan",
+        "organizer": "Orientations Training Centre",
+        "status": "valid",
+        "website": "https://www.facebook.com/OrientationsCentre/"
+      },
+      {
+        "country": "Sweden",
+        "organizer": "Kodsport Sverige",
+        "status": "valid",
+        "website": "https://ai-olympiaden.se"
+      },
+      {
+        "country": "Switzerland",
+        "organizer": "EPFL AI Club",
+        "status": "valid",
+        "website": "https://www.aiolympiad.ch"
+      },
+      {
+        "country": "Syria",
+        "organizer": "Syrian Computer Society",
+        "status": "valid",
+        "website": "https://salmachikhalchabab.github.io/soai.github.io/"
+      },
+      {
+        "country": "Chinese Taipei",
+        "organizer": "National Central University",
+        "status": "valid",
+        "website": "https://www.ncu.edu.tw/?Lang=en"
+      },
+      {
+        "country": "Tajikistan",
+        "organizer": "Artificial Intelligence Council of Tajikistan",
+        "status": "expired",
+        "website": ""
+      },
+      {
+        "country": "Tanzania",
+        "organizer": "LogAI",
+        "status": "valid",
+        "website": "https://www.linkedin.com/company/ai-log/"
+      },
+      {
+        "country": "Thailand",
+        "organizer": "O.I.I. Thailand",
+        "status": "valid",
+        "website": "https://www.ioai-thailand.org"
+      },
+      {
+        "country": "Togo – GAITE",
+        "organizer": "Communauté Togolaise de l'Intelligence Artificielle (CoTIA)",
+        "status": "valid",
+        "website": "http://cotia.tg/"
+      },
+      {
+        "country": "Tunisia",
+        "organizer": "The Tunisian Association for the Future of Science and Technology",
+        "status": "valid",
+        "website": "http://ifest-tunisia.org"
+      },
+      {
+        "country": "Turkmenistan",
+        "organizer": "Baky Tylla Education Center",
+        "status": "valid",
+        "website": "https://bakytylla.com"
+      },
+      {
+        "country": "Türkiye",
+        "organizer": "TÜBITAK (The Scientific and Technological Research Council of Türkiye)",
+        "status": "expired",
+        "website": "https://bilimolimpiyatlari.tubitak.gov.tr/en/regional-science-olympiads#the-olympiads"
+      },
+      {
+        "country": "Ukraine",
+        "organizer": "Education Holding A+",
+        "status": "valid",
+        "website": "https://ioai-ukraine.org/"
+      },
+      {
+        "country": "Union of the Comoros – GAITE",
+        "organizer": "Approved organization: National Agency for Digital Development",
+        "status": "valid",
+        "website": "https://anaden.org/lanaden/a-propos"
+      },
+      {
+        "country": "United Arab Emirates",
+        "organizer": "Department of Education and Knowledge",
+        "status": "valid",
+        "website": "http://www.adek.gov.ae/"
+      },
+      {
+        "country": "United Kingdom",
+        "organizer": "Department of Computer Science and Technology, University of Cambridge",
+        "status": "valid",
+        "website": "https://ukoai.org/"
+      },
+      {
+        "country": "United States of America",
+        "organizer": "Temple University and USA AI Olympiad (USAAIO)",
+        "status": "valid",
+        "website": "https://usaaio.org"
+      },
+      {
+        "country": "Uzbekistan",
+        "organizer": "Science Olympiad Center",
+        "status": "valid",
+        "website": "http://olympcenter.uz"
+      },
+      {
+        "country": "Venezuela",
+        "organizer": "Venezuelan Association of Computer Skills (AVeCI)",
+        "status": "valid",
+        "website": "https://aveci.org/IOAI/"
+      },
+      {
+        "country": "Vietnam",
+        "organizer": "Ministry of Education and Training",
+        "status": "valid",
+        "website": "https://en.moet.gov.vn"
+      },
+      {
+        "country": "Zambia",
+        "organizer": "Anvil Coding Academy",
+        "status": "valid",
+        "website": "https://anvilcodingacademy.com/"
+      },
+      {
+        "country": "Zimbabwe",
+        "organizer": "Deep Learning IndabaX Zimbabwe",
+        "status": "valid",
+        "website": "https://indabaxzimbabwe.com/#/programmes#noai/"
+      }
+    ],
+    "listed": 139,
+    "valid": 116,
+    "expired": 23,
+    "duplicate_status_label_country": "Bulgaria",
+    "costa_rica_listed": false,
+    "mexico_listed": true,
+    "kind": "organizer_directory_not_event_inventory"
+  },
+  "omia_mexico": "C4673",
+  "omi_chihuahua_announcement": "C4674",
+  "usa_junior": "C4681",
+  "usa_north_america": "C4680",
+  "waicy_tracks": [
+    "C037",
+    "C1152",
+    "C1153",
+    "C1154"
+  ],
+  "waicy_judging": "C4682",
+  "yai": [
+    "C1772",
+    "C1776"
+  ],
+  "alpha_courses": [
+    "L785",
+    "L786"
+  ],
+  "source_limits": [
+    {
+      "event_id": "C4682",
+      "status": "published_table_and_paragraph_conflict",
+      "published": [
+        "2026-12-04",
+        "2026-12-06"
+      ],
+      "conflicting_text": [
+        "2026-12-05",
+        "2026-12-07"
+      ],
+      "slot_allocation": "2026-12-02"
+    },
+    {
+      "event_id": "C4657",
+      "status": "official_pages_differ_on_late_start",
+      "registration_page": "2027-04-02",
+      "timeline": "2027-04-01"
+    },
+    {
+      "iso": "NZL",
+      "status": "national_camp_after_global_national_round_target",
+      "national_camp": "2027-04-05",
+      "global_target": "2027-04-01"
+    },
+    {
+      "iso": "CAF",
+      "status": "directory_summary_differs_from_current_national_description",
+      "directory_stages": 3,
+      "national_description_stages": 4
+    },
+    {
+      "event_id": "C4681",
+      "status": "worldwide_time_rule_local_test_site_and_grade_required",
+      "international_final_route": false
+    },
+    {
+      "programmes": [
+        "CP1999",
+        "CP2000"
+      ],
+      "status": "season_windows_and_catalogue_rates_confirmed_exact_cohort_and_instruction_language_unconfirmed"
+    }
+  ]
+}

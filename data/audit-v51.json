@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10314,
-    "competition_cards": 4654,
+    "cards": 10343,
+    "competition_cards": 4681,
     "event_cards": 594,
-    "camp_cards": 5066,
+    "camp_cards": 5068,
     "league_profiles": 301,
     "major_exhibition_cards": 498,
     "vex_cards": 814,
-    "countries_with_records": 231,
+    "countries_with_records": 234,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,9 +34,9 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3365,
+      "total": 3369,
       "countries_with_records": 40,
-      "competitions": 1921,
+      "competitions": 1925,
       "events": 159,
       "major_exhibitions": 122,
       "camps": 1285,
@@ -48,9 +48,9 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 686,
+      "total": 689,
       "countries_with_records": 14,
-      "competitions": 430,
+      "competitions": 433,
       "events": 49,
       "major_exhibitions": 45,
       "camps": 207,
@@ -62,9 +62,9 @@
       "regions": [
         "Европа"
       ],
-      "total": 2205,
+      "total": 2212,
       "countries_with_records": 54,
-      "competitions": 602,
+      "competitions": 609,
       "events": 148,
       "major_exhibitions": 123,
       "camps": 1455,
@@ -76,9 +76,9 @@
       "regions": [
         "Африка"
       ],
-      "total": 391,
-      "countries_with_records": 53,
-      "competitions": 242,
+      "total": 394,
+      "countries_with_records": 55,
+      "competitions": 245,
       "events": 39,
       "major_exhibitions": 31,
       "camps": 110,
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 2974,
-      "countries_with_records": 49,
-      "competitions": 1155,
+      "total": 2982,
+      "countries_with_records": 50,
+      "competitions": 1161,
       "events": 158,
       "major_exhibitions": 145,
-      "camps": 1661,
+      "camps": 1663,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -104,9 +104,9 @@
       "regions": [
         "Океания"
       ],
-      "total": 531,
+      "total": 534,
       "countries_with_records": 25,
-      "competitions": 164,
+      "competitions": 167,
       "events": 34,
       "major_exhibitions": 30,
       "camps": 333,
@@ -2641,11 +2641,12 @@
         "C1152",
         "C1153",
         "C1154",
-        "C4517"
+        "C4517",
+        "C4682"
       ],
-      "cards": 5,
+      "cards": 6,
       "future_dated": 1,
-      "linked_card_count": 5,
+      "linked_card_count": 6,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.waicy.org/waicy-2026/",
       "new": false
@@ -3006,12 +3007,41 @@
       "id": "ioai",
       "name": "IOAI · Олимпиада по ИИ",
       "group": "advanced",
-      "event_ids": [],
-      "cards": 0,
-      "future_dated": 0,
-      "linked_card_count": 0,
-      "status": "Только профиль; календарь этапов не добавлен",
-      "source": "https://ioai-official.org/wp-content/uploads/2025/08/IOAI-regulations.pdf",
+      "event_ids": [
+        "C4543",
+        "C4544",
+        "C4545",
+        "C4546",
+        "C4656",
+        "C4657",
+        "C4658",
+        "C4659",
+        "C4660",
+        "C4661",
+        "C4662",
+        "C4663",
+        "C4664",
+        "C4665",
+        "C4666",
+        "C4667",
+        "C4668",
+        "C4669",
+        "C4670",
+        "C4671",
+        "C4672",
+        "C4673",
+        "C4675",
+        "C4676",
+        "C4677",
+        "C4678",
+        "C4679",
+        "C4680"
+      ],
+      "cards": 28,
+      "future_dated": 21,
+      "linked_card_count": 28,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://ioai-official.org/editions/singapore-2027/",
       "new": false
     },
     {
@@ -15584,7 +15614,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 162,
+  "interregional_cards": 163,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Тайвань",
@@ -16621,8 +16651,8 @@
       }
     ],
     "counts": {
-      "records": 5066,
-      "holiday": 4695,
+      "records": 5068,
+      "holiday": 4697,
       "regular": 163,
       "self_paced_materials": 4,
       "boarding": 1038,

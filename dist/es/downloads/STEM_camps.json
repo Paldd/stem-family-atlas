@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5066,
-      "holiday": 4695,
+      "records": 5068,
+      "holiday": 4697,
       "regular": 163,
       "self_paced_materials": 4,
       "boarding": 1038,
@@ -33044,7 +33044,7 @@
       "entry": "Un adulto puede enviar enlace, captura o archivo. La muestra del proyecto requiere consentimiento separado.",
       "gear": "Opciones Scratch, IA, Python o micro:bit. Equipo según proyecto elegido.",
       "language": "Idioma web no acredita idioma de defensa / enseñanza; confirmar EN / ES / RU para grupo elegido.",
-      "cost": "Participación gratuita según las bases del organizador.",
+      "cost": "Participación gratuita según las bases de la organización.",
       "level": "D — formación",
       "reward": "Entrega y posible muestra del proyecto. Concurso con premios sujeto a residencia australiana.",
       "priority": "P3 — confirmar condiciones",
@@ -40698,6 +40698,131 @@
       "delivery_mode": "virtual",
       "related_ids": [
         "L783"
+      ]
+    },
+    {
+      "id": "L785",
+      "title": "Alphagen Learning · Future Innovators · Generative AI",
+      "block": "Campamentos",
+      "country": "Singapur",
+      "region": "Asia",
+      "iso": [
+        "SGP"
+      ],
+      "city": "En línea · horario de Singapur",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://alphagenlearning.com/future-innovators-generative-ai-camp-ages-7-to-9",
+      "references": [
+        {
+          "url": "https://alphagenlearning.com/coding-technology-camps",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "De 7 a 9 años.",
+      "mat": "Condicional. Encaja por edad. Confirmar idioma y zona horaria del grupo.",
+      "osc": "No a la edad actual. Se requieren al menos 7 años.",
+      "format": "Temporada 02.11.2026–02.01.2027. Una semana de lunes a viernes, 5 clases de 90 minutos. La organización confirma fecha y hora exactas.",
+      "entry": "Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante.",
+      "gear": "Clases individuales de IA. Historias, minijuegos, dibujos y conversación sobre las respuestas de modelos.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "La página de la temporada muestra una tarifa de SGD 265. Confirmar importe a pagar y condiciones de devolución para la semana elegida.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante.",
+      "note": "Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante.",
+      "themes": [
+        "ai",
+        "coding",
+        "games"
+      ],
+      "scope": "international",
+      "importance_reason": "Etapa regional",
+      "participation": "online_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "camp_window",
+      "date_precision": "announced_month",
+      "announced_months": [
+        "2026-11",
+        "2026-12",
+        "2027-01"
+      ],
+      "delivery_mode": "virtual",
+      "related_ids": [
+        "L786"
+      ]
+    },
+    {
+      "id": "L786",
+      "title": "Alphagen Learning · Creative Coders · Scratch",
+      "block": "Campamentos",
+      "country": "Singapur",
+      "region": "Asia",
+      "iso": [
+        "SGP"
+      ],
+      "city": "En línea · horario de Singapur",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "Anunciado",
+      "checked": "2026-11-08",
+      "source": "https://alphagenlearning.com/creative-coders-scratch-camp-ages-7-to-9/",
+      "references": [
+        {
+          "url": "https://alphagenlearning.com/coding-technology-camps",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "De 7 a 9 años.",
+      "mat": "Condicional. Encaja por edad. Confirmar idioma y zona horaria del grupo.",
+      "osc": "No a la edad actual. Se requieren al menos 7 años.",
+      "format": "Temporada 02.11.2026–02.01.2027. Una semana de lunes a viernes, 5 clases de 90 minutos. La organización confirma fecha y hora exactas.",
+      "entry": "Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante.",
+      "gear": "Clases individuales de Scratch. Juego propio o historia interactiva.",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "La página de la temporada muestra una tarifa de SGD 265. Confirmar importe a pagar y condiciones de devolución para la semana elegida.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante.",
+      "note": "Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante.",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "scope": "international",
+      "importance_reason": "Etapa regional",
+      "participation": "online_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "camp_window",
+      "date_precision": "announced_month",
+      "announced_months": [
+        "2026-11",
+        "2026-12",
+        "2027-01"
+      ],
+      "delivery_mode": "virtual",
+      "related_ids": [
+        "L785"
       ]
     },
     {
@@ -405608,7 +405733,7 @@
       "period": "Se elige uno de dos días, de 09:00–12:00 hora local.",
       "date_status": "Confirmado",
       "deadline": "",
-      "age": "7–9 años.",
+      "age": "De 7 a 9 años.",
       "mat": "Cumple la edad; la admisión se confirma por separado",
       "osc": "No ahora; el futuro nivel de edad",
       "format": "Formato diurno sin alojamiento.",
@@ -405683,7 +405808,7 @@
       "period": "Se elige uno de dos días, de 09:00–12:00 hora local.",
       "date_status": "Confirmado",
       "deadline": "",
-      "age": "7–9 años.",
+      "age": "De 7 a 9 años.",
       "mat": "Cumple la edad; la admisión se confirma por separado",
       "osc": "No ahora; el futuro nivel de edad",
       "format": "Formato diurno sin alojamiento.",
@@ -412057,35 +412182,35 @@
       "period": "Final anunciada4–6 de diciembre2026; el párrafo introductorio PDF aún indica5–7. Confirmar horario individual tras la selección.",
       "date_status": "Fechas finales contradictorias; plazo confirmado",
       "deadline": "2026-11-29",
-      "age": "sitio web: 6–18; de la dirección: under 18. todas las clases escolares; la edad exacta para la fecha de control.",
-      "mat": "Sí por marco de edad; proyecto, clase y admisión por separado",
-      "osc": "condicionalmente: debe cumplir 6 años de edad desde la fecha de control; el día de nacimiento no se ha dado",
-      "format": "Individual / el equipo; PDF 2026 indican 1–5 de los participantes",
-      "entry": "página WAICY 2026 admite directamente a los participantes 6–18 de todo el mundo, individuales o en equipo, incluido el ascenso a distancia. comprobar la forma y el reglamento vigentes del AI la pista; No se han fijado los días finales contradictorios ..",
+      "age": "La página indica de 6 a 18 años y la guía, menores de 18. Individual o en equipo de 1–5. Confirmar la fecha de corte de edad.",
+      "mat": "Condicional. La edad mínima publicada es de 6 años. Confirmar fecha de corte, categoría y reglas del itinerario.",
+      "osc": "Condicional. La edad mínima publicada es de 6 años. Confirmar fecha de corte, categoría y reglas del itinerario.",
+      "format": "AI Showcase. Descripción del problema, explicación del uso de IA y vídeo de 3 minutos de presentación y 3 minutos de demostración.",
+      "entry": "Enviar el proyecto hasta el 29.11.2026 a las 17:00 ET, las 16:00 en Costa Rica y Ciudad de México. Admite envíos remotos desde cualquier país.",
       "gear": "Resolución de un problema real con AI; descripción del proyecto y uso de AI hasta 250 palabras cada; video hasta 6 min: presentación3min + demostración3min. indicar el propio trabajo de los niños.",
-      "language": "EN",
-      "cost": "no se publicó / comprobar la actual edición",
-      "level": "B  concurso de proyectos internacional",
+      "language": "Concurso en inglés. Para AI Showcase se admiten vídeos en inglés o con subtítulos en inglés.",
+      "cost": "El formulario público no indica una cuota actual de envío. El coste de herramientas depende del proyecto.",
+      "level": "Concurso internacional de proyectos de IA para escolares.",
       "reward": "Puesto o premio según los resultados oficiales",
-      "priority": "P1  en línea para ambos",
-      "action": "Preparar proyecto AI propio y materiales EN antes del 29 de noviembre16:00 Costa Rica; comprobar horario final tras la selección del 2 de diciembre.",
+      "priority": "P2 — participación según requisitos",
+      "action": "Enviar el proyecto hasta el 29.11.2026 a las 17:00 ET, las 16:00 en Costa Rica y Ciudad de México. Admite envíos remotos desde cualquier país.",
       "source": "https://www.waicy.org/waicy-2026/",
       "proof": "Verificadas web WAICY renovada y Guidebook-2 de octubre: edad/equipo, plazos por modalidad y calendario final.",
-      "checked": "2026-11-06",
+      "checked": "2026-11-08",
       "status": "Idea",
-      "note": "La guía de octubre corrige Showcase: plazo29.11.2026 17:00 ET. Web, portada, calendario y sección detallada Showcase indican4–6 de diciembre; el párrafo introductorio PDF aún dice5–7. El horario individual depende de la selección; enviar no confirma invitación a la final. Guidebook-2 releído conserva discrepancia 4–6 / 5–7 de diciembre, sin asignar slot final general. Deadline 29 de noviembre 17:00 ET; idioma English y subtítulos English admitidos. Paquete exacto de archivos según track; certificado por envío a tiempo no significa selección ni medalla competitiva.",
+      "note": "La página y la tabla de la guía indican 4–6 de diciembre de 2026. Un párrafo del PDF indica 5–7 de diciembre. Los turnos de finalistas se asignan el 2 de diciembre.",
       "iso": [],
       "themes": [
         "robotics",
         "ai"
       ],
       "scope": "international",
-      "importance_reason": "Clasificación editorial por nombre/formato y fuente.",
+      "importance_reason": "Concurso internacional de proyectos de IA para escolares.",
       "languages": [
         "EN"
       ],
       "participation": "individual_or_team",
-      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse.",
+      "language_certainty": "Concurso en inglés. Para AI Showcase se admiten vídeos en inglés o con subtítulos en inglés.",
       "references": [
         {
           "label": "Rubrics",
@@ -412094,6 +412219,10 @@
         {
           "label": "Guía de octubre2026",
           "url": "https://waicy-cdn.wholeren.cn/wp-content/uploads/2026/10/WAICY-2026-Guidebook-2.pdf"
+        },
+        {
+          "url": "https://www.waicy.org/2026-submission/",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "evidence_level": "rules",
@@ -412102,12 +412231,17 @@
       "related_ids": [
         "C1152",
         "C1153",
-        "C1154"
+        "C1154",
+        "C4682"
       ],
       "deadline_utc": "2026-11-29T22:00:00Z",
       "deadline_note": "29.11.2026 17:00 ET =22:00 UTC =16:00 Costa Rica. El plazo figura en los cuatro apartados de la guía de octubre.",
-      "deadline_label": "Entrega del proyecto",
-      "date_scope": "judging"
+      "deadline_label": "Plazo de envío del proyecto",
+      "date_scope": "submission_stage",
+      "deadline_timezone": "America/New_York",
+      "language_mode": "primary",
+      "delivery_mode": "virtual",
+      "team_max": 5
     },
     {
       "block": "Competiciones",

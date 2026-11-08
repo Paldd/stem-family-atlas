@@ -5963,6 +5963,45 @@ Limitaciones:
 Fuente: https://droneshowla.com/feira/
 Se ha comprobado: 2026-11-08
 
+### C4671 · ONIA Brasil · 3ª edição · Fase 2 · Etapa 2
+
+Fecha: 2026-12-07 — 2026-12-13
+edad: Grados 6–9 de Ensino Fundamental o 1–3 de Ensino Médio para medallas y selección. Categoria Livre se limita a ciertas fases.
+Matvey: No por la etapa escolar actual. Cotejar el requisito escolar en la próxima edición.
+Oscar: No por la etapa escolar actual. Cotejar el requisito escolar en la próxima edición.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Solo participantes que superaron la etapa anterior de la 3.ª ONIA. La olimpiada es gratuita.
+Precio: Participación gratuita según las bases del organizador.
+Limitaciones:
+Fuente: https://www.oniabrasil.com.br/
+Se ha comprobado: 2026-11-08
+
+### C4675 · OIEC · Olimpiada Nacional · Módulo 1 (IA)
+
+Fecha: 2026-11-21 — 2026-12-04
+edad: Consultar en las bases de OIEC los requisitos escolares y el acceso. Los módulos publicados figuran aparte de la delegación internacional.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: El registro de IOAI identifica a OIEC como organización nacional. OIEC publica fechas de módulos de IA en el calendario de la olimpiada nacional.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://oiec-edu.org/
+Se ha comprobado: 2026-11-08
+
+### C4676 · OIEC · Olimpiada Nacional · Módulo 3 (IA)
+
+Fecha: 2027-01-05 — 2027-01-12
+edad: Consultar en las bases de OIEC los requisitos escolares y el acceso. Los módulos publicados figuran aparte de la delegación internacional.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: El registro de IOAI identifica a OIEC como organización nacional. OIEC publica fechas de módulos de IA en el calendario de la olimpiada nacional.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://oiec-edu.org/
+Se ha comprobado: 2026-11-08
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

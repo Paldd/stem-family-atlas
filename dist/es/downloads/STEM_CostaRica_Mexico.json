@@ -24833,6 +24833,124 @@
       "public_days": []
     },
     {
+      "id": "C4673",
+      "title": "OMIA México · IOAI 2027 · National route",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "México",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://comi.mx/omia/muro",
+      "references": [
+        {
+          "url": "https://comi.mx/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://ioai-official.org/about/countries-and-territories/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "OMIA se dirige a secundaria y bachillerato. Cotejar los requisitos escolares de la próxima edición en su convocatoria.",
+      "mat": "No por la etapa escolar actual. Cotejar el requisito escolar en la próxima edición.",
+      "osc": "No por la etapa escolar actual. Cotejar el requisito escolar en la próxima edición.",
+      "format": "COMI figura en el registro de IOAI para México. La ficha de OMIA aún no indica fechas de selección de 2027. Consultar condiciones para alumnado escolarizado fuera del país.",
+      "entry": "COMI figura en el registro de IOAI para México. La ficha de OMIA aún no indica fechas de selección de 2027. Consultar condiciones para alumnado escolarizado fuera del país.",
+      "gear": "",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Selección nacional reconocida para IOAI.",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "COMI figura en el registro de IOAI para México. La ficha de OMIA aún no indica fechas de selección de 2027. Consultar condiciones para alumnado escolarizado fuera del país.",
+      "note": "",
+      "themes": [
+        "ai",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Selección nacional reconocida para IOAI.",
+      "participation": "individual",
+      "admission_kind": "national_selection",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "delivery_mode": "",
+      "related_ids": [
+        "C4674",
+        "C4656"
+      ]
+    },
+    {
+      "id": "C4674",
+      "title": "OMI Chihuahua · Convocatoria 2027 · Publication",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Chihuahua",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://omichh.org/convocatoria/omi",
+      "references": [
+        {
+          "url": "https://comi.mx/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Cotejar edad, grado y sistema de selección en la convocatoria OMI 2027.",
+      "mat": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+      "osc": "Condicional. Cotejar edad, grado y requisitos de acceso.",
+      "format": "El 13 de noviembre de 2026 a las 00:00 figura como la publicación de la convocatoria OMI Chihuahua. La fecha corresponde al anuncio.",
+      "entry": "El 13 de noviembre de 2026 a las 00:00 figura como la publicación de la convocatoria OMI Chihuahua. La fecha corresponde al anuncio.",
+      "gear": "",
+      "language": "Anuncio en español. Confirmar el idioma del concurso en la convocatoria.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Etapa regional",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "El 13 de noviembre de 2026 a las 00:00 figura como la publicación de la convocatoria OMI Chihuahua. La fecha corresponde al anuncio.",
+      "note": "",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "announcement",
+      "related_ids": [
+        "C4673"
+      ]
+    },
+    {
       "id": "CP041-20270329-20270402",
       "block": "Campamentos",
       "title": "Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02",

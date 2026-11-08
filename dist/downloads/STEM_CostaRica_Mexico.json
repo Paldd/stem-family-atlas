@@ -24833,6 +24833,124 @@
       "public_days": []
     },
     {
+      "id": "C4673",
+      "title": "OMIA México · IOAI 2027 · National route",
+      "block": "Соревнования",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "México",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "checked": "2026-11-08",
+      "source": "https://comi.mx/omia/muro",
+      "references": [
+        {
+          "url": "https://comi.mx/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://ioai-official.org/about/countries-and-territories/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "OMIA для средней и старшей школы. Школьные условия следующего выпуска сверить в новой convocatoria.",
+      "mat": "Нет по текущей ступени обучения. Сверить школьное условие в следующем сезоне.",
+      "osc": "Нет по текущей ступени обучения. Сверить школьное условие в следующем сезоне.",
+      "format": "COMI указан в реестре IOAI для Мексики. В карточке OMIA пока нет дат отбора 2027. Уточнить условия для ученика школы за рубежом.",
+      "entry": "COMI указан в реестре IOAI для Мексики. В карточке OMIA пока нет дат отбора 2027. Уточнить условия для ученика школы за рубежом.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Признанный национальный отбор IOAI.",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "COMI указан в реестре IOAI для Мексики. В карточке OMIA пока нет дат отбора 2027. Уточнить условия для ученика школы за рубежом.",
+      "note": "",
+      "themes": [
+        "ai",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Признанный национальный отбор IOAI.",
+      "participation": "individual",
+      "admission_kind": "national_selection",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "delivery_mode": "",
+      "related_ids": [
+        "C4674",
+        "C4656"
+      ]
+    },
+    {
+      "id": "C4674",
+      "title": "OMI Chihuahua · Convocatoria 2027 · Publication",
+      "block": "Соревнования",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Chihuahua",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://omichh.org/convocatoria/omi",
+      "references": [
+        {
+          "url": "https://comi.mx/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Возраст, школьный класс и способ отбора нужно сверить по convocatoria OMI 2027.",
+      "mat": "Условно. Сверить возраст, класс и порядок допуска.",
+      "osc": "Условно. Сверить возраст, класс и порядок допуска.",
+      "format": "13 ноября 2026 в 00:00 опубликовано как время выхода convocatoria OMI Chihuahua. Дата относится к выпуску объявления.",
+      "entry": "13 ноября 2026 в 00:00 опубликовано как время выхода convocatoria OMI Chihuahua. Дата относится к выпуску объявления.",
+      "gear": "",
+      "language": "Объявление на испанском. Язык конкурса уточнить по convocatoria.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Региональный этап",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "13 ноября 2026 в 00:00 опубликовано как время выхода convocatoria OMI Chihuahua. Дата относится к выпуску объявления.",
+      "note": "",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "announcement",
+      "related_ids": [
+        "C4673"
+      ]
+    },
+    {
       "id": "CP041-20270329-20270402",
       "block": "Лагеря",
       "title": "Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02",

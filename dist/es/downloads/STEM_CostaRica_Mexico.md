@@ -5192,6 +5192,32 @@ Limitaciones:
 Fuente: https://planetario.ucr.ac.cr/horarios.html
 Se ha comprobado: 2026-11-08
 
+### C4673 · OMIA México · IOAI 2027 · National route
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: OMIA se dirige a secundaria y bachillerato. Cotejar los requisitos escolares de la próxima edición en su convocatoria.
+Matvey: No por la etapa escolar actual. Cotejar el requisito escolar en la próxima edición.
+Oscar: No por la etapa escolar actual. Cotejar el requisito escolar en la próxima edición.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: COMI figura en el registro de IOAI para México. La ficha de OMIA aún no indica fechas de selección de 2027. Consultar condiciones para alumnado escolarizado fuera del país.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://comi.mx/omia/muro
+Se ha comprobado: 2026-11-08
+
+### C4674 · OMI Chihuahua · Convocatoria 2027 · Publication
+
+Fecha: 2026-11-13 — 2026-11-13
+edad: Cotejar edad, grado y sistema de selección en la convocatoria OMI 2027.
+Matvey: Condicional. Cotejar edad, grado y requisitos de acceso.
+Oscar: Condicional. Cotejar edad, grado y requisitos de acceso.
+Idioma: Anuncio en español. Confirmar el idioma del concurso en la convocatoria.
+Acceso: El 13 de noviembre de 2026 a las 00:00 figura como la publicación de la convocatoria OMI Chihuahua. La fecha corresponde al anuncio.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://omichh.org/convocatoria/omi
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

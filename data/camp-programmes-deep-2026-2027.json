@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1998,
+    "dossiers": 2000,
     "countries": 126,
     "swiss": 137,
     "by_status": {
@@ -38,7 +38,7 @@
       "published_2027": 543,
       "partial_2027": 145,
       "next_unannounced": 403,
-      "published_2026": 385,
+      "published_2026": 387,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2887
+    "source_urls": 2890
   },
   "countries": [
     {
@@ -437,7 +437,7 @@
     },
     {
       "country": "Сингапур",
-      "count": 185
+      "count": 187
     },
     {
       "country": "Соединенные Штаты Америки",
@@ -303457,6 +303457,195 @@
       "related_event_ids": [
         "L784"
       ]
+    },
+    {
+      "id": "CP1999",
+      "slug": "alphagen-winter-ai",
+      "provider": "Alphagen Learning · Future Innovators · Generative AI",
+      "country": "Сингапур",
+      "iso": "SGP",
+      "place": "Онлайн · расписание по Сингапуру",
+      "age": "7–9 лет.",
+      "programme": "Индивидуальные занятия по ИИ. Истории, мини-игры, рисунки и обсуждение ответов моделей.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Сезон 02.11.2026–02.01.2027. Одна неделя с понедельника по пятницу, 5 занятий по 90 минут. Точные даты и время подтверждает оператор.",
+        "sessions": [
+          [
+            "2026-11-02",
+            "2027-01-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "season",
+            "start": "2026-11-02",
+            "end": "2027-01-02",
+            "label": "Future Innovators · Generative AI",
+            "price": "На странице сезона показан тариф SGD 265. Сумму к оплате и условия возврата нужно подтвердить для выбранной недели.",
+            "source": "https://alphagenlearning.com/coding-technology-camps",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "entry": "Опубликованные часы указаны по Сингапуру. Согласовать удобное время, язык и доступ из страны участника."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 265,
+        "currency": "SGD",
+        "unit": "per_child_course",
+        "label": "На странице сезона показан тариф SGD 265. Сумму к оплате и условия возврата нужно подтвердить для выбранной недели.",
+        "included": "Индивидуальные занятия по ИИ. Истории, мини-игры, рисунки и обсуждение ответов моделей.",
+        "extras": "Опубликованные часы указаны по Сингапуру. Согласовать удобное время, язык и доступ из страны участника.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Сезон 02.11.2026–02.01.2027. Одна неделя с понедельника по пятницу, 5 занятий по 90 минут. Точные даты и время подтверждает оператор.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит, подтвердить язык и часовой пояс группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет в текущем возрасте. Требуется минимум 7 лет."
+        }
+      },
+      "editorial_reason": "Сезон 02.11.2026–02.01.2027. Одна неделя с понедельника по пятницу, 5 занятий по 90 минут. Точные даты и время подтверждает оператор.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://alphagenlearning.com/future-innovators-generative-ai-camp-ages-7-to-9",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://alphagenlearning.com/coding-technology-camps",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "coding",
+        "games"
+      ],
+      "programme_type": "online_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": [
+        "L785"
+      ]
+    },
+    {
+      "id": "CP2000",
+      "slug": "alphagen-winter-scratch",
+      "provider": "Alphagen Learning · Creative Coders · Scratch",
+      "country": "Сингапур",
+      "iso": "SGP",
+      "place": "Онлайн · расписание по Сингапуру",
+      "age": "7–9 лет.",
+      "programme": "Индивидуальные занятия по Scratch. Собственная игра или интерактивная история.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Материалы организатора на английском. Язык преподавателя конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Сезон 02.11.2026–02.01.2027. Одна неделя с понедельника по пятницу, 5 занятий по 90 минут. Точные даты и время подтверждает оператор.",
+        "sessions": [
+          [
+            "2026-11-02",
+            "2027-01-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "season",
+            "start": "2026-11-02",
+            "end": "2027-01-02",
+            "label": "Creative Coders · Scratch",
+            "price": "На странице сезона показан тариф SGD 265. Сумму к оплате и условия возврата нужно подтвердить для выбранной недели.",
+            "source": "https://alphagenlearning.com/coding-technology-camps",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+            },
+            "entry": "Опубликованные часы указаны по Сингапуру. Согласовать удобное время, язык и доступ из страны участника."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 265,
+        "currency": "SGD",
+        "unit": "per_child_course",
+        "label": "На странице сезона показан тариф SGD 265. Сумму к оплате и условия возврата нужно подтвердить для выбранной недели.",
+        "included": "Индивидуальные занятия по Scratch. Собственная игра или интерактивная история.",
+        "extras": "Опубликованные часы указаны по Сингапуру. Согласовать удобное время, язык и доступ из страны участника.",
+        "deposit": "Условия возврата и итоговый счёт уточнить до оплаты."
+      },
+      "accommodation": "Сезон 02.11.2026–02.01.2027. Одна неделя с понедельника по пятницу, 5 занятий по 90 минут. Точные даты и время подтверждает оператор.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит, подтвердить язык и часовой пояс группы."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет в текущем возрасте. Требуется минимум 7 лет."
+        }
+      },
+      "editorial_reason": "Сезон 02.11.2026–02.01.2027. Одна неделя с понедельника по пятницу, 5 занятий по 90 минут. Точные даты и время подтверждает оператор.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места.",
+        "Условия возврата и итоговый счёт уточнить до оплаты."
+      ],
+      "sources": [
+        {
+          "url": "https://alphagenlearning.com/creative-coders-scratch-camp-ages-7-to-9/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://alphagenlearning.com/coding-technology-camps",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "online_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": [
+        "L786"
+      ]
     }
   ],
   "gaps": [
@@ -308782,7 +308971,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 283,
+  "version": 284,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -322017,7 +322206,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1998,
+      "total_dossiers": 2000,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

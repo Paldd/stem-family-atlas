@@ -11334,6 +11334,38 @@ Limitaciones: En línea, 6 clases de 45 minutos en 6 días. Acordar el inicio y 
 Fuente: https://www.codingal.com/en-us/kids-teens-coding-camps/winter/
 Se ha comprobado: 2026-11-08
 
+### L785 · Alphagen Learning · Future Innovators · Generative AI
+
+Lugar: Singapur En línea · horario de Singapur
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 7–9 años.
+Matvey: Condicional. Encaja por edad. Confirmar idioma y zona horaria del grupo.
+Oscar: No a la edad actual. Se requieren al menos 7 años.
+Formato: online_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La página de la temporada muestra una tarifa de SGD 265. Confirmar importe a pagar y condiciones de devolución para la semana elegida.
+Acceso: Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante.
+Limitaciones: Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante.
+Fuente: https://alphagenlearning.com/future-innovators-generative-ai-camp-ages-7-to-9
+Se ha comprobado: 2026-11-08
+
+### L786 · Alphagen Learning · Creative Coders · Scratch
+
+Lugar: Singapur En línea · horario de Singapur
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 7–9 años.
+Matvey: Condicional. Encaja por edad. Confirmar idioma y zona horaria del grupo.
+Oscar: No a la edad actual. Se requieren al menos 7 años.
+Formato: online_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La página de la temporada muestra una tarifa de SGD 265. Confirmar importe a pagar y condiciones de devolución para la semana elegida.
+Acceso: Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante.
+Limitaciones: Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante.
+Fuente: https://alphagenlearning.com/creative-coders-scratch-camp-ages-7-to-9/
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -81194,17 +81226,17 @@ Se ha comprobado: 2026-11-06
 
 lugar: en línea / mundo
 Fecha: Final anunciada4–6 de diciembre2026; el párrafo introductorio PDF aún indica5–7. Confirmar horario individual tras la selección.
-Edad: Sitio web: 6*18; dirección: under 18; todas las clases escolares; edad exacta en la fecha de referencia.
-Matway: Sí, por edad; proyecto, clase y admisión por separado
-Óscar: Condicional: 6 años en la fecha de control; no se ha fijado el cumpleaños
+edad: La página indica de 6 a 18 años y la guía, menores de 18. Individual o en equipo de 1–5. Confirmar la fecha de corte de edad.
+Matvey: Condicional. La edad mínima publicada es de 6 años. Confirmar fecha de corte, categoría y reglas del itinerario.
+Oscar: Condicional. La edad mínima publicada es de 6 años. Confirmar fecha de corte, categoría y reglas del itinerario.
 Formato: individual_or_team
-Idioma: EN
-Marca de idioma: no clasificada; soporte: no declarada
-Costo: No publicado / Comprobar la edición actual
-Entrada: La página de WAICY 2026 permite expresamente a los participantes de 6x18 del mundo, individualmente o por equipo, incluida la participación a distancia. Verificar el formato y el reglamento de la pista de AI seleccionada; no se han fijado fechas finales contradictorias.
-Limitaciones: La guía de octubre corrige Showcase: plazo29.11.2026 17:00 ET. Web, portada, calendario y sección detallada Showcase indican4–6 de diciembre; el párrafo introductorio PDF aún dice5–7. El horario individual depende de la selección; enviar no confirma invitación a la final. Guidebook-2 releído conserva discrepancia 4–6 / 5–7 de diciembre, sin asignar slot final general. Deadline 29 de noviembre 17:00 ET; idioma English y subtítulos English admitidos. Paquete exacto de archivos según track; certificado por envío a tiempo no significa selección ni medalla competitiva.
+Idioma: Concurso en inglés. Para AI Showcase se admiten vídeos en inglés o con subtítulos en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: El formulario público no indica una cuota actual de envío. El coste de herramientas depende del proyecto.
+Acceso: Enviar el proyecto hasta el 29.11.2026 a las 17:00 ET, las 16:00 en Costa Rica y Ciudad de México. Admite envíos remotos desde cualquier país.
+Limitaciones: La página y la tabla de la guía indican 4–6 de diciembre de 2026. Un párrafo del PDF indica 5–7 de diciembre. Los turnos de finalistas se asignan el 2 de diciembre.
 Fuente: https://www.waicy.org/waicy-2026/
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### C038 · Codeavour 8.0 — AI & Robotics 2026–27
 

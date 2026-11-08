@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1998,
+    "dossiers": 2000,
     "countries": 126,
     "swiss": 137,
     "by_status": {
@@ -38,7 +38,7 @@
       "published_2027": 543,
       "partial_2027": 145,
       "next_unannounced": 403,
-      "published_2026": 385,
+      "published_2026": 387,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2887
+    "source_urls": 2890
   },
   "countries": [
     {
@@ -437,7 +437,7 @@
     },
     {
       "country": "Singapur",
-      "count": 185
+      "count": 187
     },
     {
       "country": "Estados Unidos",
@@ -343763,7 +343763,7 @@
       "country": "Malasia",
       "iso": "MYS",
       "place": "Penang Math Platform · Gelugor",
-      "age": "7–9 años.",
+      "age": "De 7 a 9 años.",
       "programme": "Los niños dan secuencias de órdenes al robot Matatalab con bloques físicos, sin pantalla.",
       "format": "day",
       "formats": [
@@ -346289,6 +346289,207 @@
       "catalog_participation": "online_camp",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1999",
+      "slug": "alphagen-winter-ai",
+      "provider": "Alphagen Learning · Future Innovators · Generative AI",
+      "country": "Singapur",
+      "iso": "SGP",
+      "place": "En línea · horario de Singapur",
+      "age": "De 7 a 9 años.",
+      "programme": "Clases individuales de IA. Historias, minijuegos, dibujos y conversación sobre las respuestas de modelos.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Temporada 02.11.2026–02.01.2027. Una semana de lunes a viernes, 5 clases de 90 minutos. La organización confirma fecha y hora exactas.",
+        "sessions": [
+          [
+            "2026-11-02",
+            "2027-01-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "season",
+            "start": "2026-11-02",
+            "end": "2027-01-02",
+            "label": "Future Innovators · Generative AI",
+            "price": "La página de la temporada muestra una tarifa de SGD 265. Confirmar importe a pagar y condiciones de devolución para la semana elegida.",
+            "source": "https://alphagenlearning.com/coding-technology-camps",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "entry": "Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 265,
+        "currency": "SGD",
+        "unit": "per_child_course",
+        "label": "La página de la temporada muestra una tarifa de SGD 265. Confirmar importe a pagar y condiciones de devolución para la semana elegida.",
+        "included": "Clases individuales de IA. Historias, minijuegos, dibujos y conversación sobre las respuestas de modelos.",
+        "extras": "Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Temporada 02.11.2026–02.01.2027. Una semana de lunes a viernes, 5 clases de 90 minutos. La organización confirma fecha y hora exactas.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Encaja por edad. Confirmar idioma y zona horaria del grupo."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No a la edad actual. Se requieren al menos 7 años."
+        }
+      },
+      "editorial_reason": "Temporada 02.11.2026–02.01.2027. Una semana de lunes a viernes, 5 clases de 90 minutos. La organización confirma fecha y hora exactas.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://alphagenlearning.com/future-innovators-generative-ai-camp-ages-7-to-9",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://alphagenlearning.com/coding-technology-camps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "coding",
+        "games"
+      ],
+      "programme_type": "online_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-02",
+          "end": "2027-01-02",
+          "kind": "season_window",
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "id": "CP2000",
+      "slug": "alphagen-winter-scratch",
+      "provider": "Alphagen Learning · Creative Coders · Scratch",
+      "country": "Singapur",
+      "iso": "SGP",
+      "place": "En línea · horario de Singapur",
+      "age": "De 7 a 9 años.",
+      "programme": "Clases individuales de Scratch. Juego propio o historia interactiva.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Temporada 02.11.2026–02.01.2027. Una semana de lunes a viernes, 5 clases de 90 minutos. La organización confirma fecha y hora exactas.",
+        "sessions": [
+          [
+            "2026-11-02",
+            "2027-01-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "season",
+            "start": "2026-11-02",
+            "end": "2027-01-02",
+            "label": "Creative Coders · Scratch",
+            "price": "La página de la temporada muestra una tarifa de SGD 265. Confirmar importe a pagar y condiciones de devolución para la semana elegida.",
+            "source": "https://alphagenlearning.com/coding-technology-camps",
+            "date_scope": "camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "entry": "Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 265,
+        "currency": "SGD",
+        "unit": "per_child_course",
+        "label": "La página de la temporada muestra una tarifa de SGD 265. Confirmar importe a pagar y condiciones de devolución para la semana elegida.",
+        "included": "Clases individuales de Scratch. Juego propio o historia interactiva.",
+        "extras": "Las horas publicadas corresponden a Singapur. Acordar un horario conveniente, idioma y acceso desde el país del participante.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Temporada 02.11.2026–02.01.2027. Una semana de lunes a viernes, 5 clases de 90 minutos. La organización confirma fecha y hora exactas.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Encaja por edad. Confirmar idioma y zona horaria del grupo."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No a la edad actual. Se requieren al menos 7 años."
+        }
+      },
+      "editorial_reason": "Temporada 02.11.2026–02.01.2027. Una semana de lunes a viernes, 5 clases de 90 minutos. La organización confirma fecha y hora exactas.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://alphagenlearning.com/creative-coders-scratch-camp-ages-7-to-9/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://alphagenlearning.com/coding-technology-camps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "online_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-02",
+          "end": "2027-01-02",
+          "kind": "season_window",
+          "event_ids": []
+        }
+      ]
     }
   ],
   "gaps": [
@@ -351614,7 +351815,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 283,
+  "version": 284,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -364849,7 +365050,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1998,
+      "total_dossiers": 2000,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -392141,7 +392342,7 @@
   "integration": {
     "generated_sessions": 4282,
     "reused_legacy_events": 74,
-    "seasonal_windows": 76,
+    "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."
   }
 }
