@@ -1,0 +1,114 @@
+{
+  "captures": [
+    {
+      "key": "fll-faq",
+      "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "final_url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 70282,
+      "sha256": "2e27d9cb1fb16d490d7dad86553feef36bb7030e1049a1d1cdfebf30ce43504f",
+      "file": "fll-faq.html"
+    },
+    {
+      "key": "fll-root",
+      "url": "https://www.firstlegoleagues.mx/",
+      "final_url": "https://www.firstlegoleagues.mx/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 52698,
+      "sha256": "870ea26dee88ab3ce5d7faa4c2582e62180f0ff0569352aa0c51b1fed5ffeae0",
+      "file": "fll-root.html"
+    },
+    {
+      "key": "manos",
+      "url": "https://icti.michoacan.gob.mx/abierta-convocatoria-para-feria-estatal-infantil-manos-a-la-ciencia/",
+      "final_url": "https://icti.michoacan.gob.mx/abierta-convocatoria-para-feria-estatal-infantil-manos-a-la-ciencia/",
+      "retrieval": "public_web_readback",
+      "cli_status": 403,
+      "sha256": "9d97d7d864fb9eced720c767f79cd13d870e4dc8c451b19210cf3f172852c09c",
+      "bytes": 2538,
+      "file": "manos.txt"
+    },
+    {
+      "key": "unoi",
+      "url": "https://feriamakerunoi.com/",
+      "final_url": "https://feriamakerunoi.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 24065,
+      "sha256": "b32e734c6335dec2a1f581dfa547006a0fe61675dcadbe895179ca1231bfee36",
+      "file": "unoi.html"
+    },
+    {
+      "key": "andina-cartagena",
+      "url": "https://cartagena.andinalink.com/",
+      "final_url": "https://cartagena.andinalink.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 87604,
+      "sha256": "387569f4c1c31227284e5fc2a60c93a8eb5fc3253d26200c8fa54cea7c0acbfa",
+      "file": "andina-cartagena.html"
+    },
+    {
+      "key": "andina-register",
+      "url": "https://cartagena.andinalink.com/registro-andina-2027/",
+      "final_url": "https://cartagena.andinalink.com/registro-andina-2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 76180,
+      "sha256": "0066d43eb9f0b3d6b84306ac7687023cdc70dfbe77f06efc8419efeee8b1cebf",
+      "file": "andina-register.html"
+    },
+    {
+      "key": "barca-cr",
+      "url": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+      "final_url": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 211696,
+      "sha256": "9ca6279151f6285c66f3f8d39c962a5b6534a4c91fc905ecbcd8382b7e2dd652",
+      "file": "barca-cr.html"
+    },
+    {
+      "key": "costa-fll",
+      "url": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/",
+      "final_url": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 151150,
+      "sha256": "50a4d0aafc08ef67dcd638cb34ecbe1552fda4769f2575a869730fdb3724c156",
+      "file": "costa-fll.html"
+    },
+    {
+      "key": "robojam-mex",
+      "url": "https://www.robojam.live/mexico",
+      "final_url": "https://www.robojam.live/mexico",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 483123,
+      "sha256": "759c270e4bf75deba2b669bcca7732609d428be880659322109b7317f0bd739c",
+      "file": "robojam-mex.html"
+    },
+    {
+      "key": "robojam-events",
+      "url": "https://www.robojam.live/events",
+      "final_url": "https://www.robojam.live/events",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 529681,
+      "sha256": "752c5a967a19a76093689f29ceef2732f5acee0b9f71123f413bee0d9d064d18",
+      "file": "robojam-events.html"
+    },
+    {
+      "key": "tmr",
+      "url": "https://femexrobotica.org/tmr2027/",
+      "final_url": "https://femexrobotica.org/tmr2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 71148,
+      "sha256": "5654b665c9c9eea4848a8e21a800f2ed8a79fd0c50e9928e7b4b1cf75905260c",
+      "file": "tmr.html"
+    }
+  ]
+}

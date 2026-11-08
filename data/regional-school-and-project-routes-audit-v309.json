@@ -1,0 +1,61 @@
+{
+  "version": 309,
+  "checked": "2026-11-08",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C4822",
+    "C4823",
+    "C4824",
+    "C4825",
+    "C4826",
+    "C4827",
+    "C4828",
+    "C4829",
+    "L884",
+    "E686",
+    "CP2122-20270111-20270115-morning"
+  ],
+  "refreshed_event_ids": [
+    "C1127",
+    "C1128",
+    "C1129",
+    "C1130",
+    "E295"
+  ],
+  "legacy_overlay_event_ids": [
+    "C1127",
+    "C1128",
+    "C1129",
+    "C1130",
+    "E295"
+  ],
+  "source_requests": 11,
+  "fll_mx_cycles": [
+    "C4822",
+    "C4823",
+    "C4824"
+  ],
+  "fll_mx_future": "C4825",
+  "manos_route": [
+    "C4826",
+    "C4827",
+    "C4828",
+    "C4829"
+  ],
+  "unoi_project": "L884",
+  "unoi_visit": "E295",
+  "andina": "E686",
+  "barca_dossier": "CP2122",
+  "barca_session": "CP2122-20270111-20270115-morning",
+  "checked_unchanged": [
+    "C003",
+    "C1295",
+    "C1296",
+    "C043",
+    "C1171"
+  ],
+  "unresolved_date_conflicts": [
+    "C1171"
+  ]
+}

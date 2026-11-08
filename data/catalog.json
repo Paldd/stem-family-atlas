@@ -111533,7 +111533,7 @@
       "region": "Северная Америка",
       "city": "Площадку и конкретный день назначает Fundación RobotiX",
       "source": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
-      "checked": "2026-11-04",
+      "checked": "2026-11-08",
       "start": "",
       "end": "",
       "deadline": "",
@@ -111580,6 +111580,11 @@
       "date_scope": "season_route",
       "iso": [
         "MEX"
+      ],
+      "related_ids": [
+        "C4822",
+        "C4823",
+        "C4824"
       ]
     },
     {
@@ -111590,7 +111595,7 @@
       "region": "Северная Америка",
       "city": "Площадку и конкретный день назначает Fundación RobotiX",
       "source": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
-      "checked": "2026-11-04",
+      "checked": "2026-11-08",
       "start": "",
       "end": "",
       "deadline": "",
@@ -111637,6 +111642,11 @@
       "date_scope": "season_route",
       "iso": [
         "MEX"
+      ],
+      "related_ids": [
+        "C4822",
+        "C4823",
+        "C4824"
       ]
     },
     {
@@ -111647,7 +111657,7 @@
       "region": "Северная Америка",
       "city": "Площадку и конкретный день назначает Fundación RobotiX",
       "source": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
-      "checked": "2026-11-04",
+      "checked": "2026-11-08",
       "start": "",
       "end": "",
       "deadline": "",
@@ -111696,7 +111706,10 @@
         "MEX"
       ],
       "team_min": 4,
-      "team_max": 4
+      "team_max": 4,
+      "related_ids": [
+        "C4825"
+      ]
     },
     {
       "id": "C1130",
@@ -111706,7 +111719,7 @@
       "region": "Северная Америка",
       "city": "Площадку и конкретный день назначает Fundación RobotiX",
       "source": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
-      "checked": "2026-11-04",
+      "checked": "2026-11-08",
       "start": "",
       "end": "",
       "deadline": "",
@@ -111753,6 +111766,9 @@
       "date_scope": "season_route",
       "iso": [
         "MEX"
+      ],
+      "related_ids": [
+        "C4825"
       ]
     },
     {
@@ -360460,6 +360476,602 @@
       "related_ids": [
         "E685"
       ]
+    },
+    {
+      "id": "C4822",
+      "title": "FIRST LEGO League México · BIOGLOW · Founders · Ciclo 1 Invierno",
+      "block": "Соревнования",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Мексика · площадку назначает Fundación RobotiX",
+      "start": "",
+      "end": "",
+      "period": "Декабрь 2026 – февраль 2027.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "references": [
+        {
+          "url": "https://www.firstlegoleagues.mx/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Founders Explore 6–10 лет, Challenge 9–16 лет. Правило отсечки уточнить у оператора.",
+      "mat": "Условно. Возраст подходит для Explore. Нужны команда и подтверждение назначения площадки.",
+      "osc": "Условно. Возраст подходит для Explore. Нужны команда и подтверждение назначения площадки.",
+      "format": "Маршрут команды в сезонном цикле.",
+      "entry": "Команды частных и государственных школ и робототехнических клубов. Заявку оформляет наставник или учреждение.",
+      "gear": "",
+      "language": "Инструкции оператора опубликованы на испанском. Язык судейства выбранной площадки уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Инструкции оператора опубликованы на испанском. Язык судейства выбранной площадки уточнить.",
+      "cost": "Годовой взнос команды, оборудование и поездка считаются отдельно. Точный счёт уточнить у оператора.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Выбрать категорию, подтвердить доступ команды из Коста-Рики и запросить назначение площадки.",
+      "note": "Площадку назначает Fundación RobotiX по штату, категории и дате регистрации. Цикл указан по месяцам.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Региональный этап",
+      "participation": "programme_milestone",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "season_route",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "related_ids": [
+        "C1127",
+        "C4823",
+        "C4824",
+        "C1128"
+      ]
+    },
+    {
+      "id": "C4823",
+      "title": "FIRST LEGO League México · BIOGLOW · Founders · Ciclo 2 Primavera",
+      "block": "Соревнования",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Мексика · площадку назначает Fundación RobotiX",
+      "start": "",
+      "end": "",
+      "period": "Февраль – апрель 2027.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "references": [
+        {
+          "url": "https://www.firstlegoleagues.mx/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Founders Explore 6–10 лет, Challenge 9–16 лет. Правило отсечки уточнить у оператора.",
+      "mat": "Условно. Нужна школа из государственной сети.",
+      "osc": "Условно. Нужна школа из государственной сети.",
+      "format": "Маршрут команды в сезонном цикле.",
+      "entry": "Только команды школ, участвующих через государственные сети.",
+      "gear": "",
+      "language": "Инструкции оператора опубликованы на испанском. Язык судейства выбранной площадки уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Инструкции оператора опубликованы на испанском. Язык судейства выбранной площадки уточнить.",
+      "cost": "Годовой взнос команды, оборудование и поездка считаются отдельно. Точный счёт уточнить у оператора.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Выбрать категорию, подтвердить доступ команды из Коста-Рики и запросить назначение площадки.",
+      "note": "Площадку назначает Fundación RobotiX по штату, категории и дате регистрации. Цикл указан по месяцам.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Региональный этап",
+      "participation": "programme_milestone",
+      "admission_kind": "school",
+      "evidence_level": "rules",
+      "date_scope": "season_route",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "related_ids": [
+        "C1127",
+        "C4822",
+        "C4824",
+        "C1128"
+      ]
+    },
+    {
+      "id": "C4824",
+      "title": "FIRST LEGO League México · BIOGLOW · Founders · Ciclo 3 Verano",
+      "block": "Соревнования",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Мексика · площадку назначает Fundación RobotiX",
+      "start": "",
+      "end": "",
+      "period": "Июнь 2027.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "references": [
+        {
+          "url": "https://www.firstlegoleagues.mx/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Founders Explore 6–10 лет, Challenge 9–16 лет. Правило отсечки уточнить у оператора.",
+      "mat": "Условно. Возраст подходит для Explore. Нужны команда и подтверждение назначения площадки.",
+      "osc": "Условно. Возраст подходит для Explore. Нужны команда и подтверждение назначения площадки.",
+      "format": "Маршрут команды в сезонном цикле.",
+      "entry": "Для команд, которые не смогли участвовать в предыдущих циклах. Организатор назначает событие.",
+      "gear": "",
+      "language": "Инструкции оператора опубликованы на испанском. Язык судейства выбранной площадки уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Инструкции оператора опубликованы на испанском. Язык судейства выбранной площадки уточнить.",
+      "cost": "Годовой взнос команды, оборудование и поездка считаются отдельно. Точный счёт уточнить у оператора.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Выбрать категорию, подтвердить доступ команды из Коста-Рики и запросить назначение площадки.",
+      "note": "Площадку назначает Fundación RobotiX по штату, категории и дате регистрации. Цикл указан по месяцам.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Региональный этап",
+      "participation": "programme_milestone",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "season_route",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "related_ids": [
+        "C1127",
+        "C4822",
+        "C4823",
+        "C1128"
+      ]
+    },
+    {
+      "id": "C4825",
+      "title": "FIRST LEGO League México · BIOGLOW · Future Edition · Evento Nacional",
+      "block": "Соревнования",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Мексика · площадку назначает Fundación RobotiX",
+      "start": "",
+      "end": "",
+      "period": "Сезон 2026/27. День и площадку национального события организатор ещё не назначил.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "references": [
+        {
+          "url": "https://www.firstlegoleagues.mx/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Primaria baja 6–9 лет, Primaria alta и secundaria 9–16 лет. В 9 лет проверить класс и отсечку.",
+      "mat": "Условно. Категория зависит от класса и возраста на отсечку.",
+      "osc": "Условно. Проверить младшую категорию, команду из 4 участников и допуск.",
+      "format": "Маршрут команды в сезонном цикле.",
+      "entry": "В сезоне 2026/27 команды Future идут напрямую на национальное событие. Нужна регистрация команды.",
+      "gear": "Отдельный комплект LEGO Education Tecnología e IA. Для младшей категории нужен вариант 5+.",
+      "language": "Инструкции оператора опубликованы на испанском. Язык судейства выбранной площадки уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Инструкции оператора опубликованы на испанском. Язык судейства выбранной площадки уточнить.",
+      "cost": "Годовой взнос команды, оборудование и поездка считаются отдельно. Точный счёт уточнить у оператора.",
+      "level": "Национальный этап",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Выбрать категорию, подтвердить доступ команды из Коста-Рики и запросить назначение площадки.",
+      "note": "Прямой вход действует для этой редакции Future. Формат младшего события и международные квоты уточняются.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Региональный этап",
+      "participation": "programme_milestone",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "season_route",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "related_ids": [
+        "C1129",
+        "C1130"
+      ]
+    },
+    {
+      "id": "C4826",
+      "title": "Manos a la Ciencia 2026/27 · Etapa escolar",
+      "block": "Соревнования",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Мичоакан · площадка по назначению школы или сектора",
+      "start": "",
+      "end": "",
+      "period": "Декабрь 2026 и январь 2027. День назначает школа.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-08",
+      "source": "https://icti.michoacan.gob.mx/abierta-convocatoria-para-feria-estatal-infantil-manos-a-la-ciencia/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "5–6 классы начальной школы, 1–3 классы secundaria и эквивалентные классы специального образования.",
+      "mat": "Условно. Для начальной школы нужен 5 или 6 класс и допуск через школу штата Мичоакан.",
+      "osc": "Нет для младших классов. Начальная категория открывается с 5 класса.",
+      "format": "Школьный исследовательский проект с защитой.",
+      "entry": "Маршрут через школу, затем зону или сектор и отбор в штате. Размер команды и школьные процедуры уточнить.",
+      "gear": "Исследование на 15–20 страниц с фотографиями и научным плакатом. Защита до 12 минут и вопросы.",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Региональный этап",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "",
+      "themes": [
+        "technology",
+        "engineering",
+        "general"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "team",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page",
+      "date_scope": "season_route",
+      "delivery_mode": "in_person",
+      "date_precision": "",
+      "related_ids": [
+        "C4827",
+        "C4828",
+        "C4829"
+      ]
+    },
+    {
+      "id": "C4827",
+      "title": "Manos a la Ciencia 2026/27 · Zona / sector",
+      "block": "Соревнования",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Мичоакан · площадка по назначению школы или сектора",
+      "start": "2027-02-02",
+      "end": "2027-03-12",
+      "period": "2 февраля – 12 марта 2027. Точный день зависит от зоны.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://icti.michoacan.gob.mx/abierta-convocatoria-para-feria-estatal-infantil-manos-a-la-ciencia/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "5–6 классы начальной школы, 1–3 классы secundaria и эквивалентные классы специального образования.",
+      "mat": "Условно. Для начальной школы нужен 5 или 6 класс и допуск через школу штата Мичоакан.",
+      "osc": "Нет для младших классов. Начальная категория открывается с 5 класса.",
+      "format": "Школьный исследовательский проект с защитой.",
+      "entry": "Маршрут через школу, затем зону или сектор и отбор в штате. Размер команды и школьные процедуры уточнить.",
+      "gear": "Исследование на 15–20 страниц с фотографиями и научным плакатом. Защита до 12 минут и вопросы.",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Региональный этап",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "",
+      "themes": [
+        "technology",
+        "engineering",
+        "general"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "team",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page",
+      "date_scope": "qualifier_window",
+      "delivery_mode": "in_person",
+      "date_precision": "published_session",
+      "related_ids": [
+        "C4826",
+        "C4828",
+        "C4829"
+      ]
+    },
+    {
+      "id": "C4828",
+      "title": "Manos a la Ciencia 2026/27 · Etapa estatal por servicios",
+      "block": "Соревнования",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Мичоакан · площадка по назначению школы или сектора",
+      "start": "2027-04-15",
+      "end": "2027-04-19",
+      "period": "15–19 апреля 2027. Срок передачи работ на этап штата — 8 апреля.",
+      "deadline": "2027-04-08",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://icti.michoacan.gob.mx/abierta-convocatoria-para-feria-estatal-infantil-manos-a-la-ciencia/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "5–6 классы начальной школы, 1–3 классы secundaria и эквивалентные классы специального образования.",
+      "mat": "Условно. Для начальной школы нужен 5 или 6 класс и допуск через школу штата Мичоакан.",
+      "osc": "Нет для младших классов. Начальная категория открывается с 5 класса.",
+      "format": "Школьный исследовательский проект с защитой.",
+      "entry": "Маршрут через школу, затем зону или сектор и отбор в штате. Размер команды и школьные процедуры уточнить.",
+      "gear": "Исследование на 15–20 страниц с фотографиями и научным плакатом. Защита до 12 минут и вопросы.",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Региональный этап",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "",
+      "themes": [
+        "technology",
+        "engineering",
+        "general"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "team",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page",
+      "date_scope": "qualifier_window",
+      "delivery_mode": "in_person",
+      "date_precision": "published_session",
+      "deadline_label": "Передача работ на этап штата",
+      "related_ids": [
+        "C4826",
+        "C4827",
+        "C4829"
+      ]
+    },
+    {
+      "id": "C4829",
+      "title": "Manos a la Ciencia 2026/27 · Final interservicios",
+      "block": "Соревнования",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ceconexpo · Morelia",
+      "start": "2027-06-04",
+      "end": "2027-06-04",
+      "period": "4 июня 2027 — финал штата в Морелии.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://icti.michoacan.gob.mx/abierta-convocatoria-para-feria-estatal-infantil-manos-a-la-ciencia/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "5–6 классы начальной школы, 1–3 классы secundaria и эквивалентные классы специального образования.",
+      "mat": "Условно. Для начальной школы нужен 5 или 6 класс и допуск через школу штата Мичоакан.",
+      "osc": "Нет для младших классов. Начальная категория открывается с 5 класса.",
+      "format": "Школьный исследовательский проект с защитой.",
+      "entry": "Маршрут через школу, затем зону или сектор и отбор в штате. Размер команды и школьные процедуры уточнить.",
+      "gear": "Исследование на 15–20 страниц с фотографиями и научным плакатом. Защита до 12 минут и вопросы.",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Региональный этап",
+      "reward": "По итогам отбора объявлены денежные премии за 1–5 места каждого класса.",
+      "priority": "P3 — условия подтвердить",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "",
+      "themes": [
+        "technology",
+        "engineering",
+        "general"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "team",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page",
+      "date_scope": "championship_window",
+      "delivery_mode": "in_person",
+      "date_precision": "published_session",
+      "related_ids": [
+        "C4826",
+        "C4827",
+        "C4828"
+      ]
+    },
+    {
+      "id": "L884",
+      "title": "Feria Maker UNOi 2027 · postulación de proyecto",
+      "block": "Лагеря",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad de México",
+      "start": "",
+      "end": "",
+      "period": "15 января 2027, 23:59 по времени Мехико. Школа подаёт проект после внутреннего отбора.",
+      "deadline": "2027-01-15",
+      "date_status": "Не объявлено",
+      "checked": "2026-11-08",
+      "source": "https://feriamakerunoi.com/",
+      "references": [],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "4–6 классы primaria или secundaria школы сети UNOi México.",
+      "mat": "Условно. Проверить текущий класс и наличие места в команде школы UNOi.",
+      "osc": "Нет для младших классов. Требуется 4 класс или выше.",
+      "format": "Школьный отбор для демонстрации проекта на выставке. Организатор проводит ярмарку без конкурсного зачёта.",
+      "entry": "До 4 учеников, 1 педагог и 1 Maker Xpert от школы сети UNOi México. Выбранным школам сообщат решение 12 февраля.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Техническая учебная программа",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "До 4 учеников, 1 педагог и 1 Maker Xpert от школы сети UNOi México. Выбранным школам сообщат решение 12 февраля.",
+      "note": "Школа подаёт проект после внутреннего отбора. Для посещения выставки действует отдельная регистрация.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology",
+        "general"
+      ],
+      "scope": "national",
+      "importance_reason": "Региональный этап",
+      "participation": "team",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page",
+      "date_scope": "submission_window",
+      "deadline_label": "Подача проекта школой",
+      "deadline_utc": "2027-01-16T05:59:00Z",
+      "team_max": 4,
+      "delivery_mode": "hybrid",
+      "related_ids": [
+        "E295"
+      ]
+    },
+    {
+      "id": "E686",
+      "title": "Andina Link Smart Cities Expo 2027",
+      "block": "События",
+      "country": "Колумбия",
+      "region": "Южная Америка",
+      "iso": [
+        "COL"
+      ],
+      "city": "Centro de Convenciones Hotel Las Américas · Cartagena",
+      "start": "2027-03-08",
+      "end": "2027-03-11",
+      "period": "8–11 марта 2027. Дни выставки и часы отдельных залов уточнить.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-08",
+      "source": "https://cartagena.andinalink.com/",
+      "references": [
+        {
+          "url": "https://cartagena.andinalink.com/registro-andina-2027/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "mat": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "osc": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "format": "Профессиональная выставка. Предзаявка проходит проверку, вход подтверждает организатор.",
+      "entry": "Профессиональная выставка. Предзаявка проходит проверку, вход подтверждает организатор.",
+      "gear": "",
+      "language": "Язык судейства или преподавателя уточнить отдельно.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык судейства или преподавателя уточнить отдельно.",
+      "cost": "Полная стоимость и наличие мест ещё не подтверждены.",
+      "level": "Региональный этап",
+      "reward": "",
+      "priority": "P3 — условия подтвердить",
+      "action": "Перед записью сверить допуск, язык и наличие места.",
+      "note": "",
+      "themes": [
+        "ai",
+        "technology",
+        "engineering"
+      ],
+      "scope": "international",
+      "importance_reason": "Региональный этап",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "date_scope": "exhibition_window",
+      "adult_entry": "Профессиональная выставка. Предзаявка проходит проверку, вход подтверждает организатор.",
+      "child_entry": "Условия входа несовершеннолетних не опубликованы на проверенной странице.",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Условия входа несовершеннолетних не опубликованы на проверенной странице.",
+      "exhibition_tier": "profile",
+      "exhibitor_note": "Сверить состав экспонентов и время посещения залов ближе к выставке.",
+      "exhibitor_directory_url": "",
+      "highlights": [
+        "ИИ, IoT, связь, кибербезопасность и умные города."
+      ],
+      "date_precision": "published_session",
+      "delivery_mode": "in_person"
     },
     {
       "id": "CP001-20270606-20270619",
@@ -756575,6 +757187,80 @@
       "date_rule": "Две смены летом 2027. Каждая по 15 учебных дней. 5 июля входит в первую смену."
     },
     {
+      "id": "CP2122-20270111-20270115-morning",
+      "block": "Лагеря",
+      "title": "Barça Academy Camp Costa Rica · Утренняя группа 6–11 лет · 2027-01-11–2027-01-15",
+      "country": "Коста-Рика",
+      "region": "Центральная Америка",
+      "city": "Blue Valley School · San José",
+      "start": "2027-01-11",
+      "end": "2027-01-15",
+      "period": "11–15 января 2027. Группа 6–11 лет, 08:00–10:00 ежедневно.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "6–11 лет в утренней группе. Точную дату расчёта возраста уточнить.",
+      "mat": "Да по возрасту; зачисление отдельно",
+      "osc": "Да по возрасту; зачисление отдельно",
+      "format": "Утренний дневной формат без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Спортивная программа по футболу с тренерами FC Barcelona. Возрастные группы тренируются в разные часы.",
+      "language": "Страница программы на испанском. Язык общения тренеров с детьми уточнить.",
+      "cost": "2027 · Тариф январской группы в проверенном расписании не указан. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Уточнить цену, язык тренеров, доступность места и правила возврата.",
+      "source": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+      "references": [
+        {
+          "url": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Да по возрасту. Подтвердить место и условия допуска. Оскар: Да по возрасту. Подтвердить место и условия допуска. Доплаты: Дорога до школы и дополнительные расходы уточняются отдельно. Оплата: Уточнить цену, язык тренеров, доступность места и правила возврата.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "sports",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Страница программы на испанском. Язык общения тренеров с детьми уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "barca-academy-costa-rica-january",
+      "camp_programme_id": "CP2122",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Страница приглашает к регистрации. Место в группе уточнить."
+      }
+    },
+    {
       "id": "TC2027-SHOWCASE",
       "block": "События",
       "title": "The Tech Challenge 2027 · Game On! · показ инженерных проектов",
@@ -789694,7 +790380,7 @@
       "city": "Tecnológico de Monterrey · Campus Ciudad de México",
       "start": "2027-04-24",
       "end": "2027-04-24",
-      "deadline": "2027-01-15",
+      "deadline": "",
       "period": "Показ и мастерские с 10:00 до 18:00.",
       "date_status": "Подтверждено",
       "age": "Доступ для сообщества UNOi: учащиеся, семьи и сотрудники школ сети. Посетители регистрируются заранее.",
@@ -789715,9 +790401,9 @@
       "source": "https://feriamakerunoi.com/",
       "references": [],
       "proof": "Даты и площадка опубликованы организатором. Допуск детей и билет проверяются отдельно.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Идея",
-      "note": "Выставка проектов, мастерские и доклады. Участие школы в отборе отдельно от посещения.",
+      "note": "Выставка проектов, мастерские и доклады для сообщества UNOi. Подача проекта школой вынесена в отдельную карточку.",
       "themes": [
         "makers",
         "engineering",
@@ -789737,9 +790423,12 @@
       "exhibitors": [],
       "exhibitor_note": "Список экспонентов этого выпуска сверять по каталогу организатора.",
       "exhibitor_directory_url": "https://feriamakerunoi.com/",
-      "deadline_utc": "2027-01-16T05:59:00Z",
-      "deadline_label": "Дедлайн подачи проекта школой",
-      "deadline_note": "15 января в 23:59 по времени Мехико. Это срок подачи проекта."
+      "deadline_utc": "",
+      "deadline_label": "",
+      "deadline_note": "",
+      "related_ids": [
+        "L884"
+      ]
     },
     {
       "id": "E296",
@@ -800113,7 +800802,7 @@
       "checked": "2026-09-29"
     }
   ],
-  "source_count": 9532,
+  "source_count": 9535,
   "sources": [
     {
       "url": "https://www.torneoluva.com",
@@ -800129,7 +800818,8 @@
     {
       "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
       "title": "FIRST BIOGLOW — Future Edition",
-      "evidence": "Официальная страница прочитана; дата следующего этапа не найдена"
+      "evidence": "Официальная страница прочитана; дата следующего этапа не найдена",
+      "checked": "2026-11-08"
     },
     {
       "url": "https://wro-association.org/about-wro/member-countries/",
@@ -811739,7 +812429,7 @@
     {
       "url": "https://www.firstlegoleagues.mx/",
       "title": "Семейный México / Costa Rica источник",
-      "checked": "2026-10-02",
+      "checked": "2026-11-08",
       "evidence": "Прочитано доступное primary programme / rules; существенные ограничения и неизвестные условия выделены."
     },
     {
@@ -836969,7 +837659,7 @@
     {
       "url": "https://feriamakerunoi.com/",
       "title": "Официальная страница организатора",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "evidence": "Страница организатора, местного оператора или календарь сезона. Условия и пробелы в карточке."
     },
     {
@@ -838301,7 +838991,7 @@
     {
       "url": "https://barcaacademycampscostarica.com/camps-costa-rica/",
       "title": "Официальная страница организатора",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "evidence": "Условия сверены по первичным источникам. Неподтверждённые детали отмечены отдельно."
     },
     {
@@ -857203,6 +857893,24 @@
       "title": "Страница организатора или регламент категории.",
       "checked": "2026-11-08",
       "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://icti.michoacan.gob.mx/abierta-convocatoria-para-feria-estatal-infantil-manos-a-la-ciencia/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://cartagena.andinalink.com/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
+    },
+    {
+      "url": "https://cartagena.andinalink.com/registro-andina-2027/",
+      "title": "Страница организатора или регламент категории.",
+      "checked": "2026-11-08",
+      "evidence": "Сверено с официальной страницей и опубликованными условиями."
     }
   ],
   "wro_members": 108,
@@ -859644,8 +860352,8 @@
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 30,
       "exhibitions": 16,
-      "camps": 89,
-      "dated": 100,
+      "camps": 90,
+      "dated": 101,
       "organizer": "Aprender Haciendo Costa Rica S.A.",
       "organizer_url": "https://www.facebook.com/wrocostarica",
       "network_routes": 4,
@@ -859698,10 +860406,10 @@
       "country": "Мексика",
       "region": "Северная Америка",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 288,
+      "competitions": 296,
       "exhibitions": 65,
-      "camps": 112,
-      "dated": 377,
+      "camps": 113,
+      "dated": 380,
       "organizer": "WRO Mexico / FUNDESTEAM México",
       "organizer_url": "https://wromexico.org/",
       "network_routes": 4,
@@ -859811,9 +860519,9 @@
       "region": "Южная Америка",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 53,
-      "exhibitions": 5,
+      "exhibitions": 6,
       "camps": 18,
-      "dated": 60,
+      "dated": 61,
       "organizer": "Fundación Conecta +",
       "organizer_url": "https://wrocolombia.org/",
       "network_routes": 4,
@@ -892548,12 +893256,12 @@
       "fully_audited_countries": 0
     },
     "counts": {
-      "cards": 10848,
-      "competition_cards": 4820,
-      "event_cards": 685,
-      "camp_cards": 5343,
+      "cards": 10859,
+      "competition_cards": 4828,
+      "event_cards": 686,
+      "camp_cards": 5345,
       "league_profiles": 309,
-      "major_exhibition_cards": 586,
+      "major_exhibition_cards": 587,
       "vex_cards": 815,
       "countries_with_records": 242,
       "fully_audited_countries": 0
@@ -892566,12 +893274,12 @@
           "Центральная Америка",
           "Карибский регион"
         ],
-        "total": 3541,
+        "total": 3551,
         "countries_with_records": 41,
-        "competitions": 1967,
+        "competitions": 1975,
         "events": 194,
         "major_exhibitions": 153,
-        "camps": 1380,
+        "camps": 1382,
         "status": "Частично исследовано",
         "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
       },
@@ -892580,11 +893288,11 @@
         "regions": [
           "Южная Америка"
         ],
-        "total": 740,
+        "total": 741,
         "countries_with_records": 15,
         "competitions": 452,
-        "events": 55,
-        "major_exhibitions": 51,
+        "events": 56,
+        "major_exhibitions": 52,
         "camps": 233,
         "status": "Частично исследовано",
         "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
@@ -907896,6 +908604,17 @@
         "new": false
       },
       {
+        "id": "E686",
+        "name": "Andina Link Smart Cities Expo 2027",
+        "country": "Колумбия",
+        "region": "Южная Америка",
+        "start": "2027-03-08",
+        "end": "2027-03-11",
+        "visitor_policy": "confirm_children",
+        "source": "https://cartagena.andinalink.com/",
+        "new": false
+      },
+      {
         "id": "E240",
         "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
         "country": "Польша",
@@ -910313,8 +911032,8 @@
         }
       ],
       "counts": {
-        "records": 5343,
-        "holiday": 4834,
+        "records": 5345,
+        "holiday": 4835,
         "regular": 201,
         "self_paced_materials": 4,
         "boarding": 1039,
@@ -913132,8 +913851,8 @@
       }
     ],
     "counts": {
-      "records": 5343,
-      "holiday": 4834,
+      "records": 5345,
+      "holiday": 4835,
       "regular": 201,
       "self_paced_materials": 4,
       "boarding": 1039,
@@ -938569,12 +939288,12 @@
       "school_grades_known": false
     },
     "counts": {
-      "dossiers": 2121,
+      "dossiers": 2122,
       "countries": 136,
       "swiss": 137,
       "by_status": {
         "published_2026_27": 290,
-        "published_2027": 569,
+        "published_2027": 570,
         "partial_2027": 152,
         "next_unannounced": 440,
         "published_2026": 426,
@@ -938820,7 +939539,7 @@
       },
       {
         "country": "Коста-Рика",
-        "count": 61
+        "count": 62
       },
       {
         "country": "Кувейт",
@@ -1309421,6 +1310140,110 @@
             "EN"
           ]
         }
+      },
+      {
+        "id": "CP2122",
+        "slug": "barca-academy-costa-rica-january",
+        "provider": "Barça Academy Camp Costa Rica",
+        "country": "Коста-Рика",
+        "iso": "CRI",
+        "place": "Blue Valley School · San José",
+        "age": "6–11 лет в утренней группе. Точную дату расчёта возраста уточнить.",
+        "programme": "Спортивная программа по футболу с тренерами FC Barcelona. Возрастные группы тренируются в разные часы.",
+        "format": "day",
+        "formats": [
+          "day"
+        ],
+        "language": "Страница программы на испанском. Язык общения тренеров с детьми уточнить.",
+        "confirmed_instruction_languages": [],
+        "language_evidence_role": "materials_only",
+        "materials_languages": [
+          "ES"
+        ],
+        "timing": {
+          "status": "published_2027",
+          "label": "11–15 января 2027. Группа 6–11 лет, 08:00–10:00 ежедневно.",
+          "sessions": [
+            [
+              "2027-01-11",
+              "2027-01-15"
+            ]
+          ],
+          "session_details": [
+            {
+              "variant_key": "morning",
+              "start": "2027-01-11",
+              "end": "2027-01-15",
+              "label": "Утренняя группа 6–11 лет",
+              "source": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+              "price": "Тариф январской группы в проверенном расписании не указан.",
+              "date_scope": "day_camp_window",
+              "delivery_mode": "in_person",
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Страница приглашает к регистрации. Место в группе уточнить."
+              }
+            }
+          ],
+          "variant_keyed": true,
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2027,
+          "amount": null,
+          "currency": "",
+          "unit": "",
+          "label": "Тариф январской группы в проверенном расписании не указан.",
+          "included": "Тренировки, приветственный комплект, 2 формы и диплом.",
+          "extras": "Дорога до школы и дополнительные расходы уточняются отдельно.",
+          "deposit": "Уточнить цену, язык тренеров, доступность места и правила возврата."
+        },
+        "accommodation": "Утренний дневной формат без проживания.",
+        "family_fit": {
+          "matvey": {
+            "status": "candidate",
+            "detail": "Да по возрасту. Подтвердить место и условия допуска."
+          },
+          "oscar": {
+            "status": "candidate",
+            "detail": "Да по возрасту. Подтвердить место и условия допуска."
+          }
+        },
+        "editorial_reason": "11–15 января 2027. Группа 6–11 лет, 08:00–10:00 ежедневно.",
+        "shortlist": [],
+        "questions": [
+          "Уточнить цену, язык тренеров, доступность места и правила возврата."
+        ],
+        "sources": [
+          {
+            "url": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+            "title": "Страница организатора или регламент категории.",
+            "checked": "2026-11-08"
+          }
+        ],
+        "checked": "2026-11-08",
+        "themes": [
+          "sports",
+          "general"
+        ],
+        "programme_type": "day_camp",
+        "catalog_participation": "day_camp",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP2122-20270111-20270115-morning"
+            ]
+          }
+        ],
+        "language_roles": {
+          "materials": [
+            "ES"
+          ]
+        }
       }
     ],
     "gaps": [
@@ -1314746,7 +1315569,7 @@
       "Младшие группы и языковое доказательство для всех приоритетных операторов.",
       "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
     ],
-    "version": 308,
+    "version": 309,
     "family_review": {
       "version": 150,
       "asof": "2026-11-05",
@@ -1327981,7 +1328804,7 @@
         }
       ],
       "coverage": {
-        "total_dossiers": 2121,
+        "total_dossiers": 2122,
         "reviewed": 71,
         "refresh_pending": 4,
         "review_dossiers": 75,
@@ -1351716,6 +1352539,11 @@
         "relation": "catalogue_session"
       },
       {
+        "programme_id": "CP2122",
+        "event_id": "CP2122-20270111-20270115-morning",
+        "relation": "catalogue_session"
+      },
+      {
         "programme_id": "CP1294",
         "event_id": "L464",
         "relation": "existing_programme"
@@ -1356586,10 +1357414,11 @@
       "CP2118-20270111-20270211-anatomy",
       "CP2119-20270329-20270429-empire",
       "CP2121-20270621-20270709-session-one",
-      "CP2121-20270712-20270730-session-two"
+      "CP2121-20270712-20270730-session-two",
+      "CP2122-20270111-20270115-morning"
     ],
     "integration": {
-      "generated_sessions": 4460,
+      "generated_sessions": 4461,
       "reused_legacy_events": 74,
       "seasonal_windows": 78,
       "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

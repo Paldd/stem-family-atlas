@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10848; competiciones: 4820; eventos: 685; campamentos / programas: 5343. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 586 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10859; competiciones: 4828; eventos: 686; campamentos / programas: 5345. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 587 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,8 +14,8 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 1967 | 153 | 1380 |
-| América del Sur | 15 | 452 | 51 | 233 |
+| América del Norte | 41 | 1975 | 153 | 1382 |
+| América del Sur | 15 | 452 | 52 | 233 |
 | Europa | 55 | 637 | 148 | 1540 |
 | África | 60 | 247 | 40 | 130 |
 | Asia | 50 | 1183 | 160 | 1709 |
@@ -23,7 +23,7 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 Fichas interregionales o globales sin un solo continente asignado: 189. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base y la cobertura sigue siendo parcial.
 
-VEX: 815 de 4820 fichas de competiciones (16.9%). La cobertura se concentra en este circuito.
+VEX: 815 de 4828 fichas de competiciones (16.9%). La cobertura se concentra en este circuito.
 
 ## Lo que queda
 
@@ -963,6 +963,7 @@ VEX: 815 de 4820 fichas de competiciones (16.9%). La cobertura se concentra en e
 - **Science is Wonderful! 2027 · MSCA** — Bélgica; 2027-03-17 – 2027-03-19. el permiso de entrada de niños. https://marie-sklodowska-curie-actions.ec.europa.eu/whats-new/news/science-is-wonderful-2027-call
 - **British Science Week 2027** — Reino Unido; 2027-03-05 – 2027-03-14. el permiso de entrada de niños. https://www.britishscienceweek.org/
 - **National STEM Festival US 2027 · public programme watch** — Estados Unidos; 2027-10-19 – 2027-10-24. el permiso de entrada de niños. https://www.nationalstemfestival.com/attend
+- **Andina Link Smart Cities Expo 2027** — Colombia; 2027-03-08 – 2027-03-11. el permiso de entrada de niños. https://cartagena.andinalink.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

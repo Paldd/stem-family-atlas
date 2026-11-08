@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 308,
+    "version": 309,
     "status": "implementation_snapshot",
-    "events": 10848,
-    "competitions": 4820,
+    "events": 10859,
+    "competitions": 4828,
     "league_profiles": 309,
-    "camp_dossiers": 2121,
+    "camp_dossiers": 2122,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 685,
+    "exhibitions_events": 686,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 307,
+    "version": 308,
     "status": "implementation_snapshot",
-    "events": 10833,
-    "competitions": 4818,
+    "events": 10848,
+    "competitions": 4820,
     "league_profiles": 309,
-    "camp_dossiers": 2120,
+    "camp_dossiers": 2121,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 674,
+    "exhibitions_events": 685,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 308,
+    "prepared_ui_version": 309,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 307,
-    "previous_verified_commit": "122bd0fbd695439a369cafccec0bbce03ad6698c"
+    "previous_verified_ui_version": 308,
+    "previous_verified_commit": "944d103a33629e9948ff26aef6cc56ba6e632a1f"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 307,
-    "published_version": 307,
-    "latest_source_commit": "122bd0fbd695439a369cafccec0bbce03ad6698c",
-    "published_commit": "122bd0fbd695439a369cafccec0bbce03ad6698c",
-    "latest_workflow": 42533552011,
+    "latest_source_version": 308,
+    "published_version": 308,
+    "latest_source_commit": "944d103a33629e9948ff26aef6cc56ba6e632a1f",
+    "published_commit": "944d103a33629e9948ff26aef6cc56ba6e632a1f",
+    "latest_workflow": 42535644283,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -31723,5 +31723,66 @@
       "prague_ticket_price": "E277",
       "us_public_dates": "E685"
     }
+  },
+  "regional_school_and_project_routes_v309": {
+    "version": 309,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C4822",
+      "C4823",
+      "C4824",
+      "C4825",
+      "C4826",
+      "C4827",
+      "C4828",
+      "C4829",
+      "L884",
+      "E686",
+      "CP2122-20270111-20270115-morning"
+    ],
+    "refreshed_event_ids": [
+      "C1127",
+      "C1128",
+      "C1129",
+      "C1130",
+      "E295"
+    ],
+    "legacy_overlay_event_ids": [
+      "C1127",
+      "C1128",
+      "C1129",
+      "C1130",
+      "E295"
+    ],
+    "source_requests": 11,
+    "fll_mx_cycles": [
+      "C4822",
+      "C4823",
+      "C4824"
+    ],
+    "fll_mx_future": "C4825",
+    "manos_route": [
+      "C4826",
+      "C4827",
+      "C4828",
+      "C4829"
+    ],
+    "unoi_project": "L884",
+    "unoi_visit": "E295",
+    "andina": "E686",
+    "barca_dossier": "CP2122",
+    "barca_session": "CP2122-20270111-20270115-morning",
+    "checked_unchanged": [
+      "C003",
+      "C1295",
+      "C1296",
+      "C043",
+      "C1171"
+    ],
+    "unresolved_date_conflicts": [
+      "C1171"
+    ]
   }
 }

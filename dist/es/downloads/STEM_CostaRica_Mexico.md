@@ -1277,7 +1277,7 @@ Acceso: Equipo formal mediante mentor o institución. Se admiten equipos indepen
 Precio: Cuota anual por categoría. El equipo de LEGO Education, el transporte y el alojamiento se pagan aparte. No se indica el importe público de la cuota.
 Limitaciones: 2026/27 BIOGLOW: Invierno Diciembre 2026–Febrero 2027; Febrero–Abril 2027 para las redes estatales; verano 2027. El organizador designa un área de estado, Categoría y fecha de inscripción. Son ciclos., No son los días del torneo.. Solicitud sólo por orden formal coach / de la institución; Equipo independiente y padre-Mentor permitido en el programa, pero en particular en el extranjero / Autorización nacional para confirmar. Feria de demostración: Medalla de participante y diploma de equipo; Las órdenes seleccionadas pueden seguir adelante. La medalla general no significa que sea el primer puesto competitivo. SPIKE / EV3 Founders y nuevo AI-Equipo Future no intercambiables. Transición mundial después de la crisis 2026/27 y los nuevos cupos nacionales se examinan por separado.
 Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C1128 · FIRST LEGO League México · Founders Challenge · BIOGLOW 2026/27
 
@@ -1290,7 +1290,7 @@ Acceso: Equipo formal mediante mentor o institución. Se admiten equipos indepen
 Precio: Cuota anual por categoría. El equipo de LEGO Education, el transporte y el alojamiento se pagan aparte. No se indica el importe público de la cuota.
 Limitaciones: 2026/27 BIOGLOW: Invierno Diciembre 2026–Febrero 2027; Febrero–Abril 2027 para las redes estatales; verano 2027. El organizador designa un área de estado, Categoría y fecha de inscripción. Son ciclos., No son los días del torneo.. Solicitud sólo por orden formal coach / de la institución; Equipo independiente y padre-Mentor permitido en el programa, pero en particular en el extranjero / Autorización nacional para confirmar. Premios Robot Game / Robot Design / Innovation / Core Values y campeón general; Selección del ciclo de asignación. SPIKE / EV3 Founders y nuevo AI-Equipo Future no intercambiables. Transición mundial después de la crisis 2026/27 y los nuevos cupos nacionales se examinan por separado.
 Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C1129 · FIRST LEGO League México · Future · Primaria baja · BIOGLOW 2026/27
 
@@ -1303,7 +1303,7 @@ Acceso: Equipo formal mediante mentor o institución. Se admiten equipos indepen
 Precio: Cuota anual por categoría. El equipo de LEGO Education, el transporte y el alojamiento se pagan aparte. No se indica el importe público de la cuota.
 Limitaciones: 2026/27 BIOGLOW: invierno diciembre 2026 a febrero 2027; primavera de febrero a abril 2027 para las redes estatales; verano de junio 2027. El organizador designa un área de estado, categoría y fecha de inscripción: ciclos, no días de torneo. La solicitud sólo es un equipo formal a través de coach/institución; el equipo independiente y el tutor parental son admisibles en el programa, pero el permiso nacional/escuelas extranjeras son confirmados. En 2026/27 es un evento nacional directo, sin promesa de selección mundial. El formato del evento más reciente es por confirmar. SPIKE / EV3 Founders y el nuevo equipo de I-Future no son intercambiables. La transición global después de 2026/27 y los nuevos contingentes nacionales se verifican por separado.
 Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C1130 · FIRST LEGO League México · Future · Primaria alta / secundaria · BIOGLOW 2026/27
 
@@ -1316,7 +1316,7 @@ Acceso: Equipo formal mediante mentor o institución. Se admiten equipos indepen
 Precio: Cuota anual por categoría. El equipo de LEGO Education, el transporte y el alojamiento se pagan aparte. No se indica el importe público de la cuota.
 Limitaciones: 2026/27 BIOGLOW: Invierno Diciembre 2026–Febrero 2027; Febrero–Abril 2027 para las redes estatales; verano 2027. El organizador designa un área de estado, Categoría y fecha de inscripción. Son ciclos., No son los días del torneo.. Solicitud sólo por orden formal coach / de la institución; Equipo independiente y padre-Mentor permitido en el programa, pero en particular en el extranjero / Autorización nacional para confirmar. B 2026/27 directamente en un acontecimiento nacional. Proyecto, Entrevistas de ingeniería y misiones conjuntas 3–5 rondas; cuota adicional por separado. SPIKE / EV3 Founders y nuevo AI-Equipo Future no intercambiables. Transición mundial después de la crisis 2026/27 y los nuevos cupos nacionales se examinan por separado.
 Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C1131 · Feria Maker · Concurso Ajolote 3D · 2026
 
@@ -5634,6 +5634,123 @@ Limitaciones:
 Fuente: https://roboticaexpo.com/mexico
 Se ha comprobado: 2026-11-08
 
+### C4822 · FIRST LEGO League México · BIOGLOW · Founders · Ciclo 1 Invierno
+
+Fecha: Diciembre de 2026 – febrero de 2027.
+edad: Founders Explore de 6–10 años y Challenge de 9–16 años. Confirmar la fecha de corte con la organización.
+Matvey: Condicional. La edad encaja en Explore. Se requiere equipo y confirmación de sede.
+Oscar: Condicional. La edad encaja en Explore. Se requiere equipo y confirmación de sede.
+Idioma: Las instrucciones se publican en español. Confirmar el idioma del jurado de la sede elegida.
+Acceso: Equipos de escuelas privadas, públicas y clubes de robótica. Inscribe una persona mentora o la institución.
+Precio: La cuota anual del equipo, el equipo técnico y el viaje se calculan por separado. Confirmar el importe con la organización.
+Limitaciones: Fundación RobotiX asigna la sede por estado, categoría y fecha de inscripción. El ciclo se publica por meses.
+Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
+Se ha comprobado: 2026-11-08
+
+### C4823 · FIRST LEGO League México · BIOGLOW · Founders · Ciclo 2 Primavera
+
+Fecha: Febrero – abril de 2027.
+edad: Founders Explore de 6–10 años y Challenge de 9–16 años. Confirmar la fecha de corte con la organización.
+Matvey: Condicional. Se requiere escuela de la red gubernamental.
+Oscar: Condicional. Se requiere escuela de la red gubernamental.
+Idioma: Las instrucciones se publican en español. Confirmar el idioma del jurado de la sede elegida.
+Acceso: Solo equipos de escuelas que participan mediante redes gubernamentales.
+Precio: La cuota anual del equipo, el equipo técnico y el viaje se calculan por separado. Confirmar el importe con la organización.
+Limitaciones: Fundación RobotiX asigna la sede por estado, categoría y fecha de inscripción. El ciclo se publica por meses.
+Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
+Se ha comprobado: 2026-11-08
+
+### C4824 · FIRST LEGO League México · BIOGLOW · Founders · Ciclo 3 Verano
+
+Fecha: Junio de 2027.
+edad: Founders Explore de 6–10 años y Challenge de 9–16 años. Confirmar la fecha de corte con la organización.
+Matvey: Condicional. La edad encaja en Explore. Se requiere equipo y confirmación de sede.
+Oscar: Condicional. La edad encaja en Explore. Se requiere equipo y confirmación de sede.
+Idioma: Las instrucciones se publican en español. Confirmar el idioma del jurado de la sede elegida.
+Acceso: Para equipos que no pudieron participar en ciclos anteriores. La organización asigna el evento.
+Precio: La cuota anual del equipo, el equipo técnico y el viaje se calculan por separado. Confirmar el importe con la organización.
+Limitaciones: Fundación RobotiX asigna la sede por estado, categoría y fecha de inscripción. El ciclo se publica por meses.
+Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
+Se ha comprobado: 2026-11-08
+
+### C4825 · FIRST LEGO League México · BIOGLOW · Future Edition · Evento Nacional
+
+Fecha: Temporada 2026/27. La organización aún no ha asignado día ni sede al evento nacional.
+edad: Primaria baja de 6–9 años, primaria alta y secundaria de 9–16 años. A los 9, confirmar curso y fecha de corte.
+Matvey: Condicional. La categoría depende del curso y la edad en la fecha de corte.
+Oscar: Condicional. Confirmar categoría inicial, equipo de 4 integrantes y admisión.
+Idioma: Las instrucciones se publican en español. Confirmar el idioma del jurado de la sede elegida.
+Acceso: En la temporada 2026/27 los equipos Future van directamente al evento nacional. Se requiere inscripción del equipo.
+Precio: La cuota anual del equipo, el equipo técnico y el viaje se calculan por separado. Confirmar el importe con la organización.
+Limitaciones: El acceso directo aplica a esta edición Future. Quedan pendientes el formato infantil y los cupos internacionales.
+Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
+Se ha comprobado: 2026-11-08
+
+### C4826 · Manos a la Ciencia 2026/27 · Etapa escolar
+
+Fecha: Diciembre de 2026 y enero de 2027. La escuela asigna el día.
+edad: 5.º–6.º de primaria, 1.º–3.º de secundaria y cursos equivalentes de educación especial.
+Matvey: Condicional. En primaria se exige 5.º o 6.º y acceso a través de una escuela de Michoacán.
+Oscar: No para los cursos iniciales. La categoría de primaria empieza en 5.º.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Ruta por escuela, luego zona o sector y selección estatal. Confirmar composición del equipo y trámites escolares.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://icti.michoacan.gob.mx/abierta-convocatoria-para-feria-estatal-infantil-manos-a-la-ciencia/
+Se ha comprobado: 2026-11-08
+
+### C4827 · Manos a la Ciencia 2026/27 · Zona / sector
+
+Fecha: 2027-02-02 — 2027-03-12
+edad: 5.º–6.º de primaria, 1.º–3.º de secundaria y cursos equivalentes de educación especial.
+Matvey: Condicional. En primaria se exige 5.º o 6.º y acceso a través de una escuela de Michoacán.
+Oscar: No para los cursos iniciales. La categoría de primaria empieza en 5.º.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Ruta por escuela, luego zona o sector y selección estatal. Confirmar composición del equipo y trámites escolares.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://icti.michoacan.gob.mx/abierta-convocatoria-para-feria-estatal-infantil-manos-a-la-ciencia/
+Se ha comprobado: 2026-11-08
+
+### C4828 · Manos a la Ciencia 2026/27 · Etapa estatal por servicios
+
+Fecha: 2027-04-15 — 2027-04-19
+edad: 5.º–6.º de primaria, 1.º–3.º de secundaria y cursos equivalentes de educación especial.
+Matvey: Condicional. En primaria se exige 5.º o 6.º y acceso a través de una escuela de Michoacán.
+Oscar: No para los cursos iniciales. La categoría de primaria empieza en 5.º.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Ruta por escuela, luego zona o sector y selección estatal. Confirmar composición del equipo y trámites escolares.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://icti.michoacan.gob.mx/abierta-convocatoria-para-feria-estatal-infantil-manos-a-la-ciencia/
+Se ha comprobado: 2026-11-08
+
+### C4829 · Manos a la Ciencia 2026/27 · Final interservicios
+
+Fecha: 2027-06-04 — 2027-06-04
+edad: 5.º–6.º de primaria, 1.º–3.º de secundaria y cursos equivalentes de educación especial.
+Matvey: Condicional. En primaria se exige 5.º o 6.º y acceso a través de una escuela de Michoacán.
+Oscar: No para los cursos iniciales. La categoría de primaria empieza en 5.º.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Ruta por escuela, luego zona o sector y selección estatal. Confirmar composición del equipo y trámites escolares.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://icti.michoacan.gob.mx/abierta-convocatoria-para-feria-estatal-infantil-manos-a-la-ciencia/
+Se ha comprobado: 2026-11-08
+
+### L884 · Feria Maker UNOi 2027 · postulación de proyecto
+
+Fecha: 15 de enero de 2027, 23:59 en Ciudad de México. La escuela presenta el proyecto tras la selección interna.
+edad: 4.º–6.º de primaria o secundaria de un colegio UNOi México.
+Matvey: Condicional. Confirmar el curso actual y una plaza en el equipo de un colegio UNOi.
+Oscar: No para los cursos iniciales. Se exige 4.º curso o superior.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Hasta 4 estudiantes, 1 docente y 1 Maker Xpert de un colegio UNOi México. Se comunica la decisión a centros seleccionados el 12 de febrero.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: El colegio presenta el proyecto tras la selección interna. La visita a la feria tiene su propio registro.
+Fuente: https://feriamakerunoi.com/
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -7441,6 +7558,19 @@ Limitaciones: Matvey: La edad de Matvey encaja. La organización revisa la solic
 Fuente: https://www.worldwiselearningadventures.org/upcoming-adventures-folder/anatomy-adventurers
 Se ha comprobado: 2026-11-08
 
+### CP2122-20270111-20270115-morning · Barça Academy Camp Costa Rica · Grupo de mañana de 6–11 años · 2027-01-11–2027-01-15
+
+Fecha: 2027-01-11 — 2027-01-15
+edad: 6–11 años en el grupo de la mañana. Confirmar la fecha exacta de referencia para la edad.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: La página del programa está en español. Confirmar el idioma de comunicación con entrenadores.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · El horario consultado no indica la tarifa del grupo de enero. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de admisión. Oscar: Sí por edad. Confirmar plaza y condiciones de admisión. Suplementos: Confirmar por separado el traslado al colegio y los gastos adicionales. Pago: Confirmar precio, idioma de entrenadores, plazas y política de devolución.
+Fuente: https://barcaacademycampscostarica.com/camps-costa-rica/
+Se ha comprobado: 2026-11-08
+
 ### C1155 · XVIII Campeonato Nacional de Robótica y STEM · VEX IQ Middle
 
 Fecha: 2027-03-03 — 2027-03-05
@@ -7788,9 +7918,9 @@ Oscar: Acceso para la comunidad UNOi: estudiantes, familias y personal de colegi
 Idioma: Confirmar idioma del taller o demostración concretos.
 Acceso: Acceso para la comunidad UNOi: estudiantes, familias y personal de colegios afiliados. Visitantes con registro previo.
 Precio: Tarifa de esta edición aún sin confirmar.
-Limitaciones: Exposición de proyectos, talleres y charlas. Selección del colegio separada de la visita.
+Limitaciones: Exposición de proyectos, talleres y charlas para la comunidad UNOi. La solicitud escolar de proyectos figura en una ficha separada.
 Fuente: https://feriamakerunoi.com/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### E296 · AUTOMATECH Expo 2027
 

@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2121 fichas en 136 países. Cada ficha indica la fecha de comprobación de sus fuentes.
+Estado de la base: 2026-11-08. 2122 fichas en 136 países. Cada ficha indica la fecha de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -167593,6 +167593,54 @@ Estados Unidos · 2341 Michigan Ave · Santa Monica, California
 - [Página de la organización o reglamento de la categoría.](https://www.campasimov.com/faq) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://www.campasimov.com/program) · 2026-11-08
+
+## CP2122 · Barça Academy Camp Costa Rica
+
+Costa Rica · Blue Valley School · San José
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–11 años en el grupo de la mañana. Confirmar la fecha exacta de referencia para la edad.
+
+**Idioma:** La página del programa está en español. Confirmar el idioma de comunicación con entrenadores.
+
+**Programa:** Programa deportivo de fútbol con entrenadores del FC Barcelona. Los grupos de edad entrenan en horarios distintos.
+
+**Alojamiento:** Formato diurno de mañana sin alojamiento.
+
+**Fechas / estado:** 11–15 de enero de 2027. Grupo de 6–11 años, de 08:00 a 10:00 cada día.
+
+**Precio / año:** 2027 · El horario consultado no indica la tarifa del grupo de enero.
+
+**Incluido:** Entrenamientos, kit de bienvenida, 2 uniformes y diploma.
+
+**Suplementos:** Confirmar por separado el traslado al colegio y los gastos adicionales.
+
+**Pago:** Confirmar precio, idioma de entrenadores, plazas y política de devolución.
+
+**Matvey:** Sí por edad. Confirmar plaza y condiciones de admisión.
+
+**Oscar:** Sí por edad. Confirmar plaza y condiciones de admisión.
+
+**Motivo de selección:** 11–15 de enero de 2027. Grupo de 6–11 años, de 08:00 a 10:00 cada día.
+
+### Antes de solicitar plaza
+
+- Confirmar precio, idioma de entrenadores, plazas y política de devolución.
+
+### Grupo de mañana de 6–11 años
+
+**Fechas / estado:** 2027-01-11 — 2027-01-15
+
+**Precio:** El horario consultado no indica la tarifa del grupo de enero.
+
+**Disponibilidad de plazas:** La página invita a inscribirse. Confirmar la plaza en el grupo.
+
+[fuente](https://barcaacademycampscostarica.com/camps-costa-rica/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://barcaacademycampscostarica.com/camps-costa-rica/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

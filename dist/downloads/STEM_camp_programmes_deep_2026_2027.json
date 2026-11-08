@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2121,
+    "dossiers": 2122,
     "countries": 136,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 290,
-      "published_2027": 569,
+      "published_2027": 570,
       "partial_2027": 152,
       "next_unannounced": 440,
       "published_2026": 426,
@@ -281,7 +281,7 @@
     },
     {
       "country": "Коста-Рика",
-      "count": 61
+      "count": 62
     },
     {
       "country": "Кувейт",
@@ -370882,6 +370882,110 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2122",
+      "slug": "barca-academy-costa-rica-january",
+      "provider": "Barça Academy Camp Costa Rica",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Blue Valley School · San José",
+      "age": "6–11 лет в утренней группе. Точную дату расчёта возраста уточнить.",
+      "programme": "Спортивная программа по футболу с тренерами FC Barcelona. Возрастные группы тренируются в разные часы.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Страница программы на испанском. Язык общения тренеров с детьми уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "11–15 января 2027. Группа 6–11 лет, 08:00–10:00 ежедневно.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "morning",
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Утренняя группа 6–11 лет",
+            "source": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+            "price": "Тариф январской группы в проверенном расписании не указан.",
+            "date_scope": "day_camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Страница приглашает к регистрации. Место в группе уточнить."
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Тариф январской группы в проверенном расписании не указан.",
+        "included": "Тренировки, приветственный комплект, 2 формы и диплом.",
+        "extras": "Дорога до школы и дополнительные расходы уточняются отдельно.",
+        "deposit": "Уточнить цену, язык тренеров, доступность места и правила возврата."
+      },
+      "accommodation": "Утренний дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить место и условия допуска."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по возрасту. Подтвердить место и условия допуска."
+        }
+      },
+      "editorial_reason": "11–15 января 2027. Группа 6–11 лет, 08:00–10:00 ежедневно.",
+      "shortlist": [],
+      "questions": [
+        "Уточнить цену, язык тренеров, доступность места и правила возврата."
+      ],
+      "sources": [
+        {
+          "url": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "sports",
+        "general"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2122-20270111-20270115-morning"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -376207,7 +376311,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 308,
+  "version": 309,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -389442,7 +389546,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2121,
+      "total_dossiers": 2122,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -413177,6 +413281,11 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2122",
+      "event_id": "CP2122-20270111-20270115-morning",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -418047,10 +418156,11 @@
     "CP2118-20270111-20270211-anatomy",
     "CP2119-20270329-20270429-empire",
     "CP2121-20270621-20270709-session-one",
-    "CP2121-20270712-20270730-session-two"
+    "CP2121-20270712-20270730-session-two",
+    "CP2122-20270111-20270115-morning"
   ],
   "integration": {
-    "generated_sessions": 4460,
+    "generated_sessions": 4461,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

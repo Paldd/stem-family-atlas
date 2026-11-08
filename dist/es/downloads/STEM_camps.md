@@ -12918,6 +12918,22 @@ Limitaciones: La fecha de la sesión preparatoria está publicada. Confirmar hor
 Fuente: https://www.gycsi.org/activities
 Se ha comprobado: 2026-11-08
 
+### L884 · Feria Maker UNOi 2027 · postulación de proyecto
+
+lugar: México · Ciudad de México
+Fecha: 15 de enero de 2027, 23:59 en Ciudad de México. La escuela presenta el proyecto tras la selección interna.
+edad: 4.º–6.º de primaria o secundaria de un colegio UNOi México.
+Matvey: Condicional. Confirmar el curso actual y una plaza en el equipo de un colegio UNOi.
+Oscar: No para los cursos iniciales. Se exige 4.º curso o superior.
+Formato: team
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Hasta 4 estudiantes, 1 docente y 1 Maker Xpert de un colegio UNOi México. Se comunica la decisión a centros seleccionados el 12 de febrero.
+Limitaciones: El colegio presenta el proyecto tras la selección interna. La visita a la feria tiene su propio registro.
+Fuente: https://feriamakerunoi.com/
+Se ha comprobado: 2026-11-08
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -84276,6 +84292,22 @@ Precio: 2027 · 3600 USD por 15 días lectivos. · suplementos y condiciones en 
 Acceso: Solicitudes abiertas. El campamento revisa cada solicitud antes del depósito. Cada turno requiere una inscripción mínima.
 Limitaciones: Matvey: En 2027 cumple 10 años. Confirmar si ya tiene 10 en la fecha de corte del turno elegido. Oscar: En 2027 tiene menos de 10 años. Suplementos: Llevar almuerzo de lunes a jueves. Alojamiento y viaje aparte. Pago: El depósito de 1200 USD tras la aceptación se descuenta del precio. Saldo de 2400 USD.
 Fuente: https://www.campasimov.com/faq
+Se ha comprobado: 2026-11-08
+
+### CP2122-20270111-20270115-morning · Barça Academy Camp Costa Rica · Grupo de mañana de 6–11 años · 2027-01-11–2027-01-15
+
+Lugar: Costa Rica Blue Valley School · San José
+Fecha: 2027-01-11 — 2027-01-15
+edad: 6–11 años en el grupo de la mañana. Confirmar la fecha exacta de referencia para la edad.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: La página del programa está en español. Confirmar el idioma de comunicación con entrenadores.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · El horario consultado no indica la tarifa del grupo de enero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar plaza y condiciones de admisión. Oscar: Sí por edad. Confirmar plaza y condiciones de admisión. Suplementos: Confirmar por separado el traslado al colegio y los gastos adicionales. Pago: Confirmar precio, idioma de entrenadores, plazas y política de devolución.
+Fuente: https://barcaacademycampscostarica.com/camps-costa-rica/
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

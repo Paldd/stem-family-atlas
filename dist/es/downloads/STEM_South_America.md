@@ -6418,6 +6418,19 @@ Limitaciones:
 Fuente: https://www.expogamechile.cl/
 Se ha comprobado: 2026-11-08
 
+### E686 · Andina Link Smart Cities Expo 2027
+
+Fecha: 2027-03-08 — 2027-03-11
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Feria profesional. La solicitud previa se valida y la organización confirma el acceso.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones:
+Fuente: https://cartagena.andinalink.com/
+Se ha comprobado: 2026-11-08
+
 ### CP047-20270103-20270108 · Camp Mákemáke · Classic Summer Camp · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

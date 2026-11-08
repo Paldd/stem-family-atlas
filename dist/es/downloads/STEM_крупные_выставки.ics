@@ -8966,6 +8966,24 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:stem-exhibition-E686@family-stem.local
+DTSTAMP:20261108T234618Z
+SUMMARY:[Exposición · confirmar admisión de menores] Andina Link Smart
+  Cities Expo 2027
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270312
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. La página 
+ comprobada no indica las condiciones de acceso de menores. Entrada de ad
+ ultos: Feria profesional. La solicitud previa se valida y la organizaci
+ ón confirma el acceso..  Empresas: Confirmar expositores y horario de l
+ as salas cerca de la feria.. Fuente verificada el 2026-11-08.
+LOCATION:Centro de Convenciones Hotel Las Américas · Cartagena\, Colomb
+ ia
+URL:https://cartagena.andinalink.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:stem-exhibition-E240@family-stem.local
 DTSTAMP:20261106T034330Z
 SUMMARY:[Exposición · confirmar admisión de menores] Robotics Warsaw 2
@@ -9182,7 +9200,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E295@family-stem.local
-DTSTAMP:20261107T085929Z
+DTSTAMP:20261108T234618Z
 SUMMARY:[Exposición · confirmar admisión de menores] Feria Maker UNOi 
  2027
 DTSTART;VALUE=DATE:20270424
@@ -9192,9 +9210,10 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Acceso para
  dos. Visitantes con registro previo. Entrada de adultos: Acceso para la 
  comunidad UNOi: estudiantes\, familias y personal de colegios afiliados.
   Visitantes con registro previo.. Exposición de proyectos\, talleres y 
- charlas. Selección del colegio separada de la visita. Empresas: Consult
- ar la lista de expositores de esta edición en el catálogo del organiza
- dor.. Fuente verificada el 2026-11-07.
+ charlas para la comunidad UNOi. La solicitud escolar de proyectos figura
+  en una ficha separada. Empresas: Consultar la lista de expositores de e
+ sta edición en el catálogo del organizador.. Fuente verificada el 2026
+ -11-08.
 LOCATION:Tecnológico de Monterrey · Campus Ciudad de México\, México
 URL:https://feriamakerunoi.com/
 STATUS:TENTATIVE

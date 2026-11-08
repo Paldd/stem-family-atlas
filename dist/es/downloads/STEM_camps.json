@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5343,
-      "holiday": 4834,
+      "records": 5345,
+      "holiday": 4835,
       "regular": 201,
       "self_paced_materials": 4,
       "boarding": 1039,
@@ -47258,6 +47258,62 @@
         "C4818",
         "L881",
         "L882"
+      ]
+    },
+    {
+      "id": "L884",
+      "title": "Feria Maker UNOi 2027 · postulación de proyecto",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Ciudad de México",
+      "start": "",
+      "end": "",
+      "period": "15 de enero de 2027, 23:59 en Ciudad de México. La escuela presenta el proyecto tras la selección interna.",
+      "deadline": "2027-01-15",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://feriamakerunoi.com/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "4.º–6.º de primaria o secundaria de un colegio UNOi México.",
+      "mat": "Condicional. Confirmar el curso actual y una plaza en el equipo de un colegio UNOi.",
+      "osc": "No para los cursos iniciales. Se exige 4.º curso o superior.",
+      "format": "Selección escolar para exponer un proyecto. La organización presenta la feria como una muestra sin clasificación competitiva.",
+      "entry": "Hasta 4 estudiantes, 1 docente y 1 Maker Xpert de un colegio UNOi México. Se comunica la decisión a centros seleccionados el 12 de febrero.",
+      "gear": "",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Hasta 4 estudiantes, 1 docente y 1 Maker Xpert de un colegio UNOi México. Se comunica la decisión a centros seleccionados el 12 de febrero.",
+      "note": "El colegio presenta el proyecto tras la selección interna. La visita a la feria tiene su propio registro.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology",
+        "general"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page",
+      "date_scope": "submission_window",
+      "deadline_label": "Presentación del proyecto por el colegio",
+      "deadline_utc": "2027-01-16T05:59:00Z",
+      "team_max": 4,
+      "delivery_mode": "hybrid",
+      "related_ids": [
+        "E295"
       ]
     },
     {
@@ -443372,6 +443428,80 @@
         "label": "Solicitudes abiertas. El campamento revisa cada solicitud antes del depósito. Cada turno requiere una inscripción mínima."
       },
       "date_rule": "Dos turnos en verano de 2027, cada uno de 15 días lectivos. El 5 de julio se incluye en el primer turno."
+    },
+    {
+      "id": "CP2122-20270111-20270115-morning",
+      "block": "Campamentos",
+      "title": "Barça Academy Camp Costa Rica · Grupo de mañana de 6–11 años · 2027-01-11–2027-01-15",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Blue Valley School · San José",
+      "start": "2027-01-11",
+      "end": "2027-01-15",
+      "period": "11–15 de enero de 2027. Grupo de 6–11 años, de 08:00 a 10:00 cada día.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–11 años en el grupo de la mañana. Confirmar la fecha exacta de referencia para la edad.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Formato diurno de mañana sin alojamiento.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Programa deportivo de fútbol con entrenadores del FC Barcelona. Los grupos de edad entrenan en horarios distintos.",
+      "language": "La página del programa está en español. Confirmar el idioma de comunicación con entrenadores.",
+      "cost": "2027 · El horario consultado no indica la tarifa del grupo de enero. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar precio, idioma de entrenadores, plazas y política de devolución.",
+      "source": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+      "references": [
+        {
+          "url": "https://barcaacademycampscostarica.com/camps-costa-rica/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Sí por edad. Confirmar plaza y condiciones de admisión. Oscar: Sí por edad. Confirmar plaza y condiciones de admisión. Suplementos: Confirmar por separado el traslado al colegio y los gastos adicionales. Pago: Confirmar precio, idioma de entrenadores, plazas y política de devolución.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "sports",
+        "general"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "La página del programa está en español. Confirmar el idioma de comunicación con entrenadores.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "day_camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "barca-academy-costa-rica-january",
+      "camp_programme_id": "CP2122",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "attendance_weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La página invita a inscribirse. Confirmar la plaza en el grupo."
+      }
     },
     {
       "id": "L491",

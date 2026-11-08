@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10848,
-    "competition_cards": 4820,
-    "event_cards": 685,
-    "camp_cards": 5343,
+    "cards": 10859,
+    "competition_cards": 4828,
+    "event_cards": 686,
+    "camp_cards": 5345,
     "league_profiles": 309,
-    "major_exhibition_cards": 586,
+    "major_exhibition_cards": 587,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3541,
+      "total": 3551,
       "countries_with_records": 41,
-      "competitions": 1967,
+      "competitions": 1975,
       "events": 194,
       "major_exhibitions": 153,
-      "camps": 1380,
+      "camps": 1382,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -48,11 +48,11 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 740,
+      "total": 741,
       "countries_with_records": 15,
       "competitions": 452,
-      "events": 55,
-      "major_exhibitions": 51,
+      "events": 56,
+      "major_exhibitions": 52,
       "camps": 233,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
@@ -15364,6 +15364,17 @@
       "new": false
     },
     {
+      "id": "E686",
+      "name": "Andina Link Smart Cities Expo 2027",
+      "country": "Колумбия",
+      "region": "Южная Америка",
+      "start": "2027-03-08",
+      "end": "2027-03-11",
+      "visitor_policy": "confirm_children",
+      "source": "https://cartagena.andinalink.com/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -17781,8 +17792,8 @@
       }
     ],
     "counts": {
-      "records": 5343,
-      "holiday": 4834,
+      "records": 5345,
+      "holiday": 4835,
       "regular": 201,
       "self_paced_materials": 4,
       "boarding": 1039,
