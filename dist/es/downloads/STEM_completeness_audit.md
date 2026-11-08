@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 9993; competiciones: 4528; eventos: 526; campamentos / programas: 4939. Perfiles de ligas y programas: 298. Fichas de exposiciones grandes y especializadas: 429 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10003; competiciones: 4535; eventos: 526; campamentos / programas: 4942. Perfiles de ligas y programas: 298. Fichas de exposiciones grandes y especializadas: 429 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros específicos para 225 de 249 países y territorios. Países auditados por completo: 0. El pase histórico v51 añadió 21 fichas y 3 perfiles. Se conservan las fichas anteriores.
 
@@ -14,7 +14,7 @@ Hay registros específicos para 225 de 249 países y territorios. Países audita
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 39 | 1889 | 96 | 1239 |
+| América del Norte | 39 | 1896 | 96 | 1242 |
 | América del Sur | 14 | 414 | 37 | 199 |
 | Europa | 52 | 575 | 106 | 1425 |
 | África | 53 | 229 | 28 | 83 |
@@ -23,7 +23,7 @@ Hay registros específicos para 225 de 249 países y territorios. Países audita
 
 Fichas interregionales o mundiales sin continente único: 153. América del Norte incluye América Central y el Caribe. Las cifras muestran el inventario, no el porcentaje cubierto.
 
-VEX: 814 de 4528 fichas de competiciones (18.0%). La cobertura se concentra en esta liga.
+VEX: 814 de 4535 fichas de competiciones (17.9%). El inventario tiene una proporción elevada de fichas de VEX.
 
 ## Lo que queda
 

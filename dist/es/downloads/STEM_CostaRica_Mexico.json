@@ -312,7 +312,7 @@
       "deadline": "2026-11-30",
       "age": "Explore 6–10; Challenge 9–16",
       "mat": "Sí por edad: Explore y Challenge; confirmar composición y admisión de equipo.",
-      "osc": "Explore por edad; confirmar composición y admisión de equipo.",
+      "osc": "Sí por edad para Explore. Hace falta completar el equipo y obtener confirmación de la solicitud.",
       "format": "Explore: 3–6 niños + entrenador; Challenge: 3–8 niños + entrenador.",
       "entry": "Operador local Fundación STEAM publica ambas inscripciones hasta 30 de noviembre de 2026 y día nacional 6 de marzo de 2027. Explore exige 3–6 niños y un entrenador; Challenge 3–8 y un entrenador. Dos hermanos no bastan para equipo separado. Composición independiente / extranjera y país representado sin confirmar; formularios devolvieron HTTP 401 en lectura anónima, campos sin revisar. No acredita cierre de inscripción.",
       "gear": "Explore: LEGO SPIKE Essential, Explore set / tapete de temporada, modelo propio y póster según notebook BIOGLOW vigente. Challenge: rulebook BIOGLOW publicado permite SPIKE Prime, SPIKE Essential, EV3, Robot Inventor, Powered Up, NXT / RCX; máximo un controlador y cuatro motores en partida. Robot programable no declarado expresamente incluido en kit de inscripción. Confirmar contenido de paquete y aplicación de últimas reglas.",
@@ -324,7 +324,7 @@
       "action": "Para Explore conjunta encontrar al menos otro niño y entrenador. Para Matvey Challenge y Oscar Explore se necesitan equipos separados de al menos tres integrantes cada uno. Confirmar acceso independiente / extranjero, contenido de kit, idioma y sede; después plan hasta 6 de marzo. Fecha coincide con último día TMR Zacatecas 3–6 de marzo: elegir evento principal del itinerario.",
       "source": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/",
       "proof": "Página vigente del propio socio confirma BIOGLOW, fecha, plazo y composición local. Póster de precios inspeccionado. Dos PDF enlazados son BIOGLOW 2026, no UNEARTHED antiguo; páginas técnicas inspeccionadas. Notebook Explore español lleva marca de traducción República Dominicana: material educativo, no regla de admisión extranjera de Costa Rica.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Publicado Founders, sin trasladar condiciones de equipo Future Edition México a Costa Rica. Medalla y certificado del paquete son participación; puesto Challenge y cupo internacional requieren acta / decisión separada. Una Explore cuesta 70000; Challenge + Explore separados 220000 + 70000 = 290000 CRC antes de suplementos sin confirmar. Fecha general no fija hora separada de Explore o Challenge.",
       "iso": [
@@ -360,7 +360,12 @@
       ],
       "admission_kind": "open_application",
       "date_scope": "festival_window",
-      "registration_status": "Plazo publicado; campos de formularios, plazas y admisión efectiva sin verificar."
+      "registration_status": "Plazo publicado. Los formularios devolvieron HTTP 401 al abrirse de forma anónima. Campos, plazas y confirmación de solicitud sin verificar.",
+      "related_ids": [
+        "C1295",
+        "C1296",
+        "C043"
+      ]
     },
     {
       "block": "Competiciones",
@@ -650,7 +655,7 @@
       "action": "para hacer un seguimiento convocatoria TMR 2027 y por las edades de las categorías específicas. Las fechas son precisas; el tiempo límite, contribución, el menor/el permiso extranjero y el posible RoboCup la selección aún no se sabe.",
       "source": "https://turismo.zacatecas.gob.mx/sera-zacatecas-sede-del-torneo-mexicano-de-robotica-2027/",
       "proof": "el anuncio oficial Secturz/COZCyT de la 18.06.2026: 3–6 de marzo 2027, Palacio de Convenciones. Calendario FMR confirma March 2027 y COZCyT; nuevo convocatoria con categorías no se ha leído.",
-      "checked": "2026-11-04",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "23 de las categorías, alrededor 300 el equipo y 1 200 de los participantes en el comunicado — el pronóstico de los organizadores, No es un protocolo real. Fechas TMR No significa permiso 6/9-de verano a todas las disciplinas. TMR 2026 finalizado; de un adulto Escuela de Invierno Veracruz no se considere un campamento infantil.",
       "iso": [
@@ -678,7 +683,11 @@
       "evidence_level": "official_host_announcement",
       "date_scope": "festival_window",
       "language_mode": "unconfirmed",
-      "registration_status": "Web TMR 2027 abierta como página en preparación; convocatoria, calendario de inscripción y reglas aún pendientes de publicación."
+      "registration_status": "El portal oficial 2027 está disponible. Aún se preparan los reglamentos de categorías, los plazos de inscripción y el horario.",
+      "related_ids": [
+        "C003",
+        "C4530"
+      ]
     },
     {
       "block": "Competiciones",
@@ -4368,7 +4377,7 @@
       "source": "https://ucenfotec.ac.cr/ecommerce/producto/ruta-makers-lab/",
       "references": [],
       "proof": "página inicial fresca: presencial, cinco días 7–11 diciembre 2026, 10:00–12:00, edad 10–12. Los dos niños en diciembre. 2026 más joven 10.",
-      "checked": "2026-10-02",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "la página inicial actual muestra dos veces presencial. el caché de búsqueda dio virtual en vivo; en línea-No se promete participar. el texto en español del sitio / la bandera de la traducción no prueba el idioma de las clases. de la misma vez Ruta Explorador IA se calcula en el 14–16 No es adecuado para los niños. 6 / 9. el usuario ha informado 2017/2020: edad 10 en diciembre 2026 No es posible para Matvey.; la condición anterior se ha retirado.",
       "themes": [
@@ -4378,7 +4387,7 @@
       "participation": "day_camp",
       "admission_kind": "program",
       "evidence_level": "program",
-      "registration_status": "No se registra la familia; las fechas publicadas no prueban la presencia de lugares.",
+      "registration_status": "La ficha oficial del curso mantiene las fechas de diciembre y el mínimo de 10 años. Confirmar las plazas por separado.",
       "sessions": [
         {
           "date": "2026-12-07",
@@ -6401,7 +6410,7 @@
       "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-04",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
       "themes": [
@@ -6413,11 +6422,15 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "festival_window",
-      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
           "label": "Descripción de retos",
           "url": "https://www.robojam.live/challenges"
+        },
+        {
+          "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "id": "C1171",
@@ -6430,7 +6443,11 @@
       "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
       "iso": [
         "MEX"
-      ]
+      ],
+      "registration_opens": "2026-11-02",
+      "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
+      "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
     },
     {
       "block": "Competiciones",
@@ -6458,7 +6475,7 @@
       "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-04",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
       "themes": [
@@ -6470,7 +6487,7 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "festival_window",
-      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
           "label": "Descripción de retos",
@@ -6479,6 +6496,10 @@
         {
           "label": "Reglamento ES leído · 25.06.2026",
           "url": "https://drive.google.com/file/d/1kZnAbk3euwqJe8TvVFEnRGvJbJpslGKu/view"
+        },
+        {
+          "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "id": "C1172",
@@ -6494,7 +6515,11 @@
       "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
       "iso": [
         "MEX"
-      ]
+      ],
+      "registration_opens": "2026-11-02",
+      "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
+      "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
     },
     {
       "block": "Competiciones",
@@ -6522,7 +6547,7 @@
       "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-04",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
       "themes": [
@@ -6534,7 +6559,7 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "festival_window",
-      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
           "label": "Descripción de retos",
@@ -6543,6 +6568,10 @@
         {
           "label": "Reglamento ES leído · 25.06.2026",
           "url": "https://drive.google.com/file/d/1fyX_eHjw7JjtGsxRiBj7Zc_hl5wmltpl/view"
+        },
+        {
+          "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "id": "C1173",
@@ -6558,7 +6587,11 @@
       "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
       "iso": [
         "MEX"
-      ]
+      ],
+      "registration_opens": "2026-11-02",
+      "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
+      "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
     },
     {
       "block": "Competiciones",
@@ -6586,7 +6619,7 @@
       "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-04",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
       "themes": [
@@ -6598,7 +6631,7 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "festival_window",
-      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
           "label": "Descripción de retos",
@@ -6607,6 +6640,10 @@
         {
           "label": "Reglamento ES leído · 25.06.2026",
           "url": "https://drive.google.com/file/d/1bSv88FAoh5xHH539hr9IiGAYu4_awKXY/view"
+        },
+        {
+          "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "id": "C1174",
@@ -6622,7 +6659,11 @@
       "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
       "iso": [
         "MEX"
-      ]
+      ],
+      "registration_opens": "2026-11-02",
+      "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
+      "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
     },
     {
       "block": "Competiciones",
@@ -6650,7 +6691,7 @@
       "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-04",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
       "themes": [
@@ -6662,7 +6703,7 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "festival_window",
-      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
           "label": "Descripción de retos",
@@ -6671,6 +6712,10 @@
         {
           "label": "Reglamento ES leído · 25.06.2026",
           "url": "https://drive.google.com/file/d/1s48BOFoZxwxQhjWFzUsQgYmqWCnrjwki/view"
+        },
+        {
+          "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "id": "C1175",
@@ -6686,7 +6731,11 @@
       "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
       "iso": [
         "MEX"
-      ]
+      ],
+      "registration_opens": "2026-11-02",
+      "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
+      "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
     },
     {
       "block": "Competiciones",
@@ -6714,7 +6763,7 @@
       "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-04",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
       "themes": [
@@ -6726,7 +6775,7 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "festival_window",
-      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
           "label": "Descripción de retos",
@@ -6735,6 +6784,10 @@
         {
           "label": "Reglamento ES leído · 25.06.2026",
           "url": "https://drive.google.com/file/d/1z_9FW_6gRtcHLJ7V4J1qkM6Qce96YTqo/view"
+        },
+        {
+          "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "id": "C1176",
@@ -6750,7 +6803,11 @@
       "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
       "iso": [
         "MEX"
-      ]
+      ],
+      "registration_opens": "2026-11-02",
+      "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
+      "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
     },
     {
       "block": "Competiciones",
@@ -6778,7 +6835,7 @@
       "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-04",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
       "themes": [
@@ -6790,7 +6847,7 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "festival_window",
-      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
           "label": "Descripción de retos",
@@ -6799,6 +6856,10 @@
         {
           "label": "Reglamento ES leído · 25.06.2026",
           "url": "https://drive.google.com/file/d/1_bsjNHppKRGpBd8IyGWnmNwP4Z85PFdY/view"
+        },
+        {
+          "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "id": "C1177",
@@ -6814,7 +6875,11 @@
       "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
       "iso": [
         "MEX"
-      ]
+      ],
+      "registration_opens": "2026-11-02",
+      "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
+      "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
     },
     {
       "block": "Competiciones",
@@ -6842,7 +6907,7 @@
       "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-04",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
       "themes": [
@@ -6854,7 +6919,7 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "festival_window",
-      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
           "label": "Descripción de retos",
@@ -6863,6 +6928,10 @@
         {
           "label": "Reglamento ES leído · 25.06.2026",
           "url": "https://drive.google.com/file/d/1wfKwvELYUCqNaKoIPOB4PsOf98gP8Ui7/view"
+        },
+        {
+          "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "id": "C1178",
@@ -6878,7 +6947,11 @@
       "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
       "iso": [
         "MEX"
-      ]
+      ],
+      "registration_opens": "2026-11-02",
+      "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
+      "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
     },
     {
       "block": "Competiciones",
@@ -6906,7 +6979,7 @@
       "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
       "source": "https://www.robojam.live/mexico",
       "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
-      "checked": "2026-11-04",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
       "themes": [
@@ -6918,7 +6991,7 @@
       "admission_kind": "open_application",
       "evidence_level": "rules",
       "date_scope": "festival_window",
-      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "deadline_note": "26 de febrero de 2027. La página indica 20:00 y una zona horaria ambigua. Confirmar la hora de cierre con la organización.",
       "references": [
         {
           "label": "Descripción de retos",
@@ -6927,6 +7000,10 @@
         {
           "label": "Reglamento ES leído · 25.06.2026",
           "url": "https://drive.google.com/file/d/1rianC2YLngELwIx_npHOLOV46dwE_X2t/view"
+        },
+        {
+          "url": "https://www.robojam.live/waiver",
+          "label": "Página de la organización o reglamento de la categoría."
         }
       ],
       "id": "C1179",
@@ -6942,7 +7019,11 @@
       "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
       "iso": [
         "MEX"
-      ]
+      ],
+      "registration_opens": "2026-11-02",
+      "registration_status": "La organización indica inicio de inscripciones el 2 de noviembre de 2026. El formulario devolvió HTTP 401 en lectura anónima. Confirmar aparte plazas y admisión.",
+      "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxleghX00oVCEAfhx3irjh6CgbUAYOXdR_x45VYyamTQKtwA/viewform?usp=dialog",
+      "deadline_label": "Fecha límite de inscripción para la etapa presencial"
     },
     {
       "id": "C1197",
@@ -9793,20 +9874,20 @@
       "date_status": "Confirmado",
       "deadline": "2026-11-30",
       "age": "6–10",
-      "mat": "Sí por edad: Explore y Challenge; confirmar composición y admisión de equipo.",
-      "osc": "Explore por edad; confirmar composición y admisión de equipo.",
-      "format": "3–6 niños + un entrenador",
-      "entry": "Operador local Fundación STEAM publica ambas inscripciones hasta 30 de noviembre de 2026 y día nacional 6 de marzo de 2027. Explore exige 3–6 niños y un entrenador; Challenge 3–8 y un entrenador. Dos hermanos no bastan para equipo separado. Composición independiente / extranjera y país representado sin confirmar; formularios devolvieron HTTP 401 en lectura anónima, campos sin revisar. No acredita cierre de inscripción.",
-      "gear": "Explore: LEGO SPIKE Essential, Explore set / tapete de temporada, modelo propio y póster según notebook BIOGLOW vigente. Challenge: rulebook BIOGLOW publicado permite SPIKE Prime, SPIKE Essential, EV3, Robot Inventor, Powered Up, NXT / RCX; máximo un controlador y cuatro motores en partida. Robot programable no declarado expresamente incluido en kit de inscripción. Confirmar contenido de paquete y aplicación de últimas reglas.",
+      "mat": "Sí por edad para Explore. Hace falta completar el equipo y obtener confirmación de la solicitud.",
+      "osc": "Sí por edad para Explore. Hace falta completar el equipo y obtener confirmación de la solicitud.",
+      "format": "Explore para edades de 6–10 años. Equipo de 3–6 menores y una persona adulta como entrenadora. Plazo de solicitud el 30 de noviembre de 2026. Confirmar el acceso de equipos independientes o extranjeros.",
+      "entry": "Explore para edades de 6–10 años. Equipo de 3–6 menores y una persona adulta como entrenadora. Plazo de solicitud el 30 de noviembre de 2026. Confirmar el acceso de equipos independientes o extranjeros.",
+      "gear": "LEGO SPIKE Essential, kit y tapete de temporada, modelo propio y póster.",
       "language": "Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.",
-      "cost": "CRC: Explore — 1 equipo 70000 / 1 kit; 3 equipos 120000 / 3 kits; 5 equipos 175000 / 5 kits. Challenge — 1 equipo 220000 / 1 kit; 3 equipos 265000 / 1 kit; 5 equipos 295000 / 1 kit. Paquetes por equipo, no tarifas por niño. Póster incluye inscripción, set de categoría, material digital, medalla LEGO y certificado digital para participantes. Contenido de kit, inclusión de robot programable, impuestos, envío, entrenador, ordenador y viaje requieren factura aparte.",
+      "cost": "Un equipo Explore CRC 70000, con 1 kit de temporada en el paquete. Confirmar aparte SPIKE Essential, entrenador y factura total.",
       "level": "B  el camino nacional hacia las etapas internacionales",
-      "reward": "Explore es festival y reconocimiento de participación; paquete incluye medalla y certificado digital. Puesto Challenge requiere acta; cupo internacional sin acreditar en este anuncio.",
-      "priority": "P1 — inicio local antes de 30 de noviembre",
-      "action": "Para Explore conjunta encontrar al menos otro niño y entrenador. Para Matvey Challenge y Oscar Explore se necesitan equipos separados de al menos tres integrantes cada uno. Confirmar acceso independiente / extranjero, contenido de kit, idioma y sede; después plan hasta 6 de marzo. Fecha coincide con último día TMR Zacatecas 3–6 de marzo: elegir evento principal del itinerario.",
+      "reward": "Festival y presentación de modelo y póster. El paquete de equipo incluye reconocimiento de participación.",
+      "priority": "P1 — inicio local para la familia",
+      "action": "Encontrar al menos un participante adicional y una persona adulta como entrenadora. Verificar el acceso del equipo y el contenido del kit antes de solicitar plaza.",
       "source": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/",
       "proof": "Página vigente del propio socio confirma BIOGLOW, fecha, plazo y composición local. Póster de precios inspeccionado. Dos PDF enlazados son BIOGLOW 2026, no UNEARTHED antiguo; páginas técnicas inspeccionadas. Notebook Explore español lleva marca de traducción República Dominicana: material educativo, no regla de admisión extranjera de Costa Rica.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Publicado Founders, sin trasladar condiciones de equipo Future Edition México a Costa Rica. Medalla y certificado del paquete son participación; puesto Challenge y cupo internacional requieren acta / decisión separada. Una Explore cuesta 70000; Challenge + Explore separados 220000 + 70000 = 290000 CRC antes de suplementos sin confirmar. Fecha general no fija hora separada de Explore o Challenge.",
       "iso": [
@@ -9842,12 +9923,16 @@
       ],
       "admission_kind": "open_application",
       "date_scope": "festival_window",
-      "registration_status": "Plazo publicado; campos de formularios, plazas y admisión efectiva sin verificar.",
+      "registration_status": "Plazo publicado. Los formularios devolvieron HTTP 401 al abrirse de forma anónima. Campos, plazas y confirmación de solicitud sin verificar.",
       "canonical_event_id": "C003",
       "parent_event_id": "C003",
       "team_min": 3,
       "team_max": 6,
-      "registration_url": "https://forms.gle/rvxwMUYyn1Bmauee9"
+      "registration_url": "https://forms.gle/rvxwMUYyn1Bmauee9",
+      "related_ids": [
+        "C003",
+        "C1296"
+      ]
     },
     {
       "block": "Competiciones",
@@ -9862,20 +9947,20 @@
       "date_status": "Confirmado",
       "deadline": "2026-11-30",
       "age": "9–16",
-      "mat": "Sí por edad: Explore y Challenge; confirmar composición y admisión de equipo.",
-      "osc": "No: mínimo publicado 9 años.",
-      "format": "3–8 niños + un entrenador",
-      "entry": "Operador local Fundación STEAM publica ambas inscripciones hasta 30 de noviembre de 2026 y día nacional 6 de marzo de 2027. Explore exige 3–6 niños y un entrenador; Challenge 3–8 y un entrenador. Dos hermanos no bastan para equipo separado. Composición independiente / extranjera y país representado sin confirmar; formularios devolvieron HTTP 401 en lectura anónima, campos sin revisar. No acredita cierre de inscripción.",
-      "gear": "Explore: LEGO SPIKE Essential, Explore set / tapete de temporada, modelo propio y póster según notebook BIOGLOW vigente. Challenge: rulebook BIOGLOW publicado permite SPIKE Prime, SPIKE Essential, EV3, Robot Inventor, Powered Up, NXT / RCX; máximo un controlador y cuatro motores en partida. Robot programable no declarado expresamente incluido en kit de inscripción. Confirmar contenido de paquete y aplicación de últimas reglas.",
+      "mat": "Sí por edad para Challenge. Se exige equipo y confirmación de la solicitud.",
+      "osc": "No para Challenge. Edad mínima de 9 años. Sí encaja por edad para Explore.",
+      "format": "Challenge para edades de 9–16 años. Equipo de 3–8 menores y una persona entrenadora. Plazo de solicitud el 30 de noviembre de 2026. Confirmar el acceso de equipos independientes o extranjeros.",
+      "entry": "Challenge para edades de 9–16 años. Equipo de 3–8 menores y una persona entrenadora. Plazo de solicitud el 30 de noviembre de 2026. Confirmar el acceso de equipos independientes o extranjeros.",
+      "gear": "LEGO Education según las reglas BIOGLOW. Verificar controladores y motores permitidos en el Robot Game Rulebook vigente.",
       "language": "Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.",
-      "cost": "CRC: Explore — 1 equipo 70000 / 1 kit; 3 equipos 120000 / 3 kits; 5 equipos 175000 / 5 kits. Challenge — 1 equipo 220000 / 1 kit; 3 equipos 265000 / 1 kit; 5 equipos 295000 / 1 kit. Paquetes por equipo, no tarifas por niño. Póster incluye inscripción, set de categoría, material digital, medalla LEGO y certificado digital para participantes. Contenido de kit, inclusión de robot programable, impuestos, envío, entrenador, ordenador y viaje requieren factura aparte.",
+      "cost": "Un equipo Challenge CRC 220000, con 1 kit de temporada en el paquete. Confirmar aparte si incluye el robot programable y la factura total.",
       "level": "B  el camino nacional hacia las etapas internacionales",
-      "reward": "Explore es festival y reconocimiento de participación; paquete incluye medalla y certificado digital. Puesto Challenge requiere acta; cupo internacional sin acreditar en este anuncio.",
-      "priority": "P1 — inicio local antes de 30 de noviembre",
-      "action": "Para Explore conjunta encontrar al menos otro niño y entrenador. Para Matvey Challenge y Oscar Explore se necesitan equipos separados de al menos tres integrantes cada uno. Confirmar acceso independiente / extranjero, contenido de kit, idioma y sede; después plan hasta 6 de marzo. Fecha coincide con último día TMR Zacatecas 3–6 de marzo: elegir evento principal del itinerario.",
+      "reward": "Resultado de Challenge según el acta del festival. Confirmar por separado el cupo internacional.",
+      "priority": "P1 — inicio local para la familia",
+      "action": "Completar el equipo de Challenge, cotejar el kit y confirmar la elegibilidad.",
       "source": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/",
       "proof": "Página vigente del propio socio confirma BIOGLOW, fecha, plazo y composición local. Póster de precios inspeccionado. Dos PDF enlazados son BIOGLOW 2026, no UNEARTHED antiguo; páginas técnicas inspeccionadas. Notebook Explore español lleva marca de traducción República Dominicana: material educativo, no regla de admisión extranjera de Costa Rica.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Publicado Founders, sin trasladar condiciones de equipo Future Edition México a Costa Rica. Medalla y certificado del paquete son participación; puesto Challenge y cupo internacional requieren acta / decisión separada. Una Explore cuesta 70000; Challenge + Explore separados 220000 + 70000 = 290000 CRC antes de suplementos sin confirmar. Fecha general no fija hora separada de Explore o Challenge.",
       "iso": [
@@ -9911,12 +9996,16 @@
       ],
       "admission_kind": "open_application",
       "date_scope": "festival_window",
-      "registration_status": "Plazo publicado; campos de formularios, plazas y admisión efectiva sin verificar.",
+      "registration_status": "Plazo publicado. Los formularios devolvieron HTTP 401 al abrirse de forma anónima. Campos, plazas y confirmación de solicitud sin verificar.",
       "canonical_event_id": "C003",
       "parent_event_id": "C003",
       "team_min": 3,
       "team_max": 8,
-      "registration_url": "https://forms.gle/2nkydXsggPWw2pdE8"
+      "registration_url": "https://forms.gle/2nkydXsggPWw2pdE8",
+      "related_ids": [
+        "C003",
+        "C1295"
+      ]
     },
     {
       "id": "C1308",
@@ -12627,7 +12716,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 120.",
       "themes": [
@@ -12698,7 +12787,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "El mapa y el bloque en español indican modalidad virtual. El bloque en inglés describe modalidad presencial y categorías de preparatoria y universidad. Confirmar modalidad y edad antes de inscribir.",
       "themes": [
@@ -12760,7 +12849,7 @@
       "cost": "Precio sin publicar.",
       "level": "Olimpiada regional internacional",
       "reward": "Certificados, medallas y becas de formación según el reglamento.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
       "note": "Práctica el 14 de noviembre. Concurso real el 21 de noviembre. Clausura el 28 de noviembre. Costa Rica y México figuran en las reglas.",
       "themes": [
@@ -12816,7 +12905,7 @@
       "cost": "Precio sin publicar.",
       "level": "Programa nacional",
       "reward": "Resultados según reglas de la etapa correspondiente.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
       "note": "El reglamento 2026 describe la secuencia general de etapas. Confirmar por separado fechas, cupos y procedimientos de 2027.",
       "themes": [
@@ -12825,7 +12914,7 @@
         "technology"
       ],
       "scope": "national",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "team",
       "admission_kind": "qualifier",
       "evidence_level": "event_page",
@@ -12862,9 +12951,9 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "cost": "Precio sin publicar.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
       "note": "Tarifas y plazos de Norestense no aplican a Bajío.",
       "themes": [
@@ -12872,7 +12961,7 @@
         "coding"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "event_page",
@@ -12918,7 +13007,7 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "cost": "La página indica pase de dos días de adulto por MXN 150 más cargo de servicio en preventa. Confirmar fase vigente.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "Demostraciones, exposición y actividades según programa de la sede.",
       "priority": "P3 — visita según programa",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
@@ -12928,7 +13017,7 @@
         "technology"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "visitor",
       "admission_kind": "visitor",
       "evidence_level": "event_page",
@@ -12982,7 +13071,7 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "cost": "Player MXN 259 por ambos días, IVA incluido según el organizador.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "Demostraciones, exposición y actividades según programa de la sede.",
       "priority": "P3 — visita según programa",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
@@ -12992,7 +13081,7 @@
         "technology"
       ],
       "scope": "national",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "visitor",
       "admission_kind": "visitor",
       "evidence_level": "event_page",
@@ -13037,7 +13126,7 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "cost": "Precio sin publicar.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "Demostraciones, exposición y actividades según programa de la sede.",
       "priority": "P3 — visita según programa",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
@@ -13048,7 +13137,7 @@
         "technology"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "visitor",
       "admission_kind": "visitor",
       "evidence_level": "event_page",
@@ -13106,7 +13195,7 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "cost": "Campus MXN 1000 por día o 2800 por el festival. Confirmar acceso a VMX con el pase elegido y edad de los niños.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "Demostraciones, exposición y actividades según programa de la sede.",
       "priority": "P3 — visita según programa",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
@@ -13116,7 +13205,7 @@
         "technology"
       ],
       "scope": "national",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "visitor",
       "admission_kind": "visitor",
       "evidence_level": "event_page",
@@ -13172,7 +13261,7 @@
       "cost": "El centro facilita tarifa, equipo y condiciones de pago previa consulta.",
       "level": "Programa formativo local",
       "reward": "Modelos y práctica según el programa del curso.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.",
       "note": "El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.",
       "themes": [
@@ -13229,7 +13318,7 @@
       "cost": "El centro facilita tarifa, equipo y condiciones de pago previa consulta.",
       "level": "Programa formativo local",
       "reward": "Modelos y práctica según el programa del curso.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.",
       "note": "El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.",
       "themes": [
@@ -13286,7 +13375,7 @@
       "cost": "El centro facilita tarifa, equipo y condiciones de pago previa consulta.",
       "level": "Programa formativo local",
       "reward": "Modelos y práctica según el programa del curso.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.",
       "note": "El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.",
       "themes": [
@@ -13343,7 +13432,7 @@
       "cost": "El centro facilita tarifa, equipo y condiciones de pago previa consulta.",
       "level": "Programa formativo local",
       "reward": "Modelos y práctica según el programa del curso.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.",
       "note": "El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.",
       "themes": [
@@ -13400,7 +13489,7 @@
       "cost": "El centro facilita tarifa, equipo y condiciones de pago previa consulta.",
       "level": "Programa formativo local",
       "reward": "Modelos y práctica según el programa del curso.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.",
       "note": "El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.",
       "themes": [
@@ -13458,7 +13547,7 @@
       "cost": "El centro facilita tarifa, equipo y condiciones de pago previa consulta.",
       "level": "Programa formativo local",
       "reward": "Modelos y práctica según el programa del curso.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "CITC permite solicitar una clase de prueba. Confirmar idioma, dificultad, materiales y precio final.",
       "note": "El organizador indica matrícula abierta. Confirmar fechas, horario y disponibilidad del grupo concreto.",
       "themes": [
@@ -13531,7 +13620,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 150.",
       "themes": [
@@ -13604,7 +13693,7 @@
         "art"
       ],
       "scope": "national",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "visitor",
       "admission_kind": "visitor",
       "evidence_level": "event_page",
@@ -13677,7 +13766,7 @@
         "art"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "visitor",
       "admission_kind": "visitor",
       "evidence_level": "event_page",
@@ -13727,16 +13816,16 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "cost": "CRC 15000 por jugador, incluye acceso a The Draw.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
       "note": "Registro en sede desde las 09:30 e inicio del torneo a las 10:00. La página no indica edad mínima.",
       "themes": [
         "games"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "individual",
       "admission_kind": "open_application",
       "evidence_level": "event_page",
@@ -13775,16 +13864,16 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "cost": "CRC 20000 por jugador, incluye acceso a The Draw.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
       "note": "Registro en sede desde las 09:30 e inicio del torneo a las 10:00. La página no indica edad mínima.",
       "themes": [
         "games"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "individual",
       "admission_kind": "open_application",
       "evidence_level": "event_page",
@@ -13823,16 +13912,16 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "cost": "CRC 15000 por jugador, incluye acceso a The Draw.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
       "note": "Registro en sede desde las 09:30 e inicio del torneo a las 10:00. La página no indica edad mínima.",
       "themes": [
         "games"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "individual",
       "admission_kind": "open_application",
       "evidence_level": "event_page",
@@ -13871,16 +13960,16 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "cost": "CRC 15000 por jugador, incluye acceso a The Draw.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
       "note": "Registro en sede desde las 09:30 e inicio del torneo a las 10:00. La página no indica edad mínima.",
       "themes": [
         "games"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "individual",
       "admission_kind": "open_application",
       "evidence_level": "event_page",
@@ -13938,7 +14027,7 @@
         "art"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "visitor",
       "admission_kind": "visitor",
       "evidence_level": "event_page",
@@ -13992,16 +14081,16 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "cost": "Precio sin publicar.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
       "note": "Confirmar edad mínima del torneo y consentimiento parental en el reglamento del juego concreto.",
       "themes": [
         "games"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "individual",
       "admission_kind": "open_application",
       "evidence_level": "event_page",
@@ -14045,16 +14134,16 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "cost": "Precio sin publicar.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
       "note": "Confirmar edad mínima del torneo y consentimiento parental en el reglamento del juego concreto.",
       "themes": [
         "games"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "individual",
       "admission_kind": "open_application",
       "evidence_level": "event_page",
@@ -14105,7 +14194,7 @@
         "games"
       ],
       "scope": "national",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "visitor",
       "admission_kind": "visitor",
       "evidence_level": "event_page",
@@ -14173,7 +14262,7 @@
         "technology"
       ],
       "scope": "international",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "visitor",
       "admission_kind": "visitor",
       "evidence_level": "event_page",
@@ -14223,9 +14312,9 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "cost": "Gratis.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
       "note": "29–31 de enero de 2027, gratuito y presencial. Inscripción del 1 de diciembre de 2026 al 28 de enero de 2027. El encabezado conserva 2026, el horario corresponde a enero de 2027.",
       "themes": [
@@ -14234,7 +14323,7 @@
         "technology"
       ],
       "scope": "local",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "event_page",
@@ -14296,7 +14385,7 @@
         "culture"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "visitor",
       "admission_kind": "visitor",
       "evidence_level": "event_page",
@@ -14351,7 +14440,7 @@
         "culture"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "visitor",
       "admission_kind": "visitor",
       "evidence_level": "event_page",
@@ -14411,7 +14500,7 @@
         "design"
       ],
       "scope": "local",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "visitor",
       "admission_kind": "visitor",
       "evidence_level": "event_page",
@@ -14467,7 +14556,7 @@
         "entrepreneurship"
       ],
       "scope": "international",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "visitor",
       "admission_kind": "visitor",
       "evidence_level": "event_page",
@@ -14523,7 +14612,7 @@
         "technology"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "visitor",
       "admission_kind": "visitor",
       "evidence_level": "event_page",
@@ -14568,7 +14657,7 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "cost": "Precio sin publicar.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "",
       "priority": "P4 — competición universitaria",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
@@ -14579,7 +14668,7 @@
         "engineering"
       ],
       "scope": "local",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "event_page",
@@ -14746,7 +14835,7 @@
       "cost": "Inscripción de proyecto gratuita. Confirmar traslados y gastos si avanza.",
       "level": "Clasificación estatal para ExpoCiencias",
       "reward": "Puestos por categorías, 11 acreditaciones nacionales y 1 pase internacional directo por mayor puntuación.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad de admisión, disponibilidad y modalidad exacta de acceso con el organizador.",
       "note": "Solicitud docente del 9 de noviembre al 9 de diciembre de 2026, documentos hasta el 16 de diciembre, informe actualizado del 5–14 de enero de 2027. Final presencial.",
       "themes": [
@@ -14756,7 +14845,7 @@
         "technology"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "individual_or_team",
       "admission_kind": "school_selection",
       "evidence_level": "event_page",
@@ -14803,9 +14892,9 @@
       "languages": [],
       "language_mode": "unconfirmed",
       "cost": "La página indica USD 580 por participante o entrenador. Indica alojamiento y comidas. Confirmar tarifa de acompañante y entrada de visitante separada.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Ficha histórica de la fuente. La información vigente se reúne en E041.",
       "note": "La página muestra a la vez plazos del 31 de octubre y 15 de noviembre de 2026. Confirmar plazo vigente y posibilidad de inscripción.",
       "themes": [
@@ -14815,7 +14904,7 @@
         "robotics"
       ],
       "scope": "international",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "event_page",
@@ -14866,7 +14955,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.olamiort.edu.mx/robotics-convocatoria",
       "references": [
@@ -14947,7 +15036,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Consultar la publicación de las nuevas reglas y fechas.",
       "source": "https://www.olamiort.edu.mx/robotics-convocatoria",
       "references": [
@@ -15003,7 +15092,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
       "references": [
@@ -15063,7 +15152,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
       "references": [
@@ -15123,7 +15212,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
       "references": [
@@ -15183,7 +15272,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
       "references": [
@@ -15243,7 +15332,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
       "references": [
@@ -15303,7 +15392,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
       "references": [
@@ -15363,7 +15452,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
       "references": [
@@ -15423,7 +15512,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
       "references": [
@@ -15483,7 +15572,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
       "references": [
@@ -15543,7 +15632,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
       "references": [
@@ -15603,7 +15692,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
       "references": [
@@ -15663,7 +15752,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
       "references": [
@@ -15723,7 +15812,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
       "references": [
@@ -15783,7 +15872,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
       "references": [
@@ -15843,7 +15932,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.olamiort.edu.mx/_files/ugd/41a133_c40f4371d1a94deb80e27f8a95cf456a.pdf",
       "references": [
@@ -15903,7 +15992,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "Los ganadores de categoría al cierre de temporada obtienen plaza en RoboMatrix Península en Cancún.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
       "references": [
@@ -15976,7 +16065,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "Los ganadores de categoría al cierre de temporada obtienen plaza en RoboMatrix Península en Cancún.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Consultar la publicación de las nuevas reglas y fechas.",
       "source": "https://laliga.lati.mx/",
       "references": [
@@ -16031,7 +16120,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://laliga.lati.mx/fechas-y-sedes/",
       "references": [
@@ -16087,7 +16176,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://laliga.lati.mx/fechas-y-sedes/",
       "references": [
@@ -16142,7 +16231,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://laliga.lati.mx/fechas-y-sedes/",
       "references": [
@@ -16197,7 +16286,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "Los ganadores de categoría al cierre de temporada obtienen plaza en RoboMatrix Península en Cancún.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
       "references": [
@@ -16253,7 +16342,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "Los ganadores de categoría al cierre de temporada obtienen plaza en RoboMatrix Península en Cancún.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
       "references": [
@@ -16309,7 +16398,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "regional",
       "reward": "Los ganadores de categoría al cierre de temporada obtienen plaza en RoboMatrix Península en Cancún.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
       "references": [
@@ -16365,7 +16454,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "national",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica",
       "references": [
@@ -16424,7 +16513,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "national",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica",
       "references": [
@@ -16483,7 +16572,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "national",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica",
       "references": [
@@ -16542,7 +16631,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "national",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica",
       "references": [
@@ -16601,7 +16690,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "national",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica",
       "references": [
@@ -16660,7 +16749,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "national",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Archivo de temporada. Presentación cerrada.",
       "source": "https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica",
       "references": [
@@ -16719,7 +16808,7 @@
       "importance_reason": "Presentación según las reglas de la categoría.",
       "scope": "national",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Consultar la publicación de las nuevas reglas y fechas.",
       "source": "https://www.mecamex.org/copia-de-competencia-de-rob%C3%B3tica",
       "references": [
@@ -16782,7 +16871,7 @@
       "cost": "MXN 600–1000 de inscripción según el periodo. Confirmar tarifa exacta el día de solicitud.",
       "level": "Torneo regional de robótica",
       "reward": "Puesto o premio según el acta de la fase.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar reglas y plazo de la categoría elegida con UTEQ.",
       "note": "Fecha de cierre publicada. Disponibilidad y hora de cierre sin confirmar.",
       "themes": [
@@ -16791,7 +16880,7 @@
         "technology"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "event_page"
@@ -16830,7 +16919,7 @@
       "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
       "level": "Taller o programa formativo",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "No se publican grupo infantil ni edades admitidas. Comprobar la convocatoria cuando salga el programa.",
       "note": "Anuncio de programa formativo. Quedan pendientes fechas, precio, nivel y posible modalidad infantil.",
       "themes": [
@@ -16838,7 +16927,7 @@
         "technology"
       ],
       "scope": "national",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "unconfirmed_program",
       "admission_kind": "unknown",
       "evidence_level": "event_page",
@@ -16899,7 +16988,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 250.",
       "themes": [
@@ -16971,7 +17060,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página aún no contiene un horario local detallado. Límites publicados 800 presencial y 800 virtual.",
       "themes": [
@@ -17041,7 +17130,7 @@
       "cost": "Participación gratuita según la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 200.",
       "themes": [
@@ -17113,7 +17202,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límites publicados 250 presencial y 73 virtual.",
       "themes": [
@@ -17255,7 +17344,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 150.",
       "themes": [
@@ -17327,7 +17416,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 80.",
       "themes": [
@@ -17399,7 +17488,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límites publicados 60 presencial y 12 virtual.",
       "themes": [
@@ -17471,7 +17560,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 350.",
       "themes": [
@@ -17543,7 +17632,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página aún no contiene un horario local detallado. Límite presencial publicado 114.",
       "themes": [
@@ -17615,7 +17704,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página aún no contiene un horario local detallado. Límite presencial publicado 100.",
       "themes": [
@@ -17687,7 +17776,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 250.",
       "themes": [
@@ -17759,7 +17848,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 250.",
       "themes": [
@@ -17831,7 +17920,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 500.",
       "themes": [
@@ -17903,7 +17992,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página aún no contiene un horario local detallado. Límites publicados 20 presencial y 50 virtual.",
       "themes": [
@@ -17975,7 +18064,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página aún no contiene un horario local detallado. Límites publicados 300 presencial y 100 virtual.",
       "themes": [
@@ -18047,7 +18136,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límites publicados 500 presencial y 500 virtual.",
       "themes": [
@@ -18117,7 +18206,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límite presencial publicado 120.",
       "themes": [
@@ -18189,7 +18278,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página aún no contiene un horario local detallado. Límites publicados 80 presencial y 80 virtual.",
       "themes": [
@@ -18259,7 +18348,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página contiene un horario local. También puede incluir sesiones informativas, talleres y premios. Límites publicados 100 presencial y 50 virtual.",
       "themes": [
@@ -18332,7 +18421,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "Según la página local, estudiantes de preparatoria y menores participan en línea. Confirmar edad mínima exacta y plaza.",
       "themes": [
@@ -18404,7 +18493,7 @@
       "cost": "Confirmar tarifa, comidas y gastos en la página de la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar edad, modalidad presencial o virtual, idioma, plazas y horario antes de viajar.",
       "note": "La página aún no contiene un horario local detallado. Límite presencial publicado 550.",
       "themes": [
@@ -18474,7 +18563,7 @@
       "cost": "Participación gratuita según la organización local.",
       "level": "Sede local de un hackatón internacional",
       "reward": "Certificado al cumplir las condiciones de entrega. Un proyecto seleccionado puede recibir nominación global.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Elegir San José en la cuenta de NASA y solicitar modalidad virtual. Si no hay acceso, comprobar Universal Event.",
       "note": "La organización publica modalidad virtual separada y 150 plazas virtuales. Las preguntas frecuentes describen participación de menores con tutor. Confirmar el acceso de ambos menores y las plazas.",
       "themes": [
@@ -18535,7 +18624,7 @@
       "cost": "Gratis.",
       "level": "Taller o programa formativo",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Gratis con inscripción previa. Aforo limitado.",
       "note": "Gratis con inscripción previa. Aforo limitado.",
       "themes": [
@@ -18588,7 +18677,7 @@
       "cost": "Gratis.",
       "level": "Taller o programa formativo",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Gratis con inscripción previa. Aforo limitado.",
       "note": "Gratis con inscripción previa. Aforo limitado.",
       "themes": [
@@ -18641,7 +18730,7 @@
       "cost": "Gratis.",
       "level": "Taller o programa formativo",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Gratis con inscripción previa. Aforo limitado.",
       "note": "Gratis con inscripción previa. Aforo limitado.",
       "themes": [
@@ -18775,7 +18864,7 @@
       "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
       "level": "Fase regional de VEX",
       "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
       "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
       "themes": [
@@ -18849,7 +18938,7 @@
       "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
       "level": "Fase local de VEX",
       "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
       "note": "La ficha indica Middle School. El nombre dice final de liga y la interfaz muestra Open Tournament. Confirmar requisitos de fases previas.",
       "themes": [
@@ -19165,7 +19254,7 @@
       "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
       "level": "Fase local de VEX",
       "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
       "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
       "themes": [
@@ -19239,7 +19328,7 @@
       "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
       "level": "Fase local de VEX",
       "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
       "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
       "themes": [
@@ -19535,7 +19624,7 @@
       "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
       "level": "Fase regional de VEX",
       "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
       "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
       "themes": [
@@ -19613,7 +19702,7 @@
       "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
       "level": "Fase regional de VEX",
       "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
       "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
       "themes": [
@@ -19690,7 +19779,7 @@
       "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
       "level": "Fase regional de VEX",
       "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
       "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
       "themes": [
@@ -19767,7 +19856,7 @@
       "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
       "level": "Fase local de VEX",
       "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
       "note": "La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
       "themes": [
@@ -19849,7 +19938,7 @@
       "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
       "level": "Fase regional de VEX",
       "reward": "Puestos y premios según el acta del torneo. Confirmar el cupo al siguiente nivel en las reglas vigentes.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "La ficha no confirma admisión de equipos extranjeros. Confirmar plaza, curso y país de registro del equipo.",
       "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
       "themes": [
@@ -20023,7 +20112,7 @@
       "cost": "La ficha indica inscripción gratuita. ID de equipo, material y viaje por separado.",
       "level": "VEX Signature Event",
       "reward": "El torneo figura como Signature Event. La convocatoria local condiciona algunas plazas a otras fases, incluida Girl Powered. El procedimiento para equipos masculinos y mixtos no está claro.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Antes de elegir clasificación mexicana obtener respuesta: cómo equipo masculino / mixto o extranjero cumple requisito Girl Powered, qué categorías reciben cupo Worlds, si se acepta situación escolar y cómo se aplica mínimo de integrantes. Pregunta preparada, sin enviar al organizador.",
       "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
       "themes": [
@@ -20199,7 +20288,7 @@
       "cost": "El portal indica cuota USD$0.00. Confirmar condiciones y gastos aparte.",
       "level": "VEX Signature Event",
       "reward": "El torneo figura como Signature Event. La convocatoria local condiciona algunas plazas a otras fases, incluida Girl Powered. El procedimiento para equipos masculinos y mixtos no está claro.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Antes de elegir clasificación mexicana obtener respuesta: cómo equipo masculino / mixto o extranjero cumple requisito Girl Powered, qué categorías reciben cupo Worlds, si se acepta situación escolar y cómo se aplica mínimo de integrantes. Pregunta preparada, sin enviar al organizador.",
       "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
       "themes": [
@@ -20375,7 +20464,7 @@
       "cost": "El portal indica cuota USD$0.00. Confirmar condiciones y gastos aparte.",
       "level": "Campeonato nacional de VEX",
       "reward": "Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Antes de elegir clasificación mexicana obtener respuesta: cómo equipo masculino / mixto o extranjero cumple requisito Girl Powered, qué categorías reciben cupo Worlds, si se acepta situación escolar y cómo se aplica mínimo de integrantes. Pregunta preparada, sin enviar al organizador.",
       "note": "Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. La ficha publica el formato de entrevista y de entrega del cuaderno. Comprobar el plazo del cuaderno aparte del registro.",
       "themes": [
@@ -20448,7 +20537,7 @@
       "cost": "Retos menores MXN 600 y mayores MXN 800. Tarifas de la comunidad innovatiQ de MXN 300 y MXN 400 respectivamente.",
       "level": "Competición nacional",
       "reward": "Premios de la final según el acta de cada reto.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Se solicitan datos de la institución educativa. La organización no detalla la admisión de escuelas fuera de México.",
       "themes": [
@@ -20531,7 +20620,7 @@
       "cost": "MXN 600 por equipo o participante individual. Para la comunidad innovatiQ, MXN 300.",
       "level": "Competición nacional",
       "reward": "Premios de la final según el acta de cada reto.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Edad cumplida al registrarse.",
       "themes": [
@@ -20594,7 +20683,7 @@
       "cost": "MXN 600 por equipo o participante individual. Para la comunidad innovatiQ, MXN 300.",
       "level": "Competición nacional",
       "reward": "Premios de la final según el acta de cada reto.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Edad cumplida al registrarse.",
       "themes": [
@@ -20660,7 +20749,7 @@
       "cost": "MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.",
       "level": "Competición nacional",
       "reward": "Premios de la final según el acta de cada reto.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Edad cumplida al registrarse.",
       "themes": [
@@ -20725,7 +20814,7 @@
       "cost": "MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.",
       "level": "Competición nacional",
       "reward": "Premios de la final según el acta de cada reto.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Edad cumplida al registrarse.",
       "themes": [
@@ -20790,7 +20879,7 @@
       "cost": "MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.",
       "level": "Competición nacional",
       "reward": "Premios de la final según el acta de cada reto.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Edad cumplida al registrarse.",
       "themes": [
@@ -20855,7 +20944,7 @@
       "cost": "MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.",
       "level": "Competición nacional",
       "reward": "Premios de la final según el acta de cada reto.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Edad cumplida al registrarse.",
       "themes": [
@@ -20920,7 +21009,7 @@
       "cost": "MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.",
       "level": "Competición nacional",
       "reward": "Premios de la final según el acta de cada reto.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Edad cumplida al registrarse.",
       "themes": [
@@ -20984,7 +21073,7 @@
       "cost": "MXN 600 por equipo o participante individual. Para la comunidad innovatiQ, MXN 300.",
       "level": "Competición nacional",
       "reward": "Premios de la final según el acta de cada reto.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Edad cumplida al registrarse.",
       "themes": [
@@ -21045,7 +21134,7 @@
       "cost": "MXN 600 por equipo o participante individual. Para la comunidad innovatiQ, MXN 300.",
       "level": "Competición nacional",
       "reward": "Premios de la final según el acta de cada reto.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Edad cumplida al registrarse.",
       "themes": [
@@ -21107,7 +21196,7 @@
       "cost": "MXN 600 por equipo o participante individual. Para la comunidad innovatiQ, MXN 300.",
       "level": "Competición nacional",
       "reward": "Premios de la final según el acta de cada reto.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Edad cumplida al registrarse.",
       "themes": [
@@ -21169,7 +21258,7 @@
       "cost": "MXN 600 por equipo o participante individual. Para la comunidad innovatiQ, MXN 300.",
       "level": "Competición nacional",
       "reward": "Premios de la final según el acta de cada reto.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Edad cumplida al registrarse.",
       "themes": [
@@ -21231,7 +21320,7 @@
       "cost": "MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.",
       "level": "Competición nacional",
       "reward": "Premios de la final según el acta de cada reto.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Edad cumplida al registrarse.",
       "themes": [
@@ -21292,7 +21381,7 @@
       "cost": "MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.",
       "level": "Competición nacional",
       "reward": "Premios de la final según el acta de cada reto.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Edad cumplida al registrarse.",
       "themes": [
@@ -21353,7 +21442,7 @@
       "cost": "MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.",
       "level": "Competición nacional",
       "reward": "Premios de la final según el acta de cada reto.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Edad cumplida al registrarse.",
       "themes": [
@@ -21414,7 +21503,7 @@
       "cost": "MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.",
       "level": "Competición nacional",
       "reward": "Premios de la final según el acta de cada reto.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Edad cumplida al registrarse.",
       "themes": [
@@ -21478,7 +21567,7 @@
       "cost": "MXN 600 por equipo o participante individual. Para la comunidad innovatiQ, MXN 300.",
       "level": "Competición nacional",
       "reward": "Los 10 mejores proyectos del reto consiguen plaza en la final presencial.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Se solicitan datos de la institución educativa. La organización no detalla la admisión de escuelas fuera de México.",
       "themes": [
@@ -21543,7 +21632,7 @@
       "cost": "MXN 600 por equipo o participante individual. Para la comunidad innovatiQ, MXN 300.",
       "level": "Competición nacional",
       "reward": "Los 10 mejores proyectos del reto consiguen plaza en la final presencial.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Se solicitan datos de la institución educativa. La organización no detalla la admisión de escuelas fuera de México.",
       "themes": [
@@ -21611,7 +21700,7 @@
       "cost": "MXN 800 por equipo o participante individual. Para la comunidad innovatiQ, MXN 400.",
       "level": "Competición nacional",
       "reward": "Los 10 mejores proyectos del reto consiguen plaza en la final presencial.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Indicar edad al registrarse, escuela y persona adulta responsable. Confirmar admisión de una escuela fuera de México e idioma de comunicación con el jurado.",
       "note": "Se solicitan datos de la institución educativa. La organización no detalla la admisión de escuelas fuera de México.",
       "themes": [
@@ -21671,7 +21760,7 @@
       "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
       "level": "Competición nacional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Ventana de publicación de resultados de la preselección virtual. Hasta 10 proyectos destacados por reto pasan a la final.",
       "note": "Ventana de publicación de resultados de la preselección virtual. Hasta 10 proyectos destacados por reto pasan a la final.",
       "themes": [
@@ -21735,7 +21824,7 @@
       "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
       "level": "Competición nacional",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Fecha límite de confirmación de asistencia para finalistas digitales seleccionados.",
       "note": "Fecha límite de confirmación de asistencia para finalistas digitales seleccionados.",
       "themes": [
@@ -21805,7 +21894,7 @@
       "cost": "Comprobar las condiciones de la plataforma de envío en la próxima convocatoria.",
       "level": "Selección internacional de animación y cine infantil",
       "reward": "Las obras seleccionadas pueden recibir diploma digital, laurel y premio del público. El concurso con trofeo para residentes de Yucatán tiene bases separadas.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Ya pasó el plazo de la edición 2026. La siguiente convocatoria aún no está publicada.",
       "note": "Las bases del festival indican 6–17 años. La publicación de IMCINE indica 8–17. Volver a verificar la edad de la categoría menor en la próxima edición.",
       "themes": [
@@ -21872,9 +21961,9 @@
       "language_mode": "support",
       "language_certainty": "Las obras en otro idioma requieren subtítulos separados en español.",
       "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "La organización anuncia trofeo para quien gana la categoría. Las edades de los premios difieren de la sección de admisión.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Ya pasó el plazo de la edición 2026. La siguiente convocatoria aún no está publicada.",
       "note": "Las bases vigentes muestran el 26 de octubre. Una publicación anterior de IMCINE indicaba el 11 de octubre. Ambas fechas ya pasaron.",
       "themes": [
@@ -21883,7 +21972,7 @@
         "culture"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "individual_or_team",
       "admission_kind": "open_application",
       "evidence_level": "rules",
@@ -21936,7 +22025,7 @@
       "cost": "El festival anuncia actividades gratuitas. Las entradas y reservas dependen de la sesión.",
       "level": "Exposición regional para visitantes",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Elegir una proyección familiar y comprobar la programación de la sede.",
       "note": "",
       "themes": [
@@ -22000,7 +22089,7 @@
       "cost": "El festival anuncia actividades gratuitas. Las entradas y reservas dependen de la sesión.",
       "level": "Exposición regional para visitantes",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Elegir una proyección familiar y comprobar la programación de la sede.",
       "note": "",
       "themes": [
@@ -22068,7 +22157,7 @@
       "cost": "Gratis.",
       "level": "Exposición regional para visitantes",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Confirmar la admisión infantil a la feria del 4 de diciembre. Los talleres tienen inscripción separada.",
       "note": "",
       "themes": [
@@ -22135,9 +22224,9 @@
       "language_mode": "unconfirmed",
       "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
       "cost": "Gratis.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "Puesto o premio según el acta de la fase.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Aún no se publican la próxima convocatoria ni su calendario.",
       "note": "El PDF vigente fija un máximo de 6 equipos. La copia del buscador mostraba 10. Se usa el PDF como base vigente.",
       "themes": [
@@ -22145,7 +22234,7 @@
         "coding"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "team",
       "admission_kind": "school",
       "evidence_level": "rules",
@@ -22201,9 +22290,9 @@
       "language_mode": "unconfirmed",
       "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
       "cost": "Gratis.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "Puesto o premio según el acta de la fase.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Aún no se publican la próxima convocatoria ni su calendario.",
       "note": "",
       "themes": [
@@ -22211,7 +22300,7 @@
         "technology"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "individual_or_team",
       "admission_kind": "school",
       "evidence_level": "rules",
@@ -22265,9 +22354,9 @@
       "language_mode": "unconfirmed",
       "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
       "cost": "Gratis.",
-      "level": "Fase regional",
+      "level": "Etapa regional",
       "reward": "Puesto o premio según el acta de la fase.",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Aún no se publican la próxima convocatoria ni su calendario.",
       "note": "",
       "themes": [
@@ -22275,7 +22364,7 @@
         "makers"
       ],
       "scope": "regional",
-      "importance_reason": "Fase regional",
+      "importance_reason": "Etapa regional",
       "participation": "individual",
       "admission_kind": "school",
       "evidence_level": "rules",
@@ -22327,7 +22416,7 @@
       "cost": "Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas.",
       "level": "Programa científico familiar",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.",
       "note": "El horario del museo puede cambiar.",
       "themes": [
@@ -22386,7 +22475,7 @@
       "cost": "Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas.",
       "level": "Programa científico familiar",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.",
       "note": "El horario del museo puede cambiar.",
       "themes": [
@@ -22445,7 +22534,7 @@
       "cost": "Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas.",
       "level": "Programa científico familiar",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Acceso con entrada al museo. Grupo de 10 participantes. Confirmar allí cómo inscribirse.",
       "note": "El horario del museo puede cambiar.",
       "themes": [
@@ -22504,7 +22593,7 @@
       "cost": "Entrada al museo MXN 90 por adulto y MXN 80 por menor. Las actividades indicadas se incluyen con entrada y según plazas.",
       "level": "Programa científico familiar",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Acudir con una persona adulta. La plaza se confirma en Atención al Visitante dentro del museo.",
       "note": "El horario del museo puede cambiar.",
       "themes": [
@@ -22558,7 +22647,7 @@
       "cost": "No se publican precio, equipo ni condiciones de devolución del grupo vigente.",
       "level": "Taller o programa formativo",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
       "note": "El programa de verano figura entre los servicios. No se publican año, fechas, horario ni convocatoria.",
       "themes": [
@@ -22618,7 +22707,7 @@
       "cost": "No se publican precio, equipo ni condiciones de devolución del grupo vigente.",
       "level": "Taller o programa formativo",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
       "note": "La página de talleres muestra verano de 2026. Aún no se publican fechas de invierno 2026–2027 ni de verano 2027.",
       "themes": [
@@ -22674,7 +22763,7 @@
       "cost": "No se publican precio, equipo ni condiciones de devolución del grupo vigente.",
       "level": "Taller o programa formativo",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
       "note": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
       "themes": [
@@ -22725,7 +22814,7 @@
       "cost": "No se publican precio, equipo ni condiciones de devolución del grupo vigente.",
       "level": "Taller o programa formativo",
       "reward": "",
-      "priority": "P2 — participación según condiciones",
+      "priority": "P2 — participación según requisitos",
       "action": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
       "note": "Materiales en español. Confirmar el idioma del instructor y la posibilidad de aprender en inglés.",
       "themes": [
@@ -22742,6 +22831,623 @@
       "related_ids": [
         "L747"
       ]
+    },
+    {
+      "id": "C4530",
+      "title": "RoBOUAZ 2027 · Etapa estatal Zacatecas",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Campus UAZ Siglo XXI · Zacatecas",
+      "start": "2027-02-12",
+      "end": "2027-02-12",
+      "period": "Competición el 12 de febrero de 2027, Campus UAZ Siglo XXI. La portada indica Auditorio, la convocatoria indica el edificio de Ingeniería en Robótica y Mecatrónica. Confirmar la sede de acreditación.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://semer.uaz.edu.mx/robouaz-2027/",
+      "references": [
+        {
+          "url": "https://semer.uaz.edu.mx/robouaz-2027/informacion-general/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://semer.uaz.edu.mx/wp-content/uploads/2026/09/Convocatoria_ROBOUAZ_2027_Etapa_Estatal.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://semer.uaz.edu.mx/robouaz-2027/categorias-reglamento/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://semer.uaz.edu.mx/robouaz-2027/inscripcion-y-pago/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "La página general enumera secundaria y niveles superiores. Las bases por categoría admiten primaria en Robot Parking y fijan 9–29 años en las demás. La página de categorías da prioridad a los PDF. Confirmar elegibilidad escolar y equipo antes del viaje.",
+      "mat": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "osc": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "format": "Equipo de 3–4 personas según la convocatoria general. El máximo depende de la categoría. El profesorado puede actuar como mentor.",
+      "entry": "La página general enumera secundaria y niveles superiores. Las bases por categoría admiten primaria en Robot Parking y fijan 9–29 años en las demás. La página de categorías da prioridad a los PDF. Confirmar elegibilidad escolar y equipo antes del viaje.",
+      "gear": "La página general enumera secundaria y niveles superiores. Las bases por categoría admiten primaria en Robot Parking y fijan 9–29 años en las demás. La página de categorías da prioridad a los PDF. Confirmar elegibilidad escolar y equipo antes del viaje.",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Cuota UAZ por equipo: estudiantes MXN 1200, tarifa general y docentes MXN 1500. Robot, transporte y alojamiento aparte.",
+      "level": "Etapa regional",
+      "reward": "La universidad pública anuncia una ruta: etapa de Zacatecas el 12 de febrero de 2027, ROBOUAQ previsto en Querétaro en mayo de 2027 y etapa internacional en Panamá sin nombre ni fecha. La clasificación depende del resultado, del jurado y de las plazas.",
+      "priority": "P2 — participación según requisitos",
+      "action": "Cotejar con la organización si se admite primaria y una escuela de Costa Rica, la carta, el equipo, la hora y la sede de acreditación.",
+      "note": "Competición el 12 de febrero de 2027, Campus UAZ Siglo XXI. La portada indica Auditorio, la convocatoria indica el edificio de Ingeniería en Robótica y Mecatrónica. Confirmar la sede de acreditación.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "team_min": 3,
+      "team_max": 4,
+      "registration_opens": "2026-09-29",
+      "registration_status": "Apertura en línea el 29 de septiembre de 2026. Aún no se publica el cierre. Formulario de equipo y pago aparte mediante el portal UAZ.",
+      "related_ids": [
+        "C4531",
+        "C4532",
+        "C4533",
+        "C4534",
+        "C4535",
+        "C043"
+      ]
+    },
+    {
+      "id": "C4531",
+      "title": "RoBOUAZ 2027 · Robot Parking",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Campus UAZ Siglo XXI · Zacatecas",
+      "start": "2027-02-12",
+      "end": "2027-02-12",
+      "period": "Competición el 12 de febrero de 2027, Campus UAZ Siglo XXI. La portada indica Auditorio, la convocatoria indica el edificio de Ingeniería en Robótica y Mecatrónica. Confirmar la sede de acreditación.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://semer.uaz.edu.mx/wp-content/uploads/2026/09/Convocatoria_Robot_Parking_UAZ_2027.pdf",
+      "references": [
+        {
+          "url": "https://semer.uaz.edu.mx/robouaz-2027/categorias-reglamento/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://semer.uaz.edu.mx/wp-content/uploads/2026/09/Convocatoria_ROBOUAZ_2027_Etapa_Estatal.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://semer.uaz.edu.mx/robouaz-2027/inscripcion-y-pago/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "PDF, apartado 6.3: alumnado de primaria, secundaria, bachillerato y licenciatura. Sin mínimo numérico publicado.",
+      "mat": "Condicional. Las bases de la categoría admiten alumnado de primaria. Confirmar curso real, acceso de la escuela y equipo.",
+      "osc": "Condicional. Las bases de la categoría admiten alumnado de primaria. Confirmar curso real, acceso de la escuela y equipo.",
+      "format": "Equipo de 3–4 personas según la convocatoria general. El máximo depende de la categoría. El profesorado puede actuar como mentor.",
+      "entry": "PDF, apartado 6.3: alumnado de primaria, secundaria, bachillerato y licenciatura. Sin mínimo numérico publicado.",
+      "gear": "Vehículo eléctrico autónomo de 25–30 cm de largo, ancho <0.7L, sensores de proximidad, un botón de inicio, LED rojo y verde.",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Cuota UAZ por equipo: estudiantes MXN 1200, tarifa general y docentes MXN 1500. Robot, transporte y alojamiento aparte.",
+      "level": "Etapa regional",
+      "reward": "La universidad pública anuncia una ruta: etapa de Zacatecas el 12 de febrero de 2027, ROBOUAQ previsto en Querétaro en mayo de 2027 y etapa internacional en Panamá sin nombre ni fecha. La clasificación depende del resultado, del jurado y de las plazas.",
+      "priority": "P2 — participación según requisitos",
+      "action": "Cotejar con la organización si se admite primaria y una escuela de Costa Rica, la carta, el equipo, la hora y la sede de acreditación.",
+      "note": "La página general enumera secundaria y niveles superiores. Las bases por categoría admiten primaria en Robot Parking y fijan 9–29 años en las demás. La página de categorías da prioridad a los PDF. Confirmar elegibilidad escolar y equipo antes del viaje.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "school_selection",
+      "evidence_level": "official_rules",
+      "date_scope": "competition",
+      "team_min": 3,
+      "team_max": 4,
+      "registration_opens": "2026-09-29",
+      "registration_status": "Apertura en línea el 29 de septiembre de 2026. Aún no se publica el cierre. Formulario de equipo y pago aparte mediante el portal UAZ.",
+      "related_ids": [
+        "C4530",
+        "C4532",
+        "C4533",
+        "C4534"
+      ]
+    },
+    {
+      "id": "C4532",
+      "title": "RoBOUAZ 2027 · Mini Sumo Robot",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Campus UAZ Siglo XXI · Zacatecas",
+      "start": "2027-02-12",
+      "end": "2027-02-12",
+      "period": "Competición el 12 de febrero de 2027, Campus UAZ Siglo XXI. La portada indica Auditorio, la convocatoria indica el edificio de Ingeniería en Robótica y Mecatrónica. Confirmar la sede de acreditación.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://semer.uaz.edu.mx/wp-content/uploads/2026/09/Convocatoria_Robot_MiniSumo_UAZ_12_febrero_2027.pdf",
+      "references": [
+        {
+          "url": "https://semer.uaz.edu.mx/robouaz-2027/categorias-reglamento/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://semer.uaz.edu.mx/wp-content/uploads/2026/09/Convocatoria_ROBOUAZ_2027_Etapa_Estatal.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://semer.uaz.edu.mx/robouaz-2027/inscripcion-y-pago/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "De 9 a 29 años en la inauguración oficial. Estudiante activo o participante de un programa académico. La institución fuera de México presenta una carta aval firmada.",
+      "mat": "Condicional. Cumple el mínimo de 9 años. Confirmar acceso de la institución, carta y equipo.",
+      "osc": "No. Esta categoría exige un mínimo de 9 años. Revisar Robot Parking según el curso escolar.",
+      "format": "Equipo de 3–4 personas según la convocatoria general. El máximo depende de la categoría. El profesorado puede actuar como mentor.",
+      "entry": "De 9 a 29 años en la inauguración oficial. Estudiante activo o participante de un programa académico. La institución fuera de México presenta una carta aval firmada.",
+      "gear": "Control manual inalámbrico. Hasta 10 × 10 × 15 cm y 500 g. Verificar chasis, peso y dimensiones antes de solicitar plaza.",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Cuota UAZ por equipo: estudiantes MXN 1200, tarifa general y docentes MXN 1500. Robot, transporte y alojamiento aparte.",
+      "level": "Etapa regional",
+      "reward": "La universidad pública anuncia una ruta: etapa de Zacatecas el 12 de febrero de 2027, ROBOUAQ previsto en Querétaro en mayo de 2027 y etapa internacional en Panamá sin nombre ni fecha. La clasificación depende del resultado, del jurado y de las plazas.",
+      "priority": "P2 — participación según requisitos",
+      "action": "Cotejar con la organización si se admite primaria y una escuela de Costa Rica, la carta, el equipo, la hora y la sede de acreditación.",
+      "note": "La página general enumera secundaria y niveles superiores. Las bases por categoría admiten primaria en Robot Parking y fijan 9–29 años en las demás. La página de categorías da prioridad a los PDF. Confirmar elegibilidad escolar y equipo antes del viaje.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "school_selection",
+      "evidence_level": "official_rules",
+      "date_scope": "competition",
+      "team_min": 3,
+      "team_max": 3,
+      "registration_opens": "2026-09-29",
+      "registration_status": "Apertura en línea el 29 de septiembre de 2026. Aún no se publica el cierre. Formulario de equipo y pago aparte mediante el portal UAZ.",
+      "related_ids": [
+        "C4530",
+        "C4531",
+        "C4533",
+        "C4534"
+      ]
+    },
+    {
+      "id": "C4533",
+      "title": "RoBOUAZ 2027 · Robot Soccer",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Campus UAZ Siglo XXI · Zacatecas",
+      "start": "2027-02-12",
+      "end": "2027-02-12",
+      "period": "Competición el 12 de febrero de 2027, Campus UAZ Siglo XXI. La portada indica Auditorio, la convocatoria indica el edificio de Ingeniería en Robótica y Mecatrónica. Confirmar la sede de acreditación.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://semer.uaz.edu.mx/wp-content/uploads/2026/09/Convocatoria_Robot_Soccer_UAZ_2027.pdf",
+      "references": [
+        {
+          "url": "https://semer.uaz.edu.mx/robouaz-2027/categorias-reglamento/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://semer.uaz.edu.mx/wp-content/uploads/2026/09/Convocatoria_ROBOUAZ_2027_Etapa_Estatal.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://semer.uaz.edu.mx/robouaz-2027/inscripcion-y-pago/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "De 9 a 29 años en la inauguración oficial. Estudiante activo o participante de un programa académico. La institución fuera de México presenta una carta aval firmada.",
+      "mat": "Condicional. Cumple el mínimo de 9 años. Confirmar acceso de la institución, carta y equipo.",
+      "osc": "No. Esta categoría exige un mínimo de 9 años. Revisar Robot Parking según el curso escolar.",
+      "format": "Equipo de 3–4 personas según la convocatoria general. El máximo depende de la categoría. El profesorado puede actuar como mentor.",
+      "entry": "De 9 a 29 años en la inauguración oficial. Estudiante activo o participante de un programa académico. La institución fuera de México presenta una carta aval firmada.",
+      "gear": "Robots de desarrollo propio y control remoto. Una plataforma prefabricada exige modificación sustancial y acreditación por el equipo.",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Cuota UAZ por equipo: estudiantes MXN 1200, tarifa general y docentes MXN 1500. Robot, transporte y alojamiento aparte.",
+      "level": "Etapa regional",
+      "reward": "La universidad pública anuncia una ruta: etapa de Zacatecas el 12 de febrero de 2027, ROBOUAQ previsto en Querétaro en mayo de 2027 y etapa internacional en Panamá sin nombre ni fecha. La clasificación depende del resultado, del jurado y de las plazas.",
+      "priority": "P2 — participación según requisitos",
+      "action": "Cotejar con la organización si se admite primaria y una escuela de Costa Rica, la carta, el equipo, la hora y la sede de acreditación.",
+      "note": "La página general enumera secundaria y niveles superiores. Las bases por categoría admiten primaria en Robot Parking y fijan 9–29 años en las demás. La página de categorías da prioridad a los PDF. Confirmar elegibilidad escolar y equipo antes del viaje.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "school_selection",
+      "evidence_level": "official_rules",
+      "date_scope": "competition",
+      "team_min": 3,
+      "team_max": 4,
+      "registration_opens": "2026-09-29",
+      "registration_status": "Apertura en línea el 29 de septiembre de 2026. Aún no se publica el cierre. Formulario de equipo y pago aparte mediante el portal UAZ.",
+      "related_ids": [
+        "C4530",
+        "C4531",
+        "C4532",
+        "C4534"
+      ]
+    },
+    {
+      "id": "C4534",
+      "title": "RoBOUAZ 2027 · Balancín Autónomo",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Campus UAZ Siglo XXI · Zacatecas",
+      "start": "2027-02-12",
+      "end": "2027-02-12",
+      "period": "Competición el 12 de febrero de 2027, Campus UAZ Siglo XXI. La portada indica Auditorio, la convocatoria indica el edificio de Ingeniería en Robótica y Mecatrónica. Confirmar la sede de acreditación.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://semer.uaz.edu.mx/wp-content/uploads/2026/09/Convocatoria_Robot_Balancin_UAZ_2027.pdf",
+      "references": [
+        {
+          "url": "https://semer.uaz.edu.mx/robouaz-2027/categorias-reglamento/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://semer.uaz.edu.mx/wp-content/uploads/2026/09/Convocatoria_ROBOUAZ_2027_Etapa_Estatal.pdf",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://semer.uaz.edu.mx/robouaz-2027/inscripcion-y-pago/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "De 9 a 29 años en la inauguración oficial. Estudiante activo o participante de un programa académico. La institución fuera de México presenta una carta aval firmada.",
+      "mat": "Condicional. Cumple el mínimo de 9 años. Confirmar acceso de la institución, carta y equipo.",
+      "osc": "No. Esta categoría exige un mínimo de 9 años. Revisar Robot Parking según el curso escolar.",
+      "format": "Equipo de 3–4 personas según la convocatoria general. El máximo depende de la categoría. El profesorado puede actuar como mentor.",
+      "entry": "De 9 a 29 años en la inauguración oficial. Estudiante activo o participante de un programa académico. La institución fuera de México presenta una carta aval firmada.",
+      "gear": "Robot de equilibrio autónomo. Recorre la pista en posición vertical sin comunicación con dispositivos externos.",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Cuota UAZ por equipo: estudiantes MXN 1200, tarifa general y docentes MXN 1500. Robot, transporte y alojamiento aparte.",
+      "level": "Etapa regional",
+      "reward": "La universidad pública anuncia una ruta: etapa de Zacatecas el 12 de febrero de 2027, ROBOUAQ previsto en Querétaro en mayo de 2027 y etapa internacional en Panamá sin nombre ni fecha. La clasificación depende del resultado, del jurado y de las plazas.",
+      "priority": "P2 — participación según requisitos",
+      "action": "Cotejar con la organización si se admite primaria y una escuela de Costa Rica, la carta, el equipo, la hora y la sede de acreditación.",
+      "note": "La página general enumera secundaria y niveles superiores. Las bases por categoría admiten primaria en Robot Parking y fijan 9–29 años en las demás. La página de categorías da prioridad a los PDF. Confirmar elegibilidad escolar y equipo antes del viaje.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Etapa regional",
+      "participation": "team",
+      "admission_kind": "school_selection",
+      "evidence_level": "official_rules",
+      "date_scope": "competition",
+      "team_min": 3,
+      "team_max": 4,
+      "registration_opens": "2026-09-29",
+      "registration_status": "Apertura en línea el 29 de septiembre de 2026. Aún no se publica el cierre. Formulario de equipo y pago aparte mediante el portal UAZ.",
+      "related_ids": [
+        "C4530",
+        "C4531",
+        "C4532",
+        "C4533"
+      ]
+    },
+    {
+      "id": "C4535",
+      "title": "ROBOUAQ 2027 · Etapa nacional · Querétaro",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Querétaro",
+      "start": "",
+      "end": "",
+      "period": "La organización de la etapa de Zacatecas indica mayo de 2027. Quedan pendientes el día exacto, las bases locales y la clasificación a ROBOUAQ.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://semer.uaz.edu.mx/wp-content/uploads/2026/09/Convocatoria_ROBOUAZ_2027_Etapa_Estatal.pdf",
+      "references": [
+        {
+          "url": "https://semer.uaz.edu.mx/robouaz-2027/informacion-general/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "mat": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "osc": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "format": "",
+      "entry": "La organización de la etapa de Zacatecas indica mayo de 2027. Quedan pendientes el día exacto, las bases locales y la clasificación a ROBOUAQ.",
+      "gear": "",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Etapa nacional",
+      "reward": "La universidad pública anuncia una ruta: etapa de Zacatecas el 12 de febrero de 2027, ROBOUAQ previsto en Querétaro en mayo de 2027 y etapa internacional en Panamá sin nombre ni fecha. La clasificación depende del resultado, del jurado y de las plazas.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "La organización de la etapa de Zacatecas indica mayo de 2027. Quedan pendientes el día exacto, las bases locales y la clasificación a ROBOUAQ.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa nacional",
+      "participation": "team",
+      "admission_kind": "qualification",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "registration_status": "La organización de la etapa de Zacatecas indica mayo de 2027. Quedan pendientes el día exacto, las bases locales y la clasificación a ROBOUAQ.",
+      "related_ids": [
+        "C4530"
+      ]
+    },
+    {
+      "id": "C4536",
+      "title": "Tormenta de Tinta 2027 · Disney Lorcana Championship Qualifier",
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Sociedad Mexicana de Geografía y Estadística · CDMX",
+      "start": "2027-03-19",
+      "end": "2027-03-21",
+      "period": "Championship Qualifier. Apertura prevista en diciembre de 2026, fecha exacta y tarifa pendientes. Cupo de 256 jugadores. Confirmar edad mínima y documento de menores.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://www.tormentadetinta.com/torneo/",
+      "references": [
+        {
+          "url": "https://www.tormentadetinta.com/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.tormentadetinta.com/inscripciones/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://www.tormentadetinta.com/faq/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "mat": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "osc": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "format": "",
+      "entry": "Championship Qualifier. Apertura prevista en diciembre de 2026, fecha exacta y tarifa pendientes. Cupo de 256 jugadores. Confirmar edad mínima y documento de menores.",
+      "gear": "Mazo propio con fundas uniformes, lista digital previa y copia impresa en la acreditación, documento de identidad.",
+      "language": "Cartas en cualquier idioma si se puede mostrar el texto oficial. Confirmar el idioma del arbitraje.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Cartas en cualquier idioma si se puede mostrar el texto oficial. Confirmar el idioma del arbitraje.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Etapa nacional",
+      "reward": "Carta promocional por participar. Los primeros 32 reciben versión foil. Verificar la plaza concreta para la siguiente fase en las bases.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "Championship Qualifier. Apertura prevista en diciembre de 2026, fecha exacta y tarifa pendientes. Cupo de 256 jugadores. Confirmar edad mínima y documento de menores.",
+      "themes": [
+        "games"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa regional",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "competition",
+      "registration_status": "Championship Qualifier. Apertura prevista en diciembre de 2026, fecha exacta y tarifa pendientes. Cupo de 256 jugadores. Confirmar edad mínima y documento de menores."
+    },
+    {
+      "id": "L761",
+      "title": "Team STEAM Costa Rica · Explora STEAM · Energía solar",
+      "block": "Campamentos",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Costa Rica",
+      "start": "",
+      "end": "",
+      "period": "Por solicitud de grupo. No se publican fechas, horario, precio ni plazas individuales.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://teamsteamcr.com/inicio",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Grupo de 6–12 años. Ambos encajan por edad. Confirmar inscripción individual, sede e idioma del grupo.",
+      "mat": "Sí por edad. Solicitar horario y formato del grupo.",
+      "osc": "Sí por edad. Solicitar horario y formato del grupo.",
+      "format": "Por solicitud de grupo. No se publican fechas, horario, precio ni plazas individuales.",
+      "entry": "Por solicitud de grupo. No se publican fechas, horario, precio ni plazas individuales.",
+      "gear": "El alumnado construye un horno solar sencillo con materiales accesibles.",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "El alumnado construye un horno solar sencillo con materiales accesibles.",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Programa formativo técnico",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "programme_watch"
+    },
+    {
+      "id": "L762",
+      "title": "Team STEAM Costa Rica · Explora STEAM · Fuerzas en equilibrio",
+      "block": "Campamentos",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "iso": [
+        "CRI"
+      ],
+      "city": "Costa Rica",
+      "start": "",
+      "end": "",
+      "period": "Por solicitud de grupo. No se publican fechas, horario, precio ni plazas individuales.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://teamsteamcr.com/inicio",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Grupo de 6–12 años. Ambos encajan por edad. Confirmar inscripción individual, sede e idioma del grupo.",
+      "mat": "Sí por edad. Solicitar horario y formato del grupo.",
+      "osc": "Sí por edad. Solicitar horario y formato del grupo.",
+      "format": "Por solicitud de grupo. No se publican fechas, horario, precio ni plazas individuales.",
+      "entry": "Por solicitud de grupo. No se publican fechas, horario, precio ni plazas individuales.",
+      "gear": "El alumnado construye un puente con materiales simples y comprueba la estabilidad de la estructura.",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "El alumnado construye un puente con materiales simples y comprueba la estabilidad de la estructura.",
+      "themes": [
+        "science",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Programa formativo técnico",
+      "participation": "holiday_workshop",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "programme_watch"
+    },
+    {
+      "id": "L763",
+      "title": "Cultivatec · Robotics Winter Camp · Tinkercad",
+      "block": "Campamentos",
+      "country": "México",
+      "region": "América del Norte",
+      "iso": [
+        "MEX"
+      ],
+      "city": "Online",
+      "start": "",
+      "end": "",
+      "period": "La página indica del 19 de diciembre al 23 de enero, 5 sábados de 2 horas. No indica el año ni las 5 fechas. Confirmar el próximo turno y el sábado sin clase.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://cultivatec.com.mx/curso-robotics-winter-camp.html",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "10–13 años. No se publica la fecha de corte de edad.",
+      "mat": "Condicional. Si empieza en diciembre de 2026, Matvey tiene 9 años y el mínimo es 10. Confirmar año y fecha de corte.",
+      "osc": "No para la próxima ventana invernal. Edad mínima de 10 años.",
+      "format": "En línea desde casa, sin alojamiento.",
+      "entry": "La página indica del 19 de diciembre al 23 de enero, 5 sábados de 2 horas. No indica el año ni las 5 fechas. Confirmar el próximo turno y el sábado sin clase.",
+      "gear": "Diseño 3D en Tinkercad, circuitos electrónicos virtuales y programación.",
+      "language": "Descripción en español. Confirmar idioma de instrucción y admisión desde Costa Rica.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Descripción en español. Confirmar idioma de instrucción y admisión desde Costa Rica.",
+      "cost": "MXN 1599 por el curso en línea. Se necesita ordenador y navegador. No se requiere kit físico de componentes.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+      "note": "La página indica del 19 de diciembre al 23 de enero, 5 sábados de 2 horas. No indica el año ni las 5 fechas. Confirmar el próximo turno y el sábado sin clase.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "scope": "online",
+      "importance_reason": "Programa formativo técnico",
+      "participation": "online_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "programme_watch"
     },
     {
       "id": "CP041-20270329-20270402",
@@ -31511,11 +32217,11 @@
       "level": "Hackatón regional abierto",
       "reward": "El organizador anunció premios para los 3 primeros puestos.",
       "priority": "P2 — ruta local tras confirmar edad",
-      "action": "Confirmar edad, idioma de trabajo y plazas con K-Lab. La solicitud se rige por las condiciones del organizador.",
+      "action": "Confirmar si se admite a menores de 6 y 9 años en los equipos de dos días de K-Lab, si pueden ir con acompañante y si quedan plazas.",
       "source": "https://tec.ac.cr/hackathon-modi-kit-ia",
       "references": [],
       "proof": "Condiciones cotejadas con fuentes primarias. Los detalles sin confirmar se indican por separado.",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "status": "Idea",
       "note": "Primer día: formación en IA física y MODI. Segundo día: desarrollo, presentaciones y premios. Incluye almuerzo.",
       "themes": [
@@ -31529,7 +32235,11 @@
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "event_page",
-      "date_scope": "competition"
+      "date_scope": "competition",
+      "team_min": 3,
+      "team_max": 4,
+      "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfQvlzgW_3VcamEkE8-cWrFPqq8k4P9KDT5lgV5vU_Z6R8fPw/viewform",
+      "registration_status": "TEC publica un formulario. La lectura anónima devolvió HTTP 401. Aún no se confirman la edad de acceso ni las plazas."
     },
     {
       "block": "Competiciones",

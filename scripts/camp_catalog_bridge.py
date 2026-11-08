@@ -24,6 +24,7 @@ RELATED = {
     'mount-view-camps':['L119'], 'cenfotec-makers':['L139'],
     'robotecnia-holidays':['L028'], 'conversa-tech':['L121'],
     'liota-winter':['L141'], 'campo-aventuras':['L153'],
+    'cultivatec-robotics-winter-camp':['L763'],
     'worklab-apprentice':['L425','L430','L435','L440'],
     'worklab-junior':['L426','L431','L436','L441'],
     'worklab-senior':['L427','L432','L437','L442'],

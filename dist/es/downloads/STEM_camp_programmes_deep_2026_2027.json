@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "asof": "2026-11-07",
+  "asof": "2026-11-08",
   "title": "vacaciones 2026–2027 · archivos detallados de los operadores",
   "scope": "El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.",
   "methodology": [
@@ -30,14 +30,14 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1918,
+    "dossiers": 1919,
     "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
       "published_2027": 517,
       "partial_2027": 141,
-      "next_unannounced": 397,
+      "next_unannounced": 398,
       "published_2026": 348,
       "partial_2026_27": 32,
       "partial_2026": 23,
@@ -325,7 +325,7 @@
     },
     {
       "country": "México",
-      "count": 72
+      "count": 73
     },
     {
       "country": "Mozambique",
@@ -333642,6 +333642,77 @@
       "catalog_participation": "day_camp",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1919",
+      "slug": "cultivatec-robotics-winter-camp",
+      "provider": "Cultivatec · Robotics Winter Camp · Tinkercad",
+      "country": "México",
+      "iso": "MEX",
+      "place": "Online",
+      "age": "10–13 años. No se publica la fecha de corte de edad.",
+      "programme": "Diseño 3D en Tinkercad, circuitos electrónicos virtuales y programación.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Descripción en español. Confirmar idioma de instrucción y admisión desde Costa Rica.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "La página indica del 19 de diciembre al 23 de enero, 5 sábados de 2 horas. No indica el año ni las 5 fechas. Confirmar el próximo turno y el sábado sin clase.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "amount": 1599,
+        "currency": "MXN",
+        "unit": "course",
+        "label": "MXN 1599 por el curso en línea. Se necesita ordenador y navegador. No se requiere kit físico de componentes.",
+        "included": "Diseño 3D en Tinkercad, circuitos electrónicos virtuales y programación.",
+        "extras": "En línea desde casa, sin alojamiento.",
+        "deposit": "Aún no se confirman el coste total ni las plazas."
+      },
+      "accommodation": "En línea desde casa, sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Si empieza en diciembre de 2026, Matvey tiene 9 años y el mínimo es 10. Confirmar año y fecha de corte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No para la próxima ventana invernal. Edad mínima de 10 años."
+        }
+      },
+      "editorial_reason": "La página indica del 19 de diciembre al 23 de enero, 5 sábados de 2 horas. No indica el año ni las 5 fechas. Confirmar el próximo turno y el sábado sin clase.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad."
+      ],
+      "sources": [
+        {
+          "url": "https://cultivatec.com.mx/curso-robotics-winter-camp.html",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "online_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": [
+        "L763"
+      ],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -338967,7 +339038,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 260,
+  "version": 262,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -352202,7 +352273,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1918,
+      "total_dossiers": 1919,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -374200,6 +374271,11 @@
       "programme_id": "CP1915",
       "event_id": "CP1915-20261115-20261115-15-1500",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1919",
+      "event_id": "L763",
+      "relation": "related_track_or_operator"
     },
     {
       "programme_id": "CP1294",

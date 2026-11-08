@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "asof": "2026-11-07",
+  "asof": "2026-11-08",
   "title": "Каникулы 2026–2027 · подробные досье операторов",
   "scope": "Приоритетный углублённый проход: общие и тематические лагеря, технические курсы и каникулярные пансионы. Это отдельный реестр программ/операторов, а не количество уникальных лагерей в старой базе смен и занятий.",
   "methodology": [
@@ -30,14 +30,14 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1918,
+    "dossiers": 1919,
     "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
       "published_2027": 517,
       "partial_2027": 141,
-      "next_unannounced": 397,
+      "next_unannounced": 398,
       "published_2026": 348,
       "partial_2026_27": 32,
       "partial_2026": 23,
@@ -325,7 +325,7 @@
     },
     {
       "country": "Мексика",
-      "count": 72
+      "count": 73
     },
     {
       "country": "Мозамбик",
@@ -333642,6 +333642,77 @@
       "catalog_participation": "day_camp",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1919",
+      "slug": "cultivatec-robotics-winter-camp",
+      "provider": "Cultivatec · Robotics Winter Camp · Tinkercad",
+      "country": "Мексика",
+      "iso": "MEX",
+      "place": "Online",
+      "age": "10–13 лет. Контрольный день возраста не опубликован.",
+      "programme": "3D-дизайн в Tinkercad, виртуальные электронные схемы и программирование.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Описание на испанском. Язык преподавателя и приём из Коста-Рики уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "На странице 19 декабря — 23 января, 5 суббот по 2 часа. Год и перечень 5 дат не указаны. Подтвердить ближайший набор и пропущенную субботу.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "amount": 1599,
+        "currency": "MXN",
+        "unit": "course",
+        "label": "MXN 1599 за онлайн-курс. Нужен компьютер и браузер. Физический комплект компонентов не требуется.",
+        "included": "3D-дизайн в Tinkercad, виртуальные электронные схемы и программирование.",
+        "extras": "Онлайн из дома, без проживания.",
+        "deposit": "Полная стоимость и наличие мест ещё не подтверждены."
+      },
+      "accommodation": "Онлайн из дома, без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. При старте в декабре 2026 Матвею 9 лет, минимум 10. Проверить год и отсечку."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет для ближайшего зимнего окна. Минимум 10 лет."
+        }
+      },
+      "editorial_reason": "На странице 19 декабря — 23 января, 5 суббот по 2 часа. Год и перечень 5 дат не указаны. Подтвердить ближайший набор и пропущенную субботу.",
+      "shortlist": [],
+      "questions": [
+        "Перед записью сверить допуск, язык и наличие места."
+      ],
+      "sources": [
+        {
+          "url": "https://cultivatec.com.mx/curso-robotics-winter-camp.html",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "online_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": [
+        "L763"
+      ],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -338967,7 +339038,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 260,
+  "version": 262,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -352202,7 +352273,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1918,
+      "total_dossiers": 1919,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -374200,6 +374271,11 @@
       "programme_id": "CP1915",
       "event_id": "CP1915-20261115-20261115-15-1500",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1919",
+      "event_id": "L763",
+      "relation": "related_track_or_operator"
     },
     {
       "programme_id": "CP1294",

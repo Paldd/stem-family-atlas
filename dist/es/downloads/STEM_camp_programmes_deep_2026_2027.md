@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1918 fichas en 126 países. Cada ficha indica la fecha de verificación de sus fuentes.
+Estado de la base: 2026-11-08. 1919 fichas en 126 países. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -154429,6 +154429,44 @@ Burundi · CFPP Nyakabiga · Bujumbura
 - [Página oficial, reglamento o calendario de la asociación del sector.](https://www.kit-hub.com/assets/index-CkTcI-fu.js) · 2026-11-07
 
 - [Página oficial, reglamento o calendario de la asociación del sector.](https://bi.linkedin.com/company/kit-digital-innovation-hub) · 2026-11-07
+
+## CP1919 · Cultivatec · Robotics Winter Camp · Tinkercad
+
+México · Online
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 10–13 años. No se publica la fecha de corte de edad.
+
+**Idioma:** Descripción en español. Confirmar idioma de instrucción y admisión desde Costa Rica.
+
+**Programa:** Diseño 3D en Tinkercad, circuitos electrónicos virtuales y programación.
+
+**Alojamiento:** En línea desde casa, sin alojamiento.
+
+**Fechas / estado:** La página indica del 19 de diciembre al 23 de enero, 5 sábados de 2 horas. No indica el año ni las 5 fechas. Confirmar el próximo turno y el sábado sin clase.
+
+**Precio / año:** sin establecer · MXN 1599 por el curso en línea. Se necesita ordenador y navegador. No se requiere kit físico de componentes.
+
+**Incluido:** Diseño 3D en Tinkercad, circuitos electrónicos virtuales y programación.
+
+**Suplementos:** En línea desde casa, sin alojamiento.
+
+**Pago:** Aún no se confirman el coste total ni las plazas.
+
+**Matvey:** Condicional. Si empieza en diciembre de 2026, Matvey tiene 9 años y el mínimo es 10. Confirmar año y fecha de corte.
+
+**Oscar:** No para la próxima ventana invernal. Edad mínima de 10 años.
+
+**Motivo de la selección:** La página indica del 19 de diciembre al 23 de enero, 5 sábados de 2 horas. No indica el año ni las 5 fechas. Confirmar el próximo turno y el sábado sin clase.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://cultivatec.com.mx/curso-robotics-winter-camp.html) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

@@ -114,13 +114,13 @@ Se ha comprobado: 2026-11-05
 Fecha: 2027-03-06 — 2027-03-06
 edad: Explore 6–10; Challenge 9–16
 Matvey: Sí por edad: Explore y Challenge; confirmar composición y admisión de equipo.
-Oscar: Explore por edad; confirmar composición y admisión de equipo.
+Oscar: Sí por edad para Explore. Hace falta completar el equipo y obtener confirmación de la solicitud.
 Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
 Acceso: Operador local Fundación STEAM publica ambas inscripciones hasta 30 de noviembre de 2026 y día nacional 6 de marzo de 2027. Explore exige 3–6 niños y un entrenador; Challenge 3–8 y un entrenador. Dos hermanos no bastan para equipo separado. Composición independiente / extranjera y país representado sin confirmar; formularios devolvieron HTTP 401 en lectura anónima, campos sin revisar. No acredita cierre de inscripción.
 Precio: CRC: Explore — 1 equipo 70000 / 1 kit; 3 equipos 120000 / 3 kits; 5 equipos 175000 / 5 kits. Challenge — 1 equipo 220000 / 1 kit; 3 equipos 265000 / 1 kit; 5 equipos 295000 / 1 kit. Paquetes por equipo, no tarifas por niño. Póster incluye inscripción, set de categoría, material digital, medalla LEGO y certificado digital para participantes. Contenido de kit, inclusión de robot programable, impuestos, envío, entrenador, ordenador y viaje requieren factura aparte.
 Limitaciones: Publicado Founders, sin trasladar condiciones de equipo Future Edition México a Costa Rica. Medalla y certificado del paquete son participación; puesto Challenge y cupo internacional requieren acta / decisión separada. Una Explore cuesta 70000; Challenge + Explore separados 220000 + 70000 = 290000 CRC antes de suplementos sin confirmar. Fecha general no fija hora separada de Explore o Challenge.
 Fuente: https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### C004 · FIRST LEGO League BIOGLOW — Explore / Challenge
 
@@ -198,7 +198,7 @@ Entrada: Nueva convocatoria 2027; admisión primaria extranjera separada de la c
 Costo: No publicado / Comprobar la edición actual
 Limitaciones: 23 Categoría, cerca 300 y 1 200 en la comunicación — Proyección de los organizadores, Protocolo no efectivo. Fechas TMR no significa admisión 6/9-de verano a todas las disciplinas. TMR 2026 Finalizado; adulto Escuela de Invierno Veracruz no considerar un campamento de niños.
 Fuente: https://turismo.zacatecas.gob.mx/sera-zacatecas-sede-del-torneo-mexicano-de-robotica-2027/
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C044 · WER México · Primaria · nueva convocatoria sin confirmar
 
@@ -1004,7 +1004,7 @@ Entrada: Registro oficial CENFOTEC; confirmar la edad en la fecha de inicio, el 
 Costo: En US$180 + 2% IVA; el material incluido, el lugar y el juego actual
 Limitaciones: Página primaria actual indica dos veces presencial. La caché de búsqueda le dio virtual en vivo; En línea-No se ha prometido participar. Texto español del sitio / La bandera de traducción no prueba el idioma de la clase. Al mismo tiempo Ruta Explorador IA se ha calculado para 14–16 y no es apropiado para los niños. 6 / 9. El usuario informó 2017/2020: Edad 10 diciembre 2026 No es posible para Matvey; Exclusión de la condición anterior.
 Fuente: https://ucenfotec.ac.cr/ecommerce/producto/ruta-makers-lab/
-Comprobado: 2026-10-02
+Se ha comprobado: 2026-11-08
 
 ### L140 · Cerebritos del Futuro · mini campañas STEAM  - futuro cambio
 
@@ -1433,7 +1433,7 @@ Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro des
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C1172 · RoboJam MX Norestense · Bristle Race · 2027
 
@@ -1446,7 +1446,7 @@ Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro des
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C1173 · RoboJam MX Norestense · Path Attack Junior · 2027
 
@@ -1459,7 +1459,7 @@ Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro des
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C1174 · RoboJam MX Norestense · CrossBot · 2027
 
@@ -1472,7 +1472,7 @@ Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro des
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C1175 · RoboJam MX Norestense · Skill Drive · 2027
 
@@ -1485,7 +1485,7 @@ Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro des
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C1176 · RoboJam MX Norestense · Stack.IN · 2027
 
@@ -1498,7 +1498,7 @@ Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro des
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C1177 · RoboJam MX Norestense · BumperBot Evolution · 2027
 
@@ -1511,7 +1511,7 @@ Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro des
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C1178 · RoboJam MX Norestense · Path Attack Pro · 2027
 
@@ -1524,7 +1524,7 @@ Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro des
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C1179 · RoboJam MX Norestense · Disk Derby · 2027
 
@@ -1537,7 +1537,7 @@ Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro des
 Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
 Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
 Fuente: https://www.robojam.live/mexico
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-08
 
 ### C1197 · ITR Mexico 2028 · Cancún · fechas discrepantes
 
@@ -2193,27 +2193,27 @@ Se ha comprobado: 2026-11-05
 
 Fecha: 2027-03-06 — 2027-03-06
 Edad: 6 &apos; 10
-Matvey: Sí por edad: Explore y Challenge; confirmar composición y admisión de equipo.
-Oscar: Explore por edad; confirmar composición y admisión de equipo.
+Matvey: Sí por edad para Explore. Hace falta completar el equipo y obtener confirmación de la solicitud.
+Oscar: Sí por edad para Explore. Hace falta completar el equipo y obtener confirmación de la solicitud.
 Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
-Acceso: Operador local Fundación STEAM publica ambas inscripciones hasta 30 de noviembre de 2026 y día nacional 6 de marzo de 2027. Explore exige 3–6 niños y un entrenador; Challenge 3–8 y un entrenador. Dos hermanos no bastan para equipo separado. Composición independiente / extranjera y país representado sin confirmar; formularios devolvieron HTTP 401 en lectura anónima, campos sin revisar. No acredita cierre de inscripción.
-Precio: CRC: Explore — 1 equipo 70000 / 1 kit; 3 equipos 120000 / 3 kits; 5 equipos 175000 / 5 kits. Challenge — 1 equipo 220000 / 1 kit; 3 equipos 265000 / 1 kit; 5 equipos 295000 / 1 kit. Paquetes por equipo, no tarifas por niño. Póster incluye inscripción, set de categoría, material digital, medalla LEGO y certificado digital para participantes. Contenido de kit, inclusión de robot programable, impuestos, envío, entrenador, ordenador y viaje requieren factura aparte.
+Acceso: Explore para edades de 6–10 años. Equipo de 3–6 menores y una persona adulta como entrenadora. Plazo de solicitud el 30 de noviembre de 2026. Confirmar el acceso de equipos independientes o extranjeros.
+Precio: Un equipo Explore CRC 70000, con 1 kit de temporada en el paquete. Confirmar aparte SPIKE Essential, entrenador y factura total.
 Limitaciones: Publicado Founders, sin trasladar condiciones de equipo Future Edition México a Costa Rica. Medalla y certificado del paquete son participación; puesto Challenge y cupo internacional requieren acta / decisión separada. Una Explore cuesta 70000; Challenge + Explore separados 220000 + 70000 = 290000 CRC antes de suplementos sin confirmar. Fecha general no fija hora separada de Explore o Challenge.
 Fuente: https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### C1296 · FIRST LEGO League Costa Rica · BIOGLOW Challenge
 
 Fecha: 2027-03-06 — 2027-03-06
 Edad: 9*16
-Matvey: Sí por edad: Explore y Challenge; confirmar composición y admisión de equipo.
-Oscar: No: mínimo publicado 9 años.
+Matvey: Sí por edad para Challenge. Se exige equipo y confirmación de la solicitud.
+Oscar: No para Challenge. Edad mínima de 9 años. Sí encaja por edad para Explore.
 Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
-Acceso: Operador local Fundación STEAM publica ambas inscripciones hasta 30 de noviembre de 2026 y día nacional 6 de marzo de 2027. Explore exige 3–6 niños y un entrenador; Challenge 3–8 y un entrenador. Dos hermanos no bastan para equipo separado. Composición independiente / extranjera y país representado sin confirmar; formularios devolvieron HTTP 401 en lectura anónima, campos sin revisar. No acredita cierre de inscripción.
-Precio: CRC: Explore — 1 equipo 70000 / 1 kit; 3 equipos 120000 / 3 kits; 5 equipos 175000 / 5 kits. Challenge — 1 equipo 220000 / 1 kit; 3 equipos 265000 / 1 kit; 5 equipos 295000 / 1 kit. Paquetes por equipo, no tarifas por niño. Póster incluye inscripción, set de categoría, material digital, medalla LEGO y certificado digital para participantes. Contenido de kit, inclusión de robot programable, impuestos, envío, entrenador, ordenador y viaje requieren factura aparte.
+Acceso: Challenge para edades de 9–16 años. Equipo de 3–8 menores y una persona entrenadora. Plazo de solicitud el 30 de noviembre de 2026. Confirmar el acceso de equipos independientes o extranjeros.
+Precio: Un equipo Challenge CRC 220000, con 1 kit de temporada en el paquete. Confirmar aparte si incluye el robot programable y la factura total.
 Limitaciones: Publicado Founders, sin trasladar condiciones de equipo Future Edition México a Costa Rica. Medalla y certificado del paquete son participación; puesto Challenge y cupo internacional requieren acta / decisión separada. Una Explore cuesta 70000; Challenge + Explore separados 220000 + 70000 = 290000 CRC antes de suplementos sin confirmar. Fecha general no fija hora separada de Explore o Challenge.
 Fuente: https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-08
 
 ### C1308 · Academia STEM · Chihuahua Zona Centro · 2026-11-09
 
@@ -4815,6 +4815,136 @@ Limitaciones: Materiales en español. Confirmar el idioma del instructor y la po
 Fuente: https://meridaponiente-conkal.youngengineers.org/
 Se ha comprobado: 2026-11-07
 
+### C4530 · RoBOUAZ 2027 · Etapa estatal Zacatecas
+
+Fecha: 2027-02-12 — 2027-02-12
+edad: La página general enumera secundaria y niveles superiores. Las bases por categoría admiten primaria en Robot Parking y fijan 9–29 años en las demás. La página de categorías da prioridad a los PDF. Confirmar elegibilidad escolar y equipo antes del viaje.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: La página general enumera secundaria y niveles superiores. Las bases por categoría admiten primaria en Robot Parking y fijan 9–29 años en las demás. La página de categorías da prioridad a los PDF. Confirmar elegibilidad escolar y equipo antes del viaje.
+Precio: Cuota UAZ por equipo: estudiantes MXN 1200, tarifa general y docentes MXN 1500. Robot, transporte y alojamiento aparte.
+Limitaciones: Competición el 12 de febrero de 2027, Campus UAZ Siglo XXI. La portada indica Auditorio, la convocatoria indica el edificio de Ingeniería en Robótica y Mecatrónica. Confirmar la sede de acreditación.
+Fuente: https://semer.uaz.edu.mx/robouaz-2027/
+Se ha comprobado: 2026-11-08
+
+### C4531 · RoBOUAZ 2027 · Robot Parking
+
+Fecha: 2027-02-12 — 2027-02-12
+edad: PDF, apartado 6.3: alumnado de primaria, secundaria, bachillerato y licenciatura. Sin mínimo numérico publicado.
+Matvey: Condicional. Las bases de la categoría admiten alumnado de primaria. Confirmar curso real, acceso de la escuela y equipo.
+Oscar: Condicional. Las bases de la categoría admiten alumnado de primaria. Confirmar curso real, acceso de la escuela y equipo.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: PDF, apartado 6.3: alumnado de primaria, secundaria, bachillerato y licenciatura. Sin mínimo numérico publicado.
+Precio: Cuota UAZ por equipo: estudiantes MXN 1200, tarifa general y docentes MXN 1500. Robot, transporte y alojamiento aparte.
+Limitaciones: La página general enumera secundaria y niveles superiores. Las bases por categoría admiten primaria en Robot Parking y fijan 9–29 años en las demás. La página de categorías da prioridad a los PDF. Confirmar elegibilidad escolar y equipo antes del viaje.
+Fuente: https://semer.uaz.edu.mx/wp-content/uploads/2026/09/Convocatoria_Robot_Parking_UAZ_2027.pdf
+Se ha comprobado: 2026-11-08
+
+### C4532 · RoBOUAZ 2027 · Mini Sumo Robot
+
+Fecha: 2027-02-12 — 2027-02-12
+edad: De 9 a 29 años en la inauguración oficial. Estudiante activo o participante de un programa académico. La institución fuera de México presenta una carta aval firmada.
+Matvey: Condicional. Cumple el mínimo de 9 años. Confirmar acceso de la institución, carta y equipo.
+Oscar: No. Esta categoría exige un mínimo de 9 años. Revisar Robot Parking según el curso escolar.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: De 9 a 29 años en la inauguración oficial. Estudiante activo o participante de un programa académico. La institución fuera de México presenta una carta aval firmada.
+Precio: Cuota UAZ por equipo: estudiantes MXN 1200, tarifa general y docentes MXN 1500. Robot, transporte y alojamiento aparte.
+Limitaciones: La página general enumera secundaria y niveles superiores. Las bases por categoría admiten primaria en Robot Parking y fijan 9–29 años en las demás. La página de categorías da prioridad a los PDF. Confirmar elegibilidad escolar y equipo antes del viaje.
+Fuente: https://semer.uaz.edu.mx/wp-content/uploads/2026/09/Convocatoria_Robot_MiniSumo_UAZ_12_febrero_2027.pdf
+Se ha comprobado: 2026-11-08
+
+### C4533 · RoBOUAZ 2027 · Robot Soccer
+
+Fecha: 2027-02-12 — 2027-02-12
+edad: De 9 a 29 años en la inauguración oficial. Estudiante activo o participante de un programa académico. La institución fuera de México presenta una carta aval firmada.
+Matvey: Condicional. Cumple el mínimo de 9 años. Confirmar acceso de la institución, carta y equipo.
+Oscar: No. Esta categoría exige un mínimo de 9 años. Revisar Robot Parking según el curso escolar.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: De 9 a 29 años en la inauguración oficial. Estudiante activo o participante de un programa académico. La institución fuera de México presenta una carta aval firmada.
+Precio: Cuota UAZ por equipo: estudiantes MXN 1200, tarifa general y docentes MXN 1500. Robot, transporte y alojamiento aparte.
+Limitaciones: La página general enumera secundaria y niveles superiores. Las bases por categoría admiten primaria en Robot Parking y fijan 9–29 años en las demás. La página de categorías da prioridad a los PDF. Confirmar elegibilidad escolar y equipo antes del viaje.
+Fuente: https://semer.uaz.edu.mx/wp-content/uploads/2026/09/Convocatoria_Robot_Soccer_UAZ_2027.pdf
+Se ha comprobado: 2026-11-08
+
+### C4534 · RoBOUAZ 2027 · Balancín Autónomo
+
+Fecha: 2027-02-12 — 2027-02-12
+edad: De 9 a 29 años en la inauguración oficial. Estudiante activo o participante de un programa académico. La institución fuera de México presenta una carta aval firmada.
+Matvey: Condicional. Cumple el mínimo de 9 años. Confirmar acceso de la institución, carta y equipo.
+Oscar: No. Esta categoría exige un mínimo de 9 años. Revisar Robot Parking según el curso escolar.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: De 9 a 29 años en la inauguración oficial. Estudiante activo o participante de un programa académico. La institución fuera de México presenta una carta aval firmada.
+Precio: Cuota UAZ por equipo: estudiantes MXN 1200, tarifa general y docentes MXN 1500. Robot, transporte y alojamiento aparte.
+Limitaciones: La página general enumera secundaria y niveles superiores. Las bases por categoría admiten primaria en Robot Parking y fijan 9–29 años en las demás. La página de categorías da prioridad a los PDF. Confirmar elegibilidad escolar y equipo antes del viaje.
+Fuente: https://semer.uaz.edu.mx/wp-content/uploads/2026/09/Convocatoria_Robot_Balancin_UAZ_2027.pdf
+Se ha comprobado: 2026-11-08
+
+### C4535 · ROBOUAQ 2027 · Etapa nacional · Querétaro
+
+Fecha: La organización de la etapa de Zacatecas indica mayo de 2027. Quedan pendientes el día exacto, las bases locales y la clasificación a ROBOUAQ.
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: La organización de la etapa de Zacatecas indica mayo de 2027. Quedan pendientes el día exacto, las bases locales y la clasificación a ROBOUAQ.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: La organización de la etapa de Zacatecas indica mayo de 2027. Quedan pendientes el día exacto, las bases locales y la clasificación a ROBOUAQ.
+Fuente: https://semer.uaz.edu.mx/wp-content/uploads/2026/09/Convocatoria_ROBOUAZ_2027_Etapa_Estatal.pdf
+Se ha comprobado: 2026-11-08
+
+### C4536 · Tormenta de Tinta 2027 · Disney Lorcana Championship Qualifier
+
+Fecha: 2027-03-19 国 2027-03-21
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matvey: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Oscar: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Idioma: Cartas en cualquier idioma si se puede mostrar el texto oficial. Confirmar el idioma del arbitraje.
+Acceso: Championship Qualifier. Apertura prevista en diciembre de 2026, fecha exacta y tarifa pendientes. Cupo de 256 jugadores. Confirmar edad mínima y documento de menores.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: Championship Qualifier. Apertura prevista en diciembre de 2026, fecha exacta y tarifa pendientes. Cupo de 256 jugadores. Confirmar edad mínima y documento de menores.
+Fuente: https://www.tormentadetinta.com/torneo/
+Se ha comprobado: 2026-11-08
+
+### L761 · Team STEAM Costa Rica · Explora STEAM · Energía solar
+
+Fecha: Por solicitud de grupo. No se publican fechas, horario, precio ni plazas individuales.
+edad: Grupo de 6–12 años. Ambos encajan por edad. Confirmar inscripción individual, sede e idioma del grupo.
+Matvey: Sí por edad. Solicitar horario y formato del grupo.
+Oscar: Sí por edad. Solicitar horario y formato del grupo.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Por solicitud de grupo. No se publican fechas, horario, precio ni plazas individuales.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: El alumnado construye un horno solar sencillo con materiales accesibles.
+Fuente: https://teamsteamcr.com/inicio
+Se ha comprobado: 2026-11-08
+
+### L762 · Team STEAM Costa Rica · Explora STEAM · Fuerzas en equilibrio
+
+Fecha: Por solicitud de grupo. No se publican fechas, horario, precio ni plazas individuales.
+edad: Grupo de 6–12 años. Ambos encajan por edad. Confirmar inscripción individual, sede e idioma del grupo.
+Matvey: Sí por edad. Solicitar horario y formato del grupo.
+Oscar: Sí por edad. Solicitar horario y formato del grupo.
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Acceso: Por solicitud de grupo. No se publican fechas, horario, precio ni plazas individuales.
+Precio: Aún no se confirman el coste total ni las plazas.
+Limitaciones: El alumnado construye un puente con materiales simples y comprueba la estabilidad de la estructura.
+Fuente: https://teamsteamcr.com/inicio
+Se ha comprobado: 2026-11-08
+
+### L763 · Cultivatec · Robotics Winter Camp · Tinkercad
+
+Fecha: La página indica del 19 de diciembre al 23 de enero, 5 sábados de 2 horas. No indica el año ni las 5 fechas. Confirmar el próximo turno y el sábado sin clase.
+edad: 10–13 años. No se publica la fecha de corte de edad.
+Matvey: Condicional. Si empieza en diciembre de 2026, Matvey tiene 9 años y el mínimo es 10. Confirmar año y fecha de corte.
+Oscar: No para la próxima ventana invernal. Edad mínima de 10 años.
+Idioma: Descripción en español. Confirmar idioma de instrucción y admisión desde Costa Rica.
+Acceso: La página indica del 19 de diciembre al 23 de enero, 5 sábados de 2 horas. No indica el año ni las 5 fechas. Confirmar el próximo turno y el sábado sin clase.
+Precio: MXN 1599 por el curso en línea. Se necesita ordenador y navegador. No se requiere kit físico de componentes.
+Limitaciones: La página indica del 19 de diciembre al 23 de enero, 5 sábados de 2 horas. No indica el año ni las 5 fechas. Confirmar el próximo turno y el sábado sin clase.
+Fuente: https://cultivatec.com.mx/curso-robotics-winter-camp.html
+Se ha comprobado: 2026-11-08
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -6438,7 +6568,7 @@ Acceso: TEC convoca al público general, con cupos limitados. La organización f
 Precio: Precio de participación sin indicar. El anuncio incluye almuerzo.
 Limitaciones: Primer día: formación en IA física y MODI. Segundo día: desarrollo, presentaciones y premios. Incluye almuerzo.
 Fuente: https://tec.ac.cr/hackathon-modi-kit-ia
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### C079 · TecPro Challenge Virtual · Match 1 · 2026
 

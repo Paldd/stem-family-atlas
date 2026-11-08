@@ -2356,7 +2356,7 @@ Costo: En US$180 + 2% IVA; el material incluido, el lugar y el juego actual
 Entrada: Registro oficial CENFOTEC; confirmar la edad en la fecha de inicio, el campus específico, el idioma de enseñanza y la acogida de un niño extranjero.
 Limitaciones: Página primaria actual indica dos veces presencial. La caché de búsqueda le dio virtual en vivo; En línea-No se ha prometido participar. Texto español del sitio / La bandera de traducción no prueba el idioma de la clase. Al mismo tiempo Ruta Explorador IA se ha calculado para 14–16 y no es apropiado para los niños. 6 / 9. El usuario informó 2017/2020: Edad 10 diciembre 2026 No es posible para Matvey; Exclusión de la condición anterior.
 Fuente: https://ucenfotec.ac.cr/ecommerce/producto/ruta-makers-lab/
-Comprobado: 2026-10-02
+Se ha comprobado: 2026-11-08
 
 ### L140 · Cerebritos del Futuro · mini campañas STEAM  - futuro cambio
 
@@ -10949,6 +10949,54 @@ Acceso: Por invitación o mediante un centro escolar local participante.
 Limitaciones: Club escolar Drone. Trabajo en un vehículo submarino y viaje del equipo al MATE ROV regional en Canadá. No consta inscripción local abierta.
 Fuente: https://infooutremer.fr/saint-pierre-et-miquelon-le-robot-sous-marin-de-six-collegiens-mis-a-lhonneur/
 Se ha comprobado: 2026-11-07
+
+### L761 · Team STEAM Costa Rica · Explora STEAM · Energía solar
+
+Lugar: Costa Rica Costa Rica
+Fecha: Por solicitud de grupo. No se publican fechas, horario, precio ni plazas individuales.
+edad: Grupo de 6–12 años. Ambos encajan por edad. Confirmar inscripción individual, sede e idioma del grupo.
+Matvey: Sí por edad. Solicitar horario y formato del grupo.
+Oscar: Sí por edad. Solicitar horario y formato del grupo.
+Formato: holiday_workshop
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Por solicitud de grupo. No se publican fechas, horario, precio ni plazas individuales.
+Limitaciones: El alumnado construye un horno solar sencillo con materiales accesibles.
+Fuente: https://teamsteamcr.com/inicio
+Se ha comprobado: 2026-11-08
+
+### L762 · Team STEAM Costa Rica · Explora STEAM · Fuerzas en equilibrio
+
+Lugar: Costa Rica Costa Rica
+Fecha: Por solicitud de grupo. No se publican fechas, horario, precio ni plazas individuales.
+edad: Grupo de 6–12 años. Ambos encajan por edad. Confirmar inscripción individual, sede e idioma del grupo.
+Matvey: Sí por edad. Solicitar horario y formato del grupo.
+Oscar: Sí por edad. Solicitar horario y formato del grupo.
+Formato: holiday_workshop
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Por solicitud de grupo. No se publican fechas, horario, precio ni plazas individuales.
+Limitaciones: El alumnado construye un puente con materiales simples y comprueba la estabilidad de la estructura.
+Fuente: https://teamsteamcr.com/inicio
+Se ha comprobado: 2026-11-08
+
+### L763 · Cultivatec · Robotics Winter Camp · Tinkercad
+
+Lugar: México Online
+Fecha: La página indica del 19 de diciembre al 23 de enero, 5 sábados de 2 horas. No indica el año ni las 5 fechas. Confirmar el próximo turno y el sábado sin clase.
+edad: 10–13 años. No se publica la fecha de corte de edad.
+Matvey: Condicional. Si empieza en diciembre de 2026, Matvey tiene 9 años y el mínimo es 10. Confirmar año y fecha de corte.
+Oscar: No para la próxima ventana invernal. Edad mínima de 10 años.
+Formato: online_camp
+Idioma: Descripción en español. Confirmar idioma de instrucción y admisión desde Costa Rica.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: MXN 1599 por el curso en línea. Se necesita ordenador y navegador. No se requiere kit físico de componentes.
+Acceso: La página indica del 19 de diciembre al 23 de enero, 5 sábados de 2 horas. No indica el año ni las 5 fechas. Confirmar el próximo turno y el sábado sin clase.
+Limitaciones: La página indica del 19 de diciembre al 23 de enero, 5 sábados de 2 horas. No indica el año ni las 5 fechas. Confirmar el próximo turno y el sábado sin clase.
+Fuente: https://cultivatec.com.mx/curso-robotics-winter-camp.html
+Se ha comprobado: 2026-11-08
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
