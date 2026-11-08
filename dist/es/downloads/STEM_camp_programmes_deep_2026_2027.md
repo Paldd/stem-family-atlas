@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-07. 1874 dosieres en 121 países. Las fechas de verificación de las fuentes constan en cada dosier.
+Estado de la base al 2026-11-07. 1875 dosieres en 121 países. Las fechas de verificación de las fuentes constan en cada dosier.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -147655,6 +147655,92 @@ Singapur · GESS campus · E204
 ### Fuentes
 
 - [Página o reglamento oficial de la organización.](https://www.gess.edu.sg/en/experiential-learning/holiday-camps) · 2026-11-07
+
+## CP1875 · Observando el Cosmos · Acambay
+
+México · Ejido de Detiña · Acambay
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Participación familiar. Tarifa infantil de 5–12 años. La tarifa adulta también empieza a los 12 años.
+
+**Idioma:** No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+
+**Programa:** Observación con telescopio, iniciación a la astrofotografía y procesado de imágenes. Con nubes, la óptica depende del tiempo.
+
+**Alojamiento:** Acampada familiar con adultos acompañantes.
+
+**Fechas / estado:** Fines de semana separados del 7 al 8 y del 14 al 15 de noviembre, y del 5 al 6 y del 12 al 13 de diciembre de 2026.
+
+**Precio / año:** 2026 · 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte.
+
+**Incluido:** Espacio para tienda y zona de telescopios. La organización instala telescopios para observación compartida.
+
+**Suplementos:** Menú de 290 MXN por adulto, 220 MXN por niño. Alquiler de equipo y senderismo aparte.
+
+**Pago:** Para turnos regulares, reembolso con 7 días o más, con 3–6 días cambio o 50% de reembolso. Sin reembolso a menos de 3 días. Confirmar modalidad.
+
+**Matvey:** Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.
+
+**Oscar:** Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.
+
+### Fin de semana familiar con tienda
+
+**Fechas / estado:** 2026-11-07 — 2026-11-08
+
+**Precio:** 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte.
+
+**condiciones de participación:** Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://www.sbkmexico.com/campamento.php)
+
+### Fin de semana familiar con tienda
+
+**Fechas / estado:** 2026-11-14 — 2026-11-15
+
+**Precio:** 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte.
+
+**condiciones de participación:** Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://www.sbkmexico.com/campamento.php)
+
+### Fin de semana familiar con tienda
+
+**Fechas / estado:** 2026-12-05 — 2026-12-06
+
+**Precio:** 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte.
+
+**condiciones de participación:** Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://www.sbkmexico.com/campamento.php)
+
+### Fin de semana familiar con tienda
+
+**Fechas / estado:** 2026-12-12 — 2026-12-13
+
+**Precio:** 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte.
+
+**condiciones de participación:** Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.
+
+**Disponibilidad de plazas:** Fechas publicadas. Disponibilidad y admisión sin confirmar.
+
+[fuente](https://www.sbkmexico.com/campamento.php)
+
+### Fuentes
+
+- [Página o reglamento oficial de la organización.](https://www.sbkmexico.com/campamento.php) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

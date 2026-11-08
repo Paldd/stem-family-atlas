@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 8571,
-    "competition_cards": 3473,
-    "event_cards": 458,
-    "camp_cards": 4640,
+    "cards": 8596,
+    "competition_cards": 3479,
+    "event_cards": 471,
+    "camp_cards": 4646,
     "league_profiles": 288,
-    "major_exhibition_cards": 368,
+    "major_exhibition_cards": 375,
     "vex_cards": 521,
-    "countries_with_records": 201,
+    "countries_with_records": 203,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 2859,
+      "total": 2873,
       "countries_with_records": 37,
-      "competitions": 1526,
-      "events": 117,
-      "major_exhibitions": 81,
-      "camps": 1216,
+      "competitions": 1530,
+      "events": 122,
+      "major_exhibitions": 84,
+      "camps": 1221,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 1946,
+      "total": 1955,
       "countries_with_records": 48,
       "competitions": 444,
-      "events": 108,
-      "major_exhibitions": 88,
-      "camps": 1394,
+      "events": 116,
+      "major_exhibitions": 92,
+      "camps": 1395,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -76,9 +76,9 @@
       "regions": [
         "Африка"
       ],
-      "total": 255,
-      "countries_with_records": 44,
-      "competitions": 142,
+      "total": 257,
+      "countries_with_records": 47,
+      "competitions": 144,
       "events": 35,
       "major_exhibitions": 27,
       "camps": 78,
@@ -11580,6 +11580,83 @@
       "new": false
     },
     {
+      "id": "E459",
+      "name": "345Robotics Expo/Showcase 2025 · Cayman",
+      "country": "Кайман острова",
+      "region": "Карибский регион",
+      "start": "2025-04-27",
+      "end": "2025-04-28",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.radiocayman.gov.ky/community-events/345robotics-expo-showcase",
+      "new": false
+    },
+    {
+      "id": "E461",
+      "name": "Coolest Projects USA Minnesota 2027 · Family visit",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "visitor_policy": "family",
+      "source": "https://online.coolestprojects.org/cp-minnesota-2026",
+      "new": false
+    },
+    {
+      "id": "E463",
+      "name": "Coolest Projects USA Georgia 2027 · Family visit",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "start": "2027-05-15",
+      "end": "2027-05-15",
+      "visitor_policy": "family",
+      "source": "https://online.coolestprojects.org/cp-georgia-2026",
+      "new": false
+    },
+    {
+      "id": "E465",
+      "name": "Coolest Projects Ireland 2027 · Family visit",
+      "country": "Ирландия",
+      "region": "Европа",
+      "start": "2027-04-24",
+      "end": "2027-04-24",
+      "visitor_policy": "family",
+      "source": "https://online.coolestprojects.org/cp-ireland-2027",
+      "new": false
+    },
+    {
+      "id": "E467",
+      "name": "Coolest Projects UK Bradford 2027 · Family visit",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "start": "2027-05-15",
+      "end": "2027-05-15",
+      "visitor_policy": "family",
+      "source": "https://online.coolestprojects.org/cp-uk-2026",
+      "new": false
+    },
+    {
+      "id": "E469",
+      "name": "Coolest Projects UK Cardiff 2027 · Family visit",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "start": "2027-05-22",
+      "end": "2027-05-22",
+      "visitor_policy": "family",
+      "source": "https://online.coolestprojects.org/cp-cardiff-2027",
+      "new": false
+    },
+    {
+      "id": "E471",
+      "name": "Coolest Projects Belgium 2027 · Techfair",
+      "country": "Бельгия",
+      "region": "Европа",
+      "start": "2027-03-13",
+      "end": "2027-03-13",
+      "visitor_policy": "confirm_children",
+      "source": "https://coderdojobelgium.be/nl/events/coolest-projects-13-03-2027",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -13997,9 +14074,9 @@
       }
     ],
     "counts": {
-      "records": 4640,
+      "records": 4646,
       "holiday": 4336,
-      "regular": 145,
+      "regular": 146,
       "self_paced_materials": 2,
       "boarding": 1036,
       "en_es_instruction": 1432,

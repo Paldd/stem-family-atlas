@@ -2033,7 +2033,22 @@
       "date_scope": "submission_open",
       "language_mode": "primary",
       "admission_kind": "open_application",
-      "evidence_level": "event_page"
+      "evidence_level": "event_page",
+      "related_ids": [
+        "L707",
+        "E460",
+        "E461",
+        "E462",
+        "E463",
+        "E464",
+        "E465",
+        "E466",
+        "E467",
+        "E468",
+        "E469",
+        "E470",
+        "E471"
+      ]
     },
     {
       "block": "Соревнования",
@@ -208987,7 +209002,8 @@
       "date_scope": "competition",
       "event_group": "first-global-madrid-2027",
       "related_ids": [
-        "C3474"
+        "C3474",
+        "C3479"
       ]
     },
     {
@@ -217651,7 +217667,10 @@
       "participation": "day_course",
       "admission_kind": "program",
       "evidence_level": "event_page",
-      "date_scope": "programme_watch"
+      "date_scope": "programme_watch",
+      "related_ids": [
+        "E459"
+      ]
     },
     {
       "id": "C3302",
@@ -234151,7 +234170,7 @@
       "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
       "status": "Идея",
       "age": "Младшая категория Grades 4–6.",
-      "mat": "Матвею подходит только при подтверждённом Grade 4–6 в местной школе.",
+      "mat": "Условно. Подходит только при подтверждённом Grade 4–6 в местной школе.",
       "osc": "Нет. Требуется местный Grade 4–6.",
       "format": "Исследовательский проект, стенд и до 10 минут защиты с вопросами жюри.",
       "entry": "Одна заявка от местной школы, команда до 4 учащихся. Подаёт директор или ответственный учитель.",
@@ -234783,6 +234802,1288 @@
       "evidence_level": "event_page",
       "related_ids": [
         "L704"
+      ]
+    },
+    {
+      "id": "L706",
+      "title": "SENACYT · Blue-Bot y Rugged Robot · Colón 2024",
+      "block": "Лагеря",
+      "country": "Панама",
+      "region": "Центральная Америка",
+      "iso": [
+        "PAN"
+      ],
+      "city": "Cidete · Universidad de Panamá · Colón",
+      "start": "2024-10-31",
+      "end": "2024-10-31",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "showcase",
+      "checked": "2026-11-07",
+      "source": "https://www.senacyt.gob.pa/estudiantes-de-colon-participaron-en-el-cierre-del-proyecto-de-robotica-educativa-aprendiendo-con-blue-bot-y-rugged-robot-2024/",
+      "references": [
+        {
+          "url": "https://www.senacyt.gob.pa/en/students-from-colon-participated-in-the-closing-of-the-educational-robotics-project-learning-with-blue-bot-and-rugged-robot-2024/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "В архиве участники школ Колона с 1 по 12 класс. Blue-Bot для начальной школы.",
+      "mat": "Условно. Допуск зависит от школы и класса.",
+      "osc": "Условно. Допуск зависит от школы и класса.",
+      "format": "Школьная программа с итоговой демонстрацией.",
+      "entry": "Через школу и наставника.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архивный выпуск. Условия нового набора уточнить у организатора.",
+      "note": "Blue-Bot для задач начальной школы, Rugged Robot для старших классов. 31 октября 2024 — день итоговой встречи. Отчёт вышел 6 ноября.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Региональный этап",
+      "participation": "school_show",
+      "admission_kind": "school_selection",
+      "evidence_level": "historical_program"
+    },
+    {
+      "id": "C3475",
+      "title": "RoboTIC Panamá 2025 · Regionales",
+      "block": "Соревнования",
+      "country": "Панама",
+      "region": "Центральная Америка",
+      "iso": [
+        "PAN"
+      ],
+      "city": "Провинциальные площадки",
+      "start": "2025-10-06",
+      "end": "2025-10-17",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "assigned_day_window",
+      "checked": "2026-11-07",
+      "source": "https://concursorobotica.senacyt.gob.pa/",
+      "references": [
+        {
+          "url": "https://concursorobotica.senacyt.gob.pa/wp-content/uploads/2025/07/BASES-DEL-CONCURSO-NACIONAL-ROBOCUPJUNIOR-ROBOTIC-PANAMA-2026.pdf",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "В регламенте 2025 Junior 10–13 лет, Major 14–18 лет. Допустимые даты рождения с 02.07.2007 по 01.07.2015.",
+      "mat": "Нет по текущему возрасту. Программа для более старших школьников.",
+      "osc": "Нет по текущему возрасту. Программа для более старших школьников.",
+      "format": "Региональная квалификация на назначенной площадке.",
+      "entry": "Команды учебных заведений с наставником. В регламенте 2025 есть ограничения на родство наставника с участниками.",
+      "gear": "Rescue Line, OnStage, Soccer, Sumo, Maze Entry и проекты. У отдельных треков свои требования к комплектам.",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Региональный этап",
+      "reward": "Место или награда только по протоколу этапа.",
+      "priority": "P2 — участие по условиям",
+      "action": "Архивный выпуск. Условия нового набора уточнить у организатора.",
+      "note": "PDF с 2026 в названии файла описывает 2025. PDF указывает закрытие заявок 30 июля 2025, сайт указывает 30 августа 2025. Даты нового сезона не подтверждены.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "team",
+      "admission_kind": "school_selection",
+      "evidence_level": "rules",
+      "registration_status": "Архивный выпуск. Условия нового набора уточнить у организатора."
+    },
+    {
+      "id": "C3476",
+      "title": "RoboCupJunior Panamá 2024 · Final Nacional",
+      "block": "Соревнования",
+      "country": "Панама",
+      "region": "Центральная Америка",
+      "iso": [
+        "PAN"
+      ],
+      "city": "Centro de Convenciones · Ciudad del Saber",
+      "start": "2024-05-15",
+      "end": "2024-05-17",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "final",
+      "checked": "2026-11-07",
+      "source": "https://www.senacyt.gob.pa/veinte-equipos-compiten-en-la-final-nacional-de-robocupjunior-panama-2024/",
+      "references": [
+        {
+          "url": "https://www.meduca.gob.pa/panama-participara-en-la-competencia-internacional-robocup-junior/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Участникам финала 2024 было 14–19 лет.",
+      "mat": "Нет по текущему возрасту. Программа для более старших школьников.",
+      "osc": "Нет по текущему возрасту. Программа для более старших школьников.",
+      "format": "Rescue Line и On Stage. Через региональный отбор.",
+      "entry": "Через школу и наставника.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Национальное соревнование",
+      "reward": "Место или награда только по протоколу этапа.",
+      "priority": "P2 — участие по условиям",
+      "action": "Архивный выпуск. Условия нового набора уточнить у организатора.",
+      "note": "В 2024 два победителя получили отбор на международный этап. Следующий местный регламент проверять отдельно.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальное соревнование",
+      "participation": "team",
+      "admission_kind": "qualifier",
+      "evidence_level": "event_page"
+    },
+    {
+      "id": "C3477",
+      "title": "Minds Inspired · VEX IQ Mix & Match 2026",
+      "block": "Соревнования",
+      "country": "Кайман острова",
+      "region": "Карибский регион",
+      "iso": [
+        "CYM"
+      ],
+      "city": "Cayman Islands",
+      "start": "2026-02-27",
+      "end": "2026-02-27",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "checked": "2026-11-07",
+      "source": "https://mindsinspired.ky/news/minds-inspired-robotics-competitions-inspire-caymans-next-generation-of-innovators",
+      "references": [
+        {
+          "url": "https://www.radiocayman.gov.ky/community-events/vex-iq-mix-match-interschool-robotics-competition",
+          "label": "Официальная страница или регламент организатора."
+        },
+        {
+          "url": "https://mindsinspired.ky/events/mi-robotics",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Участники были младше 15 лет. Минимум не опубликован.",
+      "mat": "Условно. Допуск зависит от школы и класса.",
+      "osc": "Условно. Допуск зависит от школы и класса.",
+      "format": "Младший межшкольный турнир VEX IQ.",
+      "entry": "Школьные команды Каймановых островов. Новый набор и вход зрителей уточнить у Minds Inspired.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Национальное соревнование",
+      "reward": "Место или награда только по протоколу этапа.",
+      "priority": "P2 — участие по условиям",
+      "action": "Архивный выпуск. Условия нового набора уточнить у организатора.",
+      "note": "Организатор подтвердил 79 участников из 11 школ в первом выпуске. Даты нового турнира неизвестны.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальное соревнование",
+      "participation": "team",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page"
+    },
+    {
+      "id": "C3478",
+      "title": "Minds Inspired FIRST Tech Challenge 2026",
+      "block": "Соревнования",
+      "country": "Кайман острова",
+      "region": "Карибский регион",
+      "iso": [
+        "CYM"
+      ],
+      "city": "Cayman Islands",
+      "start": "2026-02-28",
+      "end": "2026-02-28",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "competition",
+      "checked": "2026-11-07",
+      "source": "https://mindsinspired.ky/news/minds-inspired-robotics-competitions-inspire-caymans-next-generation-of-innovators",
+      "references": [
+        {
+          "url": "https://dr.dart.ky/news-and-media/national-robotics-team-prepares-to-represent-cayman-islands-in-korea/",
+          "label": "Официальная страница или регламент организатора."
+        },
+        {
+          "url": "https://mindsinspired.ky/events/mi-robotics",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Возраст и маршрут нового сезона сверить с организатором.",
+      "mat": "Возраст и маршрут нового сезона сверить с организатором.",
+      "osc": "Возраст и маршрут нового сезона сверить с организатором.",
+      "format": "Межшкольный турнир DECODE.",
+      "entry": "Школьные команды Каймановых островов. Новый набор и вход зрителей уточнить у Minds Inspired.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Национальное соревнование",
+      "reward": "Место или награда только по протоколу этапа.",
+      "priority": "P2 — участие по условиям",
+      "action": "Архивный выпуск. Условия нового набора уточнить у организатора.",
+      "note": "Организатор связывает этот турнир с отбором команды FIRST Global. Правила отбора проверять отдельно.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальное соревнование",
+      "participation": "team",
+      "admission_kind": "school_selection",
+      "evidence_level": "event_page"
+    },
+    {
+      "id": "E459",
+      "title": "345Robotics Expo/Showcase 2025 · Cayman",
+      "block": "События",
+      "country": "Кайман острова",
+      "region": "Карибский регион",
+      "iso": [
+        "CYM"
+      ],
+      "city": "Signal House · Grand Cayman",
+      "start": "2025-04-27",
+      "end": "2025-04-28",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "exhibition_window",
+      "checked": "2026-11-07",
+      "source": "https://www.radiocayman.gov.ky/community-events/345robotics-expo-showcase",
+      "references": [
+        {
+          "url": "https://www.345robotics.org/programs/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Возраст и доступ уточнить у организатора.",
+      "mat": "Возраст и доступ уточнить у организатора.",
+      "osc": "Возраст и доступ уточнить у организатора.",
+      "format": "Показ роботов VEX Rapid Relay.",
+      "entry": "Организатор приглашал публику на демонстрации в Signal House. Условия нового выпуска неизвестны.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Публичный показ проектов",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Архивный выпуск. Условия нового набора уточнить у организатора.",
+      "note": "Организатор приглашал публику на демонстрации в Signal House. Условия нового выпуска неизвестны.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Региональный этап",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Организатор приглашал публику на демонстрации в Signal House. Условия нового выпуска неизвестны.",
+      "adult_entry": "Организатор приглашал публику на демонстрации в Signal House. Условия нового выпуска неизвестны.",
+      "exhibition_tier": "family_alternative",
+      "exhibitors": [],
+      "highlights": [],
+      "exhibitor_note": "Программа в источнике организатора.",
+      "related_ids": [
+        "L657"
+      ]
+    },
+    {
+      "id": "C3479",
+      "title": "FIRST Global Challenge · Team Madagascar selection 2027",
+      "block": "Соревнования",
+      "country": "Мадагаскар",
+      "region": "Африка",
+      "iso": [
+        "MDG"
+      ],
+      "city": "Madagascar",
+      "start": "",
+      "end": "",
+      "period": "Даты следующего местного отбора ещё не подтверждены.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "competition",
+      "checked": "2026-11-07",
+      "source": "https://fgc.stem.mg/",
+      "references": [
+        {
+          "url": "https://first.global/2026-nations/madagascar-2026/",
+          "label": "Официальная страница или регламент организатора."
+        },
+        {
+          "url": "https://first.global/faq/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "На международном этапе FIRST Global 14–18 лет. Точный возрастной срез местной заявки уточнить.",
+      "mat": "Нет по текущему возрасту. Программа для более старших школьников.",
+      "osc": "Нет по текущему возрасту. Программа для более старших школьников.",
+      "format": "Национальный отбор с собеседованием.",
+      "entry": "Подать заявку через STEM Club или самостоятельно. Нужен курс на комплекте FIRST Global, кроме бывших участников, и собеседование с проверкой английского.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Национальное соревнование",
+      "reward": "Место или награда только по протоколу этапа.",
+      "priority": "P2 — участие по условиям",
+      "action": "Подать заявку через STEM Club или самостоятельно. Нужен курс на комплекте FIRST Global, кроме бывших участников, и собеседование с проверкой английского.",
+      "note": "На собеседование приглашают до 100 кандидатов. Новые кандидаты должны учиться вне экзаменационного класса. Дедлайн местной заявки не опубликован.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальное соревнование",
+      "participation": "team",
+      "admission_kind": "qualifier",
+      "evidence_level": "rules",
+      "related_ids": [
+        "C3198"
+      ]
+    },
+    {
+      "id": "C3480",
+      "title": "Science Factor 2026–2027 · Innove Aujourd’hui",
+      "block": "Соревнования",
+      "country": "Франция / Майотта",
+      "region": "Африка",
+      "iso": [
+        "FRA",
+        "MYT"
+      ],
+      "city": "Онлайн · Франция и заморские территории",
+      "start": "2026-09-01",
+      "end": "2026-12-31",
+      "period": "",
+      "deadline": "2026-12-31",
+      "date_status": "Подтверждено",
+      "date_scope": "submission_window",
+      "checked": "2026-11-07",
+      "source": "https://www.sciencefactor.fr/download.php?file=documents/2026-2027/Reglement_ScienceFactor_2026-2027.pdf",
+      "references": [
+        {
+          "url": "https://www.sciencefactor.fr/",
+          "label": "Официальная страница или регламент организатора."
+        },
+        {
+          "url": "https://sciencefactor.fr/concours/projet.php?e=2025%2F2026&projet_url=sac-i-mahorais",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "От 6e до Terminale или эквивалентный класс.",
+      "mat": "Нет по текущему возрасту. Программа для более старших школьников.",
+      "osc": "Нет по текущему возрасту. Программа для более старших школьников.",
+      "format": "Проект, видео, публичное голосование и онлайн-защита финалистов.",
+      "entry": "Команда от 2 до 4 школьников, руководит девочка. Для несовершеннолетних нужно согласие родителей.",
+      "gear": "Цифровой или инженерный проект. Прототип рекомендован.",
+      "language": "Конкурс для франкоязычных школьников. Допускаются эквивалентные классы за пределами Франции.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Конкурс для франкоязычных школьников. Допускаются эквивалентные классы за пределами Франции.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Национальное соревнование",
+      "reward": "Место или награда только по протоколу этапа.",
+      "priority": "P2 — участие по условиям",
+      "action": "Подать проект до 31 декабря 2026, 23:59 по Парижу.",
+      "note": "Окно голосования 7 декабря 2026 — 4 января 2027. Организатор опубликовал проект школы Майотты в прошлом выпуске.",
+      "themes": [
+        "ai",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "scope": "national",
+      "importance_reason": "Национальное соревнование",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "deadline_timezone": "Europe/Paris",
+      "deadline_utc": "2026-12-31T22:59:00Z",
+      "deadline_note": "Подать проект до 31 декабря 2026, 23:59 по Парижу."
+    },
+    {
+      "id": "L707",
+      "title": "Raspberry Pi Foundation · Code Club projects",
+      "block": "Лагеря",
+      "country": "Онлайн / весь мир",
+      "region": "Европа",
+      "iso": [],
+      "city": "Онлайн",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://projects.raspberrypi.org/es-LA/",
+      "references": [
+        {
+          "url": "https://codeclub.org/en/join-a-club",
+          "label": "Официальная страница или регламент организатора."
+        },
+        {
+          "url": "https://codeclub.org/en/find",
+          "label": "Официальная страница или регламент организатора."
+        },
+        {
+          "url": "https://codeclub.org/en/learn-to-code",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Материалы для детей и подростков. У местных клубов свои условия.",
+      "mat": "Условно. Начать с блочных проектов Scratch и подобрать уровень вместе со взрослым.",
+      "osc": "Условно. Начать с блочных проектов Scratch и подобрать уровень вместе со взрослым.",
+      "format": "Самостоятельные цифровые проекты.",
+      "entry": "Проекты открыты для самостоятельной работы. Для очного клуба искать местную группу и проверять возраст и язык.",
+      "gear": "Scratch, Python, веб, основы ИИ и физические вычисления.",
+      "language": "Пошаговые материалы на английском и испанском. В живом клубе язык зависит от координатора.",
+      "languages": [],
+      "language_mode": "materials",
+      "language_certainty": "Пошаговые материалы на английском и испанском. В живом клубе язык зависит от координатора.",
+      "cost": "Бесплатно.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Проекты открыты для самостоятельной работы. Для очного клуба искать местную группу и проверять возраст и язык.",
+      "note": "Отдельные готовые проекты можно затем подать на Coolest Projects по его правилам.",
+      "themes": [
+        "coding",
+        "games",
+        "ai",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Региональный этап",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "support_languages": [
+        "EN",
+        "ES"
+      ],
+      "related_ids": [
+        "C039"
+      ]
+    },
+    {
+      "id": "E460",
+      "title": "Coolest Projects USA Minnesota 2027 · Showcase entry",
+      "block": "События",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "iso": [
+        "USA"
+      ],
+      "city": "Minnesota · Площадка уточняется.",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "showcase",
+      "checked": "2026-11-07",
+      "source": "https://online.coolestprojects.org/cp-minnesota-2026",
+      "references": [
+        {
+          "url": "https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "До 18 лет включительно. За участника младше 13 лет заявку подаёт взрослый наставник.",
+      "mat": "Условно. Нужна подходящая местная база, заявка взрослого и подтверждение места.",
+      "osc": "Условно. Нужна подходящая местная база, заявка взрослого и подтверждение места.",
+      "format": "Очный показ цифрового проекта, самостоятельно или командой до 5 человек.",
+      "entry": "Для юных авторов, базирующихся в США. Заявка на проект и подтверждение места.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Бесплатно.",
+      "level": "Очная региональная выставка детских проектов",
+      "reward": "Обратная связь, сертификат и выбор любимых проектов жюри.",
+      "priority": "P2 — участие по условиям",
+      "action": "Открытие подачи 13 января 2027. Место после подтверждения организатора.",
+      "note": "Игры, ИИ, роботы и другие цифровые проекты. Тот же проект можно подать на международный онлайн-показ по его правилам.",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "registration_status": "Открытие подачи 13 января 2027. Место после подтверждения организатора.",
+      "related_ids": [
+        "E461",
+        "C039"
+      ],
+      "registration_opens": "2027-01-13"
+    },
+    {
+      "id": "E461",
+      "title": "Coolest Projects USA Minnesota 2027 · Family visit",
+      "block": "События",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "iso": [
+        "USA"
+      ],
+      "city": "Minnesota · Площадка уточняется.",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "exhibition_window",
+      "checked": "2026-11-07",
+      "source": "https://online.coolestprojects.org/cp-minnesota-2026",
+      "references": [
+        {
+          "url": "https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Да по семейному формату. Билет и место подтвердить.",
+      "mat": "Да по семейному формату. Билет и место подтвердить.",
+      "osc": "Да по семейному формату. Билет и место подтвердить.",
+      "format": "Публичный показ проектов",
+      "entry": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Бесплатно.",
+      "level": "Публичный показ проектов",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "note": "Игры, ИИ, роботы и другие цифровые проекты. Тот же проект можно подать на международный онлайн-показ по его правилам.",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "adult_entry": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "exhibition_tier": "family_alternative",
+      "exhibitors": [],
+      "highlights": [],
+      "exhibitor_note": "Программа в источнике организатора.",
+      "related_ids": [
+        "E460",
+        "C039"
+      ]
+    },
+    {
+      "id": "E462",
+      "title": "Coolest Projects USA Georgia 2027 · Showcase entry",
+      "block": "События",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "iso": [
+        "USA"
+      ],
+      "city": "Georgia · Площадка уточняется.",
+      "start": "2027-05-15",
+      "end": "2027-05-15",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "showcase",
+      "checked": "2026-11-07",
+      "source": "https://online.coolestprojects.org/cp-georgia-2026",
+      "references": [
+        {
+          "url": "https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "До 18 лет включительно. За участника младше 13 лет заявку подаёт взрослый наставник.",
+      "mat": "Условно. Нужна подходящая местная база, заявка взрослого и подтверждение места.",
+      "osc": "Условно. Нужна подходящая местная база, заявка взрослого и подтверждение места.",
+      "format": "Очный показ цифрового проекта, самостоятельно или командой до 5 человек.",
+      "entry": "Для юных авторов, базирующихся в США. Заявка на проект и подтверждение места.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Бесплатно.",
+      "level": "Очная региональная выставка детских проектов",
+      "reward": "Обратная связь, сертификат и выбор любимых проектов жюри.",
+      "priority": "P2 — участие по условиям",
+      "action": "Открытие подачи 13 января 2027. Место после подтверждения организатора.",
+      "note": "Игры, ИИ, роботы и другие цифровые проекты. Тот же проект можно подать на международный онлайн-показ по его правилам.",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "registration_status": "Открытие подачи 13 января 2027. Место после подтверждения организатора.",
+      "related_ids": [
+        "E463",
+        "C039"
+      ],
+      "registration_opens": "2027-01-13"
+    },
+    {
+      "id": "E463",
+      "title": "Coolest Projects USA Georgia 2027 · Family visit",
+      "block": "События",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "iso": [
+        "USA"
+      ],
+      "city": "Georgia · Площадка уточняется.",
+      "start": "2027-05-15",
+      "end": "2027-05-15",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "exhibition_window",
+      "checked": "2026-11-07",
+      "source": "https://online.coolestprojects.org/cp-georgia-2026",
+      "references": [
+        {
+          "url": "https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Да по семейному формату. Билет и место подтвердить.",
+      "mat": "Да по семейному формату. Билет и место подтвердить.",
+      "osc": "Да по семейному формату. Билет и место подтвердить.",
+      "format": "Публичный показ проектов",
+      "entry": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Бесплатно.",
+      "level": "Публичный показ проектов",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "note": "Игры, ИИ, роботы и другие цифровые проекты. Тот же проект можно подать на международный онлайн-показ по его правилам.",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "adult_entry": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "exhibition_tier": "family_alternative",
+      "exhibitors": [],
+      "highlights": [],
+      "exhibitor_note": "Программа в источнике организатора.",
+      "related_ids": [
+        "E462",
+        "C039"
+      ]
+    },
+    {
+      "id": "E464",
+      "title": "Coolest Projects Ireland 2027 · Showcase entry",
+      "block": "События",
+      "country": "Ирландия",
+      "region": "Европа",
+      "iso": [
+        "IRL"
+      ],
+      "city": "Explorium · Dublin",
+      "start": "2027-04-24",
+      "end": "2027-04-24",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "showcase",
+      "checked": "2026-11-07",
+      "source": "https://online.coolestprojects.org/cp-ireland-2027",
+      "references": [
+        {
+          "url": "https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "До 18 лет включительно. За участника младше 13 лет заявку подаёт взрослый наставник.",
+      "mat": "Условно. Нужна подходящая местная база, заявка взрослого и подтверждение места.",
+      "osc": "Условно. Нужна подходящая местная база, заявка взрослого и подтверждение места.",
+      "format": "Очный показ цифрового проекта, самостоятельно или командой до 5 человек.",
+      "entry": "Для юных авторов из Республики Ирландия или Северной Ирландии. Заявка на проект и подтверждение места.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Бесплатно.",
+      "level": "Очная региональная выставка детских проектов",
+      "reward": "Обратная связь, сертификат и выбор любимых проектов жюри.",
+      "priority": "P2 — участие по условиям",
+      "action": "Открытие подачи 13 января 2027. Место после подтверждения организатора.",
+      "note": "Игры, ИИ, роботы и другие цифровые проекты. Тот же проект можно подать на международный онлайн-показ по его правилам.",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "registration_status": "Открытие подачи 13 января 2027. Место после подтверждения организатора.",
+      "related_ids": [
+        "E465",
+        "C039"
+      ],
+      "registration_opens": "2027-01-13"
+    },
+    {
+      "id": "E465",
+      "title": "Coolest Projects Ireland 2027 · Family visit",
+      "block": "События",
+      "country": "Ирландия",
+      "region": "Европа",
+      "iso": [
+        "IRL"
+      ],
+      "city": "Explorium · Dublin",
+      "start": "2027-04-24",
+      "end": "2027-04-24",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "exhibition_window",
+      "checked": "2026-11-07",
+      "source": "https://online.coolestprojects.org/cp-ireland-2027",
+      "references": [
+        {
+          "url": "https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Да по семейному формату. Билет и место подтвердить.",
+      "mat": "Да по семейному формату. Билет и место подтвердить.",
+      "osc": "Да по семейному формату. Билет и место подтвердить.",
+      "format": "Публичный показ проектов",
+      "entry": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Бесплатно.",
+      "level": "Публичный показ проектов",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "note": "Игры, ИИ, роботы и другие цифровые проекты. Тот же проект можно подать на международный онлайн-показ по его правилам.",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "adult_entry": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "exhibition_tier": "family_alternative",
+      "exhibitors": [],
+      "highlights": [],
+      "exhibitor_note": "Программа в источнике организатора.",
+      "related_ids": [
+        "E464",
+        "C039"
+      ]
+    },
+    {
+      "id": "E466",
+      "title": "Coolest Projects UK Bradford 2027 · Showcase entry",
+      "block": "События",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR"
+      ],
+      "city": "Life Centre · Bradford",
+      "start": "2027-05-15",
+      "end": "2027-05-15",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "showcase",
+      "checked": "2026-11-07",
+      "source": "https://online.coolestprojects.org/cp-uk-2026",
+      "references": [
+        {
+          "url": "https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "До 18 лет включительно. За участника младше 13 лет заявку подаёт взрослый наставник.",
+      "mat": "Условно. Нужна подходящая местная база, заявка взрослого и подтверждение места.",
+      "osc": "Условно. Нужна подходящая местная база, заявка взрослого и подтверждение места.",
+      "format": "Очный показ цифрового проекта, самостоятельно или командой до 5 человек.",
+      "entry": "Для юных авторов, базирующихся в Великобритании. Заявка на проект и подтверждение места.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Бесплатно.",
+      "level": "Очная региональная выставка детских проектов",
+      "reward": "Обратная связь, сертификат и выбор любимых проектов жюри.",
+      "priority": "P2 — участие по условиям",
+      "action": "Открытие подачи 13 января 2027. Место после подтверждения организатора.",
+      "note": "Игры, ИИ, роботы и другие цифровые проекты. Тот же проект можно подать на международный онлайн-показ по его правилам.",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "registration_status": "Открытие подачи 13 января 2027. Место после подтверждения организатора.",
+      "related_ids": [
+        "E467",
+        "C039"
+      ],
+      "registration_opens": "2027-01-13"
+    },
+    {
+      "id": "E467",
+      "title": "Coolest Projects UK Bradford 2027 · Family visit",
+      "block": "События",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR"
+      ],
+      "city": "Life Centre · Bradford",
+      "start": "2027-05-15",
+      "end": "2027-05-15",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "exhibition_window",
+      "checked": "2026-11-07",
+      "source": "https://online.coolestprojects.org/cp-uk-2026",
+      "references": [
+        {
+          "url": "https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Да по семейному формату. Билет и место подтвердить.",
+      "mat": "Да по семейному формату. Билет и место подтвердить.",
+      "osc": "Да по семейному формату. Билет и место подтвердить.",
+      "format": "Публичный показ проектов",
+      "entry": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Бесплатно.",
+      "level": "Публичный показ проектов",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "note": "Игры, ИИ, роботы и другие цифровые проекты. Тот же проект можно подать на международный онлайн-показ по его правилам.",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "adult_entry": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "exhibition_tier": "family_alternative",
+      "exhibitors": [],
+      "highlights": [],
+      "exhibitor_note": "Программа в источнике организатора.",
+      "related_ids": [
+        "E466",
+        "C039"
+      ]
+    },
+    {
+      "id": "E468",
+      "title": "Coolest Projects UK Cardiff 2027 · Showcase entry",
+      "block": "События",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR"
+      ],
+      "city": "Wales Millennium Centre · Cardiff",
+      "start": "2027-05-22",
+      "end": "2027-05-22",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "showcase",
+      "checked": "2026-11-07",
+      "source": "https://online.coolestprojects.org/cp-cardiff-2027",
+      "references": [
+        {
+          "url": "https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "До 18 лет включительно. За участника младше 13 лет заявку подаёт взрослый наставник.",
+      "mat": "Условно. Нужна подходящая местная база, заявка взрослого и подтверждение места.",
+      "osc": "Условно. Нужна подходящая местная база, заявка взрослого и подтверждение места.",
+      "format": "Очный показ цифрового проекта, самостоятельно или командой до 5 человек.",
+      "entry": "Для юных авторов, базирующихся в Великобритании. Заявка на проект и подтверждение места.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Бесплатно.",
+      "level": "Очная региональная выставка детских проектов",
+      "reward": "Обратная связь, сертификат и выбор любимых проектов жюри.",
+      "priority": "P2 — участие по условиям",
+      "action": "Дата открытия подачи на карточке этапа не указана. Место после подтверждения организатора.",
+      "note": "Игры, ИИ, роботы и другие цифровые проекты. Тот же проект можно подать на международный онлайн-показ по его правилам.",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "registration_status": "Дата открытия подачи на карточке этапа не указана. Место после подтверждения организатора.",
+      "related_ids": [
+        "E469",
+        "C039"
+      ],
+      "registration_opens": ""
+    },
+    {
+      "id": "E469",
+      "title": "Coolest Projects UK Cardiff 2027 · Family visit",
+      "block": "События",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "iso": [
+        "GBR"
+      ],
+      "city": "Wales Millennium Centre · Cardiff",
+      "start": "2027-05-22",
+      "end": "2027-05-22",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "exhibition_window",
+      "checked": "2026-11-07",
+      "source": "https://online.coolestprojects.org/cp-cardiff-2027",
+      "references": [
+        {
+          "url": "https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Да по семейному формату. Билет и место подтвердить.",
+      "mat": "Да по семейному формату. Билет и место подтвердить.",
+      "osc": "Да по семейному формату. Билет и место подтвердить.",
+      "format": "Публичный показ проектов",
+      "entry": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Бесплатно.",
+      "level": "Публичный показ проектов",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "note": "Игры, ИИ, роботы и другие цифровые проекты. Тот же проект можно подать на международный онлайн-показ по его правилам.",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "visitor_policy": "family",
+      "visitor_policy_note": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "adult_entry": "Организатор выпустит ограниченное число бесплатных билетов для семей. Наставнику, который сопровождает участника, отдельный билет не нужен.",
+      "exhibition_tier": "family_alternative",
+      "exhibitors": [],
+      "highlights": [],
+      "exhibitor_note": "Программа в источнике организатора.",
+      "related_ids": [
+        "E468",
+        "C039"
+      ]
+    },
+    {
+      "id": "E470",
+      "title": "Coolest Projects Belgium 2027 · Showcase entry",
+      "block": "События",
+      "country": "Бельгия",
+      "region": "Европа",
+      "iso": [
+        "BEL"
+      ],
+      "city": "Technopolis · Mechelen",
+      "start": "2027-03-13",
+      "end": "2027-03-13",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "showcase",
+      "checked": "2026-11-07",
+      "source": "https://coderdojobelgium.be/nl/events/coolest-projects-13-03-2027",
+      "references": [
+        {
+          "url": "https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "7–18 лет по правилам CoderDojo Belgium.",
+      "mat": "Условно. Возраст входит в диапазон 7–18 лет. Допуск подтвердить.",
+      "osc": "Условно. Нужно исполниться 7 лет к событию. Точный возрастной срез уточнить.",
+      "format": "Очная презентация собственной технологической разработки.",
+      "entry": "Запись на показ через CoderDojo Belgium. Подтвердить возраст на день события, язык и доступ из другой страны.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Очная региональная выставка детских проектов",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Запись на показ через CoderDojo Belgium. Подтвердить возраст на день события, язык и доступ из другой страны.",
+      "note": "Правила команд, язык защиты, цена и подтверждение места уточняются у местного организатора.",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "related_ids": [
+        "E471",
+        "C039"
+      ]
+    },
+    {
+      "id": "E471",
+      "title": "Coolest Projects Belgium 2027 · Techfair",
+      "block": "События",
+      "country": "Бельгия",
+      "region": "Европа",
+      "iso": [
+        "BEL"
+      ],
+      "city": "Technopolis · Mechelen",
+      "start": "2027-03-13",
+      "end": "2027-03-13",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "exhibition_window",
+      "checked": "2026-11-07",
+      "source": "https://coderdojobelgium.be/nl/events/coolest-projects-13-03-2027",
+      "references": [
+        {
+          "url": "https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Возраст и доступ уточнить у организатора.",
+      "mat": "Возраст и доступ уточнить у организатора.",
+      "osc": "Возраст и доступ уточнить у организатора.",
+      "format": "Публичный показ проектов",
+      "entry": "Организатор анонсировал выставку проектов и отдельные технические стенды. Билеты и возраст посетителей уточнить.",
+      "gear": "",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Публичный показ проектов",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Организатор анонсировал выставку проектов и отдельные технические стенды. Билеты и возраст посетителей уточнить.",
+      "note": "Организатор анонсировал выставку проектов и отдельные технические стенды. Билеты и возраст посетителей уточнить.",
+      "themes": [
+        "robotics",
+        "ai",
+        "games",
+        "coding",
+        "technology"
+      ],
+      "scope": "regional",
+      "importance_reason": "Региональный этап",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Организатор анонсировал выставку проектов и отдельные технические стенды. Билеты и возраст посетителей уточнить.",
+      "adult_entry": "Организатор анонсировал выставку проектов и отдельные технические стенды. Билеты и возраст посетителей уточнить.",
+      "exhibition_tier": "family_alternative",
+      "exhibitors": [],
+      "highlights": [],
+      "exhibitor_note": "Программа в источнике организатора.",
+      "related_ids": [
+        "E470",
+        "C039"
       ]
     },
     {
@@ -570017,6 +571318,246 @@
       }
     },
     {
+      "id": "CP1875-20261107-20261108-family-2026-11-07",
+      "block": "Лагеря",
+      "title": "Observando el Cosmos · Acambay · Семейные выходные с палаткой · 2026-11-07–2026-11-08",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Ejido de Detiña · Acambay",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "period": "Отдельные выходные 7–8 и 14–15 ноября, 5–6 и 12–13 декабря 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Семейное участие. Детский тариф в 5–12 лет. У тарифа взрослых нижняя граница тоже 12 лет.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Семейный палаточный формат с сопровождающими взрослыми.",
+      "entry": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+      "gear": "Наблюдения в телескоп, вводная астрофотография и обработка изображений. При облаках оптика зависит от погоды.",
+      "language": "Язык преподавания конкретной группы не указан. Подтвердить EN или ES перед записью.",
+      "cost": "2026/27 · 200 MXN ребёнок и 600 MXN взрослый. Для 2 взрослых и 2 детей 1600 MXN за вход. Меню отдельно. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+      "source": "https://www.sbkmexico.com/campamento.php",
+      "references": [
+        {
+          "url": "https://www.sbkmexico.com/campamento.php",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Матвей: Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка. Оскар: Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка. Доплаты: Меню 290 MXN на взрослого, 220 MXN на ребёнка. Аренда оборудования и походы отдельно. Оплата: Для обычных смен возврат за 7 дней и ранее, за 3–6 дней перенос или 50% возврата. За срок менее 3 дней возврата нет. Подтвердить тип смены.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "space",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык преподавания конкретной группы не указан. Подтвердить EN или ES перед записью.",
+      "participation": "family_visit",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "observando-cosmos-acambay-2026",
+      "camp_programme_id": "CP1875",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+      }
+    },
+    {
+      "id": "CP1875-20261114-20261115-family-2026-11-14",
+      "block": "Лагеря",
+      "title": "Observando el Cosmos · Acambay · Семейные выходные с палаткой · 2026-11-14–2026-11-15",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Ejido de Detiña · Acambay",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "period": "Отдельные выходные 7–8 и 14–15 ноября, 5–6 и 12–13 декабря 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Семейное участие. Детский тариф в 5–12 лет. У тарифа взрослых нижняя граница тоже 12 лет.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Семейный палаточный формат с сопровождающими взрослыми.",
+      "entry": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+      "gear": "Наблюдения в телескоп, вводная астрофотография и обработка изображений. При облаках оптика зависит от погоды.",
+      "language": "Язык преподавания конкретной группы не указан. Подтвердить EN или ES перед записью.",
+      "cost": "2026/27 · 200 MXN ребёнок и 600 MXN взрослый. Для 2 взрослых и 2 детей 1600 MXN за вход. Меню отдельно. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+      "source": "https://www.sbkmexico.com/campamento.php",
+      "references": [
+        {
+          "url": "https://www.sbkmexico.com/campamento.php",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Матвей: Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка. Оскар: Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка. Доплаты: Меню 290 MXN на взрослого, 220 MXN на ребёнка. Аренда оборудования и походы отдельно. Оплата: Для обычных смен возврат за 7 дней и ранее, за 3–6 дней перенос или 50% возврата. За срок менее 3 дней возврата нет. Подтвердить тип смены.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "space",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык преподавания конкретной группы не указан. Подтвердить EN или ES перед записью.",
+      "participation": "family_visit",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "observando-cosmos-acambay-2026",
+      "camp_programme_id": "CP1875",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+      }
+    },
+    {
+      "id": "CP1875-20261205-20261206-family-2026-12-05",
+      "block": "Лагеря",
+      "title": "Observando el Cosmos · Acambay · Семейные выходные с палаткой · 2026-12-05–2026-12-06",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Ejido de Detiña · Acambay",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "period": "Отдельные выходные 7–8 и 14–15 ноября, 5–6 и 12–13 декабря 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Семейное участие. Детский тариф в 5–12 лет. У тарифа взрослых нижняя граница тоже 12 лет.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Семейный палаточный формат с сопровождающими взрослыми.",
+      "entry": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+      "gear": "Наблюдения в телескоп, вводная астрофотография и обработка изображений. При облаках оптика зависит от погоды.",
+      "language": "Язык преподавания конкретной группы не указан. Подтвердить EN или ES перед записью.",
+      "cost": "2026/27 · 200 MXN ребёнок и 600 MXN взрослый. Для 2 взрослых и 2 детей 1600 MXN за вход. Меню отдельно. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+      "source": "https://www.sbkmexico.com/campamento.php",
+      "references": [
+        {
+          "url": "https://www.sbkmexico.com/campamento.php",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Матвей: Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка. Оскар: Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка. Доплаты: Меню 290 MXN на взрослого, 220 MXN на ребёнка. Аренда оборудования и походы отдельно. Оплата: Для обычных смен возврат за 7 дней и ранее, за 3–6 дней перенос или 50% возврата. За срок менее 3 дней возврата нет. Подтвердить тип смены.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "space",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык преподавания конкретной группы не указан. Подтвердить EN или ES перед записью.",
+      "participation": "family_visit",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "observando-cosmos-acambay-2026",
+      "camp_programme_id": "CP1875",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+      }
+    },
+    {
+      "id": "CP1875-20261212-20261213-family-2026-12-12",
+      "block": "Лагеря",
+      "title": "Observando el Cosmos · Acambay · Семейные выходные с палаткой · 2026-12-12–2026-12-13",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "city": "Ejido de Detiña · Acambay",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "period": "Отдельные выходные 7–8 и 14–15 ноября, 5–6 и 12–13 декабря 2026.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Семейное участие. Детский тариф в 5–12 лет. У тарифа взрослых нижняя граница тоже 12 лет.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Семейный палаточный формат с сопровождающими взрослыми.",
+      "entry": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+      "gear": "Наблюдения в телескоп, вводная астрофотография и обработка изображений. При облаках оптика зависит от погоды.",
+      "language": "Язык преподавания конкретной группы не указан. Подтвердить EN или ES перед записью.",
+      "cost": "2026/27 · 200 MXN ребёнок и 600 MXN взрослый. Для 2 взрослых и 2 детей 1600 MXN за вход. Меню отдельно. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+      "source": "https://www.sbkmexico.com/campamento.php",
+      "references": [
+        {
+          "url": "https://www.sbkmexico.com/campamento.php",
+          "label": "Официальная страница или регламент организатора."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-07",
+      "status": "Идея",
+      "note": "Матвей: Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка. Оскар: Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка. Доплаты: Меню 290 MXN на взрослого, 220 MXN на ребёнка. Аренда оборудования и походы отдельно. Оплата: Для обычных смен возврат за 7 дней и ранее, за 3–6 дней перенос или 50% возврата. За срок менее 3 дней возврата нет. Подтвердить тип смены.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "space",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык преподавания конкретной группы не указан. Подтвердить EN или ES перед записью.",
+      "participation": "family_visit",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "observando-cosmos-acambay-2026",
+      "camp_programme_id": "CP1875",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+      }
+    },
+    {
       "id": "TC2027-SHOWCASE",
       "block": "События",
       "title": "The Tech Challenge 2027 · Game On! · показ инженерных проектов",
@@ -606761,7 +608302,7 @@
       "iso": "MDG",
       "wro": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "url": "",
-      "coverage": "Местный календарь ещё не исследован",
+      "coverage": "Частично: есть записи; полный местный аудит не завершён",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
       "network_route_ids": [],
@@ -606803,7 +608344,7 @@
       "iso": "MYT",
       "wro": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "url": "",
-      "coverage": "Местный календарь ещё не исследован",
+      "coverage": "Частично: есть записи; полный местный аудит не завершён",
       "note": "Проверить иностранный школьный допуск, резидентство, возраст, язык, квоту; гражданство México не даёт общего права заявляться везде.",
       "source": "https://wro-association.org/about-wro/association/member-countries/ ; https://unstats.un.org/unsd/methodology/m49/",
       "network_route_ids": [],
@@ -612985,7 +614526,7 @@
       "checked": "2026-09-29"
     }
   ],
-  "source_count": 7345,
+  "source_count": 7373,
   "sources": [
     {
       "url": "https://www.torneoluva.com",
@@ -656948,6 +658489,174 @@
       "title": "Официальная страница или регламент организатора.",
       "checked": "2026-11-07",
       "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://www.senacyt.gob.pa/estudiantes-de-colon-participaron-en-el-cierre-del-proyecto-de-robotica-educativa-aprendiendo-con-blue-bot-y-rugged-robot-2024/",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://www.senacyt.gob.pa/en/students-from-colon-participated-in-the-closing-of-the-educational-robotics-project-learning-with-blue-bot-and-rugged-robot-2024/",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://concursorobotica.senacyt.gob.pa/",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://concursorobotica.senacyt.gob.pa/wp-content/uploads/2025/07/BASES-DEL-CONCURSO-NACIONAL-ROBOCUPJUNIOR-ROBOTIC-PANAMA-2026.pdf",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://www.senacyt.gob.pa/veinte-equipos-compiten-en-la-final-nacional-de-robocupjunior-panama-2024/",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://www.meduca.gob.pa/panama-participara-en-la-competencia-internacional-robocup-junior/",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://mindsinspired.ky/news/minds-inspired-robotics-competitions-inspire-caymans-next-generation-of-innovators",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://www.radiocayman.gov.ky/community-events/vex-iq-mix-match-interschool-robotics-competition",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://mindsinspired.ky/events/mi-robotics",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://dr.dart.ky/news-and-media/national-robotics-team-prepares-to-represent-cayman-islands-in-korea/",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://www.radiocayman.gov.ky/community-events/345robotics-expo-showcase",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://fgc.stem.mg/",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://first.global/2026-nations/madagascar-2026/",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://www.sciencefactor.fr/download.php?file=documents/2026-2027/Reglement_ScienceFactor_2026-2027.pdf",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://www.sciencefactor.fr/",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://sciencefactor.fr/concours/projet.php?e=2025%2F2026&projet_url=sac-i-mahorais",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://projects.raspberrypi.org/es-LA/",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://codeclub.org/en/join-a-club",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://codeclub.org/en/find",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://codeclub.org/en/learn-to-code",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://online.coolestprojects.org/cp-minnesota-2026",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://online.coolestprojects.org/cp-georgia-2026",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://online.coolestprojects.org/cp-ireland-2027",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://online.coolestprojects.org/cp-uk-2026",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://online.coolestprojects.org/cp-cardiff-2027",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://coderdojobelgium.be/nl/events/coolest-projects-13-03-2027",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
+    },
+    {
+      "url": "https://www.sbkmexico.com/campamento.php",
+      "title": "Официальная страница или регламент организатора.",
+      "checked": "2026-11-07",
+      "evidence": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно."
     }
   ],
   "wro_members": 108,
@@ -658350,8 +660059,8 @@
       "iso": "MDG",
       "country": "Мадагаскар",
       "region": "Африка",
-      "research_status": "Местный календарь ещё не исследован",
-      "competitions": 0,
+      "research_status": "Частично: есть записи; полный местный аудит не завершён",
+      "competitions": 1,
       "exhibitions": 0,
       "camps": 0,
       "dated": 0,
@@ -658392,11 +660101,11 @@
       "iso": "MYT",
       "country": "Остров Майотта",
       "region": "Африка",
-      "research_status": "Местный календарь ещё не исследован",
-      "competitions": 0,
+      "research_status": "Частично: есть записи; полный местный аудит не завершён",
+      "competitions": 1,
       "exhibitions": 0,
       "camps": 0,
-      "dated": 0,
+      "dated": 1,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
       "network_routes": 0,
@@ -659079,10 +660788,10 @@
       "country": "Кайман острова",
       "region": "Карибский регион",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 0,
-      "exhibitions": 2,
+      "competitions": 2,
+      "exhibitions": 3,
       "camps": 1,
-      "dated": 2,
+      "dated": 5,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
       "network_routes": 0,
@@ -659445,8 +661154,8 @@
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 192,
       "exhibitions": 35,
-      "camps": 54,
-      "dated": 212,
+      "camps": 58,
+      "dated": 216,
       "organizer": "WRO Mexico / FUNDESTEAM México",
       "organizer_url": "https://wromexico.org/",
       "network_routes": 4,
@@ -659471,10 +661180,10 @@
       "country": "Панама",
       "region": "Центральная Америка",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 44,
+      "competitions": 46,
       "exhibitions": 3,
-      "camps": 14,
-      "dated": 39,
+      "camps": 15,
+      "dated": 42,
       "organizer": "Fundesteam",
       "organizer_url": "https://www.fundesteam.org/",
       "network_routes": 1,
@@ -659766,9 +661475,9 @@
       "region": "Северная Америка",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 1143,
-      "exhibitions": 36,
+      "exhibitions": 40,
       "camps": 425,
-      "dated": 1581,
+      "dated": 1585,
       "organizer": "US Engineering League",
       "organizer_url": "https://www.uselyouthrobotics.com",
       "network_routes": 3,
@@ -660732,9 +662441,9 @@
       "region": "Европа",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 3,
-      "exhibitions": 0,
+      "exhibitions": 2,
       "camps": 2,
-      "dated": 5,
+      "dated": 7,
       "organizer": "Camden Education Trust",
       "organizer_url": "https://camden.education",
       "network_routes": 3,
@@ -660844,9 +662553,9 @@
       "region": "Европа",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 21,
-      "exhibitions": 3,
+      "exhibitions": 7,
       "camps": 41,
-      "dated": 59,
+      "dated": 63,
       "organizer": "STEMpura CIC",
       "organizer_url": "https://www.stempura.org/",
       "network_routes": 3,
@@ -661096,9 +662805,9 @@
       "region": "Европа",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
       "competitions": 14,
-      "exhibitions": 4,
+      "exhibitions": 6,
       "camps": 1,
-      "dated": 16,
+      "dated": 18,
       "organizer": "Не найден в проверенном справочнике WRO; другие лиги исследуются отдельно",
       "organizer_url": "",
       "network_routes": 2,
@@ -661109,10 +662818,10 @@
       "country": "Франция",
       "region": "Европа",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 24,
+      "competitions": 25,
       "exhibitions": 22,
       "camps": 316,
-      "dated": 332,
+      "dated": 333,
       "organizer": "Decanum",
       "organizer_url": "https://www.wrofrance.fr/",
       "network_routes": 5,
@@ -661625,9 +663334,9 @@
   ],
   "coverage_summary": {
     "countries": 249,
-    "countries_with_records": 201,
+    "countries_with_records": 203,
     "fully_audited_countries": 0,
-    "unmapped_global_records": 145
+    "unmapped_global_records": 146
   },
   "methodology": {
     "scope": "Масштаб — редакционная оценка по источнику; международная сеть не делает каждый этап мировым финалом.",
@@ -689362,14 +691071,14 @@
       "fully_audited_countries": 0
     },
     "counts": {
-      "cards": 8571,
-      "competition_cards": 3473,
-      "event_cards": 458,
-      "camp_cards": 4640,
+      "cards": 8596,
+      "competition_cards": 3479,
+      "event_cards": 471,
+      "camp_cards": 4646,
       "league_profiles": 288,
-      "major_exhibition_cards": 368,
+      "major_exhibition_cards": 375,
       "vex_cards": 521,
-      "countries_with_records": 201,
+      "countries_with_records": 203,
       "fully_audited_countries": 0
     },
     "continents": [
@@ -689380,12 +691089,12 @@
           "Центральная Америка",
           "Карибский регион"
         ],
-        "total": 2859,
+        "total": 2873,
         "countries_with_records": 37,
-        "competitions": 1526,
-        "events": 117,
-        "major_exhibitions": 81,
-        "camps": 1216,
+        "competitions": 1530,
+        "events": 122,
+        "major_exhibitions": 84,
+        "camps": 1221,
         "status": "Частично исследовано",
         "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
       },
@@ -689408,12 +691117,12 @@
         "regions": [
           "Европа"
         ],
-        "total": 1946,
+        "total": 1955,
         "countries_with_records": 48,
         "competitions": 444,
-        "events": 108,
-        "major_exhibitions": 88,
-        "camps": 1394,
+        "events": 116,
+        "major_exhibitions": 92,
+        "camps": 1395,
         "status": "Частично исследовано",
         "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
       },
@@ -689422,9 +691131,9 @@
         "regions": [
           "Африка"
         ],
-        "total": 255,
-        "countries_with_records": 44,
-        "competitions": 142,
+        "total": 257,
+        "countries_with_records": 47,
+        "competitions": 144,
         "events": 35,
         "major_exhibitions": 27,
         "camps": 78,
@@ -700926,6 +702635,83 @@
         "new": false
       },
       {
+        "id": "E459",
+        "name": "345Robotics Expo/Showcase 2025 · Cayman",
+        "country": "Кайман острова",
+        "region": "Карибский регион",
+        "start": "2025-04-27",
+        "end": "2025-04-28",
+        "visitor_policy": "confirm_children",
+        "source": "https://www.radiocayman.gov.ky/community-events/345robotics-expo-showcase",
+        "new": false
+      },
+      {
+        "id": "E461",
+        "name": "Coolest Projects USA Minnesota 2027 · Family visit",
+        "country": "Соединенные Штаты Америки",
+        "region": "Северная Америка",
+        "start": "2027-04-17",
+        "end": "2027-04-17",
+        "visitor_policy": "family",
+        "source": "https://online.coolestprojects.org/cp-minnesota-2026",
+        "new": false
+      },
+      {
+        "id": "E463",
+        "name": "Coolest Projects USA Georgia 2027 · Family visit",
+        "country": "Соединенные Штаты Америки",
+        "region": "Северная Америка",
+        "start": "2027-05-15",
+        "end": "2027-05-15",
+        "visitor_policy": "family",
+        "source": "https://online.coolestprojects.org/cp-georgia-2026",
+        "new": false
+      },
+      {
+        "id": "E465",
+        "name": "Coolest Projects Ireland 2027 · Family visit",
+        "country": "Ирландия",
+        "region": "Европа",
+        "start": "2027-04-24",
+        "end": "2027-04-24",
+        "visitor_policy": "family",
+        "source": "https://online.coolestprojects.org/cp-ireland-2027",
+        "new": false
+      },
+      {
+        "id": "E467",
+        "name": "Coolest Projects UK Bradford 2027 · Family visit",
+        "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+        "region": "Европа",
+        "start": "2027-05-15",
+        "end": "2027-05-15",
+        "visitor_policy": "family",
+        "source": "https://online.coolestprojects.org/cp-uk-2026",
+        "new": false
+      },
+      {
+        "id": "E469",
+        "name": "Coolest Projects UK Cardiff 2027 · Family visit",
+        "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+        "region": "Европа",
+        "start": "2027-05-22",
+        "end": "2027-05-22",
+        "visitor_policy": "family",
+        "source": "https://online.coolestprojects.org/cp-cardiff-2027",
+        "new": false
+      },
+      {
+        "id": "E471",
+        "name": "Coolest Projects Belgium 2027 · Techfair",
+        "country": "Бельгия",
+        "region": "Европа",
+        "start": "2027-03-13",
+        "end": "2027-03-13",
+        "visitor_policy": "confirm_children",
+        "source": "https://coderdojobelgium.be/nl/events/coolest-projects-13-03-2027",
+        "new": false
+      },
+      {
         "id": "E240",
         "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
         "country": "Польша",
@@ -703343,9 +705129,9 @@
         }
       ],
       "counts": {
-        "records": 4640,
+        "records": 4646,
         "holiday": 4336,
-        "regular": 145,
+        "regular": 146,
         "self_paced_materials": 2,
         "boarding": 1036,
         "en_es_instruction": 1432,
@@ -706162,9 +707948,9 @@
       }
     ],
     "counts": {
-      "records": 4640,
+      "records": 4646,
       "holiday": 4336,
-      "regular": 145,
+      "regular": 146,
       "self_paced_materials": 2,
       "boarding": 1036,
       "en_es_instruction": 1432,
@@ -731599,7 +733385,7 @@
       "school_grades_known": false
     },
     "counts": {
-      "dossiers": 1874,
+      "dossiers": 1875,
       "countries": 121,
       "swiss": 137,
       "by_status": {
@@ -731607,7 +733393,7 @@
         "published_2027": 510,
         "partial_2027": 141,
         "next_unannounced": 397,
-        "published_2026": 341,
+        "published_2026": 342,
         "partial_2026_27": 32,
         "partial_2026": 23,
         "archive_next_unannounced": 142,
@@ -731617,7 +733403,7 @@
         "announced_dates_programme_pending": 4,
         "confirmed_2027": 1
       },
-      "source_urls": 2739
+      "source_urls": 2740
     },
     "countries": [
       {
@@ -731882,7 +733668,7 @@
       },
       {
         "country": "Мексика",
-        "count": 69
+        "count": 70
       },
       {
         "country": "Мозамбик",
@@ -1049579,6 +1051365,192 @@
             ]
           }
         ]
+      },
+      {
+        "id": "CP1875",
+        "slug": "observando-cosmos-acambay-2026",
+        "provider": "Observando el Cosmos · Acambay",
+        "country": "Мексика",
+        "iso": "MEX",
+        "place": "Ejido de Detiña · Acambay",
+        "age": "Семейное участие. Детский тариф в 5–12 лет. У тарифа взрослых нижняя граница тоже 12 лет.",
+        "programme": "Наблюдения в телескоп, вводная астрофотография и обработка изображений. При облаках оптика зависит от погоды.",
+        "format": "family",
+        "formats": [
+          "family"
+        ],
+        "language": "Язык преподавания конкретной группы не указан. Подтвердить EN или ES перед записью.",
+        "confirmed_instruction_languages": [],
+        "timing": {
+          "status": "published_2026",
+          "label": "Отдельные выходные 7–8 и 14–15 ноября, 5–6 и 12–13 декабря 2026.",
+          "session_details": [
+            {
+              "variant_key": "family-2026-11-07",
+              "start": "2026-11-07",
+              "end": "2026-11-08",
+              "label": "Семейные выходные с палаткой",
+              "price": "200 MXN ребёнок и 600 MXN взрослый. Для 2 взрослых и 2 детей 1600 MXN за вход. Меню отдельно.",
+              "source": "https://www.sbkmexico.com/campamento.php",
+              "date_scope": "camp_session",
+              "entry": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+              },
+              "formats": [
+                "family"
+              ]
+            },
+            {
+              "variant_key": "family-2026-11-14",
+              "start": "2026-11-14",
+              "end": "2026-11-15",
+              "label": "Семейные выходные с палаткой",
+              "price": "200 MXN ребёнок и 600 MXN взрослый. Для 2 взрослых и 2 детей 1600 MXN за вход. Меню отдельно.",
+              "source": "https://www.sbkmexico.com/campamento.php",
+              "date_scope": "camp_session",
+              "entry": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+              },
+              "formats": [
+                "family"
+              ]
+            },
+            {
+              "variant_key": "family-2026-12-05",
+              "start": "2026-12-05",
+              "end": "2026-12-06",
+              "label": "Семейные выходные с палаткой",
+              "price": "200 MXN ребёнок и 600 MXN взрослый. Для 2 взрослых и 2 детей 1600 MXN за вход. Меню отдельно.",
+              "source": "https://www.sbkmexico.com/campamento.php",
+              "date_scope": "camp_session",
+              "entry": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+              },
+              "formats": [
+                "family"
+              ]
+            },
+            {
+              "variant_key": "family-2026-12-12",
+              "start": "2026-12-12",
+              "end": "2026-12-13",
+              "label": "Семейные выходные с палаткой",
+              "price": "200 MXN ребёнок и 600 MXN взрослый. Для 2 взрослых и 2 детей 1600 MXN за вход. Меню отдельно.",
+              "source": "https://www.sbkmexico.com/campamento.php",
+              "date_scope": "camp_session",
+              "entry": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+              "availability": {
+                "status": "unconfirmed",
+                "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+              },
+              "formats": [
+                "family"
+              ]
+            }
+          ],
+          "variant_keyed": true,
+          "sessions": [
+            [
+              "2026-11-07",
+              "2026-11-08"
+            ],
+            [
+              "2026-11-14",
+              "2026-11-15"
+            ],
+            [
+              "2026-12-05",
+              "2026-12-06"
+            ],
+            [
+              "2026-12-12",
+              "2026-12-13"
+            ]
+          ],
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2026,
+          "currency": "MXN",
+          "amount": null,
+          "unit": "participant",
+          "label": "200 MXN ребёнок и 600 MXN взрослый. Для 2 взрослых и 2 детей 1600 MXN за вход. Меню отдельно.",
+          "included": "Место для палатки и зона телескопов. Организатор ставит телескопы для общего наблюдения.",
+          "extras": "Меню 290 MXN на взрослого, 220 MXN на ребёнка. Аренда оборудования и походы отдельно.",
+          "deposit": "Для обычных смен возврат за 7 дней и ранее, за 3–6 дней перенос или 50% возврата. За срок менее 3 дней возврата нет. Подтвердить тип смены."
+        },
+        "accommodation": "Семейный палаточный формат с сопровождающими взрослыми.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка."
+          },
+          "oscar": {
+            "status": "conditional",
+            "detail": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка."
+          }
+        },
+        "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+        "shortlist": [],
+        "questions": [
+          "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка."
+        ],
+        "sources": [
+          {
+            "url": "https://www.sbkmexico.com/campamento.php",
+            "title": "Официальная страница или регламент организатора.",
+            "checked": "2026-11-07"
+          }
+        ],
+        "checked": "2026-11-07",
+        "themes": [
+          "space",
+          "science",
+          "technology"
+        ],
+        "programme_type": "family_visit",
+        "catalog_participation": "family_visit",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2026-11-07",
+            "end": "2026-11-08",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP1875-20261107-20261108-family-2026-11-07"
+            ]
+          },
+          {
+            "start": "2026-11-14",
+            "end": "2026-11-15",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP1875-20261114-20261115-family-2026-11-14"
+            ]
+          },
+          {
+            "start": "2026-12-05",
+            "end": "2026-12-06",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP1875-20261205-20261206-family-2026-12-05"
+            ]
+          },
+          {
+            "start": "2026-12-12",
+            "end": "2026-12-13",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP1875-20261212-20261213-family-2026-12-12"
+            ]
+          }
+        ]
       }
     ],
     "gaps": [
@@ -1054904,7 +1056876,7 @@
       "Младшие группы и языковое доказательство для всех приоритетных операторов.",
       "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
     ],
-    "version": 245,
+    "version": 246,
     "family_review": {
       "version": 150,
       "asof": "2026-11-05",
@@ -1068139,7 +1070111,7 @@
         }
       ],
       "coverage": {
-        "total_dossiers": 1874,
+        "total_dossiers": 1875,
         "reviewed": 71,
         "refresh_pending": 4,
         "review_dossiers": 75,
@@ -1088899,6 +1090871,26 @@
         "relation": "catalogue_session"
       },
       {
+        "programme_id": "CP1875",
+        "event_id": "CP1875-20261107-20261108-family-2026-11-07",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP1875",
+        "event_id": "CP1875-20261114-20261115-family-2026-11-14",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP1875",
+        "event_id": "CP1875-20261205-20261206-family-2026-12-05",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP1875",
+        "event_id": "CP1875-20261212-20261213-family-2026-12-12",
+        "relation": "catalogue_session"
+      },
+      {
         "programme_id": "CP1294",
         "event_id": "L464",
         "relation": "existing_programme"
@@ -1093264,10 +1095256,14 @@
       "CP1874-20270104-20270108-january-e204",
       "CP1874-20270329-20270402-march-e204",
       "CP1874-20270405-20270409-april-e204",
-      "CP1874-20270628-20270702-june-e204"
+      "CP1874-20270628-20270702-june-e204",
+      "CP1875-20261107-20261108-family-2026-11-07",
+      "CP1875-20261114-20261115-family-2026-11-14",
+      "CP1875-20261205-20261206-family-2026-12-05",
+      "CP1875-20261212-20261213-family-2026-12-12"
     ],
     "integration": {
-      "generated_sessions": 3935,
+      "generated_sessions": 3939,
       "reused_legacy_events": 73,
       "seasonal_windows": 73,
       "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."
@@ -1106389,6 +1108385,80 @@
         "deposit_note": "При отмене более чем за 7 дней удерживают 35 EUR. Позже возврат возможен при замене участника.",
         "included": "LEGO и занятия включены.",
         "scope": "Два ребёнка по цене варианта. Поездка отдельно."
+      },
+      {
+        "id": "acambay-astronomy-two-parents",
+        "slug": "observando-cosmos-acambay-2026",
+        "programme_ids": [
+          "CP1875"
+        ],
+        "label": "Acambay · 2 взрослых и 2 ребёнка",
+        "currency": "MXN",
+        "price_year": 2026,
+        "format": "family",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "base_by_child": {
+          "matvey": 200,
+          "oscar": 200
+        },
+        "discount_second": 0,
+        "required": [
+          {
+            "id": "parents",
+            "label": "2 взрослых по 600 MXN",
+            "amount": 1200
+          }
+        ],
+        "unknown_required": [],
+        "optional": [
+          {
+            "id": "family-meals",
+            "label": "Меню на 2 взрослых и 2 детей",
+            "amount": 1020
+          }
+        ],
+        "unknown_trip": [
+          "travel",
+          "lodging",
+          "misc"
+        ],
+        "sessions": [
+          {
+            "label": "Семейные выходные с палаткой",
+            "start": "2026-11-07",
+            "end": "2026-11-08",
+            "availability": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+          },
+          {
+            "label": "Семейные выходные с палаткой",
+            "start": "2026-11-14",
+            "end": "2026-11-15",
+            "availability": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+          },
+          {
+            "label": "Семейные выходные с палаткой",
+            "start": "2026-12-05",
+            "end": "2026-12-06",
+            "availability": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+          },
+          {
+            "label": "Семейные выходные с палаткой",
+            "start": "2026-12-12",
+            "end": "2026-12-13",
+            "availability": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+          }
+        ],
+        "sources": [
+          "https://www.sbkmexico.com/campamento.php"
+        ],
+        "checked": "2026-11-07",
+        "gate": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+        "deposit_note": "Для обычных смен возврат за 7 дней и ранее, за 3–6 дней перенос или 50% возврата. За срок менее 3 дней возврата нет. Подтвердить тип смены.",
+        "included": "Место для палатки и зона телескопов. Организатор ставит телескопы для общего наблюдения.",
+        "scope": "Семейный вход. Питание и аренда отдельно."
       },
       {
         "id": "hopla-world-both",

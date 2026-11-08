@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1874,
+    "dossiers": 1875,
     "countries": 121,
     "swiss": 137,
     "by_status": {
@@ -38,7 +38,7 @@
       "published_2027": 510,
       "partial_2027": 141,
       "next_unannounced": 397,
-      "published_2026": 341,
+      "published_2026": 342,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 142,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2739
+    "source_urls": 2740
   },
   "countries": [
     {
@@ -313,7 +313,7 @@
     },
     {
       "country": "México",
-      "count": 69
+      "count": 70
     },
     {
       "country": "Mozambique",
@@ -318010,6 +318010,192 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1875",
+      "slug": "observando-cosmos-acambay-2026",
+      "provider": "Observando el Cosmos · Acambay",
+      "country": "México",
+      "iso": "MEX",
+      "place": "Ejido de Detiña · Acambay",
+      "age": "Participación familiar. Tarifa infantil de 5–12 años. La tarifa adulta también empieza a los 12 años.",
+      "programme": "Observación con telescopio, iniciación a la astrofotografía y procesado de imágenes. Con nubes, la óptica depende del tiempo.",
+      "format": "family",
+      "formats": [
+        "family"
+      ],
+      "language": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "published_2026",
+        "label": "Fines de semana separados del 7 al 8 y del 14 al 15 de noviembre, y del 5 al 6 y del 12 al 13 de diciembre de 2026.",
+        "session_details": [
+          {
+            "variant_key": "family-2026-11-07",
+            "start": "2026-11-07",
+            "end": "2026-11-08",
+            "label": "Fin de semana familiar con tienda",
+            "price": "200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte.",
+            "source": "https://www.sbkmexico.com/campamento.php",
+            "date_scope": "camp_session",
+            "entry": "Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "formats": [
+              "family"
+            ]
+          },
+          {
+            "variant_key": "family-2026-11-14",
+            "start": "2026-11-14",
+            "end": "2026-11-15",
+            "label": "Fin de semana familiar con tienda",
+            "price": "200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte.",
+            "source": "https://www.sbkmexico.com/campamento.php",
+            "date_scope": "camp_session",
+            "entry": "Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "formats": [
+              "family"
+            ]
+          },
+          {
+            "variant_key": "family-2026-12-05",
+            "start": "2026-12-05",
+            "end": "2026-12-06",
+            "label": "Fin de semana familiar con tienda",
+            "price": "200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte.",
+            "source": "https://www.sbkmexico.com/campamento.php",
+            "date_scope": "camp_session",
+            "entry": "Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "formats": [
+              "family"
+            ]
+          },
+          {
+            "variant_key": "family-2026-12-12",
+            "start": "2026-12-12",
+            "end": "2026-12-13",
+            "label": "Fin de semana familiar con tienda",
+            "price": "200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte.",
+            "source": "https://www.sbkmexico.com/campamento.php",
+            "date_scope": "camp_session",
+            "entry": "Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+            },
+            "formats": [
+              "family"
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-11-07",
+            "2026-11-08"
+          ],
+          [
+            "2026-11-14",
+            "2026-11-15"
+          ],
+          [
+            "2026-12-05",
+            "2026-12-06"
+          ],
+          [
+            "2026-12-12",
+            "2026-12-13"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "MXN",
+        "amount": null,
+        "unit": "participant",
+        "label": "200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte.",
+        "included": "Espacio para tienda y zona de telescopios. La organización instala telescopios para observación compartida.",
+        "extras": "Menú de 290 MXN por adulto, 220 MXN por niño. Alquiler de equipo y senderismo aparte.",
+        "deposit": "Para turnos regulares, reembolso con 7 días o más, con 3–6 días cambio o 50% de reembolso. Sin reembolso a menos de 3 días. Confirmar modalidad."
+      },
+      "accommodation": "Acampada familiar con adultos acompañantes.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma."
+        }
+      },
+      "editorial_reason": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "shortlist": [],
+      "questions": [
+        "Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sbkmexico.com/campamento.php",
+          "title": "Página o reglamento oficial de la organización.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "space",
+        "science",
+        "technology"
+      ],
+      "programme_type": "family_visit",
+      "catalog_participation": "family_visit",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-07",
+          "end": "2026-11-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1875-20261107-20261108-family-2026-11-07"
+          ]
+        },
+        {
+          "start": "2026-11-14",
+          "end": "2026-11-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1875-20261114-20261115-family-2026-11-14"
+          ]
+        },
+        {
+          "start": "2026-12-05",
+          "end": "2026-12-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1875-20261205-20261206-family-2026-12-05"
+          ]
+        },
+        {
+          "start": "2026-12-12",
+          "end": "2026-12-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1875-20261212-20261213-family-2026-12-12"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -323335,7 +323521,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 245,
+  "version": 246,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -336570,7 +336756,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1874,
+      "total_dossiers": 1875,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -357330,6 +357516,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1875",
+      "event_id": "CP1875-20261107-20261108-family-2026-11-07",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1875",
+      "event_id": "CP1875-20261114-20261115-family-2026-11-14",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1875",
+      "event_id": "CP1875-20261205-20261206-family-2026-12-05",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1875",
+      "event_id": "CP1875-20261212-20261213-family-2026-12-12",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -361695,10 +361901,14 @@
     "CP1874-20270104-20270108-january-e204",
     "CP1874-20270329-20270402-march-e204",
     "CP1874-20270405-20270409-april-e204",
-    "CP1874-20270628-20270702-june-e204"
+    "CP1874-20270628-20270702-june-e204",
+    "CP1875-20261107-20261108-family-2026-11-07",
+    "CP1875-20261114-20261115-family-2026-11-14",
+    "CP1875-20261205-20261206-family-2026-12-05",
+    "CP1875-20261212-20261213-family-2026-12-12"
   ],
   "integration": {
-    "generated_sessions": 3935,
+    "generated_sessions": 3939,
     "reused_legacy_events": 73,
     "seasonal_windows": 73,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

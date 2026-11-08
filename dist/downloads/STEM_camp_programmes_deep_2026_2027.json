@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1874,
+    "dossiers": 1875,
     "countries": 121,
     "swiss": 137,
     "by_status": {
@@ -38,7 +38,7 @@
       "published_2027": 510,
       "partial_2027": 141,
       "next_unannounced": 397,
-      "published_2026": 341,
+      "published_2026": 342,
       "partial_2026_27": 32,
       "partial_2026": 23,
       "archive_next_unannounced": 142,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2739
+    "source_urls": 2740
   },
   "countries": [
     {
@@ -313,7 +313,7 @@
     },
     {
       "country": "Мексика",
-      "count": 69
+      "count": 70
     },
     {
       "country": "Мозамбик",
@@ -318010,6 +318010,192 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1875",
+      "slug": "observando-cosmos-acambay-2026",
+      "provider": "Observando el Cosmos · Acambay",
+      "country": "Мексика",
+      "iso": "MEX",
+      "place": "Ejido de Detiña · Acambay",
+      "age": "Семейное участие. Детский тариф в 5–12 лет. У тарифа взрослых нижняя граница тоже 12 лет.",
+      "programme": "Наблюдения в телескоп, вводная астрофотография и обработка изображений. При облаках оптика зависит от погоды.",
+      "format": "family",
+      "formats": [
+        "family"
+      ],
+      "language": "Язык преподавания конкретной группы не указан. Подтвердить EN или ES перед записью.",
+      "confirmed_instruction_languages": [],
+      "timing": {
+        "status": "published_2026",
+        "label": "Отдельные выходные 7–8 и 14–15 ноября, 5–6 и 12–13 декабря 2026.",
+        "session_details": [
+          {
+            "variant_key": "family-2026-11-07",
+            "start": "2026-11-07",
+            "end": "2026-11-08",
+            "label": "Семейные выходные с палаткой",
+            "price": "200 MXN ребёнок и 600 MXN взрослый. Для 2 взрослых и 2 детей 1600 MXN за вход. Меню отдельно.",
+            "source": "https://www.sbkmexico.com/campamento.php",
+            "date_scope": "camp_session",
+            "entry": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "formats": [
+              "family"
+            ]
+          },
+          {
+            "variant_key": "family-2026-11-14",
+            "start": "2026-11-14",
+            "end": "2026-11-15",
+            "label": "Семейные выходные с палаткой",
+            "price": "200 MXN ребёнок и 600 MXN взрослый. Для 2 взрослых и 2 детей 1600 MXN за вход. Меню отдельно.",
+            "source": "https://www.sbkmexico.com/campamento.php",
+            "date_scope": "camp_session",
+            "entry": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "formats": [
+              "family"
+            ]
+          },
+          {
+            "variant_key": "family-2026-12-05",
+            "start": "2026-12-05",
+            "end": "2026-12-06",
+            "label": "Семейные выходные с палаткой",
+            "price": "200 MXN ребёнок и 600 MXN взрослый. Для 2 взрослых и 2 детей 1600 MXN за вход. Меню отдельно.",
+            "source": "https://www.sbkmexico.com/campamento.php",
+            "date_scope": "camp_session",
+            "entry": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "formats": [
+              "family"
+            ]
+          },
+          {
+            "variant_key": "family-2026-12-12",
+            "start": "2026-12-12",
+            "end": "2026-12-13",
+            "label": "Семейные выходные с палаткой",
+            "price": "200 MXN ребёнок и 600 MXN взрослый. Для 2 взрослых и 2 детей 1600 MXN за вход. Меню отдельно.",
+            "source": "https://www.sbkmexico.com/campamento.php",
+            "date_scope": "camp_session",
+            "entry": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Даты опубликованы. Наличие мест и зачисление не подтверждены."
+            },
+            "formats": [
+              "family"
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-11-07",
+            "2026-11-08"
+          ],
+          [
+            "2026-11-14",
+            "2026-11-15"
+          ],
+          [
+            "2026-12-05",
+            "2026-12-06"
+          ],
+          [
+            "2026-12-12",
+            "2026-12-13"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "MXN",
+        "amount": null,
+        "unit": "participant",
+        "label": "200 MXN ребёнок и 600 MXN взрослый. Для 2 взрослых и 2 детей 1600 MXN за вход. Меню отдельно.",
+        "included": "Место для палатки и зона телескопов. Организатор ставит телескопы для общего наблюдения.",
+        "extras": "Меню 290 MXN на взрослого, 220 MXN на ребёнка. Аренда оборудования и походы отдельно.",
+        "deposit": "Для обычных смен возврат за 7 дней и ранее, за 3–6 дней перенос или 50% возврата. За срок менее 3 дней возврата нет. Подтвердить тип смены."
+      },
+      "accommodation": "Семейный палаточный формат с сопровождающими взрослыми.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка."
+        }
+      },
+      "editorial_reason": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Оба ребёнка подходят под детский тариф. Нужен сопровождающий взрослый, наличие мест и подтверждение языка."
+      ],
+      "sources": [
+        {
+          "url": "https://www.sbkmexico.com/campamento.php",
+          "title": "Официальная страница или регламент организатора.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "space",
+        "science",
+        "technology"
+      ],
+      "programme_type": "family_visit",
+      "catalog_participation": "family_visit",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-07",
+          "end": "2026-11-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1875-20261107-20261108-family-2026-11-07"
+          ]
+        },
+        {
+          "start": "2026-11-14",
+          "end": "2026-11-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1875-20261114-20261115-family-2026-11-14"
+          ]
+        },
+        {
+          "start": "2026-12-05",
+          "end": "2026-12-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1875-20261205-20261206-family-2026-12-05"
+          ]
+        },
+        {
+          "start": "2026-12-12",
+          "end": "2026-12-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1875-20261212-20261213-family-2026-12-12"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -323335,7 +323521,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 245,
+  "version": 246,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -336570,7 +336756,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1874,
+      "total_dossiers": 1875,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -357330,6 +357516,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1875",
+      "event_id": "CP1875-20261107-20261108-family-2026-11-07",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1875",
+      "event_id": "CP1875-20261114-20261115-family-2026-11-14",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1875",
+      "event_id": "CP1875-20261205-20261206-family-2026-12-05",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1875",
+      "event_id": "CP1875-20261212-20261213-family-2026-12-12",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -361695,10 +361901,14 @@
     "CP1874-20270104-20270108-january-e204",
     "CP1874-20270329-20270402-march-e204",
     "CP1874-20270405-20270409-april-e204",
-    "CP1874-20270628-20270702-june-e204"
+    "CP1874-20270628-20270702-june-e204",
+    "CP1875-20261107-20261108-family-2026-11-07",
+    "CP1875-20261114-20261115-family-2026-11-14",
+    "CP1875-20261205-20261206-family-2026-12-05",
+    "CP1875-20261212-20261213-family-2026-12-12"
   ],
   "integration": {
-    "generated_sessions": 3935,
+    "generated_sessions": 3939,
     "reused_legacy_events": 73,
     "seasonal_windows": 73,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

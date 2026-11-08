@@ -580,9 +580,9 @@
       }
     ],
     "counts": {
-      "records": 4640,
+      "records": 4646,
       "holiday": 4336,
-      "regular": 145,
+      "regular": 146,
       "self_paced_materials": 2,
       "boarding": 1036,
       "en_es_instruction": 1432,
@@ -33391,7 +33391,10 @@
       "participation": "day_course",
       "admission_kind": "program",
       "evidence_level": "event_page",
-      "date_scope": "programme_watch"
+      "date_scope": "programme_watch",
+      "related_ids": [
+        "E459"
+      ]
     },
     {
       "id": "L658",
@@ -35978,6 +35981,126 @@
       "evidence_level": "event_page",
       "related_ids": [
         "L704"
+      ]
+    },
+    {
+      "id": "L706",
+      "title": "SENACYT · Blue-Bot y Rugged Robot · Colón 2024",
+      "block": "Campamentos",
+      "country": "Panamá",
+      "region": "América Central",
+      "iso": [
+        "PAN"
+      ],
+      "city": "Cidete · Universidad de Panamá · Colón",
+      "start": "2024-10-31",
+      "end": "2024-10-31",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "showcase",
+      "checked": "2026-11-07",
+      "source": "https://www.senacyt.gob.pa/estudiantes-de-colon-participaron-en-el-cierre-del-proyecto-de-robotica-educativa-aprendiendo-con-blue-bot-y-rugged-robot-2024/",
+      "references": [
+        {
+          "url": "https://www.senacyt.gob.pa/en/students-from-colon-participated-in-the-closing-of-the-educational-robotics-project-learning-with-blue-bot-and-rugged-robot-2024/",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "En el archivo, alumnado de escuelas de Colón de 1.º a 12.º. Blue-Bot para primaria.",
+      "mat": "Condicional. El acceso depende de la escuela y del curso.",
+      "osc": "Condicional. El acceso depende de la escuela y del curso.",
+      "format": "Programa escolar con demostración final.",
+      "entry": "Mediante la escuela y un mentor.",
+      "gear": "",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Edición archivada. Confirmar condiciones de nueva convocatoria con la organización.",
+      "note": "Blue-Bot para retos de primaria, Rugged Robot para cursos mayores. El 31 de octubre de 2024 fue el encuentro final. El informe salió el 6 de noviembre.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Fase regional",
+      "participation": "school_show",
+      "admission_kind": "school_selection",
+      "evidence_level": "historical_program"
+    },
+    {
+      "id": "L707",
+      "title": "Raspberry Pi Foundation · Code Club projects",
+      "block": "Campamentos",
+      "country": "En línea / mundial",
+      "region": "Europa",
+      "iso": [],
+      "city": "En línea",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://projects.raspberrypi.org/es-LA/",
+      "references": [
+        {
+          "url": "https://codeclub.org/en/join-a-club",
+          "label": "Página o reglamento oficial de la organización."
+        },
+        {
+          "url": "https://codeclub.org/en/find",
+          "label": "Página o reglamento oficial de la organización."
+        },
+        {
+          "url": "https://codeclub.org/en/learn-to-code",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Materiales para niños y adolescentes. Cada club local tiene sus condiciones.",
+      "mat": "Condicional. Empezar con bloques de Scratch y elegir nivel con un adulto.",
+      "osc": "Condicional. Empezar con bloques de Scratch y elegir nivel con un adulto.",
+      "format": "Proyectos digitales autónomos.",
+      "entry": "Proyectos abiertos para trabajo autónomo. Para un club presencial, buscar grupo local y confirmar edad e idioma.",
+      "gear": "Scratch, Python, web, IA básica y computación física.",
+      "language": "Materiales paso a paso en inglés y español. En el club presencial, el idioma depende de la coordinación.",
+      "languages": [],
+      "language_mode": "materials",
+      "language_certainty": "Materiales paso a paso en inglés y español. En el club presencial, el idioma depende de la coordinación.",
+      "cost": "Gratis.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Proyectos abiertos para trabajo autónomo. Para un club presencial, buscar grupo local y confirmar edad e idioma.",
+      "note": "Después se pueden presentar proyectos terminados a Coolest Projects según sus reglas.",
+      "themes": [
+        "coding",
+        "games",
+        "ai",
+        "technology"
+      ],
+      "scope": "international",
+      "importance_reason": "Fase regional",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "event_page",
+      "support_languages": [
+        "EN",
+        "ES"
+      ],
+      "related_ids": [
+        "C039"
       ]
     },
     {
@@ -371212,6 +371335,246 @@
       }
     },
     {
+      "id": "CP1875-20261107-20261108-family-2026-11-07",
+      "block": "Campamentos",
+      "title": "Observando el Cosmos · Acambay · Fin de semana familiar con tienda · 2026-11-07–2026-11-08",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Ejido de Detiña · Acambay",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "period": "Fines de semana separados del 7 al 8 y del 14 al 15 de noviembre, y del 5 al 6 y del 12 al 13 de diciembre de 2026.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Participación familiar. Tarifa infantil de 5–12 años. La tarifa adulta también empieza a los 12 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Acampada familiar con adultos acompañantes.",
+      "entry": "Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.",
+      "gear": "Observación con telescopio, iniciación a la astrofotografía y procesado de imágenes. Con nubes, la óptica depende del tiempo.",
+      "language": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "cost": "2026/27 · 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.",
+      "source": "https://www.sbkmexico.com/campamento.php",
+      "references": [
+        {
+          "url": "https://www.sbkmexico.com/campamento.php",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Oscar: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Suplementos: Menú de 290 MXN por adulto, 220 MXN por niño. Alquiler de equipo y senderismo aparte. Pago: Para turnos regulares, reembolso con 7 días o más, con 3–6 días cambio o 50% de reembolso. Sin reembolso a menos de 3 días. Confirmar modalidad.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "space",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "participation": "family_visit",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "observando-cosmos-acambay-2026",
+      "camp_programme_id": "CP1875",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+      }
+    },
+    {
+      "id": "CP1875-20261114-20261115-family-2026-11-14",
+      "block": "Campamentos",
+      "title": "Observando el Cosmos · Acambay · Fin de semana familiar con tienda · 2026-11-14–2026-11-15",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Ejido de Detiña · Acambay",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "period": "Fines de semana separados del 7 al 8 y del 14 al 15 de noviembre, y del 5 al 6 y del 12 al 13 de diciembre de 2026.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Participación familiar. Tarifa infantil de 5–12 años. La tarifa adulta también empieza a los 12 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Acampada familiar con adultos acompañantes.",
+      "entry": "Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.",
+      "gear": "Observación con telescopio, iniciación a la astrofotografía y procesado de imágenes. Con nubes, la óptica depende del tiempo.",
+      "language": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "cost": "2026/27 · 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.",
+      "source": "https://www.sbkmexico.com/campamento.php",
+      "references": [
+        {
+          "url": "https://www.sbkmexico.com/campamento.php",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Oscar: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Suplementos: Menú de 290 MXN por adulto, 220 MXN por niño. Alquiler de equipo y senderismo aparte. Pago: Para turnos regulares, reembolso con 7 días o más, con 3–6 días cambio o 50% de reembolso. Sin reembolso a menos de 3 días. Confirmar modalidad.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "space",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "participation": "family_visit",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "observando-cosmos-acambay-2026",
+      "camp_programme_id": "CP1875",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+      }
+    },
+    {
+      "id": "CP1875-20261205-20261206-family-2026-12-05",
+      "block": "Campamentos",
+      "title": "Observando el Cosmos · Acambay · Fin de semana familiar con tienda · 2026-12-05–2026-12-06",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Ejido de Detiña · Acambay",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "period": "Fines de semana separados del 7 al 8 y del 14 al 15 de noviembre, y del 5 al 6 y del 12 al 13 de diciembre de 2026.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Participación familiar. Tarifa infantil de 5–12 años. La tarifa adulta también empieza a los 12 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Acampada familiar con adultos acompañantes.",
+      "entry": "Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.",
+      "gear": "Observación con telescopio, iniciación a la astrofotografía y procesado de imágenes. Con nubes, la óptica depende del tiempo.",
+      "language": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "cost": "2026/27 · 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.",
+      "source": "https://www.sbkmexico.com/campamento.php",
+      "references": [
+        {
+          "url": "https://www.sbkmexico.com/campamento.php",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Oscar: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Suplementos: Menú de 290 MXN por adulto, 220 MXN por niño. Alquiler de equipo y senderismo aparte. Pago: Para turnos regulares, reembolso con 7 días o más, con 3–6 días cambio o 50% de reembolso. Sin reembolso a menos de 3 días. Confirmar modalidad.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "space",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "participation": "family_visit",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "observando-cosmos-acambay-2026",
+      "camp_programme_id": "CP1875",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+      }
+    },
+    {
+      "id": "CP1875-20261212-20261213-family-2026-12-12",
+      "block": "Campamentos",
+      "title": "Observando el Cosmos · Acambay · Fin de semana familiar con tienda · 2026-12-12–2026-12-13",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Ejido de Detiña · Acambay",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "period": "Fines de semana separados del 7 al 8 y del 14 al 15 de noviembre, y del 5 al 6 y del 12 al 13 de diciembre de 2026.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Participación familiar. Tarifa infantil de 5–12 años. La tarifa adulta también empieza a los 12 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Acampada familiar con adultos acompañantes.",
+      "entry": "Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.",
+      "gear": "Observación con telescopio, iniciación a la astrofotografía y procesado de imágenes. Con nubes, la óptica depende del tiempo.",
+      "language": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "cost": "2026/27 · 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.",
+      "source": "https://www.sbkmexico.com/campamento.php",
+      "references": [
+        {
+          "url": "https://www.sbkmexico.com/campamento.php",
+          "label": "Página o reglamento oficial de la organización."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Oscar: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Suplementos: Menú de 290 MXN por adulto, 220 MXN por niño. Alquiler de equipo y senderismo aparte. Pago: Para turnos regulares, reembolso con 7 días o más, con 3–6 días cambio o 50% de reembolso. Sin reembolso a menos de 3 días. Confirmar modalidad.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "space",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
+      "participation": "family_visit",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "observando-cosmos-acambay-2026",
+      "camp_programme_id": "CP1875",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
+      }
+    },
+    {
       "id": "L491",
       "block": "Campamentos",
       "title": "Exupery · Primary Academic Saturday · EIS Campus",
@@ -375932,7 +376295,22 @@
       "date_scope": "submission_open",
       "language_mode": "primary",
       "admission_kind": "open_application",
-      "evidence_level": "event_page"
+      "evidence_level": "event_page",
+      "related_ids": [
+        "L707",
+        "E460",
+        "E461",
+        "E462",
+        "E463",
+        "E464",
+        "E465",
+        "E466",
+        "E467",
+        "E468",
+        "E469",
+        "E470",
+        "E471"
+      ]
     },
     {
       "id": "C840",

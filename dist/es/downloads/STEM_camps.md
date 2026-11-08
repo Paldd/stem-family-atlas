@@ -10070,6 +10070,38 @@ Limitaciones: Colaboración anunciada en febrero de 2026. Primero formación par
 Fuente: https://unicv.edu.cv/pt/nots-geral/5502-uni-cv-aposta-na-robotica-educativa-com-formacao-em-escola-secundaria
 Se ha comprobado: 2026-11-07
 
+### L706 · SENACYT · Blue-Bot y Rugged Robot · Colón 2024
+
+lugar: Panamá · Cidete · Universidad de Panamá · Colón
+Fecha: 2024-10-31 — 2024-10-31
+edad: En el archivo, alumnado de escuelas de Colón de 1.º a 12.º. Blue-Bot para primaria.
+Matvey: Condicional. El acceso depende de la escuela y del curso.
+Oscar: Condicional. El acceso depende de la escuela y del curso.
+formato: school_show
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Mediante la escuela y un mentor.
+Limitaciones: Blue-Bot para retos de primaria, Rugged Robot para cursos mayores. El 31 de octubre de 2024 fue el encuentro final. El informe salió el 6 de noviembre.
+Fuente: https://www.senacyt.gob.pa/estudiantes-de-colon-participaron-en-el-cierre-del-proyecto-de-robotica-educativa-aprendiendo-con-blue-bot-y-rugged-robot-2024/
+Se ha comprobado: 2026-11-07
+
+### L707 · Raspberry Pi Foundation · Code Club projects
+
+lugar: En línea / mundial · En línea
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Materiales para niños y adolescentes. Cada club local tiene sus condiciones.
+Matvey: Condicional. Empezar con bloques de Scratch y elegir nivel con un adulto.
+Oscar: Condicional. Empezar con bloques de Scratch y elegir nivel con un adulto.
+Formato: regular
+Idioma: Materiales paso a paso en inglés y español. En el club presencial, el idioma depende de la coordinación.
+Modalidad lingüística materials. Apoyo EN, ES.
+Precio: Gratuito.
+Acceso: Proyectos abiertos para trabajo autónomo. Para un club presencial, buscar grupo local y confirmar edad e idioma.
+Limitaciones: Después se pueden presentar proyectos terminados a Coolest Projects según sus reglas.
+Fuente: https://projects.raspberrypi.org/es-LA/
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -73028,6 +73060,70 @@ Precio: 2027 · Precio de la modalidad, comidas y reembolso bajo consulta. · su
 Acceso: Inscripción con el operador del campamento. La escuela indica cierre 2 semanas antes del inicio. Confirmar acceso de participantes externos.
 Limitaciones: Matvey: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Oscar: Condicional. Edad dentro de la ficha de robótica. Confirmar admisión por curso, idioma y disponibilidad. Suplementos: Precio de la modalidad, comidas y reembolso bajo consulta. Pago: Precio de la modalidad, comidas y reembolso bajo consulta.
 Fuente: https://www.gess.edu.sg/en/experiential-learning/holiday-camps
+Se ha comprobado: 2026-11-07
+
+### CP1875-20261107-20261108-family-2026-11-07 · Observando el Cosmos · Acambay · Fin de semana familiar con tienda · 2026-11-07–2026-11-08
+
+Lugar: México Ejido de Detiña · Acambay
+Fecha: 2026-11-07 — 2026-11-08
+edad: Participación familiar. Tarifa infantil de 5–12 años. La tarifa adulta también empieza a los 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte. · suplementos y condiciones en el dossier
+Acceso: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.
+Limitaciones: Matvey: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Oscar: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Suplementos: Menú de 290 MXN por adulto, 220 MXN por niño. Alquiler de equipo y senderismo aparte. Pago: Para turnos regulares, reembolso con 7 días o más, con 3–6 días cambio o 50% de reembolso. Sin reembolso a menos de 3 días. Confirmar modalidad.
+Fuente: https://www.sbkmexico.com/campamento.php
+Se ha comprobado: 2026-11-07
+
+### CP1875-20261114-20261115-family-2026-11-14 · Observando el Cosmos · Acambay · Fin de semana familiar con tienda · 2026-11-14–2026-11-15
+
+Lugar: México Ejido de Detiña · Acambay
+Fecha: 2026-11-14 — 2026-11-15
+edad: Participación familiar. Tarifa infantil de 5–12 años. La tarifa adulta también empieza a los 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte. · suplementos y condiciones en el dossier
+Acceso: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.
+Limitaciones: Matvey: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Oscar: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Suplementos: Menú de 290 MXN por adulto, 220 MXN por niño. Alquiler de equipo y senderismo aparte. Pago: Para turnos regulares, reembolso con 7 días o más, con 3–6 días cambio o 50% de reembolso. Sin reembolso a menos de 3 días. Confirmar modalidad.
+Fuente: https://www.sbkmexico.com/campamento.php
+Se ha comprobado: 2026-11-07
+
+### CP1875-20261205-20261206-family-2026-12-05 · Observando el Cosmos · Acambay · Fin de semana familiar con tienda · 2026-12-05–2026-12-06
+
+Lugar: México Ejido de Detiña · Acambay
+Fecha: 2026-12-05 — 2026-12-06
+edad: Participación familiar. Tarifa infantil de 5–12 años. La tarifa adulta también empieza a los 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte. · suplementos y condiciones en el dossier
+Acceso: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.
+Limitaciones: Matvey: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Oscar: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Suplementos: Menú de 290 MXN por adulto, 220 MXN por niño. Alquiler de equipo y senderismo aparte. Pago: Para turnos regulares, reembolso con 7 días o más, con 3–6 días cambio o 50% de reembolso. Sin reembolso a menos de 3 días. Confirmar modalidad.
+Fuente: https://www.sbkmexico.com/campamento.php
+Se ha comprobado: 2026-11-07
+
+### CP1875-20261212-20261213-family-2026-12-12 · Observando el Cosmos · Acambay · Fin de semana familiar con tienda · 2026-12-12–2026-12-13
+
+Lugar: México Ejido de Detiña · Acambay
+Fecha: 2026-12-12 — 2026-12-13
+edad: Participación familiar. Tarifa infantil de 5–12 años. La tarifa adulta también empieza a los 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: family_visit
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte. · suplementos y condiciones en el dossier
+Acceso: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.
+Limitaciones: Matvey: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Oscar: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Suplementos: Menú de 290 MXN por adulto, 220 MXN por niño. Alquiler de equipo y senderismo aparte. Pago: Para turnos regulares, reembolso con 7 días o más, con 3–6 días cambio o 50% de reembolso. Sin reembolso a menos de 3 días. Confirmar modalidad.
+Fuente: https://www.sbkmexico.com/campamento.php
 Se ha comprobado: 2026-11-07
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

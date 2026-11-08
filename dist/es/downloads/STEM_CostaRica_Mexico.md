@@ -4815,6 +4815,58 @@ Limitaciones: Matvey: Encaja según la regla publicada para todas las edades. Co
 Fuente: https://museokaluz.org/actividades/programa-vacacional-celebra-a-traves-del-arte/
 Se ha comprobado: 2026-11-07
 
+### CP1875-20261107-20261108-family-2026-11-07 · Observando el Cosmos · Acambay · Fin de semana familiar con tienda · 2026-11-07–2026-11-08
+
+Fecha: 2026-11-07 — 2026-11-08
+edad: Participación familiar. Tarifa infantil de 5–12 años. La tarifa adulta también empieza a los 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Acceso: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.
+Precio: 2026/27 · 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Oscar: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Suplementos: Menú de 290 MXN por adulto, 220 MXN por niño. Alquiler de equipo y senderismo aparte. Pago: Para turnos regulares, reembolso con 7 días o más, con 3–6 días cambio o 50% de reembolso. Sin reembolso a menos de 3 días. Confirmar modalidad.
+Fuente: https://www.sbkmexico.com/campamento.php
+Se ha comprobado: 2026-11-07
+
+### CP1875-20261114-20261115-family-2026-11-14 · Observando el Cosmos · Acambay · Fin de semana familiar con tienda · 2026-11-14–2026-11-15
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Participación familiar. Tarifa infantil de 5–12 años. La tarifa adulta también empieza a los 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Acceso: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.
+Precio: 2026/27 · 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Oscar: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Suplementos: Menú de 290 MXN por adulto, 220 MXN por niño. Alquiler de equipo y senderismo aparte. Pago: Para turnos regulares, reembolso con 7 días o más, con 3–6 días cambio o 50% de reembolso. Sin reembolso a menos de 3 días. Confirmar modalidad.
+Fuente: https://www.sbkmexico.com/campamento.php
+Se ha comprobado: 2026-11-07
+
+### CP1875-20261205-20261206-family-2026-12-05 · Observando el Cosmos · Acambay · Fin de semana familiar con tienda · 2026-12-05–2026-12-06
+
+Fecha: 2026-12-05 — 2026-12-06
+edad: Participación familiar. Tarifa infantil de 5–12 años. La tarifa adulta también empieza a los 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Acceso: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.
+Precio: 2026/27 · 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Oscar: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Suplementos: Menú de 290 MXN por adulto, 220 MXN por niño. Alquiler de equipo y senderismo aparte. Pago: Para turnos regulares, reembolso con 7 días o más, con 3–6 días cambio o 50% de reembolso. Sin reembolso a menos de 3 días. Confirmar modalidad.
+Fuente: https://www.sbkmexico.com/campamento.php
+Se ha comprobado: 2026-11-07
+
+### CP1875-20261212-20261213-family-2026-12-12 · Observando el Cosmos · Acambay · Fin de semana familiar con tienda · 2026-12-12–2026-12-13
+
+Fecha: 2026-12-12 — 2026-12-13
+edad: Participación familiar. Tarifa infantil de 5–12 años. La tarifa adulta también empieza a los 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.
+Acceso: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma.
+Precio: 2026/27 · 200 MXN por niño y 600 MXN por adulto. Para 2 adultos y 2 niños, 1600 MXN de acceso. Menú aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Oscar: Ambos niños encajan en tarifa infantil. Hace falta adulto acompañante, plazas y confirmación de idioma. Suplementos: Menú de 290 MXN por adulto, 220 MXN por niño. Alquiler de equipo y senderismo aparte. Pago: Para turnos regulares, reembolso con 7 días o más, con 3–6 días cambio o 50% de reembolso. Sin reembolso a menos de 3 días. Confirmar modalidad.
+Fuente: https://www.sbkmexico.com/campamento.php
+Se ha comprobado: 2026-11-07
+
 ### C1155 · XVIII Campeonato Nacional de Robótica y STEM · VEX IQ Middle
 
 Fecha: 2027-03-03 — 2027-03-05
