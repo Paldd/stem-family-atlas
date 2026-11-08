@@ -30,8 +30,8 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1917,
-    "countries": 125,
+    "dossiers": 1918,
+    "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
@@ -41,14 +41,14 @@
       "published_2026": 348,
       "partial_2026_27": 32,
       "partial_2026": 23,
-      "archive_next_unannounced": 146,
+      "archive_next_unannounced": 147,
       "regular_programme": 19,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2782
+    "source_urls": 2785
   },
   "countries": [
     {
@@ -122,6 +122,10 @@
     {
       "country": "Brunéi",
       "count": 3
+    },
+    {
+      "country": "Burundi",
+      "count": 1
     },
     {
       "country": "Reino Unido",
@@ -333562,6 +333566,82 @@
       "catalog_participation": "day_camp",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1918",
+      "slug": "kit-hub-tech-kuri-bose",
+      "provider": "KIT Hub · Tech Kuri Bose",
+      "country": "Burundi",
+      "iso": "BDI",
+      "place": "CFPP Nyakabiga · Bujumbura",
+      "age": "Edades de 7 a 18 años.",
+      "programme": "Scratch, programación, electrónica, robótica e IoT. Los proyectos se organizaron por niveles.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Publicaciones en francés e inglés. Confirmar el idioma del instructor del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Archivo de agosto de 2026. La organización describe cuatro semanas de clases. Aún no se publica el horario exacto de 2027.",
+        "variant_keyed": true,
+        "session_details": [],
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "No se publica el coste total.",
+        "included": "Scratch, programación, electrónica, robótica e IoT. Los proyectos se organizaron por niveles.",
+        "extras": "Para la próxima convocatoria confirmar nivel, acceso presencial, idioma de clase, coste y equipo.",
+        "deposit": ""
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Encaja en el rango de edad anunciado si se repiten las bases."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No según las bases de la edición de 2026. Mínimo 7 años."
+        }
+      },
+      "editorial_reason": "Edición pasada verificada. Aún no se anuncian fecha ni condiciones de la siguiente.",
+      "shortlist": [],
+      "questions": [
+        "Para la próxima convocatoria confirmar nivel, acceso presencial, idioma de clase, coste y equipo."
+      ],
+      "sources": [
+        {
+          "url": "https://fr.linkedin.com/posts/kit-digital-innovation-hub_day1-techkuribose2026-codeclub-activity-7490769840467738624-9mrM",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.kit-hub.com/assets/index-CkTcI-fu.js",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://bi.linkedin.com/company/kit-digital-innovation-hub",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -338887,7 +338967,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 259,
+  "version": 260,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -352122,7 +352202,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1917,
+      "total_dossiers": 1918,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

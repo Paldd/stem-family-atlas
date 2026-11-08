@@ -10790,6 +10790,166 @@ Limitaciones: Materiales en español. Confirmar el idioma del instructor y la po
 Fuente: https://meridaponiente-conkal.youngengineers.org/
 Se ha comprobado: 2026-11-07
 
+### L751 · KIT Hub · Code Club Summer Camp · Tech Kuri Bose 2026
+
+lugar: Burundi · Bujumbura
+Fecha: Archivo de agosto de 2026. La organización describe cuatro semanas de clases. Aún no se publica el horario exacto de 2027.
+edad: Edades de 7 a 18 años.
+Matvey: Condicional. Encaja en el rango de edad anunciado si se repiten las bases.
+Oscar: No según las bases de la edición de 2026. Mínimo 7 años.
+Formato: day_camp
+Idioma: Publicaciones en francés e inglés. Confirmar el idioma del instructor del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Para la próxima convocatoria confirmar nivel, acceso presencial, idioma de clase, coste y equipo.
+Limitaciones: Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+Fuente: https://fr.linkedin.com/posts/kit-digital-innovation-hub_day1-techkuribose2026-codeclub-activity-7490769840467738624-9mrM
+Se ha comprobado: 2026-11-07
+
+### L752 · IMARA Comoros · Bootcamp de Robotique 2026
+
+lugar: Comoras · Moroni
+Fecha: 2026-08-17 — 2026-08-17
+edad: Programa para adolescentes. El informe no indica edades numéricas.
+Matvey: No. La edición fue para adolescentes.
+Oscar: No. La edición fue para adolescentes.
+Formato: day_camp
+Idioma: El informe describe práctica en inglés con intérpretes. Se desconoce el idioma de una futura edición.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.
+Limitaciones: Fecha y sede según informes públicos. El acceso a otra edición requiere las bases de la organización.
+Fuente: https://lagazettedescomores.com/soci%C3%A9t%C3%A9/imara-comoros-lance-un-bootcamp-de-robotique-19381.html
+Se ha comprobado: 2026-11-07
+
+### L753 · UNESCO / Ministerio · IA y Robótica · Malabo
+
+lugar: Guinea Ecuatorial · Malabo
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Formación de formadores y después clases juveniles anunciadas. Aún se desconoce la edad de un grupo infantil concreto.
+Matvey: Condicional para una nueva temporada. Hace falta convocatoria local con edad y acceso confirmados.
+Oscar: Condicional para una nueva temporada. Hace falta convocatoria local con edad y acceso confirmados.
+formato: course
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Formación de formadores y después clases juveniles anunciadas. Aún se desconoce la edad de un grupo infantil concreto.
+Limitaciones: Proyecto público de 2026–2028. Confirmar fechas y derecho a inscripción infantil en cada convocatoria.
+Fuente: https://minttsia.gob.gq/el-ministerio-de-transportes-telecomunicaciones-y-aviacion-civil-pone-en-marcha-un-ambicioso-programa-de-formacion-en-inteligencia-artificial-y-robotica-junto-a-la-unesco-2/
+Se ha comprobado: 2026-11-07
+
+### L754 · Hadramout Coast · Robotics and AI school labs
+
+lugar: Yemen · Hadramout Coast
+Fecha: No se ha fijado el período/plan de trabajo
+edad: No. El programa se dirige a centros locales de secundaria.
+Matvey: No. El programa se dirige a centros locales de secundaria.
+Oscar: No. El programa se dirige a centros locales de secundaria.
+formato: course
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Por invitación o mediante un centro escolar local participante.
+Limitaciones: La oficina educativa describe un programa escolar. No fecha un campamento infantil ni un torneo separado.
+Fuente: https://meoh.gov.ye/programs/robot-program/
+Se ha comprobado: 2026-11-07
+
+### L755 · CNMI PSS · VEX Robotics Club Clinic 2026
+
+lugar: Islas Marianas del Norte · Garapan, Saipan
+Fecha: 2026-01-17 — 2026-01-17
+edad: Confirmar edad y acceso con la organización.
+Matvey: Condicional para una nueva temporada. Hace falta convocatoria local con edad y acceso confirmados.
+Oscar: Condicional para una nueva temporada. Hace falta convocatoria local con edad y acceso confirmados.
+formato: course
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Históricamente se admitían escuelas públicas, privadas y educación en casa locales. Presentaba la solicitud el mentor escolar o el progenitor de educación en casa.
+Limitaciones: Fecha y sede según informes públicos. El acceso a otra edición requiere las bases de la organización.
+Fuente: https://marianaspress.com/news/article/pss-hosts-vex-robotics-clinic
+Se ha comprobado: 2026-11-07
+
+### L756 · CSIRO · Robot Responders · Online & Printable
+
+lugar: Internacional en línea · Online
+Fecha: No se ha fijado el período/plan de trabajo
+edad: El material se diseña para aproximadamente 10–14 años. La organización propone adaptar las cartas para los más pequeños.
+Matvey: Sí como juego autónomo de ingeniería, con ayuda adulta cuando haga falta.
+Oscar: Sí en la versión adaptada con cartas básicas y un adulto.
+Formato: online_camp
+Idioma: Materiales e interfaz del juego en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: Recurso gratuito de uso autónomo.
+Acceso: Abrir el juego en inglés o imprimir las cartas. Para menores usar las piezas básicas con un adulto.
+Limitaciones: Materiales disponibles todo el año. La inscripción al concurso tenía bases separadas.
+Fuente: https://www.csiro.au/en/education/resource-library/investigate-and-innovate-with-csiro/robot-responders
+Se ha comprobado: 2026-11-07
+
+### L757 · CSIRO · Robot Responders 2026 · Christmas Island participation
+
+lugar: Isla de Navidad · Christmas Island
+Fecha: No se ha fijado el período/plan de trabajo
+edad: El material se diseña para aproximadamente 10–14 años. La organización propone adaptar las cartas para los más pequeños.
+Matvey: Sí como juego autónomo de ingeniería, con ayuda adulta cuando haga falta.
+Oscar: Sí en la versión adaptada con cartas básicas y un adulto.
+Formato: online_camp
+Idioma: Materiales e interfaz del juego en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: Recurso gratuito de uso autónomo.
+Acceso: Abrir el juego en inglés o imprimir las cartas. Para menores usar las piezas básicas con un adulto.
+Limitaciones: CSIRO confirmó participación de la isla de Navidad en el experimento educativo nacional de 2026. El informe no indica escuela, día ni sede presencial concretos.
+Fuente: https://www.csiro.au/en/Newsletters/Education-and-Outreach/2026-Term-4
+Se ha comprobado: 2026-11-07
+
+### L758 · Niue Primary School · Bright Sparks solar STEM
+
+lugar: Niue · Niue
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Por invitación o mediante un centro escolar local participante.
+Matvey: Sin inscripción abierta. Formato para su propio grupo escolar.
+Oscar: Sin inscripción abierta. Formato para su propio grupo escolar.
+formato: course
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Por invitación o mediante un centro escolar local participante.
+Limitaciones: Niue Primary School trabajó con Sunergise: el alumnado estudió paneles y construyó un juguete solar. No se publica la fecha del taller escolar.
+Fuente: https://www.gov.nu/projects/niue-renewable-energy-phase-2
+Se ha comprobado: 2026-11-07
+
+### L759 · Fête de la science · ateliers scolaires · Wallis 2026
+
+lugar: Wallis y Futuna · Wallis
+Fecha: No se ha fijado el período/plan de trabajo
+edad: El informe de investigación confirma un ciclo escolar de 2026 desde CM2 hasta el último curso en Wallis. No se establecen acceso familiar ni horario de cada taller.
+Matvey: Sin inscripción abierta. Formato para su propio grupo escolar.
+Oscar: Sin inscripción abierta. Formato para su propio grupo escolar.
+formato: course
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Por invitación o mediante un centro escolar local participante.
+Limitaciones: El informe de investigación confirma un ciclo escolar de 2026 desde CM2 hasta el último curso en Wallis. No se establecen acceso familiar ni horario de cada taller.
+Fuente: https://www.ethnopharmacolab.fr/participation-a-la-fete-de-la-science-a-wallis/
+Se ha comprobado: 2026-11-07
+
+### L760 · Collège Émile Letournel · Club Drone / MATE ROV
+
+lugar: San Pedro y Miquelón · Saint-Pierre
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Por invitación o mediante un centro escolar local participante.
+Matvey: Sin inscripción abierta. Formato para su propio grupo escolar.
+Oscar: Sin inscripción abierta. Formato para su propio grupo escolar.
+formato: course
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Por invitación o mediante un centro escolar local participante.
+Limitaciones: Club escolar Drone. Trabajo en un vehículo submarino y viaje del equipo al MATE ROV regional en Canadá. No consta inscripción local abierta.
+Fuente: https://infooutremer.fr/saint-pierre-et-miquelon-le-robot-sous-marin-de-six-collegiens-mis-a-lhonneur/
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

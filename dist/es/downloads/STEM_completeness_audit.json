@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 9964,
-    "competition_cards": 4523,
-    "event_cards": 512,
-    "camp_cards": 4929,
+    "cards": 9986,
+    "competition_cards": 4528,
+    "event_cards": 519,
+    "camp_cards": 4939,
     "league_profiles": 298,
-    "major_exhibition_cards": 415,
+    "major_exhibition_cards": 422,
     "vex_cards": 814,
-    "countries_with_records": 211,
+    "countries_with_records": 225,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3257,
-      "countries_with_records": 37,
+      "total": 3260,
+      "countries_with_records": 39,
       "competitions": 1889,
-      "events": 130,
-      "major_exhibitions": 92,
-      "camps": 1238,
+      "events": 132,
+      "major_exhibitions": 94,
+      "camps": 1239,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -48,11 +48,11 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 652,
-      "countries_with_records": 13,
+      "total": 653,
+      "countries_with_records": 14,
       "competitions": 414,
-      "events": 39,
-      "major_exhibitions": 35,
+      "events": 40,
+      "major_exhibitions": 36,
       "camps": 199,
       "status": "Se ha estudiado parcialmente",
       "remaining": "muchos tarjetas de Ecuador y rutas regionales de Chile; Brasil, Perú y otros países requieren etapas, cuotas y calendarios locales."
@@ -62,11 +62,11 @@
       "regions": [
         "Europa"
       ],
-      "total": 2127,
-      "countries_with_records": 51,
+      "total": 2129,
+      "countries_with_records": 52,
       "competitions": 575,
-      "events": 127,
-      "major_exhibitions": 102,
+      "events": 129,
+      "major_exhibitions": 104,
       "camps": 1425,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
@@ -76,12 +76,12 @@
       "regions": [
         "África"
       ],
-      "total": 342,
-      "countries_with_records": 48,
-      "competitions": 226,
+      "total": 348,
+      "countries_with_records": 53,
+      "competitions": 229,
       "events": 36,
       "major_exhibitions": 28,
-      "camps": 80,
+      "camps": 83,
       "status": "Se ha estudiado parcialmente",
       "remaining": "Antes de la ampliación casi todas las competiciones fueron en Sudáfrica. se añadió PARC Senegal; Maghreb, África Oriental / Oeste y selecciones locales siguen siendo vacíos."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 2918,
-      "countries_with_records": 48,
+      "total": 2919,
+      "countries_with_records": 49,
       "competitions": 1129,
       "events": 142,
       "major_exhibitions": 129,
-      "camps": 1647,
+      "camps": 1648,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -104,12 +104,12 @@
       "regions": [
         "Oceanía"
       ],
-      "total": 516,
-      "countries_with_records": 16,
-      "competitions": 158,
-      "events": 31,
-      "major_exhibitions": 27,
-      "camps": 327,
+      "total": 524,
+      "countries_with_records": 20,
+      "competitions": 160,
+      "events": 33,
+      "major_exhibitions": 29,
+      "camps": 331,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido fijian tourist camp, nz días de estudio reales, australian national game/video contests y archivo escolar cerrado de french polynesia. se quedan lenguas / foreign admission camps, un calendario dinámico RCJA, otras islas y torneos locales."
     }
@@ -13207,6 +13207,83 @@
       "new": false
     },
     {
+      "id": "E513",
+      "name": "Niue High School · Tūhuga Tuarangi · Community Open Session",
+      "country": "Niue",
+      "region": "Oceanía",
+      "start": "2025-06-14",
+      "end": "2025-06-14",
+      "visitor_policy": "family",
+      "source": "https://gov.nu/notice-board/department-of-education",
+      "new": false
+    },
+    {
+      "id": "E514",
+      "name": "Fête de la science · Collège de Lano 2025",
+      "country": "Wallis y Futuna",
+      "region": "Oceanía",
+      "start": "2025-10-09",
+      "end": "2025-10-09",
+      "visitor_policy": "family",
+      "source": "https://www.wallis-et-futuna.gouv.fr/contenu/telechargement/14755/121412/file/PROG-F%C3%AAte%20de%20la%20Science-Pr%C3%A9sentation%20des%20Ateliers%20des%20diff%C3%A9rents%20participant-DF02.pdf",
+      "new": false
+    },
+    {
+      "id": "E515",
+      "name": "BIGFISH · Café Sciences CARAMBAR",
+      "country": "San Pedro y Miquelón",
+      "region": "América del Norte",
+      "start": "2026-09-11",
+      "end": "2026-09-11",
+      "visitor_policy": "family",
+      "source": "https://www.vivre-a-spm.fr/agenda/cafe-science-big-fish-2/",
+      "new": false
+    },
+    {
+      "id": "E516",
+      "name": "Montserrat Volcano Observatory · Monitoring Technology",
+      "country": "Montserrat",
+      "region": "Caribe",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://www.mvo.ms/education-and-outreach/visiting-mvo/",
+      "new": false
+    },
+    {
+      "id": "E517",
+      "name": "Historic Dockyard Museum · Maritime and Antarctic Technology",
+      "country": "Islas Malvinas",
+      "region": "América del Sur",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://falklands-museum.com/",
+      "new": false
+    },
+    {
+      "id": "E518",
+      "name": "Svalbard Museum · Mining and Arctic Exploration",
+      "country": "Svalbard y Jan Mayen",
+      "region": "Europa",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://svalbardmuseum.no/en-verden-i-endring",
+      "new": false
+    },
+    {
+      "id": "E519",
+      "name": "North Pole Expedition Museum · Airships",
+      "country": "Svalbard y Jan Mayen",
+      "region": "Europa",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://northpolemuseum.com/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -14587,7 +14664,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 152,
+  "interregional_cards": 153,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -15624,20 +15701,20 @@
       }
     ],
     "counts": {
-      "records": 4929,
-      "holiday": 4596,
+      "records": 4939,
+      "holiday": 4600,
       "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1036,
-      "en_es_instruction": 1581,
+      "en_es_instruction": 1583,
       "en_es_support": 27,
-      "family_instruction": 1581,
+      "family_instruction": 1583,
       "family_support": 27,
       "ru_instruction": 4,
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 134
+      "countries": 143
     },
     "validation": {
       "version": 51,

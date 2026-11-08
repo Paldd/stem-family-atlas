@@ -30,8 +30,8 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1917,
-    "countries": 125,
+    "dossiers": 1918,
+    "countries": 126,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 286,
@@ -41,14 +41,14 @@
       "published_2026": 348,
       "partial_2026_27": 32,
       "partial_2026": 23,
-      "archive_next_unannounced": 146,
+      "archive_next_unannounced": 147,
       "regular_programme": 19,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2782
+    "source_urls": 2785
   },
   "countries": [
     {
@@ -122,6 +122,10 @@
     {
       "country": "Бруней-Даруссалам",
       "count": 3
+    },
+    {
+      "country": "Бурунди",
+      "count": 1
     },
     {
       "country": "Великобритания",
@@ -333562,6 +333566,82 @@
       "catalog_participation": "day_camp",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1918",
+      "slug": "kit-hub-tech-kuri-bose",
+      "provider": "KIT Hub · Tech Kuri Bose",
+      "country": "Бурунди",
+      "iso": "BDI",
+      "place": "CFPP Nyakabiga · Bujumbura",
+      "age": "Возраст 7–18 лет.",
+      "programme": "Scratch, программирование, электроника, робототехника и IoT. Проекты распределялись по уровням.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Публикации на французском и английском. Язык преподавателя выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Архив августа 2026. Организатор описывает четыре недели занятий. Точное расписание 2027 ещё не опубликовано.",
+        "variant_keyed": true,
+        "session_details": [],
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Полная стоимость не опубликована.",
+        "included": "Scratch, программирование, электроника, робототехника и IoT. Проекты распределялись по уровням.",
+        "extras": "Для следующего набора уточнить уровень, очный допуск, язык занятий, стоимость и комплект оборудования.",
+        "deposit": ""
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. По возрасту подходит для объявленного диапазона, если правила повторятся."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет для правил выпуска 2026. Минимум 7 лет."
+        }
+      },
+      "editorial_reason": "Проверенный прошлый выпуск. Следующая дата и условия ещё не объявлены.",
+      "shortlist": [],
+      "questions": [
+        "Для следующего набора уточнить уровень, очный допуск, язык занятий, стоимость и комплект оборудования."
+      ],
+      "sources": [
+        {
+          "url": "https://fr.linkedin.com/posts/kit-digital-innovation-hub_day1-techkuribose2026-codeclub-activity-7490769840467738624-9mrM",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.kit-hub.com/assets/index-CkTcI-fu.js",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://bi.linkedin.com/company/kit-digital-innovation-hub",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -338887,7 +338967,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 259,
+  "version": 260,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -352122,7 +352202,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1917,
+      "total_dossiers": 1918,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

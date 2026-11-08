@@ -580,20 +580,20 @@
       }
     ],
     "counts": {
-      "records": 4929,
-      "holiday": 4596,
+      "records": 4939,
+      "holiday": 4600,
       "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1036,
-      "en_es_instruction": 1581,
+      "en_es_instruction": 1583,
       "en_es_support": 27,
-      "family_instruction": 1581,
+      "family_instruction": 1583,
       "family_support": 27,
       "ru_instruction": 4,
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 134
+      "countries": 143
     },
     "validation": {
       "version": 51,
@@ -38443,6 +38443,569 @@
       "venue": "Plaza Fora Local 22 · Calle 61 No. 109 x 22 · Conkal, Yucatán",
       "related_ids": [
         "L747"
+      ]
+    },
+    {
+      "id": "L751",
+      "title": "KIT Hub · Code Club Summer Camp · Tech Kuri Bose 2026",
+      "block": "Campamentos",
+      "country": "Burundi",
+      "region": "África",
+      "iso": [
+        "BDI"
+      ],
+      "city": "Bujumbura",
+      "start": "",
+      "end": "",
+      "period": "Archivo de agosto de 2026. La organización describe cuatro semanas de clases. Aún no se publica el horario exacto de 2027.",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://fr.linkedin.com/posts/kit-digital-innovation-hub_day1-techkuribose2026-codeclub-activity-7490769840467738624-9mrM",
+      "references": [
+        {
+          "url": "https://www.kit-hub.com/",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.kit-hub.com/assets/index-CkTcI-fu.js",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://bi.linkedin.com/company/kit-digital-innovation-hub",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Edades de 7 a 18 años.",
+      "mat": "Condicional. Encaja en el rango de edad anunciado si se repiten las bases.",
+      "osc": "No según las bases de la edición de 2026. Mínimo 7 años.",
+      "format": "Taller o programa formativo",
+      "entry": "Para la próxima convocatoria confirmar nivel, acceso presencial, idioma de clase, coste y equipo.",
+      "gear": "Scratch, programación, electrónica, robótica e IoT. Los proyectos se organizaron por niveles.",
+      "language": "Publicaciones en francés e inglés. Confirmar el idioma del instructor del grupo elegido.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Publicaciones en francés e inglés. Confirmar el idioma del instructor del grupo elegido.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P3 — archivo y próxima edición",
+      "action": "Edición pasada verificada. Aún no se anuncian fecha ni condiciones de la siguiente.",
+      "note": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Programa local de ciencia y tecnología",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "historical_program",
+      "venue": "CFPP Nyakabiga · Bujumbura",
+      "registration_status": "Edición pasada.",
+      "availability": {
+        "status": "closed"
+      }
+    },
+    {
+      "id": "L752",
+      "title": "IMARA Comoros · Bootcamp de Robotique 2026",
+      "block": "Campamentos",
+      "country": "Comoras",
+      "region": "África",
+      "iso": [
+        "COM"
+      ],
+      "city": "Moroni",
+      "start": "2026-08-17",
+      "end": "2026-08-17",
+      "period": "Apertura el 17 de agosto de 2026. El programa duró cinco días.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "activity_start",
+      "checked": "2026-11-07",
+      "source": "https://lagazettedescomores.com/soci%C3%A9t%C3%A9/imara-comoros-lance-un-bootcamp-de-robotique-19381.html",
+      "references": [],
+      "proof": "Fecha y sede según informes públicos. El acceso a otra edición requiere las bases de la organización.",
+      "status": "Idea",
+      "age": "Programa para adolescentes. El informe no indica edades numéricas.",
+      "mat": "No. La edición fue para adolescentes.",
+      "osc": "No. La edición fue para adolescentes.",
+      "format": "Taller o programa formativo",
+      "entry": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "gear": "Taller de cinco días de diseño y programación del chasis de un robot. El informe describe apoyo de intérpretes.",
+      "language": "El informe describe práctica en inglés con intérpretes. Se desconoce el idioma de una futura edición.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El informe describe práctica en inglés con intérpretes. Se desconoce el idioma de una futura edición.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P3 — archivo y próxima edición",
+      "action": "Edición pasada verificada. Aún no se anuncian fecha ni condiciones de la siguiente.",
+      "note": "Fecha y sede según informes públicos. El acceso a otra edición requiere las bases de la organización.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Programa local de ciencia y tecnología",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "historical_program",
+      "venue": "Retaj Hotel · Moroni",
+      "registration_status": "Edición pasada.",
+      "availability": {
+        "status": "closed"
+      }
+    },
+    {
+      "id": "L753",
+      "title": "UNESCO / Ministerio · IA y Robótica · Malabo",
+      "block": "Campamentos",
+      "country": "Guinea Ecuatorial",
+      "region": "África",
+      "iso": [
+        "GNQ"
+      ],
+      "city": "Malabo",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://minttsia.gob.gq/el-ministerio-de-transportes-telecomunicaciones-y-aviacion-civil-pone-en-marcha-un-ambicioso-programa-de-formacion-en-inteligencia-artificial-y-robotica-junto-a-la-unesco-2/",
+      "references": [
+        {
+          "url": "https://news.identicge.org/taller-de-iniciacion-a-la-robotica-para-la-juventud-ecuatoguineana-organizada-por-identic-teg-campus/",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Formación de formadores y después clases juveniles anunciadas. Aún se desconoce la edad de un grupo infantil concreto.",
+      "mat": "Condicional para una nueva temporada. Hace falta convocatoria local con edad y acceso confirmados.",
+      "osc": "Condicional para una nueva temporada. Hace falta convocatoria local con edad y acceso confirmados.",
+      "format": "Taller o programa formativo",
+      "entry": "Formación de formadores y después clases juveniles anunciadas. Aún se desconoce la edad de un grupo infantil concreto.",
+      "gear": "En la formación docente se anuncian Scratch, diseño 3D y montaje de componentes.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "note": "Proyecto público de 2026–2028. Confirmar fechas y derecho a inscripción infantil en cada convocatoria.",
+      "themes": [
+        "ai",
+        "robotics",
+        "coding",
+        "makers"
+      ],
+      "scope": "national",
+      "importance_reason": "Programa local de ciencia y tecnología",
+      "participation": "course",
+      "admission_kind": "school_selection",
+      "evidence_level": "program",
+      "related_ids": [
+        "C4526"
+      ]
+    },
+    {
+      "id": "L754",
+      "title": "Hadramout Coast · Robotics and AI school labs",
+      "block": "Campamentos",
+      "country": "Yemen",
+      "region": "Asia",
+      "iso": [
+        "YEM"
+      ],
+      "city": "Hadramout Coast",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://meoh.gov.ye/programs/robot-program/",
+      "references": [],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "No. El programa se dirige a centros locales de secundaria.",
+      "mat": "No. El programa se dirige a centros locales de secundaria.",
+      "osc": "No. El programa se dirige a centros locales de secundaria.",
+      "format": "Taller o programa formativo",
+      "entry": "Por invitación o mediante un centro escolar local participante.",
+      "gear": "Laboratorios de diseño y programación de robots EV3.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "note": "La oficina educativa describe un programa escolar. No fecha un campamento infantil ni un torneo separado.",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Programa local de ciencia y tecnología",
+      "participation": "course",
+      "admission_kind": "school",
+      "evidence_level": "program"
+    },
+    {
+      "id": "L755",
+      "title": "CNMI PSS · VEX Robotics Club Clinic 2026",
+      "block": "Campamentos",
+      "country": "Islas Marianas del Norte",
+      "region": "Oceanía",
+      "iso": [
+        "MNP"
+      ],
+      "city": "Garapan, Saipan",
+      "start": "2026-01-17",
+      "end": "2026-01-17",
+      "period": "",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "event_day",
+      "checked": "2026-11-07",
+      "source": "https://marianaspress.com/news/article/pss-hosts-vex-robotics-clinic",
+      "references": [
+        {
+          "url": "https://www.cnmipss.org/cnmi-island-wide-stem-fair-sy21-22-virtual-display-march-12-2022",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Fecha y sede según informes públicos. El acceso a otra edición requiere las bases de la organización.",
+      "status": "Idea",
+      "age": "Confirmar edad y acceso con la organización.",
+      "mat": "Condicional para una nueva temporada. Hace falta convocatoria local con edad y acceso confirmados.",
+      "osc": "Condicional para una nueva temporada. Hace falta convocatoria local con edad y acceso confirmados.",
+      "format": "Taller o programa formativo",
+      "entry": "Históricamente se admitían escuelas públicas, privadas y educación en casa locales. Presentaba la solicitud el mentor escolar o el progenitor de educación en casa.",
+      "gear": "Taller de VEX con participación de primaria, secundaria y bachillerato. Participantes y visitantes probaron el manejo de robots.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P3 — archivo y próxima edición",
+      "action": "Edición pasada verificada. Aún no se anuncian fecha ni condiciones de la siguiente.",
+      "note": "Fecha y sede según informes públicos. El acceso a otra edición requiere las bases de la organización.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Programa local de ciencia y tecnología",
+      "participation": "course",
+      "admission_kind": "school_selection",
+      "evidence_level": "historical_program",
+      "venue": "Garapan Elementary School",
+      "registration_status": "Edición pasada.",
+      "availability": {
+        "status": "closed"
+      },
+      "related_ids": [
+        "C4528"
+      ]
+    },
+    {
+      "id": "L756",
+      "title": "CSIRO · Robot Responders · Online & Printable",
+      "block": "Campamentos",
+      "country": "Internacional en línea",
+      "region": "Eventos mundiales en línea",
+      "iso": [],
+      "city": "Online",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://www.csiro.au/en/education/resource-library/investigate-and-innovate-with-csiro/robot-responders",
+      "references": [
+        {
+          "url": "https://www.csiro.au/en/education/Resource-Library/Robot-Responders-HTML-game",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.csiro.au/en/education/about-csiro-education/stories-and-announcements/csiro-robot-responders-competition/faqs",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "El material se diseña para aproximadamente 10–14 años. La organización propone adaptar las cartas para los más pequeños.",
+      "mat": "Sí como juego autónomo de ingeniería, con ayuda adulta cuando haga falta.",
+      "osc": "Sí en la versión adaptada con cartas básicas y un adulto.",
+      "format": "Abrir el juego en inglés o imprimir las cartas. Para menores usar las piezas básicas con un adulto.",
+      "entry": "Abrir el juego en inglés o imprimir las cartas. Para menores usar las piezas básicas con un adulto.",
+      "gear": "Diseñar un robot virtual para una cueva, el océano o el espacio. Hay cartas para la versión de mesa.",
+      "language": "Materiales e interfaz del juego en inglés.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Materiales e interfaz del juego en inglés.",
+      "cost": "Recurso gratuito de uso autónomo.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P1 — juego abierto de ingeniería en casa",
+      "action": "Abrir el juego en inglés o imprimir las cartas. Para menores usar las piezas básicas con un adulto.",
+      "note": "Materiales disponibles todo el año. La inscripción al concurso tenía bases separadas.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "games"
+      ],
+      "scope": "online",
+      "importance_reason": "Programa local de ciencia y tecnología",
+      "participation": "online_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "related_ids": [
+        "L757",
+        "C4529"
+      ]
+    },
+    {
+      "id": "L757",
+      "title": "CSIRO · Robot Responders 2026 · Christmas Island participation",
+      "block": "Campamentos",
+      "country": "Isla de Navidad",
+      "region": "Oceanía",
+      "iso": [
+        "CXR"
+      ],
+      "city": "Christmas Island",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://www.csiro.au/en/Newsletters/Education-and-Outreach/2026-Term-4",
+      "references": [
+        {
+          "url": "https://www.csiro.au/en/education/resource-library/investigate-and-innovate-with-csiro/robot-responders",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.csiro.au/en/Newsletters/Education-and-Outreach/National-Science-Experiment-2026-wrap-up",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "El material se diseña para aproximadamente 10–14 años. La organización propone adaptar las cartas para los más pequeños.",
+      "mat": "Sí como juego autónomo de ingeniería, con ayuda adulta cuando haga falta.",
+      "osc": "Sí en la versión adaptada con cartas básicas y un adulto.",
+      "format": "Abrir el juego en inglés o imprimir las cartas. Para menores usar las piezas básicas con un adulto.",
+      "entry": "Abrir el juego en inglés o imprimir las cartas. Para menores usar las piezas básicas con un adulto.",
+      "gear": "Diseñar un robot virtual para una cueva, el océano o el espacio. Hay cartas para la versión de mesa.",
+      "language": "Materiales e interfaz del juego en inglés.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Materiales e interfaz del juego en inglés.",
+      "cost": "Recurso gratuito de uso autónomo.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Abrir el juego en inglés o imprimir las cartas. Para menores usar las piezas básicas con un adulto.",
+      "note": "CSIRO confirmó participación de la isla de Navidad en el experimento educativo nacional de 2026. El informe no indica escuela, día ni sede presencial concretos.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "games"
+      ],
+      "scope": "national",
+      "importance_reason": "Programa local de ciencia y tecnología",
+      "participation": "online_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "related_ids": [
+        "L756",
+        "C4529"
+      ]
+    },
+    {
+      "id": "L758",
+      "title": "Niue Primary School · Bright Sparks solar STEM",
+      "block": "Campamentos",
+      "country": "Niue",
+      "region": "Oceanía",
+      "iso": [
+        "NIU"
+      ],
+      "city": "Niue",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://www.gov.nu/projects/niue-renewable-energy-phase-2",
+      "references": [],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Por invitación o mediante un centro escolar local participante.",
+      "mat": "Sin inscripción abierta. Formato para su propio grupo escolar.",
+      "osc": "Sin inscripción abierta. Formato para su propio grupo escolar.",
+      "format": "Taller o programa formativo",
+      "entry": "Por invitación o mediante un centro escolar local participante.",
+      "gear": "Niue Primary School trabajó con Sunergise: el alumnado estudió paneles y construyó un juguete solar. No se publica la fecha del taller escolar.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Edición pasada verificada. Aún no se anuncian fecha ni condiciones de la siguiente.",
+      "note": "Niue Primary School trabajó con Sunergise: el alumnado estudió paneles y construyó un juguete solar. No se publica la fecha del taller escolar.",
+      "themes": [
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Programa local de ciencia y tecnología",
+      "participation": "course",
+      "admission_kind": "school",
+      "evidence_level": "program"
+    },
+    {
+      "id": "L759",
+      "title": "Fête de la science · ateliers scolaires · Wallis 2026",
+      "block": "Campamentos",
+      "country": "Wallis y Futuna",
+      "region": "Oceanía",
+      "iso": [
+        "WLF"
+      ],
+      "city": "Wallis",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://www.ethnopharmacolab.fr/participation-a-la-fete-de-la-science-a-wallis/",
+      "references": [
+        {
+          "url": "https://www.fetedelascience.fr/les-iles-wallis-futuna-fete-la-science",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "El informe de investigación confirma un ciclo escolar de 2026 desde CM2 hasta el último curso en Wallis. No se establecen acceso familiar ni horario de cada taller.",
+      "mat": "Sin inscripción abierta. Formato para su propio grupo escolar.",
+      "osc": "Sin inscripción abierta. Formato para su propio grupo escolar.",
+      "format": "El informe de investigación confirma un ciclo escolar de 2026 desde CM2 hasta el último curso en Wallis. No se establecen acceso familiar ni horario de cada taller.",
+      "entry": "Por invitación o mediante un centro escolar local participante.",
+      "gear": "El informe de investigación confirma un ciclo escolar de 2026 desde CM2 hasta el último curso en Wallis. No se establecen acceso familiar ni horario de cada taller.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P3 — archivo y próxima edición",
+      "action": "Edición pasada verificada. Aún no se anuncian fecha ni condiciones de la siguiente.",
+      "note": "El informe de investigación confirma un ciclo escolar de 2026 desde CM2 hasta el último curso en Wallis. No se establecen acceso familiar ni horario de cada taller.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Programa local de ciencia y tecnología",
+      "participation": "course",
+      "admission_kind": "school",
+      "evidence_level": "historical_program",
+      "registration_status": "Edición pasada.",
+      "availability": {
+        "status": "closed"
+      },
+      "related_ids": [
+        "E514"
+      ]
+    },
+    {
+      "id": "L760",
+      "title": "Collège Émile Letournel · Club Drone / MATE ROV",
+      "block": "Campamentos",
+      "country": "San Pedro y Miquelón",
+      "region": "América del Norte",
+      "iso": [
+        "SPM"
+      ],
+      "city": "Saint-Pierre",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://infooutremer.fr/saint-pierre-et-miquelon-le-robot-sous-marin-de-six-collegiens-mis-a-lhonneur/",
+      "references": [],
+      "proof": "Fecha y sede según informes públicos. El acceso a otra edición requiere las bases de la organización.",
+      "status": "Idea",
+      "age": "Por invitación o mediante un centro escolar local participante.",
+      "mat": "Sin inscripción abierta. Formato para su propio grupo escolar.",
+      "osc": "Sin inscripción abierta. Formato para su propio grupo escolar.",
+      "format": "Club escolar Drone. Trabajo en un vehículo submarino y viaje del equipo al MATE ROV regional en Canadá. No consta inscripción local abierta.",
+      "entry": "Por invitación o mediante un centro escolar local participante.",
+      "gear": "Club escolar Drone. Trabajo en un vehículo submarino y viaje del equipo al MATE ROV regional en Canadá. No consta inscripción local abierta.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "El proyecto escolar recibió el premio especial Blue Whale.",
+      "priority": "P2 — participación según condiciones",
+      "action": "Antes de viajar, comprobar plazas, idioma de clase y condiciones de acompañamiento.",
+      "note": "Club escolar Drone. Trabajo en un vehículo submarino y viaje del equipo al MATE ROV regional en Canadá. No consta inscripción local abierta.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Programa local de ciencia y tecnología",
+      "participation": "course",
+      "admission_kind": "school",
+      "evidence_level": "program",
+      "related_ids": [
+        "E515"
       ]
     },
     {

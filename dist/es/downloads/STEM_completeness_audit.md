@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 9964; competiciones: 4523; eventos: 512; campamentos / programas: 4929. Perfiles de ligas y programas: 298. Fichas de exposiciones grandes y especializadas: 415 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 9986; competiciones: 4528; eventos: 519; campamentos / programas: 4939. Perfiles de ligas y programas: 298. Fichas de exposiciones grandes y especializadas: 422 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros específicos para 211 de 249 países y territorios; países con auditoría completa: 0. Revisión de archivos v51: se añadieron 21 fichas y 3 perfiles. Se conservan las fichas anteriores.
+Hay registros específicos para 225 de 249 países y territorios. Países auditados por completo: 0. El pase histórico v51 añadió 21 fichas y 3 perfiles. Se conservan las fichas anteriores.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 37 | 1889 | 92 | 1238 |
-| América del Sur | 13 | 414 | 35 | 199 |
-| Europa | 51 | 575 | 102 | 1425 |
-| África | 48 | 226 | 28 | 80 |
-| Asia | 48 | 1129 | 129 | 1647 |
-| Oceanía | 16 | 158 | 27 | 327 |
+| América del Norte | 39 | 1889 | 94 | 1239 |
+| América del Sur | 14 | 414 | 36 | 199 |
+| Europa | 52 | 575 | 104 | 1425 |
+| África | 53 | 229 | 28 | 83 |
+| Asia | 49 | 1129 | 129 | 1648 |
+| Oceanía | 20 | 160 | 29 | 331 |
 
-Fichas interregionales o mundiales sin asignar a un continente: 152. América del Norte incluye Centroamérica y el Caribe. Las cifras indican el inventario de la base y no un porcentaje de cobertura.
+Fichas interregionales o mundiales sin continente único: 153. América del Norte incluye América Central y el Caribe. Las cifras muestran el inventario, no el porcentaje cubierto.
 
-VEX: 814 de 4523 fichas de competiciones (18.0%). La cobertura se concentra en esta liga.
+VEX: 814 de 4528 fichas de competiciones (18.0%). La cobertura se concentra en esta liga.
 
 ## Lo que queda
 
@@ -781,6 +781,13 @@ VEX: 814 de 4523 fichas de competiciones (18.0%). La cobertura se concentra en e
 - **Universum UNAM · DinoAlebrijes** — México; 2026-12-12. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/index/2026/12/12
 - **Universum UNAM · Átomos brillantes** — México; 2026-12-12. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/index/2026/12/12
 - **Universum UNAM · Pequenautas al espacio** — México; 2026-12-13. con un adulto; condiciones de admisión adulta por separado. https://www.universum.unam.mx/actividades/index/2026/12/13
+- **Niue La escuela secundaria · Tūhuga Tuarangi · Community Open Session** — Niue; 2025-06-14. con un adulto; condiciones de admisión adulta por separado. https://gov.nu/notice-board/department-of-education
+- **Fête de la science · Collège de Lano 2025** — Wallis y Futuna; 2025-10-09. con un adulto; condiciones de admisión adulta por separado. https://www.wallis-et-futuna.gouv.fr/contenu/telechargement/14755/121412/file/PROG-F%C3%AAte%20de%20la%20Science-Pr%C3%A9sentation%20des%20Ateliers%20des%20diff%C3%A9rents%20participant-DF02.pdf
+- **BIGFISH · Café Sciences CARAMBAR** — San Pedro y Miquelón; 2026-09-11. con un adulto; condiciones de admisión adulta por separado. https://www.vivre-a-spm.fr/agenda/cafe-science-big-fish-2/
+- **Montserrat Volcano Observatory · Monitoring Technology** — Montserrat; fecha sin anunciar. Acceso con un adulto. Consultar las condiciones para adultos por separado. https://www.mvo.ms/education-and-outreach/visiting-mvo/
+- **Historic Dockyard Museum · Maritime and Antarctic Technology** — Islas Malvinas; fecha sin anunciar. Acceso con un adulto. Consultar las condiciones para adultos por separado. https://falklands-museum.com/
+- **Svalbard Museum · Mining and Arctic Exploration** — Svalbard y Jan Mayen; fecha sin anunciar. Acceso con un adulto. Consultar las condiciones para adultos por separado. https://svalbardmuseum.no/en-verden-i-endring
+- **North Pole Expedition Museum · Airships** — Svalbard y Jan Mayen; fecha desconocida. Confirmar acceso infantil. https://northpolemuseum.com/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

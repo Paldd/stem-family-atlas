@@ -580,20 +580,20 @@
       }
     ],
     "counts": {
-      "records": 4929,
-      "holiday": 4596,
+      "records": 4939,
+      "holiday": 4600,
       "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1036,
-      "en_es_instruction": 1581,
+      "en_es_instruction": 1583,
       "en_es_support": 27,
-      "family_instruction": 1581,
+      "family_instruction": 1583,
       "family_support": 27,
       "ru_instruction": 4,
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 134
+      "countries": 143
     },
     "validation": {
       "version": 51,
@@ -38443,6 +38443,569 @@
       "venue": "Plaza Fora Local 22 · Calle 61 No. 109 x 22 · Conkal, Yucatán",
       "related_ids": [
         "L747"
+      ]
+    },
+    {
+      "id": "L751",
+      "title": "KIT Hub · Code Club Summer Camp · Tech Kuri Bose 2026",
+      "block": "Лагеря",
+      "country": "Бурунди",
+      "region": "Африка",
+      "iso": [
+        "BDI"
+      ],
+      "city": "Bujumbura",
+      "start": "",
+      "end": "",
+      "period": "Архив августа 2026. Организатор описывает четыре недели занятий. Точное расписание 2027 ещё не опубликовано.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://fr.linkedin.com/posts/kit-digital-innovation-hub_day1-techkuribose2026-codeclub-activity-7490769840467738624-9mrM",
+      "references": [
+        {
+          "url": "https://www.kit-hub.com/",
+          "label": "Официальная страница, регламент или календарь профильной ассоциации."
+        },
+        {
+          "url": "https://www.kit-hub.com/assets/index-CkTcI-fu.js",
+          "label": "Официальная страница, регламент или календарь профильной ассоциации."
+        },
+        {
+          "url": "https://bi.linkedin.com/company/kit-digital-innovation-hub",
+          "label": "Официальная страница, регламент или календарь профильной ассоциации."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Возраст 7–18 лет.",
+      "mat": "Условно. По возрасту подходит для объявленного диапазона, если правила повторятся.",
+      "osc": "Нет для правил выпуска 2026. Минимум 7 лет.",
+      "format": "Мастерская или учебная программа",
+      "entry": "Для следующего набора уточнить уровень, очный допуск, язык занятий, стоимость и комплект оборудования.",
+      "gear": "Scratch, программирование, электроника, робототехника и IoT. Проекты распределялись по уровням.",
+      "language": "Публикации на французском и английском. Язык преподавателя выбранной группы уточнить.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Публикации на французском и английском. Язык преподавателя выбранной группы уточнить.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P3 — архив и следующий выпуск",
+      "action": "Проверенный прошлый выпуск. Следующая дата и условия ещё не объявлены.",
+      "note": "Перед поездкой проверить места, язык занятия и условия сопровождения.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Местная научно-технологическая программа",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "historical_program",
+      "venue": "CFPP Nyakabiga · Bujumbura",
+      "registration_status": "Прошедший выпуск.",
+      "availability": {
+        "status": "closed"
+      }
+    },
+    {
+      "id": "L752",
+      "title": "IMARA Comoros · Bootcamp de Robotique 2026",
+      "block": "Лагеря",
+      "country": "Коморские Острова",
+      "region": "Африка",
+      "iso": [
+        "COM"
+      ],
+      "city": "Moroni",
+      "start": "2026-08-17",
+      "end": "2026-08-17",
+      "period": "Открытие 17 августа 2026. Программа длилась пять дней.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "activity_start",
+      "checked": "2026-11-07",
+      "source": "https://lagazettedescomores.com/soci%C3%A9t%C3%A9/imara-comoros-lance-un-bootcamp-de-robotique-19381.html",
+      "references": [],
+      "proof": "Дата и площадка по публичным отчётам. Доступ к новому выпуску требует регламента организатора.",
+      "status": "Идея",
+      "age": "Подростковая программа. Числовой возраст в отчёте не указан.",
+      "mat": "Нет. Выпуск был подростковым.",
+      "osc": "Нет. Выпуск был подростковым.",
+      "format": "Мастерская или учебная программа",
+      "entry": "Перед поездкой проверить места, язык занятия и условия сопровождения.",
+      "gear": "Пятидневный практикум по проектированию и программированию шасси робота. В отчёте описана помощь переводчиков.",
+      "language": "Отчёт описывает англоязычную практику с переводчиками. Язык будущего набора неизвестен.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Отчёт описывает англоязычную практику с переводчиками. Язык будущего набора неизвестен.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P3 — архив и следующий выпуск",
+      "action": "Проверенный прошлый выпуск. Следующая дата и условия ещё не объявлены.",
+      "note": "Дата и площадка по публичным отчётам. Доступ к новому выпуску требует регламента организатора.",
+      "themes": [
+        "robotics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Местная научно-технологическая программа",
+      "participation": "day_camp",
+      "admission_kind": "program",
+      "evidence_level": "historical_program",
+      "venue": "Retaj Hotel · Moroni",
+      "registration_status": "Прошедший выпуск.",
+      "availability": {
+        "status": "closed"
+      }
+    },
+    {
+      "id": "L753",
+      "title": "UNESCO / Ministerio · IA y Robótica · Malabo",
+      "block": "Лагеря",
+      "country": "Экваториальная Гвинея",
+      "region": "Африка",
+      "iso": [
+        "GNQ"
+      ],
+      "city": "Malabo",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://minttsia.gob.gq/el-ministerio-de-transportes-telecomunicaciones-y-aviacion-civil-pone-en-marcha-un-ambicioso-programa-de-formacion-en-inteligencia-artificial-y-robotica-junto-a-la-unesco-2/",
+      "references": [
+        {
+          "url": "https://news.identicge.org/taller-de-iniciacion-a-la-robotica-para-la-juventud-ecuatoguineana-organizada-por-identic-teg-campus/",
+          "label": "Официальная страница, регламент или календарь профильной ассоциации."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Подготовка преподавателей, затем заявлены занятия для молодёжи. Возраст конкретной детской группы пока неизвестен.",
+      "mat": "Условно на новый сезон. Нужен местный набор с подтверждённым возрастом и доступом.",
+      "osc": "Условно на новый сезон. Нужен местный набор с подтверждённым возрастом и доступом.",
+      "format": "Мастерская или учебная программа",
+      "entry": "Подготовка преподавателей, затем заявлены занятия для молодёжи. Возраст конкретной детской группы пока неизвестен.",
+      "gear": "В подготовке преподавателей заявлены Scratch, 3D-проектирование и сборка компонентов.",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Перед поездкой проверить места, язык занятия и условия сопровождения.",
+      "note": "Государственный проект на 2026–2028. Даты и право записи в детскую группу уточнять по отдельному набору.",
+      "themes": [
+        "ai",
+        "robotics",
+        "coding",
+        "makers"
+      ],
+      "scope": "national",
+      "importance_reason": "Местная научно-технологическая программа",
+      "participation": "course",
+      "admission_kind": "school_selection",
+      "evidence_level": "program",
+      "related_ids": [
+        "C4526"
+      ]
+    },
+    {
+      "id": "L754",
+      "title": "Hadramout Coast · Robotics and AI school labs",
+      "block": "Лагеря",
+      "country": "Йемен",
+      "region": "Азия",
+      "iso": [
+        "YEM"
+      ],
+      "city": "Hadramout Coast",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://meoh.gov.ye/programs/robot-program/",
+      "references": [],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Нет. Программа рассчитана на местные средние школы.",
+      "mat": "Нет. Программа рассчитана на местные средние школы.",
+      "osc": "Нет. Программа рассчитана на местные средние школы.",
+      "format": "Мастерская или учебная программа",
+      "entry": "По приглашению или через участвующую местную школу.",
+      "gear": "Лаборатории проектирования и программирования роботов EV3.",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Перед поездкой проверить места, язык занятия и условия сопровождения.",
+      "note": "Управление образования описывает школьную программу. Текущий детский лагерь и отдельный турнир не датированы.",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Местная научно-технологическая программа",
+      "participation": "course",
+      "admission_kind": "school",
+      "evidence_level": "program"
+    },
+    {
+      "id": "L755",
+      "title": "CNMI PSS · VEX Robotics Club Clinic 2026",
+      "block": "Лагеря",
+      "country": "Северные Марианские острова",
+      "region": "Океания",
+      "iso": [
+        "MNP"
+      ],
+      "city": "Garapan, Saipan",
+      "start": "2026-01-17",
+      "end": "2026-01-17",
+      "period": "",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "date_scope": "event_day",
+      "checked": "2026-11-07",
+      "source": "https://marianaspress.com/news/article/pss-hosts-vex-robotics-clinic",
+      "references": [
+        {
+          "url": "https://www.cnmipss.org/cnmi-island-wide-stem-fair-sy21-22-virtual-display-march-12-2022",
+          "label": "Официальная страница, регламент или календарь профильной ассоциации."
+        }
+      ],
+      "proof": "Дата и площадка по публичным отчётам. Доступ к новому выпуску требует регламента организатора.",
+      "status": "Идея",
+      "age": "Возраст и доступ уточнить у организатора.",
+      "mat": "Условно на новый сезон. Нужен местный набор с подтверждённым возрастом и доступом.",
+      "osc": "Условно на новый сезон. Нужен местный набор с подтверждённым возрастом и доступом.",
+      "format": "Мастерская или учебная программа",
+      "entry": "Исторически допускались местные государственные, частные и домашние школы. Подачу оформлял школьный наставник или родитель домашней школы.",
+      "gear": "Практикум VEX при участии начальной, средней и старшей школы. Участники и гости пробовали управлять роботами.",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P3 — архив и следующий выпуск",
+      "action": "Проверенный прошлый выпуск. Следующая дата и условия ещё не объявлены.",
+      "note": "Дата и площадка по публичным отчётам. Доступ к новому выпуску требует регламента организатора.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Местная научно-технологическая программа",
+      "participation": "course",
+      "admission_kind": "school_selection",
+      "evidence_level": "historical_program",
+      "venue": "Garapan Elementary School",
+      "registration_status": "Прошедший выпуск.",
+      "availability": {
+        "status": "closed"
+      },
+      "related_ids": [
+        "C4528"
+      ]
+    },
+    {
+      "id": "L756",
+      "title": "CSIRO · Robot Responders · Online & Printable",
+      "block": "Лагеря",
+      "country": "Международный онлайн",
+      "region": "Глобальные онлайн-события",
+      "iso": [],
+      "city": "Online",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://www.csiro.au/en/education/resource-library/investigate-and-innovate-with-csiro/robot-responders",
+      "references": [
+        {
+          "url": "https://www.csiro.au/en/education/Resource-Library/Robot-Responders-HTML-game",
+          "label": "Официальная страница, регламент или календарь профильной ассоциации."
+        },
+        {
+          "url": "https://www.csiro.au/en/education/about-csiro-education/stories-and-announcements/csiro-robot-responders-competition/faqs",
+          "label": "Официальная страница, регламент или календарь профильной ассоциации."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Учебный материал рассчитан примерно на 10–14 лет. Организатор предлагает адаптацию карточек для младших.",
+      "mat": "Да как самостоятельная инженерная игра, с помощью взрослого по необходимости.",
+      "osc": "Да в адаптированной версии с базовыми карточками и взрослым.",
+      "format": "Открыть английскую игру или распечатать карточки. Для младших использовать базовые детали с родителем.",
+      "entry": "Открыть английскую игру или распечатать карточки. Для младших использовать базовые детали с родителем.",
+      "gear": "Спроектировать виртуального робота для работы в пещере, океане или космосе. Для настольной версии доступны карточки.",
+      "language": "Английские материалы и интерфейс игры.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Английские материалы и интерфейс игры.",
+      "cost": "Бесплатный самостоятельный материал.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P1 — открытая инженерная игра дома",
+      "action": "Открыть английскую игру или распечатать карточки. Для младших использовать базовые детали с родителем.",
+      "note": "Материалы доступны круглый год. У конкурсной заявки был отдельный регламент.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "games"
+      ],
+      "scope": "online",
+      "importance_reason": "Местная научно-технологическая программа",
+      "participation": "online_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "related_ids": [
+        "L757",
+        "C4529"
+      ]
+    },
+    {
+      "id": "L757",
+      "title": "CSIRO · Robot Responders 2026 · Christmas Island participation",
+      "block": "Лагеря",
+      "country": "остров Рождества",
+      "region": "Океания",
+      "iso": [
+        "CXR"
+      ],
+      "city": "Christmas Island",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://www.csiro.au/en/Newsletters/Education-and-Outreach/2026-Term-4",
+      "references": [
+        {
+          "url": "https://www.csiro.au/en/education/resource-library/investigate-and-innovate-with-csiro/robot-responders",
+          "label": "Официальная страница, регламент или календарь профильной ассоциации."
+        },
+        {
+          "url": "https://www.csiro.au/en/Newsletters/Education-and-Outreach/National-Science-Experiment-2026-wrap-up",
+          "label": "Официальная страница, регламент или календарь профильной ассоциации."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Учебный материал рассчитан примерно на 10–14 лет. Организатор предлагает адаптацию карточек для младших.",
+      "mat": "Да как самостоятельная инженерная игра, с помощью взрослого по необходимости.",
+      "osc": "Да в адаптированной версии с базовыми карточками и взрослым.",
+      "format": "Открыть английскую игру или распечатать карточки. Для младших использовать базовые детали с родителем.",
+      "entry": "Открыть английскую игру или распечатать карточки. Для младших использовать базовые детали с родителем.",
+      "gear": "Спроектировать виртуального робота для работы в пещере, океане или космосе. Для настольной версии доступны карточки.",
+      "language": "Английские материалы и интерфейс игры.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Английские материалы и интерфейс игры.",
+      "cost": "Бесплатный самостоятельный материал.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Открыть английскую игру или распечатать карточки. Для младших использовать базовые детали с родителем.",
+      "note": "CSIRO подтвердил участие острова Рождества в национальном образовательном эксперименте 2026. Конкретную школу, день и очную площадку в отчёте не указали.",
+      "themes": [
+        "robotics",
+        "engineering",
+        "games"
+      ],
+      "scope": "national",
+      "importance_reason": "Местная научно-технологическая программа",
+      "participation": "online_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "related_ids": [
+        "L756",
+        "C4529"
+      ]
+    },
+    {
+      "id": "L758",
+      "title": "Niue Primary School · Bright Sparks solar STEM",
+      "block": "Лагеря",
+      "country": "Ниуэ",
+      "region": "Океания",
+      "iso": [
+        "NIU"
+      ],
+      "city": "Niue",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://www.gov.nu/projects/niue-renewable-energy-phase-2",
+      "references": [],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "По приглашению или через участвующую местную школу.",
+      "mat": "Нет свободной записи. Формат для своей школьной группы.",
+      "osc": "Нет свободной записи. Формат для своей школьной группы.",
+      "format": "Мастерская или учебная программа",
+      "entry": "По приглашению или через участвующую местную школу.",
+      "gear": "Niue Primary School работала с подрядчиком Sunergise: дети изучали солнечные панели и собирали игрушку на солнечной энергии. Дата школьной мастерской не опубликована.",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Проверенный прошлый выпуск. Следующая дата и условия ещё не объявлены.",
+      "note": "Niue Primary School работала с подрядчиком Sunergise: дети изучали солнечные панели и собирали игрушку на солнечной энергии. Дата школьной мастерской не опубликована.",
+      "themes": [
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Местная научно-технологическая программа",
+      "participation": "course",
+      "admission_kind": "school",
+      "evidence_level": "program"
+    },
+    {
+      "id": "L759",
+      "title": "Fête de la science · ateliers scolaires · Wallis 2026",
+      "block": "Лагеря",
+      "country": "Острова Уоллис и Футуна",
+      "region": "Океания",
+      "iso": [
+        "WLF"
+      ],
+      "city": "Wallis",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://www.ethnopharmacolab.fr/participation-a-la-fete-de-la-science-a-wallis/",
+      "references": [
+        {
+          "url": "https://www.fetedelascience.fr/les-iles-wallis-futuna-fete-la-science",
+          "label": "Официальная страница, регламент или календарь профильной ассоциации."
+        }
+      ],
+      "proof": "Сверено по первичным источникам. Дата этапа, набор и право участия указаны отдельно.",
+      "status": "Идея",
+      "age": "Исследовательский отчёт подтверждает школьный цикл 2026 от CM2 до выпускного класса на Уоллисе. Семейный вход и расписание отдельных мастерских не установлены.",
+      "mat": "Нет свободной записи. Формат для своей школьной группы.",
+      "osc": "Нет свободной записи. Формат для своей школьной группы.",
+      "format": "Исследовательский отчёт подтверждает школьный цикл 2026 от CM2 до выпускного класса на Уоллисе. Семейный вход и расписание отдельных мастерских не установлены.",
+      "entry": "По приглашению или через участвующую местную школу.",
+      "gear": "Исследовательский отчёт подтверждает школьный цикл 2026 от CM2 до выпускного класса на Уоллисе. Семейный вход и расписание отдельных мастерских не установлены.",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Мастерская или учебная программа",
+      "reward": "",
+      "priority": "P3 — архив и следующий выпуск",
+      "action": "Проверенный прошлый выпуск. Следующая дата и условия ещё не объявлены.",
+      "note": "Исследовательский отчёт подтверждает школьный цикл 2026 от CM2 до выпускного класса на Уоллисе. Семейный вход и расписание отдельных мастерских не установлены.",
+      "themes": [
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Местная научно-технологическая программа",
+      "participation": "course",
+      "admission_kind": "school",
+      "evidence_level": "historical_program",
+      "registration_status": "Прошедший выпуск.",
+      "availability": {
+        "status": "closed"
+      },
+      "related_ids": [
+        "E514"
+      ]
+    },
+    {
+      "id": "L760",
+      "title": "Collège Émile Letournel · Club Drone / MATE ROV",
+      "block": "Лагеря",
+      "country": "Сен-Пьер и Микелон",
+      "region": "Северная Америка",
+      "iso": [
+        "SPM"
+      ],
+      "city": "Saint-Pierre",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "date_scope": "programme_watch",
+      "checked": "2026-11-07",
+      "source": "https://infooutremer.fr/saint-pierre-et-miquelon-le-robot-sous-marin-de-six-collegiens-mis-a-lhonneur/",
+      "references": [],
+      "proof": "Дата и площадка по публичным отчётам. Доступ к новому выпуску требует регламента организатора.",
+      "status": "Идея",
+      "age": "По приглашению или через участвующую местную школу.",
+      "mat": "Нет свободной записи. Формат для своей школьной группы.",
+      "osc": "Нет свободной записи. Формат для своей школьной группы.",
+      "format": "Школьный клуб Drone. Работа над подводным аппаратом и выезд команды на региональный MATE ROV в Канаде. Местные открытые заявки не установлены.",
+      "entry": "По приглашению или через участвующую местную школу.",
+      "gear": "Школьный клуб Drone. Работа над подводным аппаратом и выезд команды на региональный MATE ROV в Канаде. Местные открытые заявки не установлены.",
+      "language": "Язык проведения уточнить для выбранной группы или этапа.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Язык проведения уточнить для выбранной группы или этапа.",
+      "cost": "Точный тариф выбранного набора не подтверждён.",
+      "level": "Мастерская или учебная программа",
+      "reward": "Школьный проект отмечен специальной наградой Blue Whale.",
+      "priority": "P2 — участие по условиям",
+      "action": "Перед поездкой проверить места, язык занятия и условия сопровождения.",
+      "note": "Школьный клуб Drone. Работа над подводным аппаратом и выезд команды на региональный MATE ROV в Канаде. Местные открытые заявки не установлены.",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Местная научно-технологическая программа",
+      "participation": "course",
+      "admission_kind": "school",
+      "evidence_level": "program",
+      "related_ids": [
+        "E515"
       ]
     },
     {

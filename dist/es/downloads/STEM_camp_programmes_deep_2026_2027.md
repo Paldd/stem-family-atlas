@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1917 fichas en 125 países. Cada ficha indica la fecha de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1918 fichas en 126 países. Cada ficha indica la fecha de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -154389,6 +154389,46 @@ México · Mérida, Yucatán
 - [Página oficial, reglamento o calendario de la asociación del sector.](https://roboticabinario.com/talleres) · 2026-11-07
 
 - [Página oficial, reglamento o calendario de la asociación del sector.](https://roboticabinario.com/) · 2026-11-07
+
+## CP1918 · KIT Hub · Tech Kuri Bose
+
+Burundi · CFPP Nyakabiga · Bujumbura
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Edades de 7 a 18 años.
+
+**Idioma:** Publicaciones en francés e inglés. Confirmar el idioma del instructor del grupo elegido.
+
+**Programa:** Scratch, programación, electrónica, robótica e IoT. Los proyectos se organizaron por niveles.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Archivo de agosto de 2026. La organización describe cuatro semanas de clases. Aún no se publica el horario exacto de 2027.
+
+**Precio / año:** sin establecer · No se publica el coste total.
+
+**Incluido:** Scratch, programación, electrónica, robótica e IoT. Los proyectos se organizaron por niveles.
+
+**Suplementos:** Para la próxima convocatoria confirmar nivel, acceso presencial, idioma de clase, coste y equipo.
+
+**Matvey:** Condicional. Encaja en el rango de edad anunciado si se repiten las bases.
+
+**Oscar:** No según las bases de la edición de 2026. Mínimo 7 años.
+
+**Por qué se seleccionó:** Edición pasada verificada. Aún no se anuncian fecha ni condiciones de la siguiente.
+
+### Antes de solicitar plaza
+
+- Para la próxima convocatoria confirmar nivel, acceso presencial, idioma de clase, coste y equipo.
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://fr.linkedin.com/posts/kit-digital-innovation-hub_day1-techkuribose2026-codeclub-activity-7490769840467738624-9mrM) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://www.kit-hub.com/assets/index-CkTcI-fu.js) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://bi.linkedin.com/company/kit-digital-innovation-hub) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 
