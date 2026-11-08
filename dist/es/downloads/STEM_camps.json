@@ -580,20 +580,20 @@
       }
     ],
     "counts": {
-      "records": 5184,
+      "records": 5211,
       "holiday": 4759,
-      "regular": 187,
+      "regular": 197,
       "self_paced_materials": 4,
       "boarding": 1038,
-      "en_es_instruction": 1596,
+      "en_es_instruction": 1616,
       "en_es_support": 28,
-      "family_instruction": 1596,
+      "family_instruction": 1616,
       "family_support": 28,
       "ru_instruction": 4,
       "language_lessons": 414,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 153
+      "countries": 157
     },
     "validation": {
       "version": 51,
@@ -35874,7 +35874,7 @@
       "deadline": "",
       "date_status": "Confirmado",
       "date_scope": "workshop_window",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "source": "https://www.library.gg/events/event/meet-robots-taster-session",
       "references": [
         {
@@ -35899,7 +35899,7 @@
       "reward": "",
       "priority": "P2 — participación según requisitos",
       "action": "La convocatoria de esta edición ha cerrado.",
-      "note": "18 de febrero de 2026, 14:00–16:00. Requería reserva. Sin nueva sesión anunciada.",
+      "note": "El 18 de febrero de 2026 hubo una sesión familiar de Sphero. No se anuncia otra sesión. El acceso habitual al Fab Lab tiene su propia edad mínima.",
       "themes": [
         "robotics",
         "coding",
@@ -35915,7 +35915,10 @@
       "availability": {
         "status": "closed",
         "label": "La convocatoria de esta edición ha cerrado."
-      }
+      },
+      "related_ids": [
+        "L865"
+      ]
     },
     {
       "id": "L696",
@@ -45050,6 +45053,1437 @@
       "camp_dossier_slug": "technology-bit-chosica-junior-2027",
       "related_ids": [
         "L846"
+      ]
+    },
+    {
+      "id": "L848",
+      "title": "Eurostat · data and quiz · Researchers’ Days WS3",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS3",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "6–99 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Visualización de datos y concurso de preguntas sobre Europa.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: DE, FR, EN.",
+      "languages": [
+        "DE",
+        "FR",
+        "EN"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: DE, FR, EN.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.",
+      "themes": [
+        "games",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L849",
+      "title": "Luxembourg Tech School · LEGO factory · Researchers’ Days WS4",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS4",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "12–18 años.",
+      "mat": "No cumple la edad de este taller.",
+      "osc": "No cumple la edad de este taller.",
+      "format": "Programación de robots LEGO para colaborar en una fábrica en miniatura.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: LU, DE, FR, EN.",
+      "languages": [
+        "LU",
+        "DE",
+        "FR",
+        "EN"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: LU, DE, FR, EN.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P4 — edad inferior al mínimo",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L850",
+      "title": "LIST · collaborative rover game · Researchers’ Days WS6",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS6",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "6–99 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Los participantes manejan un róver en equipo de 3–6 personas y completan retos en tableta y con un robot.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: LU, DE, FR, EN.",
+      "languages": [
+        "LU",
+        "DE",
+        "FR",
+        "EN"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: LU, DE, FR, EN.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.",
+      "themes": [
+        "robotics",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L851",
+      "title": "HTW Dresden · robot movement · Researchers’ Days WS7",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS7",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "3–99 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Experimento interactivo sobre las emociones que transmite el movimiento de un robot.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: DE, EN.",
+      "languages": [
+        "DE",
+        "EN"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: DE, EN.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.",
+      "themes": [
+        "robotics",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L852",
+      "title": "Code Club · virtual car programming · Researchers’ Days WS8",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS8",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://codeclub.lu/en/rejoindre/evenements/researchers-days-2026",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "De 6 a 12 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Programación de un coche virtual y carrera compartida en pantalla.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: LU, DE, FR, EN.",
+      "languages": [
+        "LU",
+        "DE",
+        "FR",
+        "EN"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: LU, DE, FR, EN.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad. El programa general indica 6–18 años y el responsable, 6–12. Se usa el intervalo del responsable.",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L853",
+      "title": "FNR Take Off · science challenges · Researchers’ Days WS9",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS9",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "6–99 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Retos prácticos del juego científico Take Off.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: LU, DE, FR, EN.",
+      "languages": [
+        "LU",
+        "DE",
+        "FR",
+        "EN"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: LU, DE, FR, EN.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.",
+      "themes": [
+        "games",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L854",
+      "title": "Syn2cat · marble adder · Researchers’ Days WS10",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS10",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "6–99 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Un circuito de canicas muestra cómo un ordenador suma números.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: LU, DE, FR, EN.",
+      "languages": [
+        "LU",
+        "DE",
+        "FR",
+        "EN"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: LU, DE, FR, EN.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.",
+      "themes": [
+        "coding",
+        "electronics"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L855",
+      "title": "SCRIPT · training an AI model · Researchers’ Days WS11",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS11",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "6–18 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Recogida de datos, reconocimiento de patrones y entrenamiento de un modelo mediante juegos.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: LU, DE, FR, EN.",
+      "languages": [
+        "LU",
+        "DE",
+        "FR",
+        "EN"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: LU, DE, FR, EN.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.",
+      "themes": [
+        "ai",
+        "coding",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L856",
+      "title": "Train Your Brain · learning game · Researchers’ Days WS17",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS17",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "3–99 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Retos lúdicos de movimiento, reacción y toma de decisiones con fatiga física.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: LU, DE, FR, EN.",
+      "languages": [
+        "LU",
+        "DE",
+        "FR",
+        "EN"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: LU, DE, FR, EN.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.",
+      "themes": [
+        "games",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L857",
+      "title": "RSS-Hydro · Earth observation · Researchers’ Days WS20",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS20",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "6–99 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Introducción lúdica a las imágenes satelitales de la Tierra.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: FR, EN.",
+      "languages": [
+        "FR",
+        "EN"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: FR, EN.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.",
+      "themes": [
+        "technology",
+        "space",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L858",
+      "title": "Asteroid landing challenge · Researchers’ Days WS21",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS21",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "3–18 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Control en equipo del aterrizaje de una nave y experimentos con cráteres de impacto.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: FR, EN.",
+      "languages": [
+        "FR",
+        "EN"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: FR, EN.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.",
+      "themes": [
+        "space",
+        "engineering",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L859",
+      "title": "Déi kleng Fuerscher · marble logic · Researchers’ Days WS25",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS25",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "6–99 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Retos de lógica y mecánica con canicas.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: LU, DE.",
+      "languages": [
+        "LU",
+        "DE"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: LU, DE.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.",
+      "themes": [
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L860",
+      "title": "Wind tunnel · design and fly · Researchers’ Days WS28",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS28",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "6–99 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Los participantes diseñan, construyen y prueban un modelo en un túnel de viento.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: LU, DE, FR, EN.",
+      "languages": [
+        "LU",
+        "DE",
+        "FR",
+        "EN"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: LU, DE, FR, EN.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.",
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L861",
+      "title": "Virtual reality · body scale · Researchers’ Days WS29",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS29",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "12–99 años.",
+      "mat": "No cumple la edad de este taller.",
+      "osc": "No cumple la edad de este taller.",
+      "format": "Experiencia de realidad virtual con cambios de escala corporal.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: LU, DE, EN.",
+      "languages": [
+        "LU",
+        "DE",
+        "EN"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: LU, DE, EN.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P4 — edad inferior al mínimo",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.",
+      "themes": [
+        "technology",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L862",
+      "title": "University of Luxembourg · geometry games · Researchers’ Days WS30",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS30",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "6–99 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Principios matemáticos de los rompecabezas y juegos.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: LU, DE, FR, EN.",
+      "languages": [
+        "LU",
+        "DE",
+        "FR",
+        "EN"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: LU, DE, FR, EN.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.",
+      "themes": [
+        "games",
+        "maths"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L863",
+      "title": "SnT · AI robots and drones · Researchers’ Days WS31",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS31",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "6–99 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Demostraciones de perros robóticos, drones y humanoides controlados por gestos y voz.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: FR, EN.",
+      "languages": [
+        "FR",
+        "EN"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: FR, EN.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.",
+      "themes": [
+        "robotics",
+        "ai",
+        "drones"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L864",
+      "title": "Smart City Lab · AI and transport · Researchers’ Days WS34",
+      "block": "Campamentos",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "iso": [
+        "LUX"
+      ],
+      "city": "Rockhal · Esch/Belval · WS34",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "period": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "references": [
+        {
+          "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "3–99 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Minivehículos y demostraciones de IA en el entorno urbano.",
+      "entry": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "gear": "",
+      "language": "Idiomas del taller: FR, EN.",
+      "languages": [
+        "FR",
+        "EN"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Idiomas del taller: FR, EN.",
+      "cost": "Entrada gratuita. No hace falta inscripción previa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P2 — participación según requisitos",
+      "action": "28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.",
+      "note": "El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.",
+      "themes": [
+        "ai",
+        "technology",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "workshop",
+      "admission_kind": "visitor",
+      "evidence_level": "program",
+      "date_scope": "activity_window",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "E635"
+      ]
+    },
+    {
+      "id": "L865",
+      "title": "Guille-Allès Library · Fab Lab · booked access",
+      "block": "Campamentos",
+      "country": "Guernesey",
+      "region": "Europa",
+      "iso": [
+        "GGY"
+      ],
+      "city": "St Peter Port · Guille-Allès Library",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://www.library.gg/fablab",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Desde 9 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "No. Edad mínima de 9 años.",
+      "format": "Taller de la biblioteca con equipos de fabricación digital.",
+      "entry": "Reserva previa. Edad mínima de 9 años y máximo de 2 personas por máquina.",
+      "gear": "",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Reserva previa. Edad mínima de 9 años y máximo de 2 personas por máquina.",
+      "note": "Reserva previa. Edad mínima de 9 años y máximo de 2 personas por máquina.",
+      "themes": [
+        "technology",
+        "makers",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "related_ids": [
+        "L695"
+      ]
+    },
+    {
+      "id": "L866",
+      "title": "Young Engineers Paramaribo · Bricks Challenge",
+      "block": "Campamentos",
+      "country": "Surinam",
+      "region": "América del Sur",
+      "iso": [
+        "SUR"
+      ],
+      "city": "Paramaribo · Jacob Reintjesstraat",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://paramaribo.e2youngengineers.com/enrichment-programs/bricks-challenge-enrichment-program/",
+      "references": [
+        {
+          "url": "https://paramaribo.e2youngengineers.com/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "6–10 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "format": "Construcción con bloques y estudio de mecanismos simples. Cada clase dura 75 minutos.",
+      "entry": "El proveedor ofrece solicitud. Confirmar fechas, precio e idioma del grupo concreto.",
+      "gear": "",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "El proveedor ofrece solicitud. Confirmar fechas, precio e idioma del grupo concreto.",
+      "note": "El proveedor ofrece solicitud. Confirmar fechas, precio e idioma del grupo concreto.",
+      "themes": [
+        "makers",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "camp_dossier_slug": "suriname-young-engineers-bricks-challenge",
+      "related_ids": [
+        "L867"
+      ]
+    },
+    {
+      "id": "L867",
+      "title": "Suriname e-Gov × Young Engineers · STEM 2026 archive",
+      "block": "Campamentos",
+      "country": "Surinam",
+      "region": "América del Sur",
+      "iso": [
+        "SUR"
+      ],
+      "city": "e-Government · Paramaribo",
+      "start": "2026-10-02",
+      "end": "2026-11-06",
+      "period": "",
+      "deadline": "2026-10-01",
+      "date_status": "Confirmado",
+      "checked": "2026-11-08",
+      "source": "https://gov.sr/young-engineers/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "De 6 a 12 años.",
+      "mat": "Condicional. Confirmar edad, curso y admisión con la organización.",
+      "osc": "Condicional. Confirmar edad, curso y admisión con la organización.",
+      "format": "Construcción con bloques y estudio de mecanismos simples. Cada clase dura 75 minutos.",
+      "entry": "El último ciclo publicado fue para hijos de empleados públicos. No se publican fechas del próximo ciclo.",
+      "gear": "",
+      "language": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar aparte el idioma del jurado o de la persona instructora.",
+      "cost": "SRD 500 por 6 sesiones en el ciclo pasado. Consultar nueva tarifa.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "El último ciclo publicado fue para hijos de empleados públicos. No se publican fechas del próximo ciclo.",
+      "note": "El último ciclo publicado fue para hijos de empleados públicos. No se publican fechas del próximo ciclo.",
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "invitation",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "delivery_mode": "in_person",
+      "sessions": [
+        {
+          "date": "2026-10-02",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "timezone": "America/Paramaribo",
+          "start_utc": "2026-10-02T20:00:00Z",
+          "end_utc": "2026-10-02T21:30:00Z",
+          "topic": "e-Gov STEM",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-09",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "timezone": "America/Paramaribo",
+          "start_utc": "2026-10-09T20:00:00Z",
+          "end_utc": "2026-10-09T21:30:00Z",
+          "topic": "e-Gov STEM",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-16",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "timezone": "America/Paramaribo",
+          "start_utc": "2026-10-16T20:00:00Z",
+          "end_utc": "2026-10-16T21:30:00Z",
+          "topic": "e-Gov STEM",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-23",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "timezone": "America/Paramaribo",
+          "start_utc": "2026-10-23T20:00:00Z",
+          "end_utc": "2026-10-23T21:30:00Z",
+          "topic": "e-Gov STEM",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-30",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "timezone": "America/Paramaribo",
+          "start_utc": "2026-10-30T20:00:00Z",
+          "end_utc": "2026-10-30T21:30:00Z",
+          "topic": "e-Gov STEM",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-06",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "timezone": "America/Paramaribo",
+          "start_utc": "2026-11-06T20:00:00Z",
+          "end_utc": "2026-11-06T21:30:00Z",
+          "topic": "e-Gov STEM",
+          "ical_timed": true
+        }
+      ],
+      "registration_status": "El último ciclo publicado fue para hijos de empleados públicos. No se publican fechas del próximo ciclo.",
+      "related_ids": [
+        "L866"
+      ]
+    },
+    {
+      "id": "L868",
+      "title": "STEMGuyana · After-school robotics and coding clubs",
+      "block": "Campamentos",
+      "country": "Guyana",
+      "region": "América del Sur",
+      "iso": [
+        "GUY"
+      ],
+      "city": "Guyana · club locations",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://www.stemguyana.com/ready-for-tomorrow-preparing-guyanese-youth-for-careers-in-robotics-and-coding/",
+      "references": [
+        {
+          "url": "https://www.stemguyana.com/?v=743462151791",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://register.k12youthcode.com/register/stem-club.php",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "Condicional. Confirmar edad, curso y admisión con la organización.",
+      "mat": "Condicional. Confirmar edad, curso y admisión con la organización.",
+      "osc": "Condicional. Confirmar edad, curso y admisión con la organización.",
+      "format": "Clubes extraescolares de robótica y programación con distintas sedes en Guyana.",
+      "entry": "Existe la red de clubes. En la solicitud pública revisada se ofrecían matemáticas. Confirmar plazas, edades y admisión específica a robótica.",
+      "gear": "",
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Existe la red de clubes. En la solicitud pública revisada se ofrecían matemáticas. Confirmar plazas, edades y admisión específica a robótica.",
+      "note": "Existe la red de clubes. En la solicitud pública revisada se ofrecían matemáticas. Confirmar plazas, edades y admisión específica a robótica.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "camp_dossier_slug": "stemguyana-afterschool-robotics-clubs"
+    },
+    {
+      "id": "L869",
+      "title": "AllForKids · Programmation Scratch",
+      "block": "Campamentos",
+      "country": "Madagascar",
+      "region": "África",
+      "iso": [
+        "MDG"
+      ],
+      "city": "Ambatoroka · Antananarivo",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://www.allforkids.mg/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "7–10 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "No cumple. Mínimo de 7 años.",
+      "format": "Juegos y animaciones interactivas en Scratch.",
+      "entry": "Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.",
+      "gear": "",
+      "language": "Descripción en francés. Confirmar el idioma del grupo.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Descripción en francés. Confirmar el idioma del grupo.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.",
+      "note": "Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "camp_dossier_slug": "madagascar-allforkids-scratch",
+      "related_ids": [
+        "L870"
+      ]
+    },
+    {
+      "id": "L870",
+      "title": "AllForKids · Robotique & Domotique",
+      "block": "Campamentos",
+      "country": "Madagascar",
+      "region": "África",
+      "iso": [
+        "MDG"
+      ],
+      "city": "Ambatoroka · Antananarivo",
+      "start": "",
+      "end": "",
+      "period": "",
+      "deadline": "",
+      "date_status": "No se ha anunciado",
+      "checked": "2026-11-08",
+      "source": "https://www.allforkids.mg/",
+      "references": [],
+      "proof": "Cotejado con la página oficial y las condiciones publicadas.",
+      "status": "Idea",
+      "age": "7–10 años.",
+      "mat": "Sí por edad. Confirmar aparte la admisión y la plaza.",
+      "osc": "No cumple. Mínimo de 7 años.",
+      "format": "Fundamentos de electrónica y programación de robots pequeños.",
+      "entry": "Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.",
+      "gear": "",
+      "language": "Descripción en francés. Confirmar el idioma del grupo.",
+      "languages": [
+        "FR"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Descripción en francés. Confirmar el idioma del grupo.",
+      "cost": "Aún no se confirman el coste total ni las plazas.",
+      "level": "Programa formativo técnico",
+      "reward": "",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.",
+      "note": "Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.",
+      "themes": [
+        "robotics",
+        "coding",
+        "electronics"
+      ],
+      "scope": "local",
+      "importance_reason": "Etapa regional",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "delivery_mode": "in_person",
+      "camp_dossier_slug": "madagascar-allforkids-robotics",
+      "related_ids": [
+        "L869"
       ]
     },
     {
@@ -416412,6 +417846,1350 @@
           "start_utc": "2026-12-30T01:30:00Z",
           "end_utc": "2026-12-30T08:30:00Z",
           "topic": "Curio Kids · Future Engineers Winter Tech Camp",
+          "ical_timed": true
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2070-20261004-20270627-english-course",
+      "block": "Campamentos",
+      "title": "Kids Life Skills · Digital Pioneers Foundations · Digital Pioneers Foundations · 2026-10-04–2027-06-27",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "city": "PwC Academy · Gasperich · A7",
+      "start": "2026-10-04",
+      "end": "2027-06-27",
+      "period": "27 sesiones según calendario, octubre de 2026 a junio de 2027.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–7 años.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Grupo completo. La organización ofrece lista de espera.",
+      "gear": "ScratchJr, Code.org, robots y primeros modelos de reconocimiento de gestos y sonidos.",
+      "language": "Enseñanza en inglés confirmada.",
+      "cost": "2026/27 · EUR 760 por curso. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Grupo completo. La organización ofrece lista de espera.",
+      "source": "https://www.kidslifeskills.org/en/courses/ages-6-7-beginner-en",
+      "references": [
+        {
+          "url": "https://www.kidslifeskills.org/en/courses/ages-6-7-beginner-en",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: No cumple la edad publicada para este grupo. Oscar: Grupo completo. La organización ofrece lista de espera. Suplementos: Para Foundations se indica alquiler de dispositivo por EUR 70, o EUR 40 con apoyo económico. Confirmar disponibilidad. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "LUX"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "ai"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Enseñanza en inglés confirmada.",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "lux-kls-6-foundations",
+      "camp_programme_id": "CP2070",
+      "sessions": [
+        {
+          "date": "2026-10-04",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-10-04T11:30:00Z",
+          "end_utc": "2026-10-04T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-11",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-10-11T11:30:00Z",
+          "end_utc": "2026-10-11T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-18",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-10-18T11:30:00Z",
+          "end_utc": "2026-10-18T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-25",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-10-25T12:30:00Z",
+          "end_utc": "2026-10-25T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-15",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-11-15T12:30:00Z",
+          "end_utc": "2026-11-15T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-22",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-11-22T12:30:00Z",
+          "end_utc": "2026-11-22T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-13",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-12-13T12:30:00Z",
+          "end_utc": "2026-12-13T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-10",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-01-10T12:30:00Z",
+          "end_utc": "2027-01-10T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-17",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-01-17T12:30:00Z",
+          "end_utc": "2027-01-17T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-24",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-01-24T12:30:00Z",
+          "end_utc": "2027-01-24T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-31",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-01-31T12:30:00Z",
+          "end_utc": "2027-01-31T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-14",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-02-14T12:30:00Z",
+          "end_utc": "2027-02-14T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-21",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-02-21T12:30:00Z",
+          "end_utc": "2027-02-21T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-28",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-02-28T12:30:00Z",
+          "end_utc": "2027-02-28T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-07",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-03-07T12:30:00Z",
+          "end_utc": "2027-03-07T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-14",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-03-14T12:30:00Z",
+          "end_utc": "2027-03-14T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-21",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-03-21T12:30:00Z",
+          "end_utc": "2027-03-21T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-11",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-04-11T11:30:00Z",
+          "end_utc": "2027-04-11T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-18",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-04-18T11:30:00Z",
+          "end_utc": "2027-04-18T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-25",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-04-25T11:30:00Z",
+          "end_utc": "2027-04-25T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-02",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-05-02T11:30:00Z",
+          "end_utc": "2027-05-02T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-16",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-05-16T11:30:00Z",
+          "end_utc": "2027-05-16T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-23",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-05-23T11:30:00Z",
+          "end_utc": "2027-05-23T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-06-06",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-06-06T11:30:00Z",
+          "end_utc": "2027-06-06T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-06-13",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-06-13T11:30:00Z",
+          "end_utc": "2027-06-13T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-06-20",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-06-20T11:30:00Z",
+          "end_utc": "2027-06-20T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-06-27",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-06-27T11:30:00Z",
+          "end_utc": "2027-06-27T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Foundations",
+          "ical_timed": true
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "waitlist",
+        "label": "Grupo completo. La organización ofrece lista de espera."
+      }
+    },
+    {
+      "id": "CP2071-20261004-20270628-english-course",
+      "block": "Campamentos",
+      "title": "Kids Life Skills · Digital Pioneers Innovators Studio · Digital Pioneers Innovators Studio · 2026-10-04–2027-06-28",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "city": "PwC Academy · Gasperich · A4",
+      "start": "2026-10-04",
+      "end": "2027-06-28",
+      "period": "27 sesiones según calendario, octubre de 2026 a junio de 2027.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–7 años.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza.",
+      "gear": "Para menores con experiencia. Juegos Scratch 3.0, mandos físicos Makey Makey y modelos básicos de aprendizaje automático.",
+      "language": "Enseñanza en inglés confirmada.",
+      "cost": "2026/27 · EUR 760 por curso. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza.",
+      "source": "https://www.kidslifeskills.org/en/courses/ages-6-7-continuing-en",
+      "references": [
+        {
+          "url": "https://www.kidslifeskills.org/en/courses/ages-6-7-continuing-en",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: No cumple la edad publicada para este grupo. Oscar: La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "LUX"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "ai"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Enseñanza en inglés confirmada.",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "lux-kls-6-studio",
+      "camp_programme_id": "CP2071",
+      "sessions": [
+        {
+          "date": "2026-10-04",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-10-04T11:30:00Z",
+          "end_utc": "2026-10-04T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-11",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-10-11T11:30:00Z",
+          "end_utc": "2026-10-11T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-18",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-10-18T11:30:00Z",
+          "end_utc": "2026-10-18T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-25",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-10-25T12:30:00Z",
+          "end_utc": "2026-10-25T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-15",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-11-15T12:30:00Z",
+          "end_utc": "2026-11-15T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-22",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-11-22T12:30:00Z",
+          "end_utc": "2026-11-22T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-13",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-12-13T12:30:00Z",
+          "end_utc": "2026-12-13T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-10",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-01-10T12:30:00Z",
+          "end_utc": "2027-01-10T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-17",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-01-17T12:30:00Z",
+          "end_utc": "2027-01-17T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-24",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-01-24T12:30:00Z",
+          "end_utc": "2027-01-24T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-31",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-01-31T12:30:00Z",
+          "end_utc": "2027-01-31T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-14",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-02-14T12:30:00Z",
+          "end_utc": "2027-02-14T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-21",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-02-21T12:30:00Z",
+          "end_utc": "2027-02-21T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-28",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-02-28T12:30:00Z",
+          "end_utc": "2027-02-28T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-07",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-03-07T12:30:00Z",
+          "end_utc": "2027-03-07T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-14",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-03-14T12:30:00Z",
+          "end_utc": "2027-03-14T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-21",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-03-21T12:30:00Z",
+          "end_utc": "2027-03-21T14:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-11",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-04-11T11:30:00Z",
+          "end_utc": "2027-04-11T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-18",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-04-18T11:30:00Z",
+          "end_utc": "2027-04-18T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-25",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-04-25T11:30:00Z",
+          "end_utc": "2027-04-25T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-02",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-05-02T11:30:00Z",
+          "end_utc": "2027-05-02T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-16",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-05-16T11:30:00Z",
+          "end_utc": "2027-05-16T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-23",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-05-23T11:30:00Z",
+          "end_utc": "2027-05-23T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-06-06",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-06-06T11:30:00Z",
+          "end_utc": "2027-06-06T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-06-13",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-06-13T11:30:00Z",
+          "end_utc": "2027-06-13T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-06-20",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-06-20T11:30:00Z",
+          "end_utc": "2027-06-20T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-06-28",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-06-28T11:30:00Z",
+          "end_utc": "2027-06-28T13:30:00Z",
+          "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+          "ical_timed": true
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+      }
+    },
+    {
+      "id": "CP2072-20261004-20270627-english-course",
+      "block": "Campamentos",
+      "title": "Kids Life Skills · Coding Leaders Foundations · Coding Leaders Foundations · 2026-10-04–2027-06-27",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "city": "PwC Academy · Gasperich · A8",
+      "start": "2026-10-04",
+      "end": "2027-06-27",
+      "period": "27 sesiones según calendario, octubre de 2026 a junio de 2027.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "8–10 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "Grupo completo. La organización ofrece lista de espera.",
+      "gear": "Juegos en Scratch 3.0, robots Sphero y entrenamiento de un modelo en Machine Learning for Kids.",
+      "language": "Enseñanza en inglés confirmada.",
+      "cost": "2026/27 · EUR 1080 por curso. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Grupo completo. La organización ofrece lista de espera.",
+      "source": "https://www.kidslifeskills.org/en/courses/ages-8-10-beginner-en",
+      "references": [
+        {
+          "url": "https://www.kidslifeskills.org/en/courses/ages-8-10-beginner-en",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: Grupo completo. La organización ofrece lista de espera. Oscar: No cumple la edad publicada para este grupo. Suplementos: Para Foundations se indica alquiler de dispositivo por EUR 70, o EUR 40 con apoyo económico. Confirmar disponibilidad. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "LUX"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "ai"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Enseñanza en inglés confirmada.",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "lux-kls-8-foundations",
+      "camp_programme_id": "CP2072",
+      "sessions": [
+        {
+          "date": "2026-10-04",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-10-04T07:30:00Z",
+          "end_utc": "2026-10-04T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-11",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-10-11T07:30:00Z",
+          "end_utc": "2026-10-11T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-18",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-10-18T07:30:00Z",
+          "end_utc": "2026-10-18T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-25",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-10-25T08:30:00Z",
+          "end_utc": "2026-10-25T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-15",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-11-15T08:30:00Z",
+          "end_utc": "2026-11-15T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-22",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-11-22T08:30:00Z",
+          "end_utc": "2026-11-22T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-13",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-12-13T08:30:00Z",
+          "end_utc": "2026-12-13T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-10",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-01-10T08:30:00Z",
+          "end_utc": "2027-01-10T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-17",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-01-17T08:30:00Z",
+          "end_utc": "2027-01-17T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-24",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-01-24T08:30:00Z",
+          "end_utc": "2027-01-24T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-31",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-01-31T08:30:00Z",
+          "end_utc": "2027-01-31T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-14",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-02-14T08:30:00Z",
+          "end_utc": "2027-02-14T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-21",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-02-21T08:30:00Z",
+          "end_utc": "2027-02-21T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-28",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-02-28T08:30:00Z",
+          "end_utc": "2027-02-28T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-07",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-03-07T08:30:00Z",
+          "end_utc": "2027-03-07T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-14",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-03-14T08:30:00Z",
+          "end_utc": "2027-03-14T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-21",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-03-21T08:30:00Z",
+          "end_utc": "2027-03-21T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-11",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-04-11T07:30:00Z",
+          "end_utc": "2027-04-11T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-18",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-04-18T07:30:00Z",
+          "end_utc": "2027-04-18T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-25",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-04-25T07:30:00Z",
+          "end_utc": "2027-04-25T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-02",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-05-02T07:30:00Z",
+          "end_utc": "2027-05-02T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-16",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-05-16T07:30:00Z",
+          "end_utc": "2027-05-16T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-23",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-05-23T07:30:00Z",
+          "end_utc": "2027-05-23T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-06-06",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-06-06T07:30:00Z",
+          "end_utc": "2027-06-06T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-06-13",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-06-13T07:30:00Z",
+          "end_utc": "2027-06-13T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-06-20",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-06-20T07:30:00Z",
+          "end_utc": "2027-06-20T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-06-27",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-06-27T07:30:00Z",
+          "end_utc": "2027-06-27T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Foundations",
+          "ical_timed": true
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "waitlist",
+        "label": "Grupo completo. La organización ofrece lista de espera."
+      }
+    },
+    {
+      "id": "CP2073-20261004-20270627-english-course",
+      "block": "Campamentos",
+      "title": "Kids Life Skills · Coding Leaders Innovators Studio · Coding Leaders Innovators Studio · 2026-10-04–2027-06-27",
+      "country": "Luxemburgo",
+      "region": "Europa",
+      "city": "PwC Academy · Gasperich · A8",
+      "start": "2026-10-04",
+      "end": "2027-06-27",
+      "period": "27 sesiones según calendario, octubre de 2026 a junio de 2027.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "8–10 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Formato diurno sin alojamiento.",
+      "entry": "La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza.",
+      "gear": "Para menores con experiencia. Juegos en Scratch 3.0 y MakeCode Arcade, robots autónomos y aplicación de IA generativa.",
+      "language": "Enseñanza en inglés confirmada.",
+      "cost": "2026/27 · EUR 1080 por curso. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza.",
+      "source": "https://www.kidslifeskills.org/en/courses/ages-8-10-continuing-en",
+      "references": [
+        {
+          "url": "https://www.kidslifeskills.org/en/courses/ages-8-10-continuing-en",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-08",
+      "status": "Idea",
+      "note": "Matvey: La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.",
+      "iso": [
+        "LUX"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "ai"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Enseñanza en inglés confirmada.",
+      "participation": "regular",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "lux-kls-8-studio",
+      "camp_programme_id": "CP2073",
+      "sessions": [
+        {
+          "date": "2026-10-04",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-10-04T07:30:00Z",
+          "end_utc": "2026-10-04T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-11",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-10-11T07:30:00Z",
+          "end_utc": "2026-10-11T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-18",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-10-18T07:30:00Z",
+          "end_utc": "2026-10-18T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-10-25",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-10-25T08:30:00Z",
+          "end_utc": "2026-10-25T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-15",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-11-15T08:30:00Z",
+          "end_utc": "2026-11-15T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-11-22",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-11-22T08:30:00Z",
+          "end_utc": "2026-11-22T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2026-12-13",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2026-12-13T08:30:00Z",
+          "end_utc": "2026-12-13T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-10",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-01-10T08:30:00Z",
+          "end_utc": "2027-01-10T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-17",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-01-17T08:30:00Z",
+          "end_utc": "2027-01-17T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-24",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-01-24T08:30:00Z",
+          "end_utc": "2027-01-24T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-31",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-01-31T08:30:00Z",
+          "end_utc": "2027-01-31T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-14",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-02-14T08:30:00Z",
+          "end_utc": "2027-02-14T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-21",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-02-21T08:30:00Z",
+          "end_utc": "2027-02-21T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-28",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-02-28T08:30:00Z",
+          "end_utc": "2027-02-28T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-07",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-03-07T08:30:00Z",
+          "end_utc": "2027-03-07T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-14",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-03-14T08:30:00Z",
+          "end_utc": "2027-03-14T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-03-21",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-03-21T08:30:00Z",
+          "end_utc": "2027-03-21T11:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-11",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-04-11T07:30:00Z",
+          "end_utc": "2027-04-11T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-18",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-04-18T07:30:00Z",
+          "end_utc": "2027-04-18T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-04-25",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-04-25T07:30:00Z",
+          "end_utc": "2027-04-25T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-02",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-05-02T07:30:00Z",
+          "end_utc": "2027-05-02T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-16",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-05-16T07:30:00Z",
+          "end_utc": "2027-05-16T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-05-23",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-05-23T07:30:00Z",
+          "end_utc": "2027-05-23T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-06-06",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-06-06T07:30:00Z",
+          "end_utc": "2027-06-06T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-06-13",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-06-13T07:30:00Z",
+          "end_utc": "2027-06-13T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-06-20",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-06-20T07:30:00Z",
+          "end_utc": "2027-06-20T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-06-27",
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "timezone": "Europe/Luxembourg",
+          "start_utc": "2027-06-27T07:30:00Z",
+          "end_utc": "2027-06-27T10:30:00Z",
+          "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
           "ical_timed": true
         }
       ],

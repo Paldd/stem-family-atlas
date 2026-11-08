@@ -1,0 +1,308 @@
+{
+  "captures": [
+    {
+      "key": "lux-programme",
+      "url": "https://researchersdays.science.lu/fr/programme-0",
+      "final_url": "https://researchersdays.science.lu/fr/programme-0",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 179682,
+      "sha256": "ce81972646b2273888f478cd563d260d63155b94a20d0f05b8da1e137497d876",
+      "file": "lux-programme.html"
+    },
+    {
+      "key": "lux-admission",
+      "url": "https://researchersdays.science.lu/fr/inscriptions-0",
+      "final_url": "https://researchersdays.science.lu/fr/inscriptions-0",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 41006,
+      "sha256": "e6bd1390e1630c706c3e65f2764029de00d0c05305a086a2a47fde47c75d420c",
+      "file": "lux-admission.html"
+    },
+    {
+      "key": "lux-fnr",
+      "url": "https://www.fnr.lu/researchers-days/",
+      "final_url": "https://www.fnr.lu/researchers-days/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 243338,
+      "sha256": "f4803f2bb2fa3beaad9d520d6be556af6f14c2b6a42beca0ea464568bc75456a",
+      "file": "lux-fnr.html"
+    },
+    {
+      "key": "lux-codeclub",
+      "url": "https://codeclub.lu/en/rejoindre/evenements/researchers-days-2026",
+      "final_url": "https://codeclub.lu/en/rejoindre/evenements/researchers-days-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 24316,
+      "sha256": "5a8d4d4662dca18514f4f4b90c8cbaa7a55e1168e5bc2ad78103ee5839dc44a5",
+      "file": "lux-codeclub.html"
+    },
+    {
+      "key": "lux-kls-6-foundations",
+      "url": "https://www.kidslifeskills.org/en/courses/ages-6-7-beginner-en",
+      "final_url": "https://www.kidslifeskills.org/en/courses/ages-6-7-beginner-en",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 320053,
+      "sha256": "28f0f3cb7697beb77406978d87e48244f5592135f0c0644566dba169b7706bcd",
+      "file": "lux-kls-6-foundations.html"
+    },
+    {
+      "key": "lux-kls-6-studio",
+      "url": "https://www.kidslifeskills.org/en/courses/ages-6-7-continuing-en",
+      "final_url": "https://www.kidslifeskills.org/en/courses/ages-6-7-continuing-en",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 320572,
+      "sha256": "f9690d376e54cf0667d4738c51c9c6135de865d6ed807833de529bd7cc91662d",
+      "file": "lux-kls-6-studio.html"
+    },
+    {
+      "key": "lux-kls-8-foundations",
+      "url": "https://www.kidslifeskills.org/en/courses/ages-8-10-beginner-en",
+      "final_url": "https://www.kidslifeskills.org/en/courses/ages-8-10-beginner-en",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 319689,
+      "sha256": "6038cdaa6cf8080c13fa0a122c90c541f07a5adf5b5c8a7017cda11e75125617",
+      "file": "lux-kls-8-foundations.html"
+    },
+    {
+      "key": "lux-kls-8-studio",
+      "url": "https://www.kidslifeskills.org/en/courses/ages-8-10-continuing-en",
+      "final_url": "https://www.kidslifeskills.org/en/courses/ages-8-10-continuing-en",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 321454,
+      "sha256": "3f89808abc29fa61fca98a1775f1acbfb196b1396dd6e69ffaab513d221b0885",
+      "file": "lux-kls-8-studio.html"
+    },
+    {
+      "key": "lux-lyrc",
+      "url": "https://www.makeit.lu/our-activities-new/robotics/lyrc_official/",
+      "final_url": "https://www.makeit.lu/our-activities-new/robotics/lyrc_official/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 176220,
+      "sha256": "4b0fe3f525b21f0e5519dd52d3196dc7e07e607f4d64f675da4263a865ae8f8d",
+      "file": "lux-lyrc.html"
+    },
+    {
+      "key": "lux-vex-iq",
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66712.html",
+      "final_url": "https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66712.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 38237,
+      "sha256": "1ccf1150a60fba0313e2fdf623044c87c5ae887210fcb82a429c45ff35316236",
+      "file": "lux-vex-iq.html"
+    },
+    {
+      "key": "lux-fll",
+      "url": "https://levelup.lu/fr/contests/first-lego-league-luxembourg/",
+      "retrieval": "public_web_readback",
+      "bytes": 4033,
+      "sha256": "fab95b78a816a37dc193986f40a4597ee137ccc39f53d843bc1e9430aa16879f",
+      "file": "lux-fll-web.txt"
+    },
+    {
+      "key": "lux-levelup",
+      "url": "https://levelup.lu/fr/concours-levelup/",
+      "retrieval": "public_web_readback",
+      "bytes": 2576,
+      "sha256": "782f0917233e7b0bd814c9b2e929c90246f48220abd073eef619047101379aae",
+      "file": "lux-levelup-web.txt"
+    },
+    {
+      "key": "lux-dash",
+      "url": "https://levelup.lu/fr/contests/dash-live-challenge/",
+      "retrieval": "public_web_readback",
+      "bytes": 2420,
+      "sha256": "1221a5b9507ff12b61dd95fc4b56f3b5722764255ff65c2e3079c13de4bd8b5c",
+      "file": "lux-dash-web.txt"
+    },
+    {
+      "key": "lux-jonk",
+      "url": "https://fjsl.lu/activities/njfcontest",
+      "final_url": "https://fjsl.lu/activities/njfcontest",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 2387100,
+      "sha256": "754df00ea31a61efec069ff9f242a0f6711e8d5206cabe642b07ed59aa7ee90f",
+      "file": "lux-jonk.html"
+    },
+    {
+      "key": "gg-bricktacular",
+      "url": "https://www.visitguernsey.com/experiences/events/guernsey-bricktacular-2026/",
+      "final_url": "https://www.visitguernsey.com/experiences/events/guernsey-bricktacular-2026/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68136,
+      "sha256": "221b996f998769467e21a4dea2c188d8e65d5834b02ba50f6edc0ec8cc5e3c6b",
+      "file": "gg-bricktacular.html"
+    },
+    {
+      "key": "gg-island",
+      "url": "https://islandfamilies.com/event/bricktacular/",
+      "final_url": "https://islandfamilies.com/event/bricktacular/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1087556,
+      "sha256": "9aa75a0e83b1a96dd210e39eaea22cd8524234f8fcac33a23745fa0568794924",
+      "file": "gg-island.html"
+    },
+    {
+      "key": "gg-fablab",
+      "url": "https://www.library.gg/fablab",
+      "final_url": "https://www.library.gg/fablab",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 23033,
+      "sha256": "78a028669244ae3204659bfecf719d2922d9f2d667cdc343e7e69fa242f3ff9f",
+      "file": "gg-fablab.html"
+    },
+    {
+      "key": "gg-robot-archive",
+      "url": "https://www.library.gg/events/event/meet-robots-taster-session",
+      "final_url": "https://www.library.gg/events/event/meet-robots-taster-session",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 22007,
+      "sha256": "0d36018d6087f933ad84ca830eb44f5139d3316fb52dfa6d78443ff023e50b29",
+      "file": "gg-robot-archive.html"
+    },
+    {
+      "key": "gl-educators",
+      "url": "https://iserasuaat.gl/da/nyheder/laeringsfestival-for-matematik-og-naturfagsundervisere",
+      "final_url": "https://iserasuaat.gl/da/nyheder/laeringsfestival-for-matematik-og-naturfagsundervisere",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 301336,
+      "sha256": "062b14303c3df9fa48d2b409c8eb71146cc04f71b20b044499f8172b64209403",
+      "file": "gl-educators.html"
+    },
+    {
+      "key": "fro-about",
+      "url": "https://fllforoyar.fo/um-fll/",
+      "final_url": "https://fllforoyar.fo/um-fll/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 172937,
+      "sha256": "3625cd791de95c80e8598598fe00e073ac012bced0bdd3f8f9405e3d33f05f9d",
+      "file": "fro-about.html"
+    },
+    {
+      "key": "fro-result",
+      "url": "https://saf.fo/news/2732/fll-2026-koyr-a-bla-ur-skulanum-a-flotum-for-vid-vinnarasteypinum",
+      "final_url": "https://saf.fo/news/2732/fll-2026-koyr-a-bla-ur-skulanum-a-flotum-for-vid-vinnarasteypinum",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 56080,
+      "sha256": "091acf766f90d8c3621ea9507ab0772aa1de9d7aa439c4512fc6201addba22b6",
+      "file": "fro-result.html"
+    },
+    {
+      "key": "fro-school",
+      "url": "https://eysturskulin.fo/news/872/first-lego-leauge",
+      "final_url": "https://eysturskulin.fo/news/872/first-lego-leauge",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 106750,
+      "sha256": "71e08b60e11a1d6b2fceb6c98af86db77290246102769ccc298a63dfa1eefc18",
+      "file": "fro-school.html"
+    },
+    {
+      "key": "sur-bricks",
+      "url": "https://paramaribo.e2youngengineers.com/enrichment-programs/bricks-challenge-enrichment-program/",
+      "final_url": "https://paramaribo.e2youngengineers.com/enrichment-programs/bricks-challenge-enrichment-program/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 121965,
+      "sha256": "1003fe2d3b34b94d626938f66e64faa26246c8ebddd74dc4e8874f4b2b35b7d6",
+      "file": "sur-bricks.html"
+    },
+    {
+      "key": "sur-ye",
+      "url": "https://paramaribo.e2youngengineers.com/",
+      "final_url": "https://paramaribo.e2youngengineers.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 166526,
+      "sha256": "f908fc8edd68e3fcfeb4f23c9604d7236f3e4b082eb53f4ab476291ab6bc030a",
+      "file": "sur-ye.html"
+    },
+    {
+      "key": "sur-gov",
+      "url": "https://gov.sr/young-engineers/",
+      "final_url": "https://gov.sr/young-engineers/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 291246,
+      "sha256": "e612f6a27ecad659928e5ebe66621b62f27c502ea3938b76c0a9a0b6bfd55d83",
+      "file": "sur-gov.html"
+    },
+    {
+      "key": "guy-afterschool",
+      "url": "https://www.stemguyana.com/ready-for-tomorrow-preparing-guyanese-youth-for-careers-in-robotics-and-coding/",
+      "final_url": "https://www.stemguyana.com/ready-for-tomorrow-preparing-guyanese-youth-for-careers-in-robotics-and-coding/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68195,
+      "sha256": "2c39f2a45ac0d193c57af06dc86867100ee7208bbda324461180662a4a48c136",
+      "file": "guy-afterschool.html"
+    },
+    {
+      "key": "guy-stem",
+      "url": "https://www.stemguyana.com/?v=743462151791",
+      "final_url": "https://www.stemguyana.com/?v=743462151791",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 84472,
+      "sha256": "15c6daa9987d3cdf9ef8df98a4304a80af3e1b7c13cb48627b1a622542850b17",
+      "file": "guy-stem.html"
+    },
+    {
+      "key": "guy-join",
+      "url": "https://register.k12youthcode.com/register/stem-club.php",
+      "final_url": "https://register.k12youthcode.com/register/stem-club.php",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 14642,
+      "sha256": "4387470322c8c7ba7028cc1d6e8af4e54635ba62c2b9313863283fcdf1180438",
+      "file": "guy-join.html"
+    },
+    {
+      "key": "guy-vyc",
+      "url": "https://vycguyana.org/stem-program",
+      "final_url": "https://vycguyana.org/stem-program",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 518020,
+      "sha256": "c473b28a45d0db2fc40e00116f7ee84ecec5a26d71b89011e66154c51cb108fc",
+      "file": "guy-vyc.html"
+    },
+    {
+      "key": "mg-allforkids",
+      "url": "https://www.allforkids.mg/",
+      "final_url": "https://www.allforkids.mg/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 148899,
+      "sha256": "4fd66b5b4734182d7fc60a0da0af741477150804273c4fc1c54cb9fdf3f1d1f9",
+      "file": "mg-allforkids.html"
+    },
+    {
+      "key": "lux-ministry-cycles",
+      "url": "https://men.public.lu/en/systeme-educatif/fondamental/offre-scolaire-organisation/organisation-enseignement-fondamental.html",
+      "final_url": "https://men.public.lu/en/systeme-educatif/fondamental/offre-scolaire-organisation/organisation-enseignement-fondamental.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 49903,
+      "sha256": "e569cca49a820b0a10b87becb5c9846584602835cf05091887bf6419aeac6ddd",
+      "file": "lux-ministry-cycles.html"
+    }
+  ]
+}

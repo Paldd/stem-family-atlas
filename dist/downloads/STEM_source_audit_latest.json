@@ -16,13 +16,13 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 10531,
-    "competition_cards": 4713,
-    "event_cards": 634,
-    "camp_cards": 5184,
+    "cards": 10572,
+    "competition_cards": 4723,
+    "event_cards": 638,
+    "camp_cards": 5211,
     "league_profiles": 303,
-    "major_exhibition_cards": 535,
-    "vex_cards": 814,
+    "major_exhibition_cards": 539,
+    "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
   },
@@ -34,11 +34,11 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3441,
+      "total": 3442,
       "countries_with_records": 41,
       "competitions": 1939,
-      "events": 173,
-      "major_exhibitions": 132,
+      "events": 174,
+      "major_exhibitions": 133,
       "camps": 1329,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
@@ -48,12 +48,12 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 699,
+      "total": 703,
       "countries_with_records": 15,
-      "competitions": 433,
+      "competitions": 434,
       "events": 51,
       "major_exhibitions": 47,
-      "camps": 215,
+      "camps": 218,
       "status": "Частично исследовано",
       "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 2257,
+      "total": 2291,
       "countries_with_records": 55,
-      "competitions": 612,
-      "events": 154,
-      "major_exhibitions": 129,
-      "camps": 1491,
+      "competitions": 621,
+      "events": 157,
+      "major_exhibitions": 132,
+      "camps": 1513,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -76,12 +76,12 @@
       "regions": [
         "Африка"
       ],
-      "total": 422,
+      "total": 424,
       "countries_with_records": 60,
       "competitions": 247,
       "events": 47,
       "major_exhibitions": 40,
-      "camps": 128,
+      "camps": 130,
       "status": "Частично исследовано",
       "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
     },
@@ -1385,6 +1385,7 @@
         "C4425",
         "C4426",
         "C4427",
+        "C4716",
         "C1155",
         "C1156",
         "C1157",
@@ -1392,9 +1393,9 @@
         "C1899",
         "C1900"
       ],
-      "cards": 814,
-      "future_dated": 689,
-      "linked_card_count": 814,
+      "cards": 815,
+      "future_dated": 690,
+      "linked_card_count": 815,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.vexrobotics.com/official-path",
       "new": false
@@ -14675,6 +14676,50 @@
       "new": false
     },
     {
+      "id": "E635",
+      "name": "Researchers’ Days 2026 · Public Day",
+      "country": "Люксембург",
+      "region": "Европа",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "visitor_policy": "family",
+      "source": "https://researchersdays.science.lu/fr/programme-0",
+      "new": false
+    },
+    {
+      "id": "E636",
+      "name": "Luxembourg Youth Robotics Challenge 2027 · Family visit",
+      "country": "Люксембург",
+      "region": "Европа",
+      "start": "2027-02-21",
+      "end": "2027-02-21",
+      "visitor_policy": "family",
+      "source": "https://www.makeit.lu/our-activities-new/robotics/lyrc_official/",
+      "new": false
+    },
+    {
+      "id": "E637",
+      "name": "Guernsey Bricktacular 2026",
+      "country": "Гернси",
+      "region": "Европа",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "visitor_policy": "family",
+      "source": "https://www.visitguernsey.com/experiences/events/guernsey-bricktacular-2026/",
+      "new": false
+    },
+    {
+      "id": "E638",
+      "name": "Nuuk 2027 · Science Learning Festival for educators",
+      "country": "Гренландия",
+      "region": "Северная Америка",
+      "start": "2027-01-28",
+      "end": "2027-01-30",
+      "visitor_policy": "adults_only",
+      "source": "https://iserasuaat.gl/da/nyheder/laeringsfestival-for-matematik-og-naturfagsundervisere",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -17092,20 +17137,20 @@
       }
     ],
     "counts": {
-      "records": 5184,
+      "records": 5211,
       "holiday": 4759,
-      "regular": 187,
+      "regular": 197,
       "self_paced_materials": 4,
       "boarding": 1038,
-      "en_es_instruction": 1596,
+      "en_es_instruction": 1616,
       "en_es_support": 28,
-      "family_instruction": 1596,
+      "family_instruction": 1616,
       "family_support": 28,
       "ru_instruction": 4,
       "language_lessons": 414,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 153
+      "countries": 157
     },
     "validation": {
       "version": 51,

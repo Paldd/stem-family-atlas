@@ -9906,9 +9906,9 @@ Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
 Marca de idioma: unconfirmed; apoyo: no declarado
 Precio: Gratuito.
 Acceso: La convocatoria de esta edición ha cerrado.
-Limitaciones: 18 de febrero de 2026, 14:00–16:00. Requería reserva. Sin nueva sesión anunciada.
+Limitaciones: El 18 de febrero de 2026 hubo una sesión familiar de Sphero. No se anuncia otra sesión. El acceso habitual al Fab Lab tiene su propia edad mínima.
 Fuente: https://www.library.gg/events/event/meet-robots-taster-session
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-08
 
 ### L696 · Giiyo Tech · Douala Summer Tech Bootcamp
 
@@ -12340,6 +12340,374 @@ Coste. La clase de prueba en Chosica cuesta PEN 20. Consultar el coste total del
 Acceso. Solicitar fecha de inicio, idioma del grupo y coste total del curso presencial en Chosica.
 Limitaciones: Se anuncia el inicio en enero de 2027. El operador indicará fechas, horas de Perú y coste del grupo.
 Fuente: https://roboticachosica.technologybit.pe/
+Se ha comprobado: 2026-11-08
+
+### L848 · Eurostat · data and quiz · Researchers’ Days WS3
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS3
+Fecha: 2026-11-28 — 2026-11-28
+Edad: 6–99 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+formato: workshop
+Idioma: Idiomas del taller: DE, FR, EN.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L849 · Luxembourg Tech School · LEGO factory · Researchers’ Days WS4
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS4
+Fecha: 2026-11-28 — 2026-11-28
+edad: 12–18 años.
+Matvey: No cumple la edad de este taller.
+Oscar: No cumple la edad de este taller.
+formato: workshop
+Idioma: Idiomas del taller: LU, DE, FR, EN.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L850 · LIST · collaborative rover game · Researchers’ Days WS6
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS6
+Fecha: 2026-11-28 — 2026-11-28
+Edad: 6–99 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+formato: workshop
+Idioma: Idiomas del taller: LU, DE, FR, EN.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L851 · HTW Dresden · robot movement · Researchers’ Days WS7
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS7
+Fecha: 2026-11-28 — 2026-11-28
+edad: 3–99 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+formato: workshop
+Idioma: Idiomas del taller: DE, EN.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L852 · Code Club · virtual car programming · Researchers’ Days WS8
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS8
+Fecha: 2026-11-28 — 2026-11-28
+Edad: 6*12 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+formato: workshop
+Idioma: Idiomas del taller: LU, DE, FR, EN.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad. El programa general indica 6–18 años y el responsable, 6–12. Se usa el intervalo del responsable.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L853 · FNR Take Off · science challenges · Researchers’ Days WS9
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS9
+Fecha: 2026-11-28 — 2026-11-28
+Edad: 6–99 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+formato: workshop
+Idioma: Idiomas del taller: LU, DE, FR, EN.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L854 · Syn2cat · marble adder · Researchers’ Days WS10
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS10
+Fecha: 2026-11-28 — 2026-11-28
+Edad: 6–99 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+formato: workshop
+Idioma: Idiomas del taller: LU, DE, FR, EN.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L855 · SCRIPT · training an AI model · Researchers’ Days WS11
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS11
+Fecha: 2026-11-28 — 2026-11-28
+edad: 6–18 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+formato: workshop
+Idioma: Idiomas del taller: LU, DE, FR, EN.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L856 · Train Your Brain · learning game · Researchers’ Days WS17
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS17
+Fecha: 2026-11-28 — 2026-11-28
+edad: 3–99 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+formato: workshop
+Idioma: Idiomas del taller: LU, DE, FR, EN.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L857 · RSS-Hydro · Earth observation · Researchers’ Days WS20
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS20
+Fecha: 2026-11-28 — 2026-11-28
+Edad: 6–99 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+formato: workshop
+Idioma: Idiomas del taller: FR, EN.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L858 · Asteroid landing challenge · Researchers’ Days WS21
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS21
+Fecha: 2026-11-28 — 2026-11-28
+edad: 3–18 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+formato: workshop
+Idioma: Idiomas del taller: FR, EN.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L859 · Déi kleng Fuerscher · marble logic · Researchers’ Days WS25
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS25
+Fecha: 2026-11-28 — 2026-11-28
+Edad: 6–99 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+formato: workshop
+Idioma: Idiomas del taller: LU, DE.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L860 · Wind tunnel · design and fly · Researchers’ Days WS28
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS28
+Fecha: 2026-11-28 — 2026-11-28
+Edad: 6–99 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+formato: workshop
+Idioma: Idiomas del taller: LU, DE, FR, EN.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L861 · Virtual reality · body scale · Researchers’ Days WS29
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS29
+Fecha: 2026-11-28 — 2026-11-28
+edad: 12–99 años.
+Matvey: No cumple la edad de este taller.
+Oscar: No cumple la edad de este taller.
+formato: workshop
+Idioma: Idiomas del taller: LU, DE, EN.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L862 · University of Luxembourg · geometry games · Researchers’ Days WS30
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS30
+Fecha: 2026-11-28 — 2026-11-28
+Edad: 6–99 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+formato: workshop
+Idioma: Idiomas del taller: LU, DE, FR, EN.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L863 · SnT · AI robots and drones · Researchers’ Days WS31
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS31
+Fecha: 2026-11-28 — 2026-11-28
+Edad: 6–99 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+formato: workshop
+Idioma: Idiomas del taller: FR, EN.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L864 · Smart City Lab · AI and transport · Researchers’ Days WS34
+
+lugar: Luxemburgo · Rockhal · Esch/Belval · WS34
+Fecha: 2026-11-28 — 2026-11-28
+edad: 3–99 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+formato: workshop
+Idioma: Idiomas del taller: FR, EN.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: Entrada gratuita. No hace falta inscripción previa.
+Acceso: 28 de noviembre de 2026, de 10:00 a 19:00, entrada libre. Los días 26 y 27 de noviembre se reservan a grupos de secundaria.
+Limitaciones: El taller funciona durante el horario de la jornada pública. No se indica la duración de cada actividad.
+Fuente: https://researchersdays.science.lu/fr/programme-0
+Se ha comprobado: 2026-11-08
+
+### L865 · Guille-Allès Library · Fab Lab · booked access
+
+lugar: Guernesey · St Peter Port · Guille-Allès Library
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 9 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: No. Edad mínima de 9 años.
+Formato: regular
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Reserva previa. Edad mínima de 9 años y máximo de 2 personas por máquina.
+Limitaciones: Reserva previa. Edad mínima de 9 años y máximo de 2 personas por máquina.
+Fuente: https://www.library.gg/fablab
+Se ha comprobado: 2026-11-08
+
+### L866 · Young Engineers Paramaribo · Bricks Challenge
+
+lugar: Surinam · Paramaribo · Jacob Reintjesstraat
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 6 a 10 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: Sí por edad. Confirmar aparte la admisión y la plaza.
+Formato: regular
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: El proveedor ofrece solicitud. Confirmar fechas, precio e idioma del grupo concreto.
+Limitaciones: El proveedor ofrece solicitud. Confirmar fechas, precio e idioma del grupo concreto.
+Fuente: https://paramaribo.e2youngengineers.com/enrichment-programs/bricks-challenge-enrichment-program/
+Se ha comprobado: 2026-11-08
+
+### L867 · Suriname e-Gov × Young Engineers · STEM 2026 archive
+
+lugar: Surinam · e-Government · Paramaribo
+Fecha: 2026-10-02 — 2026-11-06
+Edad: 6*12 años.
+Matvey: Condicional. Confirmar edad, curso y admisión con la organización.
+Oscar: Condicional. Confirmar edad, curso y admisión con la organización.
+Formato: regular
+Idioma: Confirmar aparte el idioma del jurado o de la persona instructora.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: SRD 500 por 6 sesiones en el ciclo pasado. Consultar nueva tarifa.
+Acceso: El último ciclo publicado fue para hijos de empleados públicos. No se publican fechas del próximo ciclo.
+Limitaciones: El último ciclo publicado fue para hijos de empleados públicos. No se publican fechas del próximo ciclo.
+Fuente: https://gov.sr/young-engineers/
+Se ha comprobado: 2026-11-08
+
+### L868 · STEMGuyana · After-school robotics and coding clubs
+
+lugar: Guyana · Guyana · club locations
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Condicional. Confirmar edad, curso y admisión con la organización.
+Matvey: Condicional. Confirmar edad, curso y admisión con la organización.
+Oscar: Condicional. Confirmar edad, curso y admisión con la organización.
+Formato: regular
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Existe la red de clubes. En la solicitud pública revisada se ofrecían matemáticas. Confirmar plazas, edades y admisión específica a robótica.
+Limitaciones: Existe la red de clubes. En la solicitud pública revisada se ofrecían matemáticas. Confirmar plazas, edades y admisión específica a robótica.
+Fuente: https://www.stemguyana.com/ready-for-tomorrow-preparing-guyanese-youth-for-careers-in-robotics-and-coding/
+Se ha comprobado: 2026-11-08
+
+### L869 · AllForKids · Programmation Scratch
+
+lugar: Madagascar · Ambatoroka · Antananarivo
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 7 a 10 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: No cumple. Mínimo de 7 años.
+Formato: regular
+Idioma: Descripción en francés. Confirmar el idioma del grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.
+Limitaciones: Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.
+Fuente: https://www.allforkids.mg/
+Se ha comprobado: 2026-11-08
+
+### L870 · AllForKids · Robotique & Domotique
+
+lugar: Madagascar · Ambatoroka · Antananarivo
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 7 a 10 años.
+Matvey: Sí por edad. Confirmar aparte la admisión y la plaza.
+Oscar: No cumple. Mínimo de 7 años.
+Formato: regular
+Idioma: Descripción en francés. Confirmar el idioma del grupo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Aún no se confirman el coste total ni las plazas.
+Acceso: Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.
+Limitaciones: Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.
+Fuente: https://www.allforkids.mg/
 Se ha comprobado: 2026-11-08
 
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
@@ -81732,6 +82100,70 @@ Precio: 2026/27 · TWD 12000 por 3 días. Confirmar la plaza y las condiciones d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condicional. Cumple por edad y la enseñanza es en chino. Oscar: Actualmente no cumple. Mínimo de 7 años en la fecha elegida. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://www.curio.kids/products/future-engineers-winter-2026
+Se ha comprobado: 2026-11-08
+
+### CP2070-20261004-20270627-english-course · Kids Life Skills · Digital Pioneers Foundations · Digital Pioneers Foundations · 2026-10-04–2027-06-27
+
+lugar: Luxemburgo · PwC Academy · Gasperich · A7
+Fecha: 2026-10-04 — 2027-06-27
+Edad: 6–7 años.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: regular
+Idioma: Enseñanza en inglés confirmada.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 760 por curso. · suplementos y condiciones en el dossier
+Acceso: Grupo completo. La organización ofrece lista de espera.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: Grupo completo. La organización ofrece lista de espera. Suplementos: Para Foundations se indica alquiler de dispositivo por EUR 70, o EUR 40 con apoyo económico. Confirmar disponibilidad. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.kidslifeskills.org/en/courses/ages-6-7-beginner-en
+Se ha comprobado: 2026-11-08
+
+### CP2071-20261004-20270628-english-course · Kids Life Skills · Digital Pioneers Innovators Studio · Digital Pioneers Innovators Studio · 2026-10-04–2027-06-28
+
+lugar: Luxemburgo · PwC Academy · Gasperich · A4
+Fecha: 2026-10-04 — 2027-06-28
+Edad: 6–7 años.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: regular
+Idioma: Enseñanza en inglés confirmada.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 760 por curso. · suplementos y condiciones en el dossier
+Acceso: La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza.
+Limitaciones: Matvey: No cumple la edad publicada para este grupo. Oscar: La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.kidslifeskills.org/en/courses/ages-6-7-continuing-en
+Se ha comprobado: 2026-11-08
+
+### CP2072-20261004-20270627-english-course · Kids Life Skills · Coding Leaders Foundations · Coding Leaders Foundations · 2026-10-04–2027-06-27
+
+lugar: Luxemburgo · PwC Academy · Gasperich · A8
+Fecha: 2026-10-04 — 2027-06-27
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: regular
+Idioma: Enseñanza en inglés confirmada.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 1080 por curso. · suplementos y condiciones en el dossier
+Acceso: Grupo completo. La organización ofrece lista de espera.
+Limitaciones: Matvey: Grupo completo. La organización ofrece lista de espera. Oscar: No cumple la edad publicada para este grupo. Suplementos: Para Foundations se indica alquiler de dispositivo por EUR 70, o EUR 40 con apoyo económico. Confirmar disponibilidad. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.kidslifeskills.org/en/courses/ages-8-10-beginner-en
+Se ha comprobado: 2026-11-08
+
+### CP2073-20261004-20270627-english-course · Kids Life Skills · Coding Leaders Innovators Studio · Coding Leaders Innovators Studio · 2026-10-04–2027-06-27
+
+lugar: Luxemburgo · PwC Academy · Gasperich · A8
+Fecha: 2026-10-04 — 2027-06-27
+Edad: 8–10 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: regular
+Idioma: Enseñanza en inglés confirmada.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 1080 por curso. · suplementos y condiciones en el dossier
+Acceso: La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza.
+Limitaciones: Matvey: La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza. Oscar: No cumple la edad publicada para este grupo. Suplementos:  Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.kidslifeskills.org/en/courses/ages-8-10-continuing-en
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

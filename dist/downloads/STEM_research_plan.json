@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 294,
+    "version": 295,
     "status": "implementation_snapshot",
-    "events": 10531,
-    "competitions": 4713,
+    "events": 10572,
+    "competitions": 4723,
     "league_profiles": 303,
-    "camp_dossiers": 2069,
+    "camp_dossiers": 2077,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 634,
+    "exhibitions_events": 638,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 293,
+    "version": 294,
     "status": "implementation_snapshot",
-    "events": 10514,
-    "competitions": 4709,
+    "events": 10531,
+    "competitions": 4713,
     "league_profiles": 303,
-    "camp_dossiers": 2061,
+    "camp_dossiers": 2069,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 631,
+    "exhibitions_events": 634,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 294,
+    "prepared_ui_version": 295,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 293,
-    "previous_verified_commit": "fdb1e7b5086f299ae09ea305aeb97243fb4a2527"
+    "previous_verified_ui_version": 294,
+    "previous_verified_commit": "1a34c55436441db11d373e35fd856f6ff8f216b3"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 293,
-    "published_version": 293,
-    "latest_source_commit": "fdb1e7b5086f299ae09ea305aeb97243fb4a2527",
-    "published_commit": "fdb1e7b5086f299ae09ea305aeb97243fb4a2527",
-    "latest_workflow": 42508706360,
+    "latest_source_version": 294,
+    "published_version": 294,
+    "latest_source_commit": "1a34c55436441db11d373e35fd856f6ff8f216b3",
+    "published_commit": "1a34c55436441db11d373e35fd856f6ff8f216b3",
+    "latest_workflow": 42510521140,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -30035,5 +30035,644 @@
     },
     "audit": "data/junior-tech-and-winter-learning-audit-v294.json",
     "source_receipts": "data/junior-tech-and-winter-learning-source-receipts-v294.json"
+  },
+  "europe_and_guianas_local_coverage_v295": {
+    "version": 295,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E635",
+      "L848",
+      "L849",
+      "L850",
+      "L851",
+      "L852",
+      "L853",
+      "L854",
+      "L855",
+      "L856",
+      "L857",
+      "L858",
+      "L859",
+      "L860",
+      "L861",
+      "L862",
+      "L863",
+      "L864",
+      "E636",
+      "C4715",
+      "C4716",
+      "C4717",
+      "C4718",
+      "C4719",
+      "C4720",
+      "C4721",
+      "C4722",
+      "C4723",
+      "E637",
+      "L865",
+      "E638",
+      "L866",
+      "L867",
+      "L868",
+      "C4724",
+      "L869",
+      "L870",
+      "CP2070-20261004-20270627-english-course",
+      "CP2071-20261004-20270628-english-course",
+      "CP2072-20261004-20270627-english-course",
+      "CP2073-20261004-20270627-english-course"
+    ],
+    "new_dossiers": [
+      "CP2070",
+      "CP2071",
+      "CP2072",
+      "CP2073",
+      "CP2074",
+      "CP2075",
+      "CP2076",
+      "CP2077"
+    ],
+    "new_dated_variants": 4,
+    "refreshed_event_ids": [
+      "L695",
+      "C1544"
+    ],
+    "legacy_overlay_event_ids": [
+      "L695",
+      "C1544"
+    ],
+    "dossier_event_links": {
+      "suriname-young-engineers-bricks-challenge": [
+        "L866"
+      ],
+      "stemguyana-afterschool-robotics-clubs": [
+        "L868"
+      ],
+      "madagascar-allforkids-scratch": [
+        "L869"
+      ],
+      "madagascar-allforkids-robotics": [
+        "L870"
+      ]
+    },
+    "source_requests": 31,
+    "luxembourg": {
+      "public_day": "E635",
+      "source_inventory": [
+        {
+          "stand": "WS1",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS2",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS3",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS4",
+          "age_min": 12,
+          "age_max": 18,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS5",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS6",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS7",
+          "age_min": 3,
+          "age_max": 99,
+          "languages": [
+            "DE",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS8",
+          "age_min": 6,
+          "age_max": 18,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS9",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS10",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS11",
+          "age_min": 6,
+          "age_max": 18,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS12",
+          "age_min": 12,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS23",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS14",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS15",
+          "age_min": 3,
+          "age_max": 99,
+          "languages": [
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS16",
+          "age_min": 3,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS17",
+          "age_min": 3,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS18",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS19",
+          "age_min": 3,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS20",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS21",
+          "age_min": 3,
+          "age_max": 18,
+          "languages": [
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS22",
+          "age_min": 3,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS13",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS13",
+          "age_min": 3,
+          "age_max": 18,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS24",
+          "age_min": 3,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS25",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE"
+          ]
+        },
+        {
+          "stand": "WS26",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "DE",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS27",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS28",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS29",
+          "age_min": 12,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS30",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS31",
+          "age_min": 6,
+          "age_max": 99,
+          "languages": [
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS32",
+          "age_min": 3,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS33",
+          "age_min": 12,
+          "age_max": 99,
+          "languages": [
+            "LU",
+            "DE",
+            "FR",
+            "EN"
+          ]
+        },
+        {
+          "stand": "WS34",
+          "age_min": 3,
+          "age_max": 99,
+          "languages": [
+            "FR",
+            "EN"
+          ]
+        }
+      ],
+      "technology_workshops": {
+        "WS3": "L848",
+        "WS4": "L849",
+        "WS6": "L850",
+        "WS7": "L851",
+        "WS8": "L852",
+        "WS9": "L853",
+        "WS10": "L854",
+        "WS11": "L855",
+        "WS17": "L856",
+        "WS20": "L857",
+        "WS21": "L858",
+        "WS25": "L859",
+        "WS28": "L860",
+        "WS29": "L861",
+        "WS30": "L862",
+        "WS31": "L863",
+        "WS34": "L864"
+      },
+      "course_events": {
+        "6-foundations": "CP2070-20261004-20270627-english-course",
+        "6-studio": "CP2071-20261004-20270628-english-course",
+        "8-foundations": "CP2072-20261004-20270627-english-course",
+        "8-studio": "CP2073-20261004-20270627-english-course"
+      },
+      "course_days": {
+        "6-foundations": [
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-12-13",
+          "2027-01-10",
+          "2027-01-17",
+          "2027-01-24",
+          "2027-01-31",
+          "2027-02-14",
+          "2027-02-21",
+          "2027-02-28",
+          "2027-03-07",
+          "2027-03-14",
+          "2027-03-21",
+          "2027-04-11",
+          "2027-04-18",
+          "2027-04-25",
+          "2027-05-02",
+          "2027-05-16",
+          "2027-05-23",
+          "2027-06-06",
+          "2027-06-13",
+          "2027-06-20",
+          "2027-06-27"
+        ],
+        "6-studio": [
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-12-13",
+          "2027-01-10",
+          "2027-01-17",
+          "2027-01-24",
+          "2027-01-31",
+          "2027-02-14",
+          "2027-02-21",
+          "2027-02-28",
+          "2027-03-07",
+          "2027-03-14",
+          "2027-03-21",
+          "2027-04-11",
+          "2027-04-18",
+          "2027-04-25",
+          "2027-05-02",
+          "2027-05-16",
+          "2027-05-23",
+          "2027-06-06",
+          "2027-06-13",
+          "2027-06-20",
+          "2027-06-28"
+        ],
+        "8-foundations": [
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-12-13",
+          "2027-01-10",
+          "2027-01-17",
+          "2027-01-24",
+          "2027-01-31",
+          "2027-02-14",
+          "2027-02-21",
+          "2027-02-28",
+          "2027-03-07",
+          "2027-03-14",
+          "2027-03-21",
+          "2027-04-11",
+          "2027-04-18",
+          "2027-04-25",
+          "2027-05-02",
+          "2027-05-16",
+          "2027-05-23",
+          "2027-06-06",
+          "2027-06-13",
+          "2027-06-20",
+          "2027-06-27"
+        ],
+        "8-studio": [
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-12-13",
+          "2027-01-10",
+          "2027-01-17",
+          "2027-01-24",
+          "2027-01-31",
+          "2027-02-14",
+          "2027-02-21",
+          "2027-02-28",
+          "2027-03-07",
+          "2027-03-14",
+          "2027-03-21",
+          "2027-04-11",
+          "2027-04-18",
+          "2027-04-25",
+          "2027-05-02",
+          "2027-05-16",
+          "2027-05-23",
+          "2027-06-06",
+          "2027-06-13",
+          "2027-06-20",
+          "2027-06-27"
+        ]
+      },
+      "lyrc_visitor": "E636",
+      "lyrc_competition": [
+        "C4715",
+        "C4716",
+        "C4717",
+        "C4718"
+      ],
+      "fll": [
+        "C4719",
+        "C4720"
+      ],
+      "school_challenges": [
+        "C4721",
+        "C4722"
+      ],
+      "jonk": "C4723",
+      "school_cycle_source": "https://men.public.lu/en/systeme-educatif/fondamental/offre-scolaire-organisation/organisation-enseignement-fondamental.html"
+    },
+    "sparse_territories": {
+      "guernsey_visitor": "E637",
+      "guernsey_fablab": "L865",
+      "greenland_professional": "E638",
+      "faroe_final": "C1544",
+      "suriname": [
+        "L866",
+        "L867"
+      ],
+      "guyana": [
+        "L868",
+        "C4724"
+      ],
+      "madagascar": [
+        "L869",
+        "L870"
+      ]
+    },
+    "source_limits": {
+      "levelup": "organizer public search readback; direct fetch refused for programme pages",
+      "codeclub_age": "workshop operator 6–12, event grid 6–18, smaller interval used",
+      "ks6_last": "Innovators Studio 6–7 posts Monday 2027-06-28; kept exact listed date",
+      "eswatini_league": "local press only, no authoritative rules or next date found",
+      "seychelles_ministry": "official page readable in web search; direct fetch HTTP 502; selection already in catalogue",
+      "madagascar_ifm": "no official workshop age schedule verified for November Nuit des Idées"
+    },
+    "audit": "data/europe-and-guianas-local-coverage-audit-v295.json",
+    "source_receipts": "data/europe-and-guianas-local-coverage-source-receipts-v295.json"
   }
 }

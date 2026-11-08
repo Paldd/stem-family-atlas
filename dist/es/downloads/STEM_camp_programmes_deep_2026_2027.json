@@ -30,25 +30,25 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2069,
-    "countries": 132,
+    "dossiers": 2077,
+    "countries": 135,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 289,
       "published_2027": 552,
       "partial_2027": 152,
-      "next_unannounced": 432,
+      "next_unannounced": 436,
       "published_2026": 405,
       "partial_2026_27": 38,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
       "regular_programme": 21,
-      "regular_2026_27": 2,
+      "regular_2026_27": 6,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 5,
       "confirmed_2027": 1
     },
-    "source_urls": 2972
+    "source_urls": 2982
   },
   "countries": [
     {
@@ -149,7 +149,7 @@
     },
     {
       "country": "Guyana",
-      "count": 3
+      "count": 4
     },
     {
       "country": "Ghana",
@@ -308,8 +308,16 @@
       "count": 2
     },
     {
+      "country": "Luxemburgo",
+      "count": 4
+    },
+    {
       "country": "Mauricio",
       "count": 5
+    },
+    {
+      "country": "Madagascar",
+      "count": 2
     },
     {
       "country": "Malaui",
@@ -454,6 +462,10 @@
     {
       "country": "Estados Unidos",
       "count": 159
+    },
+    {
+      "country": "Surinam",
+      "count": 1
     },
     {
       "country": "Sierra Leona",
@@ -354496,6 +354508,1808 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP2070",
+      "slug": "lux-kls-6-foundations",
+      "provider": "Kids Life Skills · Digital Pioneers Foundations",
+      "country": "Luxemburgo",
+      "iso": "LUX",
+      "place": "PwC Academy · Gasperich · A7",
+      "age": "6–7 años.",
+      "programme": "ScratchJr, Code.org, robots y primeros modelos de reconocimiento de gestos y sonidos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Enseñanza en inglés confirmada.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "27 sesiones según calendario, octubre de 2026 a junio de 2027.",
+        "sessions": [
+          [
+            "2026-10-04",
+            "2027-06-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "english-course",
+            "start": "2026-10-04",
+            "end": "2027-06-27",
+            "label": "Digital Pioneers Foundations",
+            "price": "EUR 760 por curso.",
+            "source": "https://www.kidslifeskills.org/en/courses/ages-6-7-beginner-en",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "waitlist",
+              "label": "Grupo completo. La organización ofrece lista de espera."
+            },
+            "sessions": [
+              {
+                "date": "2026-10-04",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-10-04T11:30:00Z",
+                "end_utc": "2026-10-04T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-11",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-10-11T11:30:00Z",
+                "end_utc": "2026-10-11T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-18",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-10-18T11:30:00Z",
+                "end_utc": "2026-10-18T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-25",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-10-25T12:30:00Z",
+                "end_utc": "2026-10-25T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-15",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-11-15T12:30:00Z",
+                "end_utc": "2026-11-15T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-22",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-11-22T12:30:00Z",
+                "end_utc": "2026-11-22T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-13",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-12-13T12:30:00Z",
+                "end_utc": "2026-12-13T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-10",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-01-10T12:30:00Z",
+                "end_utc": "2027-01-10T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-17",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-01-17T12:30:00Z",
+                "end_utc": "2027-01-17T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-24",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-01-24T12:30:00Z",
+                "end_utc": "2027-01-24T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-31",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-01-31T12:30:00Z",
+                "end_utc": "2027-01-31T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-14",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-02-14T12:30:00Z",
+                "end_utc": "2027-02-14T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-21",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-02-21T12:30:00Z",
+                "end_utc": "2027-02-21T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-28",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-02-28T12:30:00Z",
+                "end_utc": "2027-02-28T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-07",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-03-07T12:30:00Z",
+                "end_utc": "2027-03-07T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-14",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-03-14T12:30:00Z",
+                "end_utc": "2027-03-14T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-21",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-03-21T12:30:00Z",
+                "end_utc": "2027-03-21T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-11",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-04-11T11:30:00Z",
+                "end_utc": "2027-04-11T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-18",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-04-18T11:30:00Z",
+                "end_utc": "2027-04-18T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-25",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-04-25T11:30:00Z",
+                "end_utc": "2027-04-25T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-05-02",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-05-02T11:30:00Z",
+                "end_utc": "2027-05-02T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-05-16",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-05-16T11:30:00Z",
+                "end_utc": "2027-05-16T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-05-23",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-05-23T11:30:00Z",
+                "end_utc": "2027-05-23T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-06",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-06-06T11:30:00Z",
+                "end_utc": "2027-06-06T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-13",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-06-13T11:30:00Z",
+                "end_utc": "2027-06-13T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-20",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-06-20T11:30:00Z",
+                "end_utc": "2027-06-20T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-27",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-06-27T11:30:00Z",
+                "end_utc": "2027-06-27T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Foundations",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Grupo completo. La organización ofrece lista de espera.",
+            "questions": [
+              "Grupo completo. La organización ofrece lista de espera."
+            ],
+            "delivery_mode": "in_person",
+            "admission_kind": "program"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 760,
+        "currency": "EUR",
+        "unit": "programme",
+        "label": "EUR 760 por curso.",
+        "included": "Se proporcionan robots. Se necesita tableta y portátil propios según las condiciones del grupo.",
+        "extras": "Para Foundations se indica alquiler de dispositivo por EUR 70, o EUR 40 con apoyo económico. Confirmar disponibilidad.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad publicada para este grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Grupo completo. La organización ofrece lista de espera."
+        }
+      },
+      "editorial_reason": "27 sesiones según calendario, octubre de 2026 a junio de 2027.",
+      "shortlist": [],
+      "questions": [
+        "Grupo completo. La organización ofrece lista de espera."
+      ],
+      "sources": [
+        {
+          "url": "https://www.kidslifeskills.org/en/courses/ages-6-7-beginner-en",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "ai"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-10-04",
+          "end": "2027-06-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2070-20261004-20270627-english-course"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2071",
+      "slug": "lux-kls-6-studio",
+      "provider": "Kids Life Skills · Digital Pioneers Innovators Studio",
+      "country": "Luxemburgo",
+      "iso": "LUX",
+      "place": "PwC Academy · Gasperich · A4",
+      "age": "6–7 años.",
+      "programme": "Para menores con experiencia. Juegos Scratch 3.0, mandos físicos Makey Makey y modelos básicos de aprendizaje automático.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Enseñanza en inglés confirmada.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "27 sesiones según calendario, octubre de 2026 a junio de 2027.",
+        "sessions": [
+          [
+            "2026-10-04",
+            "2027-06-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "english-course",
+            "start": "2026-10-04",
+            "end": "2027-06-28",
+            "label": "Digital Pioneers Innovators Studio",
+            "price": "EUR 760 por curso.",
+            "source": "https://www.kidslifeskills.org/en/courses/ages-6-7-continuing-en",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-10-04",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-10-04T11:30:00Z",
+                "end_utc": "2026-10-04T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-11",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-10-11T11:30:00Z",
+                "end_utc": "2026-10-11T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-18",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-10-18T11:30:00Z",
+                "end_utc": "2026-10-18T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-25",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-10-25T12:30:00Z",
+                "end_utc": "2026-10-25T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-15",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-11-15T12:30:00Z",
+                "end_utc": "2026-11-15T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-22",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-11-22T12:30:00Z",
+                "end_utc": "2026-11-22T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-13",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-12-13T12:30:00Z",
+                "end_utc": "2026-12-13T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-10",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-01-10T12:30:00Z",
+                "end_utc": "2027-01-10T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-17",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-01-17T12:30:00Z",
+                "end_utc": "2027-01-17T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-24",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-01-24T12:30:00Z",
+                "end_utc": "2027-01-24T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-31",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-01-31T12:30:00Z",
+                "end_utc": "2027-01-31T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-14",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-02-14T12:30:00Z",
+                "end_utc": "2027-02-14T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-21",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-02-21T12:30:00Z",
+                "end_utc": "2027-02-21T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-28",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-02-28T12:30:00Z",
+                "end_utc": "2027-02-28T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-07",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-03-07T12:30:00Z",
+                "end_utc": "2027-03-07T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-14",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-03-14T12:30:00Z",
+                "end_utc": "2027-03-14T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-21",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-03-21T12:30:00Z",
+                "end_utc": "2027-03-21T14:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-11",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-04-11T11:30:00Z",
+                "end_utc": "2027-04-11T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-18",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-04-18T11:30:00Z",
+                "end_utc": "2027-04-18T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-25",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-04-25T11:30:00Z",
+                "end_utc": "2027-04-25T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-05-02",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-05-02T11:30:00Z",
+                "end_utc": "2027-05-02T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-05-16",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-05-16T11:30:00Z",
+                "end_utc": "2027-05-16T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-05-23",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-05-23T11:30:00Z",
+                "end_utc": "2027-05-23T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-06",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-06-06T11:30:00Z",
+                "end_utc": "2027-06-06T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-13",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-06-13T11:30:00Z",
+                "end_utc": "2027-06-13T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-20",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-06-20T11:30:00Z",
+                "end_utc": "2027-06-20T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-28",
+                "start_time": "13:30",
+                "end_time": "15:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-06-28T11:30:00Z",
+                "end_utc": "2027-06-28T13:30:00Z",
+                "topic": "Kids Life Skills · Digital Pioneers Innovators Studio",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza.",
+            "questions": [
+              "La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza."
+            ],
+            "delivery_mode": "in_person",
+            "admission_kind": "program"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 760,
+        "currency": "EUR",
+        "unit": "programme",
+        "label": "EUR 760 por curso.",
+        "included": "Se proporcionan robots. Se necesita tableta y portátil propios según las condiciones del grupo.",
+        "extras": "",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad publicada para este grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza."
+        }
+      },
+      "editorial_reason": "27 sesiones según calendario, octubre de 2026 a junio de 2027.",
+      "shortlist": [],
+      "questions": [
+        "La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza."
+      ],
+      "sources": [
+        {
+          "url": "https://www.kidslifeskills.org/en/courses/ages-6-7-continuing-en",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "ai"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-10-04",
+          "end": "2027-06-28",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2071-20261004-20270628-english-course"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2072",
+      "slug": "lux-kls-8-foundations",
+      "provider": "Kids Life Skills · Coding Leaders Foundations",
+      "country": "Luxemburgo",
+      "iso": "LUX",
+      "place": "PwC Academy · Gasperich · A8",
+      "age": "8–10 años.",
+      "programme": "Juegos en Scratch 3.0, robots Sphero y entrenamiento de un modelo en Machine Learning for Kids.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Enseñanza en inglés confirmada.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "27 sesiones según calendario, octubre de 2026 a junio de 2027.",
+        "sessions": [
+          [
+            "2026-10-04",
+            "2027-06-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "english-course",
+            "start": "2026-10-04",
+            "end": "2027-06-27",
+            "label": "Coding Leaders Foundations",
+            "price": "EUR 1080 por curso.",
+            "source": "https://www.kidslifeskills.org/en/courses/ages-8-10-beginner-en",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "waitlist",
+              "label": "Grupo completo. La organización ofrece lista de espera."
+            },
+            "sessions": [
+              {
+                "date": "2026-10-04",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-10-04T07:30:00Z",
+                "end_utc": "2026-10-04T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-11",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-10-11T07:30:00Z",
+                "end_utc": "2026-10-11T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-18",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-10-18T07:30:00Z",
+                "end_utc": "2026-10-18T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-25",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-10-25T08:30:00Z",
+                "end_utc": "2026-10-25T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-15",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-11-15T08:30:00Z",
+                "end_utc": "2026-11-15T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-22",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-11-22T08:30:00Z",
+                "end_utc": "2026-11-22T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-13",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-12-13T08:30:00Z",
+                "end_utc": "2026-12-13T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-10",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-01-10T08:30:00Z",
+                "end_utc": "2027-01-10T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-17",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-01-17T08:30:00Z",
+                "end_utc": "2027-01-17T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-24",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-01-24T08:30:00Z",
+                "end_utc": "2027-01-24T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-31",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-01-31T08:30:00Z",
+                "end_utc": "2027-01-31T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-14",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-02-14T08:30:00Z",
+                "end_utc": "2027-02-14T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-21",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-02-21T08:30:00Z",
+                "end_utc": "2027-02-21T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-28",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-02-28T08:30:00Z",
+                "end_utc": "2027-02-28T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-07",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-03-07T08:30:00Z",
+                "end_utc": "2027-03-07T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-14",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-03-14T08:30:00Z",
+                "end_utc": "2027-03-14T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-21",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-03-21T08:30:00Z",
+                "end_utc": "2027-03-21T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-11",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-04-11T07:30:00Z",
+                "end_utc": "2027-04-11T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-18",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-04-18T07:30:00Z",
+                "end_utc": "2027-04-18T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-25",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-04-25T07:30:00Z",
+                "end_utc": "2027-04-25T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-05-02",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-05-02T07:30:00Z",
+                "end_utc": "2027-05-02T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-05-16",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-05-16T07:30:00Z",
+                "end_utc": "2027-05-16T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-05-23",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-05-23T07:30:00Z",
+                "end_utc": "2027-05-23T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-06",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-06-06T07:30:00Z",
+                "end_utc": "2027-06-06T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-13",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-06-13T07:30:00Z",
+                "end_utc": "2027-06-13T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-20",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-06-20T07:30:00Z",
+                "end_utc": "2027-06-20T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-27",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-06-27T07:30:00Z",
+                "end_utc": "2027-06-27T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Foundations",
+                "ical_timed": true
+              }
+            ],
+            "entry": "Grupo completo. La organización ofrece lista de espera.",
+            "questions": [
+              "Grupo completo. La organización ofrece lista de espera."
+            ],
+            "delivery_mode": "in_person",
+            "admission_kind": "program"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 1080,
+        "currency": "EUR",
+        "unit": "programme",
+        "label": "EUR 1080 por curso.",
+        "included": "Se proporcionan robots. Se necesita tableta y portátil propios según las condiciones del grupo.",
+        "extras": "Para Foundations se indica alquiler de dispositivo por EUR 70, o EUR 40 con apoyo económico. Confirmar disponibilidad.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Grupo completo. La organización ofrece lista de espera."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad publicada para este grupo."
+        }
+      },
+      "editorial_reason": "27 sesiones según calendario, octubre de 2026 a junio de 2027.",
+      "shortlist": [],
+      "questions": [
+        "Grupo completo. La organización ofrece lista de espera."
+      ],
+      "sources": [
+        {
+          "url": "https://www.kidslifeskills.org/en/courses/ages-8-10-beginner-en",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "ai"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-10-04",
+          "end": "2027-06-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2072-20261004-20270627-english-course"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2073",
+      "slug": "lux-kls-8-studio",
+      "provider": "Kids Life Skills · Coding Leaders Innovators Studio",
+      "country": "Luxemburgo",
+      "iso": "LUX",
+      "place": "PwC Academy · Gasperich · A8",
+      "age": "8–10 años.",
+      "programme": "Para menores con experiencia. Juegos en Scratch 3.0 y MakeCode Arcade, robots autónomos y aplicación de IA generativa.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Enseñanza en inglés confirmada.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "regular_2026_27",
+        "label": "27 sesiones según calendario, octubre de 2026 a junio de 2027.",
+        "sessions": [
+          [
+            "2026-10-04",
+            "2027-06-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "english-course",
+            "start": "2026-10-04",
+            "end": "2027-06-27",
+            "label": "Coding Leaders Innovators Studio",
+            "price": "EUR 1080 por curso.",
+            "source": "https://www.kidslifeskills.org/en/courses/ages-8-10-continuing-en",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2026-10-04",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-10-04T07:30:00Z",
+                "end_utc": "2026-10-04T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-11",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-10-11T07:30:00Z",
+                "end_utc": "2026-10-11T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-18",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-10-18T07:30:00Z",
+                "end_utc": "2026-10-18T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-10-25",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-10-25T08:30:00Z",
+                "end_utc": "2026-10-25T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-15",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-11-15T08:30:00Z",
+                "end_utc": "2026-11-15T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-11-22",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-11-22T08:30:00Z",
+                "end_utc": "2026-11-22T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-13",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2026-12-13T08:30:00Z",
+                "end_utc": "2026-12-13T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-10",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-01-10T08:30:00Z",
+                "end_utc": "2027-01-10T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-17",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-01-17T08:30:00Z",
+                "end_utc": "2027-01-17T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-24",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-01-24T08:30:00Z",
+                "end_utc": "2027-01-24T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-31",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-01-31T08:30:00Z",
+                "end_utc": "2027-01-31T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-14",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-02-14T08:30:00Z",
+                "end_utc": "2027-02-14T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-21",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-02-21T08:30:00Z",
+                "end_utc": "2027-02-21T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-28",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-02-28T08:30:00Z",
+                "end_utc": "2027-02-28T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-07",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-03-07T08:30:00Z",
+                "end_utc": "2027-03-07T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-14",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-03-14T08:30:00Z",
+                "end_utc": "2027-03-14T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-21",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-03-21T08:30:00Z",
+                "end_utc": "2027-03-21T11:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-11",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-04-11T07:30:00Z",
+                "end_utc": "2027-04-11T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-18",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-04-18T07:30:00Z",
+                "end_utc": "2027-04-18T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-04-25",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-04-25T07:30:00Z",
+                "end_utc": "2027-04-25T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-05-02",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-05-02T07:30:00Z",
+                "end_utc": "2027-05-02T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-05-16",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-05-16T07:30:00Z",
+                "end_utc": "2027-05-16T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-05-23",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-05-23T07:30:00Z",
+                "end_utc": "2027-05-23T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-06",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-06-06T07:30:00Z",
+                "end_utc": "2027-06-06T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-13",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-06-13T07:30:00Z",
+                "end_utc": "2027-06-13T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-20",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-06-20T07:30:00Z",
+                "end_utc": "2027-06-20T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-06-27",
+                "start_time": "09:30",
+                "end_time": "12:30",
+                "timezone": "Europe/Luxembourg",
+                "start_utc": "2027-06-27T07:30:00Z",
+                "end_utc": "2027-06-27T10:30:00Z",
+                "topic": "Kids Life Skills · Coding Leaders Innovators Studio",
+                "ical_timed": true
+              }
+            ],
+            "entry": "La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza.",
+            "questions": [
+              "La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza."
+            ],
+            "delivery_mode": "in_person",
+            "admission_kind": "program"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 1080,
+        "currency": "EUR",
+        "unit": "programme",
+        "label": "EUR 1080 por curso.",
+        "included": "Se proporcionan robots. Se necesita tableta y portátil propios según las condiciones del grupo.",
+        "extras": "",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad publicada para este grupo."
+        }
+      },
+      "editorial_reason": "27 sesiones según calendario, octubre de 2026 a junio de 2027.",
+      "shortlist": [],
+      "questions": [
+        "La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza."
+      ],
+      "sources": [
+        {
+          "url": "https://www.kidslifeskills.org/en/courses/ages-8-10-continuing-en",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "games",
+        "ai"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-10-04",
+          "end": "2027-06-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2073-20261004-20270627-english-course"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2074",
+      "slug": "suriname-young-engineers-bricks-challenge",
+      "provider": "Young Engineers Paramaribo · Bricks Challenge",
+      "country": "Surinam",
+      "iso": "SUR",
+      "place": "Paramaribo · Jacob Reintjesstraat",
+      "age": "6–10 años.",
+      "programme": "Construcción con bloques y estudio de mecanismos simples. Cada clase dura 75 minutos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "El proveedor ofrece solicitud. Confirmar fechas, precio e idioma del grupo concreto.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "programme",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        }
+      },
+      "editorial_reason": "El proveedor ofrece solicitud. Confirmar fechas, precio e idioma del grupo concreto.",
+      "shortlist": [],
+      "questions": [
+        "El proveedor ofrece solicitud. Confirmar fechas, precio e idioma del grupo concreto."
+      ],
+      "sources": [
+        {
+          "url": "https://paramaribo.e2youngengineers.com/enrichment-programs/bricks-challenge-enrichment-program/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://paramaribo.e2youngengineers.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "makers",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L866"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2075",
+      "slug": "stemguyana-afterschool-robotics-clubs",
+      "provider": "STEMGuyana · After-school robotics and coding clubs",
+      "country": "Guyana",
+      "iso": "GUY",
+      "place": "Guyana · club locations",
+      "age": "Condicional. Confirmar edad, curso y admisión con la organización.",
+      "programme": "Clubes extraescolares de robótica y programación con distintas sedes en Guyana.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Existe la red de clubes. En la solicitud pública revisada se ofrecían matemáticas. Confirmar plazas, edades y admisión específica a robótica.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "programme",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad, curso y admisión con la organización."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar edad, curso y admisión con la organización."
+        }
+      },
+      "editorial_reason": "Existe la red de clubes. En la solicitud pública revisada se ofrecían matemáticas. Confirmar plazas, edades y admisión específica a robótica.",
+      "shortlist": [],
+      "questions": [
+        "Existe la red de clubes. En la solicitud pública revisada se ofrecían matemáticas. Confirmar plazas, edades y admisión específica a robótica."
+      ],
+      "sources": [
+        {
+          "url": "https://www.stemguyana.com/ready-for-tomorrow-preparing-guyanese-youth-for-careers-in-robotics-and-coding/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.stemguyana.com/?v=743462151791",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://register.k12youthcode.com/register/stem-club.php",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L868"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2076",
+      "slug": "madagascar-allforkids-scratch",
+      "provider": "AllForKids · Programmation Scratch",
+      "country": "Madagascar",
+      "iso": "MDG",
+      "place": "Ambatoroka · Antananarivo",
+      "age": "7–10 años.",
+      "programme": "Juegos y animaciones interactivas en Scratch.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en francés. Confirmar el idioma del grupo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "programme",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple. Mínimo de 7 años."
+        }
+      },
+      "editorial_reason": "Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.",
+      "shortlist": [],
+      "questions": [
+        "Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza."
+      ],
+      "sources": [
+        {
+          "url": "https://www.allforkids.mg/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L869"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP2077",
+      "slug": "madagascar-allforkids-robotics",
+      "provider": "AllForKids · Robotique & Domotique",
+      "country": "Madagascar",
+      "iso": "MDG",
+      "place": "Ambatoroka · Antananarivo",
+      "age": "7–10 años.",
+      "programme": "Fundamentos de electrónica y programación de robots pequeños.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción en francés. Confirmar el idioma del grupo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "programme",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No cumple. Mínimo de 7 años."
+        }
+      },
+      "editorial_reason": "Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.",
+      "shortlist": [],
+      "questions": [
+        "Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza."
+      ],
+      "sources": [
+        {
+          "url": "https://www.allforkids.mg/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "electronics"
+      ],
+      "programme_type": "day_course",
+      "catalog_participation": "day_course",
+      "related_event_ids": [
+        "L870"
+      ],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -359821,7 +361635,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 294,
+  "version": 295,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -373056,7 +374870,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2069,
+      "total_dossiers": 2077,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -396106,6 +397920,46 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2070",
+      "event_id": "CP2070-20261004-20270627-english-course",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2071",
+      "event_id": "CP2071-20261004-20270628-english-course",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2072",
+      "event_id": "CP2072-20261004-20270627-english-course",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2073",
+      "event_id": "CP2073-20261004-20270627-english-course",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2074",
+      "event_id": "L866",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2075",
+      "event_id": "L868",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2076",
+      "event_id": "L869",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP2077",
+      "event_id": "L870",
+      "relation": "related_track_or_operator"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -400853,10 +402707,14 @@
     "CP2056-20261212-20261212-day",
     "CP2057-20261219-20261219-day",
     "CP2058-20270102-20270102-day",
-    "CP2069-20261228-20261230-future-engineers"
+    "CP2069-20261228-20261230-future-engineers",
+    "CP2070-20261004-20270627-english-course",
+    "CP2071-20261004-20270628-english-course",
+    "CP2072-20261004-20270627-english-course",
+    "CP2073-20261004-20270627-english-course"
   ],
   "integration": {
-    "generated_sessions": 4337,
+    "generated_sessions": 4341,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

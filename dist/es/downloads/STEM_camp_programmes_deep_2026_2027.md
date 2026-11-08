@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Base actualizada al 2026-11-08. 2069 fichas en 132 países. Cada ficha indica las fechas de revisión de sus fuentes.
+Base actualizada al 2026-11-08. 2077 fichas en 135 países. Cada ficha indica las fechas de revisión de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -163581,6 +163581,568 @@ Taiwán · Curio Salon · Songshan · Taipei
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://www.curio.kids/products/future-engineers-winter-2026) · 2026-11-08
+
+## CP2070 · Kids Life Skills · Digital Pioneers Foundations
+
+Luxemburgo · PwC Academy · Gasperich · A7
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–7 años.
+
+**Idioma:** Enseñanza en inglés confirmada.
+
+**Programa:** ScratchJr, Code.org, robots y primeros modelos de reconocimiento de gestos y sonidos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 27 sesiones según calendario, octubre de 2026 a junio de 2027.
+
+**Precio / año:** 2026 · EUR 760 por curso.
+
+**Incluido:** Se proporcionan robots. Se necesita tableta y portátil propios según las condiciones del grupo.
+
+**Suplementos:** Para Foundations se indica alquiler de dispositivo por EUR 70, o EUR 40 con apoyo económico. Confirmar disponibilidad.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No cumple la edad publicada para este grupo.
+
+**Oscar:** Grupo completo. La organización ofrece lista de espera.
+
+**Motivo de selección:** 27 sesiones según calendario, octubre de 2026 a junio de 2027.
+
+### Antes de solicitar plaza
+
+- Grupo completo. La organización ofrece lista de espera.
+
+### Digital Pioneers Foundations
+
+**Fechas / estado:** 2026-10-04 — 2027-06-27
+
+**Precio:** EUR 760 por curso.
+
+**condiciones de participación:** Grupo completo. La organización ofrece lista de espera.
+
+- 2026-10-04 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2026-10-11 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2026-10-18 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2026-10-25 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2026-11-15 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2026-11-22 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2026-12-13 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-01-10 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-01-17 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-01-24 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-01-31 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-02-14 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-02-21 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-02-28 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-03-07 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-03-14 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-03-21 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-04-11 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-04-18 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-04-25 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-05-02 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-05-16 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-05-23 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-06-06 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-06-13 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-06-20 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+- 2027-06-27 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Foundations
+
+**Disponibilidad de plazas:** Grupo completo. La organización ofrece lista de espera.
+
+- Grupo completo. La organización ofrece lista de espera.
+
+[fuente](https://www.kidslifeskills.org/en/courses/ages-6-7-beginner-en)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.kidslifeskills.org/en/courses/ages-6-7-beginner-en) · 2026-11-08
+
+## CP2071 · Kids Life Skills · Digital Pioneers Innovators Studio
+
+Luxemburgo · PwC Academy · Gasperich · A4
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–7 años.
+
+**Idioma:** Enseñanza en inglés confirmada.
+
+**Programa:** Para menores con experiencia. Juegos Scratch 3.0, mandos físicos Makey Makey y modelos básicos de aprendizaje automático.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 27 sesiones según calendario, octubre de 2026 a junio de 2027.
+
+**Precio / año:** 2026 · EUR 760 por curso.
+
+**Incluido:** Se proporcionan robots. Se necesita tableta y portátil propios según las condiciones del grupo.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** No cumple la edad publicada para este grupo.
+
+**Oscar:** La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza.
+
+**Motivo de selección:** 27 sesiones según calendario, octubre de 2026 a junio de 2027.
+
+### Antes de solicitar plaza
+
+- La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza.
+
+### Digital Pioneers Innovators Studio
+
+**Fechas / estado:** 2026-10-04 — 2027-06-28
+
+**Precio:** EUR 760 por curso.
+
+**condiciones de participación:** La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza.
+
+- 2026-10-04 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2026-10-11 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2026-10-18 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2026-10-25 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2026-11-15 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2026-11-22 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2026-12-13 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-01-10 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-01-17 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-01-24 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-01-31 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-02-14 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-02-21 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-02-28 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-03-07 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-03-14 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-03-21 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-04-11 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-04-18 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-04-25 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-05-02 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-05-16 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-05-23 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-06-06 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-06-13 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-06-20 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+- 2027-06-28 · 13:30–15:30 · Europe/Luxembourg · Kids Life Skills · Digital Pioneers Innovators Studio
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza.
+
+[fuente](https://www.kidslifeskills.org/en/courses/ages-6-7-continuing-en)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.kidslifeskills.org/en/courses/ages-6-7-continuing-en) · 2026-11-08
+
+## CP2072 · Kids Life Skills · Coding Leaders Foundations
+
+Luxemburgo · PwC Academy · Gasperich · A8
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–10 años.
+
+**Idioma:** Enseñanza en inglés confirmada.
+
+**Programa:** Juegos en Scratch 3.0, robots Sphero y entrenamiento de un modelo en Machine Learning for Kids.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 27 sesiones según calendario, octubre de 2026 a junio de 2027.
+
+**Precio / año:** 2026 · EUR 1080 por curso.
+
+**Incluido:** Se proporcionan robots. Se necesita tableta y portátil propios según las condiciones del grupo.
+
+**Suplementos:** Para Foundations se indica alquiler de dispositivo por EUR 70, o EUR 40 con apoyo económico. Confirmar disponibilidad.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Grupo completo. La organización ofrece lista de espera.
+
+**Oscar:** No cumple la edad publicada para este grupo.
+
+**Motivo de selección:** 27 sesiones según calendario, octubre de 2026 a junio de 2027.
+
+### Antes de solicitar plaza
+
+- Grupo completo. La organización ofrece lista de espera.
+
+### Coding Leaders Foundations
+
+**Fechas / estado:** 2026-10-04 — 2027-06-27
+
+**Precio:** EUR 1080 por curso.
+
+**condiciones de participación:** Grupo completo. La organización ofrece lista de espera.
+
+- 2026-10-04 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2026-10-11 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2026-10-18 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2026-10-25 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2026-11-15 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2026-11-22 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2026-12-13 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-01-10 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-01-17 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-01-24 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-01-31 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-02-14 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-02-21 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-02-28 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-03-07 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-03-14 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-03-21 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-04-11 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-04-18 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-04-25 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-05-02 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-05-16 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-05-23 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-06-06 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-06-13 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-06-20 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+- 2027-06-27 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Foundations
+
+**Disponibilidad de plazas:** Grupo completo. La organización ofrece lista de espera.
+
+- Grupo completo. La organización ofrece lista de espera.
+
+[fuente](https://www.kidslifeskills.org/en/courses/ages-8-10-beginner-en)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.kidslifeskills.org/en/courses/ages-8-10-beginner-en) · 2026-11-08
+
+## CP2073 · Kids Life Skills · Coding Leaders Innovators Studio
+
+Luxemburgo · PwC Academy · Gasperich · A8
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–10 años.
+
+**Idioma:** Enseñanza en inglés confirmada.
+
+**Programa:** Para menores con experiencia. Juegos en Scratch 3.0 y MakeCode Arcade, robots autónomos y aplicación de IA generativa.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 27 sesiones según calendario, octubre de 2026 a junio de 2027.
+
+**Precio / año:** 2026 · EUR 1080 por curso.
+
+**Incluido:** Se proporcionan robots. Se necesita tableta y portátil propios según las condiciones del grupo.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza.
+
+**Oscar:** No cumple la edad publicada para este grupo.
+
+**Motivo de selección:** 27 sesiones según calendario, octubre de 2026 a junio de 2027.
+
+### Antes de solicitar plaza
+
+- La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza.
+
+### Coding Leaders Innovators Studio
+
+**Fechas / estado:** 2026-10-04 — 2027-06-27
+
+**Precio:** EUR 1080 por curso.
+
+**condiciones de participación:** La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza.
+
+- 2026-10-04 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2026-10-11 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2026-10-18 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2026-10-25 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2026-11-15 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2026-11-22 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2026-12-13 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-01-10 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-01-17 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-01-24 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-01-31 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-02-14 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-02-21 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-02-28 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-03-07 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-03-14 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-03-21 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-04-11 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-04-18 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-04-25 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-05-02 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-05-16 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-05-23 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-06-06 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-06-13 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-06-20 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+- 2027-06-27 · 09:30–12:30 · Europe/Luxembourg · Kids Life Skills · Coding Leaders Innovators Studio
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- La organización muestra solicitud y clase de prueba. Para nivel avanzado, confirmar nivel, admisión al curso ya iniciado y plaza.
+
+[fuente](https://www.kidslifeskills.org/en/courses/ages-8-10-continuing-en)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.kidslifeskills.org/en/courses/ages-8-10-continuing-en) · 2026-11-08
+
+## CP2074 · Young Engineers Paramaribo · Bricks Challenge
+
+Surinam · Paramaribo · Jacob Reintjesstraat
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–10 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Construcción con bloques y estudio de mecanismos simples. Cada clase dura 75 minutos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El proveedor ofrece solicitud. Confirmar fechas, precio e idioma del grupo concreto.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** El proveedor ofrece solicitud. Confirmar fechas, precio e idioma del grupo concreto.
+
+### Antes de solicitar plaza
+
+- El proveedor ofrece solicitud. Confirmar fechas, precio e idioma del grupo concreto.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://paramaribo.e2youngengineers.com/enrichment-programs/bricks-challenge-enrichment-program/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://paramaribo.e2youngengineers.com/) · 2026-11-08
+
+## CP2075 · STEMGuyana · After-school robotics and coding clubs
+
+Guyana · Guyana · club locations
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Condicional. Confirmar edad, curso y admisión con la organización.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Clubes extraescolares de robótica y programación con distintas sedes en Guyana.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Existe la red de clubes. En la solicitud pública revisada se ofrecían matemáticas. Confirmar plazas, edades y admisión específica a robótica.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Confirmar edad, curso y admisión con la organización.
+
+**Oscar:** Condicional. Confirmar edad, curso y admisión con la organización.
+
+**Motivo de selección:** Existe la red de clubes. En la solicitud pública revisada se ofrecían matemáticas. Confirmar plazas, edades y admisión específica a robótica.
+
+### Antes de solicitar plaza
+
+- Existe la red de clubes. En la solicitud pública revisada se ofrecían matemáticas. Confirmar plazas, edades y admisión específica a robótica.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.stemguyana.com/ready-for-tomorrow-preparing-guyanese-youth-for-careers-in-robotics-and-coding/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.stemguyana.com/?v=743462151791) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://register.k12youthcode.com/register/stem-club.php) · 2026-11-08
+
+## CP2076 · AllForKids · Programmation Scratch
+
+Madagascar · Ambatoroka · Antananarivo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–10 años.
+
+**Idioma:** Descripción en francés. Confirmar el idioma del grupo.
+
+**Programa:** Juegos y animaciones interactivas en Scratch.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** No cumple. Mínimo de 7 años.
+
+**Motivo de selección:** Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.
+
+### Antes de solicitar plaza
+
+- Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.allforkids.mg/) · 2026-11-08
+
+## CP2077 · AllForKids · Robotique & Domotique
+
+Madagascar · Ambatoroka · Antananarivo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 7–10 años.
+
+**Idioma:** Descripción en francés. Confirmar el idioma del grupo.
+
+**Programa:** Fundamentos de electrónica y programación de robots pequeños.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** No cumple. Mínimo de 7 años.
+
+**Motivo de selección:** Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.
+
+### Antes de solicitar plaza
+
+- Clases regulares los sábados de 2 horas y 30 minutos. Confirmar próximo inicio, precio e idioma de enseñanza.
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.allforkids.mg/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 
