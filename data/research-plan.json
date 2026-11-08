@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 301,
+    "version": 302,
     "status": "implementation_snapshot",
-    "events": 10744,
+    "events": 10775,
     "competitions": 4800,
     "league_profiles": 309,
-    "camp_dossiers": 2108,
+    "camp_dossiers": 2117,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -928,10 +928,10 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 300,
+    "version": 301,
     "status": "implementation_snapshot",
-    "events": 10731,
-    "competitions": 4788,
+    "events": 10744,
+    "competitions": 4800,
     "league_profiles": 309,
     "camp_dossiers": 2108,
     "budget_offers": 312,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 661,
+    "exhibitions_events": 662,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 301,
+    "prepared_ui_version": 302,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 300,
-    "previous_verified_commit": "dfff80f1a6c48cee57f240302035f3a415bf9cdf"
+    "previous_verified_ui_version": 301,
+    "previous_verified_commit": "9875747265726ed81fe36acb80cc4ef6d0533612"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 300,
-    "published_version": 300,
-    "latest_source_commit": "dfff80f1a6c48cee57f240302035f3a415bf9cdf",
-    "published_commit": "dfff80f1a6c48cee57f240302035f3a415bf9cdf",
-    "latest_workflow": 42522110228,
+    "latest_source_version": 301,
+    "published_version": 301,
+    "latest_source_commit": "9875747265726ed81fe36acb80cc4ef6d0533612",
+    "published_commit": "9875747265726ed81fe36acb80cc4ef6d0533612",
+    "latest_workflow": 42523873823,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -31334,5 +31334,107 @@
     },
     "audit": "data/regional-entry-and-robotics-rules-audit-v301.json",
     "source_receipts": "data/regional-entry-and-robotics-rules-source-receipts-v301.json"
+  },
+  "family_camp_windows_and_full_fees_v302": {
+    "version": 302,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "CP2109-20270121-20270203-drones",
+      "CP2110-20270315-20270319-week",
+      "CP2110-20270315-20270319-mon-wed-fri",
+      "CP2110-20270316-20270318-tue-thu",
+      "CP2111-20270315-20270319-week",
+      "CP2111-20270315-20270319-mon-wed-fri",
+      "CP2111-20270316-20270318-tue-thu",
+      "CP2112-20270628-20270702-week-1",
+      "CP2112-20270705-20270709-week-2",
+      "CP2112-20270712-20270716-week-3",
+      "CP2112-20270719-20270723-week-4",
+      "CP2112-20270726-20270730-week-5",
+      "CP2113-20270628-20270702-week-1",
+      "CP2113-20270705-20270709-week-2",
+      "CP2113-20270712-20270716-week-3",
+      "CP2113-20270719-20270723-week-4",
+      "CP2113-20270726-20270730-week-5",
+      "CP2114-20270628-20270702-week-1",
+      "CP2114-20270705-20270709-week-2",
+      "CP2114-20270712-20270716-week-3",
+      "CP2114-20270719-20270723-week-4",
+      "CP2114-20270726-20270730-week-5",
+      "CP2115-20270705-20270707-sampler",
+      "CP2116-20261221-20261223-christmas",
+      "CP2116-20270215-20270219-february-half-term",
+      "CP2116-20270405-20270409-easter-1",
+      "CP2116-20270412-20270416-easter-2",
+      "CP2116-20270601-20270604-may-half-term",
+      "CP2116-20270802-20270827-summer",
+      "CP2117-20270104-20270115-ciclo-1",
+      "CP2117-20270118-20270129-ciclo-2"
+    ],
+    "new_dossiers": [
+      "CP2109",
+      "CP2110",
+      "CP2111",
+      "CP2112",
+      "CP2113",
+      "CP2114",
+      "CP2115",
+      "CP2116",
+      "CP2117"
+    ],
+    "new_dated_variants": 31,
+    "refreshed_event_ids": [
+      "CP122-20270308-20270312",
+      "CP122-20270315-20270319",
+      "CP122-20270322-20270326",
+      "CP122-20270329-20270402",
+      "CP122-20270405-20270409",
+      "CP122-20270412-20270416",
+      "CP122-20270419-20270423",
+      "CP122-20270426-20270430",
+      "CP122-20270503-20270507"
+    ],
+    "legacy_overlay_event_ids": [],
+    "refreshed_dossiers": [
+      "CP122"
+    ],
+    "source_requests": 12,
+    "ameca": "CP2109",
+    "elev8": "CP122",
+    "elev8_refreshed": [
+      "CP122-20270308-20270312",
+      "CP122-20270315-20270319",
+      "CP122-20270322-20270326",
+      "CP122-20270329-20270402",
+      "CP122-20270405-20270409",
+      "CP122-20270412-20270416",
+      "CP122-20270419-20270423",
+      "CP122-20270426-20270430",
+      "CP122-20270503-20270507"
+    ],
+    "creative_kids": [
+      "CP2110",
+      "CP2111"
+    ],
+    "academy": [
+      "CP2112",
+      "CP2113",
+      "CP2114"
+    ],
+    "genius": "CP2115",
+    "horsforth": "CP2116",
+    "chicureo": "CP2117",
+    "source_limits": {
+      "ameca": "Published English instruction and required materials fee. School grade and actual places still require confirmation.",
+      "elev8": "Official schedule and booking agree on the week dates. Both language pages and the booking form now show Roppongi. Wednesday is an excursion.",
+      "creative": "Two tracks at one venue. English website alone does not verify the language of teaching. The sibling price depends on a coupon.",
+      "academy": "Weekly enrolment is published. Confirm the grade, curriculum and holiday-day exceptions for the chosen week.",
+      "horsforth": "General activity camp. Minecraft days and final per-day quote still require confirmation.",
+      "chicureo": "General day camp. Spanish source material does not independently verify instruction language."
+    },
+    "audit": "data/family-camp-windows-and-full-fees-audit-v302.json",
+    "source_receipts": "data/family-camp-windows-and-full-fees-source-receipts-v302.json"
   }
 }

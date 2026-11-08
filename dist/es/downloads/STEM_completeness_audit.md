@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 10744; competiciones: 4800; eventos: 662; campamentos / programas: 5282. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 563 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 10775; competiciones: 4800; eventos: 662; campamentos / programas: 5313. Perfiles de ligas y programas: 309. Fichas de exposiciones grandes y especializadas: 563 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,11 +14,11 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 1963 | 146 | 1332 |
-| América del Sur | 15 | 452 | 50 | 230 |
-| Europa | 55 | 629 | 136 | 1534 |
+| América del Norte | 41 | 1963 | 146 | 1354 |
+| América del Sur | 15 | 452 | 50 | 232 |
+| Europa | 55 | 629 | 136 | 1540 |
 | África | 60 | 247 | 40 | 130 |
-| Asia | 50 | 1175 | 158 | 1705 |
+| Asia | 50 | 1175 | 158 | 1706 |
 | Oceanía | 27 | 167 | 31 | 336 |
 
 Fichas interregionales o globales sin un solo continente asignado: 189. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base y la cobertura sigue siendo parcial.

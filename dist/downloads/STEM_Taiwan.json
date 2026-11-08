@@ -21621,6 +21621,175 @@
         "status": "unconfirmed",
         "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
       }
+    },
+    {
+      "id": "CP2109-20270121-20270203-drones",
+      "block": "Лагеря",
+      "title": "AMECA · English Drone Winter Camp · AMECA · English Drone Winter Camp · 2027-01-21–2027-02-03",
+      "country": "Тайвань",
+      "region": "Азия",
+      "city": "AMECA English School · No. 66, Sec. 2, Fuxing Road · Taichung",
+      "start": "2027-01-21",
+      "end": "2027-02-03",
+      "period": "С 21 января по 3 февраля 2027, 10 будних дней 09:00–17:00.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Начальная школа, классы 1–6. Возраст сам по себе не заменяет класс.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневной формат без проживания.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Сборка и управление дроном, правила безопасности, практические задания STEAM и выезды.",
+      "language": "Организатор прямо указывает, что преподавание всей смены проходит на английском.",
+      "cost": "2027 · 12 000 TWD + 1 500 TWD обязательных материалов = 13 500 TWD за ребёнка. Ранний тариф до 31 декабря 2026: 10 200 + 1 500 = 11 700 TWD при наличии места. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Уточнить оплату и возврат, а также выдаётся ли дрон домой.; Проверить эквивалент класса, наличие мест и допуск иностранных детей.",
+      "source": "https://amecaenglish.com/camp/",
+      "references": [
+        {
+          "url": "https://amecaenglish.com/camp/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://amecaenglish.com/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-08",
+      "status": "Идея",
+      "note": "Матвей: Условно. Подтвердить класс или его эквивалент и наличие места. Оскар: Условно. Подтвердить класс или его эквивалент и наличие места. Доплаты: Уточнить оплату и возврат, а также выдаётся ли дрон домой. Оплата: Условия возврата и итоговый счёт уточнить до оплаты.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "drones",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Организатор прямо указывает, что преподавание всей смены проходит на английском.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "ameca-taichung-drones-winter-2027",
+      "camp_programme_id": "CP2109",
+      "sessions": [
+        {
+          "date": "2027-01-21",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-01-21T01:00:00Z",
+          "end_utc": "2027-01-21T09:00:00Z",
+          "topic": "AMECA · English Drone Winter Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-22",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-01-22T01:00:00Z",
+          "end_utc": "2027-01-22T09:00:00Z",
+          "topic": "AMECA · English Drone Winter Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-25",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-01-25T01:00:00Z",
+          "end_utc": "2027-01-25T09:00:00Z",
+          "topic": "AMECA · English Drone Winter Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-01-26T01:00:00Z",
+          "end_utc": "2027-01-26T09:00:00Z",
+          "topic": "AMECA · English Drone Winter Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-01-27T01:00:00Z",
+          "end_utc": "2027-01-27T09:00:00Z",
+          "topic": "AMECA · English Drone Winter Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-28",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-01-28T01:00:00Z",
+          "end_utc": "2027-01-28T09:00:00Z",
+          "topic": "AMECA · English Drone Winter Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-01-29",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-01-29T01:00:00Z",
+          "end_utc": "2027-01-29T09:00:00Z",
+          "topic": "AMECA · English Drone Winter Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-01",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-02-01T01:00:00Z",
+          "end_utc": "2027-02-01T09:00:00Z",
+          "topic": "AMECA · English Drone Winter Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-02",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-02-02T01:00:00Z",
+          "end_utc": "2027-02-02T09:00:00Z",
+          "topic": "AMECA · English Drone Winter Camp",
+          "ical_timed": true
+        },
+        {
+          "date": "2027-02-03",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Asia/Taipei",
+          "start_utc": "2027-02-03T01:00:00Z",
+          "end_utc": "2027-02-03T09:00:00Z",
+          "topic": "AMECA · English Drone Winter Camp",
+          "ical_timed": true
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Организатор показывает даты. Фактические места и зачисление требуют подтверждения."
+      }
     }
   ]
 }

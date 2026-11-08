@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2108,
+    "dossiers": 2117,
     "countries": 136,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 289,
-      "published_2027": 557,
+      "published_2026_27": 290,
+      "published_2027": 565,
       "partial_2027": 152,
       "next_unannounced": 440,
       "published_2026": 426,
@@ -48,7 +48,7 @@
       "announced_dates_programme_pending": 6,
       "confirmed_2027": 1
     },
-    "source_urls": 3012
+    "source_urls": 3021
   },
   "countries": [
     {
@@ -253,7 +253,7 @@
     },
     {
       "country": "Canadá",
-      "count": 203
+      "count": 205
     },
     {
       "country": "Catar",
@@ -461,11 +461,11 @@
     },
     {
       "country": "Reino Unido",
-      "count": 27
+      "count": 28
     },
     {
       "country": "Estados Unidos",
-      "count": 159
+      "count": 163
     },
     {
       "country": "Surinam",
@@ -485,7 +485,7 @@
     },
     {
       "country": "Taiwán",
-      "count": 174
+      "count": 175
     },
     {
       "country": "Trinidad y Tobago",
@@ -549,7 +549,7 @@
     },
     {
       "country": "Chile",
-      "count": 40
+      "count": 41
     },
     {
       "country": "Suiza",
@@ -21120,119 +21120,155 @@
           {
             "start": "2027-03-08",
             "end": "2027-03-12",
-            "label": "5 días · elegir los módulos",
-            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "label": "Spring 1",
+            "price": "120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.",
             "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
             "source": "https://www.elev8.co.jp/spring-camp",
             "formats": [
               "day"
             ],
             "date_scope": "day_camp_window",
-            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+            "proof": "Campamento diurno con nivel de programación a elegir. El miércoles se dedica a una salida. Confirmar la hora y el lugar de encuentro.",
+            "questions": [
+              "Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido."
+            ],
+            "delivery_mode": "in_person"
           },
           {
             "start": "2027-03-15",
             "end": "2027-03-19",
-            "label": "5 días · elegir los módulos",
-            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "label": "Spring 2",
+            "price": "120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.",
             "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
             "source": "https://www.elev8.co.jp/spring-camp",
             "formats": [
               "day"
             ],
             "date_scope": "day_camp_window",
-            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+            "proof": "Campamento diurno con nivel de programación a elegir. El miércoles se dedica a una salida. Confirmar la hora y el lugar de encuentro.",
+            "questions": [
+              "Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido."
+            ],
+            "delivery_mode": "in_person"
           },
           {
             "start": "2027-03-22",
             "end": "2027-03-26",
-            "label": "5 días · elegir los módulos",
-            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "label": "Spring 3",
+            "price": "120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.",
             "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
             "source": "https://www.elev8.co.jp/spring-camp",
             "formats": [
               "day"
             ],
             "date_scope": "day_camp_window",
-            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+            "proof": "Campamento diurno con nivel de programación a elegir. El miércoles se dedica a una salida. Confirmar la hora y el lugar de encuentro.",
+            "questions": [
+              "Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido."
+            ],
+            "delivery_mode": "in_person"
           },
           {
             "start": "2027-03-29",
             "end": "2027-04-02",
-            "label": "5 días · elegir los módulos",
-            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "label": "Easter 1",
+            "price": "120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.",
             "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
             "source": "https://www.elev8.co.jp/spring-camp",
             "formats": [
               "day"
             ],
             "date_scope": "day_camp_window",
-            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+            "proof": "Campamento diurno con nivel de programación a elegir. El miércoles se dedica a una salida. Confirmar la hora y el lugar de encuentro.",
+            "questions": [
+              "Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido."
+            ],
+            "delivery_mode": "in_person"
           },
           {
             "start": "2027-04-05",
             "end": "2027-04-09",
-            "label": "5 días · elegir los módulos",
-            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "label": "Easter 2",
+            "price": "120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.",
             "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
             "source": "https://www.elev8.co.jp/spring-camp",
             "formats": [
               "day"
             ],
             "date_scope": "day_camp_window",
-            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+            "proof": "Campamento diurno con nivel de programación a elegir. El miércoles se dedica a una salida. Confirmar la hora y el lugar de encuentro.",
+            "questions": [
+              "Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido."
+            ],
+            "delivery_mode": "in_person"
           },
           {
             "start": "2027-04-12",
             "end": "2027-04-16",
-            "label": "5 días · elegir los módulos",
-            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "label": "Spring 4",
+            "price": "120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.",
             "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
             "source": "https://www.elev8.co.jp/spring-camp",
             "formats": [
               "day"
             ],
             "date_scope": "day_camp_window",
-            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+            "proof": "Campamento diurno con nivel de programación a elegir. El miércoles se dedica a una salida. Confirmar la hora y el lugar de encuentro.",
+            "questions": [
+              "Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido."
+            ],
+            "delivery_mode": "in_person"
           },
           {
             "start": "2027-04-19",
             "end": "2027-04-23",
-            "label": "5 días · elegir los módulos",
-            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "label": "Spring 5",
+            "price": "120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.",
             "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
             "source": "https://www.elev8.co.jp/spring-camp",
             "formats": [
               "day"
             ],
             "date_scope": "day_camp_window",
-            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+            "proof": "Campamento diurno con nivel de programación a elegir. El miércoles se dedica a una salida. Confirmar la hora y el lugar de encuentro.",
+            "questions": [
+              "Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido."
+            ],
+            "delivery_mode": "in_person"
           },
           {
             "start": "2027-04-26",
             "end": "2027-04-30",
-            "label": "5 días · elegir los módulos",
-            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "label": "Spring 6",
+            "price": "120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.",
             "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
             "source": "https://www.elev8.co.jp/spring-camp",
             "formats": [
               "day"
             ],
             "date_scope": "day_camp_window",
-            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+            "proof": "Campamento diurno con nivel de programación a elegir. El miércoles se dedica a una salida. Confirmar la hora y el lugar de encuentro.",
+            "questions": [
+              "Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido."
+            ],
+            "delivery_mode": "in_person"
           },
           {
             "start": "2027-05-03",
             "end": "2027-05-07",
-            "label": "5 días · elegir los módulos",
-            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "label": "Golden Week",
+            "price": "120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.",
             "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
             "source": "https://www.elev8.co.jp/spring-camp",
             "formats": [
               "day"
             ],
             "date_scope": "day_camp_window",
-            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+            "proof": "Campamento diurno con nivel de programación a elegir. El miércoles se dedica a una salida. Confirmar la hora y el lugar de encuentro.",
+            "questions": [
+              "Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido."
+            ],
+            "delivery_mode": "in_person"
           }
         ],
         "precision": "published_sessions"
@@ -21262,7 +21298,8 @@
         "technical"
       ],
       "questions": [
-        "confirmar el módulo/nivel elegido y su disponibilidad; lugares libres, horas y rutas de medio ambiente precisas; necesitar un contacto de emergencia disponible en Japón."
+        "confirmar el módulo/nivel elegido y su disponibilidad; lugares libres, horas y rutas de medio ambiente precisas; necesitar un contacto de emergencia disponible en Japón.",
+        "Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido."
       ],
       "sources": [
         {
@@ -21273,20 +21310,30 @@
         {
           "title": "Spring / Easter 2027",
           "url": "https://www.elev8.co.jp/spring-camp",
-          "checked": "2026-11-06"
+          "checked": "2026-11-08"
         },
         {
           "title": "Coding: Inglés y niveles",
           "url": "https://www.elev8.co.jp/coding-summer-camp",
-          "checked": "2026-11-06"
+          "checked": "2026-11-08"
         },
         {
           "title": "Terms: pago, transporte, crédito, seguro",
           "url": "https://www.elev8.co.jp/camp-terms-and-conditions",
-          "checked": "2026-11-06"
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.elev8.co.jp/ja/spring-camp",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.elev8.co.jp/camp-registration",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
         }
       ],
-      "checked": "2026-11-06",
+      "checked": "2026-11-08",
       "previous_source_checks": [
         {
           "title": "otoño/invierno 2026/27, fechas y precios",
@@ -361785,6 +361832,2216 @@
         "L880"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP2109",
+      "slug": "ameca-taichung-drones-winter-2027",
+      "provider": "AMECA · English Drone Winter Camp",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "AMECA English School · No. 66, Sec. 2, Fuxing Road · Taichung",
+      "age": "Primaria, cursos 1–6. La edad por sí sola no sustituye el curso.",
+      "programme": "Montaje y pilotaje de drones, normas de seguridad, actividades prácticas STEAM y salidas.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La organización indica expresamente que toda la enseñanza del turno se realiza en inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "timing": {
+        "status": "published_2027",
+        "label": "Del 21 de enero al 3 de febrero de 2027, 10 días laborables de 09:00 a 17:00.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "drones",
+            "start": "2027-01-21",
+            "end": "2027-02-03",
+            "label": "AMECA · English Drone Winter Camp",
+            "price": "12 000 TWD + 1 500 TWD de materiales obligatorios = 13 500 TWD por menor. Tarifa anticipada hasta el 31 de diciembre de 2026: 10 200 + 1 500 = 11 700 TWD si hay plaza.",
+            "source": "https://amecaenglish.com/camp/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2027-01-21T01:00:00Z",
+                "end_utc": "2027-01-21T09:00:00Z",
+                "topic": "AMECA · English Drone Winter Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2027-01-22T01:00:00Z",
+                "end_utc": "2027-01-22T09:00:00Z",
+                "topic": "AMECA · English Drone Winter Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2027-01-25T01:00:00Z",
+                "end_utc": "2027-01-25T09:00:00Z",
+                "topic": "AMECA · English Drone Winter Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2027-01-26T01:00:00Z",
+                "end_utc": "2027-01-26T09:00:00Z",
+                "topic": "AMECA · English Drone Winter Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2027-01-27T01:00:00Z",
+                "end_utc": "2027-01-27T09:00:00Z",
+                "topic": "AMECA · English Drone Winter Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2027-01-28T01:00:00Z",
+                "end_utc": "2027-01-28T09:00:00Z",
+                "topic": "AMECA · English Drone Winter Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2027-01-29T01:00:00Z",
+                "end_utc": "2027-01-29T09:00:00Z",
+                "topic": "AMECA · English Drone Winter Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-01",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2027-02-01T01:00:00Z",
+                "end_utc": "2027-02-01T09:00:00Z",
+                "topic": "AMECA · English Drone Winter Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2027-02-02T01:00:00Z",
+                "end_utc": "2027-02-02T09:00:00Z",
+                "topic": "AMECA · English Drone Winter Camp",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-02-03",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Taipei",
+                "start_utc": "2027-02-03T01:00:00Z",
+                "end_utc": "2027-02-03T09:00:00Z",
+                "topic": "AMECA · English Drone Winter Camp",
+                "ical_timed": true
+              }
+            ],
+            "place": "AMECA English School · No. 66, Sec. 2, Fuxing Road · Taichung",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 13500,
+        "currency": "TWD",
+        "unit": "session",
+        "label": "12 000 TWD + 1 500 TWD de materiales obligatorios = 13 500 TWD por menor. Tarifa anticipada hasta el 31 de diciembre de 2026: 10 200 + 1 500 = 11 700 TWD si hay plaza.",
+        "included": "Almuerzo, entradas y transporte de las salidas. Los materiales son obligatorios y figuran por separado en el total.",
+        "extras": "Confirmar pago y devolución, y si se puede llevar el dron a casa.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar el curso o su equivalencia y la disponibilidad."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar el curso o su equivalencia y la disponibilidad."
+        }
+      },
+      "editorial_reason": "Del 21 de enero al 3 de febrero de 2027, 10 días laborables de 09:00 a 17:00.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar pago y devolución, y si se puede llevar el dron a casa.",
+        "Confirmar la equivalencia del curso, las plazas y la admisión de niños extranjeros."
+      ],
+      "sources": [
+        {
+          "url": "https://amecaenglish.com/camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://amecaenglish.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "drones",
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-21",
+          "end": "2027-02-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2109-20270121-20270203-drones"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2110",
+      "slug": "creative-kids-place-mississauga-robotics-2027",
+      "provider": "Creative Kids Place · LEGO SPIKE Essential",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Mississauga · 3195 The Collegeway · MSBA",
+      "age": "De 5 a 8 años.",
+      "programme": "Construcción y programación de modelos LEGO SPIKE Essential.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2027",
+        "label": "15–19 de marzo de 2027. Dos programas en el mismo edificio de 09:00 a 16:00. Hay paquetes parciales de 3 y 2 días.",
+        "sessions": [
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ],
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ],
+          [
+            "2027-03-16",
+            "2027-03-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "week",
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "LEGO SPIKE Essential",
+            "price": "5 días, 350 CAD más impuestos.",
+            "source": "https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-15",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-15T13:00:00Z",
+                "end_utc": "2027-03-15T20:00:00Z",
+                "topic": "LEGO SPIKE Essential",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-16",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-16T13:00:00Z",
+                "end_utc": "2027-03-16T20:00:00Z",
+                "topic": "LEGO SPIKE Essential",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-17",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-17T13:00:00Z",
+                "end_utc": "2027-03-17T20:00:00Z",
+                "topic": "LEGO SPIKE Essential",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-18",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-18T13:00:00Z",
+                "end_utc": "2027-03-18T20:00:00Z",
+                "topic": "LEGO SPIKE Essential",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-19",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-19T13:00:00Z",
+                "end_utc": "2027-03-19T20:00:00Z",
+                "topic": "LEGO SPIKE Essential",
+                "ical_timed": true
+              }
+            ],
+            "place": "Mississauga · 3195 The Collegeway · MSBA",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "mon-wed-fri",
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "LEGO SPIKE Essential",
+            "price": "3 días, 210 CAD más impuestos.",
+            "source": "https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-15",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-15T13:00:00Z",
+                "end_utc": "2027-03-15T20:00:00Z",
+                "topic": "LEGO SPIKE Essential",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-17",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-17T13:00:00Z",
+                "end_utc": "2027-03-17T20:00:00Z",
+                "topic": "LEGO SPIKE Essential",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-19",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-19T13:00:00Z",
+                "end_utc": "2027-03-19T20:00:00Z",
+                "topic": "LEGO SPIKE Essential",
+                "ical_timed": true
+              }
+            ],
+            "place": "Mississauga · 3195 The Collegeway · MSBA",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "tue-thu",
+            "start": "2027-03-16",
+            "end": "2027-03-18",
+            "label": "LEGO SPIKE Essential",
+            "price": "2 días, 140 CAD más impuestos.",
+            "source": "https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-16",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-16T13:00:00Z",
+                "end_utc": "2027-03-16T20:00:00Z",
+                "topic": "LEGO SPIKE Essential",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-18",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-18T13:00:00Z",
+                "end_utc": "2027-03-18T20:00:00Z",
+                "topic": "LEGO SPIKE Essential",
+                "ical_timed": true
+              }
+            ],
+            "place": "Mississauga · 3195 The Collegeway · MSBA",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 350,
+        "currency": "CAD",
+        "unit": "week",
+        "label": "350 CAD por 5 días, 210 CAD por 3 días o 140 CAD por 2 días, más impuestos. Con 5 días, cupón de 20 CAD para el segundo menor. Para dos con cupón, 680 CAD más impuestos.",
+        "included": "El miércoles hay una excursión, el jueves un espectáculo de animales, el viernes carnaval y almuerzo de pizza. Los otros días llevar almuerzo y 2 refrigerios.",
+        "extras": "Cuidado de mañana y de tarde a 40 CAD por cada bloque semanal por menor más HST. Para días sueltos, 8 CAD por bloque más HST.",
+        "deposit": "Cancelación por escrito con 2 semanas de antelación. Cargo de 40 CAD por semana u 8 CAD por día suelto por menor."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Supera el límite de edad publicado."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        }
+      },
+      "editorial_reason": "15–19 de marzo de 2027. Dos programas en el mismo edificio de 09:00 a 16:00. Hay paquetes parciales de 3 y 2 días.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar ambas plazas en el mismo paquete, el idioma del grupo y la aplicación del cupón."
+      ],
+      "sources": [
+        {
+          "url": "https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "pairing": {
+        "venue_id": "creative-kids-place-mississauga-west-collegeway",
+        "verified_source": "https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west",
+        "checked": "2026-11-08"
+      },
+      "calendar_links": [
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2110-20270315-20270319-week"
+          ]
+        },
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2110-20270315-20270319-mon-wed-fri"
+          ]
+        },
+        {
+          "start": "2027-03-16",
+          "end": "2027-03-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2110-20270316-20270318-tue-thu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2111",
+      "slug": "creative-kids-place-mississauga-stem-2027",
+      "provider": "Creative Kids Place · STEM & Codey Rocky",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Mississauga · 3195 The Collegeway · MSBA",
+      "age": "8–12 años.",
+      "programme": "Retos de ingeniería, experimentos y programación de Codey Rocky.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2027",
+        "label": "15–19 de marzo de 2027. Dos programas en el mismo edificio de 09:00 a 16:00. Hay paquetes parciales de 3 y 2 días.",
+        "sessions": [
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ],
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ],
+          [
+            "2027-03-16",
+            "2027-03-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "week",
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "STEM & Codey Rocky",
+            "price": "5 días, 350 CAD más impuestos.",
+            "source": "https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-15",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-15T13:00:00Z",
+                "end_utc": "2027-03-15T20:00:00Z",
+                "topic": "STEM & Codey Rocky",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-16",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-16T13:00:00Z",
+                "end_utc": "2027-03-16T20:00:00Z",
+                "topic": "STEM & Codey Rocky",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-17",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-17T13:00:00Z",
+                "end_utc": "2027-03-17T20:00:00Z",
+                "topic": "STEM & Codey Rocky",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-18",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-18T13:00:00Z",
+                "end_utc": "2027-03-18T20:00:00Z",
+                "topic": "STEM & Codey Rocky",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-19",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-19T13:00:00Z",
+                "end_utc": "2027-03-19T20:00:00Z",
+                "topic": "STEM & Codey Rocky",
+                "ical_timed": true
+              }
+            ],
+            "place": "Mississauga · 3195 The Collegeway · MSBA",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "mon-wed-fri",
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "STEM & Codey Rocky",
+            "price": "3 días, 210 CAD más impuestos.",
+            "source": "https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-15",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-15T13:00:00Z",
+                "end_utc": "2027-03-15T20:00:00Z",
+                "topic": "STEM & Codey Rocky",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-17",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-17T13:00:00Z",
+                "end_utc": "2027-03-17T20:00:00Z",
+                "topic": "STEM & Codey Rocky",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-19",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-19T13:00:00Z",
+                "end_utc": "2027-03-19T20:00:00Z",
+                "topic": "STEM & Codey Rocky",
+                "ical_timed": true
+              }
+            ],
+            "place": "Mississauga · 3195 The Collegeway · MSBA",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "tue-thu",
+            "start": "2027-03-16",
+            "end": "2027-03-18",
+            "label": "STEM & Codey Rocky",
+            "price": "2 días, 140 CAD más impuestos.",
+            "source": "https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-03-16",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-16T13:00:00Z",
+                "end_utc": "2027-03-16T20:00:00Z",
+                "topic": "STEM & Codey Rocky",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-18",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "start_utc": "2027-03-18T13:00:00Z",
+                "end_utc": "2027-03-18T20:00:00Z",
+                "topic": "STEM & Codey Rocky",
+                "ical_timed": true
+              }
+            ],
+            "place": "Mississauga · 3195 The Collegeway · MSBA",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 350,
+        "currency": "CAD",
+        "unit": "week",
+        "label": "350 CAD por 5 días, 210 CAD por 3 días o 140 CAD por 2 días, más impuestos. Con 5 días, cupón de 20 CAD para el segundo menor. Para dos con cupón, 680 CAD más impuestos.",
+        "included": "El miércoles hay una excursión, el jueves un espectáculo de animales, el viernes carnaval y almuerzo de pizza. Los otros días llevar almuerzo y 2 refrigerios.",
+        "extras": "Cuidado de mañana y de tarde a 40 CAD por cada bloque semanal por menor más HST. Para días sueltos, 8 CAD por bloque más HST.",
+        "deposit": "Cancelación por escrito con 2 semanas de antelación. Cargo de 40 CAD por semana u 8 CAD por día suelto por menor."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No cumple la edad mínima publicada."
+        }
+      },
+      "editorial_reason": "15–19 de marzo de 2027. Dos programas en el mismo edificio de 09:00 a 16:00. Hay paquetes parciales de 3 y 2 días.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar ambas plazas en el mismo paquete, el idioma del grupo y la aplicación del cupón."
+      ],
+      "sources": [
+        {
+          "url": "https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "robotics",
+        "coding",
+        "science"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "pairing": {
+        "venue_id": "creative-kids-place-mississauga-west-collegeway",
+        "verified_source": "https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west",
+        "checked": "2026-11-08"
+      },
+      "calendar_links": [
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2111-20270315-20270319-week"
+          ]
+        },
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2111-20270315-20270319-mon-wed-fri"
+          ]
+        },
+        {
+          "start": "2027-03-16",
+          "end": "2027-03-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2111-20270316-20270318-tue-thu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2112",
+      "slug": "stem-afterschool-academy-rockville-budding-2027",
+      "provider": "STEM Afterschool Academy · Budding Engineers",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "College Gardens Elementary School · Rockville, MD",
+      "age": "Cursos K–1 en el siguiente año escolar.",
+      "programme": "Proyectos de ingeniería y ciencia con actividades prácticas. Confirmar el itinerario de robótica y el contenido semanal del grupo.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2027",
+        "label": "Del 28 de junio al 30 de julio de 2027. La organización ofrece inscripción por semanas, normalmente de 09:00 a 16:00.",
+        "sessions": [
+          [
+            "2027-06-28",
+            "2027-07-02"
+          ],
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "week-1",
+            "start": "2027-06-28",
+            "end": "2027-07-02",
+            "label": "Budding Engineers",
+            "price": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+            "source": "https://www.stemafterschoolacademy.com/programs-and-camps",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "College Gardens Elementary School · Rockville, MD",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "questions": [
+              "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+            ]
+          },
+          {
+            "variant_key": "week-2",
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "label": "Budding Engineers",
+            "price": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+            "source": "https://www.stemafterschoolacademy.com/programs-and-camps",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "College Gardens Elementary School · Rockville, MD",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "questions": [
+              "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+            ]
+          },
+          {
+            "variant_key": "week-3",
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Budding Engineers",
+            "price": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+            "source": "https://www.stemafterschoolacademy.com/programs-and-camps",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "College Gardens Elementary School · Rockville, MD",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "questions": [
+              "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+            ]
+          },
+          {
+            "variant_key": "week-4",
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "Budding Engineers",
+            "price": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+            "source": "https://www.stemafterschoolacademy.com/programs-and-camps",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "College Gardens Elementary School · Rockville, MD",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "questions": [
+              "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+            ]
+          },
+          {
+            "variant_key": "week-5",
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "Budding Engineers",
+            "price": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+            "source": "https://www.stemafterschoolacademy.com/programs-and-camps",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "College Gardens Elementary School · Rockville, MD",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "questions": [
+              "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 395,
+        "currency": "USD",
+        "unit": "week",
+        "label": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+        "included": "Los materiales están incluidos.",
+        "extras": "Horario ampliado de 16:00 a 18:00 por 45 USD semanales.",
+        "deposit": "Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar el curso o su equivalencia y la disponibilidad."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar el curso o su equivalencia y la disponibilidad."
+        }
+      },
+      "editorial_reason": "Del 28 de junio al 30 de julio de 2027. La organización ofrece inscripción por semanas, normalmente de 09:00 a 16:00.",
+      "shortlist": [],
+      "questions": [
+        "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+      ],
+      "sources": [
+        {
+          "url": "https://www.stemafterschoolacademy.com/programs-and-camps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "calendar_links": [
+        {
+          "start": "2027-06-28",
+          "end": "2027-07-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2112-20270628-20270702-week-1"
+          ]
+        },
+        {
+          "start": "2027-07-05",
+          "end": "2027-07-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2112-20270705-20270709-week-2"
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2112-20270712-20270716-week-3"
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2112-20270719-20270723-week-4"
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2112-20270726-20270730-week-5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2113",
+      "slug": "stem-afterschool-academy-rockville-young-2027",
+      "provider": "STEM Afterschool Academy · Young Engineers",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "College Gardens Elementary School · Rockville, MD",
+      "age": "Cursos 2–3 en el siguiente año escolar.",
+      "programme": "Proyectos de ingeniería y ciencia con actividades prácticas. Confirmar el itinerario de robótica y el contenido semanal del grupo.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2027",
+        "label": "Del 28 de junio al 30 de julio de 2027. La organización ofrece inscripción por semanas, normalmente de 09:00 a 16:00.",
+        "sessions": [
+          [
+            "2027-06-28",
+            "2027-07-02"
+          ],
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "week-1",
+            "start": "2027-06-28",
+            "end": "2027-07-02",
+            "label": "Young Engineers",
+            "price": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+            "source": "https://www.stemafterschoolacademy.com/programs-and-camps",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "College Gardens Elementary School · Rockville, MD",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "questions": [
+              "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+            ]
+          },
+          {
+            "variant_key": "week-2",
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "label": "Young Engineers",
+            "price": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+            "source": "https://www.stemafterschoolacademy.com/programs-and-camps",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "College Gardens Elementary School · Rockville, MD",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "questions": [
+              "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+            ]
+          },
+          {
+            "variant_key": "week-3",
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Young Engineers",
+            "price": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+            "source": "https://www.stemafterschoolacademy.com/programs-and-camps",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "College Gardens Elementary School · Rockville, MD",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "questions": [
+              "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+            ]
+          },
+          {
+            "variant_key": "week-4",
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "Young Engineers",
+            "price": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+            "source": "https://www.stemafterschoolacademy.com/programs-and-camps",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "College Gardens Elementary School · Rockville, MD",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "questions": [
+              "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+            ]
+          },
+          {
+            "variant_key": "week-5",
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "Young Engineers",
+            "price": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+            "source": "https://www.stemafterschoolacademy.com/programs-and-camps",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "College Gardens Elementary School · Rockville, MD",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "questions": [
+              "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 395,
+        "currency": "USD",
+        "unit": "week",
+        "label": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+        "included": "Los materiales están incluidos.",
+        "extras": "Horario ampliado de 16:00 a 18:00 por 45 USD semanales.",
+        "deposit": "Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar el curso o su equivalencia y la disponibilidad."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar el curso o su equivalencia y la disponibilidad."
+        }
+      },
+      "editorial_reason": "Del 28 de junio al 30 de julio de 2027. La organización ofrece inscripción por semanas, normalmente de 09:00 a 16:00.",
+      "shortlist": [],
+      "questions": [
+        "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+      ],
+      "sources": [
+        {
+          "url": "https://www.stemafterschoolacademy.com/programs-and-camps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "calendar_links": [
+        {
+          "start": "2027-06-28",
+          "end": "2027-07-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2113-20270628-20270702-week-1"
+          ]
+        },
+        {
+          "start": "2027-07-05",
+          "end": "2027-07-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2113-20270705-20270709-week-2"
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2113-20270712-20270716-week-3"
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2113-20270719-20270723-week-4"
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2113-20270726-20270730-week-5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2114",
+      "slug": "stem-afterschool-academy-rockville-explorers-2027",
+      "provider": "STEM Afterschool Academy · STEM Explorers",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "College Gardens Elementary School · Rockville, MD",
+      "age": "Cursos 4–6 en el siguiente año escolar.",
+      "programme": "Proyectos de ingeniería y ciencia con actividades prácticas. Confirmar el itinerario de robótica y el contenido semanal del grupo.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2027",
+        "label": "Del 28 de junio al 30 de julio de 2027. La organización ofrece inscripción por semanas, normalmente de 09:00 a 16:00.",
+        "sessions": [
+          [
+            "2027-06-28",
+            "2027-07-02"
+          ],
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "week-1",
+            "start": "2027-06-28",
+            "end": "2027-07-02",
+            "label": "STEM Explorers",
+            "price": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+            "source": "https://www.stemafterschoolacademy.com/programs-and-camps",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "College Gardens Elementary School · Rockville, MD",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "questions": [
+              "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+            ]
+          },
+          {
+            "variant_key": "week-2",
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "label": "STEM Explorers",
+            "price": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+            "source": "https://www.stemafterschoolacademy.com/programs-and-camps",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "College Gardens Elementary School · Rockville, MD",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "questions": [
+              "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+            ]
+          },
+          {
+            "variant_key": "week-3",
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "STEM Explorers",
+            "price": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+            "source": "https://www.stemafterschoolacademy.com/programs-and-camps",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "College Gardens Elementary School · Rockville, MD",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "questions": [
+              "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+            ]
+          },
+          {
+            "variant_key": "week-4",
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "STEM Explorers",
+            "price": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+            "source": "https://www.stemafterschoolacademy.com/programs-and-camps",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "College Gardens Elementary School · Rockville, MD",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "questions": [
+              "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+            ]
+          },
+          {
+            "variant_key": "week-5",
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "STEM Explorers",
+            "price": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+            "source": "https://www.stemafterschoolacademy.com/programs-and-camps",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "College Gardens Elementary School · Rockville, MD",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person",
+            "questions": [
+              "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 395,
+        "currency": "USD",
+        "unit": "week",
+        "label": "395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.",
+        "included": "Los materiales están incluidos.",
+        "extras": "Horario ampliado de 16:00 a 18:00 por 45 USD semanales.",
+        "deposit": "Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar el curso o su equivalencia y la disponibilidad."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar el curso o su equivalencia y la disponibilidad."
+        }
+      },
+      "editorial_reason": "Del 28 de junio al 30 de julio de 2027. La organización ofrece inscripción por semanas, normalmente de 09:00 a 16:00.",
+      "shortlist": [],
+      "questions": [
+        "El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción."
+      ],
+      "sources": [
+        {
+          "url": "https://www.stemafterschoolacademy.com/programs-and-camps",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "calendar_links": [
+        {
+          "start": "2027-06-28",
+          "end": "2027-07-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2114-20270628-20270702-week-1"
+          ]
+        },
+        {
+          "start": "2027-07-05",
+          "end": "2027-07-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2114-20270705-20270709-week-2"
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2114-20270712-20270716-week-3"
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2114-20270719-20270723-week-4"
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2114-20270726-20270730-week-5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2115",
+      "slug": "camp-genius-elementary-stem-sampler-2027",
+      "provider": "Camp Genius · Elementary STEM Sampler",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Camp Genius · 155 Lee Street · Johnston, SC",
+      "age": "La organización indica Elementary School. No publica cursos ni edades exactos.",
+      "programme": "Introducción a la IA, programación, creación digital y trabajo por proyectos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2027",
+        "label": "5–7 de julio de 2027, de 09:00 a 13:00. Hasta 8 participantes por semana según la página.",
+        "sessions": [
+          [
+            "2027-07-05",
+            "2027-07-07"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "sampler",
+            "start": "2027-07-05",
+            "end": "2027-07-07",
+            "label": "Elementary STEM Sampler",
+            "price": "149 USD por 3 días. Tarifa anticipada de 99 USD del 1 al 28 de febrero de 2027.",
+            "source": "https://campgeniusfoundation.org/summer-camps.html",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-07-05",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/New_York",
+                "start_utc": "2027-07-05T13:00:00Z",
+                "end_utc": "2027-07-05T17:00:00Z",
+                "topic": "Elementary STEM Sampler",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-06",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/New_York",
+                "start_utc": "2027-07-06T13:00:00Z",
+                "end_utc": "2027-07-06T17:00:00Z",
+                "topic": "Elementary STEM Sampler",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-07",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/New_York",
+                "start_utc": "2027-07-07T13:00:00Z",
+                "end_utc": "2027-07-07T17:00:00Z",
+                "topic": "Elementary STEM Sampler",
+                "ical_timed": true
+              }
+            ],
+            "place": "Camp Genius · 155 Lee Street · Johnston, SC",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 149,
+        "currency": "USD",
+        "unit": "session",
+        "label": "149 USD por 3 días. Tarifa anticipada de 99 USD del 1 al 28 de febrero de 2027.",
+        "included": "Materiales, camiseta, portafolio y certificado.",
+        "extras": "Confirmar las condiciones de devolución y la factura final antes de pagar.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar el curso o su equivalencia y la disponibilidad."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Confirmar el curso o su equivalencia y la disponibilidad."
+        }
+      },
+      "editorial_reason": "5–7 de julio de 2027, de 09:00 a 13:00. Hasta 8 participantes por semana según la página.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://campgeniusfoundation.org/summer-camps.html",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "ai",
+        "coding",
+        "makers",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "calendar_links": [
+        {
+          "start": "2027-07-05",
+          "end": "2027-07-07",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2115-20270705-20270707-sampler"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2116",
+      "slug": "horsforth-school-activity-camps-2026-27",
+      "provider": "Horsforth School · Activity Camps",
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "place": "Horsforth School · Lee Lane East · Horsforth",
+      "age": "6–13 años.",
+      "programme": "Campamento diurno multiactividad. Minecraft se ofrece en determinados días temáticos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Vacaciones de invierno, primavera y verano. Horario base de 09:30 a 15:30. Confirmar los días de Minecraft.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ],
+          [
+            "2027-04-05",
+            "2027-04-09"
+          ],
+          [
+            "2027-04-12",
+            "2027-04-16"
+          ],
+          [
+            "2027-06-01",
+            "2027-06-04"
+          ],
+          [
+            "2027-08-02",
+            "2027-08-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "christmas",
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "Christmas",
+            "price": "Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora.",
+            "source": "https://www.horsforthschool.org/useful-information/horsforthactivitycamps/",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "Horsforth School · Lee Lane East · Horsforth",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "february-half-term",
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "February Half-Term",
+            "price": "Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora.",
+            "source": "https://www.horsforthschool.org/useful-information/horsforthactivitycamps/",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "Horsforth School · Lee Lane East · Horsforth",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "easter-1",
+            "start": "2027-04-05",
+            "end": "2027-04-09",
+            "label": "Easter 1",
+            "price": "Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora.",
+            "source": "https://www.horsforthschool.org/useful-information/horsforthactivitycamps/",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "Horsforth School · Lee Lane East · Horsforth",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "easter-2",
+            "start": "2027-04-12",
+            "end": "2027-04-16",
+            "label": "Easter 2",
+            "price": "Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora.",
+            "source": "https://www.horsforthschool.org/useful-information/horsforthactivitycamps/",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "Horsforth School · Lee Lane East · Horsforth",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "may-half-term",
+            "start": "2027-06-01",
+            "end": "2027-06-04",
+            "label": "May Half-Term",
+            "price": "Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora.",
+            "source": "https://www.horsforthschool.org/useful-information/horsforthactivitycamps/",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "Horsforth School · Lee Lane East · Horsforth",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "summer",
+            "start": "2027-08-02",
+            "end": "2027-08-27",
+            "label": "Summer",
+            "price": "Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora.",
+            "source": "https://www.horsforthschool.org/useful-information/horsforthactivitycamps/",
+            "date_scope": "day_camp_window",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "place": "Horsforth School · Lee Lane East · Horsforth",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "GBP",
+        "unit": "day",
+        "label": "Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora.",
+        "included": "Programa general. También pueden participar niños de otros colegios.",
+        "extras": "Llevar refrigerios y almuerzo. La tarifa diaria depende de la reserva.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        }
+      },
+      "editorial_reason": "Vacaciones de invierno, primavera y verano. Horario base de 09:30 a 15:30. Confirmar los días de Minecraft.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://www.horsforthschool.org/useful-information/horsforthactivitycamps/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "general",
+        "sport"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [
+        "EN"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2116-20261221-20261223-christmas"
+          ]
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2116-20270215-20270219-february-half-term"
+          ]
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-04-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2116-20270405-20270409-easter-1"
+          ]
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-04-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2116-20270412-20270416-easter-2"
+          ]
+        },
+        {
+          "start": "2027-06-01",
+          "end": "2027-06-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2116-20270601-20270604-may-half-term"
+          ]
+        },
+        {
+          "start": "2027-08-02",
+          "end": "2027-08-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2116-20270802-20270827-summer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP2117",
+      "slug": "summer-camp-chicureo-general-2027",
+      "provider": "Summer Camp Chicureo · Experiencia 2027",
+      "country": "Chile",
+      "iso": "CHL",
+      "place": "Peters Haus · Alba 3, Parcela 9 · Chicureo",
+      "age": "5–12 años.",
+      "programme": "Deporte, actividades acuáticas y creatividad en grupos por edad.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Descripción del programa en español. Confirmar el idioma de enseñanza del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials",
+      "timing": {
+        "status": "published_2027",
+        "label": "4–15 o 18–29 de enero de 2027, días laborables de 08:00 a 13:30.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "ciclo-1",
+            "start": "2027-01-04",
+            "end": "2027-01-15",
+            "label": "Summer Camp Chicureo",
+            "price": "300 000 CLP por un ciclo de dos semanas por menor. Las tarifas anticipadas finalizaron.",
+            "source": "https://summercampchicureo.cl/experiencia-2025/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-04T11:00:00Z",
+                "end_utc": "2027-01-04T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-05T11:00:00Z",
+                "end_utc": "2027-01-05T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-06T11:00:00Z",
+                "end_utc": "2027-01-06T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-07T11:00:00Z",
+                "end_utc": "2027-01-07T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-08T11:00:00Z",
+                "end_utc": "2027-01-08T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-11",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-11T11:00:00Z",
+                "end_utc": "2027-01-11T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-12T11:00:00Z",
+                "end_utc": "2027-01-12T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-13T11:00:00Z",
+                "end_utc": "2027-01-13T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-14T11:00:00Z",
+                "end_utc": "2027-01-14T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-15T11:00:00Z",
+                "end_utc": "2027-01-15T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              }
+            ],
+            "place": "Peters Haus · Alba 3, Parcela 9 · Chicureo",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person"
+          },
+          {
+            "variant_key": "ciclo-2",
+            "start": "2027-01-18",
+            "end": "2027-01-29",
+            "label": "Summer Camp Chicureo",
+            "price": "300 000 CLP por un ciclo de dos semanas por menor. Las tarifas anticipadas finalizaron.",
+            "source": "https://summercampchicureo.cl/experiencia-2025/",
+            "date_scope": "session_days",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
+            },
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-18T11:00:00Z",
+                "end_utc": "2027-01-18T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-19T11:00:00Z",
+                "end_utc": "2027-01-19T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-20T11:00:00Z",
+                "end_utc": "2027-01-20T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-21T11:00:00Z",
+                "end_utc": "2027-01-21T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-22T11:00:00Z",
+                "end_utc": "2027-01-22T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-25",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-25T11:00:00Z",
+                "end_utc": "2027-01-25T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-26T11:00:00Z",
+                "end_utc": "2027-01-26T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-27T11:00:00Z",
+                "end_utc": "2027-01-27T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-28T11:00:00Z",
+                "end_utc": "2027-01-28T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "08:00",
+                "end_time": "13:30",
+                "timezone": "America/Santiago",
+                "start_utc": "2027-01-29T11:00:00Z",
+                "end_utc": "2027-01-29T16:30:00Z",
+                "topic": "Summer Camp Chicureo",
+                "ical_timed": true
+              }
+            ],
+            "place": "Peters Haus · Alba 3, Parcela 9 · Chicureo",
+            "formats": [
+              "day"
+            ],
+            "delivery_mode": "in_person"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 300000,
+        "currency": "CLP",
+        "unit": "session",
+        "label": "300 000 CLP por un ciclo de dos semanas por menor. Las tarifas anticipadas finalizaron.",
+        "included": "Materiales, kit del participante, supervisión, enfermera y socorrista.",
+        "extras": "Llevar refrigerio para el picnic del viernes. Confirmar requisitos acuáticos, pago y devolución.",
+        "deposit": "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad. Confirmar aparte la admisión y la plaza."
+        }
+      },
+      "editorial_reason": "4–15 o 18–29 de enero de 2027, días laborables de 08:00 a 13:30.",
+      "shortlist": [],
+      "questions": [
+        "Antes de inscribirse, cotejar acceso, idioma y disponibilidad.",
+        "Confirmar las condiciones de devolución y la factura final antes de pagar."
+      ],
+      "sources": [
+        {
+          "url": "https://summercampchicureo.cl/experiencia-2025/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "general",
+        "sport",
+        "arts"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "materials_languages": [
+        "ES"
+      ],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2117-20270104-20270115-ciclo-1"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2117-20270118-20270129-ciclo-2"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -367110,7 +369367,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 301,
+  "version": 302,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -380345,7 +382602,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2108,
+      "total_dossiers": 2117,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -403790,6 +406047,161 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP2109",
+      "event_id": "CP2109-20270121-20270203-drones",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2110",
+      "event_id": "CP2110-20270315-20270319-week",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2110",
+      "event_id": "CP2110-20270315-20270319-mon-wed-fri",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2110",
+      "event_id": "CP2110-20270316-20270318-tue-thu",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2111",
+      "event_id": "CP2111-20270315-20270319-week",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2111",
+      "event_id": "CP2111-20270315-20270319-mon-wed-fri",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2111",
+      "event_id": "CP2111-20270316-20270318-tue-thu",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2112",
+      "event_id": "CP2112-20270628-20270702-week-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2112",
+      "event_id": "CP2112-20270705-20270709-week-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2112",
+      "event_id": "CP2112-20270712-20270716-week-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2112",
+      "event_id": "CP2112-20270719-20270723-week-4",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2112",
+      "event_id": "CP2112-20270726-20270730-week-5",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2113",
+      "event_id": "CP2113-20270628-20270702-week-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2113",
+      "event_id": "CP2113-20270705-20270709-week-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2113",
+      "event_id": "CP2113-20270712-20270716-week-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2113",
+      "event_id": "CP2113-20270719-20270723-week-4",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2113",
+      "event_id": "CP2113-20270726-20270730-week-5",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2114",
+      "event_id": "CP2114-20270628-20270702-week-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2114",
+      "event_id": "CP2114-20270705-20270709-week-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2114",
+      "event_id": "CP2114-20270712-20270716-week-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2114",
+      "event_id": "CP2114-20270719-20270723-week-4",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2114",
+      "event_id": "CP2114-20270726-20270730-week-5",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2115",
+      "event_id": "CP2115-20270705-20270707-sampler",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2116",
+      "event_id": "CP2116-20261221-20261223-christmas",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2116",
+      "event_id": "CP2116-20270215-20270219-february-half-term",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2116",
+      "event_id": "CP2116-20270405-20270409-easter-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2116",
+      "event_id": "CP2116-20270412-20270416-easter-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2116",
+      "event_id": "CP2116-20270601-20270604-may-half-term",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2116",
+      "event_id": "CP2116-20270802-20270827-summer",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2117",
+      "event_id": "CP2117-20270104-20270115-ciclo-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2117",
+      "event_id": "CP2117-20270118-20270129-ciclo-2",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -408602,10 +411014,41 @@
     "CP2104-20261214-20261218-discover-experience",
     "CP2105-20261228-20261230-young-architects",
     "CP2106-20261221-20261223-robo-builders",
-    "CP2107-20261229-20261231-techlab"
+    "CP2107-20261229-20261231-techlab",
+    "CP2109-20270121-20270203-drones",
+    "CP2110-20270315-20270319-week",
+    "CP2110-20270315-20270319-mon-wed-fri",
+    "CP2110-20270316-20270318-tue-thu",
+    "CP2111-20270315-20270319-week",
+    "CP2111-20270315-20270319-mon-wed-fri",
+    "CP2111-20270316-20270318-tue-thu",
+    "CP2112-20270628-20270702-week-1",
+    "CP2112-20270705-20270709-week-2",
+    "CP2112-20270712-20270716-week-3",
+    "CP2112-20270719-20270723-week-4",
+    "CP2112-20270726-20270730-week-5",
+    "CP2113-20270628-20270702-week-1",
+    "CP2113-20270705-20270709-week-2",
+    "CP2113-20270712-20270716-week-3",
+    "CP2113-20270719-20270723-week-4",
+    "CP2113-20270726-20270730-week-5",
+    "CP2114-20270628-20270702-week-1",
+    "CP2114-20270705-20270709-week-2",
+    "CP2114-20270712-20270716-week-3",
+    "CP2114-20270719-20270723-week-4",
+    "CP2114-20270726-20270730-week-5",
+    "CP2115-20270705-20270707-sampler",
+    "CP2116-20261221-20261223-christmas",
+    "CP2116-20270215-20270219-february-half-term",
+    "CP2116-20270405-20270409-easter-1",
+    "CP2116-20270412-20270416-easter-2",
+    "CP2116-20270601-20270604-may-half-term",
+    "CP2116-20270802-20270827-summer",
+    "CP2117-20270104-20270115-ciclo-1",
+    "CP2117-20270118-20270129-ciclo-2"
   ],
   "integration": {
-    "generated_sessions": 4402,
+    "generated_sessions": 4433,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

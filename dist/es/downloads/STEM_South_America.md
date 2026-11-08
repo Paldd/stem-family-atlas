@@ -8836,6 +8836,32 @@ Limitaciones: Matvey: No cumple. La categoría requiere un curso o nivel educati
 Fuente: https://www.edv.uchile.cl/portfolio/robotica-innovacion-de-los-fundamentos-a-las-maquinas-que-cambian-el-mundo-2/
 Se ha comprobado: 2026-11-08
 
+### CP2117-20270104-20270115-ciclo-1 · Summer Camp Chicureo · Experiencia 2027 · Summer Camp Chicureo · 2027-01-04–2027-01-15
+
+Fecha: 2027-01-04 — 2027-01-15
+Edad: 5 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Descripción del programa en español. Confirmar el idioma de enseñanza del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 300 000 CLP por un ciclo de dos semanas por menor. Las tarifas anticipadas finalizaron. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Llevar refrigerio para el picnic del viernes. Confirmar requisitos acuáticos, pago y devolución. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://summercampchicureo.cl/experiencia-2025/
+Se ha comprobado: 2026-11-08
+
+### CP2117-20270118-20270129-ciclo-2 · Summer Camp Chicureo · Experiencia 2027 · Summer Camp Chicureo · 2027-01-18–2027-01-29
+
+Fecha: 2027-01-18 — 2027-01-29
+Edad: 5 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Idioma: Descripción del programa en español. Confirmar el idioma de enseñanza del grupo concreto.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 300 000 CLP por un ciclo de dos semanas por menor. Las tarifas anticipadas finalizaron. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Llevar refrigerio para el picnic del viernes. Confirmar requisitos acuáticos, pago y devolución. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://summercampchicureo.cl/experiencia-2025/
+Se ha comprobado: 2026-11-08
+
 ### E298 · Brasil Game Show 2027 · public exhibition
 
 Fecha: 2027-10-09 — 2027-10-12

@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Base al 2026-11-08. 2108 fichas detalladas en 136 países. La fecha de verificación de cada fuente figura en su ficha.
+Estado de la base: 2026-11-08. 2117 fichas en 136 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -14250,7 +14250,7 @@ Taiwán · Taipei · Xinyi, cerca del MRT Taipei City Hall; dirección exacta pa
 
 Japón · Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 
-**Se ha comprobado:** 2026-11-06
+**Se ha comprobado:** 2026-11-08
 
 **Edad:** Edad básica 5–12; por nivel de experiencia, no sólo la edad
 
@@ -14331,6 +14331,8 @@ Programación en inglés con grupos por habilidad; el miércoles se dedica ínte
 ### Antes de solicitar plaza
 
 - confirmar el módulo/nivel elegido y su disponibilidad; lugares libres, horas y rutas de medio ambiente precisas; necesitar un contacto de emergencia disponible en Japón.
+
+- Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido.
 
 ### 5 días · elegir los módulos
 
@@ -14472,93 +14474,111 @@ Programación en inglés con grupos por habilidad; el miércoles se dedica ínte
 
 [fuente](https://www.elev8.co.jp/winter-camp)
 
-### 5 días · elegir los módulos
+### Spring 1
 
 **Fechas / estado:** 2027-03-08 — 2027-03-12
 
 **lugar:** Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 
-**Precio:** JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día
+**Precio:** 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.
+
+- Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido.
 
 [fuente](https://www.elev8.co.jp/spring-camp)
 
-### 5 días · elegir los módulos
+### Spring 2
 
 **Fechas / estado:** 2027-03-15 — 2027-03-19
 
 **lugar:** Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 
-**Precio:** JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día
+**Precio:** 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.
+
+- Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido.
 
 [fuente](https://www.elev8.co.jp/spring-camp)
 
-### 5 días · elegir los módulos
+### Spring 3
 
 **Fechas / estado:** 2027-03-22 — 2027-03-26
 
 **lugar:** Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 
-**Precio:** JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día
+**Precio:** 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.
+
+- Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido.
 
 [fuente](https://www.elev8.co.jp/spring-camp)
 
-### 5 días · elegir los módulos
+### Easter 1
 
 **Fechas / estado:** 2027-03-29 — 2027-04-02
 
 **lugar:** Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 
-**Precio:** JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día
+**Precio:** 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.
+
+- Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido.
 
 [fuente](https://www.elev8.co.jp/spring-camp)
 
-### 5 días · elegir los módulos
+### Easter 2
 
 **Fechas / estado:** 2027-04-05 — 2027-04-09
 
 **lugar:** Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 
-**Precio:** JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día
+**Precio:** 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.
+
+- Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido.
 
 [fuente](https://www.elev8.co.jp/spring-camp)
 
-### 5 días · elegir los módulos
+### Spring 4
 
 **Fechas / estado:** 2027-04-12 — 2027-04-16
 
 **lugar:** Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 
-**Precio:** JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día
+**Precio:** 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.
+
+- Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido.
 
 [fuente](https://www.elev8.co.jp/spring-camp)
 
-### 5 días · elegir los módulos
+### Spring 5
 
 **Fechas / estado:** 2027-04-19 — 2027-04-23
 
 **lugar:** Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 
-**Precio:** JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día
+**Precio:** 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.
+
+- Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido.
 
 [fuente](https://www.elev8.co.jp/spring-camp)
 
-### 5 días · elegir los módulos
+### Spring 6
 
 **Fechas / estado:** 2027-04-26 — 2027-04-30
 
 **lugar:** Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 
-**Precio:** JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día
+**Precio:** 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.
+
+- Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido.
 
 [fuente](https://www.elev8.co.jp/spring-camp)
 
-### 5 días · elegir los módulos
+### Golden Week
 
 **Fechas / estado:** 2027-05-03 — 2027-05-07
 
 **lugar:** Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 
-**Precio:** JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día
+**Precio:** 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto.
+
+- Las dos páginas de idiomas y el formulario indican Roppongi. Confirmar el punto de encuentro de la salida y la sede del grupo elegido.
 
 [fuente](https://www.elev8.co.jp/spring-camp)
 
@@ -14566,11 +14586,15 @@ Programación en inglés con grupos por habilidad; el miércoles se dedica ínte
 
 - [otoño/invierno 2026/27, fechas y precios](https://www.elev8.co.jp/winter-camp) · 2026-11-06
 
-- [Spring / Easter 2027](https://www.elev8.co.jp/spring-camp) · 2026-11-06
+- [Spring / Easter 2027](https://www.elev8.co.jp/spring-camp) · 2026-11-08
 
-- [Coding: Inglés y niveles](https://www.elev8.co.jp/coding-summer-camp) · 2026-11-06
+- [Coding: Inglés y niveles](https://www.elev8.co.jp/coding-summer-camp) · 2026-11-08
 
-- [Terms: pago, transporte, crédito, seguro](https://www.elev8.co.jp/camp-terms-and-conditions) · 2026-11-06
+- [Terms: pago, transporte, crédito, seguro](https://www.elev8.co.jp/camp-terms-and-conditions) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.elev8.co.jp/ja/spring-camp) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.elev8.co.jp/camp-registration) · 2026-11-08
 
 ## CP123 · Dwight Seoul · Junior Summer Academy
 
@@ -166223,6 +166247,866 @@ Tailandia · Regent’s International School · Boarding Campus · Huai Khwang �
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://regents.ac.th/extra-programme/course-camps/) · 2026-11-08
+
+## CP2109 · AMECA · English Drone Winter Camp
+
+Taiwán · AMECA English School · No. 66, Sec. 2, Fuxing Road · Taichung
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Primaria, cursos 1–6. La edad por sí sola no sustituye el curso.
+
+**Idioma:** La organización indica expresamente que toda la enseñanza del turno se realiza en inglés.
+
+**Programa:** Montaje y pilotaje de drones, normas de seguridad, actividades prácticas STEAM y salidas.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Del 21 de enero al 3 de febrero de 2027, 10 días laborables de 09:00 a 17:00.
+
+**Precio / año:** 2027 · 12 000 TWD + 1 500 TWD de materiales obligatorios = 13 500 TWD por menor. Tarifa anticipada hasta el 31 de diciembre de 2026: 10 200 + 1 500 = 11 700 TWD si hay plaza.
+
+**Incluido:** Almuerzo, entradas y transporte de las salidas. Los materiales son obligatorios y figuran por separado en el total.
+
+**Suplementos:** Confirmar pago y devolución, y si se puede llevar el dron a casa.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Confirmar el curso o su equivalencia y la disponibilidad.
+
+**Oscar:** Condicional. Confirmar el curso o su equivalencia y la disponibilidad.
+
+**Motivo de selección:** Del 21 de enero al 3 de febrero de 2027, 10 días laborables de 09:00 a 17:00.
+
+### Antes de solicitar plaza
+
+- Confirmar pago y devolución, y si se puede llevar el dron a casa.
+
+- Confirmar la equivalencia del curso, las plazas y la admisión de niños extranjeros.
+
+### AMECA · English Drone Winter Camp
+
+**Fechas / estado:** 2027-01-21 — 2027-02-03
+
+**lugar:** AMECA English School · No. 66, Sec. 2, Fuxing Road · Taichung
+
+**Precio:** 12 000 TWD + 1 500 TWD de materiales obligatorios = 13 500 TWD por menor. Tarifa anticipada hasta el 31 de diciembre de 2026: 10 200 + 1 500 = 11 700 TWD si hay plaza.
+
+- 2027-01-21 · 09:00–17:00 · Asia/Taipei · AMECA · English Drone Winter Camp
+
+- 2027-01-22 · 09:00–17:00 · Asia/Taipei · AMECA · English Drone Winter Camp
+
+- 2027-01-25 · 09:00–17:00 · Asia/Taipei · AMECA · English Drone Winter Camp
+
+- 2027-01-26 · 09:00–17:00 · Asia/Taipei · AMECA · English Drone Winter Camp
+
+- 2027-01-27 · 09:00–17:00 · Asia/Taipei · AMECA · English Drone Winter Camp
+
+- 2027-01-28 · 09:00–17:00 · Asia/Taipei · AMECA · English Drone Winter Camp
+
+- 2027-01-29 · 09:00–17:00 · Asia/Taipei · AMECA · English Drone Winter Camp
+
+- 2027-02-01 · 09:00–17:00 · Asia/Taipei · AMECA · English Drone Winter Camp
+
+- 2027-02-02 · 09:00–17:00 · Asia/Taipei · AMECA · English Drone Winter Camp
+
+- 2027-02-03 · 09:00–17:00 · Asia/Taipei · AMECA · English Drone Winter Camp
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://amecaenglish.com/camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://amecaenglish.com/camp/) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://amecaenglish.com/) · 2026-11-08
+
+## CP2110 · Creative Kids Place · LEGO SPIKE Essential
+
+Canadá · Mississauga · 3195 The Collegeway · MSBA
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** De 5 a 8 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Construcción y programación de modelos LEGO SPIKE Essential.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 15–19 de marzo de 2027. Dos programas en el mismo edificio de 09:00 a 16:00. Hay paquetes parciales de 3 y 2 días.
+
+**Precio / año:** 2027 · 350 CAD por 5 días, 210 CAD por 3 días o 140 CAD por 2 días, más impuestos. Con 5 días, cupón de 20 CAD para el segundo menor. Para dos con cupón, 680 CAD más impuestos.
+
+**Incluido:** El miércoles hay una excursión, el jueves un espectáculo de animales, el viernes carnaval y almuerzo de pizza. Los otros días llevar almuerzo y 2 refrigerios.
+
+**Suplementos:** Cuidado de mañana y de tarde a 40 CAD por cada bloque semanal por menor más HST. Para días sueltos, 8 CAD por bloque más HST.
+
+**Pago:** Cancelación por escrito con 2 semanas de antelación. Cargo de 40 CAD por semana u 8 CAD por día suelto por menor.
+
+**Matvey:** Supera el límite de edad publicado.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** 15–19 de marzo de 2027. Dos programas en el mismo edificio de 09:00 a 16:00. Hay paquetes parciales de 3 y 2 días.
+
+### Antes de solicitar plaza
+
+- Confirmar ambas plazas en el mismo paquete, el idioma del grupo y la aplicación del cupón.
+
+### LEGO SPIKE Essential
+
+**Fechas / estado:** 2027-03-15 — 2027-03-19
+
+**lugar:** Mississauga · 3195 The Collegeway · MSBA
+
+**Precio:** 5 días, 350 CAD más impuestos.
+
+- 2027-03-15 · 09:00–16:00 · America/Toronto · LEGO SPIKE Essential
+
+- 2027-03-16 · 09:00–16:00 · America/Toronto · LEGO SPIKE Essential
+
+- 2027-03-17 · 09:00–16:00 · America/Toronto · LEGO SPIKE Essential
+
+- 2027-03-18 · 09:00–16:00 · America/Toronto · LEGO SPIKE Essential
+
+- 2027-03-19 · 09:00–16:00 · America/Toronto · LEGO SPIKE Essential
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west)
+
+### LEGO SPIKE Essential
+
+**Fechas / estado:** 2027-03-15 — 2027-03-19
+
+**lugar:** Mississauga · 3195 The Collegeway · MSBA
+
+**Precio:** 3 días, 210 CAD más impuestos.
+
+- 2027-03-15 · 09:00–16:00 · America/Toronto · LEGO SPIKE Essential
+
+- 2027-03-17 · 09:00–16:00 · America/Toronto · LEGO SPIKE Essential
+
+- 2027-03-19 · 09:00–16:00 · America/Toronto · LEGO SPIKE Essential
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west)
+
+### LEGO SPIKE Essential
+
+**Fechas / estado:** 2027-03-16 — 2027-03-18
+
+**lugar:** Mississauga · 3195 The Collegeway · MSBA
+
+**Precio:** 2 días, 140 CAD más impuestos.
+
+- 2027-03-16 · 09:00–16:00 · America/Toronto · LEGO SPIKE Essential
+
+- 2027-03-18 · 09:00–16:00 · America/Toronto · LEGO SPIKE Essential
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west) · 2026-11-08
+
+## CP2111 · Creative Kids Place · STEM & Codey Rocky
+
+Canadá · Mississauga · 3195 The Collegeway · MSBA
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 8–12 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Retos de ingeniería, experimentos y programación de Codey Rocky.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 15–19 de marzo de 2027. Dos programas en el mismo edificio de 09:00 a 16:00. Hay paquetes parciales de 3 y 2 días.
+
+**Precio / año:** 2027 · 350 CAD por 5 días, 210 CAD por 3 días o 140 CAD por 2 días, más impuestos. Con 5 días, cupón de 20 CAD para el segundo menor. Para dos con cupón, 680 CAD más impuestos.
+
+**Incluido:** El miércoles hay una excursión, el jueves un espectáculo de animales, el viernes carnaval y almuerzo de pizza. Los otros días llevar almuerzo y 2 refrigerios.
+
+**Suplementos:** Cuidado de mañana y de tarde a 40 CAD por cada bloque semanal por menor más HST. Para días sueltos, 8 CAD por bloque más HST.
+
+**Pago:** Cancelación por escrito con 2 semanas de antelación. Cargo de 40 CAD por semana u 8 CAD por día suelto por menor.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** No cumple la edad mínima publicada.
+
+**Motivo de selección:** 15–19 de marzo de 2027. Dos programas en el mismo edificio de 09:00 a 16:00. Hay paquetes parciales de 3 y 2 días.
+
+### Antes de solicitar plaza
+
+- Confirmar ambas plazas en el mismo paquete, el idioma del grupo y la aplicación del cupón.
+
+### STEM & Codey Rocky
+
+**Fechas / estado:** 2027-03-15 — 2027-03-19
+
+**lugar:** Mississauga · 3195 The Collegeway · MSBA
+
+**Precio:** 5 días, 350 CAD más impuestos.
+
+- 2027-03-15 · 09:00–16:00 · America/Toronto · STEM & Codey Rocky
+
+- 2027-03-16 · 09:00–16:00 · America/Toronto · STEM & Codey Rocky
+
+- 2027-03-17 · 09:00–16:00 · America/Toronto · STEM & Codey Rocky
+
+- 2027-03-18 · 09:00–16:00 · America/Toronto · STEM & Codey Rocky
+
+- 2027-03-19 · 09:00–16:00 · America/Toronto · STEM & Codey Rocky
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west)
+
+### STEM & Codey Rocky
+
+**Fechas / estado:** 2027-03-15 — 2027-03-19
+
+**lugar:** Mississauga · 3195 The Collegeway · MSBA
+
+**Precio:** 3 días, 210 CAD más impuestos.
+
+- 2027-03-15 · 09:00–16:00 · America/Toronto · STEM & Codey Rocky
+
+- 2027-03-17 · 09:00–16:00 · America/Toronto · STEM & Codey Rocky
+
+- 2027-03-19 · 09:00–16:00 · America/Toronto · STEM & Codey Rocky
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west)
+
+### STEM & Codey Rocky
+
+**Fechas / estado:** 2027-03-16 — 2027-03-18
+
+**lugar:** Mississauga · 3195 The Collegeway · MSBA
+
+**Precio:** 2 días, 140 CAD más impuestos.
+
+- 2027-03-16 · 09:00–16:00 · America/Toronto · STEM & Codey Rocky
+
+- 2027-03-18 · 09:00–16:00 · America/Toronto · STEM & Codey Rocky
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west) · 2026-11-08
+
+## CP2112 · STEM Afterschool Academy · Budding Engineers
+
+Estados Unidos · College Gardens Elementary School · Rockville, MD
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Cursos K–1 en el siguiente año escolar.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Proyectos de ingeniería y ciencia con actividades prácticas. Confirmar el itinerario de robótica y el contenido semanal del grupo.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Del 28 de junio al 30 de julio de 2027. La organización ofrece inscripción por semanas, normalmente de 09:00 a 16:00.
+
+**Precio / año:** 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Incluido:** Los materiales están incluidos.
+
+**Suplementos:** Horario ampliado de 16:00 a 18:00 por 45 USD semanales.
+
+**Pago:** Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+
+**Matvey:** Condicional. Confirmar el curso o su equivalencia y la disponibilidad.
+
+**Oscar:** Condicional. Confirmar el curso o su equivalencia y la disponibilidad.
+
+**Motivo de selección:** Del 28 de junio al 30 de julio de 2027. La organización ofrece inscripción por semanas, normalmente de 09:00 a 16:00.
+
+### Antes de solicitar plaza
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+### Budding Engineers
+
+**Fechas / estado:** 2027-06-28 — 2027-07-02
+
+**lugar:** College Gardens Elementary School · Rockville, MD
+
+**Precio:** 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+[fuente](https://www.stemafterschoolacademy.com/programs-and-camps)
+
+### Budding Engineers
+
+**Fechas / estado:** 2027-07-05 — 2027-07-09
+
+**lugar:** College Gardens Elementary School · Rockville, MD
+
+**Precio:** 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+[fuente](https://www.stemafterschoolacademy.com/programs-and-camps)
+
+### Budding Engineers
+
+**Fechas / estado:** 2027-07-12 — 2027-07-16
+
+**lugar:** College Gardens Elementary School · Rockville, MD
+
+**Precio:** 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+[fuente](https://www.stemafterschoolacademy.com/programs-and-camps)
+
+### Budding Engineers
+
+**Fechas / estado:** 2027-07-19 — 2027-07-23
+
+**lugar:** College Gardens Elementary School · Rockville, MD
+
+**Precio:** 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+[fuente](https://www.stemafterschoolacademy.com/programs-and-camps)
+
+### Budding Engineers
+
+**Fechas / estado:** 2027-07-26 — 2027-07-30
+
+**lugar:** College Gardens Elementary School · Rockville, MD
+
+**Precio:** 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+[fuente](https://www.stemafterschoolacademy.com/programs-and-camps)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.stemafterschoolacademy.com/programs-and-camps) · 2026-11-08
+
+## CP2113 · STEM Afterschool Academy · Young Engineers
+
+Estados Unidos · College Gardens Elementary School · Rockville, MD
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Cursos 2–3 en el siguiente año escolar.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Proyectos de ingeniería y ciencia con actividades prácticas. Confirmar el itinerario de robótica y el contenido semanal del grupo.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Del 28 de junio al 30 de julio de 2027. La organización ofrece inscripción por semanas, normalmente de 09:00 a 16:00.
+
+**Precio / año:** 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Incluido:** Los materiales están incluidos.
+
+**Suplementos:** Horario ampliado de 16:00 a 18:00 por 45 USD semanales.
+
+**Pago:** Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+
+**Matvey:** Condicional. Confirmar el curso o su equivalencia y la disponibilidad.
+
+**Oscar:** Condicional. Confirmar el curso o su equivalencia y la disponibilidad.
+
+**Motivo de selección:** Del 28 de junio al 30 de julio de 2027. La organización ofrece inscripción por semanas, normalmente de 09:00 a 16:00.
+
+### Antes de solicitar plaza
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+### Young Engineers
+
+**Fechas / estado:** 2027-06-28 — 2027-07-02
+
+**lugar:** College Gardens Elementary School · Rockville, MD
+
+**Precio:** 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+[fuente](https://www.stemafterschoolacademy.com/programs-and-camps)
+
+### Young Engineers
+
+**Fechas / estado:** 2027-07-05 — 2027-07-09
+
+**lugar:** College Gardens Elementary School · Rockville, MD
+
+**Precio:** 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+[fuente](https://www.stemafterschoolacademy.com/programs-and-camps)
+
+### Young Engineers
+
+**Fechas / estado:** 2027-07-12 — 2027-07-16
+
+**lugar:** College Gardens Elementary School · Rockville, MD
+
+**Precio:** 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+[fuente](https://www.stemafterschoolacademy.com/programs-and-camps)
+
+### Young Engineers
+
+**Fechas / estado:** 2027-07-19 — 2027-07-23
+
+**lugar:** College Gardens Elementary School · Rockville, MD
+
+**Precio:** 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+[fuente](https://www.stemafterschoolacademy.com/programs-and-camps)
+
+### Young Engineers
+
+**Fechas / estado:** 2027-07-26 — 2027-07-30
+
+**lugar:** College Gardens Elementary School · Rockville, MD
+
+**Precio:** 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+[fuente](https://www.stemafterschoolacademy.com/programs-and-camps)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.stemafterschoolacademy.com/programs-and-camps) · 2026-11-08
+
+## CP2114 · STEM Afterschool Academy · STEM Explorers
+
+Estados Unidos · College Gardens Elementary School · Rockville, MD
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Cursos 4–6 en el siguiente año escolar.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Proyectos de ingeniería y ciencia con actividades prácticas. Confirmar el itinerario de robótica y el contenido semanal del grupo.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Del 28 de junio al 30 de julio de 2027. La organización ofrece inscripción por semanas, normalmente de 09:00 a 16:00.
+
+**Precio / año:** 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Incluido:** Los materiales están incluidos.
+
+**Suplementos:** Horario ampliado de 16:00 a 18:00 por 45 USD semanales.
+
+**Pago:** Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+
+**Matvey:** Condicional. Confirmar el curso o su equivalencia y la disponibilidad.
+
+**Oscar:** Condicional. Confirmar el curso o su equivalencia y la disponibilidad.
+
+**Motivo de selección:** Del 28 de junio al 30 de julio de 2027. La organización ofrece inscripción por semanas, normalmente de 09:00 a 16:00.
+
+### Antes de solicitar plaza
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+### STEM Explorers
+
+**Fechas / estado:** 2027-06-28 — 2027-07-02
+
+**lugar:** College Gardens Elementary School · Rockville, MD
+
+**Precio:** 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+[fuente](https://www.stemafterschoolacademy.com/programs-and-camps)
+
+### STEM Explorers
+
+**Fechas / estado:** 2027-07-05 — 2027-07-09
+
+**lugar:** College Gardens Elementary School · Rockville, MD
+
+**Precio:** 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+[fuente](https://www.stemafterschoolacademy.com/programs-and-camps)
+
+### STEM Explorers
+
+**Fechas / estado:** 2027-07-12 — 2027-07-16
+
+**lugar:** College Gardens Elementary School · Rockville, MD
+
+**Precio:** 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+[fuente](https://www.stemafterschoolacademy.com/programs-and-camps)
+
+### STEM Explorers
+
+**Fechas / estado:** 2027-07-19 — 2027-07-23
+
+**lugar:** College Gardens Elementary School · Rockville, MD
+
+**Precio:** 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+[fuente](https://www.stemafterschoolacademy.com/programs-and-camps)
+
+### STEM Explorers
+
+**Fechas / estado:** 2027-07-26 — 2027-07-30
+
+**lugar:** College Gardens Elementary School · Rockville, MD
+
+**Precio:** 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+- El grupo se determina por el curso del siguiente año escolar. Confirmar contenido semanal, excepciones por festivos e idioma de instrucción.
+
+[fuente](https://www.stemafterschoolacademy.com/programs-and-camps)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.stemafterschoolacademy.com/programs-and-camps) · 2026-11-08
+
+## CP2115 · Camp Genius · Elementary STEM Sampler
+
+Estados Unidos · Camp Genius · 155 Lee Street · Johnston, SC
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** La organización indica Elementary School. No publica cursos ni edades exactos.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Introducción a la IA, programación, creación digital y trabajo por proyectos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 5–7 de julio de 2027, de 09:00 a 13:00. Hasta 8 participantes por semana según la página.
+
+**Precio / año:** 2027 · 149 USD por 3 días. Tarifa anticipada de 99 USD del 1 al 28 de febrero de 2027.
+
+**Incluido:** Materiales, camiseta, portafolio y certificado.
+
+**Suplementos:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Condicional. Confirmar el curso o su equivalencia y la disponibilidad.
+
+**Oscar:** Condicional. Confirmar el curso o su equivalencia y la disponibilidad.
+
+**Motivo de selección:** 5–7 de julio de 2027, de 09:00 a 13:00. Hasta 8 participantes por semana según la página.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Elementary STEM Sampler
+
+**Fechas / estado:** 2027-07-05 — 2027-07-07
+
+**lugar:** Camp Genius · 155 Lee Street · Johnston, SC
+
+**Precio:** 149 USD por 3 días. Tarifa anticipada de 99 USD del 1 al 28 de febrero de 2027.
+
+- 2027-07-05 · 09:00–13:00 · America/New_York · Elementary STEM Sampler
+
+- 2027-07-06 · 09:00–13:00 · America/New_York · Elementary STEM Sampler
+
+- 2027-07-07 · 09:00–13:00 · America/New_York · Elementary STEM Sampler
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://campgeniusfoundation.org/summer-camps.html)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://campgeniusfoundation.org/summer-camps.html) · 2026-11-08
+
+## CP2116 · Horsforth School · Activity Camps
+
+Reino Unido · Horsforth School · Lee Lane East · Horsforth
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 6–13 años.
+
+**Idioma:** Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+
+**Programa:** Campamento diurno multiactividad. Minecraft se ofrece en determinados días temáticos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Vacaciones de invierno, primavera y verano. Horario base de 09:30 a 15:30. Confirmar los días de Minecraft.
+
+**Precio / año:** 2027 · Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora.
+
+**Incluido:** Programa general. También pueden participar niños de otros colegios.
+
+**Suplementos:** Llevar refrigerios y almuerzo. La tarifa diaria depende de la reserva.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** Vacaciones de invierno, primavera y verano. Horario base de 09:30 a 15:30. Confirmar los días de Minecraft.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Christmas
+
+**Fechas / estado:** 2026-12-21 — 2026-12-23
+
+**lugar:** Horsforth School · Lee Lane East · Horsforth
+
+**Precio:** Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.horsforthschool.org/useful-information/horsforthactivitycamps/)
+
+### February Half-Term
+
+**Fechas / estado:** 2027-02-15 — 2027-02-19
+
+**lugar:** Horsforth School · Lee Lane East · Horsforth
+
+**Precio:** Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.horsforthschool.org/useful-information/horsforthactivitycamps/)
+
+### Easter 1
+
+**Fechas / estado:** 2027-04-05 — 2027-04-09
+
+**lugar:** Horsforth School · Lee Lane East · Horsforth
+
+**Precio:** Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.horsforthschool.org/useful-information/horsforthactivitycamps/)
+
+### Easter 2
+
+**Fechas / estado:** 2027-04-12 — 2027-04-16
+
+**lugar:** Horsforth School · Lee Lane East · Horsforth
+
+**Precio:** Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.horsforthschool.org/useful-information/horsforthactivitycamps/)
+
+### May Half-Term
+
+**Fechas / estado:** 2027-06-01 — 2027-06-04
+
+**lugar:** Horsforth School · Lee Lane East · Horsforth
+
+**Precio:** Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.horsforthschool.org/useful-information/horsforthactivitycamps/)
+
+### Summer
+
+**Fechas / estado:** 2027-08-02 — 2027-08-27
+
+**lugar:** Horsforth School · Lee Lane East · Horsforth
+
+**Precio:** Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora.
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://www.horsforthschool.org/useful-information/horsforthactivitycamps/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.horsforthschool.org/useful-information/horsforthactivitycamps/) · 2026-11-08
+
+## CP2117 · Summer Camp Chicureo · Experiencia 2027
+
+Chile · Peters Haus · Alba 3, Parcela 9 · Chicureo
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 5–12 años.
+
+**Idioma:** Descripción del programa en español. Confirmar el idioma de enseñanza del grupo concreto.
+
+**Programa:** Deporte, actividades acuáticas y creatividad en grupos por edad.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** 4–15 o 18–29 de enero de 2027, días laborables de 08:00 a 13:30.
+
+**Precio / año:** 2027 · 300 000 CLP por un ciclo de dos semanas por menor. Las tarifas anticipadas finalizaron.
+
+**Incluido:** Materiales, kit del participante, supervisión, enfermera y socorrista.
+
+**Suplementos:** Llevar refrigerio para el picnic del viernes. Confirmar requisitos acuáticos, pago y devolución.
+
+**Pago:** Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+**Matvey:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Oscar:** Sí por edad. Confirmar aparte la admisión y la plaza.
+
+**Motivo de selección:** 4–15 o 18–29 de enero de 2027, días laborables de 08:00 a 13:30.
+
+### Antes de solicitar plaza
+
+- Antes de inscribirse, cotejar acceso, idioma y disponibilidad.
+
+- Confirmar las condiciones de devolución y la factura final antes de pagar.
+
+### Summer Camp Chicureo
+
+**Fechas / estado:** 2027-01-04 — 2027-01-15
+
+**lugar:** Peters Haus · Alba 3, Parcela 9 · Chicureo
+
+**Precio:** 300 000 CLP por un ciclo de dos semanas por menor. Las tarifas anticipadas finalizaron.
+
+- 2027-01-04 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-05 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-06 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-07 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-08 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-11 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-12 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-13 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-14 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-15 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://summercampchicureo.cl/experiencia-2025/)
+
+### Summer Camp Chicureo
+
+**Fechas / estado:** 2027-01-18 — 2027-01-29
+
+**lugar:** Peters Haus · Alba 3, Parcela 9 · Chicureo
+
+**Precio:** 300 000 CLP por un ciclo de dos semanas por menor. Las tarifas anticipadas finalizaron.
+
+- 2027-01-18 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-19 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-20 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-21 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-22 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-25 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-26 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-27 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-28 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+- 2027-01-29 · 08:00–13:30 · America/Santiago · Summer Camp Chicureo
+
+**Disponibilidad de plazas:** La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación.
+
+[fuente](https://summercampchicureo.cl/experiencia-2025/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://summercampchicureo.cl/experiencia-2025/) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

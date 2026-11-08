@@ -17940,7 +17940,7 @@ Costo: 2026/27 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - p
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### CP122-20261123-20261127 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2026-11-23-2026-11-27
 
@@ -17956,7 +17956,7 @@ Costo: 2026/27 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - p
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### CP122-20261214-20261218 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2026-12-14***2026-12-18
 
@@ -17972,7 +17972,7 @@ Costo: 2026/27 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - p
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### CP122-20261221-20261225 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · selección de módulos · 2026-12-21–2026-12-25
 
@@ -17988,7 +17988,7 @@ Costo: 2026/27 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - p
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### CP122-20261228-20261231 · Elev8 · Tokyo Coding / Mats holiday camp · 4 días - Selección de módulos · 2026-12-28-2026-12-31
 
@@ -18004,7 +18004,7 @@ Precio: 2026/27 · JPY 101 200 c tax / 4 Días sin descuentos · y condiciones d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### CP122-20270104-20270108 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · selección de módulos · 2027-01-04–2027-01-08
 
@@ -18020,7 +18020,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### CP122-20270125-20270129 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-01-25-2027-01-29
 
@@ -18036,7 +18036,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### CP122-20270201-20270205 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-02-01-2027-02-05
 
@@ -18052,7 +18052,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### CP122-20270208-20270212 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-02-08国2027-02-12
 
@@ -18068,7 +18068,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### CP122-20270215-20270219 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · selección de módulos · 2027-02-15–2027-02-19
 
@@ -18084,7 +18084,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### CP122-20270222-20270226 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-02-22-2027-02-26
 
@@ -18100,9 +18100,9 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
-### CP122-20270308-20270312 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-03-08 CLAIM2027-03-12
+### CP122-20270308-20270312 · Elev8 · Tokyo Coding / Maths holiday camp · Spring 1 · 2027-03-08–2027-03-12
 
 Lugar: Japón · Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 Fecha: 2027-03-08 — 2027-03-12
@@ -18112,13 +18112,13 @@ Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: Conding página: fully in English; Terms confirman expresamente el programa y las muertes en inglés.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pagos complementarios y condiciones de archivo
+Precio: 2027 · 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
-### CP122-20270315-20270319 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-03-15-2027-03-19
+### CP122-20270315-20270319 · Elev8 · Tokyo Coding / Maths holiday camp · Spring 2 · 2027-03-15–2027-03-19
 
 Lugar: Japón · Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 Fecha: 2027-03-15 — 2027-03-19
@@ -18128,13 +18128,13 @@ Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: Conding página: fully in English; Terms confirman expresamente el programa y las muertes en inglés.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pagos complementarios y condiciones de archivo
+Precio: 2027 · 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
-### CP122-20270322-20270326 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · selección de módulos · 2027-03-22–2027-03-26
+### CP122-20270322-20270326 · Elev8 · Tokyo Coding / Maths holiday camp · Spring 3 · 2027-03-22–2027-03-26
 
 Lugar: Japón · Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 Fecha: 2027-03-22 — 2027-03-26
@@ -18144,13 +18144,13 @@ Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: Conding página: fully in English; Terms confirman expresamente el programa y las muertes en inglés.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pagos complementarios y condiciones de archivo
+Precio: 2027 · 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
-### CP122-20270329-20270402 · Elev8 · Tokyo Coding / Mats holiday camp · 5 días - Selección de módulos ·2027-03-29-2027-04-02
+### CP122-20270329-20270402 · Elev8 · Tokyo Coding / Maths holiday camp · Easter 1 · 2027-03-29–2027-04-02
 
 Lugar: Japón · Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 Fecha: 2027-03-29 - 2027-04-02
@@ -18160,13 +18160,13 @@ Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: Conding página: fully in English; Terms confirman expresamente el programa y las muertes en inglés.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pagos complementarios y condiciones de archivo
+Precio: 2027 · 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
-### CP122-20270405-20270409 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días - selección de módulos · 2027-04-05-2027-04-09
+### CP122-20270405-20270409 · Elev8 · Tokyo Coding / Maths holiday camp · Easter 2 · 2027-04-05–2027-04-09
 
 Lugar: Japón · Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 Fecha: 2027-04-05 — 2027-04-09
@@ -18176,13 +18176,13 @@ Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: Conding página: fully in English; Terms confirman expresamente el programa y las muertes en inglés.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pagos complementarios y condiciones de archivo
+Precio: 2027 · 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
-### CP122-20270412-20270416 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · selección de módulos · 2027-04-12–2027-04-16
+### CP122-20270412-20270416 · Elev8 · Tokyo Coding / Maths holiday camp · Spring 4 · 2027-04-12–2027-04-16
 
 Lugar: Japón · Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 Fecha: 2027-04-12 — 2027-04-16
@@ -18192,13 +18192,13 @@ Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: Conding página: fully in English; Terms confirman expresamente el programa y las muertes en inglés.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pagos complementarios y condiciones de archivo
+Precio: 2027 · 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
-### CP122-20270419-20270423 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-04-19-2027-04-23
+### CP122-20270419-20270423 · Elev8 · Tokyo Coding / Maths holiday camp · Spring 5 · 2027-04-19–2027-04-23
 
 Lugar: Japón · Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 Fecha: 2027-04-19 国 2027-04-23
@@ -18208,13 +18208,13 @@ Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: Conding página: fully in English; Terms confirman expresamente el programa y las muertes en inglés.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pagos complementarios y condiciones de archivo
+Precio: 2027 · 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
-### CP122-20270426-20270430 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-04-26-2027-04-30
+### CP122-20270426-20270430 · Elev8 · Tokyo Coding / Maths holiday camp · Spring 6 · 2027-04-26–2027-04-30
 
 Lugar: Japón · Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 Fecha: 2027-04-26 - 2027-04-30
@@ -18224,13 +18224,13 @@ Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: Conding página: fully in English; Terms confirman expresamente el programa y las muertes en inglés.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pagos complementarios y condiciones de archivo
+Precio: 2027 · 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
-### CP122-20270503-20270507 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-05-03-2027-05-07
+### CP122-20270503-20270507 · Elev8 · Tokyo Coding / Maths holiday camp · Golden Week · 2027-05-03–2027-05-07
 
 Lugar: Japón · Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 Fecha: 2027-05-03 — 2027-05-07
@@ -18240,11 +18240,11 @@ Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: Conding página: fully in English; Terms confirman expresamente el programa y las muertes en inglés.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pagos complementarios y condiciones de archivo
+Precio: 2027 · 120 175 JPY por 5 días con impuesto y descuento al reservar 5+ días. 25 300 JPY por día suelto con impuesto. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Se ha comprobado: 2026-11-06
+Se ha comprobado: 2026-11-08
 
 ### CP126-20270419-20270422-zug-20270419 · TechSpark ·Animation & Game Design Junior · Zug · 4 días · 2027-04-19 CLAIM2027-04-22
 
@@ -83300,6 +83300,502 @@ Precio: 2026/27 · 114 CAD por 3 días con tarifa general, 103 CAD para socios. 
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: No por edad para este grupo. Oscar: No por edad para este grupo. Suplementos: La sede publica grupos en inglés y francés por separado. Confirmar idioma al elegir entrada, plazas y precio final. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
 Fuente: https://www.sciencenorth.ca/school-break-camps
+Se ha comprobado: 2026-11-08
+
+### CP2109-20270121-20270203-drones · AMECA · English Drone Winter Camp · AMECA · English Drone Winter Camp · 2027-01-21–2027-02-03
+
+lugar: Taiwán · AMECA English School · No. 66, Sec. 2, Fuxing Road · Taichung
+Fecha: 2027-01-21 - 2027-02-03
+edad: Primaria, cursos 1–6. La edad por sí sola no sustituye el curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: La organización indica expresamente que toda la enseñanza del turno se realiza en inglés.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · 12 000 TWD + 1 500 TWD de materiales obligatorios = 13 500 TWD por menor. Tarifa anticipada hasta el 31 de diciembre de 2026: 10 200 + 1 500 = 11 700 TWD si hay plaza. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Confirmar pago y devolución, y si se puede llevar el dron a casa. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://amecaenglish.com/camp/
+Se ha comprobado: 2026-11-08
+
+### CP2110-20270315-20270319-week · Creative Kids Place · LEGO SPIKE Essential · LEGO SPIKE Essential · 2027-03-15–2027-03-19
+
+lugar: Canadá · Mississauga · 3195 The Collegeway · MSBA
+Fecha: 2027-03-15 — 2027-03-19
+Edad: 5–8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 5 días, 350 CAD más impuestos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Supera el límite de edad publicado. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Cuidado de mañana y de tarde a 40 CAD por cada bloque semanal por menor más HST. Para días sueltos, 8 CAD por bloque más HST. Pago: Cancelación por escrito con 2 semanas de antelación. Cargo de 40 CAD por semana u 8 CAD por día suelto por menor.
+Fuente: https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west
+Se ha comprobado: 2026-11-08
+
+### CP2110-20270315-20270319-mon-wed-fri · Creative Kids Place · LEGO SPIKE Essential · LEGO SPIKE Essential · 2027-03-15–2027-03-19
+
+lugar: Canadá · Mississauga · 3195 The Collegeway · MSBA
+Fecha: 2027-03-15 — 2027-03-19
+Edad: 5–8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 3 días, 210 CAD más impuestos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Supera el límite de edad publicado. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Cuidado de mañana y de tarde a 40 CAD por cada bloque semanal por menor más HST. Para días sueltos, 8 CAD por bloque más HST. Pago: Cancelación por escrito con 2 semanas de antelación. Cargo de 40 CAD por semana u 8 CAD por día suelto por menor.
+Fuente: https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west
+Se ha comprobado: 2026-11-08
+
+### CP2110-20270316-20270318-tue-thu · Creative Kids Place · LEGO SPIKE Essential · LEGO SPIKE Essential · 2027-03-16–2027-03-18
+
+lugar: Canadá · Mississauga · 3195 The Collegeway · MSBA
+Fecha: 2027-03-16 — 2027-03-18
+Edad: 5–8 años.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 2 días, 140 CAD más impuestos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Supera el límite de edad publicado. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Cuidado de mañana y de tarde a 40 CAD por cada bloque semanal por menor más HST. Para días sueltos, 8 CAD por bloque más HST. Pago: Cancelación por escrito con 2 semanas de antelación. Cargo de 40 CAD por semana u 8 CAD por día suelto por menor.
+Fuente: https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west
+Se ha comprobado: 2026-11-08
+
+### CP2111-20270315-20270319-week · Creative Kids Place · STEM & Codey Rocky · STEM & Codey Rocky · 2027-03-15–2027-03-19
+
+lugar: Canadá · Mississauga · 3195 The Collegeway · MSBA
+Fecha: 2027-03-15 — 2027-03-19
+Edad: 8 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 5 días, 350 CAD más impuestos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad mínima publicada. Suplementos: Cuidado de mañana y de tarde a 40 CAD por cada bloque semanal por menor más HST. Para días sueltos, 8 CAD por bloque más HST. Pago: Cancelación por escrito con 2 semanas de antelación. Cargo de 40 CAD por semana u 8 CAD por día suelto por menor.
+Fuente: https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west
+Se ha comprobado: 2026-11-08
+
+### CP2111-20270315-20270319-mon-wed-fri · Creative Kids Place · STEM & Codey Rocky · STEM & Codey Rocky · 2027-03-15–2027-03-19
+
+lugar: Canadá · Mississauga · 3195 The Collegeway · MSBA
+Fecha: 2027-03-15 — 2027-03-19
+Edad: 8 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 3 días, 210 CAD más impuestos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad mínima publicada. Suplementos: Cuidado de mañana y de tarde a 40 CAD por cada bloque semanal por menor más HST. Para días sueltos, 8 CAD por bloque más HST. Pago: Cancelación por escrito con 2 semanas de antelación. Cargo de 40 CAD por semana u 8 CAD por día suelto por menor.
+Fuente: https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west
+Se ha comprobado: 2026-11-08
+
+### CP2111-20270316-20270318-tue-thu · Creative Kids Place · STEM & Codey Rocky · STEM & Codey Rocky · 2027-03-16–2027-03-18
+
+lugar: Canadá · Mississauga · 3195 The Collegeway · MSBA
+Fecha: 2027-03-16 — 2027-03-18
+Edad: 8 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 2 días, 140 CAD más impuestos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: No cumple la edad mínima publicada. Suplementos: Cuidado de mañana y de tarde a 40 CAD por cada bloque semanal por menor más HST. Para días sueltos, 8 CAD por bloque más HST. Pago: Cancelación por escrito con 2 semanas de antelación. Cargo de 40 CAD por semana u 8 CAD por día suelto por menor.
+Fuente: https://www.creativekidsplace.ca/pages/camps/march-break-camps-mississauga-west
+Se ha comprobado: 2026-11-08
+
+### CP2112-20270628-20270702-week-1 · STEM Afterschool Academy · Budding Engineers · Budding Engineers · 2027-06-28–2027-07-02
+
+lugar: Estados Unidos · College Gardens Elementary School · Rockville, MD
+Fecha: 2027-06-28 — 2027-07-02
+edad: Cursos K–1 en el siguiente año escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Horario ampliado de 16:00 a 18:00 por 45 USD semanales. Pago: Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+Fuente: https://www.stemafterschoolacademy.com/programs-and-camps
+Se ha comprobado: 2026-11-08
+
+### CP2112-20270705-20270709-week-2 · STEM Afterschool Academy · Budding Engineers · Budding Engineers · 2027-07-05–2027-07-09
+
+lugar: Estados Unidos · College Gardens Elementary School · Rockville, MD
+Fecha: 2027-07-05 - 2027-07-09
+edad: Cursos K–1 en el siguiente año escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Horario ampliado de 16:00 a 18:00 por 45 USD semanales. Pago: Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+Fuente: https://www.stemafterschoolacademy.com/programs-and-camps
+Se ha comprobado: 2026-11-08
+
+### CP2112-20270712-20270716-week-3 · STEM Afterschool Academy · Budding Engineers · Budding Engineers · 2027-07-12–2027-07-16
+
+lugar: Estados Unidos · College Gardens Elementary School · Rockville, MD
+Fecha: 2027-07-12 — 2027-07-16
+edad: Cursos K–1 en el siguiente año escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Horario ampliado de 16:00 a 18:00 por 45 USD semanales. Pago: Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+Fuente: https://www.stemafterschoolacademy.com/programs-and-camps
+Se ha comprobado: 2026-11-08
+
+### CP2112-20270719-20270723-week-4 · STEM Afterschool Academy · Budding Engineers · Budding Engineers · 2027-07-19–2027-07-23
+
+lugar: Estados Unidos · College Gardens Elementary School · Rockville, MD
+Fecha: 2027-07-19 国 2027-07-23
+edad: Cursos K–1 en el siguiente año escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Horario ampliado de 16:00 a 18:00 por 45 USD semanales. Pago: Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+Fuente: https://www.stemafterschoolacademy.com/programs-and-camps
+Se ha comprobado: 2026-11-08
+
+### CP2112-20270726-20270730-week-5 · STEM Afterschool Academy · Budding Engineers · Budding Engineers · 2027-07-26–2027-07-30
+
+lugar: Estados Unidos · College Gardens Elementary School · Rockville, MD
+Fecha: 2027-07-26 Å 2027-07-30
+edad: Cursos K–1 en el siguiente año escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Horario ampliado de 16:00 a 18:00 por 45 USD semanales. Pago: Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+Fuente: https://www.stemafterschoolacademy.com/programs-and-camps
+Se ha comprobado: 2026-11-08
+
+### CP2113-20270628-20270702-week-1 · STEM Afterschool Academy · Young Engineers · Young Engineers · 2027-06-28–2027-07-02
+
+lugar: Estados Unidos · College Gardens Elementary School · Rockville, MD
+Fecha: 2027-06-28 — 2027-07-02
+edad: Cursos 2–3 en el siguiente año escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Horario ampliado de 16:00 a 18:00 por 45 USD semanales. Pago: Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+Fuente: https://www.stemafterschoolacademy.com/programs-and-camps
+Se ha comprobado: 2026-11-08
+
+### CP2113-20270705-20270709-week-2 · STEM Afterschool Academy · Young Engineers · Young Engineers · 2027-07-05–2027-07-09
+
+lugar: Estados Unidos · College Gardens Elementary School · Rockville, MD
+Fecha: 2027-07-05 - 2027-07-09
+edad: Cursos 2–3 en el siguiente año escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Horario ampliado de 16:00 a 18:00 por 45 USD semanales. Pago: Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+Fuente: https://www.stemafterschoolacademy.com/programs-and-camps
+Se ha comprobado: 2026-11-08
+
+### CP2113-20270712-20270716-week-3 · STEM Afterschool Academy · Young Engineers · Young Engineers · 2027-07-12–2027-07-16
+
+lugar: Estados Unidos · College Gardens Elementary School · Rockville, MD
+Fecha: 2027-07-12 — 2027-07-16
+edad: Cursos 2–3 en el siguiente año escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Horario ampliado de 16:00 a 18:00 por 45 USD semanales. Pago: Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+Fuente: https://www.stemafterschoolacademy.com/programs-and-camps
+Se ha comprobado: 2026-11-08
+
+### CP2113-20270719-20270723-week-4 · STEM Afterschool Academy · Young Engineers · Young Engineers · 2027-07-19–2027-07-23
+
+lugar: Estados Unidos · College Gardens Elementary School · Rockville, MD
+Fecha: 2027-07-19 国 2027-07-23
+edad: Cursos 2–3 en el siguiente año escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Horario ampliado de 16:00 a 18:00 por 45 USD semanales. Pago: Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+Fuente: https://www.stemafterschoolacademy.com/programs-and-camps
+Se ha comprobado: 2026-11-08
+
+### CP2113-20270726-20270730-week-5 · STEM Afterschool Academy · Young Engineers · Young Engineers · 2027-07-26–2027-07-30
+
+lugar: Estados Unidos · College Gardens Elementary School · Rockville, MD
+Fecha: 2027-07-26 Å 2027-07-30
+edad: Cursos 2–3 en el siguiente año escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Horario ampliado de 16:00 a 18:00 por 45 USD semanales. Pago: Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+Fuente: https://www.stemafterschoolacademy.com/programs-and-camps
+Se ha comprobado: 2026-11-08
+
+### CP2114-20270628-20270702-week-1 · STEM Afterschool Academy · STEM Explorers · STEM Explorers · 2027-06-28–2027-07-02
+
+lugar: Estados Unidos · College Gardens Elementary School · Rockville, MD
+Fecha: 2027-06-28 — 2027-07-02
+edad: Cursos 4–6 en el siguiente año escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Horario ampliado de 16:00 a 18:00 por 45 USD semanales. Pago: Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+Fuente: https://www.stemafterschoolacademy.com/programs-and-camps
+Se ha comprobado: 2026-11-08
+
+### CP2114-20270705-20270709-week-2 · STEM Afterschool Academy · STEM Explorers · STEM Explorers · 2027-07-05–2027-07-09
+
+lugar: Estados Unidos · College Gardens Elementary School · Rockville, MD
+Fecha: 2027-07-05 - 2027-07-09
+edad: Cursos 4–6 en el siguiente año escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Horario ampliado de 16:00 a 18:00 por 45 USD semanales. Pago: Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+Fuente: https://www.stemafterschoolacademy.com/programs-and-camps
+Se ha comprobado: 2026-11-08
+
+### CP2114-20270712-20270716-week-3 · STEM Afterschool Academy · STEM Explorers · STEM Explorers · 2027-07-12–2027-07-16
+
+lugar: Estados Unidos · College Gardens Elementary School · Rockville, MD
+Fecha: 2027-07-12 — 2027-07-16
+edad: Cursos 4–6 en el siguiente año escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Horario ampliado de 16:00 a 18:00 por 45 USD semanales. Pago: Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+Fuente: https://www.stemafterschoolacademy.com/programs-and-camps
+Se ha comprobado: 2026-11-08
+
+### CP2114-20270719-20270723-week-4 · STEM Afterschool Academy · STEM Explorers · STEM Explorers · 2027-07-19–2027-07-23
+
+lugar: Estados Unidos · College Gardens Elementary School · Rockville, MD
+Fecha: 2027-07-19 国 2027-07-23
+edad: Cursos 4–6 en el siguiente año escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Horario ampliado de 16:00 a 18:00 por 45 USD semanales. Pago: Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+Fuente: https://www.stemafterschoolacademy.com/programs-and-camps
+Se ha comprobado: 2026-11-08
+
+### CP2114-20270726-20270730-week-5 · STEM Afterschool Academy · STEM Explorers · STEM Explorers · 2027-07-26–2027-07-30
+
+lugar: Estados Unidos · College Gardens Elementary School · Rockville, MD
+Fecha: 2027-07-26 Å 2027-07-30
+edad: Cursos 4–6 en el siguiente año escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 395 USD por semana, 375 USD al inscribirse hasta el 15 de marzo de 2027. Descuento del 5% para el hermano menor. Al pagar las 5 semanas de una vez se indica un 10% de descuento. Confirmar si son acumulables. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Horario ampliado de 16:00 a 18:00 por 45 USD semanales. Pago: Al inscribirse se paga la 1.ª semana. Confirmar las condiciones de cancelación.
+Fuente: https://www.stemafterschoolacademy.com/programs-and-camps
+Se ha comprobado: 2026-11-08
+
+### CP2115-20270705-20270707-sampler · Camp Genius · Elementary STEM Sampler · Elementary STEM Sampler · 2027-07-05–2027-07-07
+
+lugar: Estados Unidos · Camp Genius · 155 Lee Street · Johnston, SC
+Fecha: 2027-07-05 — 2027-07-07
+edad: La organización indica Elementary School. No publica cursos ni edades exactos.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 149 USD por 3 días. Tarifa anticipada de 99 USD del 1 al 28 de febrero de 2027. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Confirmar las condiciones de devolución y la factura final antes de pagar. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://campgeniusfoundation.org/summer-camps.html
+Se ha comprobado: 2026-11-08
+
+### CP2116-20261221-20261223-christmas · Horsforth School · Activity Camps · Christmas · 2026-12-21–2026-12-23
+
+lugar: Reino Unido · Horsforth School · Lee Lane East · Horsforth
+Fecha: 2026-12-21 - 2026-12-23
+edad: 6–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Llevar refrigerios y almuerzo. La tarifa diaria depende de la reserva. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.horsforthschool.org/useful-information/horsforthactivitycamps/
+Se ha comprobado: 2026-11-08
+
+### CP2116-20270215-20270219-february-half-term · Horsforth School · Activity Camps · February Half-Term · 2027-02-15–2027-02-19
+
+lugar: Reino Unido · Horsforth School · Lee Lane East · Horsforth
+Fecha: 2027-02-15 国 2027-02-19
+edad: 6–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Llevar refrigerios y almuerzo. La tarifa diaria depende de la reserva. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.horsforthschool.org/useful-information/horsforthactivitycamps/
+Se ha comprobado: 2026-11-08
+
+### CP2116-20270405-20270409-easter-1 · Horsforth School · Activity Camps · Easter 1 · 2027-04-05–2027-04-09
+
+lugar: Reino Unido · Horsforth School · Lee Lane East · Horsforth
+Fecha: 2027-04-05 — 2027-04-09
+edad: 6–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Llevar refrigerios y almuerzo. La tarifa diaria depende de la reserva. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.horsforthschool.org/useful-information/horsforthactivitycamps/
+Se ha comprobado: 2026-11-08
+
+### CP2116-20270412-20270416-easter-2 · Horsforth School · Activity Camps · Easter 2 · 2027-04-12–2027-04-16
+
+lugar: Reino Unido · Horsforth School · Lee Lane East · Horsforth
+Fecha: 2027-04-12 — 2027-04-16
+edad: 6–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Llevar refrigerios y almuerzo. La tarifa diaria depende de la reserva. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.horsforthschool.org/useful-information/horsforthactivitycamps/
+Se ha comprobado: 2026-11-08
+
+### CP2116-20270601-20270604-may-half-term · Horsforth School · Activity Camps · May Half-Term · 2027-06-01–2027-06-04
+
+lugar: Reino Unido · Horsforth School · Lee Lane East · Horsforth
+Fecha: 2027-06-01 — 2027-06-04
+edad: 6–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Llevar refrigerios y almuerzo. La tarifa diaria depende de la reserva. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.horsforthschool.org/useful-information/horsforthactivitycamps/
+Se ha comprobado: 2026-11-08
+
+### CP2116-20270802-20270827-summer · Horsforth School · Activity Camps · Summer · 2027-08-02–2027-08-27
+
+lugar: Reino Unido · Horsforth School · Lee Lane East · Horsforth
+Fecha: 2027-08-02 — 2027-08-27
+edad: 6–13 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Materiales de la organización en inglés. Confirmar el idioma de instrucción del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Desde 27,50 GBP por día. Cuidado ampliado desde 5 GBP por hora. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Llevar refrigerios y almuerzo. La tarifa diaria depende de la reserva. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://www.horsforthschool.org/useful-information/horsforthactivitycamps/
+Se ha comprobado: 2026-11-08
+
+### CP2117-20270104-20270115-ciclo-1 · Summer Camp Chicureo · Experiencia 2027 · Summer Camp Chicureo · 2027-01-04–2027-01-15
+
+lugar: Chile · Peters Haus · Alba 3, Parcela 9 · Chicureo
+Fecha: 2027-01-04 — 2027-01-15
+Edad: 5 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Descripción del programa en español. Confirmar el idioma de enseñanza del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 300 000 CLP por un ciclo de dos semanas por menor. Las tarifas anticipadas finalizaron. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Llevar refrigerio para el picnic del viernes. Confirmar requisitos acuáticos, pago y devolución. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://summercampchicureo.cl/experiencia-2025/
+Se ha comprobado: 2026-11-08
+
+### CP2117-20270118-20270129-ciclo-2 · Summer Camp Chicureo · Experiencia 2027 · Summer Camp Chicureo · 2027-01-18–2027-01-29
+
+lugar: Chile · Peters Haus · Alba 3, Parcela 9 · Chicureo
+Fecha: 2027-01-18 — 2027-01-29
+Edad: 5 a 12 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Descripción del programa en español. Confirmar el idioma de enseñanza del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 300 000 CLP por un ciclo de dos semanas por menor. Las tarifas anticipadas finalizaron. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sí por edad. Confirmar aparte la admisión y la plaza. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Llevar refrigerio para el picnic del viernes. Confirmar requisitos acuáticos, pago y devolución. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://summercampchicureo.cl/experiencia-2025/
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

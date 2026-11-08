@@ -3733,6 +3733,19 @@ Limitaciones: Matvey: Condicional. Cumple por edad y la enseñanza es en chino. 
 Fuente: https://www.curio.kids/products/future-engineers-winter-2026
 Se ha comprobado: 2026-11-08
 
+### CP2109-20270121-20270203-drones · AMECA · English Drone Winter Camp · AMECA · English Drone Winter Camp · 2027-01-21–2027-02-03
+
+Fecha: 2027-01-21 - 2027-02-03
+edad: Primaria, cursos 1–6. La edad por sí sola no sustituye el curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: La organización indica expresamente que toda la enseñanza del turno se realiza en inglés.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 12 000 TWD + 1 500 TWD de materiales obligatorios = 13 500 TWD por menor. Tarifa anticipada hasta el 31 de diciembre de 2026: 10 200 + 1 500 = 11 700 TWD si hay plaza. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Oscar: Condicional. Confirmar el curso o su equivalencia y la disponibilidad. Suplementos: Confirmar pago y devolución, y si se puede llevar el dron a casa. Pago: Confirmar las condiciones de devolución y la factura final antes de pagar.
+Fuente: https://amecaenglish.com/camp/
+Se ha comprobado: 2026-11-08
+
 ## ~ Comprobar de nuevo
 
 - The Grove: edad de ambos niños, acogida y apoyo extranjeros sin necesidad de chino.
