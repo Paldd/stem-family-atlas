@@ -28,6 +28,20 @@ function hasOnlineParticipation(event) {
   if (event.delivery_mode) return ['virtual', 'hybrid'].includes(event.delivery_mode);
   return event.scope === 'online' || ['online', 'online_camp', 'day_or_online'].includes(event.participation);
 }
+function catalogLanguageMatches(event, language, role) {
+  const mode = event.language_mode || 'unclassified';
+  const includes = codes => language ? codes.includes(language) : codes.length > 0;
+  if (event.language_roles && role !== 'unconfirmed' && role !== 'unclassified') {
+    if (role) return language ? includes(event.language_roles[role] || []) : Object.hasOwn(event.language_roles, role);
+    return !language || Object.values(event.language_roles).some(includes);
+  }
+  const main = event.languages || [];
+  const support = event.support_languages || [];
+  if (!role) return !language || includes(main) || includes(support);
+  if (role === 'support') return includes(support) || (mode === 'support' && (!language || includes(main)));
+  if (role === 'instruction') return ['primary', 'bilingual'].includes(mode) && (!language || includes(main));
+  return mode === role && (!language || includes(main));
+}
 function filtered(){
  const query=foldSearch(state.query), exactId=state.query.trim().toUpperCase();
  const leagueEvents=state.league?new Set(DATA.league_guide.profiles.find(g=>g.id===state.league)?.event_ids):null;
@@ -41,7 +55,7 @@ function filtered(){
  (!state.online || hasOnlineParticipation(e)) &&
  (!state.admission || e.admission_kind === state.admission || admissionAliases[state.admission]?.includes(e.admission_kind)) &&
  (!state.evidence || e.evidence_level === state.evidence || (state.evidence === 'rules' && ['official_rules', 'rulebook'].includes(e.evidence_level))) &&
- DIRECTIONS.matches(e.themes,state.theme)&&(!state.language||e.languages.includes(state.language)||(e.support_languages||[]).includes(state.language))&&(!state.languageMode||(state.languageMode==='instruction'?['primary','bilingual'].includes(e.language_mode):state.languageMode==='unclassified'?!e.language_mode:e.language_mode===state.languageMode))&&(!state.scope||e.scope===state.scope)&&(!state.participation||e.participation===state.participation||e.participation==='day_or_online'&&['day_camp','online_camp'].includes(state.participation)||state.participation==='boarding'&&['residential','mixed_camp'].includes(e.participation)||e.participation==='individual_or_team'&&['individual','team'].includes(state.participation))&&(!state.block||e.block===state.block)&&(!state.country||e.iso.includes(state.country))&&
+ DIRECTIONS.matches(e.themes,state.theme)&&catalogLanguageMatches(e,state.language,state.languageMode)&&(!state.scope||e.scope===state.scope)&&(!state.participation||e.participation===state.participation||e.participation==='day_or_online'&&['day_camp','online_camp'].includes(state.participation)||state.participation==='boarding'&&['residential','mixed_camp'].includes(e.participation)||e.participation==='individual_or_team'&&['individual','team'].includes(state.participation))&&(!state.block||e.block===state.block)&&(!state.country||e.iso.includes(state.country))&&
  (!state.region||(state.region==='latam'?(["América Central","América del Sur","Caribe"].includes(e.region)||e.iso.includes('MEX')):e.region.includes(state.region)))&&
  (!state.dates||(state.dates==='confirmed'?!!e.start:state.dates==='upcoming'?(!!e.start&&e.end>=TODAY||!!e.deadline&&e.deadline>=TODAY):state.dates==='waiting'?!e.start:(!!e.start&&e.end>=TODAY&&e.start<=addDays(TODAY,90)||!!e.deadline&&e.deadline>=TODAY&&e.deadline<=addDays(TODAY,90))))&&
  (!state.priority||/^P[01]/.test(e.priority))&&(state.excluded||!excluded(e))&&fits(e)&&

@@ -144,6 +144,56 @@ FIT = {'candidate':'Да по возрасту; зачисление отдел�
        'not_eligible':'Нет по условиям выбранного трека',
        'unknown':'Уточнить; возрастной допуск не установлен'}
 
+
+# Preserve the documented role of each language on multi-role programmes.
+INSTRUCTION_EVIDENCE = {
+    None, 'primary', 'bilingual', 'instruction', 'technical_instruction',
+    'general_instruction', 'primary_course_jsonld', 'language_instruction',
+}
+CAMP_LIFE_EVIDENCE = {'camp_life', 'bilingual_camp_life', 'camp_life_and_english_lessons'}
+LESSON_EVIDENCE = {'language_lessons', 'english_course', 'camp_life_and_english_lessons',
+                   'curriculum_language_enrichment'}
+
+def programme_language_roles(profile):
+    evidence = profile.get('language_evidence_role')
+    languages = profile['confirmed_instruction_languages']
+    support = profile.get('confirmed_support_languages', [])
+    roles = {}
+    if evidence in INSTRUCTION_EVIDENCE and profile['slug'] != 'les-elfes':
+        roles['instruction'] = languages
+    if evidence == 'partial_bilingual':
+        roles['partial_bilingual'] = languages
+    if evidence in CAMP_LIFE_EVIDENCE or profile['slug'] == 'les-elfes':
+        roles['camp_life'] = languages
+    if evidence in LESSON_EVIDENCE:
+        roles['language_lessons'] = languages or support
+    if evidence == 'camp_life_projects':
+        roles['camp_life'] = languages or support
+    if evidence == 'camp_life_support':
+        roles['support'] = languages
+    if evidence not in LESSON_EVIDENCE | {'camp_life_projects', 'english_prerequisite_not_explicit_teaching_language'} and support:
+        roles['support'] = support
+    if profile.get('materials_languages'):
+        roles['materials'] = profile['materials_languages']
+    roles.update(profile.get('language_roles', {}))
+    return {role: list(dict.fromkeys(codes)) for role, codes in roles.items()
+            if codes or role in {'camp_life', 'language_lessons'}}
+
+
+def apply_event_language_roles(event, profile):
+    roles = profile['language_roles']
+    leading_role = next((role for role in ('instruction', 'partial_bilingual', 'camp_life',
+                        'language_lessons', 'support', 'materials') if role in roles), 'unconfirmed')
+    event['language_roles'] = deepcopy(roles)
+    event['language_mode'] = (
+        ('bilingual' if profile.get('language_evidence_role') == 'bilingual' else 'primary')
+        if leading_role == 'instruction' else leading_role
+    )
+    event['languages'] = roles.get(leading_role, []) if leading_role != 'support' else []
+    if 'support' in roles:
+        event['support_languages'] = roles['support']
+
+
 def integrate(catalog, dossier_report):
     report=deepcopy(dossier_report)
     previous=catalog.get('camp_programmes',{})
@@ -162,6 +212,7 @@ def integrate(catalog, dossier_report):
                 sources.add(s['url'])
         p['related_event_ids']=[i for i in RELATED.get(p['slug'],[]) if i in original]
         p['calendar_links']=[]
+        p['language_roles'] = programme_language_roles(p)
         verified_session_source=p['timing'].get('verified_session_source')
         if verified_session_source:
             # Only an explicitly sourced session calendar can replace a broad
@@ -245,15 +296,9 @@ def integrate(catalog, dossier_report):
                 note='Матвей: '+family_fit['matvey']['detail']+' Оскар: '+family_fit['oscar']['detail']+' Доплаты: '+variant.get('extras',p['price']['extras'])+' Оплата: '+variant.get('deposit',p['price']['deposit']),
                 iso=[p['iso']],themes=themes,scope='local',
                 importance_reason='Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.',
-                languages=list(p['confirmed_instruction_languages']),language_mode=p['language_evidence_role'] if p.get('language_evidence_role') in ['bilingual','language_lessons'] else 'camp_life' if p['slug']=='les-elfes' or p.get('language_evidence_role')=='camp_life' else 'primary' if p['confirmed_instruction_languages'] else 'unconfirmed',
                 language_certainty=p['language'],participation=mode,admission_kind=variant.get('admission_kind','open_application'),evidence_level='program',
                 date_scope=variant.get('date_scope','camp_session'),date_precision=variant.get('date_precision','published_session'),camp_dossier_slug=p['slug'],camp_programme_id=p['id'])
-            if p.get('language_evidence_role') == 'materials' and p.get('materials_languages'):
-                row['language_mode'] = 'materials'
-                row['languages'] = list(p['materials_languages'])
-            if p.get('language_evidence_role') == 'support' and p.get('confirmed_support_languages'):
-                row['language_mode'] = 'support'
-                row['support_languages'] = list(p['confirmed_support_languages'])
+            apply_event_language_roles(row, p)
             # An explicit empty list means attendance days are still unknown.
             if variant.get('date_scope')=='day_camp_window' and 'attendance_weekdays' not in variant:
                 row['attendance_weekdays']=['MO','TU','WE','TH','FR']

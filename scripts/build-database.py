@@ -401,12 +401,12 @@ if 'camp_focus' in d:
         self_paced_materials=sum(bool(e.get('materials_only')) for e in camps),
         boarding=sum(e['participation'] in ['residential','mixed_camp'] for e in camps),
         en_es_instruction=sum(e.get('language_mode') in ['primary','bilingual'] and bool({'EN','ES'}&set(e['languages'])) for e in camps),
-        en_es_support=sum(e.get('language_mode')=='support' and bool({'EN','ES'}&set(e.get('support_languages',[]))) for e in camps),
+        en_es_support=sum(bool({'EN','ES'}&set(e.get('support_languages',[]))) for e in camps),
         family_instruction=sum(e.get('language_mode') in ['primary','bilingual'] and bool(set(d['family_context']['learning_languages'])&set(e['languages'])) for e in camps),
-        family_support=sum(e.get('language_mode')=='support' and bool(set(d['family_context']['learning_languages'])&set(e.get('support_languages',[]))) for e in camps),
+        family_support=sum(bool(set(d['family_context']['learning_languages'])&set(e.get('support_languages',[]))) for e in camps),
         ru_instruction=sum(e.get('language_mode') in ['primary','bilingual'] and 'RU' in e['languages'] for e in camps),
-        language_lessons=sum(e.get('language_mode')=='language_lessons' for e in camps),
-        camp_life_language=sum(e.get('language_mode')=='camp_life' for e in camps),
+        language_lessons=sum('language_lessons' in e.get('language_roles', {}) or e.get('language_mode')=='language_lessons' for e in camps),
+        camp_life_language=sum('camp_life' in e.get('language_roles', {}) or e.get('language_mode')=='camp_life' for e in camps),
         language_unclassified=sum(not e.get('language_mode') for e in camps),
         countries=len({i for e in camps for i in e['iso']}))
     d['completeness_audit']['camp_focus']=d['camp_focus']
@@ -765,7 +765,7 @@ if audits:
     (out/'STEM_source_audit_latest.json').write_text(latest.read_text())
 with (out/'STEM_catalog.csv').open('w',newline='',encoding='utf-8-sig') as f:
     keys=['id','block','title','country','region','city','start','end','period','date_status','deadline','deadline_label','deadline_note','deadline_utc','registration_status','age','mat','osc','format','participation','delivery_mode','entry','gear','language','cost','scope','level','importance_reason','reward','priority','action','source','references','proof','checked','status','note','themes','languages','language_certainty','iso','related_ids','event_code','event_type','event_region','venue','admission_kind','evidence_level','published_start','published_end','sessions','planned_windows','parent_event_id','registration_url','age_reference_date','birth_start','birth_end','team_min','team_max','grade_level','programme_kind','registration_opens','roster_update_deadline','source_date_text','date_conflict','date_scope','exhibition_tier','visitor_policy','visitor_policy_note','adult_entry','highlights','exhibitors','exhibitor_note','exhibitor_directory_url','historical_editions','public_days','event_group','camp_dossier_slug','camp_programme_id','date_precision','date_rule','attendance_weekdays','date_history','deadline_history']
-    keys+=['language_mode','support_languages','provider','canonical_event_id','visitor_age_min','reported_start','reported_end','reported_deadline']
+    keys+=['language_mode','language_roles','support_languages','provider','canonical_event_id','visitor_age_min','reported_start','reported_end','reported_deadline']
     w=csv.DictWriter(f,fieldnames=keys,extrasaction='ignore');w.writeheader();w.writerows({k:json.dumps(e.get(k,''),ensure_ascii=False) if isinstance(e.get(k),(list,dict)) else e.get(k,'') for k in keys} for e in d['events'])
 with (out/'STEM_country_coverage.csv').open('w',newline='',encoding='utf-8-sig') as f:
     w=csv.DictWriter(f,fieldnames=list(coverage[0]));w.writeheader();w.writerows(coverage)

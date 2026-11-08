@@ -31,7 +31,7 @@ for(const lang of ['', 'es/']){
  ui=ui.replace(end,' window.TEST_CAMP_UI={filtered,card,editorialSummary,editorialDetails,editorialMethod,state:cs,setGuide:value=>{guide=value;}};\n})();');
  vm.runInContext(ui,context);const U=context.window.TEST_CAMP_UI;U.setGuide(guide);
  const editorialFile='STEM_camp_editorial_selection_v'+selection.version+'.json';assert(U.editorialMethod().includes(editorialFile),'Editorial download must refer to the current reviewed collection');assert.deepEqual(JSON.parse(fs.readFileSync(path.join(base,'downloads',editorialFile),'utf8')),selection);
- const reset=()=>Object.assign(U.state,{query:'',country:'',theme:'',format:'',child:'',phase:'',language:'',month:'',sort:'listed',review:''});
+ const reset=()=>Object.assign(U.state,{query:'',country:'',theme:'',format:'',child:'',phase:'',language:'',languageMode:'',month:'',sort:'listed',review:''});
  reset();assert.equal(U.filtered().length,guide.profiles.length,'Editorial feature must retain all dossiers');
  U.state.review='reviewed';assert.equal(U.filtered().length,selection.reviews.length);
  Object.assign(U.state,{country:'JPN',child:'both',language:'EN',month:'2026-12',sort:'recommend_engineering'});
@@ -47,6 +47,54 @@ for(const lang of ['', 'es/']){
  U.setGuide(seasonalGuide);assert(!U.filtered().some(p=>p.id==='CP614'),'The announced variant age gate must not inherit another season admission');
  U.state.month='2027-03';assert(U.filtered().some(p=>p.id==='CP614'),'Dated Pascua retains its own age rule');
  U.setGuide(guide);reset();
+ // A documented secondary role cannot satisfy a different primary-language filter.
+ for (const [country,language,languageMode,id] of [
+  ['PAN','EN','support','CP304'], ['PAN','ES','camp_life','CP304'],
+  ['CRI','EN','instruction','CP2118'], ['CRI','ES','language_lessons','CP2118'],
+  ['PER','ES','language_lessons','CP2119'], ['TWN','EN','partial_bilingual','CP727'],
+ ]) {
+  reset();
+  Object.assign(U.state,{country,language,languageMode});
+  assert(U.filtered().some(p=>p.id===id), id+' must match '+language+' '+languageMode);
+  const url=M.filterURL('https://example.test/?camp=old#camps',U.state);
+  const restored=M.readFilters(url,guide.profiles,{},{});
+  assert.equal(restored.language,language);
+  assert.equal(restored.languageMode,languageMode);
+ }
+ const byId=id=>guide.profiles.find(p=>p.id===id);
+ for (const [id,lang,role] of [
+  ['CP304','EN','instruction'], ['CP2118','ES','instruction'], ['CP727','EN','instruction'],
+  ['CP1459','ES','support'], ['CP1306','EN','support'], ['CP041','EN','instruction'],
+  ['CP001','EN','instruction']
+ ]) assert(!M.matchesLanguage(byId(id),lang,role), id+' cannot imply '+lang+' '+role);
+ assert(M.matchesLanguage(byId('CP1428'),'ES','support'),'Documented Spanish assistance must be selectable');
+ assert(M.matchesLanguage(byId('CP001'),'EN','camp_life'),'Les Elfes retains its documented camp-life role');
+ assert(M.matchesLanguage(byId('CP827'),'','camp_life'),'A documented role remains selectable without a language code');
+ const legacy=M.readFilters('https://example.test/?camp_language=EN-support#camps',guide.profiles,{},{});
+ assert.equal(legacy.language,'EN');
+ assert.equal(legacy.languageMode,'support');
+
+ const appSource=fs.readFileSync(path.join(base,'assets/app.js'),'utf8');
+ const matcher=appSource.slice(appSource.indexOf('function catalogLanguageMatches('),appSource.indexOf('function filtered()'));
+ vm.runInContext(matcher,context);
+ const match=context.catalogLanguageMatches;
+ const legacyRow={languages:['EN'],support_languages:['ES'],language_mode:'primary'};
+ assert(match(legacyRow,'EN','instruction'));
+ assert(match(legacyRow,'ES','support'));
+ assert(!match(legacyRow,'ES','instruction'));
+ const eventData=fs.readFileSync(path.join(base,'assets/data.js'),'utf8');
+ const eventRows=JSON.parse(eventData.slice('window.STEM_DATA='.length).trimEnd().slice(0,-1)).events;
+ for(const [id,lang,role,expected] of [
+  ['CP304-20270118-20270122','EN','support',true],
+  ['CP304-20270118-20270122','EN','instruction',false],
+  ['CP2118-20270111-20270211-anatomy','ES','language_lessons',true],
+  ['CP2118-20270111-20270211-anatomy','ES','instruction',false],
+ ]) {
+  const row=eventRows.find(e=>e.id===id);
+  assert(row,id);
+  assert.equal(match(row,lang,role),expected,id+' '+lang+' '+role);
+ }
+ reset();
  const p={id:'synthetic',provider:'Fixture',family_fit:{matvey:{status:'candidate'},oscar:{status:'candidate'}},confirmed_instruction_languages:['EN'],timing:{sessions:[['2027-07-01','2027-07-07']]},price:{currency:'USD',amount:1}};
  const make=(id,patch={})=>({...structuredClone(p),id,...patch});
  const ready=make('ready'),tooYoung=make('too-young',{family_fit:{matvey:{status:'candidate'},oscar:{status:'later'}}}),support=make('support',{confirmed_instruction_languages:[],confirmed_support_languages:['EN']}),archive=make('archive',{timing:{status:'published_2027',sessions:[['2026-07-01','2026-07-07']]}});
@@ -71,5 +119,5 @@ for(const lang of ['', 'es/']){
  const html=U.editorialDetails(unsafe);assert(!html.includes('<img src=x'));assert(html.includes('&lt;img'));
  U.setGuide(guide);reset();Object.assign(U.state,{sort:'recommend_engineering',review:'reviewed'});
  const sorted=U.filtered();assert.equal(new Set(sorted.map(p=>p.id)).size,selection.reviews.length);
- console.log((lang||'ru')+': editorial gates, review coverage, actual combined filters, eight shareable goals, source preservation and escaped evidence passed');
+ console.log((lang||'ru')+': editorial gates, review coverage, actual combined filters, shareable goals and language roles, source preservation and escaped evidence passed');
 }

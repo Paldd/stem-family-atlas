@@ -27100,11 +27100,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES",
-        "EN"
-      ],
-      "language_mode": "language_lessons",
       "language_certainty": "El programa incluye práctica de conversación en español e inglés. Confirmar el idioma de las actividades ambientales y las salidas.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -27112,7 +27107,18 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "cloud-forest",
-      "camp_programme_id": "CP041"
+      "camp_programme_id": "CP041",
+      "language_roles": {
+        "language_lessons": [
+          "ES",
+          "EN"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "ES",
+        "EN"
+      ]
     },
     {
       "id": "CP041-20270712-20270716",
@@ -27159,11 +27165,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES",
-        "EN"
-      ],
-      "language_mode": "language_lessons",
       "language_certainty": "El programa incluye práctica de conversación en español e inglés. Confirmar el idioma de las actividades ambientales y las salidas.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -27171,7 +27172,18 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "cloud-forest",
-      "camp_programme_id": "CP041"
+      "camp_programme_id": "CP041",
+      "language_roles": {
+        "language_lessons": [
+          "ES",
+          "EN"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "ES",
+        "EN"
+      ]
     },
     {
       "id": "CP041-20270719-20270723",
@@ -27218,11 +27230,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES",
-        "EN"
-      ],
-      "language_mode": "language_lessons",
       "language_certainty": "El programa incluye práctica de conversación en español e inglés. Confirmar el idioma de las actividades ambientales y las salidas.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -27230,7 +27237,18 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "cloud-forest",
-      "camp_programme_id": "CP041"
+      "camp_programme_id": "CP041",
+      "language_roles": {
+        "language_lessons": [
+          "ES",
+          "EN"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "ES",
+        "EN"
+      ]
     },
     {
       "id": "CP094-20270718-20270731",
@@ -27292,8 +27310,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "No se establece el idioma de las clases; el sitio web no confirma la enseñanza ES o EN.",
       "participation": "residential",
       "admission_kind": "open_application",
@@ -27301,7 +27317,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "ojo-ciego",
-      "camp_programme_id": "CP094"
+      "camp_programme_id": "CP094",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP358-20261228-20270101",
@@ -27356,8 +27375,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "El idioma de clases y la recepción extranjera son más claros: el sitio web en inglés no es una prueba de inglés medio.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -27366,6 +27383,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "wildroots-marine",
       "camp_programme_id": "CP358",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -27427,8 +27447,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "El idioma de clases y la recepción extranjera son más claros: el sitio web en inglés no es una prueba de inglés medio.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -27437,6 +27455,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "wildroots-marine",
       "camp_programme_id": "CP358",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -27498,8 +27519,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "El idioma de clases y la recepción extranjera son más claros: el sitio web en inglés no es una prueba de inglés medio.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -27508,6 +27527,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "wildroots-marine",
       "camp_programme_id": "CP358",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -27569,8 +27591,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "El idioma de clases y la recepción extranjera son más claros: el sitio web en inglés no es una prueba de inglés medio.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -27579,6 +27599,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "wildroots-marine",
       "camp_programme_id": "CP358",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -27640,8 +27663,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "El idioma de clases y la recepción extranjera son más claros: el sitio web en inglés no es una prueba de inglés medio.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -27650,6 +27671,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "wildroots-marine",
       "camp_programme_id": "CP358",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -27715,10 +27739,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -27727,6 +27747,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -27798,10 +27827,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -27810,6 +27835,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -27881,10 +27915,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -27893,6 +27923,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -27964,10 +28003,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -27976,6 +28011,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -28047,10 +28091,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -28059,6 +28099,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -28130,10 +28179,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -28142,6 +28187,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -28213,10 +28267,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -28225,6 +28275,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -28296,10 +28355,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -28308,6 +28363,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -28379,10 +28443,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -28391,6 +28451,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -28462,10 +28531,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -28474,6 +28539,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -28545,10 +28619,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -28557,6 +28627,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -28628,10 +28707,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -28640,6 +28715,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -28711,10 +28795,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -28723,6 +28803,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -28794,10 +28883,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -28806,6 +28891,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -28877,10 +28971,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -28889,6 +28979,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -28960,10 +29059,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -28972,6 +29067,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -29043,10 +29147,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -29055,6 +29155,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -29126,10 +29235,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -29138,6 +29243,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -29209,10 +29323,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -29221,6 +29331,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -29292,10 +29411,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -29304,6 +29419,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -29375,10 +29499,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -29387,6 +29507,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -29458,10 +29587,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "primary",
       "language_certainty": "Para 2027 se anuncian grupos con docentes nativos de español. El programa infantil se describe como 100% en español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -29470,6 +29595,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "ico-oaxaca-kids",
       "camp_programme_id": "CP461",
+      "language_roles": {
+        "instruction": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "ES"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",
@@ -29558,8 +29692,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "El principal ES/EN/RU y la asistencia permanente a un grupo concreto no se han confirmado. su propio internationalblog distingue directamente a los campistas extranjeros y a la bilingualimmersion; el historial de la composición internacional no es el ENcurriculum.",
       "participation": "residential",
       "admission_kind": "open_application",
@@ -29567,7 +29699,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "santa-ursula-general",
-      "camp_programme_id": "CP591"
+      "camp_programme_id": "CP591",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP591-20270717-20270723-summer-2027-07-17-2027-07-23",
@@ -29643,8 +29778,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "El principal ES/EN/RU y la asistencia permanente a un grupo concreto no se han confirmado. su propio internationalblog distingue directamente a los campistas extranjeros y a la bilingualimmersion; el historial de la composición internacional no es el ENcurriculum.",
       "participation": "residential",
       "admission_kind": "open_application",
@@ -29652,7 +29785,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "santa-ursula-general",
-      "camp_programme_id": "CP591"
+      "camp_programme_id": "CP591",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP591-20270710-20270723-summer-2027-07-10-2027-07-23",
@@ -29728,8 +29864,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "El principal ES/EN/RU y la asistencia permanente a un grupo concreto no se han confirmado. su propio internationalblog distingue directamente a los campistas extranjeros y a la bilingualimmersion; el historial de la composición internacional no es el ENcurriculum.",
       "participation": "residential",
       "admission_kind": "open_application",
@@ -29737,7 +29871,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "santa-ursula-general",
-      "camp_programme_id": "CP591"
+      "camp_programme_id": "CP591",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP592-20270111-20270115",
@@ -29799,8 +29936,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La lengua de la página no prueba la lengua de enseñanza. la EN/ES/RU principal, la ayuda en segunda lengua y la admisión extranjera de un cambio concreto aún no han sido confirmadas. los entrenadores/ES españoles la página no es prueba de la lengua de instrucciones; la EN variante del sitio tampoco es ENcourse.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -29808,7 +29943,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "avanza-real-madrid-cr",
-      "camp_programme_id": "CP592"
+      "camp_programme_id": "CP592",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP592-20270118-20270122",
@@ -29870,8 +30008,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La lengua de la página no prueba la lengua de enseñanza. la EN/ES/RU principal, la ayuda en segunda lengua y la admisión extranjera de un cambio concreto aún no han sido confirmadas. los entrenadores/ES españoles la página no es prueba de la lengua de instrucciones; la EN variante del sitio tampoco es ENcourse.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -29879,7 +30015,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "avanza-real-madrid-cr",
-      "camp_programme_id": "CP592"
+      "camp_programme_id": "CP592",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP612-20270614-20270618-week-1",
@@ -29947,10 +30086,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "language_lessons",
       "language_certainty": "confirmado 10 horas de clases de español por semana. Bilingual staff y un profesor separado EN/ES mencionados, Pero el lenguaje del día, apoyo en inglés a un grupo concreto y las clases técnicas en EN No se confirmó.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -29959,6 +30094,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "tamarindo-elementary",
       "camp_programme_id": "CP612",
+      "language_roles": {
+        "language_lessons": [
+          "ES"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "ES"
+      ],
       "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
     },
     {
@@ -30027,10 +30171,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "language_lessons",
       "language_certainty": "confirmado 10 horas de clases de español por semana. Bilingual staff y un profesor separado EN/ES mencionados, Pero el lenguaje del día, apoyo en inglés a un grupo concreto y las clases técnicas en EN No se confirmó.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -30039,6 +30179,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "tamarindo-elementary",
       "camp_programme_id": "CP612",
+      "language_roles": {
+        "language_lessons": [
+          "ES"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "ES"
+      ],
       "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
     },
     {
@@ -30107,10 +30256,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "language_lessons",
       "language_certainty": "confirmado 10 horas de clases de español por semana. Bilingual staff y un profesor separado EN/ES mencionados, Pero el lenguaje del día, apoyo en inglés a un grupo concreto y las clases técnicas en EN No se confirmó.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -30119,6 +30264,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "tamarindo-elementary",
       "camp_programme_id": "CP612",
+      "language_roles": {
+        "language_lessons": [
+          "ES"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "ES"
+      ],
       "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
     },
     {
@@ -30187,10 +30341,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "language_lessons",
       "language_certainty": "confirmado 10 horas de clases de español por semana. Bilingual staff y un profesor separado EN/ES mencionados, Pero el lenguaje del día, apoyo en inglés a un grupo concreto y las clases técnicas en EN No se confirmó.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -30199,6 +30349,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "tamarindo-elementary",
       "camp_programme_id": "CP612",
+      "language_roles": {
+        "language_lessons": [
+          "ES"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "ES"
+      ],
       "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
     },
     {
@@ -30267,10 +30426,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "language_lessons",
       "language_certainty": "confirmado 10 horas de clases de español por semana. Bilingual staff y un profesor separado EN/ES mencionados, Pero el lenguaje del día, apoyo en inglés a un grupo concreto y las clases técnicas en EN No se confirmó.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -30279,6 +30434,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "tamarindo-elementary",
       "camp_programme_id": "CP612",
+      "language_roles": {
+        "language_lessons": [
+          "ES"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "ES"
+      ],
       "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
     },
     {
@@ -30347,10 +30511,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "language_lessons",
       "language_certainty": "confirmado 10 horas de clases de español por semana. Bilingual staff y un profesor separado EN/ES mencionados, Pero el lenguaje del día, apoyo en inglés a un grupo concreto y las clases técnicas en EN No se confirmó.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -30359,6 +30519,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "tamarindo-elementary",
       "camp_programme_id": "CP612",
+      "language_roles": {
+        "language_lessons": [
+          "ES"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "ES"
+      ],
       "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
     },
     {
@@ -30427,10 +30596,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "language_lessons",
       "language_certainty": "confirmado 10 horas de clases de español por semana. Bilingual staff y un profesor separado EN/ES mencionados, Pero el lenguaje del día, apoyo en inglés a un grupo concreto y las clases técnicas en EN No se confirmó.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -30439,6 +30604,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "tamarindo-elementary",
       "camp_programme_id": "CP612",
+      "language_roles": {
+        "language_lessons": [
+          "ES"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "ES"
+      ],
       "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
     },
     {
@@ -30507,10 +30681,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "language_lessons",
       "language_certainty": "confirmado 10 horas de clases de español por semana. Bilingual staff y un profesor separado EN/ES mencionados, Pero el lenguaje del día, apoyo en inglés a un grupo concreto y las clases técnicas en EN No se confirmó.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -30519,6 +30689,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "tamarindo-elementary",
       "camp_programme_id": "CP612",
+      "language_roles": {
+        "language_lessons": [
+          "ES"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "ES"
+      ],
       "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
     },
     {
@@ -30587,10 +30766,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "ES"
-      ],
-      "language_mode": "language_lessons",
       "language_certainty": "confirmado 10 horas de clases de español por semana. Bilingual staff y un profesor separado EN/ES mencionados, Pero el lenguaje del día, apoyo en inglés a un grupo concreto y las clases técnicas en EN No se confirmó.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -30599,6 +30774,15 @@
       "date_precision": "published_rule",
       "camp_dossier_slug": "tamarindo-elementary",
       "camp_programme_id": "CP612",
+      "language_roles": {
+        "language_lessons": [
+          "ES"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "ES"
+      ],
       "date_rule": "El sitio claramente enumera nueve Monday starts2027 y la regla Monday through Friday08–14; final de cada semana se calcula como el lunes+4días."
     },
     {
@@ -30726,8 +30910,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "No se ha establecido el idioma EN/ES/RU de las actividades y acompañamiento concretos.",
       "participation": "residential",
       "admission_kind": "open_application",
@@ -30736,6 +30918,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "coyote-short",
       "camp_programme_id": "CP613",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "deadline_label": "Fin de tarifa anticipada; no cierre de inscripción"
     },
     {
@@ -30791,8 +30976,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "No se ha establecido el idioma EN/ES/RU de las actividades y acompañamiento concretos.",
       "participation": "residential",
       "admission_kind": "open_application",
@@ -30801,6 +30984,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "coyote-junior",
       "camp_programme_id": "CP614",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "Pascua: la tarjeta HTML y el enlace siguen indicando lista de espera, mientras la tabla pública conectada marca la misma edición como Ok. La fecha coincide, pero no se confirman inscripción abierta ni plazas; antes del viaje hace falta respuesta del organizador.",
@@ -30862,8 +31048,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Las páginas y el tratado son en español; no hay una declaración directa sobre el idioma de instrucción.",
       "participation": "residential",
       "admission_kind": "open_application",
@@ -30871,7 +31055,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "pipiol-summer-one",
-      "camp_programme_id": "CP731"
+      "camp_programme_id": "CP731",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP732-20270719-20270731",
@@ -30926,8 +31113,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Las páginas y el tratado son en español; no hay una declaración directa sobre el idioma de instrucción.",
       "participation": "residential",
       "admission_kind": "open_application",
@@ -30935,7 +31120,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "pipiol-summer-two",
-      "camp_programme_id": "CP732"
+      "camp_programme_id": "CP732",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP814-20270805-20270808",
@@ -30987,8 +31175,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "ES es probable por operador mexicano, pero la lengua de las clases concretas no se publicó directamente. EN/RU y la recepción individual extranjera confirmar.",
       "participation": "mixed_camp",
       "admission_kind": "open_application",
@@ -30996,7 +31182,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "berkana-tyr-day-board",
-      "camp_programme_id": "CP814"
+      "camp_programme_id": "CP814",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP944-20270118-20270121",
@@ -31046,8 +31235,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Confirmar con el operador el idioma del grupo concreto.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -31056,6 +31243,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "ucr-cimm-matenciar",
       "camp_programme_id": "CP944",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2027-01-18",
@@ -31148,8 +31338,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La lengua de enseñanza no está directamente establecida. la página de español no confirma el curso ES, EN o bilingüe; el filtro de idioma confirmado no existe.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -31157,7 +31345,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "cenfotec-ai-teen",
-      "camp_programme_id": "CP1080"
+      "camp_programme_id": "CP1080",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1124-20261207-20261211",
@@ -31207,8 +31398,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -31217,6 +31406,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-juguemos-robots-2026-27",
       "camp_programme_id": "CP1124",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-12-07",
@@ -31315,8 +31507,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -31325,6 +31515,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-juguemos-robots-2026-27",
       "camp_programme_id": "CP1124",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2027-01-11",
@@ -31423,8 +31616,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -31433,6 +31624,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-juguemos-robots-2026-27",
       "camp_programme_id": "CP1124",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2027-01-25",
@@ -31531,8 +31725,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -31541,6 +31733,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-historias-animadas-2026-27",
       "camp_programme_id": "CP1125",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2027-01-18",
@@ -31639,8 +31834,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -31649,6 +31842,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-creatividad-7-9-2026-27",
       "camp_programme_id": "CP1126",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2027-01-25",
@@ -31747,8 +31943,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -31757,6 +31951,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-robotica-nivel-1-2026-27",
       "camp_programme_id": "CP1127",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-12-07",
@@ -31855,8 +32052,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -31865,6 +32060,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-robotica-nivel-1-2026-27",
       "camp_programme_id": "CP1127",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2027-01-11",
@@ -31963,8 +32161,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -31973,6 +32169,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-robotica-nivel-2-2026-27",
       "camp_programme_id": "CP1128",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2027-01-18",
@@ -32071,8 +32270,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -32081,6 +32278,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-robotica-nivel-3-2026-27",
       "camp_programme_id": "CP1129",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2027-01-25",
@@ -32179,8 +32379,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La descripción pública y el formulario están en español; no hay confirmación separada del idioma oral ni del apoyo en inglés. La interfaz española no cuenta como enseñanza ES.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -32189,6 +32387,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-robotica-nivel-4-2026-27",
       "camp_programme_id": "CP1130",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2027-01-11",
@@ -32287,8 +32488,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -32297,6 +32496,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-creatividad-10-12-2026-27",
       "camp_programme_id": "CP1131",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2027-01-18",
@@ -32395,8 +32597,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -32405,6 +32605,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-edificaciones-3d-nivel-1-2026-27",
       "camp_programme_id": "CP1132",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-12-07",
@@ -32503,8 +32706,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -32513,6 +32714,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-edificaciones-3d-nivel-1-2026-27",
       "camp_programme_id": "CP1132",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2027-01-11",
@@ -32611,8 +32815,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -32621,6 +32823,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-edificaciones-3d-nivel-1-2026-27",
       "camp_programme_id": "CP1132",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2027-01-18",
@@ -32719,8 +32924,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -32729,6 +32932,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-edificaciones-3d-nivel-2-2026-27",
       "camp_programme_id": "CP1133",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2027-01-25",
@@ -32827,8 +33033,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -32837,6 +33041,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-microplacas-nivel-1-2026-27",
       "camp_programme_id": "CP1134",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2027-01-18",
@@ -32935,8 +33142,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -32945,6 +33150,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "fod-microplacas-nivel-2-2026-27",
       "camp_programme_id": "CP1135",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2027-01-25",
@@ -33040,8 +33248,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Idioma EN/ES/RU del instructor del taller concreto sin confirmar. Una página inglesa o española por sí sola no acredita el idioma de las actividades.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -33050,6 +33256,9 @@
       "date_precision": "published_window",
       "camp_dossier_slug": "monterrey-talking-robots-2026",
       "camp_programme_id": "CP1163",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-11-12",
@@ -33109,8 +33318,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -33118,7 +33325,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-overnight",
-      "camp_programme_id": "CP1436"
+      "camp_programme_id": "CP1436",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1436-20261219-20261220-overnight-20261219",
@@ -33165,8 +33375,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -33174,7 +33382,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-overnight",
-      "camp_programme_id": "CP1436"
+      "camp_programme_id": "CP1436",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1436-20270102-20270103-overnight-20270102",
@@ -33221,8 +33432,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -33230,7 +33439,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-overnight",
-      "camp_programme_id": "CP1436"
+      "camp_programme_id": "CP1436",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1436-20270116-20270117-overnight-20270116",
@@ -33277,8 +33489,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -33286,7 +33496,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-overnight",
-      "camp_programme_id": "CP1436"
+      "camp_programme_id": "CP1436",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1436-20270206-20270207-overnight-20270206",
@@ -33333,8 +33546,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -33342,7 +33553,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-overnight",
-      "camp_programme_id": "CP1436"
+      "camp_programme_id": "CP1436",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1436-20270220-20270221-overnight-20270220",
@@ -33389,8 +33603,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -33398,7 +33610,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-overnight",
-      "camp_programme_id": "CP1436"
+      "camp_programme_id": "CP1436",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1436-20270227-20270228-overnight-20270227",
@@ -33445,8 +33660,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -33454,7 +33667,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-overnight",
-      "camp_programme_id": "CP1436"
+      "camp_programme_id": "CP1436",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1436-20270306-20270307-overnight-20270306",
@@ -33501,8 +33717,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -33510,7 +33724,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-overnight",
-      "camp_programme_id": "CP1436"
+      "camp_programme_id": "CP1436",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1436-20270320-20270321-overnight-20270320",
@@ -33557,8 +33774,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -33566,7 +33781,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-overnight",
-      "camp_programme_id": "CP1436"
+      "camp_programme_id": "CP1436",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1436-20270403-20270404-overnight-20270403",
@@ -33613,8 +33831,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -33622,7 +33838,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-overnight",
-      "camp_programme_id": "CP1436"
+      "camp_programme_id": "CP1436",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1436-20270417-20270418-overnight-20270417",
@@ -33669,8 +33888,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -33678,7 +33895,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-overnight",
-      "camp_programme_id": "CP1436"
+      "camp_programme_id": "CP1436",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1436-20270501-20270502-overnight-20270501",
@@ -33725,8 +33945,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -33734,7 +33952,10 @@
       "date_scope": "camp_session",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-overnight",
-      "camp_programme_id": "CP1436"
+      "camp_programme_id": "CP1436",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1437-20261212-20261212-evening-20261212",
@@ -33781,8 +34002,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -33790,7 +34009,10 @@
       "date_scope": "workshop_window",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-evening",
-      "camp_programme_id": "CP1437"
+      "camp_programme_id": "CP1437",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1437-20261219-20261219-evening-20261219",
@@ -33837,8 +34059,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -33846,7 +34066,10 @@
       "date_scope": "workshop_window",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-evening",
-      "camp_programme_id": "CP1437"
+      "camp_programme_id": "CP1437",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1437-20270102-20270102-evening-20270102",
@@ -33893,8 +34116,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -33902,7 +34123,10 @@
       "date_scope": "workshop_window",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-evening",
-      "camp_programme_id": "CP1437"
+      "camp_programme_id": "CP1437",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1437-20270116-20270116-evening-20270116",
@@ -33949,8 +34173,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -33958,7 +34180,10 @@
       "date_scope": "workshop_window",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-evening",
-      "camp_programme_id": "CP1437"
+      "camp_programme_id": "CP1437",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1437-20270206-20270206-evening-20270206",
@@ -34005,8 +34230,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -34014,7 +34237,10 @@
       "date_scope": "workshop_window",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-evening",
-      "camp_programme_id": "CP1437"
+      "camp_programme_id": "CP1437",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1437-20270220-20270220-evening-20270220",
@@ -34061,8 +34287,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -34070,7 +34294,10 @@
       "date_scope": "workshop_window",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-evening",
-      "camp_programme_id": "CP1437"
+      "camp_programme_id": "CP1437",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1437-20270227-20270227-evening-20270227",
@@ -34117,8 +34344,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -34126,7 +34351,10 @@
       "date_scope": "workshop_window",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-evening",
-      "camp_programme_id": "CP1437"
+      "camp_programme_id": "CP1437",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1437-20270306-20270306-evening-20270306",
@@ -34173,8 +34401,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -34182,7 +34408,10 @@
       "date_scope": "workshop_window",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-evening",
-      "camp_programme_id": "CP1437"
+      "camp_programme_id": "CP1437",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1437-20270320-20270320-evening-20270320",
@@ -34229,8 +34458,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -34238,7 +34465,10 @@
       "date_scope": "workshop_window",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-evening",
-      "camp_programme_id": "CP1437"
+      "camp_programme_id": "CP1437",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1437-20270403-20270403-evening-20270403",
@@ -34285,8 +34515,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -34294,7 +34522,10 @@
       "date_scope": "workshop_window",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-evening",
-      "camp_programme_id": "CP1437"
+      "camp_programme_id": "CP1437",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1437-20270417-20270417-evening-20270417",
@@ -34341,8 +34572,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -34350,7 +34579,10 @@
       "date_scope": "workshop_window",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-evening",
-      "camp_programme_id": "CP1437"
+      "camp_programme_id": "CP1437",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1437-20270501-20270501-evening-20270501",
@@ -34397,8 +34629,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción oficial en español. Idioma de visita oral y apoyo EN / ES sin establecer por separado; idioma de página no acredita idioma de actividad.",
       "participation": "family_visit",
       "admission_kind": "family",
@@ -34406,7 +34636,10 @@
       "date_scope": "workshop_window",
       "date_precision": "published_session",
       "camp_dossier_slug": "gio-grecia-astronomy-evening",
-      "camp_programme_id": "CP1437"
+      "camp_programme_id": "CP1437",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": []
     },
     {
       "id": "CP1477-20261106-20261211-friday-a",
@@ -34457,8 +34690,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.",
       "participation": "day_camp",
       "admission_kind": "unknown",
@@ -34467,6 +34698,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "dimex-mi-primer-robot",
       "camp_programme_id": "CP1477",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "attendance_weekdays": [
         "FR"
       ],
@@ -34521,8 +34755,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.",
       "participation": "day_camp",
       "admission_kind": "unknown",
@@ -34531,6 +34763,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "dimex-mi-primer-robot",
       "camp_programme_id": "CP1477",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "attendance_weekdays": [
         "FR"
       ],
@@ -34585,8 +34820,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.",
       "participation": "day_camp",
       "admission_kind": "unknown",
@@ -34595,6 +34828,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "dimex-mi-primer-robot",
       "camp_programme_id": "CP1477",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "attendance_weekdays": [
         "SA"
       ],
@@ -34644,8 +34880,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La organización no indica expresamente el idioma de enseñanza del grupo concreto.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -34654,6 +34888,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "barca-academy-san-jose-jan-2027",
       "camp_programme_id": "CP1671",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2027-01-11",
@@ -34762,8 +34999,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "El idioma de instrucción de la sesión concreta no está indicado. Confirmar inglés y español.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -34772,6 +35007,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "adec-kids-camp-escalante-2026",
       "camp_programme_id": "CP1855",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción."
@@ -34822,8 +35060,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -34832,6 +35068,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "museo-kaluz-winter-vitrales",
       "camp_programme_id": "CP1857",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción."
@@ -34882,8 +35121,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -34892,6 +35129,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "museo-kaluz-winter-vitrales",
       "camp_programme_id": "CP1857",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción."
@@ -34942,8 +35182,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -34952,6 +35190,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "museo-kaluz-winter-vitrales",
       "camp_programme_id": "CP1857",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción."
@@ -35002,8 +35243,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -35012,6 +35251,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "museo-kaluz-winter-dijes",
       "camp_programme_id": "CP1858",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción."
@@ -35062,8 +35304,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -35072,6 +35312,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "museo-kaluz-winter-dijes",
       "camp_programme_id": "CP1858",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción."
@@ -35122,8 +35365,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -35132,6 +35373,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "museo-kaluz-winter-dijes",
       "camp_programme_id": "CP1858",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción."
@@ -35182,8 +35426,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -35192,6 +35434,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "museo-kaluz-winter-tote",
       "camp_programme_id": "CP1859",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción."
@@ -35242,8 +35487,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -35252,6 +35495,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "museo-kaluz-winter-tote",
       "camp_programme_id": "CP1859",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción."
@@ -35302,8 +35548,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -35312,6 +35556,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "museo-kaluz-winter-tote",
       "camp_programme_id": "CP1859",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción."
@@ -35362,8 +35609,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "La página pública describe el programa. Confirmar idioma de trabajo del grupo concreto.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -35372,6 +35617,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "museo-kaluz-winter-tote",
       "camp_programme_id": "CP1859",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "Fechas publicadas. Confirmar disponibilidad y condiciones de inscripción."
@@ -35422,8 +35670,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
       "participation": "family_visit",
       "admission_kind": "open_application",
@@ -35432,6 +35678,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "observando-cosmos-acambay-2026",
       "camp_programme_id": "CP1875",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
@@ -35482,8 +35731,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
       "participation": "family_visit",
       "admission_kind": "open_application",
@@ -35492,6 +35739,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "observando-cosmos-acambay-2026",
       "camp_programme_id": "CP1875",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
@@ -35542,8 +35792,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
       "participation": "family_visit",
       "admission_kind": "open_application",
@@ -35552,6 +35800,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "observando-cosmos-acambay-2026",
       "camp_programme_id": "CP1875",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
@@ -35602,8 +35853,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "No se indica el idioma de instrucción del grupo concreto. Confirmar EN o ES antes de inscribirse.",
       "participation": "family_visit",
       "admission_kind": "open_application",
@@ -35612,6 +35861,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "observando-cosmos-acambay-2026",
       "camp_programme_id": "CP1875",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "Fechas publicadas. Disponibilidad y admisión sin confirmar."
@@ -35668,8 +35920,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "El formulario separa English Program. No indica el idioma de robótica ni de laboratorio STEAM.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -35678,6 +35928,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "new-hope-heredia-steam-2026-27",
       "camp_programme_id": "CP1890",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "El operador confirma las plazas y la aceptación de la solicitud."
@@ -35734,8 +35987,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "El formulario separa English Program. No indica el idioma de robótica ni de laboratorio STEAM.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -35744,6 +35995,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "new-hope-heredia-steam-2026-27",
       "camp_programme_id": "CP1890",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "availability": {
         "status": "unconfirmed",
         "label": "El operador confirma las plazas y la aceptación de la solicitud."
@@ -35796,10 +36050,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "EN"
-      ],
-      "language_mode": "language_lessons",
       "language_certainty": "El formulario indica clases de inglés y actividades bilingües. Hay que confirmar los idiomas de cada actividad.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -35808,6 +36058,15 @@
       "date_precision": "announced_window",
       "camp_dossier_slug": "new-hope-summer-english-2026-27",
       "camp_programme_id": "CP1987",
+      "language_roles": {
+        "language_lessons": [
+          "EN"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "EN"
+      ],
       "availability": {
         "status": "unconfirmed",
         "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
@@ -35861,10 +36120,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "EN"
-      ],
-      "language_mode": "language_lessons",
       "language_certainty": "El formulario indica clases de inglés y actividades bilingües. Hay que confirmar los idiomas de cada actividad.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -35873,6 +36128,15 @@
       "date_precision": "announced_window",
       "camp_dossier_slug": "new-hope-summer-english-2026-27",
       "camp_programme_id": "CP1987",
+      "language_roles": {
+        "language_lessons": [
+          "EN"
+        ]
+      },
+      "language_mode": "language_lessons",
+      "languages": [
+        "EN"
+      ],
       "availability": {
         "status": "unconfirmed",
         "label": "La organización muestra las fechas. Las plazas efectivas y la admisión requieren confirmación."
@@ -35931,8 +36195,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -35941,6 +36203,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "papalote-stem-week-plastibot",
       "camp_programme_id": "CP2039",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-11-10",
@@ -36010,8 +36275,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -36020,6 +36283,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "papalote-stem-week-plastibot",
       "camp_programme_id": "CP2039",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-11-10",
@@ -36089,8 +36355,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -36099,6 +36363,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "papalote-stem-week-plastibot",
       "camp_programme_id": "CP2039",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-11-12",
@@ -36168,8 +36435,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -36178,6 +36443,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "papalote-stem-week-fabrica-creativa",
       "camp_programme_id": "CP2040",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-11-11",
@@ -36247,8 +36515,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -36257,6 +36523,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "papalote-stem-week-fabrica-creativa",
       "camp_programme_id": "CP2040",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-11-11",
@@ -36326,8 +36595,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -36336,6 +36603,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "papalote-stem-week-fabrica-creativa",
       "camp_programme_id": "CP2040",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-11-11",
@@ -36405,8 +36675,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -36415,6 +36683,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "papalote-stem-week-fabrica-creativa",
       "camp_programme_id": "CP2040",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-11-12",
@@ -36484,8 +36755,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -36494,6 +36763,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "papalote-stem-week-laberinto",
       "camp_programme_id": "CP2041",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-11-10",
@@ -36563,8 +36835,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -36573,6 +36843,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "papalote-stem-week-laberinto",
       "camp_programme_id": "CP2041",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-11-10",
@@ -36642,8 +36915,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -36652,6 +36923,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "papalote-stem-week-laberinto",
       "camp_programme_id": "CP2041",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-11-10",
@@ -36721,8 +36995,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -36731,6 +37003,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "papalote-stem-week-laberinto",
       "camp_programme_id": "CP2041",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-11-12",
@@ -36800,8 +37075,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -36810,6 +37083,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "papalote-stem-week-voltcard",
       "camp_programme_id": "CP2042",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-11-11",
@@ -36879,8 +37155,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -36889,6 +37163,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "papalote-stem-week-voltcard",
       "camp_programme_id": "CP2042",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-11-11",
@@ -36958,8 +37235,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -36968,6 +37243,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "papalote-stem-week-voltcard",
       "camp_programme_id": "CP2042",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-11-11",
@@ -37037,8 +37315,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -37047,6 +37323,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "papalote-stem-week-voltcard",
       "camp_programme_id": "CP2042",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "sessions": [
         {
           "date": "2026-11-12",
@@ -37117,8 +37396,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -37127,6 +37404,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "nairda-stem-week-live-2026",
       "camp_programme_id": "CP2043",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "delivery_mode": "virtual",
       "availability": {
         "status": "unconfirmed",
@@ -37186,8 +37466,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -37196,6 +37474,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "nairda-stem-week-live-2026",
       "camp_programme_id": "CP2043",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "delivery_mode": "virtual",
       "availability": {
         "status": "unconfirmed",
@@ -37255,8 +37536,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -37265,6 +37544,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "nairda-stem-week-live-2026",
       "camp_programme_id": "CP2043",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "delivery_mode": "virtual",
       "availability": {
         "status": "unconfirmed",
@@ -37324,8 +37606,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -37334,6 +37614,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "nairda-stem-week-live-2026",
       "camp_programme_id": "CP2043",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "delivery_mode": "virtual",
       "availability": {
         "status": "unconfirmed",
@@ -37393,8 +37676,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [],
-      "language_mode": "unconfirmed",
       "language_certainty": "Descripción en español. Confirmar el idioma de instrucción y el apoyo al grupo elegido.",
       "participation": "holiday_workshop",
       "admission_kind": "open_application",
@@ -37403,6 +37684,9 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "nairda-stem-week-live-2026",
       "camp_programme_id": "CP2043",
+      "language_roles": {},
+      "language_mode": "unconfirmed",
+      "languages": [],
       "delivery_mode": "virtual",
       "availability": {
         "status": "unconfirmed",
@@ -37459,10 +37743,6 @@
       ],
       "scope": "local",
       "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
-      "languages": [
-        "EN"
-      ],
-      "language_mode": "primary",
       "language_certainty": "La organización indica el inglés como idioma de enseñanza. Hay clases de español por separado, unas 2 horas semanales.",
       "participation": "day_camp",
       "admission_kind": "open_application",
@@ -37471,6 +37751,18 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "worldwise-nosara-anatomy-2027",
       "camp_programme_id": "CP2118",
+      "language_roles": {
+        "instruction": [
+          "EN"
+        ],
+        "language_lessons": [
+          "ES"
+        ]
+      },
+      "language_mode": "primary",
+      "languages": [
+        "EN"
+      ],
       "attendance_weekdays": [
         "MO",
         "TU",

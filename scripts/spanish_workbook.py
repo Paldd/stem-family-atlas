@@ -33,7 +33,7 @@ HEADERS.update({
  'venue':'Sede','event_code':'Código del evento','event_region':'Región del evento','event_type':'Tipo de evento',
  'team_min':'Mínimo de integrantes','team_max':'Máximo de integrantes','birth_start':'Nacimiento desde',
  'birth_end':'Nacimiento hasta','date_scope':'Significado del período','event_group':'Grupo del evento',
- 'language_mode':'Función del idioma','historical_editions':'Ediciones anteriores','exhibition_tier':'Nivel de exposición',
+ 'language_mode':'Función del idioma','language_roles':'Idiomas según su función','historical_editions':'Ediciones anteriores','exhibition_tier':'Nivel de exposición',
  'visitor_policy':'Política de visitantes','visitor_policy_note':'Condiciones de visita','visitor_age_min':'Edad mínima de visitantes','adult_entry':'Entrada de adultos',
  'child_entry':'Acceso de niños y condiciones','child_entry_status':'Evidencia de acceso infantil','family_visit':'Visita familiar y días','exhibition_focus':'Temática de la exposición',
  'exhibitor_note':'Información de expositores','highlights':'Aspectos destacados','exhibitor_directory_url':'Directorio de expositores',

@@ -1,6 +1,6 @@
 'use strict';
 (() => {
-  const fields=['query','country','theme','format','child','phase','language','month','sort','review'];
+  const fields=['query','country','theme','format','child','phase','language','languageMode','month','sort','review'];
   const searchCache=new WeakMap();
   const number=v=>v!==''&&v!=null&&Number.isFinite(Number(v))&&Number(v)>=0?Number(v):null;
   const money=(n,currency)=>new Intl.NumberFormat('es',{style:'currency',currency,maximumFractionDigits:2}).format(n);
@@ -77,8 +77,13 @@
     }
     return a;
   }
+  function matchesLanguage(profile, language, role) {
+    const roles = profile.language_roles || {};
+    if (role) return language ? (roles[role] || []).includes(language) : Object.hasOwn(roles, role);
+    return !language || Object.values(roles).some(codes => codes.includes(language));
+  }
   function filterURL(href,state){const u=new URL(href);u.searchParams.delete('camp');for(const k of fields){u.searchParams.delete('camp_'+k);if(state[k]&&!(k==='sort'&&state[k]==='upcoming'))u.searchParams.set('camp_'+k,state[k]);}u.hash='camps';return u.href;}
-  function readFilters(href,profiles,themes,formats){const p=new URL(href).searchParams;const out={};const allowed={country:new Set(profiles.map(p=>p.iso)),theme:new Set(Object.keys(themes)),format:new Set(Object.keys(formats)),child:new Set(['both','matvey','oscar']),phase:new Set(['2027','published_2026','partial_2026','next_unannounced','archive_next_unannounced']),language:new Set(['EN','ES','RU','EN-support']),review:new Set(['reviewed']),sort:new Set(['upcoming','age','name','listed',...['engineering','language','general','enterprise','first_boarding','family_day','future','value'].map(g=>'recommend_'+g)])};for(const k of fields){const v=p.get('camp_'+k);if(v==null)continue;if(k==='query')out[k]=v.slice(0,200);else if(k==='month'&&/^(2026|2027)-(0[1-9]|1[0-2])$/.test(v))out[k]=v;else if(allowed[k]?.has(v))out[k]=v;}return out;}
+  function readFilters(href,profiles,themes,formats){const p=new URL(href).searchParams;const out={};const allowed={country:new Set(profiles.map(p=>p.iso)),theme:new Set(Object.keys(themes)),format:new Set(Object.keys(formats)),child:new Set(['both','matvey','oscar']),phase:new Set(['2027','published_2026','partial_2026','next_unannounced','archive_next_unannounced']),language:new Set(['EN','ES','RU']),languageMode:new Set(['instruction','partial_bilingual','camp_life','language_lessons','support','materials']),review:new Set(['reviewed']),sort:new Set(['upcoming','age','name','listed',...['engineering','language','general','enterprise','first_boarding','family_day','future','value'].map(g=>'recommend_'+g)])};for(const k of fields){const v=p.get('camp_'+k);if(v==null)continue;if(k==='query')out[k]=v.slice(0,200);else if(k==='month'&&/^(2026|2027)-(0[1-9]|1[0-2])$/.test(v))out[k]=v;else if(allowed[k]?.has(v))out[k]=v;}if(p.get('camp_language')==='EN-support'){out.language='EN';out.languageMode='support';}return out;}
   function estimate(offer,inputs={},selected=[]){
     const lines=[];const missing=[];const rejected=[];const add=(label,amount,kind)=>lines.push({label,amount:Math.round(amount*100)/100,kind});
     for(const [k,base] of Object.entries(offer.base_by_child))add((k==='matvey'?"Matvey":"Oscar")+" · el precio base",base,'published');
@@ -122,5 +127,5 @@
     renderForm();
     return {panel,open(slug,month){const a=data.offers.filter(o=>o.slug===slug);offer=a.find(o=>matchesMonth(o,month))||a[0];if(!offer)return;panel.querySelector('[data-budget-offer]').value=offer.id;renderForm();panel.open=true;panel.scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'});panel.querySelector('[data-budget-offer]').focus({preventScroll:true});}};
   }
-  window.STEM_CAMP_PLANNER={today,periods,matchesMonth,nextDate,pairedSessions,searchText,editorialAssessment,sortProfiles,filterURL,readFilters,estimate,mountBudget};
+  window.STEM_CAMP_PLANNER={today,periods,matchesMonth,nextDate,pairedSessions,searchText,editorialAssessment,sortProfiles,matchesLanguage,filterURL,readFilters,estimate,mountBudget};
 })();

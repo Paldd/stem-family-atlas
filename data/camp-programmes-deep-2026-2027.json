@@ -320395,7 +320395,12 @@
       "programme_type": "day_camp",
       "catalog_participation": "day_camp",
       "related_event_ids": [],
-      "materials_languages": []
+      "materials_languages": [],
+      "language_roles": {
+        "language_lessons": [
+          "ES"
+        ]
+      }
     },
     {
       "id": "CP2119",
@@ -320488,7 +320493,12 @@
       "programme_type": "day_camp",
       "catalog_participation": "day_camp",
       "related_event_ids": [],
-      "materials_languages": []
+      "materials_languages": [],
+      "language_roles": {
+        "language_lessons": [
+          "ES"
+        ]
+      }
     },
     {
       "id": "CP2120",
@@ -325879,7 +325889,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 305,
+  "version": 306,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",

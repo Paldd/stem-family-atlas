@@ -870,7 +870,7 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 305,
+    "version": 306,
     "status": "implementation_snapshot",
     "events": 10819,
     "competitions": 4812,
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 304,
+    "version": 305,
     "status": "implementation_snapshot",
-    "events": 10794,
+    "events": 10819,
     "competitions": 4812,
     "league_profiles": 309,
-    "camp_dossiers": 2117,
+    "camp_dossiers": 2120,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 305,
+    "prepared_ui_version": 306,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 304,
-    "previous_verified_commit": "3712938e47475580f68b13ea8aaf2a51c8a68a0d"
+    "previous_verified_ui_version": 305,
+    "previous_verified_commit": "3aa6edee1846d40078be14c85a606182bcbbcd4c"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -31595,5 +31595,16 @@
       "CP304"
     ],
     "wild_roots": "CP358"
+  },
+  "language_roles_v306": {
+    "version": 306,
+    "explicit_language_roles": true,
+    "language_filter_and_role_filter": true,
+    "legacy_english_support_links_preserved": true,
+    "worldwise_spanish_lessons": [
+      "CP2118",
+      "CP2119"
+    ],
+    "worldwide_complete": false
   }
 }

@@ -24831,7 +24831,7 @@ Matway: Sí, por edad; inscripción separada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: residente
 Idioma: Todas las actividades se realizan en español. Los monitores pueden ayudar en inglés cuando sea necesario.
-Marca de idioma: camp_life; soporte: no declarado
+Marca lingüística: camp_life; apoyo: EN
 Costo: 2027 - USD 1290/1352, fecha de la tarifa - pago adicional y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 restricciones: Matvey: Edad 9–10 Es muy bueno.; siete noches y la comunicación para discutir. Oscar: sólo después 7-de los años 24 enero 2027; el día exacto de su nacimiento no se sabe. Gastos adicionales: descuento sibling/excamper 60 USD con limitaciones de los tarifas. vuela por separado; el seguro y el contrato final. el pago: Todos los pagos antes del inicio. Se trata de una referencia de cancelación 2026; condiciones 2027 No lo consideramos confirmado..
@@ -24847,7 +24847,7 @@ Matway: Sí, por edad; inscripción separada
 Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: Todas las actividades se realizan en español. Los monitores pueden ayudar en inglés cuando sea necesario.
-Marca de idioma: camp_life; soporte: no declarado
+Marca lingüística: camp_life; apoyo: EN
 Costo: 2027 - USD 400/semana - Suplementos y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 corresponde a ambos límites publicados. Oscar: 6–7 Ajustado; No hay noches.. Gastos adicionales: Desayuno en casa; Los padres traen/Se llevan en el campo. City-bus Del total footer no se puede transportar a El Valle. Sibling/excamper 20 USD especificar. Pago: Asignación de un plazo con tarjeta; contrato aplicable 2027 y la cancelación de la obligación de recibir por separado.
@@ -24863,7 +24863,7 @@ Matway: Sí, por edad; inscripción separada
 Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: Todas las actividades se realizan en español. Los monitores pueden ayudar en inglés cuando sea necesario.
-Marca de idioma: camp_life; soporte: no declarado
+Marca lingüística: camp_life; apoyo: EN
 Precio: 2027 · USD 290 por menor por semana, ITBMS incluido. Descuento de USD 20 por semana para hermano o excampista. Al asistir dos semanas el mismo menor, descuento de USD 50 sin otros descuentos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
@@ -24879,7 +24879,7 @@ Matway: Sí, por edad; inscripción separada
 Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: Todas las actividades se realizan en español. Los monitores pueden ayudar en inglés cuando sea necesario.
-Marca de idioma: camp_life; soporte: no declarado
+Marca lingüística: camp_life; apoyo: EN
 Precio: 2027 · USD 290 por menor por semana, ITBMS incluido. Descuento de USD 20 por semana para hermano o excampista. Al asistir dos semanas el mismo menor, descuento de USD 50 sin otros descuentos. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad adecuada según el rango publicado. Confirmar plaza e idioma del grupo. Oscar: Sí por edad. Confirmar aparte la admisión y la plaza. Suplementos: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
@@ -38847,7 +38847,7 @@ Matway: Sí, por edad; inscripción separada
 Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: English ○ principal idioma, Chinese-speaking team support, es un programa directo de declaración, no una suposición de sitio web.
-Marca de idioma: camp_life; soporte: no declarado
+Función del idioma: camp_life; apoyo: ZH
 Precio: 2027 · RMB 43000 standard / 41800 EiM / 40800 early; unidad de tarifa desconocida · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Los vuelos internacionales y nacionales de Finlandia y las tarifas de visa están excluidos. el traslado norte overnight train OR domestic flight, la logística final es desconocida: no se considera el traslado aéreo incluido en el transporte local. el seguro, la ropa de invierno y las comidas adicionales no se conocen. Pago: el contrato completo, la recepción individual extranjera, el seguro médico, el lugar y la cuenta final requieren confirmación.
@@ -38863,7 +38863,7 @@ Matway: Sí, por edad; inscripción separada
 Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: English ○ principal idioma, Chinese-speaking team support, es un programa directo de declaración, no una suposición de sitio web.
-Marca de idioma: camp_life; soporte: no declarado
+Función del idioma: camp_life; apoyo: ZH
 Precio: 2027 · RMB 43000 standard / 41800 EiM / 40800 early; unidad de tarifa desconocida · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Los vuelos internacionales y nacionales de Finlandia y las tarifas de visa están excluidos. el traslado norte overnight train OR domestic flight, la logística final es desconocida: no se considera el traslado aéreo incluido en el transporte local. el seguro, la ropa de invierno y las comidas adicionales no se conocen. Pago: el contrato completo, la recepción individual extranjera, el seguro médico, el lugar y la cuenta final requieren confirmación.
@@ -38959,7 +38959,7 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Oscar: especificar; no se ha establecido la edad de admisión
 Formato: mixed_camp
 Idioma: English-lettasks, foreign TA y Chinese-speakingteachers; naturalmente, EN/ZH: las reglas se explican de manera que cada vez se entienda. El apoyo crítico en la zona requiere verificación. Enregistration/briefing/emergencyparentcontact existe; se desconoce a la familia china.
-Marca de idioma: primary; soporte: no declarado
+Función del idioma: partial_bilingual; apoyo: EN
 Costo: 2027 · NT13800day /19800board beforeextras · pagos complementarios y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Lo necesito. actualcurrent Grade2–4; no se puede clasificar 2017 años. Chinese Debates complejos/posibilidad EN traducir. Oscar: Currentgrade2–4 Desconocido; 2017/2020 No confirma la escuela. No prometemos a este joven.. Gastos adicionales: Campclothes300/item (ownoldshirtmayreuse); latepickup17–18:30NT1000/wholecamp, ad-hoc400/occasionfirstfree. Dinner/pocketmoney/travel/airports/dailytransport aún no valorados. Dos programas idénticos 27600day o 39600board antes clothes/cenas; no permitido. Pago: NT 800off c 2 El niño de turno, discounts no stack/earlybirddates no anunciadas. Refund/paymentcontract en sharedform no leído/no aceptada; Saldo de servicio waitlist sin anunciar.
@@ -38975,7 +38975,7 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Oscar: especificar; no se ha establecido la edad de admisión
 Formato: mixed_camp
 Idioma: Owncourse FAQ no all-English: contrafraznada EN, complejo pricing/inventory/problems se explica por Chinese. El headline English-led no da a EN todo el debate comercial. Enregistration/briefing/emergencyparentcontact existe; se desconoce la familia china.
-Marca de idioma: primary; soporte: no declarado
+Función del idioma: partial_bilingual; apoyo: EN
 Costo: 2027 · NT13800day /19800board beforeextras · pagos complementarios y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Lo necesito. actualcurrent Grade4–7; no se puede clasificar 2017 años. Chinese Debates complejos/posibilidad EN traducir. Oscar: Currentgrade4–7 Desconocido; 2017/2020 No confirma la escuela. No prometemos a este joven.. Gastos adicionales: Campclothes300/item (ownoldshirtmayreuse); latepickup17–18:30NT1000/wholecamp, ad-hoc400/occasionfirstfree. Dinner/pocketmoney/travel/airports/dailytransport aún no valorados. Dos programas idénticos 27600day o 39600board antes clothes/cenas; no permitido. Pago: NT 800off c 2 El niño de turno, discounts no stack/earlybirddates no anunciadas. Refund/paymentcontract en sharedform no leído/no aceptada; Saldo de servicio waitlist sin anunciar.
@@ -38991,7 +38991,7 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Oscar: especificar; no se ha establecido la edad de admisión
 Formato: mixed_camp
 Idioma: Own FAQ:corequestions/taskinstructions/tools en EN; normas, reuniones/conflicts/dailyreflection en Chinese: Enprogramme incompleto; apoyo a la familia EN. Enregistration/briefing/emergencyparentcontact existe; desconocido en chino.
-Marca de idioma: primary; soporte: no declarado
+Función del idioma: partial_bilingual; apoyo: EN
 Costo: 2027 · NT13800day /19800board beforeextras · pagos complementarios y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Lo necesito. actualcurrent Grade4–7; no se puede clasificar 2017 años. Chinese Debates complejos/posibilidad EN traducir. Oscar: Currentgrade4–7 Desconocido; 2017/2020 No confirma la escuela. No prometemos a este joven.. Gastos adicionales: Campclothes300/item (ownoldshirtmayreuse); latepickup17–18:30NT1000/wholecamp, ad-hoc400/occasionfirstfree. Dinner/pocketmoney/travel/airports/dailytransport aún no valorados. Dos programas idénticos 27600day o 39600board antes clothes/cenas; no permitido. Pago: NT 800off c 2 El niño de turno, discounts no stack/earlybirddates no anunciadas. Refund/paymentcontract en sharedform no leído/no aceptada; Saldo de servicio waitlist sin anunciar.
@@ -39007,7 +39007,7 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Oscar: especificar; no se ha establecido la edad de admisión
 Formato: mixed_camp
 Idioma: Microscopeinstructions/comparisonphrases en EN; criticalrules/faircountdecision/reflection en Chinese; ninguna promesa de EN desbarates científicos; ownfamily Ensupport, en Enregistration/briefing/emergencyparentcontact; familia desconocida en China.
-Marca de idioma: primary; soporte: no declarado
+Función del idioma: partial_bilingual; apoyo: EN
 Costo: 2027 · NT13800day /19800board beforeextras · pagos complementarios y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Lo necesito. actualcurrent Grade2–4; no se puede clasificar 2017 años. Chinese Debates complejos/posibilidad EN traducir. Oscar: Currentgrade2–4 Desconocido; 2017/2020 No confirma la escuela. No prometemos a este joven.. Gastos adicionales: Campclothes300/item (ownoldshirtmayreuse); latepickup17–18:30NT1000/wholecamp, ad-hoc400/occasionfirstfree. Dinner/pocketmoney/travel/airports/dailytransport aún no valorados. Dos programas idénticos 27600day o 39600board antes clothes/cenas; no permitido. Pago: NT 800off c 2 El niño de turno, discounts no stack/earlybirddates no anunciadas. Refund/paymentcontract en sharedform no leído/no aceptada; Saldo de servicio waitlist sin anunciar.
@@ -39023,7 +39023,7 @@ Matway: especificar; no se ha establecido la edad de admisión
 Oscar: especificar; no se ha establecido la edad de admisión
 Formato: mixed_camp
 Idioma: Mandarin-first. Enesentialsupport:designatedcontacteverysession and parentemergency Enline: EN SUPPORT, no enseñanza en inglés; se requiere una conversación/seguridad típicas.
-Marca de idioma: unconfirmed; apoyo: no declarado
+Marca lingüística: support; support: EN
 Costo: 2027 · NT14800day /20800optionalboard · postergaciones y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Grade3–6yMandarin comprehensiondesconocidos. Oscar: Grade3–6yMandarin comprehensiondesconocidos. Gastos adicionales: Cityhostelbreakfastincluded, dinnerexcluded; Waterlunch+dinner de pocketmoney, publictransit Easy Card Por su cuenta (2dayscoachincluded). Railmeals/fares especificar. Gear/rainwear/campclothes/airports adicional. Wildnightroomtypesunknown. Pago: NT 800samechildadditionalcamp, nostacking/earlybirdunannounced. Pagos a plazo/cancelar/Seguro/Total contract Desconocidos.
@@ -39039,7 +39039,7 @@ Matway: especificar; no se ha establecido la edad de admisión
 Oscar: especificar; no se ha establecido la edad de admisión
 Formato: mixed_camp
 Idioma: Mandarin-first. Enesentialsupport:designatedcontacteverysession and parentemergency Enline: EN SUPPORT, no enseñanza en inglés; se requiere una conversación/seguridad típicas.
-Marca de idioma: unconfirmed; apoyo: no declarado
+Marca lingüística: support; support: EN
 Costo: 2027 · NT15800 includes1night · adscripciones y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Grade2–4yMandarin comprehensiondesconocidos. Oscar: Grade2–4yMandarin comprehensiondesconocidos. Gastos adicionales: Cityhostelbreakfastincluded, dinnerexcluded; Waterlunch+dinner de pocketmoney, publictransit Easy Card Por su cuenta (2dayscoachincluded). Railmeals/fares especificar. Gear/rainwear/campclothes/airports adicional. Wildnightroomtypesunknown. Pago: NT 800samechildadditionalcamp, nostacking/earlybirdunannounced. Pagos a plazo/cancelar/Seguro/Total contract Desconocidos.
@@ -39055,7 +39055,7 @@ Matway: especificar; no se ha establecido la edad de admisión
 Oscar: especificar; no se ha establecido la edad de admisión
 Formato: residente
 Idioma: Mandarin-first. Enesentialsupport:designatedcontacteverysession and parentemergency Enline: EN SUPPORT, no enseñanza en inglés; se requiere una conversación/seguridad típicas.
-Marca de idioma: unconfirmed; apoyo: no declarado
+Marca lingüística: support; support: EN
 Costo: 2027 · NT19800 includes4nights, lunch/dinner/transitextra · subpagos y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Grade2–6yMandarin comprehensiondesconocidos. Oscar: Grade2–6yMandarin comprehensiondesconocidos. Gastos adicionales: Cityhostelbreakfastincluded, dinnerexcluded; Waterlunch+dinner de pocketmoney, publictransit Easy Card Por su cuenta (2dayscoachincluded). Railmeals/fares especificar. Gear/rainwear/campclothes/airports adicional. Wildnightroomtypesunknown. Pago: NT 800samechildadditionalcamp, nostacking/earlybirdunannounced. Pagos a plazo/cancelar/Seguro/Total contract Desconocidos.
@@ -39071,7 +39071,7 @@ Matway: especificar; no se ha establecido la edad de admisión
 Oscar: especificar; no se ha establecido la edad de admisión
 Formato: mixed_camp
 Idioma: Mandarin-first. Enesentialsupport:designatedcontacteverysession and parentemergency Enline: EN SUPPORT, no enseñanza en inglés; se requiere una conversación/seguridad típicas.
-Marca de idioma: unconfirmed; apoyo: no declarado
+Marca lingüística: support; support: EN
 Costo: 2027 · NT16800includes1night; optional3nights4500, total21300 · pagos complementarios y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matway: Grade3-7 y Mandarin comprehensives desconocidos; Oscar: Grade3-7-Mandarin comprehensive; Appoint: Cityhostelbreakfastincluded, dinnerexcluded; Waterlunch+dinner de pocketmoney, publictransit Easy Card por sí mismo (2dayscoachincluded); Railmeals/fares, refinación: Gear/rainwear/cammplothes/airports, Wildnightroomtypesunknown, pago: NT 800samechildadditionalcamp, nostacking/earlybirdunannounced; No se conocen los plazos de pago/retir/seguro/contract.
@@ -39087,7 +39087,7 @@ Matway: especificar; no se ha establecido la edad de admisión
 Oscar: especificar; no se ha establecido la edad de admisión
 Formato: residente
 Idioma: Mandarin-first. Enesentialsupport:designatedcontacteverysession and parentemergency Enline: EN SUPPORT, no enseñanza en inglés; se requiere una conversación/seguridad típicas.
-Marca de idioma: unconfirmed; apoyo: no declarado
+Marca lingüística: support; support: EN
 Costo: 2027 · NT19800includes4nights, packageallincluded claim, confirmmealcover · subpagos y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Grade4–7yMandarin comprehensiondesconocidos. Oscar: Grade4–7yMandarin comprehensiondesconocidos. Gastos adicionales: Cityhostelbreakfastincluded, dinnerexcluded; Waterlunch+dinner de pocketmoney, publictransit Easy Card Por su cuenta (2dayscoachincluded). Railmeals/fares especificar. Gear/rainwear/campclothes/airports adicional. Wildnightroomtypesunknown. Pago: NT 800samechildadditionalcamp, nostacking/earlybirdunannounced. Pagos a plazo/cancelar/Seguro/Total contract Desconocidos.
@@ -39103,7 +39103,7 @@ Matway: especificar; no se ha establecido la edad de admisión
 Óscar: No ahora; la edad futura
 Formato: mixed_camp
 Idioma: Mandarin-first. Enesentialsupport:designatedcontacteverysession and parentemergency Enline: EN SUPPORT, no enseñanza en inglés; se requiere una conversación/seguridad típicas.
-Marca de idioma: unconfirmed; apoyo: no declarado
+Marca lingüística: support; support: EN
 Precio: 2027 · NT$16 800; early NT$15 800 antes 16 octubre 2026, Una noche activada · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Clase 3–7 y base de datos Mandarin No se han establecido; EN support no transforma NOLA en EN-Curso. Oscar: Al menos 3-um, clase; Esta ruta independiente aún no se ha seleccionado para el menor.. Gastos adicionales: EasyCard y dinero para comida/Los padres preparan los viajes; Cantidades exactas, Las demás comidas y las aplicaciones se acuerdan. Una noche en la casa. NT$16800, no añadir NT$4500/6000 De otros paquetes de verano. Pago: Página de invierno: devolución 95% por 41+ día, 90% por 31–40, 80% por 21–30, 70% por 2–20, 50% Un día; al día de comienzo/después del comienzo/sin notificación. Se aplica el acuerdo de viaje; La transición sólo es posible en el lugar de destino. Período de descuento inicial 16 octubre — Plazo de inscripción no definitivo. Una página de ferrocarril específica requiere un acuerdo para cancelar el tiempo; No se considera automáticamente como una renuncia personal general..
@@ -39119,7 +39119,7 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Oscar: especificar; no se ha establecido la edad de admisión
 Formato: day_camp
 Idioma: English-led tasks con foreign teachers/TA y Chinese-speaking staff; miércoles EN/ZH. Las reglas deben ser comprensibles para todos.
-Marca de idioma: primary; soporte: no declarado
+Función del idioma: partial_bilingual; apoyo: EN
 Costo: 2027 · NT6800;early6300do16October2026; shirt300extra · pagos y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Necesito el efectivo current Grade1–5; Edad 2017 no sustituye a la clase. Idioma de las explicaciones complejas. Oscar: Al menos Grade 1 Fecha de inscripción; Clase desconocida. No se aprueba la admisión 2020 año. Gastos adicionales: Camp shirt NT300/Una cosa., Puedes usar el anterior.. Si todo el mundo necesita una nueva:14200standard/13200early la familia, A la carretera/Vivienda. Latepickup17–18:30 ad-hoc NT400, El primer turno es gratis.; Dos días wholecamp lateplan no vendido. No se ha solicitado pensión. Pago: Página de invierno: devolución 95% por 41+ día, 90% por 31–40, 80% por 21–30, 70% por 2–20, 50% Un día; al día de comienzo/después del comienzo/sin notificación. Se aplica el acuerdo de viaje; La transición sólo es posible en el lugar de destino. Período de descuento inicial 16 octubre — Plazo de inscripción no definitivo.
@@ -39567,7 +39567,7 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: day_camp
 Idioma: Operador directo bilingual French-English; suficienciaEN sin FR y el idioma de cada instrucción aún no se ha determinado.
-Marca de idioma: primary; soporte: no declarado
+Función del idioma: partial_bilingual; apoyo: sin anunciar
 Precio: 2027 · CHF375/5medio día o595/5Días completos por hijo. En la página actual, junto a ambos turnos; Desgravación familiar sin suma.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad8–10 Ajustado; EN-only apoyo de laboratorio. Oscar: Más joven8 en2026–27. Gastos adicionales: La cena es la suya. lunchbox;08:00o do18:00 por solicitud CHF25/hora. Vivienda/Seguro familiar por separado. Pago: Condiciones de redacción conexas2019: >30días CHF50;30–10 retención50%;10–0días100%. Algunos CHF50 admin Y exactamente10Días de incertidumbre. Enfermedades/Lesiones con certificado médico — Exclusión. Un error de edad puede llevar a la cancelación sin devolución; aplicabilidad2027 confirmar.

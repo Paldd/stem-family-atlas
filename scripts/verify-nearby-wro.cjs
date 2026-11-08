@@ -31,7 +31,7 @@ for(const lang of ['','es/']){
  select('level','qualification');assert.equal(count(),12);
  for(const id of ['C2061','C2062'])assert.equal(DATA.events.find(e=>e.id===id).participation,'programme_milestone');
  const participationCode=fs.readFileSync(path.join(ROOT,'dist',lang,'assets/app.js'),'utf8');assert(participationCode.includes('programme_milestone:'));
- const filterCode=participationCode.slice(participationCode.indexOf('function filtered(){'),participationCode.indexOf('function addDays('));
+ const filterCode=participationCode.slice(participationCode.indexOf('function catalogLanguageMatches('),participationCode.indexOf('function addDays('));
  const state={view:'catalog',query:'',routeIsos:[],country:'PAN',participation:'programme_milestone',excluded:true,sort:'date'};
  const fc={EVENTS:DATA.events,DATA,state,window:{},DIRECTIONS:{matches:()=>true},fits:()=>true,TODAY:'2026-11-06',foldSearch:s=>String(s).toLowerCase()};vm.createContext(fc);vm.runInContext(filterCode,fc);
  assert.deepEqual(Array.from(fc.filtered(),e=>e.id),['C2061','C2062']);
