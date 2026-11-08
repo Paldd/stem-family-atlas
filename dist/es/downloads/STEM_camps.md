@@ -10422,6 +10422,214 @@ Limitaciones: Gratis con inscripción previa. Aforo limitado.
 Fuente: https://www.fundacionjumex.org/es/programa/4620-mini-domingo-telaranas-de-pixel
 Se ha comprobado: 2026-11-07
 
+### L728 · RED Education · Robotics
+
+lugar: Bielorrusia · Minsk
+Fecha: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Edad: 6 a 10 años.
+Matvey: Sí por edad publicada. Confirmar plaza e idioma del grupo.
+Oscar: Sí por edad publicada. Confirmar plaza e idioma del grupo.
+Formato: regular
+Idioma: Confirmar el idioma de instrucción del grupo con el organizador.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: BYN 200 por 4 clases. Descuento al pagar más de 3 meses.
+Acceso: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Limitaciones: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Fuente: https://r-ed.by/courses/robototekhnika/
+Se ha comprobado: 2026-11-07
+
+### L729 · RED Education · Scratch Junior
+
+lugar: Bielorrusia · Minsk
+Fecha: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Edad: 6–8 años.
+Matvey: La edad supera el intervalo del programa.
+Oscar: Sí por edad publicada. Confirmar plaza e idioma del grupo.
+Formato: regular
+Idioma: Confirmar el idioma de instrucción del grupo con el organizador.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: BYN 200 por 4 clases. Descuento al pagar más de 3 meses.
+Acceso: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Limitaciones: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Fuente: https://r-ed.by/courses/scratch_junior/
+Se ha comprobado: 2026-11-07
+
+### L730 · RED Education · Scratch
+
+lugar: Bielorrusia · Minsk
+Fecha: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Edad: 8–10 años.
+Matvey: Sí por edad publicada. Confirmar plaza e idioma del grupo.
+Oscar: La edad aún es inferior al intervalo del programa.
+Formato: regular
+Idioma: Confirmar el idioma de instrucción del grupo con el organizador.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: BYN 200 por 4 clases. Descuento al pagar más de 3 meses.
+Acceso: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Limitaciones: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Fuente: https://r-ed.by/courses/scratch/
+Se ha comprobado: 2026-11-07
+
+### L731 · RED Education · Minecraft
+
+lugar: Bielorrusia · Minsk
+Fecha: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+edad: 10–12 años. Desde los 9 con experiencia en programación.
+Matvey: Condicional desde los 9 con experiencia acreditada.
+Oscar: La edad aún es inferior al intervalo del programa.
+Formato: regular
+Idioma: Confirmar el idioma de instrucción del grupo con el organizador.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: BYN 200 por 4 clases. Descuento al pagar más de 3 meses.
+Acceso: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Limitaciones: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Fuente: https://r-ed.by/courses/minecraft/
+Se ha comprobado: 2026-11-07
+
+### L732 · IT Kids · Minecraft
+
+lugar: Bielorrusia · Minsk
+Fecha: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Edad: 6–8 años.
+Matvey: La edad supera el intervalo del programa.
+Oscar: Sí por edad publicada. Confirmar plaza e idioma del grupo.
+Formato: regular
+Idioma: Confirmar el idioma de instrucción del grupo con el organizador.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Grupo en línea desde BYN 35 por clase. El paquete de 4 clases indica BYN 50 por clase.
+Acceso: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Limitaciones: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Fuente: https://itkids.by/minecraft
+Se ha comprobado: 2026-11-07
+
+### L733 · IT Kids · Scratch
+
+lugar: Bielorrusia · Minsk
+Fecha: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Edad: 8–9 años.
+Matvey: Sí por edad publicada. Confirmar plaza e idioma del grupo.
+Oscar: La edad aún es inferior al intervalo del programa.
+Formato: regular
+Idioma: Confirmar el idioma de instrucción del grupo con el organizador.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Grupo en línea desde BYN 35 por clase. El paquete de 4 clases indica BYN 50 por clase.
+Acceso: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Limitaciones: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Fuente: https://itkids.by/scratch
+Se ha comprobado: 2026-11-07
+
+### L734 · Estación de Jóvenes Técnicos · robótica
+
+lugar: Bielorrusia · Minsk
+Fecha: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+edad: Cursos 1.º a 9.º. El grupo depende del curso real.
+Matvey: Condicional. Se requiere curso real y confirmación de admisión por el centro escolar.
+Oscar: Condicional. Se requiere curso real y confirmación de admisión por el centro escolar.
+Formato: regular
+Idioma: Confirmar el idioma de instrucción del grupo con el organizador.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Limitaciones: Curso regular. Confirmar horario de grupo y próxima convocatoria.
+Fuente: https://syt.by/
+Se ha comprobado: 2026-11-07
+
+### L735 · RED CAMP · Minsk
+
+lugar: Bielorrusia · Minsk
+Fecha: 2026-11-02 — 2026-11-06
+Edad: 6 a 16 años.
+Matvey: Edición histórica. Comprobar próximas fechas y admisión en el nuevo anuncio.
+Oscar: Edición histórica. Comprobar próximas fechas y admisión en el nuevo anuncio.
+Formato: day_camp
+Idioma: Confirmar el idioma de instrucción del grupo con el organizador.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: BYN 900 para alumnado de RED y centros socios. Se desconoce la tarifa estándar de la próxima convocatoria.
+Acceso: Edición histórica. Comprobar próximas fechas y admisión en el nuevo anuncio.
+Limitaciones: Comidas tres veces al día, clases, fotos y seguro según la descripción de 2026.
+Fuente: https://itcamp.by/
+Se ha comprobado: 2026-11-07
+
+### L736 · TechnoLeto · Minsk
+
+lugar: Bielorrusia · Minsk
+Fecha: Se publican 4 turnos de verano de 2026 de 08:00 a 19:00. Aún no hay fechas del próximo verano.
+edad: Cursos 1.º a 10.º. Grupos por nivel y curso escolar.
+Matvey: Edición histórica. Comprobar próximas fechas y admisión en el nuevo anuncio.
+Oscar: Edición histórica. Comprobar próximas fechas y admisión en el nuevo anuncio.
+Formato: day_camp
+Idioma: Confirmar el idioma de instrucción del grupo con el organizador.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: BYN 1400 por turno según la tarifa de 2026.
+Acceso: Edición histórica. Comprobar próximas fechas y admisión en el nuevo anuncio.
+Limitaciones: Comidas 3 veces al día, excursiones, clases y regalo. Descuento para alumnado de la estación.
+Fuente: https://syt.by/camp.html
+Se ha comprobado: 2026-11-07
+
+### L737 · IT Kids · Guardianes del fuego · próximo turno
+
+lugar: Bielorrusia · Minsk
+Fecha: No se publica la fecha de la próxima edición.
+edad: Formato anterior para 8–11 años.
+Matvey: Condicional. Se requiere curso real y confirmación de admisión por el centro escolar.
+Oscar: La edad aún es inferior al intervalo del programa.
+Formato: day_camp
+Idioma: Confirmar el idioma de instrucción del grupo con el organizador.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La página del intensivo anterior indica BYN 600 por día completo o BYN 350 por media jornada. Confirmar tarifas nuevas.
+Acceso: Seguir el nuevo calendario, edades y reglas de inscripción.
+Limitaciones: Seguir el nuevo calendario, edades y reglas de inscripción.
+Fuente: https://itkids.by/autumn-holiday
+Se ha comprobado: 2026-11-07
+
+### L738 · Orange Digital Center Liberia · SuperCoders BootCamp
+
+lugar: Liberia · Monrovia
+Fecha: El formulario anterior está cerrado. Confirmar fechas, precio, edad e idioma del próximo grupo.
+edad: No se publican límites de edad ni curso para la próxima convocatoria.
+Matvey: No se publican límites de edad ni curso para la próxima convocatoria.
+Oscar: No se publican límites de edad ni curso para la próxima convocatoria.
+Formato: day_camp
+Idioma: Confirmar el idioma de instrucción del grupo con el organizador.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: El formulario anterior está cerrado. Confirmar fechas, precio, edad e idioma del próximo grupo.
+Limitaciones: El formulario anterior está cerrado. Confirmar fechas, precio, edad e idioma del próximo grupo.
+Fuente: https://www.linkedin.com/company/orange-digital-center-liberia
+Se ha comprobado: 2026-11-07
+
+### L739 · World Space Week Liberia · Flagship Workshop 2026
+
+lugar: Liberia · Monrovia
+Fecha: 2026-10-08 — 2026-10-10
+edad: Cursos 9.º a 11.º de centros seleccionados del condado de Montserrado.
+Matvey: No para primaria. El anuncio se limita a cursos superiores.
+Oscar: No para primaria. El anuncio se limita a cursos superiores.
+Formato: holiday_workshop
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Cursos 9.º a 11.º de centros seleccionados del condado de Montserrado.
+Limitaciones: Edición histórica. Comprobar próximas fechas y admisión en el nuevo anuncio.
+Fuente: https://wsw-liberia-2026.vercel.app/
+Se ha comprobado: 2026-11-07
+
+### L740 · Habele · Marshall Islands High School Robotics
+
+lugar: Islas Marshall
+Fecha: No se publica la fecha de la próxima edición.
+edad: Acceso por secundaria superior asociada. Confirmar cursos y próxima convocatoria.
+Matvey: No para primaria. El anuncio se limita a cursos superiores.
+Oscar: No para primaria. El anuncio se limita a cursos superiores.
+Formato: regular
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Acceso: Acceso por secundaria superior asociada. Confirmar cursos y próxima convocatoria.
+Limitaciones: Acceso por secundaria superior asociada. Confirmar cursos y próxima convocatoria.
+Fuente: https://habele.org/robotics/
+Se ha comprobado: 2026-11-07
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

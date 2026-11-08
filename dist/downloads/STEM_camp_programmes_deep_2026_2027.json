@@ -30,8 +30,8 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1899,
-    "countries": 123,
+    "dossiers": 1902,
+    "countries": 125,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 274,
@@ -41,14 +41,14 @@
       "published_2026": 348,
       "partial_2026_27": 32,
       "partial_2026": 23,
-      "archive_next_unannounced": 142,
+      "archive_next_unannounced": 145,
       "regular_programme": 19,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2768
+    "source_urls": 2771
   },
   "countries": [
     {
@@ -90,6 +90,10 @@
     {
       "country": "Барбадос",
       "count": 1
+    },
+    {
+      "country": "Беларусь",
+      "count": 2
     },
     {
       "country": "Бельгия",
@@ -286,6 +290,10 @@
     {
       "country": "Лесото",
       "count": 3
+    },
+    {
+      "country": "Либерия",
+      "count": 1
     },
     {
       "country": "Лихтенштейн",
@@ -330651,6 +330659,220 @@
         "L724"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP1900",
+      "slug": "minsk-red-camp-autumn",
+      "provider": "RED CAMP · Minsk",
+      "country": "Беларусь",
+      "iso": "BLR",
+      "place": "Minsk",
+      "age": "6–16 лет.",
+      "programme": "Робототехника, программирование, цифровое рисование и творческие мастерские.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Язык занятий конкретной группы уточнить у организатора.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Архивная смена 2–6 ноября 2026 с 08:00 до 19:00.",
+        "sessions": [
+          [
+            "2026-11-02",
+            "2026-11-06"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "BYN 900 для учеников RED и школ-партнёров. Стандартная цена нового набора неизвестна.",
+        "included": "Трёхразовое питание, занятия, фотоотчёт и страховка по описанию 2026.",
+        "extras": "Точный тариф выбранного набора не подтверждён.",
+        "deposit": "Точный тариф выбранного набора не подтверждён."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Да по опубликованному возрасту. Подтвердить место и язык группы."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Да по опубликованному возрасту. Подтвердить место и язык группы."
+        }
+      },
+      "editorial_reason": "Исторический выпуск. Будущие даты и допуск проверять по новому объявлению.",
+      "shortlist": [],
+      "questions": [
+        "Следить за новым календарём, возрастом и правилами регистрации."
+      ],
+      "sources": [
+        {
+          "url": "https://itcamp.by/",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1901",
+      "slug": "minsk-technoleto",
+      "provider": "TechnoLeto · Minsk",
+      "country": "Беларусь",
+      "iso": "BLR",
+      "place": "Minsk",
+      "age": "1–10 классы. Группы по уровню и школьному классу.",
+      "programme": "Робототехника, ИИ, программирование, VR, 3D-моделирование и БПЛА.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Язык занятий конкретной группы уточнить у организатора.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Опубликованы 4 смены лета 2026 с 08:00 до 19:00. Новое лето пока без дат.",
+        "sessions": [
+          [
+            "2026-06-01",
+            "2026-06-12"
+          ],
+          [
+            "2026-06-15",
+            "2026-06-26"
+          ],
+          [
+            "2026-07-07",
+            "2026-07-17"
+          ],
+          [
+            "2026-07-27",
+            "2026-08-07"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "BYN 1400 за смену по прайсу 2026.",
+        "included": "Питание 3 раза в день, экскурсии, занятия и подарок. Скидка для учеников СЮТ.",
+        "extras": "Точный тариф выбранного набора не подтверждён.",
+        "deposit": "Точный тариф выбранного набора не подтверждён."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно. Требуются фактический класс и подтверждение допуска через школу."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно. Требуются фактический класс и подтверждение допуска через школу."
+        }
+      },
+      "editorial_reason": "Исторический выпуск. Будущие даты и допуск проверять по новому объявлению.",
+      "shortlist": [],
+      "questions": [
+        "Следить за новым календарём, возрастом и правилами регистрации."
+      ],
+      "sources": [
+        {
+          "url": "https://syt.by/camp.html",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1902",
+      "slug": "monrovia-supercoders",
+      "provider": "Orange Digital Center Liberia · SuperCoders BootCamp",
+      "country": "Либерия",
+      "iso": "LBR",
+      "place": "Monrovia · Congo Town",
+      "age": "Возрастные границы и класс для следующего набора не опубликованы.",
+      "programme": "Детская программа по программированию, дизайну и практическим STEM-проектам. Оператор сообщал о проведённой группе.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Язык занятий конкретной группы уточнить у организатора.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Прежняя форма закрыта. Даты, цена, возраст и язык следующей группы требуют подтверждения.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "Точный тариф выбранного набора не подтверждён.",
+        "included": "Детская программа по программированию, дизайну и практическим STEM-проектам. Оператор сообщал о проведённой группе.",
+        "extras": "Точный тариф выбранного набора не подтверждён.",
+        "deposit": "Точный тариф выбранного набора не подтверждён."
+      },
+      "accommodation": "Дневной формат без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Возрастные границы и класс для следующего набора не опубликованы."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Возрастные границы и класс для следующего набора не опубликованы."
+        }
+      },
+      "editorial_reason": "Прежняя форма закрыта. Даты, цена, возраст и язык следующей группы требуют подтверждения.",
+      "shortlist": [],
+      "questions": [
+        "Следить за новым календарём, возрастом и правилами регистрации."
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/orange-digital-center-liberia",
+          "title": "Официальная страница, регламент или календарь профильной ассоциации.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "coding",
+        "technology",
+        "engineering",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -335976,7 +336198,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 252,
+  "version": 254,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -349211,7 +349433,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1899,
+      "total_dossiers": 1902,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

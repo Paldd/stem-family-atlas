@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 9784,
-    "competition_cards": 4426,
-    "event_cards": 482,
-    "camp_cards": 4876,
-    "league_profiles": 288,
-    "major_exhibition_cards": 385,
+    "cards": 9833,
+    "competition_cards": 4458,
+    "event_cards": 486,
+    "camp_cards": 4889,
+    "league_profiles": 291,
+    "major_exhibition_cards": 389,
     "vex_cards": 814,
-    "countries_with_records": 208,
+    "countries_with_records": 211,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 2061,
-      "countries_with_records": 50,
-      "competitions": 544,
-      "events": 119,
-      "major_exhibitions": 94,
-      "camps": 1398,
+      "total": 2102,
+      "countries_with_records": 51,
+      "competitions": 572,
+      "events": 122,
+      "major_exhibitions": 97,
+      "camps": 1408,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -76,12 +76,12 @@
       "regions": [
         "Африка"
       ],
-      "total": 337,
-      "countries_with_records": 47,
-      "competitions": 224,
-      "events": 35,
-      "major_exhibitions": 27,
-      "camps": 78,
+      "total": 342,
+      "countries_with_records": 48,
+      "competitions": 226,
+      "events": 36,
+      "major_exhibitions": 28,
+      "camps": 80,
       "status": "Частично исследовано",
       "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
     },
@@ -104,12 +104,12 @@
       "regions": [
         "Океания"
       ],
-      "total": 507,
-      "countries_with_records": 15,
-      "competitions": 150,
+      "total": 509,
+      "countries_with_records": 16,
+      "competitions": 151,
       "events": 31,
       "major_exhibitions": 27,
-      "camps": 326,
+      "camps": 327,
       "status": "Частично исследовано",
       "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
     }
@@ -3033,11 +3033,13 @@
         "C3391",
         "C3392",
         "C3393",
-        "C3487"
+        "C3487",
+        "C4456",
+        "C4457"
       ],
-      "cards": 14,
+      "cards": 16,
       "future_dated": 1,
-      "linked_card_count": 15,
+      "linked_card_count": 17,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://first.global/fgc/",
       "new": false
@@ -5486,11 +5488,12 @@
         "C2011",
         "C2012",
         "C2013",
+        "C4459",
         "C1929"
       ],
-      "cards": 50,
+      "cards": 51,
       "future_dated": 3,
-      "linked_card_count": 50,
+      "linked_card_count": 51,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf",
       "new": false
@@ -7436,6 +7439,73 @@
       "linked_card_count": 9,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://progluis.github.io/KantuRobot2026/",
+      "new": false
+    },
+    {
+      "id": "beloai-belarus",
+      "name": "BelOAI",
+      "group": "ai",
+      "event_ids": [
+        "C4428",
+        "C4429",
+        "C4430",
+        "C4431"
+      ],
+      "cards": 4,
+      "future_dated": 4,
+      "linked_card_count": 4,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://edu.gov.by/molodezhnaya-politika/glavnoe-upravlenie-vospitatelnoy-raboty-i-molodezhnoy-politiki/konkurs-beloai/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%20%D0%BF%D0%BE%20%D0%98%D0%98.docx",
+      "new": false
+    },
+    {
+      "id": "molr-belarus",
+      "name": "Минская открытая лига робототехники · сезон 2026–2027",
+      "group": "regional",
+      "event_ids": [
+        "C4432",
+        "C4433",
+        "C4434",
+        "C4435",
+        "C4436",
+        "C4437",
+        "C4438",
+        "C4439",
+        "C4440",
+        "C4441",
+        "C4442",
+        "C4443",
+        "C4444",
+        "C4445",
+        "C4446",
+        "C4447",
+        "C4448",
+        "C4449",
+        "C4450",
+        "C4451",
+        "C4452",
+        "C4453"
+      ],
+      "cards": 22,
+      "future_dated": 0,
+      "linked_card_count": 22,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://roboturnir.by/",
+      "new": false
+    },
+    {
+      "id": "minsk-robofinist",
+      "name": "Минский открытый роботурнир · РобоФинист",
+      "group": "regional",
+      "event_ids": [
+        "C4454",
+        "C4455"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://edu4future.by/project/minskij-otkrytyj-roboturnir",
       "new": false
     },
     {
@@ -12662,6 +12732,50 @@
       "new": false
     },
     {
+      "id": "E483",
+      "name": "Автоматизация. Электроника 2027",
+      "country": "Беларусь",
+      "region": "Европа",
+      "start": "2027-03-17",
+      "end": "2027-03-19",
+      "visitor_policy": "confirm_children",
+      "source": "https://automation.minskexpo.com/english/avtomatizatsiya-elektronika",
+      "new": false
+    },
+    {
+      "id": "E484",
+      "name": "Фестиваль науки · технологии · Минск 2026",
+      "country": "Беларусь",
+      "region": "Европа",
+      "start": "2026-09-05",
+      "end": "2026-09-06",
+      "visitor_policy": "family",
+      "source": "https://scifest.by/",
+      "new": false
+    },
+    {
+      "id": "E485",
+      "name": "Фестиваль науки · Минск · следующий выпуск",
+      "country": "Беларусь",
+      "region": "Европа",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://scifest.by/",
+      "new": false
+    },
+    {
+      "id": "E486",
+      "name": "World Space Week Liberia · Innovation Showcase 2026",
+      "country": "Либерия",
+      "region": "Африка",
+      "start": "2026-10-09",
+      "end": "2026-10-09",
+      "visitor_policy": "confirm_children",
+      "source": "https://wsw-liberia-2026.vercel.app/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -14042,7 +14156,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 142,
+  "interregional_cards": 143,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Тайвань",
@@ -15079,9 +15193,9 @@
       }
     ],
     "counts": {
-      "records": 4876,
-      "holiday": 4553,
-      "regular": 150,
+      "records": 4889,
+      "holiday": 4558,
+      "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1036,
       "en_es_instruction": 1579,
@@ -15092,7 +15206,7 @@
       "language_lessons": 410,
       "camp_life_language": 228,
       "language_unclassified": 137,
-      "countries": 131
+      "countries": 134
     },
     "validation": {
       "version": 51,

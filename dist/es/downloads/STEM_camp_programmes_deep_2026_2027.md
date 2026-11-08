@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1899 fichas en 123 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-07. 1902 fichas en 125 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -152969,6 +152969,120 @@ Singapur · Hyundai Motor Group Innovation Center Singapore (HMGICS) · 2 Bulim 
 - [Página oficial, reglamento o calendario de la asociación del sector.](https://www.hyundai.com/sg/experience/reservations/kidsworkshop) · 2026-11-07
 
 - [Página oficial, reglamento o calendario de la asociación del sector.](https://www.hyundai.com/sg/experience/tour/discovery/terms-and-conditions) · 2026-11-07
+
+## CP1900 · RED CAMP · Minsk
+
+Bielorrusia · Minsk
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6–16 años.
+
+**Idioma:** Confirmar el idioma de instrucción del grupo con el organizador.
+
+**Programa:** Robótica, programación, dibujo digital y talleres creativos.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Turno archivado del 2 al 6 de noviembre de 2026 de 08:00 a 19:00.
+
+**Precio / año:** 2026 · BYN 900 para alumnado de RED y centros socios. Se desconoce la tarifa estándar de la próxima convocatoria.
+
+**Incluido:** Comidas tres veces al día, clases, fotos y seguro según la descripción de 2026.
+
+**Suplementos:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Pago:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Matvey:** Sí por edad publicada. Confirmar plaza e idioma del grupo.
+
+**Oscar:** Sí por edad publicada. Confirmar plaza e idioma del grupo.
+
+**Motivo de selección:** Edición histórica. Comprobar próximas fechas y admisión en el nuevo anuncio.
+
+### Antes de solicitar plaza
+
+- Seguir el nuevo calendario, edades y reglas de inscripción.
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://itcamp.by/) · 2026-11-07
+
+## CP1901 · TechnoLeto · Minsk
+
+Bielorrusia · Minsk
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Cursos 1.º a 10.º. Grupos por nivel y curso escolar.
+
+**Idioma:** Confirmar el idioma de instrucción del grupo con el organizador.
+
+**Programa:** Robótica, IA, programación, VR, diseño 3D y drones.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** Se publican 4 turnos de verano de 2026 de 08:00 a 19:00. Aún no hay fechas del próximo verano.
+
+**Precio / año:** 2026 · BYN 1400 por turno según la tarifa de 2026.
+
+**Incluido:** Comidas 3 veces al día, excursiones, clases y regalo. Descuento para alumnado de la estación.
+
+**Suplementos:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Pago:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Matvey:** Condicional. Se requiere curso real y confirmación de admisión por el centro escolar.
+
+**Oscar:** Condicional. Se requiere curso real y confirmación de admisión por el centro escolar.
+
+**Motivo de selección:** Edición histórica. Comprobar próximas fechas y admisión en el nuevo anuncio.
+
+### Antes de solicitar plaza
+
+- Seguir el nuevo calendario, edades y reglas de inscripción.
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://syt.by/camp.html) · 2026-11-07
+
+## CP1902 · Orange Digital Center Liberia · SuperCoders BootCamp
+
+Liberia · Monrovia · Congo Town
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** No se publican límites de edad ni curso para la próxima convocatoria.
+
+**Idioma:** Confirmar el idioma de instrucción del grupo con el organizador.
+
+**Programa:** Programa infantil de programación, diseño y proyectos STEM prácticos. El operador informó de un grupo realizado.
+
+**Alojamiento:** Formato diurno sin alojamiento.
+
+**Fechas / estado:** El formulario anterior está cerrado. Confirmar fechas, precio, edad e idioma del próximo grupo.
+
+**Precio / año:** sin establecer · La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Incluido:** Programa infantil de programación, diseño y proyectos STEM prácticos. El operador informó de un grupo realizado.
+
+**Suplementos:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Pago:** La tarifa exacta de la convocatoria elegida no está confirmada.
+
+**Matvey:** No se publican límites de edad ni curso para la próxima convocatoria.
+
+**Oscar:** No se publican límites de edad ni curso para la próxima convocatoria.
+
+**Motivo de selección:** El formulario anterior está cerrado. Confirmar fechas, precio, edad e idioma del próximo grupo.
+
+### Antes de solicitar plaza
+
+- Seguir el nuevo calendario, edades y reglas de inscripción.
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://www.linkedin.com/company/orange-digital-center-liberia) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 253,
+    "version": 254,
     "status": "implementation_snapshot",
-    "events": 9784,
-    "competitions": 4426,
+    "events": 9833,
+    "competitions": 4458,
     "league_profiles": 288,
-    "camp_dossiers": 1899,
+    "camp_dossiers": 1902,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 482
+    "exhibitions_events": 486
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -927,10 +927,10 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 252,
+    "version": 253,
     "status": "implementation_snapshot",
-    "events": 9494,
-    "competitions": 4136,
+    "events": 9784,
+    "competitions": 4426,
     "league_profiles": 288,
     "camp_dossiers": 1899,
     "budget_offers": 312,
@@ -13759,10 +13759,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 253,
+    "prepared_ui_version": 254,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 252,
-    "previous_verified_commit": "ce0c4c69ada21ee22ae7f9562876d04d9278ccec"
+    "previous_verified_ui_version": 253,
+    "previous_verified_commit": "7c09718d7de79e23cfad36d662b950218bbc8d70"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20809,11 +20809,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 252,
-    "published_version": 252,
-    "latest_source_commit": "ce0c4c69ada21ee22ae7f9562876d04d9278ccec",
-    "published_commit": "ce0c4c69ada21ee22ae7f9562876d04d9278ccec",
-    "latest_workflow": 42439734138,
+    "latest_source_version": 253,
+    "published_version": 253,
+    "latest_source_commit": "7c09718d7de79e23cfad36d662b950218bbc8d70",
+    "published_commit": "7c09718d7de79e23cfad36d662b950218bbc8d70",
+    "latest_workflow": 42441471892,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -25463,6 +25463,130 @@
       "C513",
       "C514",
       "C597"
+    ]
+  },
+  "belarus_liberia_and_junior_routes_v254": {
+    "version": 254,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "new_event_ids": [
+      "C4428",
+      "C4429",
+      "C4430",
+      "C4431",
+      "C4432",
+      "C4433",
+      "C4434",
+      "C4435",
+      "C4436",
+      "C4437",
+      "C4438",
+      "C4439",
+      "C4440",
+      "C4441",
+      "C4442",
+      "C4443",
+      "C4444",
+      "C4445",
+      "C4446",
+      "C4447",
+      "C4448",
+      "C4449",
+      "C4450",
+      "C4451",
+      "C4452",
+      "C4453",
+      "C4454",
+      "C4455",
+      "E483",
+      "E484",
+      "E485",
+      "L728",
+      "L729",
+      "L730",
+      "L731",
+      "L732",
+      "L733",
+      "L734",
+      "L735",
+      "L736",
+      "L737",
+      "L738",
+      "C4456",
+      "C4457",
+      "L739",
+      "E486",
+      "C4458",
+      "L740",
+      "C4459"
+    ],
+    "refreshed_event_ids": [
+      "C1952",
+      "E265",
+      "C1981",
+      "C1999",
+      "C2006"
+    ],
+    "new_camp_dossiers": {
+      "minsk-red-camp-autumn": "CP1900",
+      "minsk-technoleto": "CP1901",
+      "monrovia-supercoders": "CP1902"
+    },
+    "newly_represented_territories": [
+      "BLR",
+      "LBR",
+      "MHL"
+    ],
+    "beloai_stage_ids": [
+      "C4428",
+      "C4429",
+      "C4430",
+      "C4431"
+    ],
+    "minsk_archived_disciplines": [
+      "C4433",
+      "C4434",
+      "C4435",
+      "C4436",
+      "C4437",
+      "C4438",
+      "C4439",
+      "C4440",
+      "C4441",
+      "C4442",
+      "C4443",
+      "C4444",
+      "C4445",
+      "C4446",
+      "C4447",
+      "C4448",
+      "C4449",
+      "C4450",
+      "C4451",
+      "C4452"
+    ],
+    "itu_online_watch": "C4459",
+    "source_requests": 43,
+    "notes": [
+      "Школьный оргкомитет утверждает участника по заявке. Для школы в Коста-Рике или Мексике порядок допуска требует подтверждения.",
+      "15 ноября 2026, окно старта 09:00–18:00 по Минску. Личный тур длится 2 часа.",
+      "Окно 4–6 февраля 2027. Туры 4 и 6 февраля с 09:00 до 15:00 по Минску.",
+      "Есть официальная сборная сезона 2026. Дата и правила нового местного набора не опубликованы.",
+      "Условия ITU, карточка финала и сайт Summit указывают 21–24 июня 2027. Общая шкала проекта показывает 22–25 июня. Точные часы матчей проверить по программе.",
+      "На шкале ITU открытие онлайн-записи и подача стоят на 1 апреля 2027. Публичная видеоформа содержит дату 1 апреля 2026. Условия, часы и фактическое открытие набора 2027 требуют подтверждения."
+    ],
+    "audit": "data/belarus-liberia-and-junior-routes-audit-v254.json",
+    "source_receipts": "data/belarus-liberia-and-junior-routes-source-receipts-v254.json",
+    "legacy_overlay_event_ids": [
+      "C1952",
+      "E265",
+      "C1981",
+      "C1999",
+      "C2006"
+    ],
+    "legacy_overlay_league_ids": [
+      "robotics-for-good-global"
     ]
   }
 }

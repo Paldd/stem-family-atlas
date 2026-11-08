@@ -30,8 +30,8 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1899,
-    "countries": 123,
+    "dossiers": 1902,
+    "countries": 125,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 274,
@@ -41,14 +41,14 @@
       "published_2026": 348,
       "partial_2026_27": 32,
       "partial_2026": 23,
-      "archive_next_unannounced": 142,
+      "archive_next_unannounced": 145,
       "regular_programme": 19,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 4,
       "confirmed_2027": 1
     },
-    "source_urls": 2768
+    "source_urls": 2771
   },
   "countries": [
     {
@@ -90,6 +90,10 @@
     {
       "country": "Barbados",
       "count": 1
+    },
+    {
+      "country": "Bielorrusia",
+      "count": 2
     },
     {
       "country": "Bélgica",
@@ -286,6 +290,10 @@
     {
       "country": "Lesoto",
       "count": 3
+    },
+    {
+      "country": "Liberia",
+      "count": 1
     },
     {
       "country": "Liechtenstein",
@@ -330651,6 +330659,220 @@
         "L724"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP1900",
+      "slug": "minsk-red-camp-autumn",
+      "provider": "RED CAMP · Minsk",
+      "country": "Bielorrusia",
+      "iso": "BLR",
+      "place": "Minsk",
+      "age": "6–16 años.",
+      "programme": "Robótica, programación, dibujo digital y talleres creativos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Confirmar el idioma de instrucción del grupo con el organizador.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Turno archivado del 2 al 6 de noviembre de 2026 de 08:00 a 19:00.",
+        "sessions": [
+          [
+            "2026-11-02",
+            "2026-11-06"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "BYN 900 para alumnado de RED y centros socios. Se desconoce la tarifa estándar de la próxima convocatoria.",
+        "included": "Comidas tres veces al día, clases, fotos y seguro según la descripción de 2026.",
+        "extras": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+        "deposit": "La tarifa exacta de la convocatoria elegida no está confirmada."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Sí por edad publicada. Confirmar plaza e idioma del grupo."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Sí por edad publicada. Confirmar plaza e idioma del grupo."
+        }
+      },
+      "editorial_reason": "Edición histórica. Comprobar próximas fechas y admisión en el nuevo anuncio.",
+      "shortlist": [],
+      "questions": [
+        "Seguir el nuevo calendario, edades y reglas de inscripción."
+      ],
+      "sources": [
+        {
+          "url": "https://itcamp.by/",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1901",
+      "slug": "minsk-technoleto",
+      "provider": "TechnoLeto · Minsk",
+      "country": "Bielorrusia",
+      "iso": "BLR",
+      "place": "Minsk",
+      "age": "Cursos 1.º a 10.º. Grupos por nivel y curso escolar.",
+      "programme": "Robótica, IA, programación, VR, diseño 3D y drones.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Confirmar el idioma de instrucción del grupo con el organizador.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Se publican 4 turnos de verano de 2026 de 08:00 a 19:00. Aún no hay fechas del próximo verano.",
+        "sessions": [
+          [
+            "2026-06-01",
+            "2026-06-12"
+          ],
+          [
+            "2026-06-15",
+            "2026-06-26"
+          ],
+          [
+            "2026-07-07",
+            "2026-07-17"
+          ],
+          [
+            "2026-07-27",
+            "2026-08-07"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "BYN 1400 por turno según la tarifa de 2026.",
+        "included": "Comidas 3 veces al día, excursiones, clases y regalo. Descuento para alumnado de la estación.",
+        "extras": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+        "deposit": "La tarifa exacta de la convocatoria elegida no está confirmada."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional. Se requiere curso real y confirmación de admisión por el centro escolar."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional. Se requiere curso real y confirmación de admisión por el centro escolar."
+        }
+      },
+      "editorial_reason": "Edición histórica. Comprobar próximas fechas y admisión en el nuevo anuncio.",
+      "shortlist": [],
+      "questions": [
+        "Seguir el nuevo calendario, edades y reglas de inscripción."
+      ],
+      "sources": [
+        {
+          "url": "https://syt.by/camp.html",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1902",
+      "slug": "monrovia-supercoders",
+      "provider": "Orange Digital Center Liberia · SuperCoders BootCamp",
+      "country": "Liberia",
+      "iso": "LBR",
+      "place": "Monrovia · Congo Town",
+      "age": "No se publican límites de edad ni curso para la próxima convocatoria.",
+      "programme": "Programa infantil de programación, diseño y proyectos STEM prácticos. El operador informó de un grupo realizado.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Confirmar el idioma de instrucción del grupo con el organizador.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "El formulario anterior está cerrado. Confirmar fechas, precio, edad e idioma del próximo grupo.",
+        "sessions": [],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "label": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+        "included": "Programa infantil de programación, diseño y proyectos STEM prácticos. El operador informó de un grupo realizado.",
+        "extras": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+        "deposit": "La tarifa exacta de la convocatoria elegida no está confirmada."
+      },
+      "accommodation": "Formato diurno sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "No se publican límites de edad ni curso para la próxima convocatoria."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "No se publican límites de edad ni curso para la próxima convocatoria."
+        }
+      },
+      "editorial_reason": "El formulario anterior está cerrado. Confirmar fechas, precio, edad e idioma del próximo grupo.",
+      "shortlist": [],
+      "questions": [
+        "Seguir el nuevo calendario, edades y reglas de inscripción."
+      ],
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/orange-digital-center-liberia",
+          "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+          "checked": "2026-11-07"
+        }
+      ],
+      "checked": "2026-11-07",
+      "themes": [
+        "coding",
+        "technology",
+        "engineering",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -335976,7 +336198,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 252,
+  "version": 254,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -349211,7 +349433,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 1899,
+      "total_dossiers": 1902,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
