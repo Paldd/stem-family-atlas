@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 9881; competiciones: 4480; eventos: 494; campamentos / programas: 4907. Perfiles de ligas y programas: 292. Fichas de exposiciones grandes y especializadas: 397 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 9914; competiciones: 4484; eventos: 505; campamentos / programas: 4925. Perfiles de ligas y programas: 293. Fichas de exposiciones grandes y especializadas: 408 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros específicos para 211 de 249 países y territorios; países con auditoría completa: 0. Revisión de archivos v51: se añadieron 21 fichas y 3 perfiles. Se conservan las fichas anteriores.
 
@@ -18,12 +18,12 @@ Hay registros específicos para 211 de 249 países y territorios; países con au
 | América del Sur | 13 | 414 | 35 | 199 |
 | Europa | 51 | 573 | 102 | 1425 |
 | África | 48 | 226 | 28 | 80 |
-| Asia | 48 | 1111 | 118 | 1629 |
+| Asia | 48 | 1115 | 129 | 1647 |
 | Oceanía | 16 | 151 | 27 | 327 |
 
 Fichas interregionales o mundiales sin un continente único: 143. Norteamérica incluye Centroamérica y el Caribe. Las cifras muestran el inventario de la base, no un porcentaje de cobertura.
 
-VEX: 814 de 4480 fichas de competición (18.2%). Hay un claro desequilibrio en la cobertura.
+VEX: 814 de 4484 fichas de competición (18.2%). Hay un claro desequilibrio en la cobertura.
 
 ## Lo que queda
 
@@ -318,6 +318,7 @@ VEX: 814 de 4480 fichas de competición (18.2%). Hay un claro desequilibrio en l
 - **Liga Abierta de Robótica de Minsk · temporada 2026–2027**: 22 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://roboturnir.by/
 - **Torneo Abierto de Robótica de Minsk · RoboFinist**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://edu4future.by/project/minskij-otkrytyj-roboturnir
 - **innovatiQ Digital Cup**: 21 fichas, 21 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://innovatiq.education/digitalcup/2027/
+- **RoboThink DREAM Thailand**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robothinkdreamthailand.com/2027?lang=en
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -757,6 +758,17 @@ VEX: 814 de 4480 fichas de competición (18.2%). Hay un claro desequilibrio en l
 - **Parque Explora · Temporada de fin de año** — Colombia; 2026-12-14 – 2027-01-11. con un adulto; condiciones de admisión adulta por separado. https://web.parqueexplora.org/visitanos
 - **Grupo R.A. × Nética · Fiscales 2026 · Pase de visitante** — Ecuador; 2026-11-24. el permiso de entrada de niños. https://somosgrupora.com/torneo-robotica/
 - **Grupo R.A. × Nética · Particulares 2026 · Pase de visitante** — Ecuador; 2026-11-25. el permiso de entrada de niños. https://somosgrupora.com/torneo-robotica/
+- **Taipei IT Month × EdTech Taiwan 2026** — Taiwán; 2026-11-12 – 2026-11-15. con un adulto; condiciones de admisión adulta por separado. https://www.itmonth.tw/
+- **Taiwan Science Festival 2026 · Weekend I** — Taiwán; 2026-11-07 – 2026-11-08. con un adulto; condiciones de admisión adulta por separado. https://www.moe.gov.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=85A25BD61A118DEB
+- **Taiwan Science Festival 2026 · Weekend II** — Taiwán; 2026-11-14 – 2026-11-15. con un adulto; condiciones de admisión adulta por separado. https://www.moe.gov.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=85A25BD61A118DEB
+- **NTSEC · Science Carnival 2026** — Taiwán; 2026-11-13 – 2026-11-15. con un adulto; condiciones de admisión adulta por separado. https://sites.google.com/view/ntsec-2026-sci-fest-v1/%E6%B4%BB%E5%8B%95%E9%A1%9E%E5%9E%8B/%E7%A7%91%E5%AD%B8%E5%98%89%E5%B9%B4%E8%8F%AF
+- **NSTM Kaohsiung · Maker Party 2026** — Taiwán; 2026-11-14 – 2026-11-15. con un adulto; condiciones de admisión adulta por separado. https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d
+- **DOST · National Science, Technology and Innovation Week 2026** — Filipinas; 2026-11-25 – 2026-11-29. el permiso de entrada de niños. https://dost.gov.ph/knowledge-resources/news/4559-as-el-nino-looms-dost-urges-public-to-look-for-science-solutions-offered-at-2026-nstw.html
+- **HKTDC InnoEX 2027** — RAE de Hong Kong (China); 2027-04-13 – 2027-04-16. el permiso de entrada de niños. https://www.hktdc.com/event/innoex/en/about-innoex
+- **Chengdu International Industry Fair 2027** — China; 2027-03-02 – 2027-03-04. el permiso de entrada de niños. https://www.cdiif.com/news/details/710.html
+- **ARE Dongguan 2027** — China; 2027-03-03 – 2027-03-05. el permiso de entrada de niños. https://www.are-expo.cn/
+- **South China International Industry Fair 2027** — China; 2027-06-16 – 2027-06-18. el permiso de entrada de niños. https://www.sciif.com/
+- **Automation Thailand 2027** — Tailandia; 2027-03-10 – 2027-03-12. Los niños del 6/9 no pueden. https://automation-thailand.tw.messefrankfurt.com/thailand/en/facts-figures/Show-Overview.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

@@ -886,6 +886,162 @@ Limitaciones: La página aún no contiene un horario local detallado. Límite vi
 Fuente: https://www.spaceappschallenge.org/2026/local-events/taipei/
 Se ha comprobado: 2026-11-07
 
+### E495 · Taipei IT Month × EdTech Taiwan 2026
+
+Fecha: 2026-11-12 — 2026-11-15
+edad: Entrada general gratuita con zona familiar. Los concursos y talleres específicos tienen solicitudes y edades propias.
+Matvey: Sí. Programa público para familias con menores.
+Oscar: Sí. Programa público para familias con menores.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Entrada general gratuita con zona familiar. Los concursos y talleres específicos tienen solicitudes y edades propias.
+Precio: Gratuito.
+Limitaciones: Dos ferias juntas. IA educativa, zona familiar, proyectos escolares, demostraciones de drones, brazos mecánicos y 5G XR. El organizador anuncia 150 participantes y 700 puestos.
+Fuente: https://www.itmonth.tw/
+Se ha comprobado: 2026-11-07
+
+### C4482 · Taipei IT Month 2026 · Logistics Robot Mission
+
+Fecha: 2026-11-15 — 2026-11-15
+edad: No. Edad mínima publicada de 10 años.
+Matvey: No. Edad mínima publicada de 10 años.
+Oscar: No. Edad mínima publicada de 10 años.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Elegir uno de 3 concursos simultáneos. Participantes desde 10 años. Solicitud hasta el 9 de noviembre a las 23:59 de Taipéi, resolución hasta el 11 de noviembre.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: Inicio a las 13:00. El texto indica fin a las 14:30 y la cabecera a las 15:00. Confirmar la hora exacta de fin.
+Fuente: https://events.tca.org.tw/Events/EnrollPage?token=Q74xjPwsFNUUFFqIm2hXqg%3D%3D
+Se ha comprobado: 2026-11-07
+
+### C4483 · Taipei IT Month 2026 · Creative Track Race
+
+Fecha: 2026-11-15 — 2026-11-15
+edad: No. Edad mínima publicada de 10 años.
+Matvey: No. Edad mínima publicada de 10 años.
+Oscar: No. Edad mínima publicada de 10 años.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Elegir uno de 3 concursos simultáneos. Participantes desde 10 años. Solicitud hasta el 9 de noviembre a las 23:59 de Taipéi, resolución hasta el 11 de noviembre.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: Inicio a las 13:00. El texto indica fin a las 14:30 y la cabecera a las 15:00. Confirmar la hora exacta de fin.
+Fuente: https://events.tca.org.tw/Events/EnrollPage?token=Q74xjPwsFNUUFFqIm2hXqg%3D%3D
+Se ha comprobado: 2026-11-07
+
+### C4484 · Taipei IT Month 2026 · Ocean Cargo Mission
+
+Fecha: 2026-11-15 — 2026-11-15
+edad: No. Edad mínima publicada de 10 años.
+Matvey: No. Edad mínima publicada de 10 años.
+Oscar: No. Edad mínima publicada de 10 años.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Elegir uno de 3 concursos simultáneos. Participantes desde 10 años. Solicitud hasta el 9 de noviembre a las 23:59 de Taipéi, resolución hasta el 11 de noviembre.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: Inicio a las 13:00. El texto indica fin a las 14:30 y la cabecera a las 15:00. Confirmar la hora exacta de fin.
+Fuente: https://events.tca.org.tw/Events/EnrollPage?token=Q74xjPwsFNUUFFqIm2hXqg%3D%3D
+Se ha comprobado: 2026-11-07
+
+### E496 · Taiwan Science Festival 2026 · Weekend I
+
+Fecha: 2026-11-07 — 2026-11-08
+edad: Festival familiar. El acceso, las entradas y la reserva dependen del museo y la actividad.
+Matvey: Sí. Programa público para familias con menores.
+Oscar: Sí. Programa público para familias con menores.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Festival familiar. El acceso, las entradas y la reserva dependen del museo y la actividad.
+Precio: El precio y las condiciones de registro de esta edición requieren confirmación.
+Limitaciones: Festival público de ciencia en 5 museos. Demostraciones, exposiciones familiares y talleres con condiciones propias.
+Fuente: https://www.moe.gov.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=85A25BD61A118DEB
+Se ha comprobado: 2026-11-07
+
+### E497 · Taiwan Science Festival 2026 · Weekend II
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Festival familiar. El acceso, las entradas y la reserva dependen del museo y la actividad.
+Matvey: Sí. Programa público para familias con menores.
+Oscar: Sí. Programa público para familias con menores.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Festival familiar. El acceso, las entradas y la reserva dependen del museo y la actividad.
+Precio: El precio y las condiciones de registro de esta edición requieren confirmación.
+Limitaciones: Festival público de ciencia en 5 museos. Demostraciones, exposiciones familiares y talleres con condiciones propias.
+Fuente: https://www.moe.gov.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=85A25BD61A118DEB
+Se ha comprobado: 2026-11-07
+
+### E498 · NTSEC · Science Carnival 2026
+
+Fecha: 2026-11-13 - 2026-11-15
+edad: Actividad gratuita para todas las edades, 13–15 de noviembre de 09:30–16:30. La solicitud escolar del 13 de noviembre se tramita por separado.
+Matvey: Sí. Programa público para familias con menores.
+Oscar: Sí. Programa público para familias con menores.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Actividad gratuita para todas las edades, 13–15 de noviembre de 09:30–16:30. La solicitud escolar del 13 de noviembre se tramita por separado.
+Precio: Gratuito.
+Limitaciones: Más de 100 puestos con experimentos, nuevas tecnologías y demostraciones científicas en el complejo de 3 museos.
+Fuente: https://sites.google.com/view/ntsec-2026-sci-fest-v1/%E6%B4%BB%E5%8B%95%E9%A1%9E%E5%9E%8B/%E7%A7%91%E5%AD%B8%E5%98%89%E5%B9%B4%E8%8F%AF
+Se ha comprobado: 2026-11-07
+
+### E499 · NSTM Kaohsiung · Maker Party 2026
+
+Fecha: 2026-11-14 — 2026-11-15
+edad: Entrada gratuita para todas las edades. 14–15 de noviembre, 10:00–18:00, edificio norte del NSTM, Equality Avenue.
+Matvey: Sí. Programa público para familias con menores.
+Oscar: Sí. Programa público para familias con menores.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Entrada gratuita para todas las edades. 14–15 de noviembre, 10:00–18:00, edificio norte del NSTM, Equality Avenue.
+Precio: Gratuito.
+Limitaciones: Puestos de robots inteligentes, astronomía, carpintería, metal y micropaisajes.
+Fuente: https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d
+Se ha comprobado: 2026-11-07
+
+### L743 · EdTech Taiwan · Minecraft Logic and Design · 13:00
+
+Fecha: 2026-11-13 — 2026-11-13
+edad: Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.
+Matvey: Condicional. Formato familiar confirmado, consultar la edad concreta del grupo.
+Oscar: Condicional. Formato familiar confirmado, consultar la edad concreta del grupo.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Horario y reserva en la página del programa familiar. Confirmar plazas y tarifa de la actividad concreta.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.
+Fuente: https://events.tca.org.tw/kid/Index?categoryId=46
+Se ha comprobado: 2026-11-07
+
+### L744 · EdTech Taiwan · Smart LED and Sensors · 13:00–14:00
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.
+Matvey: Condicional. Formato familiar confirmado, consultar la edad concreta del grupo.
+Oscar: Condicional. Formato familiar confirmado, consultar la edad concreta del grupo.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Horario y reserva en la página del programa familiar. Confirmar plazas y tarifa de la actividad concreta.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.
+Fuente: https://events.tca.org.tw/kid/Index?categoryId=46
+Se ha comprobado: 2026-11-07
+
+### L745 · EdTech Taiwan · Smart LED and Sensors · 14:00–15:00
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.
+Matvey: Condicional. Formato familiar confirmado, consultar la edad concreta del grupo.
+Oscar: Condicional. Formato familiar confirmado, consultar la edad concreta del grupo.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Horario y reserva en la página del programa familiar. Confirmar plazas y tarifa de la actividad concreta.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.
+Fuente: https://events.tca.org.tw/kid/Index?categoryId=46
+Se ha comprobado: 2026-11-07
+
+### L746 · EdTech Taiwan · Picture Books and T. Robot · 16:00
+
+Fecha: 2026-11-14 — 2026-11-14
+edad: Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.
+Matvey: Condicional. Formato familiar confirmado, consultar la edad concreta del grupo.
+Oscar: Condicional. Formato familiar confirmado, consultar la edad concreta del grupo.
+Idioma: Confirmar idioma de la actividad para el grupo o etapa elegidos.
+Acceso: Horario y reserva en la página del programa familiar. Confirmar plazas y tarifa de la actividad concreta.
+Precio: La tarifa exacta de la convocatoria elegida no está confirmada.
+Limitaciones: Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.
+Fuente: https://events.tca.org.tw/kid/Index?categoryId=46
+Se ha comprobado: 2026-11-07
+
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
 
 Fecha: 2027-07-05 2027-07-10
@@ -3328,6 +3484,188 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · TWD 10800 hasta el 5 de diciembre, TWD 12000 hasta el 30 de diciembre, base TWD 14000. Por niño y turno. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Condicional. Confirmar edad del grupo concreto y plaza. Oscar: Por debajo del curso escolar publicado. Suplementos: Se recomienda portátil propio con cargador. Consultar alquiler con antelación si hace falta. Pago: Confirmar plaza, idioma del grupo, pago y reembolso con el organizador.
 Fuente: https://www.singularmaker.com.tw/article_d.php?id=1728&lang=tw&tb=1
+Se ha comprobado: 2026-11-07
+
+### CP1912-20261114-20261114-14-1000 · NSTM Science Festival · Smart Manufacturing · Science Throwing · 10:00–10:50 · 2026-11-14–2026-11-14
+
+Fecha: 2026-11-14 — 2026-11-14
+Edad: 6+
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El idioma de la actividad para el grupo concreto no está confirmado.
+Acceso: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Precio: 2026/27 · Actividad gratuita. La entrada al museo se paga aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Fuente: https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=41
+Se ha comprobado: 2026-11-07
+
+### CP1912-20261114-20261114-14-1100 · NSTM Science Festival · Smart Manufacturing · Science Throwing · 11:00–11:50 · 2026-11-14–2026-11-14
+
+Fecha: 2026-11-14 — 2026-11-14
+Edad: 6+
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El idioma de la actividad para el grupo concreto no está confirmado.
+Acceso: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Precio: 2026/27 · Actividad gratuita. La entrada al museo se paga aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Fuente: https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=42
+Se ha comprobado: 2026-11-07
+
+### CP1912-20261114-20261114-14-1400 · NSTM Science Festival · Smart Manufacturing · Science Throwing · 14:00–14:50 · 2026-11-14–2026-11-14
+
+Fecha: 2026-11-14 — 2026-11-14
+Edad: 6+
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El idioma de la actividad para el grupo concreto no está confirmado.
+Acceso: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Precio: 2026/27 · Actividad gratuita. La entrada al museo se paga aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Fuente: https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=43
+Se ha comprobado: 2026-11-07
+
+### CP1912-20261114-20261114-14-1500 · NSTM Science Festival · Smart Manufacturing · Science Throwing · 15:00–15:50 · 2026-11-14–2026-11-14
+
+Fecha: 2026-11-14 — 2026-11-14
+Edad: 6+
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El idioma de la actividad para el grupo concreto no está confirmado.
+Acceso: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Precio: 2026/27 · Actividad gratuita. La entrada al museo se paga aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Fuente: https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=44
+Se ha comprobado: 2026-11-07
+
+### CP1912-20261115-20261115-15-1000 · NSTM Science Festival · Smart Manufacturing · Science Throwing · 10:00–10:50 · 2026-11-15–2026-11-15
+
+Fecha: 2026-11-15 — 2026-11-15
+Edad: 6+
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El idioma de la actividad para el grupo concreto no está confirmado.
+Acceso: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Precio: 2026/27 · Actividad gratuita. La entrada al museo se paga aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Fuente: https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=45
+Se ha comprobado: 2026-11-07
+
+### CP1912-20261115-20261115-15-1100 · NSTM Science Festival · Smart Manufacturing · Science Throwing · 11:00–11:50 · 2026-11-15–2026-11-15
+
+Fecha: 2026-11-15 — 2026-11-15
+Edad: 6+
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El idioma de la actividad para el grupo concreto no está confirmado.
+Acceso: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Precio: 2026/27 · Actividad gratuita. La entrada al museo se paga aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Fuente: https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=46
+Se ha comprobado: 2026-11-07
+
+### CP1912-20261115-20261115-15-1400 · NSTM Science Festival · Smart Manufacturing · Science Throwing · 14:00–14:50 · 2026-11-15–2026-11-15
+
+Fecha: 2026-11-15 — 2026-11-15
+Edad: 6+
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El idioma de la actividad para el grupo concreto no está confirmado.
+Acceso: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Precio: 2026/27 · Actividad gratuita. La entrada al museo se paga aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Fuente: https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=47
+Se ha comprobado: 2026-11-07
+
+### CP1912-20261115-20261115-15-1500 · NSTM Science Festival · Smart Manufacturing · Science Throwing · 15:00–15:50 · 2026-11-15–2026-11-15
+
+Fecha: 2026-11-15 — 2026-11-15
+Edad: 6+
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El idioma de la actividad para el grupo concreto no está confirmado.
+Acceso: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Precio: 2026/27 · Actividad gratuita. La entrada al museo se paga aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Fuente: https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=48
+Se ha comprobado: 2026-11-07
+
+### CP1913-20261114-20261114-14-0930 · NSTM Science Festival · Mayor for a Day · FUN City · 09:30–12:00 · 2026-11-14–2026-11-14
+
+Fecha: 2026-11-14 — 2026-11-14
+Edad: 6*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El idioma de la actividad para el grupo concreto no está confirmado.
+Acceso: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Precio: 2026/27 · TWD 200 por pareja de 1 adulto y 1 menor. Para 2 parejas, TWD 400. Entradas al museo aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Fuente: https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015449&act_seq=5
+Se ha comprobado: 2026-11-07
+
+### CP1913-20261114-20261114-14-1400 · NSTM Science Festival · Mayor for a Day · FUN City · 14:00–16:30 · 2026-11-14–2026-11-14
+
+Fecha: 2026-11-14 — 2026-11-14
+Edad: 6*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El idioma de la actividad para el grupo concreto no está confirmado.
+Acceso: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Precio: 2026/27 · TWD 200 por pareja de 1 adulto y 1 menor. Para 2 parejas, TWD 400. Entradas al museo aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Fuente: https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015449&act_seq=6
+Se ha comprobado: 2026-11-07
+
+### CP1913-20261115-20261115-15-0930 · NSTM Science Festival · Mayor for a Day · FUN City · 09:30–12:00 · 2026-11-15–2026-11-15
+
+Fecha: 2026-11-15 — 2026-11-15
+Edad: 6*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El idioma de la actividad para el grupo concreto no está confirmado.
+Acceso: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Precio: 2026/27 · TWD 200 por pareja de 1 adulto y 1 menor. Para 2 parejas, TWD 400. Entradas al museo aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Fuente: https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015449&act_seq=7
+Se ha comprobado: 2026-11-07
+
+### CP1913-20261115-20261115-15-1400 · NSTM Science Festival · Mayor for a Day · FUN City · 14:00–16:30 · 2026-11-15–2026-11-15
+
+Fecha: 2026-11-15 — 2026-11-15
+Edad: 6*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El idioma de la actividad para el grupo concreto no está confirmado.
+Acceso: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Precio: 2026/27 · TWD 200 por pareja de 1 adulto y 1 menor. Para 2 parejas, TWD 400. Entradas al museo aparte. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Fuente: https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015449&act_seq=8
+Se ha comprobado: 2026-11-07
+
+### CP1914-20261115-20261115-15-1300 · NSTM Science Festival · Drawing Robot · 13:00–14:30 · 2026-11-15–2026-11-15
+
+Fecha: 2026-11-15 — 2026-11-15
+edad: Grade 1+
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: El idioma de la actividad para el grupo concreto no está confirmado.
+Acceso: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Precio: 2026/27 · TWD 100 por participante más entrada al museo. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional si el menor cumple el curso escolar indicado. Oscar: Condicional si el menor cumple el curso escolar indicado. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Fuente: https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015458&act_seq=2
+Se ha comprobado: 2026-11-07
+
+### CP1915-20261115-20261115-15-1500 · NSTM Science Festival · Bionic Mechanical Claw · 15:00–16:30 · 2026-11-15–2026-11-15
+
+Fecha: 2026-11-15 — 2026-11-15
+edad: Grades 3–6
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: El idioma de la actividad para el grupo concreto no está confirmado.
+Acceso: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Precio: 2026/27 · TWD 100 por participante más entrada al museo. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional si el menor cumple el curso escolar indicado. Oscar: Condicional si el curso escolar actual coincide con los requisitos. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+Fuente: https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015459&act_seq=2
 Se ha comprobado: 2026-11-07
 
 ## ~ Comprobar de nuevo

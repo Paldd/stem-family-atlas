@@ -23394,6 +23394,51 @@
         "checked": "2026-11-07"
       },
       {
+        "id": "robothink-dream-thailand",
+        "name": "RoboThink DREAM Thailand",
+        "group": "regional",
+        "age_summary": "La edad se calcula al 30 de octubre de 2027. Aún no se publican los límites de cada categoría.",
+        "age_tags": [],
+        "summary": "La solicitud ofrece 4 categorías de robótica y 3 de programación. Aún no se anuncian kit exacto, misiones, fecha de cierre ni horarios por categoría.",
+        "categories": [
+          "Junior",
+          "Explorer",
+          "Advanced",
+          "Master",
+          "Coding Explorer",
+          "Coding Advanced",
+          "Coding Master"
+        ],
+        "event_ids": [
+          "C4485"
+        ],
+        "legacy_ids": [],
+        "route": "Solicitud separada para cada menor desde una cuenta familiar. El formulario admite pasaporte. Confirmar admisión sin filial local.",
+        "hardware": "La solicitud ofrece 4 categorías de robótica y 3 de programación. Aún no se anuncian kit exacto, misiones, fecha de cierre ni horarios por categoría.",
+        "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+        "importance": "La solicitud ofrece 4 categorías de robótica y 3 de programación. Aún no se anuncian kit exacto, misiones, fecha de cierre ni horarios por categoría.",
+        "strengths": [
+          "La solicitud ofrece 4 categorías de robótica y 3 de programación. Aún no se anuncian kit exacto, misiones, fecha de cierre ni horarios por categoría."
+        ],
+        "requirements": [
+          "Solicitud separada para cada menor desde una cuenta familiar. El formulario admite pasaporte. Confirmar admisión sin filial local."
+        ],
+        "nuances": [
+          "La edad se calcula al 30 de octubre de 2027. Aún no se publican los límites de cada categoría."
+        ],
+        "cost": "THB 3000 por participante. Para 2 menores, THB 6000 si ambos son admitidos. La organización anuncia 200 plazas totales.",
+        "award": "Aún no se anuncian premios ni certificados de esta edición.",
+        "sources": [
+          {
+            "url": "https://www.robothinkdreamthailand.com/2027?lang=en",
+            "title": "Página oficial, reglamento o calendario de la asociación del sector.",
+            "checked": "2026-11-07"
+          }
+        ],
+        "evidence": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+        "checked": "2026-11-07"
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -28648,7 +28693,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias y programas: 292. Se conservan las 46 rutas anteriores. Se distinguen los formatos de Brasil y se describen Robofest LATAM y BajaBot locales por categoría. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias y programas: 293. Se conservan las 46 rutas anteriores. Se distinguen los formatos de Brasil y se describen Robofest LATAM y BajaBot locales por categoría. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

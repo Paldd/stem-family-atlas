@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-07. 1911 fichas en 125 países. Cada ficha indica las fechas de comprobación de sus fuentes.
+Estado de la base: 2026-11-07. 1915 fichas en 125 países. Cada ficha indica las fechas de comprobación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -153817,6 +153817,498 @@ Colombia · Universidad Nacional de Colombia · Sede Medellín
 ### Fuentes
 
 - [Página oficial, reglamento o calendario de la asociación del sector.](https://centrodeeducacioncontinua.medellin.unal.edu.co/vacacional-ninos-y-ninas-cientificos-unal) · 2026-11-07
+
+## CP1912 · NSTM Science Festival · Smart Manufacturing · Science Throwing
+
+Taiwán · NSTM North · 2F · Industrial Robotics
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** 6+
+
+**Idioma:** El idioma de la actividad para el grupo concreto no está confirmado.
+
+**Programa:** Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.
+
+**Alojamiento:** Actividad diurna puntual en el museo.
+
+**Fechas / estado:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+**Precio / año:** 2026 · Actividad gratuita. La entrada al museo se paga aparte.
+
+**Incluido:** Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.
+
+**Suplementos:** Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+**Pago:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+**Matvey:** La edad encaja. Confirmar idioma de la actividad y plazas.
+
+**Oscar:** La edad encaja. Confirmar idioma de la actividad y plazas.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+- Las condiciones indican el curso escolar local. Confirmar equivalencia de una escuela extranjera.
+
+### 10:00–10:50
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**lugar:** NSTM North · 2F · Industrial Robotics
+
+**edad:** 6+
+
+**Precio:** Actividad gratuita. La entrada al museo se paga aparte.
+
+**condiciones de participación:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+- 2026-11-14 · 10:00–10:50 · Asia/Taipei · Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.
+
+**Disponibilidad de plazas:** Al consultar se mostraban 7 plazas de 10.
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+[fuente](https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=41)
+
+### 11:00–11:50
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**lugar:** NSTM North · 2F · Industrial Robotics
+
+**edad:** 6+
+
+**Precio:** Actividad gratuita. La entrada al museo se paga aparte.
+
+**condiciones de participación:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+- 2026-11-14 · 11:00–11:50 · Asia/Taipei · Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.
+
+**Disponibilidad de plazas:** Al consultar se mostraban 2 plazas de 10.
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+[fuente](https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=42)
+
+### 14:00–14:50
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**lugar:** NSTM North · 2F · Industrial Robotics
+
+**edad:** 6+
+
+**Precio:** Actividad gratuita. La entrada al museo se paga aparte.
+
+**condiciones de participación:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+- 2026-11-14 · 14:00–14:50 · Asia/Taipei · Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.
+
+**Disponibilidad de plazas:** Al consultar se mostraban 2 plazas de 10.
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+[fuente](https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=43)
+
+### 15:00–15:50
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**lugar:** NSTM North · 2F · Industrial Robotics
+
+**edad:** 6+
+
+**Precio:** Actividad gratuita. La entrada al museo se paga aparte.
+
+**condiciones de participación:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+- 2026-11-14 · 15:00–15:50 · Asia/Taipei · Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.
+
+**Disponibilidad de plazas:** Al consultar se mostraban 2 plazas de 10.
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+[fuente](https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=44)
+
+### 10:00–10:50
+
+**Fechas / estado:** 2026-11-15 — 2026-11-15
+
+**lugar:** NSTM North · 2F · Industrial Robotics
+
+**edad:** 6+
+
+**Precio:** Actividad gratuita. La entrada al museo se paga aparte.
+
+**condiciones de participación:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+- 2026-11-15 · 10:00–10:50 · Asia/Taipei · Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.
+
+**Disponibilidad de plazas:** Grupo completo, disponible lista de espera.
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+[fuente](https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=45)
+
+### 11:00–11:50
+
+**Fechas / estado:** 2026-11-15 — 2026-11-15
+
+**lugar:** NSTM North · 2F · Industrial Robotics
+
+**edad:** 6+
+
+**Precio:** Actividad gratuita. La entrada al museo se paga aparte.
+
+**condiciones de participación:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+- 2026-11-15 · 11:00–11:50 · Asia/Taipei · Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.
+
+**Disponibilidad de plazas:** Grupo completo, disponible lista de espera.
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+[fuente](https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=46)
+
+### 14:00–14:50
+
+**Fechas / estado:** 2026-11-15 — 2026-11-15
+
+**lugar:** NSTM North · 2F · Industrial Robotics
+
+**edad:** 6+
+
+**Precio:** Actividad gratuita. La entrada al museo se paga aparte.
+
+**condiciones de participación:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+- 2026-11-15 · 14:00–14:50 · Asia/Taipei · Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.
+
+**Disponibilidad de plazas:** Al consultar se mostraban 2 plazas de 10.
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+[fuente](https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=47)
+
+### 15:00–15:50
+
+**Fechas / estado:** 2026-11-15 — 2026-11-15
+
+**lugar:** NSTM North · 2F · Industrial Robotics
+
+**edad:** 6+
+
+**Precio:** Actividad gratuita. La entrada al museo se paga aparte.
+
+**condiciones de participación:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+- 2026-11-15 · 15:00–15:50 · Asia/Taipei · Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.
+
+**Disponibilidad de plazas:** Grupo completo, disponible lista de espera.
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+[fuente](https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=48)
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://serv.nstm.gov.tw/act_query) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://mobile.nstm.gov.tw/Ticket) · 2026-11-07
+
+## CP1913 · NSTM Science Festival · Mayor for a Day · FUN City
+
+Taiwán · NSTM North · B1 · FUN City
+
+**Se ha comprobado:** 2026-11-07
+
+**Edad:** 6–12
+
+**Idioma:** El idioma de la actividad para el grupo concreto no está confirmado.
+
+**Programa:** Juego de ingeniería con logística, engranajes y montaje de un camión. Formato de 1 adulto y 1 menor.
+
+**Alojamiento:** Actividad diurna puntual en el museo.
+
+**Fechas / estado:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+**Precio / año:** 2026 · TWD 200 por pareja de 1 adulto y 1 menor. Para 2 parejas, TWD 400. Entradas al museo aparte.
+
+**Incluido:** Juego de ingeniería con logística, engranajes y montaje de un camión. Formato de 1 adulto y 1 menor.
+
+**Suplementos:** Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+**Pago:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+**Matvey:** La edad encaja. Confirmar idioma de la actividad y plazas.
+
+**Oscar:** La edad encaja. Confirmar idioma de la actividad y plazas.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+- Las condiciones indican el curso escolar local. Confirmar equivalencia de una escuela extranjera.
+
+### 09:30–12:00
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**lugar:** NSTM North · B1 · FUN City
+
+**Edad:** 6–12
+
+**Precio:** TWD 200 por pareja de 1 adulto y 1 menor. Para 2 parejas, TWD 400. Entradas al museo aparte.
+
+**condiciones de participación:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+- 2026-11-14 · 09:30–12:00 · Asia/Taipei · Juego de ingeniería con logística, engranajes y montaje de un camión. Formato de 1 adulto y 1 menor.
+
+**Disponibilidad de plazas:** Al consultar se mostraban 6 plazas de 10.
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+[fuente](https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015449&act_seq=5)
+
+### 14:00–16:30
+
+**Fechas / estado:** 2026-11-14 — 2026-11-14
+
+**lugar:** NSTM North · B1 · FUN City
+
+**Edad:** 6–12
+
+**Precio:** TWD 200 por pareja de 1 adulto y 1 menor. Para 2 parejas, TWD 400. Entradas al museo aparte.
+
+**condiciones de participación:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+- 2026-11-14 · 14:00–16:30 · Asia/Taipei · Juego de ingeniería con logística, engranajes y montaje de un camión. Formato de 1 adulto y 1 menor.
+
+**Disponibilidad de plazas:** Al consultar se mostraban 10 plazas de 10.
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+[fuente](https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015449&act_seq=6)
+
+### 09:30–12:00
+
+**Fechas / estado:** 2026-11-15 — 2026-11-15
+
+**lugar:** NSTM North · B1 · FUN City
+
+**Edad:** 6–12
+
+**Precio:** TWD 200 por pareja de 1 adulto y 1 menor. Para 2 parejas, TWD 400. Entradas al museo aparte.
+
+**condiciones de participación:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+- 2026-11-15 · 09:30–12:00 · Asia/Taipei · Juego de ingeniería con logística, engranajes y montaje de un camión. Formato de 1 adulto y 1 menor.
+
+**Disponibilidad de plazas:** Al consultar se mostraban 10 plazas de 10.
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+[fuente](https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015449&act_seq=7)
+
+### 14:00–16:30
+
+**Fechas / estado:** 2026-11-15 — 2026-11-15
+
+**lugar:** NSTM North · B1 · FUN City
+
+**Edad:** 6–12
+
+**Precio:** TWD 200 por pareja de 1 adulto y 1 menor. Para 2 parejas, TWD 400. Entradas al museo aparte.
+
+**condiciones de participación:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+- 2026-11-15 · 14:00–16:30 · Asia/Taipei · Juego de ingeniería con logística, engranajes y montaje de un camión. Formato de 1 adulto y 1 menor.
+
+**Disponibilidad de plazas:** Al consultar se mostraban 6 plazas de 10.
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+[fuente](https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015449&act_seq=8)
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://serv.nstm.gov.tw/act_query) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://mobile.nstm.gov.tw/Ticket) · 2026-11-07
+
+## CP1914 · NSTM Science Festival · Drawing Robot
+
+Taiwán · NSTM North · 3F
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grade 1+
+
+**Idioma:** El idioma de la actividad para el grupo concreto no está confirmado.
+
+**Programa:** Montaje y ajuste de un robot sencillo que dibuja.
+
+**Alojamiento:** Actividad diurna puntual en el museo.
+
+**Fechas / estado:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+**Precio / año:** 2026 · TWD 100 por participante más entrada al museo.
+
+**Incluido:** Montaje y ajuste de un robot sencillo que dibuja.
+
+**Suplementos:** Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+**Pago:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+**Matvey:** Condicional si el menor cumple el curso escolar indicado.
+
+**Oscar:** Condicional si el menor cumple el curso escolar indicado.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+- Las condiciones indican el curso escolar local. Confirmar equivalencia de una escuela extranjera.
+
+### 13:00–14:30
+
+**Fechas / estado:** 2026-11-15 — 2026-11-15
+
+**lugar:** NSTM North · 3F
+
+**edad:** Grade 1+
+
+**Precio:** TWD 100 por participante más entrada al museo.
+
+**condiciones de participación:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+- 2026-11-15 · 13:00–14:30 · Asia/Taipei · Montaje y ajuste de un robot sencillo que dibuja.
+
+**Disponibilidad de plazas:** Grupo completo, disponible lista de espera.
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+[fuente](https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015458&act_seq=2)
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://serv.nstm.gov.tw/act_query) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://mobile.nstm.gov.tw/Ticket) · 2026-11-07
+
+## CP1915 · NSTM Science Festival · Bionic Mechanical Claw
+
+Taiwán · NSTM North · 3F
+
+**Se ha comprobado:** 2026-11-07
+
+**edad:** Grades 3–6
+
+**Idioma:** El idioma de la actividad para el grupo concreto no está confirmado.
+
+**Programa:** Montaje de una pinza mecánica biónica.
+
+**Alojamiento:** Actividad diurna puntual en el museo.
+
+**Fechas / estado:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+**Precio / año:** 2026 · TWD 100 por participante más entrada al museo.
+
+**Incluido:** Montaje de una pinza mecánica biónica.
+
+**Suplementos:** Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+**Pago:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+**Matvey:** Condicional si el menor cumple el curso escolar indicado.
+
+**Oscar:** Condicional si el curso escolar actual coincide con los requisitos.
+
+**Motivo de selección:** Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.
+
+### Antes de solicitar plaza
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+- Las condiciones indican el curso escolar local. Confirmar equivalencia de una escuela extranjera.
+
+### 15:00–16:30
+
+**Fechas / estado:** 2026-11-15 — 2026-11-15
+
+**lugar:** NSTM North · 3F
+
+**edad:** Grades 3–6
+
+**Precio:** TWD 100 por participante más entrada al museo.
+
+**condiciones de participación:** Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.
+
+- 2026-11-15 · 15:00–16:30 · Asia/Taipei · Montaje de una pinza mecánica biónica.
+
+**Disponibilidad de plazas:** Grupo completo, disponible lista de espera.
+
+- El idioma de la actividad para el grupo concreto no está confirmado.
+
+- Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.
+
+[fuente](https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015459&act_seq=2)
+
+### Fuentes
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://serv.nstm.gov.tw/act_query) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d) · 2026-11-07
+
+- [Página oficial, reglamento o calendario de la asociación del sector.](https://mobile.nstm.gov.tw/Ticket) · 2026-11-07
 
 ## ~ Comprobaciones no cerradas
 

@@ -1,0 +1,65 @@
+{
+  "version": 257,
+  "checked": "2026-11-07",
+  "previous_goal_turn_classification": "progress",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "E495",
+    "C4482",
+    "C4483",
+    "C4484",
+    "E496",
+    "E497",
+    "E498",
+    "E499",
+    "E500",
+    "E501",
+    "E502",
+    "E503",
+    "E504",
+    "E505",
+    "C4485",
+    "L743",
+    "L744",
+    "L745",
+    "L746"
+  ],
+  "new_generated_camp_rows": 14,
+  "new_camp_dossiers": {
+    "nstm-science-festival-throwing": "CP1912",
+    "nstm-science-festival-mayor": "CP1913",
+    "nstm-science-festival-draw": "CP1914",
+    "nstm-science-festival-claw": "CP1915"
+  },
+  "new_league_id": "robothink-dream-thailand",
+  "itmonth_robot_deadline_local": "2026-11-09 23:59",
+  "itmonth_minimum_age": 10,
+  "itmonth_family_workshops": 4,
+  "nstm_native_sessions": {
+    "throwing": 8,
+    "mayor": 4,
+    "draw": 1,
+    "claw": 1
+  },
+  "nstm_waitlist_sessions": 5,
+  "phl_first_exhibition_card": true,
+  "automation_thailand_minimum_age": 16,
+  "source_requests": 28,
+  "notes": [
+    "Начало 13:00. В описании окончание 14:30, в заголовке 15:00. Точное время окончания уточнить.",
+    "Семейная программа. Минимальный возраст и язык ведущего для этого занятия уточнить.",
+    "Нужен билет в музей. По опубликованным онлайн-тарифам TWD 120 за полный, TWD 90 за ученический с подтверждением. Принятие иностранного школьного документа уточнить.",
+    "Бесплатно для зарегистрированных отраслевых специалистов, деловых посетителей и приглашённых. Младше 16 лет в зал не допускают.",
+    "Возраст считают на 30 октября 2027. Границы категорий ещё не опубликованы.",
+    "Организатор приглашает публику. Детский доступ, точную площадку, стоимость и условия участия в конкурсах уточнить по программе."
+  ],
+  "archive_exclusions": [
+    {
+      "url": "https://events.tca.org.tw/Events/EnrollPage?token=arbjC7C8913nXSUpZZdK%2BQ%3D%3D",
+      "event_year": 2025,
+      "current_footer_year": 2026,
+      "reason": "Страница сеансов имеет даты 2025 в карточке и общий футер 2026. Старое расписание не перенесено."
+    }
+  ]
+}

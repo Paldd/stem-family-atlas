@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 256,
+    "version": 257,
     "status": "implementation_snapshot",
-    "events": 9881,
-    "competitions": 4480,
-    "league_profiles": 292,
-    "camp_dossiers": 1911,
+    "events": 9914,
+    "competitions": 4484,
+    "league_profiles": 293,
+    "camp_dossiers": 1915,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 494
+    "exhibitions_events": 505
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -927,12 +927,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 255,
+    "version": 256,
     "status": "implementation_snapshot",
-    "events": 9856,
-    "competitions": 4459,
-    "league_profiles": 291,
-    "camp_dossiers": 1910,
+    "events": 9881,
+    "competitions": 4480,
+    "league_profiles": 292,
+    "camp_dossiers": 1911,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -942,7 +942,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 330,
-    "exhibitions_events": 491
+    "exhibitions_events": 494
   },
   "research_passes": [
     {
@@ -13759,10 +13759,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 256,
+    "prepared_ui_version": 257,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 255,
-    "previous_verified_commit": "a4e4cfa56f81c37ce1a394a9c3c7e13c4c5850f7"
+    "previous_verified_ui_version": 256,
+    "previous_verified_commit": "37edb82cb61da617d2866fae3203fd17705a5600"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20809,11 +20809,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 255,
-    "published_version": 255,
-    "latest_source_commit": "a4e4cfa56f81c37ce1a394a9c3c7e13c4c5850f7",
-    "published_commit": "a4e4cfa56f81c37ce1a394a9c3c7e13c4c5850f7",
-    "latest_workflow": 42445136032,
+    "latest_source_version": 256,
+    "published_version": 256,
+    "latest_source_commit": "37edb82cb61da617d2866fae3203fd17705a5600",
+    "published_commit": "37edb82cb61da617d2866fae3203fd17705a5600",
+    "latest_workflow": 42446494261,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -25767,5 +25767,72 @@
     ],
     "audit": "data/innovatiq-and-latam-family-routes-audit-v256.json",
     "source_receipts": "data/innovatiq-and-latam-family-routes-source-receipts-v256.json"
+  },
+  "asian_expos_and_taiwan_science_v257": {
+    "version": 257,
+    "checked": "2026-11-07",
+    "previous_goal_turn_classification": "progress",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E495",
+      "C4482",
+      "C4483",
+      "C4484",
+      "E496",
+      "E497",
+      "E498",
+      "E499",
+      "E500",
+      "E501",
+      "E502",
+      "E503",
+      "E504",
+      "E505",
+      "C4485",
+      "L743",
+      "L744",
+      "L745",
+      "L746"
+    ],
+    "new_generated_camp_rows": 14,
+    "new_camp_dossiers": {
+      "nstm-science-festival-throwing": "CP1912",
+      "nstm-science-festival-mayor": "CP1913",
+      "nstm-science-festival-draw": "CP1914",
+      "nstm-science-festival-claw": "CP1915"
+    },
+    "new_league_id": "robothink-dream-thailand",
+    "itmonth_robot_deadline_local": "2026-11-09 23:59",
+    "itmonth_minimum_age": 10,
+    "itmonth_family_workshops": 4,
+    "nstm_native_sessions": {
+      "throwing": 8,
+      "mayor": 4,
+      "draw": 1,
+      "claw": 1
+    },
+    "nstm_waitlist_sessions": 5,
+    "phl_first_exhibition_card": true,
+    "automation_thailand_minimum_age": 16,
+    "source_requests": 28,
+    "notes": [
+      "Начало 13:00. В описании окончание 14:30, в заголовке 15:00. Точное время окончания уточнить.",
+      "Семейная программа. Минимальный возраст и язык ведущего для этого занятия уточнить.",
+      "Нужен билет в музей. По опубликованным онлайн-тарифам TWD 120 за полный, TWD 90 за ученический с подтверждением. Принятие иностранного школьного документа уточнить.",
+      "Бесплатно для зарегистрированных отраслевых специалистов, деловых посетителей и приглашённых. Младше 16 лет в зал не допускают.",
+      "Возраст считают на 30 октября 2027. Границы категорий ещё не опубликованы.",
+      "Организатор приглашает публику. Детский доступ, точную площадку, стоимость и условия участия в конкурсах уточнить по программе."
+    ],
+    "archive_exclusions": [
+      {
+        "url": "https://events.tca.org.tw/Events/EnrollPage?token=arbjC7C8913nXSUpZZdK%2BQ%3D%3D",
+        "event_year": 2025,
+        "current_footer_year": 2026,
+        "reason": "Страница сеансов имеет даты 2025 в карточке и общий футер 2026. Старое расписание не перенесено."
+      }
+    ],
+    "audit": "data/asian-expos-and-taiwan-science-audit-v257.json",
+    "source_receipts": "data/asian-expos-and-taiwan-science-source-receipts-v257.json"
   }
 }

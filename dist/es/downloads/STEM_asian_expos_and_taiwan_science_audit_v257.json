@@ -1,0 +1,65 @@
+{
+  "version": 257,
+  "checked": "2026-11-07",
+  "previous_goal_turn_classification": "progress",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "E495",
+    "C4482",
+    "C4483",
+    "C4484",
+    "E496",
+    "E497",
+    "E498",
+    "E499",
+    "E500",
+    "E501",
+    "E502",
+    "E503",
+    "E504",
+    "E505",
+    "C4485",
+    "L743",
+    "L744",
+    "L745",
+    "L746"
+  ],
+  "new_generated_camp_rows": 14,
+  "new_camp_dossiers": {
+    "nstm-science-festival-throwing": "CP1912",
+    "nstm-science-festival-mayor": "CP1913",
+    "nstm-science-festival-draw": "CP1914",
+    "nstm-science-festival-claw": "CP1915"
+  },
+  "new_league_id": "robothink-dream-thailand",
+  "itmonth_robot_deadline_local": "2026-11-09 23:59",
+  "itmonth_minimum_age": 10,
+  "itmonth_family_workshops": 4,
+  "nstm_native_sessions": {
+    "throwing": 8,
+    "mayor": 4,
+    "draw": 1,
+    "claw": 1
+  },
+  "nstm_waitlist_sessions": 5,
+  "phl_first_exhibition_card": true,
+  "automation_thailand_minimum_age": 16,
+  "source_requests": 28,
+  "notes": [
+    "Inicio a las 13:00. El texto indica fin a las 14:30 y la cabecera a las 15:00. Confirmar la hora exacta de fin.",
+    "Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.",
+    "Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.",
+    "Gratis para profesionales del sector, visitantes de negocios e invitados registrados. No se permite el acceso a menores de 16 años.",
+    "La edad se calcula al 30 de octubre de 2027. Aún no se publican los límites de cada categoría.",
+    "La organización invita al público. Confirmar en el programa acceso de menores, sede exacta, coste y requisitos de los concursos."
+  ],
+  "archive_exclusions": [
+    {
+      "url": "https://events.tca.org.tw/Events/EnrollPage?token=arbjC7C8913nXSUpZZdK%2BQ%3D%3D",
+      "event_year": 2025,
+      "current_footer_year": 2026,
+      "reason": "La ficha de sesiones tiene fechas de 2025 y el pie general dice 2026. No se trasladó el horario anterior."
+    }
+  ]
+}

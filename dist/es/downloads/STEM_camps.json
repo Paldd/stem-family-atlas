@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 4907,
-      "holiday": 4576,
+      "records": 4925,
+      "holiday": 4594,
       "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1036,
@@ -37973,6 +37973,257 @@
       "admission_kind": "school_selection",
       "evidence_level": "event_page",
       "venue": "Swiss Science Center Technorama · Winterthur"
+    },
+    {
+      "id": "L743",
+      "title": "EdTech Taiwan · Minecraft Logic and Design · 13:00",
+      "block": "Campamentos",
+      "country": "Taiwán",
+      "region": "Asia",
+      "iso": [
+        "TWN"
+      ],
+      "city": "Taipei",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "period": "13:00",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "single_workshop",
+      "checked": "2026-11-07",
+      "source": "https://events.tca.org.tw/kid/Index?categoryId=46",
+      "references": [
+        {
+          "url": "https://www.itmonth.tw/",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.",
+      "mat": "Condicional. Formato familiar confirmado, consultar la edad concreta del grupo.",
+      "osc": "Condicional. Formato familiar confirmado, consultar la edad concreta del grupo.",
+      "format": "Taller o programa formativo",
+      "entry": "Horario y reserva en la página del programa familiar. Confirmar plazas y tarifa de la actividad concreta.",
+      "gear": "Lógica de juego, pensamiento espacial y circuitos de redstone en Minecraft.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Horario y reserva en la página del programa familiar. Confirmar plazas y tarifa de la actividad concreta.",
+      "note": "Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.",
+      "themes": [
+        "games",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Taller o programa formativo",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "venue": "Taipei World Trade Center · Hall 1",
+      "related_ids": [
+        "E495"
+      ]
+    },
+    {
+      "id": "L744",
+      "title": "EdTech Taiwan · Smart LED and Sensors · 13:00–14:00",
+      "block": "Campamentos",
+      "country": "Taiwán",
+      "region": "Asia",
+      "iso": [
+        "TWN"
+      ],
+      "city": "Taipei",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "13:00–14:00",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "session_days",
+      "checked": "2026-11-07",
+      "source": "https://events.tca.org.tw/kid/Index?categoryId=46",
+      "references": [
+        {
+          "url": "https://www.itmonth.tw/",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.",
+      "mat": "Condicional. Formato familiar confirmado, consultar la edad concreta del grupo.",
+      "osc": "Condicional. Formato familiar confirmado, consultar la edad concreta del grupo.",
+      "format": "Taller o programa formativo",
+      "entry": "Horario y reserva en la página del programa familiar. Confirmar plazas y tarifa de la actividad concreta.",
+      "gear": "Trabajo con sensores de temperatura y humedad, LED y TarkusVP web.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Horario y reserva en la página del programa familiar. Confirmar plazas y tarifa de la actividad concreta.",
+      "note": "Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.",
+      "themes": [
+        "engineering",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Taller o programa formativo",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "venue": "Taipei World Trade Center · Hall 1",
+      "related_ids": [
+        "E495"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "13:00",
+          "end_time": "14:00",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "topic": "Trabajo con sensores de temperatura y humedad, LED y TarkusVP web.",
+          "start_utc": "2026-11-14T05:00:00Z",
+          "end_utc": "2026-11-14T06:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "L745",
+      "title": "EdTech Taiwan · Smart LED and Sensors · 14:00–15:00",
+      "block": "Campamentos",
+      "country": "Taiwán",
+      "region": "Asia",
+      "iso": [
+        "TWN"
+      ],
+      "city": "Taipei",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "14:00–15:00",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "session_days",
+      "checked": "2026-11-07",
+      "source": "https://events.tca.org.tw/kid/Index?categoryId=46",
+      "references": [
+        {
+          "url": "https://www.itmonth.tw/",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.",
+      "mat": "Condicional. Formato familiar confirmado, consultar la edad concreta del grupo.",
+      "osc": "Condicional. Formato familiar confirmado, consultar la edad concreta del grupo.",
+      "format": "Taller o programa formativo",
+      "entry": "Horario y reserva en la página del programa familiar. Confirmar plazas y tarifa de la actividad concreta.",
+      "gear": "Trabajo con sensores de temperatura y humedad, LED y TarkusVP web.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Horario y reserva en la página del programa familiar. Confirmar plazas y tarifa de la actividad concreta.",
+      "note": "Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.",
+      "themes": [
+        "engineering",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Taller o programa formativo",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "venue": "Taipei World Trade Center · Hall 1",
+      "related_ids": [
+        "E495"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "14:00",
+          "end_time": "15:00",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "topic": "Trabajo con sensores de temperatura y humedad, LED y TarkusVP web.",
+          "start_utc": "2026-11-14T06:00:00Z",
+          "end_utc": "2026-11-14T07:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "L746",
+      "title": "EdTech Taiwan · Picture Books and T. Robot · 16:00",
+      "block": "Campamentos",
+      "country": "Taiwán",
+      "region": "Asia",
+      "iso": [
+        "TWN"
+      ],
+      "city": "Taipei",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "16:00",
+      "deadline": "",
+      "date_status": "Confirmado",
+      "date_scope": "single_workshop",
+      "checked": "2026-11-07",
+      "source": "https://events.tca.org.tw/kid/Index?categoryId=46",
+      "references": [
+        {
+          "url": "https://www.itmonth.tw/",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "Cotejado con fuentes primarias. Se distinguen fecha de la fase, convocatoria y derecho a participar.",
+      "status": "Idea",
+      "age": "Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.",
+      "mat": "Condicional. Formato familiar confirmado, consultar la edad concreta del grupo.",
+      "osc": "Condicional. Formato familiar confirmado, consultar la edad concreta del grupo.",
+      "format": "Taller o programa formativo",
+      "entry": "Horario y reserva en la página del programa familiar. Confirmar plazas y tarifa de la actividad concreta.",
+      "gear": "Libro y retos de juego con tarjetas de instrucciones. Algoritmos, depuración y resolución de problemas.",
+      "language": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Confirmar idioma de la actividad para el grupo o etapa elegidos.",
+      "cost": "La tarifa exacta de la convocatoria elegida no está confirmada.",
+      "level": "Taller o programa formativo",
+      "reward": "",
+      "priority": "P2 — participación según condiciones",
+      "action": "Horario y reserva en la página del programa familiar. Confirmar plazas y tarifa de la actividad concreta.",
+      "note": "Programa familiar. Confirmar edad mínima e idioma de quien imparte esta actividad.",
+      "themes": [
+        "robotics",
+        "coding",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "Taller o programa formativo",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "venue": "Taipei World Trade Center · Hall 1",
+      "related_ids": [
+        "E495"
+      ]
     },
     {
       "id": "CP001-20270606-20270619",
@@ -393540,6 +393791,1126 @@
       "availability": {
         "status": "closed",
         "label": "La página de la universidad indica plazas agotadas. Consultar la próxima edición."
+      }
+    },
+    {
+      "id": "CP1912-20261114-20261114-14-1000",
+      "block": "Campamentos",
+      "title": "NSTM Science Festival · Smart Manufacturing · Science Throwing · 10:00–10:50 · 2026-11-14–2026-11-14",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NSTM North · 2F · Industrial Robotics",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6+",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Actividad diurna puntual en el museo.",
+      "entry": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "gear": "Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.",
+      "language": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "cost": "2026/27 · Actividad gratuita. La entrada al museo se paga aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El idioma de la actividad para el grupo concreto no está confirmado.; Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.",
+      "source": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=41",
+      "references": [
+        {
+          "url": "https://serv.nstm.gov.tw/act_query",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://mobile.nstm.gov.tw/Ticket",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nstm-science-festival-throwing",
+      "camp_programme_id": "CP1912",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "10:00",
+          "end_time": "10:50",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "topic": "Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.",
+          "start_utc": "2026-11-14T02:00:00Z",
+          "end_utc": "2026-11-14T02:50:00Z"
+        }
+      ],
+      "availability": {
+        "status": "listed_available",
+        "label": "Al consultar se mostraban 7 plazas de 10."
+      }
+    },
+    {
+      "id": "CP1912-20261114-20261114-14-1100",
+      "block": "Campamentos",
+      "title": "NSTM Science Festival · Smart Manufacturing · Science Throwing · 11:00–11:50 · 2026-11-14–2026-11-14",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NSTM North · 2F · Industrial Robotics",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6+",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Actividad diurna puntual en el museo.",
+      "entry": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "gear": "Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.",
+      "language": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "cost": "2026/27 · Actividad gratuita. La entrada al museo se paga aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El idioma de la actividad para el grupo concreto no está confirmado.; Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.",
+      "source": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=42",
+      "references": [
+        {
+          "url": "https://serv.nstm.gov.tw/act_query",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://mobile.nstm.gov.tw/Ticket",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nstm-science-festival-throwing",
+      "camp_programme_id": "CP1912",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "11:00",
+          "end_time": "11:50",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "topic": "Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.",
+          "start_utc": "2026-11-14T03:00:00Z",
+          "end_utc": "2026-11-14T03:50:00Z"
+        }
+      ],
+      "availability": {
+        "status": "listed_available",
+        "label": "Al consultar se mostraban 2 plazas de 10."
+      }
+    },
+    {
+      "id": "CP1912-20261114-20261114-14-1400",
+      "block": "Campamentos",
+      "title": "NSTM Science Festival · Smart Manufacturing · Science Throwing · 14:00–14:50 · 2026-11-14–2026-11-14",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NSTM North · 2F · Industrial Robotics",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6+",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Actividad diurna puntual en el museo.",
+      "entry": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "gear": "Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.",
+      "language": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "cost": "2026/27 · Actividad gratuita. La entrada al museo se paga aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El idioma de la actividad para el grupo concreto no está confirmado.; Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.",
+      "source": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=43",
+      "references": [
+        {
+          "url": "https://serv.nstm.gov.tw/act_query",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://mobile.nstm.gov.tw/Ticket",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nstm-science-festival-throwing",
+      "camp_programme_id": "CP1912",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "14:00",
+          "end_time": "14:50",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "topic": "Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.",
+          "start_utc": "2026-11-14T06:00:00Z",
+          "end_utc": "2026-11-14T06:50:00Z"
+        }
+      ],
+      "availability": {
+        "status": "listed_available",
+        "label": "Al consultar se mostraban 2 plazas de 10."
+      }
+    },
+    {
+      "id": "CP1912-20261114-20261114-14-1500",
+      "block": "Campamentos",
+      "title": "NSTM Science Festival · Smart Manufacturing · Science Throwing · 15:00–15:50 · 2026-11-14–2026-11-14",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NSTM North · 2F · Industrial Robotics",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6+",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Actividad diurna puntual en el museo.",
+      "entry": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "gear": "Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.",
+      "language": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "cost": "2026/27 · Actividad gratuita. La entrada al museo se paga aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El idioma de la actividad para el grupo concreto no está confirmado.; Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.",
+      "source": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=44",
+      "references": [
+        {
+          "url": "https://serv.nstm.gov.tw/act_query",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://mobile.nstm.gov.tw/Ticket",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nstm-science-festival-throwing",
+      "camp_programme_id": "CP1912",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "15:00",
+          "end_time": "15:50",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "topic": "Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.",
+          "start_utc": "2026-11-14T07:00:00Z",
+          "end_utc": "2026-11-14T07:50:00Z"
+        }
+      ],
+      "availability": {
+        "status": "listed_available",
+        "label": "Al consultar se mostraban 2 plazas de 10."
+      }
+    },
+    {
+      "id": "CP1912-20261115-20261115-15-1000",
+      "block": "Campamentos",
+      "title": "NSTM Science Festival · Smart Manufacturing · Science Throwing · 10:00–10:50 · 2026-11-15–2026-11-15",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NSTM North · 2F · Industrial Robotics",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "period": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6+",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Actividad diurna puntual en el museo.",
+      "entry": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "gear": "Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.",
+      "language": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "cost": "2026/27 · Actividad gratuita. La entrada al museo se paga aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El idioma de la actividad para el grupo concreto no está confirmado.; Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.",
+      "source": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=45",
+      "references": [
+        {
+          "url": "https://serv.nstm.gov.tw/act_query",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://mobile.nstm.gov.tw/Ticket",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nstm-science-festival-throwing",
+      "camp_programme_id": "CP1912",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "start_time": "10:00",
+          "end_time": "10:50",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "topic": "Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.",
+          "start_utc": "2026-11-15T02:00:00Z",
+          "end_utc": "2026-11-15T02:50:00Z"
+        }
+      ],
+      "availability": {
+        "status": "waitlist",
+        "label": "Grupo completo, disponible lista de espera."
+      }
+    },
+    {
+      "id": "CP1912-20261115-20261115-15-1100",
+      "block": "Campamentos",
+      "title": "NSTM Science Festival · Smart Manufacturing · Science Throwing · 11:00–11:50 · 2026-11-15–2026-11-15",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NSTM North · 2F · Industrial Robotics",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "period": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6+",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Actividad diurna puntual en el museo.",
+      "entry": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "gear": "Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.",
+      "language": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "cost": "2026/27 · Actividad gratuita. La entrada al museo se paga aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El idioma de la actividad para el grupo concreto no está confirmado.; Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.",
+      "source": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=46",
+      "references": [
+        {
+          "url": "https://serv.nstm.gov.tw/act_query",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://mobile.nstm.gov.tw/Ticket",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nstm-science-festival-throwing",
+      "camp_programme_id": "CP1912",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "start_time": "11:00",
+          "end_time": "11:50",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "topic": "Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.",
+          "start_utc": "2026-11-15T03:00:00Z",
+          "end_utc": "2026-11-15T03:50:00Z"
+        }
+      ],
+      "availability": {
+        "status": "waitlist",
+        "label": "Grupo completo, disponible lista de espera."
+      }
+    },
+    {
+      "id": "CP1912-20261115-20261115-15-1400",
+      "block": "Campamentos",
+      "title": "NSTM Science Festival · Smart Manufacturing · Science Throwing · 14:00–14:50 · 2026-11-15–2026-11-15",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NSTM North · 2F · Industrial Robotics",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "period": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6+",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Actividad diurna puntual en el museo.",
+      "entry": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "gear": "Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.",
+      "language": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "cost": "2026/27 · Actividad gratuita. La entrada al museo se paga aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El idioma de la actividad para el grupo concreto no está confirmado.; Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.",
+      "source": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=47",
+      "references": [
+        {
+          "url": "https://serv.nstm.gov.tw/act_query",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://mobile.nstm.gov.tw/Ticket",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nstm-science-festival-throwing",
+      "camp_programme_id": "CP1912",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "start_time": "14:00",
+          "end_time": "14:50",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "topic": "Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.",
+          "start_utc": "2026-11-15T06:00:00Z",
+          "end_utc": "2026-11-15T06:50:00Z"
+        }
+      ],
+      "availability": {
+        "status": "listed_available",
+        "label": "Al consultar se mostraban 2 plazas de 10."
+      }
+    },
+    {
+      "id": "CP1912-20261115-20261115-15-1500",
+      "block": "Campamentos",
+      "title": "NSTM Science Festival · Smart Manufacturing · Science Throwing · 15:00–15:50 · 2026-11-15–2026-11-15",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NSTM North · 2F · Industrial Robotics",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "period": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6+",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Actividad diurna puntual en el museo.",
+      "entry": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "gear": "Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.",
+      "language": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "cost": "2026/27 · Actividad gratuita. La entrada al museo se paga aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El idioma de la actividad para el grupo concreto no está confirmado.; Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.",
+      "source": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=48",
+      "references": [
+        {
+          "url": "https://serv.nstm.gov.tw/act_query",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://mobile.nstm.gov.tw/Ticket",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nstm-science-festival-throwing",
+      "camp_programme_id": "CP1912",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "start_time": "15:00",
+          "end_time": "15:50",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "topic": "Juego familiar de precisión con preguntas de automatización y control en la zona de robots industriales.",
+          "start_utc": "2026-11-15T07:00:00Z",
+          "end_utc": "2026-11-15T07:50:00Z"
+        }
+      ],
+      "availability": {
+        "status": "waitlist",
+        "label": "Grupo completo, disponible lista de espera."
+      }
+    },
+    {
+      "id": "CP1913-20261114-20261114-14-0930",
+      "block": "Campamentos",
+      "title": "NSTM Science Festival · Mayor for a Day · FUN City · 09:30–12:00 · 2026-11-14–2026-11-14",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NSTM North · B1 · FUN City",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–12",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Actividad diurna puntual en el museo.",
+      "entry": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "gear": "Juego de ingeniería con logística, engranajes y montaje de un camión. Formato de 1 adulto y 1 menor.",
+      "language": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "cost": "2026/27 · TWD 200 por pareja de 1 adulto y 1 menor. Para 2 parejas, TWD 400. Entradas al museo aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El idioma de la actividad para el grupo concreto no está confirmado.; Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.",
+      "source": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015449&act_seq=5",
+      "references": [
+        {
+          "url": "https://serv.nstm.gov.tw/act_query",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://mobile.nstm.gov.tw/Ticket",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "engineering",
+        "technology",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nstm-science-festival-mayor",
+      "camp_programme_id": "CP1913",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "09:30",
+          "end_time": "12:00",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "topic": "Juego de ingeniería con logística, engranajes y montaje de un camión. Formato de 1 adulto y 1 menor.",
+          "start_utc": "2026-11-14T01:30:00Z",
+          "end_utc": "2026-11-14T04:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "listed_available",
+        "label": "Al consultar se mostraban 6 plazas de 10."
+      }
+    },
+    {
+      "id": "CP1913-20261114-20261114-14-1400",
+      "block": "Campamentos",
+      "title": "NSTM Science Festival · Mayor for a Day · FUN City · 14:00–16:30 · 2026-11-14–2026-11-14",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NSTM North · B1 · FUN City",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–12",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Actividad diurna puntual en el museo.",
+      "entry": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "gear": "Juego de ingeniería con logística, engranajes y montaje de un camión. Formato de 1 adulto y 1 menor.",
+      "language": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "cost": "2026/27 · TWD 200 por pareja de 1 adulto y 1 menor. Para 2 parejas, TWD 400. Entradas al museo aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El idioma de la actividad para el grupo concreto no está confirmado.; Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.",
+      "source": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015449&act_seq=6",
+      "references": [
+        {
+          "url": "https://serv.nstm.gov.tw/act_query",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://mobile.nstm.gov.tw/Ticket",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "engineering",
+        "technology",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nstm-science-festival-mayor",
+      "camp_programme_id": "CP1913",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "14:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "topic": "Juego de ingeniería con logística, engranajes y montaje de un camión. Formato de 1 adulto y 1 menor.",
+          "start_utc": "2026-11-14T06:00:00Z",
+          "end_utc": "2026-11-14T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "listed_available",
+        "label": "Al consultar se mostraban 10 plazas de 10."
+      }
+    },
+    {
+      "id": "CP1913-20261115-20261115-15-0930",
+      "block": "Campamentos",
+      "title": "NSTM Science Festival · Mayor for a Day · FUN City · 09:30–12:00 · 2026-11-15–2026-11-15",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NSTM North · B1 · FUN City",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "period": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–12",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Actividad diurna puntual en el museo.",
+      "entry": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "gear": "Juego de ingeniería con logística, engranajes y montaje de un camión. Formato de 1 adulto y 1 menor.",
+      "language": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "cost": "2026/27 · TWD 200 por pareja de 1 adulto y 1 menor. Para 2 parejas, TWD 400. Entradas al museo aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El idioma de la actividad para el grupo concreto no está confirmado.; Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.",
+      "source": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015449&act_seq=7",
+      "references": [
+        {
+          "url": "https://serv.nstm.gov.tw/act_query",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://mobile.nstm.gov.tw/Ticket",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "engineering",
+        "technology",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nstm-science-festival-mayor",
+      "camp_programme_id": "CP1913",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "start_time": "09:30",
+          "end_time": "12:00",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "topic": "Juego de ingeniería con logística, engranajes y montaje de un camión. Formato de 1 adulto y 1 menor.",
+          "start_utc": "2026-11-15T01:30:00Z",
+          "end_utc": "2026-11-15T04:00:00Z"
+        }
+      ],
+      "availability": {
+        "status": "listed_available",
+        "label": "Al consultar se mostraban 10 plazas de 10."
+      }
+    },
+    {
+      "id": "CP1913-20261115-20261115-15-1400",
+      "block": "Campamentos",
+      "title": "NSTM Science Festival · Mayor for a Day · FUN City · 14:00–16:30 · 2026-11-15–2026-11-15",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NSTM North · B1 · FUN City",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "period": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–12",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Actividad diurna puntual en el museo.",
+      "entry": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "gear": "Juego de ingeniería con logística, engranajes y montaje de un camión. Formato de 1 adulto y 1 menor.",
+      "language": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "cost": "2026/27 · TWD 200 por pareja de 1 adulto y 1 menor. Para 2 parejas, TWD 400. Entradas al museo aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El idioma de la actividad para el grupo concreto no está confirmado.; Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.",
+      "source": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015449&act_seq=8",
+      "references": [
+        {
+          "url": "https://serv.nstm.gov.tw/act_query",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://mobile.nstm.gov.tw/Ticket",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar idioma de la actividad y plazas. Oscar: La edad encaja. Confirmar idioma de la actividad y plazas. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "engineering",
+        "technology",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nstm-science-festival-mayor",
+      "camp_programme_id": "CP1913",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "start_time": "14:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "topic": "Juego de ingeniería con logística, engranajes y montaje de un camión. Formato de 1 adulto y 1 menor.",
+          "start_utc": "2026-11-15T06:00:00Z",
+          "end_utc": "2026-11-15T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "listed_available",
+        "label": "Al consultar se mostraban 6 plazas de 10."
+      }
+    },
+    {
+      "id": "CP1914-20261115-20261115-15-1300",
+      "block": "Campamentos",
+      "title": "NSTM Science Festival · Drawing Robot · 13:00–14:30 · 2026-11-15–2026-11-15",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NSTM North · 3F",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "period": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grade 1+",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Actividad diurna puntual en el museo.",
+      "entry": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "gear": "Montaje y ajuste de un robot sencillo que dibuja.",
+      "language": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "cost": "2026/27 · TWD 100 por participante más entrada al museo. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El idioma de la actividad para el grupo concreto no está confirmado.; Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.",
+      "source": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015458&act_seq=2",
+      "references": [
+        {
+          "url": "https://serv.nstm.gov.tw/act_query",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://mobile.nstm.gov.tw/Ticket",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Condicional si el menor cumple el curso escolar indicado. Oscar: Condicional si el menor cumple el curso escolar indicado. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nstm-science-festival-draw",
+      "camp_programme_id": "CP1914",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "topic": "Montaje y ajuste de un robot sencillo que dibuja.",
+          "start_utc": "2026-11-15T05:00:00Z",
+          "end_utc": "2026-11-15T06:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "waitlist",
+        "label": "Grupo completo, disponible lista de espera."
+      }
+    },
+    {
+      "id": "CP1915-20261115-20261115-15-1500",
+      "block": "Campamentos",
+      "title": "NSTM Science Festival · Bionic Mechanical Claw · 15:00–16:30 · 2026-11-15–2026-11-15",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "NSTM North · 3F",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "period": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grades 3–6",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Actividad diurna puntual en el museo.",
+      "entry": "Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "gear": "Montaje de una pinza mecánica biónica.",
+      "language": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "cost": "2026/27 · TWD 100 por participante más entrada al museo. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "El idioma de la actividad para el grupo concreto no está confirmado.; Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero.",
+      "source": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015459&act_seq=2",
+      "references": [
+        {
+          "url": "https://serv.nstm.gov.tw/act_query",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        },
+        {
+          "url": "https://mobile.nstm.gov.tw/Ticket",
+          "label": "Página oficial, reglamento o calendario de la asociación del sector."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-07",
+      "status": "Idea",
+      "note": "Matvey: Condicional si el menor cumple el curso escolar indicado. Oscar: Condicional si el curso escolar actual coincide con los requisitos. Suplementos: Se requiere entrada al museo. Tarifas en línea publicadas: TWD 120 general y TWD 90 de estudiante con acreditación. Confirmar aceptación del documento escolar extranjero. Pago: Sesiones y plazas exactas de la lista del museo. La disponibilidad puede cambiar.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "engineering",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "El idioma de la actividad para el grupo concreto no está confirmado.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "nstm-science-festival-claw",
+      "camp_programme_id": "CP1915",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "start_time": "15:00",
+          "end_time": "16:30",
+          "timezone": "Asia/Taipei",
+          "ical_timed": true,
+          "topic": "Montaje de una pinza mecánica biónica.",
+          "start_utc": "2026-11-15T07:00:00Z",
+          "end_utc": "2026-11-15T08:30:00Z"
+        }
+      ],
+      "availability": {
+        "status": "waitlist",
+        "label": "Grupo completo, disponible lista de espera."
       }
     },
     {

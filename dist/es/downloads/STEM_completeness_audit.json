@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 9881,
-    "competition_cards": 4480,
-    "event_cards": 494,
-    "camp_cards": 4907,
-    "league_profiles": 292,
-    "major_exhibition_cards": 397,
+    "cards": 9914,
+    "competition_cards": 4484,
+    "event_cards": 505,
+    "camp_cards": 4925,
+    "league_profiles": 293,
+    "major_exhibition_cards": 408,
     "vex_cards": 814,
     "countries_with_records": 211,
     "fully_audited_countries": 0
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 2871,
+      "total": 2904,
       "countries_with_records": 48,
-      "competitions": 1111,
-      "events": 131,
-      "major_exhibitions": 118,
-      "camps": 1629,
+      "competitions": 1115,
+      "events": 142,
+      "major_exhibitions": 129,
+      "camps": 1647,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -7543,6 +7543,20 @@
       "new": false
     },
     {
+      "id": "robothink-dream-thailand",
+      "name": "RoboThink DREAM Thailand",
+      "group": "regional",
+      "event_ids": [
+        "C4485"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.robothinkdreamthailand.com/2027?lang=en",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · programa de ingeniería y showcase",
       "group": "regional",
@@ -12898,6 +12912,127 @@
       "new": false
     },
     {
+      "id": "E495",
+      "name": "Taipei IT Month × EdTech Taiwan 2026",
+      "country": "Taiwán",
+      "region": "Asia",
+      "start": "2026-11-12",
+      "end": "2026-11-15",
+      "visitor_policy": "family",
+      "source": "https://www.itmonth.tw/",
+      "new": false
+    },
+    {
+      "id": "E496",
+      "name": "Taiwan Science Festival 2026 · Weekend I",
+      "country": "Taiwán",
+      "region": "Asia",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "visitor_policy": "family",
+      "source": "https://www.moe.gov.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=85A25BD61A118DEB",
+      "new": false
+    },
+    {
+      "id": "E497",
+      "name": "Taiwan Science Festival 2026 · Weekend II",
+      "country": "Taiwán",
+      "region": "Asia",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "visitor_policy": "family",
+      "source": "https://www.moe.gov.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=85A25BD61A118DEB",
+      "new": false
+    },
+    {
+      "id": "E498",
+      "name": "NTSEC · Science Carnival 2026",
+      "country": "Taiwán",
+      "region": "Asia",
+      "start": "2026-11-13",
+      "end": "2026-11-15",
+      "visitor_policy": "family",
+      "source": "https://sites.google.com/view/ntsec-2026-sci-fest-v1/%E6%B4%BB%E5%8B%95%E9%A1%9E%E5%9E%8B/%E7%A7%91%E5%AD%B8%E5%98%89%E5%B9%B4%E8%8F%AF",
+      "new": false
+    },
+    {
+      "id": "E499",
+      "name": "NSTM Kaohsiung · Maker Party 2026",
+      "country": "Taiwán",
+      "region": "Asia",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "visitor_policy": "family",
+      "source": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+      "new": false
+    },
+    {
+      "id": "E500",
+      "name": "DOST · National Science, Technology and Innovation Week 2026",
+      "country": "Filipinas",
+      "region": "Asia",
+      "start": "2026-11-25",
+      "end": "2026-11-29",
+      "visitor_policy": "confirm_children",
+      "source": "https://dost.gov.ph/knowledge-resources/news/4559-as-el-nino-looms-dost-urges-public-to-look-for-science-solutions-offered-at-2026-nstw.html",
+      "new": false
+    },
+    {
+      "id": "E501",
+      "name": "HKTDC InnoEX 2027",
+      "country": "RAE de Hong Kong (China)",
+      "region": "Asia",
+      "start": "2027-04-13",
+      "end": "2027-04-16",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hktdc.com/event/innoex/en/about-innoex",
+      "new": false
+    },
+    {
+      "id": "E502",
+      "name": "Chengdu International Industry Fair 2027",
+      "country": "China",
+      "region": "Asia",
+      "start": "2027-03-02",
+      "end": "2027-03-04",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.cdiif.com/news/details/710.html",
+      "new": false
+    },
+    {
+      "id": "E503",
+      "name": "ARE Dongguan 2027",
+      "country": "China",
+      "region": "Asia",
+      "start": "2027-03-03",
+      "end": "2027-03-05",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.are-expo.cn/",
+      "new": false
+    },
+    {
+      "id": "E504",
+      "name": "South China International Industry Fair 2027",
+      "country": "China",
+      "region": "Asia",
+      "start": "2027-06-16",
+      "end": "2027-06-18",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.sciif.com/",
+      "new": false
+    },
+    {
+      "id": "E505",
+      "name": "Automation Thailand 2027",
+      "country": "Tailandia",
+      "region": "Asia",
+      "start": "2027-03-10",
+      "end": "2027-03-12",
+      "visitor_policy": "adults_only",
+      "source": "https://automation-thailand.tw.messefrankfurt.com/thailand/en/facts-figures/Show-Overview.html",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -15315,8 +15450,8 @@
       }
     ],
     "counts": {
-      "records": 4907,
-      "holiday": 4576,
+      "records": 4925,
+      "holiday": 4594,
       "regular": 158,
       "self_paced_materials": 2,
       "boarding": 1036,

@@ -1,0 +1,292 @@
+{
+  "captures": [
+    {
+      "key": "itmonth",
+      "url": "https://www.itmonth.tw/",
+      "final_url": "https://www.itmonth.tw/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 2065052,
+      "sha256": "4c9e85ff47d5b47957352f921a51c67705be56c543b54b16f4daf2afd6701d34",
+      "file": "itmonth.html"
+    },
+    {
+      "key": "edtech",
+      "url": "https://www.edtech.tw/about-edtechtw",
+      "final_url": "https://www.edtech.tw/about-edtechtw",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1449710,
+      "sha256": "b9c7bcc78386f859ef47445b86f769971ca9aaafe9631922d6dcc569ea3463a6",
+      "file": "edtech.html"
+    },
+    {
+      "key": "taipei-gov",
+      "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=839C6FC197CAEF71&sms=72544237BBE4C5F6",
+      "final_url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=839C6FC197CAEF71&sms=72544237BBE4C5F6",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 209019,
+      "sha256": "59defb144c6d3ea87813e0708de0dc5b68e40dea74fe6d5c01f3f687db06adf8",
+      "file": "taipei-gov.html"
+    },
+    {
+      "key": "itmonth-edu",
+      "url": "https://ed.arte.gov.tw/Ch/content/m_news_content_5.aspx?AE_SNID=35541",
+      "final_url": "https://ed.arte.gov.tw/Ch/content/m_news_content_5.aspx?AE_SNID=35541",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 162491,
+      "sha256": "fbda669d2ae99cd57413e61ebfff1c8f743ac844e3b2edf01b90fce8060cc12c",
+      "file": "itmonth-edu.html"
+    },
+    {
+      "key": "itmonth-current-robot",
+      "url": "https://events.tca.org.tw/Events/EnrollPage?token=Q74xjPwsFNUUFFqIm2hXqg%3D%3D",
+      "final_url": "https://events.tca.org.tw/Events/EnrollPage?token=Q74xjPwsFNUUFFqIm2hXqg%3D%3D",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27078,
+      "sha256": "e1adc4b0ffaec3a36f0905d660cf6e93136acefc7521506b62757ee2ed12771f",
+      "file": "itmonth-current-robot.html"
+    },
+    {
+      "key": "itmonth-stage",
+      "url": "https://events.tca.org.tw/itmonth/Index?categoryId=6",
+      "final_url": "https://events.tca.org.tw/itmonth/Index?categoryId=6",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 26959,
+      "sha256": "64e4780fc759885eb317b9e296802e1111f660f13afb52131cf5d360caeac609",
+      "file": "itmonth-stage.html"
+    },
+    {
+      "key": "science-festival-moe",
+      "url": "https://www.moe.gov.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=85A25BD61A118DEB",
+      "method": "web_indexed_official_page",
+      "verified_facts": "Seven edition festival over 7–8 and 14–15 November 2026 across the five science museums.",
+      "checked": "2026-11-07"
+    },
+    {
+      "key": "science-festival-index",
+      "url": "https://www.ntsec.gov.tw/article/list.aspx?a=6039",
+      "final_url": "https://www.ntsec.gov.tw/article/list.aspx?a=6039",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 287979,
+      "sha256": "6091fc008a5a2533f4de052697f077cc4c7b5f3e5b69f50a0ecdada501c7ce87",
+      "file": "science-festival-index.html"
+    },
+    {
+      "key": "nstm-weekends",
+      "url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+      "final_url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 451271,
+      "sha256": "1fa6421a0b70709241031c2f0df92c20ca98472a2c78cf3773263324f1b3d7e1",
+      "file": "nstm-weekends.html"
+    },
+    {
+      "key": "sci-carnival",
+      "url": "https://sites.google.com/view/ntsec-2026-sci-fest-v1/%E6%B4%BB%E5%8B%95%E9%A1%9E%E5%9E%8B/%E7%A7%91%E5%AD%B8%E5%98%89%E5%B9%B4%E8%8F%AF",
+      "final_url": "https://sites.google.com/view/ntsec-2026-sci-fest-v1/%E6%B4%BB%E5%8B%95%E9%A1%9E%E5%9E%8B/%E7%A7%91%E5%AD%B8%E5%98%89%E5%B9%B4%E8%8F%AF",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 364359,
+      "sha256": "852a8938da93fcd4e77c1557260f9d83bb6407c134c5a25fc0b13148f14c2409",
+      "file": "sci-carnival.html"
+    },
+    {
+      "key": "ntsec-school",
+      "url": "https://www.ntsec.gov.tw/article/detail.aspx?a=6108",
+      "final_url": "https://www.ntsec.gov.tw/article/detail.aspx?a=6108",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 294722,
+      "sha256": "2d61d320871a33529ec6d05c6833e6729c82ca125fe4938fb784d131bcebf892",
+      "file": "ntsec-school.html"
+    },
+    {
+      "key": "nstm-partners",
+      "url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=38363c1e-0692-4f5e-a58c-e8de3930f0f2",
+      "final_url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=38363c1e-0692-4f5e-a58c-e8de3930f0f2",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 196430,
+      "sha256": "6fb665465c28cc7eac2147a62790ba4370e90c76190c95c935a4f66ae18b491f",
+      "file": "nstm-partners.html"
+    },
+    {
+      "key": "dost-news",
+      "url": "https://dost.gov.ph/knowledge-resources/news/4559-as-el-nino-looms-dost-urges-public-to-look-for-science-solutions-offered-at-2026-nstw.html",
+      "method": "web_indexed_official_page",
+      "verified_facts": "25–29 November 2026; General Santos City; public science exhibits.",
+      "checked": "2026-11-07"
+    },
+    {
+      "key": "dost-nstw",
+      "url": "https://www.nstw.dost.gov.ph/news/gensan-to-stage-2026-national-science-week",
+      "method": "web_indexed_official_page",
+      "verified_facts": "DOST announcement lists exhibits, robot-building and e-games development.",
+      "checked": "2026-11-07"
+    },
+    {
+      "key": "innoex",
+      "url": "https://www.hktdc.com/event/innoex/en/about-innoex",
+      "final_url": "https://www.hktdc.com/event/innoex/en/about-innoex",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 229820,
+      "sha256": "5613a4b8b6663a108060b5b9a56f520b94cf793d230603312152fa24ec88e381",
+      "file": "innoex.html"
+    },
+    {
+      "key": "innoex-visitor",
+      "url": "https://www.hktdc.com/event/innoex/en/shared-contents/visitors-rules-and-regulations",
+      "final_url": "https://www.hktdc.com/event/innoex/en/shared-contents/visitors-rules-and-regulations",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 132983,
+      "sha256": "b92e1b036966f92b659022ee71110805de9a5734ae2345be489b875a79a59948",
+      "file": "innoex-visitor.html"
+    },
+    {
+      "key": "cdiif",
+      "url": "https://www.cdiif.com/news/details/710.html",
+      "final_url": "https://www.cdiif.com/news/details/710.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 73775,
+      "sha256": "2286139689ecb28b84e9ac391e58fb4f866b6cce1a7b7f8c57099c0d57b2469e",
+      "file": "cdiif.html"
+    },
+    {
+      "key": "cdiif-visitor",
+      "url": "https://www.cdiif.com/audience.html",
+      "final_url": "https://www.cdiif.com/audience.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 70938,
+      "sha256": "51139da95f91075598986addaf7ea732d4ff98a23d80811b66e564900d1291e1",
+      "file": "cdiif-visitor.html"
+    },
+    {
+      "key": "are-dongguan",
+      "url": "https://www.are-expo.cn/",
+      "final_url": "https://www.are-expo.cn/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 56020,
+      "sha256": "908632e7c7a8bd834102fd6d229ea2b6bb908a2f531adc40c2b531921eaaea5b",
+      "file": "are-dongguan.html"
+    },
+    {
+      "key": "are-visitor",
+      "url": "https://www.are-expo.cn/cn/show.php?itemid=8",
+      "final_url": "https://www.are-expo.cn/cn/show.php?itemid=8",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 29710,
+      "sha256": "8b6458577b9ddb52685a3eff987ee481e250c96c89f3fcd887868bc91d886adf",
+      "file": "are-visitor.html"
+    },
+    {
+      "key": "sciif",
+      "url": "https://www.sciif.com/",
+      "final_url": "https://www.sciif.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 99312,
+      "sha256": "255048a5328ac190da71abff1628bed63b19294ba752a0c8483d3aeedcdbb9a2",
+      "file": "sciif.html"
+    },
+    {
+      "key": "sciif-visitor",
+      "url": "https://www.sciif.com/audience.html",
+      "final_url": "https://www.sciif.com/audience.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 79013,
+      "sha256": "2c5b7017ceabb6e0181dbd0a4e040683d09c1bc01c41ebdbe09a115e736fb54c",
+      "file": "sciif-visitor.html"
+    },
+    {
+      "key": "automation-thailand",
+      "url": "https://automation-thailand.tw.messefrankfurt.com/thailand/en/facts-figures/Show-Overview.html",
+      "final_url": "https://automation-thailand.tw.messefrankfurt.com/thailand/en/facts-figures/Show-Overview.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 109063,
+      "sha256": "f05f9b487a71c6a60c54f20aa21d40292f123ecf19d0445172ba34aef107131a",
+      "file": "automation-thailand.html"
+    },
+    {
+      "key": "automation-thailand-visitor",
+      "url": "https://automation-thailand.tw.messefrankfurt.com/thailand/en/planning-preparation/visitors.html",
+      "final_url": "https://automation-thailand.tw.messefrankfurt.com/thailand/en/planning-preparation/visitors.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 112037,
+      "sha256": "d25b008d0cdfdb9a4616abd4600f1d2ee6f0c2ea67c46875fb395188e1ac0985",
+      "file": "automation-thailand-visitor.html"
+    },
+    {
+      "key": "dream-thailand",
+      "url": "https://www.robothinkdreamthailand.com/2027?lang=en",
+      "final_url": "https://www.robothinkdreamthailand.com/2027?lang=en",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 77375,
+      "sha256": "131c44ff9c88bae25432139867b05d1ea0624a46ec9b56068dcc55d1efd0b9a5",
+      "file": "dream-thailand.html"
+    },
+    {
+      "key": "itmonth-family-index",
+      "url": "https://events.tca.org.tw/kid/Index?categoryId=46",
+      "final_url": "https://events.tca.org.tw/Events/EnrollPage?token=ufINThCDkwqCIWzsZVWfag%3D%3D",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 40680,
+      "sha256": "5e736cac03e84cd39d79a6f36184c3f7a48b4740e44ea401501fe4d7ec67779d",
+      "file": "itmonth-family-index.html"
+    },
+    {
+      "key": "nstm-query",
+      "url": "https://serv.nstm.gov.tw/act_query",
+      "final_url": "https://serv.nstm.gov.tw/act_query",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 655181,
+      "sha256": "11588176475a401a8d905beb353a0dd606046296fad91665d635abdda6223a01",
+      "file": "nstm-query.html"
+    },
+    {
+      "key": "nstm-tariff-online",
+      "url": "https://mobile.nstm.gov.tw/Ticket",
+      "final_url": "https://mobile.nstm.gov.tw/Ticket",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 57022,
+      "sha256": "f420608bf1d988ea5ce252c710f27b659cf8697fccb9fb5ec0f4f77f14e706ad",
+      "file": "nstm-tariff-online.html"
+    }
+  ],
+  "direct_fetch_limitations": [
+    {
+      "key": "science-festival-moe",
+      "url": "https://www.moe.gov.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=85A25BD61A118DEB",
+      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+    },
+    {
+      "key": "dost-news",
+      "url": "https://dost.gov.ph/knowledge-resources/news/4559-as-el-nino-looms-dost-urges-public-to-look-for-science-solutions-offered-at-2026-nstw.html",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "key": "dost-nstw",
+      "url": "https://www.nstw.dost.gov.ph/news/gensan-to-stage-2026-national-science-week",
+      "error": "<urlopen error timed out>"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 9881; соревнований: 4480; событий: 494; лагерей / программ: 4907. Профилей лиг и программ: 292. Карточек крупных и профильных выставок: 397 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 9914; соревнований: 4484; событий: 505; лагерей / программ: 4925. Профилей лиг и программ: 293. Карточек крупных и профильных выставок: 408 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 211 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -18,12 +18,12 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Южная Америка | 13 | 414 | 35 | 199 |
 | Европа | 51 | 573 | 102 | 1425 |
 | Африка | 48 | 226 | 28 | 80 |
-| Азия | 48 | 1111 | 118 | 1629 |
+| Азия | 48 | 1115 | 129 | 1647 |
 | Океания | 16 | 151 | 27 | 327 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 143. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 814 из 4480 карточек соревнований (18.2%). Это явный перекос охвата.
+VEX: 814 из 4484 карточек соревнований (18.2%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -318,6 +318,7 @@ VEX: 814 из 4480 карточек соревнований (18.2%). Это я�
 - **Минская открытая лига робототехники · сезон 2026–2027**: 22 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://roboturnir.by/
 - **Минский открытый роботурнир · РобоФинист**: 2 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://edu4future.by/project/minskij-otkrytyj-roboturnir
 - **innovatiQ Digital Cup**: 21 карточек, 21 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://innovatiq.education/digitalcup/2027/
+- **RoboThink DREAM Thailand**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robothinkdreamthailand.com/2027?lang=en
 - **The Tech Challenge · инженерная программа и showcase**: 0 карточек, 0 с будущими точными датами. Учебная / посещаемая программа; конкурсных этапов нет. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · локальные дисциплины**: 10 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · младшая демонстрация и Mini Sumo**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -757,6 +758,17 @@ VEX: 814 из 4480 карточек соревнований (18.2%). Это я�
 - **Parque Explora · Temporada de fin de año** — Колумбия; 2026-12-14 – 2027-01-11. Со взрослым; условия взрослого входа отдельно. https://web.parqueexplora.org/visitanos
 - **Grupo R.A. × Nética · Fiscales 2026 · Pase de visitante** — Эквадор; 2026-11-24. Детский допуск уточнить. https://somosgrupora.com/torneo-robotica/
 - **Grupo R.A. × Nética · Particulares 2026 · Pase de visitante** — Эквадор; 2026-11-25. Детский допуск уточнить. https://somosgrupora.com/torneo-robotica/
+- **Taipei IT Month × EdTech Taiwan 2026** — Тайвань; 2026-11-12 – 2026-11-15. Со взрослым; условия взрослого входа отдельно. https://www.itmonth.tw/
+- **Taiwan Science Festival 2026 · Weekend I** — Тайвань; 2026-11-07 – 2026-11-08. Со взрослым; условия взрослого входа отдельно. https://www.moe.gov.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=85A25BD61A118DEB
+- **Taiwan Science Festival 2026 · Weekend II** — Тайвань; 2026-11-14 – 2026-11-15. Со взрослым; условия взрослого входа отдельно. https://www.moe.gov.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=85A25BD61A118DEB
+- **NTSEC · Science Carnival 2026** — Тайвань; 2026-11-13 – 2026-11-15. Со взрослым; условия взрослого входа отдельно. https://sites.google.com/view/ntsec-2026-sci-fest-v1/%E6%B4%BB%E5%8B%95%E9%A1%9E%E5%9E%8B/%E7%A7%91%E5%AD%B8%E5%98%89%E5%B9%B4%E8%8F%AF
+- **NSTM Kaohsiung · Maker Party 2026** — Тайвань; 2026-11-14 – 2026-11-15. Со взрослым; условия взрослого входа отдельно. https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=3a47a825-813d-45e6-8eb1-cfd797ec154d
+- **DOST · National Science, Technology and Innovation Week 2026** — Филиппины; 2026-11-25 – 2026-11-29. Детский допуск уточнить. https://dost.gov.ph/knowledge-resources/news/4559-as-el-nino-looms-dost-urges-public-to-look-for-science-solutions-offered-at-2026-nstw.html
+- **HKTDC InnoEX 2027** — Китай, Специальный административный район Гонконг; 2027-04-13 – 2027-04-16. Детский допуск уточнить. https://www.hktdc.com/event/innoex/en/about-innoex
+- **Chengdu International Industry Fair 2027** — Китай; 2027-03-02 – 2027-03-04. Детский допуск уточнить. https://www.cdiif.com/news/details/710.html
+- **ARE Dongguan 2027** — Китай; 2027-03-03 – 2027-03-05. Детский допуск уточнить. https://www.are-expo.cn/
+- **South China International Industry Fair 2027** — Китай; 2027-06-16 – 2027-06-18. Детский допуск уточнить. https://www.sciif.com/
+- **Automation Thailand 2027** — Таиланд; 2027-03-10 – 2027-03-12. Детям 6/9 нельзя. https://automation-thailand.tw.messefrankfurt.com/thailand/en/facts-figures/Show-Overview.html
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors
