@@ -3814,20 +3814,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E290@family-stem.local
-DTSTAMP:20261107T082208Z
+DTSTAMP:20261109T081109Z
 SUMMARY:[Выставка · допуск детей уточнить] Ha
  ngzhou International Humanoid Robot & Robotics Technology Exhibition
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270530
 DESCRIPTION:Идея посещения\, не принятая реги
- страция. Условно. Возраст посетителя и 
- правила сопровождения уточнить. Взросл
- ый вход: Профессиональная выставка. Уто
- чнить регистрацию взрослого и правила 
- для несовершеннолетних на этот выпуск..
-   Компании: Список экспонентов этого вы
- пуска сверять по каталогу организатора
- .. Источник проверен 2026-11-07.
+ страция. Анонсированы научные активнос
+ ти для молодёжи. Возраст\, бронирование\
+ , вход детей и иностранный документ уто
+ чнить. Взрослый вход: 27 и 28 мая 2027\, 09:00–17
+ :00. 29 мая\, 09:00–16:00. В центральном вестибю
+ ле проверяют документ и проводят досмо
+ тр.. Анонсированы научные активности дл
+ я молодёжи. Возраст\, бронирование\, вхо
+ д детей и иностранный документ уточнит
+ ь. Компании: Список экспонентов этого в
+ ыпуска сверять по каталогу организатор
+ а.. Источник проверен 2026-11-09.
 LOCATION:Hangzhou Grand Convention and Exhibition Center · 杭州大会
  展中心\, Китай
 URL:https://www.humanoidrobotshow.com.cn/
@@ -11967,6 +11971,33 @@ DESCRIPTION:Идея посещения\, не принятая реги
   Источник проверен 2026-11-09.
 LOCATION:Barcelona · Fira Montjuïc · Hall 8\, Испания
 URL:https://spark-expo.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E732@family-stem.local
+DTSTAMP:20261109T081109Z
+SUMMARY:[Выставка · допуск детей уточнить] CI
+ EX / CIRE Tianjin 2027 · Robotics & Embodied AI
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270314
+DESCRIPTION:Идея посещения\, не принятая реги
+ страция. До 16 лет требуется взрослый со
+ провождающий и регистрация данных опек
+ уна. Для иностранных детей уточнить док
+ умент и процедуру пропуска. Взрослый вх
+ од: Бесплатный вход по именному электро
+ нному пропуску и оригиналу документа. Е
+ сть отдельная англоязычная страница дл
+ я посетителей.. Организатор заявляет ABB\
+ , KUKA\, Yaskawa\, FANUC и Siasun. Состав стендов свер
+ ить по финальному каталогу. Компании: О
+ рганизатор заявляет ABB\, KUKA\, Yaskawa\, FANUC и Si
+ asun. Состав стендов сверить по финальном
+ у каталогу.. Источник проверен 2026-11-09.
+LOCATION:National Convention and Exhibition Center (Tianjin) · 888 Guozh
+ an Avenue\, Китай
+URL:https://www.ciex-expo.com/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11425,
-    "competition_cards": 5088,
-    "event_cards": 731,
-    "camp_cards": 5606,
-    "league_profiles": 326,
-    "major_exhibition_cards": 625,
+    "cards": 11443,
+    "competition_cards": 5093,
+    "event_cards": 733,
+    "camp_cards": 5617,
+    "league_profiles": 327,
+    "major_exhibition_cards": 627,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 3172,
+      "total": 3181,
       "countries_with_records": 50,
-      "competitions": 1200,
-      "events": 187,
-      "major_exhibitions": 174,
-      "camps": 1785,
+      "competitions": 1204,
+      "events": 189,
+      "major_exhibitions": 176,
+      "camps": 1788,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -104,12 +104,12 @@
       "regions": [
         "Океания"
       ],
-      "total": 573,
+      "total": 582,
       "countries_with_records": 27,
-      "competitions": 175,
+      "competitions": 176,
       "events": 36,
       "major_exhibitions": 32,
-      "camps": 362,
+      "camps": 370,
       "status": "Частично исследовано",
       "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
     }
@@ -8373,6 +8373,23 @@
       "new": false
     },
     {
+      "id": "jrc-kumamoto-winter",
+      "name": "Junior Robot Competition · Kumamoto",
+      "group": "regional",
+      "event_ids": [
+        "C5090",
+        "C5091",
+        "C5092",
+        "C5093"
+      ],
+      "cards": 4,
+      "future_dated": 0,
+      "linked_card_count": 4,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -16249,6 +16266,28 @@
       "new": false
     },
     {
+      "id": "E732",
+      "name": "CIEX / CIRE Tianjin 2027 · Robotics & Embodied AI",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "2027-03-10",
+      "end": "2027-03-13",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.ciex-expo.com/",
+      "new": false
+    },
+    {
+      "id": "E733",
+      "name": "ARCE Beijing 2027 · Asian Robot Conference and Exhibition",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.lxhtexpo.com/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -18666,8 +18705,8 @@
       }
     ],
     "counts": {
-      "records": 5606,
-      "holiday": 5031,
+      "records": 5617,
+      "holiday": 5036,
       "regular": 223,
       "self_paced_materials": 4,
       "boarding": 1039,

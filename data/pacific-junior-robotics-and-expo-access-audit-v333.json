@@ -1,0 +1,75 @@
+{
+  "version": 333,
+  "checked": "2026-11-09",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C5090",
+    "C5091",
+    "C5092",
+    "C5093",
+    "C5094",
+    "E732",
+    "E733",
+    "CP2235-20270111-20270113-vex-iq",
+    "CP2236-20270118-20270120-vex-go",
+    "CP2237-20270118-20270120-python-primary",
+    "CP2238-20270111-20270113-python-secondary",
+    "CP2239-20261111-20261111-library",
+    "CP2240-20261119-20261119-library",
+    "CP2241-20261101-20261130-library",
+    "CP2242-20270118-20270122-advanced",
+    "CP2243-20261122-20261122-trial-22",
+    "CP2243-20261129-20261129-trial-29",
+    "CP2244-20261213-20270124-short-course"
+  ],
+  "refreshed_event_ids": [
+    "E290"
+  ],
+  "new_dossier_ids": [
+    "CP2235",
+    "CP2236",
+    "CP2237",
+    "CP2238",
+    "CP2239",
+    "CP2240",
+    "CP2241",
+    "CP2242",
+    "CP2243",
+    "CP2244"
+  ],
+  "new_league_ids": [
+    "jrc-kumamoto-winter"
+  ],
+  "jrc_category_ids": [
+    "C5090",
+    "C5091",
+    "C5092",
+    "C5093"
+  ],
+  "jrc_lab_profiles": [
+    "CP2243",
+    "CP2244"
+  ],
+  "codekids_profiles": {
+    "vex-iq": "CP2235",
+    "vex-go": "CP2236",
+    "python-primary": "CP2237",
+    "python-secondary": "CP2238"
+  },
+  "codekids_summer_listings_mapped": 4,
+  "library_profiles": {
+    "penrith-sphero-november": "CP2239",
+    "sunbury-library-robots": "CP2240",
+    "rainbow-beach-library-sphero": "CP2241"
+  },
+  "advanced_ai_dossier": "CP2242",
+  "nsw_sumo_event": "C5094",
+  "ciex_event": "E732",
+  "arce_watch": "E733",
+  "hrte_event": "E290",
+  "source_requests": 26,
+  "legacy_overlay_event_ids": [
+    "E290"
+  ]
+}

@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 332,
+    "version": 333,
     "status": "implementation_snapshot",
-    "events": 11425,
-    "competitions": 5088,
-    "league_profiles": 326,
-    "camp_dossiers": 2234,
+    "events": 11443,
+    "competitions": 5093,
+    "league_profiles": 327,
+    "camp_dossiers": 2244,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 731,
+    "exhibitions_events": 733,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 331,
+    "version": 332,
     "status": "implementation_snapshot",
-    "events": 11399,
-    "competitions": 5085,
-    "league_profiles": 324,
-    "camp_dossiers": 2228,
+    "events": 11425,
+    "competitions": 5088,
+    "league_profiles": 326,
+    "camp_dossiers": 2234,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 728,
+    "exhibitions_events": 731,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 332,
+    "prepared_ui_version": 333,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 331,
-    "previous_verified_commit": "801bce9e817f6666f3b0230eae9bc936ddd31a23"
+    "previous_verified_ui_version": 332,
+    "previous_verified_commit": "542f265f25e1f4170cfcd9935e34013dd4c9e7f5"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 331,
-    "published_version": 331,
-    "latest_source_commit": "801bce9e817f6666f3b0230eae9bc936ddd31a23",
-    "published_commit": "801bce9e817f6666f3b0230eae9bc936ddd31a23",
-    "latest_workflow": 42579721148,
+    "latest_source_version": 332,
+    "published_version": 332,
+    "latest_source_commit": "542f265f25e1f4170cfcd9935e34013dd4c9e7f5",
+    "published_commit": "542f265f25e1f4170cfcd9935e34013dd4c9e7f5",
+    "latest_workflow": 42582556941,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -35317,5 +35317,80 @@
         "L942"
       ]
     }
+  },
+  "pacific_junior_robotics_and_expo_access_v333": {
+    "version": 333,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C5090",
+      "C5091",
+      "C5092",
+      "C5093",
+      "C5094",
+      "E732",
+      "E733",
+      "CP2235-20270111-20270113-vex-iq",
+      "CP2236-20270118-20270120-vex-go",
+      "CP2237-20270118-20270120-python-primary",
+      "CP2238-20270111-20270113-python-secondary",
+      "CP2239-20261111-20261111-library",
+      "CP2240-20261119-20261119-library",
+      "CP2241-20261101-20261130-library",
+      "CP2242-20270118-20270122-advanced",
+      "CP2243-20261122-20261122-trial-22",
+      "CP2243-20261129-20261129-trial-29",
+      "CP2244-20261213-20270124-short-course"
+    ],
+    "refreshed_event_ids": [
+      "E290"
+    ],
+    "new_dossier_ids": [
+      "CP2235",
+      "CP2236",
+      "CP2237",
+      "CP2238",
+      "CP2239",
+      "CP2240",
+      "CP2241",
+      "CP2242",
+      "CP2243",
+      "CP2244"
+    ],
+    "new_league_ids": [
+      "jrc-kumamoto-winter"
+    ],
+    "jrc_category_ids": [
+      "C5090",
+      "C5091",
+      "C5092",
+      "C5093"
+    ],
+    "jrc_lab_profiles": [
+      "CP2243",
+      "CP2244"
+    ],
+    "codekids_profiles": {
+      "vex-iq": "CP2235",
+      "vex-go": "CP2236",
+      "python-primary": "CP2237",
+      "python-secondary": "CP2238"
+    },
+    "codekids_summer_listings_mapped": 4,
+    "library_profiles": {
+      "penrith-sphero-november": "CP2239",
+      "sunbury-library-robots": "CP2240",
+      "rainbow-beach-library-sphero": "CP2241"
+    },
+    "advanced_ai_dossier": "CP2242",
+    "nsw_sumo_event": "C5094",
+    "ciex_event": "E732",
+    "arce_watch": "E733",
+    "hrte_event": "E290",
+    "source_requests": 26,
+    "legacy_overlay_event_ids": [
+      "E290"
+    ]
   }
 }

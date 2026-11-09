@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base al 2026-11-09. 2234 fichas en 140 países. Las fechas de revisión de las fuentes figuran en cada ficha.
+Estado de la base al 2026-11-09. 2244 fichas en 140 países. Las fechas de revisión de las fuentes figuran en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -176913,6 +176913,584 @@ Colombia - Bogotá · Cra. 57C #128B-73
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://steamacademy.edu.co/) · 2026-11-09
+
+## CP2235 · CodeKids Perth · VEX IQ Robotics & Programming
+
+Australia · Perth · Northbridge · 5/99 Francis St
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 9–14 años, referencia Year 4–9.
+
+**Idioma:** Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.
+
+**Programa:** VEX IQ, sensores y motores, programación por bloques, laberinto y sumo de práctica. Apto para principiantes.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.
+
+**Precio / año:** 2027 · 495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final.
+
+**Incluido:** Se proporcionan kits de robótica y materiales. Merienda y traslado aparte.
+
+**Suplementos:** Según las preguntas frecuentes, es posible un traslado o devolución por clases pendientes dentro de los plazos de 14 y 30 días. Puede aplicarse un cargo de 50 AUD. Las condiciones explican cómo rechazar por escrito el uso de imágenes.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Oscar:** No encaja en la franja de edad de este grupo.
+
+**Por qué se incluye:** 3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.
+
+### Antes de solicitar plaza
+
+- Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+
+- La disponibilidad cambia. Confirmar plaza en el grupo elegido.
+
+### VEX IQ Robotics & Programming
+
+**Fechas / estado:** 2027-01-11 — 2027-01-13
+
+**Precio:** 495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final.
+
+**condiciones de participación:** Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+
+- 2027-01-11 · 13:00–16:00 · Australia/Perth · VEX IQ Robotics & Programming
+
+- 2027-01-12 · 13:00–16:00 · Australia/Perth · VEX IQ Robotics & Programming
+
+- 2027-01-13 · 13:00–16:00 · Australia/Perth · VEX IQ Robotics & Programming
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://codekids.com.au/product/vex-iq-robotics-programming-holiday-workshop/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://codekids.com.au/product/vex-iq-robotics-programming-holiday-workshop/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://codekids.com.au/courses/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://codekids.com.au/faq/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://codekids.com.au/termsandconditions/) · 2026-11-09
+
+## CP2236 · CodeKids Perth · VEX GO Junior Robotics
+
+Australia · Perth · Northbridge · 5/99 Francis St
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 6–8 años, referencia Year 1–3.
+
+**Idioma:** Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.
+
+**Programa:** VEX GO, ruedas y engranajes, motores y sensores, montaje de modelos y circuito con obstáculos. Apto para principiantes.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.
+
+**Precio / año:** 2027 · 495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final.
+
+**Incluido:** Se proporcionan kits de robótica y materiales. Merienda y traslado aparte.
+
+**Suplementos:** Según las preguntas frecuentes, es posible un traslado o devolución por clases pendientes dentro de los plazos de 14 y 30 días. Puede aplicarse un cargo de 50 AUD. Las condiciones explican cómo rechazar por escrito el uso de imágenes.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** No encaja en la franja de edad de este grupo.
+
+**Oscar:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Por qué se incluye:** 3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.
+
+### Antes de solicitar plaza
+
+- Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+
+- La disponibilidad cambia. Confirmar plaza en el grupo elegido.
+
+### VEX GO Junior Robotics
+
+**Fechas / estado:** 2027-01-18 — 2027-01-20
+
+**Precio:** 495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final.
+
+**condiciones de participación:** Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+
+- 2027-01-18 · 13:00–16:00 · Australia/Perth · VEX GO Junior Robotics
+
+- 2027-01-19 · 13:00–16:00 · Australia/Perth · VEX GO Junior Robotics
+
+- 2027-01-20 · 13:00–16:00 · Australia/Perth · VEX GO Junior Robotics
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://codekids.com.au/product/vex-go-junior-robotics-holiday-workshop/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://codekids.com.au/product/vex-go-junior-robotics-holiday-workshop/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://codekids.com.au/courses/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://codekids.com.au/faq/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://codekids.com.au/termsandconditions/) · 2026-11-09
+
+## CP2237 · CodeKids Perth · Python Primary
+
+Australia · Perth · Northbridge · 5/99 Francis St
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** Cursos Year 4–6. Confirmar equivalencia escolar.
+
+**Idioma:** Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.
+
+**Programa:** Python desde cero, variables, entrada y salida, condiciones, bucles y juegos sencillos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.
+
+**Precio / año:** 2027 · 495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final.
+
+**Incluido:** Se recomienda un portátil Windows o Mac. En vacaciones en Northbridge se puede pedir un portátil prestado sin coste.
+
+**Suplementos:** Según las preguntas frecuentes, es posible un traslado o devolución por clases pendientes dentro de los plazos de 14 y 30 días. Puede aplicarse un cargo de 50 AUD. Las condiciones explican cómo rechazar por escrito el uso de imágenes.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Posible con equivalencia de los cursos 4–6. Confirmar curso directamente con el organizador.
+
+**Oscar:** No corresponde a la etapa actual. Confirmar el curso escolar equivalente.
+
+**Por qué se incluye:** 3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.
+
+### Antes de solicitar plaza
+
+- Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+
+- La disponibilidad cambia. Confirmar plaza en el grupo elegido.
+
+### Python Primary
+
+**Fechas / estado:** 2027-01-18 — 2027-01-20
+
+**Precio:** 495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final.
+
+**condiciones de participación:** Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+
+- 2027-01-18 · 13:00–16:00 · Australia/Perth · Python Primary
+
+- 2027-01-19 · 13:00–16:00 · Australia/Perth · Python Primary
+
+- 2027-01-20 · 13:00–16:00 · Australia/Perth · Python Primary
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://codekids.com.au/product/python-holiday-class-for-primary-school-students/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://codekids.com.au/product/python-holiday-class-for-primary-school-students/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://codekids.com.au/courses/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://codekids.com.au/faq/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://codekids.com.au/termsandconditions/) · 2026-11-09
+
+## CP2238 · CodeKids Perth · Python Secondary
+
+Australia · Perth · Northbridge · 5/99 Francis St
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** Cursos Year 7–12. Confirmar equivalencia escolar.
+
+**Idioma:** Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.
+
+**Programa:** Python para estudiantes principiantes. Fundamentos de algoritmos, ejercicios prácticos y organización de programas.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.
+
+**Precio / año:** 2027 · 495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final.
+
+**Incluido:** Se recomienda un portátil Windows o Mac. En vacaciones en Northbridge se puede pedir un portátil prestado sin coste.
+
+**Suplementos:** Según las preguntas frecuentes, es posible un traslado o devolución por clases pendientes dentro de los plazos de 14 y 30 días. Puede aplicarse un cargo de 50 AUD. Las condiciones explican cómo rechazar por escrito el uso de imágenes.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** No corresponde a la etapa actual. Confirmar el curso escolar equivalente.
+
+**Oscar:** No corresponde a la etapa actual. Confirmar el curso escolar equivalente.
+
+**Por qué se incluye:** 3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.
+
+### Antes de solicitar plaza
+
+- Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+
+- La disponibilidad cambia. Confirmar plaza en el grupo elegido.
+
+### Python Secondary
+
+**Fechas / estado:** 2027-01-11 — 2027-01-13
+
+**Precio:** 495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final.
+
+**condiciones de participación:** Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+
+- 2027-01-11 · 13:00–16:00 · Australia/Perth · Python Secondary
+
+- 2027-01-12 · 13:00–16:00 · Australia/Perth · Python Secondary
+
+- 2027-01-13 · 13:00–16:00 · Australia/Perth · Python Secondary
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://codekids.com.au/product/python-holiday-class-for-secondary-school-students/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://codekids.com.au/product/python-holiday-class-for-secondary-school-students/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://codekids.com.au/courses/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://codekids.com.au/faq/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://codekids.com.au/termsandconditions/) · 2026-11-09
+
+## CP2239 · Penrith City Library · Sphero
+
+Australia · Penrith · 601 High Street · Peter Goodfellow Theatrette
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 8–14 años.
+
+**Idioma:** Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.
+
+**Programa:** El menor monta y programa Sphero. El acompañante espera fuera de la sala.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 11 de noviembre de 2026, 16:00–17:00 AEDT. La página incluye la sesión ya pasada del 4 de noviembre.
+
+**Precio / año:** 2026 · 5 AUD por menor. Las ausencias no se reembolsan según las condiciones.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Oscar:** No encaja en la franja de edad de este grupo.
+
+**Por qué se incluye:** 11 de noviembre de 2026, 16:00–17:00 AEDT. La página incluye la sesión ya pasada del 4 de noviembre.
+
+### Antes de solicitar plaza
+
+- Reserva previa obligatoria. Confirmar acceso, idioma y plaza.
+
+### Penrith City Library · Sphero
+
+**Fechas / estado:** 2026-11-11 — 2026-11-11
+
+**Precio:** 5 AUD por menor. Las ausencias no se reembolsan según las condiciones.
+
+**condiciones de participación:** Reserva previa obligatoria. Confirmar acceso, idioma y plaza.
+
+- 2026-11-11 · 16:00–17:00 · Australia/Sydney · Penrith City Library · Sphero
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://events.humanitix.com/robotics_november26)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://events.humanitix.com/robotics_november26) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://penrithcity.nsw.gov.au/upcoming-events/come-and-try-programmable-robots-sphero) · 2026-11-09
+
+## CP2240 · Hume Libraries · Robots!
+
+Australia · Sunbury Library · 44 Macedon Street
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 6–12 años. Menores de 12 requieren acompañante adulto.
+
+**Idioma:** Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.
+
+**Programa:** Uso de Sphero, Ozobot y Osmo. Reserva con cuenta de biblioteca, por teléfono o en persona.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 19 de noviembre de 2026, 16:30–17:30 AEDT.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Oscar:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Por qué se incluye:** 19 de noviembre de 2026, 16:30–17:30 AEDT.
+
+### Antes de solicitar plaza
+
+- Reserva previa obligatoria. Confirmar acceso, idioma y plaza.
+
+### Hume Libraries · Robots!
+
+**Fechas / estado:** 2026-11-19 — 2026-11-19
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+**condiciones de participación:** Reserva previa obligatoria. Confirmar acceso, idioma y plaza.
+
+- 2026-11-19 · 16:30–17:30 · Australia/Melbourne · Hume Libraries · Robots!
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://humelibraries.events.mylibrary.digital/event?id=256719)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://humelibraries.events.mylibrary.digital/event?id=256719) · 2026-11-09
+
+## CP2241 · Rainbow Beach Library · Sphero
+
+Australia · Rainbow Beach Community Hall · Rainbow Beach Road
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 5–12 años.
+
+**Idioma:** Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.
+
+**Programa:** Práctica de lógica y control de un robot Sphero. La biblioteca anuncia acceso sin reserva. Confirmar el coste.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Recurso disponible del 1 al 30 de noviembre de 2026. Confirmar horario de la biblioteca.
+
+**Precio / año:** 2026 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Oscar:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Por qué se incluye:** Recurso disponible del 1 al 30 de noviembre de 2026. Confirmar horario de la biblioteca.
+
+### Antes de solicitar plaza
+
+- No se requiere reserva. Confirmar horario y disponibilidad del robot.
+
+### Rainbow Beach Library · Sphero
+
+**Fechas / estado:** 2026-11-01 — 2026-11-30
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+**condiciones de participación:** No se requiere reserva. Confirmar horario y disponibilidad del robot.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://gympie.events.mylibrary.digital/event?id=250581)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://gympie.events.mylibrary.digital/event?id=250581) · 2026-11-09
+
+## CP2242 · GIofAI Kids · Advanced AI Builders
+
+Australia · En línea · Australia
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** Junior 8–12, Senior 13–17. Antes hay que completar Future AI Innovators.
+
+**Idioma:** Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.
+
+**Programa:** Python, proyecto de IA, pruebas, publicación en línea y demostración técnica. Certificado del organizador al finalizar.
+
+**Alojamiento:** En línea, no requiere alojamiento.
+
+**Fechas / estado:** 18–22 de enero de 2027, 5 sesiones matinales y 15 horas en total. Confirmar hora exacta.
+
+**Precio / año:** 2027 · 995 AUD por el curso avanzado. El curso inicial se paga aparte.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Continuación para quienes completan Future AI Innovators. El operador confirma plaza tras el curso. Programa dirigido a participantes desde Australia. Confirmar admisión desde otro país.
+
+**Oscar:** No encaja en la franja de edad de este grupo.
+
+**Por qué se incluye:** 18–22 de enero de 2027, 5 sesiones matinales y 15 horas en total. Confirmar hora exacta.
+
+### Antes de solicitar plaza
+
+- Continuación para quienes completan Future AI Innovators. El operador confirma plaza tras el curso. Programa dirigido a participantes desde Australia. Confirmar admisión desde otro país.
+
+### Advanced AI Builders
+
+**Fechas / estado:** 2027-01-18 — 2027-01-22
+
+**Precio:** 995 AUD por el curso avanzado. El curso inicial se paga aparte.
+
+**condiciones de participación:** Continuación para quienes completan Future AI Innovators. El operador confirma plaza tras el curso. Programa dirigido a participantes desde Australia. Confirmar admisión desde otro país.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://kids.giofai.com.au/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://kids.giofai.com.au/) · 2026-11-09
+
+## CP2243 · JRC Kumamoto · Beginner Trial
+
+Japón · TechJoyLabo · Kumamoto · Tsuboi 2-2-42
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** Con un progenitor. Mini Robo para cursos 1–3 y Lego Robo para cursos 3–5 de primaria.
+
+**Idioma:** Los materiales se publican en japonés. Confirmar el idioma del jurado y la posibilidad de apoyo en inglés.
+
+**Programa:** Preparación inicial para pruebas de control de un robot autónomo.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 22 o 29 de noviembre de 2026, 16:15–17:15 JST. Elegir una fecha.
+
+**Precio / año:** 2026 · La clase de prueba es gratuita. Confirmar plaza y material.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma.
+
+**Oscar:** Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma.
+
+**Por qué se incluye:** 22 o 29 de noviembre de 2026, 16:15–17:15 JST. Elegir una fecha.
+
+### Antes de solicitar plaza
+
+- Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+
+### JRC Beginner Trial
+
+**Fechas / estado:** 2026-11-22 — 2026-11-22
+
+**Precio:** La clase de prueba es gratuita. Confirmar plaza y material.
+
+**condiciones de participación:** Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+
+- 2026-11-22 · 16:15–17:15 · Asia/Tokyo · JRC Beginner Trial
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/)
+
+### JRC Beginner Trial
+
+**Fechas / estado:** 2026-11-29 — 2026-11-29
+
+**Precio:** La clase de prueba es gratuita. Confirmar plaza y material.
+
+**condiciones de participación:** Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+
+- 2026-11-29 · 16:15–17:15 · Asia/Tokyo · JRC Beginner Trial
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/) · 2026-11-09
+
+## CP2244 · JRC Kumamoto · Beginner Short Course
+
+Japón · TechJoyLabo · Kumamoto · Tsuboi 2-2-42
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** Con un progenitor. Mini Robo para cursos 1–3 y Lego Robo para cursos 3–5 de primaria.
+
+**Idioma:** Los materiales se publican en japonés. Confirmar el idioma del jurado y la posibilidad de apoyo en inglés.
+
+**Programa:** Preparación inicial para pruebas de control de un robot autónomo.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 5 domingos, 16:15–17:45 JST. En diciembre, 13 y 20. En enero, 10, 17 y 24.
+
+**Precio / año:** 2026 · 1000 JPY por clase para quienes participan por primera vez, 2500 JPY para quienes repiten. Confirmar aplicación de la tarifa y total.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma.
+
+**Oscar:** Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma.
+
+**Por qué se incluye:** 5 domingos, 16:15–17:45 JST. En diciembre, 13 y 20. En enero, 10, 17 y 24.
+
+### Antes de solicitar plaza
+
+- Hay que asistir al menos a 3 clases y poder participar en el torneo de enero. No hace falta comprar robot ni ordenador para las clases.
+
+- Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+
+### JRC Beginner Short Course
+
+**Fechas / estado:** 2026-12-13 — 2027-01-24
+
+**Precio:** 1000 JPY por clase para quienes participan por primera vez, 2500 JPY para quienes repiten. Confirmar aplicación de la tarifa y total.
+
+**condiciones de participación:** Hay que asistir al menos a 3 clases y poder participar en el torneo de enero. No hace falta comprar robot ni ordenador para las clases.
+
+- 2026-12-13 · 16:15–17:45 · Asia/Tokyo · JRC Beginner Short Course
+
+- 2026-12-20 · 16:15–17:45 · Asia/Tokyo · JRC Beginner Short Course
+
+- 2027-01-10 · 16:15–17:45 · Asia/Tokyo · JRC Beginner Short Course
+
+- 2027-01-17 · 16:15–17:45 · Asia/Tokyo · JRC Beginner Short Course
+
+- 2027-01-24 · 16:15–17:45 · Asia/Tokyo · JRC Beginner Short Course
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

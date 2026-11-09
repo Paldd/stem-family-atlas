@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5606,
-      "holiday": 5031,
+      "records": 5617,
+      "holiday": 5036,
       "regular": 223,
       "self_paced_materials": 4,
       "boarding": 1039,
@@ -466888,6 +466888,1030 @@
           "time_note": "Hora de Colombia.",
           "start_utc": "2026-12-18T19:30:00Z",
           "end_utc": "2026-12-18T22:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2235-20270111-20270113-vex-iq",
+      "block": "Campamentos",
+      "title": "CodeKids Perth · VEX IQ Robotics & Programming · VEX IQ Robotics & Programming · 2027-01-11–2027-01-13",
+      "country": "Australia",
+      "region": "Oceanía",
+      "city": "Perth · Northbridge · 5/99 Francis St",
+      "start": "2027-01-11",
+      "end": "2027-01-13",
+      "period": "3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–14 años, referencia Year 4–9.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+      "gear": "VEX IQ, sensores y motores, programación por bloques, laberinto y sumo de práctica. Apto para principiantes.",
+      "language": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "cost": "2027 · 495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.; La disponibilidad cambia. Confirmar plaza en el grupo elegido.",
+      "source": "https://codekids.com.au/product/vex-iq-robotics-programming-holiday-workshop/",
+      "references": [
+        {
+          "url": "https://codekids.com.au/product/vex-iq-robotics-programming-holiday-workshop/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://codekids.com.au/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://codekids.com.au/faq/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://codekids.com.au/termsandconditions/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Según las preguntas frecuentes, es posible un traslado o devolución por clases pendientes dentro de los plazos de 14 y 30 días. Puede aplicarse un cargo de 50 AUD. Las condiciones explican cómo rechazar por escrito el uso de imágenes. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "codekids-perth-vex-iq",
+      "camp_programme_id": "CP2235",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-11",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Perth",
+          "topic": "VEX IQ Robotics & Programming",
+          "ical_timed": true,
+          "start_utc": "2027-01-11T05:00:00Z",
+          "end_utc": "2027-01-11T08:00:00Z"
+        },
+        {
+          "date": "2027-01-12",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Perth",
+          "topic": "VEX IQ Robotics & Programming",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T05:00:00Z",
+          "end_utc": "2027-01-12T08:00:00Z"
+        },
+        {
+          "date": "2027-01-13",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Perth",
+          "topic": "VEX IQ Robotics & Programming",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T05:00:00Z",
+          "end_utc": "2027-01-13T08:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2236-20270118-20270120-vex-go",
+      "block": "Campamentos",
+      "title": "CodeKids Perth · VEX GO Junior Robotics · VEX GO Junior Robotics · 2027-01-18–2027-01-20",
+      "country": "Australia",
+      "region": "Oceanía",
+      "city": "Perth · Northbridge · 5/99 Francis St",
+      "start": "2027-01-18",
+      "end": "2027-01-20",
+      "period": "3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–8 años, referencia Year 1–3.",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+      "gear": "VEX GO, ruedas y engranajes, motores y sensores, montaje de modelos y circuito con obstáculos. Apto para principiantes.",
+      "language": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "cost": "2027 · 495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.; La disponibilidad cambia. Confirmar plaza en el grupo elegido.",
+      "source": "https://codekids.com.au/product/vex-go-junior-robotics-holiday-workshop/",
+      "references": [
+        {
+          "url": "https://codekids.com.au/product/vex-go-junior-robotics-holiday-workshop/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://codekids.com.au/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://codekids.com.au/faq/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://codekids.com.au/termsandconditions/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: No encaja en la franja de edad de este grupo. Oscar: La edad encaja. Confirmar curso, idioma y plazas. Suplementos: Según las preguntas frecuentes, es posible un traslado o devolución por clases pendientes dentro de los plazos de 14 y 30 días. Puede aplicarse un cargo de 50 AUD. Las condiciones explican cómo rechazar por escrito el uso de imágenes. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "codekids-perth-vex-go",
+      "camp_programme_id": "CP2236",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-18",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Perth",
+          "topic": "VEX GO Junior Robotics",
+          "ical_timed": true,
+          "start_utc": "2027-01-18T05:00:00Z",
+          "end_utc": "2027-01-18T08:00:00Z"
+        },
+        {
+          "date": "2027-01-19",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Perth",
+          "topic": "VEX GO Junior Robotics",
+          "ical_timed": true,
+          "start_utc": "2027-01-19T05:00:00Z",
+          "end_utc": "2027-01-19T08:00:00Z"
+        },
+        {
+          "date": "2027-01-20",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Perth",
+          "topic": "VEX GO Junior Robotics",
+          "ical_timed": true,
+          "start_utc": "2027-01-20T05:00:00Z",
+          "end_utc": "2027-01-20T08:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2237-20270118-20270120-python-primary",
+      "block": "Campamentos",
+      "title": "CodeKids Perth · Python Primary · Python Primary · 2027-01-18–2027-01-20",
+      "country": "Australia",
+      "region": "Oceanía",
+      "city": "Perth · Northbridge · 5/99 Francis St",
+      "start": "2027-01-18",
+      "end": "2027-01-20",
+      "period": "3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Cursos Year 4–6. Confirmar equivalencia escolar.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+      "gear": "Python desde cero, variables, entrada y salida, condiciones, bucles y juegos sencillos.",
+      "language": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "cost": "2027 · 495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.; La disponibilidad cambia. Confirmar plaza en el grupo elegido.",
+      "source": "https://codekids.com.au/product/python-holiday-class-for-primary-school-students/",
+      "references": [
+        {
+          "url": "https://codekids.com.au/product/python-holiday-class-for-primary-school-students/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://codekids.com.au/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://codekids.com.au/faq/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://codekids.com.au/termsandconditions/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: Posible con equivalencia de los cursos 4–6. Confirmar curso directamente con el organizador. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Según las preguntas frecuentes, es posible un traslado o devolución por clases pendientes dentro de los plazos de 14 y 30 días. Puede aplicarse un cargo de 50 AUD. Las condiciones explican cómo rechazar por escrito el uso de imágenes. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "codekids-perth-python-primary",
+      "camp_programme_id": "CP2237",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-18",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Perth",
+          "topic": "Python Primary",
+          "ical_timed": true,
+          "start_utc": "2027-01-18T05:00:00Z",
+          "end_utc": "2027-01-18T08:00:00Z"
+        },
+        {
+          "date": "2027-01-19",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Perth",
+          "topic": "Python Primary",
+          "ical_timed": true,
+          "start_utc": "2027-01-19T05:00:00Z",
+          "end_utc": "2027-01-19T08:00:00Z"
+        },
+        {
+          "date": "2027-01-20",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Perth",
+          "topic": "Python Primary",
+          "ical_timed": true,
+          "start_utc": "2027-01-20T05:00:00Z",
+          "end_utc": "2027-01-20T08:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2238-20270111-20270113-python-secondary",
+      "block": "Campamentos",
+      "title": "CodeKids Perth · Python Secondary · Python Secondary · 2027-01-11–2027-01-13",
+      "country": "Australia",
+      "region": "Oceanía",
+      "city": "Perth · Northbridge · 5/99 Francis St",
+      "start": "2027-01-11",
+      "end": "2027-01-13",
+      "period": "3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Cursos Year 7–12. Confirmar equivalencia escolar.",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+      "gear": "Python para estudiantes principiantes. Fundamentos de algoritmos, ejercicios prácticos y organización de programas.",
+      "language": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "cost": "2027 · 495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P4 — edad futura",
+      "action": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.; La disponibilidad cambia. Confirmar plaza en el grupo elegido.",
+      "source": "https://codekids.com.au/product/python-holiday-class-for-secondary-school-students/",
+      "references": [
+        {
+          "url": "https://codekids.com.au/product/python-holiday-class-for-secondary-school-students/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://codekids.com.au/courses/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://codekids.com.au/faq/",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://codekids.com.au/termsandconditions/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Según las preguntas frecuentes, es posible un traslado o devolución por clases pendientes dentro de los plazos de 14 y 30 días. Puede aplicarse un cargo de 50 AUD. Las condiciones explican cómo rechazar por escrito el uso de imágenes. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "codekids-perth-python-secondary",
+      "camp_programme_id": "CP2238",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2027-01-11",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Perth",
+          "topic": "Python Secondary",
+          "ical_timed": true,
+          "start_utc": "2027-01-11T05:00:00Z",
+          "end_utc": "2027-01-11T08:00:00Z"
+        },
+        {
+          "date": "2027-01-12",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Perth",
+          "topic": "Python Secondary",
+          "ical_timed": true,
+          "start_utc": "2027-01-12T05:00:00Z",
+          "end_utc": "2027-01-12T08:00:00Z"
+        },
+        {
+          "date": "2027-01-13",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "timezone": "Australia/Perth",
+          "topic": "Python Secondary",
+          "ical_timed": true,
+          "start_utc": "2027-01-13T05:00:00Z",
+          "end_utc": "2027-01-13T08:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2239-20261111-20261111-library",
+      "block": "Campamentos",
+      "title": "Penrith City Library · Sphero · Penrith City Library · Sphero · 2026-11-11–2026-11-11",
+      "country": "Australia",
+      "region": "Oceanía",
+      "city": "Penrith · 601 High Street · Peter Goodfellow Theatrette",
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "period": "11 de noviembre de 2026, 16:00–17:00 AEDT. La página incluye la sesión ya pasada del 4 de noviembre.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "8–14 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Reserva previa obligatoria. Confirmar acceso, idioma y plaza.",
+      "gear": "El menor monta y programa Sphero. El acompañante espera fuera de la sala.",
+      "language": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "cost": "2026/27 · 5 AUD por menor. Las ausencias no se reembolsan según las condiciones. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Reserva previa obligatoria. Confirmar acceso, idioma y plaza.",
+      "source": "https://events.humanitix.com/robotics_november26",
+      "references": [
+        {
+          "url": "https://events.humanitix.com/robotics_november26",
+          "label": "Página de la organización o reglamento de la categoría."
+        },
+        {
+          "url": "https://penrithcity.nsw.gov.au/upcoming-events/come-and-try-programmable-robots-sphero",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "participation": "workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "penrith-sphero-november",
+      "camp_programme_id": "CP2239",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "start_time": "16:00",
+          "end_time": "17:00",
+          "timezone": "Australia/Sydney",
+          "topic": "Penrith City Library · Sphero",
+          "ical_timed": true,
+          "start_utc": "2026-11-11T05:00:00Z",
+          "end_utc": "2026-11-11T06:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2240-20261119-20261119-library",
+      "block": "Campamentos",
+      "title": "Hume Libraries · Robots! · Hume Libraries · Robots! · 2026-11-19–2026-11-19",
+      "country": "Australia",
+      "region": "Oceanía",
+      "city": "Sunbury Library · 44 Macedon Street",
+      "start": "2026-11-19",
+      "end": "2026-11-19",
+      "period": "19 de noviembre de 2026, 16:30–17:30 AEDT.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–12 años. Menores de 12 requieren acompañante adulto.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Reserva previa obligatoria. Confirmar acceso, idioma y plaza.",
+      "gear": "Uso de Sphero, Ozobot y Osmo. Reserva con cuenta de biblioteca, por teléfono o en persona.",
+      "language": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "cost": "2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Reserva previa obligatoria. Confirmar acceso, idioma y plaza.",
+      "source": "https://humelibraries.events.mylibrary.digital/event?id=256719",
+      "references": [
+        {
+          "url": "https://humelibraries.events.mylibrary.digital/event?id=256719",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: La edad encaja. Confirmar curso, idioma y plazas. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "participation": "workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "sunbury-library-robots",
+      "camp_programme_id": "CP2240",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "start_time": "16:30",
+          "end_time": "17:30",
+          "timezone": "Australia/Melbourne",
+          "topic": "Hume Libraries · Robots!",
+          "ical_timed": true,
+          "start_utc": "2026-11-19T05:30:00Z",
+          "end_utc": "2026-11-19T06:30:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2241-20261101-20261130-library",
+      "block": "Campamentos",
+      "title": "Rainbow Beach Library · Sphero · Rainbow Beach Library · Sphero · 2026-11-01–2026-11-30",
+      "country": "Australia",
+      "region": "Oceanía",
+      "city": "Rainbow Beach Community Hall · Rainbow Beach Road",
+      "start": "2026-11-01",
+      "end": "2026-11-30",
+      "period": "Recurso disponible del 1 al 30 de noviembre de 2026. Confirmar horario de la biblioteca.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "5–12 años.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "No se requiere reserva. Confirmar horario y disponibilidad del robot.",
+      "gear": "Práctica de lógica y control de un robot Sphero. La biblioteca anuncia acceso sin reserva. Confirmar el coste.",
+      "language": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "cost": "2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "No se requiere reserva. Confirmar horario y disponibilidad del robot.",
+      "source": "https://gympie.events.mylibrary.digital/event?id=250581",
+      "references": [
+        {
+          "url": "https://gympie.events.mylibrary.digital/event?id=250581",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: La edad encaja. Confirmar curso, idioma y plazas. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "participation": "workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "workshop_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "rainbow-beach-library-sphero",
+      "camp_programme_id": "CP2241",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2242-20270118-20270122-advanced",
+      "block": "Campamentos",
+      "title": "GIofAI Kids · Advanced AI Builders · Advanced AI Builders · 2027-01-18–2027-01-22",
+      "country": "Australia",
+      "region": "Oceanía",
+      "city": "En línea · Australia",
+      "start": "2027-01-18",
+      "end": "2027-01-22",
+      "period": "18–22 de enero de 2027, 5 sesiones matinales y 15 horas en total. Confirmar hora exacta.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Junior 8–12, Senior 13–17. Antes hay que completar Future AI Innovators.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "no según las condiciones de la pista seleccionada",
+      "format": "En línea, no requiere alojamiento.",
+      "entry": "Continuación para quienes completan Future AI Innovators. El operador confirma plaza tras el curso. Programa dirigido a participantes desde Australia. Confirmar admisión desde otro país.",
+      "gear": "Python, proyecto de IA, pruebas, publicación en línea y demostración técnica. Certificado del organizador al finalizar.",
+      "language": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "cost": "2027 · 995 AUD por el curso avanzado. El curso inicial se paga aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Continuación para quienes completan Future AI Innovators. El operador confirma plaza tras el curso. Programa dirigido a participantes desde Australia. Confirmar admisión desde otro país.",
+      "source": "https://kids.giofai.com.au/",
+      "references": [
+        {
+          "url": "https://kids.giofai.com.au/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: Continuación para quienes completan Future AI Innovators. El operador confirma plaza tras el curso. Programa dirigido a participantes desde Australia. Confirmar admisión desde otro país. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "AUS"
+      ],
+      "themes": [
+        "ai",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "participation": "online_camp",
+      "admission_kind": "program",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "giofai-advanced-ai-builders",
+      "camp_programme_id": "CP2242",
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "EN"
+      ],
+      "delivery_mode": "online",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2243-20261122-20261122-trial-22",
+      "block": "Campamentos",
+      "title": "JRC Kumamoto · Beginner Trial · JRC Beginner Trial · 2026-11-22–2026-11-22",
+      "country": "Japón",
+      "region": "Asia",
+      "city": "TechJoyLabo · Kumamoto · Tsuboi 2-2-42",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "period": "22 o 29 de noviembre de 2026, 16:15–17:15 JST. Elegir una fecha.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Con un progenitor. Mini Robo para cursos 1–3 y Lego Robo para cursos 3–5 de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+      "gear": "Preparación inicial para pruebas de control de un robot autónomo.",
+      "language": "Los materiales se publican en japonés. Confirmar el idioma del jurado y la posibilidad de apoyo en inglés.",
+      "cost": "2026/27 · La clase de prueba es gratuita. Confirmar plaza y material. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+      "source": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+      "references": [
+        {
+          "url": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma. Oscar: Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "JPN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales se publican en japonés. Confirmar el idioma del jurado y la posibilidad de apoyo en inglés.",
+      "participation": "workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "jrc-kumamoto-beginner-trial",
+      "camp_programme_id": "CP2243",
+      "language_roles": {
+        "materials": [
+          "JA"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "JA"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-22",
+          "start_time": "16:15",
+          "end_time": "17:15",
+          "timezone": "Asia/Tokyo",
+          "topic": "JRC Beginner Trial",
+          "ical_timed": true,
+          "start_utc": "2026-11-22T07:15:00Z",
+          "end_utc": "2026-11-22T08:15:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2243-20261129-20261129-trial-29",
+      "block": "Campamentos",
+      "title": "JRC Kumamoto · Beginner Trial · JRC Beginner Trial · 2026-11-29–2026-11-29",
+      "country": "Japón",
+      "region": "Asia",
+      "city": "TechJoyLabo · Kumamoto · Tsuboi 2-2-42",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "period": "22 o 29 de noviembre de 2026, 16:15–17:15 JST. Elegir una fecha.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Con un progenitor. Mini Robo para cursos 1–3 y Lego Robo para cursos 3–5 de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+      "gear": "Preparación inicial para pruebas de control de un robot autónomo.",
+      "language": "Los materiales se publican en japonés. Confirmar el idioma del jurado y la posibilidad de apoyo en inglés.",
+      "cost": "2026/27 · La clase de prueba es gratuita. Confirmar plaza y material. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+      "source": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+      "references": [
+        {
+          "url": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma. Oscar: Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "JPN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales se publican en japonés. Confirmar el idioma del jurado y la posibilidad de apoyo en inglés.",
+      "participation": "workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "jrc-kumamoto-beginner-trial",
+      "camp_programme_id": "CP2243",
+      "language_roles": {
+        "materials": [
+          "JA"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "JA"
+      ],
+      "sessions": [
+        {
+          "date": "2026-11-29",
+          "start_time": "16:15",
+          "end_time": "17:15",
+          "timezone": "Asia/Tokyo",
+          "topic": "JRC Beginner Trial",
+          "ical_timed": true,
+          "start_utc": "2026-11-29T07:15:00Z",
+          "end_utc": "2026-11-29T08:15:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Aún no hay confirmación de plaza en el grupo."
+      }
+    },
+    {
+      "id": "CP2244-20261213-20270124-short-course",
+      "block": "Campamentos",
+      "title": "JRC Kumamoto · Beginner Short Course · JRC Beginner Short Course · 2026-12-13–2027-01-24",
+      "country": "Japón",
+      "region": "Asia",
+      "city": "TechJoyLabo · Kumamoto · Tsuboi 2-2-42",
+      "start": "2026-12-13",
+      "end": "2027-01-24",
+      "period": "5 domingos, 16:15–17:45 JST. En diciembre, 13 y 20. En enero, 10, 17 y 24.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Con un progenitor. Mini Robo para cursos 1–3 y Lego Robo para cursos 3–5 de primaria.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Sesiones diurnas sin alojamiento.",
+      "entry": "Hay que asistir al menos a 3 clases y poder participar en el torneo de enero. No hace falta comprar robot ni ordenador para las clases.",
+      "gear": "Preparación inicial para pruebas de control de un robot autónomo.",
+      "language": "Los materiales se publican en japonés. Confirmar el idioma del jurado y la posibilidad de apoyo en inglés.",
+      "cost": "2026/27 · 1000 JPY por clase para quienes participan por primera vez, 2500 JPY para quienes repiten. Confirmar aplicación de la tarifa y total. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Hay que asistir al menos a 3 clases y poder participar en el torneo de enero. No hace falta comprar robot ni ordenador para las clases.; Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+      "source": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+      "references": [
+        {
+          "url": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+          "label": "Página de la organización o reglamento de la categoría."
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-09",
+      "status": "Idea",
+      "note": "Matvey: Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma. Oscar: Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.",
+      "iso": [
+        "JPN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "language_certainty": "Los materiales se publican en japonés. Confirmar el idioma del jurado y la posibilidad de apoyo en inglés.",
+      "participation": "course",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "jrc-kumamoto-beginner-course",
+      "camp_programme_id": "CP2244",
+      "language_roles": {
+        "materials": [
+          "JA"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "JA"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-13",
+          "start_time": "16:15",
+          "end_time": "17:45",
+          "timezone": "Asia/Tokyo",
+          "topic": "JRC Beginner Short Course",
+          "ical_timed": true,
+          "start_utc": "2026-12-13T07:15:00Z",
+          "end_utc": "2026-12-13T08:45:00Z"
+        },
+        {
+          "date": "2026-12-20",
+          "start_time": "16:15",
+          "end_time": "17:45",
+          "timezone": "Asia/Tokyo",
+          "topic": "JRC Beginner Short Course",
+          "ical_timed": true,
+          "start_utc": "2026-12-20T07:15:00Z",
+          "end_utc": "2026-12-20T08:45:00Z"
+        },
+        {
+          "date": "2027-01-10",
+          "start_time": "16:15",
+          "end_time": "17:45",
+          "timezone": "Asia/Tokyo",
+          "topic": "JRC Beginner Short Course",
+          "ical_timed": true,
+          "start_utc": "2027-01-10T07:15:00Z",
+          "end_utc": "2027-01-10T08:45:00Z"
+        },
+        {
+          "date": "2027-01-17",
+          "start_time": "16:15",
+          "end_time": "17:45",
+          "timezone": "Asia/Tokyo",
+          "topic": "JRC Beginner Short Course",
+          "ical_timed": true,
+          "start_utc": "2027-01-17T07:15:00Z",
+          "end_utc": "2027-01-17T08:45:00Z"
+        },
+        {
+          "date": "2027-01-24",
+          "start_time": "16:15",
+          "end_time": "17:45",
+          "timezone": "Asia/Tokyo",
+          "topic": "JRC Beginner Short Course",
+          "ical_timed": true,
+          "start_utc": "2027-01-24T07:15:00Z",
+          "end_utc": "2027-01-24T08:45:00Z"
         }
       ],
       "delivery_mode": "in_person",

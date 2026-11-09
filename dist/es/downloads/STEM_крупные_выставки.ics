@@ -3059,17 +3059,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E290@family-stem.local
-DTSTAMP:20261107T082208Z
+DTSTAMP:20261109T081109Z
 SUMMARY:[Exposición · confirmar admisión de menores] Hangzhou Internat
  ional Humanoid Robot & Robotics Technology Exhibition
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270530
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condicional
- . Confirmar edad de visitante y acompañamiento. Entrada de adultos: Exp
- osición profesional. Confirmar registro de adultos y normas para menore
- s para esta edición..  Empresas: Consultar la lista de expositores de e
- sta edición en el catálogo del organizador.. Fuente verificada el 2026
- -11-07.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Se anuncian
+  actividades científicas para jóvenes. Confirmar edad\, reserva\, acce
+ so infantil y documento extranjero. Entrada de adultos: 27 y 28 de mayo 
+ de 2027\, 09:00–17:00. 29 de mayo\, 09:00–16:00. En el vestíbulo ce
+ ntral se comprueba el documento y hay control de seguridad.. Se anuncian
+  actividades científicas para jóvenes. Confirmar edad\, reserva\, acce
+ so infantil y documento extranjero. Empresas: Consultar la lista de expo
+ sitores de esta edición en el catálogo del organizador.. Fuente verifi
+ cada el 2026-11-09.
 LOCATION:Hangzhou Grand Convention and Exhibition Center · 杭州大会
  展中心\, China
 URL:https://www.humanoidrobotshow.com.cn/
@@ -9617,6 +9620,28 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Las condici
  . Fuente verificada el 2026-11-09.
 LOCATION:Barcelona · Fira Montjuïc · Hall 8\, España
 URL:https://spark-expo.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E732@family-stem.local
+DTSTAMP:20261109T081109Z
+SUMMARY:[Exposición · confirmar admisión de menores] CIEX / CIRE Tianj
+ in 2027 · Robotics & Embodied AI
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270314
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Menores de 
+ 16 requieren acompañante adulto y registro del tutor. Confirmar documen
+ to y trámite de acceso para menores extranjeros. Entrada de adultos: En
+ trada gratuita con pase electrónico nominal y documento original. Hay u
+ na página en inglés para visitantes.. La organización anuncia ABB\, K
+ UKA\, Yaskawa\, FANUC y Siasun. Confirmar los stands en el catálogo fin
+ al. Empresas: La organización anuncia ABB\, KUKA\, Yaskawa\, FANUC y Si
+ asun. Confirmar los stands en el catálogo final.. Fuente verificada el 
+ 2026-11-09.
+LOCATION:National Convention and Exhibition Center (Tianjin) · 888 Guozh
+ an Avenue\, China
+URL:https://www.ciex-expo.com/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

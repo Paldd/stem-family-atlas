@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2234,
+    "dossiers": 2244,
     "countries": 140,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 298,
-      "published_2027": 632,
+      "published_2027": 642,
       "partial_2027": 156,
       "next_unannounced": 442,
       "published_2026": 433,
@@ -50,12 +50,12 @@
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3164
+    "source_urls": 3176
   },
   "countries": [
     {
       "country": "Australia",
-      "count": 34
+      "count": 42
     },
     {
       "country": "Austria",
@@ -611,7 +611,7 @@
     },
     {
       "country": "Japón",
-      "count": 90
+      "count": 92
     }
   ],
   "profiles": [
@@ -391899,6 +391899,1364 @@
           "ES"
         ]
       }
+    },
+    {
+      "id": "CP2235",
+      "slug": "codekids-perth-vex-iq",
+      "provider": "CodeKids Perth · VEX IQ Robotics & Programming",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "Perth · Northbridge · 5/99 Francis St",
+      "age": "9–14 años, referencia Year 4–9.",
+      "programme": "VEX IQ, sensores y motores, programación por bloques, laberinto y sumo de práctica. Apto para principiantes.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "vex-iq",
+            "start": "2027-01-11",
+            "end": "2027-01-13",
+            "label": "VEX IQ Robotics & Programming",
+            "price": "495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final.",
+            "source": "https://codekids.com.au/product/vex-iq-robotics-programming-holiday-workshop/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "entry": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+            "price_amount": 495,
+            "price_currency": "AUD",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "VEX IQ Robotics & Programming",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "VEX IQ Robotics & Programming",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "VEX IQ Robotics & Programming",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 495,
+        "currency": "AUD",
+        "unit": "session",
+        "label": "495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final.",
+        "included": "Se proporcionan kits de robótica y materiales. Merienda y traslado aparte.",
+        "extras": "Según las preguntas frecuentes, es posible un traslado o devolución por clases pendientes dentro de los plazos de 14 y 30 días. Puede aplicarse un cargo de 50 AUD. Las condiciones explican cómo rechazar por escrito el uso de imágenes.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No encaja en la franja de edad de este grupo."
+        }
+      },
+      "editorial_reason": "3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+        "La disponibilidad cambia. Confirmar plaza en el grupo elegido."
+      ],
+      "sources": [
+        {
+          "url": "https://codekids.com.au/product/vex-iq-robotics-programming-holiday-workshop/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/courses/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/faq/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/termsandconditions/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2235-20270111-20270113-vex-iq"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2236",
+      "slug": "codekids-perth-vex-go",
+      "provider": "CodeKids Perth · VEX GO Junior Robotics",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "Perth · Northbridge · 5/99 Francis St",
+      "age": "6–8 años, referencia Year 1–3.",
+      "programme": "VEX GO, ruedas y engranajes, motores y sensores, montaje de modelos y circuito con obstáculos. Apto para principiantes.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "vex-go",
+            "start": "2027-01-18",
+            "end": "2027-01-20",
+            "label": "VEX GO Junior Robotics",
+            "price": "495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final.",
+            "source": "https://codekids.com.au/product/vex-go-junior-robotics-holiday-workshop/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "entry": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+            "price_amount": 495,
+            "price_currency": "AUD",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "VEX GO Junior Robotics",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "VEX GO Junior Robotics",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "VEX GO Junior Robotics",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 495,
+        "currency": "AUD",
+        "unit": "session",
+        "label": "495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final.",
+        "included": "Se proporcionan kits de robótica y materiales. Merienda y traslado aparte.",
+        "extras": "Según las preguntas frecuentes, es posible un traslado o devolución por clases pendientes dentro de los plazos de 14 y 30 días. Puede aplicarse un cargo de 50 AUD. Las condiciones explican cómo rechazar por escrito el uso de imágenes.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "No encaja en la franja de edad de este grupo."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        }
+      },
+      "editorial_reason": "3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+        "La disponibilidad cambia. Confirmar plaza en el grupo elegido."
+      ],
+      "sources": [
+        {
+          "url": "https://codekids.com.au/product/vex-go-junior-robotics-holiday-workshop/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/courses/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/faq/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/termsandconditions/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2236-20270118-20270120-vex-go"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2237",
+      "slug": "codekids-perth-python-primary",
+      "provider": "CodeKids Perth · Python Primary",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "Perth · Northbridge · 5/99 Francis St",
+      "age": "Cursos Year 4–6. Confirmar equivalencia escolar.",
+      "programme": "Python desde cero, variables, entrada y salida, condiciones, bucles y juegos sencillos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "python-primary",
+            "start": "2027-01-18",
+            "end": "2027-01-20",
+            "label": "Python Primary",
+            "price": "495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final.",
+            "source": "https://codekids.com.au/product/python-holiday-class-for-primary-school-students/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "entry": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+            "price_amount": 495,
+            "price_currency": "AUD",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "Python Primary",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "Python Primary",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "Python Primary",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 495,
+        "currency": "AUD",
+        "unit": "session",
+        "label": "495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final.",
+        "included": "Se recomienda un portátil Windows o Mac. En vacaciones en Northbridge se puede pedir un portátil prestado sin coste.",
+        "extras": "Según las preguntas frecuentes, es posible un traslado o devolución por clases pendientes dentro de los plazos de 14 y 30 días. Puede aplicarse un cargo de 50 AUD. Las condiciones explican cómo rechazar por escrito el uso de imágenes.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Posible con equivalencia de los cursos 4–6. Confirmar curso directamente con el organizador."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No corresponde a la etapa actual. Confirmar el curso escolar equivalente."
+        }
+      },
+      "editorial_reason": "3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+        "La disponibilidad cambia. Confirmar plaza en el grupo elegido."
+      ],
+      "sources": [
+        {
+          "url": "https://codekids.com.au/product/python-holiday-class-for-primary-school-students/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/courses/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/faq/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/termsandconditions/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2237-20270118-20270120-python-primary"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2238",
+      "slug": "codekids-perth-python-secondary",
+      "provider": "CodeKids Perth · Python Secondary",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "Perth · Northbridge · 5/99 Francis St",
+      "age": "Cursos Year 7–12. Confirmar equivalencia escolar.",
+      "programme": "Python para estudiantes principiantes. Fundamentos de algoritmos, ejercicios prácticos y organización de programas.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "python-secondary",
+            "start": "2027-01-11",
+            "end": "2027-01-13",
+            "label": "Python Secondary",
+            "price": "495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final.",
+            "source": "https://codekids.com.au/product/python-holiday-class-for-secondary-school-students/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "entry": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+            "price_amount": 495,
+            "price_currency": "AUD",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "Python Secondary",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "Python Secondary",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "Python Secondary",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 495,
+        "currency": "AUD",
+        "unit": "session",
+        "label": "495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final.",
+        "included": "Se recomienda un portátil Windows o Mac. En vacaciones en Northbridge se puede pedir un portátil prestado sin coste.",
+        "extras": "Según las preguntas frecuentes, es posible un traslado o devolución por clases pendientes dentro de los plazos de 14 y 30 días. Puede aplicarse un cargo de 50 AUD. Las condiciones explican cómo rechazar por escrito el uso de imágenes.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "No corresponde a la etapa actual. Confirmar el curso escolar equivalente."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "No corresponde a la etapa actual. Confirmar el curso escolar equivalente."
+        }
+      },
+      "editorial_reason": "3 días, 13:00–16:00 AWST, 9 horas en total. Hasta 5 participantes por grupo.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+        "La disponibilidad cambia. Confirmar plaza en el grupo elegido."
+      ],
+      "sources": [
+        {
+          "url": "https://codekids.com.au/product/python-holiday-class-for-secondary-school-students/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/courses/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/faq/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/termsandconditions/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2238-20270111-20270113-python-secondary"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2239",
+      "slug": "penrith-sphero-november",
+      "provider": "Penrith City Library · Sphero",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "Penrith · 601 High Street · Peter Goodfellow Theatrette",
+      "age": "8–14 años.",
+      "programme": "El menor monta y programa Sphero. El acompañante espera fuera de la sala.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "11 de noviembre de 2026, 16:00–17:00 AEDT. La página incluye la sesión ya pasada del 4 de noviembre.",
+        "sessions": [
+          [
+            "2026-11-11",
+            "2026-11-11"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "library",
+            "start": "2026-11-11",
+            "end": "2026-11-11",
+            "label": "Penrith City Library · Sphero",
+            "price": "5 AUD por menor. Las ausencias no se reembolsan según las condiciones.",
+            "source": "https://events.humanitix.com/robotics_november26",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "entry": "Reserva previa obligatoria. Confirmar acceso, idioma y plaza.",
+            "sessions": [
+              {
+                "date": "2026-11-11",
+                "start_time": "16:00",
+                "end_time": "17:00",
+                "timezone": "Australia/Sydney",
+                "topic": "Penrith City Library · Sphero",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "5 AUD por menor. Las ausencias no se reembolsan según las condiciones.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No encaja en la franja de edad de este grupo."
+        }
+      },
+      "editorial_reason": "11 de noviembre de 2026, 16:00–17:00 AEDT. La página incluye la sesión ya pasada del 4 de noviembre.",
+      "shortlist": [],
+      "questions": [
+        "Reserva previa obligatoria. Confirmar acceso, idioma y plaza."
+      ],
+      "sources": [
+        {
+          "url": "https://events.humanitix.com/robotics_november26",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://penrithcity.nsw.gov.au/upcoming-events/come-and-try-programmable-robots-sphero",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-11",
+          "end": "2026-11-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2239-20261111-20261111-library"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2240",
+      "slug": "sunbury-library-robots",
+      "provider": "Hume Libraries · Robots!",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "Sunbury Library · 44 Macedon Street",
+      "age": "6–12 años. Menores de 12 requieren acompañante adulto.",
+      "programme": "Uso de Sphero, Ozobot y Osmo. Reserva con cuenta de biblioteca, por teléfono o en persona.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "19 de noviembre de 2026, 16:30–17:30 AEDT.",
+        "sessions": [
+          [
+            "2026-11-19",
+            "2026-11-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "library",
+            "start": "2026-11-19",
+            "end": "2026-11-19",
+            "label": "Hume Libraries · Robots!",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://humelibraries.events.mylibrary.digital/event?id=256719",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "entry": "Reserva previa obligatoria. Confirmar acceso, idioma y plaza.",
+            "sessions": [
+              {
+                "date": "2026-11-19",
+                "start_time": "16:30",
+                "end_time": "17:30",
+                "timezone": "Australia/Melbourne",
+                "topic": "Hume Libraries · Robots!",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        }
+      },
+      "editorial_reason": "19 de noviembre de 2026, 16:30–17:30 AEDT.",
+      "shortlist": [],
+      "questions": [
+        "Reserva previa obligatoria. Confirmar acceso, idioma y plaza."
+      ],
+      "sources": [
+        {
+          "url": "https://humelibraries.events.mylibrary.digital/event?id=256719",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-19",
+          "end": "2026-11-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2240-20261119-20261119-library"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2241",
+      "slug": "rainbow-beach-library-sphero",
+      "provider": "Rainbow Beach Library · Sphero",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "Rainbow Beach Community Hall · Rainbow Beach Road",
+      "age": "5–12 años.",
+      "programme": "Práctica de lógica y control de un robot Sphero. La biblioteca anuncia acceso sin reserva. Confirmar el coste.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Recurso disponible del 1 al 30 de noviembre de 2026. Confirmar horario de la biblioteca.",
+        "sessions": [
+          [
+            "2026-11-01",
+            "2026-11-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "library",
+            "start": "2026-11-01",
+            "end": "2026-11-30",
+            "label": "Rainbow Beach Library · Sphero",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://gympie.events.mylibrary.digital/event?id=250581",
+            "date_scope": "workshop_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "entry": "No se requiere reserva. Confirmar horario y disponibilidad del robot.",
+            "attendance_weekdays": []
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        }
+      },
+      "editorial_reason": "Recurso disponible del 1 al 30 de noviembre de 2026. Confirmar horario de la biblioteca.",
+      "shortlist": [],
+      "questions": [
+        "No se requiere reserva. Confirmar horario y disponibilidad del robot."
+      ],
+      "sources": [
+        {
+          "url": "https://gympie.events.mylibrary.digital/event?id=250581",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-01",
+          "end": "2026-11-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2241-20261101-20261130-library"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2242",
+      "slug": "giofai-advanced-ai-builders",
+      "provider": "GIofAI Kids · Advanced AI Builders",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "En línea · Australia",
+      "age": "Junior 8–12, Senior 13–17. Antes hay que completar Future AI Innovators.",
+      "programme": "Python, proyecto de IA, pruebas, publicación en línea y demostración técnica. Certificado del organizador al finalizar.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "18–22 de enero de 2027, 5 sesiones matinales y 15 horas en total. Confirmar hora exacta.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "advanced",
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Advanced AI Builders",
+            "price": "995 AUD por el curso avanzado. El curso inicial se paga aparte.",
+            "source": "https://kids.giofai.com.au/",
+            "date_scope": "camp_window",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "entry": "Continuación para quienes completan Future AI Innovators. El operador confirma plaza tras el curso. Programa dirigido a participantes desde Australia. Confirmar admisión desde otro país.",
+            "admission_kind": "program",
+            "price_amount": 995,
+            "price_currency": "AUD"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 995,
+        "currency": "AUD",
+        "unit": "session",
+        "label": "995 AUD por el curso avanzado. El curso inicial se paga aparte.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "En línea, no requiere alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Continuación para quienes completan Future AI Innovators. El operador confirma plaza tras el curso. Programa dirigido a participantes desde Australia. Confirmar admisión desde otro país."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "No encaja en la franja de edad de este grupo."
+        }
+      },
+      "editorial_reason": "18–22 de enero de 2027, 5 sesiones matinales y 15 horas en total. Confirmar hora exacta.",
+      "shortlist": [],
+      "questions": [
+        "Continuación para quienes completan Future AI Innovators. El operador confirma plaza tras el curso. Programa dirigido a participantes desde Australia. Confirmar admisión desde otro país."
+      ],
+      "sources": [
+        {
+          "url": "https://kids.giofai.com.au/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "ai",
+        "coding"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2242-20270118-20270122-advanced"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2243",
+      "slug": "jrc-kumamoto-beginner-trial",
+      "provider": "JRC Kumamoto · Beginner Trial",
+      "country": "Japón",
+      "iso": "JPN",
+      "place": "TechJoyLabo · Kumamoto · Tsuboi 2-2-42",
+      "age": "Con un progenitor. Mini Robo para cursos 1–3 y Lego Robo para cursos 3–5 de primaria.",
+      "programme": "Preparación inicial para pruebas de control de un robot autónomo.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales se publican en japonés. Confirmar el idioma del jurado y la posibilidad de apoyo en inglés.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "JA"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "22 o 29 de noviembre de 2026, 16:15–17:15 JST. Elegir una fecha.",
+        "sessions": [
+          [
+            "2026-11-22",
+            "2026-11-22"
+          ],
+          [
+            "2026-11-29",
+            "2026-11-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "trial-22",
+            "start": "2026-11-22",
+            "end": "2026-11-22",
+            "label": "JRC Beginner Trial",
+            "price": "La clase de prueba es gratuita. Confirmar plaza y material.",
+            "source": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "entry": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+            "sessions": [
+              {
+                "date": "2026-11-22",
+                "start_time": "16:15",
+                "end_time": "17:15",
+                "timezone": "Asia/Tokyo",
+                "topic": "JRC Beginner Trial",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "trial-29",
+            "start": "2026-11-29",
+            "end": "2026-11-29",
+            "label": "JRC Beginner Trial",
+            "price": "La clase de prueba es gratuita. Confirmar plaza y material.",
+            "source": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "entry": "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.",
+            "sessions": [
+              {
+                "date": "2026-11-29",
+                "start_time": "16:15",
+                "end_time": "17:15",
+                "timezone": "Asia/Tokyo",
+                "topic": "JRC Beginner Trial",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 0,
+        "currency": "JPY",
+        "unit": "session",
+        "label": "La clase de prueba es gratuita. Confirmar plaza y material.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma."
+        }
+      },
+      "editorial_reason": "22 o 29 de noviembre de 2026, 16:15–17:15 JST. Elegir una fecha.",
+      "shortlist": [],
+      "questions": [
+        "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país."
+      ],
+      "sources": [
+        {
+          "url": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-22",
+          "end": "2026-11-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2243-20261122-20261122-trial-22"
+          ]
+        },
+        {
+          "start": "2026-11-29",
+          "end": "2026-11-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2243-20261129-20261129-trial-29"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "JA"
+        ]
+      }
+    },
+    {
+      "id": "CP2244",
+      "slug": "jrc-kumamoto-beginner-course",
+      "provider": "JRC Kumamoto · Beginner Short Course",
+      "country": "Japón",
+      "iso": "JPN",
+      "place": "TechJoyLabo · Kumamoto · Tsuboi 2-2-42",
+      "age": "Con un progenitor. Mini Robo para cursos 1–3 y Lego Robo para cursos 3–5 de primaria.",
+      "programme": "Preparación inicial para pruebas de control de un robot autónomo.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales se publican en japonés. Confirmar el idioma del jurado y la posibilidad de apoyo en inglés.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "JA"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "5 domingos, 16:15–17:45 JST. En diciembre, 13 y 20. En enero, 10, 17 y 24.",
+        "sessions": [
+          [
+            "2026-12-13",
+            "2027-01-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "short-course",
+            "start": "2026-12-13",
+            "end": "2027-01-24",
+            "label": "JRC Beginner Short Course",
+            "price": "1000 JPY por clase para quienes participan por primera vez, 2500 JPY para quienes repiten. Confirmar aplicación de la tarifa y total.",
+            "source": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "entry": "Hay que asistir al menos a 3 clases y poder participar en el torneo de enero. No hace falta comprar robot ni ordenador para las clases.",
+            "sessions": [
+              {
+                "date": "2026-12-13",
+                "start_time": "16:15",
+                "end_time": "17:45",
+                "timezone": "Asia/Tokyo",
+                "topic": "JRC Beginner Short Course",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-20",
+                "start_time": "16:15",
+                "end_time": "17:45",
+                "timezone": "Asia/Tokyo",
+                "topic": "JRC Beginner Short Course",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-10",
+                "start_time": "16:15",
+                "end_time": "17:45",
+                "timezone": "Asia/Tokyo",
+                "topic": "JRC Beginner Short Course",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-17",
+                "start_time": "16:15",
+                "end_time": "17:45",
+                "timezone": "Asia/Tokyo",
+                "topic": "JRC Beginner Short Course",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-24",
+                "start_time": "16:15",
+                "end_time": "17:45",
+                "timezone": "Asia/Tokyo",
+                "topic": "JRC Beginner Short Course",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "JPY",
+        "unit": "lesson",
+        "label": "1000 JPY por clase para quienes participan por primera vez, 2500 JPY para quienes repiten. Confirmar aplicación de la tarifa y total.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma."
+        }
+      },
+      "editorial_reason": "5 domingos, 16:15–17:45 JST. En diciembre, 13 y 20. En enero, 10, 17 y 24.",
+      "shortlist": [],
+      "questions": [
+        "Hay que asistir al menos a 3 clases y poder participar en el torneo de enero. No hace falta comprar robot ni ordenador para las clases.",
+        "Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país."
+      ],
+      "sources": [
+        {
+          "url": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-13",
+          "end": "2027-01-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2244-20261213-20270124-short-course"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "JA"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -397224,7 +398582,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 332,
+  "version": 333,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -410459,7 +411817,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2234,
+      "total_dossiers": 2244,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -435359,6 +436717,61 @@
       "relation": "related_track_or_operator"
     },
     {
+      "programme_id": "CP2235",
+      "event_id": "CP2235-20270111-20270113-vex-iq",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2236",
+      "event_id": "CP2236-20270118-20270120-vex-go",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2237",
+      "event_id": "CP2237-20270118-20270120-python-primary",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2238",
+      "event_id": "CP2238-20270111-20270113-python-secondary",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2239",
+      "event_id": "CP2239-20261111-20261111-library",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2240",
+      "event_id": "CP2240-20261119-20261119-library",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2241",
+      "event_id": "CP2241-20261101-20261130-library",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2242",
+      "event_id": "CP2242-20270118-20270122-advanced",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2243",
+      "event_id": "CP2243-20261122-20261122-trial-22",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2243",
+      "event_id": "CP2243-20261129-20261129-trial-29",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2244",
+      "event_id": "CP2244-20261213-20270124-short-course",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -440433,10 +441846,21 @@
     "CP2230-20261207-20261211-toy-story-am",
     "CP2230-20261207-20261211-toy-story-pm",
     "CP2230-20261214-20261218-ai-film-am",
-    "CP2230-20261214-20261218-ai-film-pm"
+    "CP2230-20261214-20261218-ai-film-pm",
+    "CP2235-20270111-20270113-vex-iq",
+    "CP2236-20270118-20270120-vex-go",
+    "CP2237-20270118-20270120-python-primary",
+    "CP2238-20270111-20270113-python-secondary",
+    "CP2239-20261111-20261111-library",
+    "CP2240-20261119-20261119-library",
+    "CP2241-20261101-20261130-library",
+    "CP2242-20270118-20270122-advanced",
+    "CP2243-20261122-20261122-trial-22",
+    "CP2243-20261129-20261129-trial-29",
+    "CP2244-20261213-20270124-short-course"
   ],
   "integration": {
-    "generated_sessions": 4664,
+    "generated_sessions": 4675,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

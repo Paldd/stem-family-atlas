@@ -88486,6 +88486,182 @@ Limitaciones: Matvey: La edad encaja en la franja 8–13. Falta confirmar plaza,
 Fuente: https://www.akumaya.co/vacaciones/fin-de-ano
 Se ha comprobado: 2026-11-09
 
+### CP2235-20270111-20270113-vex-iq · CodeKids Perth · VEX IQ Robotics & Programming · VEX IQ Robotics & Programming · 2027-01-11–2027-01-13
+
+lugar: Australia · Perth · Northbridge · 5/99 Francis St
+Fecha: 2027-01-11 — 2027-01-13
+edad: 9–14 años, referencia Year 4–9.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final. · suplementos y condiciones en el dossier
+Acceso: Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Según las preguntas frecuentes, es posible un traslado o devolución por clases pendientes dentro de los plazos de 14 y 30 días. Puede aplicarse un cargo de 50 AUD. Las condiciones explican cómo rechazar por escrito el uso de imágenes. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://codekids.com.au/product/vex-iq-robotics-programming-holiday-workshop/
+Se ha comprobado: 2026-11-09
+
+### CP2236-20270118-20270120-vex-go · CodeKids Perth · VEX GO Junior Robotics · VEX GO Junior Robotics · 2027-01-18–2027-01-20
+
+lugar: Australia · Perth · Northbridge · 5/99 Francis St
+Fecha: 2027-01-18 — 2027-01-20
+edad: 6–8 años, referencia Year 1–3.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final. · suplementos y condiciones en el dossier
+Acceso: Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+Limitaciones: Matvey: No encaja en la franja de edad de este grupo. Oscar: La edad encaja. Confirmar curso, idioma y plazas. Suplementos: Según las preguntas frecuentes, es posible un traslado o devolución por clases pendientes dentro de los plazos de 14 y 30 días. Puede aplicarse un cargo de 50 AUD. Las condiciones explican cómo rechazar por escrito el uso de imágenes. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://codekids.com.au/product/vex-go-junior-robotics-holiday-workshop/
+Se ha comprobado: 2026-11-09
+
+### CP2237-20270118-20270120-python-primary · CodeKids Perth · Python Primary · Python Primary · 2027-01-18–2027-01-20
+
+lugar: Australia · Perth · Northbridge · 5/99 Francis St
+Fecha: 2027-01-18 — 2027-01-20
+edad: Cursos Year 4–6. Confirmar equivalencia escolar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final. · suplementos y condiciones en el dossier
+Acceso: Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+Limitaciones: Matvey: Posible con equivalencia de los cursos 4–6. Confirmar curso directamente con el organizador. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Según las preguntas frecuentes, es posible un traslado o devolución por clases pendientes dentro de los plazos de 14 y 30 días. Puede aplicarse un cargo de 50 AUD. Las condiciones explican cómo rechazar por escrito el uso de imágenes. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://codekids.com.au/product/python-holiday-class-for-primary-school-students/
+Se ha comprobado: 2026-11-09
+
+### CP2238-20270111-20270113-python-secondary · CodeKids Perth · Python Secondary · Python Secondary · 2027-01-11–2027-01-13
+
+lugar: Australia · Perth · Northbridge · 5/99 Francis St
+Fecha: 2027-01-11 — 2027-01-13
+edad: Cursos Year 7–12. Confirmar equivalencia escolar.
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 AUD por 3 días por menor. Confirmar condiciones de devolución y total final. · suplementos y condiciones en el dossier
+Acceso: Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+Limitaciones: Matvey: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Oscar: No corresponde a la etapa actual. Confirmar el curso escolar equivalente. Suplementos: Según las preguntas frecuentes, es posible un traslado o devolución por clases pendientes dentro de los plazos de 14 y 30 días. Puede aplicarse un cargo de 50 AUD. Las condiciones explican cómo rechazar por escrito el uso de imágenes. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://codekids.com.au/product/python-holiday-class-for-secondary-school-students/
+Se ha comprobado: 2026-11-09
+
+### CP2239-20261111-20261111-library · Penrith City Library · Sphero · Penrith City Library · Sphero · 2026-11-11–2026-11-11
+
+lugar: Australia · Penrith · 601 High Street · Peter Goodfellow Theatrette
+Fecha: 2026-11-11 — 2026-11-11
+edad: 8–14 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+formato: workshop
+Idioma: Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 5 AUD por menor. Las ausencias no se reembolsan según las condiciones. · suplementos y condiciones en el dossier
+Acceso: Reserva previa obligatoria. Confirmar acceso, idioma y plaza.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://events.humanitix.com/robotics_november26
+Se ha comprobado: 2026-11-09
+
+### CP2240-20261119-20261119-library · Hume Libraries · Robots! · Hume Libraries · Robots! · 2026-11-19–2026-11-19
+
+lugar: Australia · Sunbury Library · 44 Macedon Street
+Fecha: 2026-11-19 国 2026-11-19
+edad: 6–12 años. Menores de 12 requieren acompañante adulto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: workshop
+Idioma: Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Acceso: Reserva previa obligatoria. Confirmar acceso, idioma y plaza.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: La edad encaja. Confirmar curso, idioma y plazas. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://humelibraries.events.mylibrary.digital/event?id=256719
+Se ha comprobado: 2026-11-09
+
+### CP2241-20261101-20261130-library · Rainbow Beach Library · Sphero · Rainbow Beach Library · Sphero · 2026-11-01–2026-11-30
+
+lugar: Australia · Rainbow Beach Community Hall · Rainbow Beach Road
+Fecha: 2026-11-01 — 2026-11-30
+Edad: 5 a 12 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: workshop
+Idioma: Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Acceso: No se requiere reserva. Confirmar horario y disponibilidad del robot.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: La edad encaja. Confirmar curso, idioma y plazas. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://gympie.events.mylibrary.digital/event?id=250581
+Se ha comprobado: 2026-11-09
+
+### CP2242-20270118-20270122-advanced · GIofAI Kids · Advanced AI Builders · Advanced AI Builders · 2027-01-18–2027-01-22
+
+lugar: Australia · En línea · Australia
+Fecha: 2027-01-18 国 2027-01-22
+edad: Junior 8–12, Senior 13–17. Antes hay que completar Future AI Innovators.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: online_camp
+Idioma: Los materiales se publican en inglés. Confirmar el idioma hablado del grupo elegido.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 995 AUD por el curso avanzado. El curso inicial se paga aparte. · suplementos y condiciones en el dossier
+Acceso: Continuación para quienes completan Future AI Innovators. El operador confirma plaza tras el curso. Programa dirigido a participantes desde Australia. Confirmar admisión desde otro país.
+Limitaciones: Matvey: Continuación para quienes completan Future AI Innovators. El operador confirma plaza tras el curso. Programa dirigido a participantes desde Australia. Confirmar admisión desde otro país. Oscar: No encaja en la franja de edad de este grupo. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://kids.giofai.com.au/
+Se ha comprobado: 2026-11-09
+
+### CP2243-20261122-20261122-trial-22 · JRC Kumamoto · Beginner Trial · JRC Beginner Trial · 2026-11-22–2026-11-22
+
+Lugar: Japón TechJoyLabo · Kumamoto · Tsuboi 2-2-42
+Fecha: 2026-11-22 — 2026-11-22
+edad: Con un progenitor. Mini Robo para cursos 1–3 y Lego Robo para cursos 3–5 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: workshop
+Idioma: Los materiales se publican en japonés. Confirmar el idioma del jurado y la posibilidad de apoyo en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La clase de prueba es gratuita. Confirmar plaza y material. · suplementos y condiciones en el dossier
+Acceso: Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+Limitaciones: Matvey: Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma. Oscar: Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/
+Se ha comprobado: 2026-11-09
+
+### CP2243-20261129-20261129-trial-29 · JRC Kumamoto · Beginner Trial · JRC Beginner Trial · 2026-11-29–2026-11-29
+
+Lugar: Japón TechJoyLabo · Kumamoto · Tsuboi 2-2-42
+Fecha: 2026-11-29 — 2026-11-29
+edad: Con un progenitor. Mini Robo para cursos 1–3 y Lego Robo para cursos 3–5 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: workshop
+Idioma: Los materiales se publican en japonés. Confirmar el idioma del jurado y la posibilidad de apoyo en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · La clase de prueba es gratuita. Confirmar plaza y material. · suplementos y condiciones en el dossier
+Acceso: Solicitar plaza al organizador. Confirmar plazas y admisión de estudiantes de otro país.
+Limitaciones: Matvey: Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma. Oscar: Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/
+Se ha comprobado: 2026-11-09
+
+### CP2244-20261213-20270124-short-course · JRC Kumamoto · Beginner Short Course · JRC Beginner Short Course · 2026-12-13–2027-01-24
+
+Lugar: Japón TechJoyLabo · Kumamoto · Tsuboi 2-2-42
+Fecha: 2026-12-13 — 2027-01-24
+edad: Con un progenitor. Mini Robo para cursos 1–3 y Lego Robo para cursos 3–5 de primaria.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+formato: course
+Idioma: Los materiales se publican en japonés. Confirmar el idioma del jurado y la posibilidad de apoyo en inglés.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 1000 JPY por clase para quienes participan por primera vez, 2500 JPY para quienes repiten. Confirmar aplicación de la tarifa y total. · suplementos y condiciones en el dossier
+Acceso: Hay que asistir al menos a 3 clases y poder participar en el torneo de enero. No hace falta comprar robot ni ordenador para las clases.
+Limitaciones: Matvey: Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma. Oscar: Condicional a la admisión escolar y al nivel adecuado. Confirmar curso e idioma. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/
+Se ha comprobado: 2026-11-09
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

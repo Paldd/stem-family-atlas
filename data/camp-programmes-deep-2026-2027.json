@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2234,
+    "dossiers": 2244,
     "countries": 140,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 298,
-      "published_2027": 632,
+      "published_2027": 642,
       "partial_2027": 156,
       "next_unannounced": 442,
       "published_2026": 433,
@@ -50,12 +50,12 @@
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3164
+    "source_urls": 3176
   },
   "countries": [
     {
       "country": "Австралия",
-      "count": 34
+      "count": 42
     },
     {
       "country": "Австрия",
@@ -611,7 +611,7 @@
     },
     {
       "country": "Япония",
-      "count": 90
+      "count": 92
     }
   ],
   "profiles": [
@@ -339100,6 +339100,1196 @@
       "related_event_ids": [
         "L942"
       ]
+    },
+    {
+      "id": "CP2235",
+      "slug": "codekids-perth-vex-iq",
+      "provider": "CodeKids Perth · VEX IQ Robotics & Programming",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Perth · Northbridge · 5/99 Francis St",
+      "age": "9–14 лет, ориентиры Year 4–9.",
+      "programme": "VEX IQ, датчики и моторы, блочное программирование, лабиринт и учебное робот-сумо. Подходит начинающим.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "3 дня, 13:00–16:00 AWST, всего 9 часов. Группа до 5 участников.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "vex-iq",
+            "start": "2027-01-11",
+            "end": "2027-01-13",
+            "label": "VEX IQ Robotics & Programming",
+            "price": "495 AUD за 3 дня на ребёнка. Условия возврата и окончательный счёт уточнить.",
+            "source": "https://codekids.com.au/product/vex-iq-robotics-programming-holiday-workshop/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Подать заявку оператору. Уточнить наличие мест и приём учащихся из другой страны.",
+            "price_amount": 495,
+            "price_currency": "AUD",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "VEX IQ Robotics & Programming",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "VEX IQ Robotics & Programming",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "VEX IQ Robotics & Programming",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 495,
+        "currency": "AUD",
+        "unit": "session",
+        "label": "495 AUD за 3 дня на ребёнка. Условия возврата и окончательный счёт уточнить.",
+        "included": "Робототехнические наборы и учебные материалы предоставляются. Перекус и дорога отдельно.",
+        "extras": "По FAQ возможен перевод в другую группу или возврат за оставшиеся занятия при соблюдении сроков 14 и 30 дней. Возможен сбор 50 AUD. Порядок письменного отказа от фото указан в условиях.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Проверить класс, язык и наличие мест."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этого потока."
+        }
+      },
+      "editorial_reason": "3 дня, 13:00–16:00 AWST, всего 9 часов. Группа до 5 участников.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Подать заявку оператору. Уточнить наличие мест и приём учащихся из другой страны.",
+        "Наличие мест меняется. Подтверждение требуется для выбранной группы."
+      ],
+      "sources": [
+        {
+          "url": "https://codekids.com.au/product/vex-iq-robotics-programming-holiday-workshop/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/courses/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/faq/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/termsandconditions/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2236",
+      "slug": "codekids-perth-vex-go",
+      "provider": "CodeKids Perth · VEX GO Junior Robotics",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Perth · Northbridge · 5/99 Francis St",
+      "age": "6–8 лет, ориентиры Year 1–3.",
+      "programme": "VEX GO, колёса и шестерни, моторы и датчики, сборка моделей и трасса с препятствиями. Подходит начинающим.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "3 дня, 13:00–16:00 AWST, всего 9 часов. Группа до 5 участников.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "vex-go",
+            "start": "2027-01-18",
+            "end": "2027-01-20",
+            "label": "VEX GO Junior Robotics",
+            "price": "495 AUD за 3 дня на ребёнка. Условия возврата и окончательный счёт уточнить.",
+            "source": "https://codekids.com.au/product/vex-go-junior-robotics-holiday-workshop/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Подать заявку оператору. Уточнить наличие мест и приём учащихся из другой страны.",
+            "price_amount": 495,
+            "price_currency": "AUD",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "VEX GO Junior Robotics",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "VEX GO Junior Robotics",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "VEX GO Junior Robotics",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 495,
+        "currency": "AUD",
+        "unit": "session",
+        "label": "495 AUD за 3 дня на ребёнка. Условия возврата и окончательный счёт уточнить.",
+        "included": "Робототехнические наборы и учебные материалы предоставляются. Перекус и дорога отдельно.",
+        "extras": "По FAQ возможен перевод в другую группу или возврат за оставшиеся занятия при соблюдении сроков 14 и 30 дней. Возможен сбор 50 AUD. Порядок письменного отказа от фото указан в условиях.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этого потока."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Проверить класс, язык и наличие мест."
+        }
+      },
+      "editorial_reason": "3 дня, 13:00–16:00 AWST, всего 9 часов. Группа до 5 участников.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Подать заявку оператору. Уточнить наличие мест и приём учащихся из другой страны.",
+        "Наличие мест меняется. Подтверждение требуется для выбранной группы."
+      ],
+      "sources": [
+        {
+          "url": "https://codekids.com.au/product/vex-go-junior-robotics-holiday-workshop/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/courses/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/faq/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/termsandconditions/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2237",
+      "slug": "codekids-perth-python-primary",
+      "provider": "CodeKids Perth · Python Primary",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Perth · Northbridge · 5/99 Francis St",
+      "age": "Школьные классы Year 4–6. Эквивалент класса уточнить.",
+      "programme": "Python с нуля, переменные, ввод и вывод, условные выражения, циклы и простые игры.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "3 дня, 13:00–16:00 AWST, всего 9 часов. Группа до 5 участников.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "python-primary",
+            "start": "2027-01-18",
+            "end": "2027-01-20",
+            "label": "Python Primary",
+            "price": "495 AUD за 3 дня на ребёнка. Условия возврата и окончательный счёт уточнить.",
+            "source": "https://codekids.com.au/product/python-holiday-class-for-primary-school-students/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Подать заявку оператору. Уточнить наличие мест и приём учащихся из другой страны.",
+            "price_amount": 495,
+            "price_currency": "AUD",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "Python Primary",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "Python Primary",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "Python Primary",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 495,
+        "currency": "AUD",
+        "unit": "session",
+        "label": "495 AUD за 3 дня на ребёнка. Условия возврата и окончательный счёт уточнить.",
+        "included": "Рекомендован ноутбук Windows или Mac. В Northbridge на каникулах возможен бесплатный заём ноутбука.",
+        "extras": "По FAQ возможен перевод в другую группу или возврат за оставшиеся занятия при соблюдении сроков 14 и 30 дней. Возможен сбор 50 AUD. Порядок письменного отказа от фото указан в условиях.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возможно при эквиваленте 4–6 класса. Сверить класс напрямую с организатором."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет для текущей ступени. Уточнить эквивалент школьного класса."
+        }
+      },
+      "editorial_reason": "3 дня, 13:00–16:00 AWST, всего 9 часов. Группа до 5 участников.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Подать заявку оператору. Уточнить наличие мест и приём учащихся из другой страны.",
+        "Наличие мест меняется. Подтверждение требуется для выбранной группы."
+      ],
+      "sources": [
+        {
+          "url": "https://codekids.com.au/product/python-holiday-class-for-primary-school-students/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/courses/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/faq/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/termsandconditions/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2238",
+      "slug": "codekids-perth-python-secondary",
+      "provider": "CodeKids Perth · Python Secondary",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Perth · Northbridge · 5/99 Francis St",
+      "age": "Школьные классы Year 7–12. Эквивалент класса уточнить.",
+      "programme": "Python для начинающих школьников. Основы алгоритмов, практические задачи и структурирование программ.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "3 дня, 13:00–16:00 AWST, всего 9 часов. Группа до 5 участников.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "python-secondary",
+            "start": "2027-01-11",
+            "end": "2027-01-13",
+            "label": "Python Secondary",
+            "price": "495 AUD за 3 дня на ребёнка. Условия возврата и окончательный счёт уточнить.",
+            "source": "https://codekids.com.au/product/python-holiday-class-for-secondary-school-students/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Подать заявку оператору. Уточнить наличие мест и приём учащихся из другой страны.",
+            "price_amount": 495,
+            "price_currency": "AUD",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "Python Secondary",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "Python Secondary",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "13:00",
+                "end_time": "16:00",
+                "timezone": "Australia/Perth",
+                "topic": "Python Secondary",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 495,
+        "currency": "AUD",
+        "unit": "session",
+        "label": "495 AUD за 3 дня на ребёнка. Условия возврата и окончательный счёт уточнить.",
+        "included": "Рекомендован ноутбук Windows или Mac. В Northbridge на каникулах возможен бесплатный заём ноутбука.",
+        "extras": "По FAQ возможен перевод в другую группу или возврат за оставшиеся занятия при соблюдении сроков 14 и 30 дней. Возможен сбор 50 AUD. Порядок письменного отказа от фото указан в условиях.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Нет для текущей ступени. Уточнить эквивалент школьного класса."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Нет для текущей ступени. Уточнить эквивалент школьного класса."
+        }
+      },
+      "editorial_reason": "3 дня, 13:00–16:00 AWST, всего 9 часов. Группа до 5 участников.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Подать заявку оператору. Уточнить наличие мест и приём учащихся из другой страны.",
+        "Наличие мест меняется. Подтверждение требуется для выбранной группы."
+      ],
+      "sources": [
+        {
+          "url": "https://codekids.com.au/product/python-holiday-class-for-secondary-school-students/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/courses/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/faq/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://codekids.com.au/termsandconditions/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2239",
+      "slug": "penrith-sphero-november",
+      "provider": "Penrith City Library · Sphero",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Penrith · 601 High Street · Peter Goodfellow Theatrette",
+      "age": "8–14 лет.",
+      "programme": "Ребёнок собирает и программирует Sphero. Сопровождающий ждёт вне зала.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "11 ноября 2026, 16:00–17:00 AEDT. На странице также указано прошедшее занятие 4 ноября.",
+        "sessions": [
+          [
+            "2026-11-11",
+            "2026-11-11"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "library",
+            "start": "2026-11-11",
+            "end": "2026-11-11",
+            "label": "Penrith City Library · Sphero",
+            "price": "5 AUD за ребёнка. Пропущенные занятия без возврата по условиям площадки.",
+            "source": "https://events.humanitix.com/robotics_november26",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Предварительная запись обязательна. Подтвердить доступ, язык и наличие места.",
+            "sessions": [
+              {
+                "date": "2026-11-11",
+                "start_time": "16:00",
+                "end_time": "17:00",
+                "timezone": "Australia/Sydney",
+                "topic": "Penrith City Library · Sphero",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "5 AUD за ребёнка. Пропущенные занятия без возврата по условиям площадки.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Проверить класс, язык и наличие мест."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этого потока."
+        }
+      },
+      "editorial_reason": "11 ноября 2026, 16:00–17:00 AEDT. На странице также указано прошедшее занятие 4 ноября.",
+      "shortlist": [],
+      "questions": [
+        "Предварительная запись обязательна. Подтвердить доступ, язык и наличие места."
+      ],
+      "sources": [
+        {
+          "url": "https://events.humanitix.com/robotics_november26",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://penrithcity.nsw.gov.au/upcoming-events/come-and-try-programmable-robots-sphero",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2240",
+      "slug": "sunbury-library-robots",
+      "provider": "Hume Libraries · Robots!",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Sunbury Library · 44 Macedon Street",
+      "age": "6–12 лет. До 12 лет нужен взрослый сопровождающий.",
+      "programme": "Работа со Sphero, Ozobot и Osmo. Запись через аккаунт библиотеки, по телефону или на месте.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "19 ноября 2026, 16:30–17:30 AEDT.",
+        "sessions": [
+          [
+            "2026-11-19",
+            "2026-11-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "library",
+            "start": "2026-11-19",
+            "end": "2026-11-19",
+            "label": "Hume Libraries · Robots!",
+            "price": "Полная стоимость и наличие мест ещё не подтверждены.",
+            "source": "https://humelibraries.events.mylibrary.digital/event?id=256719",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Предварительная запись обязательна. Подтвердить доступ, язык и наличие места.",
+            "sessions": [
+              {
+                "date": "2026-11-19",
+                "start_time": "16:30",
+                "end_time": "17:30",
+                "timezone": "Australia/Melbourne",
+                "topic": "Hume Libraries · Robots!",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Проверить класс, язык и наличие мест."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Проверить класс, язык и наличие мест."
+        }
+      },
+      "editorial_reason": "19 ноября 2026, 16:30–17:30 AEDT.",
+      "shortlist": [],
+      "questions": [
+        "Предварительная запись обязательна. Подтвердить доступ, язык и наличие места."
+      ],
+      "sources": [
+        {
+          "url": "https://humelibraries.events.mylibrary.digital/event?id=256719",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2241",
+      "slug": "rainbow-beach-library-sphero",
+      "provider": "Rainbow Beach Library · Sphero",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Rainbow Beach Community Hall · Rainbow Beach Road",
+      "age": "5–12 лет.",
+      "programme": "Практика логики и управления роботом Sphero. Библиотека публикует свободный вход без записи. Стоимость уточнить.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Ресурс доступен с 1 по 30 ноября 2026. Часы работы библиотеки уточнить.",
+        "sessions": [
+          [
+            "2026-11-01",
+            "2026-11-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "library",
+            "start": "2026-11-01",
+            "end": "2026-11-30",
+            "label": "Rainbow Beach Library · Sphero",
+            "price": "Полная стоимость и наличие мест ещё не подтверждены.",
+            "source": "https://gympie.events.mylibrary.digital/event?id=250581",
+            "date_scope": "workshop_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Запись не требуется. Проверить часы работы библиотеки и доступность робота.",
+            "attendance_weekdays": []
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Проверить класс, язык и наличие мест."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Проверить класс, язык и наличие мест."
+        }
+      },
+      "editorial_reason": "Ресурс доступен с 1 по 30 ноября 2026. Часы работы библиотеки уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Запись не требуется. Проверить часы работы библиотеки и доступность робота."
+      ],
+      "sources": [
+        {
+          "url": "https://gympie.events.mylibrary.digital/event?id=250581",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2242",
+      "slug": "giofai-advanced-ai-builders",
+      "provider": "GIofAI Kids · Advanced AI Builders",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "Онлайн · Австралия",
+      "age": "Junior 8–12, Senior 13–17. Сначала пройти Future AI Innovators.",
+      "programme": "Python, проект AI, тестирование, онлайн-публикация и техническая демонстрация. По итогам сертификат организатора.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Материалы опубликованы на английском. Устный язык выбранной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "18–22 января 2027, 5 утренних занятий и 15 часов всего. Точное время уточнить.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "advanced",
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Advanced AI Builders",
+            "price": "995 AUD за продвинутый курс. Основной курс оплачивается отдельно.",
+            "source": "https://kids.giofai.com.au/",
+            "date_scope": "camp_window",
+            "delivery_mode": "online",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Продолжение для выпускников Future AI Innovators. Оператор подтверждает место после курса. Программа рассчитана на участников из Австралии. Допуск из другой страны уточнить.",
+            "admission_kind": "program",
+            "price_amount": 995,
+            "price_currency": "AUD"
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 995,
+        "currency": "AUD",
+        "unit": "session",
+        "label": "995 AUD за продвинутый курс. Основной курс оплачивается отдельно.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Онлайн, проживание не требуется.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Продолжение для выпускников Future AI Innovators. Оператор подтверждает место после курса. Программа рассчитана на участников из Австралии. Допуск из другой страны уточнить."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Нет по возрасту для этого потока."
+        }
+      },
+      "editorial_reason": "18–22 января 2027, 5 утренних занятий и 15 часов всего. Точное время уточнить.",
+      "shortlist": [],
+      "questions": [
+        "Продолжение для выпускников Future AI Innovators. Оператор подтверждает место после курса. Программа рассчитана на участников из Австралии. Допуск из другой страны уточнить."
+      ],
+      "sources": [
+        {
+          "url": "https://kids.giofai.com.au/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "ai",
+        "coding"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "online_camp",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2243",
+      "slug": "jrc-kumamoto-beginner-trial",
+      "provider": "JRC Kumamoto · Beginner Trial",
+      "country": "Япония",
+      "iso": "JPN",
+      "place": "TechJoyLabo · Kumamoto · Tsuboi 2-2-42",
+      "age": "С родителем. Mini Robo для 1–3 классов, Lego Robo для 3–5 классов начальной школы.",
+      "programme": "Подготовка начинающих к заданиям по управлению автономным роботом.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на японском. Язык судейства и возможность сопровождения на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "JA"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "22 или 29 ноября 2026, 16:15–17:15 JST. Выбрать одну дату.",
+        "sessions": [
+          [
+            "2026-11-22",
+            "2026-11-22"
+          ],
+          [
+            "2026-11-29",
+            "2026-11-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "trial-22",
+            "start": "2026-11-22",
+            "end": "2026-11-22",
+            "label": "JRC Beginner Trial",
+            "price": "Пробное занятие бесплатное. Подтвердить наличие места и комплект.",
+            "source": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Подать заявку оператору. Уточнить наличие мест и приём учащихся из другой страны.",
+            "sessions": [
+              {
+                "date": "2026-11-22",
+                "start_time": "16:15",
+                "end_time": "17:15",
+                "timezone": "Asia/Tokyo",
+                "topic": "JRC Beginner Trial",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "trial-29",
+            "start": "2026-11-29",
+            "end": "2026-11-29",
+            "label": "JRC Beginner Trial",
+            "price": "Пробное занятие бесплатное. Подтвердить наличие места и комплект.",
+            "source": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Подать заявку оператору. Уточнить наличие мест и приём учащихся из другой страны.",
+            "sessions": [
+              {
+                "date": "2026-11-29",
+                "start_time": "16:15",
+                "end_time": "17:15",
+                "timezone": "Asia/Tokyo",
+                "topic": "JRC Beginner Trial",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 0,
+        "currency": "JPY",
+        "unit": "session",
+        "label": "Пробное занятие бесплатное. Подтвердить наличие места и комплект.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно при допуске школьника и подходящем уровне. Подтвердить класс и язык."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно при допуске школьника и подходящем уровне. Подтвердить класс и язык."
+        }
+      },
+      "editorial_reason": "22 или 29 ноября 2026, 16:15–17:15 JST. Выбрать одну дату.",
+      "shortlist": [],
+      "questions": [
+        "Подать заявку оператору. Уточнить наличие мест и приём учащихся из другой страны."
+      ],
+      "sources": [
+        {
+          "url": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "workshop",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2244",
+      "slug": "jrc-kumamoto-beginner-course",
+      "provider": "JRC Kumamoto · Beginner Short Course",
+      "country": "Япония",
+      "iso": "JPN",
+      "place": "TechJoyLabo · Kumamoto · Tsuboi 2-2-42",
+      "age": "С родителем. Mini Robo для 1–3 классов, Lego Robo для 3–5 классов начальной школы.",
+      "programme": "Подготовка начинающих к заданиям по управлению автономным роботом.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на японском. Язык судейства и возможность сопровождения на английском уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "JA"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "5 воскресений, 16:15–17:45 JST. В декабре 13 и 20. В январе 10, 17 и 24.",
+        "sessions": [
+          [
+            "2026-12-13",
+            "2027-01-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "short-course",
+            "start": "2026-12-13",
+            "end": "2027-01-24",
+            "label": "JRC Beginner Short Course",
+            "price": "1000 JPY за занятие для впервые участвующих, 2500 JPY для повторно участвующих. Уточнить применение тарифа и итог.",
+            "source": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "entry": "Нужно посетить минимум 3 занятия и иметь возможность выйти на январский турнир. Покупать робота и компьютер для занятий не требуется.",
+            "sessions": [
+              {
+                "date": "2026-12-13",
+                "start_time": "16:15",
+                "end_time": "17:45",
+                "timezone": "Asia/Tokyo",
+                "topic": "JRC Beginner Short Course",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-20",
+                "start_time": "16:15",
+                "end_time": "17:45",
+                "timezone": "Asia/Tokyo",
+                "topic": "JRC Beginner Short Course",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-10",
+                "start_time": "16:15",
+                "end_time": "17:45",
+                "timezone": "Asia/Tokyo",
+                "topic": "JRC Beginner Short Course",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-17",
+                "start_time": "16:15",
+                "end_time": "17:45",
+                "timezone": "Asia/Tokyo",
+                "topic": "JRC Beginner Short Course",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-24",
+                "start_time": "16:15",
+                "end_time": "17:45",
+                "timezone": "Asia/Tokyo",
+                "topic": "JRC Beginner Short Course",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": null,
+        "currency": "JPY",
+        "unit": "lesson",
+        "label": "1000 JPY за занятие для впервые участвующих, 2500 JPY для повторно участвующих. Уточнить применение тарифа и итог.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Условно при допуске школьника и подходящем уровне. Подтвердить класс и язык."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Условно при допуске школьника и подходящем уровне. Подтвердить класс и язык."
+        }
+      },
+      "editorial_reason": "5 воскресений, 16:15–17:45 JST. В декабре 13 и 20. В январе 10, 17 и 24.",
+      "shortlist": [],
+      "questions": [
+        "Нужно посетить минимум 3 занятия и иметь возможность выйти на январский турнир. Покупать робота и компьютер для занятий не требуется.",
+        "Подать заявку оператору. Уточнить наличие мест и приём учащихся из другой страны."
+      ],
+      "sources": [
+        {
+          "url": "https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology",
+        "engineering"
+      ],
+      "programme_type": "regular_course",
+      "catalog_participation": "course",
+      "related_event_ids": []
     }
   ],
   "gaps": [
@@ -344425,7 +345615,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 332,
+  "version": 333,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -357660,7 +358850,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2234,
+      "total_dossiers": 2244,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
