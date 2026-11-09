@@ -16,11 +16,11 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11488,
-    "competition_cards": 5106,
-    "event_cards": 737,
-    "camp_cards": 5645,
-    "league_profiles": 329,
+    "cards": 11508,
+    "competition_cards": 5117,
+    "event_cards": 738,
+    "camp_cards": 5653,
+    "league_profiles": 330,
     "major_exhibition_cards": 630,
     "vex_cards": 815,
     "countries_with_records": 242,
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 3678,
+      "total": 3696,
       "countries_with_records": 41,
-      "competitions": 2064,
-      "events": 212,
+      "competitions": 2075,
+      "events": 213,
       "major_exhibitions": 165,
-      "camps": 1402,
+      "camps": 1408,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2563,
+      "total": 2565,
       "countries_with_records": 55,
       "competitions": 730,
       "events": 182,
       "major_exhibitions": 158,
-      "camps": 1651,
+      "camps": 1653,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -8423,6 +8423,30 @@
       "linked_card_count": 2,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.firabrasil.com/fira-kids",
+      "new": false
+    },
+    {
+      "id": "robocup-canada-open",
+      "name": "RoboCup Canada Open · RoboCupJunior / Primary",
+      "group": "regional",
+      "event_ids": [
+        "C5108",
+        "C5109",
+        "C5110",
+        "C5111",
+        "C5112",
+        "C5113",
+        "C5114",
+        "C5115",
+        "C5116",
+        "C5117",
+        "C5118"
+      ],
+      "cards": 11,
+      "future_dated": 11,
+      "linked_card_count": 11,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://robocup.org/events/91",
       "new": false
     },
     {
@@ -18774,8 +18798,8 @@
       }
     ],
     "counts": {
-      "records": 5645,
-      "holiday": 5050,
+      "records": 5653,
+      "holiday": 5058,
       "regular": 223,
       "self_paced_materials": 4,
       "boarding": 1039,

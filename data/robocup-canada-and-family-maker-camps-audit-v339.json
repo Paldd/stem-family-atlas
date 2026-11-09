@@ -1,0 +1,68 @@
+{
+  "version": 339,
+  "checked": "2026-11-09",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "new_event_ids": [
+    "C5108",
+    "C5109",
+    "C5110",
+    "C5111",
+    "C5112",
+    "C5113",
+    "C5114",
+    "C5115",
+    "C5116",
+    "C5117",
+    "C5118",
+    "E738",
+    "CP2260-20261221-20261224-polar",
+    "CP2260-20261228-20261231-makerland",
+    "CP2261-20270315-20270319-maker-madness",
+    "CP2262-20261221-20261224-polar",
+    "CP2262-20261228-20261231-makerland",
+    "CP2263-20270315-20270319-maker-madness",
+    "CP2264-20270705-20270709-week-1",
+    "CP2264-20270712-20270716-week-2"
+  ],
+  "refreshed_event_ids": [
+    "E476"
+  ],
+  "new_dossier_ids": [
+    "CP2260",
+    "CP2261",
+    "CP2262",
+    "CP2263",
+    "CP2264"
+  ],
+  "new_league_ids": [
+    "robocup-canada-open"
+  ],
+  "legacy_overlay_event_ids": [
+    "E476"
+  ],
+  "source_requests": 12,
+  "canada_open_event_id": "C5108",
+  "canada_open_category_ids": [
+    "C5109",
+    "C5110",
+    "C5111",
+    "C5112",
+    "C5113",
+    "C5114",
+    "C5115",
+    "C5116",
+    "C5117",
+    "C5118"
+  ],
+  "canada_demo_event_id": "E738",
+  "cucuta_visitor_event_id": "E476",
+  "cucuta_timed_public_days": 2,
+  "canada_maker_dossiers": {
+    "steam-project-richmond-hill-winter": "CP2260",
+    "steam-project-richmond-hill-march": "CP2261",
+    "steam-project-markham-winter": "CP2262",
+    "steam-project-markham-march": "CP2263"
+  },
+  "mingorria_dossier": "CP2264"
+}

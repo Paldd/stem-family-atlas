@@ -26,3 +26,16 @@ def session_keys(event_id, sessions):
         day = session['date']
         slots[day] = slot = slots.get(day, 0) + 1
         yield f'{event_id}-{day}' if slot == 1 else f'{event_id}-{day}-{slot}'
+
+
+def timed_public_days(event):
+    """Keep the existing calendar UID for the first exact public day."""
+    days = event.get('public_days', [])
+    if not days or not all(isinstance(day, dict) and day.get('ical_timed') for day in days):
+        return []
+    dates = [day['date'] for day in days]
+    assert dates == sorted(dates), event['id']
+    if dates[0] != event['start'] or dates[-1] != event['end']:
+        return []
+    return [('-' + key if index else '', day)
+            for index, (key, day) in enumerate(zip(session_keys('visit', days), days))]

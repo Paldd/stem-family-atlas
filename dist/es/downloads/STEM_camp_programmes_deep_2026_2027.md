@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2259 fichas en 140 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado de la base: 2026-11-09. 2264 fichas en 140 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -178629,6 +178629,392 @@ Malasia · Soho Suites KLCC · Kuala Lumpur
 - [Página de la organización o reglamento de la categoría.](https://novaitacademy.com/holiday-camp/) · 2026-11-09
 
 - [Página de la organización o reglamento de la categoría.](https://novaitacademy.com/brochures/nova-holiday-camp-2026.pdf) · 2026-11-09
+
+## CP2260 · The STEAM Project · Richmond Hill · Winter Break
+
+Canadá · Richmond Hill · 561 Edward Ave, Unit 1
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 4–10 años, JK – Grade 4. Los grupos se separan por edad y curso.
+
+**Idioma:** En el perfil del operador en el catálogo figura el inglés como idioma principal. Confirmar el idioma del grupo concreto.
+
+**Programa:** Taller diurno. Montaje, herramientas, mediciones y proyectos de ingeniería según la edad. Los ejemplos de turnos anteriores no son el programa de 2026.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 21–24 y 28–31 de diciembre de 2026, 09:00–16:00. No hay cuidado después de las 16:00 el 24 de diciembre.
+
+**Precio / año:** 2026 · 455 CAD por un turno hasta el 11 de diciembre de 2026, después 500 CAD. Ambos turnos: 860 CAD hasta el plazo de descuento, después 960 CAD. La cuota de campamento no lleva HST.
+
+**Incluido:** Programa diurno principal y materiales para proyectos.
+
+**Suplementos:** Antes de clase 50 CAD por semana. Después de clase 75 CAD la primera semana y 100 CAD la segunda. Horario 16:00–18:00, salvo el 24 de diciembre.
+
+**Pago:** Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución.
+
+**Matvey:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Oscar:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Motivo de selección:** 21–24 y 28–31 de diciembre de 2026, 09:00–16:00. No hay cuidado después de las 16:00 el 24 de diciembre.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.
+
+- Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución.
+
+### Polar Express
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** 455 CAD por un turno hasta el 11 de diciembre de 2026, después 500 CAD. Ambos turnos: 860 CAD hasta el plazo de descuento, después 960 CAD. La cuota de campamento no lleva HST.
+
+**condiciones de participación:** Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.
+
+- 2026-12-21 · 09:00–16:00 · America/Toronto · Polar Express
+
+- 2026-12-22 · 09:00–16:00 · America/Toronto · Polar Express
+
+- 2026-12-23 · 09:00–16:00 · America/Toronto · Polar Express
+
+- 2026-12-24 · 09:00–16:00 · America/Toronto · Polar Express
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.thesteamproject.ca/winter-break-camp/)
+
+### Winter Makerland
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** 455 CAD por un turno hasta el 11 de diciembre de 2026, después 500 CAD. Ambos turnos: 860 CAD hasta el plazo de descuento, después 960 CAD. La cuota de campamento no lleva HST.
+
+**condiciones de participación:** Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.
+
+- 2026-12-28 · 09:00–16:00 · America/Toronto · Winter Makerland
+
+- 2026-12-29 · 09:00–16:00 · America/Toronto · Winter Makerland
+
+- 2026-12-30 · 09:00–16:00 · America/Toronto · Winter Makerland
+
+- 2026-12-31 · 09:00–16:00 · America/Toronto · Winter Makerland
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.thesteamproject.ca/winter-break-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.thesteamproject.ca/winter-break-camp/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.thesteamproject.ca/faq/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.ourkids.net/camp/the-steam-project-richmond-hill/1174) · 2026-11-09
+
+## CP2261 · The STEAM Project · Richmond Hill · March Break
+
+Canadá · Richmond Hill · 561 Edward Ave, Unit 1
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 4–10 años, JK – Grade 4. Los grupos se separan por edad y curso.
+
+**Idioma:** En el perfil del operador en el catálogo figura el inglés como idioma principal. Confirmar el idioma del grupo concreto.
+
+**Programa:** Cinco días temáticos: mecánica e impresión 3D, circuitos eléctricos, carpintería, robots y programación, y proyectos colaborativos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 15–19 de marzo de 2027, 09:00–16:00. Comida y cuidado ampliado por separado.
+
+**Precio / año:** 2027 · 495 CAD hasta el 12 de febrero de 2027, después 625 CAD. La cuota de campamento no lleva HST.
+
+**Incluido:** Programa diurno principal y materiales para proyectos.
+
+**Suplementos:** Cuidado ampliado de 62,50 CAD por la mañana y 125 CAD después de clase por semana, hasta las 18:00. El menú se pide aparte. Confirmar la tarifa vigente de 2027.
+
+**Pago:** Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución.
+
+**Matvey:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Oscar:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Motivo de selección:** 15–19 de marzo de 2027, 09:00–16:00. Comida y cuidado ampliado por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.
+
+- Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución.
+
+### Maker Madness
+
+**Fechas / estado:** 2027-03-15 — 2027-03-19
+
+**Precio:** 495 CAD hasta el 12 de febrero de 2027, después 625 CAD. La cuota de campamento no lleva HST.
+
+**condiciones de participación:** Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.
+
+- 2027-03-15 · 09:00–16:00 · America/Toronto · Maker Madness
+
+- 2027-03-16 · 09:00–16:00 · America/Toronto · Maker Madness
+
+- 2027-03-17 · 09:00–16:00 · America/Toronto · Maker Madness
+
+- 2027-03-18 · 09:00–16:00 · America/Toronto · Maker Madness
+
+- 2027-03-19 · 09:00–16:00 · America/Toronto · Maker Madness
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.thesteamproject.ca/march-break-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.thesteamproject.ca/march-break-camp/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.thesteamproject.ca/faq/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.ourkids.net/camp/the-steam-project-richmond-hill/1174) · 2026-11-09
+
+## CP2262 · The STEAM Project · Markham Museum · Winter Break
+
+Canadá · Markham Museum · 9350 Markham Rd
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 4–10 años, JK – Grade 4. Los grupos se separan por edad y curso.
+
+**Idioma:** En el perfil del operador en el catálogo figura el inglés como idioma principal. Confirmar el idioma del grupo concreto.
+
+**Programa:** Taller diurno. Montaje, herramientas, mediciones y proyectos de ingeniería según la edad. Los ejemplos de turnos anteriores no son el programa de 2026.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 21–24 y 28–31 de diciembre de 2026, 09:00–16:00. No hay cuidado después de las 16:00 el 24 de diciembre.
+
+**Precio / año:** 2026 · 455 CAD por un turno hasta el 11 de diciembre de 2026, después 500 CAD. Ambos turnos: 860 CAD hasta el plazo de descuento, después 960 CAD. La cuota de campamento no lleva HST.
+
+**Incluido:** Programa diurno principal y materiales para proyectos.
+
+**Suplementos:** Antes de clase 50 CAD por semana. Después de clase 37,50 CAD la primera semana y 50 CAD la segunda. Horario 16:00–17:00, salvo el 24 de diciembre.
+
+**Pago:** Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución.
+
+**Matvey:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Oscar:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Motivo de selección:** 21–24 y 28–31 de diciembre de 2026, 09:00–16:00. No hay cuidado después de las 16:00 el 24 de diciembre.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.
+
+- Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución.
+
+### Polar Express
+
+**Fechas / estado:** 2026-12-21 — 2026-12-24
+
+**Precio:** 455 CAD por un turno hasta el 11 de diciembre de 2026, después 500 CAD. Ambos turnos: 860 CAD hasta el plazo de descuento, después 960 CAD. La cuota de campamento no lleva HST.
+
+**condiciones de participación:** Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.
+
+- 2026-12-21 · 09:00–16:00 · America/Toronto · Polar Express
+
+- 2026-12-22 · 09:00–16:00 · America/Toronto · Polar Express
+
+- 2026-12-23 · 09:00–16:00 · America/Toronto · Polar Express
+
+- 2026-12-24 · 09:00–16:00 · America/Toronto · Polar Express
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.thesteamproject.ca/winter-break-camp/)
+
+### Winter Makerland
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**Precio:** 455 CAD por un turno hasta el 11 de diciembre de 2026, después 500 CAD. Ambos turnos: 860 CAD hasta el plazo de descuento, después 960 CAD. La cuota de campamento no lleva HST.
+
+**condiciones de participación:** Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.
+
+- 2026-12-28 · 09:00–16:00 · America/Toronto · Winter Makerland
+
+- 2026-12-29 · 09:00–16:00 · America/Toronto · Winter Makerland
+
+- 2026-12-30 · 09:00–16:00 · America/Toronto · Winter Makerland
+
+- 2026-12-31 · 09:00–16:00 · America/Toronto · Winter Makerland
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.thesteamproject.ca/winter-break-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.thesteamproject.ca/winter-break-camp/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.thesteamproject.ca/faq/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.ourkids.net/camp/the-steam-project-richmond-hill/1174) · 2026-11-09
+
+## CP2263 · The STEAM Project · Markham Museum · March Break
+
+Canadá · Markham Museum · 9350 Markham Rd
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 4–10 años, JK – Grade 4. Los grupos se separan por edad y curso.
+
+**Idioma:** En el perfil del operador en el catálogo figura el inglés como idioma principal. Confirmar el idioma del grupo concreto.
+
+**Programa:** Cinco días temáticos: mecánica e impresión 3D, circuitos eléctricos, carpintería, robots y programación, y proyectos colaborativos.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 15–19 de marzo de 2027, 09:00–16:00. Comida y cuidado ampliado por separado.
+
+**Precio / año:** 2027 · 495 CAD hasta el 12 de febrero de 2027, después 625 CAD. La cuota de campamento no lleva HST.
+
+**Incluido:** Programa diurno principal y materiales para proyectos.
+
+**Suplementos:** Cuidado ampliado de 62,50 CAD por la mañana y 62,50 CAD después de clase por semana, hasta las 17:00. El menú se pide aparte. Confirmar la tarifa vigente de 2027.
+
+**Pago:** Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución.
+
+**Matvey:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Oscar:** La edad encaja. Confirmar curso, idioma y plazas.
+
+**Motivo de selección:** 15–19 de marzo de 2027, 09:00–16:00. Comida y cuidado ampliado por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.
+
+- Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución.
+
+### Maker Madness
+
+**Fechas / estado:** 2027-03-15 — 2027-03-19
+
+**Precio:** 495 CAD hasta el 12 de febrero de 2027, después 625 CAD. La cuota de campamento no lleva HST.
+
+**condiciones de participación:** Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.
+
+- 2027-03-15 · 09:00–16:00 · America/Toronto · Maker Madness
+
+- 2027-03-16 · 09:00–16:00 · America/Toronto · Maker Madness
+
+- 2027-03-17 · 09:00–16:00 · America/Toronto · Maker Madness
+
+- 2027-03-18 · 09:00–16:00 · America/Toronto · Maker Madness
+
+- 2027-03-19 · 09:00–16:00 · America/Toronto · Maker Madness
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://www.thesteamproject.ca/march-break-camp/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.thesteamproject.ca/march-break-camp/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.thesteamproject.ca/faq/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://www.ourkids.net/camp/the-steam-project-richmond-hill/1174) · 2026-11-09
+
+## CP2264 · Roboticole · Campamentos de Verano Mingorría 2027
+
+España · Mingorría · CRA Miguel Delibes
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 6–15 años. Campamento diurno en Mingorría, con sede prevista en CRA Miguel Delibes.
+
+**Idioma:** La organización ofrece los materiales en español. Confirmar el idioma hablado de las sesiones y el apoyo para una familia extranjera.
+
+**Programa:** Robótica, programación, diseño y fabricación 3D, piscina y juegos al aire libre.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** 5–9 y 12–16 de julio de 2027, 10:00–18:00. Cada turno se confirma el 5 de junio de 2027 si llega al mínimo de 15 participantes. Capacidad de 25 por turno.
+
+**Precio / año:** 2027 · Hasta el 4 de junio de 2027, una semana cuesta 315 EUR para el primer menor y 157,50 EUR para el segundo. Para los dos, 472,50 EUR. Del 5 de junio al 4 de julio, si hay plazas, 360 y 180 EUR, total 540 EUR.
+
+**Incluido:** Incluye traslado de ida y vuelta desde Ávila, comida, merienda, piscina, robots, ordenadores, materiales y camiseta.
+
+**Suplementos:** El 50% de descuento se aplica a plazas adicionales, segunda semana o familias de Mingorría. Los descuentos no se acumulan. Para 7 cargos desde noviembre, el mandato se presenta hasta el 23 de noviembre de 2026 inclusive.
+
+**Pago:** Si se cancela un turno, el operador ofrece otro si hay plaza o un reembolso. Aún se confirman seguro y punto exacto de subida al autobús.
+
+**Matvey:** La edad encaja. Confirmar español hablado, plazas y realización del turno elegido.
+
+**Oscar:** La edad encaja. Confirmar español hablado, plazas y realización del turno elegido.
+
+**Motivo de selección:** 5–9 y 12–16 de julio de 2027, 10:00–18:00. Cada turno se confirma el 5 de junio de 2027 si llega al mínimo de 15 participantes. Capacidad de 25 por turno.
+
+### Antes de solicitar plaza
+
+- La edad encaja. Confirmar español hablado, plazas y realización del turno elegido.
+
+- Si se cancela un turno, el operador ofrece otro si hay plaza o un reembolso. Aún se confirman seguro y punto exacto de subida al autobús.
+
+### Mingorría 2027
+
+**Fechas / estado:** 2027-07-05 — 2027-07-09
+
+**Precio:** Hasta el 4 de junio de 2027, una semana cuesta 315 EUR para el primer menor y 157,50 EUR para el segundo. Para los dos, 472,50 EUR. Del 5 de junio al 4 de julio, si hay plazas, 360 y 180 EUR, total 540 EUR.
+
+**condiciones de participación:** La edad encaja. Confirmar español hablado, plazas y realización del turno elegido.
+
+- 2027-07-05 · 10:00–18:00 · Europe/Madrid · Mingorría 2027
+
+- 2027-07-06 · 10:00–18:00 · Europe/Madrid · Mingorría 2027
+
+- 2027-07-07 · 10:00–18:00 · Europe/Madrid · Mingorría 2027
+
+- 2027-07-08 · 10:00–18:00 · Europe/Madrid · Mingorría 2027
+
+- 2027-07-09 · 10:00–18:00 · Europe/Madrid · Mingorría 2027
+
+**Disponibilidad de plazas:** 5–9 y 12–16 de julio de 2027, 10:00–18:00. Cada turno se confirma el 5 de junio de 2027 si llega al mínimo de 15 participantes. Capacidad de 25 por turno.
+
+[fuente](https://roboticole.com/campamentos/mingorria-2027)
+
+### Mingorría 2027
+
+**Fechas / estado:** 2027-07-12 — 2027-07-16
+
+**Precio:** Hasta el 4 de junio de 2027, una semana cuesta 315 EUR para el primer menor y 157,50 EUR para el segundo. Para los dos, 472,50 EUR. Del 5 de junio al 4 de julio, si hay plazas, 360 y 180 EUR, total 540 EUR.
+
+**condiciones de participación:** La edad encaja. Confirmar español hablado, plazas y realización del turno elegido.
+
+- 2027-07-12 · 10:00–18:00 · Europe/Madrid · Mingorría 2027
+
+- 2027-07-13 · 10:00–18:00 · Europe/Madrid · Mingorría 2027
+
+- 2027-07-14 · 10:00–18:00 · Europe/Madrid · Mingorría 2027
+
+- 2027-07-15 · 10:00–18:00 · Europe/Madrid · Mingorría 2027
+
+- 2027-07-16 · 10:00–18:00 · Europe/Madrid · Mingorría 2027
+
+**Disponibilidad de plazas:** 5–9 y 12–16 de julio de 2027, 10:00–18:00. Cada turno se confirma el 5 de junio de 2027 si llega al mínimo de 15 participantes. Capacidad de 25 por turno.
+
+[fuente](https://roboticole.com/campamentos/mingorria-2027)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://roboticole.com/campamentos/mingorria-2027) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://roboticole.com/) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

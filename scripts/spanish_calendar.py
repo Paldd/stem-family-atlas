@@ -1,5 +1,5 @@
 """Localize calendar text from translated records; preserve every scheduling property."""
-from calendar_time import session_keys
+from calendar_time import session_keys, timed_public_days
 from localization import unfold_ics
 
 
@@ -37,6 +37,9 @@ def localize_calendar(source, original, translated):
         records['stem-' + ru['id'] + '@family-stem.local'] = (ru, es, None, False)
         records['stem-' + ru['id'] + '-deadline@family-stem.local'] = (ru, es, None, True)
         records['stem-exhibition-' + ru['id'] + '@family-stem.local'] = (ru, es, None, False)
+        for suffix, _ in timed_public_days(ru)[1:]:
+            for prefix in ('stem-', 'stem-exhibition-'):
+                records[prefix + ru['id'] + suffix + '@family-stem.local'] = (ru, es, None, False)
         keys = session_keys(ru['id'], ru.get('sessions', []))
         for key, session in zip(keys, es.get('sessions', [])):
             records['stem-' + key + '@family-stem.local'] = (ru, es, session, False)

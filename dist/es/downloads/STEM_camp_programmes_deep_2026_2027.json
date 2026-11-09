@@ -30,15 +30,15 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2259,
+    "dossiers": 2264,
     "countries": 140,
     "swiss": 150,
     "by_status": {
       "published_2026_27": 298,
-      "published_2027": 645,
+      "published_2027": 648,
       "partial_2027": 159,
       "next_unannounced": 442,
-      "published_2026": 435,
+      "published_2026": 437,
       "partial_2026_27": 44,
       "partial_2026": 24,
       "archive_next_unannounced": 147,
@@ -50,7 +50,7 @@
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3194
+    "source_urls": 3200
   },
   "countries": [
     {
@@ -239,7 +239,7 @@
     },
     {
       "country": "España",
-      "count": 149
+      "count": 150
     },
     {
       "country": "Italia",
@@ -259,7 +259,7 @@
     },
     {
       "country": "Canadá",
-      "count": 212
+      "count": 216
     },
     {
       "country": "Catar",
@@ -396166,6 +396166,990 @@
           "EN"
         ]
       }
+    },
+    {
+      "id": "CP2260",
+      "slug": "steam-project-richmond-hill-winter",
+      "provider": "The STEAM Project · Richmond Hill · Winter Break",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Richmond Hill · 561 Edward Ave, Unit 1",
+      "age": "4–10 años, JK – Grade 4. Los grupos se separan por edad y curso.",
+      "programme": "Taller diurno. Montaje, herramientas, mediciones y proyectos de ingeniería según la edad. Los ejemplos de turnos anteriores no son el programa de 2026.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "En el perfil del operador en el catálogo figura el inglés como idioma principal. Confirmar el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "21–24 y 28–31 de diciembre de 2026, 09:00–16:00. No hay cuidado después de las 16:00 el 24 de diciembre.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "polar",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Polar Express",
+            "price": "455 CAD por un turno hasta el 11 de diciembre de 2026, después 500 CAD. Ambos turnos: 860 CAD hasta el plazo de descuento, después 960 CAD. La cuota de campamento no lleva HST.",
+            "source": "https://www.thesteamproject.ca/winter-break-camp/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "price_amount": 455,
+            "price_currency": "CAD",
+            "entry": "Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Polar Express",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Polar Express",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Polar Express",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Polar Express",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "makerland",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Winter Makerland",
+            "price": "455 CAD por un turno hasta el 11 de diciembre de 2026, después 500 CAD. Ambos turnos: 860 CAD hasta el plazo de descuento, después 960 CAD. La cuota de campamento no lleva HST.",
+            "source": "https://www.thesteamproject.ca/winter-break-camp/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "price_amount": 455,
+            "price_currency": "CAD",
+            "entry": "Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Winter Makerland",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Winter Makerland",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Winter Makerland",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Winter Makerland",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 455,
+        "currency": "CAD",
+        "unit": "week",
+        "label": "455 CAD por un turno hasta el 11 de diciembre de 2026, después 500 CAD. Ambos turnos: 860 CAD hasta el plazo de descuento, después 960 CAD. La cuota de campamento no lleva HST.",
+        "included": "Programa diurno principal y materiales para proyectos.",
+        "extras": "Antes de clase 50 CAD por semana. Después de clase 75 CAD la primera semana y 100 CAD la segunda. Horario 16:00–18:00, salvo el 24 de diciembre.",
+        "deposit": "Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        }
+      },
+      "editorial_reason": "21–24 y 28–31 de diciembre de 2026, 09:00–16:00. No hay cuidado después de las 16:00 el 24 de diciembre.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.",
+        "Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución."
+      ],
+      "sources": [
+        {
+          "url": "https://www.thesteamproject.ca/winter-break-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.thesteamproject.ca/faq/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.ourkids.net/camp/the-steam-project-richmond-hill/1174",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2260-20261221-20261224-polar"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2260-20261228-20261231-makerland"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2261",
+      "slug": "steam-project-richmond-hill-march",
+      "provider": "The STEAM Project · Richmond Hill · March Break",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Richmond Hill · 561 Edward Ave, Unit 1",
+      "age": "4–10 años, JK – Grade 4. Los grupos se separan por edad y curso.",
+      "programme": "Cinco días temáticos: mecánica e impresión 3D, circuitos eléctricos, carpintería, robots y programación, y proyectos colaborativos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "En el perfil del operador en el catálogo figura el inglés como idioma principal. Confirmar el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "15–19 de marzo de 2027, 09:00–16:00. Comida y cuidado ampliado por separado.",
+        "sessions": [
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "maker-madness",
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "Maker Madness",
+            "price": "495 CAD hasta el 12 de febrero de 2027, después 625 CAD. La cuota de campamento no lleva HST.",
+            "source": "https://www.thesteamproject.ca/march-break-camp/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "price_amount": 495,
+            "price_currency": "CAD",
+            "entry": "Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.",
+            "sessions": [
+              {
+                "date": "2027-03-15",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Maker Madness",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-16",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Maker Madness",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-17",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Maker Madness",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-18",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Maker Madness",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-19",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Maker Madness",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 495,
+        "currency": "CAD",
+        "unit": "week",
+        "label": "495 CAD hasta el 12 de febrero de 2027, después 625 CAD. La cuota de campamento no lleva HST.",
+        "included": "Programa diurno principal y materiales para proyectos.",
+        "extras": "Cuidado ampliado de 62,50 CAD por la mañana y 125 CAD después de clase por semana, hasta las 18:00. El menú se pide aparte. Confirmar la tarifa vigente de 2027.",
+        "deposit": "Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        }
+      },
+      "editorial_reason": "15–19 de marzo de 2027, 09:00–16:00. Comida y cuidado ampliado por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.",
+        "Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución."
+      ],
+      "sources": [
+        {
+          "url": "https://www.thesteamproject.ca/march-break-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.thesteamproject.ca/faq/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.ourkids.net/camp/the-steam-project-richmond-hill/1174",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2261-20270315-20270319-maker-madness"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2262",
+      "slug": "steam-project-markham-winter",
+      "provider": "The STEAM Project · Markham Museum · Winter Break",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Markham Museum · 9350 Markham Rd",
+      "age": "4–10 años, JK – Grade 4. Los grupos se separan por edad y curso.",
+      "programme": "Taller diurno. Montaje, herramientas, mediciones y proyectos de ingeniería según la edad. Los ejemplos de turnos anteriores no son el programa de 2026.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "En el perfil del operador en el catálogo figura el inglés como idioma principal. Confirmar el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2026",
+        "label": "21–24 y 28–31 de diciembre de 2026, 09:00–16:00. No hay cuidado después de las 16:00 el 24 de diciembre.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "polar",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Polar Express",
+            "price": "455 CAD por un turno hasta el 11 de diciembre de 2026, después 500 CAD. Ambos turnos: 860 CAD hasta el plazo de descuento, después 960 CAD. La cuota de campamento no lleva HST.",
+            "source": "https://www.thesteamproject.ca/winter-break-camp/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "price_amount": 455,
+            "price_currency": "CAD",
+            "entry": "Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Polar Express",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Polar Express",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Polar Express",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Polar Express",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "makerland",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Winter Makerland",
+            "price": "455 CAD por un turno hasta el 11 de diciembre de 2026, después 500 CAD. Ambos turnos: 860 CAD hasta el plazo de descuento, después 960 CAD. La cuota de campamento no lleva HST.",
+            "source": "https://www.thesteamproject.ca/winter-break-camp/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "price_amount": 455,
+            "price_currency": "CAD",
+            "entry": "Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Winter Makerland",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Winter Makerland",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Winter Makerland",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Winter Makerland",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "amount": 455,
+        "currency": "CAD",
+        "unit": "week",
+        "label": "455 CAD por un turno hasta el 11 de diciembre de 2026, después 500 CAD. Ambos turnos: 860 CAD hasta el plazo de descuento, después 960 CAD. La cuota de campamento no lleva HST.",
+        "included": "Programa diurno principal y materiales para proyectos.",
+        "extras": "Antes de clase 50 CAD por semana. Después de clase 37,50 CAD la primera semana y 50 CAD la segunda. Horario 16:00–17:00, salvo el 24 de diciembre.",
+        "deposit": "Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        }
+      },
+      "editorial_reason": "21–24 y 28–31 de diciembre de 2026, 09:00–16:00. No hay cuidado después de las 16:00 el 24 de diciembre.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.",
+        "Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución."
+      ],
+      "sources": [
+        {
+          "url": "https://www.thesteamproject.ca/winter-break-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.thesteamproject.ca/faq/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.ourkids.net/camp/the-steam-project-richmond-hill/1174",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "engineering",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2262-20261221-20261224-polar"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2262-20261228-20261231-makerland"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2263",
+      "slug": "steam-project-markham-march",
+      "provider": "The STEAM Project · Markham Museum · March Break",
+      "country": "Canadá",
+      "iso": "CAN",
+      "place": "Markham Museum · 9350 Markham Rd",
+      "age": "4–10 años, JK – Grade 4. Los grupos se separan por edad y curso.",
+      "programme": "Cinco días temáticos: mecánica e impresión 3D, circuitos eléctricos, carpintería, robots y programación, y proyectos colaborativos.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "En el perfil del operador en el catálogo figura el inglés como idioma principal. Confirmar el idioma del grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "15–19 de marzo de 2027, 09:00–16:00. Comida y cuidado ampliado por separado.",
+        "sessions": [
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "maker-madness",
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "Maker Madness",
+            "price": "495 CAD hasta el 12 de febrero de 2027, después 625 CAD. La cuota de campamento no lleva HST.",
+            "source": "https://www.thesteamproject.ca/march-break-camp/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "price_amount": 495,
+            "price_currency": "CAD",
+            "entry": "Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.",
+            "sessions": [
+              {
+                "date": "2027-03-15",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Maker Madness",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-16",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Maker Madness",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-17",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Maker Madness",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-18",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Maker Madness",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-03-19",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "America/Toronto",
+                "topic": "Maker Madness",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 495,
+        "currency": "CAD",
+        "unit": "week",
+        "label": "495 CAD hasta el 12 de febrero de 2027, después 625 CAD. La cuota de campamento no lleva HST.",
+        "included": "Programa diurno principal y materiales para proyectos.",
+        "extras": "Cuidado ampliado de 62,50 CAD por la mañana y 62,50 CAD después de clase por semana, hasta las 17:00. El menú se pide aparte. Confirmar la tarifa vigente de 2027.",
+        "deposit": "Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar curso, idioma y plazas."
+        }
+      },
+      "editorial_reason": "15–19 de marzo de 2027, 09:00–16:00. Comida y cuidado ampliado por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.",
+        "Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución."
+      ],
+      "sources": [
+        {
+          "url": "https://www.thesteamproject.ca/march-break-camp/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.thesteamproject.ca/faq/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://www.ourkids.net/camp/the-steam-project-richmond-hill/1174",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2263-20270315-20270319-maker-madness"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2264",
+      "slug": "roboticole-mingorria-2027",
+      "provider": "Roboticole · Campamentos de Verano Mingorría 2027",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Mingorría · CRA Miguel Delibes",
+      "age": "6–15 años. Campamento diurno en Mingorría, con sede prevista en CRA Miguel Delibes.",
+      "programme": "Robótica, programación, diseño y fabricación 3D, piscina y juegos al aire libre.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "La organización ofrece los materiales en español. Confirmar el idioma hablado de las sesiones y el apoyo para una familia extranjera.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "5–9 y 12–16 de julio de 2027, 10:00–18:00. Cada turno se confirma el 5 de junio de 2027 si llega al mínimo de 15 participantes. Capacidad de 25 por turno.",
+        "sessions": [
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "week-1",
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "label": "Mingorría 2027",
+            "price": "Hasta el 4 de junio de 2027, una semana cuesta 315 EUR para el primer menor y 157,50 EUR para el segundo. Para los dos, 472,50 EUR. Del 5 de junio al 4 de julio, si hay plazas, 360 y 180 EUR, total 540 EUR.",
+            "source": "https://roboticole.com/campamentos/mingorria-2027",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "5–9 y 12–16 de julio de 2027, 10:00–18:00. Cada turno se confirma el 5 de junio de 2027 si llega al mínimo de 15 participantes. Capacidad de 25 por turno."
+            },
+            "price_amount": 315,
+            "price_currency": "EUR",
+            "entry": "La edad encaja. Confirmar español hablado, plazas y realización del turno elegido.",
+            "sessions": [
+              {
+                "date": "2027-07-05",
+                "start_time": "10:00",
+                "end_time": "18:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Mingorría 2027",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-06",
+                "start_time": "10:00",
+                "end_time": "18:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Mingorría 2027",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-07",
+                "start_time": "10:00",
+                "end_time": "18:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Mingorría 2027",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-08",
+                "start_time": "10:00",
+                "end_time": "18:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Mingorría 2027",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-09",
+                "start_time": "10:00",
+                "end_time": "18:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Mingorría 2027",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "week-2",
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Mingorría 2027",
+            "price": "Hasta el 4 de junio de 2027, una semana cuesta 315 EUR para el primer menor y 157,50 EUR para el segundo. Para los dos, 472,50 EUR. Del 5 de junio al 4 de julio, si hay plazas, 360 y 180 EUR, total 540 EUR.",
+            "source": "https://roboticole.com/campamentos/mingorria-2027",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "5–9 y 12–16 de julio de 2027, 10:00–18:00. Cada turno se confirma el 5 de junio de 2027 si llega al mínimo de 15 participantes. Capacidad de 25 por turno."
+            },
+            "price_amount": 315,
+            "price_currency": "EUR",
+            "entry": "La edad encaja. Confirmar español hablado, plazas y realización del turno elegido.",
+            "sessions": [
+              {
+                "date": "2027-07-12",
+                "start_time": "10:00",
+                "end_time": "18:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Mingorría 2027",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-13",
+                "start_time": "10:00",
+                "end_time": "18:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Mingorría 2027",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-14",
+                "start_time": "10:00",
+                "end_time": "18:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Mingorría 2027",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-15",
+                "start_time": "10:00",
+                "end_time": "18:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Mingorría 2027",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-07-16",
+                "start_time": "10:00",
+                "end_time": "18:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Mingorría 2027",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 315,
+        "currency": "EUR",
+        "unit": "week",
+        "label": "Hasta el 4 de junio de 2027, una semana cuesta 315 EUR para el primer menor y 157,50 EUR para el segundo. Para los dos, 472,50 EUR. Del 5 de junio al 4 de julio, si hay plazas, 360 y 180 EUR, total 540 EUR.",
+        "included": "Incluye traslado de ida y vuelta desde Ávila, comida, merienda, piscina, robots, ordenadores, materiales y camiseta.",
+        "extras": "El 50% de descuento se aplica a plazas adicionales, segunda semana o familias de Mingorría. Los descuentos no se acumulan. Para 7 cargos desde noviembre, el mandato se presenta hasta el 23 de noviembre de 2026 inclusive.",
+        "deposit": "Si se cancela un turno, el operador ofrece otro si hay plaza o un reembolso. Aún se confirman seguro y punto exacto de subida al autobús."
+      },
+      "accommodation": "Sesiones diurnas sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar español hablado, plazas y realización del turno elegido."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "La edad encaja. Confirmar español hablado, plazas y realización del turno elegido."
+        }
+      },
+      "editorial_reason": "5–9 y 12–16 de julio de 2027, 10:00–18:00. Cada turno se confirma el 5 de junio de 2027 si llega al mínimo de 15 participantes. Capacidad de 25 por turno.",
+      "shortlist": [],
+      "questions": [
+        "La edad encaja. Confirmar español hablado, plazas y realización del turno elegido.",
+        "Si se cancela un turno, el operador ofrece otro si hay plaza o un reembolso. Aún se confirman seguro y punto exacto de subida al autobús."
+      ],
+      "sources": [
+        {
+          "url": "https://roboticole.com/campamentos/mingorria-2027",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://roboticole.com/",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "technology",
+        "general",
+        "sport"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-05",
+          "end": "2027-07-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2264-20270705-20270709-week-1"
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2264-20270712-20270716-week-2"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      }
     }
   ],
   "gaps": [
@@ -401491,7 +402475,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 338,
+  "version": 339,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -414726,7 +415710,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2259,
+      "total_dossiers": 2264,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -439816,6 +440800,46 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP2260",
+      "event_id": "CP2260-20261221-20261224-polar",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2260",
+      "event_id": "CP2260-20261228-20261231-makerland",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2261",
+      "event_id": "CP2261-20270315-20270319-maker-madness",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2262",
+      "event_id": "CP2262-20261221-20261224-polar",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2262",
+      "event_id": "CP2262-20261228-20261231-makerland",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2263",
+      "event_id": "CP2263-20270315-20270319-maker-madness",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2264",
+      "event_id": "CP2264-20270705-20270709-week-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2264",
+      "event_id": "CP2264-20270712-20270716-week-2",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -444928,10 +445952,18 @@
     "CP2259-20261214-20261217-winter-1",
     "CP2259-20261221-20261224-winter-2",
     "CP2259-20261228-20261231-winter-3",
-    "CP2259-20270104-20270107-winter-4"
+    "CP2259-20270104-20270107-winter-4",
+    "CP2260-20261221-20261224-polar",
+    "CP2260-20261228-20261231-makerland",
+    "CP2261-20270315-20270319-maker-madness",
+    "CP2262-20261221-20261224-polar",
+    "CP2262-20261228-20261231-makerland",
+    "CP2263-20270315-20270319-maker-madness",
+    "CP2264-20270705-20270709-week-1",
+    "CP2264-20270712-20270716-week-2"
   ],
   "integration": {
-    "generated_sessions": 4702,
+    "generated_sessions": 4710,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

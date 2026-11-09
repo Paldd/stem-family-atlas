@@ -89110,6 +89110,134 @@ Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: L
 Fuente: https://novaitacademy.com/holiday-camp/
 Se ha comprobado: 2026-11-09
 
+### CP2260-20261221-20261224-polar · The STEAM Project · Richmond Hill · Winter Break · Polar Express · 2026-12-21–2026-12-24
+
+lugar: Canadá · Richmond Hill · 561 Edward Ave, Unit 1
+Fecha: 2026-12-21 - 2026-12-24
+edad: 4–10 años, JK – Grade 4. Los grupos se separan por edad y curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: En el perfil del operador en el catálogo figura el inglés como idioma principal. Confirmar el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 455 CAD por un turno hasta el 11 de diciembre de 2026, después 500 CAD. Ambos turnos: 860 CAD hasta el plazo de descuento, después 960 CAD. La cuota de campamento no lleva HST. · suplementos y condiciones en el dossier
+Acceso: Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: La edad encaja. Confirmar curso, idioma y plazas. Suplementos: Antes de clase 50 CAD por semana. Después de clase 75 CAD la primera semana y 100 CAD la segunda. Horario 16:00–18:00, salvo el 24 de diciembre. Pago: Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución.
+Fuente: https://www.thesteamproject.ca/winter-break-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2260-20261228-20261231-makerland · The STEAM Project · Richmond Hill · Winter Break · Winter Makerland · 2026-12-28–2026-12-31
+
+lugar: Canadá · Richmond Hill · 561 Edward Ave, Unit 1
+Fecha: 2026-12-28 - 2026-12-31
+edad: 4–10 años, JK – Grade 4. Los grupos se separan por edad y curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: En el perfil del operador en el catálogo figura el inglés como idioma principal. Confirmar el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 455 CAD por un turno hasta el 11 de diciembre de 2026, después 500 CAD. Ambos turnos: 860 CAD hasta el plazo de descuento, después 960 CAD. La cuota de campamento no lleva HST. · suplementos y condiciones en el dossier
+Acceso: Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: La edad encaja. Confirmar curso, idioma y plazas. Suplementos: Antes de clase 50 CAD por semana. Después de clase 75 CAD la primera semana y 100 CAD la segunda. Horario 16:00–18:00, salvo el 24 de diciembre. Pago: Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución.
+Fuente: https://www.thesteamproject.ca/winter-break-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2261-20270315-20270319-maker-madness · The STEAM Project · Richmond Hill · March Break · Maker Madness · 2027-03-15–2027-03-19
+
+lugar: Canadá · Richmond Hill · 561 Edward Ave, Unit 1
+Fecha: 2027-03-15 — 2027-03-19
+edad: 4–10 años, JK – Grade 4. Los grupos se separan por edad y curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: En el perfil del operador en el catálogo figura el inglés como idioma principal. Confirmar el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 CAD hasta el 12 de febrero de 2027, después 625 CAD. La cuota de campamento no lleva HST. · suplementos y condiciones en el dossier
+Acceso: Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: La edad encaja. Confirmar curso, idioma y plazas. Suplementos: Cuidado ampliado de 62,50 CAD por la mañana y 125 CAD después de clase por semana, hasta las 18:00. El menú se pide aparte. Confirmar la tarifa vigente de 2027. Pago: Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución.
+Fuente: https://www.thesteamproject.ca/march-break-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2262-20261221-20261224-polar · The STEAM Project · Markham Museum · Winter Break · Polar Express · 2026-12-21–2026-12-24
+
+lugar: Canadá · Markham Museum · 9350 Markham Rd
+Fecha: 2026-12-21 - 2026-12-24
+edad: 4–10 años, JK – Grade 4. Los grupos se separan por edad y curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: En el perfil del operador en el catálogo figura el inglés como idioma principal. Confirmar el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 455 CAD por un turno hasta el 11 de diciembre de 2026, después 500 CAD. Ambos turnos: 860 CAD hasta el plazo de descuento, después 960 CAD. La cuota de campamento no lleva HST. · suplementos y condiciones en el dossier
+Acceso: Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: La edad encaja. Confirmar curso, idioma y plazas. Suplementos: Antes de clase 50 CAD por semana. Después de clase 37,50 CAD la primera semana y 50 CAD la segunda. Horario 16:00–17:00, salvo el 24 de diciembre. Pago: Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución.
+Fuente: https://www.thesteamproject.ca/winter-break-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2262-20261228-20261231-makerland · The STEAM Project · Markham Museum · Winter Break · Winter Makerland · 2026-12-28–2026-12-31
+
+lugar: Canadá · Markham Museum · 9350 Markham Rd
+Fecha: 2026-12-28 - 2026-12-31
+edad: 4–10 años, JK – Grade 4. Los grupos se separan por edad y curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: En el perfil del operador en el catálogo figura el inglés como idioma principal. Confirmar el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 455 CAD por un turno hasta el 11 de diciembre de 2026, después 500 CAD. Ambos turnos: 860 CAD hasta el plazo de descuento, después 960 CAD. La cuota de campamento no lleva HST. · suplementos y condiciones en el dossier
+Acceso: Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: La edad encaja. Confirmar curso, idioma y plazas. Suplementos: Antes de clase 50 CAD por semana. Después de clase 37,50 CAD la primera semana y 50 CAD la segunda. Horario 16:00–17:00, salvo el 24 de diciembre. Pago: Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución.
+Fuente: https://www.thesteamproject.ca/winter-break-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2263-20270315-20270319-maker-madness · The STEAM Project · Markham Museum · March Break · Maker Madness · 2027-03-15–2027-03-19
+
+lugar: Canadá · Markham Museum · 9350 Markham Rd
+Fecha: 2027-03-15 — 2027-03-19
+edad: 4–10 años, JK – Grade 4. Los grupos se separan por edad y curso.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: En el perfil del operador en el catálogo figura el inglés como idioma principal. Confirmar el idioma del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · 495 CAD hasta el 12 de febrero de 2027, después 625 CAD. La cuota de campamento no lleva HST. · suplementos y condiciones en el dossier
+Acceso: Confirmar plaza para cada menor y condiciones de idioma. La página ofrece inscripción y la disponibilidad cambia por grupo.
+Limitaciones: Matvey: La edad encaja. Confirmar curso, idioma y plazas. Oscar: La edad encaja. Confirmar curso, idioma y plazas. Suplementos: Cuidado ampliado de 62,50 CAD por la mañana y 62,50 CAD después de clase por semana, hasta las 17:00. El menú se pide aparte. Confirmar la tarifa vigente de 2027. Pago: Antes de pagar, confirmar la regla de devolución para la fecha elegida. En las preguntas frecuentes se superponen las condiciones de crédito y falta de devolución.
+Fuente: https://www.thesteamproject.ca/march-break-camp/
+Se ha comprobado: 2026-11-09
+
+### CP2264-20270705-20270709-week-1 · Roboticole · Campamentos de Verano Mingorría 2027 · Mingorría 2027 · 2027-07-05–2027-07-09
+
+lugar: España · Mingorría · CRA Miguel Delibes
+Fecha: 2027-07-05 - 2027-07-09
+edad: 6–15 años. Campamento diurno en Mingorría, con sede prevista en CRA Miguel Delibes.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: La organización ofrece los materiales en español. Confirmar el idioma hablado de las sesiones y el apoyo para una familia extranjera.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Hasta el 4 de junio de 2027, una semana cuesta 315 EUR para el primer menor y 157,50 EUR para el segundo. Para los dos, 472,50 EUR. Del 5 de junio al 4 de julio, si hay plazas, 360 y 180 EUR, total 540 EUR. · suplementos y condiciones en el dossier
+Acceso: La edad encaja. Confirmar español hablado, plazas y realización del turno elegido.
+Limitaciones: Matvey: La edad encaja. Confirmar español hablado, plazas y realización del turno elegido. Oscar: La edad encaja. Confirmar español hablado, plazas y realización del turno elegido. Suplementos: El 50% de descuento se aplica a plazas adicionales, segunda semana o familias de Mingorría. Los descuentos no se acumulan. Para 7 cargos desde noviembre, el mandato se presenta hasta el 23 de noviembre de 2026 inclusive. Pago: Si se cancela un turno, el operador ofrece otro si hay plaza o un reembolso. Aún se confirman seguro y punto exacto de subida al autobús.
+Fuente: https://roboticole.com/campamentos/mingorria-2027
+Se ha comprobado: 2026-11-09
+
+### CP2264-20270712-20270716-week-2 · Roboticole · Campamentos de Verano Mingorría 2027 · Mingorría 2027 · 2027-07-12–2027-07-16
+
+lugar: España · Mingorría · CRA Miguel Delibes
+Fecha: 2027-07-12 — 2027-07-16
+edad: 6–15 años. Campamento diurno en Mingorría, con sede prevista en CRA Miguel Delibes.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: La organización ofrece los materiales en español. Confirmar el idioma hablado de las sesiones y el apoyo para una familia extranjera.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Hasta el 4 de junio de 2027, una semana cuesta 315 EUR para el primer menor y 157,50 EUR para el segundo. Para los dos, 472,50 EUR. Del 5 de junio al 4 de julio, si hay plazas, 360 y 180 EUR, total 540 EUR. · suplementos y condiciones en el dossier
+Acceso: La edad encaja. Confirmar español hablado, plazas y realización del turno elegido.
+Limitaciones: Matvey: La edad encaja. Confirmar español hablado, plazas y realización del turno elegido. Oscar: La edad encaja. Confirmar español hablado, plazas y realización del turno elegido. Suplementos: El 50% de descuento se aplica a plazas adicionales, segunda semana o familias de Mingorría. Los descuentos no se acumulan. Para 7 cargos desde noviembre, el mandato se presenta hasta el 23 de noviembre de 2026 inclusive. Pago: Si se cancela un turno, el operador ofrece otro si hay plaza o un reembolso. Aún se confirman seguro y punto exacto de subida al autobús.
+Fuente: https://roboticole.com/campamentos/mingorria-2027
+Se ha comprobado: 2026-11-09
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi

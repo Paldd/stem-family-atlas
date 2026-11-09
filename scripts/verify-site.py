@@ -10,7 +10,7 @@ from urllib.parse import unquote, urlsplit
 import zipfile
 from atlas_web_data import read_web_data, verify_core_data
 from atlas_workbook import WORKBOOKS, verify_workbook
-from calendar_time import local_to_utc, session_keys
+from calendar_time import local_to_utc, session_keys, timed_public_days
 
 ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / 'dist'
@@ -103,10 +103,28 @@ assert local_to_utc('2027-07-05', '09:00', 'America/Vancouver').isoformat() == '
 assert local_to_utc('2026-02-26', '09:00', 'America/Edmonton').isoformat() == '2026-02-26T16:00:00+00:00'
 assert local_to_utc('2027-02-26', '09:00', 'America/Edmonton').isoformat() == '2027-02-26T15:00:00+00:00'
 assert local_to_utc('2026-12-21', '09:00', 'America/Los_Angeles').isoformat() == '2026-12-21T17:00:00+00:00'
-calendar = re.sub(r'\r?\n[ \t]', '', (downloads / 'STEM_подтвержденные_даты.ics').read_text())
-calendar_rows = {re.search(r'(?m)^UID:(.+)$', block).group(1): block
-                 for block in re.findall(r'BEGIN:VEVENT\n.*?END:VEVENT', calendar, re.S)}
+def calendar_rows_by_id(name):
+    calendar = re.sub(r'\r?\n[ \t]', '', (downloads / name).read_text())
+    return {re.search(r'(?m)^UID:(.+)$', block).group(1): block
+            for block in re.findall(r'BEGIN:VEVENT\n.*?END:VEVENT', calendar, re.S)}
+
+calendar_rows = calendar_rows_by_id('STEM_подтвержденные_даты.ics')
+exhibition_rows = calendar_rows_by_id('STEM_крупные_выставки.ics')
 for event in web['events']:
+    for suffix, day in timed_public_days(event):
+        for instant, clock, property_name in [
+            ('start_utc', 'start_time', 'DTSTART'), ('end_utc', 'end_time', 'DTEND')
+        ]:
+            expected = local_to_utc(day['date'], day[clock], day['timezone'])
+            assert day[instant] == expected.isoformat().replace('+00:00', 'Z'), (event['id'], day['date'], instant)
+            if day['date'] < web['asof'] or event.get('canonical_event_id'):
+                continue
+            key = event['id'] + suffix + '@family-stem.local'
+            value = property_name + ':' + expected.strftime('%Y%m%dT%H%M%SZ')
+            if event.get('exhibition_tier'):
+                assert value in exhibition_rows['stem-exhibition-' + key], (key, property_name)
+            if 'stem-' + key in calendar_rows:
+                assert value in calendar_rows['stem-' + key], (key, property_name)
     sessions = event.get('sessions', [])
     for key, session in zip(session_keys(event['id'], sessions), sessions):
         if not session.get('ical_timed') or session['date'] < web['asof']:

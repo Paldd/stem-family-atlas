@@ -1,7 +1,7 @@
 """Build the web catalog and portable database from the tracked source of truth."""
 import csv, datetime, json, pathlib, re, sqlite3
 from copy import deepcopy
-from calendar_time import local_to_utc, session_keys
+from calendar_time import local_to_utc, session_keys, timed_public_days
 from atlas_web_data import write_source_catalog, write_web_data
 from atlas_workbook import WORKBOOKS, write_workbook
 ROOT=pathlib.Path(__file__).resolve().parents[1]
@@ -83,7 +83,8 @@ current_audits = [
                  'pacific-junior-robotics-and-expo-access-audit-v333.json',
                  'swiss-regional-robots-and-franco-swiss-winter-audit-v335.json',
                  'camelot-qualifiers-and-shanghai-junior-audit-v336.json',
-                 'brazil-robot-leagues-and-malaysia-week-audit-v338.json')
+                 'brazil-robot-leagues-and-malaysia-week-audit-v338.json',
+                 'robocup-canada-and-family-maker-camps-audit-v339.json')
 ]
 current_event_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_event_ids', [])}
 current_league_ids = {i for audit in current_audits for i in audit.get('legacy_overlay_league_ids', [])}
@@ -297,6 +298,13 @@ enrich_v210(d)
 
 d['events'] = [current_events.get(e['id'], e) for e in d['events']]
 d['asof'] = max(source_asof, d['asof'])
+for event in d['events']:
+    for _, day in timed_public_days(event):
+        start = local_to_utc(day['date'], day['start_time'], day['timezone'])
+        end = local_to_utc(day['date'], day['end_time'], day['timezone'])
+        assert start < end, (event['id'], day['date'])
+        day['start_utc'] = start.isoformat().replace('+00:00', 'Z')
+        day['end_utc'] = end.isoformat().replace('+00:00', 'Z')
 d['league_guide']['profiles'] = [
     current_leagues.get(p['id'], p) for p in d['league_guide']['profiles']
 ]
@@ -890,17 +898,16 @@ def ical_fold(line):
 stamp=datetime.datetime.now(datetime.timezone.utc).strftime('%Y%m%dT%H%M%SZ')
 cal=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//STEM Atlas//Family calendar//RU','CALSCALE:GREGORIAN','METHOD:PUBLISH','X-WR-CALNAME:STEM Atlas — даты и сроки для планирования','X-WR-TIMEZONE:America/Costa_Rica']
 ical_count=0;deadline_seen=set()
-def calendar_bounds(event):
-    public_days = event.get('public_days', [])
-    if event['start'] == event['end'] and len(public_days) == 1:
-        day = public_days[0]
-        if isinstance(day, dict) and day.get('ical_timed') and day['date'] == event['start']:
-            start = local_to_utc(day['date'], day['start_time'], day['timezone'])
-            end = local_to_utc(day['date'], day['end_time'], day['timezone'])
-            assert end > start
-            return start.strftime('%Y%m%dT%H%M%SZ'), end.strftime('%Y%m%dT%H%M%SZ'), True
+def calendar_occurrences(event):
+    public_days = timed_public_days(event)
+    if public_days:
+        for suffix, day in public_days:
+            if day['date'] >= d['asof']:
+                start, end = (day[field].replace('-', '').replace(':', '') for field in ('start_utc', 'end_utc'))
+                yield event['id'] + suffix, start, end, True
+        return
     end = datetime.date.fromisoformat(event['end']) + datetime.timedelta(days=1)
-    return event['start'].replace('-', ''), end.strftime('%Y%m%d'), False
+    yield event['id'], event['start'].replace('-', ''), end.strftime('%Y%m%d'), False
 
 def cal_event(e,uid,title,start,end,timed=False):
     global ical_count
@@ -926,7 +933,8 @@ for e in d['events']:
             prefix='[Публикация правил] ' if e.get('date_scope')=='rules_publication' else '[Открытие регистрации] ' if e.get('date_scope')=='registration_open' else '[Открытие подачи проектов] ' if e.get('date_scope')=='submission_open' else '[Виртуальная защита] ' if e.get('date_scope')=='judging' else '[Окно прохождения конкурса] ' if e.get('date_scope')=='assessment_window' else '[Окно подачи результатов] ' if e.get('date_scope')=='submission_window' else '[Окно · один назначенный день] ' if e.get('date_scope')=='assigned_day_window' else '[Дни мероприятия] ' if e.get('date_scope')=='festival_window' else '[Окно смены · расписание уточнить] ' if e.get('date_scope')=='camp_window' else '[Начало · полный период уточнить] ' if e.get('date_scope')=='activity_start' else '[Дни выбора мастер-класса] ' if e.get('date_scope')=='workshop_window' else ('[Окно дневного лагеря · Пн–Пт] ' if e.get('attendance_weekdays') else '[Окно дневного лагеря · расписание уточнить] ') if e.get('date_scope')=='day_camp_window' else '[Смена лагеря] ' if e.get('date_scope')=='camp_session' else '[Идея] '
             if e.get('date_scope')=='release_milestone':prefix='[Публикация материалов] '
             if e.get('date_status')=='Анонсировано':prefix='[Анонс · проведение уточнить] '+prefix
-            cal_event(e,e['id'],prefix+e['title'],*calendar_bounds(e))
+            for uid, start, end, timed in calendar_occurrences(e):
+                cal_event(e,uid,prefix+e['title'],start,end,timed)
     deadline=e.get('deadline','')
     if deadline and deadline>=d['asof'] and (deadline,e['id']) not in deadline_seen:
         deadline_seen.add((deadline,e['id']))
@@ -967,10 +975,10 @@ for e in d['events']:
     gate={'family':'семейный вариант','adults_only':'детям 6/9 нельзя','confirm_children':'допуск детей уточнить'}[e['visitor_policy']]
     desc=f"Идея посещения, не принятая регистрация. {e['visitor_policy_note']} Взрослый вход: {e['adult_entry']}. {e['note']} Компании: {e['exhibitor_note']}. Источник проверен {e['checked']}."
     opening_label='[Начало · полный период уточнить] ' if e.get('date_scope')=='activity_start' else ''
-    start, end, timed = calendar_bounds(e)
-    date_parameter = ':' if timed else ';VALUE=DATE:'
-    expo_cal.extend(['BEGIN:VEVENT','UID:stem-exhibition-'+e['id']+'@family-stem.local','DTSTAMP:'+stamp,'SUMMARY:'+ical_escape(opening_label+'[Выставка · '+gate+'] '+e['title']),'DTSTART'+date_parameter+start,'DTEND'+date_parameter+end,'DESCRIPTION:'+ical_escape(desc),'LOCATION:'+ical_escape(e['city']+', '+e['country']),'URL:'+e['source'],'STATUS:TENTATIVE','TRANSP:TRANSPARENT','END:VEVENT'])
-    expo_count+=1
+    for uid, start, end, timed in calendar_occurrences(e):
+        date_parameter = ':' if timed else ';VALUE=DATE:'
+        expo_cal.extend(['BEGIN:VEVENT','UID:stem-exhibition-'+uid+'@family-stem.local','DTSTAMP:'+stamp,'SUMMARY:'+ical_escape(opening_label+'[Выставка · '+gate+'] '+e['title']),'DTSTART'+date_parameter+start,'DTEND'+date_parameter+end,'DESCRIPTION:'+ical_escape(desc),'LOCATION:'+ical_escape(e['city']+', '+e['country']),'URL:'+e['source'],'STATUS:TENTATIVE','TRANSP:TRANSPARENT','END:VEVENT'])
+        expo_count+=1
 expo_cal.append('END:VCALENDAR')
 write_ical(out/'STEM_крупные_выставки.ics',('\r\n'.join(ical_fold(line) for line in expo_cal)+'\r\n').encode('utf-8'))
 print(json.dumps({'events':len(d['events']),'dated':sum(bool(e['start']) for e in d['events']),'ical_events':ical_count,'exhibition_ical_events':expo_count,'coverage':d['coverage_summary'],'database':str(out/database_download['download']),'database_download':database_download}))

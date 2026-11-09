@@ -16,11 +16,11 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11488,
-    "competition_cards": 5106,
-    "event_cards": 737,
-    "camp_cards": 5645,
-    "league_profiles": 329,
+    "cards": 11508,
+    "competition_cards": 5117,
+    "event_cards": 738,
+    "camp_cards": 5653,
+    "league_profiles": 330,
     "major_exhibition_cards": 630,
     "vex_cards": 815,
     "countries_with_records": 242,
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3678,
+      "total": 3696,
       "countries_with_records": 41,
-      "competitions": 2064,
-      "events": 212,
+      "competitions": 2075,
+      "events": 213,
       "major_exhibitions": 165,
-      "camps": 1402,
+      "camps": 1408,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 2563,
+      "total": 2565,
       "countries_with_records": 55,
       "competitions": 730,
       "events": 182,
       "major_exhibitions": 158,
-      "camps": 1651,
+      "camps": 1653,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -8423,6 +8423,30 @@
       "linked_card_count": 2,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.firabrasil.com/fira-kids",
+      "new": false
+    },
+    {
+      "id": "robocup-canada-open",
+      "name": "RoboCup Canada Open · RoboCupJunior / Primary",
+      "group": "regional",
+      "event_ids": [
+        "C5108",
+        "C5109",
+        "C5110",
+        "C5111",
+        "C5112",
+        "C5113",
+        "C5114",
+        "C5115",
+        "C5116",
+        "C5117",
+        "C5118"
+      ],
+      "cards": 11,
+      "future_dated": 11,
+      "linked_card_count": 11,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://robocup.org/events/91",
       "new": false
     },
     {
@@ -18774,8 +18798,8 @@
       }
     ],
     "counts": {
-      "records": 5645,
-      "holiday": 5050,
+      "records": 5653,
+      "holiday": 5058,
       "regular": 223,
       "self_paced_materials": 4,
       "boarding": 1039,

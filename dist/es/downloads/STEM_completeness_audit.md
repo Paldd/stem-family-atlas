@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11488; competiciones: 5106; eventos: 737; campamentos / programas: 5645. Perfiles de ligas y programas: 329. Fichas de exposiciones grandes y especializadas: 630 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11508; competiciones: 5117; eventos: 738; campamentos / programas: 5653. Perfiles de ligas y programas: 330. Fichas de exposiciones grandes y especializadas: 630 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2064 | 165 | 1402 |
+| América del Norte | 41 | 2075 | 165 | 1408 |
 | América del Sur | 15 | 473 | 52 | 258 |
-| Europa | 55 | 730 | 158 | 1651 |
+| Europa | 55 | 730 | 158 | 1653 |
 | África | 60 | 272 | 45 | 156 |
 | Asia | 50 | 1208 | 176 | 1793 |
 | Oceanía | 27 | 176 | 32 | 370 |
 
 Fichas interregionales o mundiales sin un único continente: 205. América del Norte incluye América Central y el Caribe. Las cifras describen el inventario de la base, sin medir el porcentaje de cobertura.
 
-VEX: 815 de 5106 fichas de competiciones (16.0%). La cobertura muestra un claro desequilibrio.
+VEX: 815 de 5117 fichas de competiciones (15.9%). La cobertura muestra un claro desequilibrio.
 
 ## Lo que queda
 
@@ -355,6 +355,7 @@ VEX: 815 de 5106 fichas de competiciones (16.0%). La cobertura muestra un claro 
 - **Junior Robot Competition · Kumamoto**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.npo-hitoproject.or.jp/roborobo/junior-robot-competition-winter/
 - **Liga Nacional de Robótica · Brasil**: 3 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.lnrobotica.com.br/
 - **FIRA Brasil · Kids**: 2 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firabrasil.com/fira-kids
+- **RoboCup Canada Open · RoboCupJunior / Primary**: 11 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robocup.org/events/91
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf

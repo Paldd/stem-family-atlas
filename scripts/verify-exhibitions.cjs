@@ -34,10 +34,21 @@ for (const locale of ['', 'es']) {
     start_utc: '2027-04-17T09:30:00Z', end_utc: '2027-04-17T16:00:00Z' };
   assert(context.exhibitionDetails({ ...exhibition, public_days: ['2027-04-16', day] })
     .includes('2027-04-16, 2027-04-17 · 11:30–18:00'));
-  const singleDay = { start: day.date, end: day.date, public_days: [day] };
-  assert.deepEqual(Array.from(context.exhibitionCalendarBounds(singleDay)), ['20270417T093000Z', '20270417T160000Z', true]);
-  assert.deepEqual(Array.from(context.exhibitionCalendarBounds({ ...singleDay, public_days: [day.date] })),
-    ['2027-04-17', '2027-04-18', false]);
+  const singleDay = { id: 'sample', start: day.date, end: day.date, public_days: [day] };
+  const occurrences = (event, asof = day.date) =>
+    Array.from(context.exhibitionCalendarOccurrences(event, asof), bounds => Array.from(bounds));
+  assert.deepEqual(occurrences(singleDay), [['sample', '20270417T093000Z', '20270417T160000Z', true]]);
+  assert.deepEqual(occurrences({ ...singleDay, public_days: [day.date] }),
+    [['sample', '2027-04-17', '2027-04-18', false]]);
+  const secondDay = { ...day, date: '2027-04-18', start_utc: '2027-04-18T09:30:00Z', end_utc: '2027-04-18T16:00:00Z' };
+  const twoDays = { ...singleDay, end: secondDay.date, public_days: [day, secondDay] };
+  const nextOccurrence = ['sample-visit-2027-04-18', '20270418T093000Z', '20270418T160000Z', true];
+  assert.deepEqual(occurrences(twoDays), [['sample', '20270417T093000Z', '20270417T160000Z', true], nextOccurrence]);
+  assert.deepEqual(occurrences(twoDays, secondDay.date), [nextOccurrence]);
+  const afternoon = { ...day, start_utc: '2027-04-17T16:30:00Z', end_utc: '2027-04-17T18:00:00Z' };
+  const twoSlots = { ...singleDay, public_days: [day, afternoon] };
+  assert.deepEqual(occurrences(twoSlots), [['sample', '20270417T093000Z', '20270417T160000Z', true],
+    ['sample-visit-2027-04-17-2', '20270417T163000Z', '20270417T180000Z', true]]);
   const exhibitions = context.window.STEM_DATA.events.filter(event => event.exhibition_tier);
   assert(exhibitions.length > 0);
   for (const event of exhibitions) {

@@ -26965,6 +26965,154 @@
         "evidence": "Cotejado con la página oficial y las condiciones publicadas."
       },
       {
+        "id": "robocup-canada-open",
+        "name": "RoboCup Canada Open · RoboCupJunior / Primary",
+        "group": "regional",
+        "age_summary": "Aún no se publican la edad mínima ni su regla de cálculo para el Open canadiense 2027.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Open canadiense con Primary, las disciplinas centrales de RoboCupJunior y demostración de humanoides.",
+        "categories": [
+          {
+            "name": "Primary Rescue Line",
+            "age": "Se anuncia la categoría Primary. Confirmar edad mínima y fecha de corte de nacimiento en el reglamento del Open canadiense.",
+            "age_rule": "Aún no se publican la edad mínima ni su regla de cálculo para el Open canadiense 2027.",
+            "team": "Confirmar formato y composición del equipo en el reglamento de la categoría del Open canadiense 2027.",
+            "hardware": "Preparación inicial: recorrido autónomo por línea y tarea de rescate. Se esperan los parámetros de la pista canadiense.",
+            "entry": "El calendario de la federación indica Open. Confirmar por separado la inscripción, las reglas para equipos extranjeros, el precio y las plazas de cada disciplina."
+          },
+          {
+            "name": "Primary Soccer Entry",
+            "age": "Se anuncia la categoría Primary. Confirmar edad mínima y fecha de corte de nacimiento en el reglamento del Open canadiense.",
+            "age_rule": "Aún no se publican la edad mínima ni su regla de cálculo para el Open canadiense 2027.",
+            "team": "Confirmar formato y composición del equipo en el reglamento de la categoría del Open canadiense 2027.",
+            "hardware": "Fútbol de robots para menores. Confirmar tipo de balón, tamaño del robot y reglas del campo en la versión local.",
+            "entry": "El calendario de la federación indica Open. Confirmar por separado la inscripción, las reglas para equipos extranjeros, el precio y las plazas de cada disciplina."
+          },
+          {
+            "name": "Primary OnStage",
+            "age": "Se anuncia la categoría Primary. Confirmar edad mínima y fecha de corte de nacimiento en el reglamento del Open canadiense.",
+            "age_rule": "Aún no se publican la edad mínima ni su regla de cálculo para el Open canadiense 2027.",
+            "team": "Confirmar formato y composición del equipo en el reglamento de la categoría del Open canadiense 2027.",
+            "hardware": "Actuación escénica con robots. Duración, utilería y formato de entrevista según el reglamento local.",
+            "entry": "El calendario de la federación indica Open. Confirmar por separado la inscripción, las reglas para equipos extranjeros, el precio y las plazas de cada disciplina."
+          },
+          {
+            "name": "Junior Robot primary entry",
+            "age": "Se anuncia la categoría Primary. Confirmar edad mínima y fecha de corte de nacimiento en el reglamento del Open canadiense.",
+            "age_rule": "Aún no se publican la edad mínima ni su regla de cálculo para el Open canadiense 2027.",
+            "team": "Confirmar formato y composición del equipo en el reglamento de la categoría del Open canadiense 2027.",
+            "hardware": "Nombre separado en el anuncio de la federación. La prueba y el reglamento técnico aún no se describen.",
+            "entry": "El calendario de la federación indica Open. Confirmar por separado la inscripción, las reglas para equipos extranjeros, el precio y las plazas de cada disciplina."
+          },
+          {
+            "name": "Soccer Infrared",
+            "age": "En el RoboCupJunior mundial el límite general es de 14–19 años. La organización aún no confirma los límites de esta etapa canadiense.",
+            "age_rule": "Aún no se publican la edad mínima ni su regla de cálculo para el Open canadiense 2027.",
+            "team": "Confirmar formato y composición del equipo en el reglamento de la categoría del Open canadiense 2027.",
+            "hardware": "Robot autónomo para fútbol con balón infrarrojo. Confirmar límites técnicos en la versión local.",
+            "entry": "El calendario de la federación indica Open. Confirmar por separado la inscripción, las reglas para equipos extranjeros, el precio y las plazas de cada disciplina."
+          },
+          {
+            "name": "Soccer Vision",
+            "age": "En el RoboCupJunior mundial el límite general es de 14–19 años. La organización aún no confirma los límites de esta etapa canadiense.",
+            "age_rule": "Aún no se publican la edad mínima ni su regla de cálculo para el Open canadiense 2027.",
+            "team": "Confirmar formato y composición del equipo en el reglamento de la categoría del Open canadiense 2027.",
+            "hardware": "Fútbol robótico con visión artificial. Se confirman tipo de balón, configuración y límites de hardware.",
+            "entry": "El calendario de la federación indica Open. Confirmar por separado la inscripción, las reglas para equipos extranjeros, el precio y las plazas de cada disciplina."
+          },
+          {
+            "name": "Rescue Line",
+            "age": "En el RoboCupJunior mundial el límite general es de 14–19 años. La organización aún no confirma los límites de esta etapa canadiense.",
+            "age_rule": "Aún no se publican la edad mínima ni su regla de cálculo para el Open canadiense 2027.",
+            "team": "Confirmar formato y composición del equipo en el reglamento de la categoría del Open canadiense 2027.",
+            "hardware": "Seguimiento autónomo de línea y misión de rescate según las reglas de la etapa.",
+            "entry": "El calendario de la federación indica Open. Confirmar por separado la inscripción, las reglas para equipos extranjeros, el precio y las plazas de cada disciplina."
+          },
+          {
+            "name": "Rescue Maze",
+            "age": "En el RoboCupJunior mundial el límite general es de 14–19 años. La organización aún no confirma los límites de esta etapa canadiense.",
+            "age_rule": "Aún no se publican la edad mínima ni su regla de cálculo para el Open canadiense 2027.",
+            "team": "Confirmar formato y composición del equipo en el reglamento de la categoría del Open canadiense 2027.",
+            "hardware": "Robot para localizar objetivos en un laberinto. Confirmar dimensiones y tareas locales.",
+            "entry": "El calendario de la federación indica Open. Confirmar por separado la inscripción, las reglas para equipos extranjeros, el precio y las plazas de cada disciplina."
+          },
+          {
+            "name": "Rescue Simulation",
+            "age": "En el RoboCupJunior mundial el límite general es de 14–19 años. La organización aún no confirma los límites de esta etapa canadiense.",
+            "age_rule": "Aún no se publican la edad mínima ni su regla de cálculo para el Open canadiense 2027.",
+            "team": "Confirmar formato y composición del equipo en el reglamento de la categoría del Open canadiense 2027.",
+            "hardware": "Programación en simulación. Aún no se anuncian los requisitos canadienses de plataforma y ordenador.",
+            "entry": "El calendario de la federación indica Open. Confirmar por separado la inscripción, las reglas para equipos extranjeros, el precio y las plazas de cada disciplina."
+          },
+          {
+            "name": "OnStage",
+            "age": "En el RoboCupJunior mundial el límite general es de 14–19 años. La organización aún no confirma los límites de esta etapa canadiense.",
+            "age_rule": "Aún no se publican la edad mínima ni su regla de cálculo para el Open canadiense 2027.",
+            "team": "Confirmar formato y composición del equipo en el reglamento de la categoría del Open canadiense 2027.",
+            "hardware": "Puesta en escena con robots autónomos. Se confirman reglas de duración, evaluación y utilería permitida.",
+            "entry": "El calendario de la federación indica Open. Confirmar por separado la inscripción, las reglas para equipos extranjeros, el precio y las plazas de cada disciplina."
+          }
+        ],
+        "event_ids": [
+          "C5108",
+          "C5109",
+          "C5110",
+          "C5111",
+          "C5112",
+          "C5113",
+          "C5114",
+          "C5115",
+          "C5116",
+          "C5117",
+          "C5118"
+        ],
+        "legacy_ids": [],
+        "route": "El calendario de la federación indica Open. Confirmar por separado la inscripción, las reglas para equipos extranjeros, el precio y las plazas de cada disciplina.",
+        "hardware": "Soccer Infrared, Soccer Vision, Rescue Line, Rescue Maze, Rescue Simulation, OnStage y categorías Primary por separado.",
+        "language": "Anuncio en inglés. Confirmar el idioma del jurado y de la entrevista presencial.",
+        "importance": "Etapa nacional",
+        "strengths": "Open canadiense con Primary, las disciplinas centrales de RoboCupJunior y demostración de humanoides.",
+        "requirements": [
+          "Confirmar formato y composición del equipo en el reglamento de la categoría del Open canadiense 2027.",
+          "El calendario de la federación indica Open. Confirmar por separado la inscripción, las reglas para equipos extranjeros, el precio y las plazas de cada disciplina."
+        ],
+        "nuances": [
+          "El archivo canadiense muestra ejemplos de 2–4 participantes y mentor, hasta 5 para OnStage. Estas condiciones no están establecidas para la edición 2027.",
+          "La franja de 10–14 años del archivo canadiense se indica para Americas SuperRegional 2026. Aún no está confirmada para Canada Open 2027.",
+          "Comprobar clasificación y posibles plazas en las bases del Canada Open. Es un evento separado del Americas SuperRegional y de la final mundial."
+        ],
+        "cost": "Aún no se confirman el coste total ni las plazas.",
+        "award": "Comprobar clasificación y posibles plazas en las bases del Canada Open. Es un evento separado del Americas SuperRegional y de la final mundial.",
+        "sources": [
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://robocup.org/events/91",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://robocupcanada.ca/2025/index.php",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://robocup-junior.github.io/general-rules/main/general-rules.html",
+            "checked": "2026-11-09"
+          },
+          {
+            "title": "Página de la organización o reglamento de la categoría.",
+            "url": "https://www.richmondhill.ca/en/things-to-do/richmond-green-sports-centre-and-park.aspx",
+            "checked": "2026-11-09"
+          }
+        ],
+        "evidence": "Cotejado con la página oficial y las condiciones publicadas."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -32310,7 +32458,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "Perfiles de ligas, familias de ligas y programas: 329. Se conservan las 46 rutas anteriores. Los formatos brasileños figuran por separado. Robofest LATAM y BajaBot se describen según sus categorías locales. La cobertura mundial es parcial.",
+    "methodology": "Perfiles de ligas, familias de ligas y programas: 330. Se conservan las 46 rutas anteriores. Los formatos brasileños figuran por separado. Robofest LATAM y BajaBot se describen según sus categorías locales. La cobertura mundial es parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

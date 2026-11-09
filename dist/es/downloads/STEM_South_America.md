@@ -3452,7 +3452,7 @@ Acceso: La muestra está abierta al público según las preguntas frecuentes. No
 Precio: Las preguntas frecuentes no indican tarifa para espectadores.
 Limitaciones: Zona de eventos del centro comercial junto a la tienda Adidas. Cada disciplina tiene su propio horario.
 Fuente: https://olimpiadasroboticaup.com/
-Se ha comprobado: 2026-11-07
+Se ha comprobado: 2026-11-09
 
 ### C3501 · XIX Olimpiadas de Robótica · Exhibición Junior
 

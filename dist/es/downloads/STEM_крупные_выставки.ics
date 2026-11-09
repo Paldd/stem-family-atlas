@@ -2482,11 +2482,53 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E234@family-stem.local
-DTSTAMP:20261108T165530Z
+DTSTAMP:20261109T101001Z
 SUMMARY:[Exposición · confirmar admisión de menores] ROBO Africa 2026 
  · Port Louis · RGSC · Bell Village
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261126
+DTSTART:20261123T053000Z
+DTEND:20261123T123000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. El centro d
+ escribe la visita libre a algunas piezas de 09:30 a 16:30. Confirmar acc
+ eso de menores\, entrada al recinto y condiciones específicas. Entrada 
+ de adultos: Gratuito según el programa del centro científico.. El cent
+ ro describe la visita libre a algunas piezas de 09:30 a 16:30. Confirmar
+  acceso de menores\, entrada al recinto y condiciones específicas. Empr
+ esas: Demostraciones de robots y proyectos educativos de RV.. Fuente ver
+ ificada el 2026-11-08.
+LOCATION:Rajiv Gandhi Science Centre · Bell Village · Port Louis\, Maur
+ icio
+URL:https://rgsc.govmu.org/rgsc/?page_id=648171
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E234-visit-2026-11-24@family-stem.local
+DTSTAMP:20261109T101001Z
+SUMMARY:[Exposición · confirmar admisión de menores] ROBO Africa 2026 
+ · Port Louis · RGSC · Bell Village
+DTSTART:20261124T053000Z
+DTEND:20261124T123000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. El centro d
+ escribe la visita libre a algunas piezas de 09:30 a 16:30. Confirmar acc
+ eso de menores\, entrada al recinto y condiciones específicas. Entrada 
+ de adultos: Gratuito según el programa del centro científico.. El cent
+ ro describe la visita libre a algunas piezas de 09:30 a 16:30. Confirmar
+  acceso de menores\, entrada al recinto y condiciones específicas. Empr
+ esas: Demostraciones de robots y proyectos educativos de RV.. Fuente ver
+ ificada el 2026-11-08.
+LOCATION:Rajiv Gandhi Science Centre · Bell Village · Port Louis\, Maur
+ icio
+URL:https://rgsc.govmu.org/rgsc/?page_id=648171
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E234-visit-2026-11-25@family-stem.local
+DTSTAMP:20261109T101001Z
+SUMMARY:[Exposición · confirmar admisión de menores] ROBO Africa 2026 
+ · Port Louis · RGSC · Bell Village
+DTSTART:20261125T053000Z
+DTEND:20261125T123000Z
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. El centro d
  escribe la visita libre a algunas piezas de 09:30 a 16:30. Confirmar acc
  eso de menores\, entrada al recinto y condiciones específicas. Entrada 
@@ -5488,11 +5530,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E476@family-stem.local
-DTSTAMP:20261108T012514Z
+DTSTAMP:20261109T101001Z
 SUMMARY:[Exposición · visita en familia] XIX Olimpiadas de Robótica ·
   Cúcuta · visita
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261213
+DTSTART:20261211T140000Z
+DTEND:20261211T230000Z
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. La muestra 
  está abierta al público según las preguntas frecuentes. No se indican
   precio de entrada ni condiciones de zonas específicas. Entrada de adul
@@ -5501,7 +5543,28 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. La muestra
  . Zona de eventos del centro comercial junto a la tienda Adidas. Cada di
  sciplina tiene su propio horario. Empresas: Un jurado evalúa las muestr
  as. Horario público publicado\, programa de disciplinas pendiente.. Fue
- nte verificada el 2026-11-07.
+ nte verificada el 2026-11-09.
+LOCATION:C. C. Jardín Plaza · Cúcuta · Norte de Santander\, Colombia
+URL:https://olimpiadasroboticaup.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E476-visit-2026-12-12@family-stem.local
+DTSTAMP:20261109T101001Z
+SUMMARY:[Exposición · visita en familia] XIX Olimpiadas de Robótica ·
+  Cúcuta · visita
+DTSTART:20261212T140000Z
+DTEND:20261212T230000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. La muestra 
+ está abierta al público según las preguntas frecuentes. No se indican
+  precio de entrada ni condiciones de zonas específicas. Entrada de adul
+ tos: La muestra está abierta al público según las preguntas frecuente
+ s. No se indican precio de entrada ni condiciones de zonas específicas.
+ . Zona de eventos del centro comercial junto a la tienda Adidas. Cada di
+ sciplina tiene su propio horario. Empresas: Un jurado evalúa las muestr
+ as. Horario público publicado\, programa de disciplinas pendiente.. Fue
+ nte verificada el 2026-11-09.
 LOCATION:C. C. Jardín Plaza · Cúcuta · Norte de Santander\, Colombia
 URL:https://olimpiadasroboticaup.com/
 STATUS:TENTATIVE
@@ -7687,10 +7750,50 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E612@family-stem.local
-DTSTAMP:20261108T165530Z
+DTSTAMP:20261109T101001Z
 SUMMARY:[Exposición · visita en familia] Nedbank rAge Nation 2026
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261130
+DTSTART:20261127T070000Z
+DTEND:20261127T160000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Elegir la e
+ ntrada al festival. BYOC LAN requiere entrada aparte. Cada torneo o vide
+ ojuego tiene sus reglas de edad. Entrada de adultos: Gratis para menores
+  de 7 años. Para el resto\, comprobar precio del día y cargos en la ta
+ quilla oficial.. Cada día de 09:00 a 18:00. La gratuidad depende de la 
+ edad el día de visita. El aparcamiento tiene condiciones y posibles car
+ gos propios. Empresas: Videojuegos\, estudios locales\, deportes electr
+ ónicos\, dispositivos y zonas interactivas.. Fuente verificada el 2026-
+ 11-08.
+LOCATION:Fourways Mall · Rooftop Level 8 · Johannesburg\, Sudáfrica
+URL:https://ragenation.gg/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E612-visit-2026-11-28@family-stem.local
+DTSTAMP:20261109T101001Z
+SUMMARY:[Exposición · visita en familia] Nedbank rAge Nation 2026
+DTSTART:20261128T070000Z
+DTEND:20261128T160000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Elegir la e
+ ntrada al festival. BYOC LAN requiere entrada aparte. Cada torneo o vide
+ ojuego tiene sus reglas de edad. Entrada de adultos: Gratis para menores
+  de 7 años. Para el resto\, comprobar precio del día y cargos en la ta
+ quilla oficial.. Cada día de 09:00 a 18:00. La gratuidad depende de la 
+ edad el día de visita. El aparcamiento tiene condiciones y posibles car
+ gos propios. Empresas: Videojuegos\, estudios locales\, deportes electr
+ ónicos\, dispositivos y zonas interactivas.. Fuente verificada el 2026-
+ 11-08.
+LOCATION:Fourways Mall · Rooftop Level 8 · Johannesburg\, Sudáfrica
+URL:https://ragenation.gg/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E612-visit-2026-11-29@family-stem.local
+DTSTAMP:20261109T101001Z
+SUMMARY:[Exposición · visita en familia] Nedbank rAge Nation 2026
+DTSTART:20261129T070000Z
+DTEND:20261129T160000Z
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Elegir la e
  ntrada al festival. BYOC LAN requiere entrada aparte. Cada torneo o vide
  ojuego tiene sus reglas de edad. Entrada de adultos: Gratis para menores
@@ -7878,11 +7981,79 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E628@family-stem.local
-DTSTAMP:20261108T180303Z
+DTSTAMP:20261109T101001Z
 SUMMARY:[Exposición · confirmar admisión de menores] Village des Scien
  ces · Bik’Lab Microfusées
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261120
+DTSTART:20261117T130000Z
+DTEND:20261117T160000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Talleres gr
+ atuitos. Los temas dependen de los monitores presentes. Confirmar edad y
+  acceso familiar. Entrada de adultos: Gratuito..  Empresas: Microcohetes
+ \, impresión 3D\, fabricación de ojivas y cálculo de trayectorias.. F
+ uente verificada el 2026-11-08.
+LOCATION:Lycée Charles Coeffin · Baie-Mahault\, Guadalupe
+URL:https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/ProgFDS2026.pdf
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E628-visit-2026-11-17-2@family-stem.local
+DTSTAMP:20261109T101001Z
+SUMMARY:[Exposición · confirmar admisión de menores] Village des Scien
+ ces · Bik’Lab Microfusées
+DTSTART:20261117T180000Z
+DTEND:20261117T210000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Talleres gr
+ atuitos. Los temas dependen de los monitores presentes. Confirmar edad y
+  acceso familiar. Entrada de adultos: Gratuito..  Empresas: Microcohetes
+ \, impresión 3D\, fabricación de ojivas y cálculo de trayectorias.. F
+ uente verificada el 2026-11-08.
+LOCATION:Lycée Charles Coeffin · Baie-Mahault\, Guadalupe
+URL:https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/ProgFDS2026.pdf
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E628-visit-2026-11-18@family-stem.local
+DTSTAMP:20261109T101001Z
+SUMMARY:[Exposición · confirmar admisión de menores] Village des Scien
+ ces · Bik’Lab Microfusées
+DTSTART:20261118T130000Z
+DTEND:20261118T160000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Talleres gr
+ atuitos. Los temas dependen de los monitores presentes. Confirmar edad y
+  acceso familiar. Entrada de adultos: Gratuito..  Empresas: Microcohetes
+ \, impresión 3D\, fabricación de ojivas y cálculo de trayectorias.. F
+ uente verificada el 2026-11-08.
+LOCATION:Lycée Charles Coeffin · Baie-Mahault\, Guadalupe
+URL:https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/ProgFDS2026.pdf
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E628-visit-2026-11-19@family-stem.local
+DTSTAMP:20261109T101001Z
+SUMMARY:[Exposición · confirmar admisión de menores] Village des Scien
+ ces · Bik’Lab Microfusées
+DTSTART:20261119T130000Z
+DTEND:20261119T160000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Talleres gr
+ atuitos. Los temas dependen de los monitores presentes. Confirmar edad y
+  acceso familiar. Entrada de adultos: Gratuito..  Empresas: Microcohetes
+ \, impresión 3D\, fabricación de ojivas y cálculo de trayectorias.. F
+ uente verificada el 2026-11-08.
+LOCATION:Lycée Charles Coeffin · Baie-Mahault\, Guadalupe
+URL:https://www.archipel-des-sciences.org/wp-content/uploads/2026/03/ProgFDS2026.pdf
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E628-visit-2026-11-19-2@family-stem.local
+DTSTAMP:20261109T101001Z
+SUMMARY:[Exposición · confirmar admisión de menores] Village des Scien
+ ces · Bik’Lab Microfusées
+DTSTART:20261119T180000Z
+DTEND:20261119T210000Z
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Talleres gr
  atuitos. Los temas dependen de los monitores presentes. Confirmar edad y
   acceso familiar. Entrada de adultos: Gratuito..  Empresas: Microcohetes
@@ -7895,11 +8066,47 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E629@family-stem.local
-DTSTAMP:20261108T180303Z
+DTSTAMP:20261109T101001Z
 SUMMARY:[Exposición · visita en familia] OVSM-IPGP · Observatoire volc
  anologique et sismologique
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T130000Z
+DTEND:20261114T134500Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Gratuito co
+ n reserva. Hasta 30 visitantes por sesión. El programa indica grupos es
+ colares separados el 12 de noviembre. Entrada de adultos: Gratuito..  Em
+ presas: Visita al observatorio. Observaciones sismológicas\, infraestru
+ ctura y trabajo de investigadores.. Fuente verificada el 2026-11-08.
+LOCATION:Habitation Blondel\, Morne la Rosette · Saint-Pierre\, Martinic
+ a
+URL:https://www.fetedelascience.fr/visite-guidee-de-l-observatoire-volcanologique-et-sismologique-de-la-martinique-ovsm-ipgp-1
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E629-visit-2026-11-14-2@family-stem.local
+DTSTAMP:20261109T101001Z
+SUMMARY:[Exposición · visita en familia] OVSM-IPGP · Observatoire volc
+ anologique et sismologique
+DTSTART:20261114T140000Z
+DTEND:20261114T144500Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Gratuito co
+ n reserva. Hasta 30 visitantes por sesión. El programa indica grupos es
+ colares separados el 12 de noviembre. Entrada de adultos: Gratuito..  Em
+ presas: Visita al observatorio. Observaciones sismológicas\, infraestru
+ ctura y trabajo de investigadores.. Fuente verificada el 2026-11-08.
+LOCATION:Habitation Blondel\, Morne la Rosette · Saint-Pierre\, Martinic
+ a
+URL:https://www.fetedelascience.fr/visite-guidee-de-l-observatoire-volcanologique-et-sismologique-de-la-martinique-ovsm-ipgp-1
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E629-visit-2026-11-14-3@family-stem.local
+DTSTAMP:20261109T101001Z
+SUMMARY:[Exposición · visita en familia] OVSM-IPGP · Observatoire volc
+ anologique et sismologique
+DTSTART:20261114T150000Z
+DTEND:20261114T154500Z
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Gratuito co
  n reserva. Hasta 30 visitantes por sesión. El programa indica grupos es
  colares separados el 12 de noviembre. Entrada de adultos: Gratuito..  Em
@@ -8159,11 +8366,30 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E644@family-stem.local
-DTSTAMP:20261108T193839Z
+DTSTAMP:20261109T101001Z
 SUMMARY:[Exposición · visita en familia] Neurofest 2026 · Neuroplastic
  idad: una experiencia inmersiva
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261129
+DTSTART:20261127T160000Z
+DTEND:20261127T210000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Desde 8 añ
+ os\, para escolares de primaria en adelante. Entrada de adultos: Las act
+ ividades de la sala requieren entrada de Universum. Cada actividad tiene
+  edad\, horario y aforo propios..  Empresas: Demostración interactiva c
+ on robot\, proyecciones y sensores T-Room.. Fuente verificada el 2026-11
+ -08.
+LOCATION:Universum UNAM · Ciudad Universitaria · Ciudad de México · S
+ ala El Cerebro\, nuestro puente con el mundo\, México
+URL:https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E644-visit-2026-11-28@family-stem.local
+DTSTAMP:20261109T101001Z
+SUMMARY:[Exposición · visita en familia] Neurofest 2026 · Neuroplastic
+ idad: una experiencia inmersiva
+DTSTART:20261128T160000Z
+DTEND:20261128T210000Z
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Desde 8 añ
  os\, para escolares de primaria en adelante. Entrada de adultos: Las act
  ividades de la sala requieren entrada de Universum. Cada actividad tiene
@@ -8178,11 +8404,29 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E645@family-stem.local
-DTSTAMP:20261108T193839Z
+DTSTAMP:20261109T101001Z
 SUMMARY:[Exposición · visita en familia] Neurofest 2026 · ¡Cerebro en
   vivo! Ondas\, arte y pensamientos en tiempo real
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261129
+DTSTART:20261127T160000Z
+DTEND:20261127T210000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Desde 8 añ
+ os\, para escolares de primaria en adelante. Entrada de adultos: Las act
+ ividades de la sala requieren entrada de Universum. Cada actividad tiene
+  edad\, horario y aforo propios..  Empresas: Demostración de medición 
+ de ondas cerebrales por EEG.. Fuente verificada el 2026-11-08.
+LOCATION:Universum UNAM · Ciudad Universitaria · Ciudad de México · S
+ ala El Cerebro\, nuestro puente con el mundo\, México
+URL:https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E645-visit-2026-11-28@family-stem.local
+DTSTAMP:20261109T101001Z
+SUMMARY:[Exposición · visita en familia] Neurofest 2026 · ¡Cerebro en
+  vivo! Ondas\, arte y pensamientos en tiempo real
+DTSTART:20261128T160000Z
+DTEND:20261128T210000Z
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Desde 8 añ
  os\, para escolares de primaria en adelante. Entrada de adultos: Las act
  ividades de la sala requieren entrada de Universum. Cada actividad tiene
@@ -8196,11 +8440,30 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E646@family-stem.local
-DTSTAMP:20261108T193839Z
+DTSTAMP:20261109T101001Z
 SUMMARY:[Exposición · visita en familia] Neurofest 2026 · Neurorrehabi
  litación robótica: pasos que inspiran
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261129
+DTSTART:20261127T160000Z
+DTEND:20261127T210000Z
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Desde 8 añ
+ os\, para escolares de primaria en adelante. Entrada de adultos: Las act
+ ividades de la sala requieren entrada de Universum. Cada actividad tiene
+  edad\, horario y aforo propios..  Empresas: Demostración de exoesquele
+ tos robóticos para neurorehabilitación.. Fuente verificada el 2026-11-
+ 08.
+LOCATION:Universum UNAM · Ciudad Universitaria · Ciudad de México · S
+ ala El Cerebro\, nuestro puente con el mundo\, México
+URL:https://www.universum.unam.mx/actividades/e/388/neurofest-2026
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E646-visit-2026-11-28@family-stem.local
+DTSTAMP:20261109T101001Z
+SUMMARY:[Exposición · visita en familia] Neurofest 2026 · Neurorrehabi
+ litación robótica: pasos que inspiran
+DTSTART:20261128T160000Z
+DTEND:20261128T210000Z
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Desde 8 añ
  os\, para escolares de primaria en adelante. Entrada de adultos: Las act
  ividades de la sala requieren entrada de Universum. Cada actividad tiene

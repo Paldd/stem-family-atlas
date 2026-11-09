@@ -870,12 +870,12 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 338,
+    "version": 339,
     "status": "implementation_snapshot",
-    "events": 11488,
-    "competitions": 5106,
-    "league_profiles": 329,
-    "camp_dossiers": 2259,
+    "events": 11508,
+    "competitions": 5117,
+    "league_profiles": 330,
+    "camp_dossiers": 2264,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 737,
+    "exhibitions_events": 738,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 336,
+    "version": 338,
     "status": "implementation_snapshot",
-    "events": 11474,
-    "competitions": 5098,
-    "league_profiles": 327,
-    "camp_dossiers": 2258,
+    "events": 11488,
+    "competitions": 5106,
+    "league_profiles": 329,
+    "camp_dossiers": 2259,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 735,
+    "exhibitions_events": 737,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 338,
+    "prepared_ui_version": 339,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 337,
-    "previous_verified_commit": "402462ff27ce346ab4ce8b9ef0edd87540c2bcf8"
+    "previous_verified_ui_version": 338,
+    "previous_verified_commit": "760a77d68a3423cf9c2a7be3633b7afe5cec2e3c"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 337,
-    "published_version": 337,
-    "latest_source_commit": "402462ff27ce346ab4ce8b9ef0edd87540c2bcf8",
-    "published_commit": "402462ff27ce346ab4ce8b9ef0edd87540c2bcf8",
-    "latest_workflow": 42593572091,
+    "latest_source_version": 338,
+    "published_version": 338,
+    "latest_source_commit": "760a77d68a3423cf9c2a7be3633b7afe5cec2e3c",
+    "published_commit": "760a77d68a3423cf9c2a7be3633b7afe5cec2e3c",
+    "latest_workflow": 42596594586,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -35620,5 +35620,73 @@
     "mrc_event_id": "C1634",
     "p3_event_id": "C5107",
     "nova_dossier": "CP2259"
+  },
+  "robocup_canada_and_family_maker_camps_v339": {
+    "version": 339,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C5108",
+      "C5109",
+      "C5110",
+      "C5111",
+      "C5112",
+      "C5113",
+      "C5114",
+      "C5115",
+      "C5116",
+      "C5117",
+      "C5118",
+      "E738",
+      "CP2260-20261221-20261224-polar",
+      "CP2260-20261228-20261231-makerland",
+      "CP2261-20270315-20270319-maker-madness",
+      "CP2262-20261221-20261224-polar",
+      "CP2262-20261228-20261231-makerland",
+      "CP2263-20270315-20270319-maker-madness",
+      "CP2264-20270705-20270709-week-1",
+      "CP2264-20270712-20270716-week-2"
+    ],
+    "refreshed_event_ids": [
+      "E476"
+    ],
+    "new_dossier_ids": [
+      "CP2260",
+      "CP2261",
+      "CP2262",
+      "CP2263",
+      "CP2264"
+    ],
+    "new_league_ids": [
+      "robocup-canada-open"
+    ],
+    "legacy_overlay_event_ids": [
+      "E476"
+    ],
+    "source_requests": 12,
+    "canada_open_event_id": "C5108",
+    "canada_open_category_ids": [
+      "C5109",
+      "C5110",
+      "C5111",
+      "C5112",
+      "C5113",
+      "C5114",
+      "C5115",
+      "C5116",
+      "C5117",
+      "C5118"
+    ],
+    "canada_demo_event_id": "E738",
+    "cucuta_visitor_event_id": "E476",
+    "cucuta_timed_public_days": 2,
+    "canada_maker_dossiers": {
+      "steam-project-richmond-hill-winter": "CP2260",
+      "steam-project-richmond-hill-march": "CP2261",
+      "steam-project-markham-winter": "CP2262",
+      "steam-project-markham-march": "CP2263"
+    },
+    "mingorria_dossier": "CP2264"
   }
 }
