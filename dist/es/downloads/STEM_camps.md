@@ -85942,6 +85942,22 @@ Limitaciones: Matvey: Encaja por edad según el formulario. Confirmar plaza e id
 Fuente: https://enrolmy.com/icode-school/activity/1428-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Thursday_7th_January_G
 Se ha comprobado: 2026-11-08
 
+### CP2156-20270112-20270112-jan12 · iCode School Geelong · Coding for Beginners PLUS Robotics · Coding for Beginners PLUS Robotics · 2027-01-12–2027-01-12
+
+lugar: Australia · iCode School · 1/124 High St · Belmont, Geelong
+Fecha: 2027-01-12 — 2027-01-12
+edad: 5–18 años según el formulario del grupo. La página general del programa indica 5–16 años.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · AUD 150 por niño y día. · suplementos y condiciones en el dossier
+Acceso: Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+Limitaciones: Matvey: Encaja por edad según el formulario. Confirmar plaza e idioma docente. Oscar: Encaja por edad según el formulario. Confirmar plaza e idioma docente. Suplementos: Confirmar plaza, edad e idioma docente. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://enrolmy.com/icode-school/activity/1391-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Tuesday_12th_January_G
+Se ha comprobado: 2026-11-08
+
 ### CP2156-20270114-20270114-jan14 · iCode School Geelong · Coding for Beginners PLUS Robotics · Coding for Beginners PLUS Robotics · 2027-01-14–2027-01-14
 
 lugar: Australia · iCode School · 1/124 High St · Belmont, Geelong
@@ -86132,6 +86148,86 @@ Precio: 2027 · USD 90 por participante por el curso. · suplementos y condicion
 Acceso: Inscripción al curso 22070 hasta el 13 de enero de 2027 según la tabla del condado. Cotejar número de programa y plazas en el sistema del condado.
 Limitaciones: Matvey: Encaja por edad según el formulario. Confirmar plaza e idioma docente. Oscar: Encaja por edad según el formulario. Confirmar plaza e idioma docente. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
 Fuente: https://www.piercecountywa.gov/3806/Bricks-4-Kidz-Legos-CampsClasses
+Se ha comprobado: 2026-11-08
+
+### CP2163-20261119-20261119-20261119 · Cleverlike · Digital Rube Goldberg preparation · Getting Started with the Rube Goldberg Learning Kit · 2026-11-19–2026-11-19
+
+lugar: Estados Unidos · Online · Cleverlike YouTube
+Fecha: 2026-11-19 国 2026-11-19
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Acceso: Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.
+Limitaciones: Matvey: Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio. Oscar: Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.cleverlike.com/rube-goldberg
+Se ha comprobado: 2026-11-08
+
+### CP2163-20261208-20261208-20261208 · Cleverlike · Digital Rube Goldberg preparation · Meeting the Challenge (Using the Switch) · 2026-12-08–2026-12-08
+
+lugar: Estados Unidos · Online · Cleverlike YouTube
+Fecha: 2026-12-08 — 2026-12-08
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Acceso: Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.
+Limitaciones: Matvey: Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio. Oscar: Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.cleverlike.com/rube-goldberg
+Se ha comprobado: 2026-11-08
+
+### CP2163-20270217-20270217-20270217 · Cleverlike · Digital Rube Goldberg preparation · Deep Dive into Switch Mechanics · 2027-02-17–2027-02-17
+
+lugar: Estados Unidos · Online · Cleverlike YouTube
+Fecha: 2027-02-17 — 2027-02-17
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Acceso: Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.
+Limitaciones: Matvey: Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio. Oscar: Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.cleverlike.com/rube-goldberg
+Se ha comprobado: 2026-11-08
+
+### CP2163-20270317-20270317-20270317 · Cleverlike · Digital Rube Goldberg preparation · Preparing for Submission · 2027-03-17–2027-03-17
+
+lugar: Estados Unidos · Online · Cleverlike YouTube
+Fecha: 2027-03-17 — 2027-03-17
+edad: Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · Aún no se confirman el coste total ni las plazas. · suplementos y condiciones en el dossier
+Acceso: Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.
+Limitaciones: Matvey: Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio. Oscar: Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio. Suplementos: Confirmar el coste final y las condiciones de devolución con la organización. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://www.cleverlike.com/rube-goldberg
+Se ha comprobado: 2026-11-08
+
+### CP2164-20270119-20270119-jan19 · iCode School Geelong · Minecraft 2.0 · Minecraft 2.0 · 2027-01-19–2027-01-19
+
+lugar: Australia · iCode School · 1/124 High St · Belmont, Geelong
+Fecha: 2027-01-19 — 2027-01-19
+edad: 5–18 años según el formulario del grupo. La página general del programa indica 5–16 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2027 · AUD 150 por niño y día. · suplementos y condiciones en el dossier
+Acceso: Confirmar plaza, edad e idioma docente.
+Limitaciones: Matvey: Encaja por edad. La organización espera familiaridad con el juego. Oscar: Encaja por edad. La organización espera familiaridad con el juego. Suplementos: Confirmar plaza, edad e idioma docente. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://enrolmy.com/icode-school/activity/1399-Holiday_Program_Minecraft_2_0_9_00_3_00_Tuesday_19th_January_G
 Se ha comprobado: 2026-11-08
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

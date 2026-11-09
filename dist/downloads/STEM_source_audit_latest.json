@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11204,
-    "competition_cards": 5034,
-    "event_cards": 711,
-    "camp_cards": 5459,
+    "cards": 11219,
+    "competition_cards": 5039,
+    "event_cards": 715,
+    "camp_cards": 5465,
     "league_profiles": 321,
-    "major_exhibition_cards": 611,
+    "major_exhibition_cards": 615,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 3626,
+      "total": 3630,
       "countries_with_records": 41,
       "competitions": 2037,
       "events": 198,
       "major_exhibitions": 156,
-      "camps": 1391,
+      "camps": 1395,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -62,11 +62,11 @@
       "regions": [
         "Европа"
       ],
-      "total": 2469,
+      "total": 2474,
       "countries_with_records": 55,
-      "competitions": 720,
-      "events": 175,
-      "major_exhibitions": 150,
+      "competitions": 721,
+      "events": 179,
+      "major_exhibitions": 154,
       "camps": 1574,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
@@ -76,9 +76,9 @@
       "regions": [
         "Африка"
       ],
-      "total": 479,
+      "total": 480,
       "countries_with_records": 60,
-      "competitions": 271,
+      "competitions": 272,
       "events": 52,
       "major_exhibitions": 45,
       "camps": 156,
@@ -104,12 +104,12 @@
       "regions": [
         "Океания"
       ],
-      "total": 571,
+      "total": 573,
       "countries_with_records": 27,
       "competitions": 175,
       "events": 36,
       "major_exhibitions": 32,
-      "camps": 360,
+      "camps": 362,
       "status": "Частично исследовано",
       "remaining": "Добавлены Fiji tourist camp, NZ реальные учебные дни, Australian national game/video contests и закрытый школьный архив French Polynesia. Остаются языки / foreign admission лагерей, динамический RCJA calendar, другие острова и локальные турниры."
     }
@@ -5571,11 +5571,13 @@
         "C2012",
         "C2013",
         "C4459",
+        "C5039",
+        "C5040",
         "C1929"
       ],
-      "cards": 51,
+      "cards": 53,
       "future_dated": 3,
-      "linked_card_count": 51,
+      "linked_card_count": 53,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf",
       "new": false
@@ -15982,6 +15984,50 @@
       "new": false
     },
     {
+      "id": "E712",
+      "name": "B’ROBOTICS XXL 2027 · Business and Student Day",
+      "country": "Нидерланды (Королевство)",
+      "region": "Европа",
+      "start": "2027-05-26",
+      "end": "2027-05-26",
+      "visitor_policy": "confirm_children",
+      "source": "https://b-robotics.eu/en/breda-robotics-xxl-event/",
+      "new": false
+    },
+    {
+      "id": "E713",
+      "name": "B’ROBOTICS XXL 2027 · International Day",
+      "country": "Нидерланды (Королевство)",
+      "region": "Европа",
+      "start": "2027-05-27",
+      "end": "2027-05-27",
+      "visitor_policy": "confirm_children",
+      "source": "https://b-robotics.eu/en/breda-robotics-xxl-event/",
+      "new": false
+    },
+    {
+      "id": "E714",
+      "name": "B’ROBOTICS XXL 2027 · Public and Family Day",
+      "country": "Нидерланды (Королевство)",
+      "region": "Европа",
+      "start": "2027-05-29",
+      "end": "2027-05-29",
+      "visitor_policy": "family",
+      "source": "https://b-robotics.eu/en/breda-robotics-xxl-event/",
+      "new": false
+    },
+    {
+      "id": "E715",
+      "name": "EXO Berlin 2027 · Assistive Robotics",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2027-06-15",
+      "end": "2027-06-16",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.exo-berlin.de/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -17362,7 +17408,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 189,
+  "interregional_cards": 192,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Тайвань",
@@ -18399,8 +18445,8 @@
       }
     ],
     "counts": {
-      "records": 5459,
-      "holiday": 4909,
+      "records": 5465,
+      "holiday": 4911,
       "regular": 210,
       "self_paced_materials": 4,
       "boarding": 1039,

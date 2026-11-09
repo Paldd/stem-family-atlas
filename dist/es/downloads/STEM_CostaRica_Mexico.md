@@ -5836,9 +5836,9 @@ edad: Confirmar con la organización la edad, la cuota aparte y las reglas de pa
 Matvey: Condicional. Se requiere confirmar la admisión del menor al torneo concreto.
 Oscar: Condicional. Se requiere confirmar la admisión del menor al torneo concreto.
 Idioma: El programa está publicado en español. Confirmar el idioma del arbitraje y de las cartas.
-Acceso: Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.
+Acceso: El enlace de la organización lleva a un formulario marcado 2026. Confirmar aparte tarifa, inscripción y reglas para 2027.
 Precio: La entrada general es gratuita para niños de 0–6 años. Confirmar el precio de las demás entradas y cualquier cuota del torneo.
-Limitaciones: La organización señala que el horario de actividades de juego es provisional.
+Limitaciones: El enlace de la organización lleva a un formulario marcado 2026. Confirmar aparte tarifa, inscripción y reglas para 2027.
 Fuente: https://animaconcr.com/schedule
 Se ha comprobado: 2026-11-08
 
@@ -5849,9 +5849,9 @@ edad: Confirmar con la organización la edad, la cuota aparte y las reglas de pa
 Matvey: Condicional. Se requiere confirmar la admisión del menor al torneo concreto.
 Oscar: Condicional. Se requiere confirmar la admisión del menor al torneo concreto.
 Idioma: El programa está publicado en español. Confirmar el idioma del arbitraje y de las cartas.
-Acceso: Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.
+Acceso: El enlace de la organización lleva a un formulario marcado 2026. Confirmar aparte tarifa, inscripción y reglas para 2027.
 Precio: La entrada general es gratuita para niños de 0–6 años. Confirmar el precio de las demás entradas y cualquier cuota del torneo.
-Limitaciones: La organización señala que el horario de actividades de juego es provisional.
+Limitaciones: El enlace de la organización lleva a un formulario marcado 2026. Confirmar aparte tarifa, inscripción y reglas para 2027.
 Fuente: https://animaconcr.com/schedule
 Se ha comprobado: 2026-11-08
 
@@ -5862,9 +5862,9 @@ edad: Confirmar con la organización la edad, la cuota aparte y las reglas de pa
 Matvey: Condicional. Se requiere confirmar la admisión del menor al torneo concreto.
 Oscar: Condicional. Se requiere confirmar la admisión del menor al torneo concreto.
 Idioma: El programa está publicado en español. Confirmar el idioma del arbitraje y de las cartas.
-Acceso: Confirmar con la organización la edad, la cuota aparte y las reglas de participación infantil en el torneo.
+Acceso: El enlace de la organización lleva a un formulario marcado 2026. Confirmar aparte tarifa, inscripción y reglas para 2027.
 Precio: La entrada general es gratuita para niños de 0–6 años. Confirmar el precio de las demás entradas y cualquier cuota del torneo.
-Limitaciones: La organización señala que el horario de actividades de juego es provisional.
+Limitaciones: El enlace de la organización lleva a un formulario marcado 2026. Confirmar aparte tarifa, inscripción y reglas para 2027.
 Fuente: https://animaconcr.com/activities
 Se ha comprobado: 2026-11-08
 

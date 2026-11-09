@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2162,
+    "dossiers": 2164,
     "countries": 140,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 297,
-      "published_2027": 586,
+      "published_2027": 588,
       "partial_2027": 154,
       "next_unannounced": 440,
       "published_2026": 433,
@@ -49,12 +49,12 @@
       "confirmed_2027": 1,
       "recurring_tbd": 3
     },
-    "source_urls": 3090
+    "source_urls": 3094
   },
   "countries": [
     {
       "country": "Australia",
-      "count": 33
+      "count": 34
     },
     {
       "country": "Austria",
@@ -478,7 +478,7 @@
     },
     {
       "country": "Estados Unidos",
-      "count": 169
+      "count": 170
     },
     {
       "country": "Surinam",
@@ -377989,6 +377989,10 @@
             "2027-01-07"
           ],
           [
+            "2027-01-12",
+            "2027-01-12"
+          ],
+          [
             "2027-01-14",
             "2027-01-14"
           ],
@@ -378009,6 +378013,28 @@
             "label": "Coding for Beginners PLUS Robotics",
             "price": "AUD 150 por niño y día.",
             "source": "https://enrolmy.com/icode-school/activity/1428-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Thursday_7th_January_G",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "iCode School · 1/124 High St · Belmont, Geelong",
+            "entry": "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "questions": [
+              "Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.",
+              "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización."
+            ]
+          },
+          {
+            "variant_key": "jan12",
+            "start": "2027-01-12",
+            "end": "2027-01-12",
+            "label": "Coding for Beginners PLUS Robotics",
+            "price": "AUD 150 por niño y día.",
+            "source": "https://enrolmy.com/icode-school/activity/1391-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Tuesday_12th_January_G",
             "date_scope": "camp_window",
             "delivery_mode": "in_person",
             "availability": {
@@ -378147,6 +378173,11 @@
           "url": "https://enrolmy.com/icode-school/activity/1397-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Wednesday_20th_January_G",
           "title": "Página de la organización o reglamento de la categoría.",
           "checked": "2026-11-08"
+        },
+        {
+          "url": "https://enrolmy.com/icode-school/activity/1391-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Tuesday_12th_January_G",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
         }
       ],
       "checked": "2026-11-08",
@@ -378165,6 +378196,14 @@
           "kind": "catalogue_session",
           "event_ids": [
             "CP2156-20270107-20270107-jan7"
+          ]
+        },
+        {
+          "start": "2027-01-12",
+          "end": "2027-01-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2156-20270112-20270112-jan12"
           ]
         },
         {
@@ -379025,6 +379064,335 @@
           "kind": "catalogue_session",
           "event_ids": [
             "CP2162-20270113-20270210-course22070"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2163",
+      "slug": "cleverlike-rube-goldberg-prep",
+      "provider": "Cleverlike · Digital Rube Goldberg preparation",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "Online · Cleverlike YouTube",
+      "age": "Condicional. Confirmar edad y acceso según las bases de la edición elegida.",
+      "programme": "Emisiones preparatorias de Cleverlike en YouTube. Revisan el kit de Unreal Engine, la mecánica del interruptor y el envío del proyecto.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Se publicó el día de cada emisión. La organización indica 16:00 EST. Confirmar la hora local en la ficha de la transmisión.",
+        "sessions": [
+          [
+            "2026-11-19",
+            "2026-11-19"
+          ],
+          [
+            "2026-12-08",
+            "2026-12-08"
+          ],
+          [
+            "2027-02-17",
+            "2027-02-17"
+          ],
+          [
+            "2027-03-17",
+            "2027-03-17"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "20261119",
+            "start": "2026-11-19",
+            "end": "2026-11-19",
+            "label": "Getting Started with the Rube Goldberg Learning Kit",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.cleverlike.com/rube-goldberg",
+            "date_scope": "camp_window",
+            "delivery_mode": "virtual",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "start_time": "16:00",
+            "entry": "Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.",
+            "questions": [
+              "Se publicó el día de cada emisión. La organización indica 16:00 EST. Confirmar la hora local en la ficha de la transmisión.",
+              "Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio."
+            ]
+          },
+          {
+            "variant_key": "20261208",
+            "start": "2026-12-08",
+            "end": "2026-12-08",
+            "label": "Meeting the Challenge (Using the Switch)",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.cleverlike.com/rube-goldberg",
+            "date_scope": "camp_window",
+            "delivery_mode": "virtual",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "start_time": "16:00",
+            "entry": "Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.",
+            "questions": [
+              "Se publicó el día de cada emisión. La organización indica 16:00 EST. Confirmar la hora local en la ficha de la transmisión.",
+              "Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio."
+            ]
+          },
+          {
+            "variant_key": "20270217",
+            "start": "2027-02-17",
+            "end": "2027-02-17",
+            "label": "Deep Dive into Switch Mechanics",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.cleverlike.com/rube-goldberg",
+            "date_scope": "camp_window",
+            "delivery_mode": "virtual",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "start_time": "16:00",
+            "entry": "Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.",
+            "questions": [
+              "Se publicó el día de cada emisión. La organización indica 16:00 EST. Confirmar la hora local en la ficha de la transmisión.",
+              "Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio."
+            ]
+          },
+          {
+            "variant_key": "20270317",
+            "start": "2027-03-17",
+            "end": "2027-03-17",
+            "label": "Preparing for Submission",
+            "price": "Aún no se confirman el coste total ni las plazas.",
+            "source": "https://www.cleverlike.com/rube-goldberg",
+            "date_scope": "camp_window",
+            "delivery_mode": "virtual",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "start_time": "16:00",
+            "entry": "Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.",
+            "questions": [
+              "Se publicó el día de cada emisión. La organización indica 16:00 EST. Confirmar la hora local en la ficha de la transmisión.",
+              "Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Aún no se confirman el coste total ni las plazas.",
+        "included": "",
+        "extras": "Confirmar el coste final y las condiciones de devolución con la organización.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio."
+        }
+      },
+      "editorial_reason": "Se publicó el día de cada emisión. La organización indica 16:00 EST. Confirmar la hora local en la ficha de la transmisión.",
+      "shortlist": [],
+      "questions": [
+        "Se publicó el día de cada emisión. La organización indica 16:00 EST. Confirmar la hora local en la ficha de la transmisión.",
+        "Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio."
+      ],
+      "sources": [
+        {
+          "url": "https://www.cleverlike.com/rube-goldberg",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.cleverlike.com/_files/ugd/55ebac_ad0ff46e25c74d9cb706a328b73c900f.pdf",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "engineering",
+        "games"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "online",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-19",
+          "end": "2026-11-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2163-20261119-20261119-20261119"
+          ]
+        },
+        {
+          "start": "2026-12-08",
+          "end": "2026-12-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2163-20261208-20261208-20261208"
+          ]
+        },
+        {
+          "start": "2027-02-17",
+          "end": "2027-02-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2163-20270217-20270217-20270217"
+          ]
+        },
+        {
+          "start": "2027-03-17",
+          "end": "2027-03-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2163-20270317-20270317-20270317"
+          ]
+        }
+      ],
+      "language_roles": {
+        "materials": [
+          "EN"
+        ]
+      }
+    },
+    {
+      "id": "CP2164",
+      "slug": "icode-geelong-minecraft-2",
+      "provider": "iCode School Geelong · Minecraft 2.0",
+      "country": "Australia",
+      "iso": "AUS",
+      "place": "iCode School · 1/124 High St · Belmont, Geelong",
+      "age": "5–18 años según el formulario del grupo. La página general del programa indica 5–16 años.",
+      "programme": "La ficha de Minecraft 2.0 invita a principiantes que ya conocen el juego. Confirmar diferencias con el programa 1.0 y versión del juego.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+        "sessions": [
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "jan19",
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "label": "Minecraft 2.0",
+            "price": "AUD 150 por niño y día.",
+            "source": "https://enrolmy.com/icode-school/activity/1399-Holiday_Program_Minecraft_2_0_9_00_3_00_Tuesday_19th_January_G",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Aún no hay confirmación de plaza en el grupo."
+            },
+            "place": "iCode School · 1/124 High St · Belmont, Geelong",
+            "entry": "Confirmar plaza, edad e idioma docente.",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "questions": [
+              "Confirmar plaza, edad e idioma docente.",
+              "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización."
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "amount": 150,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 150 por niño y día.",
+        "included": "Confirmar la comida en la página del taller elegido.",
+        "extras": "Confirmar plaza, edad e idioma docente.",
+        "deposit": "Confirmar el coste final y las condiciones de devolución con la organización."
+      },
+      "accommodation": "Programa diurno presencial sin alojamiento.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Encaja por edad. La organización espera familiaridad con el juego."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Encaja por edad. La organización espera familiaridad con el juego."
+        }
+      },
+      "editorial_reason": "Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+      "shortlist": [],
+      "questions": [
+        "La ficha de Minecraft 2.0 invita a principiantes que ya conocen el juego. Confirmar diferencias con el programa 1.0 y versión del juego.",
+        "Confirmar plaza, edad e idioma docente.",
+        "Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.",
+        "Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo."
+      ],
+      "sources": [
+        {
+          "url": "https://enrolmy.com/icode-school/activity/1399-Holiday_Program_Minecraft_2_0_9_00_3_00_Tuesday_19th_January_G",
+          "title": "Página de la organización o reglamento de la categoría.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-19",
+          "end": "2027-01-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP2164-20270119-20270119-jan19"
           ]
         }
       ],
@@ -384358,7 +384726,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 323,
+  "version": 324,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -397593,7 +397961,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2162,
+      "total_dossiers": 2164,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,
@@ -421694,6 +422062,11 @@
     },
     {
       "programme_id": "CP2156",
+      "event_id": "CP2156-20270112-20270112-jan12",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2156",
       "event_id": "CP2156-20270114-20270114-jan14",
       "relation": "catalogue_session"
     },
@@ -421750,6 +422123,31 @@
     {
       "programme_id": "CP2162",
       "event_id": "CP2162-20270113-20270210-course22070",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2163",
+      "event_id": "CP2163-20261119-20261119-20261119",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2163",
+      "event_id": "CP2163-20261208-20261208-20261208",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2163",
+      "event_id": "CP2163-20270217-20270217-20270217",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2163",
+      "event_id": "CP2163-20270317-20270317-20270317",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP2164",
+      "event_id": "CP2164-20270119-20270119-jan19",
       "relation": "catalogue_session"
     },
     {
@@ -426694,6 +427092,7 @@
     "CP2155-20270121-20270121-sphbracken",
     "CP2155-20270122-20270122-sphcarindale",
     "CP2156-20270107-20270107-jan7",
+    "CP2156-20270112-20270112-jan12",
     "CP2156-20270114-20270114-jan14",
     "CP2156-20270118-20270118-jan18",
     "CP2156-20270120-20270120-jan20",
@@ -426705,10 +427104,15 @@
     "CP2159-20270113-20270113-jan13",
     "CP2160-20270114-20270114-jan14",
     "CP2161-20270120-20270120-jan20",
-    "CP2162-20270113-20270210-course22070"
+    "CP2162-20270113-20270210-course22070",
+    "CP2163-20261119-20261119-20261119",
+    "CP2163-20261208-20261208-20261208",
+    "CP2163-20270217-20270217-20270217",
+    "CP2163-20270317-20270317-20270317",
+    "CP2164-20270119-20270119-jan19"
   ],
   "integration": {
-    "generated_sessions": 4542,
+    "generated_sessions": 4548,
     "reused_legacy_events": 74,
     "seasonal_windows": 78,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

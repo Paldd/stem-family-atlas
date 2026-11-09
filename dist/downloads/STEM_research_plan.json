@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 323,
+    "version": 324,
     "status": "implementation_snapshot",
-    "events": 11204,
-    "competitions": 5034,
+    "events": 11219,
+    "competitions": 5039,
     "league_profiles": 321,
-    "camp_dossiers": 2162,
+    "camp_dossiers": 2164,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 711,
+    "exhibitions_events": 715,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 322,
+    "version": 323,
     "status": "implementation_snapshot",
-    "events": 11186,
-    "competitions": 5030,
+    "events": 11204,
+    "competitions": 5034,
     "league_profiles": 321,
-    "camp_dossiers": 2155,
+    "camp_dossiers": 2162,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 710,
+    "exhibitions_events": 711,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 323,
+    "prepared_ui_version": 324,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 322,
-    "previous_verified_commit": "0c61b391799c23dd800a599792a60b2fb10b6173"
+    "previous_verified_ui_version": 323,
+    "previous_verified_commit": "0c30e62777469ae400c23241c7fe59fc944d39d8"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 322,
-    "published_version": 322,
-    "latest_source_commit": "0c61b391799c23dd800a599792a60b2fb10b6173",
-    "published_commit": "0c61b391799c23dd800a599792a60b2fb10b6173",
-    "latest_workflow": 42562017974,
+    "latest_source_version": 323,
+    "published_version": 323,
+    "latest_source_commit": "0c30e62777469ae400c23241c7fe59fc944d39d8",
+    "published_commit": "0c30e62777469ae400c23241c7fe59fc944d39d8",
+    "latest_workflow": 42563527000,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -34023,5 +34023,82 @@
       "CP2162-20270113-20270210-course22070"
     ],
     "source_requests": 19
+  },
+  "digital_rube_and_itu_routes_v324": {
+    "version": 324,
+    "checked": "2026-11-08",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "C5036",
+      "C5037",
+      "C5038",
+      "C5039",
+      "C5040",
+      "E712",
+      "E713",
+      "E714",
+      "E715",
+      "CP2163-20261119-20261119-20261119",
+      "CP2163-20261208-20261208-20261208",
+      "CP2163-20270217-20270217-20270217",
+      "CP2163-20270317-20270317-20270317",
+      "CP2156-20270112-20270112-jan12",
+      "CP2164-20270119-20270119-jan19"
+    ],
+    "refreshed_event_ids": [
+      "C2001",
+      "C4459",
+      "C5032",
+      "C5033",
+      "C5034"
+    ],
+    "legacy_overlay_event_ids": [
+      "C2001",
+      "C4459",
+      "C5032",
+      "C5033",
+      "C5034"
+    ],
+    "legacy_overlay_league_ids": [
+      "robotics-for-good-global"
+    ],
+    "rube_digital_ids": [
+      "C5036",
+      "C5037",
+      "C5038"
+    ],
+    "rube_prep_id": "CP2163",
+    "itu_local_ids": [
+      "C5039",
+      "C5040"
+    ],
+    "anima_form_status_event_ids": [
+      "C5032",
+      "C5033",
+      "C5034"
+    ],
+    "breda_event_ids": [
+      "E712",
+      "E713",
+      "E714"
+    ],
+    "exo_event_id": "E715",
+    "new_dossier_ids": [
+      "CP2163",
+      "CP2164"
+    ],
+    "refreshed_dossier_ids": [
+      "CP2156"
+    ],
+    "new_learning_ids": [
+      "CP2163-20261119-20261119-20261119",
+      "CP2163-20261208-20261208-20261208",
+      "CP2163-20270217-20270217-20270217",
+      "CP2163-20270317-20270317-20270317",
+      "CP2156-20270112-20270112-jan12",
+      "CP2164-20270119-20270119-jan19"
+    ],
+    "source_requests": 17
   }
 }

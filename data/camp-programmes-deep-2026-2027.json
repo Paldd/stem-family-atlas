@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2162,
+    "dossiers": 2164,
     "countries": 140,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 297,
-      "published_2027": 586,
+      "published_2027": 588,
       "partial_2027": 154,
       "next_unannounced": 440,
       "published_2026": 433,
@@ -49,12 +49,12 @@
       "confirmed_2027": 1,
       "recurring_tbd": 3
     },
-    "source_urls": 3090
+    "source_urls": 3094
   },
   "countries": [
     {
       "country": "Австралия",
-      "count": 33
+      "count": 34
     },
     {
       "country": "Австрия",
@@ -478,7 +478,7 @@
     },
     {
       "country": "Соединенные Штаты Америки",
-      "count": 169
+      "count": 170
     },
     {
       "country": "Суринам",
@@ -326964,6 +326964,10 @@
             "2027-01-07"
           ],
           [
+            "2027-01-12",
+            "2027-01-12"
+          ],
+          [
             "2027-01-14",
             "2027-01-14"
           ],
@@ -326984,6 +326988,28 @@
             "label": "Coding for Beginners PLUS Robotics",
             "price": "AUD 150 за ребёнка за день.",
             "source": "https://enrolmy.com/icode-school/activity/1428-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Thursday_7th_January_G",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "iCode School · 1/124 High St · Belmont, Geelong",
+            "entry": "Проверить место и язык. В условиях этой группы указан минимум 3 участника.",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "questions": [
+              "Проверить место и язык. В условиях этой группы указан минимум 3 участника.",
+              "В части форм общие условия указывают AEST. Сверьте время конкретной группы с организатором."
+            ]
+          },
+          {
+            "variant_key": "jan12",
+            "start": "2027-01-12",
+            "end": "2027-01-12",
+            "label": "Coding for Beginners PLUS Robotics",
+            "price": "AUD 150 за ребёнка за день.",
+            "source": "https://enrolmy.com/icode-school/activity/1391-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Tuesday_12th_January_G",
             "date_scope": "camp_window",
             "delivery_mode": "in_person",
             "availability": {
@@ -327119,6 +327145,11 @@
         },
         {
           "url": "https://enrolmy.com/icode-school/activity/1397-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Wednesday_20th_January_G",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://enrolmy.com/icode-school/activity/1391-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Tuesday_12th_January_G",
           "title": "Страница организатора или регламент категории.",
           "checked": "2026-11-08"
         }
@@ -327847,6 +327878,281 @@
       ],
       "programme_type": "course",
       "catalog_participation": "course",
+      "related_event_ids": []
+    },
+    {
+      "id": "CP2163",
+      "slug": "cleverlike-rube-goldberg-prep",
+      "provider": "Cleverlike · Digital Rube Goldberg preparation",
+      "country": "Соединенные Штаты Америки",
+      "iso": "USA",
+      "place": "Online · Cleverlike YouTube",
+      "age": "Условно. Возраст и допуск уточнить по правилам выбранного выпуска.",
+      "programme": "Подготовительные эфиры Cleverlike на YouTube. Разбор набора Unreal Engine, механики переключателей и подачи работы.",
+      "format": "online",
+      "formats": [
+        "online"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Дата каждого эфира опубликована. Организатор указывает 16:00 EST. Сверить местное время по карточке трансляции.",
+        "sessions": [
+          [
+            "2026-11-19",
+            "2026-11-19"
+          ],
+          [
+            "2026-12-08",
+            "2026-12-08"
+          ],
+          [
+            "2027-02-17",
+            "2027-02-17"
+          ],
+          [
+            "2027-03-17",
+            "2027-03-17"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "20261119",
+            "start": "2026-11-19",
+            "end": "2026-11-19",
+            "label": "Getting Started with the Rube Goldberg Learning Kit",
+            "price": "Полная стоимость и наличие мест ещё не подтверждены.",
+            "source": "https://www.cleverlike.com/rube-goldberg",
+            "date_scope": "camp_window",
+            "delivery_mode": "virtual",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "start_time": "16:00",
+            "entry": "Смотреть онлайн. Точное время, язык эфира и условия доступа проверить по анонсу.",
+            "questions": [
+              "Дата каждого эфира опубликована. Организатор указывает 16:00 EST. Сверить местное время по карточке трансляции.",
+              "Смотреть онлайн. Точное время, язык эфира и условия доступа проверить по анонсу."
+            ]
+          },
+          {
+            "variant_key": "20261208",
+            "start": "2026-12-08",
+            "end": "2026-12-08",
+            "label": "Meeting the Challenge (Using the Switch)",
+            "price": "Полная стоимость и наличие мест ещё не подтверждены.",
+            "source": "https://www.cleverlike.com/rube-goldberg",
+            "date_scope": "camp_window",
+            "delivery_mode": "virtual",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "start_time": "16:00",
+            "entry": "Смотреть онлайн. Точное время, язык эфира и условия доступа проверить по анонсу.",
+            "questions": [
+              "Дата каждого эфира опубликована. Организатор указывает 16:00 EST. Сверить местное время по карточке трансляции.",
+              "Смотреть онлайн. Точное время, язык эфира и условия доступа проверить по анонсу."
+            ]
+          },
+          {
+            "variant_key": "20270217",
+            "start": "2027-02-17",
+            "end": "2027-02-17",
+            "label": "Deep Dive into Switch Mechanics",
+            "price": "Полная стоимость и наличие мест ещё не подтверждены.",
+            "source": "https://www.cleverlike.com/rube-goldberg",
+            "date_scope": "camp_window",
+            "delivery_mode": "virtual",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "start_time": "16:00",
+            "entry": "Смотреть онлайн. Точное время, язык эфира и условия доступа проверить по анонсу.",
+            "questions": [
+              "Дата каждого эфира опубликована. Организатор указывает 16:00 EST. Сверить местное время по карточке трансляции.",
+              "Смотреть онлайн. Точное время, язык эфира и условия доступа проверить по анонсу."
+            ]
+          },
+          {
+            "variant_key": "20270317",
+            "start": "2027-03-17",
+            "end": "2027-03-17",
+            "label": "Preparing for Submission",
+            "price": "Полная стоимость и наличие мест ещё не подтверждены.",
+            "source": "https://www.cleverlike.com/rube-goldberg",
+            "date_scope": "camp_window",
+            "delivery_mode": "virtual",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "start_time": "16:00",
+            "entry": "Смотреть онлайн. Точное время, язык эфира и условия доступа проверить по анонсу.",
+            "questions": [
+              "Дата каждого эфира опубликована. Организатор указывает 16:00 EST. Сверить местное время по карточке трансляции.",
+              "Смотреть онлайн. Точное время, язык эфира и условия доступа проверить по анонсу."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": null,
+        "currency": "",
+        "unit": "",
+        "label": "Полная стоимость и наличие мест ещё не подтверждены.",
+        "included": "",
+        "extras": "Полный счёт и условия возврата уточнить у организатора.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Смотреть онлайн. Точное время, язык эфира и условия доступа проверить по анонсу.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Смотреть онлайн. Точное время, язык эфира и условия доступа проверить по анонсу."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Смотреть онлайн. Точное время, язык эфира и условия доступа проверить по анонсу."
+        }
+      },
+      "editorial_reason": "Дата каждого эфира опубликована. Организатор указывает 16:00 EST. Сверить местное время по карточке трансляции.",
+      "shortlist": [],
+      "questions": [
+        "Дата каждого эфира опубликована. Организатор указывает 16:00 EST. Сверить местное время по карточке трансляции.",
+        "Смотреть онлайн. Точное время, язык эфира и условия доступа проверить по анонсу."
+      ],
+      "sources": [
+        {
+          "url": "https://www.cleverlike.com/rube-goldberg",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        },
+        {
+          "url": "https://www.cleverlike.com/_files/ugd/55ebac_ad0ff46e25c74d9cb706a328b73c900f.pdf",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "engineering",
+        "games"
+      ],
+      "programme_type": "workshop",
+      "catalog_participation": "online",
+      "related_event_ids": [
+        "C5036"
+      ]
+    },
+    {
+      "id": "CP2164",
+      "slug": "icode-geelong-minecraft-2",
+      "provider": "iCode School Geelong · Minecraft 2.0",
+      "country": "Австралия",
+      "iso": "AUS",
+      "place": "iCode School · 1/124 High St · Belmont, Geelong",
+      "age": "5–18 лет по форме группы. Общая страница программы указывает 5–16 лет.",
+      "programme": "Карточка Minecraft 2.0 приглашает начинающих, уже знакомых с игрой. Разницу с программой 1.0 и нужную версию игры уточнить.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "EN"
+      ],
+      "timing": {
+        "status": "published_2027",
+        "label": "Январь 2027, 09:00–15:00 по форме записи. В части форм общие условия указывают AEST. Сверьте время конкретной группы с организатором.",
+        "sessions": [
+          [
+            "2027-01-19",
+            "2027-01-19"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "jan19",
+            "start": "2027-01-19",
+            "end": "2027-01-19",
+            "label": "Minecraft 2.0",
+            "price": "AUD 150 за ребёнка за день.",
+            "source": "https://enrolmy.com/icode-school/activity/1399-Holiday_Program_Minecraft_2_0_9_00_3_00_Tuesday_19th_January_G",
+            "date_scope": "camp_window",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "place": "iCode School · 1/124 High St · Belmont, Geelong",
+            "entry": "Проверить место, возраст и язык преподавателя.",
+            "start_time": "09:00",
+            "end_time": "15:00",
+            "questions": [
+              "Проверить место, возраст и язык преподавателя.",
+              "В части форм общие условия указывают AEST. Сверьте время конкретной группы с организатором."
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "amount": 150,
+        "currency": "AUD",
+        "unit": "day",
+        "label": "AUD 150 за ребёнка за день.",
+        "included": "Питание уточнить на странице выбранного занятия.",
+        "extras": "Проверить место, возраст и язык преподавателя.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора."
+      },
+      "accommodation": "Очная дневная программа без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Организатор ожидает знакомство с игрой."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Организатор ожидает знакомство с игрой."
+        }
+      },
+      "editorial_reason": "Январь 2027, 09:00–15:00 по форме записи. В части форм общие условия указывают AEST. Сверьте время конкретной группы с организатором.",
+      "shortlist": [],
+      "questions": [
+        "Карточка Minecraft 2.0 приглашает начинающих, уже знакомых с игрой. Разницу с программой 1.0 и нужную версию игры уточнить.",
+        "Проверить место, возраст и язык преподавателя.",
+        "В части форм общие условия указывают AEST. Сверьте время конкретной группы с организатором.",
+        "Материалы опубликованы на английском. Язык живых занятий уточнить отдельно."
+      ],
+      "sources": [
+        {
+          "url": "https://enrolmy.com/icode-school/activity/1399-Holiday_Program_Minecraft_2_0_9_00_3_00_Tuesday_19th_January_G",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-08"
+        }
+      ],
+      "checked": "2026-11-08",
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
       "related_event_ids": []
     }
   ],
@@ -333173,7 +333479,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 323,
+  "version": 324,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -346408,7 +346714,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2162,
+      "total_dossiers": 2164,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

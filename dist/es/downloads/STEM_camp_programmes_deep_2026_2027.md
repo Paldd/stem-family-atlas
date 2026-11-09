@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-08. 2162 dosieres en 140 países. Cada dosier indica cuándo se verificaron sus fuentes.
+Estado de la base: 2026-11-08. 2164 dosieres en 140 países. Cada dosier indica cuándo se verificaron sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -170706,6 +170706,24 @@ Australia · iCode School · 1/124 High St · Belmont, Geelong
 
 ### Coding for Beginners PLUS Robotics
 
+**Fechas / estado:** 2027-01-12 — 2027-01-12
+
+**lugar:** iCode School · 1/124 High St · Belmont, Geelong
+
+**Precio:** AUD 150 por niño y día.
+
+**condiciones de participación:** Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar plaza e idioma. Las condiciones de este grupo indican un mínimo de 3 participantes.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+[fuente](https://enrolmy.com/icode-school/activity/1391-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Tuesday_12th_January_G)
+
+### Coding for Beginners PLUS Robotics
+
 **Fechas / estado:** 2027-01-14 — 2027-01-14
 
 **lugar:** iCode School · 1/124 High St · Belmont, Geelong
@@ -170769,6 +170787,8 @@ Australia · iCode School · 1/124 High St · Belmont, Geelong
 - [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1392-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Monday_18th_January_G) · 2026-11-08
 
 - [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1397-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Wednesday_20th_January_G) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1391-Holiday_Program_Coding_for_Beginners_PLUS_Robotics_9_00_3_00_Tuesday_12th_January_G) · 2026-11-08
 
 ## CP2157 · iCode School Geelong · Minecraft 1.0 for Beginners
 
@@ -171201,6 +171221,172 @@ Estados Unidos · Sprinker Recreation Center · 521 Military Road S · Tacoma, W
 ### Fuentes
 
 - [Página de la organización o reglamento de la categoría.](https://www.piercecountywa.gov/3806/Bricks-4-Kidz-Legos-CampsClasses) · 2026-11-08
+
+## CP2163 · Cleverlike · Digital Rube Goldberg preparation
+
+Estados Unidos · Online · Cleverlike YouTube
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** Condicional. Confirmar edad y acceso según las bases de la edición elegida.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** Emisiones preparatorias de Cleverlike en YouTube. Revisan el kit de Unreal Engine, la mecánica del interruptor y el envío del proyecto.
+
+**Alojamiento:** Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.
+
+**Fechas / estado:** Se publicó el día de cada emisión. La organización indica 16:00 EST. Confirmar la hora local en la ficha de la transmisión.
+
+**Precio / año:** 2027 · Aún no se confirman el coste total ni las plazas.
+
+**Suplementos:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.
+
+**Oscar:** Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.
+
+**Por qué se seleccionó:** Se publicó el día de cada emisión. La organización indica 16:00 EST. Confirmar la hora local en la ficha de la transmisión.
+
+### Antes de solicitar plaza
+
+- Se publicó el día de cada emisión. La organización indica 16:00 EST. Confirmar la hora local en la ficha de la transmisión.
+
+- Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.
+
+### Getting Started with the Rube Goldberg Learning Kit
+
+**Fechas / estado:** 2026-11-19 — 2026-11-19
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+**condiciones de participación:** Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Se publicó el día de cada emisión. La organización indica 16:00 EST. Confirmar la hora local en la ficha de la transmisión.
+
+- Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.
+
+[fuente](https://www.cleverlike.com/rube-goldberg)
+
+### Meeting the Challenge (Using the Switch)
+
+**Fechas / estado:** 2026-12-08 — 2026-12-08
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+**condiciones de participación:** Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Se publicó el día de cada emisión. La organización indica 16:00 EST. Confirmar la hora local en la ficha de la transmisión.
+
+- Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.
+
+[fuente](https://www.cleverlike.com/rube-goldberg)
+
+### Deep Dive into Switch Mechanics
+
+**Fechas / estado:** 2027-02-17 — 2027-02-17
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+**condiciones de participación:** Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Se publicó el día de cada emisión. La organización indica 16:00 EST. Confirmar la hora local en la ficha de la transmisión.
+
+- Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.
+
+[fuente](https://www.cleverlike.com/rube-goldberg)
+
+### Preparing for Submission
+
+**Fechas / estado:** 2027-03-17 — 2027-03-17
+
+**Precio:** Aún no se confirman el coste total ni las plazas.
+
+**condiciones de participación:** Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Se publicó el día de cada emisión. La organización indica 16:00 EST. Confirmar la hora local en la ficha de la transmisión.
+
+- Ver en línea. Confirmar hora, idioma y condiciones de acceso en el anuncio.
+
+[fuente](https://www.cleverlike.com/rube-goldberg)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://www.cleverlike.com/rube-goldberg) · 2026-11-08
+
+- [Página de la organización o reglamento de la categoría.](https://www.cleverlike.com/_files/ugd/55ebac_ad0ff46e25c74d9cb706a328b73c900f.pdf) · 2026-11-08
+
+## CP2164 · iCode School Geelong · Minecraft 2.0
+
+Australia · iCode School · 1/124 High St · Belmont, Geelong
+
+**Se ha comprobado:** 2026-11-08
+
+**edad:** 5–18 años según el formulario del grupo. La página general del programa indica 5–16 años.
+
+**Idioma:** Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+**Programa:** La ficha de Minecraft 2.0 invita a principiantes que ya conocen el juego. Confirmar diferencias con el programa 1.0 y versión del juego.
+
+**Alojamiento:** Programa diurno presencial sin alojamiento.
+
+**Fechas / estado:** Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+**Precio / año:** 2027 · AUD 150 por niño y día.
+
+**Incluido:** Confirmar la comida en la página del taller elegido.
+
+**Suplementos:** Confirmar plaza, edad e idioma docente.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** Encaja por edad. La organización espera familiaridad con el juego.
+
+**Oscar:** Encaja por edad. La organización espera familiaridad con el juego.
+
+**Por qué se seleccionó:** Enero de 2027, 09:00–15:00 según el formulario. Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+### Antes de solicitar plaza
+
+- La ficha de Minecraft 2.0 invita a principiantes que ya conocen el juego. Confirmar diferencias con el programa 1.0 y versión del juego.
+
+- Confirmar plaza, edad e idioma docente.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+- Los materiales están publicados en inglés. Confirmar aparte el idioma de las sesiones en directo.
+
+### Minecraft 2.0
+
+**Fechas / estado:** 2027-01-19 — 2027-01-19
+
+**lugar:** iCode School · 1/124 High St · Belmont, Geelong
+
+**Precio:** AUD 150 por niño y día.
+
+**condiciones de participación:** Confirmar plaza, edad e idioma docente.
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+- Confirmar plaza, edad e idioma docente.
+
+- Parte de los formularios indica AEST en las condiciones generales. Confirmar la hora del grupo concreto con la organización.
+
+[fuente](https://enrolmy.com/icode-school/activity/1399-Holiday_Program_Minecraft_2_0_9_00_3_00_Tuesday_19th_January_G)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://enrolmy.com/icode-school/activity/1399-Holiday_Program_Minecraft_2_0_9_00_3_00_Tuesday_19th_January_G) · 2026-11-08
 
 ## ~ Comprobaciones no cerradas
 

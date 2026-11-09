@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 11204; соревнований: 5034; событий: 711; лагерей / программ: 5459. Профилей лиг и программ: 321. Карточек крупных и профильных выставок: 611 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 11219; соревнований: 5039; событий: 715; лагерей / программ: 5465. Профилей лиг и программ: 321. Карточек крупных и профильных выставок: 615 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -14,16 +14,16 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
-| Северная Америка | 41 | 2037 | 156 | 1391 |
+| Северная Америка | 41 | 2037 | 156 | 1395 |
 | Южная Америка | 15 | 467 | 52 | 235 |
-| Европа | 55 | 720 | 150 | 1574 |
-| Африка | 60 | 271 | 45 | 156 |
+| Европа | 55 | 721 | 154 | 1574 |
+| Африка | 60 | 272 | 45 | 156 |
 | Азия | 50 | 1197 | 174 | 1728 |
-| Океания | 27 | 175 | 32 | 360 |
+| Океания | 27 | 175 | 32 | 362 |
 
-Межрегиональные / глобальные карточки, не приписанные одному континенту: 189. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
+Межрегиональные / глобальные карточки, не приписанные одному континенту: 192. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 815 из 5034 карточек соревнований (16.2%). Это явный перекос охвата.
+VEX: 815 из 5039 карточек соревнований (16.2%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -261,7 +261,7 @@ VEX: 815 из 5034 карточек соревнований (16.2%). Это я�
 - **Robotics for Good · Lesotho / STEAMLes**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://steamles.org/2024/04/14/ai-for-good-challenge-2024-lesotho/
 - **FTC · eSwatini Qualifier / South Africa region**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://ftc-events.firstinspires.org/2026/ZAESQ
 - **Robo Blasters · Lebotics / PrepaTec Cuernavaca**: 1 карточек, 1 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://drive.google.com/file/d/1GmLvL1QYylVly3P2_rvBXW1Ofmi-nyUL/preview
-- **ITU · Robotics for Good Youth Challenge**: 51 карточек, 3 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf
+- **ITU · Robotics for Good Youth Challenge**: 53 карточек, 3 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf
 - **WRO Myanmar · national route**: 6 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.wro-mm.com/
 - **WRO Haiti · Pennies / STEM Alliance**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://wro-association.org/about-wro/association/member-countries/
 - **Robotics for Good Haiti · operator claim**: 1 карточек, 0 с будущими точными датами. Есть профиль и карточки; местный охват частичный. https://www.haitistemalliance.com/national-organizer
@@ -1000,6 +1000,10 @@ VEX: 815 из 5034 карточек соревнований (16.2%). Это я�
 - **Asia Tech x Singapore 2027 · ATxSummit** — Сингапур; 2027-05-26 – 2027-05-27. Детский допуск уточнить. https://asiatechxsg.com/faqs/
 - **ExpoLatam Consumer Electronics Show · Panamá 2027** — Панама; 2027-01-14 – 2027-01-15. Детский допуск уточнить. https://www.ce-expolatam.com/
 - **Expo Eléctrica Internacional Panamá 2027** — Панама; дата неизвестна. Детский допуск уточнить. https://www.panacamara.com/eventos/expo-electrica-internacional-panama-2027/
+- **B’ROBOTICS XXL 2027 · Business and Student Day** — Нидерланды (Королевство); 2027-05-26. Детский допуск уточнить. https://b-robotics.eu/en/breda-robotics-xxl-event/
+- **B’ROBOTICS XXL 2027 · International Day** — Нидерланды (Королевство); 2027-05-27. Детский допуск уточнить. https://b-robotics.eu/en/breda-robotics-xxl-event/
+- **B’ROBOTICS XXL 2027 · Public and Family Day** — Нидерланды (Королевство); 2027-05-29. Со взрослым; условия взрослого входа отдельно. https://b-robotics.eu/en/breda-robotics-xxl-event/
+- **EXO Berlin 2027 · Assistive Robotics** — Германия; 2027-06-15 – 2027-06-16. Детский допуск уточнить. https://www.exo-berlin.de/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

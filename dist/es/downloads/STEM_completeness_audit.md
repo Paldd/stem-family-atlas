@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11204; competiciones: 5034; eventos: 711; campamentos / programas: 5459. Perfiles de ligas y programas: 321. Fichas de exposiciones grandes y especializadas: 611 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11219; competiciones: 5039; eventos: 715; campamentos / programas: 5465. Perfiles de ligas y programas: 321. Fichas de exposiciones grandes y especializadas: 615 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -14,16 +14,16 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 41 | 2037 | 156 | 1391 |
+| América del Norte | 41 | 2037 | 156 | 1395 |
 | América del Sur | 15 | 467 | 52 | 235 |
-| Europa | 55 | 720 | 150 | 1574 |
-| África | 60 | 271 | 45 | 156 |
+| Europa | 55 | 721 | 154 | 1574 |
+| África | 60 | 272 | 45 | 156 |
 | Asia | 50 | 1197 | 174 | 1728 |
-| Oceanía | 27 | 175 | 32 | 360 |
+| Oceanía | 27 | 175 | 32 | 362 |
 
-Fichas interregionales o globales sin un solo continente asignado: 189. América del Norte incluye América Central y el Caribe. Las cantidades reflejan el inventario de la base y la cobertura sigue siendo parcial.
+Fichas interregionales o globales sin continente asignado: 192. América del Norte incluye Centroamérica y el Caribe. Las cifras indican el inventario de la base y su alcance.
 
-VEX: 815 de 5034 fichas de competiciones (16.2%). Esto muestra un desequilibrio en la cobertura.
+VEX: 815 de 5039 fichas de competiciones (16.2%). Esto muestra un desequilibrio en la cobertura.
 
 ## Lo que queda
 
@@ -261,7 +261,7 @@ VEX: 815 de 5034 fichas de competiciones (16.2%). Esto muestra un desequilibrio 
 - **Robotics for Good · Lesotho / STEAMLes**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://steamles.org/2024/04/14/ai-for-good-challenge-2024-lesotho/
 - **FTC · eSwatini Qualifier / South Africa region**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://ftc-events.firstinspires.org/2026/ZAESQ
 - **Robo Blasters · Lebotics / PrepaTec Cuernavaca**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/file/d/1GmLvL1QYylVly3P2_rvBXW1Ofmi-nyUL/preview
-- **ITU · Robotics for Good Youth Challenge**: 51 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf
+- **ITU · Robotics for Good Youth Challenge**: 53 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf
 - **WRO Myanmar · national route**: 6 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.wro-mm.com/
 - **WRO Haiti · Pennies / STEM Alliance**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/about-wro/association/member-countries/
 - **Robotics for Good Haiti · operator claim**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.haitistemalliance.com/national-organizer
@@ -1000,6 +1000,10 @@ VEX: 815 de 5034 fichas de competiciones (16.2%). Esto muestra un desequilibrio 
 - **Asia Tech x Singapore 2027 · ATxSummit** — Singapur; 2027-05-26 – 2027-05-27. el permiso de entrada de niños. https://asiatechxsg.com/faqs/
 - **ExpoLatam Consumer Electronics Show · Panamá 2027** — Panamá; 2027-01-14 – 2027-01-15. el permiso de entrada de niños. https://www.ce-expolatam.com/
 - **Expo Eléctrica Internacional Panamá 2027** — Panamá; fecha desconocida. Confirmar acceso infantil. https://www.panacamara.com/eventos/expo-electrica-internacional-panama-2027/
+- **B’ROBOTICS XXL 2027 · Business and Student Day** — Países Bajos; 2027-05-26. el permiso de entrada de niños. https://b-robotics.eu/en/breda-robotics-xxl-event/
+- **B’ROBOTICS XXL 2027 · International Day** — Países Bajos; 2027-05-27. el permiso de entrada de niños. https://b-robotics.eu/en/breda-robotics-xxl-event/
+- **B’ROBOTICS XXL 2027 · Public and Family Day** — Países Bajos; 2027-05-29. con un adulto; condiciones de admisión adulta por separado. https://b-robotics.eu/en/breda-robotics-xxl-event/
+- **EXO Berlin 2027 · Assistive Robotics** — Alemania; 2027-06-15 – 2027-06-16. el permiso de entrada de niños. https://www.exo-berlin.de/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors
