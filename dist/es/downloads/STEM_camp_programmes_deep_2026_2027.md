@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-09. 2264 fichas en 140 países. Cada ficha indica las fechas de verificación de sus fuentes.
+Estado del catálogo: 2026-11-09. 2265 fichas en 140 países. Cada ficha indica las fechas de verificación de sus fuentes.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -179015,6 +179015,112 @@ España · Mingorría · CRA Miguel Delibes
 - [Página de la organización o reglamento de la categoría.](https://roboticole.com/campamentos/mingorria-2027) · 2026-11-09
 
 - [Página de la organización o reglamento de la categoría.](https://roboticole.com/) · 2026-11-09
+
+## CP2265 · Genios Retiro · Diseñadores de una Navidad Extraordinaria
+
+España · Madrid · Plaza del Doctor Laguna 11
+
+**Se ha comprobado:** 2026-11-09
+
+**edad:** 3–12 años. Grupos separados por edad.
+
+**Idioma:** Los materiales se publican en español. Confirmar el idioma hablado del grupo concreto.
+
+**Programa:** Campamento diurno general con retos de ingeniería, construcción, experimentos y juegos de lógica. También hay actividades creativas, cocina y actividades al aire libre según el tiempo.
+
+**Alojamiento:** Sesiones diurnas sin alojamiento.
+
+**Fechas / estado:** Se pueden elegir días sueltos. 23, 24, 28, 29, 30 y 31 de diciembre de 2026, 4, 5, 7 y 8 de enero de 2027.
+
+**Precio / año:** 2026–2027 · 30 EUR de 09:00 a 14:00 o 50 EUR de 09:00 a 17:00 por día. El segundo menor tiene un 10% de descuento. Para dos en un día, 57 EUR o 95 EUR respectivamente si eligen la misma tarifa.
+
+**Incluido:** La tarifa hasta las 17:00 incluye comida de catering. La comida no figura en la tarifa corta.
+
+**Suplementos:** La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento.
+
+**Pago:** Confirmar el coste final y las condiciones de devolución con la organización.
+
+**Matvey:** La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento.
+
+**Oscar:** La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento.
+
+**Por qué se incluye:** Se pueden elegir días sueltos. 23, 24, 28, 29, 30 y 31 de diciembre de 2026, 4, 5, 7 y 8 de enero de 2027.
+
+### Antes de solicitar plaza
+
+- La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento.
+
+- Confirmar el coste final y las condiciones de devolución con la organización.
+
+### Días sueltos · hasta las 14:00
+
+**Fechas / estado:** 2026-12-23 — 2027-01-08
+
+**Precio:** 30 EUR por día. El segundo menor con descuento paga 27 EUR, para dos 57 EUR.
+
+**condiciones de participación:** La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento.
+
+- 2026-12-23 · 09:00–14:00 · Europe/Madrid · Días sueltos · hasta las 14:00
+
+- 2026-12-24 · 09:00–14:00 · Europe/Madrid · Días sueltos · hasta las 14:00
+
+- 2026-12-28 · 09:00–14:00 · Europe/Madrid · Días sueltos · hasta las 14:00
+
+- 2026-12-29 · 09:00–14:00 · Europe/Madrid · Días sueltos · hasta las 14:00
+
+- 2026-12-30 · 09:00–14:00 · Europe/Madrid · Días sueltos · hasta las 14:00
+
+- 2026-12-31 · 09:00–14:00 · Europe/Madrid · Días sueltos · hasta las 14:00
+
+- 2027-01-04 · 09:00–14:00 · Europe/Madrid · Días sueltos · hasta las 14:00
+
+- 2027-01-05 · 09:00–14:00 · Europe/Madrid · Días sueltos · hasta las 14:00
+
+- 2027-01-07 · 09:00–14:00 · Europe/Madrid · Días sueltos · hasta las 14:00
+
+- 2027-01-08 · 09:00–14:00 · Europe/Madrid · Días sueltos · hasta las 14:00
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://geniosretiro.com/campamentos/campamento-de-navidad/)
+
+### Días sueltos · hasta las 17:00
+
+**Fechas / estado:** 2026-12-23 — 2027-01-08
+
+**Precio:** 50 EUR por día con comida. El segundo menor con descuento paga 45 EUR, para dos 95 EUR.
+
+**condiciones de participación:** La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento.
+
+- 2026-12-23 · 09:00–17:00 · Europe/Madrid · Días sueltos · hasta las 17:00
+
+- 2026-12-24 · 09:00–17:00 · Europe/Madrid · Días sueltos · hasta las 17:00
+
+- 2026-12-28 · 09:00–17:00 · Europe/Madrid · Días sueltos · hasta las 17:00
+
+- 2026-12-29 · 09:00–17:00 · Europe/Madrid · Días sueltos · hasta las 17:00
+
+- 2026-12-30 · 09:00–17:00 · Europe/Madrid · Días sueltos · hasta las 17:00
+
+- 2026-12-31 · 09:00–17:00 · Europe/Madrid · Días sueltos · hasta las 17:00
+
+- 2027-01-04 · 09:00–17:00 · Europe/Madrid · Días sueltos · hasta las 17:00
+
+- 2027-01-05 · 09:00–17:00 · Europe/Madrid · Días sueltos · hasta las 17:00
+
+- 2027-01-07 · 09:00–17:00 · Europe/Madrid · Días sueltos · hasta las 17:00
+
+- 2027-01-08 · 09:00–17:00 · Europe/Madrid · Días sueltos · hasta las 17:00
+
+**Disponibilidad de plazas:** Aún no hay confirmación de plaza en el grupo.
+
+[fuente](https://geniosretiro.com/campamentos/campamento-de-navidad/)
+
+### Fuentes
+
+- [Página de la organización o reglamento de la categoría.](https://geniosretiro.com/campamentos/campamento-de-navidad/) · 2026-11-09
+
+- [Página de la organización o reglamento de la categoría.](https://geniosretiro.com/campamentos/) · 2026-11-09
 
 ## ~ Comprobaciones no cerradas
 

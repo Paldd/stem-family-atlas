@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 11508; соревнований: 5117; событий: 738; лагерей / программ: 5653. Профилей лиг и программ: 330. Карточек крупных и профильных выставок: 630 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 11522; соревнований: 5119; событий: 740; лагерей / программ: 5663. Профилей лиг и программ: 330. Карточек крупных и профильных выставок: 632 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 242 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -16,14 +16,14 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 |---|---:|---:|---:|---:|
 | Северная Америка | 41 | 2075 | 165 | 1408 |
 | Южная Америка | 15 | 473 | 52 | 258 |
-| Европа | 55 | 730 | 158 | 1653 |
+| Европа | 55 | 732 | 160 | 1663 |
 | Африка | 60 | 272 | 45 | 156 |
 | Азия | 50 | 1208 | 176 | 1793 |
 | Океания | 27 | 176 | 32 | 370 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 205. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
 
-VEX: 815 из 5117 карточек соревнований (15.9%). Это явный перекос охвата.
+VEX: 815 из 5119 карточек соревнований (15.9%). Это явный перекос охвата.
 
 ## Что осталось
 
@@ -1028,6 +1028,8 @@ VEX: 815 из 5117 карточек соревнований (15.9%). Это я�
 - **ARCE Beijing 2027 · Asian Robot Conference and Exhibition** — Китай; дата неизвестна. Детский допуск уточнить. https://www.lxhtexpo.com/
 - **FHNW Robot Day 2027** — Швейцария; 2027-05-15. Со взрослым; условия взрослого входа отдельно. https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-robot-day-2027
 - **Coupe de France Junior · Village scientifique Île-de-France 2027** — Франция; 2027-04-17. Со взрослым; условия взрослого входа отдельно. https://www.planete-sciences.org/iledefrance/index.php/112-la-coupe-de-france-de-robotique-junior-2026-s-installe-a-savigny-le-temple-2
+- **Exponencial. De analógicos a digitales · Espacio Fundación Telefónica** — Испания; дата неизвестна. Со взрослым; условия взрослого входа отдельно. https://espacio.fundaciontelefonica.com/evento/exponencial/
+- **Universidad de Almería · Desafío del Club de Robótica 2026/27 · Acto público y premios** — Испания; дата неизвестна. Детский допуск уточнить. https://www.ualjoven.ual.es/index.php/actividades/desafio-club-de-robotica-curso-2026-2027-ualjoven
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Польша; 2027-02-02 – 2027-02-04. Детский допуск уточнить. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Румыния; дата неизвестна. Детский допуск уточнить. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Турция; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.win-eurasia.com/en/visitors

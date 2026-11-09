@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 5653,
-      "holiday": 5058,
+      "records": 5663,
+      "holiday": 5060,
       "regular": 223,
       "self_paced_materials": 4,
       "boarding": 1039,
@@ -50935,6 +50935,514 @@
         "C3263",
         "C3264",
         "C3265"
+      ]
+    },
+    {
+      "id": "L944",
+      "title": "Espacio Fundación Telefónica · IA en Familia: una aventura para compartir",
+      "block": "Лагеря",
+      "country": "Испания",
+      "region": "Европа",
+      "iso": [
+        "ESP"
+      ],
+      "city": "Madrid",
+      "start": "",
+      "end": "",
+      "period": "Программа объявлена с января 2027. Точная дата занятия и окно бронирования пока неизвестны.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-09",
+      "source": "https://espacio.fundaciontelefonica.com/talleres-para-familias/",
+      "references": [
+        {
+          "url": "https://espacio.fundaciontelefonica.com/visitanos/info-practica/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Дети 6–12 лет со взрослым.",
+      "mat": "Условно. Возраст подходит. Уточнить язык и подтвердить место.",
+      "osc": "Условно. Возраст подходит. Уточнить язык и подтвердить место.",
+      "format": "Дети 6–12 лет со взрослым.",
+      "entry": "Бесплатная предварительная бронь на странице организатора. Наличие места подтверждается отдельно.",
+      "gear": "",
+      "language": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Местная программа в Мадриде.",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Программа объявлена с января 2027. Точная дата занятия и окно бронирования пока неизвестны.",
+      "note": "Семейное занятие об искусственном интеллекте и критическом мышлении.",
+      "themes": [
+        "ai",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Местная программа в Мадриде.",
+      "participation": "workshop",
+      "admission_kind": "family",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "venue": "Espacio Fundación Telefónica · Calle de Fuencarral 3",
+      "related_ids": [
+        "E739",
+        "L946",
+        "L947"
+      ]
+    },
+    {
+      "id": "L945",
+      "title": "Espacio Fundación Telefónica · Hablemos de pantallas",
+      "block": "Лагеря",
+      "country": "Испания",
+      "region": "Европа",
+      "iso": [
+        "ESP"
+      ],
+      "city": "Madrid",
+      "start": "",
+      "end": "",
+      "period": "Программа объявлена с января 2027. Точная дата занятия и окно бронирования пока неизвестны.",
+      "deadline": "",
+      "date_status": "Анонсировано",
+      "checked": "2026-11-09",
+      "source": "https://espacio.fundaciontelefonica.com/talleres-para-familias/",
+      "references": [
+        {
+          "url": "https://espacio.fundaciontelefonica.com/visitanos/info-practica/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Дети 6–12 лет со взрослым.",
+      "mat": "Условно. Возраст подходит. Уточнить язык и подтвердить место.",
+      "osc": "Условно. Возраст подходит. Уточнить язык и подтвердить место.",
+      "format": "Дети 6–12 лет со взрослым.",
+      "entry": "Бесплатная предварительная бронь на странице организатора. Наличие места подтверждается отдельно.",
+      "gear": "",
+      "language": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Местная программа в Мадриде.",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Программа объявлена с января 2027. Точная дата занятия и окно бронирования пока неизвестны.",
+      "note": "Семейное занятие о цифровом благополучии.",
+      "themes": [
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Местная программа в Мадриде.",
+      "participation": "workshop",
+      "admission_kind": "family",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "venue": "Espacio Fundación Telefónica · Calle de Fuencarral 3"
+    },
+    {
+      "id": "L946",
+      "title": "Espacio Fundación Telefónica · ¿Quién ha inventado esto?",
+      "block": "Лагеря",
+      "country": "Испания",
+      "region": "Европа",
+      "iso": [
+        "ESP"
+      ],
+      "city": "Madrid",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "period": "11:30–13:30",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-09",
+      "source": "https://espacio.fundaciontelefonica.com/evento/heroes-anonimos-y-no-tan-anonimos-de-la-historia-de-las-telecomunicaciones/",
+      "references": [
+        {
+          "url": "https://espacio.fundaciontelefonica.com/talleres-para-familias/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://espacio.fundaciontelefonica.com/evento/exponencial/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Дети 6–12 лет со взрослым. Максимум 2 взрослых на семью.",
+      "mat": "Условно. Возраст подходит. Уточнить язык и подтвердить место.",
+      "osc": "Условно. Возраст подходит. Уточнить язык и подтвердить место.",
+      "format": "Дети 6–12 лет со взрослым.",
+      "entry": "На странице организатора этот сеанс помечен как заполненный.",
+      "gear": "",
+      "language": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Местная программа в Мадриде.",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "На странице организатора этот сеанс помечен как заполненный.",
+      "note": "Для свободного посещения выставки действует отдельный порядок входа.",
+      "themes": [
+        "technology",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "Местная программа в Мадриде.",
+      "participation": "workshop",
+      "admission_kind": "family",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "venue": "Espacio Fundación Telefónica · Calle de Fuencarral 3",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "timezone": "Europe/Madrid",
+          "topic": "Семейная мастерская по истории связи.",
+          "ical_timed": true,
+          "start_utc": "2026-11-15T10:30:00Z",
+          "end_utc": "2026-11-15T12:30:00Z"
+        }
+      ],
+      "registration_status": "closed",
+      "related_ids": [
+        "E739",
+        "L944",
+        "L947"
+      ]
+    },
+    {
+      "id": "L947",
+      "title": "Espacio Fundación Telefónica · ¿Verdad o bulo?",
+      "block": "Лагеря",
+      "country": "Испания",
+      "region": "Европа",
+      "iso": [
+        "ESP"
+      ],
+      "city": "Madrid",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "Дата подтверждена. Вверху страницы указано 11:30–13:45, в описании 11:30–12:45. Сверить конец занятия в подтверждении брони.",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-09",
+      "source": "https://espacio.fundaciontelefonica.com/evento/verdad-o-bulo-un-reto-para-toda-la-familia/",
+      "references": [
+        {
+          "url": "https://espacio.fundaciontelefonica.com/talleres-para-familias/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Дети 6–12 лет со взрослым. Максимум 2 взрослых на семью.",
+      "mat": "Условно. Возраст подходит. Уточнить язык и подтвердить место.",
+      "osc": "Условно. Возраст подходит. Уточнить язык и подтвердить место.",
+      "format": "Родители и дети проверяют слухи, анализируют изображения и узнают, как расходится информация в интернете.",
+      "entry": "Бесплатная предварительная бронь на странице организатора. Наличие места подтверждается отдельно.",
+      "gear": "",
+      "language": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Местная программа в Мадриде.",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Бесплатная предварительная бронь на странице организатора. Наличие места подтверждается отдельно.",
+      "note": "Дата подтверждена. Вверху страницы указано 11:30–13:45, в описании 11:30–12:45. Сверить конец занятия в подтверждении брони.",
+      "themes": [
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Местная программа в Мадриде.",
+      "participation": "workshop",
+      "admission_kind": "family",
+      "evidence_level": "program",
+      "date_scope": "event_day",
+      "venue": "Espacio Fundación Telefónica · Calle de Fuencarral 3",
+      "registration_status": "open",
+      "related_ids": [
+        "E739",
+        "L946",
+        "L944"
+      ]
+    },
+    {
+      "id": "L948",
+      "title": "Espacio Fundación Telefónica · Iniciación a la robótica",
+      "block": "Лагеря",
+      "country": "Испания",
+      "region": "Европа",
+      "iso": [
+        "ESP"
+      ],
+      "city": "Madrid",
+      "start": "",
+      "end": "",
+      "period": "Цикл по субботам в 2026–27, 16:00–18:00. Опубликованные занятия 26 сентября и 31 октября 2026 уже прошли. Следующая дата не указана.",
+      "deadline": "",
+      "date_status": "Не объявлено",
+      "checked": "2026-11-09",
+      "source": "https://espacio.fundaciontelefonica.com/evento/taller-introduccion-a-la-robotica/",
+      "references": [
+        {
+          "url": "https://espacio.fundaciontelefonica.com/visitanos/info-practica/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "9–13 лет.",
+      "mat": "Условно. Возраст подходит. Уточнить язык и подтвердить место.",
+      "osc": "Нет по возрасту для этой группы.",
+      "format": "Техническая учебная программа",
+      "entry": "Бесплатная предварительная бронь на странице организатора. Наличие места подтверждается отдельно.",
+      "gear": "Датчики, приводы, управление и программирование робота. Свой компьютер или планшет не нужен.",
+      "language": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Местная программа в Мадриде.",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Цикл по субботам в 2026–27, 16:00–18:00. Опубликованные занятия 26 сентября и 31 октября 2026 уже прошли. Следующая дата не указана.",
+      "note": "Если несовершеннолетний приходит без взрослого, требуется разрешение родителя или опекуна.",
+      "themes": [
+        "robotics",
+        "coding",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Местная программа в Мадриде.",
+      "participation": "workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "venue": "Espacio Fundación Telefónica · Calle de Fuencarral 3",
+      "related_ids": [
+        "L949",
+        "L950",
+        "L951"
+      ]
+    },
+    {
+      "id": "L949",
+      "title": "Espacio Fundación Telefónica · Programación de videojuegos",
+      "block": "Лагеря",
+      "country": "Испания",
+      "region": "Европа",
+      "iso": [
+        "ESP"
+      ],
+      "city": "Madrid",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "period": "16:00–18:00",
+      "deadline": "",
+      "date_status": "Подтверждено",
+      "checked": "2026-11-09",
+      "source": "https://espacio.fundaciontelefonica.com/evento/taller-iniciacion-a-la-programacion-de-videojuegos/",
+      "references": [
+        {
+          "url": "https://espacio.fundaciontelefonica.com/visitanos/info-practica/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Весь цикл рассчитан на 9–18 лет. Возрастную группу занятия 14 ноября организатор отдельно не указал.",
+      "mat": "Весь цикл рассчитан на 9–18 лет. Возрастную группу занятия 14 ноября организатор отдельно не указал.",
+      "osc": "Нет по возрасту для этой группы.",
+      "format": "Техническая учебная программа",
+      "entry": "На странице организатора этот сеанс помечен как заполненный.",
+      "gear": "",
+      "language": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Местная программа в Мадриде.",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "На странице организатора этот сеанс помечен как заполненный.",
+      "note": "Если несовершеннолетний приходит без взрослого, требуется разрешение родителя или опекуна.",
+      "themes": [
+        "coding",
+        "games",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Местная программа в Мадриде.",
+      "participation": "workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "venue": "Espacio Fundación Telefónica · Calle de Fuencarral 3",
+      "registration_status": "closed",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Мастерская по программированию игр.",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T15:00:00Z",
+          "end_utc": "2026-11-14T17:00:00Z"
+        }
+      ],
+      "related_ids": [
+        "L948",
+        "L950",
+        "L951"
+      ]
+    },
+    {
+      "id": "L950",
+      "title": "Espacio Fundación Telefónica · ¡Tú eres el algoritmo!",
+      "block": "Лагеря",
+      "country": "Испания",
+      "region": "Европа",
+      "iso": [
+        "ESP"
+      ],
+      "city": "Madrid",
+      "start": "",
+      "end": "",
+      "period": "Бесплатная запись школьной группы. Программа длится 75 минут и действует с 3 ноября 2026. День зависит от согласования со школой.",
+      "deadline": "",
+      "date_status": "Постоянная площадка",
+      "checked": "2026-11-09",
+      "source": "https://espacio.fundaciontelefonica.com/talleres-del-espacio/publico-escolar/",
+      "references": [
+        {
+          "url": "https://espacio.fundaciontelefonica.com/visitanos/info-practica/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Школьные группы, 1–6 классы начальной школы.",
+      "mat": "Условно. Сверить школьный класс и оформить через школу.",
+      "osc": "Условно. Сверить школьный класс и оформить через школу.",
+      "format": "Школьные группы, 1–6 классы начальной школы.",
+      "entry": "Бесплатная запись школьной группы. Программа длится 75 минут и действует с 3 ноября 2026. День зависит от согласования со школой.",
+      "gear": "",
+      "language": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Местная программа в Мадриде.",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Бесплатная запись школьной группы. Программа длится 75 минут и действует с 3 ноября 2026. День зависит от согласования со школой.",
+      "note": "Алгоритмы без экранов. Дети сами изображают роботов, составляют команды и исправляют ошибки.",
+      "themes": [
+        "coding",
+        "robotics",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Местная программа в Мадриде.",
+      "participation": "school_workshop",
+      "admission_kind": "school",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "venue": "Espacio Fundación Telefónica · Calle de Fuencarral 3",
+      "related_ids": [
+        "L948",
+        "L949",
+        "L951"
+      ]
+    },
+    {
+      "id": "L951",
+      "title": "Espacio Fundación Telefónica · Inventores del futuro",
+      "block": "Лагеря",
+      "country": "Испания",
+      "region": "Европа",
+      "iso": [
+        "ESP"
+      ],
+      "city": "Madrid",
+      "start": "",
+      "end": "",
+      "period": "Бесплатная запись школьной группы. Программа длится 75 минут и действует с 3 ноября 2026. День зависит от согласования со школой.",
+      "deadline": "",
+      "date_status": "Постоянная площадка",
+      "checked": "2026-11-09",
+      "source": "https://espacio.fundaciontelefonica.com/talleres-del-espacio/publico-escolar/",
+      "references": [
+        {
+          "url": "https://espacio.fundaciontelefonica.com/visitanos/info-practica/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Сверено с официальной страницей и опубликованными условиями.",
+      "status": "Идея",
+      "age": "Школьные группы, 1–6 классы начальной школы.",
+      "mat": "Условно. Сверить школьный класс и оформить через школу.",
+      "osc": "Условно. Сверить школьный класс и оформить через школу.",
+      "format": "Школьные группы, 1–6 классы начальной школы.",
+      "entry": "Бесплатная запись школьной группы. Программа длится 75 минут и действует с 3 ноября 2026. День зависит от согласования со школой.",
+      "gear": "",
+      "language": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "cost": "Бесплатно.",
+      "level": "Местная программа в Мадриде.",
+      "reward": "",
+      "priority": "P2 — участие по условиям",
+      "action": "Бесплатная запись школьной группы. Программа длится 75 минут и действует с 3 ноября 2026. День зависит от согласования со школой.",
+      "note": "Дизайн и создание прототипов для более устойчивых городов. Работа с задачами жителей и среды.",
+      "themes": [
+        "engineering",
+        "science",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Местная программа в Мадриде.",
+      "participation": "school_workshop",
+      "admission_kind": "school",
+      "evidence_level": "program",
+      "date_scope": "programme_watch",
+      "venue": "Espacio Fundación Telefónica · Calle de Fuencarral 3",
+      "related_ids": [
+        "L948",
+        "L949",
+        "L950"
       ]
     },
     {
@@ -471905,6 +472413,356 @@
       "availability": {
         "status": "unconfirmed",
         "label": "5–9 и 12–16 июля 2027, 10:00–18:00. Подтверждение каждой смены 5 июня 2027, если набралось минимум 15 участников. Вместимость 25 на смену."
+      }
+    },
+    {
+      "id": "CP2265-20261223-20270108-morning",
+      "block": "Лагеря",
+      "title": "Genios Retiro · Diseñadores de una Navidad Extraordinaria · Отдельные дни · до 14:00 · 2026-12-23–2027-01-08",
+      "country": "Испания",
+      "region": "Европа",
+      "city": "Madrid · Plaza del Doctor Laguna 11",
+      "start": "2026-12-23",
+      "end": "2027-01-08",
+      "period": "Можно выбрать отдельные дни. 23, 24, 28, 29, 30 и 31 декабря 2026, 4, 5, 7 и 8 января 2027.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "3–12 лет. Группы распределяют по возрасту.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Возраст подходит. Уточнить язык группы, места на выбранный день и условия применения скидки.",
+      "gear": "Общий дневной лагерь с инженерными задачами, конструированием, научными опытами и логическими играми. Также есть творчество, готовка и занятия на улице по погоде.",
+      "language": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "cost": "2026/27 · 30 EUR за день. Для второго ребёнка со скидкой 27 EUR, на двоих 57 EUR. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Возраст подходит. Уточнить язык группы, места на выбранный день и условия применения скидки.; Полный счёт и условия возврата уточнить у организатора.",
+      "source": "https://geniosretiro.com/campamentos/campamento-de-navidad/",
+      "references": [
+        {
+          "url": "https://geniosretiro.com/campamentos/campamento-de-navidad/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://geniosretiro.com/campamentos/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Уточнить язык группы, места на выбранный день и условия применения скидки. Оскар: Возраст подходит. Уточнить язык группы, места на выбранный день и условия применения скидки. Доплаты: Возраст подходит. Уточнить язык группы, места на выбранный день и условия применения скидки. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "engineering",
+        "science",
+        "general",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "genios-retiro-madrid-christmas-2026",
+      "camp_programme_id": "CP2265",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-23",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 14:00",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T08:00:00Z",
+          "end_utc": "2026-12-23T13:00:00Z"
+        },
+        {
+          "date": "2026-12-24",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 14:00",
+          "ical_timed": true,
+          "start_utc": "2026-12-24T08:00:00Z",
+          "end_utc": "2026-12-24T13:00:00Z"
+        },
+        {
+          "date": "2026-12-28",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 14:00",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:00:00Z",
+          "end_utc": "2026-12-28T13:00:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 14:00",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:00:00Z",
+          "end_utc": "2026-12-29T13:00:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 14:00",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:00:00Z",
+          "end_utc": "2026-12-30T13:00:00Z"
+        },
+        {
+          "date": "2026-12-31",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 14:00",
+          "ical_timed": true,
+          "start_utc": "2026-12-31T08:00:00Z",
+          "end_utc": "2026-12-31T13:00:00Z"
+        },
+        {
+          "date": "2027-01-04",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 14:00",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T08:00:00Z",
+          "end_utc": "2027-01-04T13:00:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 14:00",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T08:00:00Z",
+          "end_utc": "2027-01-05T13:00:00Z"
+        },
+        {
+          "date": "2027-01-07",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 14:00",
+          "ical_timed": true,
+          "start_utc": "2027-01-07T08:00:00Z",
+          "end_utc": "2027-01-07T13:00:00Z"
+        },
+        {
+          "date": "2027-01-08",
+          "start_time": "09:00",
+          "end_time": "14:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 14:00",
+          "ical_timed": true,
+          "start_utc": "2027-01-08T08:00:00Z",
+          "end_utc": "2027-01-08T13:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
+      }
+    },
+    {
+      "id": "CP2265-20261223-20270108-full-day",
+      "block": "Лагеря",
+      "title": "Genios Retiro · Diseñadores de una Navidad Extraordinaria · Отдельные дни · до 17:00 · 2026-12-23–2027-01-08",
+      "country": "Испания",
+      "region": "Европа",
+      "city": "Madrid · Plaza del Doctor Laguna 11",
+      "start": "2026-12-23",
+      "end": "2027-01-08",
+      "period": "Можно выбрать отдельные дни. 23, 24, 28, 29, 30 и 31 декабря 2026, 4, 5, 7 и 8 января 2027.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "3–12 лет. Группы распределяют по возрасту.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневные занятия без проживания.",
+      "entry": "Возраст подходит. Уточнить язык группы, места на выбранный день и условия применения скидки.",
+      "gear": "Общий дневной лагерь с инженерными задачами, конструированием, научными опытами и логическими играми. Также есть творчество, готовка и занятия на улице по погоде.",
+      "language": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "cost": "2026/27 · 50 EUR за день с обедом. Для второго ребёнка со скидкой 45 EUR, на двоих 95 EUR. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Возраст подходит. Уточнить язык группы, места на выбранный день и условия применения скидки.; Полный счёт и условия возврата уточнить у организатора.",
+      "source": "https://geniosretiro.com/campamentos/campamento-de-navidad/",
+      "references": [
+        {
+          "url": "https://geniosretiro.com/campamentos/campamento-de-navidad/",
+          "label": "Страница организатора или регламент категории."
+        },
+        {
+          "url": "https://geniosretiro.com/campamentos/",
+          "label": "Страница организатора или регламент категории."
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-09",
+      "status": "Идея",
+      "note": "Матвей: Возраст подходит. Уточнить язык группы, места на выбранный день и условия применения скидки. Оскар: Возраст подходит. Уточнить язык группы, места на выбранный день и условия применения скидки. Доплаты: Возраст подходит. Уточнить язык группы, места на выбранный день и условия применения скидки. Оплата: Полный счёт и условия возврата уточнить у организатора.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "engineering",
+        "science",
+        "general",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "language_certainty": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "genios-retiro-madrid-christmas-2026",
+      "camp_programme_id": "CP2265",
+      "language_roles": {
+        "materials": [
+          "ES"
+        ]
+      },
+      "language_mode": "materials",
+      "languages": [
+        "ES"
+      ],
+      "sessions": [
+        {
+          "date": "2026-12-23",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 17:00",
+          "ical_timed": true,
+          "start_utc": "2026-12-23T08:00:00Z",
+          "end_utc": "2026-12-23T16:00:00Z"
+        },
+        {
+          "date": "2026-12-24",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 17:00",
+          "ical_timed": true,
+          "start_utc": "2026-12-24T08:00:00Z",
+          "end_utc": "2026-12-24T16:00:00Z"
+        },
+        {
+          "date": "2026-12-28",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 17:00",
+          "ical_timed": true,
+          "start_utc": "2026-12-28T08:00:00Z",
+          "end_utc": "2026-12-28T16:00:00Z"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 17:00",
+          "ical_timed": true,
+          "start_utc": "2026-12-29T08:00:00Z",
+          "end_utc": "2026-12-29T16:00:00Z"
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 17:00",
+          "ical_timed": true,
+          "start_utc": "2026-12-30T08:00:00Z",
+          "end_utc": "2026-12-30T16:00:00Z"
+        },
+        {
+          "date": "2026-12-31",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 17:00",
+          "ical_timed": true,
+          "start_utc": "2026-12-31T08:00:00Z",
+          "end_utc": "2026-12-31T16:00:00Z"
+        },
+        {
+          "date": "2027-01-04",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 17:00",
+          "ical_timed": true,
+          "start_utc": "2027-01-04T08:00:00Z",
+          "end_utc": "2027-01-04T16:00:00Z"
+        },
+        {
+          "date": "2027-01-05",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 17:00",
+          "ical_timed": true,
+          "start_utc": "2027-01-05T08:00:00Z",
+          "end_utc": "2027-01-05T16:00:00Z"
+        },
+        {
+          "date": "2027-01-07",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 17:00",
+          "ical_timed": true,
+          "start_utc": "2027-01-07T08:00:00Z",
+          "end_utc": "2027-01-07T16:00:00Z"
+        },
+        {
+          "date": "2027-01-08",
+          "start_time": "09:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Madrid",
+          "topic": "Отдельные дни · до 17:00",
+          "ical_timed": true,
+          "start_utc": "2027-01-08T08:00:00Z",
+          "end_utc": "2027-01-08T16:00:00Z"
+        }
+      ],
+      "delivery_mode": "in_person",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Сведения о месте в группе пока отсутствуют."
       }
     },
     {

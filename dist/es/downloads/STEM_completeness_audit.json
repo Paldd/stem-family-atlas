@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 11508,
-    "competition_cards": 5117,
-    "event_cards": 738,
-    "camp_cards": 5653,
+    "cards": 11522,
+    "competition_cards": 5119,
+    "event_cards": 740,
+    "camp_cards": 5663,
     "league_profiles": 330,
-    "major_exhibition_cards": 630,
+    "major_exhibition_cards": 632,
     "vex_cards": 815,
     "countries_with_records": 242,
     "fully_audited_countries": 0
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 2565,
+      "total": 2579,
       "countries_with_records": 55,
-      "competitions": 730,
-      "events": 182,
-      "major_exhibitions": 158,
-      "camps": 1653,
+      "competitions": 732,
+      "events": 184,
+      "major_exhibitions": 160,
+      "camps": 1663,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -16381,6 +16381,28 @@
       "new": false
     },
     {
+      "id": "E739",
+      "name": "Exponencial. De analógicos a digitales · Espacio Fundación Telefónica",
+      "country": "España",
+      "region": "Europa",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://espacio.fundaciontelefonica.com/evento/exponencial/",
+      "new": false
+    },
+    {
+      "id": "E740",
+      "name": "Universidad de Almería · Desafío del Club de Robótica 2026/27 · Acto público y premios",
+      "country": "España",
+      "region": "Europa",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.ualjoven.ual.es/index.php/actividades/desafio-club-de-robotica-curso-2026-2027-ualjoven",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -18798,8 +18820,8 @@
       }
     ],
     "counts": {
-      "records": 5653,
-      "holiday": 5058,
+      "records": 5663,
+      "holiday": 5060,
       "regular": 223,
       "self_paced_materials": 4,
       "boarding": 1039,

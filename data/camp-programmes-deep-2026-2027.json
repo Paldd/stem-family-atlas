@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 2264,
+    "dossiers": 2265,
     "countries": 140,
     "swiss": 150,
     "by_status": {
-      "published_2026_27": 298,
+      "published_2026_27": 299,
       "published_2027": 648,
       "partial_2027": 159,
       "next_unannounced": 442,
@@ -50,7 +50,7 @@
       "recurring_tbd": 3,
       "future_cohort_unknown": 3
     },
-    "source_urls": 3200
+    "source_urls": 3202
   },
   "countries": [
     {
@@ -239,7 +239,7 @@
     },
     {
       "country": "Испания",
-      "count": 150
+      "count": 151
     },
     {
       "country": "Италия",
@@ -343746,6 +343746,291 @@
       "programme_type": "day_camp",
       "catalog_participation": "day_camp",
       "related_event_ids": []
+    },
+    {
+      "id": "CP2265",
+      "slug": "genios-retiro-madrid-christmas-2026",
+      "provider": "Genios Retiro · Diseñadores de una Navidad Extraordinaria",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Madrid · Plaza del Doctor Laguna 11",
+      "age": "3–12 лет. Группы распределяют по возрасту.",
+      "programme": "Общий дневной лагерь с инженерными задачами, конструированием, научными опытами и логическими играми. Также есть творчество, готовка и занятия на улице по погоде.",
+      "format": "day",
+      "formats": [
+        "day"
+      ],
+      "language": "Материалы опубликованы на испанском. Устный язык конкретной группы уточнить.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "materials_only",
+      "materials_languages": [
+        "ES"
+      ],
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Можно выбрать отдельные дни. 23, 24, 28, 29, 30 и 31 декабря 2026, 4, 5, 7 и 8 января 2027.",
+        "sessions": [
+          [
+            "2026-12-23",
+            "2027-01-08"
+          ],
+          [
+            "2026-12-23",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "morning",
+            "start": "2026-12-23",
+            "end": "2027-01-08",
+            "label": "Отдельные дни · до 14:00",
+            "price": "30 EUR за день. Для второго ребёнка со скидкой 27 EUR, на двоих 57 EUR.",
+            "source": "https://geniosretiro.com/campamentos/campamento-de-navidad/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "price_amount": 30,
+            "price_currency": "EUR",
+            "entry": "Возраст подходит. Уточнить язык группы, места на выбранный день и условия применения скидки.",
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 14:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 14:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 14:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 14:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 14:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 14:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 14:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 14:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 14:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "14:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 14:00",
+                "ical_timed": true
+              }
+            ]
+          },
+          {
+            "variant_key": "full-day",
+            "start": "2026-12-23",
+            "end": "2027-01-08",
+            "label": "Отдельные дни · до 17:00",
+            "price": "50 EUR за день с обедом. Для второго ребёнка со скидкой 45 EUR, на двоих 95 EUR.",
+            "source": "https://geniosretiro.com/campamentos/campamento-de-navidad/",
+            "date_scope": "session_days",
+            "delivery_mode": "in_person",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Сведения о месте в группе пока отсутствуют."
+            },
+            "price_amount": 50,
+            "price_currency": "EUR",
+            "entry": "Возраст подходит. Уточнить язык группы, места на выбранный день и условия применения скидки.",
+            "sessions": [
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 17:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 17:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 17:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 17:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 17:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 17:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 17:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 17:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 17:00",
+                "ical_timed": true
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "timezone": "Europe/Madrid",
+                "topic": "Отдельные дни · до 17:00",
+                "ical_timed": true
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "amount": 30,
+        "currency": "EUR",
+        "unit": "day",
+        "label": "30 EUR с 09:00 до 14:00 или 50 EUR с 09:00 до 17:00 за день. Для второго ребёнка скидка 10%. На двоих на один день получается 57 EUR или 95 EUR соответственно при одном тарифе.",
+        "included": "Тариф до 17:00 включает обед с доставкой. Обед по короткому тарифу не указан.",
+        "extras": "Возраст подходит. Уточнить язык группы, места на выбранный день и условия применения скидки.",
+        "deposit": "Полный счёт и условия возврата уточнить у организатора.",
+        "season": "2026–2027"
+      },
+      "accommodation": "Дневные занятия без проживания.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Уточнить язык группы, места на выбранный день и условия применения скидки."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Возраст подходит. Уточнить язык группы, места на выбранный день и условия применения скидки."
+        }
+      },
+      "editorial_reason": "Можно выбрать отдельные дни. 23, 24, 28, 29, 30 и 31 декабря 2026, 4, 5, 7 и 8 января 2027.",
+      "shortlist": [],
+      "questions": [
+        "Возраст подходит. Уточнить язык группы, места на выбранный день и условия применения скидки.",
+        "Полный счёт и условия возврата уточнить у организатора."
+      ],
+      "sources": [
+        {
+          "url": "https://geniosretiro.com/campamentos/campamento-de-navidad/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        },
+        {
+          "url": "https://geniosretiro.com/campamentos/",
+          "title": "Страница организатора или регламент категории.",
+          "checked": "2026-11-09"
+        }
+      ],
+      "checked": "2026-11-09",
+      "themes": [
+        "engineering",
+        "science",
+        "general",
+        "technology"
+      ],
+      "programme_type": "day_camp",
+      "catalog_participation": "day_camp",
+      "related_event_ids": []
     }
   ],
   "gaps": [
@@ -349071,7 +349356,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 339,
+  "version": 340,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -362306,7 +362591,7 @@
       }
     ],
     "coverage": {
-      "total_dossiers": 2264,
+      "total_dossiers": 2265,
       "reviewed": 71,
       "refresh_pending": 4,
       "review_dossiers": 75,

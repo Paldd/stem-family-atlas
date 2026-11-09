@@ -870,12 +870,12 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 339,
+    "version": 340,
     "status": "implementation_snapshot",
-    "events": 11508,
-    "competitions": 5117,
+    "events": 11522,
+    "competitions": 5119,
     "league_profiles": 330,
-    "camp_dossiers": 2264,
+    "camp_dossiers": 2265,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -885,7 +885,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 738,
+    "exhibitions_events": 740,
     "first_global_team_profiles": 178
   },
   "completeness_audit": "data/audit-v51.json",
@@ -928,12 +928,12 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 338,
+    "version": 339,
     "status": "implementation_snapshot",
-    "events": 11488,
-    "competitions": 5106,
-    "league_profiles": 329,
-    "camp_dossiers": 2259,
+    "events": 11508,
+    "competitions": 5117,
+    "league_profiles": 330,
+    "camp_dossiers": 2264,
     "budget_offers": 312,
     "editorial_reviewed": 71,
     "editorial_refresh_pending": 4,
@@ -943,7 +943,7 @@
     "school_history_results": 356,
     "school_history_entities": 232,
     "national_routes": 495,
-    "exhibitions_events": 737,
+    "exhibitions_events": 738,
     "first_global_team_profiles": 178
   },
   "research_passes": [
@@ -13761,10 +13761,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 339,
+    "prepared_ui_version": 340,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 338,
-    "previous_verified_commit": "760a77d68a3423cf9c2a7be3633b7afe5cec2e3c"
+    "previous_verified_ui_version": 339,
+    "previous_verified_commit": "2b71c17b14d21da790122c12bee18261b1d37bc6"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -20811,11 +20811,11 @@
     }
   ],
   "previous_release_readback": {
-    "latest_source_version": 338,
-    "published_version": 338,
-    "latest_source_commit": "760a77d68a3423cf9c2a7be3633b7afe5cec2e3c",
-    "published_commit": "760a77d68a3423cf9c2a7be3633b7afe5cec2e3c",
-    "latest_workflow": 42596594586,
+    "latest_source_version": 339,
+    "published_version": 339,
+    "latest_source_commit": "2b71c17b14d21da790122c12bee18261b1d37bc6",
+    "published_commit": "2b71c17b14d21da790122c12bee18261b1d37bc6",
+    "latest_workflow": 42599306933,
     "latest_workflow_conclusion": "success",
     "status": "local-main-and-pages-match"
   },
@@ -35688,5 +35688,46 @@
       "steam-project-markham-march": "CP2263"
     },
     "mingorria_dossier": "CP2264"
+  },
+  "madrid_family_technology_and_almeria_robotics_v340": {
+    "version": 340,
+    "checked": "2026-11-09",
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "new_event_ids": [
+      "E739",
+      "L944",
+      "L945",
+      "L946",
+      "L947",
+      "L948",
+      "L949",
+      "L950",
+      "L951",
+      "C5119",
+      "C5120",
+      "E740",
+      "CP2265-20261223-20270108-morning",
+      "CP2265-20261223-20270108-full-day"
+    ],
+    "refreshed_event_ids": [],
+    "new_dossier_ids": [
+      "CP2265"
+    ],
+    "source_requests": 13,
+    "madrid_permanent_exhibition": "E739",
+    "madrid_family_ai": "L944",
+    "madrid_time_conflict": "L947",
+    "madrid_school_workshops": [
+      "L950",
+      "L951"
+    ],
+    "almeria_deadlines": [
+      "C5119",
+      "C5120"
+    ],
+    "almeria_awards": "E740",
+    "genios_dossier": "CP2265",
+    "genios_selectable_days": 10
   }
 }

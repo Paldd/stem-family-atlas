@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 11508; competiciones: 5117; eventos: 738; campamentos / programas: 5653. Perfiles de ligas y programas: 330. Fichas de exposiciones grandes y especializadas: 630 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 11522; competiciones: 5119; eventos: 740; campamentos / programas: 5663. Perfiles de ligas y programas: 330. Fichas de exposiciones grandes y especializadas: 632 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros de 242 de los 249 países y territorios. Países auditados por completo: 0. Revisión del archivo v51 con 21 fichas y 3 perfiles añadidos. Se conservaron todas las fichas anteriores.
 
@@ -16,14 +16,14 @@ Hay registros de 242 de los 249 países y territorios. Países auditados por com
 |---|---:|---:|---:|---:|
 | América del Norte | 41 | 2075 | 165 | 1408 |
 | América del Sur | 15 | 473 | 52 | 258 |
-| Europa | 55 | 730 | 158 | 1653 |
+| Europa | 55 | 732 | 160 | 1663 |
 | África | 60 | 272 | 45 | 156 |
 | Asia | 50 | 1208 | 176 | 1793 |
 | Oceanía | 27 | 176 | 32 | 370 |
 
 Fichas interregionales o mundiales sin un único continente: 205. América del Norte incluye América Central y el Caribe. Las cifras describen el inventario de la base, sin medir el porcentaje de cobertura.
 
-VEX: 815 de 5117 fichas de competiciones (15.9%). La cobertura muestra un claro desequilibrio.
+VEX: 815 de 5119 fichas de competiciones (15.9%). Esta concentración muestra un desequilibrio en la cobertura.
 
 ## Lo que queda
 
@@ -1028,6 +1028,8 @@ VEX: 815 de 5117 fichas de competiciones (15.9%). La cobertura muestra un claro 
 - **ARCE Beijing 2027 · Asian Robot Conference and Exhibition** — China; fecha desconocida. Confirmar acceso infantil. https://www.lxhtexpo.com/
 - **FHNW Robot Day 2027** — Suiza; 2027-05-15. con un adulto; condiciones de admisión adulta por separado. https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-robot-day-2027
 - **Coupe de France Junior · Village scientifique Île-de-France 2027** — Francia; 2027-04-17. con un adulto; condiciones de admisión adulta por separado. https://www.planete-sciences.org/iledefrance/index.php/112-la-coupe-de-france-de-robotique-junior-2026-s-installe-a-savigny-le-temple-2
+- **Exponencial. De analógicos a digitales · Espacio Fundación Telefónica** — España; sin fecha puntual. Con un adulto. Las condiciones de acceso adulto figuran por separado. https://espacio.fundaciontelefonica.com/evento/exponencial/
+- **Universidad de Almería · Desafío del Club de Robótica 2026/27 · Acto público y premios** — España; fecha desconocida. Confirmar acceso infantil. https://www.ualjoven.ual.es/index.php/actividades/desafio-club-de-robotica-curso-2026-2027-ualjoven
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

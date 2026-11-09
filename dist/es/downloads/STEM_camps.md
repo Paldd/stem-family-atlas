@@ -13878,6 +13878,134 @@ Limitaciones: Se anuncia un taller separado para entrenadores y docentes el 28 d
 Fuente: https://shanghairobotchallenge.com/
 Se ha comprobado: 2026-11-09
 
+### L944 · Espacio Fundación Telefónica · IA en Familia: una aventura para compartir
+
+Lugar: España · Madrid
+Fecha: El programa se anuncia a partir de enero de 2027. Aún se desconocen la fecha exacta de la sesión y la apertura de reservas.
+edad: Menores de 6–12 años con un adulto.
+Matvey: Condicional. La edad encaja. Confirmar el idioma y la plaza.
+Oscar: Condicional. La edad encaja. Confirmar el idioma y la plaza.
+formato: workshop
+Idioma: Los materiales se publican en español. Confirmar el idioma hablado del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Reserva previa gratuita en la página de la organización. La plaza se confirma por separado.
+Limitaciones: Taller familiar sobre inteligencia artificial y pensamiento crítico.
+Fuente: https://espacio.fundaciontelefonica.com/talleres-para-familias/
+Se ha comprobado: 2026-11-09
+
+### L945 · Espacio Fundación Telefónica · Hablemos de pantallas
+
+Lugar: España · Madrid
+Fecha: El programa se anuncia a partir de enero de 2027. Aún se desconocen la fecha exacta de la sesión y la apertura de reservas.
+edad: Menores de 6–12 años con un adulto.
+Matvey: Condicional. La edad encaja. Confirmar el idioma y la plaza.
+Oscar: Condicional. La edad encaja. Confirmar el idioma y la plaza.
+formato: workshop
+Idioma: Los materiales se publican en español. Confirmar el idioma hablado del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Reserva previa gratuita en la página de la organización. La plaza se confirma por separado.
+Limitaciones: Taller familiar sobre bienestar digital.
+Fuente: https://espacio.fundaciontelefonica.com/talleres-para-familias/
+Se ha comprobado: 2026-11-09
+
+### L946 · Espacio Fundación Telefónica · ¿Quién ha inventado esto?
+
+Lugar: España · Madrid
+Fecha: 2026-11-15 — 2026-11-15
+edad: Menores de 6–12 años con un adulto. Máximo 2 adultos por familia.
+Matvey: Condicional. La edad encaja. Confirmar el idioma y la plaza.
+Oscar: Condicional. La edad encaja. Confirmar el idioma y la plaza.
+formato: workshop
+Idioma: Los materiales se publican en español. Confirmar el idioma hablado del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: La organización indica que este pase está completo.
+Limitaciones: La visita libre a la exposición tiene un régimen de acceso aparte.
+Fuente: https://espacio.fundaciontelefonica.com/evento/heroes-anonimos-y-no-tan-anonimos-de-la-historia-de-las-telecomunicaciones/
+Se ha comprobado: 2026-11-09
+
+### L947 · Espacio Fundación Telefónica · ¿Verdad o bulo?
+
+Lugar: España · Madrid
+Fecha: 2026-11-14 — 2026-11-14
+edad: Menores de 6–12 años con un adulto. Máximo 2 adultos por familia.
+Matvey: Condicional. La edad encaja. Confirmar el idioma y la plaza.
+Oscar: Condicional. La edad encaja. Confirmar el idioma y la plaza.
+formato: workshop
+Idioma: Los materiales se publican en español. Confirmar el idioma hablado del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Reserva previa gratuita en la página de la organización. La plaza se confirma por separado.
+Limitaciones: Fecha confirmada. La cabecera indica 11:30–13:45 y la descripción 11:30–12:45. Verificar la hora final en la confirmación de reserva.
+Fuente: https://espacio.fundaciontelefonica.com/evento/verdad-o-bulo-un-reto-para-toda-la-familia/
+Se ha comprobado: 2026-11-09
+
+### L948 · Espacio Fundación Telefónica · Iniciación a la robótica
+
+Lugar: España · Madrid
+Fecha: Ciclo los sábados en 2026–27, 16:00–18:00. Las sesiones publicadas del 26 de septiembre y 31 de octubre de 2026 ya pasaron. Sin próxima fecha publicada.
+Edad: 9–13 años.
+Matvey: Condicional. La edad encaja. Confirmar el idioma y la plaza.
+Oscar: No cumple la edad mínima de este grupo.
+formato: workshop
+Idioma: Los materiales se publican en español. Confirmar el idioma hablado del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Reserva previa gratuita en la página de la organización. La plaza se confirma por separado.
+Limitaciones: Si el menor asiste sin adulto, se requiere autorización de la madre, padre o tutor.
+Fuente: https://espacio.fundaciontelefonica.com/evento/taller-introduccion-a-la-robotica/
+Se ha comprobado: 2026-11-09
+
+### L949 · Espacio Fundación Telefónica · Programación de videojuegos
+
+Lugar: España · Madrid
+Fecha: 2026-11-14 — 2026-11-14
+edad: El ciclo general es para 9–18 años. La organización no identifica el grupo de edad de la sesión del 14 de noviembre.
+Matvey: El ciclo general es para 9–18 años. La organización no identifica el grupo de edad de la sesión del 14 de noviembre.
+Oscar: No cumple la edad mínima de este grupo.
+formato: workshop
+Idioma: Los materiales se publican en español. Confirmar el idioma hablado del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: La organización indica que este pase está completo.
+Limitaciones: Si el menor asiste sin adulto, se requiere autorización de la madre, padre o tutor.
+Fuente: https://espacio.fundaciontelefonica.com/evento/taller-iniciacion-a-la-programacion-de-videojuegos/
+Se ha comprobado: 2026-11-09
+
+### L950 · Espacio Fundación Telefónica · ¡Tú eres el algoritmo!
+
+Lugar: España · Madrid
+Fecha: Reserva gratuita para grupos escolares. Dura 75 minutos y se ofrece desde el 3 de noviembre de 2026. El día depende del acuerdo con el colegio.
+edad: Grupos escolares de 1.º a 6.º de Primaria.
+Matvey: Condicional. Cotejar el curso y gestionar la reserva a través del colegio.
+Oscar: Condicional. Cotejar el curso y gestionar la reserva a través del colegio.
+formato: school_workshop
+Idioma: Los materiales se publican en español. Confirmar el idioma hablado del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Reserva gratuita para grupos escolares. Dura 75 minutos y se ofrece desde el 3 de noviembre de 2026. El día depende del acuerdo con el colegio.
+Limitaciones: Algoritmos sin pantallas. Los niños representan robots, ordenan instrucciones y corrigen errores.
+Fuente: https://espacio.fundaciontelefonica.com/talleres-del-espacio/publico-escolar/
+Se ha comprobado: 2026-11-09
+
+### L951 · Espacio Fundación Telefónica · Inventores del futuro
+
+Lugar: España · Madrid
+Fecha: Reserva gratuita para grupos escolares. Dura 75 minutos y se ofrece desde el 3 de noviembre de 2026. El día depende del acuerdo con el colegio.
+edad: Grupos escolares de 1.º a 6.º de Primaria.
+Matvey: Condicional. Cotejar el curso y gestionar la reserva a través del colegio.
+Oscar: Condicional. Cotejar el curso y gestionar la reserva a través del colegio.
+formato: school_workshop
+Idioma: Los materiales se publican en español. Confirmar el idioma hablado del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: Gratuito.
+Acceso: Reserva gratuita para grupos escolares. Dura 75 minutos y se ofrece desde el 3 de noviembre de 2026. El día depende del acuerdo con el colegio.
+Limitaciones: Diseño y creación de prototipos para ciudades más sostenibles. Retos de los habitantes y del entorno.
+Fuente: https://espacio.fundaciontelefonica.com/talleres-del-espacio/publico-escolar/
+Se ha comprobado: 2026-11-09
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -89236,6 +89364,38 @@ Precio: 2027 · Hasta el 4 de junio de 2027, una semana cuesta 315 EUR para el p
 Acceso: La edad encaja. Confirmar español hablado, plazas y realización del turno elegido.
 Limitaciones: Matvey: La edad encaja. Confirmar español hablado, plazas y realización del turno elegido. Oscar: La edad encaja. Confirmar español hablado, plazas y realización del turno elegido. Suplementos: El 50% de descuento se aplica a plazas adicionales, segunda semana o familias de Mingorría. Los descuentos no se acumulan. Para 7 cargos desde noviembre, el mandato se presenta hasta el 23 de noviembre de 2026 inclusive. Pago: Si se cancela un turno, el operador ofrece otro si hay plaza o un reembolso. Aún se confirman seguro y punto exacto de subida al autobús.
 Fuente: https://roboticole.com/campamentos/mingorria-2027
+Se ha comprobado: 2026-11-09
+
+### CP2265-20261223-20270108-morning · Genios Retiro · Diseñadores de una Navidad Extraordinaria · Días sueltos · hasta las 14:00 · 2026-12-23–2027-01-08
+
+Lugar: España · Madrid · Plaza del Doctor Laguna 11
+Fecha: 2026-12-23 — 2027-01-08
+edad: 3–12 años. Grupos separados por edad.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales se publican en español. Confirmar el idioma hablado del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 30 EUR por día. El segundo menor con descuento paga 27 EUR, para dos 57 EUR. · suplementos y condiciones en el dossier
+Acceso: La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento.
+Limitaciones: Matvey: La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento. Oscar: La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento. Suplementos: La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://geniosretiro.com/campamentos/campamento-de-navidad/
+Se ha comprobado: 2026-11-09
+
+### CP2265-20261223-20270108-full-day · Genios Retiro · Diseñadores de una Navidad Extraordinaria · Días sueltos · hasta las 17:00 · 2026-12-23–2027-01-08
+
+Lugar: España · Madrid · Plaza del Doctor Laguna 11
+Fecha: 2026-12-23 — 2027-01-08
+edad: 3–12 años. Grupos separados por edad.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Los materiales se publican en español. Confirmar el idioma hablado del grupo concreto.
+Marca de idioma: materials; apoyo: no declarado
+Precio: 2026/27 · 50 EUR por día con comida. El segundo menor con descuento paga 45 EUR, para dos 95 EUR. · suplementos y condiciones en el dossier
+Acceso: La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento.
+Limitaciones: Matvey: La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento. Oscar: La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento. Suplementos: La edad encaja. Confirmar idioma del grupo, plazas en el día elegido y aplicación del descuento. Pago: Confirmar el coste final y las condiciones de devolución con la organización.
+Fuente: https://geniosretiro.com/campamentos/campamento-de-navidad/
 Se ha comprobado: 2026-11-09
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
